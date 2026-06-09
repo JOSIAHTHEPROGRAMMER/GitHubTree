@@ -1,146 +1,146 @@
 [
   {
-    "repo": "threeorz1027-svg/quiztube",
-    "branch": "main",
-    "language": "HTML",
-    "description": ""
-  },
-  {
-    "repo": "evanklem/evanflow",
-    "branch": "main",
-    "language": "Shell",
-    "description": "A TDD-driven iterative feedback loop for software development. 16 cohesive Claude Code skills walk an idea from brainstorm → plan → execute → iterate, with checkpoints throughout."
-  },
-  {
-    "repo": "ps5-linux/ps5-linux-loader",
-    "branch": "main",
-    "language": "C",
-    "description": "Linux payload implementing the HV exploit and a custom bootloader"
-  },
-  {
-    "repo": "outcomeops/context-engineering",
+    "repo": "finvfamily/finshare",
     "branch": "main",
     "language": "Python",
-    "description": ""
+    "description": "专业的金融数据获取工具库 - A Professional Financial Data Fetching Toolkit for   Python"
   },
   {
-    "repo": "amanning3390/deepswarm",
-    "branch": "main",
-    "language": "Python",
-    "description": ""
-  },
-  {
-    "repo": "zhouxiyu1997/friendmaker",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Friend Maker is a macOS/Windows toolkit for turning images into pixel grids and ESP32 controller scripts, enabling automatic drawing on Nintendo Switch in Tomodachi Life and related workflows."
-  },
-  {
-    "repo": "nooncheetahstart/Kahoot-tools-AI",
-    "branch": "main",
-    "language": "Python",
-    "description": "Kahoot || Kahoot helper || Kahoot tools || Kahoot ai"
-  },
-  {
-    "repo": "amirshaker000/netlify-relay",
+    "repo": "wbenny/scfw",
     "branch": "master",
-    "language": "JavaScript",
-    "description": ""
+    "language": "C++",
+    "description": "A cross-platform C++ framework for building Windows shellcode"
   },
   {
-    "repo": "actions/setup-python",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Set up your GitHub Actions workflow with a specific version of Python"
-  },
-  {
-    "repo": "dievus/ADPulse",
-    "branch": "main",
-    "language": "Python",
-    "description": "Active Directory Vulnerability Scanner"
-  },
-  {
-    "repo": "ForecastForge/binance-trading-bot",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "binance trading bot · binance bot · binance AI trading bot · binance automated trading bot · binance auto trading bot · binance crypto trading bot · binance futures trading bot · binance spot trading bot · binance grid trading bot · binance bot strategy"
-  },
-  {
-    "repo": "yzhao062/anywhere-agents",
-    "branch": "main",
-    "language": "Python",
-    "description": "One config to rule all your AI agents: portable (every project, every session), effective (curated writing, routing, skills), and safer (destructive-command guard)."
-  },
-  {
-    "repo": "charlie947/social-media-skills",
-    "branch": "main",
-    "language": "Shell",
-    "description": ""
-  },
-  {
-    "repo": "nuxt/nuxt",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "The Full-Stack Vue Framework."
-  },
-  {
-    "repo": "Tsukamg/polymarket-weather-trading-engine",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "polymarket weather trading engine, polymarket weather trading bot, polymarket weather bot polymarket weather trading engine, polymarket weather trading bot, polymarket weather bot polymarket weather trading engine, polymarket weather trading bot, polymarket weather bot polymarket weather trading engine, polymarket weather trading bot"
-  },
-  {
-    "repo": "ckpxgfnksd-max/uap-release-analyzer",
-    "branch": "main",
-    "language": "Python",
-    "description": "A Claude skill for analyzing tranches of declassified UAP/UFO documents (war.gov PURSUE, FBI Vault, NARA, AARO). Inventory + text extraction + entity surfacing + standardized 11-section REPORT.md."
-  },
-  {
-    "repo": "Sayhi-bzb/AIEden",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "an LLM-native world and civilization"
-  },
-  {
-    "repo": "ComposioHQ/secure-openclaw",
+    "repo": "ruanyf/weekly",
     "branch": "master",
-    "language": "JavaScript",
-    "description": "A personal 24x7 AI assistant like OpenClaw that runs on your messaging platforms. Send a message on WhatsApp, Telegram, Signal, or iMessage and get responses from Claude with full tool access, persistent memory, scheduled reminders, and integrations with 500+ apps."
+    "language": "Other",
+    "description": "科技爱好者周刊，每周五发布"
   },
   {
-    "repo": "hydra-node/polymarket-weather-bot",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Polymarket weather trading bot Polymarket weather betting bot Polymarket weather trading bot Polymarket weather betting bot Polymarket weather trading bot Polymarket weather betting bot Polymarket weather trading bot Polymarket weather betting bot Polymarket weather trading bot Polymarket weather betting bot Polymarket weather trading bot"
-  },
-  {
-    "repo": "Szili1994/create-aeronautics-minecraft-mod",
-    "branch": "main",
-    "language": "Java",
-    "description": "aeronautics create minecraft mod github modrinth curseforge create addon sable physics engine simulated offroad airships planes drones vehicles contraptions neoforge forge 1.21.1 1.20.1 download latest version 2026 setup guide tutorial release free multiplayer server performance optimization fps fix error crash**"
-  },
-  {
-    "repo": "hieunc229/mailflare",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Email client with custom domain based on Cloudflare"
-  },
-  {
-    "repo": "element-hq/element-web",
+    "repo": "matrix-org/synapse",
     "branch": "develop",
-    "language": "TypeScript",
-    "description": "A glossy Matrix collaboration client for the web."
+    "language": "Python",
+    "description": "Synapse: Matrix homeserver written in Python/Twisted."
   },
   {
-    "repo": "ThisIsDara/mhr-cfw-go",
+    "repo": "qdrant/qdrant",
+    "branch": "master",
+    "language": "Rust",
+    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also available in the cloud https://cloud.qdrant.io/"
+  },
+  {
+    "repo": "TeamStuQ/skill-map",
+    "branch": "master",
+    "language": "HTML",
+    "description": "程序员技能图谱"
+  },
+  {
+    "repo": "paragonie/awesome-appsec",
+    "branch": "master",
+    "language": "PHP",
+    "description": "A curated list of resources for learning about application security"
+  },
+  {
+    "repo": "fluxcd/flux2",
+    "branch": "main",
+    "language": "Go",
+    "description": "Open and extensible continuous delivery solution for Kubernetes. Powered by GitOps Toolkit."
+  },
+  {
+    "repo": "golang/protobuf",
     "branch": "master",
     "language": "Go",
-    "description": "A local proxy that runs on your machine and forwards traffic through Google."
+    "description": "Go support for Google's protocol buffers"
   },
   {
-    "repo": "Stellarwolf001/forza-horizon-6-spotify-radio",
-    "branch": "main",
+    "repo": "wasabeef/awesome-android-ui",
+    "branch": "master",
+    "language": "Other",
+    "description": "A curated list of awesome Android UI/UX libraries"
+  },
+  {
+    "repo": "material-components/material-components-web",
+    "branch": "master",
     "language": "TypeScript",
-    "description": "forza horizon 6 spotify radio FH 6 spotify radio  mod download nexus mods github bigjohn0 spotify radio steam epic games xbox ps5"
+    "description": "Modular and customizable Material Design UI components for the web"
+  },
+  {
+    "repo": "lodash/lodash",
+    "branch": "master",
+    "language": "JavaScript",
+    "description": "A modern JavaScript utility library delivering modularity, performance, & extras."
+  },
+  {
+    "repo": "CSSEGISandData/COVID-19",
+    "branch": "master",
+    "language": "Other",
+    "description": "Novel Coronavirus (COVID-19) Cases, provided by JHU CSSE"
+  },
+  {
+    "repo": "cortexproject/cortex",
+    "branch": "master",
+    "language": "Go",
+    "description": "A horizontally scalable, highly available, multi-tenant, long term Prometheus."
+  },
+  {
+    "repo": "cri-o/cri-o",
+    "branch": "main",
+    "language": "Go",
+    "description": "Open Container Initiative-based implementation of Kubernetes Container Runtime Interface"
+  },
+  {
+    "repo": "epoko77-ai/im-not-ai",
+    "branch": "main",
+    "language": "Python",
+    "description": "AI가 쓴 글이 아닌 것처럼 윤문해주는 스킬"
+  },
+  {
+    "repo": "Stability-AI/stablediffusion",
+    "branch": "main",
+    "language": "Other",
+    "description": "High-Resolution Image Synthesis with Latent Diffusion Models."
+  },
+  {
+    "repo": "veggiemonk/awesome-docker",
+    "branch": "master",
+    "language": "Other",
+    "description": ":whale: A curated list of Docker resources and projects"
+  },
+  {
+    "repo": "aikorea/awesome-rl",
+    "branch": "master",
+    "language": "Other",
+    "description": "Reinforcement learning resources curated"
+  },
+  {
+    "repo": "udacity/reactnd-contacts-server",
+    "branch": "master",
+    "language": "JavaScript",
+    "description": "The backend server for the in-class Contacts project."
+  },
+  {
+    "repo": "apache/tvm",
+    "branch": "main",
+    "language": "Python",
+    "description": "Open Machine Learning Compiler Framework"
+  },
+  {
+    "repo": "spf13/cobra",
+    "branch": "main",
+    "language": "Go",
+    "description": "A Commander for modern Go CLI interactions"
+  },
+  {
+    "repo": "open-telemetry/opentelemetry-collector",
+    "branch": "main",
+    "language": "Go",
+    "description": "OpenTelemetry Collector"
+  },
+  {
+    "repo": "k3s-io/k3s",
+    "branch": "master",
+    "language": "Go",
+    "description": "Lightweight Kubernetes"
   }
 ]
