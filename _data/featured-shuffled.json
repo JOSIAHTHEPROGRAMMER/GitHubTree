@@ -1,45 +1,27 @@
 [
   {
-    "repo": "Zcy233035/rl-explainer",
+    "repo": "manojmidhul92-art/Umbrella-HWID",
     "branch": "main",
-    "language": "Svelte",
-    "description": "rl-explainer"
+    "language": "C++",
+    "description": "Advanced HWID changer. Bypass Vanguard, EAC, BattlEye, Ricochet. Features: Disk serials spoofing, BIOS/Baseboard UUID change, MAC address randomize, Monitor ID masking. Registry cleaner, trace remover, permanent/temporary mode. Kernel-level protection, one-click spoofer, anti-cheat bypass."
   },
   {
-    "repo": "flannel-io/flannel",
-    "branch": "master",
-    "language": "Go",
-    "description": "flannel is a network fabric for containers, designed for Kubernetes"
-  },
-  {
-    "repo": "embedding-shapes/one-agent-one-browser",
+    "repo": "sharkdp/bat",
     "branch": "master",
     "language": "Rust",
-    "description": "One from scratch browser built by one human and one agent, working hand in hand"
+    "description": "A cat(1) clone with wings."
   },
   {
-    "repo": "vercel-labs/webreel",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Record scripted browser demos as video"
-  },
-  {
-    "repo": "jbhuang0604/awesome-computer-vision",
-    "branch": "master",
-    "language": "Other",
-    "description": "A curated list of awesome computer vision resources"
-  },
-  {
-    "repo": "papers-we-love/papers-we-love",
+    "repo": "pi-hole/pi-hole",
     "branch": "master",
     "language": "Shell",
-    "description": "Papers from the computer science community to read and discuss."
+    "description": "A black hole for Internet advertisements"
   },
   {
-    "repo": "Mathews-Tom/no-magic",
-    "branch": "main",
+    "repo": "freqtrade/freqtrade",
+    "branch": "develop",
     "language": "Python",
-    "description": "Because `model.fit()` isn't an explanation"
+    "description": "Free, open source crypto trading bot"
   },
   {
     "repo": "lance0/xfr",
@@ -48,99 +30,117 @@
     "description": "A modern iperf3 alternative with a live TUI, multi-client server, and QUIC support. Built in Rust."
   },
   {
-    "repo": "mverschu/adwsdomaindump",
-    "branch": "main",
+    "repo": "psf/requests-html",
+    "branch": "master",
     "language": "Python",
-    "description": "Active Directory information dumper via ADWS for evasion purposes."
+    "description": "Pythonic HTML Parsing for Humans™"
   },
   {
-    "repo": "jayminwest/overstory",
+    "repo": "hehehai/voxt",
+    "branch": "main",
+    "language": "Swift",
+    "description": "[Beta] Voice input and translation app for macOS. Press to talk, release to paste."
+  },
+  {
+    "repo": "lobehub/lobe-chat",
     "branch": "main",
     "language": "TypeScript",
-    "description": "Project-agnostic swarm system for Claude Code agent orchestration"
+    "description": "🤯 LobeHub - an open-source, modern design AI Agent Workspace. Supports multiple AI providers, Knowledge Base (file upload / RAG ), one click install MCP Marketplace and Artifacts / Thinking. One-click FREE deployment of your private AI Agent application."
   },
   {
-    "repo": "requests/requests",
+    "repo": "mysqljs/mysql",
+    "branch": "master",
+    "language": "JavaScript",
+    "description": "A pure node.js JavaScript Client implementing the MySQL protocol."
+  },
+  {
+    "repo": "fastai/course-v3",
+    "branch": "master",
+    "language": "Jupyter Notebook",
+    "description": "The 3rd edition of course.fast.ai"
+  },
+  {
+    "repo": "facebookresearch/audiocraft",
+    "branch": "main",
+    "language": "Jupyter Notebook",
+    "description": "Audiocraft is a library for audio processing and generation with deep learning. It features the state-of-the-art EnCodec audio compressor / tokenizer, along with MusicGen, a simple and controllable music generation LM with textual and melodic conditioning."
+  },
+  {
+    "repo": "test-time-training/ttt-video-dit",
     "branch": "main",
     "language": "Python",
-    "description": "A simple, yet elegant, HTTP library."
+    "description": "Official PyTorch implementation of One-Minute Video Generation with Test-Time Training"
   },
   {
-    "repo": "facebook/react",
+    "repo": "openai/sora-prompt-engineering-guide",
     "branch": "main",
-    "language": "JavaScript",
-    "description": "The library for web and native user interfaces."
+    "language": "Other",
+    "description": "Guide for prompt engineering for video generation with Sora."
   },
   {
-    "repo": "opencontainers/runc",
+    "repo": "UnrealXu/UnrealEngine5-Skills",
+    "branch": "main",
+    "language": "Python",
+    "description": ""
+  },
+  {
+    "repo": "danielmiessler/fabric",
     "branch": "main",
     "language": "Go",
-    "description": "CLI tool for spawning and running containers according to the OCI specification"
+    "description": "Fabric is an open-source framework for augmenting humans using AI. It provides a modular system for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere."
   },
   {
-    "repo": "google/googletest",
+    "repo": "payloadcms/payload",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Payload is the open-source, fullstack Next.js framework, giving you instant backend superpowers. Get a full TypeScript backend and admin panel instantly. Use Payload as a headless CMS or for building powerful applications."
+  },
+  {
+    "repo": "keepassxreboot/keepassxc",
+    "branch": "develop",
+    "language": "C++",
+    "description": "KeePassXC is a cross-platform community-driven port of the Windows application “KeePass Password Safe”."
+  },
+  {
+    "repo": "xiaotianfotos/skills",
+    "branch": "main",
+    "language": "Python",
+    "description": "视频中分享的方法论代码参考"
+  },
+  {
+    "repo": "pmndrs/drei",
+    "branch": "master",
+    "language": "JavaScript",
+    "description": "🥉 useful helpers for react-three-fiber"
+  },
+  {
+    "repo": "Zephkek/XStoreUnlocker",
     "branch": "main",
     "language": "C++",
-    "description": "GoogleTest - Google Testing and Mocking Framework"
+    "description": "DLC unlocker for Microsoft Store and Xbox PC games."
   },
   {
-    "repo": "openclarity/kubeclarity",
-    "branch": "main",
-    "language": "Go",
-    "description": "KubeClarity is a tool for detection and management of Software Bill Of Materials (SBOM) and vulnerabilities of container images and filesystems"
-  },
-  {
-    "repo": "rubygems/rubygems",
+    "repo": "expressjs/express",
     "branch": "master",
-    "language": "Ruby",
-    "description": "Library packaging and distribution for Ruby."
+    "language": "JavaScript",
+    "description": "Fast, unopinionated, minimalist web framework for node."
   },
   {
-    "repo": "hashicorp/packer",
-    "branch": "main",
-    "language": "Go",
-    "description": "Packer is a tool for creating identical machine images for multiple platforms from a single source configuration."
-  },
-  {
-    "repo": "shadowsocks/shadowsocks-windows",
-    "branch": "master",
-    "language": "C#",
-    "description": "A C# port of shadowsocks"
-  },
-  {
-    "repo": "Nasiko-Labs/nasiko",
-    "branch": "main",
-    "language": "Python",
-    "description": "AI-powered development platform for the future"
-  },
-  {
-    "repo": "nats-io/nats-server",
-    "branch": "main",
-    "language": "Go",
-    "description": "High-Performance server for NATS.io, the cloud and edge native messaging system."
-  },
-  {
-    "repo": "vuetifyjs/vuetify",
+    "repo": "electron-userland/electron-builder",
     "branch": "master",
     "language": "TypeScript",
-    "description": "🐉 Vue Component Framework"
+    "description": "A complete solution to package and build a ready for distribution Electron app with “auto update” support out of the box"
   },
   {
-    "repo": "JuliaLang/julia",
+    "repo": "nestjs/nest",
     "branch": "master",
-    "language": "Julia",
-    "description": "The Julia Programming Language"
+    "language": "TypeScript",
+    "description": "A progressive Node.js framework for building efficient, scalable, and enterprise-grade server-side applications with TypeScript/JavaScript 🚀"
   },
   {
-    "repo": "open-policy-agent/opa",
-    "branch": "main",
-    "language": "Go",
-    "description": "Open Policy Agent (OPA) is an open source, general-purpose policy engine."
-  },
-  {
-    "repo": "agenticnotetaking/arscontexta",
-    "branch": "main",
-    "language": "Shell",
-    "description": "Claude Code plugin that generates individualized knowledge systems from conversation. You describe how you think and work, have a conversation and get a complete second brain as markdown files you own."
+    "repo": "fastai/fastbook",
+    "branch": "master",
+    "language": "Jupyter Notebook",
+    "description": "The fastai book, published as Jupyter Notebooks"
   }
 ]
