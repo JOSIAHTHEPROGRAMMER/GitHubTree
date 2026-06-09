@@ -1,146 +1,146 @@
 [
   {
-    "repo": "finvfamily/finshare",
+    "repo": "Zcy233035/rl-explainer",
     "branch": "main",
-    "language": "Python",
-    "description": "专业的金融数据获取工具库 - A Professional Financial Data Fetching Toolkit for   Python"
+    "language": "Svelte",
+    "description": "rl-explainer"
   },
   {
-    "repo": "wbenny/scfw",
+    "repo": "flannel-io/flannel",
     "branch": "master",
-    "language": "C++",
-    "description": "A cross-platform C++ framework for building Windows shellcode"
+    "language": "Go",
+    "description": "flannel is a network fabric for containers, designed for Kubernetes"
   },
   {
-    "repo": "ruanyf/weekly",
-    "branch": "master",
-    "language": "Other",
-    "description": "科技爱好者周刊，每周五发布"
-  },
-  {
-    "repo": "matrix-org/synapse",
-    "branch": "develop",
-    "language": "Python",
-    "description": "Synapse: Matrix homeserver written in Python/Twisted."
-  },
-  {
-    "repo": "qdrant/qdrant",
+    "repo": "embedding-shapes/one-agent-one-browser",
     "branch": "master",
     "language": "Rust",
-    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also available in the cloud https://cloud.qdrant.io/"
+    "description": "One from scratch browser built by one human and one agent, working hand in hand"
   },
   {
-    "repo": "TeamStuQ/skill-map",
-    "branch": "master",
-    "language": "HTML",
-    "description": "程序员技能图谱"
-  },
-  {
-    "repo": "paragonie/awesome-appsec",
-    "branch": "master",
-    "language": "PHP",
-    "description": "A curated list of resources for learning about application security"
-  },
-  {
-    "repo": "fluxcd/flux2",
+    "repo": "vercel-labs/webreel",
     "branch": "main",
-    "language": "Go",
-    "description": "Open and extensible continuous delivery solution for Kubernetes. Powered by GitOps Toolkit."
+    "language": "TypeScript",
+    "description": "Record scripted browser demos as video"
   },
   {
-    "repo": "golang/protobuf",
-    "branch": "master",
-    "language": "Go",
-    "description": "Go support for Google's protocol buffers"
-  },
-  {
-    "repo": "wasabeef/awesome-android-ui",
+    "repo": "jbhuang0604/awesome-computer-vision",
     "branch": "master",
     "language": "Other",
-    "description": "A curated list of awesome Android UI/UX libraries"
+    "description": "A curated list of awesome computer vision resources"
   },
   {
-    "repo": "material-components/material-components-web",
+    "repo": "papers-we-love/papers-we-love",
+    "branch": "master",
+    "language": "Shell",
+    "description": "Papers from the computer science community to read and discuss."
+  },
+  {
+    "repo": "Mathews-Tom/no-magic",
+    "branch": "main",
+    "language": "Python",
+    "description": "Because `model.fit()` isn't an explanation"
+  },
+  {
+    "repo": "lance0/xfr",
+    "branch": "master",
+    "language": "Rust",
+    "description": "A modern iperf3 alternative with a live TUI, multi-client server, and QUIC support. Built in Rust."
+  },
+  {
+    "repo": "mverschu/adwsdomaindump",
+    "branch": "main",
+    "language": "Python",
+    "description": "Active Directory information dumper via ADWS for evasion purposes."
+  },
+  {
+    "repo": "jayminwest/overstory",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Project-agnostic swarm system for Claude Code agent orchestration"
+  },
+  {
+    "repo": "requests/requests",
+    "branch": "main",
+    "language": "Python",
+    "description": "A simple, yet elegant, HTTP library."
+  },
+  {
+    "repo": "facebook/react",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "The library for web and native user interfaces."
+  },
+  {
+    "repo": "opencontainers/runc",
+    "branch": "main",
+    "language": "Go",
+    "description": "CLI tool for spawning and running containers according to the OCI specification"
+  },
+  {
+    "repo": "google/googletest",
+    "branch": "main",
+    "language": "C++",
+    "description": "GoogleTest - Google Testing and Mocking Framework"
+  },
+  {
+    "repo": "openclarity/kubeclarity",
+    "branch": "main",
+    "language": "Go",
+    "description": "KubeClarity is a tool for detection and management of Software Bill Of Materials (SBOM) and vulnerabilities of container images and filesystems"
+  },
+  {
+    "repo": "rubygems/rubygems",
+    "branch": "master",
+    "language": "Ruby",
+    "description": "Library packaging and distribution for Ruby."
+  },
+  {
+    "repo": "hashicorp/packer",
+    "branch": "main",
+    "language": "Go",
+    "description": "Packer is a tool for creating identical machine images for multiple platforms from a single source configuration."
+  },
+  {
+    "repo": "shadowsocks/shadowsocks-windows",
+    "branch": "master",
+    "language": "C#",
+    "description": "A C# port of shadowsocks"
+  },
+  {
+    "repo": "Nasiko-Labs/nasiko",
+    "branch": "main",
+    "language": "Python",
+    "description": "AI-powered development platform for the future"
+  },
+  {
+    "repo": "nats-io/nats-server",
+    "branch": "main",
+    "language": "Go",
+    "description": "High-Performance server for NATS.io, the cloud and edge native messaging system."
+  },
+  {
+    "repo": "vuetifyjs/vuetify",
     "branch": "master",
     "language": "TypeScript",
-    "description": "Modular and customizable Material Design UI components for the web"
+    "description": "🐉 Vue Component Framework"
   },
   {
-    "repo": "lodash/lodash",
+    "repo": "JuliaLang/julia",
     "branch": "master",
-    "language": "JavaScript",
-    "description": "A modern JavaScript utility library delivering modularity, performance, & extras."
+    "language": "Julia",
+    "description": "The Julia Programming Language"
   },
   {
-    "repo": "CSSEGISandData/COVID-19",
-    "branch": "master",
-    "language": "Other",
-    "description": "Novel Coronavirus (COVID-19) Cases, provided by JHU CSSE"
-  },
-  {
-    "repo": "cortexproject/cortex",
-    "branch": "master",
-    "language": "Go",
-    "description": "A horizontally scalable, highly available, multi-tenant, long term Prometheus."
-  },
-  {
-    "repo": "cri-o/cri-o",
+    "repo": "open-policy-agent/opa",
     "branch": "main",
     "language": "Go",
-    "description": "Open Container Initiative-based implementation of Kubernetes Container Runtime Interface"
+    "description": "Open Policy Agent (OPA) is an open source, general-purpose policy engine."
   },
   {
-    "repo": "epoko77-ai/im-not-ai",
+    "repo": "agenticnotetaking/arscontexta",
     "branch": "main",
-    "language": "Python",
-    "description": "AI가 쓴 글이 아닌 것처럼 윤문해주는 스킬"
-  },
-  {
-    "repo": "Stability-AI/stablediffusion",
-    "branch": "main",
-    "language": "Other",
-    "description": "High-Resolution Image Synthesis with Latent Diffusion Models."
-  },
-  {
-    "repo": "veggiemonk/awesome-docker",
-    "branch": "master",
-    "language": "Other",
-    "description": ":whale: A curated list of Docker resources and projects"
-  },
-  {
-    "repo": "aikorea/awesome-rl",
-    "branch": "master",
-    "language": "Other",
-    "description": "Reinforcement learning resources curated"
-  },
-  {
-    "repo": "udacity/reactnd-contacts-server",
-    "branch": "master",
-    "language": "JavaScript",
-    "description": "The backend server for the in-class Contacts project."
-  },
-  {
-    "repo": "apache/tvm",
-    "branch": "main",
-    "language": "Python",
-    "description": "Open Machine Learning Compiler Framework"
-  },
-  {
-    "repo": "spf13/cobra",
-    "branch": "main",
-    "language": "Go",
-    "description": "A Commander for modern Go CLI interactions"
-  },
-  {
-    "repo": "open-telemetry/opentelemetry-collector",
-    "branch": "main",
-    "language": "Go",
-    "description": "OpenTelemetry Collector"
-  },
-  {
-    "repo": "k3s-io/k3s",
-    "branch": "master",
-    "language": "Go",
-    "description": "Lightweight Kubernetes"
+    "language": "Shell",
+    "description": "Claude Code plugin that generates individualized knowledge systems from conversation. You describe how you think and work, have a conversation and get a complete second brain as markdown files you own."
   }
 ]
