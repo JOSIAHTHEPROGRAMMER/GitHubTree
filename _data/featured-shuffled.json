@@ -1,111 +1,15 @@
 [
   {
-    "repo": "charlie947/social-media-skills",
-    "branch": "main",
-    "language": "Shell",
-    "description": ""
-  },
-  {
-    "repo": "BytePioneer-AI/moltbot-china",
+    "repo": "thisishowen-spec/eatlah",
     "branch": "main",
     "language": "TypeScript",
-    "description": "Clawdbot/OpenClaw中国插件：支持飞书，钉钉，QQ，企业微信"
+    "description": "Snap menu, Start QR orders. AI powered QR ordering for hawker stalls, small restaurants, and independent food businesses. 五分钟上线点餐系统"
   },
   {
-    "repo": "asdf-vm/asdf",
+    "repo": "sqlmapproject/sqlmap",
     "branch": "master",
-    "language": "Go",
-    "description": "Extendable version manager with support for Ruby, Node.js, Elixir, Erlang & more"
-  },
-  {
-    "repo": "v2fly/v2ray-core",
-    "branch": "master",
-    "language": "Go",
-    "description": "A platform for building proxies to bypass network restrictions."
-  },
-  {
-    "repo": "XTLS/Xray-core",
-    "branch": "main",
-    "language": "Go",
-    "description": "Xray, Penetrates Everything. Also the best v2ray-core. Where the magic happens. An open platform for various uses."
-  },
-  {
-    "repo": "espressif/arduino-esp32",
-    "branch": "master",
-    "language": "C++",
-    "description": "Arduino core for the ESP32"
-  },
-  {
-    "repo": "rayon-rs/rayon",
-    "branch": "master",
-    "language": "Rust",
-    "description": "Rayon: A data parallelism library for Rust"
-  },
-  {
-    "repo": "jesseduffield/lazygit",
-    "branch": "master",
-    "language": "Go",
-    "description": "simple terminal UI for git commands"
-  },
-  {
-    "repo": "cheeriojs/cheerio",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "The fast, flexible, and elegant library for parsing and manipulating HTML and XML."
-  },
-  {
-    "repo": "alibaba/FunASR",
-    "branch": "main",
     "language": "Python",
-    "description": "A Fundamental End-to-End Speech Recognition Toolkit and Open Source SOTA Pretrained Models, Supporting Speech Recognition, Voice Activity Detection, Text Post-processing etc."
-  },
-  {
-    "repo": "openai/point-e",
-    "branch": "main",
-    "language": "Python",
-    "description": "Point cloud diffusion for 3D model synthesis"
-  },
-  {
-    "repo": "GabagoolisLive/polymarket-copytrading-bot-vvvvvvvvvvvv",
-    "branch": "main",
-    "language": "Rust",
-    "description": "Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot Polymarket copy Trading Bot"
-  },
-  {
-    "repo": "spring-projects/spring-security",
-    "branch": "main",
-    "language": "Java",
-    "description": "Spring Security"
-  },
-  {
-    "repo": "actions/virtual-environments",
-    "branch": "main",
-    "language": "PowerShell",
-    "description": "GitHub Actions runner images"
-  },
-  {
-    "repo": "daymonio/daymon",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Daymon puts your favorite AI to work 24/7. It schedules, remembers, and orchestrates your own virtual team. Free."
-  },
-  {
-    "repo": "snarktank/compound-product",
-    "branch": "main",
-    "language": "Shell",
-    "description": "A self-improving product system that reads reports, identifies priorities, and autonomously implements fixes"
-  },
-  {
-    "repo": "puppeteer/puppeteer",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "JavaScript API for Chrome and Firefox"
-  },
-  {
-    "repo": "peteromallet/dataclaw",
-    "branch": "main",
-    "language": "Python",
-    "description": ""
+    "description": "Automatic SQL injection and database takeover tool"
   },
   {
     "repo": "vaneenige/monochrome-ui",
@@ -114,10 +18,64 @@
     "description": "Accessible UI component library. Best performance out of the box. HTML first, React supported."
   },
   {
-    "repo": "mverschu/adwsdomaindump",
+    "repo": "qwikverse/qwik",
+    "branch": "main",
+    "language": "Other",
+    "description": "The HTML-first framework. Instant apps of any size with ~ 1kb JS"
+  },
+  {
+    "repo": "MeisnerDan/mission-control",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Open-source task management for the agentic era. The command center for solo entrepreneurs who delegate work to AI agents."
+  },
+  {
+    "repo": "kubernetes/minikube",
+    "branch": "master",
+    "language": "Go",
+    "description": "Run Kubernetes locally"
+  },
+  {
+    "repo": "THUDM/CogVLM",
     "branch": "main",
     "language": "Python",
-    "description": "Active Directory information dumper via ADWS for evasion purposes."
+    "description": "a state-of-the-art-level open visual language model | 多模态预训练模型"
+  },
+  {
+    "repo": "slidevjs/slidev",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Presentation Slides for Developers"
+  },
+  {
+    "repo": "junit-team/junit4",
+    "branch": "main",
+    "language": "Java",
+    "description": "A programmer-oriented testing framework for Java — :warning: maintenance mode"
+  },
+  {
+    "repo": "massgravel/Microsoft-Activation-Scripts",
+    "branch": "master",
+    "language": "Batchfile",
+    "description": "Open-source Windows and Office activator featuring HWID, Ohook, TSforge, and Online KMS activation methods, along with advanced troubleshooting."
+  },
+  {
+    "repo": "asdf-vm/asdf",
+    "branch": "master",
+    "language": "Go",
+    "description": "Extendable version manager with support for Ruby, Node.js, Elixir, Erlang & more"
+  },
+  {
+    "repo": "huggingface/trl",
+    "branch": "main",
+    "language": "Python",
+    "description": "Train transformer language models with reinforcement learning."
+  },
+  {
+    "repo": "apple/swift-nio",
+    "branch": "main",
+    "language": "Swift",
+    "description": "Event-driven network application framework for high performance protocol servers & clients, non-blocking."
   },
   {
     "repo": "yargs/yargs",
@@ -126,21 +84,63 @@
     "description": "yargs the modern, pirate-themed successor to optimist."
   },
   {
-    "repo": "yearn/yearn-finance",
+    "repo": "MoonshotAI/Kimi-VL",
+    "branch": "main",
+    "language": "Other",
+    "description": "Kimi-VL: Mixture-of-Experts Vision-Language Model for Multimodal Reasoning, Long-Context Understanding, and Strong Agent Capabilities"
+  },
+  {
+    "repo": "google/material-design-icons",
     "branch": "master",
+    "language": "Other",
+    "description": "Material Design icons by Google (Material Symbols)"
+  },
+  {
+    "repo": "amplication/amplication",
+    "branch": "master",
+    "language": "TypeScript",
+    "description": "Amplication brings order to the chaos of large-scale software development by creating Golden Paths for developers - streamlined workflows that drive consistency, enable high-quality code practices, simplify onboarding, and accelerate standardized delivery across teams."
+  },
+  {
+    "repo": "lapce/lapce",
+    "branch": "master",
+    "language": "Rust",
+    "description": "Lightning-fast and Powerful Code Editor written in Rust"
+  },
+  {
+    "repo": "buildpacks/lifecycle",
+    "branch": "main",
+    "language": "Go",
+    "description": "Reference implementation of the Cloud Native Buildpacks lifecycle"
+  },
+  {
+    "repo": "bcurts/agentchattr",
+    "branch": "main",
+    "language": "Python",
+    "description": "Local chat server for real-time autonomous coordination between AI coding agents and humans"
+  },
+  {
+    "repo": "mgks/GitHubTree",
+    "branch": "main",
     "language": "JavaScript",
-    "description": "🏦 yearn v2 web interface"
+    "description": "Visualise any GitHub repository folder structure. Available as a web app, CLI tool, and node.js library."
   },
   {
-    "repo": "kitlangton/tailcode",
+    "repo": "pandas-dev/pandas",
     "branch": "main",
-    "language": "TypeScript",
-    "description": ""
+    "language": "Python",
+    "description": "Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures similar to R data.frame objects, statistical functions, and much more"
   },
   {
-    "repo": "vercel-labs/visual-json",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "The Visual JSON Editor. Schema-aware, embeddable, extensible."
+    "repo": "LineageOS/android",
+    "branch": "lineage-21.0",
+    "language": "Other",
+    "description": "Placeholder repository for LineageOS"
+  },
+  {
+    "repo": "uralbash/awesome-pyramid",
+    "branch": "master",
+    "language": "Other",
+    "description": "A curated list of awesome Pyramid apps, projects and resources."
   }
 ]
