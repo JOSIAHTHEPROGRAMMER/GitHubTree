@@ -1,146 +1,146 @@
 [
   {
-    "repo": "manojmidhul92-art/Umbrella-HWID",
+    "repo": "charlie947/social-media-skills",
     "branch": "main",
-    "language": "C++",
-    "description": "Advanced HWID changer. Bypass Vanguard, EAC, BattlEye, Ricochet. Features: Disk serials spoofing, BIOS/Baseboard UUID change, MAC address randomize, Monitor ID masking. Registry cleaner, trace remover, permanent/temporary mode. Kernel-level protection, one-click spoofer, anti-cheat bypass."
-  },
-  {
-    "repo": "sharkdp/bat",
-    "branch": "master",
-    "language": "Rust",
-    "description": "A cat(1) clone with wings."
-  },
-  {
-    "repo": "pi-hole/pi-hole",
-    "branch": "master",
     "language": "Shell",
-    "description": "A black hole for Internet advertisements"
+    "description": ""
   },
   {
-    "repo": "freqtrade/freqtrade",
-    "branch": "develop",
-    "language": "Python",
-    "description": "Free, open source crypto trading bot"
-  },
-  {
-    "repo": "lance0/xfr",
-    "branch": "master",
-    "language": "Rust",
-    "description": "A modern iperf3 alternative with a live TUI, multi-client server, and QUIC support. Built in Rust."
-  },
-  {
-    "repo": "psf/requests-html",
-    "branch": "master",
-    "language": "Python",
-    "description": "Pythonic HTML Parsing for Humans™"
-  },
-  {
-    "repo": "hehehai/voxt",
-    "branch": "main",
-    "language": "Swift",
-    "description": "[Beta] Voice input and translation app for macOS. Press to talk, release to paste."
-  },
-  {
-    "repo": "lobehub/lobe-chat",
+    "repo": "BytePioneer-AI/moltbot-china",
     "branch": "main",
     "language": "TypeScript",
-    "description": "🤯 LobeHub - an open-source, modern design AI Agent Workspace. Supports multiple AI providers, Knowledge Base (file upload / RAG ), one click install MCP Marketplace and Artifacts / Thinking. One-click FREE deployment of your private AI Agent application."
+    "description": "Clawdbot/OpenClaw中国插件：支持飞书，钉钉，QQ，企业微信"
   },
   {
-    "repo": "mysqljs/mysql",
+    "repo": "asdf-vm/asdf",
     "branch": "master",
-    "language": "JavaScript",
-    "description": "A pure node.js JavaScript Client implementing the MySQL protocol."
+    "language": "Go",
+    "description": "Extendable version manager with support for Ruby, Node.js, Elixir, Erlang & more"
   },
   {
-    "repo": "fastai/course-v3",
+    "repo": "v2fly/v2ray-core",
     "branch": "master",
-    "language": "Jupyter Notebook",
-    "description": "The 3rd edition of course.fast.ai"
+    "language": "Go",
+    "description": "A platform for building proxies to bypass network restrictions."
   },
   {
-    "repo": "facebookresearch/audiocraft",
+    "repo": "XTLS/Xray-core",
     "branch": "main",
-    "language": "Jupyter Notebook",
-    "description": "Audiocraft is a library for audio processing and generation with deep learning. It features the state-of-the-art EnCodec audio compressor / tokenizer, along with MusicGen, a simple and controllable music generation LM with textual and melodic conditioning."
+    "language": "Go",
+    "description": "Xray, Penetrates Everything. Also the best v2ray-core. Where the magic happens. An open platform for various uses."
   },
   {
-    "repo": "test-time-training/ttt-video-dit",
+    "repo": "espressif/arduino-esp32",
+    "branch": "master",
+    "language": "C++",
+    "description": "Arduino core for the ESP32"
+  },
+  {
+    "repo": "rayon-rs/rayon",
+    "branch": "master",
+    "language": "Rust",
+    "description": "Rayon: A data parallelism library for Rust"
+  },
+  {
+    "repo": "jesseduffield/lazygit",
+    "branch": "master",
+    "language": "Go",
+    "description": "simple terminal UI for git commands"
+  },
+  {
+    "repo": "cheeriojs/cheerio",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "The fast, flexible, and elegant library for parsing and manipulating HTML and XML."
+  },
+  {
+    "repo": "alibaba/FunASR",
     "branch": "main",
     "language": "Python",
-    "description": "Official PyTorch implementation of One-Minute Video Generation with Test-Time Training"
+    "description": "A Fundamental End-to-End Speech Recognition Toolkit and Open Source SOTA Pretrained Models, Supporting Speech Recognition, Voice Activity Detection, Text Post-processing etc."
   },
   {
-    "repo": "openai/sora-prompt-engineering-guide",
+    "repo": "openai/point-e",
     "branch": "main",
-    "language": "Other",
-    "description": "Guide for prompt engineering for video generation with Sora."
+    "language": "Python",
+    "description": "Point cloud diffusion for 3D model synthesis"
   },
   {
-    "repo": "UnrealXu/UnrealEngine5-Skills",
+    "repo": "GabagoolisLive/polymarket-copytrading-bot-vvvvvvvvvvvv",
+    "branch": "main",
+    "language": "Rust",
+    "description": "Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot Polymarket copy Trading Bot"
+  },
+  {
+    "repo": "spring-projects/spring-security",
+    "branch": "main",
+    "language": "Java",
+    "description": "Spring Security"
+  },
+  {
+    "repo": "actions/virtual-environments",
+    "branch": "main",
+    "language": "PowerShell",
+    "description": "GitHub Actions runner images"
+  },
+  {
+    "repo": "daymonio/daymon",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Daymon puts your favorite AI to work 24/7. It schedules, remembers, and orchestrates your own virtual team. Free."
+  },
+  {
+    "repo": "snarktank/compound-product",
+    "branch": "main",
+    "language": "Shell",
+    "description": "A self-improving product system that reads reports, identifies priorities, and autonomously implements fixes"
+  },
+  {
+    "repo": "puppeteer/puppeteer",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "JavaScript API for Chrome and Firefox"
+  },
+  {
+    "repo": "peteromallet/dataclaw",
     "branch": "main",
     "language": "Python",
     "description": ""
   },
   {
-    "repo": "danielmiessler/fabric",
-    "branch": "main",
-    "language": "Go",
-    "description": "Fabric is an open-source framework for augmenting humans using AI. It provides a modular system for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere."
-  },
-  {
-    "repo": "payloadcms/payload",
+    "repo": "vaneenige/monochrome-ui",
     "branch": "main",
     "language": "TypeScript",
-    "description": "Payload is the open-source, fullstack Next.js framework, giving you instant backend superpowers. Get a full TypeScript backend and admin panel instantly. Use Payload as a headless CMS or for building powerful applications."
+    "description": "Accessible UI component library. Best performance out of the box. HTML first, React supported."
   },
   {
-    "repo": "keepassxreboot/keepassxc",
-    "branch": "develop",
-    "language": "C++",
-    "description": "KeePassXC is a cross-platform community-driven port of the Windows application “KeePass Password Safe”."
-  },
-  {
-    "repo": "xiaotianfotos/skills",
+    "repo": "mverschu/adwsdomaindump",
     "branch": "main",
     "language": "Python",
-    "description": "视频中分享的方法论代码参考"
+    "description": "Active Directory information dumper via ADWS for evasion purposes."
   },
   {
-    "repo": "pmndrs/drei",
-    "branch": "master",
-    "language": "JavaScript",
-    "description": "🥉 useful helpers for react-three-fiber"
-  },
-  {
-    "repo": "Zephkek/XStoreUnlocker",
+    "repo": "yargs/yargs",
     "branch": "main",
-    "language": "C++",
-    "description": "DLC unlocker for Microsoft Store and Xbox PC games."
+    "language": "JavaScript",
+    "description": "yargs the modern, pirate-themed successor to optimist."
   },
   {
-    "repo": "expressjs/express",
+    "repo": "yearn/yearn-finance",
     "branch": "master",
     "language": "JavaScript",
-    "description": "Fast, unopinionated, minimalist web framework for node."
+    "description": "🏦 yearn v2 web interface"
   },
   {
-    "repo": "electron-userland/electron-builder",
-    "branch": "master",
+    "repo": "kitlangton/tailcode",
+    "branch": "main",
     "language": "TypeScript",
-    "description": "A complete solution to package and build a ready for distribution Electron app with “auto update” support out of the box"
+    "description": ""
   },
   {
-    "repo": "nestjs/nest",
-    "branch": "master",
+    "repo": "vercel-labs/visual-json",
+    "branch": "main",
     "language": "TypeScript",
-    "description": "A progressive Node.js framework for building efficient, scalable, and enterprise-grade server-side applications with TypeScript/JavaScript 🚀"
-  },
-  {
-    "repo": "fastai/fastbook",
-    "branch": "master",
-    "language": "Jupyter Notebook",
-    "description": "The fastai book, published as Jupyter Notebooks"
+    "description": "The Visual JSON Editor. Schema-aware, embeddable, extensible."
   }
 ]

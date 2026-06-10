@@ -1,8 +1,8 @@
 {
-  "repo": "chengtx007/fuckoai",
-  "branch": "main",
+  "repo": "ziqihe10-droid/xuefeng-agent",
+  "branch": "master",
   "language": "Python",
-  "description": "Linux container registration control panel",
-  "stars": 127,
-  "forks": 65
+  "description": "AI 高考志愿顾问 — 会追问、会分析、敢说真话",
+  "stars": 137,
+  "forks": 9
 }
