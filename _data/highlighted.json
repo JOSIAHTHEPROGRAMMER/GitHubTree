@@ -1,8 +1,8 @@
 {
-  "repo": "supperzl/ita",
-  "branch": "main",
+  "repo": "ziqihe10-droid/xuefeng-agent",
+  "branch": "master",
   "language": "Python",
-  "description": "A featured project on GitHubTree.",
-  "stars": 111,
-  "forks": 56
+  "description": "AI 高考志愿顾问 — 会追问、会分析、敢说真话",
+  "stars": 264,
+  "forks": 33
 }
