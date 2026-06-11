@@ -1,8 +1,8 @@
 {
-  "repo": "alfhamdy515-svg/NS-FW-AI-Image-and-Video-Generator-Uncensd",
+  "repo": "ApodexAI/AgentHarness",
   "branch": "main",
-  "language": "C#",
-  "description": "A foundational toolkit for AI-driven image generation, focusing on creative expression and content creation.",
-  "stars": 141,
+  "language": "Python",
+  "description": "Evaluation harness for Apodex-1.0 on public deep-research benchmarks.",
+  "stars": 104,
   "forks": 5
 }
