@@ -1,146 +1,146 @@
 [
   {
-    "repo": "whwangovo/pyre-code",
+    "repo": "AeternaLabsHQ/pullmd",
     "branch": "main",
-    "language": "Python",
-    "description": "A self-hosted ML coding practice platform. 68 problems from ReLU to flow matching — attention, training, RLHF, diffusion, and more. Instant feedback in the browser."
+    "language": "JavaScript",
+    "description": "Self-hosted URL-to-Markdown service for humans and AI agents. PWA + REST + MCP + Claude Code skill, with Reddit support and refreshable share links."
   },
   {
-    "repo": "btahir/react-kino",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Cinematic scroll-driven storytelling for React"
-  },
-  {
-    "repo": "midudev/alg0.dev",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "alg0.dev is an interactive algorithm visualizer where classic algorithms come to life through step by step animations, controls to pause or advance, and access to the underlying code."
-  },
-  {
-    "repo": "mosaxiv/picoclaw",
-    "branch": "main",
-    "language": "Go",
-    "description": "Lightweight Personal AI Assistant (Single Binary, Simple Setup)"
-  },
-  {
-    "repo": "JaredStewart/coderlm",
-    "branch": "main",
-    "language": "Rust",
-    "description": "Tree-sitter-powered code indexing server that gives LLM agents precise, on-demand access to symbols, implementations, callers, tests, and grep across multi-language projects - so they explore codebases through targeted queries instead of loading everything into context."
-  },
-  {
-    "repo": "vibeforge1111/dexscreener-cli-mcp-tool",
-    "branch": "main",
-    "language": "Python",
-    "description": "Visual Dexscreener terminal CLI + MCP scanner"
-  },
-  {
-    "repo": "anthropics/financial-services-plugins",
-    "branch": "main",
-    "language": "Python",
-    "description": ""
-  },
-  {
-    "repo": "FreedomIntelligence/OpenClaw-Medical-Skills",
-    "branch": "main",
-    "language": "Python",
-    "description": "The largest open-source medical AI skills library for OpenClaw🦞."
-  },
-  {
-    "repo": "better-auth/better-hub",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Re-imagining code collaboration for humans and agents"
-  },
-  {
-    "repo": "joeseesun/knowledge-site-creator",
-    "branch": "main",
-    "language": "Shell",
-    "description": "一句话生成任何领域的知识学习网站 - AI 理解主题，自动创作内容，生成页面，一键部署"
-  },
-  {
-    "repo": "heri1845/ai-meme-trading-bot",
-    "branch": "main",
-    "language": "Go",
-    "description": "Automated trading system for Solana and Base meme coins with AI-powered strategy evaluation. AI trading, AI prediction, AI trading, AI predictiction"
-  },
-  {
-    "repo": "mrphrazer/binary-ninja-headless-mcp",
-    "branch": "main",
-    "language": "Python",
-    "description": "Headless Binary Ninja MCP server — giving AI agents deep reverse-engineering capabilities via 180 tools."
-  },
-  {
-    "repo": "Veirt/weathr",
-    "branch": "main",
-    "language": "Rust",
-    "description": "a terminal weather app with ascii animation"
-  },
-  {
-    "repo": "Norman-bury/articlewriting-skill",
-    "branch": "main",
-    "language": "Python",
-    "description": "科研写作助手 (Research Writing Assistant)"
-  },
-  {
-    "repo": "spaceraccoon/vulnerability-spoiler-alert-action",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "GitHub Action to alert on security patches before the CVE drops."
-  },
-  {
-    "repo": "symbolica-ai/arcgentica",
-    "branch": "main",
-    "language": "Python",
-    "description": "An ARC-AGI solution using Agentica from Symbolica"
-  },
-  {
-    "repo": "haolinwang819-boop/ai-video-generation-workflow",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "AI video generation workflow with script, slides, TTS, subtitles, and FFmpeg rendering."
-  },
-  {
-    "repo": "knowsuchagency/mcp2cli",
-    "branch": "main",
-    "language": "Python",
-    "description": "Turn any MCP server or OpenAPI spec into a CLI — at runtime, with zero codegen"
-  },
-  {
-    "repo": "armadasvc/armada",
+    "repo": "BabylonJS/Babylon.js",
     "branch": "master",
+    "language": "TypeScript",
+    "description": "Babylon.js is a powerful, beautiful, simple, and open game and rendering engine packed into a friendly JavaScript framework."
+  },
+  {
+    "repo": "run-bigpig/jcp",
+    "branch": "master",
+    "language": "Go",
+    "description": "韭菜盘 (JCP AI) - AI 驱动的智能股票分析系统，基于 Wails + Go + React，支持多 Agent 协作分析"
+  },
+  {
+    "repo": "Gentleatvice/seed-phrase-recover-BTC-ETH",
+    "branch": "main",
+    "language": "Rust",
+    "description": ""
+  },
+  {
+    "repo": "sindresorhus/awesome-nodejs",
+    "branch": "main",
+    "language": "Other",
+    "description": ":zap: Delightful Node.js packages and resources"
+  },
+  {
+    "repo": "hicode002/qualcomm_gbl_exploit_poc",
+    "branch": "main",
+    "language": "C",
+    "description": "Unlocking qualcomm bootloader via gbl exploit."
+  },
+  {
+    "repo": "FortAwesome/Font-Awesome",
+    "branch": "6.x",
+    "language": "JavaScript",
+    "description": "The iconic SVG, font, and CSS toolkit"
+  },
+  {
+    "repo": "Crestdrasnip/Claude-Zeroclaw",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": ""
+  },
+  {
+    "repo": "gleam-lang/gleam",
+    "branch": "main",
+    "language": "Rust",
+    "description": "⭐️ A friendly language for building type-safe, scalable systems!"
+  },
+  {
+    "repo": "zornade/visura-api",
+    "branch": "main",
     "language": "Python",
-    "description": "Kubernetes-native framework for bot and scraper orchestration"
+    "description": "Servizio API per l'estrazione automatizzata di dati catastali dal portale SISTER"
   },
   {
-    "repo": "ahmadawais/chartli",
+    "repo": "nats-io/nats.go",
     "branch": "main",
-    "language": "TypeScript",
-    "description": "CLI that turns plain numbers into terminal charts. ascii, spark, bars, columns, heatmap, unicode, braille, svg."
+    "language": "Go",
+    "description": "Golang client for NATS, the cloud native messaging system."
   },
   {
-    "repo": "madewithai/pancakeswap-prediction-bot",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "PancakeSwap prediction bot · Automated Bull/Bear betting on BSC (Binance Smart Chain). Momentum + streak-reversal strategy, configurable risk, private key. BNB ETH BTC prediction market, Node.js, viem, TypeScript."
+    "repo": "apache/hadoop",
+    "branch": "trunk",
+    "language": "Java",
+    "description": "Apache Hadoop"
   },
   {
-    "repo": "inspatio/worldfm",
+    "repo": "petergpt/bullshit-benchmark",
     "branch": "main",
     "language": "Python",
     "description": ""
   },
   {
-    "repo": "planetscale/database-skills",
-    "branch": "main",
-    "language": "HTML",
-    "description": "Skills for AI agents working with databases"
-  },
-  {
-    "repo": "nicepkg/ctxport",
+    "repo": "tldraw/tldraw",
     "branch": "main",
     "language": "TypeScript",
-    "description": "Copy AI conversations as clean Markdown Context Bundles — one click from ChatGPT, Claude, Gemini, DeepSeek, Grok & GitHub. Copy from sidebar without opening. Zero upload, 100% local, open source."
+    "description": "very good whiteboard infinite canvas SDK"
+  },
+  {
+    "repo": "firewalld/firewalld",
+    "branch": "main",
+    "language": "Python",
+    "description": "Stateful zone based firewall daemon with D-Bus interface"
+  },
+  {
+    "repo": "Danm72/home-assistant-automation-suggestions",
+    "branch": "main",
+    "language": "Python",
+    "description": "A Home Assistant integration that analyzes your manual actions and suggests automations to create"
+  },
+  {
+    "repo": "BigBodyCobain/Shadowbroker",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Open-source intelligence for the global theater. Track everything from the corporate/private jets of the wealthy, and spy satellites, to seismic events in one unified interface. The knowledge is available to all but rarely aggregated in the open, until now."
+  },
+  {
+    "repo": "yeuxuan/openclaw-docs",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "openclaw 剖析、拆解、教程在线文档"
+  },
+  {
+    "repo": "vercel-labs/visual-json",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "The Visual JSON Editor. Schema-aware, embeddable, extensible."
+  },
+  {
+    "repo": "embedding-shapes/one-agent-one-browser",
+    "branch": "master",
+    "language": "Rust",
+    "description": "One from scratch browser built by one human and one agent, working hand in hand"
+  },
+  {
+    "repo": "MapleShaw/yt-dlp-downloader-skill",
+    "branch": "master",
+    "language": "Shell",
+    "description": "Cursor Agent Skill for downloading videos using yt-dlp"
+  },
+  {
+    "repo": "golang-migrate/migrate",
+    "branch": "master",
+    "language": "Go",
+    "description": "Database migrations. CLI and Golang library."
+  },
+  {
+    "repo": "MrFadiAi/openclaw-manager",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "OpenClaw One Click Installer - A desktop manager for OpenClaw"
+  },
+  {
+    "repo": "arduino/Arduino",
+    "branch": "master",
+    "language": "Java",
+    "description": "Arduino IDE 1.x"
   }
 ]
