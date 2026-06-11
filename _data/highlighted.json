@@ -1,8 +1,8 @@
 {
-  "repo": "jwangkun/claude-for-financial-services-cn",
+  "repo": "ApodexAI/AgentHarness",
   "branch": "main",
   "language": "Python",
-  "description": " 63 个 Claude Skills，为 A 股金融从业者而生  基于 Anthropic 官方 claude-for-financial-services 深度适配国内市场，现已开源。",
-  "stars": 339,
-  "forks": 60
+  "description": "Evaluation harness for Apodex-1.0 on public deep-research benchmarks.",
+  "stars": 117,
+  "forks": 7
 }
