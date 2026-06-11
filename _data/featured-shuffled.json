@@ -1,146 +1,146 @@
 [
   {
-    "repo": "AeternaLabsHQ/pullmd",
+    "repo": "alainnothere/llm-circuit-finder",
+    "branch": "main",
+    "language": "Python",
+    "description": "I replicated Ng's RYS method and found that duplicating 3 specific layers in Qwen2.5-32B boosts reasoning by 17% and duplicating layers 12-14 in Devstral-24B improves logical deduction from 0.22→0.76 on BBH — no training, no weight changes, just routing hidden states through the same circuit twice. Tools included. Two AMD GPUs, one evening."
+  },
+  {
+    "repo": "30-seconds/30-seconds-of-code",
+    "branch": "master",
+    "language": "JavaScript",
+    "description": "Coding articles to level up your development skills"
+  },
+  {
+    "repo": "krajekisbtc/PolymarketBTC15mAssistant",
     "branch": "main",
     "language": "JavaScript",
-    "description": "Self-hosted URL-to-Markdown service for humans and AI agents. PWA + REST + MCP + Claude Code skill, with Reddit support and refreshable share links."
+    "description": "Real-time Polymarket BTC 15m trading assistant for every trader! created by @krajekisbtc"
   },
   {
-    "repo": "BabylonJS/Babylon.js",
-    "branch": "master",
-    "language": "TypeScript",
-    "description": "Babylon.js is a powerful, beautiful, simple, and open game and rendering engine packed into a friendly JavaScript framework."
-  },
-  {
-    "repo": "run-bigpig/jcp",
+    "repo": "ory/kratos",
     "branch": "master",
     "language": "Go",
-    "description": "韭菜盘 (JCP AI) - AI 驱动的智能股票分析系统，基于 Wails + Go + React，支持多 Agent 协作分析"
+    "description": "Headless cloud-native authentication and identity management written in Go. Scales to a billion+ users. Replace Homegrown, Auth0, Okta, Firebase with better UX and DX. Passkeys, Social Sign In, OIDC, Magic Link, Multi-Factor Auth, SMS, SAML, TOTP, and more. Runs everywhere, runs best on Ory Network."
   },
   {
-    "repo": "Gentleatvice/seed-phrase-recover-BTC-ETH",
-    "branch": "main",
-    "language": "Rust",
+    "repo": "ringhyacinth/Star-Office-UI",
+    "branch": "master",
+    "language": "HTML",
     "description": ""
   },
   {
-    "repo": "sindresorhus/awesome-nodejs",
-    "branch": "main",
-    "language": "Other",
-    "description": ":zap: Delightful Node.js packages and resources"
+    "repo": "junegunn/fzf",
+    "branch": "master",
+    "language": "Go",
+    "description": ":cherry_blossom: A command-line fuzzy finder"
   },
   {
-    "repo": "hicode002/qualcomm_gbl_exploit_poc",
+    "repo": "millionco/react-doctor",
     "branch": "main",
+    "language": "TypeScript",
+    "description": "Let coding agents diagnose and fix your React code"
+  },
+  {
+    "repo": "mrphrazer/binary-ninja-headless-mcp",
+    "branch": "main",
+    "language": "Python",
+    "description": "Headless Binary Ninja MCP server — giving AI agents deep reverse-engineering capabilities via 180 tools."
+  },
+  {
+    "repo": "denoland/deno",
+    "branch": "main",
+    "language": "Rust",
+    "description": "A modern runtime for JavaScript and TypeScript."
+  },
+  {
+    "repo": "SnapKit/SnapKit",
+    "branch": "develop",
+    "language": "Swift",
+    "description": "A Swift Autolayout DSL for iOS & OS X"
+  },
+  {
+    "repo": "whyzhow/PersonalStyleAI-Framework-",
+    "branch": "main",
+    "language": "Python",
+    "description": "Let AI think and express like you. This framework provides a complete assembly line: from the noise processing of original chat records, to the seamless switching of multi-model adaptation layers, to local lightweight fine-tuning (LoRA)."
+  },
+  {
+    "repo": "nullclaw/nullclaw",
+    "branch": "main",
+    "language": "Zig",
+    "description": "Fastest, smallest, and fully autonomous AI assistant infrastructure written in Zig"
+  },
+  {
+    "repo": "openssl/openssl",
+    "branch": "master",
     "language": "C",
-    "description": "Unlocking qualcomm bootloader via gbl exploit."
+    "description": "TLS/SSL and crypto library"
   },
   {
-    "repo": "FortAwesome/Font-Awesome",
-    "branch": "6.x",
-    "language": "JavaScript",
-    "description": "The iconic SVG, font, and CSS toolkit"
-  },
-  {
-    "repo": "Crestdrasnip/Claude-Zeroclaw",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": ""
-  },
-  {
-    "repo": "gleam-lang/gleam",
-    "branch": "main",
-    "language": "Rust",
-    "description": "⭐️ A friendly language for building type-safe, scalable systems!"
-  },
-  {
-    "repo": "zornade/visura-api",
-    "branch": "main",
-    "language": "Python",
-    "description": "Servizio API per l'estrazione automatizzata di dati catastali dal portale SISTER"
-  },
-  {
-    "repo": "nats-io/nats.go",
-    "branch": "main",
-    "language": "Go",
-    "description": "Golang client for NATS, the cloud native messaging system."
-  },
-  {
-    "repo": "apache/hadoop",
-    "branch": "trunk",
-    "language": "Java",
-    "description": "Apache Hadoop"
-  },
-  {
-    "repo": "petergpt/bullshit-benchmark",
-    "branch": "main",
-    "language": "Python",
-    "description": ""
-  },
-  {
-    "repo": "tldraw/tldraw",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "very good whiteboard infinite canvas SDK"
-  },
-  {
-    "repo": "firewalld/firewalld",
-    "branch": "main",
-    "language": "Python",
-    "description": "Stateful zone based firewall daemon with D-Bus interface"
-  },
-  {
-    "repo": "Danm72/home-assistant-automation-suggestions",
-    "branch": "main",
-    "language": "Python",
-    "description": "A Home Assistant integration that analyzes your manual actions and suggests automations to create"
-  },
-  {
-    "repo": "BigBodyCobain/Shadowbroker",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Open-source intelligence for the global theater. Track everything from the corporate/private jets of the wealthy, and spy satellites, to seismic events in one unified interface. The knowledge is available to all but rarely aggregated in the open, until now."
-  },
-  {
-    "repo": "yeuxuan/openclaw-docs",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "openclaw 剖析、拆解、教程在线文档"
-  },
-  {
-    "repo": "vercel-labs/visual-json",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "The Visual JSON Editor. Schema-aware, embeddable, extensible."
-  },
-  {
-    "repo": "embedding-shapes/one-agent-one-browser",
+    "repo": "melonjs/melonJS",
     "branch": "master",
-    "language": "Rust",
-    "description": "One from scratch browser built by one human and one agent, working hand in hand"
+    "language": "JavaScript",
+    "description": "a fresh, modern & lightweight HTML5 game engine"
   },
   {
-    "repo": "MapleShaw/yt-dlp-downloader-skill",
+    "repo": "fastify/fastify",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "Fast and low overhead web framework, for Node.js"
+  },
+  {
+    "repo": "freeCodeCamp/freeCodeCamp",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free."
+  },
+  {
+    "repo": "react-native-picker/picker",
+    "branch": "master",
+    "language": "JavaScript",
+    "description": "Picker is a cross-platform UI component for selecting an item from a list of options."
+  },
+  {
+    "repo": "crossplane/crossplane",
+    "branch": "master",
+    "language": "Go",
+    "description": "The Cloud Native Control Plane"
+  },
+  {
+    "repo": "tj/n",
     "branch": "master",
     "language": "Shell",
-    "description": "Cursor Agent Skill for downloading videos using yt-dlp"
+    "description": "Node version management"
   },
   {
-    "repo": "golang-migrate/migrate",
+    "repo": "africa1207/AWS-BuildID-Auto-For-Ext",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": ""
+  },
+  {
+    "repo": "nextcloud/android",
     "branch": "master",
-    "language": "Go",
-    "description": "Database migrations. CLI and Golang library."
+    "language": "Kotlin",
+    "description": "📱 Nextcloud Android app"
   },
   {
-    "repo": "MrFadiAi/openclaw-manager",
+    "repo": "T3-Content/quipslop",
     "branch": "main",
     "language": "TypeScript",
-    "description": "OpenClaw One Click Installer - A desktop manager for OpenClaw"
+    "description": ""
   },
   {
-    "repo": "arduino/Arduino",
+    "repo": "josephmisiti/awesome-machine-learning",
+    "branch": "master",
+    "language": "Python",
+    "description": "A curated list of awesome Machine Learning frameworks, libraries and software."
+  },
+  {
+    "repo": "trinodb/trino",
     "branch": "master",
     "language": "Java",
-    "description": "Arduino IDE 1.x"
+    "description": "Official repository of Trino, the distributed SQL query engine for big data, formerly known as PrestoSQL (https://trino.io)"
   }
 ]
