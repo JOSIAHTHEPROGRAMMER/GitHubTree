@@ -1,146 +1,146 @@
 [
   {
-    "repo": "bytedance/Bernini",
+    "repo": "Michaelliv/pi-generative-ui",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Claude.ai's generative UI — reverse-engineered, rebuilt for pi. Interactive HTML/SVG widgets in native macOS windows."
+  },
+  {
+    "repo": "wassim249/fastapi-langgraph-agent-production-ready-template",
     "branch": "main",
     "language": "Python",
-    "description": "Bernini is a unified framework for video generation and editing that combines an MLLM-based semantic planner with a DiT-based renderer."
+    "description": "A production-ready FastAPI template for building AI agent applications with LangGraph integration. This template provides a robust foundation for building scalable, secure, and maintainable AI agent services."
   },
   {
-    "repo": "bjarneo/cliamp",
+    "repo": "Heartflabrace/Doubao-Claw",
     "branch": "main",
-    "language": "Go",
-    "description": "Terminal Winamp"
-  },
-  {
-    "repo": "ultralytics/ultralytics",
-    "branch": "main",
-    "language": "Python",
-    "description": "Ultralytics YOLO 🚀"
-  },
-  {
-    "repo": "RaidOwl/homelab-hub",
-    "branch": "main",
-    "language": "Svelte",
+    "language": "Rust",
     "description": ""
   },
   {
-    "repo": "zoontek/react-native-bootsplash",
+    "repo": "vim/vim",
     "branch": "master",
-    "language": "TypeScript",
-    "description": "🚀 Show a splash screen during app startup. Hide it when you are ready."
+    "language": "Vim Script",
+    "description": "The official Vim repository"
   },
   {
-    "repo": "sigp/lighthouse",
-    "branch": "stable",
+    "repo": "JohnRiceML/clawport-ui",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Open-source AI agent command center for Claude Code agent teams. Built on OpenClaw."
+  },
+  {
+    "repo": "yologdev/yoyo-evolve",
+    "branch": "main",
     "language": "Rust",
-    "description": "Ethereum consensus client in Rust"
+    "description": "A coding agent that evolves itself. One commit per day."
   },
   {
-    "repo": "randallscott25-star/epstein-forensic-finance",
-    "branch": "main",
-    "language": "HTML",
-    "description": "Epstein Financial Forensics Automated forensic financial reconstruction from 1.48 million DOJ EFTA documents + 503K cataloged media items"
-  },
-  {
-    "repo": "kapishdima/fonttrio",
+    "repo": "vercel-labs/webreel",
     "branch": "main",
     "language": "TypeScript",
-    "description": "Curated font pairing registry for shadcn. Three fonts. One command. Install perfectly configured typography (heading + body + mono) with shadcn add.    Includes editorial-grade type scales, CSS variables, and a live preview site."
+    "description": "Record scripted browser demos as video"
   },
   {
-    "repo": "immich-app/immich",
+    "repo": "btahir/react-kino",
     "branch": "main",
     "language": "TypeScript",
-    "description": "High performance self-hosted photo and video management solution."
+    "description": "Cinematic scroll-driven storytelling for React"
   },
   {
-    "repo": "encode/httpx",
-    "branch": "master",
+    "repo": "alptexans/RSC-Detect-CVE-2025-55182",
+    "branch": "main",
     "language": "Python",
-    "description": "A next generation HTTP client for Python. 🦋"
+    "description": "RSC Detect CVE 2025 55182"
   },
   {
-    "repo": "itcaat/mtproto-installer",
-    "branch": "main",
-    "language": "Shell",
-    "description": "Ускоритель телеграм =)"
-  },
-  {
-    "repo": "JaredStewart/coderlm",
-    "branch": "main",
-    "language": "Rust",
-    "description": "Tree-sitter-powered code indexing server that gives LLM agents precise, on-demand access to symbols, implementations, callers, tests, and grep across multi-language projects - so they explore codebases through targeted queries instead of loading everything into context."
-  },
-  {
-    "repo": "getify/You-Dont-Know-JS",
-    "branch": "master",
-    "language": "Other",
-    "description": "A book series (2 published editions) on the JS language."
-  },
-  {
-    "repo": "microsoft/react-native-code-push",
-    "branch": "master",
-    "language": "C",
-    "description": "React Native module for CodePush"
-  },
-  {
-    "repo": "ConsenSys/teku",
+    "repo": "apache/commons-lang",
     "branch": "master",
     "language": "Java",
-    "description": "🚀 Open-source Ethereum consensus client written in Java"
+    "description": "Apache Commons Lang"
   },
   {
-    "repo": "owenlejeune/ArrMatey",
-    "branch": "main",
-    "language": "Kotlin",
-    "description": ""
-  },
-  {
-    "repo": "ClawBio/ClawBio",
+    "repo": "lllyasviel/Fooocus",
     "branch": "main",
     "language": "Python",
-    "description": "🦖 ClawBio — The first bioinformatics-native AI agent skill library. Local-first. Reproducible. Built on OpenClaw."
+    "description": "Focus on prompting and generating"
   },
   {
-    "repo": "afumu/openlink",
+    "repo": "infiniflow/ragflow",
+    "branch": "main",
+    "language": "Python",
+    "description": "RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses cutting-edge RAG with Agent capabilities to create a superior context layer for LLMs"
+  },
+  {
+    "repo": "tendermint/tendermint",
     "branch": "main",
     "language": "Go",
-    "description": "OpenLink让网页版 AI直接访问你的本地文件系统和执行命令。"
+    "description": "⟁ Tendermint Core (BFT Consensus) in Go"
   },
   {
-    "repo": "ant-design/ant-design-mobile",
-    "branch": "master",
+    "repo": "chenhg5/cc-connect",
+    "branch": "main",
+    "language": "Go",
+    "description": "Bridge local AI coding agents (Claude Code, Cursor, Gemini CLI, Codex) to messaging platforms (Feishu/Lark, DingTalk, Slack, Telegram, Discord, LINE, WeChat Work). Chat with your AI dev assistant from anywhere — no public IP required for most platforms."
+  },
+  {
+    "repo": "tigerabrodi/neiro",
+    "branch": "main",
     "language": "TypeScript",
-    "description": "Essential UI blocks for building mobile web apps."
+    "description": "Audio processing for TypeScript. Chainable, immutable, serverless-ready."
   },
   {
-    "repo": "deepfakes/faceswap",
-    "branch": "master",
-    "language": "Python",
-    "description": "Deepfakes Software For All"
-  },
-  {
-    "repo": "6551Team/opentwitter-mcp",
+    "repo": "lens-protocol/lens-protocol",
     "branch": "main",
-    "language": "Python",
-    "description": "Twitter/X Data · User Profiles · Tweet Search · Follower Events · KOL Tracking"
+    "language": "Solidity",
+    "description": "The Lens Protocol"
   },
   {
-    "repo": "nj19257/FastSkills",
+    "repo": "Dinesh-Sowndar/flutter_billing_app",
     "branch": "main",
-    "language": "Python",
-    "description": "⚡ MCP server that brings Agent Skills (the open standard behind Claude Code, OpenClaw & nanobot) to any MCP-compatible agent. Discover, load, create & execute skills."
-  },
-  {
-    "repo": "Dokhacgiakhoa/google-antigravity",
-    "branch": "main",
-    "language": "Python",
+    "language": "Dart",
     "description": ""
   },
   {
-    "repo": "nodejs/node",
+    "repo": "win4r/team-tasks",
+    "branch": "master",
+    "language": "Python",
+    "description": "Multi-agent pipeline coordination: Linear, DAG, and Debate modes for AI agent orchestration"
+  },
+  {
+    "repo": "tailwindlabs/headlessui",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Completely unstyled, fully accessible UI components, designed to integrate beautifully with Tailwind CSS."
+  },
+  {
+    "repo": "bytedance/semi-design",
+    "branch": "main",
+    "language": "Other",
+    "description": "A modern, comprehensive, flexible design system and React UI library."
+  },
+  {
+    "repo": "redmine/redmine",
+    "branch": "master",
+    "language": "Ruby",
+    "description": "Mirror of redmine code source - Official Subversion repository is at https://svn.redmine.org/redmine - contact: @vividtone or maeda (at) farend (dot) jp"
+  },
+  {
+    "repo": "videojs/video.js",
     "branch": "main",
     "language": "JavaScript",
-    "description": "Node.js JavaScript runtime ✨🐢🚀✨"
+    "description": "Video.js - open source HTML5 video player"
+  },
+  {
+    "repo": "Higangssh/gitcredits",
+    "branch": "main",
+    "language": "Go",
+    "description": "Roll movie-style credits for your git repo — right in the terminal"
+  },
+  {
+    "repo": "traderwillhu/market_dashboard",
+    "branch": "main",
+    "language": "HTML",
+    "description": ""
   }
 ]

@@ -1,8 +1,8 @@
 {
-  "repo": "canwhite/MicroRAG",
+  "repo": "AbdelStark/awesome-jepa",
   "branch": "main",
-  "language": "Python",
-  "description": "The minimal implementation of rag",
-  "stars": 102,
-  "forks": 0
+  "language": "CSS",
+  "description": "Curated resources for JEPA (Joint Embedding Predictive Architecture) world models and self-supervised learning",
+  "stars": 113,
+  "forks": 4
 }
