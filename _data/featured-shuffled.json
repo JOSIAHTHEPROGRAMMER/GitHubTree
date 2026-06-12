@@ -1,146 +1,146 @@
 [
   {
-    "repo": "denoland/deno",
-    "branch": "main",
-    "language": "Rust",
-    "description": "A modern runtime for JavaScript and TypeScript."
-  },
-  {
-    "repo": "xiaobiaodu/Mobile-GS",
-    "branch": "main",
-    "language": "Python",
-    "description": "[ICLR 2026] Mobile-GS: Real-time Gaussian Splatting for Mobile Devices"
-  },
-  {
-    "repo": "kdeldycke/awesome-falsehood",
+    "repo": "sdmg15/Best-websites-a-programmer-should-visit",
     "branch": "master",
     "language": "Other",
-    "description": "😱 Falsehoods Programmers Believe in"
+    "description": ":link: Some useful websites for programmers."
   },
   {
-    "repo": "eslint/eslint",
+    "repo": "gradle/gradle",
+    "branch": "master",
+    "language": "Groovy",
+    "description": "Adaptable, fast automation for all"
+  },
+  {
+    "repo": "videojs/video.js",
     "branch": "main",
     "language": "JavaScript",
-    "description": "Find and fix problems in your JavaScript code."
+    "description": "Video.js - open source HTML5 video player"
   },
   {
-    "repo": "python-attrs/attrs",
+    "repo": "ApodexAI/AgentHarness",
     "branch": "main",
     "language": "Python",
-    "description": "Python Classes Without Boilerplate"
+    "description": "Evaluation harness for Apodex-1.0 on public deep-research benchmarks."
   },
   {
-    "repo": "uuidjs/uuid",
+    "repo": "browserable/browserable",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "Open source and self-hostable browser automation library for AI agents"
+  },
+  {
+    "repo": "webpack-contrib/terser-webpack-plugin",
+    "branch": "master",
+    "language": "JavaScript",
+    "description": "Terser Plugin"
+  },
+  {
+    "repo": "pointfreeco/swift-snapshot-testing",
+    "branch": "main",
+    "language": "Swift",
+    "description": "📸 Delightful Swift snapshot testing."
+  },
+  {
+    "repo": "maybe-finance/maybe",
+    "branch": "main",
+    "language": "Ruby",
+    "description": "The personal finance app for everyone"
+  },
+  {
+    "repo": "NoizAI/skills",
+    "branch": "main",
+    "language": "Shell",
+    "description": "Allow your 🦞 bot to Shout, Speak, with human vibe"
+  },
+  {
+    "repo": "supermemoryai/openclaw-supermemory",
     "branch": "main",
     "language": "TypeScript",
-    "description": "Generate RFC-compliant UUIDs in JavaScript"
+    "description": "Supermemory allows Clawdbot / Molt bot to have PERFECT memory and recall for their own personal agent."
   },
   {
-    "repo": "ml-explore/mlx",
+    "repo": "ossu/computer-science",
+    "branch": "master",
+    "language": "HTML",
+    "description": "🎓 Path to a free self-taught education in Computer Science!"
+  },
+  {
+    "repo": "ComposioHQ/secure-openclaw",
+    "branch": "master",
+    "language": "JavaScript",
+    "description": "A personal 24x7 AI assistant like OpenClaw that runs on your messaging platforms. Send a message on WhatsApp, Telegram, Signal, or iMessage and get responses from Claude with full tool access, persistent memory, scheduled reminders, and integrations with 500+ apps."
+  },
+  {
+    "repo": "stablyai/agent-slack",
+    "branch": "master",
+    "language": "TypeScript",
+    "description": "Slack automation CLI for AI agents"
+  },
+  {
+    "repo": "kubernetes/minikube",
+    "branch": "master",
+    "language": "Go",
+    "description": "Run Kubernetes locally"
+  },
+  {
+    "repo": "HBAI-Ltd/Toonflow-app",
+    "branch": "master",
+    "language": "HTML",
+    "description": "Toonflow 是一款 AI 短剧漫剧工具，能够利用 AI 技术将小说自动转化为剧本，并结合 AI 生成的图片和视频，实现高效的短剧创作。借助 Toonflow，可以轻松完成从文字到影像的全流程，让短剧制作变得更加智能与便捷。"
+  },
+  {
+    "repo": "midudev/alg0.dev",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "alg0.dev is an interactive algorithm visualizer where classic algorithms come to life through step by step animations, controls to pause or advance, and access to the underlying code."
+  },
+  {
+    "repo": "pi0/skillman",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "🤹 Manage project skills and lock them in skills.json"
+  },
+  {
+    "repo": "nomic-ai/gpt4all",
     "branch": "main",
     "language": "C++",
-    "description": "MLX: An array framework for Apple silicon"
+    "description": "GPT4All: Run Local LLMs on Any Device. Open-source and available for commercial use."
   },
   {
-    "repo": "pytorch/audio",
+    "repo": "zilliztech/memsearch",
     "branch": "main",
     "language": "Python",
-    "description": "Data manipulation and transformation for audio signal processing, powered by PyTorch"
+    "description": "A Markdown-first memory system, a standalone library for any AI agent. Inspired by OpenClaw."
   },
   {
-    "repo": "dypsilon/frontend-dev-bookmarks",
-    "branch": "master",
-    "language": "Other",
-    "description": "Manually curated collection of resources for frontend web developers."
-  },
-  {
-    "repo": "istio/istio.io",
-    "branch": "master",
-    "language": "HTML",
-    "description": "Source for the istio.io site"
-  },
-  {
-    "repo": "test-time-training/discover",
-    "branch": "main",
-    "language": "Python",
-    "description": ""
-  },
-  {
-    "repo": "op7418/Claude-to-IM-skill",
+    "repo": "mo1app/pipemagic",
     "branch": "main",
     "language": "TypeScript",
-    "description": "Bridge Claude Code / Codex to IM platforms — chat with AI coding agents from Telegram, Discord, or Feishu/Lark."
+    "description": "Visual image processing pipeline editor"
   },
   {
-    "repo": "requirejs/requirejs",
-    "branch": "master",
+    "repo": "zuckermanai/zuckerman",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Ultra-minimal personal AI agent: starts small, self-modifies its code live, adapts by writing exactly the code & features you need"
+  },
+  {
+    "repo": "Vasco0x4/AIDA",
+    "branch": "main",
     "language": "JavaScript",
-    "description": "A file and module loader for JavaScript"
+    "description": "AI-Driven Security Assessment - Connect AI to 400+ pentesting tools via MCP"
   },
   {
-    "repo": "cs109/2015",
-    "branch": "master",
-    "language": "Other",
-    "description": "Public material for CS109"
-  },
-  {
-    "repo": "google/styleguide",
-    "branch": "gh-pages",
-    "language": "HTML",
-    "description": "Style guides for Google-originated open-source projects"
-  },
-  {
-    "repo": "lqs/retrotick",
+    "repo": "fspecii/ace-step-ui",
     "branch": "main",
-    "language": "TypeScript",
-    "description": "💾 Run classic Windows & DOS executables in the browser — an x86 emulator + Win32/Win16/DOS API layer built from scratch in TypeScript"
+    "language": "JavaScript",
+    "description": "🎵 The Ultimate Open Source Suno Alternative - Professional UI for ACE-Step 1.5 AI Music Generation. Free, local, unlimited. Stop paying for Suno!"
   },
   {
-    "repo": "quilljs/quill",
-    "branch": "develop",
-    "language": "TypeScript",
-    "description": "Quill is a modern WYSIWYG editor built for compatibility and extensibility"
-  },
-  {
-    "repo": "kubernetes/ingress-nginx",
+    "repo": "stylelint/stylelint",
     "branch": "main",
-    "language": "Go",
-    "description": "Ingress NGINX Controller for Kubernetes"
-  },
-  {
-    "repo": "bevyengine/bevy",
-    "branch": "main",
-    "language": "Rust",
-    "description": "A refreshingly simple data-driven game engine built in Rust"
-  },
-  {
-    "repo": "animate-css/animate.css",
-    "branch": "main",
-    "language": "CSS",
-    "description": "🍿 A cross-browser library of CSS animations. As easy to use as an easy thing."
-  },
-  {
-    "repo": "humanloop/awesome-chatgpt",
-    "branch": "main",
-    "language": "Other",
-    "description": "Curated list of awesome tools, demos, docs for ChatGPT and GPT-3"
-  },
-  {
-    "repo": "jackc/pgx",
-    "branch": "master",
-    "language": "Go",
-    "description": "PostgreSQL driver and toolkit for Go"
-  },
-  {
-    "repo": "Resinat/Resin",
-    "branch": "master",
-    "language": "Go",
-    "description": "A high-performance proxy pool gateway. Turn massive proxy subscriptions into a stable, smart, and observable network with sticky sessions."
-  },
-  {
-    "repo": "rook/rook",
-    "branch": "master",
-    "language": "Go",
-    "description": "Storage Orchestration for Kubernetes"
+    "language": "JavaScript",
+    "description": "A mighty CSS linter that helps you avoid errors and enforce conventions."
   }
 ]
