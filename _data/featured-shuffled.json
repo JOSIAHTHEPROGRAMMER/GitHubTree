@@ -1,146 +1,146 @@
 [
   {
-    "repo": "Michaelliv/pi-generative-ui",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Claude.ai's generative UI — reverse-engineered, rebuilt for pi. Interactive HTML/SVG widgets in native macOS windows."
-  },
-  {
-    "repo": "wassim249/fastapi-langgraph-agent-production-ready-template",
-    "branch": "main",
-    "language": "Python",
-    "description": "A production-ready FastAPI template for building AI agent applications with LangGraph integration. This template provides a robust foundation for building scalable, secure, and maintainable AI agent services."
-  },
-  {
-    "repo": "Heartflabrace/Doubao-Claw",
+    "repo": "denoland/deno",
     "branch": "main",
     "language": "Rust",
-    "description": ""
+    "description": "A modern runtime for JavaScript and TypeScript."
   },
   {
-    "repo": "vim/vim",
+    "repo": "xiaobiaodu/Mobile-GS",
+    "branch": "main",
+    "language": "Python",
+    "description": "[ICLR 2026] Mobile-GS: Real-time Gaussian Splatting for Mobile Devices"
+  },
+  {
+    "repo": "kdeldycke/awesome-falsehood",
     "branch": "master",
-    "language": "Vim Script",
-    "description": "The official Vim repository"
-  },
-  {
-    "repo": "JohnRiceML/clawport-ui",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Open-source AI agent command center for Claude Code agent teams. Built on OpenClaw."
-  },
-  {
-    "repo": "yologdev/yoyo-evolve",
-    "branch": "main",
-    "language": "Rust",
-    "description": "A coding agent that evolves itself. One commit per day."
-  },
-  {
-    "repo": "vercel-labs/webreel",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Record scripted browser demos as video"
-  },
-  {
-    "repo": "btahir/react-kino",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Cinematic scroll-driven storytelling for React"
-  },
-  {
-    "repo": "alptexans/RSC-Detect-CVE-2025-55182",
-    "branch": "main",
-    "language": "Python",
-    "description": "RSC Detect CVE 2025 55182"
-  },
-  {
-    "repo": "apache/commons-lang",
-    "branch": "master",
-    "language": "Java",
-    "description": "Apache Commons Lang"
-  },
-  {
-    "repo": "lllyasviel/Fooocus",
-    "branch": "main",
-    "language": "Python",
-    "description": "Focus on prompting and generating"
-  },
-  {
-    "repo": "infiniflow/ragflow",
-    "branch": "main",
-    "language": "Python",
-    "description": "RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses cutting-edge RAG with Agent capabilities to create a superior context layer for LLMs"
-  },
-  {
-    "repo": "tendermint/tendermint",
-    "branch": "main",
-    "language": "Go",
-    "description": "⟁ Tendermint Core (BFT Consensus) in Go"
-  },
-  {
-    "repo": "chenhg5/cc-connect",
-    "branch": "main",
-    "language": "Go",
-    "description": "Bridge local AI coding agents (Claude Code, Cursor, Gemini CLI, Codex) to messaging platforms (Feishu/Lark, DingTalk, Slack, Telegram, Discord, LINE, WeChat Work). Chat with your AI dev assistant from anywhere — no public IP required for most platforms."
-  },
-  {
-    "repo": "tigerabrodi/neiro",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Audio processing for TypeScript. Chainable, immutable, serverless-ready."
-  },
-  {
-    "repo": "lens-protocol/lens-protocol",
-    "branch": "main",
-    "language": "Solidity",
-    "description": "The Lens Protocol"
-  },
-  {
-    "repo": "Dinesh-Sowndar/flutter_billing_app",
-    "branch": "main",
-    "language": "Dart",
-    "description": ""
-  },
-  {
-    "repo": "win4r/team-tasks",
-    "branch": "master",
-    "language": "Python",
-    "description": "Multi-agent pipeline coordination: Linear, DAG, and Debate modes for AI agent orchestration"
-  },
-  {
-    "repo": "tailwindlabs/headlessui",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Completely unstyled, fully accessible UI components, designed to integrate beautifully with Tailwind CSS."
-  },
-  {
-    "repo": "bytedance/semi-design",
-    "branch": "main",
     "language": "Other",
-    "description": "A modern, comprehensive, flexible design system and React UI library."
+    "description": "😱 Falsehoods Programmers Believe in"
   },
   {
-    "repo": "redmine/redmine",
-    "branch": "master",
-    "language": "Ruby",
-    "description": "Mirror of redmine code source - Official Subversion repository is at https://svn.redmine.org/redmine - contact: @vividtone or maeda (at) farend (dot) jp"
-  },
-  {
-    "repo": "videojs/video.js",
+    "repo": "eslint/eslint",
     "branch": "main",
     "language": "JavaScript",
-    "description": "Video.js - open source HTML5 video player"
+    "description": "Find and fix problems in your JavaScript code."
   },
   {
-    "repo": "Higangssh/gitcredits",
+    "repo": "python-attrs/attrs",
+    "branch": "main",
+    "language": "Python",
+    "description": "Python Classes Without Boilerplate"
+  },
+  {
+    "repo": "uuidjs/uuid",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Generate RFC-compliant UUIDs in JavaScript"
+  },
+  {
+    "repo": "ml-explore/mlx",
+    "branch": "main",
+    "language": "C++",
+    "description": "MLX: An array framework for Apple silicon"
+  },
+  {
+    "repo": "pytorch/audio",
+    "branch": "main",
+    "language": "Python",
+    "description": "Data manipulation and transformation for audio signal processing, powered by PyTorch"
+  },
+  {
+    "repo": "dypsilon/frontend-dev-bookmarks",
+    "branch": "master",
+    "language": "Other",
+    "description": "Manually curated collection of resources for frontend web developers."
+  },
+  {
+    "repo": "istio/istio.io",
+    "branch": "master",
+    "language": "HTML",
+    "description": "Source for the istio.io site"
+  },
+  {
+    "repo": "test-time-training/discover",
+    "branch": "main",
+    "language": "Python",
+    "description": ""
+  },
+  {
+    "repo": "op7418/Claude-to-IM-skill",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Bridge Claude Code / Codex to IM platforms — chat with AI coding agents from Telegram, Discord, or Feishu/Lark."
+  },
+  {
+    "repo": "requirejs/requirejs",
+    "branch": "master",
+    "language": "JavaScript",
+    "description": "A file and module loader for JavaScript"
+  },
+  {
+    "repo": "cs109/2015",
+    "branch": "master",
+    "language": "Other",
+    "description": "Public material for CS109"
+  },
+  {
+    "repo": "google/styleguide",
+    "branch": "gh-pages",
+    "language": "HTML",
+    "description": "Style guides for Google-originated open-source projects"
+  },
+  {
+    "repo": "lqs/retrotick",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "💾 Run classic Windows & DOS executables in the browser — an x86 emulator + Win32/Win16/DOS API layer built from scratch in TypeScript"
+  },
+  {
+    "repo": "quilljs/quill",
+    "branch": "develop",
+    "language": "TypeScript",
+    "description": "Quill is a modern WYSIWYG editor built for compatibility and extensibility"
+  },
+  {
+    "repo": "kubernetes/ingress-nginx",
     "branch": "main",
     "language": "Go",
-    "description": "Roll movie-style credits for your git repo — right in the terminal"
+    "description": "Ingress NGINX Controller for Kubernetes"
   },
   {
-    "repo": "traderwillhu/market_dashboard",
+    "repo": "bevyengine/bevy",
     "branch": "main",
-    "language": "HTML",
-    "description": ""
+    "language": "Rust",
+    "description": "A refreshingly simple data-driven game engine built in Rust"
+  },
+  {
+    "repo": "animate-css/animate.css",
+    "branch": "main",
+    "language": "CSS",
+    "description": "🍿 A cross-browser library of CSS animations. As easy to use as an easy thing."
+  },
+  {
+    "repo": "humanloop/awesome-chatgpt",
+    "branch": "main",
+    "language": "Other",
+    "description": "Curated list of awesome tools, demos, docs for ChatGPT and GPT-3"
+  },
+  {
+    "repo": "jackc/pgx",
+    "branch": "master",
+    "language": "Go",
+    "description": "PostgreSQL driver and toolkit for Go"
+  },
+  {
+    "repo": "Resinat/Resin",
+    "branch": "master",
+    "language": "Go",
+    "description": "A high-performance proxy pool gateway. Turn massive proxy subscriptions into a stable, smart, and observable network with sticky sessions."
+  },
+  {
+    "repo": "rook/rook",
+    "branch": "master",
+    "language": "Go",
+    "description": "Storage Orchestration for Kubernetes"
   }
 ]
