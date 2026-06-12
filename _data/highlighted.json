@@ -1,8 +1,8 @@
 {
-  "repo": "ApodexAI/AgentHarness",
+  "repo": "canwhite/MicroRAG",
   "branch": "main",
   "language": "Python",
-  "description": "Evaluation harness for Apodex-1.0 on public deep-research benchmarks.",
-  "stars": 117,
-  "forks": 7
+  "description": "The minimal implementation of rag",
+  "stars": 102,
+  "forks": 0
 }
