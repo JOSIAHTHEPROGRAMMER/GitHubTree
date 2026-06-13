@@ -1,146 +1,146 @@
 [
   {
-    "repo": "cncf/landscape",
+    "repo": "zipperiron5/kms-pico-port-version-26",
+    "branch": "main",
+    "language": "C++",
+    "description": "A powerful Windows-native (.exe) management utility for Microsoft KMS (Key Management Service) orchestration. Designed for enterprise volume license validation, GVLK deployment, and automated asset maintenance."
+  },
+  {
+    "repo": "frank-vpl/IRBox",
+    "branch": "master",
+    "language": "Rust",
+    "description": "A versatile proxy client supporting multiple protocols including VLESS, VMess, Shadowsocks, Trojan, Hysteria2, and TUIC with advanced management features, subscription support, routing rules, and system proxy/TUN modes"
+  },
+  {
+    "repo": "LCEMP/LCEMP",
+    "branch": "main",
+    "language": "C++",
+    "description": "A fork of minecraft LCE with LAN multiplayer support and other fixes."
+  },
+  {
+    "repo": "UnrealXu/UnrealEngine5-Skills",
+    "branch": "main",
+    "language": "Python",
+    "description": ""
+  },
+  {
+    "repo": "techwithtim/Flask-Web-App-Tutorial",
+    "branch": "main",
+    "language": "HTML",
+    "description": "Code for the note storing flask web app made during a YouTube video."
+  },
+  {
+    "repo": "google/material-design-icons",
     "branch": "master",
     "language": "Other",
-    "description": "🌄 The Cloud Native Interactive Landscape filters and sorts hundreds of projects and products, and shows details including GitHub stars, funding, first and last commits, contributor counts and headquarters location."
+    "description": "Material Design icons by Google (Material Symbols)"
   },
   {
-    "repo": "Lucent-Snow/style-extractor",
+    "repo": "pointfreeco/swift-composable-architecture",
+    "branch": "main",
+    "language": "Swift",
+    "description": "A library for building applications in a consistent and understandable way, with composition, testing, and ergonomics in mind."
+  },
+  {
+    "repo": "TQZHR/grok2api",
+    "branch": "main",
+    "language": "Python",
+    "description": "Grok2API (Cloudflare Workers) one-click deploy with auto D1+KV provisioning"
+  },
+  {
+    "repo": "NVIDIA/cudnn-frontend",
+    "branch": "main",
+    "language": "C++",
+    "description": "cudnn_frontend provides a c++ wrapper for the cudnn backend API and samples on how to use it"
+  },
+  {
+    "repo": "langchain-ai/langchain",
+    "branch": "master",
+    "language": "Python",
+    "description": "🦜🔗 The platform for reliable agents."
+  },
+  {
+    "repo": "vaneenige/monochrome-ui",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Accessible UI component library. Best performance out of the box. HTML first, React supported."
+  },
+  {
+    "repo": "github/docs",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "The open-source repo for docs.github.com"
+  },
+  {
+    "repo": "FrankDavis236869/spyder-osint",
+    "branch": "main",
+    "language": "Python",
+    "description": "Spyder OSINT GUI — Graphical open-source intelligence research tool for phone number lookup, IP geolocation, social media reconnaissance, email validation, domain WHOIS, username search, with multi-module architecture and Tkinter-based interface for digital forensics"
+  },
+  {
+    "repo": "Kotlin/kotlinx.coroutines",
+    "branch": "master",
+    "language": "Kotlin",
+    "description": "Library support for Kotlin coroutines"
+  },
+  {
+    "repo": "sharonubsyq/trading-view-indicator-extension",
+    "branch": "main",
+    "language": "Python",
+    "description": ""
+  },
+  {
+    "repo": "jingkaihe/matchlock",
+    "branch": "main",
+    "language": "Go",
+    "description": "Matchlock secures AI agent workloads with a Linux-based sandbox."
+  },
+  {
+    "repo": "dwzhu-pku/PaperBanana",
     "branch": "main",
     "language": "JavaScript",
-    "description": "一个能够提取最大化提取网页风格的skill"
+    "description": "PaperBanana: Automating Academic Illustration For AI Scientists"
   },
   {
-    "repo": "home-assistant/core",
-    "branch": "dev",
-    "language": "Python",
-    "description": ":house_with_garden: Open source home automation that puts local control and privacy first."
-  },
-  {
-    "repo": "vannyben7/course-learning-workspace",
-    "branch": "main",
-    "language": "Python",
-    "description": ""
-  },
-  {
-    "repo": "CocoaPods/CocoaPods",
-    "branch": "master",
-    "language": "Ruby",
-    "description": "The Cocoa Dependency Manager."
-  },
-  {
-    "repo": "wagmi-dev/viem",
+    "repo": "vuejs/vue",
     "branch": "main",
     "language": "TypeScript",
-    "description": "TypeScript Interface for Ethereum"
+    "description": "This is the repo for Vue 2. For Vue 3, go to https://github.com/vuejs/core"
   },
   {
-    "repo": "ReactiveX/RxJava",
-    "branch": "3.x",
-    "language": "Java",
-    "description": "RxJava – Reactive Extensions for the JVM – a library for composing asynchronous and event-based programs using observable sequences for the Java VM."
-  },
-  {
-    "repo": "TermiX-official/cryptoclaw",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": ""
-  },
-  {
-    "repo": "numpy/numpy",
-    "branch": "main",
-    "language": "Python",
-    "description": "The fundamental package for scientific computing with Python."
-  },
-  {
-    "repo": "cilium/hubble",
-    "branch": "main",
-    "language": "Makefile",
-    "description": "Hubble - Network, Service & Security Observability for Kubernetes using eBPF"
-  },
-  {
-    "repo": "sequelize/sequelize",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Feature-rich ORM for modern Node.js and TypeScript, it supports PostgreSQL (with JSON and JSONB support), MySQL, MariaDB, SQLite, MS SQL Server, Snowflake, Oracle DB (v6), DB2 and DB2 for IBM i."
-  },
-  {
-    "repo": "MistKailorg/polymarket-copytrading-bot-newlogic",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "polymarket trading bot | polymarket trading bot | polymarket trading bot | polymarket trading bot | polymarket trading bot | polymarket trading bot | polymarket trading bot | polymarket trading bot | polymarket copy trading bot | polymarket copy trading bot | polymarket copy trading bot | polymarket copy trading bot | polymarket copy trading bot |"
-  },
-  {
-    "repo": "nagisanzenin/skyclaw",
+    "repo": "ryan26craf/polymarket-kalshi-arbitrage-bot",
     "branch": "main",
     "language": "Rust",
-    "description": "Hyper-lean & blazing fast Claw that lives and self-sustain on the cloud... indefinitely"
+    "description": "Kalshi open source trading bot to automate copy trading and arbitrage strategies on crypto prediction markets for free, with simple interface."
   },
   {
-    "repo": "ahmetb/kubectx",
+    "repo": "plotly/plotly.py",
     "branch": "master",
-    "language": "Go",
-    "description": "Faster way to switch between clusters and namespaces in kubectl"
-  },
-  {
-    "repo": "google/wire",
-    "branch": "master",
-    "language": "Go",
-    "description": "Compile-time Dependency Injection for Go"
-  },
-  {
-    "repo": "mnemox-ai/idea-reality-mcp",
-    "branch": "main",
     "language": "Python",
-    "description": "MCP server that reality-checks your AI project idea against GitHub, Hacker News, npm, PyPI & Product Hunt. Returns a 0-100 reality signal."
+    "description": "The interactive graphing library for Python :sparkles:"
   },
   {
-    "repo": "influxdata/telegraf",
-    "branch": "master",
-    "language": "Go",
-    "description": "Agent for collecting, processing, aggregating, and writing metrics, logs, and other arbitrary data."
-  },
-  {
-    "repo": "PyCQA/isort",
+    "repo": "lqs/retrotick",
     "branch": "main",
-    "language": "Python",
-    "description": "A Python utility / library to sort imports."
-  },
-  {
-    "repo": "ziglang/zig",
-    "branch": "master",
-    "language": "Zig",
-    "description": "Moved to Codeberg"
-  },
-  {
-    "repo": "ChownYourLife/paqet-tunnel",
-    "branch": "master",
-    "language": "Shell",
-    "description": ""
-  },
-  {
-    "repo": "quic-go/quic-go",
-    "branch": "master",
-    "language": "Go",
-    "description": "A production-ready QUIC implementation in pure Go"
-  },
-  {
-    "repo": "World-Open-Graph/br-acc",
-    "branch": "main",
-    "language": "Python",
-    "description": "World Transparency Graph public codebase"
-  },
-  {
-    "repo": "PaddlePaddle/PaddleOCR",
-    "branch": "main",
-    "language": "Python",
-    "description": "Turn any PDF or image document into structured data for your AI. A powerful, lightweight OCR toolkit that bridges the gap between images/PDFs and LLMs. Supports 100+ languages."
-  },
-  {
-    "repo": "pmndrs/react-three-fiber",
-    "branch": "master",
     "language": "TypeScript",
-    "description": "🇨🇭 A React renderer for Three.js"
+    "description": "💾 Run classic Windows & DOS executables in the browser — an x86 emulator + Win32/Win16/DOS API layer built from scratch in TypeScript"
+  },
+  {
+    "repo": "bitwarden/server",
+    "branch": "master",
+    "language": "C#",
+    "description": "Bitwarden infrastructure/backend (API, database, Docker, etc)."
+  },
+  {
+    "repo": "behzadea12/Paqet-Tunnel-Manager",
+    "branch": "main",
+    "language": "Shell",
+    "description": "Management script for paqet: raw socket KCP-based tunnel for firewall/DPI bypass. Supports kharej server and Iran client configurations."
+  },
+  {
+    "repo": "MeisnerDan/mission-control",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Open-source task management for the agentic era. The command center for solo entrepreneurs who delegate work to AI agents."
   }
 ]
