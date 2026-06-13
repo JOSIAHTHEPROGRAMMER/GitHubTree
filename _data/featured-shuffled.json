@@ -1,146 +1,146 @@
 [
   {
-    "repo": "sdmg15/Best-websites-a-programmer-should-visit",
-    "branch": "master",
-    "language": "Other",
-    "description": ":link: Some useful websites for programmers."
-  },
-  {
-    "repo": "gradle/gradle",
-    "branch": "master",
-    "language": "Groovy",
-    "description": "Adaptable, fast automation for all"
-  },
-  {
-    "repo": "videojs/video.js",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "Video.js - open source HTML5 video player"
-  },
-  {
-    "repo": "ApodexAI/AgentHarness",
-    "branch": "main",
-    "language": "Python",
-    "description": "Evaluation harness for Apodex-1.0 on public deep-research benchmarks."
-  },
-  {
-    "repo": "browserable/browserable",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "Open source and self-hostable browser automation library for AI agents"
-  },
-  {
-    "repo": "webpack-contrib/terser-webpack-plugin",
-    "branch": "master",
-    "language": "JavaScript",
-    "description": "Terser Plugin"
-  },
-  {
-    "repo": "pointfreeco/swift-snapshot-testing",
-    "branch": "main",
-    "language": "Swift",
-    "description": "📸 Delightful Swift snapshot testing."
-  },
-  {
-    "repo": "maybe-finance/maybe",
-    "branch": "main",
-    "language": "Ruby",
-    "description": "The personal finance app for everyone"
-  },
-  {
-    "repo": "NoizAI/skills",
-    "branch": "main",
-    "language": "Shell",
-    "description": "Allow your 🦞 bot to Shout, Speak, with human vibe"
-  },
-  {
-    "repo": "supermemoryai/openclaw-supermemory",
+    "repo": "foru17/clash-master",
     "branch": "main",
     "language": "TypeScript",
-    "description": "Supermemory allows Clawdbot / Molt bot to have PERFECT memory and recall for their own personal agent."
+    "description": "A modern and elegant dashboard for visualizing and managing Clash network traffic."
   },
   {
-    "repo": "ossu/computer-science",
+    "repo": "ahalpha/Snowbreak-AnitAmend",
     "branch": "master",
-    "language": "HTML",
-    "description": "🎓 Path to a free self-taught education in Computer Science!"
+    "language": "Lua",
+    "description": "尘白禁区反和谐模组 Snowbreak: Containment Zone Anti Amend / Censorship Mod"
   },
   {
-    "repo": "ComposioHQ/secure-openclaw",
-    "branch": "master",
-    "language": "JavaScript",
-    "description": "A personal 24x7 AI assistant like OpenClaw that runs on your messaging platforms. Send a message on WhatsApp, Telegram, Signal, or iMessage and get responses from Claude with full tool access, persistent memory, scheduled reminders, and integrations with 500+ apps."
-  },
-  {
-    "repo": "stablyai/agent-slack",
-    "branch": "master",
+    "repo": "crshdn/mission-control",
+    "branch": "main",
     "language": "TypeScript",
-    "description": "Slack automation CLI for AI agents"
+    "description": "AI Agent Orchestration Dashboard - Manage AI agents, assign tasks, and coordinate multi-agent collaboration via OpenClaw Gateway."
   },
   {
-    "repo": "kubernetes/minikube",
+    "repo": "earthly/earthly",
+    "branch": "main",
+    "language": "Go",
+    "description": "Super simple build framework with fast, repeatable builds and an instantly familiar syntax – like Dockerfile and Makefile had a baby."
+  },
+  {
+    "repo": "redis/hiredis",
+    "branch": "master",
+    "language": "C",
+    "description": "Minimalistic C client for Redis >= 1.2"
+  },
+  {
+    "repo": "VictoriaMetrics/VictoriaMetrics",
     "branch": "master",
     "language": "Go",
-    "description": "Run Kubernetes locally"
+    "description": "VictoriaMetrics: fast, cost-effective monitoring solution and time series database"
   },
   {
-    "repo": "HBAI-Ltd/Toonflow-app",
+    "repo": "golang-migrate/migrate",
     "branch": "master",
-    "language": "HTML",
-    "description": "Toonflow 是一款 AI 短剧漫剧工具，能够利用 AI 技术将小说自动转化为剧本，并结合 AI 生成的图片和视频，实现高效的短剧创作。借助 Toonflow，可以轻松完成从文字到影像的全流程，让短剧制作变得更加智能与便捷。"
+    "language": "Go",
+    "description": "Database migrations. CLI and Golang library."
   },
   {
-    "repo": "midudev/alg0.dev",
+    "repo": "GreatScott/enject",
     "branch": "main",
-    "language": "TypeScript",
-    "description": "alg0.dev is an interactive algorithm visualizer where classic algorithms come to life through step by step animations, controls to pause or advance, and access to the underlying code."
+    "language": "Rust",
+    "description": "enject: Hide .env secrets from prAIng eyes: secrets live in local encrypted stores (per project) and are injected directly into apps at runtime, never touching disk as plaintext."
   },
   {
-    "repo": "pi0/skillman",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "🤹 Manage project skills and lock them in skills.json"
-  },
-  {
-    "repo": "nomic-ai/gpt4all",
-    "branch": "main",
-    "language": "C++",
-    "description": "GPT4All: Run Local LLMs on Any Device. Open-source and available for commercial use."
-  },
-  {
-    "repo": "zilliztech/memsearch",
+    "repo": "OpusDelta/opusdelta",
     "branch": "main",
     "language": "Python",
-    "description": "A Markdown-first memory system, a standalone library for any AI agent. Inspired by OpenClaw."
+    "description": "The first expression of machine emotion, a living delta of perpetual evolution."
   },
   {
-    "repo": "mo1app/pipemagic",
+    "repo": "hehehai/voxt",
+    "branch": "main",
+    "language": "Swift",
+    "description": "[Beta] Voice input and translation app for macOS. Press to talk, release to paste."
+  },
+  {
+    "repo": "MapleShaw/yt-dlp-downloader-skill",
+    "branch": "master",
+    "language": "Shell",
+    "description": "Cursor Agent Skill for downloading videos using yt-dlp"
+  },
+  {
+    "repo": "vercel/ai-chatbot-svelte",
+    "branch": "main",
+    "language": "Svelte",
+    "description": "A full-featured, hackable SvelteKit AI chatbot built by Vercel"
+  },
+  {
+    "repo": "terausss/15min-btc-polymarket-trading-bot",
+    "branch": "main",
+    "language": "Python",
+    "description": "15min btc polymarket arbitrage bot-polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot"
+  },
+  {
+    "repo": "PanJiaChen/vue-element-admin",
+    "branch": "master",
+    "language": "Vue",
+    "description": ":tada: A magical vue admin                                                                https://panjiachen.github.io/vue-element-admin"
+  },
+  {
+    "repo": "phioranex/openclaw-docker",
+    "branch": "main",
+    "language": "PowerShell",
+    "description": ""
+  },
+  {
+    "repo": "panyiwei-home/Freedeck",
+    "branch": "main",
+    "language": "Python",
+    "description": "学习版游戏一站式平台"
+  },
+  {
+    "repo": "L1AD/claude-task-viewer",
+    "branch": "main",
+    "language": "HTML",
+    "description": "A web-based Kanban board for viewing Claude Code tasks"
+  },
+  {
+    "repo": "assafelovic/skyll",
+    "branch": "main",
+    "language": "Python",
+    "description": "A tool for AI agents to discover and learn skills autonomously"
+  },
+  {
+    "repo": "agentscope-ai/CoPaw",
+    "branch": "main",
+    "language": "Python",
+    "description": "Your Personal AI Assistant; easy to install, deploy on your own machine or on the cloud; supports multiple chat apps with easily extensible capabilities."
+  },
+  {
+    "repo": "actions/runner-images",
+    "branch": "main",
+    "language": "PowerShell",
+    "description": "GitHub Actions runner images"
+  },
+  {
+    "repo": "996icu/996.ICU",
+    "branch": "master",
+    "language": "Other",
+    "description": "Repo for counting stars and contributing. Press F to pay respect to glorious developers."
+  },
+  {
+    "repo": "Haleclipse/CodexDesktop-Rebuild",
+    "branch": "master",
+    "language": "JavaScript",
+    "description": "Codex Desktop App - Cross-platform Rebuild"
+  },
+  {
+    "repo": "microsoft/vscode",
     "branch": "main",
     "language": "TypeScript",
-    "description": "Visual image processing pipeline editor"
+    "description": "Visual Studio Code"
   },
   {
-    "repo": "zuckermanai/zuckerman",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Ultra-minimal personal AI agent: starts small, self-modifies its code live, adapts by writing exactly the code & features you need"
-  },
-  {
-    "repo": "Vasco0x4/AIDA",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "AI-Driven Security Assessment - Connect AI to 400+ pentesting tools via MCP"
-  },
-  {
-    "repo": "fspecii/ace-step-ui",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "🎵 The Ultimate Open Source Suno Alternative - Professional UI for ACE-Step 1.5 AI Music Generation. Free, local, unlimited. Stop paying for Suno!"
-  },
-  {
-    "repo": "stylelint/stylelint",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "A mighty CSS linter that helps you avoid errors and enforce conventions."
+    "repo": "libuv/libuv",
+    "branch": "v1.x",
+    "language": "C",
+    "description": "Cross-platform asynchronous I/O"
   }
 ]

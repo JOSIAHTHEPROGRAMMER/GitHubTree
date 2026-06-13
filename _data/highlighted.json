@@ -1,8 +1,8 @@
 {
-  "repo": "viitor-ai/viitor-voice-nar",
+  "repo": "skydoves/compose-nav-graph",
   "branch": "main",
-  "language": "Python",
-  "description": "A featured project on GitHubTree.",
-  "stars": 132,
-  "forks": 26
+  "language": "Kotlin",
+  "description": "⛵️ Compose Navigation Graph plugin for Android Studio that visualizes your entire app flow as an interactive map of rendered previews, typed arguments, and transitions.",
+  "stars": 183,
+  "forks": 5
 }
