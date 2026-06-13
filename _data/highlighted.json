@@ -1,8 +1,8 @@
 {
-  "repo": "skydoves/compose-nav-graph",
+  "repo": "s0912758806p/agentic-sop-to-work",
   "branch": "main",
-  "language": "Kotlin",
-  "description": "⛵️ Compose Navigation Graph plugin for Android Studio that visualizes your entire app flow as an interactive map of rendered previews, typed arguments, and transitions.",
-  "stars": 183,
-  "forks": 5
+  "language": "Python",
+  "description": "Turn human SOPs into deterministic, gated agentic workflows — a Claude Code plugin.",
+  "stars": 168,
+  "forks": 14
 }

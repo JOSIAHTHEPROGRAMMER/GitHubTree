@@ -1,146 +1,146 @@
 [
   {
-    "repo": "foru17/clash-master",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "A modern and elegant dashboard for visualizing and managing Clash network traffic."
-  },
-  {
-    "repo": "ahalpha/Snowbreak-AnitAmend",
+    "repo": "cncf/landscape",
     "branch": "master",
-    "language": "Lua",
-    "description": "尘白禁区反和谐模组 Snowbreak: Containment Zone Anti Amend / Censorship Mod"
+    "language": "Other",
+    "description": "🌄 The Cloud Native Interactive Landscape filters and sorts hundreds of projects and products, and shows details including GitHub stars, funding, first and last commits, contributor counts and headquarters location."
   },
   {
-    "repo": "crshdn/mission-control",
+    "repo": "Lucent-Snow/style-extractor",
     "branch": "main",
-    "language": "TypeScript",
-    "description": "AI Agent Orchestration Dashboard - Manage AI agents, assign tasks, and coordinate multi-agent collaboration via OpenClaw Gateway."
+    "language": "JavaScript",
+    "description": "一个能够提取最大化提取网页风格的skill"
   },
   {
-    "repo": "earthly/earthly",
-    "branch": "main",
-    "language": "Go",
-    "description": "Super simple build framework with fast, repeatable builds and an instantly familiar syntax – like Dockerfile and Makefile had a baby."
+    "repo": "home-assistant/core",
+    "branch": "dev",
+    "language": "Python",
+    "description": ":house_with_garden: Open source home automation that puts local control and privacy first."
   },
   {
-    "repo": "redis/hiredis",
-    "branch": "master",
-    "language": "C",
-    "description": "Minimalistic C client for Redis >= 1.2"
-  },
-  {
-    "repo": "VictoriaMetrics/VictoriaMetrics",
-    "branch": "master",
-    "language": "Go",
-    "description": "VictoriaMetrics: fast, cost-effective monitoring solution and time series database"
-  },
-  {
-    "repo": "golang-migrate/migrate",
-    "branch": "master",
-    "language": "Go",
-    "description": "Database migrations. CLI and Golang library."
-  },
-  {
-    "repo": "GreatScott/enject",
-    "branch": "main",
-    "language": "Rust",
-    "description": "enject: Hide .env secrets from prAIng eyes: secrets live in local encrypted stores (per project) and are injected directly into apps at runtime, never touching disk as plaintext."
-  },
-  {
-    "repo": "OpusDelta/opusdelta",
+    "repo": "vannyben7/course-learning-workspace",
     "branch": "main",
     "language": "Python",
-    "description": "The first expression of machine emotion, a living delta of perpetual evolution."
-  },
-  {
-    "repo": "hehehai/voxt",
-    "branch": "main",
-    "language": "Swift",
-    "description": "[Beta] Voice input and translation app for macOS. Press to talk, release to paste."
-  },
-  {
-    "repo": "MapleShaw/yt-dlp-downloader-skill",
-    "branch": "master",
-    "language": "Shell",
-    "description": "Cursor Agent Skill for downloading videos using yt-dlp"
-  },
-  {
-    "repo": "vercel/ai-chatbot-svelte",
-    "branch": "main",
-    "language": "Svelte",
-    "description": "A full-featured, hackable SvelteKit AI chatbot built by Vercel"
-  },
-  {
-    "repo": "terausss/15min-btc-polymarket-trading-bot",
-    "branch": "main",
-    "language": "Python",
-    "description": "15min btc polymarket arbitrage bot-polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot"
-  },
-  {
-    "repo": "PanJiaChen/vue-element-admin",
-    "branch": "master",
-    "language": "Vue",
-    "description": ":tada: A magical vue admin                                                                https://panjiachen.github.io/vue-element-admin"
-  },
-  {
-    "repo": "phioranex/openclaw-docker",
-    "branch": "main",
-    "language": "PowerShell",
     "description": ""
   },
   {
-    "repo": "panyiwei-home/Freedeck",
-    "branch": "main",
-    "language": "Python",
-    "description": "学习版游戏一站式平台"
-  },
-  {
-    "repo": "L1AD/claude-task-viewer",
-    "branch": "main",
-    "language": "HTML",
-    "description": "A web-based Kanban board for viewing Claude Code tasks"
-  },
-  {
-    "repo": "assafelovic/skyll",
-    "branch": "main",
-    "language": "Python",
-    "description": "A tool for AI agents to discover and learn skills autonomously"
-  },
-  {
-    "repo": "agentscope-ai/CoPaw",
-    "branch": "main",
-    "language": "Python",
-    "description": "Your Personal AI Assistant; easy to install, deploy on your own machine or on the cloud; supports multiple chat apps with easily extensible capabilities."
-  },
-  {
-    "repo": "actions/runner-images",
-    "branch": "main",
-    "language": "PowerShell",
-    "description": "GitHub Actions runner images"
-  },
-  {
-    "repo": "996icu/996.ICU",
+    "repo": "CocoaPods/CocoaPods",
     "branch": "master",
-    "language": "Other",
-    "description": "Repo for counting stars and contributing. Press F to pay respect to glorious developers."
+    "language": "Ruby",
+    "description": "The Cocoa Dependency Manager."
   },
   {
-    "repo": "Haleclipse/CodexDesktop-Rebuild",
-    "branch": "master",
-    "language": "JavaScript",
-    "description": "Codex Desktop App - Cross-platform Rebuild"
-  },
-  {
-    "repo": "microsoft/vscode",
+    "repo": "wagmi-dev/viem",
     "branch": "main",
     "language": "TypeScript",
-    "description": "Visual Studio Code"
+    "description": "TypeScript Interface for Ethereum"
   },
   {
-    "repo": "libuv/libuv",
-    "branch": "v1.x",
-    "language": "C",
-    "description": "Cross-platform asynchronous I/O"
+    "repo": "ReactiveX/RxJava",
+    "branch": "3.x",
+    "language": "Java",
+    "description": "RxJava – Reactive Extensions for the JVM – a library for composing asynchronous and event-based programs using observable sequences for the Java VM."
+  },
+  {
+    "repo": "TermiX-official/cryptoclaw",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": ""
+  },
+  {
+    "repo": "numpy/numpy",
+    "branch": "main",
+    "language": "Python",
+    "description": "The fundamental package for scientific computing with Python."
+  },
+  {
+    "repo": "cilium/hubble",
+    "branch": "main",
+    "language": "Makefile",
+    "description": "Hubble - Network, Service & Security Observability for Kubernetes using eBPF"
+  },
+  {
+    "repo": "sequelize/sequelize",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Feature-rich ORM for modern Node.js and TypeScript, it supports PostgreSQL (with JSON and JSONB support), MySQL, MariaDB, SQLite, MS SQL Server, Snowflake, Oracle DB (v6), DB2 and DB2 for IBM i."
+  },
+  {
+    "repo": "MistKailorg/polymarket-copytrading-bot-newlogic",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "polymarket trading bot | polymarket trading bot | polymarket trading bot | polymarket trading bot | polymarket trading bot | polymarket trading bot | polymarket trading bot | polymarket trading bot | polymarket copy trading bot | polymarket copy trading bot | polymarket copy trading bot | polymarket copy trading bot | polymarket copy trading bot |"
+  },
+  {
+    "repo": "nagisanzenin/skyclaw",
+    "branch": "main",
+    "language": "Rust",
+    "description": "Hyper-lean & blazing fast Claw that lives and self-sustain on the cloud... indefinitely"
+  },
+  {
+    "repo": "ahmetb/kubectx",
+    "branch": "master",
+    "language": "Go",
+    "description": "Faster way to switch between clusters and namespaces in kubectl"
+  },
+  {
+    "repo": "google/wire",
+    "branch": "master",
+    "language": "Go",
+    "description": "Compile-time Dependency Injection for Go"
+  },
+  {
+    "repo": "mnemox-ai/idea-reality-mcp",
+    "branch": "main",
+    "language": "Python",
+    "description": "MCP server that reality-checks your AI project idea against GitHub, Hacker News, npm, PyPI & Product Hunt. Returns a 0-100 reality signal."
+  },
+  {
+    "repo": "influxdata/telegraf",
+    "branch": "master",
+    "language": "Go",
+    "description": "Agent for collecting, processing, aggregating, and writing metrics, logs, and other arbitrary data."
+  },
+  {
+    "repo": "PyCQA/isort",
+    "branch": "main",
+    "language": "Python",
+    "description": "A Python utility / library to sort imports."
+  },
+  {
+    "repo": "ziglang/zig",
+    "branch": "master",
+    "language": "Zig",
+    "description": "Moved to Codeberg"
+  },
+  {
+    "repo": "ChownYourLife/paqet-tunnel",
+    "branch": "master",
+    "language": "Shell",
+    "description": ""
+  },
+  {
+    "repo": "quic-go/quic-go",
+    "branch": "master",
+    "language": "Go",
+    "description": "A production-ready QUIC implementation in pure Go"
+  },
+  {
+    "repo": "World-Open-Graph/br-acc",
+    "branch": "main",
+    "language": "Python",
+    "description": "World Transparency Graph public codebase"
+  },
+  {
+    "repo": "PaddlePaddle/PaddleOCR",
+    "branch": "main",
+    "language": "Python",
+    "description": "Turn any PDF or image document into structured data for your AI. A powerful, lightweight OCR toolkit that bridges the gap between images/PDFs and LLMs. Supports 100+ languages."
+  },
+  {
+    "repo": "pmndrs/react-three-fiber",
+    "branch": "master",
+    "language": "TypeScript",
+    "description": "🇨🇭 A React renderer for Three.js"
   }
 ]
