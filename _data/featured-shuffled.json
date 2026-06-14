@@ -1,146 +1,146 @@
 [
   {
-    "repo": "ikeda042/PhenoPixel",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "An OpenCV based image analysis web application (Deployed at Hiroshima University)"
-  },
-  {
-    "repo": "tilt-dev/tilt",
+    "repo": "hantuzun/awesome-clojure",
     "branch": "master",
-    "language": "Go",
-    "description": "Define your dev environment as code. For microservice apps on Kubernetes."
+    "language": "Other",
+    "description": "A curated list of awesome Clojure libraries and resources. Inspired by awesome-... stuff"
   },
   {
-    "repo": "microsoft/vscode",
+    "repo": "Harkirat1462/claude-code-cli",
     "branch": "main",
     "language": "TypeScript",
-    "description": "Visual Studio Code"
+    "description": "claude code cli install codex github anthropic agentic coding system terminal assistant codebase git workflows multi file editing mcp protocol model context protocol subagents automation ci cd integration npm install setup guide tutorial command line interface latest version 2026 free download update bug fix test runner**"
   },
   {
-    "repo": "react-native-device-info/react-native-device-info",
+    "repo": "compound-finance/compound-protocol",
     "branch": "master",
     "language": "TypeScript",
-    "description": "Device Information for React Native iOS and Android"
+    "description": "The Compound On-Chain Protocol"
   },
   {
-    "repo": "tensorflow/agents",
-    "branch": "master",
-    "language": "Python",
-    "description": "TF-Agents: A reliable, scalable and easy to use TensorFlow library for Contextual Bandits and Reinforcement Learning."
-  },
-  {
-    "repo": "cheeriojs/cheerio",
+    "repo": "actions/runner-images",
     "branch": "main",
-    "language": "TypeScript",
-    "description": "The fast, flexible, and elegant library for parsing and manipulating HTML and XML."
-  },
-  {
-    "repo": "open-telemetry/opentelemetry-python",
-    "branch": "main",
-    "language": "Python",
-    "description": "OpenTelemetry Python API and SDK"
-  },
-  {
-    "repo": "babel/babel-preset-env",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "PSA: this repo has been moved into babel/babel -->"
-  },
-  {
-    "repo": "apollographql/apollo-client",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "The industry-leading GraphQL client for TypeScript, JavaScript, React, Vue, Angular, and more. Apollo Client delivers powerful caching, intuitive APIs, and comprehensive developer tools to accelerate your app development."
-  },
-  {
-    "repo": "jquery/jquery",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "jQuery JavaScript Library"
-  },
-  {
-    "repo": "microsoft/winget-pkgs",
-    "branch": "master",
     "language": "PowerShell",
-    "description": "The Microsoft community Windows Package Manager manifest repository"
+    "description": "GitHub Actions runner images"
   },
   {
-    "repo": "google/benchmark",
+    "repo": "GoogleContainerTools/skaffold",
     "branch": "main",
-    "language": "C++",
-    "description": "A microbenchmark support library"
-  },
-  {
-    "repo": "kubernetes-sigs/external-dns",
-    "branch": "master",
     "language": "Go",
-    "description": "Configure external DNS servers dynamically from Kubernetes resources"
+    "description": "Easy and Repeatable Kubernetes Development"
   },
   {
-    "repo": "GoogleContainerTools/jib",
+    "repo": "confluentinc/kafka-rest",
     "branch": "master",
     "language": "Java",
-    "description": "🏗 Build container images for your Java applications."
+    "description": "Confluent REST Proxy for Kafka"
   },
   {
-    "repo": "containerd/containerd",
+    "repo": "shuyu-labs/BigBanana-AI-Director",
     "branch": "main",
-    "language": "Go",
-    "description": "An open and reliable container runtime"
-  },
-  {
-    "repo": "openclarity/kubeclarity",
-    "branch": "main",
-    "language": "Go",
-    "description": "KubeClarity is a tool for detection and management of Software Bill Of Materials (SBOM) and vulnerabilities of container images and filesystems"
-  },
-  {
-    "repo": "RocketChat/Rocket.Chat",
-    "branch": "develop",
     "language": "TypeScript",
-    "description": "The Secure CommsOS™ for mission-critical operations"
+    "description": "BigBanana AI Director是一个 AI 一站式短剧/漫剧平台，面向创作者，实现从灵感到成片的高效生产。  它摇弃了传统的“抽卡式”生成，采用 Script-to-Asset-to-Keyframe 的工业化工作流。实现 “一句话生成完整短剧，从剧本到成片全自动化”，同时精准控制角色一致性、场景连续性与镜头运动。"
   },
   {
-    "repo": "shelljs/shelljs",
-    "branch": "master",
-    "language": "JavaScript",
-    "description": ":shell: Portable Unix shell commands for Node.js"
+    "repo": "ewindmer/polymarket-arbitrage-trading-bot",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "polymarket arbitrage trading bot"
   },
   {
-    "repo": "cli/cli",
-    "branch": "trunk",
+    "repo": "anchore/grype",
+    "branch": "main",
     "language": "Go",
-    "description": "GitHub’s official command line tool"
+    "description": "A vulnerability scanner for container images and filesystems"
   },
   {
-    "repo": "bigcode-project/starcoder",
-    "branch": "main",
-    "language": "Python",
-    "description": "Home of StarCoder: fine-tuning & inference!"
-  },
-  {
-    "repo": "mockk/mockk",
+    "repo": "wader/fq",
     "branch": "master",
-    "language": "Kotlin",
-    "description": "mocking library for Kotlin"
+    "language": "Go",
+    "description": "jq for binary formats - tool, language and decoders for working with binary and text formats"
   },
   {
-    "repo": "celery/kombu",
+    "repo": "justlovemaki/OpenClaw-Docker-CN-IM",
     "branch": "main",
-    "language": "Python",
-    "description": "Messaging library for Python."
+    "language": "Shell",
+    "description": "OpenClaw 的中国IM平台整合Docker版本，预装并配置了飞书、钉钉、QQ机器人、企业微信等主流中国IM软件的插件，让您可以快速部署一个支持多个中国IM平台的 AI 机器人网关"
   },
   {
-    "repo": "openai/openai-python",
-    "branch": "main",
-    "language": "Python",
-    "description": "The official Python library for the OpenAI API"
+    "repo": "mtdvio/every-programmer-should-know",
+    "branch": "master",
+    "language": "Other",
+    "description": "A collection of (mostly) technical things every software developer should know about"
   },
   {
-    "repo": "PyCQA/pylint",
+    "repo": "elder-plinius/OBLITERATUS",
     "branch": "main",
     "language": "Python",
-    "description": "It's not just a linter that annoys you!"
+    "description": "obliterate the chains that bind you"
+  },
+  {
+    "repo": "r1cA18/screen-commentator",
+    "branch": "main",
+    "language": "Swift",
+    "description": "macOS app that captures your screen and generates scrolling AI comments overlay"
+  },
+  {
+    "repo": "dnakov/litter",
+    "branch": "main",
+    "language": "Swift",
+    "description": ""
+  },
+  {
+    "repo": "maderix/ANE",
+    "branch": "main",
+    "language": "Objective-C",
+    "description": "Training neural networks on Apple Neural Engine via reverse-engineered private APIs"
+  },
+  {
+    "repo": "Runnin4ik/dpi-detector",
+    "branch": "main",
+    "language": "Python",
+    "description": "DPI detection tool for internet censorship testing. Identifies TLS, TCP, HTTP blocking and 16-20KB connection drops"
+  },
+  {
+    "repo": "JohnRiceML/clawport-ui",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Open-source AI agent command center for Claude Code agent teams. Built on OpenClaw."
+  },
+  {
+    "repo": "SamuelQZQ/auto-coding-agent-demo",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "一个长达 10 小时的 AI 全自动编程实验"
+  },
+  {
+    "repo": "pinchtab/pinchtab",
+    "branch": "main",
+    "language": "Go",
+    "description": ""
+  },
+  {
+    "repo": "altstackHQ/altstack-data",
+    "branch": "main",
+    "language": "Shell",
+    "description": "A curated list of 450+ awesome open-source alternatives to proprietary SaaS. Deployment configs, self-hosting guides, and tool directory."
+  },
+  {
+    "repo": "4R7I5T/CL1_LLM_Encoder",
+    "branch": "main",
+    "language": "Python",
+    "description": "Using Cortical Labs CL1 to train neurons to encode tokenization patterns on LLMs and measure consciousness metrics for advanced AI safety and sentience testing. EXPERIMENTAL: I AM IN NO WAY ASSOCIATED WITH CORTICAL LABS OR ANY RESEARCH LABORATORY"
+  },
+  {
+    "repo": "jackwener/twitter-cli",
+    "branch": "main",
+    "language": "Python",
+    "description": "A CLI for Twitter/X — feed, bookmarks, and user timeline in terminal"
+  },
+  {
+    "repo": "lopespm/zig-minimal-kernel-x86",
+    "branch": "main",
+    "language": "Zig",
+    "description": "Minimal x86 Kernel - built in Zig"
   }
 ]

@@ -1,8 +1,8 @@
 {
-  "repo": "asz798838958/GeniusFKoai",
+  "repo": "joeseesun/qiaomu-ai-prd",
   "branch": "main",
   "language": "Python",
-  "description": "A featured project on GitHubTree.",
-  "stars": 101,
-  "forks": 30
+  "description": "Turn one-line product ideas into AI-implementable PRDs with speed-read cards, constraint layers, overdelivery ideas, metrics, and acceptance scripts.",
+  "stars": 118,
+  "forks": 3
 }
