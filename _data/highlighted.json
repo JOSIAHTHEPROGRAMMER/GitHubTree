@@ -1,8 +1,8 @@
 {
-  "repo": "gajus/zod-compiler",
+  "repo": "asz798838958/GeniusFKoai",
   "branch": "main",
-  "language": "TypeScript",
-  "description": "Compile Zod schemas into zero-overhead validation functions at build time. Works with Vite, webpack, esbuild, Rollup, etc",
-  "stars": 207,
-  "forks": 5
+  "language": "Python",
+  "description": "A featured project on GitHubTree.",
+  "stars": 101,
+  "forks": 30
 }

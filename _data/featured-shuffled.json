@@ -1,146 +1,146 @@
 [
   {
-    "repo": "CometBisonCrack/LockDown-Browser-Bypass-Tool",
-    "branch": "main",
-    "language": "C#",
-    "description": "Windows utility that restores standard keyboard shortcuts and window management capabilities during restricted browser sessions."
-  },
-  {
-    "repo": "GalaxyGeneralRobotics/LATENT",
-    "branch": "master",
-    "language": "Python",
-    "description": "Official implementation of Learning Athletic Humanoid Tennis Skills from Imperfect Human Motion Data"
-  },
-  {
-    "repo": "veyliss/ai-localbase",
-    "branch": "main",
-    "language": "Go",
-    "description": "一个本地优先的AI知识库系统（RAG），用于把本地文档接入辅导搜索与大模型对话流程。"
-  },
-  {
-    "repo": "spool-lab/spool",
+    "repo": "ikeda042/PhenoPixel",
     "branch": "main",
     "language": "TypeScript",
-    "description": "The missing search engine for your own data."
+    "description": "An OpenCV based image analysis web application (Deployed at Hiroshima University)"
   },
   {
-    "repo": "vthinkxie/claude-desktop-buddy-esp32-s3-touch-amoled-1.8",
+    "repo": "tilt-dev/tilt",
+    "branch": "master",
+    "language": "Go",
+    "description": "Define your dev environment as code. For microservice apps on Kubernetes."
+  },
+  {
+    "repo": "microsoft/vscode",
     "branch": "main",
-    "language": "C++",
-    "description": "esp32-s3-touch-amoled-1.8"
+    "language": "TypeScript",
+    "description": "Visual Studio Code"
   },
   {
-    "repo": "MME-Benchmarks/Video-MME-v2",
+    "repo": "react-native-device-info/react-native-device-info",
+    "branch": "master",
+    "language": "TypeScript",
+    "description": "Device Information for React Native iOS and Android"
+  },
+  {
+    "repo": "tensorflow/agents",
+    "branch": "master",
+    "language": "Python",
+    "description": "TF-Agents: A reliable, scalable and easy to use TensorFlow library for Contextual Bandits and Reinforcement Learning."
+  },
+  {
+    "repo": "cheeriojs/cheerio",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "The fast, flexible, and elegant library for parsing and manipulating HTML and XML."
+  },
+  {
+    "repo": "open-telemetry/opentelemetry-python",
     "branch": "main",
     "language": "Python",
-    "description": "Video-MME-v2: Towards the Next Stage in Benchmarks for Comprehensive Video Understanding"
+    "description": "OpenTelemetry Python API and SDK"
   },
   {
-    "repo": "0Chencc/clawgod",
+    "repo": "babel/babel-preset-env",
     "branch": "main",
+    "language": "JavaScript",
+    "description": "PSA: this repo has been moved into babel/babel -->"
+  },
+  {
+    "repo": "apollographql/apollo-client",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "The industry-leading GraphQL client for TypeScript, JavaScript, React, Vue, Angular, and more. Apollo Client delivers powerful caching, intuitive APIs, and comprehensive developer tools to accelerate your app development."
+  },
+  {
+    "repo": "jquery/jquery",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "jQuery JavaScript Library"
+  },
+  {
+    "repo": "microsoft/winget-pkgs",
+    "branch": "master",
     "language": "PowerShell",
-    "description": "This is NOT a third-party Claude Code client. ClawGod is a runtime patch applied on top of the official Claude Code. It works with any version — as Claude Code updates, the patch continues to take effect"
+    "description": "The Microsoft community Windows Package Manager manifest repository"
   },
   {
-    "repo": "Kuberwastaken/claude-code",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Claude Code's Source Code & Breakdown from a leaked map file in their NPM registry"
-  },
-  {
-    "repo": "dsclca12/auto_reg",
-    "branch": "main",
-    "language": "Python",
-    "description": "codex全自动注册机"
-  },
-  {
-    "repo": "T-Lab-CUHKSZ/claude-code",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Claude Code Source - Buildable Research Fork. Reverse-engineered build system, runnable with Bun."
-  },
-  {
-    "repo": "Krypto-Hashers-Community/polymarket-copytrading-bot-rust-sport-crypto",
-    "branch": "main",
-    "language": "Rust",
-    "description": "The ultimate Polymarket CopyTrading Bot in Rust. AI-powered Polymarket CopyTrading Bot for smarter trades. Self-hosted Polymarket CopyTrading Bot with dashboard. Real-time Polymarket CopyTrading Bot for top traders. Reliable Polymarket CopyTrading Bot for prediction markets. Fast Polymarket CopyTrading Bot. Try Polymarket CopyTrading Bot now."
-  },
-  {
-    "repo": "kessler/gemma-gem",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Gemma Gem runs Google's Gemma 4 model entirely on-device via WebGPU — no API keys, no cloud, no data leaving your machine."
-  },
-  {
-    "repo": "IyadhKhalfallah/clauditor",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Stop Claude Code from burning through your quota in 20 minutes. Auto-rotates oversized sessions and preserves context."
-  },
-  {
-    "repo": "cpaczek/any-buddy",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Hack Claude Code to get any buddy you want"
-  },
-  {
-    "repo": "tencent-connect/openclaw-qqbot",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "QQ Bot Channel Plugin for OpenClaw"
-  },
-  {
-    "repo": "asdsadasdasdasdsd121/Crimson-Desert-RenoDX",
+    "repo": "google/benchmark",
     "branch": "main",
     "language": "C++",
-    "description": "Crimson Desert RenoDX Full Version 2026 – Advanced Graphics Rendering Mod for Crimson Desert. Enhances lighting, dynamic shadows, realistic reflections, ambient occlusion and post-processing using RenoDX. Delivers significantly better visual fidelity and cinematic quality."
+    "description": "A microbenchmark support library"
   },
   {
-    "repo": "infraform/polymarket-kalshi-arbitrage-bot",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "kalshi-polymarket arbitrage bot, kalshi bot,  kalshi arbitrage bot, kalshi trading bot - detecting arb opportunity between two platforms (or in just kalshi market) and placing orders instantly, locking pnl || kalshi bot || arbitrage bot || trading bot || kalshi-polymarket arbitrage bot, kalshi bot, arbitrage bot, kalshi trading bot"
+    "repo": "kubernetes-sigs/external-dns",
+    "branch": "master",
+    "language": "Go",
+    "description": "Configure external DNS servers dynamically from Kubernetes resources"
   },
   {
-    "repo": "mem9-ai/mem9",
+    "repo": "GoogleContainerTools/jib",
+    "branch": "master",
+    "language": "Java",
+    "description": "🏗 Build container images for your Java applications."
+  },
+  {
+    "repo": "containerd/containerd",
     "branch": "main",
     "language": "Go",
-    "description": ""
+    "description": "An open and reliable container runtime"
   },
   {
-    "repo": "agenmod/immortal-skill",
+    "repo": "openclarity/kubeclarity",
     "branch": "main",
-    "language": "Python",
-    "description": "♾️ 开源数字永生框架 — 从聊天记录蒸馏任何人的七维数字分身。支持微信/飞书/iMessage/Telegram等12+平台，7种角色模板，对齐 OpenClaw Soul Spec 标准。一行指令让你的AI学会蒸馏。"
+    "language": "Go",
+    "description": "KubeClarity is a tool for detection and management of Software Bill Of Materials (SBOM) and vulnerabilities of container images and filesystems"
   },
   {
-    "repo": "HKUDS/OpenHarness",
-    "branch": "main",
-    "language": "Python",
-    "description": "OpenHarness: Open Agent Harness"
-  },
-  {
-    "repo": "uton88/dan-binary-releases",
-    "branch": "main",
-    "language": "Shell",
-    "description": "Public binary-only releases and install scripts for dan"
-  },
-  {
-    "repo": "Ahmad-progr/claude-leaked-files",
-    "branch": "main",
+    "repo": "RocketChat/Rocket.Chat",
+    "branch": "develop",
     "language": "TypeScript",
-    "description": "Mirrored snapshot of Claude Code's source (exposed 2026-03-31) preserved for educational purposes, defensive security research, and software supply-chain analysis."
+    "description": "The Secure CommsOS™ for mission-critical operations"
   },
   {
-    "repo": "cnlimiter/codex-manager-v3",
+    "repo": "shelljs/shelljs",
     "branch": "master",
+    "language": "JavaScript",
+    "description": ":shell: Portable Unix shell commands for Node.js"
+  },
+  {
+    "repo": "cli/cli",
+    "branch": "trunk",
+    "language": "Go",
+    "description": "GitHub’s official command line tool"
+  },
+  {
+    "repo": "bigcode-project/starcoder",
+    "branch": "main",
     "language": "Python",
-    "description": ""
+    "description": "Home of StarCoder: fine-tuning & inference!"
   },
   {
-    "repo": "alchaincyf/darwin-skill",
+    "repo": "mockk/mockk",
     "branch": "master",
-    "language": "HTML",
-    "description": "达尔文.skill —— 一个让你的Skill无限进化的系统：评估→改进→测试→保留或回滚 | Autoresearch-inspired autonomous skill optimization for Claude Code. Evaluate, improve, test, keep or revert."
+    "language": "Kotlin",
+    "description": "mocking library for Kotlin"
+  },
+  {
+    "repo": "celery/kombu",
+    "branch": "main",
+    "language": "Python",
+    "description": "Messaging library for Python."
+  },
+  {
+    "repo": "openai/openai-python",
+    "branch": "main",
+    "language": "Python",
+    "description": "The official Python library for the OpenAI API"
+  },
+  {
+    "repo": "PyCQA/pylint",
+    "branch": "main",
+    "language": "Python",
+    "description": "It's not just a linter that annoys you!"
   }
 ]
