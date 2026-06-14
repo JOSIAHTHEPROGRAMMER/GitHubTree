@@ -1,146 +1,146 @@
 [
   {
-    "repo": "hantuzun/awesome-clojure",
+    "repo": "hamzerbug-wq/Animal-Crossing-New-Horizons-PC",
+    "branch": "main",
+    "language": "C++",
+    "description": "Animal Crossing New Horizons PC Download April 2026 Version 3.0.2 Patch Notes Switch 2 Edition Resort Hotel Bulk Crafting Update Free High Performance 4K 60FPS Shader Fix Horizon Zero Texture Pack Mii Maker 25th Anniversary Event Guide NookLink Bridge Tutorial Stable Build Latest Emulator Eden Ryujinx"
+  },
+  {
+    "repo": "BigBodyCobain/Shadowbroker",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Open-source intelligence for the global theater. Track everything from the corporate/private jets of the wealthy, and spy satellites, to seismic events in one unified interface. The knowledge is available to all but rarely aggregated in the open, until now."
+  },
+  {
+    "repo": "photonstorm/phaser",
+    "branch": "master",
+    "language": "JavaScript",
+    "description": "Phaser is a fun, free and fast 2D game framework for making HTML5 games for desktop and mobile web browsers, supporting Canvas and WebGL rendering."
+  },
+  {
+    "repo": "bowang-lab/EchoJEPA",
+    "branch": "main",
+    "language": "Python",
+    "description": "Joint-embedding predictive architectures (JEPAs) for medical video."
+  },
+  {
+    "repo": "aeromomo/claw-compactor",
+    "branch": "main",
+    "language": "Python",
+    "description": "🦞 Claw Compactor — The 98% Crusher. Cut your AI agent token spend in half with 5 layered compression techniques."
+  },
+  {
+    "repo": "trufflesuite/truffle",
+    "branch": "develop",
+    "language": "TypeScript",
+    "description": ":warning: The Truffle Suite is being sunset. For information on ongoing support, migration options and FAQs, visit the Consensys blog. Thank you for all the support over the years."
+  },
+  {
+    "repo": "quic-go/quic-go",
+    "branch": "master",
+    "language": "Go",
+    "description": "A production-ready QUIC implementation in pure Go"
+  },
+  {
+    "repo": "stablyai/agent-slack",
+    "branch": "master",
+    "language": "TypeScript",
+    "description": "Slack automation CLI for AI agents"
+  },
+  {
+    "repo": "minix3/minix",
     "branch": "master",
     "language": "Other",
-    "description": "A curated list of awesome Clojure libraries and resources. Inspired by awesome-... stuff"
+    "description": "Redirection to the real github page only."
   },
   {
-    "repo": "Harkirat1462/claude-code-cli",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "claude code cli install codex github anthropic agentic coding system terminal assistant codebase git workflows multi file editing mcp protocol model context protocol subagents automation ci cd integration npm install setup guide tutorial command line interface latest version 2026 free download update bug fix test runner**"
-  },
-  {
-    "repo": "compound-finance/compound-protocol",
-    "branch": "master",
-    "language": "TypeScript",
-    "description": "The Compound On-Chain Protocol"
-  },
-  {
-    "repo": "actions/runner-images",
-    "branch": "main",
-    "language": "PowerShell",
-    "description": "GitHub Actions runner images"
-  },
-  {
-    "repo": "GoogleContainerTools/skaffold",
-    "branch": "main",
-    "language": "Go",
-    "description": "Easy and Repeatable Kubernetes Development"
-  },
-  {
-    "repo": "confluentinc/kafka-rest",
-    "branch": "master",
-    "language": "Java",
-    "description": "Confluent REST Proxy for Kafka"
-  },
-  {
-    "repo": "shuyu-labs/BigBanana-AI-Director",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "BigBanana AI Director是一个 AI 一站式短剧/漫剧平台，面向创作者，实现从灵感到成片的高效生产。  它摇弃了传统的“抽卡式”生成，采用 Script-to-Asset-to-Keyframe 的工业化工作流。实现 “一句话生成完整短剧，从剧本到成片全自动化”，同时精准控制角色一致性、场景连续性与镜头运动。"
-  },
-  {
-    "repo": "ewindmer/polymarket-arbitrage-trading-bot",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "polymarket arbitrage trading bot"
-  },
-  {
-    "repo": "anchore/grype",
-    "branch": "main",
-    "language": "Go",
-    "description": "A vulnerability scanner for container images and filesystems"
-  },
-  {
-    "repo": "wader/fq",
-    "branch": "master",
-    "language": "Go",
-    "description": "jq for binary formats - tool, language and decoders for working with binary and text formats"
-  },
-  {
-    "repo": "justlovemaki/OpenClaw-Docker-CN-IM",
-    "branch": "main",
-    "language": "Shell",
-    "description": "OpenClaw 的中国IM平台整合Docker版本，预装并配置了飞书、钉钉、QQ机器人、企业微信等主流中国IM软件的插件，让您可以快速部署一个支持多个中国IM平台的 AI 机器人网关"
-  },
-  {
-    "repo": "mtdvio/every-programmer-should-know",
+    "repo": "cs109/2015",
     "branch": "master",
     "language": "Other",
-    "description": "A collection of (mostly) technical things every software developer should know about"
+    "description": "Public material for CS109"
   },
   {
-    "repo": "elder-plinius/OBLITERATUS",
-    "branch": "main",
-    "language": "Python",
-    "description": "obliterate the chains that bind you"
-  },
-  {
-    "repo": "r1cA18/screen-commentator",
-    "branch": "main",
-    "language": "Swift",
-    "description": "macOS app that captures your screen and generates scrolling AI comments overlay"
-  },
-  {
-    "repo": "dnakov/litter",
-    "branch": "main",
-    "language": "Swift",
-    "description": ""
-  },
-  {
-    "repo": "maderix/ANE",
-    "branch": "main",
-    "language": "Objective-C",
-    "description": "Training neural networks on Apple Neural Engine via reverse-engineered private APIs"
-  },
-  {
-    "repo": "Runnin4ik/dpi-detector",
-    "branch": "main",
-    "language": "Python",
-    "description": "DPI detection tool for internet censorship testing. Identifies TLS, TCP, HTTP blocking and 16-20KB connection drops"
-  },
-  {
-    "repo": "JohnRiceML/clawport-ui",
+    "repo": "antonpk1/excalidraw-mcp-app",
     "branch": "main",
     "language": "TypeScript",
-    "description": "Open-source AI agent command center for Claude Code agent teams. Built on OpenClaw."
+    "description": "Excalidraw MCP App Server — hand-drawn diagrams for Claude"
   },
   {
-    "repo": "SamuelQZQ/auto-coding-agent-demo",
+    "repo": "timuronlinq/messari-crack",
+    "branch": "main",
+    "language": "Python",
+    "description": "Messari crack"
+  },
+  {
+    "repo": "EbookFoundation/free-programming-books",
+    "branch": "main",
+    "language": "Python",
+    "description": ":books: Freely available programming books"
+  },
+  {
+    "repo": "PanJiaChen/vue-element-admin",
+    "branch": "master",
+    "language": "Vue",
+    "description": ":tada: A magical vue admin                                                                https://panjiachen.github.io/vue-element-admin"
+  },
+  {
+    "repo": "fabriciotrinndade/ats-resume-generator-html",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "Generate ATS-friendly resumes using structured JSON and HTML"
+  },
+  {
+    "repo": "fffaraz/awesome-cpp",
+    "branch": "master",
+    "language": "Other",
+    "description": "A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny things. Inspired by awesome-... stuff."
+  },
+  {
+    "repo": "payloadcms/payload",
     "branch": "main",
     "language": "TypeScript",
-    "description": "一个长达 10 小时的 AI 全自动编程实验"
+    "description": "Payload is the open-source, fullstack Next.js framework, giving you instant backend superpowers. Get a full TypeScript backend and admin panel instantly. Use Payload as a headless CMS or for building powerful applications."
   },
   {
-    "repo": "pinchtab/pinchtab",
-    "branch": "main",
+    "repo": "Tencent/wepy",
+    "branch": "master",
+    "language": "JavaScript",
+    "description": "小程序组件化开发框架"
+  },
+  {
+    "repo": "ipfs/kubo",
+    "branch": "master",
     "language": "Go",
-    "description": ""
+    "description": "An IPFS implementation in Go"
   },
   {
-    "repo": "altstackHQ/altstack-data",
-    "branch": "main",
-    "language": "Shell",
-    "description": "A curated list of 450+ awesome open-source alternatives to proprietary SaaS. Deployment configs, self-hosting guides, and tool directory."
+    "repo": "flutter/flutter",
+    "branch": "master",
+    "language": "Dart",
+    "description": "Flutter makes it easy and fast to build beautiful apps for mobile and beyond"
   },
   {
-    "repo": "4R7I5T/CL1_LLM_Encoder",
-    "branch": "main",
+    "repo": "Developer-Y/cs-video-courses",
+    "branch": "master",
+    "language": "Other",
+    "description": "List of Computer Science courses with video lectures."
+  },
+  {
+    "repo": "opencv/opencv",
+    "branch": "4.x",
+    "language": "C++",
+    "description": "Open Source Computer Vision Library"
+  },
+  {
+    "repo": "lauris/awesome-scala",
+    "branch": "master",
     "language": "Python",
-    "description": "Using Cortical Labs CL1 to train neurons to encode tokenization patterns on LLMs and measure consciousness metrics for advanced AI safety and sentience testing. EXPERIMENTAL: I AM IN NO WAY ASSOCIATED WITH CORTICAL LABS OR ANY RESEARCH LABORATORY"
+    "description": "A community driven list of useful Scala libraries, frameworks and software."
   },
   {
-    "repo": "jackwener/twitter-cli",
+    "repo": "nodejs/node",
     "branch": "main",
-    "language": "Python",
-    "description": "A CLI for Twitter/X — feed, bookmarks, and user timeline in terminal"
-  },
-  {
-    "repo": "lopespm/zig-minimal-kernel-x86",
-    "branch": "main",
-    "language": "Zig",
-    "description": "Minimal x86 Kernel - built in Zig"
+    "language": "JavaScript",
+    "description": "Node.js JavaScript runtime ✨🐢🚀✨"
   }
 ]
