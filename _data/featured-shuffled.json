@@ -1,146 +1,146 @@
 [
   {
-    "repo": "hamzerbug-wq/Animal-Crossing-New-Horizons-PC",
+    "repo": "KKKKhazix/Khazix-Skills",
     "branch": "main",
-    "language": "C++",
-    "description": "Animal Crossing New Horizons PC Download April 2026 Version 3.0.2 Patch Notes Switch 2 Edition Resort Hotel Bulk Crafting Update Free High Performance 4K 60FPS Shader Fix Horizon Zero Texture Pack Mii Maker 25th Anniversary Event Guide NookLink Bridge Tutorial Stable Build Latest Emulator Eden Ryujinx"
+    "language": "Python",
+    "description": ""
   },
   {
-    "repo": "BigBodyCobain/Shadowbroker",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Open-source intelligence for the global theater. Track everything from the corporate/private jets of the wealthy, and spy satellites, to seismic events in one unified interface. The knowledge is available to all but rarely aggregated in the open, until now."
-  },
-  {
-    "repo": "photonstorm/phaser",
-    "branch": "master",
+    "repo": "atomiks/tippyjs",
+    "branch": "v6",
     "language": "JavaScript",
-    "description": "Phaser is a fun, free and fast 2D game framework for making HTML5 games for desktop and mobile web browsers, supporting Canvas and WebGL rendering."
+    "description": "Tooltip, popover, dropdown, and menu library"
   },
   {
-    "repo": "bowang-lab/EchoJEPA",
+    "repo": "Gen-Verse/OpenClaw-RL",
     "branch": "main",
-    "language": "Python",
-    "description": "Joint-embedding predictive architectures (JEPAs) for medical video."
-  },
-  {
-    "repo": "aeromomo/claw-compactor",
-    "branch": "main",
-    "language": "Python",
-    "description": "🦞 Claw Compactor — The 98% Crusher. Cut your AI agent token spend in half with 5 layered compression techniques."
-  },
-  {
-    "repo": "trufflesuite/truffle",
-    "branch": "develop",
     "language": "TypeScript",
-    "description": ":warning: The Truffle Suite is being sunset. For information on ongoing support, migration options and FAQs, visit the Consensys blog. Thank you for all the support over the years."
+    "description": "OpenClaw-RL: Personalize openclaw simply by talking to it"
   },
   {
-    "repo": "quic-go/quic-go",
+    "repo": "rit3zh/expo-motion-tabs",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "⚡️ Smooth motion tabs for Expo Router"
+  },
+  {
+    "repo": "Aryagm/dflash-mlx",
+    "branch": "main",
+    "language": "Python",
+    "description": "Exact speculative decoding on Apple Silicon, powered by MLX."
+  },
+  {
+    "repo": "Einsia/OpenChronicle",
+    "branch": "main",
+    "language": "Python",
+    "description": ""
+  },
+  {
+    "repo": "CrewSX/polymarket-esports-trading-bot",
+    "branch": "main",
+    "language": "Python",
+    "description": "Automated prediction market trading bot for Polymarket esports markets — LoL, Dota 2, CS2, Valorant, Rainbow Six, Call of Duty, Mobile Legends, StarCraft II & Overwatch."
+  },
+  {
+    "repo": "superturtlee/gbl_root_canoe",
+    "branch": "main",
+    "language": "C",
+    "description": "凭什么ROOT就不给用指纹支付？？？"
+  },
+  {
+    "repo": "huangserva/claude-code-cli",
     "branch": "master",
+    "language": "TypeScript",
+    "description": "这是 Claude Code 的 CLI 客户端主体（src/ 目录），即整个终端交互层的源码。具体包含： 1. CLI 入口与命令解析 — main.tsx（4684行）、entrypoints/（CLI 模式、SDK 模式、MCP 模式） 2. 终端 UI 渲染 — components/（144 个组件，用 React + Ink 渲染终端界面） 3. 工具系统 — tools/（43 个工具，Bash、文件读写编辑、Grep、Glob、Web 搜索等） 4. API 通信层 — services/api/（与 Anthropic 后端通信） 5. MCP 协议  6. 多 Agent/Team 协作 l 7. 认证与策略 8. 辅助服务 等"
+  },
+  {
+    "repo": "theNetworkChuck/axios-attack-guide",
+    "branch": "main",
+    "language": "Shell",
+    "description": "Axios npm supply chain attack — detection scripts, IOCs, and protection guide"
+  },
+  {
+    "repo": "shenhao-stu/ohmycaptcha",
+    "branch": "main",
+    "language": "Python",
+    "description": "⚡ Self-hostable YesCaptcha-compatible captcha solver built with FastAPI, Playwright, and OpenAI-compatible multimodal models."
+  },
+  {
+    "repo": "shaom/svg-hand-drawn-skill",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": ""
+  },
+  {
+    "repo": "andrew-shwetzer/career-ops-plugin",
+    "branch": "main",
+    "language": "HTML",
+    "description": "Claude Cowork plugin for job seekers. Evaluate postings, generate ATS resumes, scan career portals, track applications. Any industry. Adapted from santifer/career-ops."
+  },
+  {
+    "repo": "securo-finance/securo",
+    "branch": "main",
+    "language": "Python",
+    "description": "Open-source personal finance manager. Self-hosted, privacy-first."
+  },
+  {
+    "repo": "Emanuele-web04/remodex",
+    "branch": "main",
+    "language": "Swift",
+    "description": "Remote Control for Codex. 24/7 version on the way"
+  },
+  {
+    "repo": "atomicmemory/llm-wiki-compiler",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "The knowledge compiler. Raw sources in, interlinked wiki out. Inspired by Karpathy's LLM Wiki pattern."
+  },
+  {
+    "repo": "nashsu/opencli-rs",
+    "branch": "main",
+    "language": "Rust",
+    "description": "Opencli-rs is a  Blazing fast, memory-safe command-line tool — Fetch information from any website with a single command. Covers Twitter/X, Reddit, YouTube, HackerNews, Bilibili, Zhihu, Xiaohongshu, and 55+ sites, with support for controlling Electron desktop apps, integrating local CLI tools (gh, docker, kubectl)"
+  },
+  {
+    "repo": "mem9-ai/mem9",
+    "branch": "main",
     "language": "Go",
-    "description": "A production-ready QUIC implementation in pure Go"
+    "description": ""
   },
   {
-    "repo": "stablyai/agent-slack",
-    "branch": "master",
-    "language": "TypeScript",
-    "description": "Slack automation CLI for AI agents"
-  },
-  {
-    "repo": "minix3/minix",
-    "branch": "master",
-    "language": "Other",
-    "description": "Redirection to the real github page only."
-  },
-  {
-    "repo": "cs109/2015",
-    "branch": "master",
-    "language": "Other",
-    "description": "Public material for CS109"
-  },
-  {
-    "repo": "antonpk1/excalidraw-mcp-app",
+    "repo": "0xKarl-dev/claw-codes",
     "branch": "main",
     "language": "TypeScript",
-    "description": "Excalidraw MCP App Server — hand-drawn diagrams for Claude"
+    "description": "Fastest repo on my GitHub to hit 50⭐ in under 2 hours. Building tools that get real things done. Now rewriting in Rust."
   },
   {
-    "repo": "timuronlinq/messari-crack",
+    "repo": "bababuyyy/unity-isometric-pixel-pipeline",
     "branch": "main",
-    "language": "Python",
-    "description": "Messari crack"
+    "language": "ShaderLab",
+    "description": "Pixel art isometric render pipeline for Unity 6 URP — toon shading, GPU grass, outline, sharp upscale"
   },
   {
-    "repo": "EbookFoundation/free-programming-books",
-    "branch": "main",
-    "language": "Python",
-    "description": ":books: Freely available programming books"
-  },
-  {
-    "repo": "PanJiaChen/vue-element-admin",
+    "repo": "tonbistudio/turboquant-pytorch",
     "branch": "master",
-    "language": "Vue",
-    "description": ":tada: A magical vue admin                                                                https://panjiachen.github.io/vue-element-admin"
+    "language": "Python",
+    "description": "From-scratch PyTorch implementation of Google's TurboQuant (ICLR 2026) for LLM KV cache compression. 5x compression at 3-bit with 99.5% attention fidelity."
   },
   {
-    "repo": "fabriciotrinndade/ats-resume-generator-html",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "Generate ATS-friendly resumes using structured JSON and HTML"
-  },
-  {
-    "repo": "fffaraz/awesome-cpp",
-    "branch": "master",
-    "language": "Other",
-    "description": "A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny things. Inspired by awesome-... stuff."
-  },
-  {
-    "repo": "payloadcms/payload",
+    "repo": "klsf/codex-register",
     "branch": "main",
     "language": "TypeScript",
-    "description": "Payload is the open-source, fullstack Next.js framework, giving you instant backend superpowers. Get a full TypeScript backend and admin panel instantly. Use Payload as a headless CMS or for building powerful applications."
+    "description": "用于批量注册 OpenAI 账号、登录生成 `auth` 授权文件，以及批量检查凭证剩余可用额度。"
   },
   {
-    "repo": "Tencent/wepy",
-    "branch": "master",
-    "language": "JavaScript",
-    "description": "小程序组件化开发框架"
-  },
-  {
-    "repo": "ipfs/kubo",
-    "branch": "master",
-    "language": "Go",
-    "description": "An IPFS implementation in Go"
-  },
-  {
-    "repo": "flutter/flutter",
-    "branch": "master",
-    "language": "Dart",
-    "description": "Flutter makes it easy and fast to build beautiful apps for mobile and beyond"
-  },
-  {
-    "repo": "Developer-Y/cs-video-courses",
-    "branch": "master",
-    "language": "Other",
-    "description": "List of Computer Science courses with video lectures."
-  },
-  {
-    "repo": "opencv/opencv",
-    "branch": "4.x",
-    "language": "C++",
-    "description": "Open Source Computer Vision Library"
-  },
-  {
-    "repo": "lauris/awesome-scala",
-    "branch": "master",
-    "language": "Python",
-    "description": "A community driven list of useful Scala libraries, frameworks and software."
-  },
-  {
-    "repo": "nodejs/node",
+    "repo": "mizchi/actrun",
     "branch": "main",
-    "language": "JavaScript",
-    "description": "Node.js JavaScript runtime ✨🐢🚀✨"
+    "language": "MoonBit",
+    "description": "GitHub Actions compatible CI runner in MoonBit"
+  },
+  {
+    "repo": "kapishdima/remocn",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Production-ready animations, transitions, backgrounds, and scenes for Remotion. A shadcn registry that lets you `npx shadcn add` polished video components into any Remotion project. Built for solo builders shipping demo videos fast"
   }
 ]
