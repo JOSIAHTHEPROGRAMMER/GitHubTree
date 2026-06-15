@@ -1,8 +1,8 @@
 {
-  "repo": "encrypted-spaces/prototype",
+  "repo": "devassisthub/Zelda-TP-PC-Port",
   "branch": "main",
-  "language": "Rust",
-  "description": "A cryptographic framework for building collaborative applications over an untrusted server. Research prototype.",
-  "stars": 115,
-  "forks": 6
+  "language": "C#",
+  "description": " gamecube legend of zelda Zelda Twilight Princess switch PC port TP  dusk decompilation native 60fps widescreen 4K graphics HD texture pack controller support config tools mods source build",
+  "stars": 101,
+  "forks": 0
 }
