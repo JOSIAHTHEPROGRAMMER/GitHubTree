@@ -1,8 +1,8 @@
 {
-  "repo": "itsinseong/value-for-fable",
-  "branch": "master",
-  "language": "Python",
-  "description": "Opus에 근접한 품질을 Sonnet 단가에 — 가성비 AI 운영 모델을 직접 구축한 Claude Code 프로젝트",
-  "stars": 177,
-  "forks": 40
+  "repo": "rbrown101010/rilable",
+  "branch": "main",
+  "language": "TypeScript",
+  "description": "An iPhone app that builds apps — prompt to live web + iOS apps. SwiftUI + Convex + Claude + Daytona + Chorus.",
+  "stars": 110,
+  "forks": 42
 }

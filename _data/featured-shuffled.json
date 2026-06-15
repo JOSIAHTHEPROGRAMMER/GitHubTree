@@ -1,146 +1,146 @@
 [
   {
-    "repo": "KKKKhazix/Khazix-Skills",
-    "branch": "main",
-    "language": "Python",
-    "description": ""
-  },
-  {
-    "repo": "atomiks/tippyjs",
-    "branch": "v6",
-    "language": "JavaScript",
-    "description": "Tooltip, popover, dropdown, and menu library"
-  },
-  {
-    "repo": "Gen-Verse/OpenClaw-RL",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "OpenClaw-RL: Personalize openclaw simply by talking to it"
-  },
-  {
-    "repo": "rit3zh/expo-motion-tabs",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "⚡️ Smooth motion tabs for Expo Router"
-  },
-  {
-    "repo": "Aryagm/dflash-mlx",
-    "branch": "main",
-    "language": "Python",
-    "description": "Exact speculative decoding on Apple Silicon, powered by MLX."
-  },
-  {
-    "repo": "Einsia/OpenChronicle",
-    "branch": "main",
-    "language": "Python",
-    "description": ""
-  },
-  {
-    "repo": "CrewSX/polymarket-esports-trading-bot",
-    "branch": "main",
-    "language": "Python",
-    "description": "Automated prediction market trading bot for Polymarket esports markets — LoL, Dota 2, CS2, Valorant, Rainbow Six, Call of Duty, Mobile Legends, StarCraft II & Overwatch."
-  },
-  {
-    "repo": "superturtlee/gbl_root_canoe",
-    "branch": "main",
-    "language": "C",
-    "description": "凭什么ROOT就不给用指纹支付？？？"
-  },
-  {
-    "repo": "huangserva/claude-code-cli",
+    "repo": "calesthio/Crucix",
     "branch": "master",
-    "language": "TypeScript",
-    "description": "这是 Claude Code 的 CLI 客户端主体（src/ 目录），即整个终端交互层的源码。具体包含： 1. CLI 入口与命令解析 — main.tsx（4684行）、entrypoints/（CLI 模式、SDK 模式、MCP 模式） 2. 终端 UI 渲染 — components/（144 个组件，用 React + Ink 渲染终端界面） 3. 工具系统 — tools/（43 个工具，Bash、文件读写编辑、Grep、Glob、Web 搜索等） 4. API 通信层 — services/api/（与 Anthropic 后端通信） 5. MCP 协议  6. 多 Agent/Team 协作 l 7. 认证与策略 8. 辅助服务 等"
-  },
-  {
-    "repo": "theNetworkChuck/axios-attack-guide",
-    "branch": "main",
-    "language": "Shell",
-    "description": "Axios npm supply chain attack — detection scripts, IOCs, and protection guide"
-  },
-  {
-    "repo": "shenhao-stu/ohmycaptcha",
-    "branch": "main",
-    "language": "Python",
-    "description": "⚡ Self-hostable YesCaptcha-compatible captcha solver built with FastAPI, Playwright, and OpenAI-compatible multimodal models."
-  },
-  {
-    "repo": "shaom/svg-hand-drawn-skill",
-    "branch": "main",
     "language": "JavaScript",
-    "description": ""
+    "description": "Your personal intelligence agent. Watches the world from 26 data sources and pings you when something changes."
   },
   {
-    "repo": "andrew-shwetzer/career-ops-plugin",
-    "branch": "main",
-    "language": "HTML",
-    "description": "Claude Cowork plugin for job seekers. Evaluate postings, generate ATS resumes, scan career portals, track applications. Any industry. Adapted from santifer/career-ops."
-  },
-  {
-    "repo": "securo-finance/securo",
+    "repo": "bigcode-project/starcoder",
     "branch": "main",
     "language": "Python",
-    "description": "Open-source personal finance manager. Self-hosted, privacy-first."
+    "description": "Home of StarCoder: fine-tuning & inference!"
   },
   {
-    "repo": "Emanuele-web04/remodex",
-    "branch": "main",
-    "language": "Swift",
-    "description": "Remote Control for Codex. 24/7 version on the way"
-  },
-  {
-    "repo": "atomicmemory/llm-wiki-compiler",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "The knowledge compiler. Raw sources in, interlinked wiki out. Inspired by Karpathy's LLM Wiki pattern."
-  },
-  {
-    "repo": "nashsu/opencli-rs",
-    "branch": "main",
-    "language": "Rust",
-    "description": "Opencli-rs is a  Blazing fast, memory-safe command-line tool — Fetch information from any website with a single command. Covers Twitter/X, Reddit, YouTube, HackerNews, Bilibili, Zhihu, Xiaohongshu, and 55+ sites, with support for controlling Electron desktop apps, integrating local CLI tools (gh, docker, kubectl)"
-  },
-  {
-    "repo": "mem9-ai/mem9",
+    "repo": "jaegertracing/jaeger",
     "branch": "main",
     "language": "Go",
+    "description": "CNCF Jaeger, a Distributed Tracing Platform"
+  },
+  {
+    "repo": "grpc/grpc-go",
+    "branch": "master",
+    "language": "Go",
+    "description": "The Go language implementation of gRPC. HTTP/2 based RPC"
+  },
+  {
+    "repo": "memovai/mimiclaw",
+    "branch": "main",
+    "language": "C",
+    "description": "MimiClaw: Run OpenClaw on a $5 chip. No OS(Linux). No Node.js. No Mac mini. No Raspberry Pi. No VPS.😗Local-first memory. Shareable. Portable. Privacy-first."
+  },
+  {
+    "repo": "Ibrahim-3d/conductor-orchestrator-superpowers",
+    "branch": "master",
+    "language": "Python",
+    "description": "Multi-agent orchestration system for Claude Code with parallel execution, automated quality gates, Board of Directors, and bundled Superpowers skills"
+  },
+  {
+    "repo": "nextcloud/server",
+    "branch": "master",
+    "language": "PHP",
+    "description": "☁️ Nextcloud server, a safe home for all your data"
+  },
+  {
+    "repo": "whatwg/html",
+    "branch": "main",
+    "language": "HTML",
+    "description": "HTML Standard"
+  },
+  {
+    "repo": "nightwatchjs/nightwatch",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "Integrated end-to-end testing framework written in Node.js and using W3C Webdriver API. Developed at @browserstack"
+  },
+  {
+    "repo": "actions/virtual-environments",
+    "branch": "main",
+    "language": "PowerShell",
+    "description": "GitHub Actions runner images"
+  },
+  {
+    "repo": "godotengine/godot-docs",
+    "branch": "master",
+    "language": "reStructuredText",
+    "description": "Godot Engine official documentation"
+  },
+  {
+    "repo": "mli55/pdfdelta",
+    "branch": "main",
+    "language": "Python",
     "description": ""
   },
   {
-    "repo": "0xKarl-dev/claw-codes",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Fastest repo on my GitHub to hit 50⭐ in under 2 hours. Building tools that get real things done. Now rewriting in Rust."
-  },
-  {
-    "repo": "bababuyyy/unity-isometric-pixel-pipeline",
-    "branch": "main",
-    "language": "ShaderLab",
-    "description": "Pixel art isometric render pipeline for Unity 6 URP — toon shading, GPU grass, outline, sharp upscale"
-  },
-  {
-    "repo": "tonbistudio/turboquant-pytorch",
+    "repo": "tj/n",
     "branch": "master",
+    "language": "Shell",
+    "description": "Node version management"
+  },
+  {
+    "repo": "quasarframework/quasar",
+    "branch": "dev",
+    "language": "JavaScript",
+    "description": "Quasar Framework - Build high-performance VueJS user interfaces in record time"
+  },
+  {
+    "repo": "plausible/analytics",
+    "branch": "master",
+    "language": "Elixir",
+    "description": "Simple, open source, lightweight and privacy-friendly web analytics alternative to Google Analytics."
+  },
+  {
+    "repo": "rebane2001/x86CSS",
+    "branch": "mane",
+    "language": "HTML",
+    "description": "x86CSS is a working CSS-only x86 CPU/emulator/computer. No JavaScript required."
+  },
+  {
+    "repo": "lailoo/butcher-wiki",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Agent engineering knowledge base — dissects open-source projects into portable engineering components"
+  },
+  {
+    "repo": "remotion-dev/remotion",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "🎥      Make videos programmatically with React"
+  },
+  {
+    "repo": "adithya-s-k/manim_skill",
+    "branch": "main",
     "language": "Python",
-    "description": "From-scratch PyTorch implementation of Google's TurboQuant (ICLR 2026) for LLM KV cache compression. 5x compression at 3-bit with 99.5% attention fidelity."
+    "description": "Agent skills for Manim to create 3Blue1Brown style animations."
   },
   {
-    "repo": "klsf/codex-register",
+    "repo": "nickustinov/itsytv-macos",
+    "branch": "main",
+    "language": "Swift",
+    "description": "The missing Apple TV remote app for macOS"
+  },
+  {
+    "repo": "better-auth/better-icons",
     "branch": "main",
     "language": "TypeScript",
-    "description": "用于批量注册 OpenAI 账号、登录生成 `auth` 授权文件，以及批量检查凭证剩余可用额度。"
+    "description": "Skill and MCP server for searching and retrieving icons"
   },
   {
-    "repo": "mizchi/actrun",
-    "branch": "main",
-    "language": "MoonBit",
-    "description": "GitHub Actions compatible CI runner in MoonBit"
+    "repo": "select2/select2",
+    "branch": "develop",
+    "language": "JavaScript",
+    "description": "Select2 is a jQuery based replacement for select boxes. It supports searching, remote data sets, and infinite scrolling of results."
   },
   {
-    "repo": "kapishdima/remocn",
-    "branch": "main",
+    "repo": "golang/protobuf",
+    "branch": "master",
+    "language": "Go",
+    "description": "Go support for Google's protocol buffers"
+  },
+  {
+    "repo": "electron-userland/electron-builder",
+    "branch": "master",
     "language": "TypeScript",
-    "description": "Production-ready animations, transitions, backgrounds, and scenes for Remotion. A shadcn registry that lets you `npx shadcn add` polished video components into any Remotion project. Built for solo builders shipping demo videos fast"
+    "description": "A complete solution to package and build a ready for distribution Electron app with “auto update” support out of the box"
   }
 ]
