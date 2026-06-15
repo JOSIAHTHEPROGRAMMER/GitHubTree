@@ -1,146 +1,146 @@
 [
   {
-    "repo": "calesthio/Crucix",
-    "branch": "master",
-    "language": "JavaScript",
-    "description": "Your personal intelligence agent. Watches the world from 26 data sources and pings you when something changes."
-  },
-  {
-    "repo": "bigcode-project/starcoder",
+    "repo": "depreciating/DoodleCloud",
     "branch": "main",
     "language": "Python",
-    "description": "Home of StarCoder: fine-tuning & inference!"
+    "description": "Cloud Storage using Instagram."
   },
   {
-    "repo": "jaegertracing/jaeger",
+    "repo": "pypa/pipx",
     "branch": "main",
-    "language": "Go",
-    "description": "CNCF Jaeger, a Distributed Tracing Platform"
-  },
-  {
-    "repo": "grpc/grpc-go",
-    "branch": "master",
-    "language": "Go",
-    "description": "The Go language implementation of gRPC. HTTP/2 based RPC"
-  },
-  {
-    "repo": "memovai/mimiclaw",
-    "branch": "main",
-    "language": "C",
-    "description": "MimiClaw: Run OpenClaw on a $5 chip. No OS(Linux). No Node.js. No Mac mini. No Raspberry Pi. No VPS.😗Local-first memory. Shareable. Portable. Privacy-first."
-  },
-  {
-    "repo": "Ibrahim-3d/conductor-orchestrator-superpowers",
-    "branch": "master",
     "language": "Python",
-    "description": "Multi-agent orchestration system for Claude Code with parallel execution, automated quality gates, Board of Directors, and bundled Superpowers skills"
+    "description": "Install and Run Python Applications in Isolated Environments"
   },
   {
-    "repo": "nextcloud/server",
+    "repo": "sharkdp/hyperfine",
     "branch": "master",
-    "language": "PHP",
-    "description": "☁️ Nextcloud server, a safe home for all your data"
+    "language": "Rust",
+    "description": "A command-line benchmarking tool"
   },
   {
-    "repo": "whatwg/html",
+    "repo": "ythx-101/x-tweet-fetcher",
+    "branch": "main",
+    "language": "Python",
+    "description": "🦞 Fetch tweets and replies from X/Twitter without login or API keys. OpenClaw skill."
+  },
+  {
+    "repo": "pedronaldocr07/Solana-Meteora-Alpha-Vault",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "meteora alpha vault to create large marketcap, execute deposit, claim, withdraw across unlimited wallets"
+  },
+  {
+    "repo": "machinarii/hypervibe",
+    "branch": "main",
+    "language": "Swift",
+    "description": "One-handed vibe coding using Apple TV Remote, customizable buttons and gestures."
+  },
+  {
+    "repo": "ghostwright/phantom",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "An AI co-worker with its own computer. Self-evolving, persistent memory, MCP server, secure credential collection, email identity. Built on the Claude Agent SDK."
+  },
+  {
+    "repo": "upper-up/meta-lobbying-and-other-findings",
     "branch": "main",
     "language": "HTML",
-    "description": "HTML Standard"
+    "description": ""
   },
   {
-    "repo": "nightwatchjs/nightwatch",
+    "repo": "walter-grace/mac-code",
     "branch": "main",
-    "language": "JavaScript",
-    "description": "Integrated end-to-end testing framework written in Node.js and using W3C Webdriver API. Developed at @browserstack"
+    "language": "Python",
+    "description": "mac code — Claude Code, but it runs on your Mac for free.   35B AI agent at 30 tok/s via Apple Silicon flash-paging. $0/month."
   },
   {
-    "repo": "actions/virtual-environments",
+    "repo": "renatoworks/3dsvg",
     "branch": "main",
-    "language": "PowerShell",
-    "description": "GitHub Actions runner images"
+    "language": "TypeScript",
+    "description": "The easiest way to turn SVGs into interactive React 3D components"
   },
   {
-    "repo": "godotengine/godot-docs",
-    "branch": "master",
-    "language": "reStructuredText",
-    "description": "Godot Engine official documentation"
-  },
-  {
-    "repo": "mli55/pdfdelta",
+    "repo": "Comfy-Org/Nvidia_RTX_Nodes_ComfyUI",
     "branch": "main",
     "language": "Python",
     "description": ""
   },
   {
-    "repo": "tj/n",
-    "branch": "master",
-    "language": "Shell",
-    "description": "Node version management"
+    "repo": "KeploreAI-Lab/MindAct",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "AI Agent + Specific Knowledge = A true Autonomous AI"
   },
   {
-    "repo": "quasarframework/quasar",
-    "branch": "dev",
+    "repo": "glommer/pgmicro",
+    "branch": "master",
+    "language": "Rust",
+    "description": "An in-process reimplementation of PostgreSQL, backed by a SQLite-compatible storage engine"
+  },
+  {
+    "repo": "xixu-me/awesome-persona-distill-skills",
+    "branch": "main",
     "language": "JavaScript",
-    "description": "Quasar Framework - Build high-performance VueJS user interfaces in record time"
+    "description": "同事.skill、前任.skill、女娲.skill、自己.skill、乔布斯.skill……"
   },
   {
-    "repo": "plausible/analytics",
+    "repo": "ParthJadhav/ios-marketing-capture",
+    "branch": "main",
+    "language": "Shell",
+    "description": "Automate Multi-Locale asset creation for your iOS app."
+  },
+  {
+    "repo": "ProjectPhysX/hw-smi",
     "branch": "master",
-    "language": "Elixir",
-    "description": "Simple, open source, lightweight and privacy-friendly web analytics alternative to Google Analytics."
+    "language": "C++",
+    "description": "A minimal, cross-compatible CPU/GPU telemetry monitor with accurate data directly from vendor APIs and beautiful ASCII visualization."
   },
   {
-    "repo": "rebane2001/x86CSS",
-    "branch": "mane",
-    "language": "HTML",
-    "description": "x86CSS is a working CSS-only x86 CPU/emulator/computer. No JavaScript required."
-  },
-  {
-    "repo": "lailoo/butcher-wiki",
+    "repo": "Willis404/Professional-Polymarket-Trading-Bots-Suite-AI-Powered-Arbitrage-Copy-Trading",
     "branch": "main",
-    "language": "TypeScript",
-    "description": "Agent engineering knowledge base — dissects open-source projects into portable engineering components"
+    "language": "Rust",
+    "description": "Polymarket Trading Bot, Polymarket Arbitrage Bot, Polymarket Copy Trading, Automated Polymarket Trading, Polymarket Bot Rust, Synth AI Trading, Bittensor Trading Bot, Polymarket Prediction Markets, Crypto Trading Bot, DeFi Trading Automation"
   },
   {
-    "repo": "remotion-dev/remotion",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "🎥      Make videos programmatically with React"
-  },
-  {
-    "repo": "adithya-s-k/manim_skill",
+    "repo": "Mibayy/token-savior",
     "branch": "main",
     "language": "Python",
-    "description": "Agent skills for Manim to create 3Blue1Brown style animations."
+    "description": "Token-efficient structural codebase MCP server for AI-assisted development"
   },
   {
-    "repo": "nickustinov/itsytv-macos",
+    "repo": "professor-lee/StoneBadge",
     "branch": "main",
-    "language": "Swift",
-    "description": "The missing Apple TV remote app for macOS"
-  },
-  {
-    "repo": "better-auth/better-icons",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Skill and MCP server for searching and retrieving icons"
-  },
-  {
-    "repo": "select2/select2",
-    "branch": "develop",
     "language": "JavaScript",
-    "description": "Select2 is a jQuery based replacement for select boxes. It supports searching, remote data sets, and infinite scrolling of results."
+    "description": "Add a Rotating Stone in your README file."
   },
   {
-    "repo": "golang/protobuf",
-    "branch": "master",
-    "language": "Go",
-    "description": "Go support for Google's protocol buffers"
+    "repo": "exomi29zikzak/Valo-Vision-26",
+    "branch": "main",
+    "language": "C++",
+    "description": "Vanguard Vision (2026) — High-performance external computer vision framework for Valorant. Features ultra-low latency color detection, Arduino/HID mouse automation support, and a kernel-safe visual overlay."
   },
   {
-    "repo": "electron-userland/electron-builder",
-    "branch": "master",
+    "repo": "openabdev/openab",
+    "branch": "main",
+    "language": "Rust",
+    "description": "A lightweight, secure, cloud-native ACP harness that bridges Discord and any ACP-compatible coding CLI."
+  },
+  {
+    "repo": "diffusionstudio/slug-webgpu",
+    "branch": "main",
     "language": "TypeScript",
-    "description": "A complete solution to package and build a ready for distribution Electron app with “auto update” support out of the box"
+    "description": "WebGPU implementation of Eric Lengyel's Slug algorithm for resolution-independent vector text rendering on the GPU"
+  },
+  {
+    "repo": "codetrybe/polymarket-kalshi-arbitrage-bot",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "polymarket kalshi arbitrage bot kalshi arbitrage bot kalshi trading bot"
+  },
+  {
+    "repo": "joeynyc/hermes-hudui",
+    "branch": "main",
+    "language": "Python",
+    "description": "Web UI consciousness monitor for Hermes — the AI agent with persistent memory"
   }
 ]
