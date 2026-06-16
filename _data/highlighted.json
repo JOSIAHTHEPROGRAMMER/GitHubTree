@@ -3,6 +3,6 @@
   "branch": "main",
   "language": "C++",
   "description": "Out-of-tree decoder plugin for SDR++ that demodulates and decodes the J-ALERT (全国瞬時警報システム) satellite downlink.",
-  "stars": 121,
+  "stars": 123,
   "forks": 3
 }

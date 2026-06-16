@@ -1,146 +1,146 @@
 [
   {
-    "repo": "Michaelliv/pi-generative-ui",
+    "repo": "johnmiddleton12/my-whoop",
+    "branch": "main",
+    "language": "Python",
+    "description": ""
+  },
+  {
+    "repo": "Shopify/flash-list",
     "branch": "main",
     "language": "TypeScript",
-    "description": "Claude.ai's generative UI — reverse-engineered, rebuilt for pi. Interactive HTML/SVG widgets in native macOS windows."
+    "description": "A better list for React Native"
   },
   {
-    "repo": "spinnaker/spinnaker",
+    "repo": "pallets/flask",
+    "branch": "main",
+    "language": "Python",
+    "description": "The Python micro framework for building web applications."
+  },
+  {
+    "repo": "nteract/nteract",
     "branch": "master",
-    "language": "Java",
-    "description": "Spinnaker is an open source, multi-cloud continuous delivery platform for releasing software changes with high velocity and confidence."
+    "language": "TypeScript",
+    "description": "📘 The interactive computing suite for you!  ✨"
   },
   {
-    "repo": "orange2ai/openclaw-killer",
+    "repo": "WebAssembly/spec",
+    "branch": "main",
+    "language": "WebAssembly",
+    "description": "WebAssembly specification, reference interpreter, and test suite."
+  },
+  {
+    "repo": "socketio/socket.io",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Realtime application framework (Node.JS server)"
+  },
+  {
+    "repo": "airbnb/lottie-web",
+    "branch": "master",
+    "language": "JavaScript",
+    "description": "Render After Effects animations natively on Web, Android and iOS, and React Native. http://airbnb.io/lottie/"
+  },
+  {
+    "repo": "expressjs/express",
+    "branch": "master",
+    "language": "JavaScript",
+    "description": "Fast, unopinionated, minimalist web framework for node."
+  },
+  {
+    "repo": "sandroandric/clime",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "One CLI to find every CLI"
+  },
+  {
+    "repo": "THUDM/ChatGLM-6B",
+    "branch": "main",
+    "language": "Python",
+    "description": "ChatGLM-6B: An Open Bilingual Dialogue Language Model | 开源双语对话语言模型"
+  },
+  {
+    "repo": "juanceresa/sift-kg",
+    "branch": "main",
+    "language": "Python",
+    "description": "Turn any collection of documents into a knowledge graph. Domain-configurable entity extraction, human-in-the-loop dedup, and narrative generation — all from the CLI."
+  },
+  {
+    "repo": "open-policy-agent/gatekeeper",
+    "branch": "master",
+    "language": "Go",
+    "description": "🐊 Policy Controller for Kubernetes"
+  },
+  {
+    "repo": "nestjs/nest",
+    "branch": "master",
+    "language": "TypeScript",
+    "description": "A progressive Node.js framework for building efficient, scalable, and enterprise-grade server-side applications with TypeScript/JavaScript 🚀"
+  },
+  {
+    "repo": "open-telemetry/opentelemetry-python",
+    "branch": "main",
+    "language": "Python",
+    "description": "OpenTelemetry Python API and SDK"
+  },
+  {
+    "repo": "livehl/aimirror",
+    "branch": "main",
+    "language": "Python",
+    "description": "🚀 200倍速！AI时代的下载神器 | Docker/PyPI/HuggingFace/CRAN 全加速 | 并行分片+智能缓存，让下载飞起来"
+  },
+  {
+    "repo": "joshcirre/instruckt-laravel",
+    "branch": "main",
+    "language": "PHP",
+    "description": ""
+  },
+  {
+    "repo": "wbenny/scfw",
+    "branch": "master",
+    "language": "C++",
+    "description": "A cross-platform C++ framework for building Windows shellcode"
+  },
+  {
+    "repo": "openai/openai-python",
+    "branch": "main",
+    "language": "Python",
+    "description": "The official Python library for the OpenAI API"
+  },
+  {
+    "repo": "jayminwest/overstory",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Project-agnostic swarm system for Claude Code agent orchestration"
+  },
+  {
+    "repo": "hamelsmu/claude-review-loop",
     "branch": "main",
     "language": "Shell",
-    "description": "一键完美卸载 OpenClaw，让这只龙虾体面告别 🦞"
+    "description": "Claude Code plugin: automated code review loop with Codex"
   },
   {
-    "repo": "mroboff/vm-curator",
-    "branch": "main",
-    "language": "Rust",
-    "description": "vm-curator is a fast and friendly TUI to build and manage QEMU/KVM virtual machines in Linux. It does not rely on libvirt, which means 3D acceleration (para-virtualized, not pass-through) works for NVIDIA GPUs."
-  },
-  {
-    "repo": "FranckyB/Voice-Clone-Studio",
-    "branch": "main",
-    "language": "Python",
-    "description": "A Gradio-based web UI for voice cloning and voice design, powered by Qwen3-TTS & VibeVoice.  Can use Whisper or VibeVoice-ASR for automatic transcription."
-  },
-  {
-    "repo": "Kylsky/chatgpt-team-helper",
-    "branch": "main",
-    "language": "Vue",
-    "description": "一站式Team账号管理"
-  },
-  {
-    "repo": "MetaMask/metamask-extension",
-    "branch": "develop",
-    "language": "TypeScript",
-    "description": ":globe_with_meridians: :electric_plug: The MetaMask browser extension enables browsing Ethereum blockchain enabled websites"
-  },
-  {
-    "repo": "0Voice/Expert_Readed_Books",
-    "branch": "master",
-    "language": "Other",
-    "description": "2021年最新总结，推荐工程师合适读本，计算机科学，软件技术，创业，思想类，数学类，人物传记书籍"
-  },
-  {
-    "repo": "rust-unofficial/awesome-rust",
-    "branch": "main",
-    "language": "Rust",
-    "description": "A curated list of Rust code and resources."
-  },
-  {
-    "repo": "Geek-1001/arcmark",
-    "branch": "main",
-    "language": "Swift",
-    "description": "macOS bookmark manager that attaches to any browser window as a sidebar"
-  },
-  {
-    "repo": "rivet-dev/sandbox-agent",
-    "branch": "main",
-    "language": "Rust",
-    "description": "Universal API for automatic coding agents in sandboxes. Supports Claude Code, Codex, OpenCode, and Amp."
-  },
-  {
-    "repo": "signalapp/Signal-Desktop",
+    "repo": "solidjs-community/solid-primitives",
     "branch": "main",
     "language": "TypeScript",
-    "description": "A private messenger for Windows, macOS, and Linux."
+    "description": "A library of high-quality primitives that extend SolidJS reactivity."
   },
   {
-    "repo": "coleam00/second-brain-skills",
-    "branch": "main",
-    "language": "Python",
-    "description": "A collection of Claude Skills to turn Claude Code into a Second Brain"
-  },
-  {
-    "repo": "SwiftyJSON/SwiftyJSON",
-    "branch": "master",
-    "language": "Swift",
-    "description": "The better way to deal with JSON data in Swift."
-  },
-  {
-    "repo": "elder-plinius/OBLITERATUS",
-    "branch": "main",
-    "language": "Python",
-    "description": "obliterate the chains that bind you"
-  },
-  {
-    "repo": "quic-go/quic-go",
+    "repo": "grpc/grpc-go",
     "branch": "master",
     "language": "Go",
-    "description": "A production-ready QUIC implementation in pure Go"
+    "description": "The Go language implementation of gRPC. HTTP/2 based RPC"
   },
   {
-    "repo": "dev-protocol/polymarket-kalshi-momentum-trading-bot",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Updated version - A sophisticated automated trading bot that mirrors the positions of a target trader on Polymarket. The bot continuously monitors a specified wallet address and replicates their trading positions in real-time with customizable risk management parameters. polymarket trading bot that do polymarket trading like trading bot on polymark"
-  },
-  {
-    "repo": "mwaskom/seaborn",
+    "repo": "Mrack/TInjector_Symbi",
     "branch": "master",
-    "language": "Python",
-    "description": "Statistical data visualization in Python"
+    "language": "C++",
+    "description": "更稳定的劫持Zygote在App启动前注入so"
   },
   {
-    "repo": "hxu296/tariff",
-    "branch": "main",
-    "language": "Python",
-    "description": "The official repository for tariff"
-  },
-  {
-    "repo": "Galaxy-Dawn/claude-scholar",
-    "branch": "main",
-    "language": "TeX",
-    "description": "A comprehensive Claude Code configuration for data science, AI research, and academic writing. Streamline the complete research workflow—from idea to publication."
-  },
-  {
-    "repo": "arduino/Arduino",
+    "repo": "SortableJS/Sortable",
     "branch": "master",
-    "language": "Java",
-    "description": "Arduino IDE 1.x"
-  },
-  {
-    "repo": "go-resty/resty",
-    "branch": "master",
-    "language": "Go",
-    "description": "Simple HTTP, REST, and SSE client library for Go"
-  },
-  {
-    "repo": "argoproj/argo-events",
-    "branch": "master",
-    "language": "Go",
-    "description": "Event-driven Automation Framework for Kubernetes"
-  },
-  {
-    "repo": "facebookresearch/actionmesh",
-    "branch": "main",
-    "language": "Python",
-    "description": "🎬ActionMesh: A fast video to animated mesh model with unprecedented quality. Generate animated mesh seamlessly importable into any 3D software in less than a minute."
+    "language": "JavaScript",
+    "description": "Reorderable drag-and-drop lists for modern browsers and touch devices. No jQuery or framework required."
   }
 ]
