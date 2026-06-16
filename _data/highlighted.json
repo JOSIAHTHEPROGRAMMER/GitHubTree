@@ -1,8 +1,8 @@
 {
-  "repo": "devassisthub/Zelda-TP-PC-Port",
+  "repo": "sgup/ai",
   "branch": "main",
-  "language": "C#",
-  "description": " gamecube legend of zelda Zelda Twilight Princess switch PC port TP  dusk decompilation native 60fps widescreen 4K graphics HD texture pack controller support config tools mods source build",
-  "stars": 101,
-  "forks": 0
+  "language": "JavaScript",
+  "description": "Notes and operating profiles for working with AI coding agents.",
+  "stars": 104,
+  "forks": 10
 }

@@ -1,146 +1,146 @@
 [
   {
-    "repo": "sstklen/trump-code",
+    "repo": "LilanOvO/Auto-Resubmit",
     "branch": "main",
     "language": "Python",
-    "description": "AI cryptanalysis of Trump's social media posts × stock market impact. 31.5M models tested, 551 survivors, 61.3% hit rate. Live dashboard + open data + API."
+    "description": "🚀 Automated & lossless LaTeX paper migration tool. Instantly convert your Overleaf source between top-tier AI conference templates (NeurIPS, ICLR, ACL等). 一键无损转换顶会论文格式！解决转投时的排版折磨，完美保留公式、图表与引用，让科研人员专注研究而非排版。"
   },
   {
-    "repo": "spring-projects/spring-data-jpa",
-    "branch": "main",
+    "repo": "pytorch/serve",
+    "branch": "master",
     "language": "Java",
-    "description": "Simplifies the development of creating a JPA-based data access layer."
+    "description": "Serve, optimize and scale PyTorch models in production"
   },
   {
-    "repo": "microsoft/TypeScript",
+    "repo": "every-app/open-seo",
     "branch": "main",
     "language": "TypeScript",
-    "description": "TypeScript is a superset of JavaScript that compiles to clean JavaScript output."
+    "description": "Own your SEO. Research keywords and competitors on your terms. 100% open source."
   },
   {
-    "repo": "newrelic/newrelic-python-agent",
+    "repo": "Nasiko-Labs/nasiko",
     "branch": "main",
     "language": "Python",
-    "description": "New Relic Python Agent"
+    "description": "AI-powered development platform for the future"
   },
   {
-    "repo": "psf/black",
+    "repo": "prettier/eslint-plugin-prettier",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "ESLint plugin for Prettier formatting"
+  },
+  {
+    "repo": "Tencent-Hunyuan/HY-WU",
     "branch": "main",
     "language": "Python",
-    "description": "The uncompromising Python code formatter"
+    "description": "HY-WU (Part I): An Extensible Functional Neural Memory Framework and An Instantiation in Text-Guided Image Editing"
   },
   {
-    "repo": "leo-lilinxiao/codex-autoresearch",
-    "branch": "main",
-    "language": "Shell",
-    "description": "Codex Autoresearch Skill — A self-directed iterative system for Codex that continuously cycles through: modify, verify, retain or discard, and repeat indefinitely. Inspired by Karpathy’s autoresearch concept."
-  },
-  {
-    "repo": "xjtulyc/MedgeClaw",
-    "branch": "main",
-    "language": "HTML",
-    "description": "Medge AI X OpenClaw"
-  },
-  {
-    "repo": "yuzhworkhard-wq/image-to-code",
+    "repo": "ochyai/vibe-local",
     "branch": "main",
     "language": "Python",
-    "description": "Codex skill for 750px image-to-code reconstruction and transparent PNG slicing"
+    "description": "Free AI coding environment: Ollama + Python"
   },
   {
-    "repo": "pood1e/wa-app",
+    "repo": "facebook/react-native",
+    "branch": "main",
+    "language": "C++",
+    "description": "A framework for building native applications using React"
+  },
+  {
+    "repo": "rails/rails",
+    "branch": "main",
+    "language": "Ruby",
+    "description": "Ruby on Rails"
+  },
+  {
+    "repo": "bleuropa/loomkin",
+    "branch": "main",
+    "language": "Elixir",
+    "description": "An Elixir-native AI coding assistant with persistent decision graphs, repo intelligence, and a Phoenix LiveView UI"
+  },
+  {
+    "repo": "nextcloud/ios",
+    "branch": "master",
+    "language": "Swift",
+    "description": "📱 Nextcloud iOS App"
+  },
+  {
+    "repo": "Henrygd/Beszel",
     "branch": "main",
     "language": "Go",
-    "description": ""
+    "description": "Lightweight server monitoring hub with historical data, docker stats, and alerts."
   },
   {
-    "repo": "PyCQA/pylint",
+    "repo": "Zyora-Dev/zse",
     "branch": "main",
     "language": "Python",
-    "description": "It's not just a linter that annoys you!"
+    "description": "Zyora Server Inference Engine for LLM ."
   },
   {
-    "repo": "GordenSun/mathVideoMaker",
-    "branch": "main",
-    "language": "Python",
-    "description": ""
-  },
-  {
-    "repo": "AresLeVrai/celestial-launcher-releases",
-    "branch": "main",
-    "language": "C#",
-    "description": "celestial launcher releases league of legends  download custom skins mod manager lol client windows 11 config profile"
-  },
-  {
-    "repo": "thesSmartApe/polymarket-copy-trading-bot-rust",
-    "branch": "main",
-    "language": "Rust",
-    "description": "polymarket rust copy trading bot polymarket copy trading bot polymarket copy trading bot polymarket copy trading bot polymarket copy trading bot polymarket copy trading bot polymarket copy trading bot polymarket copy trading bot polymarket copy trading bot polymarket copy trading bot"
-  },
-  {
-    "repo": "alexantaluo0/ACoT-VLA-WM",
-    "branch": "main",
-    "language": "Python",
-    "description": ""
-  },
-  {
-    "repo": "edmicho/mm-probe-kit",
-    "branch": "main",
-    "language": "Python",
-    "description": "A small, hackable toolkit for probing multimodal LLMs — attention, hidden states, alignment, and causal tracing."
-  },
-  {
-    "repo": "cilium/hubble",
-    "branch": "main",
-    "language": "Makefile",
-    "description": "Hubble - Network, Service & Security Observability for Kubernetes using eBPF"
-  },
-  {
-    "repo": "amlalabs/amla-sandbox",
-    "branch": "main",
-    "language": "Python",
-    "description": ""
-  },
-  {
-    "repo": "mudler/parakeet.cpp",
-    "branch": "master",
-    "language": "C++",
-    "description": "Parakeet implementation in C++ with ggml"
-  },
-  {
-    "repo": "bcurts/agentchattr",
-    "branch": "main",
-    "language": "Python",
-    "description": "Local chat server for real-time autonomous coordination between AI coding agents and humans"
-  },
-  {
-    "repo": "gemini-cli-extensions/ralph",
+    "repo": "daniel3303/ClaudeCodeStatusLine",
     "branch": "main",
     "language": "Shell",
-    "description": "Gemini CLI extension for Ralph loops"
+    "description": ""
   },
   {
-    "repo": "TencentARC/Pixal3D",
-    "branch": "master",
-    "language": "Python",
-    "description": "[SIGGRAPH 2026] Pixal3D: Pixel-Aligned 3D Generation from Images"
-  },
-  {
-    "repo": "react-hook-form/react-hook-form",
-    "branch": "master",
-    "language": "TypeScript",
-    "description": "📋 React Hooks for form state management and validation (Web + React Native)"
-  },
-  {
-    "repo": "HarimxChoi/google-surf-mcp",
+    "repo": "rust-lang/rustlings",
     "branch": "main",
-    "language": "TypeScript",
-    "description": "✨Anti-Bot Search MCP: No API Key✨"
+    "language": "Rust",
+    "description": ":crab: Small exercises to get you used to reading and writing Rust code!"
   },
   {
-    "repo": "pytorch/pytorch",
+    "repo": "labstack/echo",
+    "branch": "master",
+    "language": "Go",
+    "description": "High performance, minimalist Go web framework"
+  },
+  {
+    "repo": "NVlabs/Sana",
     "branch": "main",
     "language": "Python",
-    "description": "Tensors and Dynamic neural networks in Python with strong GPU acceleration"
+    "description": "SANA: Efficient High-Resolution Image Synthesis with Linear Diffusion Transformer"
+  },
+  {
+    "repo": "reflex-dev/reflex",
+    "branch": "main",
+    "language": "Python",
+    "description": "🕸️ Web apps in pure Python 🐍"
+  },
+  {
+    "repo": "daymonio/daymon",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Daymon puts your favorite AI to work 24/7. It schedules, remembers, and orchestrates your own virtual team. Free."
+  },
+  {
+    "repo": "Doriandarko/webmcp-starter",
+    "branch": "main",
+    "language": "HTML",
+    "description": "WebMCP starter demo — a DoorDash-style food delivery app with 9 AI agent tools (imperative + declarative)"
+  },
+  {
+    "repo": "avihaymenahem/velo",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Open source desktop email client for Gmail"
+  },
+  {
+    "repo": "writetoaniketparihar-collab/claude-spend",
+    "branch": "main",
+    "language": "HTML",
+    "description": ""
+  },
+  {
+    "repo": "ncvgl/slawk",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "A 14 day experiment to clone Slack with Claude Code"
+  },
+  {
+    "repo": "Tencent/tdesign-vue-next",
+    "branch": "develop",
+    "language": "TypeScript",
+    "description": "A Vue3.x UI components lib for TDesign."
   }
 ]
