@@ -1,8 +1,8 @@
 {
-  "repo": "joelewis012/CSIght",
+  "repo": "soltia48/sdrplusplus-j-alert-plugin",
   "branch": "main",
-  "language": "C",
-  "description": "**WiFi CSI radar for Flipper Zero + ESP32**  Detect motion, presence, and proximity through walls using WiFi Channel State Information — no cameras, no IR, no special sensors.",
-  "stars": 120,
-  "forks": 7
+  "language": "C++",
+  "description": "Out-of-tree decoder plugin for SDR++ that demodulates and decodes the J-ALERT (全国瞬時警報システム) satellite downlink.",
+  "stars": 121,
+  "forks": 3
 }

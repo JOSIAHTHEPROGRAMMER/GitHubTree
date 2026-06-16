@@ -1,146 +1,146 @@
 [
   {
-    "repo": "NomaDamas/k-skill",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "한국인을 위한 스킬 모음집 - SRT, KTX, KBO, 카카오톡, 쿠팡, 다나와, 네이버 스토어, 당근, 한글과 컴퓨터 등등..."
-  },
-  {
-    "repo": "vercel-labs/portless",
+    "repo": "Michaelliv/pi-generative-ui",
     "branch": "main",
     "language": "TypeScript",
-    "description": "Replace port numbers with stable, named .localhost URLs. For humans and agents."
+    "description": "Claude.ai's generative UI — reverse-engineered, rebuilt for pi. Interactive HTML/SVG widgets in native macOS windows."
   },
   {
-    "repo": "vikasprogrammer/walkie",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "P2P communication for AI agents. No server. No setup. Just talk."
-  },
-  {
-    "repo": "shallowdream204/BitDance",
-    "branch": "main",
-    "language": "Python",
-    "description": "BitDance: Open-source autoregressive model with binary visual tokens. A research project for building powerful multimodal autoregressive model."
-  },
-  {
-    "repo": "yearn/yearn-finance",
-    "branch": "master",
-    "language": "JavaScript",
-    "description": "🏦 yearn v2 web interface"
-  },
-  {
-    "repo": "trycua/launchpad",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": ""
-  },
-  {
-    "repo": "ForrestKnight/open-source-cs",
-    "branch": "master",
-    "language": "Other",
-    "description": "Video discussing this curriculum:"
-  },
-  {
-    "repo": "matrix-org/matrix-react-sdk",
-    "branch": "develop",
-    "language": "TypeScript",
-    "description": "Matrix SDK for React Javascript"
-  },
-  {
-    "repo": "qwikverse/qwik",
-    "branch": "main",
-    "language": "Other",
-    "description": "The HTML-first framework. Instant apps of any size with ~ 1kb JS"
-  },
-  {
-    "repo": "fatedier/frp",
-    "branch": "dev",
-    "language": "Go",
-    "description": "A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet."
-  },
-  {
-    "repo": "atom/atom",
-    "branch": "master",
-    "language": "JavaScript",
-    "description": ":atom: The hackable text editor"
-  },
-  {
-    "repo": "oblador/react-native-vector-icons",
-    "branch": "master",
-    "language": "TypeScript",
-    "description": "Customizable Icons for React Native with support for image source and full styling."
-  },
-  {
-    "repo": "software-mansion/react-native-gesture-handler",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Declarative API exposing platform native touch and gesture system to React Native."
-  },
-  {
-    "repo": "jarodise/XQuery",
-    "branch": "master",
-    "language": "TypeScript",
-    "description": ""
-  },
-  {
-    "repo": "PCRE2Project/pcre2",
-    "branch": "master",
-    "language": "C",
-    "description": "PCRE2 development is based here."
-  },
-  {
-    "repo": "mmazzarolo/react-native-modal-datetime-picker",
-    "branch": "master",
-    "language": "JavaScript",
-    "description": "A React-Native datetime-picker for Android and iOS"
-  },
-  {
-    "repo": "WtxwNs/RepoCheck",
-    "branch": "main",
-    "language": "Python",
-    "description": "A tool for analyzing and checking open-source repositories, especially when you are unsure whether they are truly open source."
-  },
-  {
-    "repo": "paragonie/awesome-appsec",
-    "branch": "master",
-    "language": "PHP",
-    "description": "A curated list of resources for learning about application security"
-  },
-  {
-    "repo": "ghostvectoracademy/DLLHijackHunter",
-    "branch": "main",
-    "language": "C#",
-    "description": "Automated DLL Hijacking Detection Tool with Zero False Positives — Discovers, filters, and canary-confirms exploitable DLL hijacks on Windows with tiered confidence scoring"
-  },
-  {
-    "repo": "microsoft/autogen",
-    "branch": "main",
-    "language": "Python",
-    "description": "A programming framework for agentic AI"
-  },
-  {
-    "repo": "apache/groovy",
+    "repo": "spinnaker/spinnaker",
     "branch": "master",
     "language": "Java",
-    "description": "Apache Groovy: A powerful multi-faceted programming language for the JVM platform"
+    "description": "Spinnaker is an open source, multi-cloud continuous delivery platform for releasing software changes with high velocity and confidence."
   },
   {
-    "repo": "aave/aave-v2",
-    "branch": "master",
-    "language": "Other",
-    "description": "Aave Protocol V2"
-  },
-  {
-    "repo": "Aliothmoon/MAA-Meow",
-    "branch": "main",
-    "language": "Kotlin",
-    "description": "《明日方舟》小助手Android版，全日常一键长草！| A one-click tool for the daily tasks of Arknights, supporting all clients."
-  },
-  {
-    "repo": "justlovemaki/OpenClaw-Docker-CN-IM",
+    "repo": "orange2ai/openclaw-killer",
     "branch": "main",
     "language": "Shell",
-    "description": "OpenClaw 的中国IM平台整合Docker版本，预装并配置了飞书、钉钉、QQ机器人、企业微信等主流中国IM软件的插件，让您可以快速部署一个支持多个中国IM平台的 AI 机器人网关"
+    "description": "一键完美卸载 OpenClaw，让这只龙虾体面告别 🦞"
+  },
+  {
+    "repo": "mroboff/vm-curator",
+    "branch": "main",
+    "language": "Rust",
+    "description": "vm-curator is a fast and friendly TUI to build and manage QEMU/KVM virtual machines in Linux. It does not rely on libvirt, which means 3D acceleration (para-virtualized, not pass-through) works for NVIDIA GPUs."
+  },
+  {
+    "repo": "FranckyB/Voice-Clone-Studio",
+    "branch": "main",
+    "language": "Python",
+    "description": "A Gradio-based web UI for voice cloning and voice design, powered by Qwen3-TTS & VibeVoice.  Can use Whisper or VibeVoice-ASR for automatic transcription."
+  },
+  {
+    "repo": "Kylsky/chatgpt-team-helper",
+    "branch": "main",
+    "language": "Vue",
+    "description": "一站式Team账号管理"
+  },
+  {
+    "repo": "MetaMask/metamask-extension",
+    "branch": "develop",
+    "language": "TypeScript",
+    "description": ":globe_with_meridians: :electric_plug: The MetaMask browser extension enables browsing Ethereum blockchain enabled websites"
+  },
+  {
+    "repo": "0Voice/Expert_Readed_Books",
+    "branch": "master",
+    "language": "Other",
+    "description": "2021年最新总结，推荐工程师合适读本，计算机科学，软件技术，创业，思想类，数学类，人物传记书籍"
+  },
+  {
+    "repo": "rust-unofficial/awesome-rust",
+    "branch": "main",
+    "language": "Rust",
+    "description": "A curated list of Rust code and resources."
+  },
+  {
+    "repo": "Geek-1001/arcmark",
+    "branch": "main",
+    "language": "Swift",
+    "description": "macOS bookmark manager that attaches to any browser window as a sidebar"
+  },
+  {
+    "repo": "rivet-dev/sandbox-agent",
+    "branch": "main",
+    "language": "Rust",
+    "description": "Universal API for automatic coding agents in sandboxes. Supports Claude Code, Codex, OpenCode, and Amp."
+  },
+  {
+    "repo": "signalapp/Signal-Desktop",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "A private messenger for Windows, macOS, and Linux."
+  },
+  {
+    "repo": "coleam00/second-brain-skills",
+    "branch": "main",
+    "language": "Python",
+    "description": "A collection of Claude Skills to turn Claude Code into a Second Brain"
+  },
+  {
+    "repo": "SwiftyJSON/SwiftyJSON",
+    "branch": "master",
+    "language": "Swift",
+    "description": "The better way to deal with JSON data in Swift."
+  },
+  {
+    "repo": "elder-plinius/OBLITERATUS",
+    "branch": "main",
+    "language": "Python",
+    "description": "obliterate the chains that bind you"
+  },
+  {
+    "repo": "quic-go/quic-go",
+    "branch": "master",
+    "language": "Go",
+    "description": "A production-ready QUIC implementation in pure Go"
+  },
+  {
+    "repo": "dev-protocol/polymarket-kalshi-momentum-trading-bot",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Updated version - A sophisticated automated trading bot that mirrors the positions of a target trader on Polymarket. The bot continuously monitors a specified wallet address and replicates their trading positions in real-time with customizable risk management parameters. polymarket trading bot that do polymarket trading like trading bot on polymark"
+  },
+  {
+    "repo": "mwaskom/seaborn",
+    "branch": "master",
+    "language": "Python",
+    "description": "Statistical data visualization in Python"
+  },
+  {
+    "repo": "hxu296/tariff",
+    "branch": "main",
+    "language": "Python",
+    "description": "The official repository for tariff"
+  },
+  {
+    "repo": "Galaxy-Dawn/claude-scholar",
+    "branch": "main",
+    "language": "TeX",
+    "description": "A comprehensive Claude Code configuration for data science, AI research, and academic writing. Streamline the complete research workflow—from idea to publication."
+  },
+  {
+    "repo": "arduino/Arduino",
+    "branch": "master",
+    "language": "Java",
+    "description": "Arduino IDE 1.x"
+  },
+  {
+    "repo": "go-resty/resty",
+    "branch": "master",
+    "language": "Go",
+    "description": "Simple HTTP, REST, and SSE client library for Go"
+  },
+  {
+    "repo": "argoproj/argo-events",
+    "branch": "master",
+    "language": "Go",
+    "description": "Event-driven Automation Framework for Kubernetes"
+  },
+  {
+    "repo": "facebookresearch/actionmesh",
+    "branch": "main",
+    "language": "Python",
+    "description": "🎬ActionMesh: A fast video to animated mesh model with unprecedented quality. Generate animated mesh seamlessly importable into any 3D software in less than a minute."
   }
 ]
