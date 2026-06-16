@@ -1,146 +1,146 @@
 [
   {
-    "repo": "LilanOvO/Auto-Resubmit",
-    "branch": "main",
-    "language": "Python",
-    "description": "🚀 Automated & lossless LaTeX paper migration tool. Instantly convert your Overleaf source between top-tier AI conference templates (NeurIPS, ICLR, ACL等). 一键无损转换顶会论文格式！解决转投时的排版折磨，完美保留公式、图表与引用，让科研人员专注研究而非排版。"
-  },
-  {
-    "repo": "pytorch/serve",
-    "branch": "master",
-    "language": "Java",
-    "description": "Serve, optimize and scale PyTorch models in production"
-  },
-  {
-    "repo": "every-app/open-seo",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Own your SEO. Research keywords and competitors on your terms. 100% open source."
-  },
-  {
-    "repo": "Nasiko-Labs/nasiko",
-    "branch": "main",
-    "language": "Python",
-    "description": "AI-powered development platform for the future"
-  },
-  {
-    "repo": "prettier/eslint-plugin-prettier",
+    "repo": "NomaDamas/k-skill",
     "branch": "main",
     "language": "JavaScript",
-    "description": "ESLint plugin for Prettier formatting"
+    "description": "한국인을 위한 스킬 모음집 - SRT, KTX, KBO, 카카오톡, 쿠팡, 다나와, 네이버 스토어, 당근, 한글과 컴퓨터 등등..."
   },
   {
-    "repo": "Tencent-Hunyuan/HY-WU",
+    "repo": "vercel-labs/portless",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Replace port numbers with stable, named .localhost URLs. For humans and agents."
+  },
+  {
+    "repo": "vikasprogrammer/walkie",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "P2P communication for AI agents. No server. No setup. Just talk."
+  },
+  {
+    "repo": "shallowdream204/BitDance",
     "branch": "main",
     "language": "Python",
-    "description": "HY-WU (Part I): An Extensible Functional Neural Memory Framework and An Instantiation in Text-Guided Image Editing"
+    "description": "BitDance: Open-source autoregressive model with binary visual tokens. A research project for building powerful multimodal autoregressive model."
   },
   {
-    "repo": "ochyai/vibe-local",
-    "branch": "main",
-    "language": "Python",
-    "description": "Free AI coding environment: Ollama + Python"
-  },
-  {
-    "repo": "facebook/react-native",
-    "branch": "main",
-    "language": "C++",
-    "description": "A framework for building native applications using React"
-  },
-  {
-    "repo": "rails/rails",
-    "branch": "main",
-    "language": "Ruby",
-    "description": "Ruby on Rails"
-  },
-  {
-    "repo": "bleuropa/loomkin",
-    "branch": "main",
-    "language": "Elixir",
-    "description": "An Elixir-native AI coding assistant with persistent decision graphs, repo intelligence, and a Phoenix LiveView UI"
-  },
-  {
-    "repo": "nextcloud/ios",
+    "repo": "yearn/yearn-finance",
     "branch": "master",
-    "language": "Swift",
-    "description": "📱 Nextcloud iOS App"
+    "language": "JavaScript",
+    "description": "🏦 yearn v2 web interface"
   },
   {
-    "repo": "Henrygd/Beszel",
+    "repo": "trycua/launchpad",
     "branch": "main",
-    "language": "Go",
-    "description": "Lightweight server monitoring hub with historical data, docker stats, and alerts."
-  },
-  {
-    "repo": "Zyora-Dev/zse",
-    "branch": "main",
-    "language": "Python",
-    "description": "Zyora Server Inference Engine for LLM ."
-  },
-  {
-    "repo": "daniel3303/ClaudeCodeStatusLine",
-    "branch": "main",
-    "language": "Shell",
+    "language": "TypeScript",
     "description": ""
   },
   {
-    "repo": "rust-lang/rustlings",
-    "branch": "main",
-    "language": "Rust",
-    "description": ":crab: Small exercises to get you used to reading and writing Rust code!"
-  },
-  {
-    "repo": "labstack/echo",
+    "repo": "ForrestKnight/open-source-cs",
     "branch": "master",
-    "language": "Go",
-    "description": "High performance, minimalist Go web framework"
+    "language": "Other",
+    "description": "Video discussing this curriculum:"
   },
   {
-    "repo": "NVlabs/Sana",
-    "branch": "main",
-    "language": "Python",
-    "description": "SANA: Efficient High-Resolution Image Synthesis with Linear Diffusion Transformer"
-  },
-  {
-    "repo": "reflex-dev/reflex",
-    "branch": "main",
-    "language": "Python",
-    "description": "🕸️ Web apps in pure Python 🐍"
-  },
-  {
-    "repo": "daymonio/daymon",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Daymon puts your favorite AI to work 24/7. It schedules, remembers, and orchestrates your own virtual team. Free."
-  },
-  {
-    "repo": "Doriandarko/webmcp-starter",
-    "branch": "main",
-    "language": "HTML",
-    "description": "WebMCP starter demo — a DoorDash-style food delivery app with 9 AI agent tools (imperative + declarative)"
-  },
-  {
-    "repo": "avihaymenahem/velo",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Open source desktop email client for Gmail"
-  },
-  {
-    "repo": "writetoaniketparihar-collab/claude-spend",
-    "branch": "main",
-    "language": "HTML",
-    "description": ""
-  },
-  {
-    "repo": "ncvgl/slawk",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "A 14 day experiment to clone Slack with Claude Code"
-  },
-  {
-    "repo": "Tencent/tdesign-vue-next",
+    "repo": "matrix-org/matrix-react-sdk",
     "branch": "develop",
     "language": "TypeScript",
-    "description": "A Vue3.x UI components lib for TDesign."
+    "description": "Matrix SDK for React Javascript"
+  },
+  {
+    "repo": "qwikverse/qwik",
+    "branch": "main",
+    "language": "Other",
+    "description": "The HTML-first framework. Instant apps of any size with ~ 1kb JS"
+  },
+  {
+    "repo": "fatedier/frp",
+    "branch": "dev",
+    "language": "Go",
+    "description": "A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet."
+  },
+  {
+    "repo": "atom/atom",
+    "branch": "master",
+    "language": "JavaScript",
+    "description": ":atom: The hackable text editor"
+  },
+  {
+    "repo": "oblador/react-native-vector-icons",
+    "branch": "master",
+    "language": "TypeScript",
+    "description": "Customizable Icons for React Native with support for image source and full styling."
+  },
+  {
+    "repo": "software-mansion/react-native-gesture-handler",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Declarative API exposing platform native touch and gesture system to React Native."
+  },
+  {
+    "repo": "jarodise/XQuery",
+    "branch": "master",
+    "language": "TypeScript",
+    "description": ""
+  },
+  {
+    "repo": "PCRE2Project/pcre2",
+    "branch": "master",
+    "language": "C",
+    "description": "PCRE2 development is based here."
+  },
+  {
+    "repo": "mmazzarolo/react-native-modal-datetime-picker",
+    "branch": "master",
+    "language": "JavaScript",
+    "description": "A React-Native datetime-picker for Android and iOS"
+  },
+  {
+    "repo": "WtxwNs/RepoCheck",
+    "branch": "main",
+    "language": "Python",
+    "description": "A tool for analyzing and checking open-source repositories, especially when you are unsure whether they are truly open source."
+  },
+  {
+    "repo": "paragonie/awesome-appsec",
+    "branch": "master",
+    "language": "PHP",
+    "description": "A curated list of resources for learning about application security"
+  },
+  {
+    "repo": "ghostvectoracademy/DLLHijackHunter",
+    "branch": "main",
+    "language": "C#",
+    "description": "Automated DLL Hijacking Detection Tool with Zero False Positives — Discovers, filters, and canary-confirms exploitable DLL hijacks on Windows with tiered confidence scoring"
+  },
+  {
+    "repo": "microsoft/autogen",
+    "branch": "main",
+    "language": "Python",
+    "description": "A programming framework for agentic AI"
+  },
+  {
+    "repo": "apache/groovy",
+    "branch": "master",
+    "language": "Java",
+    "description": "Apache Groovy: A powerful multi-faceted programming language for the JVM platform"
+  },
+  {
+    "repo": "aave/aave-v2",
+    "branch": "master",
+    "language": "Other",
+    "description": "Aave Protocol V2"
+  },
+  {
+    "repo": "Aliothmoon/MAA-Meow",
+    "branch": "main",
+    "language": "Kotlin",
+    "description": "《明日方舟》小助手Android版，全日常一键长草！| A one-click tool for the daily tasks of Arknights, supporting all clients."
+  },
+  {
+    "repo": "justlovemaki/OpenClaw-Docker-CN-IM",
+    "branch": "main",
+    "language": "Shell",
+    "description": "OpenClaw 的中国IM平台整合Docker版本，预装并配置了飞书、钉钉、QQ机器人、企业微信等主流中国IM软件的插件，让您可以快速部署一个支持多个中国IM平台的 AI 机器人网关"
   }
 ]
