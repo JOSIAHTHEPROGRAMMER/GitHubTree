@@ -1,8 +1,8 @@
 {
-  "repo": "dongshuyan/compass-skills",
-  "branch": "master",
-  "language": "Python",
-  "description": "司南：个性化 AI 任务总控 Skills 系统 /COMPASS: Personal Alignment Skills OS for AI Agents",
-  "stars": 255,
-  "forks": 22
+  "repo": "shreyashankar/plain-writing-skill",
+  "branch": "main",
+  "language": "HTML",
+  "description": "A plain-language writing skill for AI agents, with a revision view that shows what changed.",
+  "stars": 144,
+  "forks": 4
 }

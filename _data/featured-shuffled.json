@@ -1,146 +1,146 @@
 [
   {
-    "repo": "airbnb/knowledge-repo",
-    "branch": "master",
-    "language": "Python",
-    "description": "A next-generation curated knowledge sharing platform for data scientists and other technical professions."
-  },
-  {
-    "repo": "outsourc-e/hermes-workspace",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Native web workspace for Hermes Agent — chat, terminal, memory, skills, inspector. Built for the Nous Research hackathon."
-  },
-  {
-    "repo": "Geek-1001/arcmark",
-    "branch": "main",
-    "language": "Swift",
-    "description": "macOS bookmark manager that attaches to any browser window as a sidebar"
-  },
-  {
-    "repo": "WebAssembly/wabt",
-    "branch": "main",
-    "language": "C++",
-    "description": "The WebAssembly Binary Toolkit"
-  },
-  {
-    "repo": "apache/airflow",
+    "repo": "Nasiko-Labs/nasiko",
     "branch": "main",
     "language": "Python",
-    "description": "Apache Airflow - A platform to programmatically author, schedule, and monitor workflows"
+    "description": "AI-powered development platform for the future"
   },
   {
-    "repo": "AnInsomniacy/motrix-next",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "The next chapter of Motrix — rebuilt from scratch with Tauri 2, Vue 3, and Rust"
-  },
-  {
-    "repo": "zoontek/react-native-permissions",
+    "repo": "getify/You-Dont-Know-JS",
     "branch": "master",
-    "language": "Objective-C++",
-    "description": "An unified permissions API for React Native on iOS, Android and Windows."
+    "language": "Other",
+    "description": "A book series (2 published editions) on the JS language."
   },
   {
-    "repo": "Higangssh/gitcredits",
+    "repo": "symfony/symfony",
+    "branch": "7.1",
+    "language": "PHP",
+    "description": "The Symfony PHP framework"
+  },
+  {
+    "repo": "kyutai-labs/hibiki-zero",
+    "branch": "main",
+    "language": "Python",
+    "description": "A real-time and multilingual speech translation model"
+  },
+  {
+    "repo": "NVlabs/Sana",
+    "branch": "main",
+    "language": "Python",
+    "description": "SANA: Efficient High-Resolution Image Synthesis with Linear Diffusion Transformer"
+  },
+  {
+    "repo": "Henrygd/Beszel",
     "branch": "main",
     "language": "Go",
-    "description": "Roll movie-style credits for your git repo — right in the terminal"
+    "description": "Lightweight server monitoring hub with historical data, docker stats, and alerts."
   },
   {
-    "repo": "OWASP/Amass",
+    "repo": "mrdoob/three.wasm",
+    "branch": "master",
+    "language": "TypeScript",
+    "description": "8x Faster JavaScript 3D Library."
+  },
+  {
+    "repo": "supabase/supabase",
+    "branch": "master",
+    "language": "TypeScript",
+    "description": "The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications."
+  },
+  {
+    "repo": "Ibrahim-3d/conductor-orchestrator-superpowers",
+    "branch": "master",
+    "language": "Python",
+    "description": "Multi-agent orchestration system for Claude Code with parallel execution, automated quality gates, Board of Directors, and bundled Superpowers skills"
+  },
+  {
+    "repo": "jenkinsci/jenkins",
+    "branch": "master",
+    "language": "Java",
+    "description": "Jenkins automation server"
+  },
+  {
+    "repo": "go-task/task",
     "branch": "master",
     "language": "Go",
-    "description": "In-depth attack surface mapping and asset discovery"
+    "description": "A task runner / simpler Make alternative written in Go"
   },
   {
-    "repo": "BuilderIO/qwik",
+    "repo": "microsoft/PowerToys",
     "branch": "main",
-    "language": "TypeScript",
-    "description": "Instant-loading web apps, without effort"
+    "language": "C#",
+    "description": "Microsoft PowerToys is a collection of utilities that help you customize Windows and streamline everyday tasks"
   },
   {
-    "repo": "acedef/SynthAPT",
-    "branch": "master",
-    "language": "Rust",
-    "description": "Generate malware with AI"
-  },
-  {
-    "repo": "kata-containers/kata-containers",
-    "branch": "main",
-    "language": "Rust",
-    "description": "Kata Containers is an open source project and community working to build a standard implementation of lightweight Virtual Machines (VMs) that feel and perform like containers, but provide the workload isolation and security advantages of VMs. https://katacontainers.io/"
-  },
-  {
-    "repo": "vim/vim",
-    "branch": "master",
-    "language": "Vim Script",
-    "description": "The official Vim repository"
-  },
-  {
-    "repo": "microsoft/LightGBM",
+    "repo": "wbenny/scfw",
     "branch": "master",
     "language": "C++",
-    "description": "A fast, distributed, high performance gradient boosting (GBT, GBDT, GBRT, GBM or MART) framework based on decision tree algorithms, used for ranking, classification and many other machine learning tasks."
+    "description": "A cross-platform C++ framework for building Windows shellcode"
   },
   {
-    "repo": "pgvector/pgvector",
-    "branch": "master",
-    "language": "C",
-    "description": "Open-source vector similarity search for Postgres"
-  },
-  {
-    "repo": "inliver233/Ai-Novel",
+    "repo": "Robbyant/lingbot-vla",
     "branch": "main",
     "language": "Python",
-    "description": "强大的ai小说创作网站"
+    "description": "A Pragmatic VLA Foundation Model"
   },
   {
-    "repo": "smartcmd/MinecraftConsoles",
-    "branch": "main",
-    "language": "C++",
-    "description": "A certain block game"
-  },
-  {
-    "repo": "alecthomas/t",
+    "repo": "diesel-rs/diesel",
     "branch": "master",
     "language": "Rust",
-    "description": "`t` is a concise language for manipulating text, replacing common usage patterns of Unix utilities like grep, sed, cut, awk, sort, and uniq."
+    "description": "A safe, extensible ORM and Query Builder for Rust"
   },
   {
-    "repo": "xvhuan/xiaoi",
+    "repo": "facebookresearch/llama",
     "branch": "main",
-    "language": "JavaScript",
-    "description": "小爱音箱语音通知工具：提供 CLI/TUI/MCP/Webhook 一键播报与控制音量，支持 PM2 常驻部署，支持docker部署。"
-  },
-  {
-    "repo": "ray-project/ray",
-    "branch": "master",
     "language": "Python",
-    "description": "Ray is an AI compute engine. Ray consists of a core distributed runtime and a set of AI Libraries for accelerating ML workloads."
+    "description": "Inference code for Llama models"
   },
   {
-    "repo": "microsoft/STL",
+    "repo": "kamranahmedse/developer-roadmap",
+    "branch": "master",
+    "language": "TypeScript",
+    "description": "Interactive roadmaps, guides and other educational content to help developers grow in their careers."
+  },
+  {
+    "repo": "gfx-rs/wgpu",
+    "branch": "master",
+    "language": "Rust",
+    "description": "A cross-platform, safe, pure-Rust graphics API."
+  },
+  {
+    "repo": "abhinavkale-dev/fynt",
+    "branch": "master",
+    "language": "TypeScript",
+    "description": "Self-hostable workflow automation platform"
+  },
+  {
+    "repo": "Trooped/QuickBars",
     "branch": "main",
-    "language": "C++",
-    "description": "MSVC's implementation of the C++ Standard Library."
+    "language": "Kotlin",
+    "description": "The Official QuickBars for Home Assistant Repository"
   },
   {
-    "repo": "bytecodealliance/wasmtime",
+    "repo": "solana-labs/solana-program-library",
+    "branch": "master",
+    "language": "Rust",
+    "description": "A collection of Solana programs maintained by Solana Labs"
+  },
+  {
+    "repo": "Heartflabrace/Doubao-Claw",
     "branch": "main",
     "language": "Rust",
-    "description": "A lightweight WebAssembly runtime that is fast, secure, and standards-compliant"
+    "description": ""
   },
   {
-    "repo": "iad1tya/Net-Bar",
-    "branch": "main",
-    "language": "Swift",
-    "description": "A lightweight, aesthetically pleasing network speed monitor that lives in your macOS menu bar."
+    "repo": "gohugoio/hugo",
+    "branch": "master",
+    "language": "Go",
+    "description": "The world’s fastest framework for building websites."
   },
   {
-    "repo": "cita-777/metapi",
+    "repo": "slidevjs/slidev",
     "branch": "main",
     "language": "TypeScript",
-    "description": "把你在各处注册的 New API / One API / OneHub / DoneHub / Veloera / AnyRouter / Sub2API 等站点， 汇聚成 一个 API Key、一个入口，自动发现模型、智能路由、成本最优"
+    "description": "Presentation Slides for Developers"
   }
 ]
