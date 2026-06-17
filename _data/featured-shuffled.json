@@ -1,146 +1,146 @@
 [
   {
-    "repo": "brunch/brunch",
-    "branch": "master",
-    "language": "JavaScript",
-    "description": "🍴 Web applications made easy. Since 2011."
-  },
-  {
-    "repo": "jayminwest/overstory",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Project-agnostic swarm system for Claude Code agent orchestration"
-  },
-  {
-    "repo": "symbolica-ai/arcgentica",
+    "repo": "he-yufeng/CoreCoder",
     "branch": "main",
     "language": "Python",
-    "description": "An ARC-AGI solution using Agentica from Symbolica"
+    "description": "Minimal AI coding agent (~950 LoC Python) inspired by Claude Code. Works with any LLM. Think NanoGPT for coding agent. Formerly NanoCoder."
   },
   {
-    "repo": "shenhao-stu/ohmycaptcha",
-    "branch": "main",
-    "language": "Python",
-    "description": "⚡ Self-hostable YesCaptcha-compatible captcha solver built with FastAPI, Playwright, and OpenAI-compatible multimodal models."
-  },
-  {
-    "repo": "heygen-com/hyperframes-launch-video",
-    "branch": "main",
-    "language": "HTML",
-    "description": ""
-  },
-  {
-    "repo": "react-native-device-info/react-native-device-info",
-    "branch": "master",
-    "language": "TypeScript",
-    "description": "Device Information for React Native iOS and Android"
-  },
-  {
-    "repo": "ibelick/webclaw",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Fast web client for OpenClaw"
-  },
-  {
-    "repo": "codecrafters-io/build-your-own-x",
-    "branch": "master",
-    "language": "Markdown",
-    "description": "Master programming by recreating your favorite technologies from scratch."
-  },
-  {
-    "repo": "cursor/agent-trace",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "A standard format for tracing AI-generated code."
-  },
-  {
-    "repo": "Tencent/tdesign-react",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "A React UI components lib for TDesign."
-  },
-  {
-    "repo": "cockroachdb/cockroach",
-    "branch": "master",
-    "language": "Go",
-    "description": "CockroachDB — the cloud native, distributed SQL database designed for high availability, effortless scale, and control over data placement."
-  },
-  {
-    "repo": "thesSmartApe/polymarket-copy-trading-bot-rust",
-    "branch": "main",
-    "language": "Rust",
-    "description": "polymarket rust copy trading bot polymarket copy trading bot polymarket copy trading bot polymarket copy trading bot polymarket copy trading bot polymarket copy trading bot polymarket copy trading bot polymarket copy trading bot polymarket copy trading bot polymarket copy trading bot"
-  },
-  {
-    "repo": "milanm/AutoGrad-Engine",
-    "branch": "main",
-    "language": "C#",
-    "description": "A complete GPT language model (training and inference) in pure C# with zero dependencies."
-  },
-  {
-    "repo": "mmazzarolo/react-native-modal-datetime-picker",
-    "branch": "master",
-    "language": "JavaScript",
-    "description": "A React-Native datetime-picker for Android and iOS"
-  },
-  {
-    "repo": "f/textream",
-    "branch": "master",
-    "language": "Swift",
-    "description": "Textream is a free macOS teleprompter app for streamers, interviewers, and presenters. It highlights your script in real-time as you speak, displayed in a beautiful Dynamic Island overlay."
-  },
-  {
-    "repo": "homielab/giapha-os",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Đây là mã nguồn mở cho ứng dụng quản lý gia phả dòng họ, cung cấp giao diện trực quan để xem sơ đồ phả hệ, quản lý thành viên, tìm kiếm và lọc danh sách thành viên."
-  },
-  {
-    "repo": "Castor6/tactus",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "The first browser AI Agent extension to support Agent Skills, enabling AI to perform complex tasks through an expandable skill system. 🌟 Star if you like it! | 首个支持 Agent Skills 的浏览器 AI Agent 扩展，让 AI 通过可扩展技能系统执行复杂任务 🌟 如果喜欢请点个 Star！"
-  },
-  {
-    "repo": "alibaba/ice",
-    "branch": "master",
-    "language": "TypeScript",
-    "description": "🚀 ice.js: The Progressive App Framework Based On React（基于 React 的渐进式应用框架）"
-  },
-  {
-    "repo": "vikingmute/better-wechatpay",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "现代化的微信支付 Node.js SDK - ESM、TypeScript、全支付方式支持"
-  },
-  {
-    "repo": "OpenMOSS/MOVA",
-    "branch": "main",
-    "language": "Python",
-    "description": "MOVA: Towards Scalable and Synchronized Video–Audio Generation"
-  },
-  {
-    "repo": "keanucz/detour",
-    "branch": "master",
-    "language": "TypeScript",
-    "description": "On-board AI agents autonomously saving satellites from orbital debris @ treehacks 2026"
-  },
-  {
-    "repo": "tj/n",
+    "repo": "zsh-users/zsh-syntax-highlighting",
     "branch": "master",
     "language": "Shell",
-    "description": "Node version management"
+    "description": "Fish shell like syntax highlighting for Zsh."
   },
   {
-    "repo": "phioranex/openclaw-docker",
+    "repo": "Rivflyyy/HappyTorch",
     "branch": "main",
-    "language": "PowerShell",
+    "language": "Jupyter Notebook",
+    "description": "A PyTorch coding practice platform — covering LLM, Diffusion, PEFT, and more  A friendly environment to help you deeply understand deep learning components through hands-on practice.  Like LeetCode, but for tensors. Self-hosted. Supports both Jupyter and Web interfaces."
+  },
+  {
+    "repo": "ClickHouse/ClickHouse",
+    "branch": "master",
+    "language": "C++",
+    "description": "ClickHouse® is a real-time analytics database management system"
+  },
+  {
+    "repo": "lauraevz6y70/gnark-crypto",
+    "branch": "main",
+    "language": "Python",
+    "description": "gnark-crypto-cmd — Interactive CLI for Consensys gnark-crypto library featuring elliptic curve cryptography (BN254, BLS12-381, BLS24, BW6), zero-knowledge proof primitives, FFT/KZG/MiMC/EdDSA operations, Go code generation, benchmarks, and BibTeX citation export"
+  },
+  {
+    "repo": "hicode002/qualcomm_gbl_exploit_poc",
+    "branch": "main",
+    "language": "C",
+    "description": "Unlocking qualcomm bootloader via gbl exploit."
+  },
+  {
+    "repo": "vulhunt-re/vulhunt",
+    "branch": "dev",
+    "language": "C++",
+    "description": "Vulnerability detection framework by Binarly's REsearch team"
+  },
+  {
+    "repo": "timescale/timescaledb",
+    "branch": "main",
+    "language": "C",
+    "description": "A time-series database for high-performance real-time analytics packaged as a Postgres extension"
+  },
+  {
+    "repo": "martinez88668/MasterCryptoFarmBot",
+    "branch": "main",
+    "language": "Python",
+    "description": "MasterCryptoFarmBot CLI — Universal crypto farming bot manager with multi-bot orchestration, automated Telegram mini-app farming, session management, proxy support, scheduling system, Rich terminal dashboard, and one-click deployment for airdrop and DeFi yield farming"
+  },
+  {
+    "repo": "dongsheng123132/u-claw",
+    "branch": "main",
+    "language": "HTML",
+    "description": "🦞 U-Claw - OpenClaw Offline Installer USB for China | OpenClaw 离线安装 U 盘，专为中国用户打造。免翻墙，一键安装，雨林木风风格。"
+  },
+  {
+    "repo": "tree-sitter/tree-sitter",
+    "branch": "master",
+    "language": "Rust",
+    "description": "An incremental parsing system for programming tools"
+  },
+  {
+    "repo": "Sibyl-Research-Team/sibyl-research-system",
+    "branch": "main",
+    "language": "Python",
+    "description": "Fully Autonomous AI Research System with Self-Evolution, built natively on Claude Code"
+  },
+  {
+    "repo": "michelleoincx/genspark.ai-openclaw",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "OpenClaw for genspark.ai — open-source extension that claws through every paywall and rate limit. Install in one command, run forever free."
+  },
+  {
+    "repo": "kapishdima/fonttrio",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Curated font pairing registry for shadcn. Three fonts. One command. Install perfectly configured typography (heading + body + mono) with shadcn add.    Includes editorial-grade type scales, CSS variables, and a live preview site."
+  },
+  {
+    "repo": "byJoey/openclawctl",
+    "branch": "main",
+    "language": "Shell",
     "description": ""
   },
   {
-    "repo": "LineageOS/android",
-    "branch": "lineage-21.0",
-    "language": "Other",
-    "description": "Placeholder repository for LineageOS"
+    "repo": "marilyn4120shaz3/KiteAI",
+    "branch": "main",
+    "language": "Python",
+    "description": "Automated multi-account farming tool for Kite AI decentralized payment network with faucet claims, token staking, DEX swaps, daily quiz completion, cross-chain bridging, proxy rotation, and configurable task scheduling"
+  },
+  {
+    "repo": "alpinejs/alpine",
+    "branch": "main",
+    "language": "HTML",
+    "description": "A rugged, minimal framework for composing JavaScript behavior in your markup."
+  },
+  {
+    "repo": "photon-hq/qclaw-wechat-client",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Reverse-engineered TypeScript client for QClaw's WeChat Access API."
+  },
+  {
+    "repo": "select2/select2",
+    "branch": "develop",
+    "language": "JavaScript",
+    "description": "Select2 is a jQuery based replacement for select boxes. It supports searching, remote data sets, and infinite scrolling of results."
+  },
+  {
+    "repo": "LukeRenton/explore-claude-code",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "Learn Claude Code by exploring it as it was designed - interactive IDE-style docs for commands, MCP, skills, CLAUDE.md and more."
+  },
+  {
+    "repo": "Comfy-Org/Nvidia_RTX_Nodes_ComfyUI",
+    "branch": "main",
+    "language": "Python",
+    "description": ""
+  },
+  {
+    "repo": "Dinesh-Sowndar/flutter_billing_app",
+    "branch": "main",
+    "language": "Dart",
+    "description": ""
+  },
+  {
+    "repo": "viperrcrypto/Siftly",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Local Twitter/X bookmark organizer with AI categorization and mindmap visualization"
+  },
+  {
+    "repo": "radix-ui/primitives",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Radix Primitives is an open-source UI component library for building high-quality, accessible design systems and web apps. Maintained by @workos."
   }
 ]
