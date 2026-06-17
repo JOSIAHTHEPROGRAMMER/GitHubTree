@@ -1,111 +1,9 @@
 [
   {
-    "repo": "johnmiddleton12/my-whoop",
-    "branch": "main",
-    "language": "Python",
-    "description": ""
-  },
-  {
-    "repo": "Shopify/flash-list",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "A better list for React Native"
-  },
-  {
-    "repo": "pallets/flask",
-    "branch": "main",
-    "language": "Python",
-    "description": "The Python micro framework for building web applications."
-  },
-  {
-    "repo": "nteract/nteract",
-    "branch": "master",
-    "language": "TypeScript",
-    "description": "📘 The interactive computing suite for you!  ✨"
-  },
-  {
-    "repo": "WebAssembly/spec",
-    "branch": "main",
-    "language": "WebAssembly",
-    "description": "WebAssembly specification, reference interpreter, and test suite."
-  },
-  {
-    "repo": "socketio/socket.io",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Realtime application framework (Node.JS server)"
-  },
-  {
-    "repo": "airbnb/lottie-web",
+    "repo": "brunch/brunch",
     "branch": "master",
     "language": "JavaScript",
-    "description": "Render After Effects animations natively on Web, Android and iOS, and React Native. http://airbnb.io/lottie/"
-  },
-  {
-    "repo": "expressjs/express",
-    "branch": "master",
-    "language": "JavaScript",
-    "description": "Fast, unopinionated, minimalist web framework for node."
-  },
-  {
-    "repo": "sandroandric/clime",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "One CLI to find every CLI"
-  },
-  {
-    "repo": "THUDM/ChatGLM-6B",
-    "branch": "main",
-    "language": "Python",
-    "description": "ChatGLM-6B: An Open Bilingual Dialogue Language Model | 开源双语对话语言模型"
-  },
-  {
-    "repo": "juanceresa/sift-kg",
-    "branch": "main",
-    "language": "Python",
-    "description": "Turn any collection of documents into a knowledge graph. Domain-configurable entity extraction, human-in-the-loop dedup, and narrative generation — all from the CLI."
-  },
-  {
-    "repo": "open-policy-agent/gatekeeper",
-    "branch": "master",
-    "language": "Go",
-    "description": "🐊 Policy Controller for Kubernetes"
-  },
-  {
-    "repo": "nestjs/nest",
-    "branch": "master",
-    "language": "TypeScript",
-    "description": "A progressive Node.js framework for building efficient, scalable, and enterprise-grade server-side applications with TypeScript/JavaScript 🚀"
-  },
-  {
-    "repo": "open-telemetry/opentelemetry-python",
-    "branch": "main",
-    "language": "Python",
-    "description": "OpenTelemetry Python API and SDK"
-  },
-  {
-    "repo": "livehl/aimirror",
-    "branch": "main",
-    "language": "Python",
-    "description": "🚀 200倍速！AI时代的下载神器 | Docker/PyPI/HuggingFace/CRAN 全加速 | 并行分片+智能缓存，让下载飞起来"
-  },
-  {
-    "repo": "joshcirre/instruckt-laravel",
-    "branch": "main",
-    "language": "PHP",
-    "description": ""
-  },
-  {
-    "repo": "wbenny/scfw",
-    "branch": "master",
-    "language": "C++",
-    "description": "A cross-platform C++ framework for building Windows shellcode"
-  },
-  {
-    "repo": "openai/openai-python",
-    "branch": "main",
-    "language": "Python",
-    "description": "The official Python library for the OpenAI API"
+    "description": "🍴 Web applications made easy. Since 2011."
   },
   {
     "repo": "jayminwest/overstory",
@@ -114,33 +12,135 @@
     "description": "Project-agnostic swarm system for Claude Code agent orchestration"
   },
   {
-    "repo": "hamelsmu/claude-review-loop",
+    "repo": "symbolica-ai/arcgentica",
     "branch": "main",
-    "language": "Shell",
-    "description": "Claude Code plugin: automated code review loop with Codex"
+    "language": "Python",
+    "description": "An ARC-AGI solution using Agentica from Symbolica"
   },
   {
-    "repo": "solidjs-community/solid-primitives",
+    "repo": "shenhao-stu/ohmycaptcha",
+    "branch": "main",
+    "language": "Python",
+    "description": "⚡ Self-hostable YesCaptcha-compatible captcha solver built with FastAPI, Playwright, and OpenAI-compatible multimodal models."
+  },
+  {
+    "repo": "heygen-com/hyperframes-launch-video",
+    "branch": "main",
+    "language": "HTML",
+    "description": ""
+  },
+  {
+    "repo": "react-native-device-info/react-native-device-info",
+    "branch": "master",
+    "language": "TypeScript",
+    "description": "Device Information for React Native iOS and Android"
+  },
+  {
+    "repo": "ibelick/webclaw",
     "branch": "main",
     "language": "TypeScript",
-    "description": "A library of high-quality primitives that extend SolidJS reactivity."
+    "description": "Fast web client for OpenClaw"
   },
   {
-    "repo": "grpc/grpc-go",
+    "repo": "codecrafters-io/build-your-own-x",
+    "branch": "master",
+    "language": "Markdown",
+    "description": "Master programming by recreating your favorite technologies from scratch."
+  },
+  {
+    "repo": "cursor/agent-trace",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "A standard format for tracing AI-generated code."
+  },
+  {
+    "repo": "Tencent/tdesign-react",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "A React UI components lib for TDesign."
+  },
+  {
+    "repo": "cockroachdb/cockroach",
     "branch": "master",
     "language": "Go",
-    "description": "The Go language implementation of gRPC. HTTP/2 based RPC"
+    "description": "CockroachDB — the cloud native, distributed SQL database designed for high availability, effortless scale, and control over data placement."
   },
   {
-    "repo": "Mrack/TInjector_Symbi",
-    "branch": "master",
-    "language": "C++",
-    "description": "更稳定的劫持Zygote在App启动前注入so"
+    "repo": "thesSmartApe/polymarket-copy-trading-bot-rust",
+    "branch": "main",
+    "language": "Rust",
+    "description": "polymarket rust copy trading bot polymarket copy trading bot polymarket copy trading bot polymarket copy trading bot polymarket copy trading bot polymarket copy trading bot polymarket copy trading bot polymarket copy trading bot polymarket copy trading bot polymarket copy trading bot"
   },
   {
-    "repo": "SortableJS/Sortable",
+    "repo": "milanm/AutoGrad-Engine",
+    "branch": "main",
+    "language": "C#",
+    "description": "A complete GPT language model (training and inference) in pure C# with zero dependencies."
+  },
+  {
+    "repo": "mmazzarolo/react-native-modal-datetime-picker",
     "branch": "master",
     "language": "JavaScript",
-    "description": "Reorderable drag-and-drop lists for modern browsers and touch devices. No jQuery or framework required."
+    "description": "A React-Native datetime-picker for Android and iOS"
+  },
+  {
+    "repo": "f/textream",
+    "branch": "master",
+    "language": "Swift",
+    "description": "Textream is a free macOS teleprompter app for streamers, interviewers, and presenters. It highlights your script in real-time as you speak, displayed in a beautiful Dynamic Island overlay."
+  },
+  {
+    "repo": "homielab/giapha-os",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Đây là mã nguồn mở cho ứng dụng quản lý gia phả dòng họ, cung cấp giao diện trực quan để xem sơ đồ phả hệ, quản lý thành viên, tìm kiếm và lọc danh sách thành viên."
+  },
+  {
+    "repo": "Castor6/tactus",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "The first browser AI Agent extension to support Agent Skills, enabling AI to perform complex tasks through an expandable skill system. 🌟 Star if you like it! | 首个支持 Agent Skills 的浏览器 AI Agent 扩展，让 AI 通过可扩展技能系统执行复杂任务 🌟 如果喜欢请点个 Star！"
+  },
+  {
+    "repo": "alibaba/ice",
+    "branch": "master",
+    "language": "TypeScript",
+    "description": "🚀 ice.js: The Progressive App Framework Based On React（基于 React 的渐进式应用框架）"
+  },
+  {
+    "repo": "vikingmute/better-wechatpay",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "现代化的微信支付 Node.js SDK - ESM、TypeScript、全支付方式支持"
+  },
+  {
+    "repo": "OpenMOSS/MOVA",
+    "branch": "main",
+    "language": "Python",
+    "description": "MOVA: Towards Scalable and Synchronized Video–Audio Generation"
+  },
+  {
+    "repo": "keanucz/detour",
+    "branch": "master",
+    "language": "TypeScript",
+    "description": "On-board AI agents autonomously saving satellites from orbital debris @ treehacks 2026"
+  },
+  {
+    "repo": "tj/n",
+    "branch": "master",
+    "language": "Shell",
+    "description": "Node version management"
+  },
+  {
+    "repo": "phioranex/openclaw-docker",
+    "branch": "main",
+    "language": "PowerShell",
+    "description": ""
+  },
+  {
+    "repo": "LineageOS/android",
+    "branch": "lineage-21.0",
+    "language": "Other",
+    "description": "Placeholder repository for LineageOS"
   }
 ]
