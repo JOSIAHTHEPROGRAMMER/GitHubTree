@@ -1,146 +1,146 @@
 [
   {
-    "repo": "he-yufeng/CoreCoder",
-    "branch": "main",
-    "language": "Python",
-    "description": "Minimal AI coding agent (~950 LoC Python) inspired by Claude Code. Works with any LLM. Think NanoGPT for coding agent. Formerly NanoCoder."
-  },
-  {
-    "repo": "zsh-users/zsh-syntax-highlighting",
+    "repo": "airbnb/knowledge-repo",
     "branch": "master",
-    "language": "Shell",
-    "description": "Fish shell like syntax highlighting for Zsh."
+    "language": "Python",
+    "description": "A next-generation curated knowledge sharing platform for data scientists and other technical professions."
   },
   {
-    "repo": "Rivflyyy/HappyTorch",
+    "repo": "outsourc-e/hermes-workspace",
     "branch": "main",
-    "language": "Jupyter Notebook",
-    "description": "A PyTorch coding practice platform — covering LLM, Diffusion, PEFT, and more  A friendly environment to help you deeply understand deep learning components through hands-on practice.  Like LeetCode, but for tensors. Self-hosted. Supports both Jupyter and Web interfaces."
+    "language": "TypeScript",
+    "description": "Native web workspace for Hermes Agent — chat, terminal, memory, skills, inspector. Built for the Nous Research hackathon."
   },
   {
-    "repo": "ClickHouse/ClickHouse",
+    "repo": "Geek-1001/arcmark",
+    "branch": "main",
+    "language": "Swift",
+    "description": "macOS bookmark manager that attaches to any browser window as a sidebar"
+  },
+  {
+    "repo": "WebAssembly/wabt",
+    "branch": "main",
+    "language": "C++",
+    "description": "The WebAssembly Binary Toolkit"
+  },
+  {
+    "repo": "apache/airflow",
+    "branch": "main",
+    "language": "Python",
+    "description": "Apache Airflow - A platform to programmatically author, schedule, and monitor workflows"
+  },
+  {
+    "repo": "AnInsomniacy/motrix-next",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "The next chapter of Motrix — rebuilt from scratch with Tauri 2, Vue 3, and Rust"
+  },
+  {
+    "repo": "zoontek/react-native-permissions",
     "branch": "master",
-    "language": "C++",
-    "description": "ClickHouse® is a real-time analytics database management system"
+    "language": "Objective-C++",
+    "description": "An unified permissions API for React Native on iOS, Android and Windows."
   },
   {
-    "repo": "lauraevz6y70/gnark-crypto",
+    "repo": "Higangssh/gitcredits",
     "branch": "main",
-    "language": "Python",
-    "description": "gnark-crypto-cmd — Interactive CLI for Consensys gnark-crypto library featuring elliptic curve cryptography (BN254, BLS12-381, BLS24, BW6), zero-knowledge proof primitives, FFT/KZG/MiMC/EdDSA operations, Go code generation, benchmarks, and BibTeX citation export"
+    "language": "Go",
+    "description": "Roll movie-style credits for your git repo — right in the terminal"
   },
   {
-    "repo": "hicode002/qualcomm_gbl_exploit_poc",
+    "repo": "OWASP/Amass",
+    "branch": "master",
+    "language": "Go",
+    "description": "In-depth attack surface mapping and asset discovery"
+  },
+  {
+    "repo": "BuilderIO/qwik",
     "branch": "main",
-    "language": "C",
-    "description": "Unlocking qualcomm bootloader via gbl exploit."
+    "language": "TypeScript",
+    "description": "Instant-loading web apps, without effort"
   },
   {
-    "repo": "vulhunt-re/vulhunt",
-    "branch": "dev",
-    "language": "C++",
-    "description": "Vulnerability detection framework by Binarly's REsearch team"
-  },
-  {
-    "repo": "timescale/timescaledb",
-    "branch": "main",
-    "language": "C",
-    "description": "A time-series database for high-performance real-time analytics packaged as a Postgres extension"
-  },
-  {
-    "repo": "martinez88668/MasterCryptoFarmBot",
-    "branch": "main",
-    "language": "Python",
-    "description": "MasterCryptoFarmBot CLI — Universal crypto farming bot manager with multi-bot orchestration, automated Telegram mini-app farming, session management, proxy support, scheduling system, Rich terminal dashboard, and one-click deployment for airdrop and DeFi yield farming"
-  },
-  {
-    "repo": "dongsheng123132/u-claw",
-    "branch": "main",
-    "language": "HTML",
-    "description": "🦞 U-Claw - OpenClaw Offline Installer USB for China | OpenClaw 离线安装 U 盘，专为中国用户打造。免翻墙，一键安装，雨林木风风格。"
-  },
-  {
-    "repo": "tree-sitter/tree-sitter",
+    "repo": "acedef/SynthAPT",
     "branch": "master",
     "language": "Rust",
-    "description": "An incremental parsing system for programming tools"
+    "description": "Generate malware with AI"
   },
   {
-    "repo": "Sibyl-Research-Team/sibyl-research-system",
+    "repo": "kata-containers/kata-containers",
+    "branch": "main",
+    "language": "Rust",
+    "description": "Kata Containers is an open source project and community working to build a standard implementation of lightweight Virtual Machines (VMs) that feel and perform like containers, but provide the workload isolation and security advantages of VMs. https://katacontainers.io/"
+  },
+  {
+    "repo": "vim/vim",
+    "branch": "master",
+    "language": "Vim Script",
+    "description": "The official Vim repository"
+  },
+  {
+    "repo": "microsoft/LightGBM",
+    "branch": "master",
+    "language": "C++",
+    "description": "A fast, distributed, high performance gradient boosting (GBT, GBDT, GBRT, GBM or MART) framework based on decision tree algorithms, used for ranking, classification and many other machine learning tasks."
+  },
+  {
+    "repo": "pgvector/pgvector",
+    "branch": "master",
+    "language": "C",
+    "description": "Open-source vector similarity search for Postgres"
+  },
+  {
+    "repo": "inliver233/Ai-Novel",
     "branch": "main",
     "language": "Python",
-    "description": "Fully Autonomous AI Research System with Self-Evolution, built natively on Claude Code"
+    "description": "强大的ai小说创作网站"
   },
   {
-    "repo": "michelleoincx/genspark.ai-openclaw",
+    "repo": "smartcmd/MinecraftConsoles",
     "branch": "main",
-    "language": "TypeScript",
-    "description": "OpenClaw for genspark.ai — open-source extension that claws through every paywall and rate limit. Install in one command, run forever free."
+    "language": "C++",
+    "description": "A certain block game"
   },
   {
-    "repo": "kapishdima/fonttrio",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Curated font pairing registry for shadcn. Three fonts. One command. Install perfectly configured typography (heading + body + mono) with shadcn add.    Includes editorial-grade type scales, CSS variables, and a live preview site."
+    "repo": "alecthomas/t",
+    "branch": "master",
+    "language": "Rust",
+    "description": "`t` is a concise language for manipulating text, replacing common usage patterns of Unix utilities like grep, sed, cut, awk, sort, and uniq."
   },
   {
-    "repo": "byJoey/openclawctl",
-    "branch": "main",
-    "language": "Shell",
-    "description": ""
-  },
-  {
-    "repo": "marilyn4120shaz3/KiteAI",
-    "branch": "main",
-    "language": "Python",
-    "description": "Automated multi-account farming tool for Kite AI decentralized payment network with faucet claims, token staking, DEX swaps, daily quiz completion, cross-chain bridging, proxy rotation, and configurable task scheduling"
-  },
-  {
-    "repo": "alpinejs/alpine",
-    "branch": "main",
-    "language": "HTML",
-    "description": "A rugged, minimal framework for composing JavaScript behavior in your markup."
-  },
-  {
-    "repo": "photon-hq/qclaw-wechat-client",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Reverse-engineered TypeScript client for QClaw's WeChat Access API."
-  },
-  {
-    "repo": "select2/select2",
-    "branch": "develop",
-    "language": "JavaScript",
-    "description": "Select2 is a jQuery based replacement for select boxes. It supports searching, remote data sets, and infinite scrolling of results."
-  },
-  {
-    "repo": "LukeRenton/explore-claude-code",
+    "repo": "xvhuan/xiaoi",
     "branch": "main",
     "language": "JavaScript",
-    "description": "Learn Claude Code by exploring it as it was designed - interactive IDE-style docs for commands, MCP, skills, CLAUDE.md and more."
+    "description": "小爱音箱语音通知工具：提供 CLI/TUI/MCP/Webhook 一键播报与控制音量，支持 PM2 常驻部署，支持docker部署。"
   },
   {
-    "repo": "Comfy-Org/Nvidia_RTX_Nodes_ComfyUI",
-    "branch": "main",
+    "repo": "ray-project/ray",
+    "branch": "master",
     "language": "Python",
-    "description": ""
+    "description": "Ray is an AI compute engine. Ray consists of a core distributed runtime and a set of AI Libraries for accelerating ML workloads."
   },
   {
-    "repo": "Dinesh-Sowndar/flutter_billing_app",
+    "repo": "microsoft/STL",
     "branch": "main",
-    "language": "Dart",
-    "description": ""
+    "language": "C++",
+    "description": "MSVC's implementation of the C++ Standard Library."
   },
   {
-    "repo": "viperrcrypto/Siftly",
+    "repo": "bytecodealliance/wasmtime",
+    "branch": "main",
+    "language": "Rust",
+    "description": "A lightweight WebAssembly runtime that is fast, secure, and standards-compliant"
+  },
+  {
+    "repo": "iad1tya/Net-Bar",
+    "branch": "main",
+    "language": "Swift",
+    "description": "A lightweight, aesthetically pleasing network speed monitor that lives in your macOS menu bar."
+  },
+  {
+    "repo": "cita-777/metapi",
     "branch": "main",
     "language": "TypeScript",
-    "description": "Local Twitter/X bookmark organizer with AI categorization and mindmap visualization"
-  },
-  {
-    "repo": "radix-ui/primitives",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Radix Primitives is an open-source UI component library for building high-quality, accessible design systems and web apps. Maintained by @workos."
+    "description": "把你在各处注册的 New API / One API / OneHub / DoneHub / Veloera / AnyRouter / Sub2API 等站点， 汇聚成 一个 API Key、一个入口，自动发现模型、智能路由、成本最优"
   }
 ]

@@ -1,8 +1,8 @@
 {
-  "repo": "chen2he/orange-cloud",
-  "branch": "main",
-  "language": "Swift",
-  "description": "A native iOS client for Cloudflare — sign in with OAuth",
-  "stars": 116,
-  "forks": 14
+  "repo": "dongshuyan/compass-skills",
+  "branch": "master",
+  "language": "Python",
+  "description": "司南：个性化 AI 任务总控 Skills 系统 /COMPASS: Personal Alignment Skills OS for AI Agents",
+  "stars": 255,
+  "forks": 22
 }
