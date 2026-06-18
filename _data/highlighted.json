@@ -1,8 +1,8 @@
 {
-  "repo": "cryingcheems/codex-team-oauth",
+  "repo": "modelscope/Awesome-Vibe-Research",
   "branch": "main",
   "language": "Python",
-  "description": "利用Team 空间域名free 账号跳过手机号登录 codex的研究脚本",
-  "stars": 120,
-  "forks": 68
+  "description": "An open, collaboratively-built repository for AI-assisted scientific research — collecting and curating agents, skills, workflows, tools, and best practices across the full research lifecycle. 面向 AI 辅助科研的开放共建仓库 收集和沉淀科研全流程中的 agents、skills、workflows、tools 与最佳实践",
+  "stars": 124,
+  "forks": 9
 }

@@ -1,146 +1,146 @@
 [
   {
-    "repo": "sleepinginsummer/agent-browser-cli",
+    "repo": "win4r/free-code",
     "branch": "main",
-    "language": "JavaScript",
-    "description": "使用 agent-browser-cli 进行浏览器感知与控制。适用于标签页扫描/切换、页面 JS 执行、Cookie、CDP、contentSettings、截图、文件上传、下拉框点击、tmwd_cdp_bridge 初始化和 Web 工具排障"
+    "language": "TypeScript",
+    "description": "Published from https://github.com/paoloanzn/free-code; independent public mirror due GitHub fork-network limits."
   },
   {
-    "repo": "AgriciDaniel/claude-seo",
+    "repo": "Sibyl-Research-Team/sibyl-research-system",
     "branch": "main",
     "language": "Python",
-    "description": "Universal SEO skill for Claude Code. Comprehensive SEO analysis for any website or business type."
+    "description": "Fully Autonomous AI Research System with Self-Evolution, built natively on Claude Code"
   },
   {
-    "repo": "styled-components/styled-components",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Visual primitives for the component age. Use the best bits of ES6 and CSS to style your apps without stress 💅"
-  },
-  {
-    "repo": "videojs/video.js",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "Video.js - open source HTML5 video player"
-  },
-  {
-    "repo": "ImageMagick/ImageMagick",
-    "branch": "main",
-    "language": "C",
-    "description": "ImageMagick is a free, open-source software suite for creating, editing, converting, and displaying images. It supports 200+ formats and offers powerful command-line tools and APIs for automation, scripting, and integration across platforms."
-  },
-  {
-    "repo": "portainer/portainer",
-    "branch": "develop",
-    "language": "TypeScript",
-    "description": "Making Docker and Kubernetes management easy."
-  },
-  {
-    "repo": "karanb192/claude-code-hooks",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "🪝 A growing collection of useful Claude Code hooks. Copy, paste, customize."
-  },
-  {
-    "repo": "boostorg/boost",
+    "repo": "go-gorm/gorm",
     "branch": "master",
+    "language": "Go",
+    "description": "The fantastic ORM library for Golang, aims to be developer friendly"
+  },
+  {
+    "repo": "ygwyg/agent-experience",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "A visual reference to the patterns, surfaces, and infrastructure behind AI agents."
+  },
+  {
+    "repo": "tiangolo/fastapi",
+    "branch": "master",
+    "language": "Python",
+    "description": "FastAPI framework, high performance, easy to learn, fast to code, ready for production"
+  },
+  {
+    "repo": "PinchToDebug/EverythingQuickSearch",
+    "branch": "master",
+    "language": "C#",
+    "description": ""
+  },
+  {
+    "repo": "dotnet/efcore",
+    "branch": "main",
+    "language": "C#",
+    "description": "EF Core is a modern object-database mapper for .NET. It supports LINQ queries, change tracking, updates, and schema migrations."
+  },
+  {
+    "repo": "actions/upload-artifact",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Upload artifacts from your workflow"
+  },
+  {
+    "repo": "open-telemetry/opentelemetry-python",
+    "branch": "main",
+    "language": "Python",
+    "description": "OpenTelemetry Python API and SDK"
+  },
+  {
+    "repo": "MeisnerDan/mission-control",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Open-source task management for the agentic era. The command center for solo entrepreneurs who delegate work to AI agents."
+  },
+  {
+    "repo": "liuxiaopai-ai/raphael-publish",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Raphael Publish - 公众号排版大师 | 现代 Markdown 排版引擎"
+  },
+  {
+    "repo": "Norman-bury/articlewriting-skill",
+    "branch": "main",
+    "language": "Python",
+    "description": "科研写作助手 (Research Writing Assistant)"
+  },
+  {
+    "repo": "0xMH/fichero-printer",
+    "branch": "main",
     "language": "HTML",
-    "description": "Super-project for modularized Boost"
+    "description": "Fichero D11s thermal label printer - BLE protocol reverse engineering and Python CLI tool"
   },
   {
-    "repo": "wagmi-dev/viem",
+    "repo": "34306/vphone-aio",
     "branch": "main",
-    "language": "TypeScript",
-    "description": "TypeScript Interface for Ethereum"
+    "language": "Shell",
+    "description": "1 script run the vphone"
   },
   {
-    "repo": "mosaicml/llm-foundry",
-    "branch": "main",
-    "language": "Python",
-    "description": "LLM training code for Databricks foundation models"
-  },
-  {
-    "repo": "vercel-labs/visual-json",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "The Visual JSON Editor. Schema-aware, embeddable, extensible."
-  },
-  {
-    "repo": "gin-gonic/gin",
-    "branch": "master",
-    "language": "Go",
-    "description": "Gin is a high-performance HTTP web framework written in Go. It provides a Martini-like API but with significantly better performance—up to 40 times faster—thanks to httprouter. Gin is designed for building REST APIs, web applications, and microservices."
-  },
-  {
-    "repo": "cfinke/EpsteIn",
-    "branch": "main",
-    "language": "Python",
-    "description": "See which of your LinkedIn connections appear in the Epstein files."
-  },
-  {
-    "repo": "SakanaAI/AI-Scientist-v2",
-    "branch": "main",
-    "language": "Python",
-    "description": "The AI Scientist-v2: Workshop-Level Automated Scientific Discovery via Agentic Tree Search"
-  },
-  {
-    "repo": "airbytehq/airbyte",
+    "repo": "Significant-Gravitas/AutoGPT",
     "branch": "master",
     "language": "Python",
-    "description": "The leading data integration platform for ETL / ELT data pipelines from APIs, databases & files to data warehouses, data lakes & data lakehouses. Both self-hosted and Cloud-hosted."
+    "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters."
   },
   {
-    "repo": "go-pg/pg",
+    "repo": "openai/triton",
+    "branch": "main",
+    "language": "MLIR",
+    "description": "Development repository for the Triton language and compiler"
+  },
+  {
+    "repo": "tokio-rs/tokio",
     "branch": "master",
-    "language": "Go",
-    "description": "Golang ORM with focus on PostgreSQL features and performance"
+    "language": "Rust",
+    "description": "A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ..."
   },
   {
-    "repo": "phai-lab/InstantSplatPP",
+    "repo": "Zaneham/BarraCUDA",
+    "branch": "master",
+    "language": "C",
+    "description": "Open-source CUDA compiler targeting AMD GPUs (and more in the future!). Compiles .cu to GFX11 machine code."
+  },
+  {
+    "repo": "op7418/Document-illustrator-skill",
     "branch": "main",
     "language": "Python",
+    "description": "帮你从文档生成对应的多张配图，内置了歸藏精心探索的图片风格，支持 16:9 和 3:4 两种比例，方便发小红书以及推特。"
+  },
+  {
+    "repo": "Guovin/IPTV-API",
+    "branch": "main",
+    "language": "Python",
+    "description": "⚡️IPTV直播源自动更新平台『🤖全自动采集、筛选、测速、生成🚀』：自定义获取频道；IPv4/IPv6；接口验效；推流；多平台支持；工作流、Docker、命令行、GUI多端部署 | IPTV live streaming source automatic update platform"
+  },
+  {
+    "repo": "edwardsanchez/MotionEyes",
+    "branch": "main",
+    "language": "Swift",
     "description": ""
   },
   {
-    "repo": "OmniSVG/OmniSVG",
-    "branch": "main",
-    "language": "Python",
-    "description": "[NeurIPS 2025] OmniSVG is the first family of end-to-end multimodal SVG generators that leverage pre-trained Vision-Language Models (VLMs), capable of generating complex and detailed SVGs, from simple icons to intricate anime characters."
-  },
-  {
-    "repo": "Polymarket/polymarket-cli",
-    "branch": "main",
-    "language": "Rust",
-    "description": ""
-  },
-  {
-    "repo": "phpmyadmin/phpmyadmin",
+    "repo": "github/hub",
     "branch": "master",
-    "language": "PHP",
-    "description": "A web interface for MySQL and MariaDB"
-  },
-  {
-    "repo": "rust-unofficial/awesome-rust",
-    "branch": "main",
-    "language": "Rust",
-    "description": "A curated list of Rust code and resources."
-  },
-  {
-    "repo": "gvisor/gvisor",
-    "branch": "master",
-    "language": "Other",
-    "description": "Application Kernel for Containers."
-  },
-  {
-    "repo": "esp-rs/esp-idf-hal",
-    "branch": "main",
-    "language": "Rust",
-    "description": "embedded-hal implementation for Rust on ESP32 and ESP-IDF"
-  },
-  {
-    "repo": "anchore/grype",
-    "branch": "main",
     "language": "Go",
-    "description": "A vulnerability scanner for container images and filesystems"
+    "description": "A command-line tool that makes git easier to use with GitHub."
+  },
+  {
+    "repo": "s2-streamstore/claude-batch-toolkit",
+    "branch": "main",
+    "language": "Shell",
+    "description": "Send non-urgent work to the Anthropic Batch API at 50% cost — directly from Claude Code"
+  },
+  {
+    "repo": "tigerabrodi/neiro",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Audio processing for TypeScript. Chainable, immutable, serverless-ready."
   }
 ]
