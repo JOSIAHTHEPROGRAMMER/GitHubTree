@@ -1,8 +1,8 @@
 {
-  "repo": "shreyashankar/plain-writing-skill",
+  "repo": "cryingcheems/codex-team-oauth",
   "branch": "main",
-  "language": "HTML",
-  "description": "A plain-language writing skill for AI agents, with a revision view that shows what changed.",
-  "stars": 144,
-  "forks": 4
+  "language": "Python",
+  "description": "利用Team 空间域名free 账号跳过手机号登录 codex的研究脚本",
+  "stars": 116,
+  "forks": 66
 }

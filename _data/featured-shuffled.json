@@ -1,146 +1,146 @@
 [
   {
-    "repo": "Nasiko-Labs/nasiko",
+    "repo": "avelino/awesome-go",
     "branch": "main",
-    "language": "Python",
-    "description": "AI-powered development platform for the future"
+    "language": "Go",
+    "description": "A curated list of awesome Go frameworks, libraries and software"
   },
   {
-    "repo": "getify/You-Dont-Know-JS",
+    "repo": "Danm72/home-assistant-automation-suggestions",
+    "branch": "main",
+    "language": "Python",
+    "description": "A Home Assistant integration that analyzes your manual actions and suggests automations to create"
+  },
+  {
+    "repo": "zornade/visura-api",
+    "branch": "main",
+    "language": "Python",
+    "description": "Servizio API per l'estrazione automatizzata di dati catastali dal portale SISTER"
+  },
+  {
+    "repo": "ChristosChristofidis/awesome-deep-learning",
     "branch": "master",
     "language": "Other",
-    "description": "A book series (2 published editions) on the JS language."
+    "description": "A curated list of awesome Deep Learning tutorials, projects and communities."
   },
   {
-    "repo": "symfony/symfony",
-    "branch": "7.1",
+    "repo": "josephmisiti/awesome-machine-learning",
+    "branch": "master",
+    "language": "Python",
+    "description": "A curated list of awesome Machine Learning frameworks, libraries and software."
+  },
+  {
+    "repo": "Nuzair46/Monarch",
+    "branch": "main",
+    "language": "Rust",
+    "description": "Detach, restore, and switch monitor layouts without touching cables."
+  },
+  {
+    "repo": "LoseNine/ruyipage",
+    "branch": "main",
+    "language": "Python",
+    "description": "RuyiPage is a Python-based Firefox automation framework built on the next-generation WebDriver BiDi protocol."
+  },
+  {
+    "repo": "github/storybook-addon-performance-panel",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "A Storybook Addon for tracking web performance"
+  },
+  {
+    "repo": "trimstray/the-book-of-secret-knowledge",
+    "branch": "master",
+    "language": "Other",
+    "description": "A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more."
+  },
+  {
+    "repo": "square/retrofit",
+    "branch": "master",
+    "language": "HTML",
+    "description": "A type-safe HTTP client for Android and the JVM"
+  },
+  {
+    "repo": "validatorjs/validator.js",
+    "branch": "master",
+    "language": "JavaScript",
+    "description": "String validation"
+  },
+  {
+    "repo": "pmndrs/react-three-fiber",
+    "branch": "master",
+    "language": "TypeScript",
+    "description": "🇨🇭 A React renderer for Three.js"
+  },
+  {
+    "repo": "botiverse/agent-vault",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Keep your secrets hidden from AI agents."
+  },
+  {
+    "repo": "papers-we-love/papers-we-love",
+    "branch": "master",
+    "language": "Shell",
+    "description": "Papers from the computer science community to read and discuss."
+  },
+  {
+    "repo": "InterviewReady/system-design-resources",
+    "branch": "main",
+    "language": "Other",
+    "description": "These are the best resources for System Design on the Internet"
+  },
+  {
+    "repo": "node-fetch/node-fetch",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "A light-weight module that brings the Fetch API to Node.js"
+  },
+  {
+    "repo": "paragonie/awesome-appsec",
+    "branch": "master",
     "language": "PHP",
-    "description": "The Symfony PHP framework"
+    "description": "A curated list of resources for learning about application security"
   },
   {
-    "repo": "kyutai-labs/hibiki-zero",
-    "branch": "main",
-    "language": "Python",
-    "description": "A real-time and multilingual speech translation model"
-  },
-  {
-    "repo": "NVlabs/Sana",
-    "branch": "main",
-    "language": "Python",
-    "description": "SANA: Efficient High-Resolution Image Synthesis with Linear Diffusion Transformer"
-  },
-  {
-    "repo": "Henrygd/Beszel",
-    "branch": "main",
-    "language": "Go",
-    "description": "Lightweight server monitoring hub with historical data, docker stats, and alerts."
-  },
-  {
-    "repo": "mrdoob/three.wasm",
-    "branch": "master",
-    "language": "TypeScript",
-    "description": "8x Faster JavaScript 3D Library."
-  },
-  {
-    "repo": "supabase/supabase",
-    "branch": "master",
-    "language": "TypeScript",
-    "description": "The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications."
-  },
-  {
-    "repo": "Ibrahim-3d/conductor-orchestrator-superpowers",
-    "branch": "master",
-    "language": "Python",
-    "description": "Multi-agent orchestration system for Claude Code with parallel execution, automated quality gates, Board of Directors, and bundled Superpowers skills"
-  },
-  {
-    "repo": "jenkinsci/jenkins",
+    "repo": "JakeWharton/butterknife",
     "branch": "master",
     "language": "Java",
-    "description": "Jenkins automation server"
+    "description": "Bind Android views and callbacks to fields and methods."
   },
   {
-    "repo": "go-task/task",
+    "repo": "996icu/996.ICU",
     "branch": "master",
-    "language": "Go",
-    "description": "A task runner / simpler Make alternative written in Go"
+    "language": "Other",
+    "description": "Repo for counting stars and contributing. Press F to pay respect to glorious developers."
   },
   {
-    "repo": "microsoft/PowerToys",
-    "branch": "main",
-    "language": "C#",
-    "description": "Microsoft PowerToys is a collection of utilities that help you customize Windows and streamline everyday tasks"
-  },
-  {
-    "repo": "wbenny/scfw",
+    "repo": "uhub/awesome-cpp",
     "branch": "master",
-    "language": "C++",
-    "description": "A cross-platform C++ framework for building Windows shellcode"
+    "language": "Other",
+    "description": "A curated list of awesome C++ frameworks, libraries and software."
   },
   {
-    "repo": "Robbyant/lingbot-vla",
-    "branch": "main",
-    "language": "Python",
-    "description": "A Pragmatic VLA Foundation Model"
-  },
-  {
-    "repo": "diesel-rs/diesel",
-    "branch": "master",
-    "language": "Rust",
-    "description": "A safe, extensible ORM and Query Builder for Rust"
-  },
-  {
-    "repo": "facebookresearch/llama",
-    "branch": "main",
-    "language": "Python",
-    "description": "Inference code for Llama models"
-  },
-  {
-    "repo": "kamranahmedse/developer-roadmap",
-    "branch": "master",
-    "language": "TypeScript",
-    "description": "Interactive roadmaps, guides and other educational content to help developers grow in their careers."
-  },
-  {
-    "repo": "gfx-rs/wgpu",
-    "branch": "master",
-    "language": "Rust",
-    "description": "A cross-platform, safe, pure-Rust graphics API."
-  },
-  {
-    "repo": "abhinavkale-dev/fynt",
-    "branch": "master",
-    "language": "TypeScript",
-    "description": "Self-hostable workflow automation platform"
-  },
-  {
-    "repo": "Trooped/QuickBars",
-    "branch": "main",
-    "language": "Kotlin",
-    "description": "The Official QuickBars for Home Assistant Repository"
-  },
-  {
-    "repo": "solana-labs/solana-program-library",
-    "branch": "master",
-    "language": "Rust",
-    "description": "A collection of Solana programs maintained by Solana Labs"
-  },
-  {
-    "repo": "Heartflabrace/Doubao-Claw",
-    "branch": "main",
-    "language": "Rust",
-    "description": ""
-  },
-  {
-    "repo": "gohugoio/hugo",
-    "branch": "master",
-    "language": "Go",
-    "description": "The world’s fastest framework for building websites."
-  },
-  {
-    "repo": "slidevjs/slidev",
+    "repo": "spaceraccoon/vulnerability-spoiler-alert-action",
     "branch": "main",
     "language": "TypeScript",
-    "description": "Presentation Slides for Developers"
+    "description": "GitHub Action to alert on security patches before the CVE drops."
+  },
+  {
+    "repo": "sharkdp/fd",
+    "branch": "master",
+    "language": "Rust",
+    "description": "A simple, fast and user-friendly alternative to 'find'"
+  },
+  {
+    "repo": "thepartly/gatehouse",
+    "branch": "main",
+    "language": "Rust",
+    "description": "A flexible authorization library that combines role-based (RBAC), attribute-based (ABAC), and relationship-based (ReBAC) access control policies."
+  },
+  {
+    "repo": "graphql/dataloader",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "DataLoader is a generic utility to be used as part of your application's data fetching layer to provide a consistent API over various backends and reduce requests to those backends via batching and caching."
   }
 ]
