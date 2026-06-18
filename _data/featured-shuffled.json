@@ -1,146 +1,146 @@
 [
   {
-    "repo": "avelino/awesome-go",
+    "repo": "sleepinginsummer/agent-browser-cli",
     "branch": "main",
-    "language": "Go",
-    "description": "A curated list of awesome Go frameworks, libraries and software"
+    "language": "JavaScript",
+    "description": "使用 agent-browser-cli 进行浏览器感知与控制。适用于标签页扫描/切换、页面 JS 执行、Cookie、CDP、contentSettings、截图、文件上传、下拉框点击、tmwd_cdp_bridge 初始化和 Web 工具排障"
   },
   {
-    "repo": "Danm72/home-assistant-automation-suggestions",
-    "branch": "main",
-    "language": "Python",
-    "description": "A Home Assistant integration that analyzes your manual actions and suggests automations to create"
-  },
-  {
-    "repo": "zornade/visura-api",
+    "repo": "AgriciDaniel/claude-seo",
     "branch": "main",
     "language": "Python",
-    "description": "Servizio API per l'estrazione automatizzata di dati catastali dal portale SISTER"
+    "description": "Universal SEO skill for Claude Code. Comprehensive SEO analysis for any website or business type."
   },
   {
-    "repo": "ChristosChristofidis/awesome-deep-learning",
-    "branch": "master",
-    "language": "Other",
-    "description": "A curated list of awesome Deep Learning tutorials, projects and communities."
-  },
-  {
-    "repo": "josephmisiti/awesome-machine-learning",
-    "branch": "master",
-    "language": "Python",
-    "description": "A curated list of awesome Machine Learning frameworks, libraries and software."
-  },
-  {
-    "repo": "Nuzair46/Monarch",
-    "branch": "main",
-    "language": "Rust",
-    "description": "Detach, restore, and switch monitor layouts without touching cables."
-  },
-  {
-    "repo": "LoseNine/ruyipage",
-    "branch": "main",
-    "language": "Python",
-    "description": "RuyiPage is a Python-based Firefox automation framework built on the next-generation WebDriver BiDi protocol."
-  },
-  {
-    "repo": "github/storybook-addon-performance-panel",
+    "repo": "styled-components/styled-components",
     "branch": "main",
     "language": "TypeScript",
-    "description": "A Storybook Addon for tracking web performance"
+    "description": "Visual primitives for the component age. Use the best bits of ES6 and CSS to style your apps without stress 💅"
   },
   {
-    "repo": "trimstray/the-book-of-secret-knowledge",
-    "branch": "master",
-    "language": "Other",
-    "description": "A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more."
+    "repo": "videojs/video.js",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "Video.js - open source HTML5 video player"
   },
   {
-    "repo": "square/retrofit",
+    "repo": "ImageMagick/ImageMagick",
+    "branch": "main",
+    "language": "C",
+    "description": "ImageMagick is a free, open-source software suite for creating, editing, converting, and displaying images. It supports 200+ formats and offers powerful command-line tools and APIs for automation, scripting, and integration across platforms."
+  },
+  {
+    "repo": "portainer/portainer",
+    "branch": "develop",
+    "language": "TypeScript",
+    "description": "Making Docker and Kubernetes management easy."
+  },
+  {
+    "repo": "karanb192/claude-code-hooks",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "🪝 A growing collection of useful Claude Code hooks. Copy, paste, customize."
+  },
+  {
+    "repo": "boostorg/boost",
     "branch": "master",
     "language": "HTML",
-    "description": "A type-safe HTTP client for Android and the JVM"
+    "description": "Super-project for modularized Boost"
   },
   {
-    "repo": "validatorjs/validator.js",
-    "branch": "master",
-    "language": "JavaScript",
-    "description": "String validation"
-  },
-  {
-    "repo": "pmndrs/react-three-fiber",
-    "branch": "master",
-    "language": "TypeScript",
-    "description": "🇨🇭 A React renderer for Three.js"
-  },
-  {
-    "repo": "botiverse/agent-vault",
+    "repo": "wagmi-dev/viem",
     "branch": "main",
     "language": "TypeScript",
-    "description": "Keep your secrets hidden from AI agents."
+    "description": "TypeScript Interface for Ethereum"
   },
   {
-    "repo": "papers-we-love/papers-we-love",
+    "repo": "mosaicml/llm-foundry",
+    "branch": "main",
+    "language": "Python",
+    "description": "LLM training code for Databricks foundation models"
+  },
+  {
+    "repo": "vercel-labs/visual-json",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "The Visual JSON Editor. Schema-aware, embeddable, extensible."
+  },
+  {
+    "repo": "gin-gonic/gin",
     "branch": "master",
-    "language": "Shell",
-    "description": "Papers from the computer science community to read and discuss."
+    "language": "Go",
+    "description": "Gin is a high-performance HTTP web framework written in Go. It provides a Martini-like API but with significantly better performance—up to 40 times faster—thanks to httprouter. Gin is designed for building REST APIs, web applications, and microservices."
   },
   {
-    "repo": "InterviewReady/system-design-resources",
+    "repo": "cfinke/EpsteIn",
     "branch": "main",
-    "language": "Other",
-    "description": "These are the best resources for System Design on the Internet"
+    "language": "Python",
+    "description": "See which of your LinkedIn connections appear in the Epstein files."
   },
   {
-    "repo": "node-fetch/node-fetch",
+    "repo": "SakanaAI/AI-Scientist-v2",
     "branch": "main",
-    "language": "JavaScript",
-    "description": "A light-weight module that brings the Fetch API to Node.js"
+    "language": "Python",
+    "description": "The AI Scientist-v2: Workshop-Level Automated Scientific Discovery via Agentic Tree Search"
   },
   {
-    "repo": "paragonie/awesome-appsec",
+    "repo": "airbytehq/airbyte",
+    "branch": "master",
+    "language": "Python",
+    "description": "The leading data integration platform for ETL / ELT data pipelines from APIs, databases & files to data warehouses, data lakes & data lakehouses. Both self-hosted and Cloud-hosted."
+  },
+  {
+    "repo": "go-pg/pg",
+    "branch": "master",
+    "language": "Go",
+    "description": "Golang ORM with focus on PostgreSQL features and performance"
+  },
+  {
+    "repo": "phai-lab/InstantSplatPP",
+    "branch": "main",
+    "language": "Python",
+    "description": ""
+  },
+  {
+    "repo": "OmniSVG/OmniSVG",
+    "branch": "main",
+    "language": "Python",
+    "description": "[NeurIPS 2025] OmniSVG is the first family of end-to-end multimodal SVG generators that leverage pre-trained Vision-Language Models (VLMs), capable of generating complex and detailed SVGs, from simple icons to intricate anime characters."
+  },
+  {
+    "repo": "Polymarket/polymarket-cli",
+    "branch": "main",
+    "language": "Rust",
+    "description": ""
+  },
+  {
+    "repo": "phpmyadmin/phpmyadmin",
     "branch": "master",
     "language": "PHP",
-    "description": "A curated list of resources for learning about application security"
+    "description": "A web interface for MySQL and MariaDB"
   },
   {
-    "repo": "JakeWharton/butterknife",
-    "branch": "master",
-    "language": "Java",
-    "description": "Bind Android views and callbacks to fields and methods."
-  },
-  {
-    "repo": "996icu/996.ICU",
-    "branch": "master",
-    "language": "Other",
-    "description": "Repo for counting stars and contributing. Press F to pay respect to glorious developers."
-  },
-  {
-    "repo": "uhub/awesome-cpp",
-    "branch": "master",
-    "language": "Other",
-    "description": "A curated list of awesome C++ frameworks, libraries and software."
-  },
-  {
-    "repo": "spaceraccoon/vulnerability-spoiler-alert-action",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "GitHub Action to alert on security patches before the CVE drops."
-  },
-  {
-    "repo": "sharkdp/fd",
-    "branch": "master",
-    "language": "Rust",
-    "description": "A simple, fast and user-friendly alternative to 'find'"
-  },
-  {
-    "repo": "thepartly/gatehouse",
+    "repo": "rust-unofficial/awesome-rust",
     "branch": "main",
     "language": "Rust",
-    "description": "A flexible authorization library that combines role-based (RBAC), attribute-based (ABAC), and relationship-based (ReBAC) access control policies."
+    "description": "A curated list of Rust code and resources."
   },
   {
-    "repo": "graphql/dataloader",
+    "repo": "gvisor/gvisor",
+    "branch": "master",
+    "language": "Other",
+    "description": "Application Kernel for Containers."
+  },
+  {
+    "repo": "esp-rs/esp-idf-hal",
     "branch": "main",
-    "language": "JavaScript",
-    "description": "DataLoader is a generic utility to be used as part of your application's data fetching layer to provide a consistent API over various backends and reduce requests to those backends via batching and caching."
+    "language": "Rust",
+    "description": "embedded-hal implementation for Rust on ESP32 and ESP-IDF"
+  },
+  {
+    "repo": "anchore/grype",
+    "branch": "main",
+    "language": "Go",
+    "description": "A vulnerability scanner for container images and filesystems"
   }
 ]
