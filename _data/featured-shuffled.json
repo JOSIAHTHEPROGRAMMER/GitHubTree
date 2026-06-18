@@ -1,146 +1,146 @@
 [
   {
-    "repo": "win4r/free-code",
+    "repo": "drasimwagan/mdv",
     "branch": "main",
     "language": "TypeScript",
-    "description": "Published from https://github.com/paoloanzn/free-code; independent public mirror due GitHub fork-network limits."
+    "description": "MDV — a Markdown superset for documents, dashboards, and slides with embedded data and visualizations. HTML + PDF export, live preview, VS Code extension."
   },
   {
-    "repo": "Sibyl-Research-Team/sibyl-research-system",
+    "repo": "SulfurNitride/Fluorine-Manager",
     "branch": "main",
-    "language": "Python",
-    "description": "Fully Autonomous AI Research System with Self-Evolution, built natively on Claude Code"
+    "language": "C++",
+    "description": "An attempt at recreating all MO2 functions in linux with NaK integration and FUSE based VFS. Comes with Root Builder support by default. It's in alpha and needs a lot of testing to be done."
   },
   {
-    "repo": "go-gorm/gorm",
+    "repo": "pmndrs/drei",
+    "branch": "master",
+    "language": "JavaScript",
+    "description": "🥉 useful helpers for react-three-fiber"
+  },
+  {
+    "repo": "raspberrypi/linux",
+    "branch": "rpi-6.6.y",
+    "language": "C",
+    "description": "Kernel source tree for Raspberry Pi-provided kernel builds. Issues unrelated to the linux kernel should be posted on the community forum at https://forums.raspberrypi.com/"
+  },
+  {
+    "repo": "oblador/react-native-vector-icons",
+    "branch": "master",
+    "language": "TypeScript",
+    "description": "Customizable Icons for React Native with support for image source and full styling."
+  },
+  {
+    "repo": "material-components/material-components-android",
+    "branch": "master",
+    "language": "Java",
+    "description": "Modular and customizable Material Design UI components for Android"
+  },
+  {
+    "repo": "kubernetes/client-go",
     "branch": "master",
     "language": "Go",
-    "description": "The fantastic ORM library for Golang, aims to be developer friendly"
+    "description": "Go client for Kubernetes."
   },
   {
-    "repo": "ygwyg/agent-experience",
+    "repo": "FreeCAD/FreeCAD",
     "branch": "main",
-    "language": "JavaScript",
-    "description": "A visual reference to the patterns, surfaces, and infrastructure behind AI agents."
+    "language": "C++",
+    "description": "Official source code of FreeCAD, a free and opensource multiplatform 3D parametric modeler."
   },
   {
-    "repo": "tiangolo/fastapi",
+    "repo": "ultralytics/yolov5",
     "branch": "master",
     "language": "Python",
-    "description": "FastAPI framework, high performance, easy to learn, fast to code, ready for production"
+    "description": "YOLOv5 🚀 in PyTorch > ONNX > CoreML > TFLite"
   },
   {
-    "repo": "PinchToDebug/EverythingQuickSearch",
+    "repo": "xiaotianfotos/skills",
+    "branch": "main",
+    "language": "Python",
+    "description": "视频中分享的方法论代码参考"
+  },
+  {
+    "repo": "langgenius/dify",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Production-ready platform for agentic workflow development."
+  },
+  {
+    "repo": "deep-learning-indaba/GoodPracticesML",
+    "branch": "main",
+    "language": "Other",
+    "description": "A repository of good practices for developing usable ML products in Africa."
+  },
+  {
+    "repo": "uqogihujomuwhiff/sora2-watermark-cleaner-pro",
+    "branch": "main",
+    "language": "Python",
+    "description": "sora2 watermark cleaner pro"
+  },
+  {
+    "repo": "fastai/fastbook",
     "branch": "master",
-    "language": "C#",
-    "description": ""
+    "language": "Jupyter Notebook",
+    "description": "The fastai book, published as Jupyter Notebooks"
   },
   {
-    "repo": "dotnet/efcore",
+    "repo": "moby/moby",
+    "branch": "master",
+    "language": "Go",
+    "description": "The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems"
+  },
+  {
+    "repo": "kubernetes/ingress-nginx",
     "branch": "main",
-    "language": "C#",
-    "description": "EF Core is a modern object-database mapper for .NET. It supports LINQ queries, change tracking, updates, and schema migrations."
+    "language": "Go",
+    "description": "Ingress NGINX Controller for Kubernetes"
   },
   {
-    "repo": "actions/upload-artifact",
+    "repo": "jshachm/chronoh",
     "branch": "main",
-    "language": "TypeScript",
-    "description": "Upload artifacts from your workflow"
+    "language": "Rust",
+    "description": "遵循harness原则，长时运行agent任务的框架，集成pi-rs"
   },
   {
-    "repo": "open-telemetry/opentelemetry-python",
-    "branch": "main",
-    "language": "Python",
-    "description": "OpenTelemetry Python API and SDK"
-  },
-  {
-    "repo": "MeisnerDan/mission-control",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Open-source task management for the agentic era. The command center for solo entrepreneurs who delegate work to AI agents."
-  },
-  {
-    "repo": "liuxiaopai-ai/raphael-publish",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Raphael Publish - 公众号排版大师 | 现代 Markdown 排版引擎"
-  },
-  {
-    "repo": "Norman-bury/articlewriting-skill",
+    "repo": "HsMirage/CliproxyAccountCleaner",
     "branch": "main",
     "language": "Python",
-    "description": "科研写作助手 (Research Writing Assistant)"
+    "description": "一个用于CLI Proxy API 批量账号管理的工具（暂时只支持codex）：Cliproxy Account Cleaner"
   },
   {
-    "repo": "0xMH/fichero-printer",
+    "repo": "cocos/cocos-engine",
+    "branch": "v3.8",
+    "language": "C++",
+    "description": "Cocos simplifies game creation and distribution with Cocos Creator, a free, open-source, cross-platform game engine. Empowering millions of developers to create high-performance, engaging 2D/3D games and instant web entertainment."
+  },
+  {
+    "repo": "simonw/cia-world-factbook-2020",
     "branch": "main",
     "language": "HTML",
-    "description": "Fichero D11s thermal label printer - BLE protocol reverse engineering and Python CLI tool"
+    "description": "Recovered cia.gov/the-world-factbook/about/archives/download/factbook-2020.zip from Internet Archive"
   },
   {
-    "repo": "34306/vphone-aio",
-    "branch": "main",
-    "language": "Shell",
-    "description": "1 script run the vphone"
-  },
-  {
-    "repo": "Significant-Gravitas/AutoGPT",
-    "branch": "master",
-    "language": "Python",
-    "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters."
-  },
-  {
-    "repo": "openai/triton",
-    "branch": "main",
-    "language": "MLIR",
-    "description": "Development repository for the Triton language and compiler"
-  },
-  {
-    "repo": "tokio-rs/tokio",
-    "branch": "master",
-    "language": "Rust",
-    "description": "A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ..."
-  },
-  {
-    "repo": "Zaneham/BarraCUDA",
+    "repo": "NVIDIA/cuda-samples",
     "branch": "master",
     "language": "C",
-    "description": "Open-source CUDA compiler targeting AMD GPUs (and more in the future!). Compiles .cu to GFX11 machine code."
+    "description": "Samples for CUDA Developers which demonstrates features in CUDA Toolkit"
   },
   {
-    "repo": "op7418/Document-illustrator-skill",
-    "branch": "main",
-    "language": "Python",
-    "description": "帮你从文档生成对应的多张配图，内置了歸藏精心探索的图片风格，支持 16:9 和 3:4 两种比例，方便发小红书以及推特。"
-  },
-  {
-    "repo": "Guovin/IPTV-API",
-    "branch": "main",
-    "language": "Python",
-    "description": "⚡️IPTV直播源自动更新平台『🤖全自动采集、筛选、测速、生成🚀』：自定义获取频道；IPv4/IPv6；接口验效；推流；多平台支持；工作流、Docker、命令行、GUI多端部署 | IPTV live streaming source automatic update platform"
-  },
-  {
-    "repo": "edwardsanchez/MotionEyes",
-    "branch": "main",
-    "language": "Swift",
-    "description": ""
-  },
-  {
-    "repo": "github/hub",
+    "repo": "ForrestKnight/open-source-cs",
     "branch": "master",
-    "language": "Go",
-    "description": "A command-line tool that makes git easier to use with GitHub."
+    "language": "Other",
+    "description": "Video discussing this curriculum:"
   },
   {
-    "repo": "s2-streamstore/claude-batch-toolkit",
+    "repo": "meltano/meltano",
     "branch": "main",
-    "language": "Shell",
-    "description": "Send non-urgent work to the Anthropic Batch API at 50% cost — directly from Claude Code"
+    "language": "Python",
+    "description": "Meltano: the declarative code-first data integration engine that powers your wildest data and ML-powered product ideas. Say goodbye to writing, maintaining, and scaling your own API integrations."
   },
   {
-    "repo": "tigerabrodi/neiro",
+    "repo": "Work-Fisher/openclaw-ai-assistant-framework",
     "branch": "main",
-    "language": "TypeScript",
-    "description": "Audio processing for TypeScript. Chainable, immutable, serverless-ready."
+    "language": "Python",
+    "description": "OpenClaw AI助手完整框架 - 7步深度使用法 + 回溯清理机制"
   }
 ]

@@ -1,8 +1,8 @@
 {
-  "repo": "modelscope/Awesome-Vibe-Research",
+  "repo": "six-ddc/livecaption",
   "branch": "main",
   "language": "Python",
-  "description": "An open, collaboratively-built repository for AI-assisted scientific research — collecting and curating agents, skills, workflows, tools, and best practices across the full research lifecycle. 面向 AI 辅助科研的开放共建仓库 收集和沉淀科研全流程中的 agents、skills、workflows、tools 与最佳实践",
-  "stars": 124,
-  "forks": 9
+  "description": "Real-time on-device speech transcription + translation for macOS (Apple Silicon). Streaming ASR, speaker diarization, and live English→Chinese translation on Apple GPU/MLX — terminal CLI, no UI, no cloud.",
+  "stars": 111,
+  "forks": 11
 }
