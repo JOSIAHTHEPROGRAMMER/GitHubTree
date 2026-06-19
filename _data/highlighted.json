@@ -1,8 +1,8 @@
 {
-  "repo": "hbddevos/PumpFun-Trainer_V1",
-  "branch": "main",
-  "language": "Python",
-  "description": "An advanced AI‑driven trading utility for Solana meme‑coins, featuring sniper, auto‑sell, MEV protection, multi‑wallet, alerts, and price monitoring.",
-  "stars": 121,
-  "forks": 0
+  "repo": "Ar9av/gemini-nano-chrome",
+  "branch": "master",
+  "language": "JavaScript",
+  "description": "Using Gemini Nano through Chrome's built-in Prompt API, with scripts to automate setup and verification",
+  "stars": 114,
+  "forks": 10
 }

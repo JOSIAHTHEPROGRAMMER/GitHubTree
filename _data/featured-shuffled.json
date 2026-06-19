@@ -1,146 +1,146 @@
 [
   {
-    "repo": "ChristianJR19/byteview",
+    "repo": "Doryoku1223/lunwen-skill",
     "branch": "main",
     "language": "Python",
-    "description": "a modern hex/binary file inspector for the terminal with color-coded output and entropy analysis"
+    "description": "面向本科计科学生的一键论文初稿 Skill，支持样文/开题报告/模板驱动生成，并补全流程图、ER 图和项目截图"
   },
   {
-    "repo": "sanbuphy/nanoAgent",
+    "repo": "anchore/grype",
     "branch": "main",
-    "language": "Python",
-    "description": "If you can read 100 lines of Python, you understand agents."
+    "language": "Go",
+    "description": "A vulnerability scanner for container images and filesystems"
   },
   {
-    "repo": "vapor/vapor",
+    "repo": "serenity-bdd/serenity-core",
     "branch": "main",
-    "language": "Swift",
-    "description": "💧 A server-side Swift HTTP web framework."
+    "language": "HTML",
+    "description": "Serenity BDD is a test automation library designed to make writing automated acceptance tests easier, and more fun."
   },
   {
-    "repo": "androidx/media",
+    "repo": "arendst/Tasmota",
+    "branch": "development",
+    "language": "C",
+    "description": "Alternative firmware for ESP8266 and ESP32 based devices with easy configuration using webUI, OTA updates, automation using timers or rules, expandability and entirely local control over MQTT, HTTP, Serial or KNX. Full documentation at"
+  },
+  {
+    "repo": "privacyguides/privacyguides.org",
     "branch": "main",
+    "language": "Markdown",
+    "description": "Protect your data against global mass surveillance programs."
+  },
+  {
+    "repo": "ReactiveX/RxAndroid",
+    "branch": "3.x",
     "language": "Java",
-    "description": "Jetpack Media3 support libraries for media use cases, including ExoPlayer, an extensible media player for Android"
+    "description": "RxJava bindings for Android"
   },
   {
-    "repo": "apollographql/apollo-server",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "🌍  Spec-compliant and production ready JavaScript GraphQL server that lets you develop in a schema-first way. Built for Express, Connect, Hapi, Koa, and more."
-  },
-  {
-    "repo": "sindresorhus/awesome-nodejs",
-    "branch": "main",
-    "language": "Other",
-    "description": ":zap: Delightful Node.js packages and resources"
-  },
-  {
-    "repo": "pytest-dev/pytest-cov",
-    "branch": "master",
-    "language": "Python",
-    "description": "Coverage plugin for pytest."
-  },
-  {
-    "repo": "shadowsocks/shadowsocks-windows",
-    "branch": "master",
-    "language": "C#",
-    "description": "A C# port of shadowsocks"
-  },
-  {
-    "repo": "freeCodeCamp/freeCodeCamp",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free."
-  },
-  {
-    "repo": "keras-team/keras",
-    "branch": "master",
-    "language": "Python",
-    "description": "Deep Learning for humans"
-  },
-  {
-    "repo": "EbookFoundation/free-programming-books",
-    "branch": "main",
-    "language": "Python",
-    "description": ":books: Freely available programming books"
-  },
-  {
-    "repo": "boto/boto3",
-    "branch": "develop",
-    "language": "Python",
-    "description": "Boto3, an AWS SDK for Python"
-  },
-  {
-    "repo": "rustdesk/rustdesk",
-    "branch": "master",
-    "language": "Rust",
-    "description": "An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer."
-  },
-  {
-    "repo": "prysmaticlabs/prysm",
+    "repo": "gohugoio/hugo",
     "branch": "master",
     "language": "Go",
-    "description": "Go implementation of Ethereum proof of stake"
+    "description": "The world’s fastest framework for building websites."
   },
   {
-    "repo": "donnemartin/system-design-primer",
-    "branch": "master",
-    "language": "Python",
-    "description": "Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards."
-  },
-  {
-    "repo": "pytorch/pytorch",
-    "branch": "main",
-    "language": "Python",
-    "description": "Tensors and Dynamic neural networks in Python with strong GPU acceleration"
-  },
-  {
-    "repo": "axios/axios",
-    "branch": "main",
+    "repo": "paperjs/paper.js",
+    "branch": "develop",
     "language": "JavaScript",
-    "description": "Promise based HTTP client for the browser and node.js"
+    "description": "The Swiss Army Knife of Vector Graphics Scripting – Scriptographer ported to JavaScript and the browser, using HTML5 Canvas. Created by @lehni & @puckey"
   },
   {
-    "repo": "websockets/ws",
-    "branch": "master",
-    "language": "JavaScript",
-    "description": "Simple to use, blazing fast and thoroughly tested WebSocket client and server for Node.js"
+    "repo": "vmware-tanzu/velero",
+    "branch": "main",
+    "language": "Go",
+    "description": "Backup and migrate Kubernetes applications and their persistent volumes"
   },
   {
-    "repo": "pixijs/pixijs",
+    "repo": "home-assistant/core",
     "branch": "dev",
-    "language": "TypeScript",
-    "description": "The HTML5 Creation Engine: Create beautiful digital content with the fastest, most flexible 2D WebGL renderer."
+    "language": "Python",
+    "description": ":house_with_garden: Open source home automation that puts local control and privacy first."
   },
   {
-    "repo": "microsoft/vscode",
-    "branch": "main",
+    "repo": "mui/mui-x",
+    "branch": "master",
     "language": "TypeScript",
-    "description": "Visual Studio Code"
+    "description": "MUI X: Build complex and data-rich applications using a growing list of advanced React components, like the Data Grid, Date and Time Pickers, Charts, and more!"
   },
   {
-    "repo": "tailwindlabs/headlessui",
+    "repo": "THUDM/ChatGLM-6B",
     "branch": "main",
-    "language": "TypeScript",
-    "description": "Completely unstyled, fully accessible UI components, designed to integrate beautifully with Tailwind CSS."
+    "language": "Python",
+    "description": "ChatGLM-6B: An Open Bilingual Dialogue Language Model | 开源双语对话语言模型"
   },
   {
-    "repo": "immerjs/immer",
+    "repo": "goldbergyoni/nodebestpractices",
+    "branch": "master",
+    "language": "Dockerfile",
+    "description": ":white_check_mark:  The Node.js best practices list (July 2024)"
+  },
+  {
+    "repo": "opencontainers/image-spec",
     "branch": "main",
+    "language": "Go",
+    "description": "OCI Image Format"
+  },
+  {
+    "repo": "MichMich/MagicMirror",
+    "branch": "master",
     "language": "JavaScript",
-    "description": "Create the next immutable state by mutating the current one"
+    "description": "MagicMirror² is an open source modular smart mirror platform. With a growing list of installable modules, the MagicMirror² allows you to convert your hallway or bathroom mirror into your personal assistant."
   },
   {
-    "repo": "elastic/elasticsearch",
-    "branch": "main",
-    "language": "Java",
-    "description": "Free and Open Source, Distributed, RESTful Search Engine"
+    "repo": "zeromicro/go-zero",
+    "branch": "master",
+    "language": "Go",
+    "description": "A cloud-native Go microservices framework with cli tool for productivity."
   },
   {
-    "repo": "terausss/Polymarket-Kalshi-Arbitrage-Bot",
+    "repo": "MetaMask/metamask-extension",
+    "branch": "develop",
+    "language": "TypeScript",
+    "description": ":globe_with_meridians: :electric_plug: The MetaMask browser extension enables browsing Ethereum blockchain enabled websites"
+  },
+  {
+    "repo": "nativefier/nativefier",
+    "branch": "development",
+    "language": "TypeScript",
+    "description": "Make any web page a desktop application"
+  },
+  {
+    "repo": "microsoft/winget-pkgs",
+    "branch": "master",
+    "language": "PowerShell",
+    "description": "The Microsoft community Windows Package Manager manifest repository"
+  },
+  {
+    "repo": "ReactiveX/RxKotlin",
+    "branch": "3.x",
+    "language": "Kotlin",
+    "description": "RxJava bindings for Kotlin"
+  },
+  {
+    "repo": "dotnet/aspnetcore",
     "branch": "main",
-    "language": "Rust",
-    "description": "polymarket-kalshi-arbitrage-bot polymarket arbitrage bot kalshi-arbitrage bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot"
+    "language": "C#",
+    "description": "ASP.NET Core is a cross-platform .NET framework for building modern cloud-based web applications on Windows, Mac, or Linux."
+  },
+  {
+    "repo": "infiniflow/ragflow",
+    "branch": "main",
+    "language": "Python",
+    "description": "RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses cutting-edge RAG with Agent capabilities to create a superior context layer for LLMs"
+  },
+  {
+    "repo": "plotly/dash",
+    "branch": "dev",
+    "language": "Python",
+    "description": "Data Apps & Dashboards for Python. No JavaScript Required."
+  },
+  {
+    "repo": "cloudcommunity/Free-Certifications",
+    "branch": "main",
+    "language": "Other",
+    "description": "A curated list of free courses with certifications. Also available at https://free-certifications.com/"
   }
 ]
