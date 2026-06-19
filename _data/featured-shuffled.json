@@ -1,146 +1,146 @@
 [
   {
-    "repo": "crossplane/crossplane",
-    "branch": "master",
-    "language": "Go",
-    "description": "The Cloud Native Control Plane"
-  },
-  {
-    "repo": "figure-markets/polymarket-arbitrage-bot",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "polymarket arbitrage bot polymarket arbitrage bot polymarket arbitrage bot polymarket arbitrage bot polymarket arbitrage bot polymarket arbitrage bot polymarket arbitrage bot polymarket arbitrage bot polymarket arbitrage bot polymarket arbitrage bot polymarket arbitrage bot polymarket arbitrage bot polymarket arbitrage bot polymarket arbitrage bot"
-  },
-  {
-    "repo": "garnix-io/garnix-ci",
-    "branch": "main",
-    "language": "Haskell",
-    "description": "CI and hosting for nix-based, flakified github repos"
-  },
-  {
-    "repo": "vercel-labs/emulate",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Local API emulation for CI and no-network sandboxes"
-  },
-  {
-    "repo": "ALKAERR/Kali_Hack_Agent",
-    "branch": "master",
-    "language": "Python",
-    "description": "一个基于三层 Agent 架构的容器代码执行系统，专门用于在 Kali Linux Docker 容器中安全、自动地执行渗透测试工具。"
-  },
-  {
-    "repo": "apechurch/polymarket-copy-trading-bot",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "polymarket copytrading bot A TypeScript/Node bot that mirrors a target Polymarket trader’s activity polymarket copytrading bot polymarket copytrading bot polymarket copytrading bot polymarket copytrading bot polymarket copytrading bot polymarket copytrading bot polymarket copytrading bot polymarket copytrading bot polymarket copytrading bot polymar"
-  },
-  {
-    "repo": "inclusionAI/cuLA",
+    "repo": "Work-Fisher/openclaw-ai-assistant-framework",
     "branch": "main",
     "language": "Python",
-    "description": "CUDA kernels for linear attention variants, written in CuTe DSL and CUTLASS C++."
+    "description": "OpenClaw AI助手完整框架 - 7步深度使用法 + 回溯清理机制"
   },
   {
-    "repo": "infraform/polymarket-copytrading-bot-sports",
+    "repo": "ikeda042/PhenoPixel",
     "branch": "main",
     "language": "TypeScript",
-    "description": "polymarket copytrading bot polymarket copy trading bot polymarket copytrading bot polymarket copy trading bot polymarket copytrading bot polymarket copy trading bot polymarket copytrading bot polymarket copy trading bot polymarket copytrading bot polymarket copy trading bot polymarket copytrading bot polymarket copy trading bot polymarket bot"
+    "description": "An OpenCV based image analysis web application (Deployed at Hiroshima University)"
   },
   {
-    "repo": "InternLM/WildClawBench",
+    "repo": "xaskasdf/ntransformer",
     "branch": "main",
-    "language": "Python",
-    "description": "An in-the-wild benchmark for AI agents in the OpenClaw Environment."
+    "language": "C++",
+    "description": "High-efficiency LLM inference engine in C++/CUDA. Run Llama 70B on RTX 3090."
   },
   {
-    "repo": "hao-ji-xing/openclaw-weixin",
+    "repo": "prof-oguzergin/bilgisayar-mimarisi",
     "branch": "main",
-    "language": "TypeScript",
-    "description": "openclaw-weixin"
+    "language": "TeX",
+    "description": "Bilgisayar Mimarisi: RISC-V Tabanlı Yaklaşım — Açık kaynak Türkçe ders kitabı (CC BY-NC-ND 4.0)"
   },
   {
-    "repo": "CyrilPeng/FlowScroll",
+    "repo": "mli55/pdfdelta",
     "branch": "main",
-    "language": "Python",
-    "description": "一款无级滚动软件，旨在把浏览器里的中键自动滚动带到整个系统，让你的鼠标拥有丝滑的全局无级滚动"
-  },
-  {
-    "repo": "qiaoshouqing/drive-escape",
-    "branch": "main",
-    "language": "HTML",
-    "description": "周末自驾逃离计划 - 交互式驾车时间地图"
-  },
-  {
-    "repo": "alaeelhariri/iut-db-final-project",
-    "branch": "master",
     "language": "Python",
     "description": ""
   },
   {
-    "repo": "maria-rcks/t1code",
+    "repo": "steipete/birdclaw",
     "branch": "main",
     "language": "TypeScript",
-    "description": "T3Code, but in your terminal"
+    "description": "Stores all your tweets nicely claw-able for agents."
   },
   {
-    "repo": "hkcanan/katmer-code",
+    "repo": "peteromallet/dataclaw",
     "branch": "main",
-    "language": "TypeScript",
-    "description": "Claude Code inside Obsidian — academic research skills, inline diff editing, MCP support"
-  },
-  {
-    "repo": "cnlimiter/codex-manager",
-    "branch": "master",
     "language": "Python",
     "description": ""
   },
   {
-    "repo": "diffusionstudio/slug-webgpu",
+    "repo": "leonyx007/Polymarket-Trading-Bot-Rust",
     "branch": "main",
-    "language": "TypeScript",
-    "description": "WebGPU implementation of Eric Lengyel's Slug algorithm for resolution-independent vector text rendering on the GPU"
+    "language": "Rust",
+    "description": "polymarket bot polymarket trading bot polymarket arbitrage bot polymarket trading bot polymarket rust trading bot polymarket trading bot v2 polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket arb trading bot polymarket 5min trading bot 15min btc trading bot"
   },
   {
-    "repo": "asonglin/crypto-liquidity-ai-trading-bot",
+    "repo": "chu2bard/pinion-os",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Client SDK, Claude plugin and skill framework for the Pinion protocol. x402 micropayments on Base."
+  },
+  {
+    "repo": "Emanuele-web04/remodex",
+    "branch": "main",
+    "language": "Swift",
+    "description": "Remote Control for Codex. 24/7 version on the way"
+  },
+  {
+    "repo": "baker42757/15min-crypto-polymarket-trading-bot",
+    "branch": "main",
+    "language": "Rust",
+    "description": "Polymarket Trading Bot-15min crypto polymarket trading bot is the polymarket trading bot that trades in 15min crypto - BTC, ETH, SOL and XRP. This is another Polymarket arbitrage trading bot. Polymarket Automated Trading Bot"
+  },
+  {
+    "repo": "borkdude/cream",
+    "branch": "main",
+    "language": "Clojure",
+    "description": "Fast starting Clojure runtime built with GraalVM native-image + Crema"
+  },
+  {
+    "repo": "TraderAlice/OpenAlice",
+    "branch": "master",
+    "language": "TypeScript",
+    "description": "File-driven AI trading agent engine for crypto and securities markets"
+  },
+  {
+    "repo": "khanhduytran0/coruna",
     "branch": "main",
     "language": "JavaScript",
-    "description": "Crypto liquidity detection & algorithmic trading bot. Order book analysis, stop-loss clusters, liquidity sweeps. Multi-exchange (Binance, Bybit, Kraken, OKX). Trading signals, quant research, market microstructure."
+    "description": "The leaked exploit toolkit for various iOS versions"
   },
   {
-    "repo": "GeiserX/awesome-spain",
+    "repo": "GreenSheep01201/claw-empire",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Command Your AI Agent Empire from the CEO Desk — A local-first AI agent office simulator that orchestrates CLI, OAuth, and API-connected agents (Claude Code, Codex CLI, Gemini CLI, OpenCode, and more) as a virtual autonomous company."
+  },
+  {
+    "repo": "ylytdeng/wechat-decrypt",
     "branch": "main",
     "language": "Python",
-    "description": "Una selección de software open source que da soporte específico a España, incluyendo comunidades autónomas, provincias y ciudades."
+    "description": "WeChat 4.0 database decryptor - extract keys from memory, decrypt SQLCipher 4 databases, real-time message monitor"
   },
   {
-    "repo": "0xKarl-dev/claw-codes",
+    "repo": "caiwuu/web2api",
+    "branch": "master",
+    "language": "Python",
+    "description": "把网页AI转api，如claude2api"
+  },
+  {
+    "repo": "flamestro/deff",
+    "branch": "main",
+    "language": "Rust",
+    "description": "interactive, side-by-side file review for git diffs with per-file navigation, vertical and horizontal scrolling, syntax highlighting, and added/deleted line tinting"
+  },
+  {
+    "repo": "dseditor/QwenASRMiniTool",
+    "branch": "main",
+    "language": "Python",
+    "description": "基於OpenVino-int8權重，精簡的QwenASR小工具，用於即時辨識以及字幕轉換使用"
+  },
+  {
+    "repo": "ewindmer/polymarket-arbitrage-trading-bot",
     "branch": "main",
     "language": "TypeScript",
-    "description": "Fastest repo on my GitHub to hit 50⭐ in under 2 hours. Building tools that get real things done. Now rewriting in Rust."
+    "description": "polymarket arbitrage trading bot"
   },
   {
-    "repo": "komunite/kalfa",
+    "repo": "blader/taskmaster",
     "branch": "main",
     "language": "Shell",
-    "description": "Claude Code için Türkçe profesyonel işletim sistemi — 10 uzman agent, 22 komut, 993 skill, 6 katmanlı hafıza"
+    "description": "Stop hook for Claude Code that keeps the agent working until all plans and user requests are 100% complete"
   },
   {
-    "repo": "motiful/cc-gateway",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "AI API identity gateway — reverse proxy that normalizes device fingerprints and telemetry for privacy-preserving API proxying"
-  },
-  {
-    "repo": "lich0821/wcfLink",
-    "branch": "master",
-    "language": "Go",
-    "description": ""
-  },
-  {
-    "repo": "james-6-23/codex2api",
+    "repo": "amneziawg-mikrotik/awg-proxy",
     "branch": "main",
     "language": "Go",
     "description": ""
+  },
+  {
+    "repo": "derHaken/SuperAntigravity",
+    "branch": "main",
+    "language": "Shell",
+    "description": "Superpowers + SuperClaude for Google Antigravity IDE"
+  },
+  {
+    "repo": "promptpirate-x/discord-id-bypass-tool",
+    "branch": "main",
+    "language": "HTML",
+    "description": "A verified tool that works on any potato computer that will let you bypass discord verification"
   }
 ]
