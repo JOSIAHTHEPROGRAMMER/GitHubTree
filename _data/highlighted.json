@@ -1,8 +1,8 @@
 {
-  "repo": "six-ddc/livecaption",
+  "repo": "hbddevos/PumpFun-Trainer_V1",
   "branch": "main",
   "language": "Python",
-  "description": "Real-time on-device speech transcription + translation for macOS (Apple Silicon). Streaming ASR, speaker diarization, and live English→Chinese translation on Apple GPU/MLX — terminal CLI, no UI, no cloud.",
-  "stars": 111,
-  "forks": 11
+  "description": "An advanced AI‑driven trading utility for Solana meme‑coins, featuring sniper, auto‑sell, MEV protection, multi‑wallet, alerts, and price monitoring.",
+  "stars": 121,
+  "forks": 0
 }

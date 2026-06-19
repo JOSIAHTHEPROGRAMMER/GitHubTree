@@ -1,146 +1,146 @@
 [
   {
-    "repo": "drasimwagan/mdv",
+    "repo": "ChristianJR19/byteview",
+    "branch": "main",
+    "language": "Python",
+    "description": "a modern hex/binary file inspector for the terminal with color-coded output and entropy analysis"
+  },
+  {
+    "repo": "sanbuphy/nanoAgent",
+    "branch": "main",
+    "language": "Python",
+    "description": "If you can read 100 lines of Python, you understand agents."
+  },
+  {
+    "repo": "vapor/vapor",
+    "branch": "main",
+    "language": "Swift",
+    "description": "💧 A server-side Swift HTTP web framework."
+  },
+  {
+    "repo": "androidx/media",
+    "branch": "main",
+    "language": "Java",
+    "description": "Jetpack Media3 support libraries for media use cases, including ExoPlayer, an extensible media player for Android"
+  },
+  {
+    "repo": "apollographql/apollo-server",
     "branch": "main",
     "language": "TypeScript",
-    "description": "MDV — a Markdown superset for documents, dashboards, and slides with embedded data and visualizations. HTML + PDF export, live preview, VS Code extension."
+    "description": "🌍  Spec-compliant and production ready JavaScript GraphQL server that lets you develop in a schema-first way. Built for Express, Connect, Hapi, Koa, and more."
   },
   {
-    "repo": "SulfurNitride/Fluorine-Manager",
+    "repo": "sindresorhus/awesome-nodejs",
     "branch": "main",
-    "language": "C++",
-    "description": "An attempt at recreating all MO2 functions in linux with NaK integration and FUSE based VFS. Comes with Root Builder support by default. It's in alpha and needs a lot of testing to be done."
+    "language": "Other",
+    "description": ":zap: Delightful Node.js packages and resources"
   },
   {
-    "repo": "pmndrs/drei",
+    "repo": "pytest-dev/pytest-cov",
+    "branch": "master",
+    "language": "Python",
+    "description": "Coverage plugin for pytest."
+  },
+  {
+    "repo": "shadowsocks/shadowsocks-windows",
+    "branch": "master",
+    "language": "C#",
+    "description": "A C# port of shadowsocks"
+  },
+  {
+    "repo": "freeCodeCamp/freeCodeCamp",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free."
+  },
+  {
+    "repo": "keras-team/keras",
+    "branch": "master",
+    "language": "Python",
+    "description": "Deep Learning for humans"
+  },
+  {
+    "repo": "EbookFoundation/free-programming-books",
+    "branch": "main",
+    "language": "Python",
+    "description": ":books: Freely available programming books"
+  },
+  {
+    "repo": "boto/boto3",
+    "branch": "develop",
+    "language": "Python",
+    "description": "Boto3, an AWS SDK for Python"
+  },
+  {
+    "repo": "rustdesk/rustdesk",
+    "branch": "master",
+    "language": "Rust",
+    "description": "An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer."
+  },
+  {
+    "repo": "prysmaticlabs/prysm",
+    "branch": "master",
+    "language": "Go",
+    "description": "Go implementation of Ethereum proof of stake"
+  },
+  {
+    "repo": "donnemartin/system-design-primer",
+    "branch": "master",
+    "language": "Python",
+    "description": "Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards."
+  },
+  {
+    "repo": "pytorch/pytorch",
+    "branch": "main",
+    "language": "Python",
+    "description": "Tensors and Dynamic neural networks in Python with strong GPU acceleration"
+  },
+  {
+    "repo": "axios/axios",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "Promise based HTTP client for the browser and node.js"
+  },
+  {
+    "repo": "websockets/ws",
     "branch": "master",
     "language": "JavaScript",
-    "description": "🥉 useful helpers for react-three-fiber"
+    "description": "Simple to use, blazing fast and thoroughly tested WebSocket client and server for Node.js"
   },
   {
-    "repo": "raspberrypi/linux",
-    "branch": "rpi-6.6.y",
-    "language": "C",
-    "description": "Kernel source tree for Raspberry Pi-provided kernel builds. Issues unrelated to the linux kernel should be posted on the community forum at https://forums.raspberrypi.com/"
-  },
-  {
-    "repo": "oblador/react-native-vector-icons",
-    "branch": "master",
+    "repo": "pixijs/pixijs",
+    "branch": "dev",
     "language": "TypeScript",
-    "description": "Customizable Icons for React Native with support for image source and full styling."
+    "description": "The HTML5 Creation Engine: Create beautiful digital content with the fastest, most flexible 2D WebGL renderer."
   },
   {
-    "repo": "material-components/material-components-android",
-    "branch": "master",
+    "repo": "microsoft/vscode",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Visual Studio Code"
+  },
+  {
+    "repo": "tailwindlabs/headlessui",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Completely unstyled, fully accessible UI components, designed to integrate beautifully with Tailwind CSS."
+  },
+  {
+    "repo": "immerjs/immer",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "Create the next immutable state by mutating the current one"
+  },
+  {
+    "repo": "elastic/elasticsearch",
+    "branch": "main",
     "language": "Java",
-    "description": "Modular and customizable Material Design UI components for Android"
+    "description": "Free and Open Source, Distributed, RESTful Search Engine"
   },
   {
-    "repo": "kubernetes/client-go",
-    "branch": "master",
-    "language": "Go",
-    "description": "Go client for Kubernetes."
-  },
-  {
-    "repo": "FreeCAD/FreeCAD",
-    "branch": "main",
-    "language": "C++",
-    "description": "Official source code of FreeCAD, a free and opensource multiplatform 3D parametric modeler."
-  },
-  {
-    "repo": "ultralytics/yolov5",
-    "branch": "master",
-    "language": "Python",
-    "description": "YOLOv5 🚀 in PyTorch > ONNX > CoreML > TFLite"
-  },
-  {
-    "repo": "xiaotianfotos/skills",
-    "branch": "main",
-    "language": "Python",
-    "description": "视频中分享的方法论代码参考"
-  },
-  {
-    "repo": "langgenius/dify",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Production-ready platform for agentic workflow development."
-  },
-  {
-    "repo": "deep-learning-indaba/GoodPracticesML",
-    "branch": "main",
-    "language": "Other",
-    "description": "A repository of good practices for developing usable ML products in Africa."
-  },
-  {
-    "repo": "uqogihujomuwhiff/sora2-watermark-cleaner-pro",
-    "branch": "main",
-    "language": "Python",
-    "description": "sora2 watermark cleaner pro"
-  },
-  {
-    "repo": "fastai/fastbook",
-    "branch": "master",
-    "language": "Jupyter Notebook",
-    "description": "The fastai book, published as Jupyter Notebooks"
-  },
-  {
-    "repo": "moby/moby",
-    "branch": "master",
-    "language": "Go",
-    "description": "The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems"
-  },
-  {
-    "repo": "kubernetes/ingress-nginx",
-    "branch": "main",
-    "language": "Go",
-    "description": "Ingress NGINX Controller for Kubernetes"
-  },
-  {
-    "repo": "jshachm/chronoh",
+    "repo": "terausss/Polymarket-Kalshi-Arbitrage-Bot",
     "branch": "main",
     "language": "Rust",
-    "description": "遵循harness原则，长时运行agent任务的框架，集成pi-rs"
-  },
-  {
-    "repo": "HsMirage/CliproxyAccountCleaner",
-    "branch": "main",
-    "language": "Python",
-    "description": "一个用于CLI Proxy API 批量账号管理的工具（暂时只支持codex）：Cliproxy Account Cleaner"
-  },
-  {
-    "repo": "cocos/cocos-engine",
-    "branch": "v3.8",
-    "language": "C++",
-    "description": "Cocos simplifies game creation and distribution with Cocos Creator, a free, open-source, cross-platform game engine. Empowering millions of developers to create high-performance, engaging 2D/3D games and instant web entertainment."
-  },
-  {
-    "repo": "simonw/cia-world-factbook-2020",
-    "branch": "main",
-    "language": "HTML",
-    "description": "Recovered cia.gov/the-world-factbook/about/archives/download/factbook-2020.zip from Internet Archive"
-  },
-  {
-    "repo": "NVIDIA/cuda-samples",
-    "branch": "master",
-    "language": "C",
-    "description": "Samples for CUDA Developers which demonstrates features in CUDA Toolkit"
-  },
-  {
-    "repo": "ForrestKnight/open-source-cs",
-    "branch": "master",
-    "language": "Other",
-    "description": "Video discussing this curriculum:"
-  },
-  {
-    "repo": "meltano/meltano",
-    "branch": "main",
-    "language": "Python",
-    "description": "Meltano: the declarative code-first data integration engine that powers your wildest data and ML-powered product ideas. Say goodbye to writing, maintaining, and scaling your own API integrations."
-  },
-  {
-    "repo": "Work-Fisher/openclaw-ai-assistant-framework",
-    "branch": "main",
-    "language": "Python",
-    "description": "OpenClaw AI助手完整框架 - 7步深度使用法 + 回溯清理机制"
+    "description": "polymarket-kalshi-arbitrage-bot polymarket arbitrage bot kalshi-arbitrage bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot"
   }
 ]
