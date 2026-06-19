@@ -1,146 +1,146 @@
 [
   {
-    "repo": "Doryoku1223/lunwen-skill",
+    "repo": "crossplane/crossplane",
+    "branch": "master",
+    "language": "Go",
+    "description": "The Cloud Native Control Plane"
+  },
+  {
+    "repo": "figure-markets/polymarket-arbitrage-bot",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "polymarket arbitrage bot polymarket arbitrage bot polymarket arbitrage bot polymarket arbitrage bot polymarket arbitrage bot polymarket arbitrage bot polymarket arbitrage bot polymarket arbitrage bot polymarket arbitrage bot polymarket arbitrage bot polymarket arbitrage bot polymarket arbitrage bot polymarket arbitrage bot polymarket arbitrage bot"
+  },
+  {
+    "repo": "garnix-io/garnix-ci",
+    "branch": "main",
+    "language": "Haskell",
+    "description": "CI and hosting for nix-based, flakified github repos"
+  },
+  {
+    "repo": "vercel-labs/emulate",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Local API emulation for CI and no-network sandboxes"
+  },
+  {
+    "repo": "ALKAERR/Kali_Hack_Agent",
+    "branch": "master",
+    "language": "Python",
+    "description": "一个基于三层 Agent 架构的容器代码执行系统，专门用于在 Kali Linux Docker 容器中安全、自动地执行渗透测试工具。"
+  },
+  {
+    "repo": "apechurch/polymarket-copy-trading-bot",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "polymarket copytrading bot A TypeScript/Node bot that mirrors a target Polymarket trader’s activity polymarket copytrading bot polymarket copytrading bot polymarket copytrading bot polymarket copytrading bot polymarket copytrading bot polymarket copytrading bot polymarket copytrading bot polymarket copytrading bot polymarket copytrading bot polymar"
+  },
+  {
+    "repo": "inclusionAI/cuLA",
     "branch": "main",
     "language": "Python",
-    "description": "面向本科计科学生的一键论文初稿 Skill，支持样文/开题报告/模板驱动生成，并补全流程图、ER 图和项目截图"
+    "description": "CUDA kernels for linear attention variants, written in CuTe DSL and CUTLASS C++."
   },
   {
-    "repo": "anchore/grype",
+    "repo": "infraform/polymarket-copytrading-bot-sports",
     "branch": "main",
-    "language": "Go",
-    "description": "A vulnerability scanner for container images and filesystems"
+    "language": "TypeScript",
+    "description": "polymarket copytrading bot polymarket copy trading bot polymarket copytrading bot polymarket copy trading bot polymarket copytrading bot polymarket copy trading bot polymarket copytrading bot polymarket copy trading bot polymarket copytrading bot polymarket copy trading bot polymarket copytrading bot polymarket copy trading bot polymarket bot"
   },
   {
-    "repo": "serenity-bdd/serenity-core",
+    "repo": "InternLM/WildClawBench",
+    "branch": "main",
+    "language": "Python",
+    "description": "An in-the-wild benchmark for AI agents in the OpenClaw Environment."
+  },
+  {
+    "repo": "hao-ji-xing/openclaw-weixin",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "openclaw-weixin"
+  },
+  {
+    "repo": "CyrilPeng/FlowScroll",
+    "branch": "main",
+    "language": "Python",
+    "description": "一款无级滚动软件，旨在把浏览器里的中键自动滚动带到整个系统，让你的鼠标拥有丝滑的全局无级滚动"
+  },
+  {
+    "repo": "qiaoshouqing/drive-escape",
     "branch": "main",
     "language": "HTML",
-    "description": "Serenity BDD is a test automation library designed to make writing automated acceptance tests easier, and more fun."
+    "description": "周末自驾逃离计划 - 交互式驾车时间地图"
   },
   {
-    "repo": "arendst/Tasmota",
-    "branch": "development",
-    "language": "C",
-    "description": "Alternative firmware for ESP8266 and ESP32 based devices with easy configuration using webUI, OTA updates, automation using timers or rules, expandability and entirely local control over MQTT, HTTP, Serial or KNX. Full documentation at"
-  },
-  {
-    "repo": "privacyguides/privacyguides.org",
-    "branch": "main",
-    "language": "Markdown",
-    "description": "Protect your data against global mass surveillance programs."
-  },
-  {
-    "repo": "ReactiveX/RxAndroid",
-    "branch": "3.x",
-    "language": "Java",
-    "description": "RxJava bindings for Android"
-  },
-  {
-    "repo": "gohugoio/hugo",
+    "repo": "alaeelhariri/iut-db-final-project",
     "branch": "master",
-    "language": "Go",
-    "description": "The world’s fastest framework for building websites."
+    "language": "Python",
+    "description": ""
   },
   {
-    "repo": "paperjs/paper.js",
-    "branch": "develop",
+    "repo": "maria-rcks/t1code",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "T3Code, but in your terminal"
+  },
+  {
+    "repo": "hkcanan/katmer-code",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Claude Code inside Obsidian — academic research skills, inline diff editing, MCP support"
+  },
+  {
+    "repo": "cnlimiter/codex-manager",
+    "branch": "master",
+    "language": "Python",
+    "description": ""
+  },
+  {
+    "repo": "diffusionstudio/slug-webgpu",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "WebGPU implementation of Eric Lengyel's Slug algorithm for resolution-independent vector text rendering on the GPU"
+  },
+  {
+    "repo": "asonglin/crypto-liquidity-ai-trading-bot",
+    "branch": "main",
     "language": "JavaScript",
-    "description": "The Swiss Army Knife of Vector Graphics Scripting – Scriptographer ported to JavaScript and the browser, using HTML5 Canvas. Created by @lehni & @puckey"
+    "description": "Crypto liquidity detection & algorithmic trading bot. Order book analysis, stop-loss clusters, liquidity sweeps. Multi-exchange (Binance, Bybit, Kraken, OKX). Trading signals, quant research, market microstructure."
   },
   {
-    "repo": "vmware-tanzu/velero",
+    "repo": "GeiserX/awesome-spain",
     "branch": "main",
-    "language": "Go",
-    "description": "Backup and migrate Kubernetes applications and their persistent volumes"
-  },
-  {
-    "repo": "home-assistant/core",
-    "branch": "dev",
     "language": "Python",
-    "description": ":house_with_garden: Open source home automation that puts local control and privacy first."
+    "description": "Una selección de software open source que da soporte específico a España, incluyendo comunidades autónomas, provincias y ciudades."
   },
   {
-    "repo": "mui/mui-x",
-    "branch": "master",
+    "repo": "0xKarl-dev/claw-codes",
+    "branch": "main",
     "language": "TypeScript",
-    "description": "MUI X: Build complex and data-rich applications using a growing list of advanced React components, like the Data Grid, Date and Time Pickers, Charts, and more!"
+    "description": "Fastest repo on my GitHub to hit 50⭐ in under 2 hours. Building tools that get real things done. Now rewriting in Rust."
   },
   {
-    "repo": "THUDM/ChatGLM-6B",
+    "repo": "komunite/kalfa",
     "branch": "main",
-    "language": "Python",
-    "description": "ChatGLM-6B: An Open Bilingual Dialogue Language Model | 开源双语对话语言模型"
+    "language": "Shell",
+    "description": "Claude Code için Türkçe profesyonel işletim sistemi — 10 uzman agent, 22 komut, 993 skill, 6 katmanlı hafıza"
   },
   {
-    "repo": "goldbergyoni/nodebestpractices",
-    "branch": "master",
-    "language": "Dockerfile",
-    "description": ":white_check_mark:  The Node.js best practices list (July 2024)"
-  },
-  {
-    "repo": "opencontainers/image-spec",
+    "repo": "motiful/cc-gateway",
     "branch": "main",
-    "language": "Go",
-    "description": "OCI Image Format"
+    "language": "TypeScript",
+    "description": "AI API identity gateway — reverse proxy that normalizes device fingerprints and telemetry for privacy-preserving API proxying"
   },
   {
-    "repo": "MichMich/MagicMirror",
-    "branch": "master",
-    "language": "JavaScript",
-    "description": "MagicMirror² is an open source modular smart mirror platform. With a growing list of installable modules, the MagicMirror² allows you to convert your hallway or bathroom mirror into your personal assistant."
-  },
-  {
-    "repo": "zeromicro/go-zero",
+    "repo": "lich0821/wcfLink",
     "branch": "master",
     "language": "Go",
-    "description": "A cloud-native Go microservices framework with cli tool for productivity."
+    "description": ""
   },
   {
-    "repo": "MetaMask/metamask-extension",
-    "branch": "develop",
-    "language": "TypeScript",
-    "description": ":globe_with_meridians: :electric_plug: The MetaMask browser extension enables browsing Ethereum blockchain enabled websites"
-  },
-  {
-    "repo": "nativefier/nativefier",
-    "branch": "development",
-    "language": "TypeScript",
-    "description": "Make any web page a desktop application"
-  },
-  {
-    "repo": "microsoft/winget-pkgs",
-    "branch": "master",
-    "language": "PowerShell",
-    "description": "The Microsoft community Windows Package Manager manifest repository"
-  },
-  {
-    "repo": "ReactiveX/RxKotlin",
-    "branch": "3.x",
-    "language": "Kotlin",
-    "description": "RxJava bindings for Kotlin"
-  },
-  {
-    "repo": "dotnet/aspnetcore",
+    "repo": "james-6-23/codex2api",
     "branch": "main",
-    "language": "C#",
-    "description": "ASP.NET Core is a cross-platform .NET framework for building modern cloud-based web applications on Windows, Mac, or Linux."
-  },
-  {
-    "repo": "infiniflow/ragflow",
-    "branch": "main",
-    "language": "Python",
-    "description": "RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses cutting-edge RAG with Agent capabilities to create a superior context layer for LLMs"
-  },
-  {
-    "repo": "plotly/dash",
-    "branch": "dev",
-    "language": "Python",
-    "description": "Data Apps & Dashboards for Python. No JavaScript Required."
-  },
-  {
-    "repo": "cloudcommunity/Free-Certifications",
-    "branch": "main",
-    "language": "Other",
-    "description": "A curated list of free courses with certifications. Also available at https://free-certifications.com/"
+    "language": "Go",
+    "description": ""
   }
 ]

@@ -1,8 +1,8 @@
 {
-  "repo": "Ar9av/gemini-nano-chrome",
-  "branch": "master",
-  "language": "JavaScript",
-  "description": "Using Gemini Nano through Chrome's built-in Prompt API, with scripts to automate setup and verification",
-  "stars": 114,
-  "forks": 10
+  "repo": "LING71671/open-reverselab",
+  "branch": "main",
+  "language": "Python",
+  "description": "A featured project on GitHubTree.",
+  "stars": 113,
+  "forks": 41
 }
