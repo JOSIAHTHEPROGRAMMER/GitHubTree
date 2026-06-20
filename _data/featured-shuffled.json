@@ -1,146 +1,146 @@
 [
   {
-    "repo": "LocoreMind/locoagent",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "AI-powered social media agent with real browser automation"
+    "repo": "nuxt/ui",
+    "branch": "dev",
+    "language": "Vue",
+    "description": "The Intuitive Vue UI Library powered by Reka UI & Tailwind CSS."
   },
   {
-    "repo": "miaoxworld/ClawdBotInstaller",
+    "repo": "PostgREST/postgrest",
+    "branch": "main",
+    "language": "Haskell",
+    "description": "REST API for any Postgres database"
+  },
+  {
+    "repo": "halfof8/patterngen-oss",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": ""
+  },
+  {
+    "repo": "SignalBot-Labs/aster-bot",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "asterDEX trading bot, perp trading bot, asterDEX trading bot, perp trading bot, asterDEX trading bot, perp trading bot, asterDEX trading bot, perp trading bot, asterDEX trading bot, perp trading bot, asterDEX trading bot, perp trading bot, asterDEX trading bot, perp trading bot, asterDEX trading bot, perp trading bot, asterDEX trading bot, perp tra"
+  },
+  {
+    "repo": "drasimwagan/mdv",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "MDV — a Markdown superset for documents, dashboards, and slides with embedded data and visualizations. HTML + PDF export, live preview, VS Code extension."
+  },
+  {
+    "repo": "masterking32/MasterHttpRelayVPN",
+    "branch": "python_testing",
+    "language": "Python",
+    "description": ""
+  },
+  {
+    "repo": "actionbook/ascent-research",
+    "branch": "main",
+    "language": "Rust",
+    "description": "research cli for agent"
+  },
+  {
+    "repo": "sparkyniner/DRISH-X-Satellite-powered-freight-intelligence-",
+    "branch": "main",
+    "language": "Python",
+    "description": "Detect, count, and track truck traffic on any highway on Earth using nothing but free Sentinel-2 imagery and a browser."
+  },
+  {
+    "repo": "Tencent-Hunyuan/HY-SOAR",
+    "branch": "main",
+    "language": "Python",
+    "description": "HY-SOAR:Self-Correction for Optimal Alignment and Refinement in Diffusion Models"
+  },
+  {
+    "repo": "Lcharvol/MacSift",
+    "branch": "main",
+    "language": "Swift",
+    "description": "Transparent macOS disk cleaner — groups files by app, moves to Trash (never permanent). SwiftUI + Liquid Glass, built for macOS Tahoe."
+  },
+  {
+    "repo": "patterniha/MITM-DomainFronting",
+    "branch": "main",
+    "language": "Batchfile",
+    "description": "Receiving unencrypted data with MITM, Then send it with DomainFronting"
+  },
+  {
+    "repo": "joyehuang/Learn-Open-Harness",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "🤖 Official Interactive Tutorial for OpenHarness – Zero to Hero in 12 Chapters | Learn OpenHarness like Claude Code: Agent Loop, Tools, Memory, Multi-Agent | 面向零基础的 AI Agent 交互式教程"
+  },
+  {
+    "repo": "spool-lab/spool",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "The missing search engine for your own data."
+  },
+  {
+    "repo": "ReinerBRO/grok-register",
+    "branch": "main",
+    "language": "Python",
+    "description": "Automated Grok (x.ai) account registration with DuckMail + headless server support. Auto-push SSO tokens to grok2api."
+  },
+  {
+    "repo": "iliazintchenko/agent-sat",
+    "branch": "master",
+    "language": "Python",
+    "description": "Agent learns to become the worlds top expert on SAT"
+  },
+  {
+    "repo": "Ademking/MD-This-Page",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Convert any web page to clean, readable Markdown with just one click."
+  },
+  {
+    "repo": "pedronauck/skills",
+    "branch": "main",
+    "language": "Python",
+    "description": "My personal favorite skills"
+  },
+  {
+    "repo": "Wendor/teapod-stream",
+    "branch": "master",
+    "language": "Dart",
+    "description": ""
+  },
+  {
+    "repo": "komunite/kalfa",
     "branch": "main",
     "language": "Shell",
-    "description": "ClawdBot 一键部署工具"
+    "description": "Claude Code için Türkçe profesyonel işletim sistemi — 10 uzman agent, 22 komut, 993 skill, 6 katmanlı hafıza"
   },
   {
-    "repo": "Intrect-io/OpenSwarm",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "OpenSwarm, CLI Code Agent Orchstrator"
-  },
-  {
-    "repo": "Shopify/javy",
-    "branch": "main",
-    "language": "Rust",
-    "description": "JS to WebAssembly toolchain"
-  },
-  {
-    "repo": "AnInsomniacy/motrix-next",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "The next chapter of Motrix — rebuilt from scratch with Tauri 2, Vue 3, and Rust"
-  },
-  {
-    "repo": "gitleaks/gitleaks",
-    "branch": "master",
-    "language": "Go",
-    "description": "Find secrets with Gitleaks 🔑"
-  },
-  {
-    "repo": "kossisoroyce/timber",
+    "repo": "WeianMao/triattention",
     "branch": "main",
     "language": "Python",
-    "description": "Ollama for classical ML models. AOT compiler that turns XGBoost, LightGBM, scikit-learn, CatBoost & ONNX models into native C99 inference code. One command to load, one command to serve. 336x faster than Python inference."
+    "description": "TriAttention — Efficient long reasoning with trigonometric KV cache compression. Enables OpenClaw local deployment on memory-constrained GPUs."
   },
   {
-    "repo": "rainzz-512/Mewgenics-Chinese-Translation",
+    "repo": "Unclecheng-li/AI-Animation-Skill",
+    "branch": "main",
+    "language": "HTML",
+    "description": "使用 AI 生成 HTML 演示动画的工具集，让视频创作者能够快速将科普文本转换为炫酷的演示动画。"
+  },
+  {
+    "repo": "Paparusi/legal-ai-agent",
     "branch": "main",
     "language": "Python",
     "description": ""
   },
   {
-    "repo": "github/storybook-addon-performance-panel",
+    "repo": "nateherkai/hyperframes-student-kit",
     "branch": "main",
-    "language": "TypeScript",
-    "description": "A Storybook Addon for tracking web performance"
+    "language": "HTML",
+    "description": "HTML-native motion-graphics video workspace — 12 finished projects built on Hyperframes + GSAP. A teaching kit for students learning to build motion-graphics video pipelines end-to-end."
   },
   {
-    "repo": "Anarkh-Lee/universal-db-mcp",
+    "repo": "MidNightExtern/MIDNIGHT",
     "branch": "main",
-    "language": "TypeScript",
-    "description": "MCP 数据库万能连接器：使用支持MCP服务协议的工具（例如：Claude Desktop、Cherry Studio等）直接连接你的数据库，用自然语言查询和分析数据"
-  },
-  {
-    "repo": "igamez-gamble/sportsbook-sports-betting-crypto",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "sportsbook sports betting, crypto sportsbook, crypto sports betting, top ranked sportsbook project, world cup, nba, soccor, cricket, esports, crypto sports betting platform, crypto sportsbook project, sportsbook platform, sports betting platform, crypto project, crypto betting"
-  },
-  {
-    "repo": "confluentinc/schema-registry",
-    "branch": "master",
-    "language": "Java",
-    "description": "Confluent Schema Registry for Kafka"
-  },
-  {
-    "repo": "hanxiao/claudecode-telegram",
-    "branch": "main",
-    "language": "Python",
-    "description": "Telegram bridge for Claude Code"
-  },
-  {
-    "repo": "dev-protocol/polymarket-kalshi-momentum-trading-bot",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Updated version - A sophisticated automated trading bot that mirrors the positions of a target trader on Polymarket. The bot continuously monitors a specified wallet address and replicates their trading positions in real-time with customizable risk management parameters. polymarket trading bot that do polymarket trading like trading bot on polymark"
-  },
-  {
-    "repo": "sindresorhus/awesome-electron",
-    "branch": "main",
-    "language": "Other",
-    "description": "Useful resources for creating apps with Electron"
-  },
-  {
-    "repo": "deepinfra/deepinfra",
-    "branch": "main",
-    "language": "Other",
-    "description": "Run popular AI models like Llama-3, Mistral on DeepInfra's platform."
-  },
-  {
-    "repo": "whisperbit-labs/zemzeme-android",
-    "branch": "main",
-    "language": "Kotlin",
-    "description": "Private, serverless messaging for Android - offline Bluetooth mesh, peer-to-peer, and Nostr relay. No accounts, no internet required."
-  },
-  {
-    "repo": "MetaMask/metamask-extension",
-    "branch": "develop",
-    "language": "TypeScript",
-    "description": ":globe_with_meridians: :electric_plug: The MetaMask browser extension enables browsing Ethereum blockchain enabled websites"
-  },
-  {
-    "repo": "home-assistant/core",
-    "branch": "dev",
-    "language": "Python",
-    "description": ":house_with_garden: Open source home automation that puts local control and privacy first."
-  },
-  {
-    "repo": "python-pillow/Pillow",
-    "branch": "main",
-    "language": "Python",
-    "description": "Python Imaging Library (Fork)"
-  },
-  {
-    "repo": "op7418/Youtube-clipper-skill",
-    "branch": "main",
-    "language": "Python",
-    "description": ""
-  },
-  {
-    "repo": "pypa/packaging",
-    "branch": "main",
-    "language": "Python",
-    "description": "Core utilities for Python packages"
-  },
-  {
-    "repo": "wasmerio/wasmer",
-    "branch": "master",
-    "language": "Rust",
-    "description": "🚀 Fast, secure, lightweight containers based on WebAssembly"
-  },
-  {
-    "repo": "RasaHQ/rasa",
-    "branch": "main",
-    "language": "Python",
-    "description": "💬   Open source machine learning framework to automate text- and voice-based conversations: NLU, dialogue management, connect to Slack, Facebook, and more - Create chatbots and voice assistants"
+    "language": "HTML",
+    "description": "Free version"
   }
 ]
