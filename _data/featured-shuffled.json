@@ -1,146 +1,146 @@
 [
   {
-    "repo": "Work-Fisher/openclaw-ai-assistant-framework",
-    "branch": "main",
-    "language": "Python",
-    "description": "OpenClaw AI助手完整框架 - 7步深度使用法 + 回溯清理机制"
-  },
-  {
-    "repo": "ikeda042/PhenoPixel",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "An OpenCV based image analysis web application (Deployed at Hiroshima University)"
-  },
-  {
-    "repo": "xaskasdf/ntransformer",
-    "branch": "main",
-    "language": "C++",
-    "description": "High-efficiency LLM inference engine in C++/CUDA. Run Llama 70B on RTX 3090."
-  },
-  {
-    "repo": "prof-oguzergin/bilgisayar-mimarisi",
-    "branch": "main",
-    "language": "TeX",
-    "description": "Bilgisayar Mimarisi: RISC-V Tabanlı Yaklaşım — Açık kaynak Türkçe ders kitabı (CC BY-NC-ND 4.0)"
-  },
-  {
-    "repo": "mli55/pdfdelta",
+    "repo": "Paparusi/legal-ai-agent",
     "branch": "main",
     "language": "Python",
     "description": ""
   },
   {
-    "repo": "steipete/birdclaw",
+    "repo": "imohammedyasin/steam-tools",
     "branch": "main",
-    "language": "TypeScript",
-    "description": "Stores all your tweets nicely claw-able for agents."
+    "language": "C#",
+    "description": "Steam Tools lua steamtools  download manifest generator Steam library manager achievement  ArchiSteamFarm ASF idlemaster Watt Toolkit"
   },
   {
-    "repo": "peteromallet/dataclaw",
+    "repo": "bramcohen/manyana",
     "branch": "main",
     "language": "Python",
     "description": ""
   },
   {
-    "repo": "leonyx007/Polymarket-Trading-Bot-Rust",
-    "branch": "main",
-    "language": "Rust",
-    "description": "polymarket bot polymarket trading bot polymarket arbitrage bot polymarket trading bot polymarket rust trading bot polymarket trading bot v2 polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket arb trading bot polymarket 5min trading bot 15min btc trading bot"
-  },
-  {
-    "repo": "chu2bard/pinion-os",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Client SDK, Claude plugin and skill framework for the Pinion protocol. x402 micropayments on Base."
-  },
-  {
-    "repo": "Emanuele-web04/remodex",
-    "branch": "main",
-    "language": "Swift",
-    "description": "Remote Control for Codex. 24/7 version on the way"
-  },
-  {
-    "repo": "baker42757/15min-crypto-polymarket-trading-bot",
-    "branch": "main",
-    "language": "Rust",
-    "description": "Polymarket Trading Bot-15min crypto polymarket trading bot is the polymarket trading bot that trades in 15min crypto - BTC, ETH, SOL and XRP. This is another Polymarket arbitrage trading bot. Polymarket Automated Trading Bot"
-  },
-  {
-    "repo": "borkdude/cream",
-    "branch": "main",
-    "language": "Clojure",
-    "description": "Fast starting Clojure runtime built with GraalVM native-image + Crema"
-  },
-  {
-    "repo": "TraderAlice/OpenAlice",
-    "branch": "master",
-    "language": "TypeScript",
-    "description": "File-driven AI trading agent engine for crypto and securities markets"
-  },
-  {
-    "repo": "khanhduytran0/coruna",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "The leaked exploit toolkit for various iOS versions"
-  },
-  {
-    "repo": "GreenSheep01201/claw-empire",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Command Your AI Agent Empire from the CEO Desk — A local-first AI agent office simulator that orchestrates CLI, OAuth, and API-connected agents (Claude Code, Codex CLI, Gemini CLI, OpenCode, and more) as a virtual autonomous company."
-  },
-  {
-    "repo": "ylytdeng/wechat-decrypt",
+    "repo": "mshumer/unslop",
     "branch": "main",
     "language": "Python",
-    "description": "WeChat 4.0 database decryptor - extract keys from memory, decrypt SQLCipher 4 databases, real-time message monitor"
+    "description": ""
   },
   {
-    "repo": "caiwuu/web2api",
-    "branch": "master",
-    "language": "Python",
-    "description": "把网页AI转api，如claude2api"
-  },
-  {
-    "repo": "flamestro/deff",
-    "branch": "main",
-    "language": "Rust",
-    "description": "interactive, side-by-side file review for git diffs with per-file navigation, vertical and horizontal scrolling, syntax highlighting, and added/deleted line tinting"
-  },
-  {
-    "repo": "dseditor/QwenASRMiniTool",
-    "branch": "main",
-    "language": "Python",
-    "description": "基於OpenVino-int8權重，精簡的QwenASR小工具，用於即時辨識以及字幕轉換使用"
-  },
-  {
-    "repo": "ewindmer/polymarket-arbitrage-trading-bot",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "polymarket arbitrage trading bot"
-  },
-  {
-    "repo": "blader/taskmaster",
-    "branch": "main",
-    "language": "Shell",
-    "description": "Stop hook for Claude Code that keeps the agent working until all plans and user requests are 100% complete"
-  },
-  {
-    "repo": "amneziawg-mikrotik/awg-proxy",
+    "repo": "xiaolajiaoyyds/regplatformm",
     "branch": "main",
     "language": "Go",
     "description": ""
   },
   {
-    "repo": "derHaken/SuperAntigravity",
+    "repo": "nikmcfly/MiroFish-Offline",
     "branch": "main",
-    "language": "Shell",
-    "description": "Superpowers + SuperClaude for Google Antigravity IDE"
+    "language": "Python",
+    "description": "Offline multi-agent simulation & prediction engine. English fork of MiroFish with Neo4j + Ollama local stack."
   },
   {
-    "repo": "promptpirate-x/discord-id-bypass-tool",
+    "repo": "DestinyCycloid/chatgpt_register_v2_by_AI",
     "branch": "main",
-    "language": "HTML",
-    "description": "A verified tool that works on any potato computer that will let you bypass discord verification"
+    "language": "Python",
+    "description": ""
+  },
+  {
+    "repo": "junjiezhou1122/GptCrate",
+    "branch": "main",
+    "language": "Python",
+    "description": ""
+  },
+  {
+    "repo": "GainSec/AutoProber",
+    "branch": "main",
+    "language": "Python",
+    "description": "Hardware hacker’s flying probe automation stack for agent-driven   target discovery, microscope mapping, safety-monitored CNC motion, probe review, and   controlled pin probing."
+  },
+  {
+    "repo": "kiberkingyammee7/Awp-gg-Roblox-Executor-2026",
+    "branch": "main",
+    "language": "C++",
+    "description": "The most advanced, high-performance V3 execution engine for Roblox. Experience seamless Luau scripting, unparalleled 100% UNC bypass mechanisms, and maximum thread stability."
+  },
+  {
+    "repo": "fimbox/html-in-canvas",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "HTML in Canvas — arrival.space"
+  },
+  {
+    "repo": "zerobootdev/zeroboot",
+    "branch": "main",
+    "language": "Rust",
+    "description": "Sub-millisecond VM sandboxes for AI agents via copy-on-write forking"
+  },
+  {
+    "repo": "mattmireles/gemma-tuner-multimodal",
+    "branch": "main",
+    "language": "Python",
+    "description": "Fine-tune Gemma 4 and 3n with audio, images and text on Apple Silicon, using PyTorch and Metal Performance Shaders."
+  },
+  {
+    "repo": "AFahim02/House-Flipper-2-Multiplayer",
+    "branch": "main",
+    "language": "C++",
+    "description": "House Flipper Free For PC Multiplayer 2026 is the complete unlocked Windows version of the popular house renovation simulator with full multiplayer support. Buy, renovate, decorate and sell houses with unlimited money and all DLCs included. Now you can flip houses together with friends in co-op mode."
+  },
+  {
+    "repo": "danveloper/flash-moe",
+    "branch": "main",
+    "language": "Objective-C",
+    "description": "Running a big model on a small laptop"
+  },
+  {
+    "repo": "liliMozi/openhanako",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "A personal AI agent with memory, personality, and autonomy — built on Electron."
+  },
+  {
+    "repo": "xixu-me/awesome-persona-distill-skills",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "同事.skill、前任.skill、女娲.skill、自己.skill、乔布斯.skill……"
+  },
+  {
+    "repo": "ronaldo-avalos/Maya",
+    "branch": "main",
+    "language": "Swift",
+    "description": "🖥️ 📱 ▶️ Wrap your iPhone screen recordings in a beautiful device frame, add cinematic zoom moments, and export ready-to-share videos."
+  },
+  {
+    "repo": "Robbyant/lingbot-va",
+    "branch": "main",
+    "language": "Python",
+    "description": "Causal video-action world model for generalist robot control"
+  },
+  {
+    "repo": "bestpracticaI/kalshi-ai-trading-bot",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Kalshi prediction markets trading bot algorithmic automated trading TypeScript Node.js Kalshi REST API RSA signing OpenRouter LLM CLI npm quant fintech event contracts market making exchange API bot Kalshi SDK"
+  },
+  {
+    "repo": "DeepSeek-TUI/DeepSeek-TUI",
+    "branch": "main",
+    "language": "Rust",
+    "description": "Install DeepSeek TUI - Coding agent for DeepSeek models that runs in your terminal."
+  },
+  {
+    "repo": "gin-gonic/gin",
+    "branch": "master",
+    "language": "Go",
+    "description": "Gin is a high-performance HTTP web framework written in Go. It provides a Martini-like API but with significantly better performance—up to 40 times faster—thanks to httprouter. Gin is designed for building REST APIs, web applications, and microservices."
+  },
+  {
+    "repo": "benqi-finance/legalmarkdown",
+    "branch": "master",
+    "language": "Go",
+    "description": "Eris Legal Markdown -- Putting the Contract in Smart Contracts"
+  },
+  {
+    "repo": "AeternaLabsHQ/pullmd",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "Self-hosted URL-to-Markdown service for humans and AI agents. PWA + REST + MCP + Claude Code skill, with Reddit support and refreshable share links."
   }
 ]
