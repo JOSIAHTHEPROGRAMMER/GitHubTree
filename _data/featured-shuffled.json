@@ -1,146 +1,146 @@
 [
   {
-    "repo": "QwenLM/Qwen3-ASR",
-    "branch": "main",
-    "language": "Python",
-    "description": "Qwen3-ASR is an open-source series of ASR models developed by the Qwen team at Alibaba Cloud, supporting stable multilingual speech/music/song recognition, language detection and timestamp prediction."
-  },
-  {
-    "repo": "HackingDave/nightwire",
-    "branch": "main",
-    "language": "Python",
-    "description": "A secure way to code via Signal. Integrates long-term memory, ralph-style looping for complex specifics, and more all from your phone."
-  },
-  {
-    "repo": "tigerabrodi/neiro",
+    "repo": "LocoreMind/locoagent",
     "branch": "main",
     "language": "TypeScript",
-    "description": "Audio processing for TypeScript. Chainable, immutable, serverless-ready."
+    "description": "AI-powered social media agent with real browser automation"
   },
   {
-    "repo": "grpc/grpc",
-    "branch": "master",
-    "language": "C++",
-    "description": "C++ based gRPC (C++, Python, Ruby, Objective-C, PHP, C#)"
-  },
-  {
-    "repo": "apple/swift-protobuf",
+    "repo": "miaoxworld/ClawdBotInstaller",
     "branch": "main",
-    "language": "Swift",
-    "description": "Plugin and runtime library for using protobuf with Swift"
+    "language": "Shell",
+    "description": "ClawdBot 一键部署工具"
   },
   {
-    "repo": "AlexGoOn/the-most-vulnerable-dotnet-app",
-    "branch": "main",
-    "language": "HTML",
-    "description": "This educational repository showcases the most common vulnerabilities found in .NET applications"
-  },
-  {
-    "repo": "TermiX-official/cryptoclaw",
+    "repo": "Intrect-io/OpenSwarm",
     "branch": "main",
     "language": "TypeScript",
-    "description": ""
+    "description": "OpenSwarm, CLI Code Agent Orchstrator"
   },
   {
-    "repo": "Ademking/MD-This-Page",
+    "repo": "Shopify/javy",
     "branch": "main",
-    "language": "TypeScript",
-    "description": "Convert any web page to clean, readable Markdown with just one click."
+    "language": "Rust",
+    "description": "JS to WebAssembly toolchain"
   },
   {
-    "repo": "ory/oathkeeper",
-    "branch": "master",
-    "language": "Go",
-    "description": "A cloud native Identity & Access Proxy / API (IAP) and Access Control Decision API that authenticates, authorizes, and mutates incoming HTTP(s) requests. Inspired by the BeyondCorp / Zero Trust white paper. Written in Go."
-  },
-  {
-    "repo": "amlalabs/amla-sandbox",
-    "branch": "main",
-    "language": "Python",
-    "description": ""
-  },
-  {
-    "repo": "microsoft/LightGBM",
-    "branch": "master",
-    "language": "C++",
-    "description": "A fast, distributed, high performance gradient boosting (GBT, GBDT, GBRT, GBM or MART) framework based on decision tree algorithms, used for ranking, classification and many other machine learning tasks."
-  },
-  {
-    "repo": "dypsilon/frontend-dev-bookmarks",
-    "branch": "master",
-    "language": "Other",
-    "description": "Manually curated collection of resources for frontend web developers."
-  },
-  {
-    "repo": "godotengine/godot-proposals",
-    "branch": "master",
-    "language": "Other",
-    "description": "Godot Improvement Proposals (GIPs)"
-  },
-  {
-    "repo": "locustio/locust",
-    "branch": "master",
-    "language": "Python",
-    "description": "Write scalable load tests in plain Python 🚗💨"
-  },
-  {
-    "repo": "primefaces/primevue",
-    "branch": "master",
-    "language": "Vue",
-    "description": "Next Generation Vue UI Component Library"
-  },
-  {
-    "repo": "microsoft/TypeScript",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "TypeScript is a superset of JavaScript that compiles to clean JavaScript output."
-  },
-  {
-    "repo": "fastlane/supply",
-    "branch": "master",
-    "language": "Other",
-    "description": "Command line tool for updating Android apps and their metadata on the Google Play Store"
-  },
-  {
-    "repo": "iamzifei/bookmark-is-learned",
+    "repo": "AnInsomniacy/motrix-next",
     "branch": "main",
     "language": "JavaScript",
-    "description": "收藏到就是学到，解决光收藏不看的问题。收藏的当下立刻学习或者丢弃"
+    "description": "The next chapter of Motrix — rebuilt from scratch with Tauri 2, Vue 3, and Rust"
   },
   {
-    "repo": "OmniSVG/OmniSVG",
-    "branch": "main",
-    "language": "Python",
-    "description": "[NeurIPS 2025] OmniSVG is the first family of end-to-end multimodal SVG generators that leverage pre-trained Vision-Language Models (VLMs), capable of generating complex and detailed SVGs, from simple icons to intricate anime characters."
-  },
-  {
-    "repo": "fullcalendar/fullcalendar",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Full-sized drag & drop event calendar in JavaScript"
-  },
-  {
-    "repo": "HKUDS/MoChat",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "MoChat: Reconnecting the World through AI Agents (OpenClaw & nanobot & ClaudeCode) https://mochat.io"
-  },
-  {
-    "repo": "sachaa/openbrowserclaw",
-    "branch": "master",
-    "language": "TypeScript",
-    "description": "Browser-native personal AI assistant. Zero infrastructure, the browser is the server."
-  },
-  {
-    "repo": "cookiecutter/cookiecutter",
-    "branch": "master",
-    "language": "Python",
-    "description": "A cross-platform command-line utility that creates projects from cookiecutters (project templates), e.g. Python package projects, C projects."
-  },
-  {
-    "repo": "argoproj/argo-cd",
+    "repo": "gitleaks/gitleaks",
     "branch": "master",
     "language": "Go",
-    "description": "Declarative Continuous Deployment for Kubernetes"
+    "description": "Find secrets with Gitleaks 🔑"
+  },
+  {
+    "repo": "kossisoroyce/timber",
+    "branch": "main",
+    "language": "Python",
+    "description": "Ollama for classical ML models. AOT compiler that turns XGBoost, LightGBM, scikit-learn, CatBoost & ONNX models into native C99 inference code. One command to load, one command to serve. 336x faster than Python inference."
+  },
+  {
+    "repo": "rainzz-512/Mewgenics-Chinese-Translation",
+    "branch": "main",
+    "language": "Python",
+    "description": ""
+  },
+  {
+    "repo": "github/storybook-addon-performance-panel",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "A Storybook Addon for tracking web performance"
+  },
+  {
+    "repo": "Anarkh-Lee/universal-db-mcp",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "MCP 数据库万能连接器：使用支持MCP服务协议的工具（例如：Claude Desktop、Cherry Studio等）直接连接你的数据库，用自然语言查询和分析数据"
+  },
+  {
+    "repo": "igamez-gamble/sportsbook-sports-betting-crypto",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "sportsbook sports betting, crypto sportsbook, crypto sports betting, top ranked sportsbook project, world cup, nba, soccor, cricket, esports, crypto sports betting platform, crypto sportsbook project, sportsbook platform, sports betting platform, crypto project, crypto betting"
+  },
+  {
+    "repo": "confluentinc/schema-registry",
+    "branch": "master",
+    "language": "Java",
+    "description": "Confluent Schema Registry for Kafka"
+  },
+  {
+    "repo": "hanxiao/claudecode-telegram",
+    "branch": "main",
+    "language": "Python",
+    "description": "Telegram bridge for Claude Code"
+  },
+  {
+    "repo": "dev-protocol/polymarket-kalshi-momentum-trading-bot",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Updated version - A sophisticated automated trading bot that mirrors the positions of a target trader on Polymarket. The bot continuously monitors a specified wallet address and replicates their trading positions in real-time with customizable risk management parameters. polymarket trading bot that do polymarket trading like trading bot on polymark"
+  },
+  {
+    "repo": "sindresorhus/awesome-electron",
+    "branch": "main",
+    "language": "Other",
+    "description": "Useful resources for creating apps with Electron"
+  },
+  {
+    "repo": "deepinfra/deepinfra",
+    "branch": "main",
+    "language": "Other",
+    "description": "Run popular AI models like Llama-3, Mistral on DeepInfra's platform."
+  },
+  {
+    "repo": "whisperbit-labs/zemzeme-android",
+    "branch": "main",
+    "language": "Kotlin",
+    "description": "Private, serverless messaging for Android - offline Bluetooth mesh, peer-to-peer, and Nostr relay. No accounts, no internet required."
+  },
+  {
+    "repo": "MetaMask/metamask-extension",
+    "branch": "develop",
+    "language": "TypeScript",
+    "description": ":globe_with_meridians: :electric_plug: The MetaMask browser extension enables browsing Ethereum blockchain enabled websites"
+  },
+  {
+    "repo": "home-assistant/core",
+    "branch": "dev",
+    "language": "Python",
+    "description": ":house_with_garden: Open source home automation that puts local control and privacy first."
+  },
+  {
+    "repo": "python-pillow/Pillow",
+    "branch": "main",
+    "language": "Python",
+    "description": "Python Imaging Library (Fork)"
+  },
+  {
+    "repo": "op7418/Youtube-clipper-skill",
+    "branch": "main",
+    "language": "Python",
+    "description": ""
+  },
+  {
+    "repo": "pypa/packaging",
+    "branch": "main",
+    "language": "Python",
+    "description": "Core utilities for Python packages"
+  },
+  {
+    "repo": "wasmerio/wasmer",
+    "branch": "master",
+    "language": "Rust",
+    "description": "🚀 Fast, secure, lightweight containers based on WebAssembly"
+  },
+  {
+    "repo": "RasaHQ/rasa",
+    "branch": "main",
+    "language": "Python",
+    "description": "💬   Open source machine learning framework to automate text- and voice-based conversations: NLU, dialogue management, connect to Slack, Facebook, and more - Create chatbots and voice assistants"
   }
 ]
