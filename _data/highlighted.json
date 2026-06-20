@@ -1,8 +1,8 @@
 {
-  "repo": "PhamHongPhucs/LeagueToolKit-Manager",
+  "repo": "nico81/iContainer",
   "branch": "main",
-  "language": "TypeScript",
-  "description": "leaguetoolkit manager ltk league of legends lol mod cslol manager github divine skin installer plugins configuration tool load order game modding riot games custom skins asset loader profile manager desktop utility pc gaming ",
-  "stars": 109,
-  "forks": 0
+  "language": "Swift",
+  "description": "A native macOS app to manage Apple Container workloads, built with SwiftUI.",
+  "stars": 111,
+  "forks": 2
 }

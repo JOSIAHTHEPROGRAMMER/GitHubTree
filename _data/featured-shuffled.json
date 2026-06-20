@@ -1,146 +1,146 @@
 [
   {
-    "repo": "Paparusi/legal-ai-agent",
+    "repo": "QwenLM/Qwen3-ASR",
     "branch": "main",
     "language": "Python",
-    "description": ""
+    "description": "Qwen3-ASR is an open-source series of ASR models developed by the Qwen team at Alibaba Cloud, supporting stable multilingual speech/music/song recognition, language detection and timestamp prediction."
   },
   {
-    "repo": "imohammedyasin/steam-tools",
-    "branch": "main",
-    "language": "C#",
-    "description": "Steam Tools lua steamtools  download manifest generator Steam library manager achievement  ArchiSteamFarm ASF idlemaster Watt Toolkit"
-  },
-  {
-    "repo": "bramcohen/manyana",
+    "repo": "HackingDave/nightwire",
     "branch": "main",
     "language": "Python",
-    "description": ""
+    "description": "A secure way to code via Signal. Integrates long-term memory, ralph-style looping for complex specifics, and more all from your phone."
   },
   {
-    "repo": "mshumer/unslop",
-    "branch": "main",
-    "language": "Python",
-    "description": ""
-  },
-  {
-    "repo": "xiaolajiaoyyds/regplatformm",
-    "branch": "main",
-    "language": "Go",
-    "description": ""
-  },
-  {
-    "repo": "nikmcfly/MiroFish-Offline",
-    "branch": "main",
-    "language": "Python",
-    "description": "Offline multi-agent simulation & prediction engine. English fork of MiroFish with Neo4j + Ollama local stack."
-  },
-  {
-    "repo": "DestinyCycloid/chatgpt_register_v2_by_AI",
-    "branch": "main",
-    "language": "Python",
-    "description": ""
-  },
-  {
-    "repo": "junjiezhou1122/GptCrate",
-    "branch": "main",
-    "language": "Python",
-    "description": ""
-  },
-  {
-    "repo": "GainSec/AutoProber",
-    "branch": "main",
-    "language": "Python",
-    "description": "Hardware hacker’s flying probe automation stack for agent-driven   target discovery, microscope mapping, safety-monitored CNC motion, probe review, and   controlled pin probing."
-  },
-  {
-    "repo": "kiberkingyammee7/Awp-gg-Roblox-Executor-2026",
-    "branch": "main",
-    "language": "C++",
-    "description": "The most advanced, high-performance V3 execution engine for Roblox. Experience seamless Luau scripting, unparalleled 100% UNC bypass mechanisms, and maximum thread stability."
-  },
-  {
-    "repo": "fimbox/html-in-canvas",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "HTML in Canvas — arrival.space"
-  },
-  {
-    "repo": "zerobootdev/zeroboot",
-    "branch": "main",
-    "language": "Rust",
-    "description": "Sub-millisecond VM sandboxes for AI agents via copy-on-write forking"
-  },
-  {
-    "repo": "mattmireles/gemma-tuner-multimodal",
-    "branch": "main",
-    "language": "Python",
-    "description": "Fine-tune Gemma 4 and 3n with audio, images and text on Apple Silicon, using PyTorch and Metal Performance Shaders."
-  },
-  {
-    "repo": "AFahim02/House-Flipper-2-Multiplayer",
-    "branch": "main",
-    "language": "C++",
-    "description": "House Flipper Free For PC Multiplayer 2026 is the complete unlocked Windows version of the popular house renovation simulator with full multiplayer support. Buy, renovate, decorate and sell houses with unlimited money and all DLCs included. Now you can flip houses together with friends in co-op mode."
-  },
-  {
-    "repo": "danveloper/flash-moe",
-    "branch": "main",
-    "language": "Objective-C",
-    "description": "Running a big model on a small laptop"
-  },
-  {
-    "repo": "liliMozi/openhanako",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "A personal AI agent with memory, personality, and autonomy — built on Electron."
-  },
-  {
-    "repo": "xixu-me/awesome-persona-distill-skills",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "同事.skill、前任.skill、女娲.skill、自己.skill、乔布斯.skill……"
-  },
-  {
-    "repo": "ronaldo-avalos/Maya",
-    "branch": "main",
-    "language": "Swift",
-    "description": "🖥️ 📱 ▶️ Wrap your iPhone screen recordings in a beautiful device frame, add cinematic zoom moments, and export ready-to-share videos."
-  },
-  {
-    "repo": "Robbyant/lingbot-va",
-    "branch": "main",
-    "language": "Python",
-    "description": "Causal video-action world model for generalist robot control"
-  },
-  {
-    "repo": "bestpracticaI/kalshi-ai-trading-bot",
+    "repo": "tigerabrodi/neiro",
     "branch": "main",
     "language": "TypeScript",
-    "description": "Kalshi prediction markets trading bot algorithmic automated trading TypeScript Node.js Kalshi REST API RSA signing OpenRouter LLM CLI npm quant fintech event contracts market making exchange API bot Kalshi SDK"
+    "description": "Audio processing for TypeScript. Chainable, immutable, serverless-ready."
   },
   {
-    "repo": "DeepSeek-TUI/DeepSeek-TUI",
+    "repo": "grpc/grpc",
+    "branch": "master",
+    "language": "C++",
+    "description": "C++ based gRPC (C++, Python, Ruby, Objective-C, PHP, C#)"
+  },
+  {
+    "repo": "apple/swift-protobuf",
     "branch": "main",
-    "language": "Rust",
-    "description": "Install DeepSeek TUI - Coding agent for DeepSeek models that runs in your terminal."
+    "language": "Swift",
+    "description": "Plugin and runtime library for using protobuf with Swift"
   },
   {
-    "repo": "gin-gonic/gin",
+    "repo": "AlexGoOn/the-most-vulnerable-dotnet-app",
+    "branch": "main",
+    "language": "HTML",
+    "description": "This educational repository showcases the most common vulnerabilities found in .NET applications"
+  },
+  {
+    "repo": "TermiX-official/cryptoclaw",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": ""
+  },
+  {
+    "repo": "Ademking/MD-This-Page",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Convert any web page to clean, readable Markdown with just one click."
+  },
+  {
+    "repo": "ory/oathkeeper",
     "branch": "master",
     "language": "Go",
-    "description": "Gin is a high-performance HTTP web framework written in Go. It provides a Martini-like API but with significantly better performance—up to 40 times faster—thanks to httprouter. Gin is designed for building REST APIs, web applications, and microservices."
+    "description": "A cloud native Identity & Access Proxy / API (IAP) and Access Control Decision API that authenticates, authorizes, and mutates incoming HTTP(s) requests. Inspired by the BeyondCorp / Zero Trust white paper. Written in Go."
   },
   {
-    "repo": "benqi-finance/legalmarkdown",
+    "repo": "amlalabs/amla-sandbox",
+    "branch": "main",
+    "language": "Python",
+    "description": ""
+  },
+  {
+    "repo": "microsoft/LightGBM",
     "branch": "master",
-    "language": "Go",
-    "description": "Eris Legal Markdown -- Putting the Contract in Smart Contracts"
+    "language": "C++",
+    "description": "A fast, distributed, high performance gradient boosting (GBT, GBDT, GBRT, GBM or MART) framework based on decision tree algorithms, used for ranking, classification and many other machine learning tasks."
   },
   {
-    "repo": "AeternaLabsHQ/pullmd",
+    "repo": "dypsilon/frontend-dev-bookmarks",
+    "branch": "master",
+    "language": "Other",
+    "description": "Manually curated collection of resources for frontend web developers."
+  },
+  {
+    "repo": "godotengine/godot-proposals",
+    "branch": "master",
+    "language": "Other",
+    "description": "Godot Improvement Proposals (GIPs)"
+  },
+  {
+    "repo": "locustio/locust",
+    "branch": "master",
+    "language": "Python",
+    "description": "Write scalable load tests in plain Python 🚗💨"
+  },
+  {
+    "repo": "primefaces/primevue",
+    "branch": "master",
+    "language": "Vue",
+    "description": "Next Generation Vue UI Component Library"
+  },
+  {
+    "repo": "microsoft/TypeScript",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "TypeScript is a superset of JavaScript that compiles to clean JavaScript output."
+  },
+  {
+    "repo": "fastlane/supply",
+    "branch": "master",
+    "language": "Other",
+    "description": "Command line tool for updating Android apps and their metadata on the Google Play Store"
+  },
+  {
+    "repo": "iamzifei/bookmark-is-learned",
     "branch": "main",
     "language": "JavaScript",
-    "description": "Self-hosted URL-to-Markdown service for humans and AI agents. PWA + REST + MCP + Claude Code skill, with Reddit support and refreshable share links."
+    "description": "收藏到就是学到，解决光收藏不看的问题。收藏的当下立刻学习或者丢弃"
+  },
+  {
+    "repo": "OmniSVG/OmniSVG",
+    "branch": "main",
+    "language": "Python",
+    "description": "[NeurIPS 2025] OmniSVG is the first family of end-to-end multimodal SVG generators that leverage pre-trained Vision-Language Models (VLMs), capable of generating complex and detailed SVGs, from simple icons to intricate anime characters."
+  },
+  {
+    "repo": "fullcalendar/fullcalendar",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Full-sized drag & drop event calendar in JavaScript"
+  },
+  {
+    "repo": "HKUDS/MoChat",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "MoChat: Reconnecting the World through AI Agents (OpenClaw & nanobot & ClaudeCode) https://mochat.io"
+  },
+  {
+    "repo": "sachaa/openbrowserclaw",
+    "branch": "master",
+    "language": "TypeScript",
+    "description": "Browser-native personal AI assistant. Zero infrastructure, the browser is the server."
+  },
+  {
+    "repo": "cookiecutter/cookiecutter",
+    "branch": "master",
+    "language": "Python",
+    "description": "A cross-platform command-line utility that creates projects from cookiecutters (project templates), e.g. Python package projects, C projects."
+  },
+  {
+    "repo": "argoproj/argo-cd",
+    "branch": "master",
+    "language": "Go",
+    "description": "Declarative Continuous Deployment for Kubernetes"
   }
 ]
