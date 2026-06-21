@@ -1,146 +1,146 @@
 [
   {
-    "repo": "shenhao-stu/ohmycaptcha",
+    "repo": "edmicho/mm-probe-kit",
     "branch": "main",
     "language": "Python",
-    "description": "⚡ Self-hostable YesCaptcha-compatible captcha solver built with FastAPI, Playwright, and OpenAI-compatible multimodal models."
+    "description": "A small, hackable toolkit for probing multimodal LLMs — attention, hidden states, alignment, and causal tracing."
   },
   {
-    "repo": "AvenueSleuth/delta-exec",
+    "repo": "Quick/Nimble",
     "branch": "main",
-    "language": "Python",
-    "description": "Delta Exec scripting utility"
+    "language": "Swift",
+    "description": "A Matcher Framework for Swift and Objective-C"
   },
   {
-    "repo": "coleam00/excalidraw-diagram-skill",
-    "branch": "main",
-    "language": "Python",
-    "description": "Skill to give Claude Code (and any coding agent) the ability to generate beautiful and practical Excalidraw diagrams."
-  },
-  {
-    "repo": "MeisnerDan/mission-control",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Open-source task management for the agentic era. The command center for solo entrepreneurs who delegate work to AI agents."
-  },
-  {
-    "repo": "LuaJIT/LuaJIT",
-    "branch": "v2.1",
-    "language": "C",
-    "description": "Mirror of the LuaJIT git repository"
-  },
-  {
-    "repo": "nikopueringer/CorridorKey",
-    "branch": "main",
-    "language": "Python",
-    "description": "Perfect Green Screen Keys"
-  },
-  {
-    "repo": "antonpk1/excalidraw-mcp-app",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Excalidraw MCP App Server — hand-drawn diagrams for Claude"
-  },
-  {
-    "repo": "Momciloo/fun-with-clip-path",
-    "branch": "main",
-    "language": "CSS",
-    "description": ""
-  },
-  {
-    "repo": "quailyquaily/aqua",
+    "repo": "ethereumjs/ethereumjs-monorepo",
     "branch": "master",
-    "language": "Go",
-    "description": "Aqua, a cli message tool for AI agents"
-  },
-  {
-    "repo": "pi0/skillman",
-    "branch": "main",
     "language": "TypeScript",
-    "description": "🤹 Manage project skills and lock them in skills.json"
+    "description": "Ethereum L1 Protocol Stack and EVM in TypeScript"
   },
   {
-    "repo": "Pylons/pyramid",
+    "repo": "rvm/rvm",
     "branch": "master",
-    "language": "Python",
-    "description": "Pyramid - A Python web framework"
-  },
-  {
-    "repo": "zhixianio/clawpal",
-    "branch": "main",
-    "language": "Rust",
-    "description": "ClawPal - Manage OpenClaw agents, models, and configs with a visual interface. Stop editing JSON by hand."
-  },
-  {
-    "repo": "amlalabs/amla-sandbox",
-    "branch": "main",
-    "language": "Python",
-    "description": ""
-  },
-  {
-    "repo": "Chrissotino/swiss-ai-call-agent",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Enterprise-grade AI Call Agent for the Swiss market – inbound & outbound calls, multilingual (DE/FR/IT), MCP architecture, Claude AI decision engine, real-time dashboard"
-  },
-  {
-    "repo": "34306/vphone-aio",
-    "branch": "main",
     "language": "Shell",
-    "description": "1 script run the vphone"
+    "description": "Ruby enVironment Manager (RVM)"
   },
   {
-    "repo": "sandroandric/clime",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "One CLI to find every CLI"
+    "repo": "plotly/dash",
+    "branch": "dev",
+    "language": "Python",
+    "description": "Data Apps & Dashboards for Python. No JavaScript Required."
   },
   {
-    "repo": "Xuanwo/xurl",
-    "branch": "main",
-    "language": "Rust",
-    "description": "xURL: Client for AI Agents URLs"
-  },
-  {
-    "repo": "burpheart/cursor-tap",
-    "branch": "main",
-    "language": "Go",
-    "description": "Cursor gRPC 通信流量分析工具"
-  },
-  {
-    "repo": "blendi-remade/sprite-sheet-creator",
+    "repo": "colinhacks/zod",
     "branch": "master",
     "language": "TypeScript",
-    "description": ""
+    "description": "TypeScript-first schema validation with static type inference"
   },
   {
-    "repo": "bbylw/clawdbot-cn",
+    "repo": "apache/tvm",
     "branch": "main",
-    "language": "HTML",
-    "description": "Clawdbot 是一个运行在您自己设备上的个人 AI 助手"
+    "language": "Python",
+    "description": "Open Machine Learning Compiler Framework"
   },
   {
-    "repo": "yologdev/yoyo-evolve",
+    "repo": "vmware-tanzu/velero",
     "branch": "main",
-    "language": "Rust",
-    "description": "A coding agent that evolves itself. One commit per day."
+    "language": "Go",
+    "description": "Backup and migrate Kubernetes applications and their persistent volumes"
   },
   {
-    "repo": "krajekisbtc/PolymarketBTC15mAssistant",
+    "repo": "GoogleContainerTools/jib",
+    "branch": "master",
+    "language": "Java",
+    "description": "🏗 Build container images for your Java applications."
+  },
+  {
+    "repo": "lerna/lerna",
     "branch": "main",
+    "language": "TypeScript",
+    "description": "Lerna is a fast, modern build system for managing and publishing multiple JavaScript/TypeScript packages from the same repository."
+  },
+  {
+    "repo": "pugjs/pug",
+    "branch": "master",
     "language": "JavaScript",
-    "description": "Real-time Polymarket BTC 15m trading assistant for every trader! created by @krajekisbtc"
+    "description": "Pug – robust, elegant, feature rich template engine for Node.js"
   },
   {
-    "repo": "solidjs-community/solid-primitives",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "A library of high-quality primitives that extend SolidJS reactivity."
+    "repo": "shadowsocks/shadowsocks-windows",
+    "branch": "master",
+    "language": "C#",
+    "description": "A C# port of shadowsocks"
   },
   {
-    "repo": "ncvgl/slawk",
+    "repo": "tldraw/tldraw",
     "branch": "main",
     "language": "TypeScript",
-    "description": "A 14 day experiment to clone Slack with Claude Code"
+    "description": "very good whiteboard infinite canvas SDK"
+  },
+  {
+    "repo": "winglang/wing",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "A programming language for the cloud ☁️ A unified programming model, combining infrastructure and runtime code into one language ⚡"
+  },
+  {
+    "repo": "fluent/fluent-bit",
+    "branch": "master",
+    "language": "C",
+    "description": "Fast and Lightweight Logs, Metrics and Traces processor for Linux, BSD, OSX and Windows"
+  },
+  {
+    "repo": "encode/django-rest-framework",
+    "branch": "master",
+    "language": "Python",
+    "description": "Web APIs for Django. 🎸"
+  },
+  {
+    "repo": "stretchr/testify",
+    "branch": "master",
+    "language": "Go",
+    "description": "A toolkit with common assertions and mocks that plays nicely with the standard library"
+  },
+  {
+    "repo": "reflex-dev/reflex",
+    "branch": "main",
+    "language": "Python",
+    "description": "🕸️ Web apps in pure Python 🐍"
+  },
+  {
+    "repo": "ipfs/js-ipfs",
+    "branch": "master",
+    "language": "JavaScript",
+    "description": "IPFS implementation in JavaScript"
+  },
+  {
+    "repo": "apache/spark",
+    "branch": "master",
+    "language": "Scala",
+    "description": "Apache Spark - A unified analytics engine for large-scale data processing"
+  },
+  {
+    "repo": "jwasham/coding-interview-university",
+    "branch": "main",
+    "language": "Other",
+    "description": "A complete computer science study plan to become a software engineer."
+  },
+  {
+    "repo": "bufbuild/buf",
+    "branch": "main",
+    "language": "Go",
+    "description": "The best way of working with Protocol Buffers."
+  },
+  {
+    "repo": "kubernetes-sigs/kubespray",
+    "branch": "master",
+    "language": "Jinja",
+    "description": "Deploy a Production Ready Kubernetes Cluster"
+  },
+  {
+    "repo": "nextui-org/nextui",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "🚀 Beautiful, fast and modern React UI library. (Previously NextUI)"
   }
 ]
