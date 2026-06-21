@@ -1,146 +1,146 @@
 [
   {
-    "repo": "nuxt/ui",
-    "branch": "dev",
-    "language": "Vue",
-    "description": "The Intuitive Vue UI Library powered by Reka UI & Tailwind CSS."
-  },
-  {
-    "repo": "PostgREST/postgrest",
+    "repo": "shenhao-stu/ohmycaptcha",
     "branch": "main",
-    "language": "Haskell",
-    "description": "REST API for any Postgres database"
-  },
-  {
-    "repo": "halfof8/patterngen-oss",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": ""
-  },
-  {
-    "repo": "SignalBot-Labs/aster-bot",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "asterDEX trading bot, perp trading bot, asterDEX trading bot, perp trading bot, asterDEX trading bot, perp trading bot, asterDEX trading bot, perp trading bot, asterDEX trading bot, perp trading bot, asterDEX trading bot, perp trading bot, asterDEX trading bot, perp trading bot, asterDEX trading bot, perp trading bot, asterDEX trading bot, perp tra"
-  },
-  {
-    "repo": "drasimwagan/mdv",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "MDV — a Markdown superset for documents, dashboards, and slides with embedded data and visualizations. HTML + PDF export, live preview, VS Code extension."
-  },
-  {
-    "repo": "masterking32/MasterHttpRelayVPN",
-    "branch": "python_testing",
     "language": "Python",
+    "description": "⚡ Self-hostable YesCaptcha-compatible captcha solver built with FastAPI, Playwright, and OpenAI-compatible multimodal models."
+  },
+  {
+    "repo": "AvenueSleuth/delta-exec",
+    "branch": "main",
+    "language": "Python",
+    "description": "Delta Exec scripting utility"
+  },
+  {
+    "repo": "coleam00/excalidraw-diagram-skill",
+    "branch": "main",
+    "language": "Python",
+    "description": "Skill to give Claude Code (and any coding agent) the ability to generate beautiful and practical Excalidraw diagrams."
+  },
+  {
+    "repo": "MeisnerDan/mission-control",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Open-source task management for the agentic era. The command center for solo entrepreneurs who delegate work to AI agents."
+  },
+  {
+    "repo": "LuaJIT/LuaJIT",
+    "branch": "v2.1",
+    "language": "C",
+    "description": "Mirror of the LuaJIT git repository"
+  },
+  {
+    "repo": "nikopueringer/CorridorKey",
+    "branch": "main",
+    "language": "Python",
+    "description": "Perfect Green Screen Keys"
+  },
+  {
+    "repo": "antonpk1/excalidraw-mcp-app",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Excalidraw MCP App Server — hand-drawn diagrams for Claude"
+  },
+  {
+    "repo": "Momciloo/fun-with-clip-path",
+    "branch": "main",
+    "language": "CSS",
     "description": ""
   },
   {
-    "repo": "actionbook/ascent-research",
+    "repo": "quailyquaily/aqua",
+    "branch": "master",
+    "language": "Go",
+    "description": "Aqua, a cli message tool for AI agents"
+  },
+  {
+    "repo": "pi0/skillman",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "🤹 Manage project skills and lock them in skills.json"
+  },
+  {
+    "repo": "Pylons/pyramid",
+    "branch": "master",
+    "language": "Python",
+    "description": "Pyramid - A Python web framework"
+  },
+  {
+    "repo": "zhixianio/clawpal",
     "branch": "main",
     "language": "Rust",
-    "description": "research cli for agent"
+    "description": "ClawPal - Manage OpenClaw agents, models, and configs with a visual interface. Stop editing JSON by hand."
   },
   {
-    "repo": "sparkyniner/DRISH-X-Satellite-powered-freight-intelligence-",
+    "repo": "amlalabs/amla-sandbox",
     "branch": "main",
     "language": "Python",
-    "description": "Detect, count, and track truck traffic on any highway on Earth using nothing but free Sentinel-2 imagery and a browser."
-  },
-  {
-    "repo": "Tencent-Hunyuan/HY-SOAR",
-    "branch": "main",
-    "language": "Python",
-    "description": "HY-SOAR:Self-Correction for Optimal Alignment and Refinement in Diffusion Models"
-  },
-  {
-    "repo": "Lcharvol/MacSift",
-    "branch": "main",
-    "language": "Swift",
-    "description": "Transparent macOS disk cleaner — groups files by app, moves to Trash (never permanent). SwiftUI + Liquid Glass, built for macOS Tahoe."
-  },
-  {
-    "repo": "patterniha/MITM-DomainFronting",
-    "branch": "main",
-    "language": "Batchfile",
-    "description": "Receiving unencrypted data with MITM, Then send it with DomainFronting"
-  },
-  {
-    "repo": "joyehuang/Learn-Open-Harness",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "🤖 Official Interactive Tutorial for OpenHarness – Zero to Hero in 12 Chapters | Learn OpenHarness like Claude Code: Agent Loop, Tools, Memory, Multi-Agent | 面向零基础的 AI Agent 交互式教程"
-  },
-  {
-    "repo": "spool-lab/spool",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "The missing search engine for your own data."
-  },
-  {
-    "repo": "ReinerBRO/grok-register",
-    "branch": "main",
-    "language": "Python",
-    "description": "Automated Grok (x.ai) account registration with DuckMail + headless server support. Auto-push SSO tokens to grok2api."
-  },
-  {
-    "repo": "iliazintchenko/agent-sat",
-    "branch": "master",
-    "language": "Python",
-    "description": "Agent learns to become the worlds top expert on SAT"
-  },
-  {
-    "repo": "Ademking/MD-This-Page",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Convert any web page to clean, readable Markdown with just one click."
-  },
-  {
-    "repo": "pedronauck/skills",
-    "branch": "main",
-    "language": "Python",
-    "description": "My personal favorite skills"
-  },
-  {
-    "repo": "Wendor/teapod-stream",
-    "branch": "master",
-    "language": "Dart",
     "description": ""
   },
   {
-    "repo": "komunite/kalfa",
+    "repo": "Chrissotino/swiss-ai-call-agent",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Enterprise-grade AI Call Agent for the Swiss market – inbound & outbound calls, multilingual (DE/FR/IT), MCP architecture, Claude AI decision engine, real-time dashboard"
+  },
+  {
+    "repo": "34306/vphone-aio",
     "branch": "main",
     "language": "Shell",
-    "description": "Claude Code için Türkçe profesyonel işletim sistemi — 10 uzman agent, 22 komut, 993 skill, 6 katmanlı hafıza"
+    "description": "1 script run the vphone"
   },
   {
-    "repo": "WeianMao/triattention",
+    "repo": "sandroandric/clime",
     "branch": "main",
-    "language": "Python",
-    "description": "TriAttention — Efficient long reasoning with trigonometric KV cache compression. Enables OpenClaw local deployment on memory-constrained GPUs."
+    "language": "TypeScript",
+    "description": "One CLI to find every CLI"
   },
   {
-    "repo": "Unclecheng-li/AI-Animation-Skill",
+    "repo": "Xuanwo/xurl",
     "branch": "main",
-    "language": "HTML",
-    "description": "使用 AI 生成 HTML 演示动画的工具集，让视频创作者能够快速将科普文本转换为炫酷的演示动画。"
+    "language": "Rust",
+    "description": "xURL: Client for AI Agents URLs"
   },
   {
-    "repo": "Paparusi/legal-ai-agent",
+    "repo": "burpheart/cursor-tap",
     "branch": "main",
-    "language": "Python",
+    "language": "Go",
+    "description": "Cursor gRPC 通信流量分析工具"
+  },
+  {
+    "repo": "blendi-remade/sprite-sheet-creator",
+    "branch": "master",
+    "language": "TypeScript",
     "description": ""
   },
   {
-    "repo": "nateherkai/hyperframes-student-kit",
+    "repo": "bbylw/clawdbot-cn",
     "branch": "main",
     "language": "HTML",
-    "description": "HTML-native motion-graphics video workspace — 12 finished projects built on Hyperframes + GSAP. A teaching kit for students learning to build motion-graphics video pipelines end-to-end."
+    "description": "Clawdbot 是一个运行在您自己设备上的个人 AI 助手"
   },
   {
-    "repo": "MidNightExtern/MIDNIGHT",
+    "repo": "yologdev/yoyo-evolve",
     "branch": "main",
-    "language": "HTML",
-    "description": "Free version"
+    "language": "Rust",
+    "description": "A coding agent that evolves itself. One commit per day."
+  },
+  {
+    "repo": "krajekisbtc/PolymarketBTC15mAssistant",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "Real-time Polymarket BTC 15m trading assistant for every trader! created by @krajekisbtc"
+  },
+  {
+    "repo": "solidjs-community/solid-primitives",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "A library of high-quality primitives that extend SolidJS reactivity."
+  },
+  {
+    "repo": "ncvgl/slawk",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "A 14 day experiment to clone Slack with Claude Code"
   }
 ]

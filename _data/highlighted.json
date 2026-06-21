@@ -1,8 +1,8 @@
 {
-  "repo": "Andrewmudhasi/delta-exec",
+  "repo": "overflowy/make-look-scanned",
   "branch": "main",
-  "language": "C#",
-  "description": "delta exec roblox exploit android apk pc exploit scripting tool luau script hub mobile key system client pc gaming gameplay utility bypass script",
-  "stars": 0,
-  "forks": 0
+  "language": "Go",
+  "description": "Makes PDFs look scanned (CLI or in the browser via WASM)",
+  "stars": 139,
+  "forks": 4
 }
