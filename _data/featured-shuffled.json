@@ -1,146 +1,146 @@
 [
   {
-    "repo": "chekusu/mails",
+    "repo": "indragiek/GHFS",
     "branch": "main",
-    "language": "TypeScript",
-    "description": "email for agents. Built for AI agents that need to send, receive, and understand emails programmatically"
+    "language": "Swift",
+    "description": "Mount GitHub repositories as a virtual read-only macOS filesystem"
   },
   {
-    "repo": "run-bigpig/jcp",
+    "repo": "afumu/openlink",
+    "branch": "main",
+    "language": "Go",
+    "description": "OpenLink让网页版 AI直接访问你的本地文件系统和执行命令。"
+  },
+  {
+    "repo": "restic/restic",
     "branch": "master",
     "language": "Go",
-    "description": "韭菜盘 (JCP AI) - AI 驱动的智能股票分析系统，基于 Wails + Go + React，支持多 Agent 协作分析"
+    "description": "Fast, secure, efficient backup program"
   },
   {
-    "repo": "ziglang/zig",
-    "branch": "master",
-    "language": "Zig",
-    "description": "Moved to Codeberg"
-  },
-  {
-    "repo": "tensorflow/models",
-    "branch": "master",
-    "language": "Python",
-    "description": "Models and examples built with TensorFlow"
-  },
-  {
-    "repo": "prisma/graphql-yoga",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "🧘 Rewrite of a fully-featured GraphQL Server with focus on easy setup, performance & great developer experience.  The core of Yoga implements WHATWG Fetch API and can run/deploy on any JS environment."
-  },
-  {
-    "repo": "tiangolo/fastapi",
-    "branch": "master",
-    "language": "Python",
-    "description": "FastAPI framework, high performance, easy to learn, fast to code, ready for production"
-  },
-  {
-    "repo": "firebase/firebase-android-sdk",
-    "branch": "master",
-    "language": "Java",
-    "description": "Firebase Android SDK"
-  },
-  {
-    "repo": "getify/You-Dont-Know-JS",
-    "branch": "master",
-    "language": "Other",
-    "description": "A book series (2 published editions) on the JS language."
-  },
-  {
-    "repo": "openai/gym",
-    "branch": "master",
-    "language": "Python",
-    "description": "A toolkit for developing and comparing reinforcement learning algorithms."
-  },
-  {
-    "repo": "ipfs/js-ipfs",
-    "branch": "master",
-    "language": "JavaScript",
-    "description": "IPFS implementation in JavaScript"
-  },
-  {
-    "repo": "ngrx/platform",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Reactive State for Angular"
-  },
-  {
-    "repo": "tailwindcss/tailwindcss",
-    "branch": "master",
-    "language": "TypeScript",
-    "description": "A utility-first CSS framework for rapid UI development."
-  },
-  {
-    "repo": "solana-labs/solana",
-    "branch": "master",
-    "language": "Rust",
-    "description": "Web-Scale Blockchain for fast, secure, scalable, decentralized apps and marketplaces."
-  },
-  {
-    "repo": "denoland/deno",
-    "branch": "main",
-    "language": "Rust",
-    "description": "A modern runtime for JavaScript and TypeScript."
-  },
-  {
-    "repo": "SergioBenitez/Rocket",
-    "branch": "master",
-    "language": "Rust",
-    "description": "A web framework for Rust."
-  },
-  {
-    "repo": "socketio/socket.io",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Realtime application framework (Node.JS server)"
-  },
-  {
-    "repo": "facebookresearch/audiocraft",
+    "repo": "openai/openai-cookbook",
     "branch": "main",
     "language": "Jupyter Notebook",
-    "description": "Audiocraft is a library for audio processing and generation with deep learning. It features the state-of-the-art EnCodec audio compressor / tokenizer, along with MusicGen, a simple and controllable music generation LM with textual and melodic conditioning."
+    "description": "Examples and guides for using the OpenAI API"
   },
   {
-    "repo": "fabricjs/fabric.js",
-    "branch": "master",
-    "language": "TypeScript",
-    "description": "Javascript Canvas Library, SVG-to-Canvas (& canvas-to-SVG) Parser"
-  },
-  {
-    "repo": "go-task/task",
-    "branch": "master",
-    "language": "Go",
-    "description": "A task runner / simpler Make alternative written in Go"
-  },
-  {
-    "repo": "istio/api",
-    "branch": "master",
-    "language": "Go",
-    "description": "API definitions for the Istio project"
-  },
-  {
-    "repo": "Snailclimb/JavaGuide",
+    "repo": "composer/composer",
     "branch": "main",
-    "language": "Java",
-    "description": "Java 面试 & 后端通用面试指南，覆盖计算机基础、数据库、分布式、高并发与系统设计。准备后端技术面试，首选 JavaGuide！"
+    "language": "PHP",
+    "description": "Dependency Manager for PHP"
   },
   {
-    "repo": "shelljs/shelljs",
+    "repo": "actions/setup-python",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Set up your GitHub Actions workflow with a specific version of Python"
+  },
+  {
+    "repo": "fastai/fastai",
     "branch": "master",
+    "language": "Jupyter Notebook",
+    "description": "The fastai deep learning library"
+  },
+  {
+    "repo": "asdf-vm/asdf",
+    "branch": "master",
+    "language": "Go",
+    "description": "Extendable version manager with support for Ruby, Node.js, Elixir, Erlang & more"
+  },
+  {
+    "repo": "graphql/graphql-js",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "A reference implementation of GraphQL for JavaScript"
+  },
+  {
+    "repo": "k3s-io/k3s",
+    "branch": "master",
+    "language": "Go",
+    "description": "Lightweight Kubernetes"
+  },
+  {
+    "repo": "clap-rs/clap",
+    "branch": "master",
+    "language": "Rust",
+    "description": "A full featured, fast Command Line Argument Parser for Rust"
+  },
+  {
+    "repo": "Pythagora-io/gpt-pilot",
+    "branch": "main",
+    "language": "Python",
+    "description": "The first real AI developer"
+  },
+  {
+    "repo": "jayminwest/overstory",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Project-agnostic swarm system for Claude Code agent orchestration"
+  },
+  {
+    "repo": "ResearAI/AutoFigure-Edit",
+    "branch": "main",
+    "language": "Python",
+    "description": ""
+  },
+  {
+    "repo": "Lucent-Snow/style-extractor",
+    "branch": "main",
     "language": "JavaScript",
-    "description": ":shell: Portable Unix shell commands for Node.js"
+    "description": "一个能够提取最大化提取网页风格的skill"
   },
   {
-    "repo": "payloadcms/payload",
+    "repo": "kubernetes/minikube",
+    "branch": "master",
+    "language": "Go",
+    "description": "Run Kubernetes locally"
+  },
+  {
+    "repo": "ythx-101/x-tweet-fetcher",
+    "branch": "main",
+    "language": "Python",
+    "description": "🦞 Fetch tweets and replies from X/Twitter without login or API keys. OpenClaw skill."
+  },
+  {
+    "repo": "hashicorp/vault",
+    "branch": "main",
+    "language": "Go",
+    "description": "A tool for secrets management, encryption as a service, and privileged access management"
+  },
+  {
+    "repo": "electron-userland/electron-builder",
+    "branch": "master",
+    "language": "TypeScript",
+    "description": "A complete solution to package and build a ready for distribution Electron app with “auto update” support out of the box"
+  },
+  {
+    "repo": "BlockRunAI/ClawRouter",
     "branch": "main",
     "language": "TypeScript",
-    "description": "Payload is the open-source, fullstack Next.js framework, giving you instant backend superpowers. Get a full TypeScript backend and admin panel instantly. Use Payload as a headless CMS or for building powerful applications."
+    "description": "Smart LLM router — save 78% on inference costs. 30+ models, one wallet, x402 micropayments."
   },
   {
-    "repo": "twbs/bootstrap",
+    "repo": "antirez/tgterm",
     "branch": "main",
-    "language": "MDX",
-    "description": "The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web."
+    "language": "C",
+    "description": "Control your MacOS terminals via Telegram, for fun coding agents interaction and profit"
+  },
+  {
+    "repo": "haiguo123/Agentic-AI-Project-Find-Deal-Opportunities",
+    "branch": "main",
+    "language": "Jupyter Notebook",
+    "description": ""
+  },
+  {
+    "repo": "owncloud/core",
+    "branch": "master",
+    "language": "PHP",
+    "description": ":cloud: ownCloud web server core (Files, DAV, etc.)"
+  },
+  {
+    "repo": "apache/echarts",
+    "branch": "master",
+    "language": "TypeScript",
+    "description": "Apache ECharts is a powerful, interactive charting and data visualization library for browser"
   }
 ]

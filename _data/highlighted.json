@@ -1,8 +1,8 @@
 {
-  "repo": "catsing/oot-pc-port",
+  "repo": "hustvl/Moebius",
   "branch": "main",
-  "language": "C#",
-  "description": "ocarina of time pc port ship of harkinian oot native pc port harbour masters github decompilation project rom extraction asset compiler widescreen support 60fps unlocked framerate hd texture pack custom models randomizer built in retro gaming nintendo 64 pc gaming desktop utility linux macos steam deck compatible graphics enhancement ",
-  "stars": 109,
-  "forks": 0
+  "language": "Python",
+  "description": "[ECCV 2026] Moebius: 0.2B Lightweight Image Inpainting Framework with 10B-Level Performance",
+  "stars": 111,
+  "forks": 13
 }
