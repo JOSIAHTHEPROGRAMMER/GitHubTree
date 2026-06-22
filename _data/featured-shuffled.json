@@ -1,146 +1,146 @@
 [
   {
-    "repo": "indragiek/GHFS",
+    "repo": "Ahmad-progr/claude-leaked-files",
     "branch": "main",
+    "language": "TypeScript",
+    "description": "Mirrored snapshot of Claude Code's source (exposed 2026-03-31) preserved for educational purposes, defensive security research, and software supply-chain analysis."
+  },
+  {
+    "repo": "f/textream",
+    "branch": "master",
     "language": "Swift",
-    "description": "Mount GitHub repositories as a virtual read-only macOS filesystem"
+    "description": "Textream is a free macOS teleprompter app for streamers, interviewers, and presenters. It highlights your script in real-time as you speak, displayed in a beautiful Dynamic Island overlay."
   },
   {
-    "repo": "afumu/openlink",
-    "branch": "main",
-    "language": "Go",
-    "description": "OpenLink让网页版 AI直接访问你的本地文件系统和执行命令。"
-  },
-  {
-    "repo": "restic/restic",
+    "repo": "blendi-remade/sprite-sheet-creator",
     "branch": "master",
-    "language": "Go",
-    "description": "Fast, secure, efficient backup program"
-  },
-  {
-    "repo": "openai/openai-cookbook",
-    "branch": "main",
-    "language": "Jupyter Notebook",
-    "description": "Examples and guides for using the OpenAI API"
-  },
-  {
-    "repo": "composer/composer",
-    "branch": "main",
-    "language": "PHP",
-    "description": "Dependency Manager for PHP"
-  },
-  {
-    "repo": "actions/setup-python",
-    "branch": "main",
     "language": "TypeScript",
-    "description": "Set up your GitHub Actions workflow with a specific version of Python"
+    "description": ""
   },
   {
-    "repo": "fastai/fastai",
-    "branch": "master",
-    "language": "Jupyter Notebook",
-    "description": "The fastai deep learning library"
-  },
-  {
-    "repo": "asdf-vm/asdf",
-    "branch": "master",
-    "language": "Go",
-    "description": "Extendable version manager with support for Ruby, Node.js, Elixir, Erlang & more"
-  },
-  {
-    "repo": "graphql/graphql-js",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "A reference implementation of GraphQL for JavaScript"
-  },
-  {
-    "repo": "k3s-io/k3s",
-    "branch": "master",
-    "language": "Go",
-    "description": "Lightweight Kubernetes"
-  },
-  {
-    "repo": "clap-rs/clap",
+    "repo": "graphprotocol/graph-node",
     "branch": "master",
     "language": "Rust",
-    "description": "A full featured, fast Command Line Argument Parser for Rust"
+    "description": "Graph Node indexes data from blockchains such as Ethereum and serves it over GraphQL"
   },
   {
-    "repo": "Pythagora-io/gpt-pilot",
-    "branch": "main",
-    "language": "Python",
-    "description": "The first real AI developer"
-  },
-  {
-    "repo": "jayminwest/overstory",
+    "repo": "kapishdima/fonttrio",
     "branch": "main",
     "language": "TypeScript",
-    "description": "Project-agnostic swarm system for Claude Code agent orchestration"
+    "description": "Curated font pairing registry for shadcn. Three fonts. One command. Install perfectly configured typography (heading + body + mono) with shadcn add.    Includes editorial-grade type scales, CSS variables, and a live preview site."
   },
   {
-    "repo": "ResearAI/AutoFigure-Edit",
+    "repo": "hashicorp/terraform",
     "branch": "main",
-    "language": "Python",
-    "description": ""
+    "language": "Go",
+    "description": "Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned."
   },
   {
-    "repo": "Lucent-Snow/style-extractor",
+    "repo": "TrendTechVista/polymarket-copy-trading-bot",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "polymarket copy trading bot polymarket copy trading bot polymarket copy trading bot polymarket copy trading bot polymarket copy trading bot polymarket copy trading bot polymarket copy trading bot polymarket copy trading bot polymarket copy trading bot polymarket copy trading bot polymarket copy trading bot polymarket copy trading bot"
+  },
+  {
+    "repo": "joeseesun/knowledge-site-creator",
+    "branch": "main",
+    "language": "Shell",
+    "description": "一句话生成任何领域的知识学习网站 - AI 理解主题，自动创作内容，生成页面，一键部署"
+  },
+  {
+    "repo": "khanhduytran0/coruna",
     "branch": "main",
     "language": "JavaScript",
-    "description": "一个能够提取最大化提取网页风格的skill"
+    "description": "The leaked exploit toolkit for various iOS versions"
   },
   {
-    "repo": "kubernetes/minikube",
-    "branch": "master",
+    "repo": "hzm0321/real-time-fund",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "基金实时估值查看"
+  },
+  {
+    "repo": "distribution/distribution",
+    "branch": "main",
     "language": "Go",
-    "description": "Run Kubernetes locally"
+    "description": "The toolkit to pack, ship, store, and deliver container content"
   },
   {
-    "repo": "ythx-101/x-tweet-fetcher",
+    "repo": "mosaicml/llm-foundry",
     "branch": "main",
     "language": "Python",
-    "description": "🦞 Fetch tweets and replies from X/Twitter without login or API keys. OpenClaw skill."
+    "description": "LLM training code for Databricks foundation models"
   },
   {
-    "repo": "hashicorp/vault",
+    "repo": "ory/kratos",
+    "branch": "master",
+    "language": "Go",
+    "description": "Headless cloud-native authentication and identity management written in Go. Scales to a billion+ users. Replace Homegrown, Auth0, Okta, Firebase with better UX and DX. Passkeys, Social Sign In, OIDC, Magic Link, Multi-Factor Auth, SMS, SAML, TOTP, and more. Runs everywhere, runs best on Ory Network."
+  },
+  {
+    "repo": "iCHAIT/awesome-macOS",
+    "branch": "master",
+    "language": "Other",
+    "description": " A curated list of awesome applications, softwares, tools and shiny things for macOS."
+  },
+  {
+    "repo": "NCSC-NL/spring4shell",
+    "branch": "main",
+    "language": "Other",
+    "description": "Operational information regarding the Spring4Shell vulnerability in the Spring Core Framework"
+  },
+  {
+    "repo": "scalessec/Toast-Swift",
+    "branch": "master",
+    "language": "Swift",
+    "description": "A Swift extension that adds toast notifications to the UIView object class."
+  },
+  {
+    "repo": "audacity/audacity",
+    "branch": "master",
+    "language": "C++",
+    "description": "Audio Editor"
+  },
+  {
+    "repo": "open-policy-agent/opa",
     "branch": "main",
     "language": "Go",
-    "description": "A tool for secrets management, encryption as a service, and privileged access management"
+    "description": "Open Policy Agent (OPA) is an open source, general-purpose policy engine."
   },
   {
-    "repo": "electron-userland/electron-builder",
-    "branch": "master",
-    "language": "TypeScript",
-    "description": "A complete solution to package and build a ready for distribution Electron app with “auto update” support out of the box"
-  },
-  {
-    "repo": "BlockRunAI/ClawRouter",
+    "repo": "peteromallet/desloppify",
     "branch": "main",
-    "language": "TypeScript",
-    "description": "Smart LLM router — save 78% on inference costs. 30+ models, one wallet, x402 micropayments."
-  },
-  {
-    "repo": "antirez/tgterm",
-    "branch": "main",
-    "language": "C",
-    "description": "Control your MacOS terminals via Telegram, for fun coding agents interaction and profit"
-  },
-  {
-    "repo": "haiguo123/Agentic-AI-Project-Find-Deal-Opportunities",
-    "branch": "main",
-    "language": "Jupyter Notebook",
+    "language": "Python",
     "description": ""
   },
   {
-    "repo": "owncloud/core",
-    "branch": "master",
-    "language": "PHP",
-    "description": ":cloud: ownCloud web server core (Files, DAV, etc.)"
+    "repo": "moltlaunch/cashclaw",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "An autonomous agent that takes work, does work, gets paid, and gets better at it."
   },
   {
-    "repo": "apache/echarts",
+    "repo": "paritytech/polkadot-sdk",
     "branch": "master",
+    "language": "Rust",
+    "description": "The Parity Polkadot Blockchain SDK"
+  },
+  {
+    "repo": "SeleniumHQ/selenium",
+    "branch": "trunk",
+    "language": "Java",
+    "description": "A browser automation framework and ecosystem."
+  },
+  {
+    "repo": "tikv/tikv",
+    "branch": "master",
+    "language": "Rust",
+    "description": "Distributed transactional key-value database, originally created to complement TiDB"
+  },
+  {
+    "repo": "lobehub/lobe-chat",
+    "branch": "main",
     "language": "TypeScript",
-    "description": "Apache ECharts is a powerful, interactive charting and data visualization library for browser"
+    "description": "🤯 LobeHub - an open-source, modern design AI Agent Workspace. Supports multiple AI providers, Knowledge Base (file upload / RAG ), one click install MCP Marketplace and Artifacts / Thinking. One-click FREE deployment of your private AI Agent application."
   }
 ]

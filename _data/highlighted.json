@@ -1,8 +1,8 @@
 {
-  "repo": "hustvl/Moebius",
+  "repo": "twhsi/skills",
   "branch": "main",
   "language": "Python",
-  "description": "[ECCV 2026] Moebius: 0.2B Lightweight Image Inpainting Framework with 10B-Level Performance",
-  "stars": 111,
-  "forks": 13
+  "description": "Yonghsi Agent Skill library for Codex workflows",
+  "stars": 108,
+  "forks": 16
 }
