@@ -1,75 +1,15 @@
 [
   {
-    "repo": "sneakers-the-rat/ImportantCode",
-    "branch": "main",
-    "language": "Python",
-    "description": "This is a repository with a lot of high profile, high prestige code in it that new programmers can make pull requests to and build their reputation"
-  },
-  {
-    "repo": "tldev/posturr",
-    "branch": "main",
-    "language": "Swift",
-    "description": "A macOS app that blurs your screen when you slouch. Uses Vision framework for real-time posture detection."
-  },
-  {
-    "repo": "mongodb/mongo",
-    "branch": "master",
-    "language": "C++",
-    "description": "The MongoDB Database"
-  },
-  {
-    "repo": "meteor/meteor",
-    "branch": "devel",
-    "language": "JavaScript",
-    "description": "Meteor, the JavaScript App Platform"
-  },
-  {
-    "repo": "zeromicro/go-zero",
-    "branch": "master",
-    "language": "Go",
-    "description": "A cloud-native Go microservices framework with cli tool for productivity."
-  },
-  {
-    "repo": "mgks/GitHubTree",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "Visualise any GitHub repository folder structure. Available as a web app, CLI tool, and node.js library."
-  },
-  {
-    "repo": "elastic/beats",
-    "branch": "main",
-    "language": "Go",
-    "description": ":tropical_fish: Beats - Lightweight shippers for Elasticsearch & Logstash"
-  },
-  {
-    "repo": "ultralytics/yolov5",
-    "branch": "master",
-    "language": "Python",
-    "description": "YOLOv5 🚀 in PyTorch > ONNX > CoreML > TFLite"
-  },
-  {
-    "repo": "Supervisor/supervisor",
-    "branch": "master",
-    "language": "Python",
-    "description": "Supervisor process control system for Unix (supervisord)"
-  },
-  {
-    "repo": "Henrygd/Beszel",
-    "branch": "main",
-    "language": "Go",
-    "description": "Lightweight server monitoring hub with historical data, docker stats, and alerts."
-  },
-  {
-    "repo": "actions/upload-artifact",
+    "repo": "chekusu/mails",
     "branch": "main",
     "language": "TypeScript",
-    "description": "Upload artifacts from your workflow"
+    "description": "email for agents. Built for AI agents that need to send, receive, and understand emails programmatically"
   },
   {
-    "repo": "freeCodeCamp/freeCodeCamp",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free."
+    "repo": "run-bigpig/jcp",
+    "branch": "master",
+    "language": "Go",
+    "description": "韭菜盘 (JCP AI) - AI 驱动的智能股票分析系统，基于 Wails + Go + React，支持多 Agent 协作分析"
   },
   {
     "repo": "ziglang/zig",
@@ -78,10 +18,22 @@
     "description": "Moved to Codeberg"
   },
   {
-    "repo": "ansible/ansible",
-    "branch": "devel",
+    "repo": "tensorflow/models",
+    "branch": "master",
     "language": "Python",
-    "description": "Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy and maintain. Automate everything from code deployment to network configuration to cloud management, in a language that approaches plain English, using SSH, with no agents to install on remote systems. https://docs.ansible.com."
+    "description": "Models and examples built with TensorFlow"
+  },
+  {
+    "repo": "prisma/graphql-yoga",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "🧘 Rewrite of a fully-featured GraphQL Server with focus on easy setup, performance & great developer experience.  The core of Yoga implements WHATWG Fetch API and can run/deploy on any JS environment."
+  },
+  {
+    "repo": "tiangolo/fastapi",
+    "branch": "master",
+    "language": "Python",
+    "description": "FastAPI framework, high performance, easy to learn, fast to code, ready for production"
   },
   {
     "repo": "firebase/firebase-android-sdk",
@@ -90,28 +42,64 @@
     "description": "Firebase Android SDK"
   },
   {
-    "repo": "ruffle-rs/ruffle",
+    "repo": "getify/You-Dont-Know-JS",
+    "branch": "master",
+    "language": "Other",
+    "description": "A book series (2 published editions) on the JS language."
+  },
+  {
+    "repo": "openai/gym",
+    "branch": "master",
+    "language": "Python",
+    "description": "A toolkit for developing and comparing reinforcement learning algorithms."
+  },
+  {
+    "repo": "ipfs/js-ipfs",
+    "branch": "master",
+    "language": "JavaScript",
+    "description": "IPFS implementation in JavaScript"
+  },
+  {
+    "repo": "ngrx/platform",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Reactive State for Angular"
+  },
+  {
+    "repo": "tailwindcss/tailwindcss",
+    "branch": "master",
+    "language": "TypeScript",
+    "description": "A utility-first CSS framework for rapid UI development."
+  },
+  {
+    "repo": "solana-labs/solana",
     "branch": "master",
     "language": "Rust",
-    "description": "A Flash Player emulator written in Rust"
+    "description": "Web-Scale Blockchain for fast, secure, scalable, decentralized apps and marketplaces."
   },
   {
-    "repo": "huggingface/diffusers",
-    "branch": "main",
-    "language": "Python",
-    "description": "🤗 Diffusers: State-of-the-art diffusion models for image, video, and audio generation in PyTorch."
-  },
-  {
-    "repo": "ankitects/anki",
+    "repo": "denoland/deno",
     "branch": "main",
     "language": "Rust",
-    "description": "Anki is a smart spaced repetition flashcard program"
+    "description": "A modern runtime for JavaScript and TypeScript."
   },
   {
-    "repo": "nltk/nltk",
-    "branch": "develop",
-    "language": "Python",
-    "description": "NLTK Source"
+    "repo": "SergioBenitez/Rocket",
+    "branch": "master",
+    "language": "Rust",
+    "description": "A web framework for Rust."
+  },
+  {
+    "repo": "socketio/socket.io",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Realtime application framework (Node.JS server)"
+  },
+  {
+    "repo": "facebookresearch/audiocraft",
+    "branch": "main",
+    "language": "Jupyter Notebook",
+    "description": "Audiocraft is a library for audio processing and generation with deep learning. It features the state-of-the-art EnCodec audio compressor / tokenizer, along with MusicGen, a simple and controllable music generation LM with textual and melodic conditioning."
   },
   {
     "repo": "fabricjs/fabric.js",
@@ -120,27 +108,39 @@
     "description": "Javascript Canvas Library, SVG-to-Canvas (& canvas-to-SVG) Parser"
   },
   {
-    "repo": "prompt-toolkit/python-prompt-toolkit",
+    "repo": "go-task/task",
     "branch": "master",
-    "language": "Python",
-    "description": "Library for building powerful interactive command line applications in Python"
+    "language": "Go",
+    "description": "A task runner / simpler Make alternative written in Go"
   },
   {
-    "repo": "TheAlgorithms/Python",
+    "repo": "istio/api",
     "branch": "master",
-    "language": "Python",
-    "description": "All Algorithms implemented in Python"
+    "language": "Go",
+    "description": "API definitions for the Istio project"
   },
   {
-    "repo": "prisma/prisma",
+    "repo": "Snailclimb/JavaGuide",
+    "branch": "main",
+    "language": "Java",
+    "description": "Java 面试 & 后端通用面试指南，覆盖计算机基础、数据库、分布式、高并发与系统设计。准备后端技术面试，首选 JavaGuide！"
+  },
+  {
+    "repo": "shelljs/shelljs",
+    "branch": "master",
+    "language": "JavaScript",
+    "description": ":shell: Portable Unix shell commands for Node.js"
+  },
+  {
+    "repo": "payloadcms/payload",
     "branch": "main",
     "language": "TypeScript",
-    "description": "Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server, SQLite, MongoDB and CockroachDB"
+    "description": "Payload is the open-source, fullstack Next.js framework, giving you instant backend superpowers. Get a full TypeScript backend and admin panel instantly. Use Payload as a headless CMS or for building powerful applications."
   },
   {
-    "repo": "apache/airflow",
+    "repo": "twbs/bootstrap",
     "branch": "main",
-    "language": "Python",
-    "description": "Apache Airflow - A platform to programmatically author, schedule, and monitor workflows"
+    "language": "MDX",
+    "description": "The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web."
   }
 ]
