@@ -1,146 +1,146 @@
 [
   {
-    "repo": "dev-protocol/polymarket-trading-bot-new",
-    "branch": "master",
-    "language": "Rust",
-    "description": "Polymarket trading bot,Polymarket trading bot, Polymarket trading bot, Polymarket trading bot, Polymarket trading bot, Polymarket trading bot, Polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot,Polymarket trading bot,Polymarket trading bot, Polymarket trading bot, Polymarket trading bot, Polymarket tradin"
-  },
-  {
-    "repo": "jmerelnyc/Photo-agents",
+    "repo": "steven2358/awesome-generative-ai",
     "branch": "main",
-    "language": "Python",
-    "description": "Autonomous self-evolving agents. Vision-grounded layered memory and self-written skills for LLM agents that operate your computer."
-  },
-  {
-    "repo": "chu2bard/pinion-os",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Client SDK, Claude plugin and skill framework for the Pinion protocol. x402 micropayments on Base."
-  },
-  {
-    "repo": "KotlinBy/awesome-kotlin",
-    "branch": "master",
-    "language": "Kotlin",
-    "description": "A curated list of awesome Kotlin related stuff Inspired by awesome-java."
-  },
-  {
-    "repo": "bahdotsh/mdterm",
-    "branch": "main",
-    "language": "Rust",
-    "description": "A terminal-based Markdown browser."
-  },
-  {
-    "repo": "tophant-ai/ClawVault",
-    "branch": "main",
-    "language": "Python",
-    "description": "OpenClaw Security Vault — Atomic claw control: every AI reach, within your sight."
-  },
-  {
-    "repo": "unjs/nitro",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Next Generation Server Toolkit. Create web servers with everything you need and deploy them wherever you prefer."
-  },
-  {
-    "repo": "n8n-io/n8n",
-    "branch": "master",
-    "language": "TypeScript",
-    "description": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations."
-  },
-  {
-    "repo": "vuejs/awesome-vue",
-    "branch": "master",
     "language": "Other",
-    "description": "🎉 A curated list of awesome things related to Vue.js"
+    "description": "A curated list of modern Generative Artificial Intelligence projects and services"
   },
   {
-    "repo": "bentoml/BentoML",
+    "repo": "Tencent-Hunyuan/Hy-Embodied-0.5-VLA",
     "branch": "main",
     "language": "Python",
-    "description": "The easiest way to serve AI apps and models - Build Model Inference APIs, Job queues, LLM apps, Multi-model pipelines, and more!"
+    "description": "From Vision-Language-Action Models to a Real-World Robot Learning Stack"
   },
   {
-    "repo": "joeseesun/qiaomu-mondo-poster-design",
-    "branch": "master",
-    "language": "Python",
-    "description": "一句话生成大师级海报、书籍封面、专辑封面和各类设计作品。无需懂PS、配色或艺术史，AI自动选择最佳风格（基于20位传奇海报设计师）。支持电影海报、读书笔记、公众号封面、小红书配图等。默认9:16竖版，完美适配社交媒体。包含AI提示词优化、风格对比、图生图转换功能。触发词：Mondo风格、书籍封"
-  },
-  {
-    "repo": "cs109/2015",
-    "branch": "master",
-    "language": "Other",
-    "description": "Public material for CS109"
-  },
-  {
-    "repo": "protocolbuffers/protobuf",
-    "branch": "main",
-    "language": "C++",
-    "description": "Protocol Buffers - Google's data interchange format"
-  },
-  {
-    "repo": "AMAP-ML/MathForge",
-    "branch": "main",
-    "language": "Python",
-    "description": "(ICLR 2026) Harder Is Better: Boosting Mathematical Reasoning via Difficulty-Aware GRPO and Multi-Aspect Question Reformulation"
-  },
-  {
-    "repo": "facebook/hermes",
+    "repo": "DaveMoudy/SalesforceDocGen",
     "branch": "main",
     "language": "JavaScript",
-    "description": "A JavaScript engine optimized for running React Native."
+    "description": "This package contains all the parts and moving pieces needed to run the DocGen app in Salesforce."
   },
   {
-    "repo": "marilyn4120shaz3/KiteAI",
+    "repo": "mosaxiv/picoclaw",
     "branch": "main",
-    "language": "Python",
-    "description": "Automated multi-account farming tool for Kite AI decentralized payment network with faucet claims, token staking, DEX swaps, daily quiz completion, cross-chain bridging, proxy rotation, and configurable task scheduling"
-  },
-  {
-    "repo": "Kaleighc793/freqtrade-bot",
-    "branch": "main",
-    "language": "Python",
-    "description": "Freqtrade — Configuration and management tool for the Freqtrade open-source crypto trading bot with strategy backtesting, live/dry-run modes, 10+ exchange support (Binance, Kraken, OKX), hyperparameter optimization, FreqUI dashboard, and Rich terminal menu interface"
-  },
-  {
-    "repo": "sindresorhus/awesome",
-    "branch": "main",
-    "language": "Other",
-    "description": "😎 Awesome lists about all kinds of interesting topics"
-  },
-  {
-    "repo": "ory/hydra",
-    "branch": "master",
     "language": "Go",
-    "description": "Internet-scale OpenID Certified™ OpenID Connect and OAuth2.1 provider that integrates with your user management through headless APIs. Solve OIDC/OAuth2 user cases over night. Consume as a service on Ory Network or self-host. Trusted by OpenAI and many others for scale and security. Written in Go."
+    "description": "Lightweight Personal AI Assistant (Single Binary, Simple Setup)"
   },
   {
-    "repo": "jackwener/xhs-cli",
-    "branch": "main",
-    "language": "Python",
-    "description": "小红书命令行工具 — 搜索、阅读、点赞、收藏、评论，全在终端完成 | Xiaohongshu CLI"
+    "repo": "id-Software/DOOM",
+    "branch": "master",
+    "language": "C++",
+    "description": "DOOM Open Source Release"
   },
   {
-    "repo": "mre/awesome-static-analysis",
+    "repo": "Solido/awesome-flutter",
+    "branch": "master",
+    "language": "Dart",
+    "description": "An awesome list that curates the best Flutter libraries, tools, tutorials, articles and more."
+  },
+  {
+    "repo": "FuelLabs/fuel-core",
     "branch": "master",
     "language": "Rust",
-    "description": "⚙️ A curated list of static analysis (SAST) tools and linters for all programming languages, config files, build tools, and more. The focus is on tools which improve code quality."
+    "description": "Rust full node implementation of the Fuel v2 protocol."
   },
   {
-    "repo": "ynsmroztas/AndroHunter",
+    "repo": "android-bench/android-bench",
     "branch": "main",
+    "language": "Python",
+    "description": "Android Bench is a framework for benchmarking Large Language Models (LLMs) on Android development tasks. It evaluates an AI model's ability to understand mobile codebases, generate accurate patches, and solve Android-specific engineering problems."
+  },
+  {
+    "repo": "confluentinc/schema-registry",
+    "branch": "master",
     "language": "Java",
-    "description": "AndroHunter"
+    "description": "Confluent Schema Registry for Kafka"
   },
   {
-    "repo": "llvm/llvm-project",
+    "repo": "schibsted/videofy_minimal",
     "branch": "main",
-    "language": "LLVM",
-    "description": "The LLVM Project is a collection of modular and reusable compiler and toolchain technologies."
+    "language": "TypeScript",
+    "description": ""
   },
   {
-    "repo": "ray-project/ray",
+    "repo": "sgInnora/alipay-deeplink-research",
+    "branch": "main",
+    "language": "HTML",
+    "description": "Alipay DeepLink + JSBridge Security Research - 17 Verified Vulnerabilities | 支付宝DeepLink安全研究 | Full Report: innora.ai/zfb"
+  },
+  {
+    "repo": "CMU-Perceptual-Computing-Lab/openpose",
+    "branch": "master",
+    "language": "C++",
+    "description": "OpenPose: Real-time multi-person keypoint detection library for body, face, hands, and foot estimation"
+  },
+  {
+    "repo": "redis/hiredis",
+    "branch": "master",
+    "language": "C",
+    "description": "Minimalistic C client for Redis >= 1.2"
+  },
+  {
+    "repo": "dev-protocol/polymarket-ai-trading-bot",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "polymarket trading bot polymarket copy trading bot polymarket copy trading bot polymarket trading bot polymarket trading bot polymarket botpolymarket trading bot polymarket copy trading bot polymarket copy trading bot polymarket trading bot polymarket trading ML pipeline for Polymarket crypto 15m: predict UP token move in 5s from"
+  },
+  {
+    "repo": "edgedb/edgedb",
     "branch": "master",
     "language": "Python",
-    "description": "Ray is an AI compute engine. Ray consists of a core distributed runtime and a set of AI Libraries for accelerating ML workloads."
+    "description": "Gel supercharges Postgres with a modern data model, graph queries, Auth & AI solutions, and much more."
+  },
+  {
+    "repo": "rust-lang/book",
+    "branch": "main",
+    "language": "Rust",
+    "description": "The Rust Programming Language"
+  },
+  {
+    "repo": "data-science-on-aws/data-science-on-aws",
+    "branch": "master",
+    "language": "Jupyter Notebook",
+    "description": "AI and Machine Learning with Kubeflow, Amazon EKS, and SageMaker"
+  },
+  {
+    "repo": "fermyon/spin",
+    "branch": "main",
+    "language": "Rust",
+    "description": "Spin is the open source developer tool for building and running serverless applications powered by WebAssembly."
+  },
+  {
+    "repo": "LedgerHQ/ledger-live",
+    "branch": "develop",
+    "language": "JavaScript",
+    "description": "Mono-repository for packages related to Ledger Live and its JavaScript ecosystem."
+  },
+  {
+    "repo": "vsouza/awesome-ios",
+    "branch": "master",
+    "language": "Swift",
+    "description": "A curated list of awesome iOS ecosystem, including Objective-C and Swift Projects"
+  },
+  {
+    "repo": "gorkem-bwl/animated-icons",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": ""
+  },
+  {
+    "repo": "projectdiscovery/nuclei",
+    "branch": "master",
+    "language": "Go",
+    "description": "Nuclei is a fast, customizable vulnerability scanner powered by the global security community and built on a simple YAML-based DSL, enabling collaboration to tackle trending vulnerabilities on the internet. It helps you find vulnerabilities in your applications, APIs, networks, DNS, and cloud configurations."
+  },
+  {
+    "repo": "BuilderIO/mitosis",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Write components once, run everywhere. Compiles to React, Vue, Qwik, Solid, Angular, Svelte, and more."
+  },
+  {
+    "repo": "run-bigpig/jcp",
+    "branch": "master",
+    "language": "Go",
+    "description": "韭菜盘 (JCP AI) - AI 驱动的智能股票分析系统，基于 Wails + Go + React，支持多 Agent 协作分析"
   }
 ]

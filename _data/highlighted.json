@@ -3,6 +3,6 @@
   "branch": "main",
   "language": "Swift",
   "description": "Ember — a native, accessible Hacker News reader for iOS, built in SwiftUI with no third-party dependencies.",
-  "stars": 110,
-  "forks": 5
+  "stars": 113,
+  "forks": 6
 }
