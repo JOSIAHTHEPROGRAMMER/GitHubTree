@@ -1,8 +1,8 @@
 {
-  "repo": "twhsi/skills",
+  "repo": "DatanoiseTV/ember-hackernews",
   "branch": "main",
-  "language": "Python",
-  "description": "Yonghsi Agent Skill library for Codex workflows",
-  "stars": 108,
-  "forks": 16
+  "language": "Swift",
+  "description": "Ember — a native, accessible Hacker News reader for iOS, built in SwiftUI with no third-party dependencies.",
+  "stars": 110,
+  "forks": 5
 }

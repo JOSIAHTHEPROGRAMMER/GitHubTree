@@ -1,146 +1,146 @@
 [
   {
-    "repo": "Ahmad-progr/claude-leaked-files",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Mirrored snapshot of Claude Code's source (exposed 2026-03-31) preserved for educational purposes, defensive security research, and software supply-chain analysis."
-  },
-  {
-    "repo": "f/textream",
-    "branch": "master",
-    "language": "Swift",
-    "description": "Textream is a free macOS teleprompter app for streamers, interviewers, and presenters. It highlights your script in real-time as you speak, displayed in a beautiful Dynamic Island overlay."
-  },
-  {
-    "repo": "blendi-remade/sprite-sheet-creator",
-    "branch": "master",
-    "language": "TypeScript",
-    "description": ""
-  },
-  {
-    "repo": "graphprotocol/graph-node",
+    "repo": "dev-protocol/polymarket-trading-bot-new",
     "branch": "master",
     "language": "Rust",
-    "description": "Graph Node indexes data from blockchains such as Ethereum and serves it over GraphQL"
+    "description": "Polymarket trading bot,Polymarket trading bot, Polymarket trading bot, Polymarket trading bot, Polymarket trading bot, Polymarket trading bot, Polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot,Polymarket trading bot,Polymarket trading bot, Polymarket trading bot, Polymarket trading bot, Polymarket tradin"
   },
   {
-    "repo": "kapishdima/fonttrio",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Curated font pairing registry for shadcn. Three fonts. One command. Install perfectly configured typography (heading + body + mono) with shadcn add.    Includes editorial-grade type scales, CSS variables, and a live preview site."
-  },
-  {
-    "repo": "hashicorp/terraform",
-    "branch": "main",
-    "language": "Go",
-    "description": "Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned."
-  },
-  {
-    "repo": "TrendTechVista/polymarket-copy-trading-bot",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "polymarket copy trading bot polymarket copy trading bot polymarket copy trading bot polymarket copy trading bot polymarket copy trading bot polymarket copy trading bot polymarket copy trading bot polymarket copy trading bot polymarket copy trading bot polymarket copy trading bot polymarket copy trading bot polymarket copy trading bot"
-  },
-  {
-    "repo": "joeseesun/knowledge-site-creator",
-    "branch": "main",
-    "language": "Shell",
-    "description": "一句话生成任何领域的知识学习网站 - AI 理解主题，自动创作内容，生成页面，一键部署"
-  },
-  {
-    "repo": "khanhduytran0/coruna",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "The leaked exploit toolkit for various iOS versions"
-  },
-  {
-    "repo": "hzm0321/real-time-fund",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "基金实时估值查看"
-  },
-  {
-    "repo": "distribution/distribution",
-    "branch": "main",
-    "language": "Go",
-    "description": "The toolkit to pack, ship, store, and deliver container content"
-  },
-  {
-    "repo": "mosaicml/llm-foundry",
+    "repo": "jmerelnyc/Photo-agents",
     "branch": "main",
     "language": "Python",
-    "description": "LLM training code for Databricks foundation models"
+    "description": "Autonomous self-evolving agents. Vision-grounded layered memory and self-written skills for LLM agents that operate your computer."
   },
   {
-    "repo": "ory/kratos",
-    "branch": "master",
-    "language": "Go",
-    "description": "Headless cloud-native authentication and identity management written in Go. Scales to a billion+ users. Replace Homegrown, Auth0, Okta, Firebase with better UX and DX. Passkeys, Social Sign In, OIDC, Magic Link, Multi-Factor Auth, SMS, SAML, TOTP, and more. Runs everywhere, runs best on Ory Network."
-  },
-  {
-    "repo": "iCHAIT/awesome-macOS",
-    "branch": "master",
-    "language": "Other",
-    "description": " A curated list of awesome applications, softwares, tools and shiny things for macOS."
-  },
-  {
-    "repo": "NCSC-NL/spring4shell",
+    "repo": "chu2bard/pinion-os",
     "branch": "main",
+    "language": "TypeScript",
+    "description": "Client SDK, Claude plugin and skill framework for the Pinion protocol. x402 micropayments on Base."
+  },
+  {
+    "repo": "KotlinBy/awesome-kotlin",
+    "branch": "master",
+    "language": "Kotlin",
+    "description": "A curated list of awesome Kotlin related stuff Inspired by awesome-java."
+  },
+  {
+    "repo": "bahdotsh/mdterm",
+    "branch": "main",
+    "language": "Rust",
+    "description": "A terminal-based Markdown browser."
+  },
+  {
+    "repo": "tophant-ai/ClawVault",
+    "branch": "main",
+    "language": "Python",
+    "description": "OpenClaw Security Vault — Atomic claw control: every AI reach, within your sight."
+  },
+  {
+    "repo": "unjs/nitro",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Next Generation Server Toolkit. Create web servers with everything you need and deploy them wherever you prefer."
+  },
+  {
+    "repo": "n8n-io/n8n",
+    "branch": "master",
+    "language": "TypeScript",
+    "description": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations."
+  },
+  {
+    "repo": "vuejs/awesome-vue",
+    "branch": "master",
     "language": "Other",
-    "description": "Operational information regarding the Spring4Shell vulnerability in the Spring Core Framework"
+    "description": "🎉 A curated list of awesome things related to Vue.js"
   },
   {
-    "repo": "scalessec/Toast-Swift",
-    "branch": "master",
-    "language": "Swift",
-    "description": "A Swift extension that adds toast notifications to the UIView object class."
+    "repo": "bentoml/BentoML",
+    "branch": "main",
+    "language": "Python",
+    "description": "The easiest way to serve AI apps and models - Build Model Inference APIs, Job queues, LLM apps, Multi-model pipelines, and more!"
   },
   {
-    "repo": "audacity/audacity",
+    "repo": "joeseesun/qiaomu-mondo-poster-design",
     "branch": "master",
+    "language": "Python",
+    "description": "一句话生成大师级海报、书籍封面、专辑封面和各类设计作品。无需懂PS、配色或艺术史，AI自动选择最佳风格（基于20位传奇海报设计师）。支持电影海报、读书笔记、公众号封面、小红书配图等。默认9:16竖版，完美适配社交媒体。包含AI提示词优化、风格对比、图生图转换功能。触发词：Mondo风格、书籍封"
+  },
+  {
+    "repo": "cs109/2015",
+    "branch": "master",
+    "language": "Other",
+    "description": "Public material for CS109"
+  },
+  {
+    "repo": "protocolbuffers/protobuf",
+    "branch": "main",
     "language": "C++",
-    "description": "Audio Editor"
+    "description": "Protocol Buffers - Google's data interchange format"
   },
   {
-    "repo": "open-policy-agent/opa",
-    "branch": "main",
-    "language": "Go",
-    "description": "Open Policy Agent (OPA) is an open source, general-purpose policy engine."
-  },
-  {
-    "repo": "peteromallet/desloppify",
+    "repo": "AMAP-ML/MathForge",
     "branch": "main",
     "language": "Python",
-    "description": ""
+    "description": "(ICLR 2026) Harder Is Better: Boosting Mathematical Reasoning via Difficulty-Aware GRPO and Multi-Aspect Question Reformulation"
   },
   {
-    "repo": "moltlaunch/cashclaw",
+    "repo": "facebook/hermes",
     "branch": "main",
-    "language": "TypeScript",
-    "description": "An autonomous agent that takes work, does work, gets paid, and gets better at it."
+    "language": "JavaScript",
+    "description": "A JavaScript engine optimized for running React Native."
   },
   {
-    "repo": "paritytech/polkadot-sdk",
+    "repo": "marilyn4120shaz3/KiteAI",
+    "branch": "main",
+    "language": "Python",
+    "description": "Automated multi-account farming tool for Kite AI decentralized payment network with faucet claims, token staking, DEX swaps, daily quiz completion, cross-chain bridging, proxy rotation, and configurable task scheduling"
+  },
+  {
+    "repo": "Kaleighc793/freqtrade-bot",
+    "branch": "main",
+    "language": "Python",
+    "description": "Freqtrade — Configuration and management tool for the Freqtrade open-source crypto trading bot with strategy backtesting, live/dry-run modes, 10+ exchange support (Binance, Kraken, OKX), hyperparameter optimization, FreqUI dashboard, and Rich terminal menu interface"
+  },
+  {
+    "repo": "sindresorhus/awesome",
+    "branch": "main",
+    "language": "Other",
+    "description": "😎 Awesome lists about all kinds of interesting topics"
+  },
+  {
+    "repo": "ory/hydra",
+    "branch": "master",
+    "language": "Go",
+    "description": "Internet-scale OpenID Certified™ OpenID Connect and OAuth2.1 provider that integrates with your user management through headless APIs. Solve OIDC/OAuth2 user cases over night. Consume as a service on Ory Network or self-host. Trusted by OpenAI and many others for scale and security. Written in Go."
+  },
+  {
+    "repo": "jackwener/xhs-cli",
+    "branch": "main",
+    "language": "Python",
+    "description": "小红书命令行工具 — 搜索、阅读、点赞、收藏、评论，全在终端完成 | Xiaohongshu CLI"
+  },
+  {
+    "repo": "mre/awesome-static-analysis",
     "branch": "master",
     "language": "Rust",
-    "description": "The Parity Polkadot Blockchain SDK"
+    "description": "⚙️ A curated list of static analysis (SAST) tools and linters for all programming languages, config files, build tools, and more. The focus is on tools which improve code quality."
   },
   {
-    "repo": "SeleniumHQ/selenium",
-    "branch": "trunk",
+    "repo": "ynsmroztas/AndroHunter",
+    "branch": "main",
     "language": "Java",
-    "description": "A browser automation framework and ecosystem."
+    "description": "AndroHunter"
   },
   {
-    "repo": "tikv/tikv",
-    "branch": "master",
-    "language": "Rust",
-    "description": "Distributed transactional key-value database, originally created to complement TiDB"
-  },
-  {
-    "repo": "lobehub/lobe-chat",
+    "repo": "llvm/llvm-project",
     "branch": "main",
-    "language": "TypeScript",
-    "description": "🤯 LobeHub - an open-source, modern design AI Agent Workspace. Supports multiple AI providers, Knowledge Base (file upload / RAG ), one click install MCP Marketplace and Artifacts / Thinking. One-click FREE deployment of your private AI Agent application."
+    "language": "LLVM",
+    "description": "The LLVM Project is a collection of modular and reusable compiler and toolchain technologies."
+  },
+  {
+    "repo": "ray-project/ray",
+    "branch": "master",
+    "language": "Python",
+    "description": "Ray is an AI compute engine. Ray consists of a core distributed runtime and a set of AI Libraries for accelerating ML workloads."
   }
 ]
