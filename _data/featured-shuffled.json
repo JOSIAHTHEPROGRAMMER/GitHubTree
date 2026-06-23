@@ -1,63 +1,117 @@
 [
   {
-    "repo": "0Voice/Expert_Readed_Books",
-    "branch": "master",
-    "language": "Other",
-    "description": "2021年最新总结，推荐工程师合适读本，计算机科学，软件技术，创业，思想类，数学类，人物传记书籍"
+    "repo": "nextui-org/nextui",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "🚀 Beautiful, fast and modern React UI library. (Previously NextUI)"
   },
   {
-    "repo": "yarnpkg/yarn",
+    "repo": "CodeSeven/toastr",
     "branch": "master",
     "language": "JavaScript",
-    "description": "The 1.x line is frozen - features and bugfixes now happen on https://github.com/yarnpkg/berry"
+    "description": "Simple javascript toast notifications"
   },
   {
-    "repo": "intertwine/dspy-agent-skills",
+    "repo": "xiongqi123123/awesome-rebuttal",
     "branch": "main",
-    "language": "Python",
-    "description": "DSPy 3.1.x agent skills + validated end-to-end examples for Claude Code and Codex CLI — fundamentals, evaluation, GEPA optimization, and RLM. Three reproducible GEPA-improvement demos on free OpenRouter models."
+    "language": "TeX",
+    "description": "a skill for rebuttal"
   },
   {
-    "repo": "kubernetes-sigs/kustomize",
+    "repo": "nteract/nteract",
     "branch": "master",
+    "language": "TypeScript",
+    "description": "📘 The interactive computing suite for you!  ✨"
+  },
+  {
+    "repo": "sqlite/sqlite",
+    "branch": "master",
+    "language": "C",
+    "description": "Official Git mirror of the SQLite source tree"
+  },
+  {
+    "repo": "ogham/exa",
+    "branch": "master",
+    "language": "Rust",
+    "description": "A modern replacement for ‘ls’."
+  },
+  {
+    "repo": "avelino/awesome-go",
+    "branch": "main",
     "language": "Go",
-    "description": "Customization of kubernetes YAML configurations"
+    "description": "A curated list of awesome Go frameworks, libraries and software"
   },
   {
-    "repo": "lllyasviel/Fooocus",
+    "repo": "MINT-SJTU/RoboClaw",
     "branch": "main",
     "language": "Python",
-    "description": "Focus on prompting and generating"
+    "description": "RoboClaw is an Embodied AI Assistant."
   },
   {
-    "repo": "public-apis/public-apis",
+    "repo": "edgedb/edgedb",
     "branch": "master",
     "language": "Python",
-    "description": "A collective list of free APIs"
+    "description": "Gel supercharges Postgres with a modern data model, graph queries, Auth & AI solutions, and much more."
   },
   {
-    "repo": "saltstack/salt",
-    "branch": "master",
-    "language": "Python",
-    "description": "Software to automate the management and configuration of infrastructure and applications at scale."
-  },
-  {
-    "repo": "ceph/ceph",
+    "repo": "Rabrg/artificial-life",
     "branch": "main",
-    "language": "C++",
-    "description": "Ceph is a distributed object, block, and file storage platform"
+    "language": "Python",
+    "description": "A simple (300 lines of code) reproduction of Computational Life: How Well-formed, Self-replicating Programs Emerge from Simple Interaction"
   },
   {
-    "repo": "adamveld12/ghost",
+    "repo": "solidjs-community/solid-primitives",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "A library of high-quality primitives that extend SolidJS reactivity."
+  },
+  {
+    "repo": "okooo5km/Skills4U",
+    "branch": "main",
+    "language": "TeX",
+    "description": "Skills here"
+  },
+  {
+    "repo": "daniel3303/ClaudeCodeStatusLine",
     "branch": "main",
     "language": "Shell",
-    "description": "Git is the coding agent"
+    "description": ""
   },
   {
-    "repo": "falcosecurity/falco",
-    "branch": "master",
+    "repo": "socketio/socket.io",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Realtime application framework (Node.JS server)"
+  },
+  {
+    "repo": "keepassxreboot/keepassxc",
+    "branch": "develop",
     "language": "C++",
-    "description": "Cloud Native Runtime Security"
+    "description": "KeePassXC is a cross-platform community-driven port of the Windows application “KeePass Password Safe”."
+  },
+  {
+    "repo": "atom/atom",
+    "branch": "master",
+    "language": "JavaScript",
+    "description": ":atom: The hackable text editor"
+  },
+  {
+    "repo": "sqlalchemy/sqlalchemy",
+    "branch": "main",
+    "language": "Python",
+    "description": "The Database Toolkit for Python"
+  },
+  {
+    "repo": "PowerShell/vscode-powershell",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Provides PowerShell language and debugging support for Visual Studio Code"
+  },
+  {
+    "repo": "Ultimaker/Cura",
+    "branch": "main",
+    "language": "Python",
+    "description": "3D printer / slicing GUI built on top of the Uranium framework"
   },
   {
     "repo": "inliver233/Ai-Novel",
@@ -66,81 +120,27 @@
     "description": "强大的ai小说创作网站"
   },
   {
-    "repo": "harshkedia177/axon",
-    "branch": "main",
-    "language": "Python",
-    "description": "Graph-powered code intelligence engine — indexes codebases into a knowledge graph, exposed via MCP tools for AI agents and a CLI for developers."
+    "repo": "raspberrypi/linux",
+    "branch": "rpi-6.6.y",
+    "language": "C",
+    "description": "Kernel source tree for Raspberry Pi-provided kernel builds. Issues unrelated to the linux kernel should be posted on the community forum at https://forums.raspberrypi.com/"
   },
   {
-    "repo": "zeromicro/go-zero",
+    "repo": "melonjs/melonJS",
     "branch": "master",
-    "language": "Go",
-    "description": "A cloud-native Go microservices framework with cli tool for productivity."
+    "language": "JavaScript",
+    "description": "a fresh, modern & lightweight HTML5 game engine"
   },
   {
-    "repo": "ansible-collections/community.general",
+    "repo": "bababuyyy/unity-isometric-pixel-pipeline",
     "branch": "main",
-    "language": "Python",
-    "description": "Ansible Community General Collection"
+    "language": "ShaderLab",
+    "description": "Pixel art isometric render pipeline for Unity 6 URP — toon shading, GPU grass, outline, sharp upscale"
   },
   {
-    "repo": "r1cA18/screen-commentator",
-    "branch": "main",
-    "language": "Swift",
-    "description": "macOS app that captures your screen and generates scrolling AI comments overlay"
-  },
-  {
-    "repo": "firebase/firebase-android-sdk",
-    "branch": "master",
-    "language": "Java",
-    "description": "Firebase Android SDK"
-  },
-  {
-    "repo": "DefinitelyTyped/DefinitelyTyped",
-    "branch": "master",
-    "language": "TypeScript",
-    "description": "The repository for high quality TypeScript type definitions."
-  },
-  {
-    "repo": "ethanjyx/OpenBrand",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Extract brand assets (logos, colors, backdrops) from any website; open source alternative to Brand.dev"
-  },
-  {
-    "repo": "xM0kht4r/VEN0m-Ransomware",
-    "branch": "main",
-    "language": "Rust",
-    "description": "Fully undetectable and evasive ransomware written in Rust, leveraging a BYOVD technique to disable AV/EDR solutions on the infected systems."
-  },
-  {
-    "repo": "FireRedTeam/FireRed-OCR",
-    "branch": "main",
-    "language": "Python",
-    "description": ""
-  },
-  {
-    "repo": "ReactiveX/RxSwift",
-    "branch": "main",
-    "language": "Swift",
-    "description": "Reactive Programming in Swift"
-  },
-  {
-    "repo": "vikasprogrammer/walkie",
+    "repo": "LarsenCundric/port-whisperer",
     "branch": "main",
     "language": "JavaScript",
-    "description": "P2P communication for AI agents. No server. No setup. Just talk."
-  },
-  {
-    "repo": "tnm/zclaw",
-    "branch": "main",
-    "language": "C",
-    "description": "Your personal AI assistant in under 888 KB, running on an ESP32"
-  },
-  {
-    "repo": "golang/go",
-    "branch": "master",
-    "language": "Go",
-    "description": "The Go programming language"
+    "description": "A beautiful CLI tool to see what's running on your ports"
   }
 ]

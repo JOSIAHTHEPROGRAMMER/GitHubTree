@@ -1,8 +1,8 @@
 {
-  "repo": "Rista-student/ryujinx-emulator-latest",
+  "repo": "DatanoiseTV/ember-hackernews",
   "branch": "main",
-  "language": "HTML",
-  "description": "Ryujinx - Best Nintendo Switch Emulator for All Nintendo Games 2026",
-  "stars": 121,
-  "forks": 0
+  "language": "Swift",
+  "description": "Ember — a native, accessible Hacker News reader for iOS, built in SwiftUI with no third-party dependencies.",
+  "stars": 116,
+  "forks": 6
 }
