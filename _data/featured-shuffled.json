@@ -1,146 +1,146 @@
 [
   {
-    "repo": "steven2358/awesome-generative-ai",
-    "branch": "main",
+    "repo": "0Voice/Expert_Readed_Books",
+    "branch": "master",
     "language": "Other",
-    "description": "A curated list of modern Generative Artificial Intelligence projects and services"
+    "description": "2021年最新总结，推荐工程师合适读本，计算机科学，软件技术，创业，思想类，数学类，人物传记书籍"
   },
   {
-    "repo": "Tencent-Hunyuan/Hy-Embodied-0.5-VLA",
+    "repo": "yarnpkg/yarn",
+    "branch": "master",
+    "language": "JavaScript",
+    "description": "The 1.x line is frozen - features and bugfixes now happen on https://github.com/yarnpkg/berry"
+  },
+  {
+    "repo": "intertwine/dspy-agent-skills",
     "branch": "main",
     "language": "Python",
-    "description": "From Vision-Language-Action Models to a Real-World Robot Learning Stack"
+    "description": "DSPy 3.1.x agent skills + validated end-to-end examples for Claude Code and Codex CLI — fundamentals, evaluation, GEPA optimization, and RLM. Three reproducible GEPA-improvement demos on free OpenRouter models."
   },
   {
-    "repo": "DaveMoudy/SalesforceDocGen",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "This package contains all the parts and moving pieces needed to run the DocGen app in Salesforce."
-  },
-  {
-    "repo": "mosaxiv/picoclaw",
-    "branch": "main",
+    "repo": "kubernetes-sigs/kustomize",
+    "branch": "master",
     "language": "Go",
-    "description": "Lightweight Personal AI Assistant (Single Binary, Simple Setup)"
+    "description": "Customization of kubernetes YAML configurations"
   },
   {
-    "repo": "id-Software/DOOM",
+    "repo": "lllyasviel/Fooocus",
+    "branch": "main",
+    "language": "Python",
+    "description": "Focus on prompting and generating"
+  },
+  {
+    "repo": "public-apis/public-apis",
+    "branch": "master",
+    "language": "Python",
+    "description": "A collective list of free APIs"
+  },
+  {
+    "repo": "saltstack/salt",
+    "branch": "master",
+    "language": "Python",
+    "description": "Software to automate the management and configuration of infrastructure and applications at scale."
+  },
+  {
+    "repo": "ceph/ceph",
+    "branch": "main",
+    "language": "C++",
+    "description": "Ceph is a distributed object, block, and file storage platform"
+  },
+  {
+    "repo": "adamveld12/ghost",
+    "branch": "main",
+    "language": "Shell",
+    "description": "Git is the coding agent"
+  },
+  {
+    "repo": "falcosecurity/falco",
     "branch": "master",
     "language": "C++",
-    "description": "DOOM Open Source Release"
+    "description": "Cloud Native Runtime Security"
   },
   {
-    "repo": "Solido/awesome-flutter",
-    "branch": "master",
-    "language": "Dart",
-    "description": "An awesome list that curates the best Flutter libraries, tools, tutorials, articles and more."
-  },
-  {
-    "repo": "FuelLabs/fuel-core",
-    "branch": "master",
-    "language": "Rust",
-    "description": "Rust full node implementation of the Fuel v2 protocol."
-  },
-  {
-    "repo": "android-bench/android-bench",
+    "repo": "inliver233/Ai-Novel",
     "branch": "main",
     "language": "Python",
-    "description": "Android Bench is a framework for benchmarking Large Language Models (LLMs) on Android development tasks. It evaluates an AI model's ability to understand mobile codebases, generate accurate patches, and solve Android-specific engineering problems."
+    "description": "强大的ai小说创作网站"
   },
   {
-    "repo": "confluentinc/schema-registry",
+    "repo": "harshkedia177/axon",
+    "branch": "main",
+    "language": "Python",
+    "description": "Graph-powered code intelligence engine — indexes codebases into a knowledge graph, exposed via MCP tools for AI agents and a CLI for developers."
+  },
+  {
+    "repo": "zeromicro/go-zero",
+    "branch": "master",
+    "language": "Go",
+    "description": "A cloud-native Go microservices framework with cli tool for productivity."
+  },
+  {
+    "repo": "ansible-collections/community.general",
+    "branch": "main",
+    "language": "Python",
+    "description": "Ansible Community General Collection"
+  },
+  {
+    "repo": "r1cA18/screen-commentator",
+    "branch": "main",
+    "language": "Swift",
+    "description": "macOS app that captures your screen and generates scrolling AI comments overlay"
+  },
+  {
+    "repo": "firebase/firebase-android-sdk",
     "branch": "master",
     "language": "Java",
-    "description": "Confluent Schema Registry for Kafka"
+    "description": "Firebase Android SDK"
   },
   {
-    "repo": "schibsted/videofy_minimal",
+    "repo": "DefinitelyTyped/DefinitelyTyped",
+    "branch": "master",
+    "language": "TypeScript",
+    "description": "The repository for high quality TypeScript type definitions."
+  },
+  {
+    "repo": "ethanjyx/OpenBrand",
     "branch": "main",
     "language": "TypeScript",
-    "description": ""
+    "description": "Extract brand assets (logos, colors, backdrops) from any website; open source alternative to Brand.dev"
   },
   {
-    "repo": "sgInnora/alipay-deeplink-research",
+    "repo": "xM0kht4r/VEN0m-Ransomware",
     "branch": "main",
-    "language": "HTML",
-    "description": "Alipay DeepLink + JSBridge Security Research - 17 Verified Vulnerabilities | 支付宝DeepLink安全研究 | Full Report: innora.ai/zfb"
+    "language": "Rust",
+    "description": "Fully undetectable and evasive ransomware written in Rust, leveraging a BYOVD technique to disable AV/EDR solutions on the infected systems."
   },
   {
-    "repo": "CMU-Perceptual-Computing-Lab/openpose",
-    "branch": "master",
-    "language": "C++",
-    "description": "OpenPose: Real-time multi-person keypoint detection library for body, face, hands, and foot estimation"
-  },
-  {
-    "repo": "redis/hiredis",
-    "branch": "master",
-    "language": "C",
-    "description": "Minimalistic C client for Redis >= 1.2"
-  },
-  {
-    "repo": "dev-protocol/polymarket-ai-trading-bot",
+    "repo": "FireRedTeam/FireRed-OCR",
     "branch": "main",
-    "language": "TypeScript",
-    "description": "polymarket trading bot polymarket copy trading bot polymarket copy trading bot polymarket trading bot polymarket trading bot polymarket botpolymarket trading bot polymarket copy trading bot polymarket copy trading bot polymarket trading bot polymarket trading ML pipeline for Polymarket crypto 15m: predict UP token move in 5s from"
-  },
-  {
-    "repo": "edgedb/edgedb",
-    "branch": "master",
     "language": "Python",
-    "description": "Gel supercharges Postgres with a modern data model, graph queries, Auth & AI solutions, and much more."
-  },
-  {
-    "repo": "rust-lang/book",
-    "branch": "main",
-    "language": "Rust",
-    "description": "The Rust Programming Language"
-  },
-  {
-    "repo": "data-science-on-aws/data-science-on-aws",
-    "branch": "master",
-    "language": "Jupyter Notebook",
-    "description": "AI and Machine Learning with Kubeflow, Amazon EKS, and SageMaker"
-  },
-  {
-    "repo": "fermyon/spin",
-    "branch": "main",
-    "language": "Rust",
-    "description": "Spin is the open source developer tool for building and running serverless applications powered by WebAssembly."
-  },
-  {
-    "repo": "LedgerHQ/ledger-live",
-    "branch": "develop",
-    "language": "JavaScript",
-    "description": "Mono-repository for packages related to Ledger Live and its JavaScript ecosystem."
-  },
-  {
-    "repo": "vsouza/awesome-ios",
-    "branch": "master",
-    "language": "Swift",
-    "description": "A curated list of awesome iOS ecosystem, including Objective-C and Swift Projects"
-  },
-  {
-    "repo": "gorkem-bwl/animated-icons",
-    "branch": "main",
-    "language": "JavaScript",
     "description": ""
   },
   {
-    "repo": "projectdiscovery/nuclei",
-    "branch": "master",
-    "language": "Go",
-    "description": "Nuclei is a fast, customizable vulnerability scanner powered by the global security community and built on a simple YAML-based DSL, enabling collaboration to tackle trending vulnerabilities on the internet. It helps you find vulnerabilities in your applications, APIs, networks, DNS, and cloud configurations."
-  },
-  {
-    "repo": "BuilderIO/mitosis",
+    "repo": "ReactiveX/RxSwift",
     "branch": "main",
-    "language": "TypeScript",
-    "description": "Write components once, run everywhere. Compiles to React, Vue, Qwik, Solid, Angular, Svelte, and more."
+    "language": "Swift",
+    "description": "Reactive Programming in Swift"
   },
   {
-    "repo": "run-bigpig/jcp",
+    "repo": "vikasprogrammer/walkie",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "P2P communication for AI agents. No server. No setup. Just talk."
+  },
+  {
+    "repo": "tnm/zclaw",
+    "branch": "main",
+    "language": "C",
+    "description": "Your personal AI assistant in under 888 KB, running on an ESP32"
+  },
+  {
+    "repo": "golang/go",
     "branch": "master",
     "language": "Go",
-    "description": "韭菜盘 (JCP AI) - AI 驱动的智能股票分析系统，基于 Wails + Go + React，支持多 Agent 协作分析"
+    "description": "The Go programming language"
   }
 ]
