@@ -1,87 +1,69 @@
 [
   {
-    "repo": "Timeverse/My-TW-Coverage",
+    "repo": "hzm0321/real-time-fund",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "基金实时估值查看"
+  },
+  {
+    "repo": "wy51ai/edulab",
     "branch": "master",
-    "language": "Python",
-    "description": "Equity research coverage of 1,735 Taiwan-listed companies (TWSE + OTC). Business overviews, supply chain mapping, and financial data with wikilink cross-referencing."
+    "language": "HTML",
+    "description": ""
   },
   {
-    "repo": "abi/screenshot-to-code",
-    "branch": "main",
-    "language": "Python",
-    "description": "Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue)"
-  },
-  {
-    "repo": "FlowiseAI/Flowise",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Build AI Agents, Visually"
-  },
-  {
-    "repo": "argoproj/argo-cd",
-    "branch": "master",
-    "language": "Go",
-    "description": "Declarative Continuous Deployment for Kubernetes"
-  },
-  {
-    "repo": "pyinstaller/pyinstaller",
-    "branch": "develop",
-    "language": "Python",
-    "description": "Freeze (package) Python programs into stand-alone executables"
-  },
-  {
-    "repo": "ImageMagick/ImageMagick",
-    "branch": "main",
-    "language": "C",
-    "description": "ImageMagick is a free, open-source software suite for creating, editing, converting, and displaying images. It supports 200+ formats and offers powerful command-line tools and APIs for automation, scripting, and integration across platforms."
-  },
-  {
-    "repo": "lardissone/ansi-saver",
-    "branch": "main",
-    "language": "Swift",
-    "description": "ANSI art screensaver for macOS — streams art from 16colo.rs BBS archive packs"
-  },
-  {
-    "repo": "vercel-labs/webreel",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Record scripted browser demos as video"
-  },
-  {
-    "repo": "rbenv/rbenv",
-    "branch": "master",
-    "language": "Shell",
-    "description": "Manage your app's Ruby environment"
-  },
-  {
-    "repo": "yarnpkg/berry",
-    "branch": "master",
-    "language": "TypeScript",
-    "description": "📦🐈 Active development trunk for Yarn ⚒"
-  },
-  {
-    "repo": "Zackriya-Solutions/meeting-minutes",
+    "repo": "huggingface/tokenizers",
     "branch": "main",
     "language": "Rust",
-    "description": "Privacy first, AI meeting assistant with 4x faster Parakeet/Whisper live transcription, speaker diarization, and Ollama summarization built on Rust. 100% local processing. no cloud required. Meetily (Meetly Ai - https://meetily.ai) is the #1 Self-hosted,  Open-source Ai meeting note taker for macOS & Windows."
+    "description": "💥 Fast State-of-the-Art Tokenizers optimized for Research and Production"
   },
   {
-    "repo": "ByteDance-Seed/Seed-Thinking-v1.5",
+    "repo": "nuxt/ui",
+    "branch": "dev",
+    "language": "Vue",
+    "description": "The Intuitive Vue UI Library powered by Reka UI & Tailwind CSS."
+  },
+  {
+    "repo": "apple/swift-argument-parser",
     "branch": "main",
-    "language": "Other",
-    "description": "Seed-Thinking-v1.5 Model Release."
+    "language": "Swift",
+    "description": "Straightforward, type-safe argument parsing for Swift"
   },
   {
-    "repo": "elastic/kibana",
+    "repo": "vercel/ai",
     "branch": "main",
     "language": "TypeScript",
-    "description": "Your window into all of your data"
+    "description": "The AI Toolkit for TypeScript. From the creators of Next.js, the AI SDK is a free open-source library for building AI-powered applications and agents"
   },
   {
-    "repo": "Robbyant/lingbot-world",
+    "repo": "inputsh/awesome-linux",
+    "branch": "master",
+    "language": "Other",
+    "description": ":penguin: A list of awesome projects and resources that make Linux even more awesome. :penguin:"
+  },
+  {
+    "repo": "hashicorp/nomad",
+    "branch": "main",
+    "language": "Go",
+    "description": "Nomad is an easy-to-use, flexible, and performant workload orchestrator that can deploy a mix of microservice, batch, containerized, and non-containerized applications. Nomad is easy to operate and scale and has native Consul and Vault integrations."
+  },
+  {
+    "repo": "signalapp/Signal-Android",
+    "branch": "main",
+    "language": "Kotlin",
+    "description": "A private messenger for Android."
+  },
+  {
+    "repo": "Kanaries/pygwalker",
     "branch": "main",
     "language": "Python",
-    "description": "Advancing Open-source World Models"
+    "description": "PyGWalker: Turn your dataframe into an interactive UI for visual analysis"
+  },
+  {
+    "repo": "appium/appium",
+    "branch": "master",
+    "language": "JavaScript",
+    "description": "Cross-platform automation framework for all kinds of apps, built on top of the W3C WebDriver protocol"
   },
   {
     "repo": "spring-cloud/spring-cloud-kubernetes",
@@ -90,57 +72,75 @@
     "description": "Kubernetes integration with Spring Cloud Discovery Client, Configuration, etc..."
   },
   {
-    "repo": "ythx-101/x-tweet-fetcher",
-    "branch": "main",
+    "repo": "cookiecutter/cookiecutter",
+    "branch": "master",
     "language": "Python",
-    "description": "🦞 Fetch tweets and replies from X/Twitter without login or API keys. OpenClaw skill."
+    "description": "A cross-platform command-line utility that creates projects from cookiecutters (project templates), e.g. Python package projects, C projects."
   },
   {
-    "repo": "google-research/vision_transformer",
-    "branch": "main",
-    "language": "Jupyter Notebook",
-    "description": "Vision Transformer in JAX."
-  },
-  {
-    "repo": "storybookjs/testing-react",
+    "repo": "slidevjs/slidev",
     "branch": "main",
     "language": "TypeScript",
-    "description": "Testing utilities that allow you to reuse your Storybook stories in your React unit tests!"
+    "description": "Presentation Slides for Developers"
   },
   {
-    "repo": "Higangssh/gitcredits",
+    "repo": "blender/blender",
     "branch": "main",
-    "language": "Go",
-    "description": "Roll movie-style credits for your git repo — right in the terminal"
+    "language": "C++",
+    "description": "Official mirror of Blender"
   },
   {
-    "repo": "steveclarke/real-world-rails",
-    "branch": "main",
-    "language": "Shell",
-    "description": "200+ production open source Rails apps & engines in one repo. Search across real codebases with AI agents to research architectural patterns."
-  },
-  {
-    "repo": "jamez-bondos/awesome-gpt4o-images",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "Awesome curated collection of images and prompts generated by GPT-4o and gpt-image-1. Explore AI generated visuals created with ChatGPT and Sora, showcasing OpenAI’s advanced image generation capabilities."
-  },
-  {
-    "repo": "appwrite/appwrite",
+    "repo": "coollabsio/jean",
     "branch": "main",
     "language": "TypeScript",
-    "description": "Appwrite® - complete cloud infrastructure for your web, mobile and AI apps. Including Auth, Databases, Storage, Functions, Messaging, Hosting, Realtime and more"
+    "description": "Run AI agents parallel in isolated workspaces."
   },
   {
-    "repo": "excalidraw/excalidraw",
+    "repo": "mpv-player/mpv",
+    "branch": "master",
+    "language": "C",
+    "description": "🎥 Command line media player"
+  },
+  {
+    "repo": "luccast/crabwalk",
     "branch": "master",
     "language": "TypeScript",
-    "description": "Virtual whiteboard for sketching hand-drawn like diagrams"
+    "description": "🦀 Crabwalk 🦀 Real-time companion monitor for Clawdbot agents."
   },
   {
-    "repo": "molefrog/skills",
+    "repo": "Significant-Gravitas/AutoGPT",
+    "branch": "master",
+    "language": "Python",
+    "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters."
+  },
+  {
+    "repo": "apache/httpcomponents-client",
+    "branch": "master",
+    "language": "Java",
+    "description": "Mirror of Apache HttpClient"
+  },
+  {
+    "repo": "tanaer/WindowsClear",
     "branch": "main",
-    "language": "TypeScript",
-    "description": "❈ Claude skill for generating high-quality PDFs using react-pdf"
+    "language": "Rust",
+    "description": "Windows C盘清理工具/C盘瘦身工具，还你Appdata的大量硬盘空间 | Windows System disk cleanup, returning a large amount of hard drive space from your Appdata"
+  },
+  {
+    "repo": "typesense/typesense",
+    "branch": "master",
+    "language": "C++",
+    "description": "Open Source alternative to Algolia + Pinecone and an Easier-to-Use alternative to ElasticSearch ⚡ 🔍 ✨ Fast, typo tolerant, in-memory fuzzy Search Engine for building delightful search experiences"
+  },
+  {
+    "repo": "rest-assured/rest-assured",
+    "branch": "master",
+    "language": "Java",
+    "description": "Java DSL for easy testing of REST services"
+  },
+  {
+    "repo": "micronaut-projects/micronaut-core",
+    "branch": "4.3.x",
+    "language": "Java",
+    "description": "Micronaut Application Framework"
   }
 ]
