@@ -1,63 +1,81 @@
 [
   {
-    "repo": "nextui-org/nextui",
+    "repo": "enmanuelmag/agent-harness-kit",
     "branch": "main",
     "language": "TypeScript",
-    "description": "🚀 Beautiful, fast and modern React UI library. (Previously NextUI)"
+    "description": "A provider-agnostic scaffolding kit for running structured multi-agent workflows in your codebase."
   },
   {
-    "repo": "CodeSeven/toastr",
-    "branch": "master",
-    "language": "JavaScript",
-    "description": "Simple javascript toast notifications"
-  },
-  {
-    "repo": "xiongqi123123/awesome-rebuttal",
+    "repo": "donghuixin/AI-Vibe-Writing-Skills",
     "branch": "main",
-    "language": "TeX",
-    "description": "a skill for rebuttal"
+    "language": "Python",
+    "description": "Using AI for high quality writing"
   },
   {
-    "repo": "nteract/nteract",
-    "branch": "master",
+    "repo": "ygwyg/MAHORAGA",
+    "branch": "main",
     "language": "TypeScript",
-    "description": "📘 The interactive computing suite for you!  ✨"
+    "description": "autonomous trading agent powered by social sentiment analysis and ai that learns, grows, and adapts"
   },
   {
-    "repo": "sqlite/sqlite",
+    "repo": "ahmadawais/chartli",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "CLI that turns plain numbers into terminal charts. ascii, spark, bars, columns, heatmap, unicode, braille, svg."
+  },
+  {
+    "repo": "Lethalchip/SpaceChatDB",
+    "branch": "main",
+    "language": "Rust",
+    "description": ""
+  },
+  {
+    "repo": "mandel-macaque/memento",
+    "branch": "main",
+    "language": "F#",
+    "description": "Keep track of you codex sessions per commit"
+  },
+  {
+    "repo": "mitjafelicijan/xdgctl",
     "branch": "master",
     "language": "C",
-    "description": "Official Git mirror of the SQLite source tree"
+    "description": "TUI for managing XDG default applications"
   },
   {
-    "repo": "ogham/exa",
+    "repo": "Eronred/aso-skills",
+    "branch": "main",
+    "language": "Shell",
+    "description": "AI agent skills for App Store Optimization (ASO) and mobile app marketing. Built for indie developers, app marketers, and growth teams who want Cursor, Claude Code, or any Agent Skills-compatible AI assistant to help with keyword research, metadata optimization, competitor analysis, and app growth."
+  },
+  {
+    "repo": "TrendTechVista/polymarket-copy-trading-bot",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "polymarket copy trading bot polymarket copy trading bot polymarket copy trading bot polymarket copy trading bot polymarket copy trading bot polymarket copy trading bot polymarket copy trading bot polymarket copy trading bot polymarket copy trading bot polymarket copy trading bot polymarket copy trading bot polymarket copy trading bot"
+  },
+  {
+    "repo": "jaywcjlove/awesome-mac",
     "branch": "master",
-    "language": "Rust",
-    "description": "A modern replacement for ‘ls’."
+    "language": "JavaScript",
+    "description": " Now we have become very big, Different from the original idea. Collect premium software in various categories."
   },
   {
-    "repo": "avelino/awesome-go",
-    "branch": "main",
-    "language": "Go",
-    "description": "A curated list of awesome Go frameworks, libraries and software"
-  },
-  {
-    "repo": "MINT-SJTU/RoboClaw",
-    "branch": "main",
-    "language": "Python",
-    "description": "RoboClaw is an Embodied AI Assistant."
-  },
-  {
-    "repo": "edgedb/edgedb",
+    "repo": "tiimgreen/github-cheat-sheet",
     "branch": "master",
-    "language": "Python",
-    "description": "Gel supercharges Postgres with a modern data model, graph queries, Auth & AI solutions, and much more."
+    "language": "Other",
+    "description": "A list of cool features of Git and GitHub."
   },
   {
-    "repo": "Rabrg/artificial-life",
+    "repo": "whatwg/html",
     "branch": "main",
-    "language": "Python",
-    "description": "A simple (300 lines of code) reproduction of Computational Life: How Well-formed, Self-replicating Programs Emerge from Simple Interaction"
+    "language": "HTML",
+    "description": "HTML Standard"
+  },
+  {
+    "repo": "sindresorhus/awesome-electron",
+    "branch": "main",
+    "language": "Other",
+    "description": "Useful resources for creating apps with Electron"
   },
   {
     "repo": "solidjs-community/solid-primitives",
@@ -66,81 +84,63 @@
     "description": "A library of high-quality primitives that extend SolidJS reactivity."
   },
   {
-    "repo": "okooo5km/Skills4U",
+    "repo": "ufira-ai/Vibma",
     "branch": "main",
-    "language": "TeX",
-    "description": "Skills here"
+    "language": "TypeScript",
+    "description": "Vibe Design meets Figma. Let AI agents design directly in Figma."
   },
   {
-    "repo": "daniel3303/ClaudeCodeStatusLine",
+    "repo": "StreisandEffect/streisand",
+    "branch": "master",
+    "language": "Shell",
+    "description": "Streisand sets up a new server running your choice of WireGuard, OpenConnect, OpenSSH, OpenVPN, Shadowsocks, sslh, Stunnel, or a Tor bridge. It also generates custom instructions for all of these services. At the end of the run you are given an HTML file with instructions that can be shared with friends, family members, and fellow activists."
+  },
+  {
+    "repo": "redis/hiredis",
+    "branch": "master",
+    "language": "C",
+    "description": "Minimalistic C client for Redis >= 1.2"
+  },
+  {
+    "repo": "mksglu/claude-context-mode",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "Stop losing context to large outputs."
+  },
+  {
+    "repo": "OffchainLabs/arbitrum",
+    "branch": "master",
+    "language": "Other",
+    "description": "Arbitrum is a Layer 2 scaling solution for Ethereum."
+  },
+  {
+    "repo": "delta-io/delta",
+    "branch": "master",
+    "language": "Scala",
+    "description": "An open-source storage framework that enables building a Lakehouse architecture with compute engines including Spark, PrestoDB, Flink, Trino, and Hive and APIs"
+  },
+  {
+    "repo": "poteto/brainmaxxing",
+    "branch": "main",
+    "language": "Python",
+    "description": "stupid simple persistent memory and skill improvement"
+  },
+  {
+    "repo": "hiragram/claude-docker",
     "branch": "main",
     "language": "Shell",
     "description": ""
   },
   {
-    "repo": "socketio/socket.io",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Realtime application framework (Node.JS server)"
-  },
-  {
-    "repo": "keepassxreboot/keepassxc",
-    "branch": "develop",
-    "language": "C++",
-    "description": "KeePassXC is a cross-platform community-driven port of the Windows application “KeePass Password Safe”."
-  },
-  {
-    "repo": "atom/atom",
-    "branch": "master",
-    "language": "JavaScript",
-    "description": ":atom: The hackable text editor"
-  },
-  {
-    "repo": "sqlalchemy/sqlalchemy",
-    "branch": "main",
-    "language": "Python",
-    "description": "The Database Toolkit for Python"
-  },
-  {
-    "repo": "PowerShell/vscode-powershell",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Provides PowerShell language and debugging support for Visual Studio Code"
-  },
-  {
-    "repo": "Ultimaker/Cura",
-    "branch": "main",
-    "language": "Python",
-    "description": "3D printer / slicing GUI built on top of the Uranium framework"
-  },
-  {
-    "repo": "inliver233/Ai-Novel",
-    "branch": "main",
-    "language": "Python",
-    "description": "强大的ai小说创作网站"
-  },
-  {
-    "repo": "raspberrypi/linux",
-    "branch": "rpi-6.6.y",
-    "language": "C",
-    "description": "Kernel source tree for Raspberry Pi-provided kernel builds. Issues unrelated to the linux kernel should be posted on the community forum at https://forums.raspberrypi.com/"
-  },
-  {
-    "repo": "melonjs/melonJS",
-    "branch": "master",
-    "language": "JavaScript",
-    "description": "a fresh, modern & lightweight HTML5 game engine"
-  },
-  {
-    "repo": "bababuyyy/unity-isometric-pixel-pipeline",
-    "branch": "main",
-    "language": "ShaderLab",
-    "description": "Pixel art isometric render pipeline for Unity 6 URP — toon shading, GPU grass, outline, sharp upscale"
-  },
-  {
-    "repo": "LarsenCundric/port-whisperer",
+    "repo": "maile456/qq-farm-bot",
     "branch": "main",
     "language": "JavaScript",
-    "description": "A beautiful CLI tool to see what's running on your ports"
+    "description": "基于 Node.js + Vue 3 构建的 QQ 农场自动化工具，支持多账号同时管理，提供 Web 可视化面板，实现种植、收获、偷菜、任务领取、仓库出售等全流程自动化。"
+  },
+  {
+    "repo": "Sir-Scuzza/gluetun-webui",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": ""
   }
 ]
