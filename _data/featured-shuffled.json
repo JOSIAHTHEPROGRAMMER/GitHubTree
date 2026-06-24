@@ -1,146 +1,146 @@
 [
   {
-    "repo": "enmanuelmag/agent-harness-kit",
+    "repo": "williamcachamwri/zalo-tg",
     "branch": "main",
     "language": "TypeScript",
-    "description": "A provider-agnostic scaffolding kit for running structured multi-agent workflows in your codebase."
+    "description": ""
   },
   {
-    "repo": "donghuixin/AI-Vibe-Writing-Skills",
+    "repo": "enaqx/awesome-react",
+    "branch": "master",
+    "language": "Other",
+    "description": "A collection of awesome things regarding React ecosystem"
+  },
+  {
+    "repo": "bazelbuild/bazel",
+    "branch": "master",
+    "language": "Java",
+    "description": "a fast, scalable, multi-language and extensible build system"
+  },
+  {
+    "repo": "roboflow/rf-detr",
     "branch": "main",
     "language": "Python",
-    "description": "Using AI for high quality writing"
+    "description": "RF-DETR is a real-time object detection and segmentation model architecture developed by Roboflow, SOTA on COCO and designed for fine-tuning."
   },
   {
-    "repo": "ygwyg/MAHORAGA",
+    "repo": "airbnb/knowledge-repo",
+    "branch": "master",
+    "language": "Python",
+    "description": "A next-generation curated knowledge sharing platform for data scientists and other technical professions."
+  },
+  {
+    "repo": "jgarzik/botmaker",
     "branch": "main",
     "language": "TypeScript",
-    "description": "autonomous trading agent powered by social sentiment analysis and ai that learns, grows, and adapts"
+    "description": "UI/app to Create containerized OpenClaw bots"
   },
   {
-    "repo": "ahmadawais/chartli",
+    "repo": "golang-migrate/migrate",
+    "branch": "master",
+    "language": "Go",
+    "description": "Database migrations. CLI and Golang library."
+  },
+  {
+    "repo": "jingkaihe/matchlock",
+    "branch": "main",
+    "language": "Go",
+    "description": "Matchlock secures AI agent workloads with a Linux-based sandbox."
+  },
+  {
+    "repo": "shuyu-labs/BigBanana-AI-Director",
     "branch": "main",
     "language": "TypeScript",
-    "description": "CLI that turns plain numbers into terminal charts. ascii, spark, bars, columns, heatmap, unicode, braille, svg."
+    "description": "BigBanana AI Director是一个 AI 一站式短剧/漫剧平台，面向创作者，实现从灵感到成片的高效生产。  它摇弃了传统的“抽卡式”生成，采用 Script-to-Asset-to-Keyframe 的工业化工作流。实现 “一句话生成完整短剧，从剧本到成片全自动化”，同时精准控制角色一致性、场景连续性与镜头运动。"
   },
   {
-    "repo": "Lethalchip/SpaceChatDB",
-    "branch": "main",
-    "language": "Rust",
-    "description": ""
-  },
-  {
-    "repo": "mandel-macaque/memento",
-    "branch": "main",
-    "language": "F#",
-    "description": "Keep track of you codex sessions per commit"
-  },
-  {
-    "repo": "mitjafelicijan/xdgctl",
+    "repo": "sass/libsass",
     "branch": "master",
-    "language": "C",
-    "description": "TUI for managing XDG default applications"
+    "language": "C++",
+    "description": "A C/C++ implementation of a Sass compiler"
   },
   {
-    "repo": "Eronred/aso-skills",
-    "branch": "main",
-    "language": "Shell",
-    "description": "AI agent skills for App Store Optimization (ASO) and mobile app marketing. Built for indie developers, app marketers, and growth teams who want Cursor, Claude Code, or any Agent Skills-compatible AI assistant to help with keyword research, metadata optimization, competitor analysis, and app growth."
-  },
-  {
-    "repo": "TrendTechVista/polymarket-copy-trading-bot",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "polymarket copy trading bot polymarket copy trading bot polymarket copy trading bot polymarket copy trading bot polymarket copy trading bot polymarket copy trading bot polymarket copy trading bot polymarket copy trading bot polymarket copy trading bot polymarket copy trading bot polymarket copy trading bot polymarket copy trading bot"
-  },
-  {
-    "repo": "jaywcjlove/awesome-mac",
-    "branch": "master",
-    "language": "JavaScript",
-    "description": " Now we have become very big, Different from the original idea. Collect premium software in various categories."
-  },
-  {
-    "repo": "tiimgreen/github-cheat-sheet",
-    "branch": "master",
-    "language": "Other",
-    "description": "A list of cool features of Git and GitHub."
-  },
-  {
-    "repo": "whatwg/html",
-    "branch": "main",
-    "language": "HTML",
-    "description": "HTML Standard"
-  },
-  {
-    "repo": "sindresorhus/awesome-electron",
-    "branch": "main",
-    "language": "Other",
-    "description": "Useful resources for creating apps with Electron"
-  },
-  {
-    "repo": "solidjs-community/solid-primitives",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "A library of high-quality primitives that extend SolidJS reactivity."
-  },
-  {
-    "repo": "ufira-ai/Vibma",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Vibe Design meets Figma. Let AI agents design directly in Figma."
-  },
-  {
-    "repo": "StreisandEffect/streisand",
-    "branch": "master",
-    "language": "Shell",
-    "description": "Streisand sets up a new server running your choice of WireGuard, OpenConnect, OpenSSH, OpenVPN, Shadowsocks, sslh, Stunnel, or a Tor bridge. It also generates custom instructions for all of these services. At the end of the run you are given an HTML file with instructions that can be shared with friends, family members, and fellow activists."
-  },
-  {
-    "repo": "redis/hiredis",
-    "branch": "master",
-    "language": "C",
-    "description": "Minimalistic C client for Redis >= 1.2"
-  },
-  {
-    "repo": "mksglu/claude-context-mode",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "Stop losing context to large outputs."
-  },
-  {
-    "repo": "OffchainLabs/arbitrum",
-    "branch": "master",
-    "language": "Other",
-    "description": "Arbitrum is a Layer 2 scaling solution for Ethereum."
-  },
-  {
-    "repo": "delta-io/delta",
-    "branch": "master",
-    "language": "Scala",
-    "description": "An open-source storage framework that enables building a Lakehouse architecture with compute engines including Spark, PrestoDB, Flink, Trino, and Hive and APIs"
-  },
-  {
-    "repo": "poteto/brainmaxxing",
+    "repo": "openai/shap-e",
     "branch": "main",
     "language": "Python",
-    "description": "stupid simple persistent memory and skill improvement"
+    "description": "Generate 3D objects conditioned on text or images"
   },
   {
-    "repo": "hiragram/claude-docker",
+    "repo": "prusa3d/PrusaSlicer",
+    "branch": "master",
+    "language": "C++",
+    "description": "G-code generator for 3D printers (RepRap, Makerbot, Ultimaker etc.)"
+  },
+  {
+    "repo": "edwardsanchez/MotionEyes",
     "branch": "main",
-    "language": "Shell",
+    "language": "Swift",
     "description": ""
   },
   {
-    "repo": "maile456/qq-farm-bot",
+    "repo": "sandroandric/clime",
     "branch": "main",
-    "language": "JavaScript",
-    "description": "基于 Node.js + Vue 3 构建的 QQ 农场自动化工具，支持多账号同时管理，提供 Web 可视化面板，实现种植、收获、偷菜、任务领取、仓库出售等全流程自动化。"
+    "language": "TypeScript",
+    "description": "One CLI to find every CLI"
   },
   {
-    "repo": "Sir-Scuzza/gluetun-webui",
+    "repo": "panyiwei-home/Freedeck",
     "branch": "main",
-    "language": "JavaScript",
+    "language": "Python",
+    "description": "学习版游戏一站式平台"
+  },
+  {
+    "repo": "openai/point-e",
+    "branch": "main",
+    "language": "Python",
+    "description": "Point cloud diffusion for 3D model synthesis"
+  },
+  {
+    "repo": "ansible/ansible",
+    "branch": "devel",
+    "language": "Python",
+    "description": "Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy and maintain. Automate everything from code deployment to network configuration to cloud management, in a language that approaches plain English, using SSH, with no agents to install on remote systems. https://docs.ansible.com."
+  },
+  {
+    "repo": "spaceraccoon/vulnerability-spoiler-alert-action",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "GitHub Action to alert on security patches before the CVE drops."
+  },
+  {
+    "repo": "huggingface/transformers",
+    "branch": "main",
+    "language": "Python",
+    "description": "🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training."
+  },
+  {
+    "repo": "kubernetes/kubernetes",
+    "branch": "master",
+    "language": "Go",
+    "description": "Production-Grade Container Scheduling and Management"
+  },
+  {
+    "repo": "rails/rails",
+    "branch": "main",
+    "language": "Ruby",
+    "description": "Ruby on Rails"
+  },
+  {
+    "repo": "olucasandrade/youjustneedpostgres",
+    "branch": "main",
+    "language": "TypeScript",
     "description": ""
+  },
+  {
+    "repo": "spring-projects/spring-framework",
+    "branch": "main",
+    "language": "Java",
+    "description": "Spring Framework"
+  },
+  {
+    "repo": "emacs-mirror/emacs",
+    "branch": "master",
+    "language": "Emacs Lisp",
+    "description": "Mirror of GNU Emacs"
   }
 ]
