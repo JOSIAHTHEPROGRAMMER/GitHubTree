@@ -1,146 +1,146 @@
 [
   {
-    "repo": "techjarves/USB-Uncensored-LLM",
+    "repo": "CuzTeam/hm-rev",
     "branch": "main",
-    "language": "Shell",
-    "description": "The ultimate zero-install, portable local AI environment. Run high-quality, uncensored LLMs (Gemma, Qwen, NemoMix) directly from any USB drive or SSD. Fully air-gapped, cross-platform (Win/Mac/Linux), and privacy-first with persistent chat history."
+    "language": "Python",
+    "description": "DevECO REV"
   },
   {
-    "repo": "FiloSottile/age",
+    "repo": "PKU-YuanGroup/Helios",
     "branch": "main",
+    "language": "Python",
+    "description": "Helios: Real Real-Time Long Video Generation Model"
+  },
+  {
+    "repo": "pixijs/pixijs",
+    "branch": "dev",
+    "language": "TypeScript",
+    "description": "The HTML5 Creation Engine: Create beautiful digital content with the fastest, most flexible 2D WebGL renderer."
+  },
+  {
+    "repo": "pocketbase/pocketbase",
+    "branch": "master",
     "language": "Go",
-    "description": "A simple, modern and secure encryption tool (and Go library) with small explicit keys, no config options, and UNIX-style composability."
+    "description": "Open Source realtime backend in 1 file"
   },
   {
-    "repo": "Tencent-Hunyuan/HY-WU",
+    "repo": "pyinvoke/invoke",
     "branch": "main",
     "language": "Python",
-    "description": "HY-WU (Part I): An Extensible Functional Neural Memory Framework and An Instantiation in Text-Guided Image Editing"
+    "description": "Pythonic task management & command execution."
   },
   {
-    "repo": "yearn/yearn-finance",
+    "repo": "pydantic/pydantic",
+    "branch": "main",
+    "language": "Python",
+    "description": "Data validation using Python type hints"
+  },
+  {
+    "repo": "pypa/pipx",
+    "branch": "main",
+    "language": "Python",
+    "description": "Install and Run Python Applications in Isolated Environments"
+  },
+  {
+    "repo": "google/dopamine",
     "branch": "master",
-    "language": "JavaScript",
-    "description": "🏦 yearn v2 web interface"
+    "language": "Jupyter Notebook",
+    "description": "Dopamine is a research framework for fast prototyping of reinforcement learning algorithms."
   },
   {
-    "repo": "leonyx007/Polymarket-Trading-Bot-Rust",
+    "repo": "Aircoookie/WLED",
     "branch": "main",
-    "language": "Rust",
-    "description": "polymarket bot polymarket trading bot polymarket arbitrage bot polymarket trading bot polymarket rust trading bot polymarket trading bot v2 polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket arb trading bot polymarket 5min trading bot 15min btc trading bot"
-  },
-  {
-    "repo": "InfinityLoop1308/PipePipe-X",
-    "branch": "main",
-    "language": "Shell",
-    "description": "Modern designed PipePipe"
-  },
-  {
-    "repo": "nhevers/MoltBrain",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Long-term memory layer for OpenClaw & MoltBook agents that learns and recalls your project context automatically."
-  },
-  {
-    "repo": "id-Software/DOOM",
-    "branch": "master",
     "language": "C++",
-    "description": "DOOM Open Source Release"
+    "description": "Control WS2812B and many more types of digital RGB LEDs with an ESP32 over WiFi!"
   },
   {
-    "repo": "QwenLM/Qwen3-ASR",
+    "repo": "liangdabiao/Fashion-AI",
     "branch": "main",
     "language": "Python",
-    "description": "Qwen3-ASR is an open-source series of ASR models developed by the Qwen team at Alibaba Cloud, supporting stable multilingual speech/music/song recognition, language detection and timestamp prediction."
+    "description": "电商 AI 生图爆款流水线 — 输入新品平铺图，自动检索相似爆款、分析风格，生成专业宣传图。  ## 项目简介  跨境电商场景中，商家每出一款新品都需要制作宣传图（模特穿着商品的照片）。传统方式需要请模特、搭场景、拍摄修图，成本高、周期长。  本项目实现了一套全自动的 AI 生图流水线"
   },
   {
-    "repo": "humanloop/awesome-chatgpt",
-    "branch": "main",
-    "language": "Other",
-    "description": "Curated list of awesome tools, demos, docs for ChatGPT and GPT-3"
-  },
-  {
-    "repo": "aligfellow/xyzrender",
-    "branch": "main",
-    "language": "Python",
-    "description": "Publication-quality molecular graphics from the command line."
-  },
-  {
-    "repo": "Developer-Y/cs-video-courses",
+    "repo": "termux/termux-packages",
     "branch": "master",
-    "language": "Other",
-    "description": "List of Computer Science courses with video lectures."
+    "language": "Shell",
+    "description": "A package build system for Termux."
   },
   {
-    "repo": "antfu/skills",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Anthony Fu's curated collection of agent skills."
-  },
-  {
-    "repo": "graphprotocol/graph-node",
-    "branch": "master",
-    "language": "Rust",
-    "description": "Graph Node indexes data from blockchains such as Ethereum and serves it over GraphQL"
-  },
-  {
-    "repo": "kristelTech/make_me_a_meme",
+    "repo": "pallets/flask",
     "branch": "main",
     "language": "Python",
-    "description": "This repository detects your facial expressions and matches you with a famous meme."
+    "description": "The Python micro framework for building web applications."
   },
   {
-    "repo": "Lakr233/vphone-cli",
+    "repo": "Szili1994/create-aeronautics-minecraft-mod",
+    "branch": "main",
+    "language": "Java",
+    "description": "aeronautics create minecraft mod github modrinth curseforge create addon sable physics engine simulated offroad airships planes drones vehicles contraptions neoforge forge 1.21.1 1.20.1 download latest version 2026 setup guide tutorial release free multiplayer server performance optimization fps fix error crash**"
+  },
+  {
+    "repo": "requests/requests",
+    "branch": "main",
+    "language": "Python",
+    "description": "A simple, yet elegant, HTTP library."
+  },
+  {
+    "repo": "zhaoyue4810/pianke",
     "branch": "main",
     "language": "Python",
     "description": ""
   },
   {
-    "repo": "erikdarlingdata/PerformanceMonitor",
+    "repo": "tanekaverd64170803960/Lossless-Scaling-Util-V3.0",
     "branch": "main",
     "language": "C#",
-    "description": "Free, open-source SQL Server performance monitoring. Full Edition (server-installed, 30 collectors) and Lite Edition (standalone, DuckDB). Built-in MCP server for AI integration."
+    "description": "A standalone utility to configure, optimize, and unlock lossless frame generation and scaling features for any 3D application or game."
   },
   {
-    "repo": "thedaviddias/Front-End-Checklist",
-    "branch": "master",
-    "language": "Other",
-    "description": "🗂 The perfect Front-End Checklist for modern websites and meticulous developers"
+    "repo": "kageroumado/phosphene",
+    "branch": "main",
+    "language": "Swift",
+    "description": "A video wallpaper engine for macOS Tahoe"
   },
   {
-    "repo": "JuliaLang/julia",
-    "branch": "master",
-    "language": "Julia",
-    "description": "The Julia Programming Language"
-  },
-  {
-    "repo": "nyanko3141592/remotion-voicevox-template",
-    "branch": "master",
+    "repo": "Tencent/tdesign-vue-next",
+    "branch": "develop",
     "language": "TypeScript",
-    "description": "Remotion + VOICEVOX動画テンプレート（ずんだもん＆めたん掛け合い動画）"
+    "description": "A Vue3.x UI components lib for TDesign."
   },
   {
-    "repo": "Anuken/Mindustry",
+    "repo": "gohugoio/hugo",
     "branch": "master",
-    "language": "Java",
-    "description": "The automation tower defense RTS"
+    "language": "Go",
+    "description": "The world’s fastest framework for building websites."
   },
   {
-    "repo": "microsoft/Data-Science-For-Beginners",
+    "repo": "uktrash/LSFG-Desktop",
     "branch": "main",
-    "language": "Jupyter Notebook",
-    "description": "10 Weeks, 20 Lessons, Data Science for All!"
+    "language": "C#",
+    "description": "Lossless Scaling github steam reddit LSFG 3 frame generation  v3.22, uncap FPS low end PC, AMD FSR NIS scaling, cursor lag fix. Double FPS laptop guide, windowed to borderless fullscreen, ghosting artifact solution, capture API DXGI GDI, half refresh rate VSync. anime4k ,  version , latency reduction, lsfg"
   },
   {
-    "repo": "DarioFT/ComfyUI-Qwen3-TTS",
-    "branch": "main",
-    "language": "Python",
-    "description": "A ComfyUI custom node suite for Qwen3-TTS, supporting 1.7B and 0.6B models, Custom Voice, Voice Design, Voice Cloning and Fine-Tuning."
+    "repo": "restic/restic",
+    "branch": "master",
+    "language": "Go",
+    "description": "Fast, secure, efficient backup program"
   },
   {
-    "repo": "glommer/cachebro",
+    "repo": "openclaw/agent-skills",
     "branch": "main",
     "language": "TypeScript",
-    "description": "File cache with diff tracking for AI coding agents. Drop-in MCP server that cuts token usage by 26%."
+    "description": "Useful skills for agents and claws."
+  },
+  {
+    "repo": "NamKhoa-07/Voidstrap",
+    "branch": "main",
+    "language": "C#",
+    "description": "Voidstrap is a simple yet advanced fork of Bloxstrap, advanced customization and improvements."
+  },
+  {
+    "repo": "mereses-labs/solana-pumpfun-bundler",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "🏗️solana pumpfun bundler stealth-mode, bubblemap-bypassing, real bot activity An open-source bundler for pumpfun allows you to create a token and bundle it with 25 buys.Solana bundler Pumpfun bundler  bundler · Bonkfun bundler bundler. Multi-wallet bundler for Solana to"
   }
 ]
