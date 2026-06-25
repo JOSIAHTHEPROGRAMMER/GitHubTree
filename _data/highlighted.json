@@ -1,8 +1,8 @@
 {
-  "repo": "Env-Kit/envkit-releases",
+  "repo": "JayWebtech/autoshorts",
   "branch": "main",
-  "language": "JavaScript",
-  "description": "EnvKit — free local development environment for Windows & macOS: nginx/Apache, multiple PHP versions, MySQL/MariaDB,   PostgreSQL, Redis, MongoDB, Mailpit, Node.js, trusted .test HTTPS, and a built-in MCP server for AI-assistant control.   A Laragon/XAMPP/Herd alternative.",
-  "stars": 131,
-  "forks": 2
+  "language": "Rust",
+  "description": "A featured project on GitHubTree.",
+  "stars": 133,
+  "forks": 25
 }

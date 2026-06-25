@@ -1,45 +1,57 @@
 [
   {
-    "repo": "arvohealth-ai/OpenVitals",
+    "repo": "techjarves/USB-Uncensored-LLM",
     "branch": "main",
-    "language": "TypeScript",
-    "description": "Your health never sleeps."
+    "language": "Shell",
+    "description": "The ultimate zero-install, portable local AI environment. Run high-quality, uncensored LLMs (Gemma, Qwen, NemoMix) directly from any USB drive or SSD. Fully air-gapped, cross-platform (Win/Mac/Linux), and privacy-first with persistent chat history."
   },
   {
-    "repo": "google/wire",
-    "branch": "master",
+    "repo": "FiloSottile/age",
+    "branch": "main",
     "language": "Go",
-    "description": "Compile-time Dependency Injection for Go"
+    "description": "A simple, modern and secure encryption tool (and Go library) with small explicit keys, no config options, and UNIX-style composability."
   },
   {
-    "repo": "DangJin/pdf2video",
+    "repo": "Tencent-Hunyuan/HY-WU",
     "branch": "main",
-    "language": "TypeScript",
-    "description": "Transform PDF documents into engaging video presentations with smooth animations."
+    "language": "Python",
+    "description": "HY-WU (Part I): An Extensible Functional Neural Memory Framework and An Instantiation in Text-Guided Image Editing"
   },
   {
-    "repo": "Vasco0x4/AIDA",
-    "branch": "main",
+    "repo": "yearn/yearn-finance",
+    "branch": "master",
     "language": "JavaScript",
-    "description": "AI-Driven Security Assessment - Connect AI to 400+ pentesting tools via MCP"
+    "description": "🏦 yearn v2 web interface"
   },
   {
-    "repo": "sdkman/sdkman-cli",
-    "branch": "master",
-    "language": "Gherkin",
-    "description": "The SDKMAN! Command Line Interface"
-  },
-  {
-    "repo": "mattermost/mattermost-server",
-    "branch": "master",
-    "language": "TypeScript",
-    "description": "Mattermost is an open source platform for secure collaboration across the entire software development lifecycle.."
-  },
-  {
-    "repo": "envoyproxy/envoy",
+    "repo": "leonyx007/Polymarket-Trading-Bot-Rust",
     "branch": "main",
+    "language": "Rust",
+    "description": "polymarket bot polymarket trading bot polymarket arbitrage bot polymarket trading bot polymarket rust trading bot polymarket trading bot v2 polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket arb trading bot polymarket 5min trading bot 15min btc trading bot"
+  },
+  {
+    "repo": "InfinityLoop1308/PipePipe-X",
+    "branch": "main",
+    "language": "Shell",
+    "description": "Modern designed PipePipe"
+  },
+  {
+    "repo": "nhevers/MoltBrain",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Long-term memory layer for OpenClaw & MoltBook agents that learns and recalls your project context automatically."
+  },
+  {
+    "repo": "id-Software/DOOM",
+    "branch": "master",
     "language": "C++",
-    "description": "Cloud-native high-performance edge/middle/service proxy"
+    "description": "DOOM Open Source Release"
+  },
+  {
+    "repo": "QwenLM/Qwen3-ASR",
+    "branch": "main",
+    "language": "Python",
+    "description": "Qwen3-ASR is an open-source series of ASR models developed by the Qwen team at Alibaba Cloud, supporting stable multilingual speech/music/song recognition, language detection and timestamp prediction."
   },
   {
     "repo": "humanloop/awesome-chatgpt",
@@ -48,99 +60,87 @@
     "description": "Curated list of awesome tools, demos, docs for ChatGPT and GPT-3"
   },
   {
-    "repo": "whisperbit-labs/zemzeme-android",
-    "branch": "main",
-    "language": "Kotlin",
-    "description": "Private, serverless messaging for Android - offline Bluetooth mesh, peer-to-peer, and Nostr relay. No accounts, no internet required."
-  },
-  {
-    "repo": "grafana/loki",
-    "branch": "main",
-    "language": "Go",
-    "description": "Like Prometheus, but for logs."
-  },
-  {
-    "repo": "DefinitelyTyped/DefinitelyTyped",
-    "branch": "master",
-    "language": "TypeScript",
-    "description": "The repository for high quality TypeScript type definitions."
-  },
-  {
-    "repo": "frederikemmer/MediaLyze",
+    "repo": "aligfellow/xyzrender",
     "branch": "main",
     "language": "Python",
-    "description": "Self-hosted media library analysis for large video collections"
+    "description": "Publication-quality molecular graphics from the command line."
   },
   {
-    "repo": "jbhuang0604/awesome-computer-vision",
+    "repo": "Developer-Y/cs-video-courses",
     "branch": "master",
     "language": "Other",
-    "description": "A curated list of awesome computer vision resources"
+    "description": "List of Computer Science courses with video lectures."
   },
   {
-    "repo": "socketio/socket.io",
+    "repo": "antfu/skills",
     "branch": "main",
     "language": "TypeScript",
-    "description": "Realtime application framework (Node.JS server)"
+    "description": "Anthony Fu's curated collection of agent skills."
   },
   {
-    "repo": "AlpinDale/parsync",
+    "repo": "graphprotocol/graph-node",
     "branch": "master",
     "language": "Rust",
-    "description": "Parallel rsync-like pull sync over SSH with resume"
+    "description": "Graph Node indexes data from blockchains such as Ethereum and serves it over GraphQL"
   },
   {
-    "repo": "pocketbase/pocketbase",
-    "branch": "master",
-    "language": "Go",
-    "description": "Open Source realtime backend in 1 file"
-  },
-  {
-    "repo": "joeseesun/anything-to-notebooklm",
+    "repo": "kristelTech/make_me_a_meme",
     "branch": "main",
     "language": "Python",
-    "description": "Claude Skill: Multi-source content processor for NotebookLM. Supports WeChat articles, web pages, YouTube, PDF, Markdown, search queries → Podcast/PPT/MindMap/Quiz etc."
+    "description": "This repository detects your facial expressions and matches you with a famous meme."
   },
   {
-    "repo": "OpenMOSS/MOSS-TTS",
+    "repo": "Lakr233/vphone-cli",
     "branch": "main",
     "language": "Python",
-    "description": "MOSS‑TTS Family is an open‑source speech and sound generation model family from MOSI.AI and the OpenMOSS team. It is designed for high‑fidelity, high‑expressiveness, and complex real‑world scenarios, covering stable long‑form speech, multi‑speaker dialogue, voice/character design, environmental sound effects, and real‑time streaming TTS."
+    "description": ""
   },
   {
-    "repo": "Anarkh-Lee/universal-db-mcp",
+    "repo": "erikdarlingdata/PerformanceMonitor",
     "branch": "main",
-    "language": "TypeScript",
-    "description": "MCP 数据库万能连接器：使用支持MCP服务协议的工具（例如：Claude Desktop、Cherry Studio等）直接连接你的数据库，用自然语言查询和分析数据"
+    "language": "C#",
+    "description": "Free, open-source SQL Server performance monitoring. Full Edition (server-installed, 30 collectors) and Lite Edition (standalone, DuckDB). Built-in MCP server for AI integration."
   },
   {
-    "repo": "Michaelliv/pi-generative-ui",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Claude.ai's generative UI — reverse-engineered, rebuilt for pi. Interactive HTML/SVG widgets in native macOS windows."
-  },
-  {
-    "repo": "penso/arbor",
-    "branch": "main",
-    "language": "Rust",
-    "description": "Desktop Git worktree manager in Rust (arbor-core + GPUI app)."
-  },
-  {
-    "repo": "ossu/computer-science",
+    "repo": "thedaviddias/Front-End-Checklist",
     "branch": "master",
-    "language": "HTML",
-    "description": "🎓 Path to a free self-taught education in Computer Science!"
+    "language": "Other",
+    "description": "🗂 The perfect Front-End Checklist for modern websites and meticulous developers"
   },
   {
-    "repo": "tldev/posturr",
+    "repo": "JuliaLang/julia",
+    "branch": "master",
+    "language": "Julia",
+    "description": "The Julia Programming Language"
+  },
+  {
+    "repo": "nyanko3141592/remotion-voicevox-template",
+    "branch": "master",
+    "language": "TypeScript",
+    "description": "Remotion + VOICEVOX動画テンプレート（ずんだもん＆めたん掛け合い動画）"
+  },
+  {
+    "repo": "Anuken/Mindustry",
+    "branch": "master",
+    "language": "Java",
+    "description": "The automation tower defense RTS"
+  },
+  {
+    "repo": "microsoft/Data-Science-For-Beginners",
     "branch": "main",
-    "language": "Swift",
-    "description": "A macOS app that blurs your screen when you slouch. Uses Vision framework for real-time posture detection."
+    "language": "Jupyter Notebook",
+    "description": "10 Weeks, 20 Lessons, Data Science for All!"
   },
   {
-    "repo": "ygwyg/MAHORAGA",
+    "repo": "DarioFT/ComfyUI-Qwen3-TTS",
+    "branch": "main",
+    "language": "Python",
+    "description": "A ComfyUI custom node suite for Qwen3-TTS, supporting 1.7B and 0.6B models, Custom Voice, Voice Design, Voice Cloning and Fine-Tuning."
+  },
+  {
+    "repo": "glommer/cachebro",
     "branch": "main",
     "language": "TypeScript",
-    "description": "autonomous trading agent powered by social sentiment analysis and ai that learns, grows, and adapts"
+    "description": "File cache with diff tracking for AI coding agents. Drop-in MCP server that cuts token usage by 26%."
   }
 ]
