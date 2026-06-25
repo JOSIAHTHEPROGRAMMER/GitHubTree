@@ -1,8 +1,8 @@
 {
-  "repo": "ThisIsLittleSky/WaterPaper",
-  "branch": "master",
-  "language": "Python",
-  "description": "水论文skill一句话出论文：多角度选题、真实文献采集、大纲写作、降低AIGC率、降低重复率、绘制图表、DOCX交付",
-  "stars": 103,
-  "forks": 1
+  "repo": "Env-Kit/envkit-releases",
+  "branch": "main",
+  "language": "JavaScript",
+  "description": "EnvKit — free local development environment for Windows & macOS: nginx/Apache, multiple PHP versions, MySQL/MariaDB,   PostgreSQL, Redis, MongoDB, Mailpit, Node.js, trusted .test HTTPS, and a built-in MCP server for AI-assistant control.   A Laragon/XAMPP/Herd alternative.",
+  "stars": 131,
+  "forks": 2
 }

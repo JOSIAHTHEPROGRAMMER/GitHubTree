@@ -1,146 +1,146 @@
 [
   {
-    "repo": "thangchung/awesome-dotnet-core",
-    "branch": "master",
-    "language": "C#",
-    "description": ":honeybee: A collection of awesome .NET core libraries, tools, frameworks and software"
-  },
-  {
-    "repo": "yliust/Tactile",
+    "repo": "arvohealth-ai/OpenVitals",
     "branch": "main",
-    "language": "Python",
-    "description": "Tactile: an accessibility-first operating layer for agents."
+    "language": "TypeScript",
+    "description": "Your health never sleeps."
   },
   {
-    "repo": "by-sonic/unblock-pro",
+    "repo": "google/wire",
+    "branch": "master",
+    "language": "Go",
+    "description": "Compile-time Dependency Injection for Go"
+  },
+  {
+    "repo": "DangJin/pdf2video",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Transform PDF documents into engaging video presentations with smooth animations."
+  },
+  {
+    "repo": "Vasco0x4/AIDA",
     "branch": "main",
     "language": "JavaScript",
-    "description": "Обход блокировок Discord и YouTube — автоматический DPI bypass для macOS и Windows | Unblock Discord & YouTube in Russia"
+    "description": "AI-Driven Security Assessment - Connect AI to 400+ pentesting tools via MCP"
   },
   {
-    "repo": "wenqingyu/ralphy-openspec",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Ralph loop + OpenSpec integration for Cursor, OpenCode and ClaudeCode heavy lifting."
-  },
-  {
-    "repo": "harshkedia177/axon",
-    "branch": "main",
-    "language": "Python",
-    "description": "Graph-powered code intelligence engine — indexes codebases into a knowledge graph, exposed via MCP tools for AI agents and a CLI for developers."
-  },
-  {
-    "repo": "torproject/tor",
-    "branch": "main",
-    "language": "Other",
-    "description": "unofficial git repo -- report bugs/issues/pull requests on https://gitlab.torproject.org/ --"
-  },
-  {
-    "repo": "id-Software/DOOM",
+    "repo": "sdkman/sdkman-cli",
     "branch": "master",
+    "language": "Gherkin",
+    "description": "The SDKMAN! Command Line Interface"
+  },
+  {
+    "repo": "mattermost/mattermost-server",
+    "branch": "master",
+    "language": "TypeScript",
+    "description": "Mattermost is an open source platform for secure collaboration across the entire software development lifecycle.."
+  },
+  {
+    "repo": "envoyproxy/envoy",
+    "branch": "main",
     "language": "C++",
-    "description": "DOOM Open Source Release"
+    "description": "Cloud-native high-performance edge/middle/service proxy"
   },
   {
-    "repo": "steipete/birdclaw",
+    "repo": "humanloop/awesome-chatgpt",
     "branch": "main",
-    "language": "TypeScript",
-    "description": "Stores all your tweets nicely claw-able for agents."
-  },
-  {
-    "repo": "ChristosChristofidis/awesome-deep-learning",
-    "branch": "master",
     "language": "Other",
-    "description": "A curated list of awesome Deep Learning tutorials, projects and communities."
+    "description": "Curated list of awesome tools, demos, docs for ChatGPT and GPT-3"
   },
   {
-    "repo": "TeamStuQ/skill-map",
-    "branch": "master",
-    "language": "HTML",
-    "description": "程序员技能图谱"
-  },
-  {
-    "repo": "herrbischoff/awesome-macos-command-line",
-    "branch": "master",
-    "language": "Other",
-    "description": "Use your macOS terminal shell to do awesome things."
-  },
-  {
-    "repo": "inputsh/awesome-linux",
-    "branch": "master",
-    "language": "Other",
-    "description": ":penguin: A list of awesome projects and resources that make Linux even more awesome. :penguin:"
-  },
-  {
-    "repo": "traderwillhu/market_dashboard",
-    "branch": "main",
-    "language": "HTML",
-    "description": ""
-  },
-  {
-    "repo": "mrphrazer/binary-ninja-headless-mcp",
-    "branch": "main",
-    "language": "Python",
-    "description": "Headless Binary Ninja MCP server — giving AI agents deep reverse-engineering capabilities via 180 tools."
-  },
-  {
-    "repo": "LeoYeAI/openclaw-guardian",
-    "branch": "main",
-    "language": "Shell",
-    "description": "🛡️ Guardian watchdog for OpenClaw Gateway — auto-monitor, self-repair via doctor --fix, git-based rollback, daily snapshots, and Discord alerts. Powered by MyClaw.ai"
-  },
-  {
-    "repo": "qinwf/awesome-R",
-    "branch": "master",
-    "language": "R",
-    "description": "A curated list of awesome R packages, frameworks and software."
-  },
-  {
-    "repo": "akullpp/awesome-java",
-    "branch": "master",
-    "language": "Other",
-    "description": "A curated list of awesome frameworks, libraries and software for the Java programming language."
-  },
-  {
-    "repo": "MichaelCade/90DaysOfDevOps",
-    "branch": "main",
-    "language": "Shell",
-    "description": "This repository started out as a learning in public project for myself and has now become a structured learning map for many in the community. We have 3 years under our belt covering all things DevOps, including Principles, Processes, Tooling and Use Cases surrounding this vast topic."
-  },
-  {
-    "repo": "owenlejeune/ArrMatey",
+    "repo": "whisperbit-labs/zemzeme-android",
     "branch": "main",
     "language": "Kotlin",
-    "description": ""
+    "description": "Private, serverless messaging for Android - offline Bluetooth mesh, peer-to-peer, and Nostr relay. No accounts, no internet required."
   },
   {
-    "repo": "johannesjo/parallel-code",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Run Claude Code, Codex, and Gemini side by side — each in      its own git worktree"
-  },
-  {
-    "repo": "lauris/awesome-scala",
-    "branch": "master",
-    "language": "Python",
-    "description": "A community driven list of useful Scala libraries, frameworks and software."
-  },
-  {
-    "repo": "kelseyhightower/kubernetes-the-hard-way",
-    "branch": "master",
-    "language": "Other",
-    "description": "Bootstrap Kubernetes the hard way. No scripts."
-  },
-  {
-    "repo": "ninja-build/ninja",
-    "branch": "master",
-    "language": "C++",
-    "description": "a small build system with a focus on speed"
-  },
-  {
-    "repo": "hashicorp/nomad",
+    "repo": "grafana/loki",
     "branch": "main",
     "language": "Go",
-    "description": "Nomad is an easy-to-use, flexible, and performant workload orchestrator that can deploy a mix of microservice, batch, containerized, and non-containerized applications. Nomad is easy to operate and scale and has native Consul and Vault integrations."
+    "description": "Like Prometheus, but for logs."
+  },
+  {
+    "repo": "DefinitelyTyped/DefinitelyTyped",
+    "branch": "master",
+    "language": "TypeScript",
+    "description": "The repository for high quality TypeScript type definitions."
+  },
+  {
+    "repo": "frederikemmer/MediaLyze",
+    "branch": "main",
+    "language": "Python",
+    "description": "Self-hosted media library analysis for large video collections"
+  },
+  {
+    "repo": "jbhuang0604/awesome-computer-vision",
+    "branch": "master",
+    "language": "Other",
+    "description": "A curated list of awesome computer vision resources"
+  },
+  {
+    "repo": "socketio/socket.io",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Realtime application framework (Node.JS server)"
+  },
+  {
+    "repo": "AlpinDale/parsync",
+    "branch": "master",
+    "language": "Rust",
+    "description": "Parallel rsync-like pull sync over SSH with resume"
+  },
+  {
+    "repo": "pocketbase/pocketbase",
+    "branch": "master",
+    "language": "Go",
+    "description": "Open Source realtime backend in 1 file"
+  },
+  {
+    "repo": "joeseesun/anything-to-notebooklm",
+    "branch": "main",
+    "language": "Python",
+    "description": "Claude Skill: Multi-source content processor for NotebookLM. Supports WeChat articles, web pages, YouTube, PDF, Markdown, search queries → Podcast/PPT/MindMap/Quiz etc."
+  },
+  {
+    "repo": "OpenMOSS/MOSS-TTS",
+    "branch": "main",
+    "language": "Python",
+    "description": "MOSS‑TTS Family is an open‑source speech and sound generation model family from MOSI.AI and the OpenMOSS team. It is designed for high‑fidelity, high‑expressiveness, and complex real‑world scenarios, covering stable long‑form speech, multi‑speaker dialogue, voice/character design, environmental sound effects, and real‑time streaming TTS."
+  },
+  {
+    "repo": "Anarkh-Lee/universal-db-mcp",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "MCP 数据库万能连接器：使用支持MCP服务协议的工具（例如：Claude Desktop、Cherry Studio等）直接连接你的数据库，用自然语言查询和分析数据"
+  },
+  {
+    "repo": "Michaelliv/pi-generative-ui",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Claude.ai's generative UI — reverse-engineered, rebuilt for pi. Interactive HTML/SVG widgets in native macOS windows."
+  },
+  {
+    "repo": "penso/arbor",
+    "branch": "main",
+    "language": "Rust",
+    "description": "Desktop Git worktree manager in Rust (arbor-core + GPUI app)."
+  },
+  {
+    "repo": "ossu/computer-science",
+    "branch": "master",
+    "language": "HTML",
+    "description": "🎓 Path to a free self-taught education in Computer Science!"
+  },
+  {
+    "repo": "tldev/posturr",
+    "branch": "main",
+    "language": "Swift",
+    "description": "A macOS app that blurs your screen when you slouch. Uses Vision framework for real-time posture detection."
+  },
+  {
+    "repo": "ygwyg/MAHORAGA",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "autonomous trading agent powered by social sentiment analysis and ai that learns, grows, and adapts"
   }
 ]
