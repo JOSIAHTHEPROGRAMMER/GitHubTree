@@ -1,146 +1,146 @@
 [
   {
-    "repo": "johannesjo/parallel-code",
+    "repo": "bestpracticaI/kalshi-ai-trading-bot",
     "branch": "main",
     "language": "TypeScript",
-    "description": "Run Claude Code, Codex, and Gemini side by side — each in      its own git worktree"
+    "description": "Kalshi prediction markets trading bot algorithmic automated trading TypeScript Node.js Kalshi REST API RSA signing OpenRouter LLM CLI npm quant fintech event contracts market making exchange API bot Kalshi SDK"
   },
   {
-    "repo": "lightningpixel/modly",
+    "repo": "linguo2625469/qq-farm-bot",
     "branch": "main",
-    "language": "TypeScript",
-    "description": "Desktop app to generate 3D models from images using local AI — runs entirely on your GPU"
-  },
-  {
-    "repo": "wenqingyu/ralphy-openspec",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Ralph loop + OpenSpec integration for Cursor, OpenCode and ClaudeCode heavy lifting."
-  },
-  {
-    "repo": "skottrun/extrateto",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Dashboard público que expõe supersalários do Judiciário brasileiro acima do teto constitucional"
-  },
-  {
-    "repo": "ray-project/ray",
-    "branch": "master",
-    "language": "Python",
-    "description": "Ray is an AI compute engine. Ray consists of a core distributed runtime and a set of AI Libraries for accelerating ML workloads."
-  },
-  {
-    "repo": "google/material-design-icons",
-    "branch": "master",
-    "language": "Other",
-    "description": "Material Design icons by Google (Material Symbols)"
-  },
-  {
-    "repo": "Zouuup/landrun",
-    "branch": "main",
-    "language": "Go",
-    "description": "Run any Linux process in a secure, unprivileged sandbox using Landlock. Think firejail, but lightweight, user-friendly, and baked into the kernel."
-  },
-  {
-    "repo": "sqlalchemy/alembic",
-    "branch": "main",
-    "language": "Python",
-    "description": "A database migrations tool for SQLAlchemy."
-  },
-  {
-    "repo": "webpack-contrib/style-loader",
-    "branch": "master",
     "language": "JavaScript",
-    "description": "Style Loader"
+    "description": "基于 Node.js 的 QQ 经典农场小程序自动化挂机脚本。通过分析小程序 WebSocket 通信协议（Protocol Buffers），实现全自动农场管理。"
   },
   {
-    "repo": "mqudsi/monospace-ocr",
+    "repo": "openai/gym",
     "branch": "master",
     "language": "Python",
+    "description": "A toolkit for developing and comparing reinforcement learning algorithms."
+  },
+  {
+    "repo": "dev-protocol/polymarket-copy-bot",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Polymarket Copy Trading Bot, Polymarket Copy Trading Bot, Polymarket Copy Trading Bot, Polymarket Copy Trading Bot, Polymarket Copy Trading Bot, Polymarket Copy Trading Bot, Polymarket Copy Trading Bot, Polymarket Copy Trading Bot, Polymarket Copy Trading Bot, Polymarket Copy Trading Bot, Polymarket Copy Trading Bot, Polymarket Copy Trading Bot"
+  },
+  {
+    "repo": "tnbeznlacut/sora2-watermark-deleter-windows-macos",
+    "branch": "main",
+    "language": "Python",
+    "description": "sora2 watermark deleter windows macos"
+  },
+  {
+    "repo": "vercel/hyper",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "A terminal built on web technologies"
+  },
+  {
+    "repo": "aio-libs/aiohttp",
+    "branch": "master",
+    "language": "Python",
+    "description": "Asynchronous HTTP client/server framework for asyncio and Python"
+  },
+  {
+    "repo": "LanRhyme/MicYou",
+    "branch": "master",
+    "language": "Kotlin",
+    "description": "MicYou is a powerful tool that turns your Android device into a high-quality wireless microphone for your PC."
+  },
+  {
+    "repo": "langgenius/dify",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Production-ready platform for agentic workflow development."
+  },
+  {
+    "repo": "xbhatsmymom39/tradingview-full-version-unlocker",
+    "branch": "main",
+    "language": "Python",
+    "description": "TradingView Full version unlocker"
+  },
+  {
+    "repo": "elder-plinius/GLOSSOPETRAE",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "LINGUISTIC ENGINE FOR AI"
+  },
+  {
+    "repo": "laravel/laravel",
+    "branch": "11.x",
+    "language": "Blade",
+    "description": "Laravel is a web application framework with expressive, elegant syntax. We’ve already laid the foundation for your next big idea — freeing you to create without sweating the small things."
+  },
+  {
+    "repo": "sonpiaz/evox",
+    "branch": "main",
+    "language": "TypeScript",
     "description": ""
   },
   {
-    "repo": "opencontainers/runc",
-    "branch": "main",
-    "language": "Go",
-    "description": "CLI tool for spawning and running containers according to the OCI specification"
-  },
-  {
-    "repo": "mindfold-ai/Trellis",
-    "branch": "main",
-    "language": "Shell",
-    "description": "All-in-one AI framework & toolkit for Claude Code & Cursor"
-  },
-  {
-    "repo": "FireRedTeam/FireRedASR2S",
-    "branch": "main",
-    "language": "Python",
-    "description": "FireRedASR2S is a SOTA Industrial-Grade All-in-One ASR system with ASR, VAD, LID, and Punc modules. FireRedASR2 supports Chinese (Mandarin, 20+ dialects/accents), English, code-switching, and singing lyrics recognition. FireRedVAD supports speech/singing/music in 100+ langs. FireRedLID supports 100+ langs and 20+ zh dialects."
-  },
-  {
-    "repo": "NVIDIA/apex",
-    "branch": "master",
-    "language": "Python",
-    "description": "A PyTorch Extension:  Tools for easy mixed precision and distributed training in Pytorch"
-  },
-  {
-    "repo": "prisma/graphql-yoga",
+    "repo": "op7418/Claude-to-IM",
     "branch": "main",
     "language": "TypeScript",
-    "description": "🧘 Rewrite of a fully-featured GraphQL Server with focus on easy setup, performance & great developer experience.  The core of Yoga implements WHATWG Fetch API and can run/deploy on any JS environment."
+    "description": "Host-agnostic bridge connecting Claude Code SDK to IM platforms (Telegram, Discord, Feishu)"
   },
   {
-    "repo": "mayfer/electrobun-macos-native-blur",
+    "repo": "pointfreeco/swift-composable-architecture",
+    "branch": "main",
+    "language": "Swift",
+    "description": "A library for building applications in a consistent and understandable way, with composition, testing, and ergonomics in mind."
+  },
+  {
+    "repo": "jimuzhe/tiez-clipboard",
     "branch": "master",
     "language": "TypeScript",
-    "description": "Enable background blur like a native app in Electrobun"
+    "description": "TieZ 是一款基于 Tauri 的跨平台剪贴板管理器 / A cross-platform clipboard manager with history, tags, sync, privacy protection, and fast daily workflows."
   },
   {
-    "repo": "junegunn/fzf",
-    "branch": "master",
-    "language": "Go",
-    "description": ":cherry_blossom: A command-line fuzzy finder"
-  },
-  {
-    "repo": "realm/SwiftLint",
+    "repo": "mdp/linkedin-extension-fingerprinting",
     "branch": "main",
-    "language": "Swift",
-    "description": "A tool to enforce Swift style and conventions."
+    "language": "JavaScript",
+    "description": ""
   },
   {
-    "repo": "keras-team/keras-nlp",
-    "branch": "master",
-    "language": "Python",
-    "description": "Pretrained model hub for Keras 3."
-  },
-  {
-    "repo": "Quick/Quick",
-    "branch": "main",
-    "language": "Swift",
-    "description": "The Swift (and Objective-C) testing framework."
-  },
-  {
-    "repo": "asdf-vm/asdf",
-    "branch": "master",
-    "language": "Go",
-    "description": "Extendable version manager with support for Ruby, Node.js, Elixir, Erlang & more"
-  },
-  {
-    "repo": "cloudwego/hertz",
-    "branch": "main",
-    "language": "Go",
-    "description": "Go HTTP framework with high-performance and strong-extensibility for building micro-services."
-  },
-  {
-    "repo": "stedolan/jq",
-    "branch": "master",
-    "language": "C",
-    "description": "Command-line JSON processor"
-  },
-  {
-    "repo": "ythx-101/x-tweet-fetcher",
+    "repo": "Norman-bury/articlewriting-skill",
     "branch": "main",
     "language": "Python",
-    "description": "🦞 Fetch tweets and replies from X/Twitter without login or API keys. OpenClaw skill."
+    "description": "科研写作助手 (Research Writing Assistant)"
+  },
+  {
+    "repo": "kubernetes-sigs/external-dns",
+    "branch": "master",
+    "language": "Go",
+    "description": "Configure external DNS servers dynamically from Kubernetes resources"
+  },
+  {
+    "repo": "Lyy-iiis/pMF",
+    "branch": "main",
+    "language": "Python",
+    "description": "Official Implementation of pMF https://arxiv.org/abs/2601.22158"
+  },
+  {
+    "repo": "kitlangton/tailcode",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": ""
+  },
+  {
+    "repo": "trufflesuite/truffle",
+    "branch": "develop",
+    "language": "TypeScript",
+    "description": ":warning: The Truffle Suite is being sunset. For information on ongoing support, migration options and FAQs, visit the Consensys blog. Thank you for all the support over the years."
+  },
+  {
+    "repo": "tailwindcss/tailwindcss",
+    "branch": "master",
+    "language": "TypeScript",
+    "description": "A utility-first CSS framework for rapid UI development."
+  },
+  {
+    "repo": "cncf/landscape",
+    "branch": "master",
+    "language": "Other",
+    "description": "🌄 The Cloud Native Interactive Landscape filters and sorts hundreds of projects and products, and shows details including GitHub stars, funding, first and last commits, contributor counts and headquarters location."
   }
 ]

@@ -1,8 +1,8 @@
 {
-  "repo": "per-simmons/unreal-agent-harness",
-  "branch": "master",
-  "language": "Python",
-  "description": "AI agents building cities in Unreal Engine 5.8 via the Unreal MCP — free City Sample base + PCG + custom Blender facade kits. Glass city, Paris, Art-Deco, a hand-built Chrysler, and real NYC via Cesium.",
-  "stars": 125,
-  "forks": 16
+  "repo": "Iwanian/Iwana-Proxy",
+  "branch": "main",
+  "language": "Kotlin",
+  "description": "for telegram",
+  "stars": 103,
+  "forks": 1
 }
