@@ -1,8 +1,8 @@
 {
-  "repo": "humation-labs/humation",
+  "repo": "GraeLefix/GITVERSE",
   "branch": "main",
   "language": "TypeScript",
-  "description": "Hand-drawn kawaii avatar engine for your app. No AI, no API calls.",
-  "stars": 125,
-  "forks": 7
+  "description": "🔍 Reverse engineer any codebase into a build prompt — architecture breakdown, ASCII blueprint, and AI-ready reconstruction prompt",
+  "stars": 118,
+  "forks": 1
 }
