@@ -1,146 +1,146 @@
 [
   {
-    "repo": "CuzTeam/hm-rev",
+    "repo": "Udacity-ai/pumpfun-ai-trading-bot",
     "branch": "main",
-    "language": "Python",
-    "description": "DevECO REV"
-  },
-  {
-    "repo": "PKU-YuanGroup/Helios",
-    "branch": "main",
-    "language": "Python",
-    "description": "Helios: Real Real-Time Long Video Generation Model"
-  },
-  {
-    "repo": "pixijs/pixijs",
-    "branch": "dev",
     "language": "TypeScript",
-    "description": "The HTML5 Creation Engine: Create beautiful digital content with the fastest, most flexible 2D WebGL renderer."
+    "description": "OpenAI-powered Pump.fun comment automation on Solana. Thread engagement, proxy support, wallet modes, and local data.json comment bank. ISC. ai trading bot, pumpfun trading bot, trading bot, pumfun ai trading bot,ai trading bot, pumpfun trading bot, trading bot, pumfun ai trading bot,ai trading bot, pumpfun trading bot, trading bot, pumfun trading"
   },
   {
-    "repo": "pocketbase/pocketbase",
+    "repo": "huggingface/transformers",
+    "branch": "main",
+    "language": "Python",
+    "description": "🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training."
+  },
+  {
+    "repo": "sachaa/openbrowserclaw",
     "branch": "master",
-    "language": "Go",
-    "description": "Open Source realtime backend in 1 file"
+    "language": "TypeScript",
+    "description": "Browser-native personal AI assistant. Zero infrastructure, the browser is the server."
   },
   {
-    "repo": "pyinvoke/invoke",
+    "repo": "FireRedTeam/FireRedASR2S",
     "branch": "main",
     "language": "Python",
-    "description": "Pythonic task management & command execution."
+    "description": "FireRedASR2S is a SOTA Industrial-Grade All-in-One ASR system with ASR, VAD, LID, and Punc modules. FireRedASR2 supports Chinese (Mandarin, 20+ dialects/accents), English, code-switching, and singing lyrics recognition. FireRedVAD supports speech/singing/music in 100+ langs. FireRedLID supports 100+ langs and 20+ zh dialects."
   },
   {
-    "repo": "pydantic/pydantic",
-    "branch": "main",
-    "language": "Python",
-    "description": "Data validation using Python type hints"
-  },
-  {
-    "repo": "pypa/pipx",
-    "branch": "main",
-    "language": "Python",
-    "description": "Install and Run Python Applications in Isolated Environments"
-  },
-  {
-    "repo": "google/dopamine",
-    "branch": "master",
-    "language": "Jupyter Notebook",
-    "description": "Dopamine is a research framework for fast prototyping of reinforcement learning algorithms."
-  },
-  {
-    "repo": "Aircoookie/WLED",
-    "branch": "main",
-    "language": "C++",
-    "description": "Control WS2812B and many more types of digital RGB LEDs with an ESP32 over WiFi!"
-  },
-  {
-    "repo": "liangdabiao/Fashion-AI",
-    "branch": "main",
-    "language": "Python",
-    "description": "电商 AI 生图爆款流水线 — 输入新品平铺图，自动检索相似爆款、分析风格，生成专业宣传图。  ## 项目简介  跨境电商场景中，商家每出一款新品都需要制作宣传图（模特穿着商品的照片）。传统方式需要请模特、搭场景、拍摄修图，成本高、周期长。  本项目实现了一套全自动的 AI 生图流水线"
-  },
-  {
-    "repo": "termux/termux-packages",
-    "branch": "master",
-    "language": "Shell",
-    "description": "A package build system for Termux."
-  },
-  {
-    "repo": "pallets/flask",
-    "branch": "main",
-    "language": "Python",
-    "description": "The Python micro framework for building web applications."
-  },
-  {
-    "repo": "Szili1994/create-aeronautics-minecraft-mod",
-    "branch": "main",
-    "language": "Java",
-    "description": "aeronautics create minecraft mod github modrinth curseforge create addon sable physics engine simulated offroad airships planes drones vehicles contraptions neoforge forge 1.21.1 1.20.1 download latest version 2026 setup guide tutorial release free multiplayer server performance optimization fps fix error crash**"
-  },
-  {
-    "repo": "requests/requests",
-    "branch": "main",
-    "language": "Python",
-    "description": "A simple, yet elegant, HTTP library."
-  },
-  {
-    "repo": "zhaoyue4810/pianke",
+    "repo": "test-time-training/discover",
     "branch": "main",
     "language": "Python",
     "description": ""
   },
   {
-    "repo": "tanekaverd64170803960/Lossless-Scaling-Util-V3.0",
-    "branch": "main",
-    "language": "C#",
-    "description": "A standalone utility to configure, optimize, and unlock lossless frame generation and scaling features for any 3D application or game."
-  },
-  {
-    "repo": "kageroumado/phosphene",
-    "branch": "main",
-    "language": "Swift",
-    "description": "A video wallpaper engine for macOS Tahoe"
-  },
-  {
-    "repo": "Tencent/tdesign-vue-next",
-    "branch": "develop",
-    "language": "TypeScript",
-    "description": "A Vue3.x UI components lib for TDesign."
-  },
-  {
-    "repo": "gohugoio/hugo",
+    "repo": "foundry-rs/foundry",
     "branch": "master",
-    "language": "Go",
-    "description": "The world’s fastest framework for building websites."
+    "language": "Rust",
+    "description": "Foundry is a blazing fast, portable and modular toolkit for Ethereum application development written in Rust."
   },
   {
-    "repo": "uktrash/LSFG-Desktop",
+    "repo": "cosmiciron/vmprint",
     "branch": "main",
-    "language": "C#",
-    "description": "Lossless Scaling github steam reddit LSFG 3 frame generation  v3.22, uncap FPS low end PC, AMD FSR NIS scaling, cursor lag fix. Double FPS laptop guide, windowed to borderless fullscreen, ghosting artifact solution, capture API DXGI GDI, half refresh rate VSync. anime4k ,  version , latency reduction, lsfg"
+    "language": "TypeScript",
+    "description": "A pure-JS, zero-dependency typesetting engine that yields bit-perfect PDF output across any runtime—from Cloudflare Workers to the browser. Stop using Headless Chrome to print text."
   },
   {
-    "repo": "restic/restic",
+    "repo": "ygwyg/agent-experience",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "A visual reference to the patterns, surfaces, and infrastructure behind AI agents."
+  },
+  {
+    "repo": "KXJ-WQL/PortalWebsiteSystem",
     "branch": "master",
+    "language": "Java",
+    "description": "☃企业门户系统，基于Springboot和Thymeleaf🎪，使用layui前后端分离"
+  },
+  {
+    "repo": "mnemox-ai/idea-reality-mcp",
+    "branch": "main",
+    "language": "Python",
+    "description": "MCP server that reality-checks your AI project idea against GitHub, Hacker News, npm, PyPI & Product Hunt. Returns a 0-100 reality signal."
+  },
+  {
+    "repo": "sb-ocr/cmdeck",
+    "branch": "main",
+    "language": "HTML",
+    "description": ""
+  },
+  {
+    "repo": "ktorio/ktor",
+    "branch": "main",
+    "language": "Kotlin",
+    "description": "Framework for quickly creating connected applications in Kotlin with minimal effort"
+  },
+  {
+    "repo": "shareAI-lab/claw0",
+    "branch": "main",
+    "language": "Python",
+    "description": "0 - 1 learn OpenClaw: sections to build an claw-AI agent from scratch"
+  },
+  {
+    "repo": "stepfun-ai/Step-3.5-Flash",
+    "branch": "main",
+    "language": "C++",
+    "description": "Fast, Sharp & Reliable Agentic Intelligence"
+  },
+  {
+    "repo": "EleutherAI/gpt-neox",
+    "branch": "main",
+    "language": "Python",
+    "description": "An implementation of model parallel autoregressive transformers on GPUs, based on the Megatron and DeepSpeed libraries"
+  },
+  {
+    "repo": "deepmind/dm-haiku",
+    "branch": "main",
+    "language": "Python",
+    "description": "JAX-based neural network library"
+  },
+  {
+    "repo": "chroma-core/chroma",
+    "branch": "main",
+    "language": "Rust",
+    "description": "Open-source search and retrieval database for AI applications."
+  },
+  {
+    "repo": "vignesh07/babyshark",
+    "branch": "main",
+    "language": "Rust",
+    "description": "Flows-first PCAP TUI (case files, gorgeous UX). Do do do do."
+  },
+  {
+    "repo": "dair-ai/Prompt-Engineering-Guide",
+    "branch": "main",
+    "language": "MDX",
+    "description": "🐙 Guides, papers, lessons, notebooks and resources for prompt engineering, context engineering, RAG, and AI Agents."
+  },
+  {
+    "repo": "KeyID-AI/sdk-js",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Free email for AI agents. No signup, no human needed. Install → provision → send and receive. Ed25519 keypair auth."
+  },
+  {
+    "repo": "TsingmaoAI/xw-cli",
+    "branch": "main",
     "language": "Go",
-    "description": "Fast, secure, efficient backup program"
+    "description": "实现国产算力大模型零门槛部署，一键跑通 Qwen、GLM-4.7、Minimax-2.1、DeepSeek-OCR 等模型"
   },
   {
-    "repo": "openclaw/agent-skills",
+    "repo": "pallets/click",
     "branch": "main",
-    "language": "TypeScript",
-    "description": "Useful skills for agents and claws."
+    "language": "Python",
+    "description": "Python composable command line interface toolkit"
   },
   {
-    "repo": "NamKhoa-07/Voidstrap",
+    "repo": "BquantFinance/licitaciones-espana",
     "branch": "main",
-    "language": "C#",
-    "description": "Voidstrap is a simple yet advanced fork of Bloxstrap, advanced customization and improvements."
+    "language": "Python",
+    "description": ""
   },
   {
-    "repo": "mereses-labs/solana-pumpfun-bundler",
+    "repo": "Fixie-ai/Ultravox",
     "branch": "main",
-    "language": "TypeScript",
-    "description": "🏗️solana pumpfun bundler stealth-mode, bubblemap-bypassing, real bot activity An open-source bundler for pumpfun allows you to create a token and bundle it with 25 buys.Solana bundler Pumpfun bundler  bundler · Bonkfun bundler bundler. Multi-wallet bundler for Solana to"
+    "language": "Python",
+    "description": "A fast multimodal LLM for real-time voice"
   }
 ]
