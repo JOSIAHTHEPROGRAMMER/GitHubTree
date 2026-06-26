@@ -1,146 +1,146 @@
 [
   {
-    "repo": "codeany-ai/codeany",
+    "repo": "johannesjo/parallel-code",
     "branch": "main",
-    "language": "Go",
-    "description": "Open-source AI-powered terminal agent. Built in Go."
+    "language": "TypeScript",
+    "description": "Run Claude Code, Codex, and Gemini side by side — each in      its own git worktree"
   },
   {
-    "repo": "deep-learning-indaba/GoodPracticesML",
+    "repo": "lightningpixel/modly",
     "branch": "main",
+    "language": "TypeScript",
+    "description": "Desktop app to generate 3D models from images using local AI — runs entirely on your GPU"
+  },
+  {
+    "repo": "wenqingyu/ralphy-openspec",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Ralph loop + OpenSpec integration for Cursor, OpenCode and ClaudeCode heavy lifting."
+  },
+  {
+    "repo": "skottrun/extrateto",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Dashboard público que expõe supersalários do Judiciário brasileiro acima do teto constitucional"
+  },
+  {
+    "repo": "ray-project/ray",
+    "branch": "master",
+    "language": "Python",
+    "description": "Ray is an AI compute engine. Ray consists of a core distributed runtime and a set of AI Libraries for accelerating ML workloads."
+  },
+  {
+    "repo": "google/material-design-icons",
+    "branch": "master",
     "language": "Other",
-    "description": "A repository of good practices for developing usable ML products in Africa."
+    "description": "Material Design icons by Google (Material Symbols)"
   },
   {
-    "repo": "amlalabs/amla-sandbox",
-    "branch": "main",
-    "language": "Python",
-    "description": ""
-  },
-  {
-    "repo": "labstack/echo",
-    "branch": "master",
-    "language": "Go",
-    "description": "High performance, minimalist Go web framework"
-  },
-  {
-    "repo": "PaddlePaddle/PaddleDetection",
-    "branch": "develop",
-    "language": "Python",
-    "description": "Object Detection toolkit based on PaddlePaddle. It supports object detection, instance segmentation, multiple object tracking and real-time multi-person keypoint detection."
-  },
-  {
-    "repo": "PyCQA/pylint",
-    "branch": "main",
-    "language": "Python",
-    "description": "It's not just a linter that annoys you!"
-  },
-  {
-    "repo": "PaddlePaddle/PaddleOCR",
-    "branch": "main",
-    "language": "Python",
-    "description": "Turn any PDF or image document into structured data for your AI. A powerful, lightweight OCR toolkit that bridges the gap between images/PDFs and LLMs. Supports 100+ languages."
-  },
-  {
-    "repo": "shuyicc/MathLens",
-    "branch": "main",
-    "language": "Python",
-    "description": "MathLens 是一个专注于数学题目视频讲解的 Agent Skill。你只需粘贴一道数学题（图片或文字），它就能自动完成从题目分析、可视化讲解、配音脚本到 Manim 动画视频的全流程制作。单条视频1-10 分钟，成本 0.2-1 元以内。"
-  },
-  {
-    "repo": "langwatch/kanban-code",
-    "branch": "main",
-    "language": "Swift",
-    "description": ""
-  },
-  {
-    "repo": "anl331/goey-toast",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "A gooey, morphing toast component built on Sonner with Framer Motion animations"
-  },
-  {
-    "repo": "google/googletest",
-    "branch": "main",
-    "language": "C++",
-    "description": "GoogleTest - Google Testing and Mocking Framework"
-  },
-  {
-    "repo": "TabbyML/tabby",
-    "branch": "main",
-    "language": "Rust",
-    "description": "Self-hosted AI coding assistant"
-  },
-  {
-    "repo": "microsoft/fluentui",
-    "branch": "master",
-    "language": "TypeScript",
-    "description": "Fluent UI web represents a collection of utilities, React components, and web components for building web applications."
-  },
-  {
-    "repo": "wesm/msgvault",
+    "repo": "Zouuup/landrun",
     "branch": "main",
     "language": "Go",
-    "description": "Archive a lifetime of email and chat. Offline search, analytics, and AI query over your full message history. Powered by DuckDB"
+    "description": "Run any Linux process in a secure, unprivileged sandbox using Landlock. Think firejail, but lightweight, user-friendly, and baked into the kernel."
   },
   {
-    "repo": "Crestdrasnip/Claude-Zeroclaw",
+    "repo": "sqlalchemy/alembic",
     "branch": "main",
-    "language": "TypeScript",
-    "description": ""
+    "language": "Python",
+    "description": "A database migrations tool for SQLAlchemy."
   },
   {
-    "repo": "facebookresearch/segment-anything",
-    "branch": "main",
-    "language": "Jupyter Notebook",
-    "description": "The repository provides code for running inference with the SegmentAnything Model (SAM), links for downloading the trained model checkpoints, and example notebooks that show how to use the model."
-  },
-  {
-    "repo": "mermaid-js/mermaid",
-    "branch": "develop",
-    "language": "TypeScript",
-    "description": "Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdown"
-  },
-  {
-    "repo": "AlexAnys/feishu-openclaw",
-    "branch": "main",
+    "repo": "webpack-contrib/style-loader",
+    "branch": "master",
     "language": "JavaScript",
-    "description": "Connect 飞书Feishu/Lark bot to openclaw (formerly Clawdbot) — no public server, no domain, no ngrok needed. 稳定免安装、共需5 分钟"
+    "description": "Style Loader"
   },
   {
-    "repo": "LeoYeAI/openclaw-backup",
+    "repo": "mqudsi/monospace-ocr",
+    "branch": "master",
+    "language": "Python",
+    "description": ""
+  },
+  {
+    "repo": "opencontainers/runc",
+    "branch": "main",
+    "language": "Go",
+    "description": "CLI tool for spawning and running containers according to the OCI specification"
+  },
+  {
+    "repo": "mindfold-ai/Trellis",
     "branch": "main",
     "language": "Shell",
-    "description": "One-click backup & restore for OpenClaw instances — workspace, credentials, skills, agent history. Powered by MyClaw.ai"
+    "description": "All-in-one AI framework & toolkit for Claude Code & Cursor"
   },
   {
-    "repo": "DataDog/datadog-agent",
-    "branch": "main",
-    "language": "Go",
-    "description": "Main repository for Datadog Agent"
-  },
-  {
-    "repo": "blacksiders/SkillPointer",
+    "repo": "FireRedTeam/FireRedASR2S",
     "branch": "main",
     "language": "Python",
-    "description": ""
+    "description": "FireRedASR2S is a SOTA Industrial-Grade All-in-One ASR system with ASR, VAD, LID, and Punc modules. FireRedASR2 supports Chinese (Mandarin, 20+ dialects/accents), English, code-switching, and singing lyrics recognition. FireRedVAD supports speech/singing/music in 100+ langs. FireRedLID supports 100+ langs and 20+ zh dialects."
   },
   {
-    "repo": "nextui-org/nextui",
+    "repo": "NVIDIA/apex",
+    "branch": "master",
+    "language": "Python",
+    "description": "A PyTorch Extension:  Tools for easy mixed precision and distributed training in Pytorch"
+  },
+  {
+    "repo": "prisma/graphql-yoga",
     "branch": "main",
     "language": "TypeScript",
-    "description": "🚀 Beautiful, fast and modern React UI library. (Previously NextUI)"
+    "description": "🧘 Rewrite of a fully-featured GraphQL Server with focus on easy setup, performance & great developer experience.  The core of Yoga implements WHATWG Fetch API and can run/deploy on any JS environment."
   },
   {
-    "repo": "sstklen/trump-code",
+    "repo": "mayfer/electrobun-macos-native-blur",
+    "branch": "master",
+    "language": "TypeScript",
+    "description": "Enable background blur like a native app in Electrobun"
+  },
+  {
+    "repo": "junegunn/fzf",
+    "branch": "master",
+    "language": "Go",
+    "description": ":cherry_blossom: A command-line fuzzy finder"
+  },
+  {
+    "repo": "realm/SwiftLint",
+    "branch": "main",
+    "language": "Swift",
+    "description": "A tool to enforce Swift style and conventions."
+  },
+  {
+    "repo": "keras-team/keras-nlp",
+    "branch": "master",
+    "language": "Python",
+    "description": "Pretrained model hub for Keras 3."
+  },
+  {
+    "repo": "Quick/Quick",
+    "branch": "main",
+    "language": "Swift",
+    "description": "The Swift (and Objective-C) testing framework."
+  },
+  {
+    "repo": "asdf-vm/asdf",
+    "branch": "master",
+    "language": "Go",
+    "description": "Extendable version manager with support for Ruby, Node.js, Elixir, Erlang & more"
+  },
+  {
+    "repo": "cloudwego/hertz",
+    "branch": "main",
+    "language": "Go",
+    "description": "Go HTTP framework with high-performance and strong-extensibility for building micro-services."
+  },
+  {
+    "repo": "stedolan/jq",
+    "branch": "master",
+    "language": "C",
+    "description": "Command-line JSON processor"
+  },
+  {
+    "repo": "ythx-101/x-tweet-fetcher",
     "branch": "main",
     "language": "Python",
-    "description": "AI cryptanalysis of Trump's social media posts × stock market impact. 31.5M models tested, 551 survivors, 61.3% hit rate. Live dashboard + open data + API."
-  },
-  {
-    "repo": "frank-vpl/IRBox",
-    "branch": "master",
-    "language": "Rust",
-    "description": "A versatile proxy client supporting multiple protocols including VLESS, VMess, Shadowsocks, Trojan, Hysteria2, and TUIC with advanced management features, subscription support, routing rules, and system proxy/TUN modes"
+    "description": "🦞 Fetch tweets and replies from X/Twitter without login or API keys. OpenClaw skill."
   }
 ]

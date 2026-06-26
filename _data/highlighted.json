@@ -1,8 +1,8 @@
 {
-  "repo": "GraeLefix/GITVERSE",
-  "branch": "main",
-  "language": "TypeScript",
-  "description": "🔍 Reverse engineer any codebase into a build prompt — architecture breakdown, ASCII blueprint, and AI-ready reconstruction prompt",
-  "stars": 118,
-  "forks": 1
+  "repo": "per-simmons/unreal-agent-harness",
+  "branch": "master",
+  "language": "Python",
+  "description": "AI agents building cities in Unreal Engine 5.8 via the Unreal MCP — free City Sample base + PCG + custom Blender facade kits. Glass city, Paris, Art-Deco, a hand-built Chrysler, and real NYC via Cesium.",
+  "stars": 125,
+  "forks": 16
 }
