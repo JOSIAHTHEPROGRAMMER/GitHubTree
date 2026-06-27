@@ -1,146 +1,146 @@
 [
   {
-    "repo": "momenbasel/PureMac",
+    "repo": "robinebers/openusage",
     "branch": "main",
-    "language": "Swift",
-    "description": "Free, open-source macOS cleaner. CleanMyMac alternative with zero telemetry. Native SwiftUI, scheduled auto-cleaning, Xcode/Homebrew/system cache cleanup. MIT licensed."
+    "language": "TypeScript",
+    "description": "A plugin-based menu bar app for tracking AI coding tool subscriptions like Cursor, Claude, Codex and more, all in one place with a heavy focus user experience, speed, and stability."
   },
   {
-    "repo": "anthropics/claudes-c-compiler",
+    "repo": "vercel/eve",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "The Framework for Building Agents"
+  },
+  {
+    "repo": "m0at/rvllm",
     "branch": "main",
     "language": "Rust",
-    "description": "Claude Opus 4.6 wrote a dependency-free C compiler in Rust, with backends targeting x86 (64- and 32-bit), ARM, and RISC-V, capable of compiling a booting Linux kernel."
+    "description": "rvLLM: High-performance LLM inference in Rust. Drop-in vLLM replacement."
   },
   {
-    "repo": "TQZHR/grok2api",
-    "branch": "main",
-    "language": "Python",
-    "description": "Grok2API (Cloudflare Workers) one-click deploy with auto D1+KV provisioning"
-  },
-  {
-    "repo": "BradGroux/veritas-kanban",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "The unfiltered truth about where your project stands. Lightweight kanban built for the agentic AI era."
-  },
-  {
-    "repo": "vueuse/skills",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Agent Skills for VueUse"
-  },
-  {
-    "repo": "mikeyobrien/rho",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "An AI agent that stays running, remembers across sessions, and checks in on its own. macOS, Linux, Android. Built on Pi."
-  },
-  {
-    "repo": "jesselau76/cigen",
+    "repo": "openclaw/clawsweeper",
     "branch": "main",
     "language": "JavaScript",
-    "description": "Interactive root/affix vocabulary memory web app"
+    "description": "ClawSweeper scans all issues and PRs and suggest what we can close, and why. It runs every PR / Issue once a week."
   },
   {
-    "repo": "milanm/AutoGrad-Engine",
+    "repo": "htimesnine/DarkSword-RCE",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "DarkSword webkit exploit captured ITW"
+  },
+  {
+    "repo": "Amansingh-afk/milli.nvim",
+    "branch": "main",
+    "language": "Lua",
+    "description": "Animated ASCII splash screens for Neovim. 29 bundled splashes + bring your own via the   milli CLI / web playground."
+  },
+  {
+    "repo": "vmi-rs/ephemera",
+    "branch": "master",
+    "language": "Rust",
+    "description": "Multiplatform MEMORY.DMP analysis tool with a WinDbg flavor"
+  },
+  {
+    "repo": "infraform/polymarket-copytrading-bot-sports",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "polymarket copytrading bot polymarket copy trading bot polymarket copytrading bot polymarket copy trading bot polymarket copytrading bot polymarket copy trading bot polymarket copytrading bot polymarket copy trading bot polymarket copytrading bot polymarket copy trading bot polymarket copytrading bot polymarket copy trading bot polymarket bot"
+  },
+  {
+    "repo": "future-agi/future-agi",
+    "branch": "main",
+    "language": "Python",
+    "description": "Open-source, end-to-end platform for evaluating, observing, and improving LLM and AI agent applications. Tracing · Evals · Simulations · Datasets · Gateway · Guardrails. Self-hostable. Apache 2.0."
+  },
+  {
+    "repo": "NV404/gova",
+    "branch": "main",
+    "language": "Go",
+    "description": "declarative GUI framework for Go"
+  },
+  {
+    "repo": "StartupHakk/OpenMonoAgent.ai",
     "branch": "main",
     "language": "C#",
-    "description": "A complete GPT language model (training and inference) in pure C# with zero dependencies."
+    "description": "(BETA) AI shouldn't have a meter. Unlimited tokens. Forever. Your machine. Your agent. Use it from anywhere. Terminal-native coding agent powered by local LLMs — 100% open source, free forever, and installed with a single command. Proudly built on C#/.NET, because AI tooling should be infrastructure, not a subscription."
   },
   {
-    "repo": "vansh-nagar/ascii-studio",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Turn Videos into ASCII Frames - real ascii frames (character-based frames that run smoothly in sequence)"
-  },
-  {
-    "repo": "mattmireles/gemma-tuner-multimodal",
+    "repo": "XiaomiMiMo/MiMo-V2.5-ASR",
     "branch": "main",
     "language": "Python",
-    "description": "Fine-tune Gemma 4 and 3n with audio, images and text on Apple Silicon, using PyTorch and Metal Performance Shaders."
-  },
-  {
-    "repo": "phuc-nt/my-translator",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "Real-time speech translation for macOS — open source, no tracking, direct Soniox API"
-  },
-  {
-    "repo": "sass/libsass",
-    "branch": "master",
-    "language": "C++",
-    "description": "A C/C++ implementation of a Sass compiler"
-  },
-  {
-    "repo": "lukilabs/beautiful-mermaid-swift",
-    "branch": "main",
-    "language": "Swift",
-    "description": "Native Mermaid diagram renderer for Swift"
-  },
-  {
-    "repo": "ok-oldking/ok-end-field",
-    "branch": "master",
-    "language": "Python",
-    "description": "终末地 End Field Automation 基于ok-script开发的自动化"
-  },
-  {
-    "repo": "Lyy-iiis/pMF",
-    "branch": "main",
-    "language": "Python",
-    "description": "Official Implementation of pMF https://arxiv.org/abs/2601.22158"
-  },
-  {
-    "repo": "bazelbuild/bazel",
-    "branch": "master",
-    "language": "Java",
-    "description": "a fast, scalable, multi-language and extensible build system"
-  },
-  {
-    "repo": "airbnb/knowledge-repo",
-    "branch": "master",
-    "language": "Python",
-    "description": "A next-generation curated knowledge sharing platform for data scientists and other technical professions."
-  },
-  {
-    "repo": "brianc/node-postgres",
-    "branch": "master",
-    "language": "JavaScript",
-    "description": "PostgreSQL client for node.js."
-  },
-  {
-    "repo": "mnapoli/vibephp",
-    "branch": "main",
-    "language": "PHP",
-    "description": "A PHP engine that runs on vibes, not code."
-  },
-  {
-    "repo": "revfactory/harness",
-    "branch": "main",
-    "language": "HTML",
-    "description": "A meta-skill that designs domain-specific agent teams, defines specialized agents, and generates the skills they use."
-  },
-  {
-    "repo": "saimon4u/Drive-Pool",
-    "branch": "main",
-    "language": "TypeScript",
     "description": ""
   },
   {
-    "repo": "zubair-trabzada/ai-legal-claude",
+    "repo": "GammaLabTechnologies/harmonist",
     "branch": "main",
     "language": "Python",
-    "description": "AI Legal Assistant skill for Claude Code. Contract review, risk analysis, NDA generation, compliance auditing, negotiation strategy, and PDF reports — 14 skills, 5 parallel agents. If you want to learn how to sell this to real businesses, check out the Skool community"
+    "description": "Portable AI agent orchestration with mechanical protocol enforcement. 186 agents, zero runtime dependencies."
   },
   {
-    "repo": "mbeijen/andrej-karpathy-skills-cursor-vscode",
+    "repo": "infixity24/Extreme-Injector-v3.7.3-Dll-Injector",
+    "branch": "main",
+    "language": "C++",
+    "description": "Extreme Injector v3.7.3 is a powerful and easy-to-use DLL injector for Windows. Supports Manual Map, Stealth mode, Auto-Inject, and multiple injection methods. Ideal for developers and single-player game modding."
+  },
+  {
+    "repo": "UnluckyNinja/SBTI-test",
+    "branch": "main",
+    "language": "HTML",
+    "description": "https://sbti.unun.dev 原作者：B站@蛆肉儿串儿"
+  },
+  {
+    "repo": "alexandercodes4/AirTrain",
+    "branch": "master",
+    "language": "Python",
+    "description": "Distributed ML training across Apple Silicon Macs"
+  },
+  {
+    "repo": "beita6969/claude-code",
     "branch": "main",
     "language": "TypeScript",
-    "description": "Andrej Karpathy skills for your Cursor or VS Code editor"
+    "description": "Claude Code Source - Buildable Research Fork. Reverse-engineered build system, runnable with Bun."
   },
   {
-    "repo": "TACOWASA059/katamariio",
+    "repo": "Vacutagin/GameEnhancementSuite",
     "branch": "main",
-    "language": "Java",
-    "description": "[Forge1.20.1] 球体を操作して周囲のブロックを巻き込み大きくなれるMOD"
+    "language": "Python",
+    "description": "Advanced Gaming Enhancement Platform for Modern Titles.Enhance your gaming experience with performance optimization, visual improvements, and quality-of-life features"
+  },
+  {
+    "repo": "techjarves/OpenClaude-Portable",
+    "branch": "main",
+    "language": "HTML",
+    "description": "Run Claude Code from a USB drive on any PC — no installation required."
+  },
+  {
+    "repo": "Railly/agentfiles",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Discover, organize, and edit AI coding agent skills across Claude Code, Cursor, Codex, Windsurf, and more, from inside Obsidian."
+  },
+  {
+    "repo": "0x5uo2hen/codex_register",
+    "branch": "main",
+    "language": "Python",
+    "description": "OpenAI / ChatGPT 全自动注册机 & Token 提取器"
+  },
+  {
+    "repo": "poseljacob/agentic-video-editor",
+    "branch": "main",
+    "language": "Python",
+    "description": "AI-powered video editor that turns raw footage and a creative brief into a polished ad using an ensemble of AI agents (Google Gemini + FFmpeg)"
+  },
+  {
+    "repo": "endless-sky-team/ai-trading-agent",
+    "branch": "master",
+    "language": "TypeScript",
+    "description": "llm trading bot ai agent crypto bitcoin ethereum perpetuals openrouter lighter algorithmic automated quant typescript react postgres bun fintech defi machine-learning open-source crypto-bot signals"
+  },
+  {
+    "repo": "andrew-shwetzer/career-ops-plugin",
+    "branch": "main",
+    "language": "HTML",
+    "description": "Claude Cowork plugin for job seekers. Evaluate postings, generate ATS resumes, scan career portals, track applications. Any industry. Adapted from santifer/career-ops."
   }
 ]
