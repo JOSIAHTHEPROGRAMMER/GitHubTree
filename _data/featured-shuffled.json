@@ -1,57 +1,45 @@
 [
   {
-    "repo": "reduxjs/redux-toolkit",
-    "branch": "master",
-    "language": "TypeScript",
-    "description": "The official, opinionated, batteries-included toolset for efficient Redux development"
-  },
-  {
-    "repo": "marswaveai/TypeNo",
+    "repo": "pretyflaco/meetscribe",
     "branch": "main",
-    "language": "Swift",
-    "description": "A free, open source, privacy-first voice input app for macOS."
-  },
-  {
-    "repo": "ReactiveX/RxKotlin",
-    "branch": "3.x",
-    "language": "Kotlin",
-    "description": "RxJava bindings for Kotlin"
-  },
-  {
-    "repo": "mochajs/mocha",
-    "branch": "master",
-    "language": "JavaScript",
-    "description": "☕️ Classic, reliable, trusted test framework for Node.js and the browser"
-  },
-  {
-    "repo": "angular/components",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Component infrastructure and Material Design components for Angular"
-  },
-  {
-    "repo": "SVProgressHUD/SVProgressHUD",
-    "branch": "master",
-    "language": "Objective-C",
-    "description": "A clean and lightweight progress HUD for your iOS and tvOS app."
-  },
-  {
-    "repo": "cockroachdb/cockroach",
-    "branch": "master",
-    "language": "Go",
-    "description": "CockroachDB — the cloud native, distributed SQL database designed for high availability, effortless scale, and control over data placement."
-  },
-  {
-    "repo": "microsoft/unilm",
-    "branch": "master",
     "language": "Python",
-    "description": "Large-scale Self-supervised Pre-training Across Tasks, Languages, and Modalities"
+    "description": "Fully local meeting transcription with speaker diarization, AI summaries, and PDF output"
   },
   {
-    "repo": "pyenv/pyenv",
-    "branch": "master",
-    "language": "Shell",
-    "description": "Simple Python version management"
+    "repo": "0xquqi/crypto-kol-quant",
+    "branch": "main",
+    "language": "HTML",
+    "description": "首个将99位加密KOL交易经验LLM蒸馏为可回测量化因子的开源项目 | First to distill 99 crypto KOL trading experience into backtestable quant factors via LLM"
+  },
+  {
+    "repo": "torproject/tor",
+    "branch": "main",
+    "language": "Other",
+    "description": "unofficial git repo -- report bugs/issues/pull requests on https://gitlab.torproject.org/ --"
+  },
+  {
+    "repo": "agno-agi/dash",
+    "branch": "main",
+    "language": "Python",
+    "description": "Self-learning data agent that grounds its answers in 6 layers of context and improves with every run. Inspired by OpenAI's in-house implementation."
+  },
+  {
+    "repo": "suborbital/sat",
+    "branch": "main",
+    "language": "Go",
+    "description": "Tiny & fast WebAssembly edge compute server"
+  },
+  {
+    "repo": "CalyxOS/calyxos",
+    "branch": "main",
+    "language": "HTML",
+    "description": "CalyxOS - Google-free Android"
+  },
+  {
+    "repo": "better-auth/better-icons",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Skill and MCP server for searching and retrieving icons"
   },
   {
     "repo": "gothinkster/realworld",
@@ -60,87 +48,99 @@
     "description": "The mother of all demo apps — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more"
   },
   {
-    "repo": "boto/boto",
-    "branch": "develop",
-    "language": "Python",
-    "description": "For the latest version of boto, see https://github.com/boto/boto3 -- Python interface to Amazon Web Services"
-  },
-  {
-    "repo": "wagoodman/dive",
+    "repo": "confluentinc/kafka-rest",
     "branch": "master",
-    "language": "Go",
-    "description": "A tool for exploring each layer in a docker image"
+    "language": "Java",
+    "description": "Confluent REST Proxy for Kafka"
   },
   {
-    "repo": "TanStack/query",
+    "repo": "ByteDance-Seed/Seed-Thinking-v1.5",
     "branch": "main",
-    "language": "TypeScript",
-    "description": "🤖 Powerful asynchronous state management, server-state utilities and data fetching for the web. TS/JS, React Query, Solid Query, Svelte Query and Vue Query."
-  },
-  {
-    "repo": "vava-nessa/free-coding-models",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": ""
-  },
-  {
-    "repo": "pytube/pytube",
-    "branch": "master",
-    "language": "Python",
-    "description": "A lightweight, dependency-free Python library (and command-line utility) for downloading YouTube Videos."
-  },
-  {
-    "repo": "uhub/awesome-cpp",
-    "branch": "master",
     "language": "Other",
-    "description": "A curated list of awesome C++ frameworks, libraries and software."
+    "description": "Seed-Thinking-v1.5 Model Release."
   },
   {
-    "repo": "numpy/numpy",
-    "branch": "main",
-    "language": "Python",
-    "description": "The fundamental package for scientific computing with Python."
+    "repo": "mrdoob/three.js",
+    "branch": "dev",
+    "language": "JavaScript",
+    "description": "JavaScript 3D Library."
   },
   {
-    "repo": "trailofbits/algo",
+    "repo": "graphql-rust/juniper",
     "branch": "master",
-    "language": "Python",
-    "description": "Set up a personal VPN in the cloud"
+    "language": "Rust",
+    "description": "GraphQL server library for Rust"
   },
   {
-    "repo": "kubernetes-sigs/metrics-server",
-    "branch": "master",
-    "language": "Go",
-    "description": "Scalable and efficient source of container resource metrics for Kubernetes built-in autoscaling pipelines."
-  },
-  {
-    "repo": "realm/realm-swift",
-    "branch": "master",
-    "language": "Objective-C",
-    "description": "Realm is a mobile database: a replacement for Core Data & SQLite"
-  },
-  {
-    "repo": "apollographql/apollo-server",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "🌍  Spec-compliant and production ready JavaScript GraphQL server that lets you develop in a schema-first way. Built for Express, Connect, Hapi, Koa, and more."
-  },
-  {
-    "repo": "dotnet/maui",
-    "branch": "main",
-    "language": "C#",
-    "description": ".NET MAUI is the .NET Multi-platform App UI, a framework for building native device applications spanning mobile, tablet, and desktop."
-  },
-  {
-    "repo": "typeorm/typeorm",
-    "branch": "master",
-    "language": "TypeScript",
-    "description": "ORM for TypeScript and JavaScript. Supports MySQL, PostgreSQL, MariaDB, SQLite, MS SQL Server, Oracle, SAP Hana, WebSQL databases. Works in NodeJS, Browser, Ionic, Cordova and Electron platforms."
-  },
-  {
-    "repo": "protocolbuffers/protobuf",
+    "repo": "duckdb/duckdb",
     "branch": "main",
     "language": "C++",
-    "description": "Protocol Buffers - Google's data interchange format"
+    "description": "DuckDB is an analytical in-process SQL database management system"
+  },
+  {
+    "repo": "Robbyant/lingbot-world",
+    "branch": "main",
+    "language": "Python",
+    "description": "Advancing Open-source World Models"
+  },
+  {
+    "repo": "denoland/deno",
+    "branch": "main",
+    "language": "Rust",
+    "description": "A modern runtime for JavaScript and TypeScript."
+  },
+  {
+    "repo": "fastai/course-v3",
+    "branch": "master",
+    "language": "Jupyter Notebook",
+    "description": "The 3rd edition of course.fast.ai"
+  },
+  {
+    "repo": "wolffcatskyy/crowdsec-blocklist-import",
+    "branch": "main",
+    "language": "Shell",
+    "description": "Dockerized tool to import public threat feeds into CrowdSec - 28+ free blocklists, 60k+ IPs"
+  },
+  {
+    "repo": "spotipy-dev/spotipy",
+    "branch": "master",
+    "language": "Python",
+    "description": "A light weight Python library for the Spotify Web API"
+  },
+  {
+    "repo": "cortexproject/cortex",
+    "branch": "master",
+    "language": "Go",
+    "description": "A horizontally scalable, highly available, multi-tenant, long term Prometheus."
+  },
+  {
+    "repo": "LeCoupa/awesome-cheatsheets",
+    "branch": "master",
+    "language": "JavaScript",
+    "description": "👩‍💻👨‍💻 Awesome cheatsheets for popular programming languages, frameworks and development tools. They include everything you should know in one single file."
+  },
+  {
+    "repo": "mgks/GitHubTree",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "Visualise any GitHub repository folder structure. Available as a web app, CLI tool, and node.js library."
+  },
+  {
+    "repo": "newrelic/newrelic-python-agent",
+    "branch": "main",
+    "language": "Python",
+    "description": "New Relic Python Agent"
+  },
+  {
+    "repo": "thanos-io/thanos",
+    "branch": "main",
+    "language": "Go",
+    "description": "Highly available Prometheus setup with long term storage capabilities. A CNCF Incubating project."
+  },
+  {
+    "repo": "zarazhangrui/youtube-to-ebook",
+    "branch": "main",
+    "language": "Python",
+    "description": "Claude skill for turning YouTube transcripts from your favorite channels into EPUB ebooks, delivered to your email inbox regularly"
   }
 ]

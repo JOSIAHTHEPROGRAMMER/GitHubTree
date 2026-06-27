@@ -1,8 +1,8 @@
 {
-  "repo": "entropykit/entropia",
+  "repo": "Hatari130/map-creator",
   "branch": "main",
-  "language": "C",
-  "description": "A compiled language for Windows position-independent x86-64 shellcode and Beacon Object Files.",
-  "stars": 114,
-  "forks": 10
+  "language": "Python",
+  "description": "结合gis+gpt，用自然语言生成可商用城市打卡地图",
+  "stars": 112,
+  "forks": 8
 }
