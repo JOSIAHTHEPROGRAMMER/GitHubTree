@@ -1,117 +1,87 @@
 [
   {
-    "repo": "bestpracticaI/kalshi-ai-trading-bot",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Kalshi prediction markets trading bot algorithmic automated trading TypeScript Node.js Kalshi REST API RSA signing OpenRouter LLM CLI npm quant fintech event contracts market making exchange API bot Kalshi SDK"
-  },
-  {
-    "repo": "linguo2625469/qq-farm-bot",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "基于 Node.js 的 QQ 经典农场小程序自动化挂机脚本。通过分析小程序 WebSocket 通信协议（Protocol Buffers），实现全自动农场管理。"
-  },
-  {
-    "repo": "openai/gym",
-    "branch": "master",
-    "language": "Python",
-    "description": "A toolkit for developing and comparing reinforcement learning algorithms."
-  },
-  {
-    "repo": "dev-protocol/polymarket-copy-bot",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Polymarket Copy Trading Bot, Polymarket Copy Trading Bot, Polymarket Copy Trading Bot, Polymarket Copy Trading Bot, Polymarket Copy Trading Bot, Polymarket Copy Trading Bot, Polymarket Copy Trading Bot, Polymarket Copy Trading Bot, Polymarket Copy Trading Bot, Polymarket Copy Trading Bot, Polymarket Copy Trading Bot, Polymarket Copy Trading Bot"
-  },
-  {
-    "repo": "tnbeznlacut/sora2-watermark-deleter-windows-macos",
-    "branch": "main",
-    "language": "Python",
-    "description": "sora2 watermark deleter windows macos"
-  },
-  {
-    "repo": "vercel/hyper",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "A terminal built on web technologies"
-  },
-  {
-    "repo": "aio-libs/aiohttp",
-    "branch": "master",
-    "language": "Python",
-    "description": "Asynchronous HTTP client/server framework for asyncio and Python"
-  },
-  {
-    "repo": "LanRhyme/MicYou",
-    "branch": "master",
-    "language": "Kotlin",
-    "description": "MicYou is a powerful tool that turns your Android device into a high-quality wireless microphone for your PC."
-  },
-  {
-    "repo": "langgenius/dify",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Production-ready platform for agentic workflow development."
-  },
-  {
-    "repo": "xbhatsmymom39/tradingview-full-version-unlocker",
-    "branch": "main",
-    "language": "Python",
-    "description": "TradingView Full version unlocker"
-  },
-  {
-    "repo": "elder-plinius/GLOSSOPETRAE",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "LINGUISTIC ENGINE FOR AI"
-  },
-  {
-    "repo": "laravel/laravel",
-    "branch": "11.x",
-    "language": "Blade",
-    "description": "Laravel is a web application framework with expressive, elegant syntax. We’ve already laid the foundation for your next big idea — freeing you to create without sweating the small things."
-  },
-  {
-    "repo": "sonpiaz/evox",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": ""
-  },
-  {
-    "repo": "op7418/Claude-to-IM",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Host-agnostic bridge connecting Claude Code SDK to IM platforms (Telegram, Discord, Feishu)"
-  },
-  {
-    "repo": "pointfreeco/swift-composable-architecture",
+    "repo": "momenbasel/PureMac",
     "branch": "main",
     "language": "Swift",
-    "description": "A library for building applications in a consistent and understandable way, with composition, testing, and ergonomics in mind."
+    "description": "Free, open-source macOS cleaner. CleanMyMac alternative with zero telemetry. Native SwiftUI, scheduled auto-cleaning, Xcode/Homebrew/system cache cleanup. MIT licensed."
   },
   {
-    "repo": "jimuzhe/tiez-clipboard",
-    "branch": "master",
-    "language": "TypeScript",
-    "description": "TieZ 是一款基于 Tauri 的跨平台剪贴板管理器 / A cross-platform clipboard manager with history, tags, sync, privacy protection, and fast daily workflows."
-  },
-  {
-    "repo": "mdp/linkedin-extension-fingerprinting",
+    "repo": "anthropics/claudes-c-compiler",
     "branch": "main",
-    "language": "JavaScript",
-    "description": ""
+    "language": "Rust",
+    "description": "Claude Opus 4.6 wrote a dependency-free C compiler in Rust, with backends targeting x86 (64- and 32-bit), ARM, and RISC-V, capable of compiling a booting Linux kernel."
   },
   {
-    "repo": "Norman-bury/articlewriting-skill",
+    "repo": "TQZHR/grok2api",
     "branch": "main",
     "language": "Python",
-    "description": "科研写作助手 (Research Writing Assistant)"
+    "description": "Grok2API (Cloudflare Workers) one-click deploy with auto D1+KV provisioning"
   },
   {
-    "repo": "kubernetes-sigs/external-dns",
+    "repo": "BradGroux/veritas-kanban",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "The unfiltered truth about where your project stands. Lightweight kanban built for the agentic AI era."
+  },
+  {
+    "repo": "vueuse/skills",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Agent Skills for VueUse"
+  },
+  {
+    "repo": "mikeyobrien/rho",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "An AI agent that stays running, remembers across sessions, and checks in on its own. macOS, Linux, Android. Built on Pi."
+  },
+  {
+    "repo": "jesselau76/cigen",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "Interactive root/affix vocabulary memory web app"
+  },
+  {
+    "repo": "milanm/AutoGrad-Engine",
+    "branch": "main",
+    "language": "C#",
+    "description": "A complete GPT language model (training and inference) in pure C# with zero dependencies."
+  },
+  {
+    "repo": "vansh-nagar/ascii-studio",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Turn Videos into ASCII Frames - real ascii frames (character-based frames that run smoothly in sequence)"
+  },
+  {
+    "repo": "mattmireles/gemma-tuner-multimodal",
+    "branch": "main",
+    "language": "Python",
+    "description": "Fine-tune Gemma 4 and 3n with audio, images and text on Apple Silicon, using PyTorch and Metal Performance Shaders."
+  },
+  {
+    "repo": "phuc-nt/my-translator",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "Real-time speech translation for macOS — open source, no tracking, direct Soniox API"
+  },
+  {
+    "repo": "sass/libsass",
     "branch": "master",
-    "language": "Go",
-    "description": "Configure external DNS servers dynamically from Kubernetes resources"
+    "language": "C++",
+    "description": "A C/C++ implementation of a Sass compiler"
+  },
+  {
+    "repo": "lukilabs/beautiful-mermaid-swift",
+    "branch": "main",
+    "language": "Swift",
+    "description": "Native Mermaid diagram renderer for Swift"
+  },
+  {
+    "repo": "ok-oldking/ok-end-field",
+    "branch": "master",
+    "language": "Python",
+    "description": "终末地 End Field Automation 基于ok-script开发的自动化"
   },
   {
     "repo": "Lyy-iiis/pMF",
@@ -120,27 +90,57 @@
     "description": "Official Implementation of pMF https://arxiv.org/abs/2601.22158"
   },
   {
-    "repo": "kitlangton/tailcode",
+    "repo": "bazelbuild/bazel",
+    "branch": "master",
+    "language": "Java",
+    "description": "a fast, scalable, multi-language and extensible build system"
+  },
+  {
+    "repo": "airbnb/knowledge-repo",
+    "branch": "master",
+    "language": "Python",
+    "description": "A next-generation curated knowledge sharing platform for data scientists and other technical professions."
+  },
+  {
+    "repo": "brianc/node-postgres",
+    "branch": "master",
+    "language": "JavaScript",
+    "description": "PostgreSQL client for node.js."
+  },
+  {
+    "repo": "mnapoli/vibephp",
+    "branch": "main",
+    "language": "PHP",
+    "description": "A PHP engine that runs on vibes, not code."
+  },
+  {
+    "repo": "revfactory/harness",
+    "branch": "main",
+    "language": "HTML",
+    "description": "A meta-skill that designs domain-specific agent teams, defines specialized agents, and generates the skills they use."
+  },
+  {
+    "repo": "saimon4u/Drive-Pool",
     "branch": "main",
     "language": "TypeScript",
     "description": ""
   },
   {
-    "repo": "trufflesuite/truffle",
-    "branch": "develop",
-    "language": "TypeScript",
-    "description": ":warning: The Truffle Suite is being sunset. For information on ongoing support, migration options and FAQs, visit the Consensys blog. Thank you for all the support over the years."
+    "repo": "zubair-trabzada/ai-legal-claude",
+    "branch": "main",
+    "language": "Python",
+    "description": "AI Legal Assistant skill for Claude Code. Contract review, risk analysis, NDA generation, compliance auditing, negotiation strategy, and PDF reports — 14 skills, 5 parallel agents. If you want to learn how to sell this to real businesses, check out the Skool community"
   },
   {
-    "repo": "tailwindcss/tailwindcss",
-    "branch": "master",
+    "repo": "mbeijen/andrej-karpathy-skills-cursor-vscode",
+    "branch": "main",
     "language": "TypeScript",
-    "description": "A utility-first CSS framework for rapid UI development."
+    "description": "Andrej Karpathy skills for your Cursor or VS Code editor"
   },
   {
-    "repo": "cncf/landscape",
-    "branch": "master",
-    "language": "Other",
-    "description": "🌄 The Cloud Native Interactive Landscape filters and sorts hundreds of projects and products, and shows details including GitHub stars, funding, first and last commits, contributor counts and headquarters location."
+    "repo": "TACOWASA059/katamariio",
+    "branch": "main",
+    "language": "Java",
+    "description": "[Forge1.20.1] 球体を操作して周囲のブロックを巻き込み大きくなれるMOD"
   }
 ]

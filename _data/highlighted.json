@@ -1,8 +1,8 @@
 {
-  "repo": "Iwanian/Iwana-Proxy",
+  "repo": "entropykit/entropia",
   "branch": "main",
-  "language": "Kotlin",
-  "description": "for telegram",
-  "stars": 103,
-  "forks": 1
+  "language": "C",
+  "description": "A compiled language for Windows position-independent x86-64 shellcode and Beacon Object Files.",
+  "stars": 110,
+  "forks": 8
 }
