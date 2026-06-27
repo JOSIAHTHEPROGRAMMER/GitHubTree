@@ -1,146 +1,146 @@
 [
   {
-    "repo": "robinebers/openusage",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "A plugin-based menu bar app for tracking AI coding tool subscriptions like Cursor, Claude, Codex and more, all in one place with a heavy focus user experience, speed, and stability."
-  },
-  {
-    "repo": "vercel/eve",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "The Framework for Building Agents"
-  },
-  {
-    "repo": "m0at/rvllm",
-    "branch": "main",
-    "language": "Rust",
-    "description": "rvLLM: High-performance LLM inference in Rust. Drop-in vLLM replacement."
-  },
-  {
-    "repo": "openclaw/clawsweeper",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "ClawSweeper scans all issues and PRs and suggest what we can close, and why. It runs every PR / Issue once a week."
-  },
-  {
-    "repo": "htimesnine/DarkSword-RCE",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "DarkSword webkit exploit captured ITW"
-  },
-  {
-    "repo": "Amansingh-afk/milli.nvim",
-    "branch": "main",
-    "language": "Lua",
-    "description": "Animated ASCII splash screens for Neovim. 29 bundled splashes + bring your own via the   milli CLI / web playground."
-  },
-  {
-    "repo": "vmi-rs/ephemera",
+    "repo": "reduxjs/redux-toolkit",
     "branch": "master",
-    "language": "Rust",
-    "description": "Multiplatform MEMORY.DMP analysis tool with a WinDbg flavor"
+    "language": "TypeScript",
+    "description": "The official, opinionated, batteries-included toolset for efficient Redux development"
   },
   {
-    "repo": "infraform/polymarket-copytrading-bot-sports",
+    "repo": "marswaveai/TypeNo",
+    "branch": "main",
+    "language": "Swift",
+    "description": "A free, open source, privacy-first voice input app for macOS."
+  },
+  {
+    "repo": "ReactiveX/RxKotlin",
+    "branch": "3.x",
+    "language": "Kotlin",
+    "description": "RxJava bindings for Kotlin"
+  },
+  {
+    "repo": "mochajs/mocha",
+    "branch": "master",
+    "language": "JavaScript",
+    "description": "☕️ Classic, reliable, trusted test framework for Node.js and the browser"
+  },
+  {
+    "repo": "angular/components",
     "branch": "main",
     "language": "TypeScript",
-    "description": "polymarket copytrading bot polymarket copy trading bot polymarket copytrading bot polymarket copy trading bot polymarket copytrading bot polymarket copy trading bot polymarket copytrading bot polymarket copy trading bot polymarket copytrading bot polymarket copy trading bot polymarket copytrading bot polymarket copy trading bot polymarket bot"
+    "description": "Component infrastructure and Material Design components for Angular"
   },
   {
-    "repo": "future-agi/future-agi",
-    "branch": "main",
-    "language": "Python",
-    "description": "Open-source, end-to-end platform for evaluating, observing, and improving LLM and AI agent applications. Tracing · Evals · Simulations · Datasets · Gateway · Guardrails. Self-hostable. Apache 2.0."
+    "repo": "SVProgressHUD/SVProgressHUD",
+    "branch": "master",
+    "language": "Objective-C",
+    "description": "A clean and lightweight progress HUD for your iOS and tvOS app."
   },
   {
-    "repo": "NV404/gova",
-    "branch": "main",
+    "repo": "cockroachdb/cockroach",
+    "branch": "master",
     "language": "Go",
-    "description": "declarative GUI framework for Go"
+    "description": "CockroachDB — the cloud native, distributed SQL database designed for high availability, effortless scale, and control over data placement."
   },
   {
-    "repo": "StartupHakk/OpenMonoAgent.ai",
-    "branch": "main",
-    "language": "C#",
-    "description": "(BETA) AI shouldn't have a meter. Unlimited tokens. Forever. Your machine. Your agent. Use it from anywhere. Terminal-native coding agent powered by local LLMs — 100% open source, free forever, and installed with a single command. Proudly built on C#/.NET, because AI tooling should be infrastructure, not a subscription."
-  },
-  {
-    "repo": "XiaomiMiMo/MiMo-V2.5-ASR",
-    "branch": "main",
+    "repo": "microsoft/unilm",
+    "branch": "master",
     "language": "Python",
+    "description": "Large-scale Self-supervised Pre-training Across Tasks, Languages, and Modalities"
+  },
+  {
+    "repo": "pyenv/pyenv",
+    "branch": "master",
+    "language": "Shell",
+    "description": "Simple Python version management"
+  },
+  {
+    "repo": "gothinkster/realworld",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "The mother of all demo apps — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more"
+  },
+  {
+    "repo": "boto/boto",
+    "branch": "develop",
+    "language": "Python",
+    "description": "For the latest version of boto, see https://github.com/boto/boto3 -- Python interface to Amazon Web Services"
+  },
+  {
+    "repo": "wagoodman/dive",
+    "branch": "master",
+    "language": "Go",
+    "description": "A tool for exploring each layer in a docker image"
+  },
+  {
+    "repo": "TanStack/query",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "🤖 Powerful asynchronous state management, server-state utilities and data fetching for the web. TS/JS, React Query, Solid Query, Svelte Query and Vue Query."
+  },
+  {
+    "repo": "vava-nessa/free-coding-models",
+    "branch": "main",
+    "language": "JavaScript",
     "description": ""
   },
   {
-    "repo": "GammaLabTechnologies/harmonist",
-    "branch": "main",
+    "repo": "pytube/pytube",
+    "branch": "master",
     "language": "Python",
-    "description": "Portable AI agent orchestration with mechanical protocol enforcement. 186 agents, zero runtime dependencies."
+    "description": "A lightweight, dependency-free Python library (and command-line utility) for downloading YouTube Videos."
   },
   {
-    "repo": "infixity24/Extreme-Injector-v3.7.3-Dll-Injector",
+    "repo": "uhub/awesome-cpp",
+    "branch": "master",
+    "language": "Other",
+    "description": "A curated list of awesome C++ frameworks, libraries and software."
+  },
+  {
+    "repo": "numpy/numpy",
+    "branch": "main",
+    "language": "Python",
+    "description": "The fundamental package for scientific computing with Python."
+  },
+  {
+    "repo": "trailofbits/algo",
+    "branch": "master",
+    "language": "Python",
+    "description": "Set up a personal VPN in the cloud"
+  },
+  {
+    "repo": "kubernetes-sigs/metrics-server",
+    "branch": "master",
+    "language": "Go",
+    "description": "Scalable and efficient source of container resource metrics for Kubernetes built-in autoscaling pipelines."
+  },
+  {
+    "repo": "realm/realm-swift",
+    "branch": "master",
+    "language": "Objective-C",
+    "description": "Realm is a mobile database: a replacement for Core Data & SQLite"
+  },
+  {
+    "repo": "apollographql/apollo-server",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "🌍  Spec-compliant and production ready JavaScript GraphQL server that lets you develop in a schema-first way. Built for Express, Connect, Hapi, Koa, and more."
+  },
+  {
+    "repo": "dotnet/maui",
+    "branch": "main",
+    "language": "C#",
+    "description": ".NET MAUI is the .NET Multi-platform App UI, a framework for building native device applications spanning mobile, tablet, and desktop."
+  },
+  {
+    "repo": "typeorm/typeorm",
+    "branch": "master",
+    "language": "TypeScript",
+    "description": "ORM for TypeScript and JavaScript. Supports MySQL, PostgreSQL, MariaDB, SQLite, MS SQL Server, Oracle, SAP Hana, WebSQL databases. Works in NodeJS, Browser, Ionic, Cordova and Electron platforms."
+  },
+  {
+    "repo": "protocolbuffers/protobuf",
     "branch": "main",
     "language": "C++",
-    "description": "Extreme Injector v3.7.3 is a powerful and easy-to-use DLL injector for Windows. Supports Manual Map, Stealth mode, Auto-Inject, and multiple injection methods. Ideal for developers and single-player game modding."
-  },
-  {
-    "repo": "UnluckyNinja/SBTI-test",
-    "branch": "main",
-    "language": "HTML",
-    "description": "https://sbti.unun.dev 原作者：B站@蛆肉儿串儿"
-  },
-  {
-    "repo": "alexandercodes4/AirTrain",
-    "branch": "master",
-    "language": "Python",
-    "description": "Distributed ML training across Apple Silicon Macs"
-  },
-  {
-    "repo": "beita6969/claude-code",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Claude Code Source - Buildable Research Fork. Reverse-engineered build system, runnable with Bun."
-  },
-  {
-    "repo": "Vacutagin/GameEnhancementSuite",
-    "branch": "main",
-    "language": "Python",
-    "description": "Advanced Gaming Enhancement Platform for Modern Titles.Enhance your gaming experience with performance optimization, visual improvements, and quality-of-life features"
-  },
-  {
-    "repo": "techjarves/OpenClaude-Portable",
-    "branch": "main",
-    "language": "HTML",
-    "description": "Run Claude Code from a USB drive on any PC — no installation required."
-  },
-  {
-    "repo": "Railly/agentfiles",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Discover, organize, and edit AI coding agent skills across Claude Code, Cursor, Codex, Windsurf, and more, from inside Obsidian."
-  },
-  {
-    "repo": "0x5uo2hen/codex_register",
-    "branch": "main",
-    "language": "Python",
-    "description": "OpenAI / ChatGPT 全自动注册机 & Token 提取器"
-  },
-  {
-    "repo": "poseljacob/agentic-video-editor",
-    "branch": "main",
-    "language": "Python",
-    "description": "AI-powered video editor that turns raw footage and a creative brief into a polished ad using an ensemble of AI agents (Google Gemini + FFmpeg)"
-  },
-  {
-    "repo": "endless-sky-team/ai-trading-agent",
-    "branch": "master",
-    "language": "TypeScript",
-    "description": "llm trading bot ai agent crypto bitcoin ethereum perpetuals openrouter lighter algorithmic automated quant typescript react postgres bun fintech defi machine-learning open-source crypto-bot signals"
-  },
-  {
-    "repo": "andrew-shwetzer/career-ops-plugin",
-    "branch": "main",
-    "language": "HTML",
-    "description": "Claude Cowork plugin for job seekers. Evaluate postings, generate ATS resumes, scan career portals, track applications. Any industry. Adapted from santifer/career-ops."
+    "description": "Protocol Buffers - Google's data interchange format"
   }
 ]
