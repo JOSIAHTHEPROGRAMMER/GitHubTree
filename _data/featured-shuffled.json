@@ -1,146 +1,146 @@
 [
   {
-    "repo": "cncf/toc",
+    "repo": "Jakubantalik/transitions.dev",
     "branch": "main",
-    "language": "Go",
-    "description": "⚖️ The CNCF Technical Oversight Committee (TOC) is the technical governing body of the CNCF Foundation."
+    "language": "HTML",
+    "description": "Collection of the most essential transitions for web apps that you can just copy and paste into any project."
   },
   {
-    "repo": "InfinityLoop1308/PipePipe-X",
-    "branch": "main",
-    "language": "Shell",
-    "description": "Modern designed PipePipe"
-  },
-  {
-    "repo": "junevm/splathash",
-    "branch": "main",
-    "language": "Go",
-    "description": "compress any image to 16 bytes and reconstruct a blurry preview. Like blurhash and thumbhash, but smaller."
-  },
-  {
-    "repo": "nextcloud/server",
-    "branch": "master",
-    "language": "PHP",
-    "description": "☁️ Nextcloud server, a safe home for all your data"
-  },
-  {
-    "repo": "kibitzsh/kibitz",
-    "branch": "master",
-    "language": "TypeScript",
-    "description": "Real-time decoded feed of AI agent actions — monitor multiple Claude Code & Codex sessions, see exactly what each agent is doing, and coordinate swarms efficiently"
-  },
-  {
-    "repo": "i12bp8/TagTinker",
-    "branch": "main",
-    "language": "C",
-    "description": "Flipper Zero app for ESL research using IR. All based on https://www.furrtek.org/?a=esl"
-  },
-  {
-    "repo": "adysec/CForum",
+    "repo": "cslol-manager/ltk-manager",
     "branch": "main",
     "language": "TypeScript",
-    "description": "CForum — A modern, serverless forum built on Cloudflare Workers + Pages + D1 + R2, featuring posts, threaded comments, image uploads, 2FA authentication, and a hybrid deployment architecture optimized through smart edge routing."
+    "description": "ltk manager league of legends lol custom skins mod manager github download free cslol manager cslol manager runeforge  divine skins  not working successor modpkg fantome runeforge overlay patcher windows 11 setup guide tutorial error fix latest version 2026"
   },
   {
-    "repo": "Tencent-Hunyuan/HY3D-Bench",
+    "repo": "elastic/supply-chain-monitor",
     "branch": "main",
     "language": "Python",
     "description": ""
   },
   {
-    "repo": "github/hub",
-    "branch": "master",
-    "language": "Go",
-    "description": "A command-line tool that makes git easier to use with GitHub."
-  },
-  {
-    "repo": "saif0200/notchprompt",
+    "repo": "yaofeino1/tech-distiller",
     "branch": "main",
-    "language": "Swift",
-    "description": ""
+    "language": "Python",
+    "description": "把公司技术文档蒸馏成按职位方向过滤的结构化技术报告 | Inspired by colleague-skill & ex-skill"
   },
   {
-    "repo": "quasarframework/quasar",
-    "branch": "dev",
+    "repo": "Janlaywss/cloud-code",
+    "branch": "master",
+    "language": "TypeScript",
+    "description": "cloud-code"
+  },
+  {
+    "repo": "gatelynch/llm-knowledge-base",
+    "branch": "main",
+    "language": "Python",
+    "description": "參考自Andrej Kapathy的llm-wiki概念，把原始素材、LLM 編譯後的知識、   探索中的思考，以及最終作品明確分層管理   的個人知識庫系統。"
+  },
+  {
+    "repo": "NyxTides/SimpleAuthFlow",
+    "branch": "main",
     "language": "JavaScript",
-    "description": "Quasar Framework - Build high-performance VueJS user interfaces in record time"
+    "description": "A streamlined Chrome extension for the ChatGPT OAuth flow"
   },
   {
-    "repo": "drwetter/testssl.sh",
-    "branch": "3.2",
-    "language": "Shell",
-    "description": "Testing TLS/SSL encryption anywhere on any port"
-  },
-  {
-    "repo": "google-research/vision_transformer",
+    "repo": "0xKarl-dev/claw-codes",
     "branch": "main",
-    "language": "Jupyter Notebook",
-    "description": "Vision Transformer in JAX."
+    "language": "TypeScript",
+    "description": "Fastest repo on my GitHub to hit 50⭐ in under 2 hours. Building tools that get real things done. Now rewriting in Rust."
   },
   {
-    "repo": "valeriansaliou/sonic",
-    "branch": "master",
-    "language": "Rust",
-    "description": "🦔 Fast, lightweight & schema-less search backend. An alternative to Elasticsearch that runs on a few MBs of RAM."
-  },
-  {
-    "repo": "gfx-rs/wgpu",
-    "branch": "master",
-    "language": "Rust",
-    "description": "A cross-platform, safe, pure-Rust graphics API."
-  },
-  {
-    "repo": "xaskasdf/ntransformer",
+    "repo": "romerzzz/Tomodachi-Life-Living-in-the-Dream-PC-Version",
     "branch": "main",
     "language": "C++",
-    "description": "High-efficiency LLM inference engine in C++/CUDA. Run Llama 70B on RTX 3090."
+    "description": "Tomodachi Life Living in the Dream PC is the  Windows version of the popular life simulation game. Create your own Mii characters, build your dream island, interact with quirky residents, fall in love, solve problems, and enjoy endless daily events"
   },
   {
-    "repo": "arturoabreuhd/pinescript-ai",
+    "repo": "0xSteph/pentest-ai",
+    "branch": "main",
+    "language": "Shell",
+    "description": "Turn Claude Code into your offensive security research assistant. Specialized AI subagents for authorized penetration testing plan engagements, analyze recon, research exploits, build detections, audit STIGs, and write reports."
+  },
+  {
+    "repo": "charlax/professional-programming",
+    "branch": "master",
+    "language": "Python",
+    "description": "A collection of learning resources for curious software engineers"
+  },
+  {
+    "repo": "safe-global/safe-contracts",
     "branch": "main",
     "language": "TypeScript",
+    "description": "Safe allows secure management of blockchain assets."
+  },
+  {
+    "repo": "kubernetes/client-go",
+    "branch": "master",
+    "language": "Go",
+    "description": "Go client for Kubernetes."
+  },
+  {
+    "repo": "rasbt/mini-coding-agent",
+    "branch": "main",
+    "language": "Python",
+    "description": "Minimal and readable coding agent harness implementation in Python to explain the core components of coding agents."
+  },
+  {
+    "repo": "iamfakeguru/claude-md",
+    "branch": "main",
+    "language": "Shell",
+    "description": "Production-grade agent directives for Claude Code"
+  },
+  {
+    "repo": "rivet-dev/sandbox-agent",
+    "branch": "main",
+    "language": "Rust",
+    "description": "Universal API for automatic coding agents in sandboxes. Supports Claude Code, Codex, OpenCode, and Amp."
+  },
+  {
+    "repo": "S-Trespassing/claw-in-chrome",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "这是一个放在 Chrome 侧边栏里的助手扩展。解除了Claude in Chrome的登录限制和套餐限制,支持自定义模型供应商,并且支持编辑原插件不支持编辑的参数,让您的大模型在该插件中有更好的表现!"
+  },
+  {
+    "repo": "orchetron/storm",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "A compositor-based terminal UI framework. Fast. Layered. Unstoppable."
+  },
+  {
+    "repo": "Gitlawb/openclaude",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Claude Code opened to any LLM — OpenAI, Gemini, DeepSeek, Ollama, and 200+ models via OpenAI-compatible API shim"
+  },
+  {
+    "repo": "anthropics/financial-services-plugins",
+    "branch": "main",
+    "language": "Python",
     "description": ""
   },
   {
-    "repo": "actions/setup-python",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Set up your GitHub Actions workflow with a specific version of Python"
-  },
-  {
-    "repo": "GoAdminGroup/go-admin",
-    "branch": "master",
-    "language": "Go",
-    "description": "A golang framework helps gopher to build a data visualization and admin panel in ten minutes"
-  },
-  {
-    "repo": "spinnaker/spinnaker",
-    "branch": "master",
-    "language": "Java",
-    "description": "Spinnaker is an open source, multi-cloud continuous delivery platform for releasing software changes with high velocity and confidence."
-  },
-  {
-    "repo": "skernelx/tavily-key-generator",
-    "branch": "main",
-    "language": "Python",
-    "description": "Auto batch register Tavily API Keys with pluggable email backends"
-  },
-  {
-    "repo": "arduino/Arduino",
-    "branch": "master",
-    "language": "Java",
-    "description": "Arduino IDE 1.x"
-  },
-  {
-    "repo": "RightNow-AI/picolm",
-    "branch": "main",
-    "language": "C",
-    "description": "Run a 1-billion parameter LLM on a $10 board with 256MB RAM"
-  },
-  {
-    "repo": "bufbuild/buf",
+    "repo": "maaslalani/sheets",
     "branch": "main",
     "language": "Go",
-    "description": "The best way of working with Protocol Buffers."
+    "description": "Terminal based spreadsheet tool"
+  },
+  {
+    "repo": "google/zx",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "A tool for writing better scripts"
+  },
+  {
+    "repo": "confluentinc/ksql",
+    "branch": "master",
+    "language": "Java",
+    "description": "The database purpose-built for stream processing applications."
+  },
+  {
+    "repo": "kzhrknt/awesome-design-md-jp",
+    "branch": "main",
+    "language": "HTML",
+    "description": "日本語UIをAIエージェントに正しくつくらせるためのDESIGN.md集。Japanese DESIGN.md collection for AI agents — extending Google Stitch format with CJK typography."
   }
 ]
