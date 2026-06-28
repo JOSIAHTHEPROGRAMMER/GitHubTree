@@ -1,8 +1,8 @@
 {
-  "repo": "Hatari130/map-creator",
+  "repo": "HuiyuLi-2000/Chinese-Grant-Writer-Skills",
   "branch": "main",
   "language": "Python",
-  "description": "结合gis+gpt，用自然语言生成可商用城市打卡地图",
-  "stars": 112,
-  "forks": 8
+  "description": "面向 NSFC、NSSFC、省部级自/社科申请书的 AI 写作技能集。从近 20 本管理口申请书中提炼写作范式，覆盖核心撰写环节。",
+  "stars": 103,
+  "forks": 13
 }

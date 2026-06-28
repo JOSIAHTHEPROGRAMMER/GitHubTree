@@ -1,146 +1,146 @@
 [
   {
-    "repo": "pretyflaco/meetscribe",
+    "repo": "dou-jiang/codex-console",
     "branch": "main",
     "language": "Python",
-    "description": "Fully local meeting transcription with speaker diarization, AI summaries, and PDF output"
+    "description": "codex-console 是一个集成化控制台项目，支持任务管理、批量处理、数据导出、自动上传、日志查看与打包支持。"
   },
   {
-    "repo": "0xquqi/crypto-kol-quant",
+    "repo": "IronsideXXVI/Hacker-News",
     "branch": "main",
-    "language": "HTML",
-    "description": "首个将99位加密KOL交易经验LLM蒸馏为可回测量化因子的开源项目 | First to distill 99 crypto KOL trading experience into backtestable quant factors via LLM"
+    "language": "Swift",
+    "description": ""
   },
   {
-    "repo": "torproject/tor",
+    "repo": "cypress-io/cypress",
+    "branch": "develop",
+    "language": "TypeScript",
+    "description": "Fast, easy and reliable testing for anything that runs in a browser."
+  },
+  {
+    "repo": "hapijs/hapi",
     "branch": "main",
-    "language": "Other",
-    "description": "unofficial git repo -- report bugs/issues/pull requests on https://gitlab.torproject.org/ --"
+    "language": "JavaScript",
+    "description": "The Simple, Secure Framework Developers Trust"
   },
   {
-    "repo": "agno-agi/dash",
+    "repo": "PyCQA/flake8",
     "branch": "main",
     "language": "Python",
-    "description": "Self-learning data agent that grounds its answers in 6 layers of context and improves with every run. Inspired by OpenAI's in-house implementation."
+    "description": "flake8 is a python tool that glues together pycodestyle, pyflakes, mccabe, and third-party plugins to check the style and quality of some python code."
   },
   {
-    "repo": "suborbital/sat",
+    "repo": "vllm-project/aibrix",
     "branch": "main",
     "language": "Go",
-    "description": "Tiny & fast WebAssembly edge compute server"
+    "description": "Cost-efficient and pluggable Infrastructure components for GenAI inference"
   },
   {
-    "repo": "CalyxOS/calyxos",
-    "branch": "main",
-    "language": "HTML",
-    "description": "CalyxOS - Google-free Android"
-  },
-  {
-    "repo": "better-auth/better-icons",
+    "repo": "puppeteer/puppeteer",
     "branch": "main",
     "language": "TypeScript",
-    "description": "Skill and MCP server for searching and retrieving icons"
+    "description": "JavaScript API for Chrome and Firefox"
   },
   {
-    "repo": "gothinkster/realworld",
+    "repo": "ethers-io/ethers.js",
     "branch": "main",
     "language": "TypeScript",
-    "description": "The mother of all demo apps — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more"
+    "description": "Complete Ethereum library and wallet implementation in JavaScript."
   },
   {
-    "repo": "confluentinc/kafka-rest",
+    "repo": "socketio/socket.io",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Realtime application framework (Node.JS server)"
+  },
+  {
+    "repo": "awesome-selfhosted/awesome-selfhosted",
+    "branch": "master",
+    "language": "Other",
+    "description": "A list of Free Software network services and web applications which can be hosted on your own servers"
+  },
+  {
+    "repo": "alibaba/ice",
+    "branch": "master",
+    "language": "TypeScript",
+    "description": "🚀 ice.js: The Progressive App Framework Based On React（基于 React 的渐进式应用框架）"
+  },
+  {
+    "repo": "openai/point-e",
+    "branch": "main",
+    "language": "Python",
+    "description": "Point cloud diffusion for 3D model synthesis"
+  },
+  {
+    "repo": "iluwatar/java-design-patterns",
     "branch": "master",
     "language": "Java",
-    "description": "Confluent REST Proxy for Kafka"
+    "description": "Design patterns implemented in Java"
   },
   {
-    "repo": "ByteDance-Seed/Seed-Thinking-v1.5",
-    "branch": "main",
-    "language": "Other",
-    "description": "Seed-Thinking-v1.5 Model Release."
-  },
-  {
-    "repo": "mrdoob/three.js",
-    "branch": "dev",
-    "language": "JavaScript",
-    "description": "JavaScript 3D Library."
-  },
-  {
-    "repo": "graphql-rust/juniper",
+    "repo": "mui/material-ui",
     "branch": "master",
-    "language": "Rust",
-    "description": "GraphQL server library for Rust"
+    "language": "JavaScript",
+    "description": "Material UI: Comprehensive React component library that implements Google's Material Design. Free forever."
   },
   {
-    "repo": "duckdb/duckdb",
+    "repo": "hashicorp/vault",
+    "branch": "main",
+    "language": "Go",
+    "description": "A tool for secrets management, encryption as a service, and privileged access management"
+  },
+  {
+    "repo": "phpmyadmin/phpmyadmin",
+    "branch": "master",
+    "language": "PHP",
+    "description": "A web interface for MySQL and MariaDB"
+  },
+  {
+    "repo": "microsoft/STL",
     "branch": "main",
     "language": "C++",
-    "description": "DuckDB is an analytical in-process SQL database management system"
+    "description": "MSVC's implementation of the C++ Standard Library."
   },
   {
-    "repo": "Robbyant/lingbot-world",
+    "repo": "khoj-ai/khoj",
     "branch": "main",
     "language": "Python",
-    "description": "Advancing Open-source World Models"
+    "description": "Your AI second brain. Self-hostable. Get answers from the web or your docs. Build custom agents, schedule automations, do deep research. Turn any online or local LLM into your personal, autonomous AI (gpt, claude, gemini, llama, qwen, mistral). Get started - free."
   },
   {
-    "repo": "denoland/deno",
+    "repo": "django/django",
+    "branch": "main",
+    "language": "Python",
+    "description": "The Web framework for perfectionists with deadlines."
+  },
+  {
+    "repo": "rust-lang/rustlings",
     "branch": "main",
     "language": "Rust",
-    "description": "A modern runtime for JavaScript and TypeScript."
+    "description": ":crab: Small exercises to get you used to reading and writing Rust code!"
   },
   {
-    "repo": "fastai/course-v3",
-    "branch": "master",
-    "language": "Jupyter Notebook",
-    "description": "The 3rd edition of course.fast.ai"
-  },
-  {
-    "repo": "wolffcatskyy/crowdsec-blocklist-import",
+    "repo": "huggingface/accelerate",
     "branch": "main",
-    "language": "Shell",
-    "description": "Dockerized tool to import public threat feeds into CrowdSec - 28+ free blocklists, 60k+ IPs"
-  },
-  {
-    "repo": "spotipy-dev/spotipy",
-    "branch": "master",
     "language": "Python",
-    "description": "A light weight Python library for the Spotify Web API"
+    "description": "🚀 A simple way to launch, train, and use PyTorch models on almost any device and distributed configuration, automatic mixed precision (including fp8), and easy-to-configure FSDP and DeepSpeed support"
   },
   {
-    "repo": "cortexproject/cortex",
+    "repo": "puppetlabs/puppet",
+    "branch": "main",
+    "language": "Ruby",
+    "description": "Server automation framework and application"
+  },
+  {
+    "repo": "grpc/grpc-go",
     "branch": "master",
     "language": "Go",
-    "description": "A horizontally scalable, highly available, multi-tenant, long term Prometheus."
+    "description": "The Go language implementation of gRPC. HTTP/2 based RPC"
   },
   {
-    "repo": "LeCoupa/awesome-cheatsheets",
-    "branch": "master",
-    "language": "JavaScript",
-    "description": "👩‍💻👨‍💻 Awesome cheatsheets for popular programming languages, frameworks and development tools. They include everything you should know in one single file."
-  },
-  {
-    "repo": "mgks/GitHubTree",
+    "repo": "preactjs/preact",
     "branch": "main",
     "language": "JavaScript",
-    "description": "Visualise any GitHub repository folder structure. Available as a web app, CLI tool, and node.js library."
-  },
-  {
-    "repo": "newrelic/newrelic-python-agent",
-    "branch": "main",
-    "language": "Python",
-    "description": "New Relic Python Agent"
-  },
-  {
-    "repo": "thanos-io/thanos",
-    "branch": "main",
-    "language": "Go",
-    "description": "Highly available Prometheus setup with long term storage capabilities. A CNCF Incubating project."
-  },
-  {
-    "repo": "zarazhangrui/youtube-to-ebook",
-    "branch": "main",
-    "language": "Python",
-    "description": "Claude skill for turning YouTube transcripts from your favorite channels into EPUB ebooks, delivered to your email inbox regularly"
+    "description": "⚛️ Fast 3kB React alternative with the same modern API. Components & Virtual DOM."
   }
 ]
