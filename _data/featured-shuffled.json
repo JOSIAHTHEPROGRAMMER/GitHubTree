@@ -1,146 +1,146 @@
 [
   {
-    "repo": "chekusu/mails",
+    "repo": "cncf/toc",
     "branch": "main",
-    "language": "TypeScript",
-    "description": "email for agents. Built for AI agents that need to send, receive, and understand emails programmatically"
+    "language": "Go",
+    "description": "⚖️ The CNCF Technical Oversight Committee (TOC) is the technical governing body of the CNCF Foundation."
   },
   {
-    "repo": "justlovemaki/OpenClaw-Docker-CN-IM",
+    "repo": "InfinityLoop1308/PipePipe-X",
     "branch": "main",
     "language": "Shell",
-    "description": "OpenClaw 的中国IM平台整合Docker版本，预装并配置了飞书、钉钉、QQ机器人、企业微信等主流中国IM软件的插件，让您可以快速部署一个支持多个中国IM平台的 AI 机器人网关"
+    "description": "Modern designed PipePipe"
   },
   {
-    "repo": "Sectionnaenumerate/Polymarket-Kalshi-btc-arbitrage-bot",
+    "repo": "junevm/splathash",
     "branch": "main",
+    "language": "Go",
+    "description": "compress any image to 16 bytes and reconstruct a blurry preview. Like blurhash and thumbhash, but smaller."
+  },
+  {
+    "repo": "nextcloud/server",
+    "branch": "master",
+    "language": "PHP",
+    "description": "☁️ Nextcloud server, a safe home for all your data"
+  },
+  {
+    "repo": "kibitzsh/kibitz",
+    "branch": "master",
+    "language": "TypeScript",
+    "description": "Real-time decoded feed of AI agent actions — monitor multiple Claude Code & Codex sessions, see exactly what each agent is doing, and coordinate swarms efficiently"
+  },
+  {
+    "repo": "i12bp8/TagTinker",
+    "branch": "main",
+    "language": "C",
+    "description": "Flipper Zero app for ESL research using IR. All based on https://www.furrtek.org/?a=esl"
+  },
+  {
+    "repo": "adysec/CForum",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "CForum — A modern, serverless forum built on Cloudflare Workers + Pages + D1 + R2, featuring posts, threaded comments, image uploads, 2FA authentication, and a hybrid deployment architecture optimized through smart edge routing."
+  },
+  {
+    "repo": "Tencent-Hunyuan/HY3D-Bench",
+    "branch": "main",
+    "language": "Python",
+    "description": ""
+  },
+  {
+    "repo": "github/hub",
+    "branch": "master",
+    "language": "Go",
+    "description": "A command-line tool that makes git easier to use with GitHub."
+  },
+  {
+    "repo": "saif0200/notchprompt",
+    "branch": "main",
+    "language": "Swift",
+    "description": ""
+  },
+  {
+    "repo": "quasarframework/quasar",
+    "branch": "dev",
+    "language": "JavaScript",
+    "description": "Quasar Framework - Build high-performance VueJS user interfaces in record time"
+  },
+  {
+    "repo": "drwetter/testssl.sh",
+    "branch": "3.2",
+    "language": "Shell",
+    "description": "Testing TLS/SSL encryption anywhere on any port"
+  },
+  {
+    "repo": "google-research/vision_transformer",
+    "branch": "main",
+    "language": "Jupyter Notebook",
+    "description": "Vision Transformer in JAX."
+  },
+  {
+    "repo": "valeriansaliou/sonic",
+    "branch": "master",
     "language": "Rust",
-    "description": ""
+    "description": "🦔 Fast, lightweight & schema-less search backend. An alternative to Elasticsearch that runs on a few MBs of RAM."
   },
   {
-    "repo": "TheCaspianAI/Caspian",
+    "repo": "gfx-rs/wgpu",
+    "branch": "master",
+    "language": "Rust",
+    "description": "A cross-platform, safe, pure-Rust graphics API."
+  },
+  {
+    "repo": "xaskasdf/ntransformer",
+    "branch": "main",
+    "language": "C++",
+    "description": "High-efficiency LLM inference engine in C++/CUDA. Run Llama 70B on RTX 3090."
+  },
+  {
+    "repo": "arturoabreuhd/pinescript-ai",
     "branch": "main",
     "language": "TypeScript",
-    "description": "Caspian is a control plane for running multiple AI coding agents in parallel, using curated workflows that fit your team."
-  },
-  {
-    "repo": "metric-anything/metric-anything",
-    "branch": "main",
-    "language": "Python",
     "description": ""
   },
   {
-    "repo": "SamNet-dev/conduit-manager",
+    "repo": "actions/setup-python",
     "branch": "main",
-    "language": "Shell",
-    "description": "A powerful, one-click management tool for Psiphon Conduit nodes. Simplifies deployment, automation, and real-time monitoring on any Linux distribution"
+    "language": "TypeScript",
+    "description": "Set up your GitHub Actions workflow with a specific version of Python"
   },
   {
-    "repo": "Robbyant/lingbot-vla",
-    "branch": "main",
-    "language": "Python",
-    "description": "A Pragmatic VLA Foundation Model"
+    "repo": "GoAdminGroup/go-admin",
+    "branch": "master",
+    "language": "Go",
+    "description": "A golang framework helps gopher to build a data visualization and admin panel in ten minutes"
   },
   {
-    "repo": "kdn251/interviews",
+    "repo": "spinnaker/spinnaker",
     "branch": "master",
     "language": "Java",
-    "description": "Everything you need to know to get the job."
+    "description": "Spinnaker is an open source, multi-cloud continuous delivery platform for releasing software changes with high velocity and confidence."
   },
   {
-    "repo": "reinesana/Doomscroll-Skyrim-Edition",
+    "repo": "skernelx/tavily-key-generator",
     "branch": "main",
     "language": "Python",
-    "description": "A CV productivity tool that plays the Skeleton Shield meme whenever you doomscroll or lose focus."
+    "description": "Auto batch register Tavily API Keys with pluggable email backends"
   },
   {
-    "repo": "robinebers/openusage",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "A plugin-based menu bar app for tracking AI coding tool subscriptions like Cursor, Claude, Codex and more, all in one place with a heavy focus user experience, speed, and stability."
-  },
-  {
-    "repo": "xywml/PaperGrid",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "执笔为剑  - 一款基于NEXT.js的轻量化博客"
-  },
-  {
-    "repo": "doocs/leetcode",
-    "branch": "main",
+    "repo": "arduino/Arduino",
+    "branch": "master",
     "language": "Java",
-    "description": "🔥LeetCode solutions in any programming language | 多种编程语言实现 LeetCode、《剑指 Offer（第 2 版）》、《程序员面试金典（第 6 版）》题解"
+    "description": "Arduino IDE 1.x"
   },
   {
-    "repo": "YougLin-dev/Aha-Loop",
+    "repo": "RightNow-AI/picolm",
     "branch": "main",
-    "language": "Shell",
-    "description": "Aha Loop is a fully autonomous AI development system, extended from the core ideas of Ralph. It's not just an execution engine, but a complete AI development framework with planning capabilities, research abilities, and oversight mechanisms."
+    "language": "C",
+    "description": "Run a 1-billion parameter LLM on a $10 board with 256MB RAM"
   },
   {
-    "repo": "skills/introduction-to-github",
+    "repo": "bufbuild/buf",
     "branch": "main",
-    "language": "Other",
-    "description": "Get started using GitHub in less than an hour."
-  },
-  {
-    "repo": "first-fluke/oh-my-ag",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "The Ultimate Multi-Agent Framework for Google Antigravity. Orchestrate 6 specialized agents via Serena Memory. Parallel CLI execution, real-time observability, and zero-config skills."
-  },
-  {
-    "repo": "rivet-dev/sandbox-agent",
-    "branch": "main",
-    "language": "Rust",
-    "description": "Universal API for automatic coding agents in sandboxes. Supports Claude Code, Codex, OpenCode, and Amp."
-  },
-  {
-    "repo": "devanshulakhani/val",
-    "branch": "main",
-    "language": "HTML",
-    "description": ""
-  },
-  {
-    "repo": "Prismer-AI/Prismer",
-    "branch": "main",
-    "language": "Python",
-    "description": "Open Source OpenAI Prism Alternative"
-  },
-  {
-    "repo": "FuelLabs/fuels-ts",
-    "branch": "master",
-    "language": "TypeScript",
-    "description": "Fuel Network Typescript SDK"
-  },
-  {
-    "repo": "aeromomo/claw-compactor",
-    "branch": "main",
-    "language": "Python",
-    "description": "🦞 Claw Compactor — The 98% Crusher. Cut your AI agent token spend in half with 5 layered compression techniques."
-  },
-  {
-    "repo": "jarodise/pdf2epub-paddle",
-    "branch": "main",
-    "language": "Python",
-    "description": ""
-  },
-  {
-    "repo": "JuliaLang/julia",
-    "branch": "master",
-    "language": "Julia",
-    "description": "The Julia Programming Language"
-  },
-  {
-    "repo": "imxv/Pretty-mermaid-skills",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "To provide AI with Mermaid chart rendering capability, supporting both SVG and ASCII output formats"
-  },
-  {
-    "repo": "wiedymi/restty",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "Powerful, lightweight web terminal. Batteries included. Powered by libghostty-vt, WebGPU, and text-shaper."
+    "language": "Go",
+    "description": "The best way of working with Protocol Buffers."
   }
 ]
