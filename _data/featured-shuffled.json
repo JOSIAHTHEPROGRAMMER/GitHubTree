@@ -1,146 +1,146 @@
 [
   {
-    "repo": "Ar9av/obsidian-wiki",
-    "branch": "main",
-    "language": "Python",
-    "description": "Framework for AI agents to build and maintain an Obsidian wiki using Karpathy's LLM Wiki pattern"
-  },
-  {
-    "repo": "typst/typst",
-    "branch": "main",
-    "language": "Rust",
-    "description": "A markup-based typesetting system that is powerful and easy to learn."
-  },
-  {
-    "repo": "carlosazaustre/tenacitOS",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "OpenClaw Mission Control Dashboard"
-  },
-  {
-    "repo": "aio-libs/aiohttp",
+    "repo": "mwaskom/seaborn",
     "branch": "master",
     "language": "Python",
-    "description": "Asynchronous HTTP client/server framework for asyncio and Python"
+    "description": "Statistical data visualization in Python"
   },
   {
-    "repo": "ryanmcdermott/clean-code-javascript",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "Clean Code concepts adapted for JavaScript"
-  },
-  {
-    "repo": "google/cadvisor",
-    "branch": "master",
-    "language": "Go",
-    "description": "Analyzes resource usage and performance characteristics of running containers."
-  },
-  {
-    "repo": "cloudflare/pingora",
+    "repo": "jshachm/chronoh",
     "branch": "main",
     "language": "Rust",
-    "description": "A library for building fast, reliable and evolvable network services."
+    "description": "遵循harness原则，长时运行agent任务的框架，集成pi-rs"
   },
   {
-    "repo": "micronaut-projects/micronaut-core",
-    "branch": "4.3.x",
-    "language": "Java",
-    "description": "Micronaut Application Framework"
-  },
-  {
-    "repo": "grpc/grpc-go",
-    "branch": "master",
-    "language": "Go",
-    "description": "The Go language implementation of gRPC. HTTP/2 based RPC"
-  },
-  {
-    "repo": "surrealdb/surrealdb",
+    "repo": "manuelageske58246958801/DeepFake-AI-2026-RealTime",
     "branch": "main",
-    "language": "Rust",
-    "description": "A scalable, distributed, collaborative, document-graph database, for the realtime web"
+    "language": "C#",
+    "description": "An advanced, LLM-powered toolkit providing comprehensive capabilities for ethical synthetic media detection, analysis, and responsible content generation."
   },
   {
-    "repo": "pytest-dev/pytest-cov",
-    "branch": "master",
-    "language": "Python",
-    "description": "Coverage plugin for pytest."
-  },
-  {
-    "repo": "grpc/grpc-web",
-    "branch": "master",
-    "language": "JavaScript",
-    "description": "gRPC for Web Clients"
-  },
-  {
-    "repo": "apollographql/graphql-subscriptions",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": ":newspaper: A small module that implements GraphQL subscriptions for Node.js"
-  },
-  {
-    "repo": "TabbyML/tabby",
-    "branch": "main",
-    "language": "Rust",
-    "description": "Self-hosted AI coding assistant"
-  },
-  {
-    "repo": "cli/cli",
-    "branch": "trunk",
-    "language": "Go",
-    "description": "GitHub’s official command line tool"
-  },
-  {
-    "repo": "operator-framework/operator-sdk",
-    "branch": "master",
-    "language": "Go",
-    "description": "SDK for building Kubernetes applications. Provides high level APIs, useful abstractions, and project scaffolding."
-  },
-  {
-    "repo": "libp2p/go-libp2p",
-    "branch": "master",
-    "language": "Go",
-    "description": "libp2p implementation in Go"
-  },
-  {
-    "repo": "fastlane/supply",
-    "branch": "master",
-    "language": "Other",
-    "description": "Command line tool for updating Android apps and their metadata on the Google Play Store"
-  },
-  {
-    "repo": "apache/commons-lang",
-    "branch": "master",
-    "language": "Java",
-    "description": "Apache Commons Lang"
-  },
-  {
-    "repo": "firewalld/firewalld",
+    "repo": "virattt/ai-hedge-fund",
     "branch": "main",
     "language": "Python",
-    "description": "Stateful zone based firewall daemon with D-Bus interface"
+    "description": "An AI Hedge Fund Team"
   },
   {
-    "repo": "google/ExoPlayer",
-    "branch": "release-v2",
-    "language": "Java",
-    "description": "This project is deprecated and stale. The latest ExoPlayer code is available in https://github.com/androidx/media"
-  },
-  {
-    "repo": "getsentry/sentry-javascript",
-    "branch": "develop",
-    "language": "TypeScript",
-    "description": "Official Sentry SDKs for JavaScript"
-  },
-  {
-    "repo": "TQ-trade/polymarket-copytrade",
+    "repo": "openai/glide-text2im",
     "branch": "main",
-    "language": "HTML",
-    "description": "Polymarket copytrading bot that mirrors a target trader's activity to your own account polymarket copy trading bot, polymarket copy bot polymarket copy bot polymarket bot polymarket trading bot polymarket copy trading bot, polymarket copy bot polymarket copy bot polymarket bot polymarket trading bot polymarket copy trading bot, polymarket copy bot"
+    "language": "Python",
+    "description": "GLIDE: a diffusion-based text-conditional image synthesis model"
   },
   {
-    "repo": "ant-design/ant-design-mobile",
+    "repo": "fastai/course-v3",
+    "branch": "master",
+    "language": "Jupyter Notebook",
+    "description": "The 3rd edition of course.fast.ai"
+  },
+  {
+    "repo": "EA1FUO/AntennaSim",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Web-based antenna simulator powered by NEC2. Design, simulate, and analyze antennas with real-time 3D visualization, radiation patterns, SWR, and impedance charts."
+  },
+  {
+    "repo": "openai/point-e",
+    "branch": "main",
+    "language": "Python",
+    "description": "Point cloud diffusion for 3D model synthesis"
+  },
+  {
+    "repo": "mysql/mysql-server",
+    "branch": "8.0",
+    "language": "C++",
+    "description": "MySQL Server, the world's most popular open source database, and MySQL Cluster, a real-time, open source transactional database."
+  },
+  {
+    "repo": "angular/angular-cli",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "CLI tool for Angular"
+  },
+  {
+    "repo": "react-native-maps/react-native-maps",
     "branch": "master",
     "language": "TypeScript",
-    "description": "Essential UI blocks for building mobile web apps."
+    "description": "React Native Mapview component for iOS + Android"
+  },
+  {
+    "repo": "GreatScott/enject",
+    "branch": "main",
+    "language": "Rust",
+    "description": "enject: Hide .env secrets from prAIng eyes: secrets live in local encrypted stores (per project) and are injected directly into apps at runtime, never touching disk as plaintext."
+  },
+  {
+    "repo": "microsoft/DeepSpeed",
+    "branch": "master",
+    "language": "Python",
+    "description": "DeepSpeed is a deep learning optimization library that makes distributed training and inference easy, efficient, and effective."
+  },
+  {
+    "repo": "phpmyadmin/phpmyadmin",
+    "branch": "master",
+    "language": "PHP",
+    "description": "A web interface for MySQL and MariaDB"
+  },
+  {
+    "repo": "Tencent-Hunyuan/HY3D-Bench",
+    "branch": "main",
+    "language": "Python",
+    "description": ""
+  },
+  {
+    "repo": "ReactiveX/RxSwift",
+    "branch": "main",
+    "language": "Swift",
+    "description": "Reactive Programming in Swift"
+  },
+  {
+    "repo": "paradigmxyz/evmbench",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "A benchmark and harness for finding and exploiting smart contract bugs"
+  },
+  {
+    "repo": "Uniswap/interface",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "🦄 Open source interfaces for the Uniswap protocol"
+  },
+  {
+    "repo": "vikingmute/better-wechatpay",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "现代化的微信支付 Node.js SDK - ESM、TypeScript、全支付方式支持"
+  },
+  {
+    "repo": "FranckyB/Voice-Clone-Studio",
+    "branch": "main",
+    "language": "Python",
+    "description": "A Gradio-based web UI for voice cloning and voice design, powered by Qwen3-TTS & VibeVoice.  Can use Whisper or VibeVoice-ASR for automatic transcription."
+  },
+  {
+    "repo": "jina-ai/jina",
+    "branch": "main",
+    "language": "Python",
+    "description": "☁️ Build multimodal AI applications with cloud-native stack"
+  },
+  {
+    "repo": "Lum1104/Understand-Anything",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Claude Code skills that turn any codebase into an interactive knowledge graph you can explore, search, and ask questions about."
+  },
+  {
+    "repo": "jupyterlab/jupyterlab",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "JupyterLab computational environment."
+  },
+  {
+    "repo": "gcc-mirror/gcc",
+    "branch": "master",
+    "language": "C++",
+    "description": "Mirror of the GNU Compiler Collection master repository."
   }
 ]
