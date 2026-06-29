@@ -1,146 +1,146 @@
 [
   {
-    "repo": "apache/superset",
-    "branch": "master",
-    "language": "TypeScript",
-    "description": "Apache Superset is a Data Visualization and Data Exploration Platform"
-  },
-  {
-    "repo": "Developer-Y/cs-video-courses",
-    "branch": "master",
-    "language": "Other",
-    "description": "List of Computer Science courses with video lectures."
-  },
-  {
-    "repo": "openai/point-e",
-    "branch": "main",
-    "language": "Python",
-    "description": "Point cloud diffusion for 3D model synthesis"
-  },
-  {
-    "repo": "photonstorm/phaser",
-    "branch": "master",
-    "language": "JavaScript",
-    "description": "Phaser is a fun, free and fast 2D game framework for making HTML5 games for desktop and mobile web browsers, supporting Canvas and WebGL rendering."
-  },
-  {
-    "repo": "actions/download-artifact",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Download artifacts from your build"
-  },
-  {
-    "repo": "anthropics/cwc-long-running-agents",
+    "repo": "theNetworkChuck/axios-attack-guide",
     "branch": "main",
     "language": "Shell",
-    "description": ""
+    "description": "Axios npm supply chain attack — detection scripts, IOCs, and protection guide"
   },
   {
-    "repo": "prettier/prettier",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "Prettier is an opinionated code formatter."
-  },
-  {
-    "repo": "huggingface/peft",
+    "repo": "bcurts/agentchattr",
     "branch": "main",
     "language": "Python",
-    "description": "🤗 PEFT: State-of-the-art Parameter-Efficient Fine-Tuning."
+    "description": "Local chat server for real-time autonomous coordination between AI coding agents and humans"
   },
   {
-    "repo": "hiragram/agent-workspace",
+    "repo": "openai/spinningup",
+    "branch": "master",
+    "language": "Python",
+    "description": "An educational resource to help anyone learn deep reinforcement learning."
+  },
+  {
+    "repo": "XTLS/Xray-core",
     "branch": "main",
     "language": "Go",
-    "description": ""
+    "description": "Xray, Penetrates Everything. Also the best v2ray-core. Where the magic happens. An open platform for various uses."
   },
   {
-    "repo": "Atrix256/Thirteen",
-    "branch": "main",
-    "language": "C++",
-    "description": "Header only minimalist interface to graphics, inspired by the olden days of mode 13h"
-  },
-  {
-    "repo": "jlevy/the-art-of-command-line",
-    "branch": "master",
-    "language": "Other",
-    "description": "Master the command line, in one page"
-  },
-  {
-    "repo": "jingkaihe/matchlock",
-    "branch": "main",
-    "language": "Go",
-    "description": "Matchlock secures AI agent workloads with a Linux-based sandbox."
-  },
-  {
-    "repo": "KeyID-AI/sdk-js",
+    "repo": "coollabsio/jean",
     "branch": "main",
     "language": "TypeScript",
-    "description": "Free email for AI agents. No signup, no human needed. Install → provision → send and receive. Ed25519 keypair auth."
+    "description": "Run AI agents parallel in isolated workspaces."
   },
   {
-    "repo": "pluk-inc/md-preview.app",
+    "repo": "microsoft/ML-For-Beginners",
     "branch": "main",
-    "language": "Swift",
-    "description": "A simple Markdown viewer for reading .md files"
+    "language": "Jupyter Notebook",
+    "description": "12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all"
   },
   {
-    "repo": "QwenLM/FlashQLA",
-    "branch": "main",
+    "repo": "public-apis/public-apis",
+    "branch": "master",
     "language": "Python",
-    "description": "high-performance linear attention kernel library built on TileLang"
+    "description": "A collective list of free APIs"
   },
   {
-    "repo": "mizchi/actrun",
-    "branch": "main",
-    "language": "MoonBit",
-    "description": "GitHub Actions compatible CI runner in MoonBit"
-  },
-  {
-    "repo": "elastic/kibana",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Your window into all of your data"
-  },
-  {
-    "repo": "TitanFlow-Systems/best-of-algorithmic-trading",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "best-of algorithmic trading quant finance crypto bots frameworks APIs TA indicators libraries Freqtrade Hummingbot OctoBot Jesse Zipline backtrader CCXT Lean StockSharp Python Node Rust Go TypeScript C# Java forex stocks derivatives polymarket prediction-markets courses books YouTube Telegram communities fintech opensource weekly ranked star-score"
-  },
-  {
-    "repo": "ohmyzsh/ohmyzsh",
-    "branch": "master",
-    "language": "Shell",
-    "description": "🙃   A delightful community-driven (with 2,400+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python, etc), 140+ themes to spice up your morning, and an auto-update tool that makes it easy to keep up with the latest updates from the community."
-  },
-  {
-    "repo": "MarlinFirmware/Marlin",
-    "branch": "bugfix-2.1.x",
-    "language": "C++",
-    "description": "Marlin is a firmware for RepRap 3D printers optimized for both 8 and 32 bit microcontrollers.  Marlin supports all common platforms.   Many commercial 3D printers come with Marlin installed.  Check with your vendor if you need source code for your specific machine."
-  },
-  {
-    "repo": "flutter/flutter",
-    "branch": "master",
-    "language": "Dart",
-    "description": "Flutter makes it easy and fast to build beautiful apps for mobile and beyond"
-  },
-  {
-    "repo": "charlie947/social-media-skills",
-    "branch": "main",
-    "language": "Shell",
-    "description": ""
-  },
-  {
-    "repo": "WenyuChiou/awesome-agentic-ai-zh",
-    "branch": "main",
-    "language": "Python",
-    "description": "AI Agent 中文學習地圖 — 從零開始的結構化學習路徑，每階段有必做練習跟必修閱讀。三語對照（繁中／简中／English）。歡迎社群一起貢獻、優化內容。"
-  },
-  {
-    "repo": "newrelic/newrelic-java-agent",
+    "repo": "krahets/hello-algo",
     "branch": "main",
     "language": "Java",
-    "description": "The New Relic Java agent"
+    "description": "《Hello 算法》：动画图解、一键运行的数据结构与算法教程。支持简中、繁中、English、日本語，提供 Python, Java, C++, C, C#, JS, Go, Swift, Rust, Ruby, Kotlin, TS, Dart 等代码实现"
+  },
+  {
+    "repo": "EveryInc/proof-sdk",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Proof SDK: open-source collaborative editor, provenance model, and agent HTTP bridge"
+  },
+  {
+    "repo": "zilliztech/memsearch",
+    "branch": "main",
+    "language": "Python",
+    "description": "A Markdown-first memory system, a standalone library for any AI agent. Inspired by OpenClaw."
+  },
+  {
+    "repo": "traderwillhu/market_dashboard",
+    "branch": "main",
+    "language": "HTML",
+    "description": ""
+  },
+  {
+    "repo": "shanselman/openclaw-windows-hub",
+    "branch": "master",
+    "language": "C#",
+    "description": "Windows companion suite for Moltbot - System Tray app, Shared library, and PowerToys Command Palette extension"
+  },
+  {
+    "repo": "fish-shell/fish-shell",
+    "branch": "master",
+    "language": "Rust",
+    "description": "The user-friendly command line shell."
+  },
+  {
+    "repo": "op7418/Document-illustrator-skill",
+    "branch": "main",
+    "language": "Python",
+    "description": "帮你从文档生成对应的多张配图，内置了歸藏精心探索的图片风格，支持 16:9 和 3:4 两种比例，方便发小红书以及推特。"
+  },
+  {
+    "repo": "torvalds/linux",
+    "branch": "master",
+    "language": "C",
+    "description": "Linux kernel source tree"
+  },
+  {
+    "repo": "nikmcfly/MiroFish-Offline",
+    "branch": "main",
+    "language": "Python",
+    "description": "Offline multi-agent simulation & prediction engine. English fork of MiroFish with Neo4j + Ollama local stack."
+  },
+  {
+    "repo": "alecthomas/t",
+    "branch": "master",
+    "language": "Rust",
+    "description": "`t` is a concise language for manipulating text, replacing common usage patterns of Unix utilities like grep, sed, cut, awk, sort, and uniq."
+  },
+  {
+    "repo": "anadim/AdderBoard",
+    "branch": "main",
+    "language": "Python",
+    "description": "Smallest transformer that can add two 10-digit numbers"
+  },
+  {
+    "repo": "zubair-trabzada/ai-marketing-claude",
+    "branch": "main",
+    "language": "Python",
+    "description": "AI Marketing Suite for Claude Code. 15 marketing skills with parallel subagents — audit any website, generate copy, email sequences, ad campaigns, content calendars, competitive intelligence, and client-ready PDF reports."
+  },
+  {
+    "repo": "MoonshotAI/Kimi-VL",
+    "branch": "main",
+    "language": "Other",
+    "description": "Kimi-VL: Mixture-of-Experts Vision-Language Model for Multimodal Reasoning, Long-Context Understanding, and Strong Agent Capabilities"
+  },
+  {
+    "repo": "airbytehq/airbyte",
+    "branch": "master",
+    "language": "Python",
+    "description": "The leading data integration platform for ETL / ELT data pipelines from APIs, databases & files to data warehouses, data lakes & data lakehouses. Both self-hosted and Cloud-hosted."
+  },
+  {
+    "repo": "btseytlin/hr-breaker",
+    "branch": "main",
+    "language": "Python",
+    "description": "Optimize resume for jobs, now with AI"
+  },
+  {
+    "repo": "collaborator-ai/collab-public",
+    "branch": "main",
+    "language": "Shell",
+    "description": "Collaborator is a place to build with agents."
+  },
+  {
+    "repo": "clockworklabs/SpacetimeDB",
+    "branch": "master",
+    "language": "Rust",
+    "description": "Multiplayer at the speed of light"
   }
 ]
