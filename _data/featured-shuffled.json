@@ -1,146 +1,146 @@
 [
   {
-    "repo": "theNetworkChuck/axios-attack-guide",
-    "branch": "main",
-    "language": "Shell",
-    "description": "Axios npm supply chain attack — detection scripts, IOCs, and protection guide"
-  },
-  {
-    "repo": "bcurts/agentchattr",
+    "repo": "Ar9av/obsidian-wiki",
     "branch": "main",
     "language": "Python",
-    "description": "Local chat server for real-time autonomous coordination between AI coding agents and humans"
+    "description": "Framework for AI agents to build and maintain an Obsidian wiki using Karpathy's LLM Wiki pattern"
   },
   {
-    "repo": "openai/spinningup",
+    "repo": "typst/typst",
+    "branch": "main",
+    "language": "Rust",
+    "description": "A markup-based typesetting system that is powerful and easy to learn."
+  },
+  {
+    "repo": "carlosazaustre/tenacitOS",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "OpenClaw Mission Control Dashboard"
+  },
+  {
+    "repo": "aio-libs/aiohttp",
     "branch": "master",
     "language": "Python",
-    "description": "An educational resource to help anyone learn deep reinforcement learning."
+    "description": "Asynchronous HTTP client/server framework for asyncio and Python"
   },
   {
-    "repo": "XTLS/Xray-core",
+    "repo": "ryanmcdermott/clean-code-javascript",
     "branch": "main",
+    "language": "JavaScript",
+    "description": "Clean Code concepts adapted for JavaScript"
+  },
+  {
+    "repo": "google/cadvisor",
+    "branch": "master",
     "language": "Go",
-    "description": "Xray, Penetrates Everything. Also the best v2ray-core. Where the magic happens. An open platform for various uses."
+    "description": "Analyzes resource usage and performance characteristics of running containers."
   },
   {
-    "repo": "coollabsio/jean",
+    "repo": "cloudflare/pingora",
     "branch": "main",
-    "language": "TypeScript",
-    "description": "Run AI agents parallel in isolated workspaces."
+    "language": "Rust",
+    "description": "A library for building fast, reliable and evolvable network services."
   },
   {
-    "repo": "microsoft/ML-For-Beginners",
+    "repo": "micronaut-projects/micronaut-core",
+    "branch": "4.3.x",
+    "language": "Java",
+    "description": "Micronaut Application Framework"
+  },
+  {
+    "repo": "grpc/grpc-go",
+    "branch": "master",
+    "language": "Go",
+    "description": "The Go language implementation of gRPC. HTTP/2 based RPC"
+  },
+  {
+    "repo": "surrealdb/surrealdb",
     "branch": "main",
-    "language": "Jupyter Notebook",
-    "description": "12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all"
+    "language": "Rust",
+    "description": "A scalable, distributed, collaborative, document-graph database, for the realtime web"
   },
   {
-    "repo": "public-apis/public-apis",
+    "repo": "pytest-dev/pytest-cov",
     "branch": "master",
     "language": "Python",
-    "description": "A collective list of free APIs"
+    "description": "Coverage plugin for pytest."
   },
   {
-    "repo": "krahets/hello-algo",
-    "branch": "main",
-    "language": "Java",
-    "description": "《Hello 算法》：动画图解、一键运行的数据结构与算法教程。支持简中、繁中、English、日本語，提供 Python, Java, C++, C, C#, JS, Go, Swift, Rust, Ruby, Kotlin, TS, Dart 等代码实现"
+    "repo": "grpc/grpc-web",
+    "branch": "master",
+    "language": "JavaScript",
+    "description": "gRPC for Web Clients"
   },
   {
-    "repo": "EveryInc/proof-sdk",
+    "repo": "apollographql/graphql-subscriptions",
     "branch": "main",
     "language": "TypeScript",
-    "description": "Proof SDK: open-source collaborative editor, provenance model, and agent HTTP bridge"
+    "description": ":newspaper: A small module that implements GraphQL subscriptions for Node.js"
   },
   {
-    "repo": "zilliztech/memsearch",
+    "repo": "TabbyML/tabby",
+    "branch": "main",
+    "language": "Rust",
+    "description": "Self-hosted AI coding assistant"
+  },
+  {
+    "repo": "cli/cli",
+    "branch": "trunk",
+    "language": "Go",
+    "description": "GitHub’s official command line tool"
+  },
+  {
+    "repo": "operator-framework/operator-sdk",
+    "branch": "master",
+    "language": "Go",
+    "description": "SDK for building Kubernetes applications. Provides high level APIs, useful abstractions, and project scaffolding."
+  },
+  {
+    "repo": "libp2p/go-libp2p",
+    "branch": "master",
+    "language": "Go",
+    "description": "libp2p implementation in Go"
+  },
+  {
+    "repo": "fastlane/supply",
+    "branch": "master",
+    "language": "Other",
+    "description": "Command line tool for updating Android apps and their metadata on the Google Play Store"
+  },
+  {
+    "repo": "apache/commons-lang",
+    "branch": "master",
+    "language": "Java",
+    "description": "Apache Commons Lang"
+  },
+  {
+    "repo": "firewalld/firewalld",
     "branch": "main",
     "language": "Python",
-    "description": "A Markdown-first memory system, a standalone library for any AI agent. Inspired by OpenClaw."
+    "description": "Stateful zone based firewall daemon with D-Bus interface"
   },
   {
-    "repo": "traderwillhu/market_dashboard",
+    "repo": "google/ExoPlayer",
+    "branch": "release-v2",
+    "language": "Java",
+    "description": "This project is deprecated and stale. The latest ExoPlayer code is available in https://github.com/androidx/media"
+  },
+  {
+    "repo": "getsentry/sentry-javascript",
+    "branch": "develop",
+    "language": "TypeScript",
+    "description": "Official Sentry SDKs for JavaScript"
+  },
+  {
+    "repo": "TQ-trade/polymarket-copytrade",
     "branch": "main",
     "language": "HTML",
-    "description": ""
+    "description": "Polymarket copytrading bot that mirrors a target trader's activity to your own account polymarket copy trading bot, polymarket copy bot polymarket copy bot polymarket bot polymarket trading bot polymarket copy trading bot, polymarket copy bot polymarket copy bot polymarket bot polymarket trading bot polymarket copy trading bot, polymarket copy bot"
   },
   {
-    "repo": "shanselman/openclaw-windows-hub",
+    "repo": "ant-design/ant-design-mobile",
     "branch": "master",
-    "language": "C#",
-    "description": "Windows companion suite for Moltbot - System Tray app, Shared library, and PowerToys Command Palette extension"
-  },
-  {
-    "repo": "fish-shell/fish-shell",
-    "branch": "master",
-    "language": "Rust",
-    "description": "The user-friendly command line shell."
-  },
-  {
-    "repo": "op7418/Document-illustrator-skill",
-    "branch": "main",
-    "language": "Python",
-    "description": "帮你从文档生成对应的多张配图，内置了歸藏精心探索的图片风格，支持 16:9 和 3:4 两种比例，方便发小红书以及推特。"
-  },
-  {
-    "repo": "torvalds/linux",
-    "branch": "master",
-    "language": "C",
-    "description": "Linux kernel source tree"
-  },
-  {
-    "repo": "nikmcfly/MiroFish-Offline",
-    "branch": "main",
-    "language": "Python",
-    "description": "Offline multi-agent simulation & prediction engine. English fork of MiroFish with Neo4j + Ollama local stack."
-  },
-  {
-    "repo": "alecthomas/t",
-    "branch": "master",
-    "language": "Rust",
-    "description": "`t` is a concise language for manipulating text, replacing common usage patterns of Unix utilities like grep, sed, cut, awk, sort, and uniq."
-  },
-  {
-    "repo": "anadim/AdderBoard",
-    "branch": "main",
-    "language": "Python",
-    "description": "Smallest transformer that can add two 10-digit numbers"
-  },
-  {
-    "repo": "zubair-trabzada/ai-marketing-claude",
-    "branch": "main",
-    "language": "Python",
-    "description": "AI Marketing Suite for Claude Code. 15 marketing skills with parallel subagents — audit any website, generate copy, email sequences, ad campaigns, content calendars, competitive intelligence, and client-ready PDF reports."
-  },
-  {
-    "repo": "MoonshotAI/Kimi-VL",
-    "branch": "main",
-    "language": "Other",
-    "description": "Kimi-VL: Mixture-of-Experts Vision-Language Model for Multimodal Reasoning, Long-Context Understanding, and Strong Agent Capabilities"
-  },
-  {
-    "repo": "airbytehq/airbyte",
-    "branch": "master",
-    "language": "Python",
-    "description": "The leading data integration platform for ETL / ELT data pipelines from APIs, databases & files to data warehouses, data lakes & data lakehouses. Both self-hosted and Cloud-hosted."
-  },
-  {
-    "repo": "btseytlin/hr-breaker",
-    "branch": "main",
-    "language": "Python",
-    "description": "Optimize resume for jobs, now with AI"
-  },
-  {
-    "repo": "collaborator-ai/collab-public",
-    "branch": "main",
-    "language": "Shell",
-    "description": "Collaborator is a place to build with agents."
-  },
-  {
-    "repo": "clockworklabs/SpacetimeDB",
-    "branch": "master",
-    "language": "Rust",
-    "description": "Multiplayer at the speed of light"
+    "language": "TypeScript",
+    "description": "Essential UI blocks for building mobile web apps."
   }
 ]
