@@ -1,8 +1,8 @@
 {
-  "repo": "deltabarbershopofficial-cloud/DBD-AutoGrind-Trainer-2026-Elite",
+  "repo": "realchendahuang/sub-store-cloudflare",
   "branch": "main",
-  "language": "Python",
-  "description": "Ultimate Dead by Daylight auto-grind trainer Elite edition with Bloodpoint bot, ESP wallhack, aimbot, and full perk/skin unlocker. Dominate the Fog with our 2026 undetected external tool.",
-  "stars": 194,
-  "forks": 0
+  "language": "TypeScript",
+  "description": "一个部署在 Cloudflare Workers 上的订阅聚合与规则配置工具。它把订阅源、节点处理、组合订阅和分流规则模板放在云端，客户端只需要订阅最终生成的链接。",
+  "stars": 215,
+  "forks": 35
 }

@@ -1,146 +1,146 @@
 [
   {
-    "repo": "mwaskom/seaborn",
+    "repo": "ziglang/zig",
+    "branch": "master",
+    "language": "Zig",
+    "description": "Moved to Codeberg"
+  },
+  {
+    "repo": "github/docs",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "The open-source repo for docs.github.com"
+  },
+  {
+    "repo": "twwch/AIComicBuilder",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "AI-powered animated comic generator — transform scripts into fully animated videos with AI-driven character design,    storyboarding, and video synthesis."
+  },
+  {
+    "repo": "airbnb/knowledge-repo",
     "branch": "master",
     "language": "Python",
-    "description": "Statistical data visualization in Python"
+    "description": "A next-generation curated knowledge sharing platform for data scientists and other technical professions."
   },
   {
-    "repo": "jshachm/chronoh",
-    "branch": "main",
-    "language": "Rust",
-    "description": "遵循harness原则，长时运行agent任务的框架，集成pi-rs"
-  },
-  {
-    "repo": "manuelageske58246958801/DeepFake-AI-2026-RealTime",
-    "branch": "main",
+    "repo": "thangchung/awesome-dotnet-core",
+    "branch": "master",
     "language": "C#",
-    "description": "An advanced, LLM-powered toolkit providing comprehensive capabilities for ethical synthetic media detection, analysis, and responsible content generation."
+    "description": ":honeybee: A collection of awesome .NET core libraries, tools, frameworks and software"
   },
   {
-    "repo": "virattt/ai-hedge-fund",
-    "branch": "main",
-    "language": "Python",
-    "description": "An AI Hedge Fund Team"
-  },
-  {
-    "repo": "openai/glide-text2im",
-    "branch": "main",
-    "language": "Python",
-    "description": "GLIDE: a diffusion-based text-conditional image synthesis model"
-  },
-  {
-    "repo": "fastai/course-v3",
+    "repo": "webpack-contrib/css-loader",
     "branch": "master",
-    "language": "Jupyter Notebook",
-    "description": "The 3rd edition of course.fast.ai"
+    "language": "JavaScript",
+    "description": "CSS Loader"
   },
   {
-    "repo": "EA1FUO/AntennaSim",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Web-based antenna simulator powered by NEC2. Design, simulate, and analyze antennas with real-time 3D visualization, radiation patterns, SWR, and impedance charts."
-  },
-  {
-    "repo": "openai/point-e",
-    "branch": "main",
-    "language": "Python",
-    "description": "Point cloud diffusion for 3D model synthesis"
-  },
-  {
-    "repo": "mysql/mysql-server",
-    "branch": "8.0",
-    "language": "C++",
-    "description": "MySQL Server, the world's most popular open source database, and MySQL Cluster, a real-time, open source transactional database."
-  },
-  {
-    "repo": "angular/angular-cli",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "CLI tool for Angular"
-  },
-  {
-    "repo": "react-native-maps/react-native-maps",
+    "repo": "prakhar1989/awesome-courses",
     "branch": "master",
-    "language": "TypeScript",
-    "description": "React Native Mapview component for iOS + Android"
+    "language": "Other",
+    "description": ":books: List of awesome university courses for learning Computer Science!"
   },
   {
-    "repo": "GreatScott/enject",
-    "branch": "main",
-    "language": "Rust",
-    "description": "enject: Hide .env secrets from prAIng eyes: secrets live in local encrypted stores (per project) and are injected directly into apps at runtime, never touching disk as plaintext."
-  },
-  {
-    "repo": "microsoft/DeepSpeed",
-    "branch": "master",
-    "language": "Python",
-    "description": "DeepSpeed is a deep learning optimization library that makes distributed training and inference easy, efficient, and effective."
-  },
-  {
-    "repo": "phpmyadmin/phpmyadmin",
-    "branch": "master",
-    "language": "PHP",
-    "description": "A web interface for MySQL and MariaDB"
-  },
-  {
-    "repo": "Tencent-Hunyuan/HY3D-Bench",
+    "repo": "UnrealXu/UnrealEngine5-Skills",
     "branch": "main",
     "language": "Python",
     "description": ""
   },
   {
-    "repo": "ReactiveX/RxSwift",
-    "branch": "main",
-    "language": "Swift",
-    "description": "Reactive Programming in Swift"
-  },
-  {
-    "repo": "paradigmxyz/evmbench",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "A benchmark and harness for finding and exploiting smart contract bugs"
-  },
-  {
-    "repo": "Uniswap/interface",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "🦄 Open source interfaces for the Uniswap protocol"
-  },
-  {
-    "repo": "vikingmute/better-wechatpay",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "现代化的微信支付 Node.js SDK - ESM、TypeScript、全支付方式支持"
-  },
-  {
-    "repo": "FranckyB/Voice-Clone-Studio",
-    "branch": "main",
-    "language": "Python",
-    "description": "A Gradio-based web UI for voice cloning and voice design, powered by Qwen3-TTS & VibeVoice.  Can use Whisper or VibeVoice-ASR for automatic transcription."
-  },
-  {
-    "repo": "jina-ai/jina",
-    "branch": "main",
-    "language": "Python",
-    "description": "☁️ Build multimodal AI applications with cloud-native stack"
-  },
-  {
-    "repo": "Lum1104/Understand-Anything",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Claude Code skills that turn any codebase into an interactive knowledge graph you can explore, search, and ask questions about."
-  },
-  {
-    "repo": "jupyterlab/jupyterlab",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "JupyterLab computational environment."
-  },
-  {
-    "repo": "gcc-mirror/gcc",
+    "repo": "rubygems/rubygems",
     "branch": "master",
-    "language": "C++",
-    "description": "Mirror of the GNU Compiler Collection master repository."
+    "language": "Ruby",
+    "description": "Library packaging and distribution for Ruby."
+  },
+  {
+    "repo": "gitleaks/gitleaks",
+    "branch": "master",
+    "language": "Go",
+    "description": "Find secrets with Gitleaks 🔑"
+  },
+  {
+    "repo": "LuaJIT/LuaJIT",
+    "branch": "v2.1",
+    "language": "C",
+    "description": "Mirror of the LuaJIT git repository"
+  },
+  {
+    "repo": "XTLS/Xray-core",
+    "branch": "main",
+    "language": "Go",
+    "description": "Xray, Penetrates Everything. Also the best v2ray-core. Where the magic happens. An open platform for various uses."
+  },
+  {
+    "repo": "vercel-labs/openreview",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "An open-source, self-hosted AI code review bot powered by Vercel."
+  },
+  {
+    "repo": "Trooped/QuickBars",
+    "branch": "main",
+    "language": "Kotlin",
+    "description": "The Official QuickBars for Home Assistant Repository"
+  },
+  {
+    "repo": "vectordotdev/vector",
+    "branch": "master",
+    "language": "Rust",
+    "description": "A high-performance observability data pipeline."
+  },
+  {
+    "repo": "keephq/keep",
+    "branch": "main",
+    "language": "Python",
+    "description": "The open-source AIOps and alert management platform"
+  },
+  {
+    "repo": "KotlinBy/awesome-kotlin",
+    "branch": "master",
+    "language": "Kotlin",
+    "description": "A curated list of awesome Kotlin related stuff Inspired by awesome-java."
+  },
+  {
+    "repo": "ImageMagick/ImageMagick",
+    "branch": "main",
+    "language": "C",
+    "description": "ImageMagick is a free, open-source software suite for creating, editing, converting, and displaying images. It supports 200+ formats and offers powerful command-line tools and APIs for automation, scripting, and integration across platforms."
+  },
+  {
+    "repo": "hashicorp/raft",
+    "branch": "main",
+    "language": "Go",
+    "description": "Golang implementation of the Raft consensus protocol"
+  },
+  {
+    "repo": "supermemoryai/openclaw-supermemory",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Supermemory allows Clawdbot / Molt bot to have PERFECT memory and recall for their own personal agent."
+  },
+  {
+    "repo": "zubair-trabzada/ai-marketing-claude",
+    "branch": "main",
+    "language": "Python",
+    "description": "AI Marketing Suite for Claude Code. 15 marketing skills with parallel subagents — audit any website, generate copy, email sequences, ad campaigns, content calendars, competitive intelligence, and client-ready PDF reports."
+  },
+  {
+    "repo": "fffaraz/awesome-cpp",
+    "branch": "master",
+    "language": "Other",
+    "description": "A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny things. Inspired by awesome-... stuff."
+  },
+  {
+    "repo": "photon-hq/qclaw-wechat-client",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Reverse-engineered TypeScript client for QClaw's WeChat Access API."
+  },
+  {
+    "repo": "nltk/nltk",
+    "branch": "develop",
+    "language": "Python",
+    "description": "NLTK Source"
   }
 ]
