@@ -1,146 +1,146 @@
 [
   {
-    "repo": "ziglang/zig",
-    "branch": "master",
-    "language": "Zig",
-    "description": "Moved to Codeberg"
-  },
-  {
-    "repo": "github/docs",
+    "repo": "chrisryugj/kordoc",
     "branch": "main",
     "language": "TypeScript",
-    "description": "The open-source repo for docs.github.com"
+    "description": "모두 파싱해버리겠다 — HWP/HWPX/PDF → Markdown | npm · CLI · MCP Server"
   },
   {
-    "repo": "twwch/AIComicBuilder",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "AI-powered animated comic generator — transform scripts into fully animated videos with AI-driven character design,    storyboarding, and video synthesis."
-  },
-  {
-    "repo": "airbnb/knowledge-repo",
+    "repo": "embedding-shapes/one-agent-one-browser",
     "branch": "master",
+    "language": "Rust",
+    "description": "One from scratch browser built by one human and one agent, working hand in hand"
+  },
+  {
+    "repo": "Kaleighc793/freqtrade-bot",
+    "branch": "main",
     "language": "Python",
-    "description": "A next-generation curated knowledge sharing platform for data scientists and other technical professions."
+    "description": "Freqtrade — Configuration and management tool for the Freqtrade open-source crypto trading bot with strategy backtesting, live/dry-run modes, 10+ exchange support (Binance, Kraken, OKX), hyperparameter optimization, FreqUI dashboard, and Rich terminal menu interface"
   },
   {
-    "repo": "thangchung/awesome-dotnet-core",
-    "branch": "master",
-    "language": "C#",
-    "description": ":honeybee: A collection of awesome .NET core libraries, tools, frameworks and software"
+    "repo": "rust-unofficial/awesome-rust",
+    "branch": "main",
+    "language": "Rust",
+    "description": "A curated list of Rust code and resources."
   },
   {
-    "repo": "webpack-contrib/css-loader",
+    "repo": "qemu/qemu",
     "branch": "master",
+    "language": "C",
+    "description": "Official QEMU mirror. Please see https://www.qemu.org/contribute/ for how to submit changes to QEMU. Pull Requests are ignored. Please only use release tarballs from the QEMU website."
+  },
+  {
+    "repo": "colinhacks/zod",
+    "branch": "master",
+    "language": "TypeScript",
+    "description": "TypeScript-first schema validation with static type inference"
+  },
+  {
+    "repo": "adithya-s-k/manim_skill",
+    "branch": "main",
+    "language": "Python",
+    "description": "Agent skills for Manim to create 3Blue1Brown style animations."
+  },
+  {
+    "repo": "vercel/pkg",
+    "branch": "main",
     "language": "JavaScript",
-    "description": "CSS Loader"
+    "description": "Package your Node.js project into an executable"
   },
   {
-    "repo": "prakhar1989/awesome-courses",
-    "branch": "master",
-    "language": "Other",
-    "description": ":books: List of awesome university courses for learning Computer Science!"
-  },
-  {
-    "repo": "UnrealXu/UnrealEngine5-Skills",
+    "repo": "ethers-io/ethers.js",
     "branch": "main",
-    "language": "Python",
+    "language": "TypeScript",
+    "description": "Complete Ethereum library and wallet implementation in JavaScript."
+  },
+  {
+    "repo": "AlmogBaku/debug-skill",
+    "branch": "master",
+    "language": "Go",
     "description": ""
   },
   {
-    "repo": "rubygems/rubygems",
+    "repo": "mantinedev/mantine",
     "branch": "master",
-    "language": "Ruby",
-    "description": "Library packaging and distribution for Ruby."
+    "language": "TypeScript",
+    "description": "A fully featured React components library"
   },
   {
-    "repo": "gitleaks/gitleaks",
+    "repo": "DefinitelyTyped/DefinitelyTyped",
+    "branch": "master",
+    "language": "TypeScript",
+    "description": "The repository for high quality TypeScript type definitions."
+  },
+  {
+    "repo": "grpc-ecosystem/grpc-gateway",
     "branch": "master",
     "language": "Go",
-    "description": "Find secrets with Gitleaks 🔑"
+    "description": "gRPC to JSON proxy generator following the gRPC HTTP spec"
   },
   {
-    "repo": "LuaJIT/LuaJIT",
-    "branch": "v2.1",
-    "language": "C",
-    "description": "Mirror of the LuaJIT git repository"
-  },
-  {
-    "repo": "XTLS/Xray-core",
+    "repo": "Emanuele-web04/remodex",
     "branch": "main",
-    "language": "Go",
-    "description": "Xray, Penetrates Everything. Also the best v2ray-core. Where the magic happens. An open platform for various uses."
+    "language": "Swift",
+    "description": "Remote Control for Codex. 24/7 version on the way"
   },
   {
-    "repo": "vercel-labs/openreview",
+    "repo": "aio-libs/aiohttp",
+    "branch": "master",
+    "language": "Python",
+    "description": "Asynchronous HTTP client/server framework for asyncio and Python"
+  },
+  {
+    "repo": "actions/setup-python",
     "branch": "main",
     "language": "TypeScript",
-    "description": "An open-source, self-hosted AI code review bot powered by Vercel."
+    "description": "Set up your GitHub Actions workflow with a specific version of Python"
   },
   {
-    "repo": "Trooped/QuickBars",
-    "branch": "main",
+    "repo": "Kotlin/kotlinx.coroutines",
+    "branch": "master",
     "language": "Kotlin",
-    "description": "The Official QuickBars for Home Assistant Repository"
+    "description": "Library support for Kotlin coroutines"
   },
   {
-    "repo": "vectordotdev/vector",
+    "repo": "trufflesuite/truffle",
+    "branch": "develop",
+    "language": "TypeScript",
+    "description": ":warning: The Truffle Suite is being sunset. For information on ongoing support, migration options and FAQs, visit the Consensys blog. Thank you for all the support over the years."
+  },
+  {
+    "repo": "HKUDS/CLI-Anything",
+    "branch": "main",
+    "language": "Python",
+    "description": "CLI-Anything: Making ALL Software Agent-Native"
+  },
+  {
+    "repo": "L1AD/claude-task-viewer",
+    "branch": "main",
+    "language": "HTML",
+    "description": "A web-based Kanban board for viewing Claude Code tasks"
+  },
+  {
+    "repo": "diandianti/clawInstaller",
+    "branch": "main",
+    "language": "C#",
+    "description": ""
+  },
+  {
+    "repo": "DioxusLabs/dioxus",
     "branch": "master",
     "language": "Rust",
-    "description": "A high-performance observability data pipeline."
+    "description": "Fullstack app framework for web, desktop, and mobile."
   },
   {
-    "repo": "keephq/keep",
-    "branch": "main",
-    "language": "Python",
-    "description": "The open-source AIOps and alert management platform"
-  },
-  {
-    "repo": "KotlinBy/awesome-kotlin",
-    "branch": "master",
-    "language": "Kotlin",
-    "description": "A curated list of awesome Kotlin related stuff Inspired by awesome-java."
-  },
-  {
-    "repo": "ImageMagick/ImageMagick",
-    "branch": "main",
-    "language": "C",
-    "description": "ImageMagick is a free, open-source software suite for creating, editing, converting, and displaying images. It supports 200+ formats and offers powerful command-line tools and APIs for automation, scripting, and integration across platforms."
-  },
-  {
-    "repo": "hashicorp/raft",
-    "branch": "main",
-    "language": "Go",
-    "description": "Golang implementation of the Raft consensus protocol"
-  },
-  {
-    "repo": "supermemoryai/openclaw-supermemory",
+    "repo": "Tencent/tdesign-react",
     "branch": "main",
     "language": "TypeScript",
-    "description": "Supermemory allows Clawdbot / Molt bot to have PERFECT memory and recall for their own personal agent."
+    "description": "A React UI components lib for TDesign."
   },
   {
-    "repo": "zubair-trabzada/ai-marketing-claude",
-    "branch": "main",
-    "language": "Python",
-    "description": "AI Marketing Suite for Claude Code. 15 marketing skills with parallel subagents — audit any website, generate copy, email sequences, ad campaigns, content calendars, competitive intelligence, and client-ready PDF reports."
-  },
-  {
-    "repo": "fffaraz/awesome-cpp",
+    "repo": "material-components/material-components-web",
     "branch": "master",
-    "language": "Other",
-    "description": "A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny things. Inspired by awesome-... stuff."
-  },
-  {
-    "repo": "photon-hq/qclaw-wechat-client",
-    "branch": "main",
     "language": "TypeScript",
-    "description": "Reverse-engineered TypeScript client for QClaw's WeChat Access API."
-  },
-  {
-    "repo": "nltk/nltk",
-    "branch": "develop",
-    "language": "Python",
-    "description": "NLTK Source"
+    "description": "Modular and customizable Material Design UI components for the web"
   }
 ]
