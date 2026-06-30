@@ -1,146 +1,146 @@
 [
   {
-    "repo": "chrisryugj/kordoc",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "모두 파싱해버리겠다 — HWP/HWPX/PDF → Markdown | npm · CLI · MCP Server"
-  },
-  {
-    "repo": "embedding-shapes/one-agent-one-browser",
-    "branch": "master",
-    "language": "Rust",
-    "description": "One from scratch browser built by one human and one agent, working hand in hand"
-  },
-  {
-    "repo": "Kaleighc793/freqtrade-bot",
+    "repo": "AdilMir1433/DBD-AutoGrind-Trainer-2026",
     "branch": "main",
     "language": "Python",
-    "description": "Freqtrade — Configuration and management tool for the Freqtrade open-source crypto trading bot with strategy backtesting, live/dry-run modes, 10+ exchange support (Binance, Kraken, OKX), hyperparameter optimization, FreqUI dashboard, and Rich terminal menu interface"
+    "description": "Ultimate Dead by Daylight auto-grind trainer with Bloodpoint bot, ESP wallhack, aimbot, and full perk/skin unlocker. Dominate the Fog with our 2026 undetected external tool."
   },
   {
-    "repo": "rust-unofficial/awesome-rust",
-    "branch": "main",
-    "language": "Rust",
-    "description": "A curated list of Rust code and resources."
-  },
-  {
-    "repo": "qemu/qemu",
-    "branch": "master",
-    "language": "C",
-    "description": "Official QEMU mirror. Please see https://www.qemu.org/contribute/ for how to submit changes to QEMU. Pull Requests are ignored. Please only use release tarballs from the QEMU website."
-  },
-  {
-    "repo": "colinhacks/zod",
-    "branch": "master",
-    "language": "TypeScript",
-    "description": "TypeScript-first schema validation with static type inference"
-  },
-  {
-    "repo": "adithya-s-k/manim_skill",
+    "repo": "openai/privacy-filter",
     "branch": "main",
     "language": "Python",
-    "description": "Agent skills for Manim to create 3Blue1Brown style animations."
+    "description": "OpenAI Privacy Filter"
   },
   {
-    "repo": "vercel/pkg",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "Package your Node.js project into an executable"
-  },
-  {
-    "repo": "ethers-io/ethers.js",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Complete Ethereum library and wallet implementation in JavaScript."
-  },
-  {
-    "repo": "AlmogBaku/debug-skill",
-    "branch": "master",
-    "language": "Go",
-    "description": ""
-  },
-  {
-    "repo": "mantinedev/mantine",
-    "branch": "master",
-    "language": "TypeScript",
-    "description": "A fully featured React components library"
-  },
-  {
-    "repo": "DefinitelyTyped/DefinitelyTyped",
-    "branch": "master",
-    "language": "TypeScript",
-    "description": "The repository for high quality TypeScript type definitions."
-  },
-  {
-    "repo": "grpc-ecosystem/grpc-gateway",
-    "branch": "master",
-    "language": "Go",
-    "description": "gRPC to JSON proxy generator following the gRPC HTTP spec"
-  },
-  {
-    "repo": "Emanuele-web04/remodex",
-    "branch": "main",
-    "language": "Swift",
-    "description": "Remote Control for Codex. 24/7 version on the way"
-  },
-  {
-    "repo": "aio-libs/aiohttp",
-    "branch": "master",
-    "language": "Python",
-    "description": "Asynchronous HTTP client/server framework for asyncio and Python"
-  },
-  {
-    "repo": "actions/setup-python",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Set up your GitHub Actions workflow with a specific version of Python"
-  },
-  {
-    "repo": "Kotlin/kotlinx.coroutines",
-    "branch": "master",
-    "language": "Kotlin",
-    "description": "Library support for Kotlin coroutines"
-  },
-  {
-    "repo": "trufflesuite/truffle",
-    "branch": "develop",
-    "language": "TypeScript",
-    "description": ":warning: The Truffle Suite is being sunset. For information on ongoing support, migration options and FAQs, visit the Consensys blog. Thank you for all the support over the years."
-  },
-  {
-    "repo": "HKUDS/CLI-Anything",
+    "repo": "YeQing17-2026/OmniAgent",
     "branch": "main",
     "language": "Python",
-    "description": "CLI-Anything: Making ALL Software Agent-Native"
+    "description": "An agent capable of self-evolving and dynamically hardening security"
   },
   {
-    "repo": "L1AD/claude-task-viewer",
+    "repo": "crafter-station/petdex",
     "branch": "main",
-    "language": "HTML",
-    "description": "A web-based Kanban board for viewing Claude Code tasks"
+    "language": "TypeScript",
+    "description": "Public gallery of animated Codex pets"
   },
   {
-    "repo": "diandianti/clawInstaller",
+    "repo": "akeit0/okojo",
     "branch": "main",
     "language": "C#",
+    "description": "Okojo is an experimental low allocation managed JavaScript engine for .NET"
+  },
+  {
+    "repo": "brexhq/CrabTrap",
+    "branch": "main",
+    "language": "Go",
+    "description": "An LLM-as-a-judge HTTP proxy to secure agents in production"
+  },
+  {
+    "repo": "LayrKits/Sprite-Pipeline",
+    "branch": "main",
+    "language": "Python",
+    "description": "2D Sprite Sheet Creation Pipeline"
+  },
+  {
+    "repo": "infinition/waveshare-watch-rs",
+    "branch": "main",
+    "language": "Rust",
+    "description": "100% Rust `no_std` smartwatch firmware for the Waveshare ESP32-S3-Touch-AMOLED-2.06"
+  },
+  {
+    "repo": "alexandercodes4/AirTrain",
+    "branch": "master",
+    "language": "Python",
+    "description": "Distributed ML training across Apple Silicon Macs"
+  },
+  {
+    "repo": "Einsia/OpenChronicle",
+    "branch": "main",
+    "language": "Python",
     "description": ""
   },
   {
-    "repo": "DioxusLabs/dioxus",
-    "branch": "master",
-    "language": "Rust",
-    "description": "Fullstack app framework for web, desktop, and mobile."
-  },
-  {
-    "repo": "Tencent/tdesign-react",
+    "repo": "Composio-HQ/polymarket-kalshi-arbitrage-bot",
     "branch": "main",
     "language": "TypeScript",
-    "description": "A React UI components lib for TDesign."
+    "description": "Polymarket Kalshi arbitrage prediction-markets trading-bot TypeScript Node.js CLOB Polygon ethers automated-trading spread-trading DeFi crypto algorithmic-trading market-making Kalshi-API Polymarket-CLOB express axios dotenv"
   },
   {
-    "repo": "material-components/material-components-web",
-    "branch": "master",
+    "repo": "OpenDriveLab/WorldEngine",
+    "branch": "main",
+    "language": "Python",
+    "description": "WorldEngine: Towards the Era of Post-Training for Physical AI"
+  },
+  {
+    "repo": "homer66/Windows-Xbox-Mode",
+    "branch": "main",
+    "language": "C++",
+    "description": "Windows 11 Xbox Mode Download April 2026 Project Helix Console News Advanced Shader Delivery ASD Stutter Fix Gaming Copilot Windows 11 Features ROG Xbox Ally Specs May 2026 Security Update Windows 11 24H2 Gaming Optimization Free 2GB RAM PC Mode DirectStorage zStandard Support Xbox Cloud Sync Fix Windows Xbox Mode Release Date Controller"
+  },
+  {
+    "repo": "golbin/agent-skills",
+    "branch": "main",
+    "language": "Shell",
+    "description": "Reusable agent skills for Codex and compatible tools"
+  },
+  {
+    "repo": "0xquqi/crypto-kol-quant",
+    "branch": "main",
+    "language": "HTML",
+    "description": "首个将99位加密KOL交易经验LLM蒸馏为可回测量化因子的开源项目 | First to distill 99 crypto KOL trading experience into backtestable quant factors via LLM"
+  },
+  {
+    "repo": "wangyingqi-x/workflow-showcase-platform",
+    "branch": "main",
+    "language": "Java",
+    "description": ""
+  },
+  {
+    "repo": "Alfattah07/Acrobat-Editor-2026",
+    "branch": "main",
+    "language": "C++",
+    "description": "Download Acrobat AI Assistant PDF Editor Desktop Windows 11 Acrobat DC 2026 Full Version Electronic Signature Tool OCR PDF to Word Document Cloud Sync PDF Security Redaction Tool Fill and Sign Professional PDF Utility 2026 High Performance Adobe Document Intelligence 24h Trend Download"
+  },
+  {
+    "repo": "jmerelnyc/Photo-agents",
+    "branch": "main",
+    "language": "Python",
+    "description": "Autonomous self-evolving agents. Vision-grounded layered memory and self-written skills for LLM agents that operate your computer."
+  },
+  {
+    "repo": "TQ-trade/polymarket-copytrade",
+    "branch": "main",
+    "language": "HTML",
+    "description": "Polymarket copytrading bot that mirrors a target trader's activity to your own account polymarket copy trading bot, polymarket copy bot polymarket copy bot polymarket bot polymarket trading bot polymarket copy trading bot, polymarket copy bot polymarket copy bot polymarket bot polymarket trading bot polymarket copy trading bot, polymarket copy bot"
+  },
+  {
+    "repo": "op7418/Night-Patrol",
+    "branch": "main",
     "language": "TypeScript",
-    "description": "Modular and customizable Material Design UI components for the web"
+    "description": ""
+  },
+  {
+    "repo": "yzhao062/anywhere-agents",
+    "branch": "main",
+    "language": "Python",
+    "description": "One config to rule all your AI agents: portable (every project, every session), effective (curated writing, routing, skills), and safer (destructive-command guard)."
+  },
+  {
+    "repo": "machinepulse-ai/world2agent",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "World2Agent(W2A) is an open protocol that standardizes how Al agents perceive the real world."
+  },
+  {
+    "repo": "appergb/openless",
+    "branch": "main",
+    "language": "HTML",
+    "description": "Hold a key, speak, release — AI-polished text appears at your cursor in any app. Open-source voice input for macOS & Windows. (按住快捷键说话，松开即得润色后的文字)"
+  },
+  {
+    "repo": "op7418/m5-paper-buddy",
+    "branch": "main",
+    "language": "C++",
+    "description": "📟 Claude Code physical companion on M5Paper V1.1 e-ink. Multi-session dashboard, hardware approval (buttons + touch), AskUserQuestion option cards, CJK, USB/BLE, installable as a Claude Code plugin. / Claude Code 实体搭档，把 M5Paper 变成 Claude Code 的多会话看板 + 硬件审批面板。"
   }
 ]
