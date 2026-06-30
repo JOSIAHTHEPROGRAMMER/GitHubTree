@@ -1,146 +1,146 @@
 [
   {
-    "repo": "AdilMir1433/DBD-AutoGrind-Trainer-2026",
-    "branch": "main",
-    "language": "Python",
-    "description": "Ultimate Dead by Daylight auto-grind trainer with Bloodpoint bot, ESP wallhack, aimbot, and full perk/skin unlocker. Dominate the Fog with our 2026 undetected external tool."
-  },
-  {
-    "repo": "openai/privacy-filter",
-    "branch": "main",
-    "language": "Python",
-    "description": "OpenAI Privacy Filter"
-  },
-  {
-    "repo": "YeQing17-2026/OmniAgent",
-    "branch": "main",
-    "language": "Python",
-    "description": "An agent capable of self-evolving and dynamically hardening security"
-  },
-  {
-    "repo": "crafter-station/petdex",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Public gallery of animated Codex pets"
-  },
-  {
-    "repo": "akeit0/okojo",
-    "branch": "main",
-    "language": "C#",
-    "description": "Okojo is an experimental low allocation managed JavaScript engine for .NET"
-  },
-  {
-    "repo": "brexhq/CrabTrap",
-    "branch": "main",
-    "language": "Go",
-    "description": "An LLM-as-a-judge HTTP proxy to secure agents in production"
-  },
-  {
-    "repo": "LayrKits/Sprite-Pipeline",
-    "branch": "main",
-    "language": "Python",
-    "description": "2D Sprite Sheet Creation Pipeline"
-  },
-  {
-    "repo": "infinition/waveshare-watch-rs",
+    "repo": "Brunofancy/polymarket-copy-trading-bot-agent",
     "branch": "main",
     "language": "Rust",
-    "description": "100% Rust `no_std` smartwatch firmware for the Waveshare ESP32-S3-Touch-AMOLED-2.06"
-  },
-  {
-    "repo": "alexandercodes4/AirTrain",
-    "branch": "master",
-    "language": "Python",
-    "description": "Distributed ML training across Apple Silicon Macs"
-  },
-  {
-    "repo": "Einsia/OpenChronicle",
-    "branch": "main",
-    "language": "Python",
     "description": ""
   },
   {
-    "repo": "Composio-HQ/polymarket-kalshi-arbitrage-bot",
+    "repo": "appwrite/appwrite",
     "branch": "main",
     "language": "TypeScript",
-    "description": "Polymarket Kalshi arbitrage prediction-markets trading-bot TypeScript Node.js CLOB Polygon ethers automated-trading spread-trading DeFi crypto algorithmic-trading market-making Kalshi-API Polymarket-CLOB express axios dotenv"
+    "description": "Appwrite® - complete cloud infrastructure for your web, mobile and AI apps. Including Auth, Databases, Storage, Functions, Messaging, Hosting, Realtime and more"
   },
   {
-    "repo": "OpenDriveLab/WorldEngine",
+    "repo": "nuxt/ui",
+    "branch": "dev",
+    "language": "Vue",
+    "description": "The Intuitive Vue UI Library powered by Reka UI & Tailwind CSS."
+  },
+  {
+    "repo": "HubSpot/messenger",
+    "branch": "master",
+    "language": "JavaScript",
+    "description": "Growl-style alerts and messages for your app. #hubspot-open-source"
+  },
+  {
+    "repo": "massgravel/Microsoft-Activation-Scripts",
+    "branch": "master",
+    "language": "Batchfile",
+    "description": "Open-source Windows and Office activator featuring HWID, Ohook, TSforge, and Online KMS activation methods, along with advanced troubleshooting."
+  },
+  {
+    "repo": "mksglu/claude-context-mode",
     "branch": "main",
+    "language": "JavaScript",
+    "description": "Stop losing context to large outputs."
+  },
+  {
+    "repo": "great-expectations/great_expectations",
+    "branch": "develop",
     "language": "Python",
-    "description": "WorldEngine: Towards the Era of Post-Training for Physical AI"
+    "description": "Always know what to expect from your data."
   },
   {
-    "repo": "homer66/Windows-Xbox-Mode",
+    "repo": "getsentry/sentry-javascript",
+    "branch": "develop",
+    "language": "TypeScript",
+    "description": "Official Sentry SDKs for JavaScript"
+  },
+  {
+    "repo": "zer0condition/Ophion",
+    "branch": "master",
+    "language": "C",
+    "description": "Stealth-focused Intel VT-x hypervisor base (EAC/BE/ACs/AVs)."
+  },
+  {
+    "repo": "delta-io/delta",
+    "branch": "master",
+    "language": "Scala",
+    "description": "An open-source storage framework that enables building a Lakehouse architecture with compute engines including Spark, PrestoDB, Flink, Trino, and Hive and APIs"
+  },
+  {
+    "repo": "aarondfrancis/counselors",
     "branch": "main",
-    "language": "C++",
-    "description": "Windows 11 Xbox Mode Download April 2026 Project Helix Console News Advanced Shader Delivery ASD Stutter Fix Gaming Copilot Windows 11 Features ROG Xbox Ally Specs May 2026 Security Update Windows 11 24H2 Gaming Optimization Free 2GB RAM PC Mode DirectStorage zStandard Support Xbox Cloud Sync Fix Windows Xbox Mode Release Date Controller"
+    "language": "TypeScript",
+    "description": "Fan out prompts to multiple AI coding agents in parallel"
   },
   {
-    "repo": "golbin/agent-skills",
-    "branch": "main",
-    "language": "Shell",
-    "description": "Reusable agent skills for Codex and compatible tools"
-  },
-  {
-    "repo": "0xquqi/crypto-kol-quant",
+    "repo": "TheGreatGildo/nerv-ui",
     "branch": "main",
     "language": "HTML",
-    "description": "首个将99位加密KOL交易经验LLM蒸馏为可回测量化因子的开源项目 | First to distill 99 crypto KOL trading experience into backtestable quant factors via LLM"
+    "description": "NERV Operations Console aesthetic for web interfaces — Evangelion-inspired instrumentation UI skill for Claude Code / OpenClaw"
   },
   {
-    "repo": "wangyingqi-x/workflow-showcase-platform",
+    "repo": "mgks/GitHubTree",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "Visualise any GitHub repository folder structure. Available as a web app, CLI tool, and node.js library."
+  },
+  {
+    "repo": "TheCSir/TerminalStart",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Chromium Extension for Tech Bros"
+  },
+  {
+    "repo": "trumpet-noek/sora2-free-watermark-remover",
+    "branch": "main",
+    "language": "Python",
+    "description": "sora2 free watermark remover"
+  },
+  {
+    "repo": "CodeAbra/iai-mcp",
+    "branch": "main",
+    "language": "Python",
+    "description": "The best-benchmarked open-source memory system for AI coding assistants"
+  },
+  {
+    "repo": "susanudgzf/Aave-Claw",
+    "branch": "main",
+    "language": "Rust",
+    "description": ""
+  },
+  {
+    "repo": "dandavison/delta",
+    "branch": "main",
+    "language": "Rust",
+    "description": "A syntax-highlighting pager for git, diff, grep, and blame output"
+  },
+  {
+    "repo": "large-performance-model/large-performance-model.github.io",
+    "branch": "main",
+    "language": "HTML",
+    "description": "LPM 1.0: Video-based Character Performance Model"
+  },
+  {
+    "repo": "spring-projects/spring-data-jpa",
     "branch": "main",
     "language": "Java",
-    "description": ""
+    "description": "Simplifies the development of creating a JPA-based data access layer."
   },
   {
-    "repo": "Alfattah07/Acrobat-Editor-2026",
-    "branch": "main",
-    "language": "C++",
-    "description": "Download Acrobat AI Assistant PDF Editor Desktop Windows 11 Acrobat DC 2026 Full Version Electronic Signature Tool OCR PDF to Word Document Cloud Sync PDF Security Redaction Tool Fill and Sign Professional PDF Utility 2026 High Performance Adobe Document Intelligence 24h Trend Download"
-  },
-  {
-    "repo": "jmerelnyc/Photo-agents",
-    "branch": "main",
-    "language": "Python",
-    "description": "Autonomous self-evolving agents. Vision-grounded layered memory and self-written skills for LLM agents that operate your computer."
-  },
-  {
-    "repo": "TQ-trade/polymarket-copytrade",
-    "branch": "main",
-    "language": "HTML",
-    "description": "Polymarket copytrading bot that mirrors a target trader's activity to your own account polymarket copy trading bot, polymarket copy bot polymarket copy bot polymarket bot polymarket trading bot polymarket copy trading bot, polymarket copy bot polymarket copy bot polymarket bot polymarket trading bot polymarket copy trading bot, polymarket copy bot"
-  },
-  {
-    "repo": "op7418/Night-Patrol",
+    "repo": "qaml-ai/pi-worker",
     "branch": "main",
     "language": "TypeScript",
     "description": ""
   },
   {
-    "repo": "yzhao062/anywhere-agents",
+    "repo": "BitrigApp/XCDocs",
+    "branch": "main",
+    "language": "Swift",
+    "description": "Apple's developer docs as a Swift package and CLI."
+  },
+  {
+    "repo": "Doryoku1223/lunwen-skill",
     "branch": "main",
     "language": "Python",
-    "description": "One config to rule all your AI agents: portable (every project, every session), effective (curated writing, routing, skills), and safer (destructive-command guard)."
+    "description": "面向本科计科学生的一键论文初稿 Skill，支持样文/开题报告/模板驱动生成，并补全流程图、ER 图和项目截图"
   },
   {
-    "repo": "machinepulse-ai/world2agent",
+    "repo": "taylorarndt/perspective-cuts",
     "branch": "main",
-    "language": "TypeScript",
-    "description": "World2Agent(W2A) is an open protocol that standardizes how Al agents perceive the real world."
-  },
-  {
-    "repo": "appergb/openless",
-    "branch": "main",
-    "language": "HTML",
-    "description": "Hold a key, speak, release — AI-polished text appears at your cursor in any app. Open-source voice input for macOS & Windows. (按住快捷键说话，松开即得润色后的文字)"
-  },
-  {
-    "repo": "op7418/m5-paper-buddy",
-    "branch": "main",
-    "language": "C++",
-    "description": "📟 Claude Code physical companion on M5Paper V1.1 e-ink. Multi-session dashboard, hardware approval (buttons + touch), AskUserQuestion option cards, CJK, USB/BLE, installable as a Claude Code plugin. / Claude Code 实体搭档，把 M5Paper 变成 Claude Code 的多会话看板 + 硬件审批面板。"
+    "language": "Swift",
+    "description": "A text-based language for writing Apple Shortcuts. Experimental."
   }
 ]

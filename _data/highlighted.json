@@ -1,8 +1,8 @@
 {
-  "repo": "offchainthoughts/Amber",
-  "branch": "main",
-  "language": "Python",
-  "description": "Bank the expensive compute once, then carry it offline as a single file that can prove it is what it claims to be.",
-  "stars": 326,
-  "forks": 195
+  "repo": "Einsia/Browser-BC",
+  "branch": "master",
+  "language": "TypeScript",
+  "description": "Agent behavior clone for browser using, targeting general GUI using and distributed trajectory collecting.",
+  "stars": 337,
+  "forks": 31
 }
