@@ -1,8 +1,8 @@
 {
-  "repo": "Einsia/Browser-BC",
-  "branch": "master",
-  "language": "TypeScript",
-  "description": "Agent behavior clone for browser using, targeting general GUI using and distributed trajectory collecting.",
-  "stars": 337,
-  "forks": 31
+  "repo": "moye-tech/WhatsApp_Bulk_Sender",
+  "branch": "main",
+  "language": "Python",
+  "description": "Send bulk messages to contacts and groups automatically. Message all contacts, send to groups, send images/videos, and schedule messages. Best for business.",
+  "stars": 217,
+  "forks": 0
 }

@@ -1,146 +1,146 @@
 [
   {
-    "repo": "Brunofancy/polymarket-copy-trading-bot-agent",
-    "branch": "main",
-    "language": "Rust",
-    "description": ""
-  },
-  {
-    "repo": "appwrite/appwrite",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Appwrite® - complete cloud infrastructure for your web, mobile and AI apps. Including Auth, Databases, Storage, Functions, Messaging, Hosting, Realtime and more"
-  },
-  {
-    "repo": "nuxt/ui",
-    "branch": "dev",
-    "language": "Vue",
-    "description": "The Intuitive Vue UI Library powered by Reka UI & Tailwind CSS."
-  },
-  {
-    "repo": "HubSpot/messenger",
+    "repo": "minix3/minix",
     "branch": "master",
-    "language": "JavaScript",
-    "description": "Growl-style alerts and messages for your app. #hubspot-open-source"
+    "language": "Other",
+    "description": "Redirection to the real github page only."
   },
   {
-    "repo": "massgravel/Microsoft-Activation-Scripts",
+    "repo": "jingyaogong/minimind-o",
     "branch": "master",
-    "language": "Batchfile",
-    "description": "Open-source Windows and Office activator featuring HWID, Ohook, TSforge, and Online KMS activation methods, along with advanced troubleshooting."
-  },
-  {
-    "repo": "mksglu/claude-context-mode",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "Stop losing context to large outputs."
-  },
-  {
-    "repo": "great-expectations/great_expectations",
-    "branch": "develop",
     "language": "Python",
-    "description": "Always know what to expect from your data."
+    "description": "🎙️ 「大模型」从0训练0.1B能听能说能看的全模态Omni模型！A 0.1B Omni model trained from scratch, capable of listening, speaking, and seeing!"
   },
   {
-    "repo": "getsentry/sentry-javascript",
-    "branch": "develop",
+    "repo": "graphql/graphql-js",
+    "branch": "main",
     "language": "TypeScript",
-    "description": "Official Sentry SDKs for JavaScript"
+    "description": "A reference implementation of GraphQL for JavaScript"
   },
   {
-    "repo": "zer0condition/Ophion",
+    "repo": "nginx/nginx",
     "branch": "master",
     "language": "C",
-    "description": "Stealth-focused Intel VT-x hypervisor base (EAC/BE/ACs/AVs)."
+    "description": "The official NGINX Open Source repository."
   },
   {
-    "repo": "delta-io/delta",
+    "repo": "plausible/analytics",
     "branch": "master",
-    "language": "Scala",
-    "description": "An open-source storage framework that enables building a Lakehouse architecture with compute engines including Spark, PrestoDB, Flink, Trino, and Hive and APIs"
+    "language": "Elixir",
+    "description": "Simple, open source, lightweight and privacy-friendly web analytics alternative to Google Analytics."
   },
   {
-    "repo": "aarondfrancis/counselors",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Fan out prompts to multiple AI coding agents in parallel"
+    "repo": "moby/moby",
+    "branch": "master",
+    "language": "Go",
+    "description": "The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems"
   },
   {
-    "repo": "TheGreatGildo/nerv-ui",
-    "branch": "main",
-    "language": "HTML",
-    "description": "NERV Operations Console aesthetic for web interfaces — Evangelion-inspired instrumentation UI skill for Claude Code / OpenClaw"
+    "repo": "locustio/locust",
+    "branch": "master",
+    "language": "Python",
+    "description": "Write scalable load tests in plain Python 🚗💨"
   },
   {
-    "repo": "mgks/GitHubTree",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "Visualise any GitHub repository folder structure. Available as a web app, CLI tool, and node.js library."
-  },
-  {
-    "repo": "TheCSir/TerminalStart",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Chromium Extension for Tech Bros"
-  },
-  {
-    "repo": "trumpet-noek/sora2-free-watermark-remover",
+    "repo": "yangdongchao/UniAudio2",
     "branch": "main",
     "language": "Python",
-    "description": "sora2 free watermark remover"
+    "description": "UniAudio 2.0: An audio fundation model for text, speech, sound, and music"
   },
   {
-    "repo": "CodeAbra/iai-mcp",
+    "repo": "oblador/react-native-vector-icons",
+    "branch": "master",
+    "language": "TypeScript",
+    "description": "Customizable Icons for React Native with support for image source and full styling."
+  },
+  {
+    "repo": "EleutherAI/gpt-neox",
     "branch": "main",
     "language": "Python",
-    "description": "The best-benchmarked open-source memory system for AI coding assistants"
+    "description": "An implementation of model parallel autoregressive transformers on GPUs, based on the Megatron and DeepSpeed libraries"
   },
   {
-    "repo": "susanudgzf/Aave-Claw",
+    "repo": "andreisss/KslDump",
     "branch": "main",
-    "language": "Rust",
-    "description": ""
+    "language": "Python",
+    "description": "KslDump — Why bring your own knife when Defender already left one in the kitchen?"
   },
   {
-    "repo": "dandavison/delta",
+    "repo": "reflex-dev/reflex",
     "branch": "main",
-    "language": "Rust",
-    "description": "A syntax-highlighting pager for git, diff, grep, and blame output"
+    "language": "Python",
+    "description": "🕸️ Web apps in pure Python 🐍"
   },
   {
-    "repo": "large-performance-model/large-performance-model.github.io",
+    "repo": "maybe-finance/maybe",
     "branch": "main",
-    "language": "HTML",
-    "description": "LPM 1.0: Video-based Character Performance Model"
+    "language": "Ruby",
+    "description": "The personal finance app for everyone"
   },
   {
-    "repo": "spring-projects/spring-data-jpa",
+    "repo": "micropython/micropython",
+    "branch": "master",
+    "language": "C",
+    "description": "MicroPython - a lean and efficient Python implementation for microcontrollers and constrained systems"
+  },
+  {
+    "repo": "pypa/hatch",
+    "branch": "master",
+    "language": "Python",
+    "description": "Modern, extensible Python project management"
+  },
+  {
+    "repo": "liuxiaopai-ai/raphael-publish",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Raphael Publish - 公众号排版大师 | 现代 Markdown 排版引擎"
+  },
+  {
+    "repo": "JuliaLang/julia",
+    "branch": "master",
+    "language": "Julia",
+    "description": "The Julia Programming Language"
+  },
+  {
+    "repo": "sindresorhus/type-fest",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "A collection of essential TypeScript types"
+  },
+  {
+    "repo": "go-sql-driver/mysql",
+    "branch": "master",
+    "language": "Go",
+    "description": "Go MySQL Driver is a MySQL driver for Go's (golang) database/sql package"
+  },
+  {
+    "repo": "doocs/advanced-java",
     "branch": "main",
     "language": "Java",
-    "description": "Simplifies the development of creating a JPA-based data access layer."
+    "description": "😮 Core Interview Questions & Answers For Experienced Java(Backend) Developers | 互联网 Java 工程师进阶知识完全扫盲：涵盖高并发、分布式、高可用、微服务、海量数据处理等领域知识"
   },
   {
-    "repo": "qaml-ai/pi-worker",
+    "repo": "google-research/vision_transformer",
+    "branch": "main",
+    "language": "Jupyter Notebook",
+    "description": "Vision Transformer in JAX."
+  },
+  {
+    "repo": "unicodeveloper/globalthreatmap",
     "branch": "main",
     "language": "TypeScript",
-    "description": ""
+    "description": "Global threat map. Learn wars, conflicts, military bases and history of nations."
   },
   {
-    "repo": "BitrigApp/XCDocs",
+    "repo": "beita6969/claude-code",
     "branch": "main",
-    "language": "Swift",
-    "description": "Apple's developer docs as a Swift package and CLI."
+    "language": "TypeScript",
+    "description": "Claude Code Source - Buildable Research Fork. Reverse-engineered build system, runnable with Bun."
   },
   {
-    "repo": "Doryoku1223/lunwen-skill",
+    "repo": "supermalparit/Towns",
     "branch": "main",
-    "language": "Python",
-    "description": "面向本科计科学生的一键论文初稿 Skill，支持样文/开题报告/模板驱动生成，并补全流程图、ER 图和项目截图"
-  },
-  {
-    "repo": "taylorarndt/perspective-cuts",
-    "branch": "main",
-    "language": "Swift",
-    "description": "A text-based language for writing Apple Shortcuts. Experimental."
+    "language": "Java",
+    "description": "Repository for the Towns game"
   }
 ]
