@@ -1,146 +1,146 @@
 [
   {
-    "repo": "martinkoutecky/tine",
-    "branch": "master",
-    "language": "TypeScript",
-    "description": ""
-  },
-  {
-    "repo": "mayfer/electrobun-macos-native-blur",
-    "branch": "master",
-    "language": "TypeScript",
-    "description": "Enable background blur like a native app in Electrobun"
-  },
-  {
-    "repo": "hashicorp/nomad",
-    "branch": "main",
-    "language": "Go",
-    "description": "Nomad is an easy-to-use, flexible, and performant workload orchestrator that can deploy a mix of microservice, batch, containerized, and non-containerized applications. Nomad is easy to operate and scale and has native Consul and Vault integrations."
-  },
-  {
-    "repo": "anthropics/financial-services-plugins",
+    "repo": "sapientinc/HRM-Text",
     "branch": "main",
     "language": "Python",
-    "description": ""
+    "description": "HRM-Text is a 1B text generation model based on the HRM architecture, strengthened by task completion and latent space reasoning."
   },
   {
-    "repo": "xullexer/PYDNS-Scanner",
-    "branch": "main",
-    "language": "Python",
-    "description": "A modern, high-performance DNS scanner with a beautiful Terminal User Interface (TUI) built with Textual. This tool can scan millions of IP addresses to find working DNS servers with optional Slipstream proxy testing and automatic multi-platform client download."
-  },
-  {
-    "repo": "cookiecutter/cookiecutter",
+    "repo": "ninja-build/ninja",
     "branch": "master",
-    "language": "Python",
-    "description": "A cross-platform command-line utility that creates projects from cookiecutters (project templates), e.g. Python package projects, C projects."
-  },
-  {
-    "repo": "LucidAkshay/kavach",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Tactical AI Workspace Monitor & EDR"
-  },
-  {
-    "repo": "benjitaylor/liveline",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Real-time animated line chart for React."
-  },
-  {
-    "repo": "ml-explore/mlx",
-    "branch": "main",
     "language": "C++",
-    "description": "MLX: An array framework for Apple silicon"
+    "description": "a small build system with a focus on speed"
   },
   {
-    "repo": "knative/eventing",
-    "branch": "main",
-    "language": "Go",
-    "description": "Event-driven application platform for Kubernetes"
-  },
-  {
-    "repo": "Gentleman-Programming/engram",
-    "branch": "main",
-    "language": "Go",
-    "description": "Persistent memory system for AI coding agents. Agent-agnostic Go binary with SQLite + FTS5, MCP server, HTTP API, CLI, and TUI."
-  },
-  {
-    "repo": "tamagui/tamagui",
+    "repo": "dypsilon/frontend-dev-bookmarks",
     "branch": "master",
-    "language": "TypeScript",
-    "description": "Style React fast with 100% parity on React Native, an optional UI kit, and optimizing compiler."
+    "language": "Other",
+    "description": "Manually curated collection of resources for frontend web developers."
   },
   {
-    "repo": "DioxusLabs/dioxus",
+    "repo": "akullpp/awesome-java",
     "branch": "master",
-    "language": "Rust",
-    "description": "Fullstack app framework for web, desktop, and mobile."
+    "language": "Other",
+    "description": "A curated list of awesome frameworks, libraries and software for the Java programming language."
   },
   {
-    "repo": "pinchtab/pinchtab",
+    "repo": "harlan-zw/vue-ecosystem-skills",
     "branch": "main",
-    "language": "Go",
-    "description": ""
+    "language": "MDX",
+    "description": "AI agent skills for the bleeding edge Vue ecosystem. Built from real docs, issues, and releases."
   },
   {
-    "repo": "ramsey/uuid",
-    "branch": "4.7",
-    "language": "PHP",
-    "description": ":snowflake: A PHP library for generating universally unique identifiers (UUIDs)."
-  },
-  {
-    "repo": "louisho5/picobot",
-    "branch": "main",
-    "language": "Go",
-    "description": "A lightweight self-hosted bot in a single binary, written in Go."
-  },
-  {
-    "repo": "HKUDS/CLI-Anything",
+    "repo": "ochyai/vibe-local",
     "branch": "main",
     "language": "Python",
-    "description": "CLI-Anything: Making ALL Software Agent-Native"
+    "description": "Free AI coding environment: Ollama + Python"
   },
   {
-    "repo": "uber-go/fx",
-    "branch": "master",
-    "language": "Go",
-    "description": "A dependency injection based application framework for Go."
-  },
-  {
-    "repo": "datavorous/sameshi",
-    "branch": "master",
-    "language": "C",
-    "description": "a ~1200 Elo chess engine that fits within 2KB"
-  },
-  {
-    "repo": "susanudgzf/Aave-Claw",
+    "repo": "Lucent-Snow/style-extractor",
     "branch": "main",
-    "language": "Rust",
-    "description": ""
+    "language": "JavaScript",
+    "description": "一个能够提取最大化提取网页风格的skill"
   },
   {
-    "repo": "heri1845/Polymarket-trading-tool",
+    "repo": "deepseek-ai/deepseek-coder",
+    "branch": "main",
+    "language": "Python",
+    "description": "DeepSeek Coder: Let the Code Write Itself"
+  },
+  {
+    "repo": "cosmiciron/vmprint",
     "branch": "main",
     "language": "TypeScript",
-    "description": "polymarket trading bot. polymarket copy trading bot"
+    "description": "A pure-JS, zero-dependency typesetting engine that yields bit-perfect PDF output across any runtime—from Cloudflare Workers to the browser. Stop using Headless Chrome to print text."
   },
   {
-    "repo": "nicobailon/visual-explainer",
+    "repo": "golang-standards/project-layout",
+    "branch": "master",
+    "language": "Makefile",
+    "description": "Standard Go Project Layout"
+  },
+  {
+    "repo": "jmuncor/tokentap",
+    "branch": "main",
+    "language": "Python",
+    "description": "Intercept LLM API traffic and visualize token usage in a real-time terminal dashboard. Track costs,       debug prompts, and monitor context window usage across your AI development sessions."
+  },
+  {
+    "repo": "vercel-labs/webreel",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Record scripted browser demos as video"
+  },
+  {
+    "repo": "jazzband/pip-tools",
+    "branch": "main",
+    "language": "Python",
+    "description": "A set of tools to keep your pinned Python dependencies fresh."
+  },
+  {
+    "repo": "nyanko3141592/remotion-voicevox-template",
+    "branch": "master",
+    "language": "TypeScript",
+    "description": "Remotion + VOICEVOX動画テンプレート（ずんだもん＆めたん掛け合い動画）"
+  },
+  {
+    "repo": "PeonPing/peon-ping",
+    "branch": "main",
+    "language": "Shell",
+    "description": "Warcraft III Peon voice notifications for Claude Code. Stop babysitting your terminal."
+  },
+  {
+    "repo": "sweetalert2/sweetalert2",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "✨ A beautiful, responsive, highly customizable and accessible (WAI-ARIA) replacement for JavaScript's popup boxes. Zero dependencies. 🇺🇦🇪🇺"
+  },
+  {
+    "repo": "Soul-AILab/SoulX-Singer",
+    "branch": "main",
+    "language": "Python",
+    "description": "Official inference code for SoulX-Singer: Towards High-Quality Zero-Shot Singing Voice Synthesis"
+  },
+  {
+    "repo": "disler/pi-vs-claude-code",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Comparison between open source PI agent and closed source Claude Code agent"
+  },
+  {
+    "repo": "facebookresearch/audiocraft",
+    "branch": "main",
+    "language": "Jupyter Notebook",
+    "description": "Audiocraft is a library for audio processing and generation with deep learning. It features the state-of-the-art EnCodec audio compressor / tokenizer, along with MusicGen, a simple and controllable music generation LM with textual and melodic conditioning."
+  },
+  {
+    "repo": "finvfamily/finshare",
+    "branch": "main",
+    "language": "Python",
+    "description": "专业的金融数据获取工具库 - A Professional Financial Data Fetching Toolkit for   Python"
+  },
+  {
+    "repo": "composer/composer",
+    "branch": "main",
+    "language": "PHP",
+    "description": "Dependency Manager for PHP"
+  },
+  {
+    "repo": "angular/angular",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Deliver web apps with confidence 🚀"
+  },
+  {
+    "repo": "L1AD/claude-task-viewer",
     "branch": "main",
     "language": "HTML",
-    "description": "Agent skill + prompt templates that generate rich HTML pages for visual diff reviews, architecture overviews, plan audits, data tables, and project recaps"
+    "description": "A web-based Kanban board for viewing Claude Code tasks"
   },
   {
-    "repo": "elastic/logstash",
+    "repo": "qwikverse/qwik",
     "branch": "main",
-    "language": "Java",
-    "description": "Logstash - transport and process your logs, events, or other data"
-  },
-  {
-    "repo": "Kotlin/kotlinx.coroutines",
-    "branch": "master",
-    "language": "Kotlin",
-    "description": "Library support for Kotlin coroutines"
+    "language": "Other",
+    "description": "The HTML-first framework. Instant apps of any size with ~ 1kb JS"
   }
 ]
