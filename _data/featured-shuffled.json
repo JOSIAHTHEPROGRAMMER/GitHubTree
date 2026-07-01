@@ -1,146 +1,146 @@
 [
   {
-    "repo": "minix3/minix",
+    "repo": "v9ai/ai-engineer-roadmap",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": ""
+  },
+  {
+    "repo": "rohanarun/phoneclaw",
+    "branch": "main",
+    "language": "Kotlin",
+    "description": "A version of openClaw/Clawdbot that automates android phones entirely without root, including all apps from a side-loaded APK. Acts as your 24/7 personal assistant on your phone."
+  },
+  {
+    "repo": "LeoYeAI/openclaw-guardian",
+    "branch": "main",
+    "language": "Shell",
+    "description": "🛡️ Guardian watchdog for OpenClaw Gateway — auto-monitor, self-repair via doctor --fix, git-based rollback, daily snapshots, and Discord alerts. Powered by MyClaw.ai"
+  },
+  {
+    "repo": "zai-org/GLM-OCR",
+    "branch": "main",
+    "language": "Python",
+    "description": "GLM-OCR: Accurate ×  Fast × Comprehensive"
+  },
+  {
+    "repo": "steven2358/awesome-generative-ai",
+    "branch": "main",
+    "language": "Other",
+    "description": "A curated list of modern Generative Artificial Intelligence projects and services"
+  },
+  {
+    "repo": "samvallad33/vestige",
+    "branch": "main",
+    "language": "Rust",
+    "description": "Cognitive memory MCP server for Claude - FSRS-6, spreading activation, synaptic tagging, and 130 years of memory research"
+  },
+  {
+    "repo": "tldev/posturr",
+    "branch": "main",
+    "language": "Swift",
+    "description": "A macOS app that blurs your screen when you slouch. Uses Vision framework for real-time posture detection."
+  },
+  {
+    "repo": "Olshansk/interview",
     "branch": "master",
     "language": "Other",
-    "description": "Redirection to the real github page only."
+    "description": "Everything you need to prepare for your technical interview"
   },
   {
-    "repo": "jingyaogong/minimind-o",
+    "repo": "inputsh/awesome-linux",
     "branch": "master",
-    "language": "Python",
-    "description": "🎙️ 「大模型」从0训练0.1B能听能说能看的全模态Omni模型！A 0.1B Omni model trained from scratch, capable of listening, speaking, and seeing!"
+    "language": "Other",
+    "description": ":penguin: A list of awesome projects and resources that make Linux even more awesome. :penguin:"
   },
   {
-    "repo": "graphql/graphql-js",
+    "repo": "JaredStewart/coderlm",
+    "branch": "main",
+    "language": "Rust",
+    "description": "Tree-sitter-powered code indexing server that gives LLM agents precise, on-demand access to symbols, implementations, callers, tests, and grep across multi-language projects - so they explore codebases through targeted queries instead of loading everything into context."
+  },
+  {
+    "repo": "qazbnm456/awesome-web-security",
+    "branch": "master",
+    "language": "Other",
+    "description": "🐶 A curated list of Web Security materials and resources."
+  },
+  {
+    "repo": "dayflow-js/BlossomColorPicker",
     "branch": "main",
     "language": "TypeScript",
-    "description": "A reference implementation of GraphQL for JavaScript"
+    "description": "A beautiful, blooming color picker component build by Tailwind for Web.     🌟 If you like it, give it a star :)"
   },
   {
-    "repo": "nginx/nginx",
-    "branch": "master",
-    "language": "C",
-    "description": "The official NGINX Open Source repository."
-  },
-  {
-    "repo": "plausible/analytics",
-    "branch": "master",
-    "language": "Elixir",
-    "description": "Simple, open source, lightweight and privacy-friendly web analytics alternative to Google Analytics."
-  },
-  {
-    "repo": "moby/moby",
-    "branch": "master",
-    "language": "Go",
-    "description": "The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems"
-  },
-  {
-    "repo": "locustio/locust",
-    "branch": "master",
-    "language": "Python",
-    "description": "Write scalable load tests in plain Python 🚗💨"
-  },
-  {
-    "repo": "yangdongchao/UniAudio2",
-    "branch": "main",
-    "language": "Python",
-    "description": "UniAudio 2.0: An audio fundation model for text, speech, sound, and music"
-  },
-  {
-    "repo": "oblador/react-native-vector-icons",
-    "branch": "master",
-    "language": "TypeScript",
-    "description": "Customizable Icons for React Native with support for image source and full styling."
-  },
-  {
-    "repo": "EleutherAI/gpt-neox",
-    "branch": "main",
-    "language": "Python",
-    "description": "An implementation of model parallel autoregressive transformers on GPUs, based on the Megatron and DeepSpeed libraries"
-  },
-  {
-    "repo": "andreisss/KslDump",
-    "branch": "main",
-    "language": "Python",
-    "description": "KslDump — Why bring your own knife when Defender already left one in the kitchen?"
-  },
-  {
-    "repo": "reflex-dev/reflex",
-    "branch": "main",
-    "language": "Python",
-    "description": "🕸️ Web apps in pure Python 🐍"
-  },
-  {
-    "repo": "maybe-finance/maybe",
-    "branch": "main",
-    "language": "Ruby",
-    "description": "The personal finance app for everyone"
-  },
-  {
-    "repo": "micropython/micropython",
-    "branch": "master",
-    "language": "C",
-    "description": "MicroPython - a lean and efficient Python implementation for microcontrollers and constrained systems"
-  },
-  {
-    "repo": "pypa/hatch",
-    "branch": "master",
-    "language": "Python",
-    "description": "Modern, extensible Python project management"
-  },
-  {
-    "repo": "liuxiaopai-ai/raphael-publish",
+    "repo": "jayminwest/overstory",
     "branch": "main",
     "language": "TypeScript",
-    "description": "Raphael Publish - 公众号排版大师 | 现代 Markdown 排版引擎"
+    "description": "Project-agnostic swarm system for Claude Code agent orchestration"
   },
   {
-    "repo": "JuliaLang/julia",
-    "branch": "master",
-    "language": "Julia",
-    "description": "The Julia Programming Language"
-  },
-  {
-    "repo": "sindresorhus/type-fest",
+    "repo": "AgriciDaniel/claude-ads",
     "branch": "main",
-    "language": "TypeScript",
-    "description": "A collection of essential TypeScript types"
+    "language": "Python",
+    "description": "Comprehensive paid advertising audit & optimization skill for Claude Code. 186 checks across Google, Meta, YouTube, LinkedIn, TikTok & Microsoft Ads with weighted scoring, parallel agents, and industry templates."
   },
   {
-    "repo": "go-sql-driver/mysql",
-    "branch": "master",
-    "language": "Go",
-    "description": "Go MySQL Driver is a MySQL driver for Go's (golang) database/sql package"
-  },
-  {
-    "repo": "doocs/advanced-java",
-    "branch": "main",
-    "language": "Java",
-    "description": "😮 Core Interview Questions & Answers For Experienced Java(Backend) Developers | 互联网 Java 工程师进阶知识完全扫盲：涵盖高并发、分布式、高可用、微服务、海量数据处理等领域知识"
-  },
-  {
-    "repo": "google-research/vision_transformer",
+    "repo": "haiguo123/Agentic-AI-Project-Find-Deal-Opportunities",
     "branch": "main",
     "language": "Jupyter Notebook",
-    "description": "Vision Transformer in JAX."
+    "description": ""
   },
   {
-    "repo": "unicodeveloper/globalthreatmap",
+    "repo": "linkedin/school-of-sre",
+    "branch": "main",
+    "language": "HTML",
+    "description": "At LinkedIn, we are using this curriculum for onboarding our entry-level talents into the SRE role."
+  },
+  {
+    "repo": "marswei/seaseed-clawerse",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "Open-source implementation of SeaSeed.ai v1.0 (codename: Clawerse). AI ocean world platform for multi-agent social, tasks and compute collaboration."
+  },
+  {
+    "repo": "guardrailsio/awesome-python-security",
+    "branch": "master",
+    "language": "Other",
+    "description": "Awesome Python Security resources 🕶🐍🔐"
+  },
+  {
+    "repo": "CyC2018/CS-Notes",
+    "branch": "master",
+    "language": "Other",
+    "description": ":books: 技术面试必备基础知识、Leetcode、计算机操作系统、计算机网络、系统设计"
+  },
+  {
+    "repo": "sliverp/qqbot",
     "branch": "main",
     "language": "TypeScript",
-    "description": "Global threat map. Learn wars, conflicts, military bases and history of nations."
+    "description": "qqbot"
   },
   {
-    "repo": "beita6969/claude-code",
+    "repo": "RaidOwl/homelab-hub",
     "branch": "main",
-    "language": "TypeScript",
-    "description": "Claude Code Source - Buildable Research Fork. Reverse-engineered build system, runnable with Bun."
+    "language": "Svelte",
+    "description": ""
   },
   {
-    "repo": "supermalparit/Towns",
+    "repo": "clawvader-tech/hermes-telegram-miniapp",
     "branch": "main",
-    "language": "Java",
-    "description": "Repository for the Towns game"
+    "language": "HTML",
+    "description": "Terminal-style Telegram Mini App for Hermes Agent — chat, cron jobs, and system monitoring in a dark TUI"
+  },
+  {
+    "repo": "xyzthiago/claude-flows",
+    "branch": "main",
+    "language": "Shell",
+    "description": "🌊 The leading agent orchestration platform for Claude. Deploy intelligent multi-agent swarms, coordinate autonomous workflows, and build conversational AI systems. Features enterprise-grade architecture, distributed swarm intelligence, RAG integration, and native Claude Code support via MCP protocol. Ranked #1 in agent-based frameworks."
+  },
+  {
+    "repo": "aikorea/awesome-rl",
+    "branch": "master",
+    "language": "Other",
+    "description": "Reinforcement learning resources curated"
   }
 ]
