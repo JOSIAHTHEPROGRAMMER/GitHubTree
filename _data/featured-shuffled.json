@@ -1,146 +1,146 @@
 [
   {
-    "repo": "sno-ai/llmix",
+    "repo": "google-deepmind/graphcast",
     "branch": "main",
     "language": "Python",
-    "description": "Production LLM call layer for AI agents and tools: keep OpenAI/Anthropic/AI SDK/LiteLLM, hot-swap models with MDA presets, and add cache, retries, circuit breakers, key rotation, singleflight, and Python/TypeScript/Rust parity."
+    "description": "Deep learning weather model from Google DeepMind."
   },
   {
-    "repo": "opentofu/opentofu",
-    "branch": "main",
-    "language": "Go",
-    "description": "OpenTofu lets you declaratively manage your cloud infrastructure."
-  },
-  {
-    "repo": "ggerganov/llama.cpp",
-    "branch": "master",
-    "language": "C++",
-    "description": "LLM inference in C/C++"
-  },
-  {
-    "repo": "nanostores/nanostores",
+    "repo": "JohnRiceML/clawport-ui",
     "branch": "main",
     "language": "TypeScript",
-    "description": "A tiny (286 bytes) state manager for React/RN/Preact/Vue/Svelte with many atomic tree-shakable stores"
+    "description": "Open-source AI agent command center for Claude Code agent teams. Built on OpenClaw."
   },
   {
-    "repo": "esphome/esphome",
-    "branch": "dev",
-    "language": "C++",
-    "description": "ESPHome is a system to control your ESP8266/ESP32 by simple yet powerful configuration files and control them remotely through Home Automation systems."
-  },
-  {
-    "repo": "getredash/redash",
-    "branch": "master",
-    "language": "Python",
-    "description": "Make Your Company Data Driven. Connect to any data source, easily visualize, dashboard and share your data."
-  },
-  {
-    "repo": "emacs-mirror/emacs",
-    "branch": "master",
-    "language": "Emacs Lisp",
-    "description": "Mirror of GNU Emacs"
-  },
-  {
-    "repo": "xyzeva/k-id-age-verifier",
+    "repo": "HugoRCD/evlog",
     "branch": "main",
     "language": "TypeScript",
-    "description": "automatically verify your age on discord, twitch, kick, quora and more (k-id)"
+    "description": "Logging that makes sense. Wide events, structured errors, zero chaos."
   },
   {
-    "repo": "koreader/koreader",
-    "branch": "master",
-    "language": "Lua",
-    "description": "An ebook reader application supporting PDF, DjVu, EPUB, FB2 and many more formats, running on Cervantes, Kindle, Kobo, PocketBook and Android devices"
-  },
-  {
-    "repo": "devicekit/DeviceKit",
-    "branch": "master",
-    "language": "Swift",
-    "description": "DeviceKit is a value-type replacement of UIDevice."
-  },
-  {
-    "repo": "spacedriveapp/spacedrive",
-    "branch": "main",
-    "language": "Rust",
-    "description": "Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust."
-  },
-  {
-    "repo": "1837620622/cloudflare-bypass-2026",
-    "branch": "main",
-    "language": "Python",
-    "description": "Cloudflare Turnstile 绕过工具 | Cloudflare Bypass Tool based on SeleniumBase UC Mode | 支持 Mac/Windows/Linux"
-  },
-  {
-    "repo": "iCHAIT/awesome-macOS",
+    "repo": "google/material-design-icons",
     "branch": "master",
     "language": "Other",
-    "description": " A curated list of awesome applications, softwares, tools and shiny things for macOS."
+    "description": "Material Design icons by Google (Material Symbols)"
   },
   {
-    "repo": "apple/swift-algorithms",
+    "repo": "humanloop/awesome-chatgpt",
     "branch": "main",
-    "language": "Swift",
-    "description": "Commonly used sequence and collection algorithms for Swift"
+    "language": "Other",
+    "description": "Curated list of awesome tools, demos, docs for ChatGPT and GPT-3"
   },
   {
-    "repo": "ogham/exa",
+    "repo": "BytePioneer-AI/moltbot-china",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Clawdbot/OpenClaw中国插件：支持飞书，钉钉，QQ，企业微信"
+  },
+  {
+    "repo": "Solido/awesome-flutter",
     "branch": "master",
+    "language": "Dart",
+    "description": "An awesome list that curates the best Flutter libraries, tools, tutorials, articles and more."
+  },
+  {
+    "repo": "L1AD/claude-task-viewer",
+    "branch": "main",
+    "language": "HTML",
+    "description": "A web-based Kanban board for viewing Claude Code tasks"
+  },
+  {
+    "repo": "MarchLiu/hypatia",
+    "branch": "main",
     "language": "Rust",
-    "description": "A modern replacement for ‘ls’."
+    "description": "We can wander through the stacks of the Library of Alexandria, imagining the scrolls and the knowledge they contain. Its destruction is a warning: all we have is transient.”--Alberto Manguel"
   },
   {
-    "repo": "arendst/Tasmota",
-    "branch": "development",
-    "language": "C",
-    "description": "Alternative firmware for ESP8266 and ESP32 based devices with easy configuration using webUI, OTA updates, automation using timers or rules, expandability and entirely local control over MQTT, HTTP, Serial or KNX. Full documentation at"
-  },
-  {
-    "repo": "karanb192/claude-code-hooks",
+    "repo": "lucasfrre/BongoCat-Desktop",
     "branch": "main",
-    "language": "JavaScript",
-    "description": "🪝 A growing collection of useful Claude Code hooks. Copy, paste, customize."
+    "language": "C++",
+    "description": "BongoCat: Interactive stream overlay. Mouse and keyboard tracker, tablet pen pressure, osu! playstyle mode. Custom skin editor, transparent background, OBS studio plugin, gamepad support. Keypress visualizer, RGB lighting sync, emote animations, desktop pet, live reaction tool, WASD mapping."
   },
   {
-    "repo": "fspecii/ace-step-ui",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "🎵 The Ultimate Open Source Suno Alternative - Professional UI for ACE-Step 1.5 AI Music Generation. Free, local, unlimited. Stop paying for Suno!"
-  },
-  {
-    "repo": "cs50victor/claude-code-teams-mcp",
+    "repo": "JFGAtlas/aethergate-pro",
     "branch": "main",
     "language": "Python",
-    "description": "use claude code's agent teams orchestraction with any harness"
+    "description": ""
   },
   {
-    "repo": "umijs/umi",
-    "branch": "master",
-    "language": "TypeScript",
-    "description": "A framework in react community ✨"
-  },
-  {
-    "repo": "mikewang817/MacBar",
-    "branch": "master",
-    "language": "Swift",
-    "description": "A lightweight macOS menu bar clipboard manager with OCR, file support, and global hotkey"
-  },
-  {
-    "repo": "mayfer/electrobun-macos-native-blur",
-    "branch": "master",
-    "language": "TypeScript",
-    "description": "Enable background blur like a native app in Electrobun"
-  },
-  {
-    "repo": "microsoft/PowerToys",
-    "branch": "main",
-    "language": "C#",
-    "description": "Microsoft PowerToys is a collection of utilities that help you customize Windows and streamline everyday tasks"
-  },
-  {
-    "repo": "whyzhow/PersonalStyleAI-Framework-",
+    "repo": "ziplab/TriSplat",
     "branch": "main",
     "language": "Python",
-    "description": "Let AI think and express like you. This framework provides a complete assembly line: from the noise processing of original chat records, to the seamless switching of multi-model adaptation layers, to local lightweight fine-tuning (LoRA)."
+    "description": "TriSplat: Simulation-Ready Feed-Forward 3D Scene Reconstruction"
+  },
+  {
+    "repo": "yuzhworkhard-wq/image-to-code",
+    "branch": "main",
+    "language": "Python",
+    "description": "Codex skill for 750px image-to-code reconstruction and transparent PNG slicing"
+  },
+  {
+    "repo": "jeff141/meatshell",
+    "branch": "main",
+    "language": "Rust",
+    "description": "一个轻量级、低内存占用的 SSH / 终端客户端（A lightweight, low-memory SSH / terminal client）"
+  },
+  {
+    "repo": "fancyai-official/skills",
+    "branch": "main",
+    "language": "Python",
+    "description": ""
+  },
+  {
+    "repo": "Percepta-Core/transformer-vm",
+    "branch": "main",
+    "language": "Python",
+    "description": "Compile programs directly into transformer weights. Includes a 2D convex-hull KV cache with O(log n) inference."
+  },
+  {
+    "repo": "Rhythmplocutter/printer-offline-fix",
+    "branch": "main",
+    "language": "PowerShell",
+    "description": "printer offline fix || printer offline || printer offline driver || printer offline fix windows"
+  },
+  {
+    "repo": "ChristianJR19/GoblinOS",
+    "branch": "main",
+    "language": "Python",
+    "description": "a Hermes Agent personality layer that replaces the default agent identity with a persistent, mood-driven goblin persona"
+  },
+  {
+    "repo": "jlabon2/PsUi",
+    "branch": "main",
+    "language": "PowerShell",
+    "description": "For building UIs in PowerShell without the misery."
+  },
+  {
+    "repo": "diffusionstudio/lottie",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Open-source skill and harness for generating production ready Lottie animations with codex/claude code"
+  },
+  {
+    "repo": "pvpoxx/PrismLauncherCrackedEly",
+    "branch": "main",
+    "language": "C++",
+    "description": "Download Prism Launcher with Ely.by Launcher 'unblock' the use of Offline Accounts, disabling the restriction of having a functional Online Account."
+  },
+  {
+    "repo": "kettanaito/async-history-stack",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Arbitrary change history management in JavaScript."
+  },
+  {
+    "repo": "actuallyaridan/linux-devmgmt",
+    "branch": "main",
+    "language": "C++",
+    "description": "A faithful recreation of the Windows Device Manager built with Qt6 and real hardware backends via sysfs/procfs. Best enjoyed with AeroThemePlasma, but looks great on regular KDE as well."
+  },
+  {
+    "repo": "YeQing17-2026/OmniAgent",
+    "branch": "main",
+    "language": "Python",
+    "description": "An agent capable of self-evolving and dynamically hardening security"
   }
 ]

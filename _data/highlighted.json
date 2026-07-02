@@ -1,8 +1,8 @@
 {
-  "repo": "developerayush01/Facebook_Auto-Comment_Reply___Moderation",
+  "repo": "Tonnyspiel/Easy_Backup_Scheduler",
   "branch": "main",
   "language": "Python",
-  "description": "Automatically reply to comments on Facebook posts and moderate discussions. Keep your page engaging and spam-free.",
+  "description": "Schedule automatic backups of folders to external drives, network shares, or cloud. Simple interface with multiple profiles.",
   "stars": 258,
   "forks": 0
 }
