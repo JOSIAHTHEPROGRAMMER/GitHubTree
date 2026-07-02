@@ -1,146 +1,146 @@
 [
   {
-    "repo": "google-deepmind/graphcast",
-    "branch": "main",
-    "language": "Python",
-    "description": "Deep learning weather model from Google DeepMind."
-  },
-  {
-    "repo": "JohnRiceML/clawport-ui",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Open-source AI agent command center for Claude Code agent teams. Built on OpenClaw."
-  },
-  {
-    "repo": "HugoRCD/evlog",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Logging that makes sense. Wide events, structured errors, zero chaos."
-  },
-  {
-    "repo": "google/material-design-icons",
-    "branch": "master",
-    "language": "Other",
-    "description": "Material Design icons by Google (Material Symbols)"
-  },
-  {
-    "repo": "humanloop/awesome-chatgpt",
-    "branch": "main",
-    "language": "Other",
-    "description": "Curated list of awesome tools, demos, docs for ChatGPT and GPT-3"
-  },
-  {
-    "repo": "BytePioneer-AI/moltbot-china",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Clawdbot/OpenClaw中国插件：支持飞书，钉钉，QQ，企业微信"
-  },
-  {
-    "repo": "Solido/awesome-flutter",
-    "branch": "master",
-    "language": "Dart",
-    "description": "An awesome list that curates the best Flutter libraries, tools, tutorials, articles and more."
-  },
-  {
-    "repo": "L1AD/claude-task-viewer",
-    "branch": "main",
-    "language": "HTML",
-    "description": "A web-based Kanban board for viewing Claude Code tasks"
-  },
-  {
-    "repo": "MarchLiu/hypatia",
-    "branch": "main",
-    "language": "Rust",
-    "description": "We can wander through the stacks of the Library of Alexandria, imagining the scrolls and the knowledge they contain. Its destruction is a warning: all we have is transient.”--Alberto Manguel"
-  },
-  {
-    "repo": "lucasfrre/BongoCat-Desktop",
+    "repo": "dadi1921/Tomodachi-Life-Living-The-Dream-PC",
     "branch": "main",
     "language": "C++",
-    "description": "BongoCat: Interactive stream overlay. Mouse and keyboard tracker, tablet pen pressure, osu! playstyle mode. Custom skin editor, transparent background, OBS studio plugin, gamepad support. Keypress visualizer, RGB lighting sync, emote animations, desktop pet, live reaction tool, WASD mapping."
+    "description": "Tomodachi Life: Living the Dream PC Version is an optimized Windows port of the popular life simulation game. Create unique Miis, develop relationships, host concerts and events on your own island in high resolution. Features improved performance, widescreen support, smooth FPS"
   },
   {
-    "repo": "JFGAtlas/aethergate-pro",
+    "repo": "deepseek-ai/TileKernels",
     "branch": "main",
     "language": "Python",
+    "description": "A kernel library written in tilelang"
+  },
+  {
+    "repo": "openabdev/openab",
+    "branch": "main",
+    "language": "Rust",
+    "description": "A lightweight, secure, cloud-native ACP harness that bridges Discord and any ACP-compatible coding CLI."
+  },
+  {
+    "repo": "win4r/ClawTeam-OpenClaw",
+    "branch": "main",
+    "language": "Python",
+    "description": "ClawTeam fork fully adapted for OpenClaw — multi-agent swarm coordination with OpenClaw as the default agent"
+  },
+  {
+    "repo": "Aryagm/dflash-mlx",
+    "branch": "main",
+    "language": "Python",
+    "description": "Exact speculative decoding on Apple Silicon, powered by MLX."
+  },
+  {
+    "repo": "retlehs/quien",
+    "branch": "main",
+    "language": "Go",
+    "description": "A better WHOIS lookup tool"
+  },
+  {
+    "repo": "Ledger-Wallet-LLC/ledgerwallet",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "Official Ledger Wallet Repository"
+  },
+  {
+    "repo": "codeany-ai/codeany",
+    "branch": "main",
+    "language": "Go",
+    "description": "Open-source AI-powered terminal agent. Built in Go."
+  },
+  {
+    "repo": "onesuper/tui-use",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "tui-use lets agents interact with programs that expect a human at the keyboard — REPLs, debuggers, TUI apps, and anything else bash can't reach."
+  },
+  {
+    "repo": "victorsosaMx/vsWaybar-Studio",
+    "branch": "main",
+    "language": "Python",
+    "description": "Visual editor for Waybar — build, style and preview your bar in real time (GTK + Python)"
+  },
+  {
+    "repo": "beita6969/claude-code",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Claude Code Source - Buildable Research Fork. Reverse-engineered build system, runnable with Bun."
+  },
+  {
+    "repo": "dou-jiang/codex-console",
+    "branch": "main",
+    "language": "Python",
+    "description": "codex-console 是一个集成化控制台项目，支持任务管理、批量处理、数据导出、自动上传、日志查看与打包支持。"
+  },
+  {
+    "repo": "yizhiyanhua-ai/fireworks-tech-graph",
+    "branch": "main",
+    "language": "Shell",
+    "description": "Claude Code skill for generating production-quality SVG+PNG technical diagrams. Supports 8 diagram types, 5 visual styles, and deep AI/Agent domain knowledge."
+  },
+  {
+    "repo": "ahaodev/shadmin",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "An Enterprise-Grade Full-Stack RBAC Permission Management System Built with Go + React"
+  },
+  {
+    "repo": "wong2/weixin-agent-sdk",
+    "branch": "main",
+    "language": "TypeScript",
     "description": ""
   },
   {
-    "repo": "ziplab/TriSplat",
+    "repo": "HKUDS/OpenHarness",
     "branch": "main",
     "language": "Python",
-    "description": "TriSplat: Simulation-Ready Feed-Forward 3D Scene Reconstruction"
+    "description": "OpenHarness: Open Agent Harness"
   },
   {
-    "repo": "yuzhworkhard-wq/image-to-code",
+    "repo": "ericosiu/ai-marketing-skills",
     "branch": "main",
     "language": "Python",
-    "description": "Codex skill for 750px image-to-code reconstruction and transparent PNG slicing"
+    "description": "Open-source AI marketing skills for Claude Code — growth experiments, sales pipeline, content ops, outbound, SEO, and finance automation"
   },
   {
-    "repo": "jeff141/meatshell",
+    "repo": "j3h4ck/PoisonKiller",
+    "branch": "main",
+    "language": "C++",
+    "description": "Another BYOVD process killer. works on CrowdStrike. fully signed."
+  },
+  {
+    "repo": "jayminwest/overstory",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Project-agnostic swarm system for Claude Code agent orchestration"
+  },
+  {
+    "repo": "Axion-Trading-Labs/polymarket-trading-bot",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "polymarket trading bot polymarket copy trading bot polymarket trading bot polymarket copy trading bot polymarket trading bot polymarket copy trading bot polymarket trading bot polymarket copy trading bot polymarket trading bot polymarket copy trading bot polymarket trading bot polymarket copy trading bot"
+  },
+  {
+    "repo": "nashsu/opencli-rs",
     "branch": "main",
     "language": "Rust",
-    "description": "一个轻量级、低内存占用的 SSH / 终端客户端（A lightweight, low-memory SSH / terminal client）"
+    "description": "Opencli-rs is a  Blazing fast, memory-safe command-line tool — Fetch information from any website with a single command. Covers Twitter/X, Reddit, YouTube, HackerNews, Bilibili, Zhihu, Xiaohongshu, and 55+ sites, with support for controlling Electron desktop apps, integrating local CLI tools (gh, docker, kubectl)"
   },
   {
-    "repo": "fancyai-official/skills",
-    "branch": "main",
-    "language": "Python",
-    "description": ""
-  },
-  {
-    "repo": "Percepta-Core/transformer-vm",
-    "branch": "main",
-    "language": "Python",
-    "description": "Compile programs directly into transformer weights. Includes a 2D convex-hull KV cache with O(log n) inference."
-  },
-  {
-    "repo": "Rhythmplocutter/printer-offline-fix",
-    "branch": "main",
-    "language": "PowerShell",
-    "description": "printer offline fix || printer offline || printer offline driver || printer offline fix windows"
-  },
-  {
-    "repo": "ChristianJR19/GoblinOS",
-    "branch": "main",
-    "language": "Python",
-    "description": "a Hermes Agent personality layer that replaces the default agent identity with a persistent, mood-driven goblin persona"
-  },
-  {
-    "repo": "jlabon2/PsUi",
-    "branch": "main",
-    "language": "PowerShell",
-    "description": "For building UIs in PowerShell without the misery."
-  },
-  {
-    "repo": "diffusionstudio/lottie",
+    "repo": "millionco/cli-to-js",
     "branch": "main",
     "language": "TypeScript",
-    "description": "Open-source skill and harness for generating production ready Lottie animations with codex/claude code"
+    "description": "Turn any CLI into a JavaScript API"
   },
   {
-    "repo": "pvpoxx/PrismLauncherCrackedEly",
-    "branch": "main",
-    "language": "C++",
-    "description": "Download Prism Launcher with Ely.by Launcher 'unblock' the use of Offline Accounts, disabling the restriction of having a functional Online Account."
-  },
-  {
-    "repo": "kettanaito/async-history-stack",
-    "branch": "main",
+    "repo": "huangserva/claude-code-cli",
+    "branch": "master",
     "language": "TypeScript",
-    "description": "Arbitrary change history management in JavaScript."
+    "description": "这是 Claude Code 的 CLI 客户端主体（src/ 目录），即整个终端交互层的源码。具体包含： 1. CLI 入口与命令解析 — main.tsx（4684行）、entrypoints/（CLI 模式、SDK 模式、MCP 模式） 2. 终端 UI 渲染 — components/（144 个组件，用 React + Ink 渲染终端界面） 3. 工具系统 — tools/（43 个工具，Bash、文件读写编辑、Grep、Glob、Web 搜索等） 4. API 通信层 — services/api/（与 Anthropic 后端通信） 5. MCP 协议  6. 多 Agent/Team 协作 l 7. 认证与策略 8. 辅助服务 等"
   },
   {
-    "repo": "actuallyaridan/linux-devmgmt",
-    "branch": "main",
-    "language": "C++",
-    "description": "A faithful recreation of the Windows Device Manager built with Qt6 and real hardware backends via sysfs/procfs. Best enjoyed with AeroThemePlasma, but looks great on regular KDE as well."
-  },
-  {
-    "repo": "YeQing17-2026/OmniAgent",
-    "branch": "main",
-    "language": "Python",
-    "description": "An agent capable of self-evolving and dynamically hardening security"
+    "repo": "balancer/balancer-v2-monorepo",
+    "branch": "master",
+    "language": "TypeScript",
+    "description": "Balancer V2 Monorepo"
   }
 ]
