@@ -1,146 +1,146 @@
 [
   {
-    "repo": "sapientinc/HRM-Text",
+    "repo": "sno-ai/llmix",
     "branch": "main",
     "language": "Python",
-    "description": "HRM-Text is a 1B text generation model based on the HRM architecture, strengthened by task completion and latent space reasoning."
+    "description": "Production LLM call layer for AI agents and tools: keep OpenAI/Anthropic/AI SDK/LiteLLM, hot-swap models with MDA presets, and add cache, retries, circuit breakers, key rotation, singleflight, and Python/TypeScript/Rust parity."
   },
   {
-    "repo": "ninja-build/ninja",
+    "repo": "opentofu/opentofu",
+    "branch": "main",
+    "language": "Go",
+    "description": "OpenTofu lets you declaratively manage your cloud infrastructure."
+  },
+  {
+    "repo": "ggerganov/llama.cpp",
     "branch": "master",
     "language": "C++",
-    "description": "a small build system with a focus on speed"
+    "description": "LLM inference in C/C++"
   },
   {
-    "repo": "dypsilon/frontend-dev-bookmarks",
-    "branch": "master",
-    "language": "Other",
-    "description": "Manually curated collection of resources for frontend web developers."
-  },
-  {
-    "repo": "akullpp/awesome-java",
-    "branch": "master",
-    "language": "Other",
-    "description": "A curated list of awesome frameworks, libraries and software for the Java programming language."
-  },
-  {
-    "repo": "harlan-zw/vue-ecosystem-skills",
+    "repo": "nanostores/nanostores",
     "branch": "main",
-    "language": "MDX",
-    "description": "AI agent skills for the bleeding edge Vue ecosystem. Built from real docs, issues, and releases."
+    "language": "TypeScript",
+    "description": "A tiny (286 bytes) state manager for React/RN/Preact/Vue/Svelte with many atomic tree-shakable stores"
   },
   {
-    "repo": "ochyai/vibe-local",
+    "repo": "esphome/esphome",
+    "branch": "dev",
+    "language": "C++",
+    "description": "ESPHome is a system to control your ESP8266/ESP32 by simple yet powerful configuration files and control them remotely through Home Automation systems."
+  },
+  {
+    "repo": "getredash/redash",
+    "branch": "master",
+    "language": "Python",
+    "description": "Make Your Company Data Driven. Connect to any data source, easily visualize, dashboard and share your data."
+  },
+  {
+    "repo": "emacs-mirror/emacs",
+    "branch": "master",
+    "language": "Emacs Lisp",
+    "description": "Mirror of GNU Emacs"
+  },
+  {
+    "repo": "xyzeva/k-id-age-verifier",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "automatically verify your age on discord, twitch, kick, quora and more (k-id)"
+  },
+  {
+    "repo": "koreader/koreader",
+    "branch": "master",
+    "language": "Lua",
+    "description": "An ebook reader application supporting PDF, DjVu, EPUB, FB2 and many more formats, running on Cervantes, Kindle, Kobo, PocketBook and Android devices"
+  },
+  {
+    "repo": "devicekit/DeviceKit",
+    "branch": "master",
+    "language": "Swift",
+    "description": "DeviceKit is a value-type replacement of UIDevice."
+  },
+  {
+    "repo": "spacedriveapp/spacedrive",
+    "branch": "main",
+    "language": "Rust",
+    "description": "Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust."
+  },
+  {
+    "repo": "1837620622/cloudflare-bypass-2026",
     "branch": "main",
     "language": "Python",
-    "description": "Free AI coding environment: Ollama + Python"
+    "description": "Cloudflare Turnstile 绕过工具 | Cloudflare Bypass Tool based on SeleniumBase UC Mode | 支持 Mac/Windows/Linux"
   },
   {
-    "repo": "Lucent-Snow/style-extractor",
+    "repo": "iCHAIT/awesome-macOS",
+    "branch": "master",
+    "language": "Other",
+    "description": " A curated list of awesome applications, softwares, tools and shiny things for macOS."
+  },
+  {
+    "repo": "apple/swift-algorithms",
+    "branch": "main",
+    "language": "Swift",
+    "description": "Commonly used sequence and collection algorithms for Swift"
+  },
+  {
+    "repo": "ogham/exa",
+    "branch": "master",
+    "language": "Rust",
+    "description": "A modern replacement for ‘ls’."
+  },
+  {
+    "repo": "arendst/Tasmota",
+    "branch": "development",
+    "language": "C",
+    "description": "Alternative firmware for ESP8266 and ESP32 based devices with easy configuration using webUI, OTA updates, automation using timers or rules, expandability and entirely local control over MQTT, HTTP, Serial or KNX. Full documentation at"
+  },
+  {
+    "repo": "karanb192/claude-code-hooks",
     "branch": "main",
     "language": "JavaScript",
-    "description": "一个能够提取最大化提取网页风格的skill"
+    "description": "🪝 A growing collection of useful Claude Code hooks. Copy, paste, customize."
   },
   {
-    "repo": "deepseek-ai/deepseek-coder",
-    "branch": "main",
-    "language": "Python",
-    "description": "DeepSeek Coder: Let the Code Write Itself"
-  },
-  {
-    "repo": "cosmiciron/vmprint",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "A pure-JS, zero-dependency typesetting engine that yields bit-perfect PDF output across any runtime—from Cloudflare Workers to the browser. Stop using Headless Chrome to print text."
-  },
-  {
-    "repo": "golang-standards/project-layout",
-    "branch": "master",
-    "language": "Makefile",
-    "description": "Standard Go Project Layout"
-  },
-  {
-    "repo": "jmuncor/tokentap",
-    "branch": "main",
-    "language": "Python",
-    "description": "Intercept LLM API traffic and visualize token usage in a real-time terminal dashboard. Track costs,       debug prompts, and monitor context window usage across your AI development sessions."
-  },
-  {
-    "repo": "vercel-labs/webreel",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Record scripted browser demos as video"
-  },
-  {
-    "repo": "jazzband/pip-tools",
-    "branch": "main",
-    "language": "Python",
-    "description": "A set of tools to keep your pinned Python dependencies fresh."
-  },
-  {
-    "repo": "nyanko3141592/remotion-voicevox-template",
-    "branch": "master",
-    "language": "TypeScript",
-    "description": "Remotion + VOICEVOX動画テンプレート（ずんだもん＆めたん掛け合い動画）"
-  },
-  {
-    "repo": "PeonPing/peon-ping",
-    "branch": "main",
-    "language": "Shell",
-    "description": "Warcraft III Peon voice notifications for Claude Code. Stop babysitting your terminal."
-  },
-  {
-    "repo": "sweetalert2/sweetalert2",
+    "repo": "fspecii/ace-step-ui",
     "branch": "main",
     "language": "JavaScript",
-    "description": "✨ A beautiful, responsive, highly customizable and accessible (WAI-ARIA) replacement for JavaScript's popup boxes. Zero dependencies. 🇺🇦🇪🇺"
+    "description": "🎵 The Ultimate Open Source Suno Alternative - Professional UI for ACE-Step 1.5 AI Music Generation. Free, local, unlimited. Stop paying for Suno!"
   },
   {
-    "repo": "Soul-AILab/SoulX-Singer",
+    "repo": "cs50victor/claude-code-teams-mcp",
     "branch": "main",
     "language": "Python",
-    "description": "Official inference code for SoulX-Singer: Towards High-Quality Zero-Shot Singing Voice Synthesis"
+    "description": "use claude code's agent teams orchestraction with any harness"
   },
   {
-    "repo": "disler/pi-vs-claude-code",
-    "branch": "main",
+    "repo": "umijs/umi",
+    "branch": "master",
     "language": "TypeScript",
-    "description": "Comparison between open source PI agent and closed source Claude Code agent"
+    "description": "A framework in react community ✨"
   },
   {
-    "repo": "facebookresearch/audiocraft",
+    "repo": "mikewang817/MacBar",
+    "branch": "master",
+    "language": "Swift",
+    "description": "A lightweight macOS menu bar clipboard manager with OCR, file support, and global hotkey"
+  },
+  {
+    "repo": "mayfer/electrobun-macos-native-blur",
+    "branch": "master",
+    "language": "TypeScript",
+    "description": "Enable background blur like a native app in Electrobun"
+  },
+  {
+    "repo": "microsoft/PowerToys",
     "branch": "main",
-    "language": "Jupyter Notebook",
-    "description": "Audiocraft is a library for audio processing and generation with deep learning. It features the state-of-the-art EnCodec audio compressor / tokenizer, along with MusicGen, a simple and controllable music generation LM with textual and melodic conditioning."
+    "language": "C#",
+    "description": "Microsoft PowerToys is a collection of utilities that help you customize Windows and streamline everyday tasks"
   },
   {
-    "repo": "finvfamily/finshare",
+    "repo": "whyzhow/PersonalStyleAI-Framework-",
     "branch": "main",
     "language": "Python",
-    "description": "专业的金融数据获取工具库 - A Professional Financial Data Fetching Toolkit for   Python"
-  },
-  {
-    "repo": "composer/composer",
-    "branch": "main",
-    "language": "PHP",
-    "description": "Dependency Manager for PHP"
-  },
-  {
-    "repo": "angular/angular",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Deliver web apps with confidence 🚀"
-  },
-  {
-    "repo": "L1AD/claude-task-viewer",
-    "branch": "main",
-    "language": "HTML",
-    "description": "A web-based Kanban board for viewing Claude Code tasks"
-  },
-  {
-    "repo": "qwikverse/qwik",
-    "branch": "main",
-    "language": "Other",
-    "description": "The HTML-first framework. Instant apps of any size with ~ 1kb JS"
+    "description": "Let AI think and express like you. This framework provides a complete assembly line: from the noise processing of original chat records, to the seamless switching of multi-model adaptation layers, to local lightweight fine-tuning (LoRA)."
   }
 ]
