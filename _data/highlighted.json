@@ -1,8 +1,8 @@
 {
-  "repo": "defryarhinsa/Add-Mass-Account-AntiGravity-to-9Router",
+  "repo": "mana-am/matrix-swift",
   "branch": "main",
-  "language": "JavaScript",
-  "description": "A featured project on GitHubTree.",
-  "stars": 106,
-  "forks": 48
+  "language": "Swift",
+  "description": "Animated dot-matrix loading indicators for SwiftUI — 100+ deterministic dot loaders, zero assets, zero dependencies. A faithful Swift port of zzzzshawn/matrix.",
+  "stars": 102,
+  "forks": 4
 }

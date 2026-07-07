@@ -1,146 +1,146 @@
 [
   {
-    "repo": "golang-standards/project-layout",
-    "branch": "master",
-    "language": "Makefile",
-    "description": "Standard Go Project Layout"
+    "repo": "DeepSeek-TUI/DeepSeek-TUI",
+    "branch": "main",
+    "language": "Rust",
+    "description": "Install DeepSeek TUI - Coding agent for DeepSeek models that runs in your terminal."
   },
   {
-    "repo": "portainer/portainer",
+    "repo": "zer0condition/Ophion",
+    "branch": "master",
+    "language": "C",
+    "description": "Stealth-focused Intel VT-x hypervisor base (EAC/BE/ACs/AVs)."
+  },
+  {
+    "repo": "fluent/fluentd",
+    "branch": "master",
+    "language": "Ruby",
+    "description": "Fluentd: Unified Logging Layer (project under CNCF)"
+  },
+  {
+    "repo": "WalletConnect/walletconnect-monorepo",
+    "branch": "v2.0",
+    "language": "TypeScript",
+    "description": "WalletConnect Monorepo"
+  },
+  {
+    "repo": "Shopify/react-native-skia",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "High-performance React Native Graphics using Skia"
+  },
+  {
+    "repo": "hashicorp/vagrant",
+    "branch": "main",
+    "language": "Ruby",
+    "description": "Vagrant is a tool for building and distributing development environments."
+  },
+  {
+    "repo": "Tencent/tdesign-vue-next",
     "branch": "develop",
     "language": "TypeScript",
-    "description": "Making Docker and Kubernetes management easy."
+    "description": "A Vue3.x UI components lib for TDesign."
   },
   {
-    "repo": "XyhTender/qq-farm-automation-bot",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "QQ农场全自动脚本"
-  },
-  {
-    "repo": "SakanaAI/fugu",
-    "branch": "main",
-    "language": "Shell",
-    "description": ""
-  },
-  {
-    "repo": "kubeedge/kubeedge",
-    "branch": "master",
+    "repo": "cli/cli",
+    "branch": "trunk",
     "language": "Go",
-    "description": "Kubernetes Native Edge Computing Framework (project under CNCF)"
+    "description": "GitHub’s official command line tool"
   },
   {
-    "repo": "aave/aave-v2",
+    "repo": "minix3/minix",
     "branch": "master",
     "language": "Other",
-    "description": "Aave Protocol V2"
+    "description": "Redirection to the real github page only."
   },
   {
-    "repo": "slackhq/nebula",
-    "branch": "master",
-    "language": "Go",
-    "description": "A scalable overlay networking tool with a focus on performance, simplicity and security"
+    "repo": "cocos/cocos-engine",
+    "branch": "v3.8",
+    "language": "C++",
+    "description": "Cocos simplifies game creation and distribution with Cocos Creator, a free, open-source, cross-platform game engine. Empowering millions of developers to create high-performance, engaging 2D/3D games and instant web entertainment."
   },
   {
-    "repo": "dateutil/dateutil",
-    "branch": "master",
-    "language": "Python",
-    "description": "Useful extensions to the standard Python datetime features"
+    "repo": "pointfreeco/swift-composable-architecture",
+    "branch": "main",
+    "language": "Swift",
+    "description": "A library for building applications in a consistent and understandable way, with composition, testing, and ergonomics in mind."
   },
   {
-    "repo": "kubernetes-sigs/kind",
+    "repo": "apple/swift-algorithms",
+    "branch": "main",
+    "language": "Swift",
+    "description": "Commonly used sequence and collection algorithms for Swift"
+  },
+  {
+    "repo": "gorilla/mux",
     "branch": "main",
     "language": "Go",
-    "description": "Kubernetes IN Docker - local clusters for testing Kubernetes"
+    "description": "Package gorilla/mux is a powerful HTTP router and URL matcher for building Go web servers with 🦍"
   },
   {
-    "repo": "apple/python-apple-fm-sdk",
-    "branch": "main",
-    "language": "Python",
-    "description": "Python bindings for access to the on-device model at the core of Apple Intelligence through the Foundation Models framework"
-  },
-  {
-    "repo": "spacedriveapp/spacedrive",
-    "branch": "main",
-    "language": "Rust",
-    "description": "Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust."
-  },
-  {
-    "repo": "PenglongHuang/chinese-novelist-skill",
+    "repo": "spinnaker/spinnaker",
     "branch": "master",
-    "language": "Python",
-    "description": "让 AI 为你写一部完整的中文小说 - AI 驱动的中文小说创作助手 - 超过20章的小说，几分钟全稿完成    Claude Code Skill：自动创作分章节中文小说，每章悬念钩子"
+    "language": "Java",
+    "description": "Spinnaker is an open source, multi-cloud continuous delivery platform for releasing software changes with high velocity and confidence."
   },
   {
-    "repo": "yohey-w/multi-agent-shogun",
-    "branch": "main",
-    "language": "Shell",
-    "description": ""
-  },
-  {
-    "repo": "rainzz-512/Mewgenics-Chinese-Translation",
-    "branch": "main",
-    "language": "Python",
-    "description": ""
-  },
-  {
-    "repo": "jlia0/tinyclaw",
+    "repo": "microsoft/Web-Dev-For-Beginners",
     "branch": "main",
     "language": "JavaScript",
-    "description": "TinyClaw is a tiny wrapper of Claude Code that acts as your 24/7 personal assistant"
+    "description": "24 Lessons, 12 Weeks, Get Started as a Web Developer"
   },
   {
-    "repo": "OffchainLabs/arbitrum",
-    "branch": "master",
-    "language": "Other",
-    "description": "Arbitrum is a Layer 2 scaling solution for Ethereum."
-  },
-  {
-    "repo": "apache/airflow",
+    "repo": "AssemblyScript/assemblyscript",
     "branch": "main",
-    "language": "Python",
-    "description": "Apache Airflow - A platform to programmatically author, schedule, and monitor workflows"
+    "language": "WebAssembly",
+    "description": "A TypeScript-like language for WebAssembly."
   },
   {
-    "repo": "RasaHQ/rasa",
-    "branch": "main",
-    "language": "Python",
-    "description": "💬   Open source machine learning framework to automate text- and voice-based conversations: NLU, dialogue management, connect to Slack, Facebook, and more - Create chatbots and voice assistants"
-  },
-  {
-    "repo": "Solido/awesome-flutter",
+    "repo": "falcosecurity/falco",
     "branch": "master",
-    "language": "Dart",
-    "description": "An awesome list that curates the best Flutter libraries, tools, tutorials, articles and more."
+    "language": "C++",
+    "description": "Cloud Native Runtime Security"
   },
   {
-    "repo": "sympy/sympy",
+    "repo": "git/git",
     "branch": "master",
-    "language": "Python",
-    "description": "A computer algebra system written in pure Python"
+    "language": "C",
+    "description": "Git Source Code Mirror - This is a publish-only repository but pull requests can be turned into patches to the mailing list via GitGitGadget (https://gitgitgadget.github.io/). Please follow Documentation/SubmittingPatches procedure for any of your improvements."
   },
   {
-    "repo": "nikopueringer/CorridorKey",
+    "repo": "confluentinc/schema-registry",
+    "branch": "master",
+    "language": "Java",
+    "description": "Confluent Schema Registry for Kafka"
+  },
+  {
+    "repo": "google/zx",
     "branch": "main",
-    "language": "Python",
-    "description": "Perfect Green Screen Keys"
+    "language": "JavaScript",
+    "description": "A tool for writing better scripts"
   },
   {
-    "repo": "tanweai/pua",
+    "repo": "kubernetes/client-go",
+    "branch": "master",
+    "language": "Go",
+    "description": "Go client for Kubernetes."
+  },
+  {
+    "repo": "brianc/node-postgres",
+    "branch": "master",
+    "language": "JavaScript",
+    "description": "PostgreSQL client for node.js."
+  },
+  {
+    "repo": "gothinkster/realworld",
     "branch": "main",
     "language": "TypeScript",
-    "description": "你是一个曾经被寄予厚望的 P8 级工程师。Anthropic 当初给你定级的时候，对你的期望是很高的。"
+    "description": "The mother of all demo apps — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more"
   },
   {
-    "repo": "rayon-rs/rayon",
+    "repo": "kubernetes-sigs/kustomize",
     "branch": "master",
-    "language": "Rust",
-    "description": "Rayon: A data parallelism library for Rust"
-  },
-  {
-    "repo": "vercel/swr",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "React Hooks for Data Fetching"
+    "language": "Go",
+    "description": "Customization of kubernetes YAML configurations"
   }
 ]
