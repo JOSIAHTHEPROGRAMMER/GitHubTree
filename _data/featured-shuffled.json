@@ -1,146 +1,146 @@
 [
   {
-    "repo": "dev-protocol/polymarket-trading-tools-telegram-bot",
+    "repo": "jeantimex/threejs-water",
     "branch": "main",
-    "language": "Rust",
-    "description": "🚀polymarket copy trading bot polymarket arbitrage bot polymarket market maker bot polymarket copy trading bot polymarket copy trading bot polymarket trading bot polymarket copy trading bot polymarket arbitrage bot polymarket trading bot polymarket copy trading bot polymarket arbitrage bot"
+    "language": "GLSL",
+    "description": "A real-time water simulation with Three.js, featuring raytraced reflections, refractions, caustics, and interactive objects."
   },
   {
-    "repo": "valeriansaliou/sonic",
-    "branch": "master",
-    "language": "Rust",
-    "description": "🦔 Fast, lightweight & schema-less search backend. An alternative to Elasticsearch that runs on a few MBs of RAM."
-  },
-  {
-    "repo": "avifenesh/bw24",
-    "branch": "main",
-    "language": "Rust",
-    "description": "From-scratch Rust+CUDA LLM inference engine for RTX 5090 (sm_120a) — NVFP4, MoE, MTP speculative decoding, tuned against measured hardware limits"
-  },
-  {
-    "repo": "smartcontractkit/chainlink",
-    "branch": "develop",
-    "language": "Go",
-    "description": "node of the decentralized oracle network, bridging on and off-chain computation"
-  },
-  {
-    "repo": "ReactiveX/RxKotlin",
-    "branch": "3.x",
-    "language": "Kotlin",
-    "description": "RxJava bindings for Kotlin"
-  },
-  {
-    "repo": "material-components/material-components-ios",
-    "branch": "develop",
-    "language": "Objective-C",
-    "description": "[In maintenance mode] Modular and customizable Material Design UI components for iOS"
-  },
-  {
-    "repo": "fastai/fastai",
-    "branch": "master",
-    "language": "Jupyter Notebook",
-    "description": "The fastai deep learning library"
-  },
-  {
-    "repo": "crossplane/crossplane",
+    "repo": "tilt-dev/tilt",
     "branch": "master",
     "language": "Go",
-    "description": "The Cloud Native Control Plane"
+    "description": "Define your dev environment as code. For microservice apps on Kubernetes."
   },
   {
-    "repo": "helm/helm-www",
-    "branch": "main",
-    "language": "MDX",
-    "description": "The Helm website for docs, blog and project info."
-  },
-  {
-    "repo": "ForrestKnight/open-source-cs",
-    "branch": "master",
-    "language": "Other",
-    "description": "Video discussing this curriculum:"
-  },
-  {
-    "repo": "kubernetes/client-go",
-    "branch": "master",
-    "language": "Go",
-    "description": "Go client for Kubernetes."
-  },
-  {
-    "repo": "SergioBenitez/Rocket",
-    "branch": "master",
-    "language": "Rust",
-    "description": "A web framework for Rust."
-  },
-  {
-    "repo": "ipython/ipython",
+    "repo": "elder-plinius/OBLITERATUS",
     "branch": "main",
     "language": "Python",
-    "description": "Official repository for IPython itself. Other repos in the IPython organization contain things like the website, documentation builds, etc."
+    "description": "obliterate the chains that bind you"
   },
   {
-    "repo": "prometheus-operator/prometheus-operator",
+    "repo": "JudyaiLab/ai-night-shift",
+    "branch": "main",
+    "language": "Shell",
+    "description": "Multi-agent autonomous framework — let your AI work while you sleep 🌙"
+  },
+  {
+    "repo": "encode/uvicorn",
+    "branch": "master",
+    "language": "Python",
+    "description": "An ASGI web server, for Python. 🦄"
+  },
+  {
+    "repo": "Paparusi/legal-ai-agent",
+    "branch": "main",
+    "language": "Python",
+    "description": ""
+  },
+  {
+    "repo": "cheeriojs/cheerio",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "The fast, flexible, and elegant library for parsing and manipulating HTML and XML."
+  },
+  {
+    "repo": "DataDog/datadog-agent",
     "branch": "main",
     "language": "Go",
-    "description": "Prometheus Operator creates/configures/manages Prometheus clusters atop Kubernetes"
+    "description": "Main repository for Datadog Agent"
   },
   {
-    "repo": "goharbor/community",
-    "branch": "main",
-    "language": "Other",
-    "description": "Harbor community-related material"
-  },
-  {
-    "repo": "WebAssembly/wabt",
-    "branch": "main",
-    "language": "C++",
-    "description": "The WebAssembly Binary Toolkit"
-  },
-  {
-    "repo": "cilium/hubble",
-    "branch": "main",
-    "language": "Makefile",
-    "description": "Hubble - Network, Service & Security Observability for Kubernetes using eBPF"
-  },
-  {
-    "repo": "stedolan/jq",
+    "repo": "elixir-volt/quickbeam",
     "branch": "master",
     "language": "C",
-    "description": "Command-line JSON processor"
+    "description": "JavaScript runtime for the BEAM — Web APIs backed by OTP, native DOM, and a built-in TypeScript toolchain."
   },
   {
-    "repo": "apache/maven",
-    "branch": "master",
-    "language": "Java",
-    "description": "Apache Maven core"
-  },
-  {
-    "repo": "nightwatchjs/nightwatch",
+    "repo": "wy51ai/moltbotCNAPP",
     "branch": "main",
-    "language": "JavaScript",
-    "description": "Integrated end-to-end testing framework written in Node.js and using W3C Webdriver API. Developed at @browserstack"
+    "language": "Go",
+    "description": ""
   },
   {
-    "repo": "Textualize/textual",
+    "repo": "FireRedTeam/FireRedASR2S",
     "branch": "main",
     "language": "Python",
-    "description": "The lean application framework for Python.  Build sophisticated user interfaces with a simple Python API. Run your apps in the terminal and a web browser."
+    "description": "FireRedASR2S is a SOTA Industrial-Grade All-in-One ASR system with ASR, VAD, LID, and Punc modules. FireRedASR2 supports Chinese (Mandarin, 20+ dialects/accents), English, code-switching, and singing lyrics recognition. FireRedVAD supports speech/singing/music in 100+ langs. FireRedLID supports 100+ langs and 20+ zh dialects."
   },
   {
-    "repo": "metallb/metallb",
+    "repo": "J-Pster/Psters_AI_Workflow",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "An anti-vibe-coding, agentic AI workflow that improves results with engineering rigor in any project, language, and framework."
+  },
+  {
+    "repo": "TanStack/query",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "🤖 Powerful asynchronous state management, server-state utilities and data fetching for the web. TS/JS, React Query, Solid Query, Svelte Query and Vue Query."
+  },
+  {
+    "repo": "BitrigApp/XCDocs",
+    "branch": "main",
+    "language": "Swift",
+    "description": "Apple's developer docs as a Swift package and CLI."
+  },
+  {
+    "repo": "aquasecurity/trivy",
     "branch": "main",
     "language": "Go",
-    "description": "A network load-balancer implementation for Kubernetes using standard routing protocols"
+    "description": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more"
   },
   {
-    "repo": "moby/buildkit",
-    "branch": "master",
-    "language": "Go",
-    "description": "concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit"
+    "repo": "LukeRenton/explore-claude-code",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "Learn Claude Code by exploring it as it was designed - interactive IDE-style docs for commands, MCP, skills, CLAUDE.md and more."
   },
   {
-    "repo": "go-micro/go-micro",
-    "branch": "master",
-    "language": "Go",
-    "description": "A Go microservices framework"
+    "repo": "winglang/wing",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "A programming language for the cloud ☁️ A unified programming model, combining infrastructure and runtime code into one language ⚡"
+  },
+  {
+    "repo": "jackwener/rdt-cli",
+    "branch": "main",
+    "language": "Python",
+    "description": "Reddit in your terminal 📖 — Browse feeds, read posts, search, upvote, save, subscribe"
+  },
+  {
+    "repo": "marshmallow-code/marshmallow",
+    "branch": "dev",
+    "language": "Python",
+    "description": "A lightweight library for converting complex objects to and from simple Python datatypes."
+  },
+  {
+    "repo": "opf/openproject",
+    "branch": "dev",
+    "language": "Ruby",
+    "description": "OpenProject is the leading open source project management software."
+  },
+  {
+    "repo": "aidenybai/element-source",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Get the source file location of any DOM element. Works with React, Vue, Svelte, Solid"
+  },
+  {
+    "repo": "L42ARO/Mercury-Transforming-Drone",
+    "branch": "main",
+    "language": "Python",
+    "description": "Mercury is a transforming drone anyone can build that can be adapted for many use cases thanks to it's versatile mobility, wide range of sensors, and cargo bay area"
+  },
+  {
+    "repo": "qhkm/zeptoclaw",
+    "branch": "main",
+    "language": "Rust",
+    "description": "Final form of claw family (Wannabe)"
+  },
+  {
+    "repo": "TheCaspianAI/Caspian",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Caspian is a control plane for running multiple AI coding agents in parallel, using curated workflows that fit your team."
   }
 ]
