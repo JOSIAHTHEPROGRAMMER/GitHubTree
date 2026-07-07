@@ -1,123 +1,63 @@
 [
   {
-    "repo": "DeepSeek-TUI/DeepSeek-TUI",
+    "repo": "dev-protocol/polymarket-trading-tools-telegram-bot",
     "branch": "main",
     "language": "Rust",
-    "description": "Install DeepSeek TUI - Coding agent for DeepSeek models that runs in your terminal."
+    "description": "🚀polymarket copy trading bot polymarket arbitrage bot polymarket market maker bot polymarket copy trading bot polymarket copy trading bot polymarket trading bot polymarket copy trading bot polymarket arbitrage bot polymarket trading bot polymarket copy trading bot polymarket arbitrage bot"
   },
   {
-    "repo": "zer0condition/Ophion",
+    "repo": "valeriansaliou/sonic",
     "branch": "master",
-    "language": "C",
-    "description": "Stealth-focused Intel VT-x hypervisor base (EAC/BE/ACs/AVs)."
+    "language": "Rust",
+    "description": "🦔 Fast, lightweight & schema-less search backend. An alternative to Elasticsearch that runs on a few MBs of RAM."
   },
   {
-    "repo": "fluent/fluentd",
-    "branch": "master",
-    "language": "Ruby",
-    "description": "Fluentd: Unified Logging Layer (project under CNCF)"
-  },
-  {
-    "repo": "WalletConnect/walletconnect-monorepo",
-    "branch": "v2.0",
-    "language": "TypeScript",
-    "description": "WalletConnect Monorepo"
-  },
-  {
-    "repo": "Shopify/react-native-skia",
+    "repo": "avifenesh/bw24",
     "branch": "main",
-    "language": "TypeScript",
-    "description": "High-performance React Native Graphics using Skia"
+    "language": "Rust",
+    "description": "From-scratch Rust+CUDA LLM inference engine for RTX 5090 (sm_120a) — NVFP4, MoE, MTP speculative decoding, tuned against measured hardware limits"
   },
   {
-    "repo": "hashicorp/vagrant",
-    "branch": "main",
-    "language": "Ruby",
-    "description": "Vagrant is a tool for building and distributing development environments."
-  },
-  {
-    "repo": "Tencent/tdesign-vue-next",
+    "repo": "smartcontractkit/chainlink",
     "branch": "develop",
-    "language": "TypeScript",
-    "description": "A Vue3.x UI components lib for TDesign."
-  },
-  {
-    "repo": "cli/cli",
-    "branch": "trunk",
     "language": "Go",
-    "description": "GitHub’s official command line tool"
+    "description": "node of the decentralized oracle network, bridging on and off-chain computation"
   },
   {
-    "repo": "minix3/minix",
+    "repo": "ReactiveX/RxKotlin",
+    "branch": "3.x",
+    "language": "Kotlin",
+    "description": "RxJava bindings for Kotlin"
+  },
+  {
+    "repo": "material-components/material-components-ios",
+    "branch": "develop",
+    "language": "Objective-C",
+    "description": "[In maintenance mode] Modular and customizable Material Design UI components for iOS"
+  },
+  {
+    "repo": "fastai/fastai",
+    "branch": "master",
+    "language": "Jupyter Notebook",
+    "description": "The fastai deep learning library"
+  },
+  {
+    "repo": "crossplane/crossplane",
+    "branch": "master",
+    "language": "Go",
+    "description": "The Cloud Native Control Plane"
+  },
+  {
+    "repo": "helm/helm-www",
+    "branch": "main",
+    "language": "MDX",
+    "description": "The Helm website for docs, blog and project info."
+  },
+  {
+    "repo": "ForrestKnight/open-source-cs",
     "branch": "master",
     "language": "Other",
-    "description": "Redirection to the real github page only."
-  },
-  {
-    "repo": "cocos/cocos-engine",
-    "branch": "v3.8",
-    "language": "C++",
-    "description": "Cocos simplifies game creation and distribution with Cocos Creator, a free, open-source, cross-platform game engine. Empowering millions of developers to create high-performance, engaging 2D/3D games and instant web entertainment."
-  },
-  {
-    "repo": "pointfreeco/swift-composable-architecture",
-    "branch": "main",
-    "language": "Swift",
-    "description": "A library for building applications in a consistent and understandable way, with composition, testing, and ergonomics in mind."
-  },
-  {
-    "repo": "apple/swift-algorithms",
-    "branch": "main",
-    "language": "Swift",
-    "description": "Commonly used sequence and collection algorithms for Swift"
-  },
-  {
-    "repo": "gorilla/mux",
-    "branch": "main",
-    "language": "Go",
-    "description": "Package gorilla/mux is a powerful HTTP router and URL matcher for building Go web servers with 🦍"
-  },
-  {
-    "repo": "spinnaker/spinnaker",
-    "branch": "master",
-    "language": "Java",
-    "description": "Spinnaker is an open source, multi-cloud continuous delivery platform for releasing software changes with high velocity and confidence."
-  },
-  {
-    "repo": "microsoft/Web-Dev-For-Beginners",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "24 Lessons, 12 Weeks, Get Started as a Web Developer"
-  },
-  {
-    "repo": "AssemblyScript/assemblyscript",
-    "branch": "main",
-    "language": "WebAssembly",
-    "description": "A TypeScript-like language for WebAssembly."
-  },
-  {
-    "repo": "falcosecurity/falco",
-    "branch": "master",
-    "language": "C++",
-    "description": "Cloud Native Runtime Security"
-  },
-  {
-    "repo": "git/git",
-    "branch": "master",
-    "language": "C",
-    "description": "Git Source Code Mirror - This is a publish-only repository but pull requests can be turned into patches to the mailing list via GitGitGadget (https://gitgitgadget.github.io/). Please follow Documentation/SubmittingPatches procedure for any of your improvements."
-  },
-  {
-    "repo": "confluentinc/schema-registry",
-    "branch": "master",
-    "language": "Java",
-    "description": "Confluent Schema Registry for Kafka"
-  },
-  {
-    "repo": "google/zx",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "A tool for writing better scripts"
+    "description": "Video discussing this curriculum:"
   },
   {
     "repo": "kubernetes/client-go",
@@ -126,21 +66,81 @@
     "description": "Go client for Kubernetes."
   },
   {
-    "repo": "brianc/node-postgres",
+    "repo": "SergioBenitez/Rocket",
     "branch": "master",
-    "language": "JavaScript",
-    "description": "PostgreSQL client for node.js."
+    "language": "Rust",
+    "description": "A web framework for Rust."
   },
   {
-    "repo": "gothinkster/realworld",
+    "repo": "ipython/ipython",
     "branch": "main",
-    "language": "TypeScript",
-    "description": "The mother of all demo apps — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more"
+    "language": "Python",
+    "description": "Official repository for IPython itself. Other repos in the IPython organization contain things like the website, documentation builds, etc."
   },
   {
-    "repo": "kubernetes-sigs/kustomize",
+    "repo": "prometheus-operator/prometheus-operator",
+    "branch": "main",
+    "language": "Go",
+    "description": "Prometheus Operator creates/configures/manages Prometheus clusters atop Kubernetes"
+  },
+  {
+    "repo": "goharbor/community",
+    "branch": "main",
+    "language": "Other",
+    "description": "Harbor community-related material"
+  },
+  {
+    "repo": "WebAssembly/wabt",
+    "branch": "main",
+    "language": "C++",
+    "description": "The WebAssembly Binary Toolkit"
+  },
+  {
+    "repo": "cilium/hubble",
+    "branch": "main",
+    "language": "Makefile",
+    "description": "Hubble - Network, Service & Security Observability for Kubernetes using eBPF"
+  },
+  {
+    "repo": "stedolan/jq",
+    "branch": "master",
+    "language": "C",
+    "description": "Command-line JSON processor"
+  },
+  {
+    "repo": "apache/maven",
+    "branch": "master",
+    "language": "Java",
+    "description": "Apache Maven core"
+  },
+  {
+    "repo": "nightwatchjs/nightwatch",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "Integrated end-to-end testing framework written in Node.js and using W3C Webdriver API. Developed at @browserstack"
+  },
+  {
+    "repo": "Textualize/textual",
+    "branch": "main",
+    "language": "Python",
+    "description": "The lean application framework for Python.  Build sophisticated user interfaces with a simple Python API. Run your apps in the terminal and a web browser."
+  },
+  {
+    "repo": "metallb/metallb",
+    "branch": "main",
+    "language": "Go",
+    "description": "A network load-balancer implementation for Kubernetes using standard routing protocols"
+  },
+  {
+    "repo": "moby/buildkit",
     "branch": "master",
     "language": "Go",
-    "description": "Customization of kubernetes YAML configurations"
+    "description": "concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit"
+  },
+  {
+    "repo": "go-micro/go-micro",
+    "branch": "master",
+    "language": "Go",
+    "description": "A Go microservices framework"
   }
 ]
