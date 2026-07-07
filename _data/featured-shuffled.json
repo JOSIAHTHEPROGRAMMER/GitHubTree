@@ -1,146 +1,146 @@
 [
   {
-    "repo": "jeantimex/threejs-water",
-    "branch": "main",
-    "language": "GLSL",
-    "description": "A real-time water simulation with Three.js, featuring raytraced reflections, refractions, caustics, and interactive objects."
-  },
-  {
-    "repo": "tilt-dev/tilt",
-    "branch": "master",
-    "language": "Go",
-    "description": "Define your dev environment as code. For microservice apps on Kubernetes."
-  },
-  {
-    "repo": "elder-plinius/OBLITERATUS",
-    "branch": "main",
-    "language": "Python",
-    "description": "obliterate the chains that bind you"
-  },
-  {
-    "repo": "JudyaiLab/ai-night-shift",
-    "branch": "main",
-    "language": "Shell",
-    "description": "Multi-agent autonomous framework — let your AI work while you sleep 🌙"
-  },
-  {
-    "repo": "encode/uvicorn",
+    "repo": "sympy/sympy",
     "branch": "master",
     "language": "Python",
-    "description": "An ASGI web server, for Python. 🦄"
+    "description": "A computer algebra system written in pure Python"
   },
   {
-    "repo": "Paparusi/legal-ai-agent",
+    "repo": "FeSens/auto-arch-tournament",
     "branch": "main",
+    "language": "HTML",
+    "description": ""
+  },
+  {
+    "repo": "alaeelhariri/iut-db-final-project",
+    "branch": "master",
     "language": "Python",
     "description": ""
   },
   {
-    "repo": "cheeriojs/cheerio",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "The fast, flexible, and elegant library for parsing and manipulating HTML and XML."
-  },
-  {
-    "repo": "DataDog/datadog-agent",
-    "branch": "main",
-    "language": "Go",
-    "description": "Main repository for Datadog Agent"
-  },
-  {
-    "repo": "elixir-volt/quickbeam",
+    "repo": "jbhuang0604/awesome-computer-vision",
     "branch": "master",
-    "language": "C",
-    "description": "JavaScript runtime for the BEAM — Web APIs backed by OTP, native DOM, and a built-in TypeScript toolchain."
+    "language": "Other",
+    "description": "A curated list of awesome computer vision resources"
   },
   {
-    "repo": "wy51ai/moltbotCNAPP",
+    "repo": "torproject/tor",
     "branch": "main",
-    "language": "Go",
-    "description": ""
+    "language": "Other",
+    "description": "unofficial git repo -- report bugs/issues/pull requests on https://gitlab.torproject.org/ --"
   },
   {
-    "repo": "FireRedTeam/FireRedASR2S",
+    "repo": "cs50victor/claude-code-teams-mcp",
     "branch": "main",
     "language": "Python",
-    "description": "FireRedASR2S is a SOTA Industrial-Grade All-in-One ASR system with ASR, VAD, LID, and Punc modules. FireRedASR2 supports Chinese (Mandarin, 20+ dialects/accents), English, code-switching, and singing lyrics recognition. FireRedVAD supports speech/singing/music in 100+ langs. FireRedLID supports 100+ langs and 20+ zh dialects."
+    "description": "use claude code's agent teams orchestraction with any harness"
   },
   {
-    "repo": "J-Pster/Psters_AI_Workflow",
+    "repo": "CalyxOS/calyxos",
+    "branch": "main",
+    "language": "HTML",
+    "description": "CalyxOS - Google-free Android"
+  },
+  {
+    "repo": "appbrewery/Flutter-Course-Resources",
+    "branch": "master",
+    "language": "Other",
+    "description": "Learn to Code While Building Apps - The Complete Flutter Development Bootcamp."
+  },
+  {
+    "repo": "actions/runner",
+    "branch": "main",
+    "language": "C#",
+    "description": "The Runner for GitHub Actions :rocket:"
+  },
+  {
+    "repo": "dotnet/roslyn",
+    "branch": "main",
+    "language": "C#",
+    "description": "The Roslyn .NET compiler provides C# and Visual Basic languages with rich code analysis APIs."
+  },
+  {
+    "repo": "gabagool222/15min-btc-polymarket-trading-bot",
+    "branch": "main",
+    "language": "Python",
+    "description": "15min btc polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot"
+  },
+  {
+    "repo": "facebook/fresco",
+    "branch": "main",
+    "language": "Java",
+    "description": "An Android library for managing images and the memory they use."
+  },
+  {
+    "repo": "simonw/showboat",
+    "branch": "main",
+    "language": "Go",
+    "description": "Create executable documents that demonstrate an agent's work"
+  },
+  {
+    "repo": "mrdoob/three-quake",
     "branch": "main",
     "language": "JavaScript",
-    "description": "An anti-vibe-coding, agentic AI workflow that improves results with engineering rigor in any project, language, and framework."
+    "description": "A port of Quake (1996) to Three.js."
   },
   {
-    "repo": "TanStack/query",
+    "repo": "imxv/Pretty-mermaid-skills",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "To provide AI with Mermaid chart rendering capability, supporting both SVG and ASCII output formats"
+  },
+  {
+    "repo": "sipeed/picoclaw",
+    "branch": "main",
+    "language": "Go",
+    "description": "picoclaw"
+  },
+  {
+    "repo": "newrelic/newrelic-python-agent",
+    "branch": "main",
+    "language": "Python",
+    "description": "New Relic Python Agent"
+  },
+  {
+    "repo": "cporter202/video-scraping-apis",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "A collection of APIs for scraping video metadata, engagement stats, and public video data across multiple platforms."
+  },
+  {
+    "repo": "react-native-image-picker/react-native-image-picker",
+    "branch": "main",
+    "language": "Java",
+    "description": ":sunrise_over_mountains: A React Native module that allows you to use native UI to select media from the device library or directly from the camera."
+  },
+  {
+    "repo": "aarondfrancis/counselors",
     "branch": "main",
     "language": "TypeScript",
-    "description": "🤖 Powerful asynchronous state management, server-state utilities and data fetching for the web. TS/JS, React Query, Solid Query, Svelte Query and Vue Query."
+    "description": "Fan out prompts to multiple AI coding agents in parallel"
   },
   {
-    "repo": "BitrigApp/XCDocs",
+    "repo": "Geek-1001/arcmark",
     "branch": "main",
     "language": "Swift",
-    "description": "Apple's developer docs as a Swift package and CLI."
+    "description": "macOS bookmark manager that attaches to any browser window as a sidebar"
   },
   {
-    "repo": "aquasecurity/trivy",
+    "repo": "nicepkg/ctxport",
     "branch": "main",
-    "language": "Go",
-    "description": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more"
+    "language": "TypeScript",
+    "description": "Copy AI conversations as clean Markdown Context Bundles — one click from ChatGPT, Claude, Gemini, DeepSeek, Grok & GitHub. Copy from sidebar without opening. Zero upload, 100% local, open source."
   },
   {
-    "repo": "LukeRenton/explore-claude-code",
+    "repo": "idanshen/Self-Distillation",
+    "branch": "main",
+    "language": "Python",
+    "description": ""
+  },
+  {
+    "repo": "jlia0/tinyclaw",
     "branch": "main",
     "language": "JavaScript",
-    "description": "Learn Claude Code by exploring it as it was designed - interactive IDE-style docs for commands, MCP, skills, CLAUDE.md and more."
-  },
-  {
-    "repo": "winglang/wing",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "A programming language for the cloud ☁️ A unified programming model, combining infrastructure and runtime code into one language ⚡"
-  },
-  {
-    "repo": "jackwener/rdt-cli",
-    "branch": "main",
-    "language": "Python",
-    "description": "Reddit in your terminal 📖 — Browse feeds, read posts, search, upvote, save, subscribe"
-  },
-  {
-    "repo": "marshmallow-code/marshmallow",
-    "branch": "dev",
-    "language": "Python",
-    "description": "A lightweight library for converting complex objects to and from simple Python datatypes."
-  },
-  {
-    "repo": "opf/openproject",
-    "branch": "dev",
-    "language": "Ruby",
-    "description": "OpenProject is the leading open source project management software."
-  },
-  {
-    "repo": "aidenybai/element-source",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Get the source file location of any DOM element. Works with React, Vue, Svelte, Solid"
-  },
-  {
-    "repo": "L42ARO/Mercury-Transforming-Drone",
-    "branch": "main",
-    "language": "Python",
-    "description": "Mercury is a transforming drone anyone can build that can be adapted for many use cases thanks to it's versatile mobility, wide range of sensors, and cargo bay area"
-  },
-  {
-    "repo": "qhkm/zeptoclaw",
-    "branch": "main",
-    "language": "Rust",
-    "description": "Final form of claw family (Wannabe)"
-  },
-  {
-    "repo": "TheCaspianAI/Caspian",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Caspian is a control plane for running multiple AI coding agents in parallel, using curated workflows that fit your team."
+    "description": "TinyClaw is a tiny wrapper of Claude Code that acts as your 24/7 personal assistant"
   }
 ]
