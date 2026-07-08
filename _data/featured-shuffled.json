@@ -1,146 +1,146 @@
 [
   {
-    "repo": "sympy/sympy",
+    "repo": "react-native-webview/react-native-webview",
     "branch": "master",
-    "language": "Python",
-    "description": "A computer algebra system written in pure Python"
+    "language": "TypeScript",
+    "description": "React Native Cross-Platform WebView"
   },
   {
-    "repo": "FeSens/auto-arch-tournament",
+    "repo": "JUk1-GH/gpt-promo-scanner",
     "branch": "main",
-    "language": "HTML",
-    "description": ""
+    "language": "Python",
+    "description": "ChatGPT Team(Business) 促销码自动扫描工具 — 批量发现/验证/价格收集，支持 17 国 34 个码，最高折扣 71% | ChatGPT Business promo code scanner — batch discovery, validation, price collection, 34 codes across 17 countries, up to 71% off"
   },
   {
-    "repo": "alaeelhariri/iut-db-final-project",
+    "repo": "AITabby/opencodex",
     "branch": "master",
-    "language": "Python",
-    "description": ""
+    "language": "TypeScript",
+    "description": "Local gateway for Codex Desktop — custom API, web dashboard, Vision Bridge"
   },
   {
-    "repo": "jbhuang0604/awesome-computer-vision",
-    "branch": "master",
-    "language": "Other",
-    "description": "A curated list of awesome computer vision resources"
-  },
-  {
-    "repo": "torproject/tor",
+    "repo": "areofyl/fetch",
     "branch": "main",
-    "language": "Other",
-    "description": "unofficial git repo -- report bugs/issues/pull requests on https://gitlab.torproject.org/ --"
+    "language": "C",
+    "description": "An animated 3D fetch tool for your terminal. Takes your distro's ASCII logo, turns it into a spinning 3D object, and displays system info alongside it."
   },
   {
-    "repo": "cs50victor/claude-code-teams-mcp",
-    "branch": "main",
-    "language": "Python",
-    "description": "use claude code's agent teams orchestraction with any harness"
-  },
-  {
-    "repo": "CalyxOS/calyxos",
-    "branch": "main",
-    "language": "HTML",
-    "description": "CalyxOS - Google-free Android"
-  },
-  {
-    "repo": "appbrewery/Flutter-Course-Resources",
-    "branch": "master",
-    "language": "Other",
-    "description": "Learn to Code While Building Apps - The Complete Flutter Development Bootcamp."
-  },
-  {
-    "repo": "actions/runner",
-    "branch": "main",
-    "language": "C#",
-    "description": "The Runner for GitHub Actions :rocket:"
-  },
-  {
-    "repo": "dotnet/roslyn",
-    "branch": "main",
-    "language": "C#",
-    "description": "The Roslyn .NET compiler provides C# and Visual Basic languages with rich code analysis APIs."
-  },
-  {
-    "repo": "gabagool222/15min-btc-polymarket-trading-bot",
-    "branch": "main",
-    "language": "Python",
-    "description": "15min btc polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot"
-  },
-  {
-    "repo": "facebook/fresco",
-    "branch": "main",
-    "language": "Java",
-    "description": "An Android library for managing images and the memory they use."
-  },
-  {
-    "repo": "simonw/showboat",
-    "branch": "main",
-    "language": "Go",
-    "description": "Create executable documents that demonstrate an agent's work"
-  },
-  {
-    "repo": "mrdoob/three-quake",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "A port of Quake (1996) to Three.js."
-  },
-  {
-    "repo": "imxv/Pretty-mermaid-skills",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "To provide AI with Mermaid chart rendering capability, supporting both SVG and ASCII output formats"
-  },
-  {
-    "repo": "sipeed/picoclaw",
-    "branch": "main",
-    "language": "Go",
-    "description": "picoclaw"
-  },
-  {
-    "repo": "newrelic/newrelic-python-agent",
-    "branch": "main",
-    "language": "Python",
-    "description": "New Relic Python Agent"
-  },
-  {
-    "repo": "cporter202/video-scraping-apis",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "A collection of APIs for scraping video metadata, engagement stats, and public video data across multiple platforms."
-  },
-  {
-    "repo": "react-native-image-picker/react-native-image-picker",
-    "branch": "main",
-    "language": "Java",
-    "description": ":sunrise_over_mountains: A React Native module that allows you to use native UI to select media from the device library or directly from the camera."
-  },
-  {
-    "repo": "aarondfrancis/counselors",
+    "repo": "leigest519/OpenGame",
     "branch": "main",
     "language": "TypeScript",
-    "description": "Fan out prompts to multiple AI coding agents in parallel"
+    "description": "OpenGame: Open Agentic Coding for Games"
   },
   {
-    "repo": "Geek-1001/arcmark",
-    "branch": "main",
-    "language": "Swift",
-    "description": "macOS bookmark manager that attaches to any browser window as a sidebar"
+    "repo": "skibidiskib/ai-codex",
+    "branch": "master",
+    "language": "TypeScript",
+    "description": "Generate a compact codebase index for AI assistants — saves 50K+ tokens per conversation"
   },
   {
-    "repo": "nicepkg/ctxport",
+    "repo": "haydenbleasel/files-sdk",
     "branch": "main",
     "language": "TypeScript",
-    "description": "Copy AI conversations as clean Markdown Context Bundles — one click from ChatGPT, Claude, Gemini, DeepSeek, Grok & GitHub. Copy from sidebar without opening. Zero upload, 100% local, open source."
+    "description": "A unified storage SDK for object and blob backends. One small, honest API. Web-standards I/O."
   },
   {
-    "repo": "idanshen/Self-Distillation",
+    "repo": "ghostwright/phantom",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "An AI co-worker with its own computer. Self-evolving, persistent memory, MCP server, secure credential collection, email identity. Built on the Claude Agent SDK."
+  },
+  {
+    "repo": "0xpoIygon/polymarket-trading-bot-example",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Polymarket Bot - TypeScript bot for Polymarket 15-minute BTC up/down markets: Gamma market discovery, CLOB quotes, weighted signal fusion, risk checks, and optional live orders via @polymarket/clob-client. Clue: Polymarket Bot, Polymarket Trading Bot, Polymarket Copy Trading Bot, Polymarket Arbitrage Trading Bot, Polymarket Copytrading Bot"
+  },
+  {
+    "repo": "yaneony/2STEP-Converter",
     "branch": "main",
     "language": "Python",
     "description": ""
   },
   {
-    "repo": "jlia0/tinyclaw",
+    "repo": "actionbook/ascent-research",
+    "branch": "main",
+    "language": "Rust",
+    "description": "research cli for agent"
+  },
+  {
+    "repo": "openai/privacy-filter",
+    "branch": "main",
+    "language": "Python",
+    "description": "OpenAI Privacy Filter"
+  },
+  {
+    "repo": "Tencent-Hunyuan/Hy3-preview",
+    "branch": "main",
+    "language": "Python",
+    "description": "Hy3 preview (295B A21B), a leading reasoning and agent model in its size, with great cost efficiency"
+  },
+  {
+    "repo": "cksac/turboquant-model",
+    "branch": "main",
+    "language": "Python",
+    "description": ""
+  },
+  {
+    "repo": "joeseesun/qiaomu-blog-opensource",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Open-source Cloudflare blog template based on OpenNext, Next.js 16, D1, and R2"
+  },
+  {
+    "repo": "denoland/ronly",
+    "branch": "main",
+    "language": "Rust",
+    "description": ""
+  },
+  {
+    "repo": "incursi0n/BlueSAM",
+    "branch": "main",
+    "language": "C",
+    "description": "A Cobalt Strike Beacon Object File that exploits the BlueHammer vulnerability that to obtain a copy of the SAM database."
+  },
+  {
+    "repo": "cisco-ai-defense/defenseclaw",
+    "branch": "main",
+    "language": "Python",
+    "description": "Security Governance for Agentic AI"
+  },
+  {
+    "repo": "0xchasercat/mochi",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "The library for faithful browser automation. High-fidelity fingerprinting for Bun, engineered for consistency and transparency."
+  },
+  {
+    "repo": "future-agi/future-agi",
+    "branch": "main",
+    "language": "Python",
+    "description": "Open-source, end-to-end platform for evaluating, observing, and improving LLM and AI agent applications. Tracing · Evals · Simulations · Datasets · Gateway · Guardrails. Self-hostable. Apache 2.0."
+  },
+  {
+    "repo": "killervillsy/SessionToJson",
     "branch": "main",
     "language": "JavaScript",
-    "description": "TinyClaw is a tiny wrapper of Claude Code that acts as your 24/7 personal assistant"
+    "description": ""
+  },
+  {
+    "repo": "JuliusBrussee/cavemem",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Cross-agent persistent memory for coding assistants. Stored compressed. Retrieved fast. Local by default."
+  },
+  {
+    "repo": "kuskhan/jetendard",
+    "branch": "main",
+    "language": "Python",
+    "description": "JetBrainsMono Nerd Font Mono rebuilt with Pretendard Korean glyphs for balanced Hangul monospace rendering."
+  },
+  {
+    "repo": "baairon/torlink",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "A sleek, zero-setup torrent finder and downloader that lives right in your terminal."
   }
 ]
