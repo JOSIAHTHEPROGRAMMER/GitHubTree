@@ -1,146 +1,146 @@
 [
   {
-    "repo": "vulhunt-re/vulhunt",
-    "branch": "dev",
-    "language": "C++",
-    "description": "Vulnerability detection framework by Binarly's REsearch team"
-  },
-  {
-    "repo": "donghuixin/AI-Vibe-Writing-Skills",
+    "repo": "facebookresearch/vggt-omega",
     "branch": "main",
     "language": "Python",
-    "description": "Using AI for high quality writing"
+    "description": "[CVPR 2026 Oral] VGGT Omega"
   },
   {
-    "repo": "s2-streamstore/claude-batch-toolkit",
+    "repo": "traderwillhu/market_dashboard",
     "branch": "main",
-    "language": "Shell",
-    "description": "Send non-urgent work to the Anthropic Batch API at 50% cost — directly from Claude Code"
-  },
-  {
-    "repo": "superpilot69/pdf-trad-to-simp-preserve-layout-kit",
-    "branch": "main",
-    "language": "Python",
-    "description": "PDF traditional-to-simplified Chinese conversion kit with layout-preserving scripts, Codex skill, and example source/output PDFs."
-  },
-  {
-    "repo": "AdilMir1433/DBD-AutoGrind-Trainer-2026-Extreme",
-    "branch": "main",
-    "language": "Python",
-    "description": "Ultimate Dead by Daylight auto-grind trainer Extreme edition with Bloodpoint bot, ESP wallhack, aimbot, and full perk/skin unlocker. Dominate the Fog with our 2026 undetected external tool."
-  },
-  {
-    "repo": "cH1LLa/Photoshop-v27.6",
-    "branch": "main",
-    "language": "C++",
-    "description": "Adobe Photoshop v27.6 Download April 2026 Release New Features AI Rotate Object Reflection Removal Tool Firefly Image 5 Gemini 3.1 Integration Generative Fill Multi Reference Images Fix Stutter Remove Distractions Tutorial 4K Upscaling Creative Cloud Update Photography Plan Best Photo Editor 2026 Free Trial Latest Build"
-  },
-  {
-    "repo": "dev-protocol/polymarket-ai-trading-bot",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "polymarket trading bot polymarket copy trading bot polymarket copy trading bot polymarket trading bot polymarket trading bot polymarket botpolymarket trading bot polymarket copy trading bot polymarket copy trading bot polymarket trading bot polymarket trading ML pipeline for Polymarket crypto 15m: predict UP token move in 5s from"
-  },
-  {
-    "repo": "vixhal-baraiya/microgpt-c",
-    "branch": "main",
-    "language": "C",
-    "description": "The most atomic way to train and inference a GPT in pure, dependency-free C"
-  },
-  {
-    "repo": "letmutex/gitas",
-    "branch": "main",
-    "language": "Rust",
-    "description": "Git Account Switch"
-  },
-  {
-    "repo": "aligfellow/xyzrender",
-    "branch": "main",
-    "language": "Python",
-    "description": "Publication-quality molecular graphics from the command line."
-  },
-  {
-    "repo": "0xSero/pi-brain",
-    "branch": "main",
-    "language": "TypeScript",
+    "language": "HTML",
     "description": ""
   },
   {
-    "repo": "sebastianvkl/pizero-openclaw",
+    "repo": "pallets/jinja",
     "branch": "main",
     "language": "Python",
-    "description": ""
+    "description": "A very fast and expressive template engine."
   },
   {
-    "repo": "ochyai/open-japan-politech-platform",
+    "repo": "enaqx/awesome-react",
+    "branch": "master",
+    "language": "Other",
+    "description": "A collection of awesome things regarding React ecosystem"
+  },
+  {
+    "repo": "apple/swift-algorithms",
     "branch": "main",
-    "language": "TypeScript",
-    "description": "政党・企業によらない政治のデジタル化オープンソース基盤"
+    "language": "Swift",
+    "description": "Commonly used sequence and collection algorithms for Swift"
   },
   {
-    "repo": "fimbox/html-in-canvas",
+    "repo": "vllm-project/aibrix",
+    "branch": "main",
+    "language": "Go",
+    "description": "Cost-efficient and pluggable Infrastructure components for GenAI inference"
+  },
+  {
+    "repo": "pydantic/FastUI",
+    "branch": "main",
+    "language": "Python",
+    "description": "Build better UIs faster."
+  },
+  {
+    "repo": "websockets/ws",
+    "branch": "master",
+    "language": "JavaScript",
+    "description": "Simple to use, blazing fast and thoroughly tested WebSocket client and server for Node.js"
+  },
+  {
+    "repo": "arrow-kt/arrow",
+    "branch": "main",
+    "language": "Kotlin",
+    "description": "The perfect companion for your Kotlin journey - Inspired by functional, data-oriented and concurrent programming"
+  },
+  {
+    "repo": "mgks/GitHubTree",
     "branch": "main",
     "language": "JavaScript",
-    "description": "HTML in Canvas — arrival.space"
+    "description": "Visualise any GitHub repository folder structure. Available as a web app, CLI tool, and node.js library."
   },
   {
-    "repo": "Kuberwastaken/claude-code",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Claude Code's Source Code & Breakdown from a leaked map file in their NPM registry"
-  },
-  {
-    "repo": "harshkedia177/axon",
-    "branch": "main",
-    "language": "Python",
-    "description": "Graph-powered code intelligence engine — indexes codebases into a knowledge graph, exposed via MCP tools for AI agents and a CLI for developers."
-  },
-  {
-    "repo": "LanRhyme/MicYou",
-    "branch": "master",
-    "language": "Kotlin",
-    "description": "MicYou is a powerful tool that turns your Android device into a high-quality wireless microphone for your PC."
-  },
-  {
-    "repo": "parcadei/ouros",
-    "branch": "main",
-    "language": "Rust",
-    "description": "A sandboxed Python runtime for AI agents, written in Rust."
-  },
-  {
-    "repo": "dev-protocol/polymarket-copytrading-bot-sport",
-    "branch": "master",
-    "language": "TypeScript",
-    "description": "This Polymarket Copy Trading Bot is designed to diversify across different prediction markets, minimizing exposure to any single market’s volatility. CLUE: @polymarket copytrading bot || #polymarket trading bot || @polymarket copytrading bot || #polymarket trading bot || @polymarket copytrading bot || #polymarket trading bot || polymarket copytrade"
-  },
-  {
-    "repo": "hacktivist123/agent-session-resume",
-    "branch": "main",
-    "language": "Python",
-    "description": "Cross-agent session resume skill for Claude Code, Codex, Antigravity, and OpenCode."
-  },
-  {
-    "repo": "veryyoldman/metamask-openclaw",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "🦊 OpenClaw — a safety-first MetaMask SDK toolkit & AI-agent skill. Connect wallets, read balances, sign messages and send transactions on Ethereum, Polygon, Base, Arbitrum & all EVM chains. TypeScript-first, one-line connect, never touches your seed phrase."
-  },
-  {
-    "repo": "quailyquaily/aqua",
+    "repo": "go-kit/kit",
     "branch": "master",
     "language": "Go",
-    "description": "Aqua, a cli message tool for AI agents"
+    "description": "A standard library for microservices."
   },
   {
-    "repo": "CostaliyA/Flow-OPD",
+    "repo": "openclarity/kubeclarity",
+    "branch": "main",
+    "language": "Go",
+    "description": "KubeClarity is a tool for detection and management of Software Bill Of Materials (SBOM) and vulnerabilities of container images and filesystems"
+  },
+  {
+    "repo": "spf13/viper",
+    "branch": "master",
+    "language": "Go",
+    "description": "Go configuration with fangs"
+  },
+  {
+    "repo": "curl/curl",
+    "branch": "master",
+    "language": "C",
+    "description": "A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, POP3, POP3S, RTMP, RTMPS, RTSP, SCP, SFTP, SMB, SMBS, SMTP, SMTPS, TELNET, TFTP, WS and WSS. libcurl offers a myriad of powerful features"
+  },
+  {
+    "repo": "Pythagora-io/gpt-pilot",
     "branch": "main",
     "language": "Python",
-    "description": "Official Repo of Flow-OPD: On-Policy Distillation for Flow Matching Models"
+    "description": "The first real AI developer"
   },
   {
-    "repo": "Unicornronote/Microsoft-Office-Activated",
+    "repo": "THUDM/CogVLM",
     "branch": "main",
-    "language": "C++",
-    "description": "📊 Microsoft Office Professional Edition — Complete Productivity & Document Management Suite for Windows (2026)"
+    "language": "Python",
+    "description": "a state-of-the-art-level open visual language model | 多模态预训练模型"
+  },
+  {
+    "repo": "jquery/jquery-ui",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "The official jQuery user interface library."
+  },
+  {
+    "repo": "webpack/webpack-dev-server",
+    "branch": "master",
+    "language": "JavaScript",
+    "description": "Serves a webpack app. Updates the browser on changes. Documentation https://webpack.js.org/configuration/dev-server/."
+  },
+  {
+    "repo": "ReactiveX/RxJS",
+    "branch": "master",
+    "language": "TypeScript",
+    "description": "A reactive programming library for JavaScript"
+  },
+  {
+    "repo": "v2fly/v2ray-core",
+    "branch": "master",
+    "language": "Go",
+    "description": "A platform for building proxies to bypass network restrictions."
+  },
+  {
+    "repo": "photonstorm/phaser",
+    "branch": "master",
+    "language": "JavaScript",
+    "description": "Phaser is a fun, free and fast 2D game framework for making HTML5 games for desktop and mobile web browsers, supporting Canvas and WebGL rendering."
+  },
+  {
+    "repo": "nvm-sh/nvm",
+    "branch": "master",
+    "language": "Shell",
+    "description": "Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions"
+  },
+  {
+    "repo": "python-attrs/attrs",
+    "branch": "main",
+    "language": "Python",
+    "description": "Python Classes Without Boilerplate"
+  },
+  {
+    "repo": "OctoPrint/OctoPrint",
+    "branch": "master",
+    "language": "Python",
+    "description": "OctoPrint is the snappy web interface for your 3D printer!"
   }
 ]
