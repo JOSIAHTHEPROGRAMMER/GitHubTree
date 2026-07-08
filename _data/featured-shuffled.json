@@ -1,146 +1,146 @@
 [
   {
-    "repo": "facebookresearch/vggt-omega",
-    "branch": "main",
-    "language": "Python",
-    "description": "[CVPR 2026 Oral] VGGT Omega"
+    "repo": "vulhunt-re/vulhunt",
+    "branch": "dev",
+    "language": "C++",
+    "description": "Vulnerability detection framework by Binarly's REsearch team"
   },
   {
-    "repo": "traderwillhu/market_dashboard",
+    "repo": "sqlmapproject/sqlmap",
+    "branch": "master",
+    "language": "Python",
+    "description": "Automatic SQL injection and database takeover tool"
+  },
+  {
+    "repo": "andreisss/KslDump",
     "branch": "main",
-    "language": "HTML",
+    "language": "Python",
+    "description": "KslDump — Why bring your own knife when Defender already left one in the kitchen?"
+  },
+  {
+    "repo": "fatedier/frp",
+    "branch": "dev",
+    "language": "Go",
+    "description": "A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet."
+  },
+  {
+    "repo": "win4r/ClawTeam-OpenClaw",
+    "branch": "main",
+    "language": "Python",
+    "description": "ClawTeam fork fully adapted for OpenClaw — multi-agent swarm coordination with OpenClaw as the default agent"
+  },
+  {
+    "repo": "facebookresearch/tribev2",
+    "branch": "main",
+    "language": "Jupyter Notebook",
+    "description": "This repository contains the code to train and evaluate TRIBE v2, a multimodal model for brain response prediction"
+  },
+  {
+    "repo": "AITabby/opencodex",
+    "branch": "master",
+    "language": "TypeScript",
+    "description": "Local gateway for Codex Desktop — custom API, web dashboard, Vision Bridge"
+  },
+  {
+    "repo": "wojtczyk/trust",
+    "branch": "main",
+    "language": "Rust",
+    "description": "TRUST – Coding Rust like it's 1989"
+  },
+  {
+    "repo": "Eronred/expo-agent-spinners",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "54 terminal-style agent-like spinners for React Native & Expo. Lightweight, zero native dependencies — just Text. No heavy UI threads"
+  },
+  {
+    "repo": "777genius/claude-code-source-code-full",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Full source repository for Claude Code source code"
+  },
+  {
+    "repo": "VexedWilosn/AetherSwap",
+    "branch": "main",
+    "language": "Python",
+    "description": "⚗️ AetherSwap：全自动、零代码配置的 Steam 低价余额助手。提供现代化可视化 Web 控制台，基于数学模型智能选品，实现从买入到全自动上架的无人值守交易。"
+  },
+  {
+    "repo": "freshyman1/ChatGPT-5.5-OpenAI-Unlimited-Desktop",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Free ChatGPT 5.5 OpenAI Unlimited is a professional AI suite for advanced reasoning and automation. It features expanded context windows, multimodal support, and high-speed execution. Designed for power users, it ensures seamless AI integration and performance for complex 2026 workflows. Codex"
+  },
+  {
+    "repo": "deepseek-ai/TileKernels",
+    "branch": "main",
+    "language": "Python",
+    "description": "A kernel library written in tilelang"
+  },
+  {
+    "repo": "codetrybe/polymarket-trading-bot",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot"
+  },
+  {
+    "repo": "ChinaSiro/claude-code-sourcemap",
+    "branch": "main",
+    "language": "TypeScript",
     "description": ""
   },
   {
-    "repo": "pallets/jinja",
-    "branch": "main",
-    "language": "Python",
-    "description": "A very fast and expressive template engine."
-  },
-  {
-    "repo": "enaqx/awesome-react",
-    "branch": "master",
-    "language": "Other",
-    "description": "A collection of awesome things regarding React ecosystem"
-  },
-  {
-    "repo": "apple/swift-algorithms",
-    "branch": "main",
-    "language": "Swift",
-    "description": "Commonly used sequence and collection algorithms for Swift"
-  },
-  {
-    "repo": "vllm-project/aibrix",
-    "branch": "main",
-    "language": "Go",
-    "description": "Cost-efficient and pluggable Infrastructure components for GenAI inference"
-  },
-  {
-    "repo": "pydantic/FastUI",
-    "branch": "main",
-    "language": "Python",
-    "description": "Build better UIs faster."
-  },
-  {
-    "repo": "websockets/ws",
-    "branch": "master",
-    "language": "JavaScript",
-    "description": "Simple to use, blazing fast and thoroughly tested WebSocket client and server for Node.js"
-  },
-  {
-    "repo": "arrow-kt/arrow",
-    "branch": "main",
-    "language": "Kotlin",
-    "description": "The perfect companion for your Kotlin journey - Inspired by functional, data-oriented and concurrent programming"
-  },
-  {
-    "repo": "mgks/GitHubTree",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "Visualise any GitHub repository folder structure. Available as a web app, CLI tool, and node.js library."
-  },
-  {
-    "repo": "go-kit/kit",
-    "branch": "master",
-    "language": "Go",
-    "description": "A standard library for microservices."
-  },
-  {
-    "repo": "openclarity/kubeclarity",
-    "branch": "main",
-    "language": "Go",
-    "description": "KubeClarity is a tool for detection and management of Software Bill Of Materials (SBOM) and vulnerabilities of container images and filesystems"
-  },
-  {
-    "repo": "spf13/viper",
-    "branch": "master",
-    "language": "Go",
-    "description": "Go configuration with fangs"
-  },
-  {
-    "repo": "curl/curl",
-    "branch": "master",
-    "language": "C",
-    "description": "A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, POP3, POP3S, RTMP, RTMPS, RTSP, SCP, SFTP, SMB, SMBS, SMTP, SMTPS, TELNET, TFTP, WS and WSS. libcurl offers a myriad of powerful features"
-  },
-  {
-    "repo": "Pythagora-io/gpt-pilot",
-    "branch": "main",
-    "language": "Python",
-    "description": "The first real AI developer"
-  },
-  {
-    "repo": "THUDM/CogVLM",
-    "branch": "main",
-    "language": "Python",
-    "description": "a state-of-the-art-level open visual language model | 多模态预训练模型"
-  },
-  {
-    "repo": "jquery/jquery-ui",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "The official jQuery user interface library."
-  },
-  {
-    "repo": "webpack/webpack-dev-server",
-    "branch": "master",
-    "language": "JavaScript",
-    "description": "Serves a webpack app. Updates the browser on changes. Documentation https://webpack.js.org/configuration/dev-server/."
-  },
-  {
-    "repo": "ReactiveX/RxJS",
+    "repo": "code-yeongyu/not-claude-code-emulator",
     "branch": "master",
     "language": "TypeScript",
-    "description": "A reactive programming library for JavaScript"
+    "description": "ULTRA DANGEROUS CLAUDE CODE EMULATOR; MAKING THE API REQUEST IDENTICAL TO CLAUDE CODE"
   },
   {
-    "repo": "v2fly/v2ray-core",
+    "repo": "brexhq/CrabTrap",
+    "branch": "main",
+    "language": "Go",
+    "description": "An LLM-as-a-judge HTTP proxy to secure agents in production"
+  },
+  {
+    "repo": "AlgoInfraTech/polymarket-sports-betting-bot",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Polymarket sports copy trading bot: polymarket sports trading bot polymarket copy trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket copytrading bot"
+  },
+  {
+    "repo": "dogadmin/ProcIR",
+    "branch": "main",
+    "language": "Go",
+    "description": ""
+  },
+  {
+    "repo": "dongsheng123132/u-claw",
+    "branch": "main",
+    "language": "HTML",
+    "description": "🦞 U-Claw - OpenClaw Offline Installer USB for China | OpenClaw 离线安装 U 盘，专为中国用户打造。免翻墙，一键安装，雨林木风风格。"
+  },
+  {
+    "repo": "GoAdminGroup/go-admin",
     "branch": "master",
     "language": "Go",
-    "description": "A platform for building proxies to bypass network restrictions."
+    "description": "A golang framework helps gopher to build a data visualization and admin panel in ten minutes"
   },
   {
-    "repo": "photonstorm/phaser",
-    "branch": "master",
-    "language": "JavaScript",
-    "description": "Phaser is a fun, free and fast 2D game framework for making HTML5 games for desktop and mobile web browsers, supporting Canvas and WebGL rendering."
-  },
-  {
-    "repo": "nvm-sh/nvm",
-    "branch": "master",
-    "language": "Shell",
-    "description": "Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions"
-  },
-  {
-    "repo": "python-attrs/attrs",
+    "repo": "bramcohen/manyana",
     "branch": "main",
     "language": "Python",
-    "description": "Python Classes Without Boilerplate"
+    "description": ""
   },
   {
-    "repo": "OctoPrint/OctoPrint",
-    "branch": "master",
+    "repo": "ford26321works003/sora2API",
+    "branch": "main",
     "language": "Python",
-    "description": "OctoPrint is the snappy web interface for your 3D printer!"
+    "description": "SORA v2 API Wrapper — Python interface for the SORA decentralized economy platform, providing balance queries, token swaps via Polkaswap DEX, liquidity pool inspection, and network status monitoring"
+  },
+  {
+    "repo": "cksac/turboquant-model",
+    "branch": "main",
+    "language": "Python",
+    "description": ""
   }
 ]
