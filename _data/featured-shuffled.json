@@ -1,146 +1,146 @@
 [
   {
-    "repo": "react-native-webview/react-native-webview",
-    "branch": "master",
-    "language": "TypeScript",
-    "description": "React Native Cross-Platform WebView"
+    "repo": "vulhunt-re/vulhunt",
+    "branch": "dev",
+    "language": "C++",
+    "description": "Vulnerability detection framework by Binarly's REsearch team"
   },
   {
-    "repo": "JUk1-GH/gpt-promo-scanner",
+    "repo": "donghuixin/AI-Vibe-Writing-Skills",
     "branch": "main",
     "language": "Python",
-    "description": "ChatGPT Team(Business) 促销码自动扫描工具 — 批量发现/验证/价格收集，支持 17 国 34 个码，最高折扣 71% | ChatGPT Business promo code scanner — batch discovery, validation, price collection, 34 codes across 17 countries, up to 71% off"
+    "description": "Using AI for high quality writing"
   },
   {
-    "repo": "AITabby/opencodex",
-    "branch": "master",
+    "repo": "s2-streamstore/claude-batch-toolkit",
+    "branch": "main",
+    "language": "Shell",
+    "description": "Send non-urgent work to the Anthropic Batch API at 50% cost — directly from Claude Code"
+  },
+  {
+    "repo": "superpilot69/pdf-trad-to-simp-preserve-layout-kit",
+    "branch": "main",
+    "language": "Python",
+    "description": "PDF traditional-to-simplified Chinese conversion kit with layout-preserving scripts, Codex skill, and example source/output PDFs."
+  },
+  {
+    "repo": "AdilMir1433/DBD-AutoGrind-Trainer-2026-Extreme",
+    "branch": "main",
+    "language": "Python",
+    "description": "Ultimate Dead by Daylight auto-grind trainer Extreme edition with Bloodpoint bot, ESP wallhack, aimbot, and full perk/skin unlocker. Dominate the Fog with our 2026 undetected external tool."
+  },
+  {
+    "repo": "cH1LLa/Photoshop-v27.6",
+    "branch": "main",
+    "language": "C++",
+    "description": "Adobe Photoshop v27.6 Download April 2026 Release New Features AI Rotate Object Reflection Removal Tool Firefly Image 5 Gemini 3.1 Integration Generative Fill Multi Reference Images Fix Stutter Remove Distractions Tutorial 4K Upscaling Creative Cloud Update Photography Plan Best Photo Editor 2026 Free Trial Latest Build"
+  },
+  {
+    "repo": "dev-protocol/polymarket-ai-trading-bot",
+    "branch": "main",
     "language": "TypeScript",
-    "description": "Local gateway for Codex Desktop — custom API, web dashboard, Vision Bridge"
+    "description": "polymarket trading bot polymarket copy trading bot polymarket copy trading bot polymarket trading bot polymarket trading bot polymarket botpolymarket trading bot polymarket copy trading bot polymarket copy trading bot polymarket trading bot polymarket trading ML pipeline for Polymarket crypto 15m: predict UP token move in 5s from"
   },
   {
-    "repo": "areofyl/fetch",
+    "repo": "vixhal-baraiya/microgpt-c",
     "branch": "main",
     "language": "C",
-    "description": "An animated 3D fetch tool for your terminal. Takes your distro's ASCII logo, turns it into a spinning 3D object, and displays system info alongside it."
+    "description": "The most atomic way to train and inference a GPT in pure, dependency-free C"
   },
   {
-    "repo": "leigest519/OpenGame",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "OpenGame: Open Agentic Coding for Games"
-  },
-  {
-    "repo": "skibidiskib/ai-codex",
-    "branch": "master",
-    "language": "TypeScript",
-    "description": "Generate a compact codebase index for AI assistants — saves 50K+ tokens per conversation"
-  },
-  {
-    "repo": "haydenbleasel/files-sdk",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "A unified storage SDK for object and blob backends. One small, honest API. Web-standards I/O."
-  },
-  {
-    "repo": "ghostwright/phantom",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "An AI co-worker with its own computer. Self-evolving, persistent memory, MCP server, secure credential collection, email identity. Built on the Claude Agent SDK."
-  },
-  {
-    "repo": "0xpoIygon/polymarket-trading-bot-example",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Polymarket Bot - TypeScript bot for Polymarket 15-minute BTC up/down markets: Gamma market discovery, CLOB quotes, weighted signal fusion, risk checks, and optional live orders via @polymarket/clob-client. Clue: Polymarket Bot, Polymarket Trading Bot, Polymarket Copy Trading Bot, Polymarket Arbitrage Trading Bot, Polymarket Copytrading Bot"
-  },
-  {
-    "repo": "yaneony/2STEP-Converter",
-    "branch": "main",
-    "language": "Python",
-    "description": ""
-  },
-  {
-    "repo": "actionbook/ascent-research",
+    "repo": "letmutex/gitas",
     "branch": "main",
     "language": "Rust",
-    "description": "research cli for agent"
+    "description": "Git Account Switch"
   },
   {
-    "repo": "openai/privacy-filter",
+    "repo": "aligfellow/xyzrender",
     "branch": "main",
     "language": "Python",
-    "description": "OpenAI Privacy Filter"
+    "description": "Publication-quality molecular graphics from the command line."
   },
   {
-    "repo": "Tencent-Hunyuan/Hy3-preview",
+    "repo": "0xSero/pi-brain",
     "branch": "main",
-    "language": "Python",
-    "description": "Hy3 preview (295B A21B), a leading reasoning and agent model in its size, with great cost efficiency"
+    "language": "TypeScript",
+    "description": ""
   },
   {
-    "repo": "cksac/turboquant-model",
+    "repo": "sebastianvkl/pizero-openclaw",
     "branch": "main",
     "language": "Python",
     "description": ""
   },
   {
-    "repo": "joeseesun/qiaomu-blog-opensource",
+    "repo": "ochyai/open-japan-politech-platform",
     "branch": "main",
     "language": "TypeScript",
-    "description": "Open-source Cloudflare blog template based on OpenNext, Next.js 16, D1, and R2"
+    "description": "政党・企業によらない政治のデジタル化オープンソース基盤"
   },
   {
-    "repo": "denoland/ronly",
-    "branch": "main",
-    "language": "Rust",
-    "description": ""
-  },
-  {
-    "repo": "incursi0n/BlueSAM",
-    "branch": "main",
-    "language": "C",
-    "description": "A Cobalt Strike Beacon Object File that exploits the BlueHammer vulnerability that to obtain a copy of the SAM database."
-  },
-  {
-    "repo": "cisco-ai-defense/defenseclaw",
-    "branch": "main",
-    "language": "Python",
-    "description": "Security Governance for Agentic AI"
-  },
-  {
-    "repo": "0xchasercat/mochi",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "The library for faithful browser automation. High-fidelity fingerprinting for Bun, engineered for consistency and transparency."
-  },
-  {
-    "repo": "future-agi/future-agi",
-    "branch": "main",
-    "language": "Python",
-    "description": "Open-source, end-to-end platform for evaluating, observing, and improving LLM and AI agent applications. Tracing · Evals · Simulations · Datasets · Gateway · Guardrails. Self-hostable. Apache 2.0."
-  },
-  {
-    "repo": "killervillsy/SessionToJson",
+    "repo": "fimbox/html-in-canvas",
     "branch": "main",
     "language": "JavaScript",
-    "description": ""
+    "description": "HTML in Canvas — arrival.space"
   },
   {
-    "repo": "JuliusBrussee/cavemem",
+    "repo": "Kuberwastaken/claude-code",
     "branch": "main",
     "language": "TypeScript",
-    "description": "Cross-agent persistent memory for coding assistants. Stored compressed. Retrieved fast. Local by default."
+    "description": "Claude Code's Source Code & Breakdown from a leaked map file in their NPM registry"
   },
   {
-    "repo": "kuskhan/jetendard",
+    "repo": "harshkedia177/axon",
     "branch": "main",
     "language": "Python",
-    "description": "JetBrainsMono Nerd Font Mono rebuilt with Pretendard Korean glyphs for balanced Hangul monospace rendering."
+    "description": "Graph-powered code intelligence engine — indexes codebases into a knowledge graph, exposed via MCP tools for AI agents and a CLI for developers."
   },
   {
-    "repo": "baairon/torlink",
+    "repo": "LanRhyme/MicYou",
+    "branch": "master",
+    "language": "Kotlin",
+    "description": "MicYou is a powerful tool that turns your Android device into a high-quality wireless microphone for your PC."
+  },
+  {
+    "repo": "parcadei/ouros",
+    "branch": "main",
+    "language": "Rust",
+    "description": "A sandboxed Python runtime for AI agents, written in Rust."
+  },
+  {
+    "repo": "dev-protocol/polymarket-copytrading-bot-sport",
+    "branch": "master",
+    "language": "TypeScript",
+    "description": "This Polymarket Copy Trading Bot is designed to diversify across different prediction markets, minimizing exposure to any single market’s volatility. CLUE: @polymarket copytrading bot || #polymarket trading bot || @polymarket copytrading bot || #polymarket trading bot || @polymarket copytrading bot || #polymarket trading bot || polymarket copytrade"
+  },
+  {
+    "repo": "hacktivist123/agent-session-resume",
+    "branch": "main",
+    "language": "Python",
+    "description": "Cross-agent session resume skill for Claude Code, Codex, Antigravity, and OpenCode."
+  },
+  {
+    "repo": "veryyoldman/metamask-openclaw",
     "branch": "main",
     "language": "TypeScript",
-    "description": "A sleek, zero-setup torrent finder and downloader that lives right in your terminal."
+    "description": "🦊 OpenClaw — a safety-first MetaMask SDK toolkit & AI-agent skill. Connect wallets, read balances, sign messages and send transactions on Ethereum, Polygon, Base, Arbitrum & all EVM chains. TypeScript-first, one-line connect, never touches your seed phrase."
+  },
+  {
+    "repo": "quailyquaily/aqua",
+    "branch": "master",
+    "language": "Go",
+    "description": "Aqua, a cli message tool for AI agents"
+  },
+  {
+    "repo": "CostaliyA/Flow-OPD",
+    "branch": "main",
+    "language": "Python",
+    "description": "Official Repo of Flow-OPD: On-Policy Distillation for Flow Matching Models"
+  },
+  {
+    "repo": "Unicornronote/Microsoft-Office-Activated",
+    "branch": "main",
+    "language": "C++",
+    "description": "📊 Microsoft Office Professional Edition — Complete Productivity & Document Management Suite for Windows (2026)"
   }
 ]

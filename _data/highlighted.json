@@ -1,8 +1,8 @@
 {
-  "repo": "lingbol088-spec/ReiPenFlow",
+  "repo": "generalizingai/OpenStudio",
   "branch": "main",
-  "language": "Python",
-  "description": "Codex skill for local sandbox, CTF, authorized pentest and reverse-engineering workflows.",
-  "stars": 110,
-  "forks": 40
+  "language": "JavaScript",
+  "description": "OpenStudio - an open-source AI image, video, cinema, reels and lip sync studio powered by MuAPI",
+  "stars": 118,
+  "forks": 23
 }
