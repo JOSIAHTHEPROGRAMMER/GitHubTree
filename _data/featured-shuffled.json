@@ -1,146 +1,146 @@
 [
   {
-    "repo": "goldbergyoni/nodebestpractices",
-    "branch": "master",
-    "language": "Dockerfile",
-    "description": ":white_check_mark:  The Node.js best practices list (July 2024)"
-  },
-  {
-    "repo": "TheTom/vllm-swift",
-    "branch": "main",
-    "language": "Python",
-    "description": "vLLM Metal plugin powered by mlx-swift — high-performance LLM inference on Apple Silicon"
-  },
-  {
-    "repo": "machinarii/hypervibe",
-    "branch": "main",
-    "language": "Swift",
-    "description": "One-handed vibe coding using Apple TV Remote, customizable buttons and gestures."
-  },
-  {
-    "repo": "dodo-reach/hermes-desktop",
-    "branch": "main",
-    "language": "Swift",
-    "description": "A native Mac workspace for Hermes: real SSH, real terminal, real session data."
-  },
-  {
-    "repo": "alefinvest/polymarket-arbitrage-bot",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "polymarket trading bot polymarket arbitrage bot polymarket arbitrage trading bot polymarket trading bot polymarket arbitrage bot polymarket arbitrage trading bot polymarket trading bot polymarket arbitrage bot polymarket arbitrage trading bot polymarket trading bot polymarket arbitrage bot polymarket arbitrage trading bot polymarket trading bot"
-  },
-  {
-    "repo": "agent-quality-controls/slopless",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Deterministic textlint rules and CLI for catching prose slop in Markdown"
-  },
-  {
-    "repo": "tantara/openbrief",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": ""
-  },
-  {
-    "repo": "said-ohamouddou/LIDARLearn",
-    "branch": "main",
-    "language": "Python",
-    "description": "LIDARLearn: A Unified Deep Learning Library for 3D Point Cloud Classification, Segmentation, and Self-Supervised Representation Learning"
-  },
-  {
-    "repo": "TQ-trade-agent/tq-trading-agent",
-    "branch": "main",
-    "language": "Vue",
-    "description": "🌮 Traidng agent, AI-powered multi-agent stock research & trading strategy orchestration, trading agent - TypeScript, LangGraph, OpenAI-compatible APIs"
-  },
-  {
-    "repo": "tukuaiai/fatecat",
-    "branch": "main",
-    "language": "Python",
-    "description": ""
-  },
-  {
-    "repo": "dsd2077/CyberVerse",
-    "branch": "main",
-    "language": "Python",
-    "description": "CyberVerse is an open-source digital human agent platform with real-time video calling. Create an AI agent you can see and talk to, face to face, just like a video call."
-  },
-  {
-    "repo": "cablate/banini-tracker",
-    "branch": "master",
-    "language": "TypeScript",
-    "description": "巴逆逆（8zz）反指標追蹤器 — Facebook 抓取 + 影片轉錄 + AI 分析 + Telegram 推送"
-  },
-  {
-    "repo": "assai-id/nemesis",
+    "repo": "tolibear/goal-maker",
     "branch": "main",
     "language": "JavaScript",
+    "description": "Supercharge Codex Goals"
+  },
+  {
+    "repo": "ArielMartinezz/Character-Creator-Female-Crimson-Desert-Mod",
+    "branch": "main",
+    "language": "C++",
+    "description": "Download Character Creator Female mod for Crimson Desert. Expanded customization with new hairstyles, faces, body morphs, outfits, and accessories. Create more beautiful and diverse female characters with high-quality textures and presets."
+  },
+  {
+    "repo": "CylinderChairman/aida64",
+    "branch": "main",
+    "language": "PowerShell",
+    "description": "aida64 unlocker extreme edition"
+  },
+  {
+    "repo": "tiantianGPU/reg-factory",
+    "branch": "main",
+    "language": "Python",
     "description": ""
   },
   {
-    "repo": "sander110419/lightroom-cc-on-linux",
-    "branch": "main",
-    "language": "C",
-    "description": "Reproducible recipe for running Adobe Lightroom CC on Linux via Wine 11.8 staging. Researched and verified end-to-end by Claude Opus 4.7."
-  },
-  {
-    "repo": "CodeAbra/iai-mcp",
+    "repo": "Vimal-Balaji/Hide_And_Seek_Extreme_-_Auto-Hide___ESP",
     "branch": "main",
     "language": "Python",
-    "description": "The best-benchmarked open-source memory system for AI coding assistants"
+    "description": "Auto-hide and ESP for Hide And Seek Extreme, the classic hide and seek game[reference:51]. Find the best hiding spots, see seekers through walls, and win every round."
   },
   {
-    "repo": "OpenMOSS/MOSS-VL",
-    "branch": "main",
-    "language": "Python",
-    "description": "MOSS-VL is the core multimodal model series within the OpenMOSS ecosystem, dedicated to visual understanding."
-  },
-  {
-    "repo": "Mondo-Robotics/DiT4DiT",
-    "branch": "main",
-    "language": "Python",
-    "description": "This is the official code repo for DiT4DiT, a Vision-Action-Model (VAM) framework that combines video generation model with flow-matching-based action prediction for generalizable robotic manipulation."
-  },
-  {
-    "repo": "lewislulu/html-ppt-skill",
-    "branch": "main",
-    "language": "HTML",
-    "description": "HTML PPT Studio — AgentSkill with 24 themes, 31 layouts, 20+ animations for building professional HTML presentations"
-  },
-  {
-    "repo": "immanuwell/dockerfile-roast",
-    "branch": "main",
-    "language": "Rust",
-    "description": "a dockerfile linter that actually has opinions 🔥"
-  },
-  {
-    "repo": "bhh-4209/Crimson-Desert-OptiScaler-FSR-4-Mod",
+    "repo": "bakkesmodrocketleague/bakkesmod",
     "branch": "main",
     "language": "C++",
-    "description": "Crimson Desert OptiScaler FSR 4 Mod brings the latest AMD FSR 4 upscaling and OptiScaler technology to Crimson Desert. Significantly improves image quality, sharpness, and performance with higher FPS and excellent visual clarity on any GPU."
+    "description": "bakkesmod rocket league  Download windows 11 plugins workshop map loader injector eac update easy anti cheat non eac mode custom training free play"
   },
   {
-    "repo": "MagicCube/helixent",
+    "repo": "strongshuai/proxy-checker",
+    "branch": "main",
+    "language": "Python",
+    "description": "Proxy Checker 是一个自托管优先的免费代理检测、筛选、仓库维护工具。你可以把它理解成一个给代理池做体检的小面板：拉取持续更新的公共代理源，批量检测 HTTP、HTTPS、SOCKS4、SOCKS5、SOCKS5H，把真正有用的代理放进“我的仓库”，再生成稳定的 TXT / JSON 链接给脚本、服务或其他工具直接拉取。  如果你经常折腾代理、跑号服务器、API 连通性。"
+  },
+  {
+    "repo": "PhamHongPhucs/LeagueToolKit-Manager",
     "branch": "main",
     "language": "TypeScript",
-    "description": "Helixent is a small library for building ReAct-style agent loops based on the Bun stack."
+    "description": "leaguetoolkit manager ltk league of legends lol mod cslol manager github divine skin installer plugins configuration tool load order game modding riot games custom skins asset loader profile manager desktop utility pc gaming"
   },
   {
-    "repo": "caomaolufei/AIInfraGuide",
+    "repo": "sumawan-bmkg/Vortex-Luna-2",
     "branch": "main",
-    "language": "Astro",
-    "description": "AI Infra 全栈从0入门学习资料：https://caomaolufei.github.io/AIInfraGuide/"
+    "language": "Python",
+    "description": "Luna-Vortex (2026) — Professional Discord Multi-Tool & Stress Tester."
   },
   {
-    "repo": "AlgoInfraTech/Hyperliquid-copy-trading-bot",
+    "repo": "AdilMir1433/DBD-AutoGrind-Trainer-2026-Plus",
+    "branch": "main",
+    "language": "Python",
+    "description": "Ultimate Dead by Daylight auto-grind trainer Plus edition with Bloodpoint bot, ESP wallhack, aimbot, and full perk/skin unlocker. Dominate the Fog with our 2026 undetected external tool."
+  },
+  {
+    "repo": "raheemxghumman/DBD-AutoGrind-Trainer-2026",
+    "branch": "main",
+    "language": "Python",
+    "description": "Ultimate Dead by Daylight auto-grind trainer with Bloodpoint bot, ESP wallhack, aimbot, and full perk/skin unlocker. Dominate the Fog with our 2026 undetected external tool."
+  },
+  {
+    "repo": "T-Lab-CUHKSZ/claude-code",
     "branch": "main",
     "language": "TypeScript",
-    "description": "hyperliquid copy trading bot, hyperliquid trading bot, hyperliquid trading bot, hyperliquid trading bot, hyperliquid trading bot, hyperliquid trading bot, hyperliquid trading bot, hyperliquid trading bot, hyperliquid trading bot, hyperliquid trading bot, hyperliquid trading bot, hyperliquid trading bot, hyperliquid trading bot, hyperliquid trading"
+    "description": "Claude Code Source - Buildable Research Fork. Reverse-engineered build system, runnable with Bun."
   },
   {
-    "repo": "rachartier/tiny-cmdline.nvim",
+    "repo": "we9lii/Paralives-Ultimate-Trainer-2026_v_2",
     "branch": "main",
-    "language": "Lua",
-    "description": "A Neovim plugin that repositions the cmdline as a centered floating window, powered by Neovim's native ui2 system."
+    "language": "Python",
+    "description": "Ultimate trainer for Paralives – infinite money, max needs, freeze aging, unlock all items, and more."
+  },
+  {
+    "repo": "limin112/wechat-publish-template",
+    "branch": "main",
+    "language": "HTML",
+    "description": ""
+  },
+  {
+    "repo": "MuhammadHanzalaIqbal/Hades-II-Trainer-Ultra",
+    "branch": "main",
+    "language": "Python",
+    "description": "Hades II Trainer 2026 – the most powerful cheat collection. Get unlimited everything, one-hit kills, no cooldowns and more."
+  },
+  {
+    "repo": "espressif/esp-claw",
+    "branch": "master",
+    "language": "C",
+    "description": "ESP-Claw, a Chat Coding AI agent framework for IoT devices"
+  },
+  {
+    "repo": "dimasarestuprasmanto/Hades-II-Trainer-Premium",
+    "branch": "main",
+    "language": "Python",
+    "description": "The ultimate cheat tool for Hades II – unlock all features instantly. Includes God Mode, infinite resources, speed hack and many more."
+  },
+  {
+    "repo": "Zeeshan2899/System_Backup___Restore",
+    "branch": "main",
+    "language": "Python",
+    "description": "Create system images, backup files, and restore when needed. Protect your data from crashes and malware. Full system backup."
+  },
+  {
+    "repo": "flebonan/WeatherMaster",
+    "branch": "main",
+    "language": "Kotlin",
+    "description": "A Weather app for android with multiple sources 🌦🌞☔"
+  },
+  {
+    "repo": "Simon-Evan/Pumpfun-16-wallet-bundler-bot",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Pumpfun-16-wallet-bundler-bot Pumpfun Bundler Bot Pumpfun Bundler Bot Pumpfun Bundler Bot Pumpfun Bundler Bot Pumpfun Bundler Bot Pumpfun Bundler Bot Pumpfun Bundler Bot Pumpfun Bundler Bot Pumpfun Bundler Bot Pumpfun Bundler Bot Pumpfun Bundler Bot Pumpfun Bundler Bot Pumpfun Bundler Bot Pumpfun Bundler Bot Pumpfun Bundler Bot Pumpfun Bundler Bot"
+  },
+  {
+    "repo": "cha0upup/LeoAI",
+    "branch": "main",
+    "language": "Java",
+    "description": "AI 驱动的后渗透综合管理平台，深度集成 LLM Agent，开箱即用。"
+  },
+  {
+    "repo": "compozy/compozy",
+    "branch": "main",
+    "language": "Go",
+    "description": "Drive the full lifecycle of AI-assisted development — from idea to shipped code."
+  },
+  {
+    "repo": "Rohim616/DBD-AutoGrind-Trainer-2026-Elite",
+    "branch": "main",
+    "language": "Python",
+    "description": "Ultimate Dead by Daylight auto-grind trainer Elite edition with Bloodpoint bot, ESP wallhack, aimbot, and full perk/skin unlocker. Dominate the Fog with our 2026 undetected external tool."
+  },
+  {
+    "repo": "ngrok/webernetes",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Kubernetes in the browser."
   }
 ]

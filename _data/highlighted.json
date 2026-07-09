@@ -1,8 +1,8 @@
 {
-  "repo": "ZimengXiong/tinyTouch",
+  "repo": "colebemis/notion-workers",
   "branch": "main",
-  "language": "C",
-  "description": "authenticate, sudo, login with your fingerprint wire(less)ly without having to spend $149 at the cost of some security",
-  "stars": 106,
-  "forks": 0
+  "language": "TypeScript",
+  "description": "My Notion Workers",
+  "stars": 104,
+  "forks": 4
 }
