@@ -1,8 +1,8 @@
 {
-  "repo": "PlankParakeetFoyer/Meccha-Camouflage-Pro",
+  "repo": "ZimengXiong/tinyTouch",
   "branch": "main",
-  "language": "Python",
-  "description": "🦎 Meccha-Camouflage-Pro – auto paint and camouflage tool for MECCHA CHAMELEON. Features Chameleon Camo, Image Projection, built-in and custom images. Instantly blend into any environment.",
-  "stars": 91,
-  "forks": 9
+  "language": "C",
+  "description": "authenticate, sudo, login with your fingerprint wire(less)ly without having to spend $149 at the cost of some security",
+  "stars": 106,
+  "forks": 0
 }
