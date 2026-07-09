@@ -1,146 +1,146 @@
 [
   {
-    "repo": "tolibear/goal-maker",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "Supercharge Codex Goals"
-  },
-  {
-    "repo": "ArielMartinezz/Character-Creator-Female-Crimson-Desert-Mod",
-    "branch": "main",
-    "language": "C++",
-    "description": "Download Character Creator Female mod for Crimson Desert. Expanded customization with new hairstyles, faces, body morphs, outfits, and accessories. Create more beautiful and diverse female characters with high-quality textures and presets."
-  },
-  {
-    "repo": "CylinderChairman/aida64",
-    "branch": "main",
-    "language": "PowerShell",
-    "description": "aida64 unlocker extreme edition"
-  },
-  {
-    "repo": "tiantianGPU/reg-factory",
-    "branch": "main",
-    "language": "Python",
-    "description": ""
-  },
-  {
-    "repo": "Vimal-Balaji/Hide_And_Seek_Extreme_-_Auto-Hide___ESP",
-    "branch": "main",
-    "language": "Python",
-    "description": "Auto-hide and ESP for Hide And Seek Extreme, the classic hide and seek game[reference:51]. Find the best hiding spots, see seekers through walls, and win every round."
-  },
-  {
-    "repo": "bakkesmodrocketleague/bakkesmod",
-    "branch": "main",
-    "language": "C++",
-    "description": "bakkesmod rocket league  Download windows 11 plugins workshop map loader injector eac update easy anti cheat non eac mode custom training free play"
-  },
-  {
-    "repo": "strongshuai/proxy-checker",
-    "branch": "main",
-    "language": "Python",
-    "description": "Proxy Checker 是一个自托管优先的免费代理检测、筛选、仓库维护工具。你可以把它理解成一个给代理池做体检的小面板：拉取持续更新的公共代理源，批量检测 HTTP、HTTPS、SOCKS4、SOCKS5、SOCKS5H，把真正有用的代理放进“我的仓库”，再生成稳定的 TXT / JSON 链接给脚本、服务或其他工具直接拉取。  如果你经常折腾代理、跑号服务器、API 连通性。"
-  },
-  {
-    "repo": "PhamHongPhucs/LeagueToolKit-Manager",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "leaguetoolkit manager ltk league of legends lol mod cslol manager github divine skin installer plugins configuration tool load order game modding riot games custom skins asset loader profile manager desktop utility pc gaming"
-  },
-  {
-    "repo": "sumawan-bmkg/Vortex-Luna-2",
-    "branch": "main",
-    "language": "Python",
-    "description": "Luna-Vortex (2026) — Professional Discord Multi-Tool & Stress Tester."
-  },
-  {
-    "repo": "AdilMir1433/DBD-AutoGrind-Trainer-2026-Plus",
-    "branch": "main",
-    "language": "Python",
-    "description": "Ultimate Dead by Daylight auto-grind trainer Plus edition with Bloodpoint bot, ESP wallhack, aimbot, and full perk/skin unlocker. Dominate the Fog with our 2026 undetected external tool."
-  },
-  {
-    "repo": "raheemxghumman/DBD-AutoGrind-Trainer-2026",
-    "branch": "main",
-    "language": "Python",
-    "description": "Ultimate Dead by Daylight auto-grind trainer with Bloodpoint bot, ESP wallhack, aimbot, and full perk/skin unlocker. Dominate the Fog with our 2026 undetected external tool."
-  },
-  {
-    "repo": "T-Lab-CUHKSZ/claude-code",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Claude Code Source - Buildable Research Fork. Reverse-engineered build system, runnable with Bun."
-  },
-  {
-    "repo": "we9lii/Paralives-Ultimate-Trainer-2026_v_2",
-    "branch": "main",
-    "language": "Python",
-    "description": "Ultimate trainer for Paralives – infinite money, max needs, freeze aging, unlock all items, and more."
-  },
-  {
-    "repo": "limin112/wechat-publish-template",
-    "branch": "main",
-    "language": "HTML",
-    "description": ""
-  },
-  {
-    "repo": "MuhammadHanzalaIqbal/Hades-II-Trainer-Ultra",
-    "branch": "main",
-    "language": "Python",
-    "description": "Hades II Trainer 2026 – the most powerful cheat collection. Get unlimited everything, one-hit kills, no cooldowns and more."
-  },
-  {
-    "repo": "espressif/esp-claw",
+    "repo": "ogham/exa",
     "branch": "master",
-    "language": "C",
-    "description": "ESP-Claw, a Chat Coding AI agent framework for IoT devices"
+    "language": "Rust",
+    "description": "A modern replacement for ‘ls’."
   },
   {
-    "repo": "dimasarestuprasmanto/Hades-II-Trainer-Premium",
+    "repo": "WebAssembly/spec",
+    "branch": "main",
+    "language": "WebAssembly",
+    "description": "WebAssembly specification, reference interpreter, and test suite."
+  },
+  {
+    "repo": "Xuanwo/xurl",
+    "branch": "main",
+    "language": "Rust",
+    "description": "xURL: Client for AI Agents URLs"
+  },
+  {
+    "repo": "cloudflare/vinext",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Vite plugin that reimplements the Next.js API surface — deploy anywhere"
+  },
+  {
+    "repo": "symfony/symfony",
+    "branch": "7.1",
+    "language": "PHP",
+    "description": "The Symfony PHP framework"
+  },
+  {
+    "repo": "NVIDIA/NeMo",
     "branch": "main",
     "language": "Python",
-    "description": "The ultimate cheat tool for Hades II – unlock all features instantly. Includes God Mode, infinite resources, speed hack and many more."
+    "description": "A scalable generative AI framework built for researchers and developers working on Large Language Models, Multimodal, and Speech AI (Automatic Speech Recognition and Text-to-Speech)"
   },
   {
-    "repo": "Zeeshan2899/System_Backup___Restore",
-    "branch": "main",
-    "language": "Python",
-    "description": "Create system images, backup files, and restore when needed. Protect your data from crashes and malware. Full system backup."
-  },
-  {
-    "repo": "flebonan/WeatherMaster",
+    "repo": "six2dez/burp-ai-agent",
     "branch": "main",
     "language": "Kotlin",
-    "description": "A Weather app for android with multiple sources 🌦🌞☔"
+    "description": "Burp Suite extension that adds built-in MCP tooling, AI-assisted analysis, privacy controls, passive and active scanning and more"
   },
   {
-    "repo": "Simon-Evan/Pumpfun-16-wallet-bundler-bot",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Pumpfun-16-wallet-bundler-bot Pumpfun Bundler Bot Pumpfun Bundler Bot Pumpfun Bundler Bot Pumpfun Bundler Bot Pumpfun Bundler Bot Pumpfun Bundler Bot Pumpfun Bundler Bot Pumpfun Bundler Bot Pumpfun Bundler Bot Pumpfun Bundler Bot Pumpfun Bundler Bot Pumpfun Bundler Bot Pumpfun Bundler Bot Pumpfun Bundler Bot Pumpfun Bundler Bot Pumpfun Bundler Bot"
-  },
-  {
-    "repo": "cha0upup/LeoAI",
-    "branch": "main",
-    "language": "Java",
-    "description": "AI 驱动的后渗透综合管理平台，深度集成 LLM Agent，开箱即用。"
-  },
-  {
-    "repo": "compozy/compozy",
-    "branch": "main",
-    "language": "Go",
-    "description": "Drive the full lifecycle of AI-assisted development — from idea to shipped code."
-  },
-  {
-    "repo": "Rohim616/DBD-AutoGrind-Trainer-2026-Elite",
+    "repo": "depreciating/DoodleCloud",
     "branch": "main",
     "language": "Python",
-    "description": "Ultimate Dead by Daylight auto-grind trainer Elite edition with Bloodpoint bot, ESP wallhack, aimbot, and full perk/skin unlocker. Dominate the Fog with our 2026 undetected external tool."
+    "description": "Cloud Storage using Instagram."
   },
   {
-    "repo": "ngrok/webernetes",
+    "repo": "kubernetes/ingress-nginx",
+    "branch": "main",
+    "language": "Go",
+    "description": "Ingress NGINX Controller for Kubernetes"
+  },
+  {
+    "repo": "dev-protocol/polymarket-sports-trading-bot",
+    "branch": "main",
+    "language": "Rust",
+    "description": "Polymarket Sports trading bot that bet on sport pool. polymarket sports trading | polymarket sport betting | polymarket sports bot"
+  },
+  {
+    "repo": "uluckyXH/OpenMOSS",
+    "branch": "main",
+    "language": "Python",
+    "description": "A self-organizing multi-agent collaboration platform for OpenClaw. Multiple AI agents work as an autonomous team — planning, executing, reviewing, and patrolling tasks with zero human intervention."
+  },
+  {
+    "repo": "Tencent-Hunyuan/HY-WU",
+    "branch": "main",
+    "language": "Python",
+    "description": "HY-WU (Part I): An Extensible Functional Neural Memory Framework and An Instantiation in Text-Guided Image Editing"
+  },
+  {
+    "repo": "capybara-zy/xiaoye-ai",
+    "branch": "main",
+    "language": "Vue",
+    "description": ""
+  },
+  {
+    "repo": "Guid-Lab/kdecrypt",
+    "branch": "main",
+    "language": "C++",
+    "description": "PGP/GPG file encryption and decryption manager for KDE Plasma"
+  },
+  {
+    "repo": "mockk/mockk",
+    "branch": "master",
+    "language": "Kotlin",
+    "description": "mocking library for Kotlin"
+  },
+  {
+    "repo": "get-Lucid/Lucid",
     "branch": "main",
     "language": "TypeScript",
-    "description": "Kubernetes in the browser."
+    "description": "An intelligence layer grounding autonomous agents in verified, real-time knowledge at scale."
+  },
+  {
+    "repo": "Shopify/javy",
+    "branch": "main",
+    "language": "Rust",
+    "description": "JS to WebAssembly toolchain"
+  },
+  {
+    "repo": "nj19257/FastSkills",
+    "branch": "main",
+    "language": "Python",
+    "description": "⚡ MCP server that brings Agent Skills (the open standard behind Claude Code, OpenClaw & nanobot) to any MCP-compatible agent. Discover, load, create & execute skills."
+  },
+  {
+    "repo": "paritytech/substrate",
+    "branch": "master",
+    "language": "Rust",
+    "description": "Substrate: The platform for blockchain innovators"
+  },
+  {
+    "repo": "godotengine/godot",
+    "branch": "master",
+    "language": "C++",
+    "description": "Godot Engine – Multi-platform 2D and 3D game engine"
+  },
+  {
+    "repo": "ncvgl/slawk",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "A 14 day experiment to clone Slack with Claude Code"
+  },
+  {
+    "repo": "KXJ-WQL/PortalWebsiteSystem",
+    "branch": "master",
+    "language": "Java",
+    "description": "☃企业门户系统，基于Springboot和Thymeleaf🎪，使用layui前后端分离"
+  },
+  {
+    "repo": "kautukkundan/Awesome-Profile-README-templates",
+    "branch": "master",
+    "language": "JavaScript",
+    "description": "A collection of awesome readme templates to display on your profile"
+  },
+  {
+    "repo": "igamez-gamble/sportsbook-sports-betting-crypto",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "sportsbook sports betting, crypto sportsbook, crypto sports betting, top ranked sportsbook project, world cup, nba, soccor, cricket, esports, crypto sports betting platform, crypto sportsbook project, sportsbook platform, sports betting platform, crypto project, crypto betting"
   }
 ]

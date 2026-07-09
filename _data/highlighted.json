@@ -1,8 +1,8 @@
 {
-  "repo": "colebemis/notion-workers",
+  "repo": "zhangxiaoqiang1991/luopan",
   "branch": "main",
-  "language": "TypeScript",
-  "description": "My Notion Workers",
-  "stars": 104,
-  "forks": 4
+  "language": "HTML",
+  "description": "行业研究引擎 — 输入行业名，输出结构化的产业地图（上中下游权力分析 + 公司商业模式 + 行业前景判断）",
+  "stars": 134,
+  "forks": 14
 }
