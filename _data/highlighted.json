@@ -1,8 +1,8 @@
 {
-  "repo": "zhangxiaoqiang1991/luopan",
+  "repo": "PitShipwrightGraph/MecchaPhantom",
   "branch": "main",
-  "language": "HTML",
-  "description": "行业研究引擎 — 输入行业名，输出结构化的产业地图（上中下游权力分析 + 公司商业模式 + 行业前景判断）",
-  "stars": 134,
-  "forks": 14
+  "language": "Python",
+  "description": "🦎 MecchaPhantom – complete hack tool for MECCHA CHAMELEON. Features ESP wallhack, aimbot, fly hack, teleport, god mode, infinite paint, speed hack, and more. Dominate the hide-and-seek battlefield!",
+  "stars": 143,
+  "forks": 75
 }
