@@ -1,146 +1,146 @@
 [
   {
-    "repo": "aitradingbotspro/cryto-trading-ai-assistant",
+    "repo": "kepengxu/PRISM-VL",
     "branch": "main",
     "language": "Python",
-    "description": "AI guardian for manual crypto traders — risk monitoring, strategy validation & emotional trading detection. No trade execution."
+    "description": "PRISM-VL studies measurement-grounded VLM learning with RAW-derived Meas.-XYZ inputs, camera-conditioned grounding, and exposure-bracketed supervision transfer."
   },
   {
-    "repo": "D1a0y1bb/CloverSec-CTF-Build-Dockerizer-skill",
-    "branch": "main",
-    "language": "Python",
-    "description": "四叶草安全-创研中心竞赛专用题目容器构建Skills，面向 CTF Jeopardy 的容器交付引擎：自动探测栈、生成合规题目镜像构建文件、执行规则校验并给出可修复建议，实现标准化工作流程的质量对齐。"
-  },
-  {
-    "repo": "5-m0cftvuvif/stake-monthly",
-    "branch": "main",
-    "language": "HTML",
-    "description": "Stake Monthly is one of the most discussed topics in online platform communities, loyalty systems, and crypto entertainment ecosystems. This educational guide explains how monthly reward structures, VIP progression, recurring engagement systems, and community participation models work across modern digital platforms."
-  },
-  {
-    "repo": "rohunvora/x-research-skill",
+    "repo": "timwuhaotian/the-pair",
     "branch": "main",
     "language": "TypeScript",
-    "description": "X/Twitter research skill for Claude Code and OpenClaw. Agentic search, thread following, deep-dives, sourced briefings."
+    "description": "The Pair - Automated pair programming — grab a coffee while two AI agents cross-check each other's work"
   },
   {
-    "repo": "ythx-101/ask-search",
+    "repo": "jlevy/the-art-of-command-line",
+    "branch": "master",
+    "language": "Other",
+    "description": "Master the command line, in one page"
+  },
+  {
+    "repo": "Johnixr/claude-code-wechat-channel",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Claude Code Channel plugin for WeChat — bridge WeChat messages into Claude Code sessions via the official ClawBot ilink API"
+  },
+  {
+    "repo": "arendst/Tasmota",
+    "branch": "development",
+    "language": "C",
+    "description": "Alternative firmware for ESP8266 and ESP32 based devices with easy configuration using webUI, OTA updates, automation using timers or rules, expandability and entirely local control over MQTT, HTTP, Serial or KNX. Full documentation at"
+  },
+  {
+    "repo": "redux-saga/redux-saga",
+    "branch": "master",
+    "language": "JavaScript",
+    "description": "An alternative side effect model for Redux apps"
+  },
+  {
+    "repo": "Minecraft-Community-Edition/client",
+    "branch": "main",
+    "language": "C++",
+    "description": "Whispers LCE Client"
+  },
+  {
+    "repo": "kamranahmedse/developer-roadmap",
+    "branch": "master",
+    "language": "TypeScript",
+    "description": "Interactive roadmaps, guides and other educational content to help developers grow in their careers."
+  },
+  {
+    "repo": "apache/beam",
+    "branch": "master",
+    "language": "Java",
+    "description": "Apache Beam is a unified programming model for Batch and Streaming data processing."
+  },
+  {
+    "repo": "r3nzsec/irflow-timeline",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "DFIR Timeline Analysis for macOS — SQLite-backed viewer for CSV, TSV, XLSX, EVTX, and Plaso files with built-in process inspection, lateral movement tracking, and persistence detection."
+  },
+  {
+    "repo": "tensorflow/agents",
     "branch": "master",
     "language": "Python",
-    "description": "Self-hosted web search skill for AI agents (OpenClaw/Claude Code/Antigravity) via SearxNG"
+    "description": "TF-Agents: A reliable, scalable and easy to use TensorFlow library for Contextual Bandits and Reinforcement Learning."
   },
   {
-    "repo": "michelleoincx/genspark.ai-openclaw",
+    "repo": "ahmadawais/terminui",
     "branch": "main",
     "language": "TypeScript",
-    "description": "OpenClaw for genspark.ai — open-source extension that claws through every paywall and rate limit. Install in one command, run forever free."
+    "description": "Super fast double buffered toolkit for building terminal UIs."
   },
   {
-    "repo": "Anarkh-Lee/universal-db-mcp",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "MCP 数据库万能连接器：使用支持MCP服务协议的工具（例如：Claude Desktop、Cherry Studio等）直接连接你的数据库，用自然语言查询和分析数据"
-  },
-  {
-    "repo": "open-pencil/open-pencil",
+    "repo": "NoobyGains/claude-pulse",
     "branch": "master",
-    "language": "TypeScript",
-    "description": "AI-native design editor. Open-source Figma alternative."
-  },
-  {
-    "repo": "6551Team/opentwitter-mcp",
-    "branch": "main",
     "language": "Python",
-    "description": "Twitter/X Data · User Profiles · Tweet Search · Follower Events · KOL Tracking"
+    "description": "Real-time usage monitor for Claude Code — session limits, weekly limits, and plan tier with colour-coded progress bars"
   },
   {
-    "repo": "deltatrader01/Polymarket-Trading-Bot",
+    "repo": "timescale/timescaledb",
     "branch": "main",
+    "language": "C",
+    "description": "A time-series database for high-performance real-time analytics packaged as a Postgres extension"
+  },
+  {
+    "repo": "tensorflow/tfx",
+    "branch": "master",
     "language": "Python",
-    "description": "Polymarket arbitrage trading bot that detects inefficiencies in 5-minute, 15-minute, and 1-hour markets. polymarket arbitrage trading bot polymarket arbitrage bot polymarket arbitrage bot polymarket arbitrage bot polymarket arbitrage bot polymarket arbitrage bot polymarket arbitrage bot"
+    "description": "TFX is an end-to-end platform for deploying production ML pipelines"
   },
   {
-    "repo": "btahir/react-kino",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Cinematic scroll-driven storytelling for React"
-  },
-  {
-    "repo": "hmmhmmhm/daiso-mcp",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "내 주변 다이소/올리브영 매장을 찾고, 재고를 확인하는 기능을 AI에게 부여합니다."
-  },
-  {
-    "repo": "Perkins729/OmniXtreme",
-    "branch": "main",
-    "language": "Python",
-    "description": ""
-  },
-  {
-    "repo": "HenryXiaoYang/wechat-access-unqclawed",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "微信包装了开源项目OpenClaw，所以我们把他的Channel抽出来了😄"
-  },
-  {
-    "repo": "chenhg5/cc-connect",
-    "branch": "main",
-    "language": "Go",
-    "description": "Bridge local AI coding agents (Claude Code, Cursor, Gemini CLI, Codex) to messaging platforms (Feishu/Lark, DingTalk, Slack, Telegram, Discord, LINE, WeChat Work). Chat with your AI dev assistant from anywhere — no public IP required for most platforms."
-  },
-  {
-    "repo": "brendanhogan/hermitclaw",
-    "branch": "main",
-    "language": "Python",
-    "description": ""
-  },
-  {
-    "repo": "lopespm/zig-minimal-kernel-x86",
+    "repo": "remorses/usecomputer",
     "branch": "main",
     "language": "Zig",
-    "description": "Minimal x86 Kernel - built in Zig"
+    "description": "Fast computer automation CLI for AI agents. Control any desktop with accessibility snapshots, clicks, typing, scrolling, and more."
   },
   {
-    "repo": "Gentleatvice/seed-phrase-recover-BTC-ETH",
+    "repo": "NVIDIA/cudnn-frontend",
     "branch": "main",
-    "language": "Rust",
+    "language": "C++",
+    "description": "cudnn_frontend provides a c++ wrapper for the cudnn backend API and samples on how to use it"
+  },
+  {
+    "repo": "elastic/elasticsearch",
+    "branch": "main",
+    "language": "Java",
+    "description": "Free and Open Source, Distributed, RESTful Search Engine"
+  },
+  {
+    "repo": "ringhyacinth/Star-Office-UI",
+    "branch": "master",
+    "language": "HTML",
     "description": ""
   },
   {
-    "repo": "liuwei283/RealWonder",
+    "repo": "OpenMOSS/MOVA",
     "branch": "main",
     "language": "Python",
-    "description": "Real-Time Physical Action-Conditioned Video Generation"
+    "description": "MOVA: Towards Scalable and Synchronized Video–Audio Generation"
   },
   {
-    "repo": "LeoYeAI/openclaw-guardian",
+    "repo": "reduxjs/redux-toolkit",
+    "branch": "master",
+    "language": "TypeScript",
+    "description": "The official, opinionated, batteries-included toolset for efficient Redux development"
+  },
+  {
+    "repo": "newrelic/newrelic-python-agent",
     "branch": "main",
-    "language": "Shell",
-    "description": "🛡️ Guardian watchdog for OpenClaw Gateway — auto-monitor, self-repair via doctor --fix, git-based rollback, daily snapshots, and Discord alerts. Powered by MyClaw.ai"
+    "language": "Python",
+    "description": "New Relic Python Agent"
   },
   {
-    "repo": "NikkeTryHard/zerogravity",
+    "repo": "docker/compose",
     "branch": "main",
-    "language": "Shell",
-    "description": "OpenAI, Anthropic, and Gemini-compatible proxy"
+    "language": "Go",
+    "description": "Define and run multi-container applications with Docker"
   },
   {
-    "repo": "MeisnerDan/mission-control",
+    "repo": "anl331/goey-toast",
     "branch": "main",
     "language": "TypeScript",
-    "description": "Open-source task management for the agentic era. The command center for solo entrepreneurs who delegate work to AI agents."
-  },
-  {
-    "repo": "r1cA18/screen-commentator",
-    "branch": "main",
-    "language": "Swift",
-    "description": "macOS app that captures your screen and generates scrolling AI comments overlay"
-  },
-  {
-    "repo": "ClawBio/ClawBio",
-    "branch": "main",
-    "language": "Python",
-    "description": "🦖 ClawBio — The first bioinformatics-native AI agent skill library. Local-first. Reproducible. Built on OpenClaw."
+    "description": "A gooey, morphing toast component built on Sonner with Framer Motion animations"
   }
 ]
