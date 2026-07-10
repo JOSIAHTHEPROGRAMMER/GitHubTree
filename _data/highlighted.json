@@ -1,8 +1,8 @@
 {
-  "repo": "ActiveTK/VRAMDISK",
+  "repo": "ai-twinkle/rlhf-book-zh-tw",
   "branch": "main",
-  "language": "Rust",
-  "description": "VRAMDISK: Create VRAM disk on Windows",
-  "stars": 108,
-  "forks": 1
+  "language": "HTML",
+  "description": "《Reinforcement Learning from Human Feedback》繁體中文全譯本＋每章互動實驗 | Unofficial zh-TW community translation of the RLHF Book with interactive labs",
+  "stars": 119,
+  "forks": 24
 }

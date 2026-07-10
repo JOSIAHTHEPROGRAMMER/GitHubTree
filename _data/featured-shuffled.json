@@ -1,146 +1,146 @@
 [
   {
-    "repo": "jnsahaj/gazectl",
+    "repo": "metric-anything/metric-anything",
+    "branch": "main",
+    "language": "Python",
+    "description": ""
+  },
+  {
+    "repo": "github/gitignore",
+    "branch": "main",
+    "language": "Other",
+    "description": "A collection of useful .gitignore templates"
+  },
+  {
+    "repo": "ForecastForge/binance-trading-bot",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "binance trading bot · binance bot · binance AI trading bot · binance automated trading bot · binance auto trading bot · binance crypto trading bot · binance futures trading bot · binance spot trading bot · binance grid trading bot · binance bot strategy"
+  },
+  {
+    "repo": "rook/rook",
+    "branch": "master",
+    "language": "Go",
+    "description": "Storage Orchestration for Kubernetes"
+  },
+  {
+    "repo": "opencv/opencv",
+    "branch": "4.x",
+    "language": "C++",
+    "description": "Open Source Computer Vision Library"
+  },
+  {
+    "repo": "google/or-tools",
+    "branch": "stable",
+    "language": "C++",
+    "description": "Google's Operations Research tools:"
+  },
+  {
+    "repo": "gcc-mirror/gcc",
+    "branch": "master",
+    "language": "C++",
+    "description": "Mirror of the GNU Compiler Collection master repository."
+  },
+  {
+    "repo": "gravitational/teleport",
+    "branch": "master",
+    "language": "Go",
+    "description": "The easiest, and most secure way to access and protect all of your infrastructure."
+  },
+  {
+    "repo": "rs/zerolog",
+    "branch": "master",
+    "language": "Go",
+    "description": "Zero Allocation JSON Logger"
+  },
+  {
+    "repo": "pyg-team/pytorch_geometric",
+    "branch": "master",
+    "language": "Python",
+    "description": "Graph Neural Network Library for PyTorch"
+  },
+  {
+    "repo": "caddyserver/caddy",
+    "branch": "master",
+    "language": "Go",
+    "description": "Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS"
+  },
+  {
+    "repo": "public-apis/public-apis",
+    "branch": "master",
+    "language": "Python",
+    "description": "A collective list of free APIs"
+  },
+  {
+    "repo": "HubSpot/messenger",
+    "branch": "master",
+    "language": "JavaScript",
+    "description": "Growl-style alerts and messages for your app. #hubspot-open-source"
+  },
+  {
+    "repo": "freqtrade/freqtrade",
+    "branch": "develop",
+    "language": "Python",
+    "description": "Free, open source crypto trading bot"
+  },
+  {
+    "repo": "nedbat/coveragepy",
+    "branch": "master",
+    "language": "Python",
+    "description": "The code coverage tool for Python"
+  },
+  {
+    "repo": "apache/tvm",
+    "branch": "main",
+    "language": "Python",
+    "description": "Open Machine Learning Compiler Framework"
+  },
+  {
+    "repo": "godotengine/godot",
+    "branch": "master",
+    "language": "C++",
+    "description": "Godot Engine – Multi-platform 2D and 3D game engine"
+  },
+  {
+    "repo": "InstaPy/InstaPy",
+    "branch": "master",
+    "language": "Python",
+    "description": "📷 Instagram Bot - Tool for automated Instagram interactions"
+  },
+  {
+    "repo": "standardnotes/app",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Think fearlessly with end-to-end encrypted notes and files. For issues, visit https://standardnotes.com/forum or https://standardnotes.com/help."
+  },
+  {
+    "repo": "virattt/ai-hedge-fund",
+    "branch": "main",
+    "language": "Python",
+    "description": "An AI Hedge Fund Team"
+  },
+  {
+    "repo": "realm/SwiftLint",
     "branch": "main",
     "language": "Swift",
-    "description": "Head tracking display focus switcher for macOS"
+    "description": "A tool to enforce Swift style and conventions."
   },
   {
-    "repo": "shenhao-stu/openclaw-agents",
+    "repo": "formik/formik",
     "branch": "main",
-    "language": "Shell",
-    "description": "🐾 One-command multi-agent setup for OpenClaw — 9 specialized AI agents, group routing, safe config merge."
+    "language": "TypeScript",
+    "description": "Build forms in React, without the tears 😭"
   },
   {
-    "repo": "CraftyGeezer/Kalshi-Polymarket-Ai-bot",
+    "repo": "helm/helm-www",
     "branch": "main",
-    "language": "Python",
-    "description": ""
+    "language": "MDX",
+    "description": "The Helm website for docs, blog and project info."
   },
   {
-    "repo": "0xsouravm/oxichrome",
-    "branch": "main",
-    "language": "Rust",
-    "description": "Framework to build Chrome extensions entirely in Rust with proc macros, type-safe Chrome API bindings, and Leptos for reactive UI. Compiles to WebAssembly with zero hand-written JavaScript."
-  },
-  {
-    "repo": "aikhe/wrapped.nvim",
+    "repo": "melonjs/melonJS",
     "branch": "master",
-    "language": "Lua",
-    "description": "View your Neovim configuration insights, history, and heatmaps."
-  },
-  {
-    "repo": "HKUDS/MoChat",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "MoChat: Reconnecting the World through AI Agents (OpenClaw & nanobot & ClaudeCode) https://mochat.io"
-  },
-  {
-    "repo": "RuizeLyu/paper-dl",
-    "branch": "main",
-    "language": "Python",
-    "description": "Download arxiv PDFs from PaSa search results for local AI-powered literature analysis."
-  },
-  {
-    "repo": "HarnessLab/claw-code-agent",
-    "branch": "main",
-    "language": "Python",
-    "description": "Claw Code No Rust No TypeScript Only Python. Easy to work with. Fast to iterate. 🔥 Zero external dependencies 🔥"
-  },
-  {
-    "repo": "supermemoryai/openclaw-supermemory",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Supermemory allows Clawdbot / Molt bot to have PERFECT memory and recall for their own personal agent."
-  },
-  {
-    "repo": "javaevolved/javaevolved.github.io",
-    "branch": "main",
-    "language": "HTML",
-    "description": "Java Evolved. Your Code Can Evolve Too!"
-  },
-  {
-    "repo": "lukilabs/beautiful-mermaid",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": ""
-  },
-  {
-    "repo": "dev-protocol/Polymarket-Trading-Bot-with-Synth-AI",
-    "branch": "main",
-    "language": "Rust",
-    "description": "Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot"
-  },
-  {
-    "repo": "epiral/agent-clip",
-    "branch": "main",
-    "language": "Go",
-    "description": "AI Agent as a Pinix Clip — agentic loop with memory, tools, and vision"
-  },
-  {
-    "repo": "jmuncor/sherlock",
-    "branch": "main",
-    "language": "Python",
-    "description": "Intercept LLM API traffic and visualize token usage in a real-time terminal dashboard. Track costs,       debug prompts, and monitor context window usage across your AI development sessions."
-  },
-  {
-    "repo": "rohunvora/x-research-skill",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "X/Twitter research skill for Claude Code and OpenClaw. Agentic search, thread following, deep-dives, sourced briefings."
-  },
-  {
-    "repo": "Thearas/wechat-db-decrypt-macos",
-    "branch": "main",
-    "language": "Python",
-    "description": "macOS arm64 微信 4.1 数据库解密，只在最新的微信 4.1.2.241 测试过，不支持4.0 以下版本"
-  },
-  {
-    "repo": "paperclipai/paperclip",
-    "branch": "master",
-    "language": "TypeScript",
-    "description": "Open-source orchestration for zero-human companies"
-  },
-  {
-    "repo": "inspatio/worldfm",
-    "branch": "main",
-    "language": "Python",
-    "description": ""
-  },
-  {
-    "repo": "ygwyg/MAHORAGA",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "autonomous trading agent powered by social sentiment analysis and ai that learns, grows, and adapts"
-  },
-  {
-    "repo": "dev-protocoI/polymarket-copytrading-bot-sport",
-    "branch": "master",
-    "language": "TypeScript",
-    "description": "🥇Polymarket Copytrading Bot Sport🥇Polymarket copy trading bot Polymarket copytrading bot Polymarket copy trading bot Polymarket copytrading bot Polymarket copy trading bot Polymarket copytrading bot Polymarket copy trading bot Polymarket copytrading bot Polymarket copy trading bot Polymarket copytrading bot Polymarket copy trading bot Polymarket"
-  },
-  {
-    "repo": "ghostvectoracademy/DLLHijackHunter",
-    "branch": "main",
-    "language": "C#",
-    "description": "Automated DLL Hijacking Detection Tool with Zero False Positives — Discovers, filters, and canary-confirms exploitable DLL hijacks on Windows with tiered confidence scoring"
-  },
-  {
-    "repo": "ColeMurray/background-agents",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "An open-source background agent coding system"
-  },
-  {
-    "repo": "appsail/Gemini-in-Chrome",
-    "branch": "master",
-    "language": "Shell",
-    "description": ""
-  },
-  {
-    "repo": "lopespm/zig-minimal-kernel-x86",
-    "branch": "main",
-    "language": "Zig",
-    "description": "Minimal x86 Kernel - built in Zig"
+    "language": "JavaScript",
+    "description": "a fresh, modern & lightweight HTML5 game engine"
   }
 ]
