@@ -1,146 +1,146 @@
 [
   {
-    "repo": "metric-anything/metric-anything",
+    "repo": "aitradingbotspro/cryto-trading-ai-assistant",
+    "branch": "main",
+    "language": "Python",
+    "description": "AI guardian for manual crypto traders — risk monitoring, strategy validation & emotional trading detection. No trade execution."
+  },
+  {
+    "repo": "D1a0y1bb/CloverSec-CTF-Build-Dockerizer-skill",
+    "branch": "main",
+    "language": "Python",
+    "description": "四叶草安全-创研中心竞赛专用题目容器构建Skills，面向 CTF Jeopardy 的容器交付引擎：自动探测栈、生成合规题目镜像构建文件、执行规则校验并给出可修复建议，实现标准化工作流程的质量对齐。"
+  },
+  {
+    "repo": "5-m0cftvuvif/stake-monthly",
+    "branch": "main",
+    "language": "HTML",
+    "description": "Stake Monthly is one of the most discussed topics in online platform communities, loyalty systems, and crypto entertainment ecosystems. This educational guide explains how monthly reward structures, VIP progression, recurring engagement systems, and community participation models work across modern digital platforms."
+  },
+  {
+    "repo": "rohunvora/x-research-skill",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "X/Twitter research skill for Claude Code and OpenClaw. Agentic search, thread following, deep-dives, sourced briefings."
+  },
+  {
+    "repo": "ythx-101/ask-search",
+    "branch": "master",
+    "language": "Python",
+    "description": "Self-hosted web search skill for AI agents (OpenClaw/Claude Code/Antigravity) via SearxNG"
+  },
+  {
+    "repo": "michelleoincx/genspark.ai-openclaw",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "OpenClaw for genspark.ai — open-source extension that claws through every paywall and rate limit. Install in one command, run forever free."
+  },
+  {
+    "repo": "Anarkh-Lee/universal-db-mcp",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "MCP 数据库万能连接器：使用支持MCP服务协议的工具（例如：Claude Desktop、Cherry Studio等）直接连接你的数据库，用自然语言查询和分析数据"
+  },
+  {
+    "repo": "open-pencil/open-pencil",
+    "branch": "master",
+    "language": "TypeScript",
+    "description": "AI-native design editor. Open-source Figma alternative."
+  },
+  {
+    "repo": "6551Team/opentwitter-mcp",
+    "branch": "main",
+    "language": "Python",
+    "description": "Twitter/X Data · User Profiles · Tweet Search · Follower Events · KOL Tracking"
+  },
+  {
+    "repo": "deltatrader01/Polymarket-Trading-Bot",
+    "branch": "main",
+    "language": "Python",
+    "description": "Polymarket arbitrage trading bot that detects inefficiencies in 5-minute, 15-minute, and 1-hour markets. polymarket arbitrage trading bot polymarket arbitrage bot polymarket arbitrage bot polymarket arbitrage bot polymarket arbitrage bot polymarket arbitrage bot polymarket arbitrage bot"
+  },
+  {
+    "repo": "btahir/react-kino",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Cinematic scroll-driven storytelling for React"
+  },
+  {
+    "repo": "hmmhmmhm/daiso-mcp",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "내 주변 다이소/올리브영 매장을 찾고, 재고를 확인하는 기능을 AI에게 부여합니다."
+  },
+  {
+    "repo": "Perkins729/OmniXtreme",
     "branch": "main",
     "language": "Python",
     "description": ""
   },
   {
-    "repo": "github/gitignore",
-    "branch": "main",
-    "language": "Other",
-    "description": "A collection of useful .gitignore templates"
-  },
-  {
-    "repo": "ForecastForge/binance-trading-bot",
+    "repo": "HenryXiaoYang/wechat-access-unqclawed",
     "branch": "main",
     "language": "TypeScript",
-    "description": "binance trading bot · binance bot · binance AI trading bot · binance automated trading bot · binance auto trading bot · binance crypto trading bot · binance futures trading bot · binance spot trading bot · binance grid trading bot · binance bot strategy"
+    "description": "微信包装了开源项目OpenClaw，所以我们把他的Channel抽出来了😄"
   },
   {
-    "repo": "rook/rook",
-    "branch": "master",
+    "repo": "chenhg5/cc-connect",
+    "branch": "main",
     "language": "Go",
-    "description": "Storage Orchestration for Kubernetes"
+    "description": "Bridge local AI coding agents (Claude Code, Cursor, Gemini CLI, Codex) to messaging platforms (Feishu/Lark, DingTalk, Slack, Telegram, Discord, LINE, WeChat Work). Chat with your AI dev assistant from anywhere — no public IP required for most platforms."
   },
   {
-    "repo": "opencv/opencv",
-    "branch": "4.x",
-    "language": "C++",
-    "description": "Open Source Computer Vision Library"
-  },
-  {
-    "repo": "google/or-tools",
-    "branch": "stable",
-    "language": "C++",
-    "description": "Google's Operations Research tools:"
-  },
-  {
-    "repo": "gcc-mirror/gcc",
-    "branch": "master",
-    "language": "C++",
-    "description": "Mirror of the GNU Compiler Collection master repository."
-  },
-  {
-    "repo": "gravitational/teleport",
-    "branch": "master",
-    "language": "Go",
-    "description": "The easiest, and most secure way to access and protect all of your infrastructure."
-  },
-  {
-    "repo": "rs/zerolog",
-    "branch": "master",
-    "language": "Go",
-    "description": "Zero Allocation JSON Logger"
-  },
-  {
-    "repo": "pyg-team/pytorch_geometric",
-    "branch": "master",
-    "language": "Python",
-    "description": "Graph Neural Network Library for PyTorch"
-  },
-  {
-    "repo": "caddyserver/caddy",
-    "branch": "master",
-    "language": "Go",
-    "description": "Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS"
-  },
-  {
-    "repo": "public-apis/public-apis",
-    "branch": "master",
-    "language": "Python",
-    "description": "A collective list of free APIs"
-  },
-  {
-    "repo": "HubSpot/messenger",
-    "branch": "master",
-    "language": "JavaScript",
-    "description": "Growl-style alerts and messages for your app. #hubspot-open-source"
-  },
-  {
-    "repo": "freqtrade/freqtrade",
-    "branch": "develop",
-    "language": "Python",
-    "description": "Free, open source crypto trading bot"
-  },
-  {
-    "repo": "nedbat/coveragepy",
-    "branch": "master",
-    "language": "Python",
-    "description": "The code coverage tool for Python"
-  },
-  {
-    "repo": "apache/tvm",
+    "repo": "brendanhogan/hermitclaw",
     "branch": "main",
     "language": "Python",
-    "description": "Open Machine Learning Compiler Framework"
+    "description": ""
   },
   {
-    "repo": "godotengine/godot",
-    "branch": "master",
-    "language": "C++",
-    "description": "Godot Engine – Multi-platform 2D and 3D game engine"
+    "repo": "lopespm/zig-minimal-kernel-x86",
+    "branch": "main",
+    "language": "Zig",
+    "description": "Minimal x86 Kernel - built in Zig"
   },
   {
-    "repo": "InstaPy/InstaPy",
-    "branch": "master",
+    "repo": "Gentleatvice/seed-phrase-recover-BTC-ETH",
+    "branch": "main",
+    "language": "Rust",
+    "description": ""
+  },
+  {
+    "repo": "liuwei283/RealWonder",
+    "branch": "main",
     "language": "Python",
-    "description": "📷 Instagram Bot - Tool for automated Instagram interactions"
+    "description": "Real-Time Physical Action-Conditioned Video Generation"
   },
   {
-    "repo": "standardnotes/app",
+    "repo": "LeoYeAI/openclaw-guardian",
+    "branch": "main",
+    "language": "Shell",
+    "description": "🛡️ Guardian watchdog for OpenClaw Gateway — auto-monitor, self-repair via doctor --fix, git-based rollback, daily snapshots, and Discord alerts. Powered by MyClaw.ai"
+  },
+  {
+    "repo": "NikkeTryHard/zerogravity",
+    "branch": "main",
+    "language": "Shell",
+    "description": "OpenAI, Anthropic, and Gemini-compatible proxy"
+  },
+  {
+    "repo": "MeisnerDan/mission-control",
     "branch": "main",
     "language": "TypeScript",
-    "description": "Think fearlessly with end-to-end encrypted notes and files. For issues, visit https://standardnotes.com/forum or https://standardnotes.com/help."
+    "description": "Open-source task management for the agentic era. The command center for solo entrepreneurs who delegate work to AI agents."
   },
   {
-    "repo": "virattt/ai-hedge-fund",
-    "branch": "main",
-    "language": "Python",
-    "description": "An AI Hedge Fund Team"
-  },
-  {
-    "repo": "realm/SwiftLint",
+    "repo": "r1cA18/screen-commentator",
     "branch": "main",
     "language": "Swift",
-    "description": "A tool to enforce Swift style and conventions."
+    "description": "macOS app that captures your screen and generates scrolling AI comments overlay"
   },
   {
-    "repo": "formik/formik",
+    "repo": "ClawBio/ClawBio",
     "branch": "main",
-    "language": "TypeScript",
-    "description": "Build forms in React, without the tears 😭"
-  },
-  {
-    "repo": "helm/helm-www",
-    "branch": "main",
-    "language": "MDX",
-    "description": "The Helm website for docs, blog and project info."
-  },
-  {
-    "repo": "melonjs/melonJS",
-    "branch": "master",
-    "language": "JavaScript",
-    "description": "a fresh, modern & lightweight HTML5 game engine"
+    "language": "Python",
+    "description": "🦖 ClawBio — The first bioinformatics-native AI agent skill library. Local-first. Reproducible. Built on OpenClaw."
   }
 ]

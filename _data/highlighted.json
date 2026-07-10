@@ -1,8 +1,8 @@
 {
-  "repo": "ai-twinkle/rlhf-book-zh-tw",
+  "repo": "Leo1998-Lu/ai-paper2slide-skill",
   "branch": "main",
-  "language": "HTML",
-  "description": "《Reinforcement Learning from Human Feedback》繁體中文全譯本＋每章互動實驗 | Unofficial zh-TW community translation of the RLHF Book with interactive labs",
-  "stars": 119,
-  "forks": 24
+  "language": "Python",
+  "description": "Conference-Grade Paper-to-Slide Generation for AI Research.",
+  "stars": 126,
+  "forks": 2
 }
