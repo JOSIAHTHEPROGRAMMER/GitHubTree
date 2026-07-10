@@ -1,146 +1,146 @@
 [
   {
-    "repo": "Code-Leafy/G2rayXCodeLeafy",
+    "repo": "jnsahaj/gazectl",
     "branch": "main",
+    "language": "Swift",
+    "description": "Head tracking display focus switcher for macOS"
+  },
+  {
+    "repo": "shenhao-stu/openclaw-agents",
+    "branch": "main",
+    "language": "Shell",
+    "description": "🐾 One-command multi-agent setup for OpenClaw — 9 specialized AI agents, group routing, safe config merge."
+  },
+  {
+    "repo": "CraftyGeezer/Kalshi-Polymarket-Ai-bot",
+    "branch": "main",
+    "language": "Python",
+    "description": ""
+  },
+  {
+    "repo": "0xsouravm/oxichrome",
+    "branch": "main",
+    "language": "Rust",
+    "description": "Framework to build Chrome extensions entirely in Rust with proc macros, type-safe Chrome API bindings, and Leptos for reactive UI. Compiles to WebAssembly with zero hand-written JavaScript."
+  },
+  {
+    "repo": "aikhe/wrapped.nvim",
+    "branch": "master",
+    "language": "Lua",
+    "description": "View your Neovim configuration insights, history, and heatmaps."
+  },
+  {
+    "repo": "HKUDS/MoChat",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "MoChat: Reconnecting the World through AI Agents (OpenClaw & nanobot & ClaudeCode) https://mochat.io"
+  },
+  {
+    "repo": "RuizeLyu/paper-dl",
+    "branch": "main",
+    "language": "Python",
+    "description": "Download arxiv PDFs from PaSa search results for local AI-powered literature analysis."
+  },
+  {
+    "repo": "HarnessLab/claw-code-agent",
+    "branch": "main",
+    "language": "Python",
+    "description": "Claw Code No Rust No TypeScript Only Python. Easy to work with. Fast to iterate. 🔥 Zero external dependencies 🔥"
+  },
+  {
+    "repo": "supermemoryai/openclaw-supermemory",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Supermemory allows Clawdbot / Molt bot to have PERFECT memory and recall for their own personal agent."
+  },
+  {
+    "repo": "javaevolved/javaevolved.github.io",
+    "branch": "main",
+    "language": "HTML",
+    "description": "Java Evolved. Your Code Can Evolve Too!"
+  },
+  {
+    "repo": "lukilabs/beautiful-mermaid",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": ""
+  },
+  {
+    "repo": "dev-protocol/Polymarket-Trading-Bot-with-Synth-AI",
+    "branch": "main",
+    "language": "Rust",
+    "description": "Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot"
+  },
+  {
+    "repo": "epiral/agent-clip",
+    "branch": "main",
+    "language": "Go",
+    "description": "AI Agent as a Pinix Clip — agentic loop with memory, tools, and vision"
+  },
+  {
+    "repo": "jmuncor/sherlock",
+    "branch": "main",
+    "language": "Python",
+    "description": "Intercept LLM API traffic and visualize token usage in a real-time terminal dashboard. Track costs,       debug prompts, and monitor context window usage across your AI development sessions."
+  },
+  {
+    "repo": "rohunvora/x-research-skill",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "X/Twitter research skill for Claude Code and OpenClaw. Agentic search, thread following, deep-dives, sourced briefings."
+  },
+  {
+    "repo": "Thearas/wechat-db-decrypt-macos",
+    "branch": "main",
+    "language": "Python",
+    "description": "macOS arm64 微信 4.1 数据库解密，只在最新的微信 4.1.2.241 测试过，不支持4.0 以下版本"
+  },
+  {
+    "repo": "paperclipai/paperclip",
+    "branch": "master",
+    "language": "TypeScript",
+    "description": "Open-source orchestration for zero-human companies"
+  },
+  {
+    "repo": "inspatio/worldfm",
+    "branch": "main",
+    "language": "Python",
+    "description": ""
+  },
+  {
+    "repo": "ygwyg/MAHORAGA",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "autonomous trading agent powered by social sentiment analysis and ai that learns, grows, and adapts"
+  },
+  {
+    "repo": "dev-protocoI/polymarket-copytrading-bot-sport",
+    "branch": "master",
+    "language": "TypeScript",
+    "description": "🥇Polymarket Copytrading Bot Sport🥇Polymarket copy trading bot Polymarket copytrading bot Polymarket copy trading bot Polymarket copytrading bot Polymarket copy trading bot Polymarket copytrading bot Polymarket copy trading bot Polymarket copytrading bot Polymarket copy trading bot Polymarket copytrading bot Polymarket copy trading bot Polymarket"
+  },
+  {
+    "repo": "ghostvectoracademy/DLLHijackHunter",
+    "branch": "main",
+    "language": "C#",
+    "description": "Automated DLL Hijacking Detection Tool with Zero False Positives — Discovers, filters, and canary-confirms exploitable DLL hijacks on Windows with tiered confidence scoring"
+  },
+  {
+    "repo": "ColeMurray/background-agents",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "An open-source background agent coding system"
+  },
+  {
+    "repo": "appsail/Gemini-in-Chrome",
+    "branch": "master",
     "language": "Shell",
     "description": ""
   },
   {
-    "repo": "sumawan-bmkg/Vortex-Luna-2",
+    "repo": "lopespm/zig-minimal-kernel-x86",
     "branch": "main",
-    "language": "Python",
-    "description": "Luna-Vortex (2026) — Professional Discord Multi-Tool & Stress Tester."
-  },
-  {
-    "repo": "diffusionstudio/lottie",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Open-source skill and harness for generating production ready Lottie animations with codex/claude code"
-  },
-  {
-    "repo": "tony-cote/walletgen",
-    "branch": "main",
-    "language": "C++",
-    "description": "WalletGen - Seed phrase generator and finder for Bitcoin, EVM (Ethereum) wallets. Recovery your lost BTC or ETH wallet via private key / seed phrase generation."
-  },
-  {
-    "repo": "NagaaSaketh/Blox-Fruits-Dragon-Update-Auto-Farm-Script-2026-Ultimate",
-    "branch": "main",
-    "language": "Python",
-    "description": "Auto farm, ESP, and raid script for Blox Fruits Dragon Update 2026 – Ultimate edition. Level up, farm bosses, and dominate PvP with this undetected trainer."
-  },
-  {
-    "repo": "AdilMir1433/DBD-AutoGrind-Trainer-2026-Elite",
-    "branch": "main",
-    "language": "Python",
-    "description": "Ultimate Dead by Daylight auto-grind trainer Elite edition with Bloodpoint bot, ESP wallhack, aimbot, and full perk/skin unlocker. Dominate the Fog with our 2026 undetected external tool."
-  },
-  {
-    "repo": "70478581-max/bamboohr-desktop-integration-hub",
-    "branch": "main",
-    "language": "HTML",
-    "description": "BambooHR Desktop App 2026 for Windows HR Management"
-  },
-  {
-    "repo": "blknoiz0632/CandyDrop",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "Cut the rope. Feed the monster. Earn real Solana. A skill-based play-to-earn puzzle on @Solana — play, stack $CANDY, claim SOL. No wagers. Just skill."
-  },
-  {
-    "repo": "lidge-jun/opencodex",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Universal provider proxy for OpenAI Codex — use any LLM with Codex CLI, App, and SDK"
-  },
-  {
-    "repo": "samasante/liquid-glass",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Apple-style Liquid Glass for the web — a headless React lens that refracts the live DOM in Safari, Firefox and Chrome. Zero dependencies."
-  },
-  {
-    "repo": "catsing/oot-pc-port",
-    "branch": "main",
-    "language": "C#",
-    "description": "ocarina of time pc port ship of harkinian oot native pc port harbour masters github decompilation project rom extraction asset compiler widescreen support 60fps unlocked framerate hd texture pack custom models randomizer built in retro gaming nintendo 64 pc gaming desktop utility linux macos steam deck compatible graphics enhancement"
-  },
-  {
-    "repo": "HKUDS/AgentSpace",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "AgentSpace: Human + Agents. One Team. One Workspace"
-  },
-  {
-    "repo": "egorpavlov0/Flash-USDT-Sender",
-    "branch": "main",
-    "language": "Python",
-    "description": "Flash USDT Sender — Multi-network flash transaction tool for USDT, BTC, and ETH with configurable duration, custom gas settings, ERC-20/TRC-20/BEP-20 support, and block explorer-visible confirmations"
-  },
-  {
-    "repo": "Johell1NS/browser-search",
-    "branch": "master",
-    "language": "JavaScript",
-    "description": "A skill for AI agents: search the web with SearXNG, browse with Camofox, bypass protections with CloakBrowser. Self-hosted, free, unlimited."
-  },
-  {
-    "repo": "tdeverx/contained-app",
-    "branch": "nightly",
-    "language": "Swift",
-    "description": "A native macOS app for Apple's Container CLI"
-  },
-  {
-    "repo": "khwarij/DBD-AutoGrind-Trainer-2026",
-    "branch": "main",
-    "language": "Python",
-    "description": "Ultimate Dead by Daylight auto-grind trainer with Bloodpoint bot, ESP wallhack, aimbot, and full perk/skin unlocker. Dominate the Fog with our 2026 undetected external tool."
-  },
-  {
-    "repo": "perglervitek/Hades-II-Trainer-Turbo",
-    "branch": "main",
-    "language": "Python",
-    "description": "Hades II Trainer 2026 – the most powerful cheat collection. Get unlimited everything, one-hit kills, no cooldowns and more."
-  },
-  {
-    "repo": "perglervitek/Blox-Fruits-Dragon-Update-Auto-Farm-Script-2026-Pro",
-    "branch": "main",
-    "language": "Python",
-    "description": "Maximize your progress in Blox Fruits with this Pro trainer – auto farm, ESP, raid, and anti‑ban included."
-  },
-  {
-    "repo": "usaid-anxari/Roblox_Tower_Defense_Simulator_Auto-Farm",
-    "branch": "main",
-    "language": "Python",
-    "description": "Auto-place towers, auto-farm, and auto-upgrade for Tower Defense Simulator. Automatically place towers, upgrade, and survive waves."
-  },
-  {
-    "repo": "PMTraderAdam/pm-copy-trader",
-    "branch": "master",
-    "language": "TypeScript",
-    "description": ""
-  },
-  {
-    "repo": "kumuterke/Slack_Automation_Bot",
-    "branch": "main",
-    "language": "Python",
-    "description": "Auto-respond, schedule messages, and manage channels. Reply to messages, schedule posts, add/remove users, and automate tasks. Improve team productivity."
-  },
-  {
-    "repo": "HuiyuLi-2000/Chinese-Grant-Writer-Skills",
-    "branch": "main",
-    "language": "Python",
-    "description": "面向 NSFC、NSSFC、省部级自/社科申请书的 AI 写作技能集。从近 20 本管理口申请书中提炼写作范式，覆盖核心撰写环节。"
-  },
-  {
-    "repo": "AdilMir1433/DBD-AutoGrind-Trainer-2026-Max",
-    "branch": "main",
-    "language": "Python",
-    "description": "Ultimate Dead by Daylight auto-grind trainer Max edition with Bloodpoint bot, ESP wallhack, aimbot, and full perk/skin unlocker. Dominate the Fog with our 2026 undetected external tool."
-  },
-  {
-    "repo": "MuhammadHanzalaIqbal/Hades-II-Trainer-Platinum",
-    "branch": "main",
-    "language": "Python",
-    "description": "Unlock the full potential of Hades II with this free trainer. Features include God Mode, infinite gold, all resources, and speed hack."
+    "language": "Zig",
+    "description": "Minimal x86 Kernel - built in Zig"
   }
 ]
