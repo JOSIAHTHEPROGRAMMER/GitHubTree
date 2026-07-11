@@ -1,8 +1,8 @@
 {
-  "repo": "thatmagicalcat/txm",
+  "repo": "KORAYTEACHER/fintech-advisor",
   "branch": "main",
-  "language": "Rust",
-  "description": "Terminal Math rendering engine",
-  "stars": 194,
-  "forks": 9
+  "language": "TypeScript",
+  "description": "ai fintech financial advisor for your portfolio",
+  "stars": 154,
+  "forks": 528
 }
