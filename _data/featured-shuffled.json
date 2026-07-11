@@ -1,146 +1,146 @@
 [
   {
-    "repo": "ikeda042/PhenoPixel",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "An OpenCV based image analysis web application (Deployed at Hiroshima University)"
-  },
-  {
-    "repo": "tj/commander.js",
+    "repo": "CMU-Perceptual-Computing-Lab/openpose",
     "branch": "master",
-    "language": "JavaScript",
-    "description": "node.js command-line interfaces made easy"
+    "language": "C++",
+    "description": "OpenPose: Real-time multi-person keypoint detection library for body, face, hands, and foot estimation"
   },
   {
-    "repo": "iCHAIT/awesome-macOS",
-    "branch": "master",
-    "language": "Other",
-    "description": " A curated list of awesome applications, softwares, tools and shiny things for macOS."
-  },
-  {
-    "repo": "sweetalert2/sweetalert2",
+    "repo": "FFF686868/proxypin-wloc-spoofer",
     "branch": "main",
     "language": "JavaScript",
-    "description": "✨ A beautiful, responsive, highly customizable and accessible (WAI-ARIA) replacement for JavaScript's popup boxes. Zero dependencies. 🇺🇦🇪🇺"
+    "description": "ProxyPin script for authorized iOS Apple WLOC response rewriting tests"
   },
   {
-    "repo": "joshavant/clawbox",
+    "repo": "WebAssembly/spec",
     "branch": "main",
-    "language": "Python",
-    "description": "OpenClaw-ready macOS VMs"
+    "language": "WebAssembly",
+    "description": "WebAssembly specification, reference interpreter, and test suite."
   },
   {
-    "repo": "op7418/Document-illustrator-skill",
-    "branch": "main",
-    "language": "Python",
-    "description": "帮你从文档生成对应的多张配图，内置了歸藏精心探索的图片风格，支持 16:9 和 3:4 两种比例，方便发小红书以及推特。"
-  },
-  {
-    "repo": "Higangssh/gitcredits",
+    "repo": "tektoncd/cli",
     "branch": "main",
     "language": "Go",
-    "description": "Roll movie-style credits for your git repo — right in the terminal"
+    "description": "A CLI for interacting with Tekton!"
   },
   {
-    "repo": "DataDog/datadog-agent",
-    "branch": "main",
-    "language": "Go",
-    "description": "Main repository for Datadog Agent"
-  },
-  {
-    "repo": "lapce/lapce",
+    "repo": "rustwasm/wasm-pack",
     "branch": "master",
     "language": "Rust",
-    "description": "Lightning-fast and Powerful Code Editor written in Rust"
+    "description": "📦✨ your favorite rust -> wasm workflow tool!"
   },
   {
-    "repo": "danveloper/flash-moe",
-    "branch": "main",
-    "language": "Objective-C",
-    "description": "Running a big model on a small laptop"
-  },
-  {
-    "repo": "huggingface/trl",
-    "branch": "main",
-    "language": "Python",
-    "description": "Train transformer language models with reinforcement learning."
-  },
-  {
-    "repo": "jimuzhe/tiez-clipboard",
-    "branch": "master",
-    "language": "TypeScript",
-    "description": "TieZ 是一款基于 Tauri 的跨平台剪贴板管理器 / A cross-platform clipboard manager with history, tags, sync, privacy protection, and fast daily workflows."
-  },
-  {
-    "repo": "total-typescript/ts-reset",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "A 'CSS reset' for TypeScript, improving types for common JavaScript API's"
-  },
-  {
-    "repo": "MapleShaw/yt-dlp-downloader-skill",
-    "branch": "master",
-    "language": "Shell",
-    "description": "Cursor Agent Skill for downloading videos using yt-dlp"
-  },
-  {
-    "repo": "Jiangzy520/DreamleStockRadar",
-    "branch": "main",
-    "language": "Python",
-    "description": "A VNPY-based quant desktop platform with an AllTick-powered A-share realtime scanner and web dashboard"
-  },
-  {
-    "repo": "BruceLanLan/bruceblue-ghostty-config",
-    "branch": "main",
-    "language": "Makefile",
-    "description": "我的Ghostty终极配置 - Claude最佳伴侣（零报错版）"
-  },
-  {
-    "repo": "epiral/agent-clip",
+    "repo": "rancher/k3d",
     "branch": "main",
     "language": "Go",
-    "description": "AI Agent as a Pinix Clip — agentic loop with memory, tools, and vision"
+    "description": "Little helper to run CNCF's k3s in Docker"
   },
   {
-    "repo": "xunchahaha/mi_nobl_root",
+    "repo": "google/zx",
     "branch": "main",
-    "language": "Shell",
-    "description": "小米免解bl的ksu+lsp方案"
+    "language": "JavaScript",
+    "description": "A tool for writing better scripts"
   },
   {
-    "repo": "harlan-zw/vue-ecosystem-skills",
-    "branch": "main",
-    "language": "MDX",
-    "description": "AI agent skills for the bleeding edge Vue ecosystem. Built from real docs, issues, and releases."
+    "repo": "openfaas/faas",
+    "branch": "master",
+    "language": "Go",
+    "description": "OpenFaaS - Serverless Functions Made Simple"
   },
   {
-    "repo": "byJoey/openclawctl",
+    "repo": "starkware-libs/cairo",
     "branch": "main",
-    "language": "Shell",
+    "language": "Rust",
+    "description": "Cairo is the first Turing-complete language for creating provable programs for general computation."
+  },
+  {
+    "repo": "nomic-ai/gpt4all",
+    "branch": "main",
+    "language": "C++",
+    "description": "GPT4All: Run Local LLMs on Any Device. Open-source and available for commercial use."
+  },
+  {
+    "repo": "neroundimasamp64/Stabilized-Internet-Connection",
+    "branch": "main",
+    "language": "C++",
+    "description": "Full Version Accelerator with Lifetime Integration & High-Speed Unlocking."
+  },
+  {
+    "repo": "taf2/mdvi",
+    "branch": "master",
+    "language": "Rust",
+    "description": "cli based Markdown viewer"
+  },
+  {
+    "repo": "Frikallo/parakeet.cpp",
+    "branch": "main",
+    "language": "C++",
+    "description": "Ultra fast and portable Parakeet implementation for on-device inference in C++ using Axiom with MPS+Unified Memory and Cuda support"
+  },
+  {
+    "repo": "HKUDS/FastCode",
+    "branch": "main",
+    "language": "Python",
+    "description": "FastCode: Accelerating and Streamlining Your Code Understanding"
+  },
+  {
+    "repo": "olvvier/apple-silicon-accelerometer",
+    "branch": "main",
+    "language": "Python",
+    "description": "reading the undocumented mems accelerometer on apple silicon macbooks via iokit hid"
+  },
+  {
+    "repo": "win4r/team-tasks",
+    "branch": "master",
+    "language": "Python",
+    "description": "Multi-agent pipeline coordination: Linear, DAG, and Debate modes for AI agent orchestration"
+  },
+  {
+    "repo": "sebastianvkl/pizero-openclaw",
+    "branch": "main",
+    "language": "Python",
     "description": ""
   },
   {
-    "repo": "brackets-cont/brackets",
+    "repo": "disler/pi-vs-claude-code",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Comparison between open source PI agent and closed source Claude Code agent"
+  },
+  {
+    "repo": "GHJJ123/brainrotguard",
+    "branch": "main",
+    "language": "Python",
+    "description": "YouTube approval system for kids — parent approves via Telegram, kid watches via web UI"
+  },
+  {
+    "repo": "nguyenduchoai/bizclaw",
     "branch": "master",
-    "language": "JavaScript",
-    "description": "An open source code editor for the web, written in JavaScript, HTML and CSS."
+    "language": "Rust",
+    "description": "BizClaw là nền tảng AI Agent kiến trúc trait-driven, có thể chạy mọi nơi — từ Raspberry Pi đến cloud server. Hỗ trợ nhiều LLM provider, kênh giao tiếp, và công cụ thông qua kiến trúc thống nhất, hoán đổi được."
   },
   {
-    "repo": "vkehfdl1/slides-grab",
+    "repo": "v2fly/v2ray-core",
+    "branch": "master",
+    "language": "Go",
+    "description": "A platform for building proxies to bypass network restrictions."
+  },
+  {
+    "repo": "unjs/h3",
     "branch": "main",
-    "language": "JavaScript",
-    "description": "Select context for agents directly from AI-generated HTML slides"
+    "language": "TypeScript",
+    "description": "⚡️ Minimal H(TTP) framework built for high performance and portability"
   },
   {
-    "repo": "xjtulyc/MedgeClaw",
+    "repo": "trimstray/the-book-of-secret-knowledge",
+    "branch": "master",
+    "language": "Other",
+    "description": "A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more."
+  },
+  {
+    "repo": "microsoft/wslg",
     "branch": "main",
-    "language": "HTML",
-    "description": "Medge AI X OpenClaw"
-  },
-  {
-    "repo": "arendst/Tasmota",
-    "branch": "development",
-    "language": "C",
-    "description": "Alternative firmware for ESP8266 and ESP32 based devices with easy configuration using webUI, OTA updates, automation using timers or rules, expandability and entirely local control over MQTT, HTTP, Serial or KNX. Full documentation at"
+    "language": "C++",
+    "description": "Enabling the Windows Subsystem for Linux to include support for Wayland and X server related scenarios"
   }
 ]

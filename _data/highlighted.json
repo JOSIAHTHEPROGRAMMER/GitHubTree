@@ -1,8 +1,8 @@
 {
-  "repo": "osama-fawad/Pekingman",
+  "repo": "KORAYTEACHER/fintech-advisor",
   "branch": "main",
-  "language": "HTML",
-  "description": "A featured project on GitHubTree.",
-  "stars": 152,
-  "forks": 3
+  "language": "TypeScript",
+  "description": "ai fintech financial advisor for your portfolio",
+  "stars": 151,
+  "forks": 520
 }
