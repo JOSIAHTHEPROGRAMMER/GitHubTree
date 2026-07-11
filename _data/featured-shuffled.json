@@ -1,146 +1,146 @@
 [
   {
-    "repo": "kepengxu/PRISM-VL",
-    "branch": "main",
-    "language": "Python",
-    "description": "PRISM-VL studies measurement-grounded VLM learning with RAW-derived Meas.-XYZ inputs, camera-conditioned grounding, and exposure-bracketed supervision transfer."
-  },
-  {
-    "repo": "timwuhaotian/the-pair",
+    "repo": "ikeda042/PhenoPixel",
     "branch": "main",
     "language": "TypeScript",
-    "description": "The Pair - Automated pair programming — grab a coffee while two AI agents cross-check each other's work"
+    "description": "An OpenCV based image analysis web application (Deployed at Hiroshima University)"
   },
   {
-    "repo": "jlevy/the-art-of-command-line",
+    "repo": "tj/commander.js",
+    "branch": "master",
+    "language": "JavaScript",
+    "description": "node.js command-line interfaces made easy"
+  },
+  {
+    "repo": "iCHAIT/awesome-macOS",
     "branch": "master",
     "language": "Other",
-    "description": "Master the command line, in one page"
+    "description": " A curated list of awesome applications, softwares, tools and shiny things for macOS."
   },
   {
-    "repo": "Johnixr/claude-code-wechat-channel",
+    "repo": "sweetalert2/sweetalert2",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "✨ A beautiful, responsive, highly customizable and accessible (WAI-ARIA) replacement for JavaScript's popup boxes. Zero dependencies. 🇺🇦🇪🇺"
+  },
+  {
+    "repo": "joshavant/clawbox",
+    "branch": "main",
+    "language": "Python",
+    "description": "OpenClaw-ready macOS VMs"
+  },
+  {
+    "repo": "op7418/Document-illustrator-skill",
+    "branch": "main",
+    "language": "Python",
+    "description": "帮你从文档生成对应的多张配图，内置了歸藏精心探索的图片风格，支持 16:9 和 3:4 两种比例，方便发小红书以及推特。"
+  },
+  {
+    "repo": "Higangssh/gitcredits",
+    "branch": "main",
+    "language": "Go",
+    "description": "Roll movie-style credits for your git repo — right in the terminal"
+  },
+  {
+    "repo": "DataDog/datadog-agent",
+    "branch": "main",
+    "language": "Go",
+    "description": "Main repository for Datadog Agent"
+  },
+  {
+    "repo": "lapce/lapce",
+    "branch": "master",
+    "language": "Rust",
+    "description": "Lightning-fast and Powerful Code Editor written in Rust"
+  },
+  {
+    "repo": "danveloper/flash-moe",
+    "branch": "main",
+    "language": "Objective-C",
+    "description": "Running a big model on a small laptop"
+  },
+  {
+    "repo": "huggingface/trl",
+    "branch": "main",
+    "language": "Python",
+    "description": "Train transformer language models with reinforcement learning."
+  },
+  {
+    "repo": "jimuzhe/tiez-clipboard",
+    "branch": "master",
+    "language": "TypeScript",
+    "description": "TieZ 是一款基于 Tauri 的跨平台剪贴板管理器 / A cross-platform clipboard manager with history, tags, sync, privacy protection, and fast daily workflows."
+  },
+  {
+    "repo": "total-typescript/ts-reset",
     "branch": "main",
     "language": "TypeScript",
-    "description": "Claude Code Channel plugin for WeChat — bridge WeChat messages into Claude Code sessions via the official ClawBot ilink API"
+    "description": "A 'CSS reset' for TypeScript, improving types for common JavaScript API's"
+  },
+  {
+    "repo": "MapleShaw/yt-dlp-downloader-skill",
+    "branch": "master",
+    "language": "Shell",
+    "description": "Cursor Agent Skill for downloading videos using yt-dlp"
+  },
+  {
+    "repo": "Jiangzy520/DreamleStockRadar",
+    "branch": "main",
+    "language": "Python",
+    "description": "A VNPY-based quant desktop platform with an AllTick-powered A-share realtime scanner and web dashboard"
+  },
+  {
+    "repo": "BruceLanLan/bruceblue-ghostty-config",
+    "branch": "main",
+    "language": "Makefile",
+    "description": "我的Ghostty终极配置 - Claude最佳伴侣（零报错版）"
+  },
+  {
+    "repo": "epiral/agent-clip",
+    "branch": "main",
+    "language": "Go",
+    "description": "AI Agent as a Pinix Clip — agentic loop with memory, tools, and vision"
+  },
+  {
+    "repo": "xunchahaha/mi_nobl_root",
+    "branch": "main",
+    "language": "Shell",
+    "description": "小米免解bl的ksu+lsp方案"
+  },
+  {
+    "repo": "harlan-zw/vue-ecosystem-skills",
+    "branch": "main",
+    "language": "MDX",
+    "description": "AI agent skills for the bleeding edge Vue ecosystem. Built from real docs, issues, and releases."
+  },
+  {
+    "repo": "byJoey/openclawctl",
+    "branch": "main",
+    "language": "Shell",
+    "description": ""
+  },
+  {
+    "repo": "brackets-cont/brackets",
+    "branch": "master",
+    "language": "JavaScript",
+    "description": "An open source code editor for the web, written in JavaScript, HTML and CSS."
+  },
+  {
+    "repo": "vkehfdl1/slides-grab",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "Select context for agents directly from AI-generated HTML slides"
+  },
+  {
+    "repo": "xjtulyc/MedgeClaw",
+    "branch": "main",
+    "language": "HTML",
+    "description": "Medge AI X OpenClaw"
   },
   {
     "repo": "arendst/Tasmota",
     "branch": "development",
     "language": "C",
     "description": "Alternative firmware for ESP8266 and ESP32 based devices with easy configuration using webUI, OTA updates, automation using timers or rules, expandability and entirely local control over MQTT, HTTP, Serial or KNX. Full documentation at"
-  },
-  {
-    "repo": "redux-saga/redux-saga",
-    "branch": "master",
-    "language": "JavaScript",
-    "description": "An alternative side effect model for Redux apps"
-  },
-  {
-    "repo": "Minecraft-Community-Edition/client",
-    "branch": "main",
-    "language": "C++",
-    "description": "Whispers LCE Client"
-  },
-  {
-    "repo": "kamranahmedse/developer-roadmap",
-    "branch": "master",
-    "language": "TypeScript",
-    "description": "Interactive roadmaps, guides and other educational content to help developers grow in their careers."
-  },
-  {
-    "repo": "apache/beam",
-    "branch": "master",
-    "language": "Java",
-    "description": "Apache Beam is a unified programming model for Batch and Streaming data processing."
-  },
-  {
-    "repo": "r3nzsec/irflow-timeline",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "DFIR Timeline Analysis for macOS — SQLite-backed viewer for CSV, TSV, XLSX, EVTX, and Plaso files with built-in process inspection, lateral movement tracking, and persistence detection."
-  },
-  {
-    "repo": "tensorflow/agents",
-    "branch": "master",
-    "language": "Python",
-    "description": "TF-Agents: A reliable, scalable and easy to use TensorFlow library for Contextual Bandits and Reinforcement Learning."
-  },
-  {
-    "repo": "ahmadawais/terminui",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Super fast double buffered toolkit for building terminal UIs."
-  },
-  {
-    "repo": "NoobyGains/claude-pulse",
-    "branch": "master",
-    "language": "Python",
-    "description": "Real-time usage monitor for Claude Code — session limits, weekly limits, and plan tier with colour-coded progress bars"
-  },
-  {
-    "repo": "timescale/timescaledb",
-    "branch": "main",
-    "language": "C",
-    "description": "A time-series database for high-performance real-time analytics packaged as a Postgres extension"
-  },
-  {
-    "repo": "tensorflow/tfx",
-    "branch": "master",
-    "language": "Python",
-    "description": "TFX is an end-to-end platform for deploying production ML pipelines"
-  },
-  {
-    "repo": "remorses/usecomputer",
-    "branch": "main",
-    "language": "Zig",
-    "description": "Fast computer automation CLI for AI agents. Control any desktop with accessibility snapshots, clicks, typing, scrolling, and more."
-  },
-  {
-    "repo": "NVIDIA/cudnn-frontend",
-    "branch": "main",
-    "language": "C++",
-    "description": "cudnn_frontend provides a c++ wrapper for the cudnn backend API and samples on how to use it"
-  },
-  {
-    "repo": "elastic/elasticsearch",
-    "branch": "main",
-    "language": "Java",
-    "description": "Free and Open Source, Distributed, RESTful Search Engine"
-  },
-  {
-    "repo": "ringhyacinth/Star-Office-UI",
-    "branch": "master",
-    "language": "HTML",
-    "description": ""
-  },
-  {
-    "repo": "OpenMOSS/MOVA",
-    "branch": "main",
-    "language": "Python",
-    "description": "MOVA: Towards Scalable and Synchronized Video–Audio Generation"
-  },
-  {
-    "repo": "reduxjs/redux-toolkit",
-    "branch": "master",
-    "language": "TypeScript",
-    "description": "The official, opinionated, batteries-included toolset for efficient Redux development"
-  },
-  {
-    "repo": "newrelic/newrelic-python-agent",
-    "branch": "main",
-    "language": "Python",
-    "description": "New Relic Python Agent"
-  },
-  {
-    "repo": "docker/compose",
-    "branch": "main",
-    "language": "Go",
-    "description": "Define and run multi-container applications with Docker"
-  },
-  {
-    "repo": "anl331/goey-toast",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "A gooey, morphing toast component built on Sonner with Framer Motion animations"
   }
 ]
