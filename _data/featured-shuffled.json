@@ -1,146 +1,146 @@
 [
   {
-    "repo": "CMU-Perceptual-Computing-Lab/openpose",
-    "branch": "master",
+    "repo": "pvpoxx/PrismLauncherCrackedEly",
+    "branch": "main",
     "language": "C++",
-    "description": "OpenPose: Real-time multi-person keypoint detection library for body, face, hands, and foot estimation"
+    "description": "Download Prism Launcher with Ely.by Launcher 'unblock' the use of Offline Accounts, disabling the restriction of having a functional Online Account."
   },
   {
-    "repo": "FFF686868/proxypin-wloc-spoofer",
-    "branch": "main",
+    "repo": "dagster-io/dagster",
+    "branch": "master",
+    "language": "Python",
+    "description": "An orchestration platform for the development, production, and observation of data assets."
+  },
+  {
+    "repo": "mochajs/mocha",
+    "branch": "master",
     "language": "JavaScript",
-    "description": "ProxyPin script for authorized iOS Apple WLOC response rewriting tests"
+    "description": "☕️ Classic, reliable, trusted test framework for Node.js and the browser"
   },
   {
-    "repo": "WebAssembly/spec",
+    "repo": "tnbeznlacut/sora2-watermark-deleter-windows-macos",
     "branch": "main",
-    "language": "WebAssembly",
-    "description": "WebAssembly specification, reference interpreter, and test suite."
+    "language": "Python",
+    "description": "sora2 watermark deleter windows macos"
   },
   {
-    "repo": "tektoncd/cli",
+    "repo": "plausible/analytics",
+    "branch": "master",
+    "language": "Elixir",
+    "description": "Simple, open source, lightweight and privacy-friendly web analytics alternative to Google Analytics."
+  },
+  {
+    "repo": "OmniSVG/OmniSVG",
     "branch": "main",
-    "language": "Go",
-    "description": "A CLI for interacting with Tekton!"
+    "language": "Python",
+    "description": "[NeurIPS 2025] OmniSVG is the first family of end-to-end multimodal SVG generators that leverage pre-trained Vision-Language Models (VLMs), capable of generating complex and detailed SVGs, from simple icons to intricate anime characters."
   },
   {
-    "repo": "rustwasm/wasm-pack",
+    "repo": "maybe-finance/maybe",
+    "branch": "main",
+    "language": "Ruby",
+    "description": "The personal finance app for everyone"
+  },
+  {
+    "repo": "wassim249/fastapi-langgraph-agent-production-ready-template",
+    "branch": "main",
+    "language": "Python",
+    "description": "A production-ready FastAPI template for building AI agent applications with LangGraph integration. This template provides a robust foundation for building scalable, secure, and maintainable AI agent services."
+  },
+  {
+    "repo": "Anduin2017/HowToCook",
+    "branch": "master",
+    "language": "Dockerfile",
+    "description": "程序员在家做饭方法指南。Programmer's guide about how to cook at home (Simplified Chinese only)."
+  },
+  {
+    "repo": "matrix-org/matrix-js-sdk",
+    "branch": "develop",
+    "language": "TypeScript",
+    "description": "Matrix Client-Server SDK for JavaScript"
+  },
+  {
+    "repo": "ossu/computer-science",
+    "branch": "master",
+    "language": "HTML",
+    "description": "🎓 Path to a free self-taught education in Computer Science!"
+  },
+  {
+    "repo": "vanna-ai/vanna",
+    "branch": "main",
+    "language": "Python",
+    "description": "🤖 Chat with your SQL database 📊. Accurate Text-to-SQL Generation via LLMs using Agentic Retrieval 🔄."
+  },
+  {
+    "repo": "clockworklabs/SpacetimeDB",
     "branch": "master",
     "language": "Rust",
-    "description": "📦✨ your favorite rust -> wasm workflow tool!"
+    "description": "Multiplayer at the speed of light"
   },
   {
-    "repo": "rancher/k3d",
+    "repo": "Henrygd/Beszel",
     "branch": "main",
     "language": "Go",
-    "description": "Little helper to run CNCF's k3s in Docker"
+    "description": "Lightweight server monitoring hub with historical data, docker stats, and alerts."
   },
   {
-    "repo": "google/zx",
+    "repo": "GoogleContainerTools/kaniko",
     "branch": "main",
-    "language": "JavaScript",
-    "description": "A tool for writing better scripts"
+    "language": "Go",
+    "description": "Build Container Images In Kubernetes"
   },
   {
-    "repo": "openfaas/faas",
+    "repo": "dapr/dapr",
     "branch": "master",
     "language": "Go",
-    "description": "OpenFaaS - Serverless Functions Made Simple"
+    "description": "Dapr is a portable runtime for building distributed applications across cloud and edge, combining event-driven architecture with workflow orchestration."
   },
   {
-    "repo": "starkware-libs/cairo",
+    "repo": "kubernetes-sigs/metrics-server",
+    "branch": "master",
+    "language": "Go",
+    "description": "Scalable and efficient source of container resource metrics for Kubernetes built-in autoscaling pipelines."
+  },
+  {
+    "repo": "Mufeedvh/Code2Prompt",
     "branch": "main",
     "language": "Rust",
-    "description": "Cairo is the first Turing-complete language for creating provable programs for general computation."
+    "description": "A CLI tool to convert your codebase into a single LLM prompt with source tree, prompt templating, and token counting."
   },
   {
-    "repo": "nomic-ai/gpt4all",
-    "branch": "main",
-    "language": "C++",
-    "description": "GPT4All: Run Local LLMs on Any Device. Open-source and available for commercial use."
-  },
-  {
-    "repo": "neroundimasamp64/Stabilized-Internet-Connection",
-    "branch": "main",
-    "language": "C++",
-    "description": "Full Version Accelerator with Lifetime Integration & High-Speed Unlocking."
-  },
-  {
-    "repo": "taf2/mdvi",
+    "repo": "espressif/arduino-esp32",
     "branch": "master",
-    "language": "Rust",
-    "description": "cli based Markdown viewer"
-  },
-  {
-    "repo": "Frikallo/parakeet.cpp",
-    "branch": "main",
     "language": "C++",
-    "description": "Ultra fast and portable Parakeet implementation for on-device inference in C++ using Axiom with MPS+Unified Memory and Cuda support"
+    "description": "Arduino core for the ESP32"
   },
   {
-    "repo": "HKUDS/FastCode",
-    "branch": "main",
-    "language": "Python",
-    "description": "FastCode: Accelerating and Streamlining Your Code Understanding"
+    "repo": "devicekit/DeviceKit",
+    "branch": "master",
+    "language": "Swift",
+    "description": "DeviceKit is a value-type replacement of UIDevice."
   },
   {
-    "repo": "olvvier/apple-silicon-accelerometer",
-    "branch": "main",
-    "language": "Python",
-    "description": "reading the undocumented mems accelerometer on apple silicon macbooks via iokit hid"
-  },
-  {
-    "repo": "win4r/team-tasks",
+    "repo": "ReactiveX/RxPY",
     "branch": "master",
     "language": "Python",
-    "description": "Multi-agent pipeline coordination: Linear, DAG, and Debate modes for AI agent orchestration"
+    "description": "ReactiveX for Python"
   },
   {
-    "repo": "sebastianvkl/pizero-openclaw",
-    "branch": "main",
+    "repo": "Significant-Gravitas/AutoGPT",
+    "branch": "master",
     "language": "Python",
-    "description": ""
+    "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters."
   },
   {
-    "repo": "disler/pi-vs-claude-code",
+    "repo": "ollama/ollama",
+    "branch": "main",
+    "language": "Go",
+    "description": "Get up and running with OpenAI GLM-4.7, DeepSeek, gpt-oss, Qwen, Gemma and other models."
+  },
+  {
+    "repo": "Aidenybai/React-Scan",
     "branch": "main",
     "language": "TypeScript",
-    "description": "Comparison between open source PI agent and closed source Claude Code agent"
-  },
-  {
-    "repo": "GHJJ123/brainrotguard",
-    "branch": "main",
-    "language": "Python",
-    "description": "YouTube approval system for kids — parent approves via Telegram, kid watches via web UI"
-  },
-  {
-    "repo": "nguyenduchoai/bizclaw",
-    "branch": "master",
-    "language": "Rust",
-    "description": "BizClaw là nền tảng AI Agent kiến trúc trait-driven, có thể chạy mọi nơi — từ Raspberry Pi đến cloud server. Hỗ trợ nhiều LLM provider, kênh giao tiếp, và công cụ thông qua kiến trúc thống nhất, hoán đổi được."
-  },
-  {
-    "repo": "v2fly/v2ray-core",
-    "branch": "master",
-    "language": "Go",
-    "description": "A platform for building proxies to bypass network restrictions."
-  },
-  {
-    "repo": "unjs/h3",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "⚡️ Minimal H(TTP) framework built for high performance and portability"
-  },
-  {
-    "repo": "trimstray/the-book-of-secret-knowledge",
-    "branch": "master",
-    "language": "Other",
-    "description": "A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more."
-  },
-  {
-    "repo": "microsoft/wslg",
-    "branch": "main",
-    "language": "C++",
-    "description": "Enabling the Windows Subsystem for Linux to include support for Wayland and X server related scenarios"
+    "description": "Scan for React performance issues and eliminate slow renders in your app"
   }
 ]
