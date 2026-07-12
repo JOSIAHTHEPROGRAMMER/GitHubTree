@@ -1,93 +1,123 @@
 [
   {
-    "repo": "CamTheBun/KMS-Auto-Tool",
-    "branch": "main",
-    "language": "C++",
-    "description": "Tool KMSAuto Net Tutorial Permanent License HWID Gen VL Converter Retail to Volume Fix Error 0xc004f074 System Administration Utility 2026 Build"
+    "repo": "itsinseong/value-for-fable",
+    "branch": "master",
+    "language": "Python",
+    "description": "Opus에 근접한 품질을 Sonnet 단가에 — 가성비 AI 운영 모델을 직접 구축한 Claude Code 프로젝트"
   },
   {
-    "repo": "Quick/Quick",
-    "branch": "main",
-    "language": "Swift",
-    "description": "The Swift (and Objective-C) testing framework."
-  },
-  {
-    "repo": "requirejs/requirejs",
+    "repo": "shanselman/cert-inspector",
     "branch": "master",
     "language": "JavaScript",
-    "description": "A file and module loader for JavaScript"
+    "description": "🔒 Web tool to inspect SSL certificates and DNS for all domains in a webpage's request tree. Captures full network footprint via headless browser."
   },
   {
-    "repo": "Quick/Nimble",
+    "repo": "rust-unofficial/awesome-rust",
     "branch": "main",
-    "language": "Swift",
-    "description": "A Matcher Framework for Swift and Objective-C"
+    "language": "Rust",
+    "description": "A curated list of Rust code and resources."
   },
   {
-    "repo": "moby/moby",
+    "repo": "996icu/996.ICU",
     "branch": "master",
-    "language": "Go",
-    "description": "The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems"
+    "language": "Other",
+    "description": "Repo for counting stars and contributing. Press F to pay respect to glorious developers."
   },
   {
-    "repo": "spinnaker/spinnaker",
+    "repo": "khoj-ai/khoj",
+    "branch": "main",
+    "language": "Python",
+    "description": "Your AI second brain. Self-hostable. Get answers from the web or your docs. Build custom agents, schedule automations, do deep research. Turn any online or local LLM into your personal, autonomous AI (gpt, claude, gemini, llama, qwen, mistral). Get started - free."
+  },
+  {
+    "repo": "vercel/pkg",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "Package your Node.js project into an executable"
+  },
+  {
+    "repo": "stanfordnlp/stanza",
+    "branch": "main",
+    "language": "Python",
+    "description": "Stanford NLP Python library for tokenization, sentence segmentation, NER, and parsing of many human languages"
+  },
+  {
+    "repo": "apache/beam",
     "branch": "master",
     "language": "Java",
-    "description": "Spinnaker is an open source, multi-cloud continuous delivery platform for releasing software changes with high velocity and confidence."
+    "description": "Apache Beam is a unified programming model for Batch and Streaming data processing."
   },
   {
-    "repo": "CalyxOS/calyxos",
-    "branch": "main",
-    "language": "HTML",
-    "description": "CalyxOS - Google-free Android"
+    "repo": "jitsi/jitsi-meet",
+    "branch": "master",
+    "language": "TypeScript",
+    "description": "Jitsi Meet - Secure, Simple and Scalable Video Conferences that you use as a standalone app or embed in your web application."
   },
   {
-    "repo": "lauraevz6y70/gnark-crypto",
+    "repo": "pytorch/vision",
     "branch": "main",
     "language": "Python",
-    "description": "gnark-crypto-cmd — Interactive CLI for Consensys gnark-crypto library featuring elliptic curve cryptography (BN254, BLS12-381, BLS24, BW6), zero-knowledge proof primitives, FFT/KZG/MiMC/EdDSA operations, Go code generation, benchmarks, and BibTeX citation export"
+    "description": "Datasets, Transforms and Models specific to Computer Vision"
   },
   {
-    "repo": "prompt-security/clawsec",
+    "repo": "nanostores/nanostores",
     "branch": "main",
     "language": "TypeScript",
-    "description": "A complete security skill suite for OpenClaw's family of agents. Protect your SOUL.md (etc') with drift detection, live security recommendations, automated audits, and skill integrity verification. All from one installable suite."
+    "description": "A tiny (286 bytes) state manager for React/RN/Preact/Vue/Svelte with many atomic tree-shakable stores"
   },
   {
-    "repo": "angular/angular-cli",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "CLI tool for Angular"
-  },
-  {
-    "repo": "1Panel-dev/MaxKB",
-    "branch": "main",
+    "repo": "public-apis/public-apis",
+    "branch": "master",
     "language": "Python",
-    "description": "🔥 MaxKB is an open-source platform for building enterprise-grade agents.  强大易用的开源企业级智能体平台。"
+    "description": "A collective list of free APIs"
   },
   {
-    "repo": "node-fetch/node-fetch",
+    "repo": "quasarframework/quasar",
+    "branch": "dev",
+    "language": "JavaScript",
+    "description": "Quasar Framework - Build high-performance VueJS user interfaces in record time"
+  },
+  {
+    "repo": "surrealdb/surrealdb",
+    "branch": "main",
+    "language": "Rust",
+    "description": "A scalable, distributed, collaborative, document-graph database, for the realtime web"
+  },
+  {
+    "repo": "homebridge/homebridge",
+    "branch": "latest",
+    "language": "TypeScript",
+    "description": "HomeKit support for the impatient."
+  },
+  {
+    "repo": "tensorflow/tfx",
+    "branch": "master",
+    "language": "Python",
+    "description": "TFX is an end-to-end platform for deploying production ML pipelines"
+  },
+  {
+    "repo": "prisma/graphql-yoga",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "🧘 Rewrite of a fully-featured GraphQL Server with focus on easy setup, performance & great developer experience.  The core of Yoga implements WHATWG Fetch API and can run/deploy on any JS environment."
+  },
+  {
+    "repo": "MichMich/MagicMirror",
+    "branch": "master",
+    "language": "JavaScript",
+    "description": "MagicMirror² is an open source modular smart mirror platform. With a growing list of installable modules, the MagicMirror² allows you to convert your hallway or bathroom mirror into your personal assistant."
+  },
+  {
+    "repo": "TryGhost/Ghost",
     "branch": "main",
     "language": "JavaScript",
-    "description": "A light-weight module that brings the Fetch API to Node.js"
+    "description": "Independent technology for modern publishing, memberships, subscriptions and newsletters."
   },
   {
-    "repo": "FranckyB/Voice-Clone-Studio",
-    "branch": "main",
-    "language": "Python",
-    "description": "A Gradio-based web UI for voice cloning and voice design, powered by Qwen3-TTS & VibeVoice.  Can use Whisper or VibeVoice-ASR for automatic transcription."
-  },
-  {
-    "repo": "vigorX777/product-design-system",
-    "branch": "main",
-    "language": "HTML",
-    "description": "面向产品经理的 AI 辅助产品设计工作框架，可 fork 定制的通用产品设计系统"
-  },
-  {
-    "repo": "getsentry/sentry-javascript",
-    "branch": "develop",
-    "language": "TypeScript",
-    "description": "Official Sentry SDKs for JavaScript"
+    "repo": "raspberrypi/firmware",
+    "branch": "master",
+    "language": "Other",
+    "description": "This repository contains pre-compiled binaries of the current Raspberry Pi  kernel and modules, userspace libraries, and bootloader/GPU firmware."
   },
   {
     "repo": "pointfreeco/swift-snapshot-testing",
@@ -96,51 +126,21 @@
     "description": "📸 Delightful Swift snapshot testing."
   },
   {
-    "repo": "krisrice/oracle-db-skills",
-    "branch": "main",
-    "language": "Shell",
-    "description": "Oracle DB Skills is a curated library of 100+ practical, documentation-backed guides for working with Oracle Database, organized by domain"
-  },
-  {
-    "repo": "TACOWASA059/katamariio",
-    "branch": "main",
-    "language": "Java",
-    "description": "[Forge1.20.1] 球体を操作して周囲のブロックを巻き込み大きくなれるMOD"
-  },
-  {
-    "repo": "better-auth/better-icons",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Skill and MCP server for searching and retrieving icons"
-  },
-  {
-    "repo": "vllm-project/aibrix",
-    "branch": "main",
-    "language": "Go",
-    "description": "Cost-efficient and pluggable Infrastructure components for GenAI inference"
-  },
-  {
-    "repo": "EbookFoundation/free-programming-books",
+    "repo": "abi/screenshot-to-code",
     "branch": "main",
     "language": "Python",
-    "description": ":books: Freely available programming books"
+    "description": "Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue)"
   },
   {
-    "repo": "Shpigford/chops",
-    "branch": "main",
-    "language": "Swift",
-    "description": "Your AI agent skills, finally organized. A macOS app to browse, edit, and manage skills across Claude Code, Cursor, Codex, Windsurf, and Amp."
-  },
-  {
-    "repo": "EveryInc/proof-sdk",
+    "repo": "appwrite/appwrite",
     "branch": "main",
     "language": "TypeScript",
-    "description": "Proof SDK: open-source collaborative editor, provenance model, and agent HTTP bridge"
+    "description": "Appwrite® - complete cloud infrastructure for your web, mobile and AI apps. Including Auth, Databases, Storage, Functions, Messaging, Hosting, Realtime and more"
   },
   {
-    "repo": "czl9707/build-your-own-openclaw",
+    "repo": "PyCQA/isort",
     "branch": "main",
     "language": "Python",
-    "description": "A step-by-step guide to build your own AI agent."
+    "description": "A Python utility / library to sort imports."
   }
 ]
