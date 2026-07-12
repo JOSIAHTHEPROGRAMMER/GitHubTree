@@ -1,8 +1,8 @@
 {
-  "repo": "FuelMagistrateLead/photoshop-ai-smart-enhance",
+  "repo": "nhevers/project-r0x",
   "branch": "main",
-  "language": "HTML",
-  "description": "AI-powered image enhancement extension for Adobe Photoshop CC 2024+. Intelligent exposure correction, adaptive color adjustment, contrast optimization, and noise reduction. Machine learning algorithms for photographers and designers. Real-time preview, batch processing, non-destructive smart objects.",
-  "stars": 107,
-  "forks": 46
+  "language": "TypeScript",
+  "description": "Official SDK, Claude Code plugin and facilitator docs for r0x, the x402 facilitator for Robinhood Chain.",
+  "stars": 123,
+  "forks": 1
 }

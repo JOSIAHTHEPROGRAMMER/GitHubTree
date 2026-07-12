@@ -1,146 +1,146 @@
 [
   {
-    "repo": "resonancegnatassess/Lossless-Scaling",
-    "branch": "main",
-    "language": "Python",
-    "description": "Powerful upscaling and frame generation tool with LSFG technology for sharper visuals and higher FPS. One-command install."
-  },
-  {
-    "repo": "YangyangQu/research-idea-scout",
-    "branch": "main",
-    "language": "Python",
-    "description": ""
-  },
-  {
-    "repo": "codeaashu/claude-code",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands."
-  },
-  {
-    "repo": "coleam00/claude-memory-compiler",
-    "branch": "main",
-    "language": "Python",
-    "description": "Give Claude Code a memory that evolves with your codebase. Hooks automatically capture sessions, the Claude Agent SDK extracts key decisions and lessons, and an LLM compiler organizes everything into structured, cross-referenced knowledge articles - inspired by Karpathy's LLM Knowledge Base architecture."
-  },
-  {
-    "repo": "timuronlinq/messari-crack",
-    "branch": "main",
-    "language": "Python",
-    "description": "Messari crack"
-  },
-  {
-    "repo": "andrew-kramer-inno/claude-code-source-build",
-    "branch": "master",
-    "language": "TypeScript",
-    "description": ""
-  },
-  {
-    "repo": "standardagents/sip",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Small Image Processor - Ultra memory-efficient image processing for Cloudflare Workers 🟠"
-  },
-  {
-    "repo": "code-yeongyu/not-claude-code-emulator",
-    "branch": "master",
-    "language": "TypeScript",
-    "description": "ULTRA DANGEROUS CLAUDE CODE EMULATOR; MAKING THE API REQUEST IDENTICAL TO CLAUDE CODE"
-  },
-  {
-    "repo": "AlexsJones/llmfit",
-    "branch": "main",
-    "language": "Rust",
-    "description": "94 models. 30 providers. One command to find what runs on your hardware."
-  },
-  {
-    "repo": "HMAKT99/UnTouchID",
-    "branch": "main",
-    "language": "Swift",
-    "description": "Use your phone's fingerprint to authenticate on any Mac — sudo, screensaver, App Store. No $199 Magic Keyboard needed. Works with iPhone, Android, Apple Watch, Wear OS, or any browser. Ready for MacBook Neo."
-  },
-  {
-    "repo": "op7418/Document-illustrator-skill",
-    "branch": "main",
-    "language": "Python",
-    "description": "帮你从文档生成对应的多张配图，内置了歸藏精心探索的图片风格，支持 16:9 和 3:4 两种比例，方便发小红书以及推特。"
-  },
-  {
-    "repo": "cporter202/agentic-ai-apis",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "The ultimate collection of APIs for building autonomous AI agents — 2,036 production-ready APIs across Agents, AI Models, and MCP Servers. Stop wasting weeks building infrastructure. Plug these in and ship your agent today."
-  },
-  {
-    "repo": "badlogic/jot",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "Minimal self-hosted markdown editor with inline comment threads"
-  },
-  {
-    "repo": "peteromallet/dataclaw",
-    "branch": "main",
-    "language": "Python",
-    "description": ""
-  },
-  {
-    "repo": "mattmireles/gemma-tuner-multimodal",
-    "branch": "main",
-    "language": "Python",
-    "description": "Fine-tune Gemma 4 and 3n with audio, images and text on Apple Silicon, using PyTorch and Metal Performance Shaders."
-  },
-  {
-    "repo": "agents-io/PokeClaw",
-    "branch": "main",
-    "language": "Kotlin",
-    "description": "PokeClaw (PocketClaw) — first on-device AI that controls your Android phone. Gemma 4, no cloud, no API key. Poke is short for Pocket."
-  },
-  {
-    "repo": "34306/FilzaJailedDS",
-    "branch": "main",
-    "language": "Objective-C",
-    "description": "Filza Jailed Darksword, support iOS 17.0-26.0.1. This repo open source the tweak inject into the Filza iPA (4.0.0 and back, 4.0.2 seems crash something)"
-  },
-  {
-    "repo": "e10nMa2k/cc-mini",
-    "branch": "main",
-    "language": "Python",
-    "description": "mini version of claude code"
-  },
-  {
-    "repo": "6551Team/claude-code-design-guide",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": ""
-  },
-  {
-    "repo": "ChownYourLife/paqet-tunnel",
-    "branch": "master",
-    "language": "Shell",
-    "description": ""
-  },
-  {
-    "repo": "AgriciDaniel/claude-ads",
-    "branch": "main",
-    "language": "Python",
-    "description": "Comprehensive paid advertising audit & optimization skill for Claude Code. 186 checks across Google, Meta, YouTube, LinkedIn, TikTok & Microsoft Ads with weighted scoring, parallel agents, and industry templates."
-  },
-  {
-    "repo": "letmutex/gitas",
-    "branch": "main",
-    "language": "Rust",
-    "description": "Git Account Switch"
-  },
-  {
-    "repo": "ironsh/iron-proxy",
+    "repo": "perplexityai/bumblebee",
     "branch": "main",
     "language": "Go",
-    "description": "An egress firewall for untrusted workloads."
+    "description": "Read-only inventory collector for package, extension, and developer-tool metadata on macOS and Linux developer endpoints, built for fast supply-chain exposure checks."
   },
   {
-    "repo": "RaidOwl/homelab-hub",
+    "repo": "CMU-Perceptual-Computing-Lab/openpose",
+    "branch": "master",
+    "language": "C++",
+    "description": "OpenPose: Real-time multi-person keypoint detection library for body, face, hands, and foot estimation"
+  },
+  {
+    "repo": "rawwerks/ypi",
+    "branch": "master",
+    "language": "Shell",
+    "description": "A recursive coding agent inpired by RLMs"
+  },
+  {
+    "repo": "zsh-users/zsh-autosuggestions",
+    "branch": "master",
+    "language": "Shell",
+    "description": "Fish-like autosuggestions for zsh"
+  },
+  {
+    "repo": "mco-org/mco",
     "branch": "main",
-    "language": "Svelte",
+    "language": "Python",
+    "description": "Orchestrate AI coding agents. Any prompt. Any agent. Any IDE. Neutral orchestration layer for Claude Code, Codex CLI, Gemini CLI, OpenCode, Qwen Code — works from Cursor, Trae, Copilot, Windsurf, or plain shell."
+  },
+  {
+    "repo": "ygwyg/MAHORAGA",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "autonomous trading agent powered by social sentiment analysis and ai that learns, grows, and adapts"
+  },
+  {
+    "repo": "tailwindlabs/headlessui",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Completely unstyled, fully accessible UI components, designed to integrate beautifully with Tailwind CSS."
+  },
+  {
+    "repo": "antfu/skills-npm",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Install agent skills from npm"
+  },
+  {
+    "repo": "sbilly/awesome-security",
+    "branch": "master",
+    "language": "Other",
+    "description": "A collection of awesome software, libraries, documents, books, resources and cools stuffs about security."
+  },
+  {
+    "repo": "cloudflare/quiche",
+    "branch": "master",
+    "language": "Rust",
+    "description": "🥧 Savoury implementation of the QUIC transport protocol and HTTP/3"
+  },
+  {
+    "repo": "elder-plinius/GLOSSOPETRAE",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "LINGUISTIC ENGINE FOR AI"
+  },
+  {
+    "repo": "edwardsanchez/MotionEyes",
+    "branch": "main",
+    "language": "Swift",
     "description": ""
+  },
+  {
+    "repo": "LYL1015/JarvisX-Cowork",
+    "branch": "main",
+    "language": "Python",
+    "description": "JarvisX-Cowork: Your First Personal AI Creative Assistant for Everyone!"
+  },
+  {
+    "repo": "fastai/fastai",
+    "branch": "master",
+    "language": "Jupyter Notebook",
+    "description": "The fastai deep learning library"
+  },
+  {
+    "repo": "rust-lang/rustlings",
+    "branch": "main",
+    "language": "Rust",
+    "description": ":crab: Small exercises to get you used to reading and writing Rust code!"
+  },
+  {
+    "repo": "NVIDIA/NemoClaw",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "NVIDIA plugin for secure installation of OpenClaw"
+  },
+  {
+    "repo": "fspecii/ace-step-ui",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "🎵 The Ultimate Open Source Suno Alternative - Professional UI for ACE-Step 1.5 AI Music Generation. Free, local, unlimited. Stop paying for Suno!"
+  },
+  {
+    "repo": "PanJiaChen/vue-element-admin",
+    "branch": "master",
+    "language": "Vue",
+    "description": ":tada: A magical vue admin                                                                https://panjiachen.github.io/vue-element-admin"
+  },
+  {
+    "repo": "actions/virtual-environments",
+    "branch": "main",
+    "language": "PowerShell",
+    "description": "GitHub Actions runner images"
+  },
+  {
+    "repo": "jaywcjlove/awesome-mac",
+    "branch": "master",
+    "language": "JavaScript",
+    "description": " Now we have become very big, Different from the original idea. Collect premium software in various categories."
+  },
+  {
+    "repo": "mvanhorn/last30days-skill",
+    "branch": "main",
+    "language": "Python",
+    "description": "Claude Code skill that researches any topic across Reddit + X from the last 30 days, then writes copy-paste-ready prompts"
+  },
+  {
+    "repo": "facebook/create-react-app",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "Set up a modern web app by running one command."
+  },
+  {
+    "repo": "humanloop/awesome-chatgpt",
+    "branch": "main",
+    "language": "Other",
+    "description": "Curated list of awesome tools, demos, docs for ChatGPT and GPT-3"
+  },
+  {
+    "repo": "v4nsh0x/InstaTrace",
+    "branch": "main",
+    "language": "Python",
+    "description": "Private Instagram Post URL Extractor (Research POC)"
   }
 ]
