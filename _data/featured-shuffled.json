@@ -1,146 +1,146 @@
 [
   {
-    "repo": "itsinseong/value-for-fable",
-    "branch": "master",
-    "language": "Python",
-    "description": "Opus에 근접한 품질을 Sonnet 단가에 — 가성비 AI 운영 모델을 직접 구축한 Claude Code 프로젝트"
-  },
-  {
-    "repo": "shanselman/cert-inspector",
-    "branch": "master",
-    "language": "JavaScript",
-    "description": "🔒 Web tool to inspect SSL certificates and DNS for all domains in a webpage's request tree. Captures full network footprint via headless browser."
-  },
-  {
-    "repo": "rust-unofficial/awesome-rust",
-    "branch": "main",
-    "language": "Rust",
-    "description": "A curated list of Rust code and resources."
-  },
-  {
-    "repo": "996icu/996.ICU",
-    "branch": "master",
-    "language": "Other",
-    "description": "Repo for counting stars and contributing. Press F to pay respect to glorious developers."
-  },
-  {
-    "repo": "khoj-ai/khoj",
-    "branch": "main",
-    "language": "Python",
-    "description": "Your AI second brain. Self-hostable. Get answers from the web or your docs. Build custom agents, schedule automations, do deep research. Turn any online or local LLM into your personal, autonomous AI (gpt, claude, gemini, llama, qwen, mistral). Get started - free."
-  },
-  {
-    "repo": "vercel/pkg",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "Package your Node.js project into an executable"
-  },
-  {
-    "repo": "stanfordnlp/stanza",
-    "branch": "main",
-    "language": "Python",
-    "description": "Stanford NLP Python library for tokenization, sentence segmentation, NER, and parsing of many human languages"
-  },
-  {
-    "repo": "apache/beam",
-    "branch": "master",
-    "language": "Java",
-    "description": "Apache Beam is a unified programming model for Batch and Streaming data processing."
-  },
-  {
-    "repo": "jitsi/jitsi-meet",
-    "branch": "master",
-    "language": "TypeScript",
-    "description": "Jitsi Meet - Secure, Simple and Scalable Video Conferences that you use as a standalone app or embed in your web application."
-  },
-  {
-    "repo": "pytorch/vision",
-    "branch": "main",
-    "language": "Python",
-    "description": "Datasets, Transforms and Models specific to Computer Vision"
-  },
-  {
-    "repo": "nanostores/nanostores",
+    "repo": "PMTraderAdam/pm-adam-trader",
     "branch": "main",
     "language": "TypeScript",
-    "description": "A tiny (286 bytes) state manager for React/RN/Preact/Vue/Svelte with many atomic tree-shakable stores"
+    "description": ""
   },
   {
-    "repo": "public-apis/public-apis",
+    "repo": "crossplane/crossplane",
     "branch": "master",
-    "language": "Python",
-    "description": "A collective list of free APIs"
+    "language": "Go",
+    "description": "The Cloud Native Control Plane"
   },
   {
-    "repo": "quasarframework/quasar",
-    "branch": "dev",
-    "language": "JavaScript",
-    "description": "Quasar Framework - Build high-performance VueJS user interfaces in record time"
+    "repo": "prometheus/node_exporter",
+    "branch": "master",
+    "language": "Go",
+    "description": "Exporter for machine metrics"
   },
   {
-    "repo": "surrealdb/surrealdb",
+    "repo": "joeseesun/lennys-podcast-newsletter",
     "branch": "main",
-    "language": "Rust",
-    "description": "A scalable, distributed, collaborative, document-graph database, for the realtime web"
-  },
-  {
-    "repo": "homebridge/homebridge",
-    "branch": "latest",
-    "language": "TypeScript",
-    "description": "HomeKit support for the impatient."
-  },
-  {
-    "repo": "tensorflow/tfx",
-    "branch": "master",
     "language": "Python",
-    "description": "TFX is an end-to-end platform for deploying production ML pipelines"
+    "description": "Lenny Rachitsky 播客与 Newsletter 知识库。搜索、阅读、学习 Lenny 的 638 篇内容（289 播客转录 + 349 篇 Newsletter）。 涵盖产品管理、增长、设计、工程、AI、创业、领导力等 17 个主题。 触发词：Lenny、Lenny's Newslet"
   },
   {
-    "repo": "prisma/graphql-yoga",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "🧘 Rewrite of a fully-featured GraphQL Server with focus on easy setup, performance & great developer experience.  The core of Yoga implements WHATWG Fetch API and can run/deploy on any JS environment."
-  },
-  {
-    "repo": "MichMich/MagicMirror",
-    "branch": "master",
-    "language": "JavaScript",
-    "description": "MagicMirror² is an open source modular smart mirror platform. With a growing list of installable modules, the MagicMirror² allows you to convert your hallway or bathroom mirror into your personal assistant."
-  },
-  {
-    "repo": "TryGhost/Ghost",
+    "repo": "khanhduytran0/coruna",
     "branch": "main",
     "language": "JavaScript",
-    "description": "Independent technology for modern publishing, memberships, subscriptions and newsletters."
+    "description": "The leaked exploit toolkit for various iOS versions"
   },
   {
-    "repo": "raspberrypi/firmware",
-    "branch": "master",
-    "language": "Other",
-    "description": "This repository contains pre-compiled binaries of the current Raspberry Pi  kernel and modules, userspace libraries, and bootloader/GPU firmware."
-  },
-  {
-    "repo": "pointfreeco/swift-snapshot-testing",
-    "branch": "main",
-    "language": "Swift",
-    "description": "📸 Delightful Swift snapshot testing."
-  },
-  {
-    "repo": "abi/screenshot-to-code",
+    "repo": "Rabrg/artificial-life",
     "branch": "main",
     "language": "Python",
-    "description": "Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue)"
+    "description": "A simple (300 lines of code) reproduction of Computational Life: How Well-formed, Self-replicating Programs Emerge from Simple Interaction"
   },
   {
-    "repo": "appwrite/appwrite",
+    "repo": "cft0808/edict",
+    "branch": "main",
+    "language": "HTML",
+    "description": "🏛️ 三省六部制 · OpenClaw Multi-Agent Orchestration System — 9 specialized AI agents with real-time dashboard, model config, and full audit trails"
+  },
+  {
+    "repo": "BigBodyCobain/Shadowbroker",
     "branch": "main",
     "language": "TypeScript",
-    "description": "Appwrite® - complete cloud infrastructure for your web, mobile and AI apps. Including Auth, Databases, Storage, Functions, Messaging, Hosting, Realtime and more"
+    "description": "Open-source intelligence for the global theater. Track everything from the corporate/private jets of the wealthy, and spy satellites, to seismic events in one unified interface. The knowledge is available to all but rarely aggregated in the open, until now."
   },
   {
-    "repo": "PyCQA/isort",
+    "repo": "MasnoNi/Invincible-VS-Game-Release-Desktop",
+    "branch": "main",
+    "language": "C++",
+    "description": "Invincible VS Game Download April 30 2026 Release Date Skybound 3v3 Tag Fighter Omni-Man Gameplay Guide Best Characters Combo List Day One Patch Notes Fix Stutter D3D Error Character Pass Universa Immortal DLC Zero Suit Skin Xbox PC PS5 Performance Utility Latest Build Free Full Version Pro Arcade Sticks Support"
+  },
+  {
+    "repo": "akanksh13/Crimson-Desert-RenoDX-Desktop",
+    "branch": "main",
+    "language": "C++",
+    "description": "Crimson Desert RenoDX PC Edition delivers enhanced graphics, improved performance, and modern rendering for Crimson Desert on Windows. Better lighting, textures, draw distance and optimized visuals for a more immersive desert adventure."
+  },
+  {
+    "repo": "34306/FilzaJailedDS",
+    "branch": "main",
+    "language": "Objective-C",
+    "description": "Filza Jailed Darksword, support iOS 17.0-26.0.1. This repo open source the tweak inject into the Filza iPA (4.0.0 and back, 4.0.2 seems crash something)"
+  },
+  {
+    "repo": "XyhTender/qq-farm-automation-bot",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "QQ农场全自动脚本"
+  },
+  {
+    "repo": "Whit1985/Binance-Futures-Signal-Bot",
     "branch": "main",
     "language": "Python",
-    "description": "A Python utility / library to sort imports."
+    "description": "Professional automated trading bot for Binance and Bybit Futures markets with multi-strategy engine and real-time P&L dashboard."
+  },
+  {
+    "repo": "large-performance-model/large-performance-model.github.io",
+    "branch": "main",
+    "language": "HTML",
+    "description": "LPM 1.0: Video-based Character Performance Model"
+  },
+  {
+    "repo": "zacdcook/openclaw-billing-proxy",
+    "branch": "master",
+    "language": "JavaScript",
+    "description": "Route OpenClaw API requests through Claude Code subscription billing instead of Extra Usage"
+  },
+  {
+    "repo": "milanm/AutoGrad-Engine",
+    "branch": "main",
+    "language": "C#",
+    "description": "A complete GPT language model (training and inference) in pure C# with zero dependencies."
+  },
+  {
+    "repo": "DatanoiseTV/tinyice",
+    "branch": "main",
+    "language": "Go",
+    "description": "A tiny audio streaming server (compatible with icecast2) written in Go with multiple mountpoint, multi-source, and relaying support."
+  },
+  {
+    "repo": "e10nMa2k/cc-mini",
+    "branch": "main",
+    "language": "Python",
+    "description": "mini version of claude code"
+  },
+  {
+    "repo": "depreciating/DoodleCloud",
+    "branch": "main",
+    "language": "Python",
+    "description": "Cloud Storage using Instagram."
+  },
+  {
+    "repo": "GitFrog1111/badclaude",
+    "branch": "main",
+    "language": "HTML",
+    "description": ""
+  },
+  {
+    "repo": "Ajai53200/DeepSeek-V4-Pro-App",
+    "branch": "main",
+    "language": "C++",
+    "description": "DeepSeek V4 Pro download MoE architecture 1.6T parameters 1M context window reasoning modes Think Max sparse attention coding agent agentic AI benchmarks API pricing open weights MIT license."
+  },
+  {
+    "repo": "timuronlinq/messari-crack",
+    "branch": "main",
+    "language": "Python",
+    "description": "Messari crack"
+  },
+  {
+    "repo": "cathrynlavery/openclaw-ops",
+    "branch": "main",
+    "language": "Shell",
+    "description": "OpenClaw operations skill with health checks, repair scripts, watchdogs, update triage, and security scans."
+  },
+  {
+    "repo": "virgiliojr94/book-to-skill",
+    "branch": "master",
+    "language": "Python",
+    "description": "Turn any technical book PDF into a Claude Code skill — ready to study, reference, and use while you work."
   }
 ]
