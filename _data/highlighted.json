@@ -1,8 +1,8 @@
 {
-  "repo": "biheto/DevAgent-Studio",
+  "repo": "FuelMagistrateLead/photoshop-ai-smart-enhance",
   "branch": "main",
-  "language": "Python",
-  "description": "面向开发者的多智能体任务工作站",
-  "stars": 114,
-  "forks": 12
+  "language": "HTML",
+  "description": "AI-powered image enhancement extension for Adobe Photoshop CC 2024+. Intelligent exposure correction, adaptive color adjustment, contrast optimization, and noise reduction. Machine learning algorithms for photographers and designers. Real-time preview, batch processing, non-destructive smart objects.",
+  "stars": 107,
+  "forks": 46
 }

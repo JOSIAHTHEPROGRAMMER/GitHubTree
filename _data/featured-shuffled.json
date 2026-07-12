@@ -1,129 +1,27 @@
 [
   {
-    "repo": "PMTraderAdam/pm-adam-trader",
+    "repo": "resonancegnatassess/Lossless-Scaling",
     "branch": "main",
-    "language": "TypeScript",
+    "language": "Python",
+    "description": "Powerful upscaling and frame generation tool with LSFG technology for sharper visuals and higher FPS. One-command install."
+  },
+  {
+    "repo": "YangyangQu/research-idea-scout",
+    "branch": "main",
+    "language": "Python",
     "description": ""
   },
   {
-    "repo": "crossplane/crossplane",
-    "branch": "master",
-    "language": "Go",
-    "description": "The Cloud Native Control Plane"
-  },
-  {
-    "repo": "prometheus/node_exporter",
-    "branch": "master",
-    "language": "Go",
-    "description": "Exporter for machine metrics"
-  },
-  {
-    "repo": "joeseesun/lennys-podcast-newsletter",
-    "branch": "main",
-    "language": "Python",
-    "description": "Lenny Rachitsky 播客与 Newsletter 知识库。搜索、阅读、学习 Lenny 的 638 篇内容（289 播客转录 + 349 篇 Newsletter）。 涵盖产品管理、增长、设计、工程、AI、创业、领导力等 17 个主题。 触发词：Lenny、Lenny's Newslet"
-  },
-  {
-    "repo": "khanhduytran0/coruna",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "The leaked exploit toolkit for various iOS versions"
-  },
-  {
-    "repo": "Rabrg/artificial-life",
-    "branch": "main",
-    "language": "Python",
-    "description": "A simple (300 lines of code) reproduction of Computational Life: How Well-formed, Self-replicating Programs Emerge from Simple Interaction"
-  },
-  {
-    "repo": "cft0808/edict",
-    "branch": "main",
-    "language": "HTML",
-    "description": "🏛️ 三省六部制 · OpenClaw Multi-Agent Orchestration System — 9 specialized AI agents with real-time dashboard, model config, and full audit trails"
-  },
-  {
-    "repo": "BigBodyCobain/Shadowbroker",
+    "repo": "codeaashu/claude-code",
     "branch": "main",
     "language": "TypeScript",
-    "description": "Open-source intelligence for the global theater. Track everything from the corporate/private jets of the wealthy, and spy satellites, to seismic events in one unified interface. The knowledge is available to all but rarely aggregated in the open, until now."
+    "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands."
   },
   {
-    "repo": "MasnoNi/Invincible-VS-Game-Release-Desktop",
-    "branch": "main",
-    "language": "C++",
-    "description": "Invincible VS Game Download April 30 2026 Release Date Skybound 3v3 Tag Fighter Omni-Man Gameplay Guide Best Characters Combo List Day One Patch Notes Fix Stutter D3D Error Character Pass Universa Immortal DLC Zero Suit Skin Xbox PC PS5 Performance Utility Latest Build Free Full Version Pro Arcade Sticks Support"
-  },
-  {
-    "repo": "akanksh13/Crimson-Desert-RenoDX-Desktop",
-    "branch": "main",
-    "language": "C++",
-    "description": "Crimson Desert RenoDX PC Edition delivers enhanced graphics, improved performance, and modern rendering for Crimson Desert on Windows. Better lighting, textures, draw distance and optimized visuals for a more immersive desert adventure."
-  },
-  {
-    "repo": "34306/FilzaJailedDS",
-    "branch": "main",
-    "language": "Objective-C",
-    "description": "Filza Jailed Darksword, support iOS 17.0-26.0.1. This repo open source the tweak inject into the Filza iPA (4.0.0 and back, 4.0.2 seems crash something)"
-  },
-  {
-    "repo": "XyhTender/qq-farm-automation-bot",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "QQ农场全自动脚本"
-  },
-  {
-    "repo": "Whit1985/Binance-Futures-Signal-Bot",
+    "repo": "coleam00/claude-memory-compiler",
     "branch": "main",
     "language": "Python",
-    "description": "Professional automated trading bot for Binance and Bybit Futures markets with multi-strategy engine and real-time P&L dashboard."
-  },
-  {
-    "repo": "large-performance-model/large-performance-model.github.io",
-    "branch": "main",
-    "language": "HTML",
-    "description": "LPM 1.0: Video-based Character Performance Model"
-  },
-  {
-    "repo": "zacdcook/openclaw-billing-proxy",
-    "branch": "master",
-    "language": "JavaScript",
-    "description": "Route OpenClaw API requests through Claude Code subscription billing instead of Extra Usage"
-  },
-  {
-    "repo": "milanm/AutoGrad-Engine",
-    "branch": "main",
-    "language": "C#",
-    "description": "A complete GPT language model (training and inference) in pure C# with zero dependencies."
-  },
-  {
-    "repo": "DatanoiseTV/tinyice",
-    "branch": "main",
-    "language": "Go",
-    "description": "A tiny audio streaming server (compatible with icecast2) written in Go with multiple mountpoint, multi-source, and relaying support."
-  },
-  {
-    "repo": "e10nMa2k/cc-mini",
-    "branch": "main",
-    "language": "Python",
-    "description": "mini version of claude code"
-  },
-  {
-    "repo": "depreciating/DoodleCloud",
-    "branch": "main",
-    "language": "Python",
-    "description": "Cloud Storage using Instagram."
-  },
-  {
-    "repo": "GitFrog1111/badclaude",
-    "branch": "main",
-    "language": "HTML",
-    "description": ""
-  },
-  {
-    "repo": "Ajai53200/DeepSeek-V4-Pro-App",
-    "branch": "main",
-    "language": "C++",
-    "description": "DeepSeek V4 Pro download MoE architecture 1.6T parameters 1M context window reasoning modes Think Max sparse attention coding agent agentic AI benchmarks API pricing open weights MIT license."
+    "description": "Give Claude Code a memory that evolves with your codebase. Hooks automatically capture sessions, the Claude Agent SDK extracts key decisions and lessons, and an LLM compiler organizes everything into structured, cross-referenced knowledge articles - inspired by Karpathy's LLM Knowledge Base architecture."
   },
   {
     "repo": "timuronlinq/messari-crack",
@@ -132,15 +30,117 @@
     "description": "Messari crack"
   },
   {
-    "repo": "cathrynlavery/openclaw-ops",
-    "branch": "main",
-    "language": "Shell",
-    "description": "OpenClaw operations skill with health checks, repair scripts, watchdogs, update triage, and security scans."
+    "repo": "andrew-kramer-inno/claude-code-source-build",
+    "branch": "master",
+    "language": "TypeScript",
+    "description": ""
   },
   {
-    "repo": "virgiliojr94/book-to-skill",
+    "repo": "standardagents/sip",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Small Image Processor - Ultra memory-efficient image processing for Cloudflare Workers 🟠"
+  },
+  {
+    "repo": "code-yeongyu/not-claude-code-emulator",
     "branch": "master",
+    "language": "TypeScript",
+    "description": "ULTRA DANGEROUS CLAUDE CODE EMULATOR; MAKING THE API REQUEST IDENTICAL TO CLAUDE CODE"
+  },
+  {
+    "repo": "AlexsJones/llmfit",
+    "branch": "main",
+    "language": "Rust",
+    "description": "94 models. 30 providers. One command to find what runs on your hardware."
+  },
+  {
+    "repo": "HMAKT99/UnTouchID",
+    "branch": "main",
+    "language": "Swift",
+    "description": "Use your phone's fingerprint to authenticate on any Mac — sudo, screensaver, App Store. No $199 Magic Keyboard needed. Works with iPhone, Android, Apple Watch, Wear OS, or any browser. Ready for MacBook Neo."
+  },
+  {
+    "repo": "op7418/Document-illustrator-skill",
+    "branch": "main",
     "language": "Python",
-    "description": "Turn any technical book PDF into a Claude Code skill — ready to study, reference, and use while you work."
+    "description": "帮你从文档生成对应的多张配图，内置了歸藏精心探索的图片风格，支持 16:9 和 3:4 两种比例，方便发小红书以及推特。"
+  },
+  {
+    "repo": "cporter202/agentic-ai-apis",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "The ultimate collection of APIs for building autonomous AI agents — 2,036 production-ready APIs across Agents, AI Models, and MCP Servers. Stop wasting weeks building infrastructure. Plug these in and ship your agent today."
+  },
+  {
+    "repo": "badlogic/jot",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "Minimal self-hosted markdown editor with inline comment threads"
+  },
+  {
+    "repo": "peteromallet/dataclaw",
+    "branch": "main",
+    "language": "Python",
+    "description": ""
+  },
+  {
+    "repo": "mattmireles/gemma-tuner-multimodal",
+    "branch": "main",
+    "language": "Python",
+    "description": "Fine-tune Gemma 4 and 3n with audio, images and text on Apple Silicon, using PyTorch and Metal Performance Shaders."
+  },
+  {
+    "repo": "agents-io/PokeClaw",
+    "branch": "main",
+    "language": "Kotlin",
+    "description": "PokeClaw (PocketClaw) — first on-device AI that controls your Android phone. Gemma 4, no cloud, no API key. Poke is short for Pocket."
+  },
+  {
+    "repo": "34306/FilzaJailedDS",
+    "branch": "main",
+    "language": "Objective-C",
+    "description": "Filza Jailed Darksword, support iOS 17.0-26.0.1. This repo open source the tweak inject into the Filza iPA (4.0.0 and back, 4.0.2 seems crash something)"
+  },
+  {
+    "repo": "e10nMa2k/cc-mini",
+    "branch": "main",
+    "language": "Python",
+    "description": "mini version of claude code"
+  },
+  {
+    "repo": "6551Team/claude-code-design-guide",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": ""
+  },
+  {
+    "repo": "ChownYourLife/paqet-tunnel",
+    "branch": "master",
+    "language": "Shell",
+    "description": ""
+  },
+  {
+    "repo": "AgriciDaniel/claude-ads",
+    "branch": "main",
+    "language": "Python",
+    "description": "Comprehensive paid advertising audit & optimization skill for Claude Code. 186 checks across Google, Meta, YouTube, LinkedIn, TikTok & Microsoft Ads with weighted scoring, parallel agents, and industry templates."
+  },
+  {
+    "repo": "letmutex/gitas",
+    "branch": "main",
+    "language": "Rust",
+    "description": "Git Account Switch"
+  },
+  {
+    "repo": "ironsh/iron-proxy",
+    "branch": "main",
+    "language": "Go",
+    "description": "An egress firewall for untrusted workloads."
+  },
+  {
+    "repo": "RaidOwl/homelab-hub",
+    "branch": "main",
+    "language": "Svelte",
+    "description": ""
   }
 ]
