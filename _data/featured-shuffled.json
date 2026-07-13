@@ -1,105 +1,51 @@
 [
   {
-    "repo": "jnMetaCode/superpowers-zh",
+    "repo": "briliwar0/glm-5.2-free-desktop-app",
     "branch": "main",
+    "language": "C#",
+    "description": "glm 5.2 free z.ai  llm chatbot free api access local llm unsloth dynamic gguf llama.cpp ollama run coding assistant autonomous agent zcode opencode cloudflare workers ai hugging face model weights 1m context window long horizon tasks token bypass benchmark swe bench pro terminal bench setup installation windows macos linux"
+  },
+  {
+    "repo": "brunch/brunch",
+    "branch": "master",
+    "language": "JavaScript",
+    "description": "🍴 Web applications made easy. Since 2011."
+  },
+  {
+    "repo": "playframework/playframework",
+    "branch": "main",
+    "language": "Scala",
+    "description": "The Community Maintained High Velocity Web Framework For Java and Scala."
+  },
+  {
+    "repo": "XTLS/Xray-core",
+    "branch": "main",
+    "language": "Go",
+    "description": "Xray, Penetrates Everything. Also the best v2ray-core. Where the magic happens. An open platform for various uses."
+  },
+  {
+    "repo": "sympy/sympy",
+    "branch": "master",
+    "language": "Python",
+    "description": "A computer algebra system written in pure Python"
+  },
+  {
+    "repo": "karatelabs/karate",
+    "branch": "master",
+    "language": "Java",
+    "description": "Test Automation Made Simple"
+  },
+  {
+    "repo": "raspberrypi/firmware",
+    "branch": "master",
+    "language": "Other",
+    "description": "This repository contains pre-compiled binaries of the current Raspberry Pi  kernel and modules, userspace libraries, and bootloader/GPU firmware."
+  },
+  {
+    "repo": "papers-we-love/papers-we-love",
+    "branch": "master",
     "language": "Shell",
-    "description": "AI 编程超能力中文版 — superpowers 完整汉化 + 中国特色 skills（Gitee/Coding 工作流、中文排版、MCP 构建）"
-  },
-  {
-    "repo": "FlowTrader-Labs/polymarket-trading-bot",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "polymarket trading bot polymarket copy trading bot polymarket trading bot polymarket copy trading bot polymarket trading bot polymarket copy trading bot polymarket trading bot polymarket copy trading bot polymarket trading bot polymarket copy trading bot polymarket trading bot polymarket copy trading bot"
-  },
-  {
-    "repo": "fastlane/supply",
-    "branch": "master",
-    "language": "Other",
-    "description": "Command line tool for updating Android apps and their metadata on the Google Play Store"
-  },
-  {
-    "repo": "tiimgreen/github-cheat-sheet",
-    "branch": "master",
-    "language": "Other",
-    "description": "A list of cool features of Git and GitHub."
-  },
-  {
-    "repo": "Zouuup/landrun",
-    "branch": "main",
-    "language": "Go",
-    "description": "Run any Linux process in a secure, unprivileged sandbox using Landlock. Think firejail, but lightweight, user-friendly, and baked into the kernel."
-  },
-  {
-    "repo": "psf/requests-html",
-    "branch": "master",
-    "language": "Python",
-    "description": "Pythonic HTML Parsing for Humans™"
-  },
-  {
-    "repo": "rustwasm/wasm-bindgen",
-    "branch": "main",
-    "language": "Rust",
-    "description": "Facilitating high-level interactions between Wasm modules and JavaScript"
-  },
-  {
-    "repo": "pandas-dev/pandas",
-    "branch": "main",
-    "language": "Python",
-    "description": "Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures similar to R data.frame objects, statistical functions, and much more"
-  },
-  {
-    "repo": "marktext/marktext",
-    "branch": "master",
-    "language": "JavaScript",
-    "description": "📝A simple and elegant markdown editor, available for Linux, macOS and Windows."
-  },
-  {
-    "repo": "mgks/GitHubTree",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "Visualise any GitHub repository folder structure. Available as a web app, CLI tool, and node.js library."
-  },
-  {
-    "repo": "ionic-team/ionic-framework",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "A powerful cross-platform UI toolkit for building native-quality iOS, Android, and Progressive Web Apps with HTML, CSS, and JavaScript."
-  },
-  {
-    "repo": "plausible/analytics",
-    "branch": "master",
-    "language": "Elixir",
-    "description": "Simple, open source, lightweight and privacy-friendly web analytics alternative to Google Analytics."
-  },
-  {
-    "repo": "opentofu/opentofu",
-    "branch": "main",
-    "language": "Go",
-    "description": "OpenTofu lets you declaratively manage your cloud infrastructure."
-  },
-  {
-    "repo": "invertase/react-native-firebase",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "🔥 A well-tested feature-rich modular Firebase implementation for React Native. Supports both iOS & Android platforms for all Firebase services."
-  },
-  {
-    "repo": "PaddlePaddle/PaddleNLP",
-    "branch": "develop",
-    "language": "Python",
-    "description": "Easy-to-use and powerful LLM and SLM library with awesome model zoo."
-  },
-  {
-    "repo": "pallets/flask",
-    "branch": "main",
-    "language": "Python",
-    "description": "The Python micro framework for building web applications."
-  },
-  {
-    "repo": "dypsilon/frontend-dev-bookmarks",
-    "branch": "master",
-    "language": "Other",
-    "description": "Manually curated collection of resources for frontend web developers."
+    "description": "Papers from the computer science community to read and discuss."
   },
   {
     "repo": "EbookFoundation/free-programming-books",
@@ -108,39 +54,93 @@
     "description": ":books: Freely available programming books"
   },
   {
-    "repo": "milvus-io/milvus",
+    "repo": "ReactiveX/RxKotlin",
+    "branch": "3.x",
+    "language": "Kotlin",
+    "description": "RxJava bindings for Kotlin"
+  },
+  {
+    "repo": "pi-hole/pi-hole",
     "branch": "master",
-    "language": "Go",
-    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search"
+    "language": "Shell",
+    "description": "A black hole for Internet advertisements"
   },
   {
-    "repo": "primefaces/primereact",
+    "repo": "nextcloud/ios",
     "branch": "master",
-    "language": "CSS",
-    "description": "The Most Complete React UI Component Library"
-  },
-  {
-    "repo": "docker/docker-py",
-    "branch": "main",
-    "language": "Python",
-    "description": "A Python library for the Docker Engine API"
-  },
-  {
-    "repo": "mekos2772/ios-location-spoofer",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "Standalone iOS app to spoof GPS location without jailbreak. Includes Shadowrocket/Surge/Loon/QX/Stash module."
-  },
-  {
-    "repo": "zhengdian1/InterleaveThinker",
-    "branch": "main",
-    "language": "Python",
-    "description": ""
-  },
-  {
-    "repo": "m1ckc3s/claude-status-bar",
-    "branch": "main",
     "language": "Swift",
-    "description": "A tiny macOS menu bar status indicator for Claude Code: animated spark, elapsed timer, and open/close lifecycle."
+    "description": "📱 Nextcloud iOS App"
+  },
+  {
+    "repo": "rayon-rs/rayon",
+    "branch": "master",
+    "language": "Rust",
+    "description": "Rayon: A data parallelism library for Rust"
+  },
+  {
+    "repo": "element-plus/element-plus",
+    "branch": "dev",
+    "language": "TypeScript",
+    "description": "🎉 A Vue.js 3 UI Library made by Element team"
+  },
+  {
+    "repo": "samanalalokaya/polymarket-copy-trading-bot",
+    "branch": "master",
+    "language": "JavaScript",
+    "description": "Copies trades from a target Polymarket wallet to your own. Watches the target via REST or WebSocket, then places matching orders (scaled by a multiplier) using the Polymarket CLOB. CLUE: polymarket copy trading bot polymarket copy trading bot polymarket copy trading bot polymarket copy trading bot polymarket copy trading bot polymarket copy trading"
+  },
+  {
+    "repo": "NousResearch/hermes-agent-self-evolution",
+    "branch": "main",
+    "language": "Python",
+    "description": "⚒ Evolutionary self-improvement for Hermes Agent — optimize skills, prompts, and code using DSPy + GEPA"
+  },
+  {
+    "repo": "callstackincubator/agent-device",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "CLI to control iOS and Android devices for AI agents"
+  },
+  {
+    "repo": "openperf/brief",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "AI Agent Service Agreement"
+  },
+  {
+    "repo": "anthropics/claudes-c-compiler",
+    "branch": "main",
+    "language": "Rust",
+    "description": "Claude Opus 4.6 wrote a dependency-free C compiler in Rust, with backends targeting x86 (64- and 32-bit), ARM, and RISC-V, capable of compiling a booting Linux kernel."
+  },
+  {
+    "repo": "apache/spark",
+    "branch": "master",
+    "language": "Scala",
+    "description": "Apache Spark - A unified analytics engine for large-scale data processing"
+  },
+  {
+    "repo": "victorsosaMx/vsWaybar-Studio",
+    "branch": "main",
+    "language": "Python",
+    "description": "Visual editor for Waybar — build, style and preview your bar in real time (GTK + Python)"
+  },
+  {
+    "repo": "Y-Peng-Dev/Watchdog",
+    "branch": "master",
+    "language": "C#",
+    "description": "Watchdog for Grasshopper Prevent Rhino & Grasshopper from freezing due to accidental massive computations or cascading calculation chains."
+  },
+  {
+    "repo": "smartcontractkit/chainlink",
+    "branch": "develop",
+    "language": "Go",
+    "description": "node of the decentralized oracle network, bridging on and off-chain computation"
+  },
+  {
+    "repo": "ionic-team/ionic-framework",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "A powerful cross-platform UI toolkit for building native-quality iOS, Android, and Progressive Web Apps with HTML, CSS, and JavaScript."
   }
 ]
