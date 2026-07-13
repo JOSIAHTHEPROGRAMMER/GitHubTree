@@ -1,146 +1,146 @@
 [
   {
-    "repo": "perplexityai/bumblebee",
+    "repo": "evanklem/evanflow",
     "branch": "main",
-    "language": "Go",
-    "description": "Read-only inventory collector for package, extension, and developer-tool metadata on macOS and Linux developer endpoints, built for fast supply-chain exposure checks."
-  },
-  {
-    "repo": "CMU-Perceptual-Computing-Lab/openpose",
-    "branch": "master",
-    "language": "C++",
-    "description": "OpenPose: Real-time multi-person keypoint detection library for body, face, hands, and foot estimation"
-  },
-  {
-    "repo": "rawwerks/ypi",
-    "branch": "master",
     "language": "Shell",
-    "description": "A recursive coding agent inpired by RLMs"
+    "description": "A TDD-driven iterative feedback loop for software development. 16 cohesive Claude Code skills walk an idea from brainstorm → plan → execute → iterate, with checkpoints throughout."
   },
   {
-    "repo": "zsh-users/zsh-autosuggestions",
-    "branch": "master",
-    "language": "Shell",
-    "description": "Fish-like autosuggestions for zsh"
-  },
-  {
-    "repo": "mco-org/mco",
+    "repo": "Tencent-Hunyuan/HY3D-Bench",
     "branch": "main",
     "language": "Python",
-    "description": "Orchestrate AI coding agents. Any prompt. Any agent. Any IDE. Neutral orchestration layer for Claude Code, Codex CLI, Gemini CLI, OpenCode, Qwen Code — works from Cursor, Trae, Copilot, Windsurf, or plain shell."
-  },
-  {
-    "repo": "ygwyg/MAHORAGA",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "autonomous trading agent powered by social sentiment analysis and ai that learns, grows, and adapts"
-  },
-  {
-    "repo": "tailwindlabs/headlessui",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Completely unstyled, fully accessible UI components, designed to integrate beautifully with Tailwind CSS."
-  },
-  {
-    "repo": "antfu/skills-npm",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Install agent skills from npm"
-  },
-  {
-    "repo": "sbilly/awesome-security",
-    "branch": "master",
-    "language": "Other",
-    "description": "A collection of awesome software, libraries, documents, books, resources and cools stuffs about security."
-  },
-  {
-    "repo": "cloudflare/quiche",
-    "branch": "master",
-    "language": "Rust",
-    "description": "🥧 Savoury implementation of the QUIC transport protocol and HTTP/3"
-  },
-  {
-    "repo": "elder-plinius/GLOSSOPETRAE",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "LINGUISTIC ENGINE FOR AI"
-  },
-  {
-    "repo": "edwardsanchez/MotionEyes",
-    "branch": "main",
-    "language": "Swift",
     "description": ""
   },
   {
-    "repo": "LYL1015/JarvisX-Cowork",
-    "branch": "main",
-    "language": "Python",
-    "description": "JarvisX-Cowork: Your First Personal AI Creative Assistant for Everyone!"
-  },
-  {
-    "repo": "fastai/fastai",
-    "branch": "master",
-    "language": "Jupyter Notebook",
-    "description": "The fastai deep learning library"
-  },
-  {
-    "repo": "rust-lang/rustlings",
+    "repo": "vignesh07/babyshark",
     "branch": "main",
     "language": "Rust",
-    "description": ":crab: Small exercises to get you used to reading and writing Rust code!"
+    "description": "Flows-first PCAP TUI (case files, gorgeous UX). Do do do do."
   },
   {
-    "repo": "NVIDIA/NemoClaw",
+    "repo": "vinta/awesome-python",
+    "branch": "master",
+    "language": "Python",
+    "description": "An opinionated list of awesome Python frameworks, libraries, software and resources."
+  },
+  {
+    "repo": "liuxiaopai-ai/ralph-desktop",
+    "branch": "main",
+    "language": "Rust",
+    "description": "Ralph Desktop -  Start vague. Ralph Loop until perfect.  A visual controller for AI coding agents that helps you brainstorm requirements and execute tasks through persistent iteration."
+  },
+  {
+    "repo": "valeriansaliou/sonic",
+    "branch": "master",
+    "language": "Rust",
+    "description": "🦔 Fast, lightweight & schema-less search backend. An alternative to Elasticsearch that runs on a few MBs of RAM."
+  },
+  {
+    "repo": "tnbeznlacut/sora2-watermark-deleter-windows-macos",
+    "branch": "main",
+    "language": "Python",
+    "description": "sora2 watermark deleter windows macos"
+  },
+  {
+    "repo": "ipfs/kubo",
+    "branch": "master",
+    "language": "Go",
+    "description": "An IPFS implementation in Go"
+  },
+  {
+    "repo": "tompftampffern/polyseed-monero",
+    "branch": "main",
+    "language": "C",
+    "description": "Polyseed Monero"
+  },
+  {
+    "repo": "spaceraccoon/vulnerability-spoiler-alert-action",
     "branch": "main",
     "language": "TypeScript",
-    "description": "NVIDIA plugin for secure installation of OpenClaw"
+    "description": "GitHub Action to alert on security patches before the CVE drops."
   },
   {
-    "repo": "fspecii/ace-step-ui",
+    "repo": "element-hq/element-android",
+    "branch": "develop",
+    "language": "Kotlin",
+    "description": "A Matrix collaboration client for Android."
+  },
+  {
+    "repo": "stellarlinkco/myclaw",
     "branch": "main",
-    "language": "JavaScript",
-    "description": "🎵 The Ultimate Open Source Suno Alternative - Professional UI for ACE-Step 1.5 AI Music Generation. Free, local, unlimited. Stop paying for Suno!"
+    "language": "Go",
+    "description": ""
   },
   {
-    "repo": "PanJiaChen/vue-element-admin",
+    "repo": "fspecii/HeartMuLa-Studio",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Suno-like music generation studio for HeartMuLa/heartlib - AI-powered music creation with reference audio style transfer"
+  },
+  {
+    "repo": "ReactiveX/RxSwift",
+    "branch": "main",
+    "language": "Swift",
+    "description": "Reactive Programming in Swift"
+  },
+  {
+    "repo": "data-science-on-aws/data-science-on-aws",
     "branch": "master",
-    "language": "Vue",
-    "description": ":tada: A magical vue admin                                                                https://panjiachen.github.io/vue-element-admin"
+    "language": "Jupyter Notebook",
+    "description": "AI and Machine Learning with Kubeflow, Amazon EKS, and SageMaker"
   },
   {
-    "repo": "actions/virtual-environments",
-    "branch": "main",
-    "language": "PowerShell",
-    "description": "GitHub Actions runner images"
-  },
-  {
-    "repo": "jaywcjlove/awesome-mac",
-    "branch": "master",
-    "language": "JavaScript",
-    "description": " Now we have become very big, Different from the original idea. Collect premium software in various categories."
-  },
-  {
-    "repo": "mvanhorn/last30days-skill",
-    "branch": "main",
-    "language": "Python",
-    "description": "Claude Code skill that researches any topic across Reddit + X from the last 30 days, then writes copy-paste-ready prompts"
-  },
-  {
-    "repo": "facebook/create-react-app",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "Set up a modern web app by running one command."
-  },
-  {
-    "repo": "humanloop/awesome-chatgpt",
+    "repo": "NCSC-NL/spring4shell",
     "branch": "main",
     "language": "Other",
-    "description": "Curated list of awesome tools, demos, docs for ChatGPT and GPT-3"
+    "description": "Operational information regarding the Spring4Shell vulnerability in the Spring Core Framework"
   },
   {
-    "repo": "v4nsh0x/InstaTrace",
+    "repo": "validatorjs/validator.js",
+    "branch": "master",
+    "language": "JavaScript",
+    "description": "String validation"
+  },
+  {
+    "repo": "wagmi-dev/viem",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "TypeScript Interface for Ethereum"
+  },
+  {
+    "repo": "axios/axios",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "Promise based HTTP client for the browser and node.js"
+  },
+  {
+    "repo": "understudy-ai/understudy",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "An understudy watches. Then performs."
+  },
+  {
+    "repo": "total-typescript/ts-reset",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "A 'CSS reset' for TypeScript, improving types for common JavaScript API's"
+  },
+  {
+    "repo": "aframevr/aframe",
+    "branch": "master",
+    "language": "JavaScript",
+    "description": ":a: Web framework for building virtual reality experiences."
+  },
+  {
+    "repo": "davegoldblatt/total-recall",
+    "branch": "main",
+    "language": "Shell",
+    "description": "Persistent memory plugin for Claude Code. Tiered memory system with write gates, correction propagation, and slash commands."
+  },
+  {
+    "repo": "mitkox/vllm-turboquant",
     "branch": "main",
     "language": "Python",
-    "description": "Private Instagram Post URL Extractor (Research POC)"
+    "description": "vLLM 0.18.1rc1 with TurboQuant"
   }
 ]
