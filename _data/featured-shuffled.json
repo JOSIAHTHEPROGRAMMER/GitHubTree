@@ -1,75 +1,75 @@
 [
   {
-    "repo": "briliwar0/glm-5.2-free-desktop-app",
-    "branch": "main",
-    "language": "C#",
-    "description": "glm 5.2 free z.ai  llm chatbot free api access local llm unsloth dynamic gguf llama.cpp ollama run coding assistant autonomous agent zcode opencode cloudflare workers ai hugging face model weights 1m context window long horizon tasks token bypass benchmark swe bench pro terminal bench setup installation windows macos linux"
-  },
-  {
-    "repo": "brunch/brunch",
+    "repo": "Joyi-code/DeepSeekMonitorWindows",
     "branch": "master",
-    "language": "JavaScript",
-    "description": "🍴 Web applications made easy. Since 2011."
+    "language": "TypeScript",
+    "description": "Windows desktop monitor for DeepSeek balance and usage, built with Tauri, React and Rust."
   },
   {
-    "repo": "playframework/playframework",
-    "branch": "main",
-    "language": "Scala",
-    "description": "The Community Maintained High Velocity Web Framework For Java and Scala."
-  },
-  {
-    "repo": "XTLS/Xray-core",
+    "repo": "louisho5/picobot",
     "branch": "main",
     "language": "Go",
-    "description": "Xray, Penetrates Everything. Also the best v2ray-core. Where the magic happens. An open platform for various uses."
+    "description": "A lightweight self-hosted bot in a single binary, written in Go."
   },
   {
-    "repo": "sympy/sympy",
+    "repo": "needle-tools/md-browse",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Markdown Browser – See the web like an AI does"
+  },
+  {
+    "repo": "nhevers/MoltBrain",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Long-term memory layer for OpenClaw & MoltBook agents that learns and recalls your project context automatically."
+  },
+  {
+    "repo": "owncloud/core",
     "branch": "master",
-    "language": "Python",
-    "description": "A computer algebra system written in pure Python"
+    "language": "PHP",
+    "description": ":cloud: ownCloud web server core (Files, DAV, etc.)"
   },
   {
-    "repo": "karatelabs/karate",
-    "branch": "master",
-    "language": "Java",
-    "description": "Test Automation Made Simple"
-  },
-  {
-    "repo": "raspberrypi/firmware",
-    "branch": "master",
-    "language": "Other",
-    "description": "This repository contains pre-compiled binaries of the current Raspberry Pi  kernel and modules, userspace libraries, and bootloader/GPU firmware."
-  },
-  {
-    "repo": "papers-we-love/papers-we-love",
-    "branch": "master",
-    "language": "Shell",
-    "description": "Papers from the computer science community to read and discuss."
-  },
-  {
-    "repo": "EbookFoundation/free-programming-books",
+    "repo": "blacksiders/SkillPointer",
     "branch": "main",
     "language": "Python",
-    "description": ":books: Freely available programming books"
+    "description": ""
   },
   {
-    "repo": "ReactiveX/RxKotlin",
-    "branch": "3.x",
-    "language": "Kotlin",
-    "description": "RxJava bindings for Kotlin"
-  },
-  {
-    "repo": "pi-hole/pi-hole",
+    "repo": "getredash/redash",
     "branch": "master",
-    "language": "Shell",
-    "description": "A black hole for Internet advertisements"
+    "language": "Python",
+    "description": "Make Your Company Data Driven. Connect to any data source, easily visualize, dashboard and share your data."
   },
   {
-    "repo": "nextcloud/ios",
+    "repo": "karanb192/claude-code-hooks",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "🪝 A growing collection of useful Claude Code hooks. Copy, paste, customize."
+  },
+  {
+    "repo": "go-gorm/gorm",
     "branch": "master",
-    "language": "Swift",
-    "description": "📱 Nextcloud iOS App"
+    "language": "Go",
+    "description": "The fantastic ORM library for Golang, aims to be developer friendly"
+  },
+  {
+    "repo": "EA1FUO/AntennaSim",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Web-based antenna simulator powered by NEC2. Design, simulate, and analyze antennas with real-time 3D visualization, radiation patterns, SWR, and impedance charts."
+  },
+  {
+    "repo": "lsd-rs/lsd",
+    "branch": "master",
+    "language": "Rust",
+    "description": "The next gen ls command"
+  },
+  {
+    "repo": "Work-Fisher/openclaw-ai-assistant-framework",
+    "branch": "main",
+    "language": "Python",
+    "description": "OpenClaw AI助手完整框架 - 7步深度使用法 + 回溯清理机制"
   },
   {
     "repo": "rayon-rs/rayon",
@@ -78,69 +78,69 @@
     "description": "Rayon: A data parallelism library for Rust"
   },
   {
-    "repo": "element-plus/element-plus",
-    "branch": "dev",
+    "repo": "vansh-nagar/ascii-studio",
+    "branch": "main",
     "language": "TypeScript",
-    "description": "🎉 A Vue.js 3 UI Library made by Element team"
+    "description": "Turn Videos into ASCII Frames - real ascii frames (character-based frames that run smoothly in sequence)"
   },
   {
-    "repo": "samanalalokaya/polymarket-copy-trading-bot",
+    "repo": "GreenSheep01201/claw-empire",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Command Your AI Agent Empire from the CEO Desk — A local-first AI agent office simulator that orchestrates CLI, OAuth, and API-connected agents (Claude Code, Codex CLI, Gemini CLI, OpenCode, and more) as a virtual autonomous company."
+  },
+  {
+    "repo": "encode/uvicorn",
     "branch": "master",
-    "language": "JavaScript",
-    "description": "Copies trades from a target Polymarket wallet to your own. Watches the target via REST or WebSocket, then places matching orders (scaled by a multiplier) using the Polymarket CLOB. CLUE: polymarket copy trading bot polymarket copy trading bot polymarket copy trading bot polymarket copy trading bot polymarket copy trading bot polymarket copy trading"
+    "language": "Python",
+    "description": "An ASGI web server, for Python. 🦄"
   },
   {
-    "repo": "NousResearch/hermes-agent-self-evolution",
+    "repo": "mitjafelicijan/xdgctl",
+    "branch": "master",
+    "language": "C",
+    "description": "TUI for managing XDG default applications"
+  },
+  {
+    "repo": "Mathews-Tom/no-magic",
     "branch": "main",
     "language": "Python",
-    "description": "⚒ Evolutionary self-improvement for Hermes Agent — optimize skills, prompts, and code using DSPy + GEPA"
+    "description": "Because `model.fit()` isn't an explanation"
   },
   {
-    "repo": "callstackincubator/agent-device",
+    "repo": "adafruit/circuitpython",
+    "branch": "main",
+    "language": "C",
+    "description": "CircuitPython - a Python implementation for teaching coding with microcontrollers"
+  },
+  {
+    "repo": "beita6969/ScienceClaw",
     "branch": "main",
     "language": "TypeScript",
-    "description": "CLI to control iOS and Android devices for AI agents"
+    "description": "🔬🦞 A self-evolving AI research colleague for scientists. 285 skills, zero hallucination, persistent memory."
   },
   {
-    "repo": "openperf/brief",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "AI Agent Service Agreement"
-  },
-  {
-    "repo": "anthropics/claudes-c-compiler",
-    "branch": "main",
-    "language": "Rust",
-    "description": "Claude Opus 4.6 wrote a dependency-free C compiler in Rust, with backends targeting x86 (64- and 32-bit), ARM, and RISC-V, capable of compiling a booting Linux kernel."
-  },
-  {
-    "repo": "apache/spark",
+    "repo": "fastai/course-v3",
     "branch": "master",
-    "language": "Scala",
-    "description": "Apache Spark - A unified analytics engine for large-scale data processing"
+    "language": "Jupyter Notebook",
+    "description": "The 3rd edition of course.fast.ai"
   },
   {
-    "repo": "victorsosaMx/vsWaybar-Studio",
+    "repo": "Infatoshi/x-cli",
     "branch": "main",
     "language": "Python",
-    "description": "Visual editor for Waybar — build, style and preview your bar in real time (GTK + Python)"
+    "description": "CLI for X/Twitter API v2 -- post, search, like, bookmark from your terminal"
   },
   {
-    "repo": "Y-Peng-Dev/Watchdog",
-    "branch": "master",
-    "language": "C#",
-    "description": "Watchdog for Grasshopper Prevent Rhino & Grasshopper from freezing due to accidental massive computations or cascading calculation chains."
-  },
-  {
-    "repo": "smartcontractkit/chainlink",
-    "branch": "develop",
+    "repo": "hashicorp/terraform",
+    "branch": "main",
     "language": "Go",
-    "description": "node of the decentralized oracle network, bridging on and off-chain computation"
+    "description": "Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned."
   },
   {
-    "repo": "ionic-team/ionic-framework",
+    "repo": "vueuse/skills",
     "branch": "main",
     "language": "TypeScript",
-    "description": "A powerful cross-platform UI toolkit for building native-quality iOS, Android, and Progressive Web Apps with HTML, CSS, and JavaScript."
+    "description": "Agent Skills for VueUse"
   }
 ]
