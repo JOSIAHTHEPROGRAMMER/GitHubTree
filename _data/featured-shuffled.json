@@ -1,146 +1,146 @@
 [
   {
-    "repo": "Joyi-code/DeepSeekMonitorWindows",
-    "branch": "master",
-    "language": "TypeScript",
-    "description": "Windows desktop monitor for DeepSeek balance and usage, built with Tauri, React and Rust."
+    "repo": "SeleniumHQ/selenium",
+    "branch": "trunk",
+    "language": "Java",
+    "description": "A browser automation framework and ecosystem."
   },
   {
-    "repo": "louisho5/picobot",
+    "repo": "MaximeRivest/riddle",
     "branch": "main",
+    "language": "Rust",
+    "description": "The diary of Tom Riddle for the reMarkable Paper Pro — write with your pen, the page drinks your ink and answers in a flowing hand"
+  },
+  {
+    "repo": "cortexproject/cortex",
+    "branch": "master",
     "language": "Go",
-    "description": "A lightweight self-hosted bot in a single binary, written in Go."
+    "description": "A horizontally scalable, highly available, multi-tenant, long term Prometheus."
   },
   {
-    "repo": "needle-tools/md-browse",
+    "repo": "sndrec/WebMonkeyBall",
     "branch": "main",
     "language": "TypeScript",
-    "description": "Markdown Browser – See the web like an AI does"
+    "description": "Super Monkey Ball on Web Broser."
   },
   {
-    "repo": "nhevers/MoltBrain",
+    "repo": "michelleoincx/genspark.ai-openclaw",
     "branch": "main",
     "language": "TypeScript",
-    "description": "Long-term memory layer for OpenClaw & MoltBook agents that learns and recalls your project context automatically."
+    "description": "OpenClaw for genspark.ai — open-source extension that claws through every paywall and rate limit. Install in one command, run forever free."
   },
   {
-    "repo": "owncloud/core",
-    "branch": "master",
-    "language": "PHP",
-    "description": ":cloud: ownCloud web server core (Files, DAV, etc.)"
+    "repo": "HugoRCD/evlog",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Logging that makes sense. Wide events, structured errors, zero chaos."
   },
   {
-    "repo": "blacksiders/SkillPointer",
+    "repo": "phuryn/pm-skills",
     "branch": "main",
     "language": "Python",
+    "description": "PM Skills Marketplace: An AI Operating System for Better Product Decisions. 65 PM skills and 36 chained workflows across 8 plugins — from discovery to strategy, execution, launch, and growth."
+  },
+  {
+    "repo": "npmx-dev/npmx.dev",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "a fast, modern browser for the npm registry"
+  },
+  {
+    "repo": "Willis404/Professional-Polymarket-Trading-Bots-Suite-AI-Powered-Arbitrage-Copy-Trading",
+    "branch": "main",
+    "language": "Rust",
+    "description": "Polymarket Trading Bot, Polymarket Arbitrage Bot, Polymarket Copy Trading, Automated Polymarket Trading, Polymarket Bot Rust, Synth AI Trading, Bittensor Trading Bot, Polymarket Prediction Markets, Crypto Trading Bot, DeFi Trading Automation"
+  },
+  {
+    "repo": "aws/aws-cdk",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "The AWS Cloud Development Kit is a framework for defining cloud infrastructure in code"
+  },
+  {
+    "repo": "pinchtab/pinchtab",
+    "branch": "main",
+    "language": "Go",
     "description": ""
   },
   {
-    "repo": "getredash/redash",
-    "branch": "master",
-    "language": "Python",
-    "description": "Make Your Company Data Driven. Connect to any data source, easily visualize, dashboard and share your data."
+    "repo": "LuaJIT/LuaJIT",
+    "branch": "v2.1",
+    "language": "C",
+    "description": "Mirror of the LuaJIT git repository"
   },
   {
-    "repo": "karanb192/claude-code-hooks",
+    "repo": "yazinsai/quran-validator",
     "branch": "main",
-    "language": "JavaScript",
-    "description": "🪝 A growing collection of useful Claude Code hooks. Copy, paste, customize."
+    "language": "TypeScript",
+    "description": "Validate and verify Quranic verses in LLM-generated text with high accuracy"
   },
   {
-    "repo": "go-gorm/gorm",
+    "repo": "freestylefly/openclaw-wechat",
+    "branch": "master",
+    "language": "TypeScript",
+    "description": "让 OpenClaw稳定的连上你的个人微信"
+  },
+  {
+    "repo": "stretchr/testify",
     "branch": "master",
     "language": "Go",
-    "description": "The fantastic ORM library for Golang, aims to be developer friendly"
+    "description": "A toolkit with common assertions and mocks that plays nicely with the standard library"
   },
   {
-    "repo": "EA1FUO/AntennaSim",
+    "repo": "Atrix256/Thirteen",
     "branch": "main",
-    "language": "TypeScript",
-    "description": "Web-based antenna simulator powered by NEC2. Design, simulate, and analyze antennas with real-time 3D visualization, radiation patterns, SWR, and impedance charts."
+    "language": "C++",
+    "description": "Header only minimalist interface to graphics, inspired by the olden days of mode 13h"
   },
   {
-    "repo": "lsd-rs/lsd",
-    "branch": "master",
-    "language": "Rust",
-    "description": "The next gen ls command"
-  },
-  {
-    "repo": "Work-Fisher/openclaw-ai-assistant-framework",
+    "repo": "mvanhorn/last30days-skill",
     "branch": "main",
     "language": "Python",
-    "description": "OpenClaw AI助手完整框架 - 7步深度使用法 + 回溯清理机制"
+    "description": "Claude Code skill that researches any topic across Reddit + X from the last 30 days, then writes copy-paste-ready prompts"
   },
   {
-    "repo": "rayon-rs/rayon",
-    "branch": "master",
-    "language": "Rust",
-    "description": "Rayon: A data parallelism library for Rust"
-  },
-  {
-    "repo": "vansh-nagar/ascii-studio",
+    "repo": "disler/pi-vs-claude-code",
     "branch": "main",
     "language": "TypeScript",
-    "description": "Turn Videos into ASCII Frames - real ascii frames (character-based frames that run smoothly in sequence)"
+    "description": "Comparison between open source PI agent and closed source Claude Code agent"
   },
   {
-    "repo": "GreenSheep01201/claw-empire",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Command Your AI Agent Empire from the CEO Desk — A local-first AI agent office simulator that orchestrates CLI, OAuth, and API-connected agents (Claude Code, Codex CLI, Gemini CLI, OpenCode, and more) as a virtual autonomous company."
-  },
-  {
-    "repo": "encode/uvicorn",
+    "repo": "jesseduffield/lazygit",
     "branch": "master",
-    "language": "Python",
-    "description": "An ASGI web server, for Python. 🦄"
-  },
-  {
-    "repo": "mitjafelicijan/xdgctl",
-    "branch": "master",
-    "language": "C",
-    "description": "TUI for managing XDG default applications"
-  },
-  {
-    "repo": "Mathews-Tom/no-magic",
-    "branch": "main",
-    "language": "Python",
-    "description": "Because `model.fit()` isn't an explanation"
-  },
-  {
-    "repo": "adafruit/circuitpython",
-    "branch": "main",
-    "language": "C",
-    "description": "CircuitPython - a Python implementation for teaching coding with microcontrollers"
-  },
-  {
-    "repo": "beita6969/ScienceClaw",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "🔬🦞 A self-evolving AI research colleague for scientists. 285 skills, zero hallucination, persistent memory."
-  },
-  {
-    "repo": "fastai/course-v3",
-    "branch": "master",
-    "language": "Jupyter Notebook",
-    "description": "The 3rd edition of course.fast.ai"
-  },
-  {
-    "repo": "Infatoshi/x-cli",
-    "branch": "main",
-    "language": "Python",
-    "description": "CLI for X/Twitter API v2 -- post, search, like, bookmark from your terminal"
-  },
-  {
-    "repo": "hashicorp/terraform",
-    "branch": "main",
     "language": "Go",
-    "description": "Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned."
+    "description": "simple terminal UI for git commands"
   },
   {
-    "repo": "vueuse/skills",
+    "repo": "square/retrofit",
+    "branch": "master",
+    "language": "HTML",
+    "description": "A type-safe HTTP client for Android and the JVM"
+  },
+  {
+    "repo": "defold/defold",
+    "branch": "dev",
+    "language": "C++",
+    "description": "Defold is a completely free to use game engine for development of desktop, mobile and web games."
+  },
+  {
+    "repo": "rust-analyzer/rust-analyzer",
+    "branch": "master",
+    "language": "Rust",
+    "description": "A Rust compiler front-end for IDEs"
+  },
+  {
+    "repo": "qlabs-eng/slowrun",
     "branch": "main",
-    "language": "TypeScript",
-    "description": "Agent Skills for VueUse"
+    "language": "Python",
+    "description": "100M tokens, no time limit, best val loss wins!"
+  },
+  {
+    "repo": "docker/docker-py",
+    "branch": "main",
+    "language": "Python",
+    "description": "A Python library for the Docker Engine API"
   }
 ]
