@@ -1,146 +1,146 @@
 [
   {
-    "repo": "SeleniumHQ/selenium",
-    "branch": "trunk",
-    "language": "Java",
-    "description": "A browser automation framework and ecosystem."
-  },
-  {
-    "repo": "MaximeRivest/riddle",
+    "repo": "tools-lua/steam-tools",
     "branch": "main",
-    "language": "Rust",
-    "description": "The diary of Tom Riddle for the reMarkable Paper Pro — write with your pen, the page drinks your ink and answers in a flowing hand"
+    "language": "C#",
+    "description": "steam tools steamtools github download  lua tools manifest  official client backup mirror beyonddimension archive proxy lua manifest generator Watt Toolkit」是一个开源跨平台的多功能 Steam 工具箱。"
   },
   {
-    "repo": "cortexproject/cortex",
+    "repo": "qemu/qemu",
     "branch": "master",
-    "language": "Go",
-    "description": "A horizontally scalable, highly available, multi-tenant, long term Prometheus."
+    "language": "C",
+    "description": "Official QEMU mirror. Please see https://www.qemu.org/contribute/ for how to submit changes to QEMU. Pull Requests are ignored. Please only use release tarballs from the QEMU website."
   },
   {
-    "repo": "sndrec/WebMonkeyBall",
+    "repo": "fastify/fastify",
     "branch": "main",
-    "language": "TypeScript",
-    "description": "Super Monkey Ball on Web Broser."
+    "language": "JavaScript",
+    "description": "Fast and low overhead web framework, for Node.js"
   },
   {
-    "repo": "michelleoincx/genspark.ai-openclaw",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "OpenClaw for genspark.ai — open-source extension that claws through every paywall and rate limit. Install in one command, run forever free."
-  },
-  {
-    "repo": "HugoRCD/evlog",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Logging that makes sense. Wide events, structured errors, zero chaos."
-  },
-  {
-    "repo": "phuryn/pm-skills",
-    "branch": "main",
-    "language": "Python",
-    "description": "PM Skills Marketplace: An AI Operating System for Better Product Decisions. 65 PM skills and 36 chained workflows across 8 plugins — from discovery to strategy, execution, launch, and growth."
-  },
-  {
-    "repo": "npmx-dev/npmx.dev",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "a fast, modern browser for the npm registry"
-  },
-  {
-    "repo": "Willis404/Professional-Polymarket-Trading-Bots-Suite-AI-Powered-Arbitrage-Copy-Trading",
+    "repo": "kata-containers/kata-containers",
     "branch": "main",
     "language": "Rust",
-    "description": "Polymarket Trading Bot, Polymarket Arbitrage Bot, Polymarket Copy Trading, Automated Polymarket Trading, Polymarket Bot Rust, Synth AI Trading, Bittensor Trading Bot, Polymarket Prediction Markets, Crypto Trading Bot, DeFi Trading Automation"
+    "description": "Kata Containers is an open source project and community working to build a standard implementation of lightweight Virtual Machines (VMs) that feel and perform like containers, but provide the workload isolation and security advantages of VMs. https://katacontainers.io/"
   },
   {
-    "repo": "aws/aws-cdk",
+    "repo": "TheCSir/TerminalStart",
     "branch": "main",
     "language": "TypeScript",
-    "description": "The AWS Cloud Development Kit is a framework for defining cloud infrastructure in code"
+    "description": "Chromium Extension for Tech Bros"
   },
   {
-    "repo": "pinchtab/pinchtab",
+    "repo": "jasperan/picooraclaw",
     "branch": "main",
     "language": "Go",
+    "description": "PicoClaw that works with Oracle AI Database"
+  },
+  {
+    "repo": "510myRday/Cursor-Toolbox",
+    "branch": "main",
+    "language": "JavaScript",
     "description": ""
   },
   {
-    "repo": "LuaJIT/LuaJIT",
-    "branch": "v2.1",
-    "language": "C",
-    "description": "Mirror of the LuaJIT git repository"
-  },
-  {
-    "repo": "yazinsai/quran-validator",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Validate and verify Quranic verses in LLM-generated text with high accuracy"
-  },
-  {
-    "repo": "freestylefly/openclaw-wechat",
-    "branch": "master",
-    "language": "TypeScript",
-    "description": "让 OpenClaw稳定的连上你的个人微信"
-  },
-  {
-    "repo": "stretchr/testify",
-    "branch": "master",
-    "language": "Go",
-    "description": "A toolkit with common assertions and mocks that plays nicely with the standard library"
-  },
-  {
-    "repo": "Atrix256/Thirteen",
-    "branch": "main",
-    "language": "C++",
-    "description": "Header only minimalist interface to graphics, inspired by the olden days of mode 13h"
-  },
-  {
-    "repo": "mvanhorn/last30days-skill",
+    "repo": "op7418/Video-Wrapper-Skills",
     "branch": "main",
     "language": "Python",
-    "description": "Claude Code skill that researches any topic across Reddit + X from the last 30 days, then writes copy-paste-ready prompts"
+    "description": "为访谈视频添加综艺风格视觉特效的 Claude Skill。AI 分析字幕内容生成建议，用户审批后自动渲染，支持 4 种视觉主题。"
   },
   {
-    "repo": "disler/pi-vs-claude-code",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Comparison between open source PI agent and closed source Claude Code agent"
-  },
-  {
-    "repo": "jesseduffield/lazygit",
+    "repo": "go-pg/pg",
     "branch": "master",
     "language": "Go",
-    "description": "simple terminal UI for git commands"
+    "description": "Golang ORM with focus on PostgreSQL features and performance"
   },
   {
-    "repo": "square/retrofit",
+    "repo": "liuxiaopai-ai/ralph-desktop",
+    "branch": "main",
+    "language": "Rust",
+    "description": "Ralph Desktop -  Start vague. Ralph Loop until perfect.  A visual controller for AI coding agents that helps you brainstorm requirements and execute tasks through persistent iteration."
+  },
+  {
+    "repo": "jmuncor/tokentap",
+    "branch": "main",
+    "language": "Python",
+    "description": "Intercept LLM API traffic and visualize token usage in a real-time terminal dashboard. Track costs,       debug prompts, and monitor context window usage across your AI development sessions."
+  },
+  {
+    "repo": "lerna/lerna",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Lerna is a fast, modern build system for managing and publishing multiple JavaScript/TypeScript packages from the same repository."
+  },
+  {
+    "repo": "934050259/BrowserCluster",
+    "branch": "main",
+    "language": "Python",
+    "description": "Browser Cluster 是一个高性能、分布式的浏览器自动化集群系统，基于 Playwright 和 FastAPI 构建。它支持大规模并发网页抓取、截图、PDF 生成及自动化操作，具备完善的任务调度、结果缓存和节点管理功能。"
+  },
+  {
+    "repo": "rclone/rclone",
     "branch": "master",
+    "language": "Go",
+    "description": "rsync for cloud storage - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Azure Blob, Azure Files, Yandex Files"
+  },
+  {
+    "repo": "nektos/act",
+    "branch": "master",
+    "language": "Go",
+    "description": "Run your GitHub Actions locally 🚀"
+  },
+  {
+    "repo": "flairNLP/flair",
+    "branch": "master",
+    "language": "Python",
+    "description": "A very simple framework for state-of-the-art Natural Language Processing (NLP)"
+  },
+  {
+    "repo": "cosmos/cosmos-sdk",
+    "branch": "main",
+    "language": "Go",
+    "description": ":chains: A Framework for Building High Value Public Blockchains :sparkles:"
+  },
+  {
+    "repo": "fjh1997/Linux.do-Accelerator",
+    "branch": "main",
+    "language": "Rust",
+    "description": "一个原生 Rust 的 linux.do 专属加速器，基于本地 ECH/DoH 处理，支持 CLI + 桌面 GUI。 Native Rust accelerator for linux.do with local ECH/DoH-assisted access, CLI + desktop GUI."
+  },
+  {
+    "repo": "op7418/Claude-to-IM-skill",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Bridge Claude Code / Codex to IM platforms — chat with AI coding agents from Telegram, Discord, or Feishu/Lark."
+  },
+  {
+    "repo": "f/textream",
+    "branch": "master",
+    "language": "Swift",
+    "description": "Textream is a free macOS teleprompter app for streamers, interviewers, and presenters. It highlights your script in real-time as you speak, displayed in a beautiful Dynamic Island overlay."
+  },
+  {
+    "repo": "L1AD/claude-task-viewer",
+    "branch": "main",
     "language": "HTML",
-    "description": "A type-safe HTTP client for Android and the JVM"
+    "description": "A web-based Kanban board for viewing Claude Code tasks"
   },
   {
-    "repo": "defold/defold",
-    "branch": "dev",
-    "language": "C++",
-    "description": "Defold is a completely free to use game engine for development of desktop, mobile and web games."
+    "repo": "allenai/allennlp",
+    "branch": "main",
+    "language": "Python",
+    "description": "An open-source NLP research library, built on PyTorch."
   },
   {
-    "repo": "rust-analyzer/rust-analyzer",
+    "repo": "paritytech/substrate",
     "branch": "master",
     "language": "Rust",
-    "description": "A Rust compiler front-end for IDEs"
+    "description": "Substrate: The platform for blockchain innovators"
   },
   {
-    "repo": "qlabs-eng/slowrun",
+    "repo": "sgInnora/alipay-deeplink-research",
     "branch": "main",
-    "language": "Python",
-    "description": "100M tokens, no time limit, best val loss wins!"
-  },
-  {
-    "repo": "docker/docker-py",
-    "branch": "main",
-    "language": "Python",
-    "description": "A Python library for the Docker Engine API"
+    "language": "HTML",
+    "description": "Alipay DeepLink + JSBridge Security Research - 17 Verified Vulnerabilities | 支付宝DeepLink安全研究 | Full Report: innora.ai/zfb"
   }
 ]
