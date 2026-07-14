@@ -1,129 +1,117 @@
 [
   {
-    "repo": "tools-lua/steam-tools",
-    "branch": "main",
-    "language": "C#",
-    "description": "steam tools steamtools github download  lua tools manifest  official client backup mirror beyonddimension archive proxy lua manifest generator Watt Toolkit」是一个开源跨平台的多功能 Steam 工具箱。"
-  },
-  {
-    "repo": "qemu/qemu",
-    "branch": "master",
-    "language": "C",
-    "description": "Official QEMU mirror. Please see https://www.qemu.org/contribute/ for how to submit changes to QEMU. Pull Requests are ignored. Please only use release tarballs from the QEMU website."
-  },
-  {
-    "repo": "fastify/fastify",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "Fast and low overhead web framework, for Node.js"
-  },
-  {
-    "repo": "kata-containers/kata-containers",
-    "branch": "main",
-    "language": "Rust",
-    "description": "Kata Containers is an open source project and community working to build a standard implementation of lightweight Virtual Machines (VMs) that feel and perform like containers, but provide the workload isolation and security advantages of VMs. https://katacontainers.io/"
-  },
-  {
-    "repo": "TheCSir/TerminalStart",
+    "repo": "johannesjo/parallel-code",
     "branch": "main",
     "language": "TypeScript",
-    "description": "Chromium Extension for Tech Bros"
+    "description": "Run Claude Code, Codex, and Gemini side by side — each in      its own git worktree"
   },
   {
-    "repo": "jasperan/picooraclaw",
+    "repo": "unjs/h3",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "⚡️ Minimal H(TTP) framework built for high performance and portability"
+  },
+  {
+    "repo": "tendermint/tendermint",
     "branch": "main",
     "language": "Go",
-    "description": "PicoClaw that works with Oracle AI Database"
+    "description": "⟁ Tendermint Core (BFT Consensus) in Go"
   },
   {
-    "repo": "510myRday/Cursor-Toolbox",
+    "repo": "microsoft/onnxruntime",
+    "branch": "main",
+    "language": "C++",
+    "description": "ONNX Runtime: cross-platform, high performance ML inferencing and training accelerator"
+  },
+  {
+    "repo": "FortAwesome/Font-Awesome",
+    "branch": "6.x",
+    "language": "JavaScript",
+    "description": "The iconic SVG, font, and CSS toolkit"
+  },
+  {
+    "repo": "donnemartin/system-design-primer",
+    "branch": "master",
+    "language": "Python",
+    "description": "Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards."
+  },
+  {
+    "repo": "asdfgh1445/ctf-super-hub",
     "branch": "main",
     "language": "JavaScript",
+    "description": "面向小白用户的 CTF / 逆向 Skills 整合包：自动分流、头脑风暴、教学模式、比赛模式、只提示模式"
+  },
+  {
+    "repo": "MistKailorg/Polymarket-trading-bot",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Polymarket trading bot | Polymarket trading bot | Polymarket trading bot | Polymarket trading bot | Polymarket trading bot | Polymarket trading bot | Polymarket trading bot | Polymarket trading bot | Polymarket trading bot | Polymarket copy trading bot | Polymarket copy trading bot | Polymarket copy trading bot | Polymarket copy trading bot"
+  },
+  {
+    "repo": "abhinavkale-dev/fynt",
+    "branch": "master",
+    "language": "TypeScript",
+    "description": "Self-hostable workflow automation platform"
+  },
+  {
+    "repo": "harshkedia177/axon",
+    "branch": "main",
+    "language": "Python",
+    "description": "Graph-powered code intelligence engine — indexes codebases into a knowledge graph, exposed via MCP tools for AI agents and a CLI for developers."
+  },
+  {
+    "repo": "996icu/996.ICU",
+    "branch": "master",
+    "language": "Other",
+    "description": "Repo for counting stars and contributing. Press F to pay respect to glorious developers."
+  },
+  {
+    "repo": "swc-project/swc",
+    "branch": "main",
+    "language": "Rust",
+    "description": "Rust-based platform for the Web"
+  },
+  {
+    "repo": "opencontainers/runc",
+    "branch": "main",
+    "language": "Go",
+    "description": "CLI tool for spawning and running containers according to the OCI specification"
+  },
+  {
+    "repo": "PinchToDebug/EverythingQuickSearch",
+    "branch": "master",
+    "language": "C#",
     "description": ""
   },
   {
-    "repo": "op7418/Video-Wrapper-Skills",
-    "branch": "main",
-    "language": "Python",
-    "description": "为访谈视频添加综艺风格视觉特效的 Claude Skill。AI 分析字幕内容生成建议，用户审批后自动渲染，支持 4 种视觉主题。"
-  },
-  {
-    "repo": "go-pg/pg",
-    "branch": "master",
-    "language": "Go",
-    "description": "Golang ORM with focus on PostgreSQL features and performance"
-  },
-  {
-    "repo": "liuxiaopai-ai/ralph-desktop",
+    "repo": "zeroclaw-labs/zeroclaw",
     "branch": "main",
     "language": "Rust",
-    "description": "Ralph Desktop -  Start vague. Ralph Loop until perfect.  A visual controller for AI coding agents that helps you brainstorm requirements and execute tasks through persistent iteration."
+    "description": "Fast, small, and fully autonomous AI assistant infrastructure — deploy anywhere, swap anything 🦀"
   },
   {
-    "repo": "jmuncor/tokentap",
+    "repo": "AThevon/TokenEater",
     "branch": "main",
-    "language": "Python",
-    "description": "Intercept LLM API traffic and visualize token usage in a real-time terminal dashboard. Track costs,       debug prompts, and monitor context window usage across your AI development sessions."
-  },
-  {
-    "repo": "lerna/lerna",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Lerna is a fast, modern build system for managing and publishing multiple JavaScript/TypeScript packages from the same repository."
-  },
-  {
-    "repo": "934050259/BrowserCluster",
-    "branch": "main",
-    "language": "Python",
-    "description": "Browser Cluster 是一个高性能、分布式的浏览器自动化集群系统，基于 Playwright 和 FastAPI 构建。它支持大规模并发网页抓取、截图、PDF 生成及自动化操作，具备完善的任务调度、结果缓存和节点管理功能。"
-  },
-  {
-    "repo": "rclone/rclone",
-    "branch": "master",
-    "language": "Go",
-    "description": "rsync for cloud storage - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Azure Blob, Azure Files, Yandex Files"
-  },
-  {
-    "repo": "nektos/act",
-    "branch": "master",
-    "language": "Go",
-    "description": "Run your GitHub Actions locally 🚀"
-  },
-  {
-    "repo": "flairNLP/flair",
-    "branch": "master",
-    "language": "Python",
-    "description": "A very simple framework for state-of-the-art Natural Language Processing (NLP)"
-  },
-  {
-    "repo": "cosmos/cosmos-sdk",
-    "branch": "main",
-    "language": "Go",
-    "description": ":chains: A Framework for Building High Value Public Blockchains :sparkles:"
-  },
-  {
-    "repo": "fjh1997/Linux.do-Accelerator",
-    "branch": "main",
-    "language": "Rust",
-    "description": "一个原生 Rust 的 linux.do 专属加速器，基于本地 ECH/DoH 处理，支持 CLI + 桌面 GUI。 Native Rust accelerator for linux.do with local ECH/DoH-assisted access, CLI + desktop GUI."
-  },
-  {
-    "repo": "op7418/Claude-to-IM-skill",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Bridge Claude Code / Codex to IM platforms — chat with AI coding agents from Telegram, Discord, or Feishu/Lark."
-  },
-  {
-    "repo": "f/textream",
-    "branch": "master",
     "language": "Swift",
-    "description": "Textream is a free macOS teleprompter app for streamers, interviewers, and presenters. It highlights your script in real-time as you speak, displayed in a beautiful Dynamic Island overlay."
+    "description": "Native macOS widget to monitor your Claude AI usage limits in real-time"
   },
   {
-    "repo": "L1AD/claude-task-viewer",
+    "repo": "jesselau76/cigen",
     "branch": "main",
-    "language": "HTML",
-    "description": "A web-based Kanban board for viewing Claude Code tasks"
+    "language": "JavaScript",
+    "description": "Interactive root/affix vocabulary memory web app"
+  },
+  {
+    "repo": "Xuanwo/xurl",
+    "branch": "main",
+    "language": "Rust",
+    "description": "xURL: Client for AI Agents URLs"
+  },
+  {
+    "repo": "juanceresa/sift-kg",
+    "branch": "main",
+    "language": "Python",
+    "description": "Turn any collection of documents into a knowledge graph. Domain-configurable entity extraction, human-in-the-loop dedup, and narrative generation — all from the CLI."
   },
   {
     "repo": "allenai/allennlp",
@@ -132,15 +120,27 @@
     "description": "An open-source NLP research library, built on PyTorch."
   },
   {
-    "repo": "paritytech/substrate",
-    "branch": "master",
-    "language": "Rust",
-    "description": "Substrate: The platform for blockchain innovators"
+    "repo": "symbolica-ai/arcgentica",
+    "branch": "main",
+    "language": "Python",
+    "description": "An ARC-AGI solution using Agentica from Symbolica"
   },
   {
-    "repo": "sgInnora/alipay-deeplink-research",
+    "repo": "kibitzsh/kibitz",
+    "branch": "master",
+    "language": "TypeScript",
+    "description": "Real-time decoded feed of AI agent actions — monitor multiple Claude Code & Codex sessions, see exactly what each agent is doing, and coordinate swarms efficiently"
+  },
+  {
+    "repo": "s2-streamstore/claude-batch-toolkit",
     "branch": "main",
-    "language": "HTML",
-    "description": "Alipay DeepLink + JSBridge Security Research - 17 Verified Vulnerabilities | 支付宝DeepLink安全研究 | Full Report: innora.ai/zfb"
+    "language": "Shell",
+    "description": "Send non-urgent work to the Anthropic Batch API at 50% cost — directly from Claude Code"
+  },
+  {
+    "repo": "xgen-universe/Capybara",
+    "branch": "main",
+    "language": "Python",
+    "description": ""
   }
 ]
