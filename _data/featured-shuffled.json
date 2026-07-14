@@ -1,146 +1,146 @@
 [
   {
-    "repo": "johannesjo/parallel-code",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Run Claude Code, Codex, and Gemini side by side — each in      its own git worktree"
-  },
-  {
-    "repo": "unjs/h3",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "⚡️ Minimal H(TTP) framework built for high performance and portability"
-  },
-  {
-    "repo": "tendermint/tendermint",
+    "repo": "thanos-io/thanos",
     "branch": "main",
     "language": "Go",
-    "description": "⟁ Tendermint Core (BFT Consensus) in Go"
+    "description": "Highly available Prometheus setup with long term storage capabilities. A CNCF Incubating project."
   },
   {
-    "repo": "microsoft/onnxruntime",
+    "repo": "MME-Benchmarks/Video-MME-v2",
+    "branch": "main",
+    "language": "Python",
+    "description": "Video-MME-v2: Towards the Next Stage in Benchmarks for Comprehensive Video Understanding"
+  },
+  {
+    "repo": "AdrianNavaG/Polymarket-Arbitrage-Crypto-Trading-Bot",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot"
+  },
+  {
+    "repo": "mrdoob/draco.js",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "A small, drop-in, pure-JavaScript Draco mesh loader for three.js."
+  },
+  {
+    "repo": "andrewjiang/palantir-for-family-trips",
+    "branch": "master",
+    "language": "JavaScript",
+    "description": "A Palantir-ish dashboard for family trip planning."
+  },
+  {
+    "repo": "avalontm/openpos",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Sistema de punto de venta (POS) basado en terminal (TUI) de código abierto. Construido con Bun, Ink (React para terminal), Zustand y Drizzle ORM."
+  },
+  {
+    "repo": "techjarves/Uncensored-Local-AI-Multiplatform",
+    "branch": "main",
+    "language": "Dart",
+    "description": "A cross-platform Flutter app that runs uncensored, 100% offline open-source AI models (GGUF) directly on your Android, iOS, or PC. No cloud, no filters, total privacy."
+  },
+  {
+    "repo": "bergside/design-md-chrome",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "Chrome extension to extract styles from any website and generate DESIGN.md files and design skills for AI based on TypeUI"
+  },
+  {
+    "repo": "vbhwlvbn/FL-Production-25.2.5-For-PC",
     "branch": "main",
     "language": "C++",
-    "description": "ONNX Runtime: cross-platform, high performance ML inferencing and training accelerator"
+    "description": "FL Production 25.2.5 For PC is the Producer Edition of 25.2.5. Professional DAW for music production, beatmaking, and mastering. Includes all plugins, improved performance, and low latency. Optimized for Windows 10/11."
   },
   {
-    "repo": "FortAwesome/Font-Awesome",
-    "branch": "6.x",
-    "language": "JavaScript",
-    "description": "The iconic SVG, font, and CSS toolkit"
-  },
-  {
-    "repo": "donnemartin/system-design-primer",
-    "branch": "master",
-    "language": "Python",
-    "description": "Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards."
-  },
-  {
-    "repo": "asdfgh1445/ctf-super-hub",
+    "repo": "simoncirstoiu/alice",
     "branch": "main",
     "language": "JavaScript",
-    "description": "面向小白用户的 CTF / 逆向 Skills 整合包：自动分流、头脑风暴、教学模式、比赛模式、只提示模式"
+    "description": "Analyse · Learn · Ingest · Curate · Export — AI-powered YOLO dataset management toolkit"
   },
   {
-    "repo": "MistKailorg/Polymarket-trading-bot",
+    "repo": "caomaolufei/AIInfraGuide",
     "branch": "main",
-    "language": "TypeScript",
-    "description": "Polymarket trading bot | Polymarket trading bot | Polymarket trading bot | Polymarket trading bot | Polymarket trading bot | Polymarket trading bot | Polymarket trading bot | Polymarket trading bot | Polymarket trading bot | Polymarket copy trading bot | Polymarket copy trading bot | Polymarket copy trading bot | Polymarket copy trading bot"
+    "language": "Astro",
+    "description": "AI Infra 全栈从0入门学习资料：https://caomaolufei.github.io/AIInfraGuide/"
   },
   {
-    "repo": "abhinavkale-dev/fynt",
-    "branch": "master",
-    "language": "TypeScript",
-    "description": "Self-hostable workflow automation platform"
-  },
-  {
-    "repo": "harshkedia177/axon",
-    "branch": "main",
-    "language": "Python",
-    "description": "Graph-powered code intelligence engine — indexes codebases into a knowledge graph, exposed via MCP tools for AI agents and a CLI for developers."
-  },
-  {
-    "repo": "996icu/996.ICU",
-    "branch": "master",
-    "language": "Other",
-    "description": "Repo for counting stars and contributing. Press F to pay respect to glorious developers."
-  },
-  {
-    "repo": "swc-project/swc",
-    "branch": "main",
-    "language": "Rust",
-    "description": "Rust-based platform for the Web"
-  },
-  {
-    "repo": "opencontainers/runc",
-    "branch": "main",
-    "language": "Go",
-    "description": "CLI tool for spawning and running containers according to the OCI specification"
-  },
-  {
-    "repo": "PinchToDebug/EverythingQuickSearch",
-    "branch": "master",
-    "language": "C#",
-    "description": ""
-  },
-  {
-    "repo": "zeroclaw-labs/zeroclaw",
-    "branch": "main",
-    "language": "Rust",
-    "description": "Fast, small, and fully autonomous AI assistant infrastructure — deploy anywhere, swap anything 🦀"
-  },
-  {
-    "repo": "AThevon/TokenEater",
-    "branch": "main",
-    "language": "Swift",
-    "description": "Native macOS widget to monitor your Claude AI usage limits in real-time"
-  },
-  {
-    "repo": "jesselau76/cigen",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "Interactive root/affix vocabulary memory web app"
-  },
-  {
-    "repo": "Xuanwo/xurl",
-    "branch": "main",
-    "language": "Rust",
-    "description": "xURL: Client for AI Agents URLs"
-  },
-  {
-    "repo": "juanceresa/sift-kg",
-    "branch": "main",
-    "language": "Python",
-    "description": "Turn any collection of documents into a knowledge graph. Domain-configurable entity extraction, human-in-the-loop dedup, and narrative generation — all from the CLI."
-  },
-  {
-    "repo": "allenai/allennlp",
-    "branch": "main",
-    "language": "Python",
-    "description": "An open-source NLP research library, built on PyTorch."
-  },
-  {
-    "repo": "symbolica-ai/arcgentica",
-    "branch": "main",
-    "language": "Python",
-    "description": "An ARC-AGI solution using Agentica from Symbolica"
-  },
-  {
-    "repo": "kibitzsh/kibitz",
-    "branch": "master",
-    "language": "TypeScript",
-    "description": "Real-time decoded feed of AI agent actions — monitor multiple Claude Code & Codex sessions, see exactly what each agent is doing, and coordinate swarms efficiently"
-  },
-  {
-    "repo": "s2-streamstore/claude-batch-toolkit",
+    "repo": "mohi-devhub/antivibe",
     "branch": "main",
     "language": "Shell",
-    "description": "Send non-urgent work to the Anthropic Batch API at 50% cost — directly from Claude Code"
+    "description": "Learn what AI writes, not just accept it. A Claude Code skill that turns AI-generated code into educational deep dives."
   },
   {
-    "repo": "xgen-universe/Capybara",
+    "repo": "smallnest/autoresearch",
+    "branch": "master",
+    "language": "Shell",
+    "description": "autoresearch for software development"
+  },
+  {
+    "repo": "OpenImagingLab/AnyRecon",
     "branch": "main",
     "language": "Python",
     "description": ""
+  },
+  {
+    "repo": "hussennader/JSON-Mod-Manager-For-Crimson-Desert",
+    "branch": "main",
+    "language": "C++",
+    "description": "Download JSON Mod Manager for Crimson Desert - the easiest way to install, organize, and manage mods. Create and switch mod profiles using JSON files, automatic conflict detection, backups, and one-click installation for .pak mods."
+  },
+  {
+    "repo": "ConardLi/web-design-skill",
+    "branch": "main",
+    "language": "CSS",
+    "description": "An AI agent skill that transforms AI-generated web pages from functional to stunning.(Inspired by Claude Design)"
+  },
+  {
+    "repo": "Barath19/Boxer3D",
+    "branch": "main",
+    "language": "Swift",
+    "description": "AR 3D object detection for iPhone with LiDAR — YOLO 2D + BoxerNet 3D lifting"
+  },
+  {
+    "repo": "mudler/parakeet.cpp",
+    "branch": "master",
+    "language": "C++",
+    "description": "Parakeet implementation in C++ with ggml"
+  },
+  {
+    "repo": "hasoftware/WinTrash",
+    "branch": "main",
+    "language": "PowerShell",
+    "description": "All-in-one PowerShell toolkit that scans 16 types of Windows app leftovers (dead PATH entries, orphan folders, ghost services, broken registry, startup junk...) and cleans them interactively with per-item backups. UI in Vietnamese, English, Chinese, Russian."
+  },
+  {
+    "repo": "anonimosptzs-sys/God_of_War__2018__Unlimited_Rage___Health",
+    "branch": "main",
+    "language": "Python",
+    "description": "Unlimited health, rage, and all runic attacks for God of War (2018). God mode, infinite Spartan Rage, and unlock all upgrades."
+  },
+  {
+    "repo": "Zahid275/Clair_Obscur__Expedition_33_Trainer",
+    "branch": "main",
+    "language": "Python",
+    "description": "Unlimited health, mana, and resources for Clair Obscur: Expedition 33. God mode, infinite items, and max experience. Dominate the turn-based battles."
+  },
+  {
+    "repo": "brexhq/CrabTrap",
+    "branch": "main",
+    "language": "Go",
+    "description": "An LLM-as-a-judge HTTP proxy to secure agents in production"
+  },
+  {
+    "repo": "OsamaBinShah1/Baldur_s_Gate_3_Cheat_Collection",
+    "branch": "main",
+    "language": "Python",
+    "description": "Unlimited gold, all spells, dice roll manipulator, and infinite health for BG3. Always roll a 20, max level, and party never dies."
+  },
+  {
+    "repo": "zizou47/Command_Runner",
+    "branch": "main",
+    "language": "Python",
+    "description": "Run batch scripts, commands, and PowerShell scripts quickly. Save and reuse command sets."
   }
 ]
