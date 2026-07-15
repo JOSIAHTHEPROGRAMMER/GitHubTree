@@ -1,146 +1,146 @@
 [
   {
-    "repo": "steveclarke/real-world-rails",
-    "branch": "main",
-    "language": "Shell",
-    "description": "200+ production open source Rails apps & engines in one repo. Search across real codebases with AI agents to research architectural patterns."
-  },
-  {
-    "repo": "vitest-dev/vitest",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Next generation testing framework powered by Vite."
-  },
-  {
-    "repo": "apache/flink",
-    "branch": "master",
-    "language": "Java",
-    "description": "Apache Flink"
-  },
-  {
-    "repo": "MIKOTOKAWAII25/local-ai-code-assistant",
-    "branch": "main",
-    "language": "HTML",
-    "description": "Local AI Coding Hub: Run Claude Models Offline in 2026"
-  },
-  {
-    "repo": "streamlit/streamlit",
-    "branch": "develop",
-    "language": "Python",
-    "description": "Streamlit — A faster way to build and share data apps."
-  },
-  {
-    "repo": "scikit-learn/scikit-learn",
+    "repo": "HKUDS/ClawTeam",
     "branch": "main",
     "language": "Python",
-    "description": "scikit-learn: machine learning in Python"
+    "description": "ClawTeam: Agent Swarm Intelligence (One Command → Full Automation)"
   },
   {
-    "repo": "actions/upload-artifact",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Upload artifacts from your workflow"
-  },
-  {
-    "repo": "golang/go",
+    "repo": "koodo-reader/koodo-reader",
     "branch": "master",
-    "language": "Go",
-    "description": "The Go programming language"
-  },
-  {
-    "repo": "tailwindcss/tailwindcss",
-    "branch": "master",
-    "language": "TypeScript",
-    "description": "A utility-first CSS framework for rapid UI development."
-  },
-  {
-    "repo": "prettier/prettier",
-    "branch": "main",
     "language": "JavaScript",
-    "description": "Prettier is an opinionated code formatter."
+    "description": "A modern ebook manager and reader with sync and backup capacities for Windows, macOS, Linux, Android, iOS and Web"
   },
   {
-    "repo": "keras-team/keras-nlp",
-    "branch": "master",
+    "repo": "NVlabs/Sana",
+    "branch": "main",
     "language": "Python",
-    "description": "Pretrained model hub for Keras 3."
+    "description": "SANA: Efficient High-Resolution Image Synthesis with Linear Diffusion Transformer"
   },
   {
-    "repo": "apache/arrow",
+    "repo": "sass/sass",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Sass makes CSS fun!"
+  },
+  {
+    "repo": "ml-explore/mlx",
     "branch": "main",
     "language": "C++",
-    "description": "Apache Arrow is the universal columnar format and multi-language toolbox for fast data interchange and in-memory analytics"
+    "description": "MLX: An array framework for Apple silicon"
   },
   {
-    "repo": "microsoft/vscode",
+    "repo": "newrelic/newrelic-java-agent",
+    "branch": "main",
+    "language": "Java",
+    "description": "The New Relic Java agent"
+  },
+  {
+    "repo": "afar1/fieldtheory-cli",
     "branch": "main",
     "language": "TypeScript",
-    "description": "Visual Studio Code"
+    "description": "Sync and locally store all of your X/Twitter bookmarks. Free and open source CLI for Mac."
   },
   {
-    "repo": "mrdoob/three.js",
-    "branch": "dev",
-    "language": "JavaScript",
-    "description": "JavaScript 3D Library."
-  },
-  {
-    "repo": "ansible/ansible",
-    "branch": "devel",
-    "language": "Python",
-    "description": "Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy and maintain. Automate everything from code deployment to network configuration to cloud management, in a language that approaches plain English, using SSH, with no agents to install on remote systems. https://docs.ansible.com."
-  },
-  {
-    "repo": "mui/material-ui",
-    "branch": "master",
-    "language": "JavaScript",
-    "description": "Material UI: Comprehensive React component library that implements Google's Material Design. Free forever."
-  },
-  {
-    "repo": "airbnb/javascript",
-    "branch": "master",
-    "language": "JavaScript",
-    "description": "JavaScript Style Guide"
-  },
-  {
-    "repo": "tensorflow/tfx",
-    "branch": "master",
-    "language": "Python",
-    "description": "TFX is an end-to-end platform for deploying production ML pipelines"
-  },
-  {
-    "repo": "grapeot/context-infrastructure",
+    "repo": "Quant-Alpha-Forge/Multichain-Casino-Game",
     "branch": "main",
-    "language": "Python",
-    "description": "Reference implementation: a context infrastructure system for pulling LLM out of consensus"
+    "language": "TypeScript",
+    "description": "A decentralized multichain casino platform supporting games such as Crash, Coinflip, Mines, and Blackjack across multiple blockchain networks including Ethereum, Solana, Base, Bitcoin, and Injective."
   },
   {
-    "repo": "acedef/SynthAPT",
-    "branch": "master",
-    "language": "Rust",
-    "description": "Generate malware with AI"
+    "repo": "Manavarya09/design-extract",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "Extract the complete design language from any website — colors, typography, spacing, shadows, and more. npx CLI + Claude Code plugin."
   },
   {
-    "repo": "PanJiaChen/vue-element-admin",
-    "branch": "master",
+    "repo": "EKKOLearnAI/hermes-web-ui",
+    "branch": "main",
     "language": "Vue",
-    "description": ":tada: A magical vue admin                                                                https://panjiachen.github.io/vue-element-admin"
+    "description": ""
   },
   {
-    "repo": "HsMirage/CliproxyAccountCleaner",
+    "repo": "m-schuetz/CuRast",
+    "branch": "main",
+    "language": "C++",
+    "description": "Cuda-Based Software Rasterization for Billions of Triangles"
+  },
+  {
+    "repo": "poseljacob/agentic-video-editor",
     "branch": "main",
     "language": "Python",
-    "description": "一个用于CLI Proxy API 批量账号管理的工具（暂时只支持codex）：Cliproxy Account Cleaner"
+    "description": "AI-powered video editor that turns raw footage and a creative brief into a polished ad using an ensemble of AI agents (Google Gemini + FFmpeg)"
   },
   {
-    "repo": "doctrine/orm",
-    "branch": "3.2.x",
-    "language": "PHP",
-    "description": "Doctrine Object Relational Mapper (ORM)"
-  },
-  {
-    "repo": "hehehai/voxt",
+    "repo": "pedronaldocr07/Solana-Meteora-Alpha-Vault",
     "branch": "main",
-    "language": "Swift",
-    "description": "[Beta] Voice input and translation app for macOS. Press to talk, release to paste."
+    "language": "TypeScript",
+    "description": "meteora alpha vault to create large marketcap, execute deposit, claim, withdraw across unlimited wallets"
+  },
+  {
+    "repo": "PrimeOrder-Labs/polymarket-copy-trading-bot",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "polymarket trading bot,polymarket copy trading bot,polymarket trading bot,polymarket copy trading bot,polymarket trading bot,polymarket copy trading bot,polymarket trading bot,polymarket copy trading bot,polymarket trading bot,polymarket copy trading bot,polymarket trading bot,polymarket copy trading bot,"
+  },
+  {
+    "repo": "millionco/claude-doctor",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Diagnose your Claude Code sessions"
+  },
+  {
+    "repo": "codejunkie99/agentic-stack",
+    "branch": "master",
+    "language": "Python",
+    "description": "One brain, many harnesses. Portable .agent/ folder (memory + skills + protocols) that plugs into Claude Code, Cursor, Windsurf, OpenCode, OpenClaw, Hermes, or DIY Python — and keeps its knowledge when you switch."
+  },
+  {
+    "repo": "ohad6k/ditto",
+    "branch": "main",
+    "language": "Python",
+    "description": "Mine your Claude Code and Codex logs into a local you.md agent profile."
+  },
+  {
+    "repo": "jasonkneen/agent-simulator",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "An iOS simulator in a browser you can inspect"
+  },
+  {
+    "repo": "espressif/esp-claw",
+    "branch": "master",
+    "language": "C",
+    "description": "ESP-Claw, a Chat Coding AI agent framework for IoT devices"
+  },
+  {
+    "repo": "xiaochong/hi-kid",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "HiKid - Your AI English Pal. An desktop app built with React and TypeScript, targeting children in non-English-speaking countries who want to practice English speaking and listening."
+  },
+  {
+    "repo": "Orbital-Alpha/polymarket-copy-trading-bot",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "polymarket trading bot,polymarket copy trading bot,polymarket trading bot,polymarket copy trading bot,polymarket trading bot,polymarket copy trading bot,polymarket trading bot,polymarket copy trading bot,polymarket trading bot,polymarket copy trading bot,polymarket trading bot,polymarket copy trading bot,"
+  },
+  {
+    "repo": "TraderAlice/Auto-Quant",
+    "branch": "master",
+    "language": "Python",
+    "description": ""
+  },
+  {
+    "repo": "tashfeenahmed/freellmapi",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "OpenAI-compatible proxy that aggregates free-tier keys from ~14 AI providers with automatic failover. For personal experimentation only."
+  },
+  {
+    "repo": "vercel-labs/wterm",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "A terminal emulator for the web"
   }
 ]
