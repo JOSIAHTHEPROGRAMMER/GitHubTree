@@ -1,146 +1,146 @@
 [
   {
-    "repo": "kaima2022/ABCard",
+    "repo": "g0ldyy/fh6-universal-radio",
+    "branch": "main",
+    "language": "C++",
+    "description": "Forza Horizon 6's universal radio mod with local file, YouTube, and Jellyfin playback."
+  },
+  {
+    "repo": "actions/download-artifact",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Download artifacts from your build"
+  },
+  {
+    "repo": "nhevers/MoltBrain",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Long-term memory layer for OpenClaw & MoltBook agents that learns and recalls your project context automatically."
+  },
+  {
+    "repo": "Euro-Office/DocumentServer",
+    "branch": "main",
+    "language": "Shell",
+    "description": ""
+  },
+  {
+    "repo": "massgravel/Microsoft-Activation-Scripts",
+    "branch": "master",
+    "language": "Batchfile",
+    "description": "Open-source Windows and Office activator featuring HWID, Ohook, TSforge, and Online KMS activation methods, along with advanced troubleshooting."
+  },
+  {
+    "repo": "J-Pster/Psters_AI_Workflow",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "An anti-vibe-coding, agentic AI workflow that improves results with engineering rigor in any project, language, and framework."
+  },
+  {
+    "repo": "andreisss/KslDump",
+    "branch": "main",
+    "language": "Python",
+    "description": "KslDump — Why bring your own knife when Defender already left one in the kitchen?"
+  },
+  {
+    "repo": "huggingface/hf-agents",
+    "branch": "main",
+    "language": "Shell",
+    "description": "HF CLI extension to run local coding agent powered by llmfit and llama.cpp"
+  },
+  {
+    "repo": "kellyclaudeai/openclaw-deck",
+    "branch": "master",
+    "language": "TypeScript",
+    "description": "Multi-column chat interface for OpenClaw agents"
+  },
+  {
+    "repo": "rebane2001/xikipedia",
+    "branch": "mane",
+    "language": "HTML",
+    "description": "Wikipedia as a social media feed"
+  },
+  {
+    "repo": "BquantFinance/licitaciones-espana",
     "branch": "main",
     "language": "Python",
     "description": ""
   },
   {
-    "repo": "thu-ml/Causal-Forcing",
+    "repo": "rainzz-512/Mewgenics-Chinese-Translation",
     "branch": "main",
     "language": "Python",
-    "description": "Official codebase for Causal Forcing: Autoregressive Diffusion Distillation Done Right for High-Quality Real-Time Interactive Video Generation"
+    "description": ""
   },
   {
-    "repo": "Jane-xiaoer/paper-collage-ad-codex",
+    "repo": "sindresorhus/type-fest",
     "branch": "main",
-    "language": "JavaScript",
-    "description": "Codex skill for complete paper-cut collage ad production, local IndexTTS-2 voice cloning, animation, audio and MP4 QC"
+    "language": "TypeScript",
+    "description": "A collection of essential TypeScript types"
   },
   {
-    "repo": "facebook/litho",
+    "repo": "AlexsJones/llmfit",
     "branch": "main",
+    "language": "Rust",
+    "description": "94 models. 30 providers. One command to find what runs on your hardware."
+  },
+  {
+    "repo": "KotlinBy/awesome-kotlin",
+    "branch": "master",
     "language": "Kotlin",
-    "description": "A declarative framework for building efficient UIs on Android."
+    "description": "A curated list of awesome Kotlin related stuff Inspired by awesome-java."
   },
   {
-    "repo": "xstongxue/best-skills",
+    "repo": "guardrailsio/awesome-python-security",
+    "branch": "master",
+    "language": "Other",
+    "description": "Awesome Python Security resources 🕶🐍🔐"
+  },
+  {
+    "repo": "kysely-org/kysely",
+    "branch": "master",
+    "language": "TypeScript",
+    "description": "A type-safe TypeScript SQL query builder"
+  },
+  {
+    "repo": "testcontainers/testcontainers-java",
+    "branch": "main",
+    "language": "Java",
+    "description": "Testcontainers is a Java library that supports JUnit tests, providing lightweight, throwaway instances of common databases, Selenium web browsers, or anything else that can run in a Docker container."
+  },
+  {
+    "repo": "drwetter/testssl.sh",
+    "branch": "3.2",
+    "language": "Shell",
+    "description": "Testing TLS/SSL encryption anywhere on any port"
+  },
+  {
+    "repo": "6551Team/daily-news",
     "branch": "main",
     "language": "Python",
-    "description": "通用高质量 Skills 合集🔥"
+    "description": "Daily news and hot topics via the 6551 API. Supports news categories, hot news articles, and trending tweets by category."
   },
   {
-    "repo": "reduxjs/reselect",
-    "branch": "master",
-    "language": "TypeScript",
-    "description": "Selector library for Redux"
-  },
-  {
-    "repo": "CrewSX/pumpfun-bubblemap-bypass-bundler",
+    "repo": "snarktank/antfarm",
     "branch": "main",
     "language": "TypeScript",
-    "description": "pumpfun bubblemap bypass bundler is Launch tokens on Pump.fun with zero Bubblemap trace. Zero bundle detection. Maximum stealth."
+    "description": "Build your agent team in OpenClaw with one command."
   },
   {
-    "repo": "JuliaLang/julia",
-    "branch": "master",
-    "language": "Julia",
-    "description": "The Julia Programming Language"
-  },
-  {
-    "repo": "SafeBreach-Labs/CVE-2026-24061",
-    "branch": "main",
-    "language": "Python",
-    "description": "Exploitation of CVE-2026-24061"
-  },
-  {
-    "repo": "AlpinDale/parsync",
-    "branch": "master",
-    "language": "Rust",
-    "description": "Parallel rsync-like pull sync over SSH with resume"
-  },
-  {
-    "repo": "onevcat/Kingfisher",
-    "branch": "master",
-    "language": "Swift",
-    "description": "A lightweight, pure-Swift library for downloading and caching images from the web."
-  },
-  {
-    "repo": "lukehinds/nono",
-    "branch": "main",
-    "language": "Rust",
-    "description": "OS-Level Isolation for AI Agents."
-  },
-  {
-    "repo": "Anxcye/anx-reader",
-    "branch": "main",
-    "language": "Dart",
-    "description": "Featuring powerful AI capabilities and supporting various e-book formats, it makes reading smarter and more focused."
-  },
-  {
-    "repo": "square/retrofit",
-    "branch": "master",
-    "language": "HTML",
-    "description": "A type-safe HTTP client for Android and the JVM"
-  },
-  {
-    "repo": "pytest-dev/pytest-cov",
-    "branch": "master",
-    "language": "Python",
-    "description": "Coverage plugin for pytest."
-  },
-  {
-    "repo": "EA1FUO/AntennaSim",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Web-based antenna simulator powered by NEC2. Design, simulate, and analyze antennas with real-time 3D visualization, radiation patterns, SWR, and impedance charts."
-  },
-  {
-    "repo": "kubernetes/client-go",
-    "branch": "master",
-    "language": "Go",
-    "description": "Go client for Kubernetes."
-  },
-  {
-    "repo": "vmware-tanzu/velero",
-    "branch": "main",
-    "language": "Go",
-    "description": "Backup and migrate Kubernetes applications and their persistent volumes"
-  },
-  {
-    "repo": "moby/moby",
-    "branch": "master",
-    "language": "Go",
-    "description": "The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems"
-  },
-  {
-    "repo": "homebridge/homebridge",
-    "branch": "latest",
-    "language": "TypeScript",
-    "description": "HomeKit support for the impatient."
-  },
-  {
-    "repo": "johnmai-dev/ANE-LM",
+    "repo": "ceph/ceph",
     "branch": "main",
     "language": "C++",
-    "description": "LLM inference on Apple Neural Engine (ANE)"
+    "description": "Ceph is a distributed object, block, and file storage platform"
   },
   {
-    "repo": "pedronauck/skills",
+    "repo": "deepcon3/Binance-Claw",
+    "branch": "main",
+    "language": "Rust",
+    "description": "Binance-Claw Lightning-fast Binance price sniper, real-time monitor & OpenClaw skill — written in Rust"
+  },
+  {
+    "repo": "ReinerBRO/grok-register",
     "branch": "main",
     "language": "Python",
-    "description": "My personal favorite skills"
-  },
-  {
-    "repo": "apache/httpcomponents-client",
-    "branch": "master",
-    "language": "Java",
-    "description": "Mirror of Apache HttpClient"
-  },
-  {
-    "repo": "postgres/postgres",
-    "branch": "master",
-    "language": "C",
-    "description": "Mirror of the official PostgreSQL GIT repository. Note that this is just a *mirror* - we don't work with pull requests on github. To contribute, please see https://wiki.postgresql.org/wiki/Submitting_a_Patch"
+    "description": "Automated Grok (x.ai) account registration with DuckMail + headless server support. Auto-push SSO tokens to grok2api."
   }
 ]
