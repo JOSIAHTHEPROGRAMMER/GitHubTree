@@ -1,146 +1,146 @@
 [
   {
-    "repo": "HKUDS/ClawTeam",
+    "repo": "kaima2022/ABCard",
     "branch": "main",
     "language": "Python",
-    "description": "ClawTeam: Agent Swarm Intelligence (One Command → Full Automation)"
-  },
-  {
-    "repo": "koodo-reader/koodo-reader",
-    "branch": "master",
-    "language": "JavaScript",
-    "description": "A modern ebook manager and reader with sync and backup capacities for Windows, macOS, Linux, Android, iOS and Web"
-  },
-  {
-    "repo": "NVlabs/Sana",
-    "branch": "main",
-    "language": "Python",
-    "description": "SANA: Efficient High-Resolution Image Synthesis with Linear Diffusion Transformer"
-  },
-  {
-    "repo": "sass/sass",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Sass makes CSS fun!"
-  },
-  {
-    "repo": "ml-explore/mlx",
-    "branch": "main",
-    "language": "C++",
-    "description": "MLX: An array framework for Apple silicon"
-  },
-  {
-    "repo": "newrelic/newrelic-java-agent",
-    "branch": "main",
-    "language": "Java",
-    "description": "The New Relic Java agent"
-  },
-  {
-    "repo": "afar1/fieldtheory-cli",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Sync and locally store all of your X/Twitter bookmarks. Free and open source CLI for Mac."
-  },
-  {
-    "repo": "Quant-Alpha-Forge/Multichain-Casino-Game",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "A decentralized multichain casino platform supporting games such as Crash, Coinflip, Mines, and Blackjack across multiple blockchain networks including Ethereum, Solana, Base, Bitcoin, and Injective."
-  },
-  {
-    "repo": "Manavarya09/design-extract",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "Extract the complete design language from any website — colors, typography, spacing, shadows, and more. npx CLI + Claude Code plugin."
-  },
-  {
-    "repo": "EKKOLearnAI/hermes-web-ui",
-    "branch": "main",
-    "language": "Vue",
     "description": ""
   },
   {
-    "repo": "m-schuetz/CuRast",
-    "branch": "main",
-    "language": "C++",
-    "description": "Cuda-Based Software Rasterization for Billions of Triangles"
-  },
-  {
-    "repo": "poseljacob/agentic-video-editor",
+    "repo": "thu-ml/Causal-Forcing",
     "branch": "main",
     "language": "Python",
-    "description": "AI-powered video editor that turns raw footage and a creative brief into a polished ad using an ensemble of AI agents (Google Gemini + FFmpeg)"
+    "description": "Official codebase for Causal Forcing: Autoregressive Diffusion Distillation Done Right for High-Quality Real-Time Interactive Video Generation"
   },
   {
-    "repo": "pedronaldocr07/Solana-Meteora-Alpha-Vault",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "meteora alpha vault to create large marketcap, execute deposit, claim, withdraw across unlimited wallets"
-  },
-  {
-    "repo": "PrimeOrder-Labs/polymarket-copy-trading-bot",
+    "repo": "Jane-xiaoer/paper-collage-ad-codex",
     "branch": "main",
     "language": "JavaScript",
-    "description": "polymarket trading bot,polymarket copy trading bot,polymarket trading bot,polymarket copy trading bot,polymarket trading bot,polymarket copy trading bot,polymarket trading bot,polymarket copy trading bot,polymarket trading bot,polymarket copy trading bot,polymarket trading bot,polymarket copy trading bot,"
+    "description": "Codex skill for complete paper-cut collage ad production, local IndexTTS-2 voice cloning, animation, audio and MP4 QC"
   },
   {
-    "repo": "millionco/claude-doctor",
+    "repo": "facebook/litho",
+    "branch": "main",
+    "language": "Kotlin",
+    "description": "A declarative framework for building efficient UIs on Android."
+  },
+  {
+    "repo": "xstongxue/best-skills",
+    "branch": "main",
+    "language": "Python",
+    "description": "通用高质量 Skills 合集🔥"
+  },
+  {
+    "repo": "reduxjs/reselect",
+    "branch": "master",
+    "language": "TypeScript",
+    "description": "Selector library for Redux"
+  },
+  {
+    "repo": "CrewSX/pumpfun-bubblemap-bypass-bundler",
     "branch": "main",
     "language": "TypeScript",
-    "description": "Diagnose your Claude Code sessions"
+    "description": "pumpfun bubblemap bypass bundler is Launch tokens on Pump.fun with zero Bubblemap trace. Zero bundle detection. Maximum stealth."
   },
   {
-    "repo": "codejunkie99/agentic-stack",
+    "repo": "JuliaLang/julia",
+    "branch": "master",
+    "language": "Julia",
+    "description": "The Julia Programming Language"
+  },
+  {
+    "repo": "SafeBreach-Labs/CVE-2026-24061",
+    "branch": "main",
+    "language": "Python",
+    "description": "Exploitation of CVE-2026-24061"
+  },
+  {
+    "repo": "AlpinDale/parsync",
+    "branch": "master",
+    "language": "Rust",
+    "description": "Parallel rsync-like pull sync over SSH with resume"
+  },
+  {
+    "repo": "onevcat/Kingfisher",
+    "branch": "master",
+    "language": "Swift",
+    "description": "A lightweight, pure-Swift library for downloading and caching images from the web."
+  },
+  {
+    "repo": "lukehinds/nono",
+    "branch": "main",
+    "language": "Rust",
+    "description": "OS-Level Isolation for AI Agents."
+  },
+  {
+    "repo": "Anxcye/anx-reader",
+    "branch": "main",
+    "language": "Dart",
+    "description": "Featuring powerful AI capabilities and supporting various e-book formats, it makes reading smarter and more focused."
+  },
+  {
+    "repo": "square/retrofit",
+    "branch": "master",
+    "language": "HTML",
+    "description": "A type-safe HTTP client for Android and the JVM"
+  },
+  {
+    "repo": "pytest-dev/pytest-cov",
     "branch": "master",
     "language": "Python",
-    "description": "One brain, many harnesses. Portable .agent/ folder (memory + skills + protocols) that plugs into Claude Code, Cursor, Windsurf, OpenCode, OpenClaw, Hermes, or DIY Python — and keeps its knowledge when you switch."
+    "description": "Coverage plugin for pytest."
   },
   {
-    "repo": "ohad6k/ditto",
-    "branch": "main",
-    "language": "Python",
-    "description": "Mine your Claude Code and Codex logs into a local you.md agent profile."
-  },
-  {
-    "repo": "jasonkneen/agent-simulator",
+    "repo": "EA1FUO/AntennaSim",
     "branch": "main",
     "language": "TypeScript",
-    "description": "An iOS simulator in a browser you can inspect"
+    "description": "Web-based antenna simulator powered by NEC2. Design, simulate, and analyze antennas with real-time 3D visualization, radiation patterns, SWR, and impedance charts."
   },
   {
-    "repo": "espressif/esp-claw",
+    "repo": "kubernetes/client-go",
+    "branch": "master",
+    "language": "Go",
+    "description": "Go client for Kubernetes."
+  },
+  {
+    "repo": "vmware-tanzu/velero",
+    "branch": "main",
+    "language": "Go",
+    "description": "Backup and migrate Kubernetes applications and their persistent volumes"
+  },
+  {
+    "repo": "moby/moby",
+    "branch": "master",
+    "language": "Go",
+    "description": "The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems"
+  },
+  {
+    "repo": "homebridge/homebridge",
+    "branch": "latest",
+    "language": "TypeScript",
+    "description": "HomeKit support for the impatient."
+  },
+  {
+    "repo": "johnmai-dev/ANE-LM",
+    "branch": "main",
+    "language": "C++",
+    "description": "LLM inference on Apple Neural Engine (ANE)"
+  },
+  {
+    "repo": "pedronauck/skills",
+    "branch": "main",
+    "language": "Python",
+    "description": "My personal favorite skills"
+  },
+  {
+    "repo": "apache/httpcomponents-client",
+    "branch": "master",
+    "language": "Java",
+    "description": "Mirror of Apache HttpClient"
+  },
+  {
+    "repo": "postgres/postgres",
     "branch": "master",
     "language": "C",
-    "description": "ESP-Claw, a Chat Coding AI agent framework for IoT devices"
-  },
-  {
-    "repo": "xiaochong/hi-kid",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "HiKid - Your AI English Pal. An desktop app built with React and TypeScript, targeting children in non-English-speaking countries who want to practice English speaking and listening."
-  },
-  {
-    "repo": "Orbital-Alpha/polymarket-copy-trading-bot",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "polymarket trading bot,polymarket copy trading bot,polymarket trading bot,polymarket copy trading bot,polymarket trading bot,polymarket copy trading bot,polymarket trading bot,polymarket copy trading bot,polymarket trading bot,polymarket copy trading bot,polymarket trading bot,polymarket copy trading bot,"
-  },
-  {
-    "repo": "TraderAlice/Auto-Quant",
-    "branch": "master",
-    "language": "Python",
-    "description": ""
-  },
-  {
-    "repo": "tashfeenahmed/freellmapi",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "OpenAI-compatible proxy that aggregates free-tier keys from ~14 AI providers with automatic failover. For personal experimentation only."
-  },
-  {
-    "repo": "vercel-labs/wterm",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "A terminal emulator for the web"
+    "description": "Mirror of the official PostgreSQL GIT repository. Note that this is just a *mirror* - we don't work with pull requests on github. To contribute, please see https://wiki.postgresql.org/wiki/Submitting_a_Patch"
   }
 ]

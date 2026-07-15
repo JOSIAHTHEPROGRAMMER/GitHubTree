@@ -1,8 +1,8 @@
 {
-  "repo": "Yuliang-Liu/MonkeyOCRv2",
+  "repo": "Lanuti-Franco/facturador-ARCA",
   "branch": "main",
   "language": "Python",
-  "description": "MonkeyOCRv2 Vision Encoder — A Document-Native Visual Backbone",
-  "stars": 131,
-  "forks": 23
+  "description": "Bot de Telegram para emitir Factura C en ARCA. Devuelve  PDF  listo con QR para mandar por mail. ",
+  "stars": 123,
+  "forks": 20
 }
