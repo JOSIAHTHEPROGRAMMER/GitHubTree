@@ -1,146 +1,146 @@
 [
   {
-    "repo": "g0ldyy/fh6-universal-radio",
+    "repo": "tddworks/baguette",
     "branch": "main",
-    "language": "C++",
-    "description": "Forza Horizon 6's universal radio mod with local file, YouTube, and Jellyfin playback."
+    "language": "Swift",
+    "description": "Headless iOS Simulator manager/farm + host-side input injection for iOS 26 — taps, swipes, multi-finger gestures, and 60 fps streaming"
   },
   {
-    "repo": "actions/download-artifact",
+    "repo": "six2dez/burp-ai-agent",
     "branch": "main",
-    "language": "TypeScript",
-    "description": "Download artifacts from your build"
+    "language": "Kotlin",
+    "description": "Burp Suite extension that adds built-in MCP tooling, AI-assisted analysis, privacy controls, passive and active scanning and more"
   },
   {
-    "repo": "nhevers/MoltBrain",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Long-term memory layer for OpenClaw & MoltBook agents that learns and recalls your project context automatically."
-  },
-  {
-    "repo": "Euro-Office/DocumentServer",
-    "branch": "main",
-    "language": "Shell",
-    "description": ""
-  },
-  {
-    "repo": "massgravel/Microsoft-Activation-Scripts",
-    "branch": "master",
-    "language": "Batchfile",
-    "description": "Open-source Windows and Office activator featuring HWID, Ohook, TSforge, and Online KMS activation methods, along with advanced troubleshooting."
-  },
-  {
-    "repo": "J-Pster/Psters_AI_Workflow",
+    "repo": "TriangleMagistrate/lovable-openclaw",
     "branch": "main",
     "language": "JavaScript",
-    "description": "An anti-vibe-coding, agentic AI workflow that improves results with engineering rigor in any project, language, and framework."
+    "description": "lovable-openclaw — a macOS bootstrap CLI for Lovable. Installs, configures, and verifies a complete development environment in one command."
   },
   {
-    "repo": "andreisss/KslDump",
+    "repo": "dreddnafious/thereisnospoon",
     "branch": "main",
     "language": "Python",
-    "description": "KslDump — Why bring your own knife when Defender already left one in the kitchen?"
+    "description": "A machine learning primer built from first principles. For engineers who want to reason about ML systems the way they reason about software systems."
   },
   {
-    "repo": "huggingface/hf-agents",
+    "repo": "joeseesun/word-root-workshop",
     "branch": "main",
-    "language": "Shell",
-    "description": "HF CLI extension to run local coding agent powered by llmfit and llama.cpp"
+    "language": "JavaScript",
+    "description": "📚 词根词缀记忆工坊 - 像搭积木一样记单词，掌握300个词根，解锁30,000+英语单词"
   },
   {
-    "repo": "kellyclaudeai/openclaw-deck",
-    "branch": "master",
+    "repo": "RightNow-AI/autokernel",
+    "branch": "main",
+    "language": "Python",
+    "description": "Autoresearch for GPU kernels. Give it any PyTorch model, go to sleep, wake up to optimized Triton kernels."
+  },
+  {
+    "repo": "Darkkal44/sddm-themes",
+    "branch": "main",
+    "language": "QML",
+    "description": "A simple collection of all the sddm-themes I've made :D"
+  },
+  {
+    "repo": "ncvgl/slawk",
+    "branch": "main",
     "language": "TypeScript",
-    "description": "Multi-column chat interface for OpenClaw agents"
+    "description": "A 14 day experiment to clone Slack with Claude Code"
   },
   {
-    "repo": "rebane2001/xikipedia",
-    "branch": "mane",
-    "language": "HTML",
-    "description": "Wikipedia as a social media feed"
+    "repo": "FreedomIntelligence/OpenClaw-Medical-Skills",
+    "branch": "main",
+    "language": "Python",
+    "description": "The largest open-source medical AI skills library for OpenClaw🦞."
   },
   {
-    "repo": "BquantFinance/licitaciones-espana",
+    "repo": "TrendTechVista/polymarket-politics-bot",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "polymarket politics bot polymarket politics bot polymarket politics bot polymarket politics bot polymarket politics bot polymarket politics bot polymarket politics bot polymarket politics bot polymarket politics bot polymarket politics bot polymarket politics bot polymarket politics bot polymarket politics bot polymarket politics bot"
+  },
+  {
+    "repo": "PinchToDebug/EverythingQuickSearch",
+    "branch": "master",
+    "language": "C#",
+    "description": ""
+  },
+  {
+    "repo": "okooo5km/Skills4U",
+    "branch": "main",
+    "language": "TeX",
+    "description": "Skills here"
+  },
+  {
+    "repo": "hicode002/qualcomm_gbl_exploit_poc",
+    "branch": "main",
+    "language": "C",
+    "description": "Unlocking qualcomm bootloader via gbl exploit."
+  },
+  {
+    "repo": "Zyora-Dev/zse",
+    "branch": "main",
+    "language": "Python",
+    "description": "Zyora Server Inference Engine for LLM ."
+  },
+  {
+    "repo": "Perkins729/OmniXtreme",
     "branch": "main",
     "language": "Python",
     "description": ""
   },
   {
-    "repo": "rainzz-512/Mewgenics-Chinese-Translation",
+    "repo": "ResearAI/AutoFigure-Edit",
     "branch": "main",
     "language": "Python",
     "description": ""
   },
   {
-    "repo": "sindresorhus/type-fest",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "A collection of essential TypeScript types"
-  },
-  {
-    "repo": "AlexsJones/llmfit",
+    "repo": "DegenSugarBoo/OpenBook",
     "branch": "main",
     "language": "Rust",
-    "description": "94 models. 30 providers. One command to find what runs on your hardware."
+    "description": "Real-time Crypto Futures depth heatmap in Rust (egui/eframe) with live order flow and trade tape."
   },
   {
-    "repo": "KotlinBy/awesome-kotlin",
-    "branch": "master",
-    "language": "Kotlin",
-    "description": "A curated list of awesome Kotlin related stuff Inspired by awesome-java."
-  },
-  {
-    "repo": "guardrailsio/awesome-python-security",
-    "branch": "master",
-    "language": "Other",
-    "description": "Awesome Python Security resources 🕶🐍🔐"
-  },
-  {
-    "repo": "kysely-org/kysely",
-    "branch": "master",
-    "language": "TypeScript",
-    "description": "A type-safe TypeScript SQL query builder"
-  },
-  {
-    "repo": "testcontainers/testcontainers-java",
+    "repo": "v1ewp0rt/BAREBLOOD",
     "branch": "main",
-    "language": "Java",
-    "description": "Testcontainers is a Java library that supports JUnit tests, providing lightweight, throwaway instances of common databases, Selenium web browsers, or anything else that can run in a Docker container."
+    "language": "QML",
+    "description": "Gothic maximalist linux theme for KDE plasma 6.5"
   },
   {
-    "repo": "drwetter/testssl.sh",
-    "branch": "3.2",
-    "language": "Shell",
-    "description": "Testing TLS/SSL encryption anywhere on any port"
-  },
-  {
-    "repo": "6551Team/daily-news",
+    "repo": "linlay/zenmind",
     "branch": "main",
-    "language": "Python",
-    "description": "Daily news and hot topics via the 6551 API. Supports news categories, hot news articles, and trending tweets by category."
+    "language": "PowerShell",
+    "description": "宅在家里的电脑，努力做一个openclaw"
   },
   {
-    "repo": "snarktank/antfarm",
+    "repo": "saif0200/notchprompt",
     "branch": "main",
-    "language": "TypeScript",
-    "description": "Build your agent team in OpenClaw with one command."
+    "language": "Swift",
+    "description": ""
   },
   {
-    "repo": "ceph/ceph",
-    "branch": "main",
-    "language": "C++",
-    "description": "Ceph is a distributed object, block, and file storage platform"
-  },
-  {
-    "repo": "deepcon3/Binance-Claw",
+    "repo": "170-carry/codex-tools",
     "branch": "main",
     "language": "Rust",
-    "description": "Binance-Claw Lightning-fast Binance price sniper, real-time monitor & OpenClaw skill — written in Rust"
+    "description": "快捷切换codex 账号以及监控codex用量的工具"
   },
   {
-    "repo": "ReinerBRO/grok-register",
+    "repo": "Alex-Gilbert/unredact",
     "branch": "main",
     "language": "Python",
-    "description": "Automated Grok (x.ai) account registration with DuckMail + headless server support. Auto-push SSO tokens to grok2api."
+    "description": ""
+  },
+  {
+    "repo": "PeGasUsCHAkra/mevbot",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "Ethereum Bot"
+  },
+  {
+    "repo": "fjb040911/ai-rules",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "ai-rules is a governance framework designed to solve Architectural Decay in AI-driven development. It forces AI Agents (Cursor, Windsurf, Copilot) to respect your project's boundaries, UI libraries, and design patterns."
   }
 ]

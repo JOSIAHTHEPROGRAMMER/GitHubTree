@@ -1,8 +1,8 @@
 {
-  "repo": "x4gKing/Amnezia-VPN-Config",
+  "repo": "MarvinSchwaibold/mri-grid-viewer",
   "branch": "main",
-  "language": "HTML",
-  "description": "A featured project on GitHubTree.",
-  "stars": 123,
-  "forks": 66
+  "language": "JavaScript",
+  "description": "Local-first MRI series grid viewer with a SwiftUI iOS wrapper",
+  "stars": 106,
+  "forks": 12
 }
