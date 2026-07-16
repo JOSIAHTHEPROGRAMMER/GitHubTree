@@ -1,146 +1,146 @@
 [
   {
-    "repo": "spring-projects/spring-framework",
-    "branch": "main",
-    "language": "Java",
-    "description": "Spring Framework"
-  },
-  {
-    "repo": "Paresh-Maheshwari/morphe-ai",
-    "branch": "main",
-    "language": "Shell",
-    "description": "Morphe's AI-powered Android APK patching workspace — multi-agent pipeline for APK analysis, target hunting, patch writing & deployment."
-  },
-  {
-    "repo": "m0at/rvllm",
-    "branch": "main",
-    "language": "Rust",
-    "description": "rvLLM: High-performance LLM inference in Rust. Drop-in vLLM replacement."
-  },
-  {
-    "repo": "kubernetes-sigs/metrics-server",
-    "branch": "master",
-    "language": "Go",
-    "description": "Scalable and efficient source of container resource metrics for Kubernetes built-in autoscaling pipelines."
-  },
-  {
-    "repo": "dev-protocol/polymarket-kalshi-momentum-trading-bot",
+    "repo": "sandbaseai/managed-agents",
     "branch": "main",
     "language": "TypeScript",
-    "description": "Updated version - A sophisticated automated trading bot that mirrors the positions of a target trader on Polymarket. The bot continuously monitors a specified wallet address and replicates their trading positions in real-time with customizable risk management parameters. polymarket trading bot that do polymarket trading like trading bot on polymark"
+    "description": "Open-source CMA-compatible agent runtime. Run multi-agent systems locally with any model (Ollama/vLLM/Claude/GPT), MCP tools, scenario templates, and a beautiful dashboard. One command start. Built for enterprise teams."
   },
   {
-    "repo": "apple/swift-nio",
+    "repo": "shareAI-lab/claw0",
     "branch": "main",
-    "language": "Swift",
-    "description": "Event-driven network application framework for high performance protocol servers & clients, non-blocking."
+    "language": "Python",
+    "description": "0 - 1 learn OpenClaw: sections to build an claw-AI agent from scratch"
   },
   {
-    "repo": "symfony/symfony",
-    "branch": "7.1",
-    "language": "PHP",
-    "description": "The Symfony PHP framework"
+    "repo": "est-labs/polymarket-arbitrage-bot",
+    "branch": "master",
+    "language": "TypeScript",
+    "description": "polymarket arbitrage trading bot polymarket arbitrage trading bot polymarket arbitrage trading bot polymarket arbitrage trading bot polymarket arbitrage trading bot polymarket arbitrage trading bot polymarket arbitrage trading bot polymarket arbitrage trading bot polymarket arbitrage trading bot polymarket arbitrage trading bot polymarket arbitrage"
   },
   {
-    "repo": "getify/You-Dont-Know-JS",
+    "repo": "tokio-rs/tokio",
+    "branch": "master",
+    "language": "Rust",
+    "description": "A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ..."
+  },
+  {
+    "repo": "win4r/team-tasks",
+    "branch": "master",
+    "language": "Python",
+    "description": "Multi-agent pipeline coordination: Linear, DAG, and Debate modes for AI agent orchestration"
+  },
+  {
+    "repo": "hantuzun/awesome-clojure",
     "branch": "master",
     "language": "Other",
-    "description": "A book series (2 published editions) on the JS language."
+    "description": "A curated list of awesome Clojure libraries and resources. Inspired by awesome-... stuff"
   },
   {
-    "repo": "elder-plinius/OBLITERATUS",
+    "repo": "dair-ai/Prompt-Engineering-Guide",
+    "branch": "main",
+    "language": "MDX",
+    "description": "🐙 Guides, papers, lessons, notebooks and resources for prompt engineering, context engineering, RAG, and AI Agents."
+  },
+  {
+    "repo": "tnbeznlacut/sora2-watermark-deleter-windows-macos",
     "branch": "main",
     "language": "Python",
-    "description": "obliterate the chains that bind you"
+    "description": "sora2 watermark deleter windows macos"
   },
   {
-    "repo": "vuetifyjs/vuetify",
-    "branch": "master",
-    "language": "TypeScript",
-    "description": "🐉 Vue Component Framework"
-  },
-  {
-    "repo": "rails/rails",
+    "repo": "Stability-AI/stablediffusion",
     "branch": "main",
-    "language": "Ruby",
-    "description": "Ruby on Rails"
+    "language": "Other",
+    "description": "High-Resolution Image Synthesis with Latent Diffusion Models."
   },
   {
-    "repo": "SortableJS/Sortable",
-    "branch": "master",
-    "language": "JavaScript",
-    "description": "Reorderable drag-and-drop lists for modern browsers and touch devices. No jQuery or framework required."
-  },
-  {
-    "repo": "falcosecurity/falco",
-    "branch": "master",
-    "language": "C++",
-    "description": "Cloud Native Runtime Security"
-  },
-  {
-    "repo": "Henrygd/Beszel",
+    "repo": "antirez/tgterm",
     "branch": "main",
-    "language": "Go",
-    "description": "Lightweight server monitoring hub with historical data, docker stats, and alerts."
+    "language": "C",
+    "description": "Control your MacOS terminals via Telegram, for fun coding agents interaction and profit"
   },
   {
-    "repo": "phuryn/pm-skills",
+    "repo": "makerdao/dss",
+    "branch": "master",
+    "language": "Solidity",
+    "description": "Dai Stablecoin System"
+  },
+  {
+    "repo": "vim/vim",
+    "branch": "master",
+    "language": "Vim Script",
+    "description": "The official Vim repository"
+  },
+  {
+    "repo": "cs50victor/claude-code-teams-mcp",
     "branch": "main",
     "language": "Python",
-    "description": "PM Skills Marketplace: An AI Operating System for Better Product Decisions. 65 PM skills and 36 chained workflows across 8 plugins — from discovery to strategy, execution, launch, and growth."
+    "description": "use claude code's agent teams orchestraction with any harness"
   },
   {
-    "repo": "facebookresearch/tribev2",
-    "branch": "main",
-    "language": "Jupyter Notebook",
-    "description": "This repository contains the code to train and evaluate TRIBE v2, a multimodal model for brain response prediction"
-  },
-  {
-    "repo": "facebook/hermes",
+    "repo": "Vasco0x4/AIDA",
     "branch": "main",
     "language": "JavaScript",
-    "description": "A JavaScript engine optimized for running React Native."
+    "description": "AI-Driven Security Assessment - Connect AI to 400+ pentesting tools via MCP"
   },
   {
-    "repo": "aiming-lab/MetaClaw",
+    "repo": "pypa/pipenv",
     "branch": "main",
     "language": "Python",
-    "description": "Just talk to your agent — it learns and EVOLVES."
+    "description": "Python Development Workflow for Humans."
   },
   {
-    "repo": "veyliss/ai-localbase",
-    "branch": "main",
-    "language": "Go",
-    "description": "一个本地优先的AI知识库系统（RAG），用于把本地文档接入辅导搜索与大模型对话流程。"
-  },
-  {
-    "repo": "MetaMask/metamask-extension",
-    "branch": "develop",
-    "language": "TypeScript",
-    "description": ":globe_with_meridians: :electric_plug: The MetaMask browser extension enables browsing Ethereum blockchain enabled websites"
-  },
-  {
-    "repo": "fasheartheater1853/kmspico-lol-2026",
-    "branch": "main",
-    "language": "C++",
-    "description": "A powerful Windows-native (.exe) management utility for Microsoft KMS (Key Management Service) orchestration. Designed for enterprise volume license validation, GVLK deployment, and automated asset maintenance."
-  },
-  {
-    "repo": "timwuhaotian/the-pair",
+    "repo": "actions/upload-artifact",
     "branch": "main",
     "language": "TypeScript",
-    "description": "The Pair - Automated pair programming — grab a coffee while two AI agents cross-check each other's work"
+    "description": "Upload artifacts from your workflow"
   },
   {
-    "repo": "charlax/professional-programming",
+    "repo": "donnemartin/system-design-primer",
     "branch": "master",
     "language": "Python",
-    "description": "A collection of learning resources for curious software engineers"
+    "description": "Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards."
   },
   {
-    "repo": "scrya-com/rotorquant",
+    "repo": "trumpet-noek/sora2-free-watermark-remover",
     "branch": "main",
     "language": "Python",
-    "description": "RotorQuant: Clifford algebra vector quantization for LLM KV cache compression. 10-19x faster than TurboQuant, 44x fewer parameters."
+    "description": "sora2 free watermark remover"
+  },
+  {
+    "repo": "Zehong-Ma/PixelGen",
+    "branch": "main",
+    "language": "Python",
+    "description": "Official repository for “PixelGen: Pixel Diffusion Beats Latent Diffusion with Perceptual Loss”"
+  },
+  {
+    "repo": "BurntSushi/ripgrep",
+    "branch": "master",
+    "language": "Rust",
+    "description": "ripgrep recursively searches directories for a regex pattern while respecting your gitignore"
+  },
+  {
+    "repo": "deepset-ai/haystack",
+    "branch": "main",
+    "language": "MDX",
+    "description": "AI orchestration framework to build customizable, production-ready LLM applications. Connect components (models, vector DBs, file converters) to pipelines or agents that can interact with your data. With advanced retrieval methods, it's best suited for building RAG, question answering, semantic search or conversational agent chatbots."
+  },
+  {
+    "repo": "spring-projects/spring-boot",
+    "branch": "main",
+    "language": "Java",
+    "description": "Spring Boot helps you to create Spring-powered, production-grade applications and services with absolute minimum fuss."
+  },
+  {
+    "repo": "lauris/awesome-scala",
+    "branch": "master",
+    "language": "Python",
+    "description": "A community driven list of useful Scala libraries, frameworks and software."
+  },
+  {
+    "repo": "chekusu/shipkey",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": ""
   }
 ]

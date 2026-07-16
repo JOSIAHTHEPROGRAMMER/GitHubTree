@@ -1,8 +1,8 @@
 {
-  "repo": "blitzdotdev/blitzos",
+  "repo": "youxiandechilun/Guido",
   "branch": "main",
-  "language": "JavaScript",
-  "description": "BlitzOS allows cloud agents to boot already knowing your work, and keep working with your laptop closed",
-  "stars": 115,
-  "forks": 13
+  "language": "Java",
+  "description": "景区导览服务 AI 数字人：基于 Spring Boot、Vue 3、UniApp 与本地 RAG 的智能导览系统。",
+  "stars": 104,
+  "forks": 1
 }
