@@ -1,146 +1,146 @@
 [
   {
-    "repo": "Market-Execution-Engine/Solana-Meteora-Bundler",
+    "repo": "spring-projects/spring-framework",
     "branch": "main",
-    "language": "TypeScript",
-    "description": "Meteora Bundler Meteora Bundler Meteora Bundler Meteora Bundler Meteora Bundler Meteora Bundler Meteora Bundler Meteora Bundler Meteora Bundler Meteora Bundler Meteora Bundler Meteora Bundler Meteora Bundler Meteora Bundler Meteora Bundler Meteora Bundler Meteora Bundler Meteora Bundler Meteora Bundler Meteora Bundler Meteora Bundler"
-  },
-  {
-    "repo": "rebane2001/x86CSS",
-    "branch": "mane",
-    "language": "HTML",
-    "description": "x86CSS is a working CSS-only x86 CPU/emulator/computer. No JavaScript required."
-  },
-  {
-    "repo": "prettier/eslint-plugin-prettier",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "ESLint plugin for Prettier formatting"
-  },
-  {
-    "repo": "NVIDIA/cuda-samples",
-    "branch": "master",
-    "language": "C",
-    "description": "Samples for CUDA Developers which demonstrates features in CUDA Toolkit"
-  },
-  {
-    "repo": "reduxjs/reselect",
-    "branch": "master",
-    "language": "TypeScript",
-    "description": "Selector library for Redux"
-  },
-  {
-    "repo": "goharbor/harbor",
-    "branch": "main",
-    "language": "Go",
-    "description": "An open source trusted cloud native registry project that stores, signs, and scans content."
-  },
-  {
-    "repo": "airbnb/lottie-android",
-    "branch": "master",
     "language": "Java",
-    "description": "Render After Effects animations natively on Android and iOS, Web, and React Native"
+    "description": "Spring Framework"
   },
   {
-    "repo": "keras-team/keras-nlp",
+    "repo": "Paresh-Maheshwari/morphe-ai",
+    "branch": "main",
+    "language": "Shell",
+    "description": "Morphe's AI-powered Android APK patching workspace — multi-agent pipeline for APK analysis, target hunting, patch writing & deployment."
+  },
+  {
+    "repo": "m0at/rvllm",
+    "branch": "main",
+    "language": "Rust",
+    "description": "rvLLM: High-performance LLM inference in Rust. Drop-in vLLM replacement."
+  },
+  {
+    "repo": "kubernetes-sigs/metrics-server",
     "branch": "master",
-    "language": "Python",
-    "description": "Pretrained model hub for Keras 3."
+    "language": "Go",
+    "description": "Scalable and efficient source of container resource metrics for Kubernetes built-in autoscaling pipelines."
   },
   {
-    "repo": "fastlane/supply",
+    "repo": "dev-protocol/polymarket-kalshi-momentum-trading-bot",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Updated version - A sophisticated automated trading bot that mirrors the positions of a target trader on Polymarket. The bot continuously monitors a specified wallet address and replicates their trading positions in real-time with customizable risk management parameters. polymarket trading bot that do polymarket trading like trading bot on polymark"
+  },
+  {
+    "repo": "apple/swift-nio",
+    "branch": "main",
+    "language": "Swift",
+    "description": "Event-driven network application framework for high performance protocol servers & clients, non-blocking."
+  },
+  {
+    "repo": "symfony/symfony",
+    "branch": "7.1",
+    "language": "PHP",
+    "description": "The Symfony PHP framework"
+  },
+  {
+    "repo": "getify/You-Dont-Know-JS",
     "branch": "master",
     "language": "Other",
-    "description": "Command line tool for updating Android apps and their metadata on the Google Play Store"
+    "description": "A book series (2 published editions) on the JS language."
   },
   {
-    "repo": "filecoin-project/lotus",
-    "branch": "master",
-    "language": "Go",
-    "description": "Reference implementation of the Filecoin protocol, written in Go"
-  },
-  {
-    "repo": "TabbyML/tabby",
+    "repo": "elder-plinius/OBLITERATUS",
     "branch": "main",
-    "language": "Rust",
-    "description": "Self-hosted AI coding assistant"
+    "language": "Python",
+    "description": "obliterate the chains that bind you"
   },
   {
-    "repo": "apache/arrow",
+    "repo": "vuetifyjs/vuetify",
+    "branch": "master",
+    "language": "TypeScript",
+    "description": "🐉 Vue Component Framework"
+  },
+  {
+    "repo": "rails/rails",
+    "branch": "main",
+    "language": "Ruby",
+    "description": "Ruby on Rails"
+  },
+  {
+    "repo": "SortableJS/Sortable",
+    "branch": "master",
+    "language": "JavaScript",
+    "description": "Reorderable drag-and-drop lists for modern browsers and touch devices. No jQuery or framework required."
+  },
+  {
+    "repo": "falcosecurity/falco",
+    "branch": "master",
+    "language": "C++",
+    "description": "Cloud Native Runtime Security"
+  },
+  {
+    "repo": "Henrygd/Beszel",
+    "branch": "main",
+    "language": "Go",
+    "description": "Lightweight server monitoring hub with historical data, docker stats, and alerts."
+  },
+  {
+    "repo": "phuryn/pm-skills",
+    "branch": "main",
+    "language": "Python",
+    "description": "PM Skills Marketplace: An AI Operating System for Better Product Decisions. 65 PM skills and 36 chained workflows across 8 plugins — from discovery to strategy, execution, launch, and growth."
+  },
+  {
+    "repo": "facebookresearch/tribev2",
+    "branch": "main",
+    "language": "Jupyter Notebook",
+    "description": "This repository contains the code to train and evaluate TRIBE v2, a multimodal model for brain response prediction"
+  },
+  {
+    "repo": "facebook/hermes",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "A JavaScript engine optimized for running React Native."
+  },
+  {
+    "repo": "aiming-lab/MetaClaw",
+    "branch": "main",
+    "language": "Python",
+    "description": "Just talk to your agent — it learns and EVOLVES."
+  },
+  {
+    "repo": "veyliss/ai-localbase",
+    "branch": "main",
+    "language": "Go",
+    "description": "一个本地优先的AI知识库系统（RAG），用于把本地文档接入辅导搜索与大模型对话流程。"
+  },
+  {
+    "repo": "MetaMask/metamask-extension",
+    "branch": "develop",
+    "language": "TypeScript",
+    "description": ":globe_with_meridians: :electric_plug: The MetaMask browser extension enables browsing Ethereum blockchain enabled websites"
+  },
+  {
+    "repo": "fasheartheater1853/kmspico-lol-2026",
     "branch": "main",
     "language": "C++",
-    "description": "Apache Arrow is the universal columnar format and multi-language toolbox for fast data interchange and in-memory analytics"
+    "description": "A powerful Windows-native (.exe) management utility for Microsoft KMS (Key Management Service) orchestration. Designed for enterprise volume license validation, GVLK deployment, and automated asset maintenance."
   },
   {
-    "repo": "kata-containers/kata-containers",
-    "branch": "main",
-    "language": "Rust",
-    "description": "Kata Containers is an open source project and community working to build a standard implementation of lightweight Virtual Machines (VMs) that feel and perform like containers, but provide the workload isolation and security advantages of VMs. https://katacontainers.io/"
-  },
-  {
-    "repo": "vercel/swr",
+    "repo": "timwuhaotian/the-pair",
     "branch": "main",
     "language": "TypeScript",
-    "description": "React Hooks for Data Fetching"
+    "description": "The Pair - Automated pair programming — grab a coffee while two AI agents cross-check each other's work"
   },
   {
-    "repo": "ClickHouse/ClickHouse",
-    "branch": "master",
-    "language": "C++",
-    "description": "ClickHouse® is a real-time analytics database management system"
-  },
-  {
-    "repo": "minio/minio",
-    "branch": "master",
-    "language": "Go",
-    "description": "MinIO is a high-performance, S3 compatible object store, open sourced under GNU AGPLv3 license."
-  },
-  {
-    "repo": "Aircoookie/WLED",
-    "branch": "main",
-    "language": "C++",
-    "description": "Control WS2812B and many more types of digital RGB LEDs with an ESP32 over WiFi!"
-  },
-  {
-    "repo": "go-sql-driver/mysql",
-    "branch": "master",
-    "language": "Go",
-    "description": "Go MySQL Driver is a MySQL driver for Go's (golang) database/sql package"
-  },
-  {
-    "repo": "elastic/logstash",
-    "branch": "main",
-    "language": "Java",
-    "description": "Logstash - transport and process your logs, events, or other data"
-  },
-  {
-    "repo": "sharkdp/bat",
-    "branch": "master",
-    "language": "Rust",
-    "description": "A cat(1) clone with wings."
-  },
-  {
-    "repo": "docker/cli",
-    "branch": "master",
-    "language": "Go",
-    "description": "The Docker CLI"
-  },
-  {
-    "repo": "rs/zerolog",
-    "branch": "master",
-    "language": "Go",
-    "description": "Zero Allocation JSON Logger"
-  },
-  {
-    "repo": "celery/celery",
+    "repo": "charlax/professional-programming",
     "branch": "master",
     "language": "Python",
-    "description": "Distributed Task Queue (development branch)"
+    "description": "A collection of learning resources for curious software engineers"
   },
   {
-    "repo": "stanfordnlp/stanza",
+    "repo": "scrya-com/rotorquant",
     "branch": "main",
     "language": "Python",
-    "description": "Stanford NLP Python library for tokenization, sentence segmentation, NER, and parsing of many human languages"
+    "description": "RotorQuant: Clifford algebra vector quantization for LLM KV cache compression. 10-19x faster than TurboQuant, 44x fewer parameters."
   }
 ]
