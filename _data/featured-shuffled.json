@@ -1,146 +1,146 @@
 [
   {
-    "repo": "tddworks/baguette",
-    "branch": "main",
-    "language": "Swift",
-    "description": "Headless iOS Simulator manager/farm + host-side input injection for iOS 26 — taps, swipes, multi-finger gestures, and 60 fps streaming"
-  },
-  {
-    "repo": "six2dez/burp-ai-agent",
-    "branch": "main",
-    "language": "Kotlin",
-    "description": "Burp Suite extension that adds built-in MCP tooling, AI-assisted analysis, privacy controls, passive and active scanning and more"
-  },
-  {
-    "repo": "TriangleMagistrate/lovable-openclaw",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "lovable-openclaw — a macOS bootstrap CLI for Lovable. Installs, configures, and verifies a complete development environment in one command."
-  },
-  {
-    "repo": "dreddnafious/thereisnospoon",
-    "branch": "main",
-    "language": "Python",
-    "description": "A machine learning primer built from first principles. For engineers who want to reason about ML systems the way they reason about software systems."
-  },
-  {
-    "repo": "joeseesun/word-root-workshop",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "📚 词根词缀记忆工坊 - 像搭积木一样记单词，掌握300个词根，解锁30,000+英语单词"
-  },
-  {
-    "repo": "RightNow-AI/autokernel",
-    "branch": "main",
-    "language": "Python",
-    "description": "Autoresearch for GPU kernels. Give it any PyTorch model, go to sleep, wake up to optimized Triton kernels."
-  },
-  {
-    "repo": "Darkkal44/sddm-themes",
-    "branch": "main",
-    "language": "QML",
-    "description": "A simple collection of all the sddm-themes I've made :D"
-  },
-  {
-    "repo": "ncvgl/slawk",
+    "repo": "Market-Execution-Engine/Solana-Meteora-Bundler",
     "branch": "main",
     "language": "TypeScript",
-    "description": "A 14 day experiment to clone Slack with Claude Code"
+    "description": "Meteora Bundler Meteora Bundler Meteora Bundler Meteora Bundler Meteora Bundler Meteora Bundler Meteora Bundler Meteora Bundler Meteora Bundler Meteora Bundler Meteora Bundler Meteora Bundler Meteora Bundler Meteora Bundler Meteora Bundler Meteora Bundler Meteora Bundler Meteora Bundler Meteora Bundler Meteora Bundler Meteora Bundler"
   },
   {
-    "repo": "FreedomIntelligence/OpenClaw-Medical-Skills",
+    "repo": "rebane2001/x86CSS",
+    "branch": "mane",
+    "language": "HTML",
+    "description": "x86CSS is a working CSS-only x86 CPU/emulator/computer. No JavaScript required."
+  },
+  {
+    "repo": "prettier/eslint-plugin-prettier",
     "branch": "main",
-    "language": "Python",
-    "description": "The largest open-source medical AI skills library for OpenClaw🦞."
+    "language": "JavaScript",
+    "description": "ESLint plugin for Prettier formatting"
   },
   {
-    "repo": "TrendTechVista/polymarket-politics-bot",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "polymarket politics bot polymarket politics bot polymarket politics bot polymarket politics bot polymarket politics bot polymarket politics bot polymarket politics bot polymarket politics bot polymarket politics bot polymarket politics bot polymarket politics bot polymarket politics bot polymarket politics bot polymarket politics bot"
-  },
-  {
-    "repo": "PinchToDebug/EverythingQuickSearch",
+    "repo": "NVIDIA/cuda-samples",
     "branch": "master",
-    "language": "C#",
-    "description": ""
-  },
-  {
-    "repo": "okooo5km/Skills4U",
-    "branch": "main",
-    "language": "TeX",
-    "description": "Skills here"
-  },
-  {
-    "repo": "hicode002/qualcomm_gbl_exploit_poc",
-    "branch": "main",
     "language": "C",
-    "description": "Unlocking qualcomm bootloader via gbl exploit."
+    "description": "Samples for CUDA Developers which demonstrates features in CUDA Toolkit"
   },
   {
-    "repo": "Zyora-Dev/zse",
+    "repo": "reduxjs/reselect",
+    "branch": "master",
+    "language": "TypeScript",
+    "description": "Selector library for Redux"
+  },
+  {
+    "repo": "goharbor/harbor",
     "branch": "main",
-    "language": "Python",
-    "description": "Zyora Server Inference Engine for LLM ."
+    "language": "Go",
+    "description": "An open source trusted cloud native registry project that stores, signs, and scans content."
   },
   {
-    "repo": "Perkins729/OmniXtreme",
-    "branch": "main",
-    "language": "Python",
-    "description": ""
+    "repo": "airbnb/lottie-android",
+    "branch": "master",
+    "language": "Java",
+    "description": "Render After Effects animations natively on Android and iOS, Web, and React Native"
   },
   {
-    "repo": "ResearAI/AutoFigure-Edit",
-    "branch": "main",
+    "repo": "keras-team/keras-nlp",
+    "branch": "master",
     "language": "Python",
-    "description": ""
+    "description": "Pretrained model hub for Keras 3."
   },
   {
-    "repo": "DegenSugarBoo/OpenBook",
+    "repo": "fastlane/supply",
+    "branch": "master",
+    "language": "Other",
+    "description": "Command line tool for updating Android apps and their metadata on the Google Play Store"
+  },
+  {
+    "repo": "filecoin-project/lotus",
+    "branch": "master",
+    "language": "Go",
+    "description": "Reference implementation of the Filecoin protocol, written in Go"
+  },
+  {
+    "repo": "TabbyML/tabby",
     "branch": "main",
     "language": "Rust",
-    "description": "Real-time Crypto Futures depth heatmap in Rust (egui/eframe) with live order flow and trade tape."
+    "description": "Self-hosted AI coding assistant"
   },
   {
-    "repo": "v1ewp0rt/BAREBLOOD",
+    "repo": "apache/arrow",
     "branch": "main",
-    "language": "QML",
-    "description": "Gothic maximalist linux theme for KDE plasma 6.5"
+    "language": "C++",
+    "description": "Apache Arrow is the universal columnar format and multi-language toolbox for fast data interchange and in-memory analytics"
   },
   {
-    "repo": "linlay/zenmind",
-    "branch": "main",
-    "language": "PowerShell",
-    "description": "宅在家里的电脑，努力做一个openclaw"
-  },
-  {
-    "repo": "saif0200/notchprompt",
-    "branch": "main",
-    "language": "Swift",
-    "description": ""
-  },
-  {
-    "repo": "170-carry/codex-tools",
+    "repo": "kata-containers/kata-containers",
     "branch": "main",
     "language": "Rust",
-    "description": "快捷切换codex 账号以及监控codex用量的工具"
+    "description": "Kata Containers is an open source project and community working to build a standard implementation of lightweight Virtual Machines (VMs) that feel and perform like containers, but provide the workload isolation and security advantages of VMs. https://katacontainers.io/"
   },
   {
-    "repo": "Alex-Gilbert/unredact",
+    "repo": "vercel/swr",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "React Hooks for Data Fetching"
+  },
+  {
+    "repo": "ClickHouse/ClickHouse",
+    "branch": "master",
+    "language": "C++",
+    "description": "ClickHouse® is a real-time analytics database management system"
+  },
+  {
+    "repo": "minio/minio",
+    "branch": "master",
+    "language": "Go",
+    "description": "MinIO is a high-performance, S3 compatible object store, open sourced under GNU AGPLv3 license."
+  },
+  {
+    "repo": "Aircoookie/WLED",
+    "branch": "main",
+    "language": "C++",
+    "description": "Control WS2812B and many more types of digital RGB LEDs with an ESP32 over WiFi!"
+  },
+  {
+    "repo": "go-sql-driver/mysql",
+    "branch": "master",
+    "language": "Go",
+    "description": "Go MySQL Driver is a MySQL driver for Go's (golang) database/sql package"
+  },
+  {
+    "repo": "elastic/logstash",
+    "branch": "main",
+    "language": "Java",
+    "description": "Logstash - transport and process your logs, events, or other data"
+  },
+  {
+    "repo": "sharkdp/bat",
+    "branch": "master",
+    "language": "Rust",
+    "description": "A cat(1) clone with wings."
+  },
+  {
+    "repo": "docker/cli",
+    "branch": "master",
+    "language": "Go",
+    "description": "The Docker CLI"
+  },
+  {
+    "repo": "rs/zerolog",
+    "branch": "master",
+    "language": "Go",
+    "description": "Zero Allocation JSON Logger"
+  },
+  {
+    "repo": "celery/celery",
+    "branch": "master",
+    "language": "Python",
+    "description": "Distributed Task Queue (development branch)"
+  },
+  {
+    "repo": "stanfordnlp/stanza",
     "branch": "main",
     "language": "Python",
-    "description": ""
-  },
-  {
-    "repo": "PeGasUsCHAkra/mevbot",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "Ethereum Bot"
-  },
-  {
-    "repo": "fjb040911/ai-rules",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "ai-rules is a governance framework designed to solve Architectural Decay in AI-driven development. It forces AI Agents (Cursor, Windsurf, Copilot) to respect your project's boundaries, UI libraries, and design patterns."
+    "description": "Stanford NLP Python library for tokenization, sentence segmentation, NER, and parsing of many human languages"
   }
 ]

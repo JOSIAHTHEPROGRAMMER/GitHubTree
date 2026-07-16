@@ -1,8 +1,8 @@
 {
-  "repo": "MarvinSchwaibold/mri-grid-viewer",
+  "repo": "blitzdotdev/blitzos",
   "branch": "main",
   "language": "JavaScript",
-  "description": "Local-first MRI series grid viewer with a SwiftUI iOS wrapper",
-  "stars": 106,
-  "forks": 12
+  "description": "BlitzOS allows cloud agents to boot already knowing your work, and keep working with your laptop closed",
+  "stars": 113,
+  "forks": 13
 }
