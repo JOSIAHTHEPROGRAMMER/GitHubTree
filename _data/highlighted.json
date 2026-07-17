@@ -1,8 +1,8 @@
 {
-  "repo": "pixel-point/toolcraft",
+  "repo": "theswerd/brainless",
   "branch": "main",
   "language": "TypeScript",
-  "description": "A starter kit and UI library for building custom design apps with AI.",
-  "stars": 115,
-  "forks": 4
+  "description": "Claude Code, Codex, and Grok interfaces as shadcn components",
+  "stars": 113,
+  "forks": 2
 }

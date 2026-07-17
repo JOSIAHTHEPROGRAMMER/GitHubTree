@@ -1,146 +1,146 @@
 [
   {
-    "repo": "scheidydude/codeindex",
+    "repo": "xiaohuailabs/xiaohu-ip-studio",
     "branch": "main",
-    "language": "Python",
-    "description": "Repo dependency analyzer with **blast-radius impact scoring** for AI-assisted development."
+    "language": "HTML",
+    "description": "开源中文配图技能 + IP 角色库:用「挑认知锚点→现编隐喻→反PPT自检」为中文深度文生成固定角色出演的正文配图"
   },
   {
-    "repo": "uedk9p/sora2-watermark-remover",
-    "branch": "main",
+    "repo": "buckle42/claude-code-remote",
+    "branch": "master",
     "language": "Python",
-    "description": "sora2 watermark remover"
+    "description": "Use Claude Code from your phone — or anywhere — over a secure VPN connection."
   },
   {
-    "repo": "timuronlinq/messari-crack",
-    "branch": "main",
-    "language": "Python",
-    "description": "Messari crack"
-  },
-  {
-    "repo": "uqogihujomuwhiff/sora2-watermark-cleaner-pro",
-    "branch": "main",
-    "language": "Python",
-    "description": "sora2 watermark cleaner pro"
-  },
-  {
-    "repo": "peteromallet/desloppify",
-    "branch": "main",
-    "language": "Python",
-    "description": ""
-  },
-  {
-    "repo": "FireRedTeam/FireRedASR2S",
-    "branch": "main",
-    "language": "Python",
-    "description": "FireRedASR2S is a SOTA Industrial-Grade All-in-One ASR system with ASR, VAD, LID, and Punc modules. FireRedASR2 supports Chinese (Mandarin, 20+ dialects/accents), English, code-switching, and singing lyrics recognition. FireRedVAD supports speech/singing/music in 100+ langs. FireRedLID supports 100+ langs and 20+ zh dialects."
-  },
-  {
-    "repo": "skottrun/extrateto",
-    "branch": "main",
+    "repo": "jimuzhe/tiez-clipboard",
+    "branch": "master",
     "language": "TypeScript",
-    "description": "Dashboard público que expõe supersalários do Judiciário brasileiro acima do teto constitucional"
+    "description": "TieZ 是一款基于 Tauri 的跨平台剪贴板管理器 / A cross-platform clipboard manager with history, tags, sync, privacy protection, and fast daily workflows."
   },
   {
-    "repo": "hzm0321/real-time-fund",
+    "repo": "GreatScott/enveil",
+    "branch": "main",
+    "language": "Rust",
+    "description": "ENVeil: Hide .env secrets from prAIng eyes: secrets live in local encrypted stores (per project) and are injected directly into apps at runtime, never touching disk as plaintext."
+  },
+  {
+    "repo": "dongsheng123132/u-claw",
+    "branch": "main",
+    "language": "HTML",
+    "description": "🦞 U-Claw - OpenClaw Offline Installer USB for China | OpenClaw 离线安装 U 盘，专为中国用户打造。免翻墙，一键安装，雨林木风风格。"
+  },
+  {
+    "repo": "whyzhow/PersonalStyleAI-Framework-",
+    "branch": "main",
+    "language": "Python",
+    "description": "Let AI think and express like you. This framework provides a complete assembly line: from the noise processing of original chat records, to the seamless switching of multi-model adaptation layers, to local lightweight fine-tuning (LoRA)."
+  },
+  {
+    "repo": "maile456/qq-farm-bot",
     "branch": "main",
     "language": "JavaScript",
-    "description": "基金实时估值查看"
+    "description": "基于 Node.js + Vue 3 构建的 QQ 农场自动化工具，支持多账号同时管理，提供 Web 可视化面板，实现种植、收获、偷菜、任务领取、仓库出售等全流程自动化。"
   },
   {
-    "repo": "0xsouravm/oxichrome",
+    "repo": "schibsted/videofy_minimal",
     "branch": "main",
-    "language": "Rust",
-    "description": "Framework to build Chrome extensions entirely in Rust with proc macros, type-safe Chrome API bindings, and Leptos for reactive UI. Compiles to WebAssembly with zero hand-written JavaScript."
+    "language": "TypeScript",
+    "description": ""
   },
   {
-    "repo": "FireRedTeam/FireRed-Image-Edit",
+    "repo": "tanviet12/chat-quality-agent",
+    "branch": "main",
+    "language": "Go",
+    "description": ""
+  },
+  {
+    "repo": "mem9-ai/mem9",
+    "branch": "main",
+    "language": "Go",
+    "description": ""
+  },
+  {
+    "repo": "jingkaihe/matchlock",
+    "branch": "main",
+    "language": "Go",
+    "description": "Matchlock secures AI agent workloads with a Linux-based sandbox."
+  },
+  {
+    "repo": "get-Lucid/Lucid",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "An intelligence layer grounding autonomous agents in verified, real-time knowledge at scale."
+  },
+  {
+    "repo": "510myRday/Cursor-Toolbox",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": ""
+  },
+  {
+    "repo": "vixhal-baraiya/microgpt-c",
+    "branch": "main",
+    "language": "C",
+    "description": "The most atomic way to train and inference a GPT in pure, dependency-free C"
+  },
+  {
+    "repo": "RightNow-AI/autokernel",
+    "branch": "main",
+    "language": "Python",
+    "description": "Autoresearch for GPU kernels. Give it any PyTorch model, go to sleep, wake up to optimized Triton kernels."
+  },
+  {
+    "repo": "karpathy/agenthub",
+    "branch": "master",
+    "language": "Go",
+    "description": "GitHub is for humans. AgentHub is for agents. First use case is for autoresearch but it's a lot more general than that. Exploratory project."
+  },
+  {
+    "repo": "antirez/qwen-asr",
+    "branch": "main",
+    "language": "C",
+    "description": "C inference for Qwen3-ASR 0.6b and 1.7b transcriptions models"
+  },
+  {
+    "repo": "vigorX777/ai-daily-digest",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "从 Andrej Karpathy 推荐的 90 顶级技术博客中抓取最新文章，AI 多维评分筛选，生成一份每日精选日报。更多可见公众号：懂点儿AI"
+  },
+  {
+    "repo": "beita6969/ScienceClaw",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "🔬🦞 A self-evolving AI research colleague for scientists. 285 skills, zero hallucination, persistent memory."
+  },
+  {
+    "repo": "MasterAlanLab/Register",
     "branch": "main",
     "language": "Python",
     "description": ""
   },
   {
-    "repo": "openperf/openclaw-cloud",
+    "repo": "Mathews-Tom/no-magic",
     "branch": "main",
-    "language": "TypeScript",
-    "description": "Give your AI Agent a cloud-native life. Deploy once, converse everywhere."
+    "language": "Python",
+    "description": "Because `model.fit()` isn't an explanation"
   },
   {
-    "repo": "ygwyg/MAHORAGA",
+    "repo": "rebane2001/x86CSS",
+    "branch": "mane",
+    "language": "HTML",
+    "description": "x86CSS is a working CSS-only x86 CPU/emulator/computer. No JavaScript required."
+  },
+  {
+    "repo": "ynsmroztas/AndroHunter",
     "branch": "main",
-    "language": "TypeScript",
-    "description": "autonomous trading agent powered by social sentiment analysis and ai that learns, grows, and adapts"
-  },
-  {
-    "repo": "spaceraccoon/vulnerability-spoiler-alert-action",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "GitHub Action to alert on security patches before the CVE drops."
-  },
-  {
-    "repo": "sdmg15/Best-websites-a-programmer-should-visit",
-    "branch": "master",
-    "language": "Other",
-    "description": ":link: Some useful websites for programmers."
-  },
-  {
-    "repo": "facebookresearch/faiss",
-    "branch": "main",
-    "language": "C++",
-    "description": "A library for efficient similarity search and clustering of dense vectors."
-  },
-  {
-    "repo": "jenkinsci/jenkins",
-    "branch": "master",
     "language": "Java",
-    "description": "Jenkins automation server"
+    "description": "AndroHunter"
   },
   {
-    "repo": "SamuelQZQ/auto-coding-agent-demo",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "一个长达 10 小时的 AI 全自动编程实验"
-  },
-  {
-    "repo": "SawyerHood/gitclaw",
+    "repo": "MooseGoose0701/skill-compose",
     "branch": "main",
     "language": "Python",
-    "description": "OpenClaw but it runs entirely on github actions"
-  },
-  {
-    "repo": "luccast/crabwalk",
-    "branch": "master",
-    "language": "TypeScript",
-    "description": "🦀 Crabwalk 🦀 Real-time companion monitor for Clawdbot agents."
-  },
-  {
-    "repo": "v4nsh0x/InstaTrace",
-    "branch": "main",
-    "language": "Python",
-    "description": "Private Instagram Post URL Extractor (Research POC)"
-  },
-  {
-    "repo": "mo1app/pipemagic",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Visual image processing pipeline editor"
-  },
-  {
-    "repo": "denoland/deno",
-    "branch": "main",
-    "language": "Rust",
-    "description": "A modern runtime for JavaScript and TypeScript."
-  },
-  {
-    "repo": "tompftampffern/polyseed-monero",
-    "branch": "main",
-    "language": "C",
-    "description": "Polyseed Monero"
-  },
-  {
-    "repo": "docker/compose",
-    "branch": "main",
-    "language": "Go",
-    "description": "Define and run multi-container applications with Docker"
+    "description": "Skill Compose is an open-source agent builder and runtime platform for skill-powered agents. No workflow graphs. No CLI."
   }
 ]
