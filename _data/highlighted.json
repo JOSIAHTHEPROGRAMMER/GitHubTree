@@ -1,8 +1,8 @@
 {
-  "repo": "GOROman/famicom-rf-hackrf-decoder",
+  "repo": "theswerd/brainless",
   "branch": "main",
-  "language": "C++",
-  "description": "A featured project on GitHubTree.",
-  "stars": 133,
-  "forks": 7
+  "language": "TypeScript",
+  "description": "Claude Code, Codex, and Grok interfaces as shadcn components",
+  "stars": 121,
+  "forks": 2
 }

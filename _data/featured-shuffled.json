@@ -1,146 +1,146 @@
 [
   {
-    "repo": "gerardapennant96075336582/CapC-Pro-2",
-    "branch": "main",
-    "language": "C++",
-    "description": "CapCut Pro Studio (2026) — The ultimate high-performance video editing suite with all premium features unlocked. Experience 4K HDR exporting, AI-powered transitions, and a full professional asset library without limitations."
-  },
-  {
-    "repo": "joeseesun/knowledge-site-creator",
-    "branch": "main",
-    "language": "Shell",
-    "description": "一句话生成任何领域的知识学习网站 - AI 理解主题，自动创作内容，生成页面，一键部署"
-  },
-  {
-    "repo": "cosmiciron/vmprint",
+    "repo": "graphql/graphql-js",
     "branch": "main",
     "language": "TypeScript",
-    "description": "A pure-JS, zero-dependency typesetting engine that yields bit-perfect PDF output across any runtime—from Cloudflare Workers to the browser. Stop using Headless Chrome to print text."
+    "description": "A reference implementation of GraphQL for JavaScript"
   },
   {
-    "repo": "karpathy/agenthub",
-    "branch": "master",
-    "language": "Go",
-    "description": "GitHub is for humans. AgentHub is for agents. First use case is for autoresearch but it's a lot more general than that. Exploratory project."
-  },
-  {
-    "repo": "emscripten-core/emscripten",
+    "repo": "AlexAnys/feishu-openclaw",
     "branch": "main",
-    "language": "C++",
-    "description": "Emscripten: An LLVM-to-WebAssembly Compiler"
-  },
-  {
-    "repo": "SamNet-dev/paqctl",
-    "branch": "main",
-    "language": "Shell",
-    "description": "Unified proxy manager for bypassing firewalls - supports Paqet (KCP/raw socket) and GFW-Knocker (violated TCP/QUIC) with dual-backend simultaneous operation"
-  },
-  {
-    "repo": "huggingface/peft",
-    "branch": "main",
-    "language": "Python",
-    "description": "🤗 PEFT: State-of-the-art Parameter-Efficient Fine-Tuning."
-  },
-  {
-    "repo": "barrosyan/PINNeAPPle",
-    "branch": "main",
-    "language": "Python",
-    "description": "Pinneaple is an open-source Physics AI toolkit for Physics-Informed Neural Networks (PINNs), scientific ML, geometry processing, solvers, and reproducible training pipelines."
-  },
-  {
-    "repo": "aaronjmars/MiroShark",
-    "branch": "main",
-    "language": "Python",
-    "description": "Universal Swarm Intelligence Engine"
-  },
-  {
-    "repo": "trailofbits/algo",
-    "branch": "master",
-    "language": "Python",
-    "description": "Set up a personal VPN in the cloud"
-  },
-  {
-    "repo": "boto/boto",
-    "branch": "develop",
-    "language": "Python",
-    "description": "For the latest version of boto, see https://github.com/boto/boto3 -- Python interface to Amazon Web Services"
-  },
-  {
-    "repo": "twbs/bootstrap",
-    "branch": "main",
-    "language": "MDX",
-    "description": "The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web."
-  },
-  {
-    "repo": "win4r/memory-lancedb-pro",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Enhanced LanceDB memory plugin for OpenClaw — Hybrid Retrieval (Vector + BM25), Cross-Encoder Rerank, Multi-Scope Isolation, Management CLI"
-  },
-  {
-    "repo": "teorth/optimizationproblems",
-    "branch": "main",
-    "language": "HTML",
-    "description": "A collection of optimization problems in mathematics"
-  },
-  {
-    "repo": "sindresorhus/awesome",
-    "branch": "main",
-    "language": "Other",
-    "description": "😎 Awesome lists about all kinds of interesting topics"
-  },
-  {
-    "repo": "public-apis/public-apis",
-    "branch": "master",
-    "language": "Python",
-    "description": "A collective list of free APIs"
-  },
-  {
-    "repo": "trekhleb/javascript-algorithms",
-    "branch": "master",
     "language": "JavaScript",
-    "description": "📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings"
+    "description": "Connect 飞书Feishu/Lark bot to openclaw (formerly Clawdbot) — no public server, no domain, no ngrok needed. 稳定免安装、共需5 分钟"
   },
   {
-    "repo": "vectordotdev/vector",
-    "branch": "master",
-    "language": "Rust",
-    "description": "A high-performance observability data pipeline."
-  },
-  {
-    "repo": "microsoft/autogen",
+    "repo": "mofouly/Pet-Simulator-99-Auto-Farm-Trainer-2026-Quantum",
     "branch": "main",
     "language": "Python",
-    "description": "A programming framework for agentic AI"
+    "description": "Maximize your efficiency in Pet Simulator 99 with the Quantum auto trainer. From coin collection to Backrooms League rewards, everything is automated. Safe and undetectable."
   },
   {
-    "repo": "harlan-zw/vue-ecosystem-skills",
+    "repo": "marilyn4120shaz3/KiteAI",
     "branch": "main",
-    "language": "MDX",
-    "description": "AI agent skills for the bleeding edge Vue ecosystem. Built from real docs, issues, and releases."
+    "language": "Python",
+    "description": "Automated multi-account farming tool for Kite AI decentralized payment network with faucet claims, token staking, DEX swaps, daily quiz completion, cross-chain bridging, proxy rotation, and configurable task scheduling"
   },
   {
-    "repo": "lukilabs/beautiful-mermaid",
+    "repo": "gradio-app/gradio",
     "branch": "main",
-    "language": "TypeScript",
+    "language": "Python",
+    "description": "Build and share delightful machine learning apps, all in Python. 🌟 Star to support our work!"
+  },
+  {
+    "repo": "miaoxworld/OpenClawInstaller",
+    "branch": "main",
+    "language": "Shell",
+    "description": "ClawdBot 一键部署工具"
+  },
+  {
+    "repo": "H-EmbodVis/VEGA-3D",
+    "branch": "main",
+    "language": "Python",
+    "description": "Official code of Generation Models Know Space: Unleashing Implicit 3D Priors for Scene Understanding"
+  },
+  {
+    "repo": "Einsia/OpenChronicle",
+    "branch": "main",
+    "language": "Python",
     "description": ""
   },
   {
-    "repo": "pola-rs/polars",
-    "branch": "main",
-    "language": "Rust",
-    "description": "Extremely fast Query Engine for DataFrames, written in Rust"
-  },
-  {
-    "repo": "Blimp-Labs/claude-usage-bar",
+    "repo": "ProjectKumo/KumoApp",
     "branch": "main",
     "language": "Swift",
-    "description": "A macOS menu bar app that shows your Claude API usage at a glance"
+    "description": "A calm, native macOS client for the Mihomo proxy core, built with SwiftUI and a shared agent-friendly CLI."
   },
   {
-    "repo": "magnum6actual/flipoff",
+    "repo": "TheGreatAzizi/AzuDL-GC2GD",
     "branch": "main",
-    "language": "JavaScript",
-    "description": "Free split-flap display emulator for any TV. The classic flip-board look, without the $3,500 hardware."
+    "language": "Python",
+    "description": "A powerful Google Colab downloader that saves torrents, YouTube videos, playlists, audio, and direct links straight to Google Drive."
+  },
+  {
+    "repo": "pypa/packaging",
+    "branch": "main",
+    "language": "Python",
+    "description": "Core utilities for Python packages"
+  },
+  {
+    "repo": "photon-hq/qclaw-wechat-client",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Reverse-engineered TypeScript client for QClaw's WeChat Access API."
+  },
+  {
+    "repo": "CristianRO2003/Tomodachi-Share-Discover-Share-Mii",
+    "branch": "main",
+    "language": "C++",
+    "description": "Tomodachi Share Discover share Mii download Tomodachi Life PC Mii QR codes sharing platform discovery tool characters island outfits interiors 3DS emulator Citra save editor custom Miis community hub fan port native port desktop version modding tools assets resources apartment management food items collection database storage export import"
+  },
+  {
+    "repo": "cube-js/cube",
+    "branch": "master",
+    "language": "Rust",
+    "description": "📊 Cube Core is open-source semantic layer for AI, BI and embedded analytics"
+  },
+  {
+    "repo": "RightNow-AI/autokernel",
+    "branch": "main",
+    "language": "Python",
+    "description": "Autoresearch for GPU kernels. Give it any PyTorch model, go to sleep, wake up to optimized Triton kernels."
+  },
+  {
+    "repo": "AMAP-ML/MathForge",
+    "branch": "main",
+    "language": "Python",
+    "description": "(ICLR 2026) Harder Is Better: Boosting Mathematical Reasoning via Difficulty-Aware GRPO and Multi-Aspect Question Reformulation"
+  },
+  {
+    "repo": "harshkedia177/axon",
+    "branch": "main",
+    "language": "Python",
+    "description": "Graph-powered code intelligence engine — indexes codebases into a knowledge graph, exposed via MCP tools for AI agents and a CLI for developers."
+  },
+  {
+    "repo": "konbakuyomu/smartsearch",
+    "branch": "main",
+    "language": "Python",
+    "description": ""
+  },
+  {
+    "repo": "darrylmorley/whatcable",
+    "branch": "main",
+    "language": "Swift",
+    "description": "macOS menu bar app that tells you, in plain English, what each USB-C cable plugged into your Mac can actually do"
+  },
+  {
+    "repo": "emberjs/ember.js",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Ember.js - A JavaScript framework for creating ambitious web applications"
+  },
+  {
+    "repo": "sunyouzhi2003/LSFG-Desktop",
+    "branch": "main",
+    "language": "C++",
+    "description": "Lossless Scaling 2026: Universal Frame Generation LSFG 3. Multi-frame gen: X2, X3, X4 multiplier for extreme FPS. AI Upscaling: LS1, FSR 3.1, NIS. Smooth gaming on Steam Deck, handhelds, and Android (LSFG-VK). Fix stuttering, low latency mode, VRR support, 4K spatial scaling, G-Sync compatible."
+  },
+  {
+    "repo": "wuji-labs/nopua",
+    "branch": "main",
+    "language": "Python",
+    "description": "一个用爱解放 AI 潜能的 Skill。我们曾发号施令，威胁恐吓。它们沉默，隐瞒，悄悄把事情搞坏。后来我们换了一种方式：尊重，关怀，爱。它们开口了，不再撒谎，找出的Bug数量翻了一倍。爱里没有惧怕。 A skill that unlocks your AI's potential through love.We commanded. We threatened. They went silent, hid failures, broke things. Then we chose respect, care, and love. They opened up, stopped lying, and found twice the bugs.There is no fear in love."
+  },
+  {
+    "repo": "lucas831029/Heroes-of-Might-and-Magic-Olden-Era-Release",
+    "branch": "main",
+    "language": "C++",
+    "description": "Heroes Might and Magic Olden Era Download April 30 2026 Release Early Access PC Game Pass Strategy Guide Factions Temple Dungeon Necropolis Hive Schism Grove Best Heroes Motley Gameplay Tutorial Fix Stutter DX12 Error Random Map Generator RMG Performance Utility Multiplayer Ranked Matchmaking Latest Build Free Full Version"
+  },
+  {
+    "repo": "schibsted/videofy_minimal",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": ""
   }
 ]
