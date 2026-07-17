@@ -1,93 +1,21 @@
 [
   {
-    "repo": "xiaohuailabs/xiaohu-ip-studio",
+    "repo": "gerardapennant96075336582/CapC-Pro-2",
     "branch": "main",
-    "language": "HTML",
-    "description": "开源中文配图技能 + IP 角色库:用「挑认知锚点→现编隐喻→反PPT自检」为中文深度文生成固定角色出演的正文配图"
+    "language": "C++",
+    "description": "CapCut Pro Studio (2026) — The ultimate high-performance video editing suite with all premium features unlocked. Experience 4K HDR exporting, AI-powered transitions, and a full professional asset library without limitations."
   },
   {
-    "repo": "buckle42/claude-code-remote",
-    "branch": "master",
-    "language": "Python",
-    "description": "Use Claude Code from your phone — or anywhere — over a secure VPN connection."
-  },
-  {
-    "repo": "jimuzhe/tiez-clipboard",
-    "branch": "master",
-    "language": "TypeScript",
-    "description": "TieZ 是一款基于 Tauri 的跨平台剪贴板管理器 / A cross-platform clipboard manager with history, tags, sync, privacy protection, and fast daily workflows."
-  },
-  {
-    "repo": "GreatScott/enveil",
+    "repo": "joeseesun/knowledge-site-creator",
     "branch": "main",
-    "language": "Rust",
-    "description": "ENVeil: Hide .env secrets from prAIng eyes: secrets live in local encrypted stores (per project) and are injected directly into apps at runtime, never touching disk as plaintext."
+    "language": "Shell",
+    "description": "一句话生成任何领域的知识学习网站 - AI 理解主题，自动创作内容，生成页面，一键部署"
   },
   {
-    "repo": "dongsheng123132/u-claw",
-    "branch": "main",
-    "language": "HTML",
-    "description": "🦞 U-Claw - OpenClaw Offline Installer USB for China | OpenClaw 离线安装 U 盘，专为中国用户打造。免翻墙，一键安装，雨林木风风格。"
-  },
-  {
-    "repo": "whyzhow/PersonalStyleAI-Framework-",
-    "branch": "main",
-    "language": "Python",
-    "description": "Let AI think and express like you. This framework provides a complete assembly line: from the noise processing of original chat records, to the seamless switching of multi-model adaptation layers, to local lightweight fine-tuning (LoRA)."
-  },
-  {
-    "repo": "maile456/qq-farm-bot",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "基于 Node.js + Vue 3 构建的 QQ 农场自动化工具，支持多账号同时管理，提供 Web 可视化面板，实现种植、收获、偷菜、任务领取、仓库出售等全流程自动化。"
-  },
-  {
-    "repo": "schibsted/videofy_minimal",
+    "repo": "cosmiciron/vmprint",
     "branch": "main",
     "language": "TypeScript",
-    "description": ""
-  },
-  {
-    "repo": "tanviet12/chat-quality-agent",
-    "branch": "main",
-    "language": "Go",
-    "description": ""
-  },
-  {
-    "repo": "mem9-ai/mem9",
-    "branch": "main",
-    "language": "Go",
-    "description": ""
-  },
-  {
-    "repo": "jingkaihe/matchlock",
-    "branch": "main",
-    "language": "Go",
-    "description": "Matchlock secures AI agent workloads with a Linux-based sandbox."
-  },
-  {
-    "repo": "get-Lucid/Lucid",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "An intelligence layer grounding autonomous agents in verified, real-time knowledge at scale."
-  },
-  {
-    "repo": "510myRday/Cursor-Toolbox",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": ""
-  },
-  {
-    "repo": "vixhal-baraiya/microgpt-c",
-    "branch": "main",
-    "language": "C",
-    "description": "The most atomic way to train and inference a GPT in pure, dependency-free C"
-  },
-  {
-    "repo": "RightNow-AI/autokernel",
-    "branch": "main",
-    "language": "Python",
-    "description": "Autoresearch for GPU kernels. Give it any PyTorch model, go to sleep, wake up to optimized Triton kernels."
+    "description": "A pure-JS, zero-dependency typesetting engine that yields bit-perfect PDF output across any runtime—from Cloudflare Workers to the browser. Stop using Headless Chrome to print text."
   },
   {
     "repo": "karpathy/agenthub",
@@ -96,51 +24,123 @@
     "description": "GitHub is for humans. AgentHub is for agents. First use case is for autoresearch but it's a lot more general than that. Exploratory project."
   },
   {
-    "repo": "antirez/qwen-asr",
+    "repo": "emscripten-core/emscripten",
     "branch": "main",
-    "language": "C",
-    "description": "C inference for Qwen3-ASR 0.6b and 1.7b transcriptions models"
+    "language": "C++",
+    "description": "Emscripten: An LLVM-to-WebAssembly Compiler"
   },
   {
-    "repo": "vigorX777/ai-daily-digest",
+    "repo": "SamNet-dev/paqctl",
     "branch": "main",
-    "language": "TypeScript",
-    "description": "从 Andrej Karpathy 推荐的 90 顶级技术博客中抓取最新文章，AI 多维评分筛选，生成一份每日精选日报。更多可见公众号：懂点儿AI"
+    "language": "Shell",
+    "description": "Unified proxy manager for bypassing firewalls - supports Paqet (KCP/raw socket) and GFW-Knocker (violated TCP/QUIC) with dual-backend simultaneous operation"
   },
   {
-    "repo": "beita6969/ScienceClaw",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "🔬🦞 A self-evolving AI research colleague for scientists. 285 skills, zero hallucination, persistent memory."
-  },
-  {
-    "repo": "MasterAlanLab/Register",
+    "repo": "huggingface/peft",
     "branch": "main",
     "language": "Python",
+    "description": "🤗 PEFT: State-of-the-art Parameter-Efficient Fine-Tuning."
+  },
+  {
+    "repo": "barrosyan/PINNeAPPle",
+    "branch": "main",
+    "language": "Python",
+    "description": "Pinneaple is an open-source Physics AI toolkit for Physics-Informed Neural Networks (PINNs), scientific ML, geometry processing, solvers, and reproducible training pipelines."
+  },
+  {
+    "repo": "aaronjmars/MiroShark",
+    "branch": "main",
+    "language": "Python",
+    "description": "Universal Swarm Intelligence Engine"
+  },
+  {
+    "repo": "trailofbits/algo",
+    "branch": "master",
+    "language": "Python",
+    "description": "Set up a personal VPN in the cloud"
+  },
+  {
+    "repo": "boto/boto",
+    "branch": "develop",
+    "language": "Python",
+    "description": "For the latest version of boto, see https://github.com/boto/boto3 -- Python interface to Amazon Web Services"
+  },
+  {
+    "repo": "twbs/bootstrap",
+    "branch": "main",
+    "language": "MDX",
+    "description": "The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web."
+  },
+  {
+    "repo": "win4r/memory-lancedb-pro",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Enhanced LanceDB memory plugin for OpenClaw — Hybrid Retrieval (Vector + BM25), Cross-Encoder Rerank, Multi-Scope Isolation, Management CLI"
+  },
+  {
+    "repo": "teorth/optimizationproblems",
+    "branch": "main",
+    "language": "HTML",
+    "description": "A collection of optimization problems in mathematics"
+  },
+  {
+    "repo": "sindresorhus/awesome",
+    "branch": "main",
+    "language": "Other",
+    "description": "😎 Awesome lists about all kinds of interesting topics"
+  },
+  {
+    "repo": "public-apis/public-apis",
+    "branch": "master",
+    "language": "Python",
+    "description": "A collective list of free APIs"
+  },
+  {
+    "repo": "trekhleb/javascript-algorithms",
+    "branch": "master",
+    "language": "JavaScript",
+    "description": "📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings"
+  },
+  {
+    "repo": "vectordotdev/vector",
+    "branch": "master",
+    "language": "Rust",
+    "description": "A high-performance observability data pipeline."
+  },
+  {
+    "repo": "microsoft/autogen",
+    "branch": "main",
+    "language": "Python",
+    "description": "A programming framework for agentic AI"
+  },
+  {
+    "repo": "harlan-zw/vue-ecosystem-skills",
+    "branch": "main",
+    "language": "MDX",
+    "description": "AI agent skills for the bleeding edge Vue ecosystem. Built from real docs, issues, and releases."
+  },
+  {
+    "repo": "lukilabs/beautiful-mermaid",
+    "branch": "main",
+    "language": "TypeScript",
     "description": ""
   },
   {
-    "repo": "Mathews-Tom/no-magic",
+    "repo": "pola-rs/polars",
     "branch": "main",
-    "language": "Python",
-    "description": "Because `model.fit()` isn't an explanation"
+    "language": "Rust",
+    "description": "Extremely fast Query Engine for DataFrames, written in Rust"
   },
   {
-    "repo": "rebane2001/x86CSS",
-    "branch": "mane",
-    "language": "HTML",
-    "description": "x86CSS is a working CSS-only x86 CPU/emulator/computer. No JavaScript required."
+    "repo": "Blimp-Labs/claude-usage-bar",
+    "branch": "main",
+    "language": "Swift",
+    "description": "A macOS menu bar app that shows your Claude API usage at a glance"
   },
   {
-    "repo": "ynsmroztas/AndroHunter",
+    "repo": "magnum6actual/flipoff",
     "branch": "main",
-    "language": "Java",
-    "description": "AndroHunter"
-  },
-  {
-    "repo": "MooseGoose0701/skill-compose",
-    "branch": "main",
-    "language": "Python",
-    "description": "Skill Compose is an open-source agent builder and runtime platform for skill-powered agents. No workflow graphs. No CLI."
+    "language": "JavaScript",
+    "description": "Free split-flap display emulator for any TV. The classic flip-board look, without the $3,500 hardware."
   }
 ]
