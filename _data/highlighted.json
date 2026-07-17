@@ -1,8 +1,8 @@
 {
-  "repo": "youxiandechilun/Guido",
+  "repo": "pixel-point/toolcraft",
   "branch": "main",
-  "language": "Java",
-  "description": "景区导览服务 AI 数字人：基于 Spring Boot、Vue 3、UniApp 与本地 RAG 的智能导览系统。",
-  "stars": 104,
-  "forks": 1
+  "language": "TypeScript",
+  "description": "A starter kit and UI library for building custom design apps with AI.",
+  "stars": 115,
+  "forks": 4
 }

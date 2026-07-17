@@ -1,146 +1,146 @@
 [
   {
-    "repo": "sandbaseai/managed-agents",
+    "repo": "scheidydude/codeindex",
+    "branch": "main",
+    "language": "Python",
+    "description": "Repo dependency analyzer with **blast-radius impact scoring** for AI-assisted development."
+  },
+  {
+    "repo": "uedk9p/sora2-watermark-remover",
+    "branch": "main",
+    "language": "Python",
+    "description": "sora2 watermark remover"
+  },
+  {
+    "repo": "timuronlinq/messari-crack",
+    "branch": "main",
+    "language": "Python",
+    "description": "Messari crack"
+  },
+  {
+    "repo": "uqogihujomuwhiff/sora2-watermark-cleaner-pro",
+    "branch": "main",
+    "language": "Python",
+    "description": "sora2 watermark cleaner pro"
+  },
+  {
+    "repo": "peteromallet/desloppify",
+    "branch": "main",
+    "language": "Python",
+    "description": ""
+  },
+  {
+    "repo": "FireRedTeam/FireRedASR2S",
+    "branch": "main",
+    "language": "Python",
+    "description": "FireRedASR2S is a SOTA Industrial-Grade All-in-One ASR system with ASR, VAD, LID, and Punc modules. FireRedASR2 supports Chinese (Mandarin, 20+ dialects/accents), English, code-switching, and singing lyrics recognition. FireRedVAD supports speech/singing/music in 100+ langs. FireRedLID supports 100+ langs and 20+ zh dialects."
+  },
+  {
+    "repo": "skottrun/extrateto",
     "branch": "main",
     "language": "TypeScript",
-    "description": "Open-source CMA-compatible agent runtime. Run multi-agent systems locally with any model (Ollama/vLLM/Claude/GPT), MCP tools, scenario templates, and a beautiful dashboard. One command start. Built for enterprise teams."
+    "description": "Dashboard público que expõe supersalários do Judiciário brasileiro acima do teto constitucional"
   },
   {
-    "repo": "shareAI-lab/claw0",
-    "branch": "main",
-    "language": "Python",
-    "description": "0 - 1 learn OpenClaw: sections to build an claw-AI agent from scratch"
-  },
-  {
-    "repo": "est-labs/polymarket-arbitrage-bot",
-    "branch": "master",
-    "language": "TypeScript",
-    "description": "polymarket arbitrage trading bot polymarket arbitrage trading bot polymarket arbitrage trading bot polymarket arbitrage trading bot polymarket arbitrage trading bot polymarket arbitrage trading bot polymarket arbitrage trading bot polymarket arbitrage trading bot polymarket arbitrage trading bot polymarket arbitrage trading bot polymarket arbitrage"
-  },
-  {
-    "repo": "tokio-rs/tokio",
-    "branch": "master",
-    "language": "Rust",
-    "description": "A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ..."
-  },
-  {
-    "repo": "win4r/team-tasks",
-    "branch": "master",
-    "language": "Python",
-    "description": "Multi-agent pipeline coordination: Linear, DAG, and Debate modes for AI agent orchestration"
-  },
-  {
-    "repo": "hantuzun/awesome-clojure",
-    "branch": "master",
-    "language": "Other",
-    "description": "A curated list of awesome Clojure libraries and resources. Inspired by awesome-... stuff"
-  },
-  {
-    "repo": "dair-ai/Prompt-Engineering-Guide",
-    "branch": "main",
-    "language": "MDX",
-    "description": "🐙 Guides, papers, lessons, notebooks and resources for prompt engineering, context engineering, RAG, and AI Agents."
-  },
-  {
-    "repo": "tnbeznlacut/sora2-watermark-deleter-windows-macos",
-    "branch": "main",
-    "language": "Python",
-    "description": "sora2 watermark deleter windows macos"
-  },
-  {
-    "repo": "Stability-AI/stablediffusion",
-    "branch": "main",
-    "language": "Other",
-    "description": "High-Resolution Image Synthesis with Latent Diffusion Models."
-  },
-  {
-    "repo": "antirez/tgterm",
-    "branch": "main",
-    "language": "C",
-    "description": "Control your MacOS terminals via Telegram, for fun coding agents interaction and profit"
-  },
-  {
-    "repo": "makerdao/dss",
-    "branch": "master",
-    "language": "Solidity",
-    "description": "Dai Stablecoin System"
-  },
-  {
-    "repo": "vim/vim",
-    "branch": "master",
-    "language": "Vim Script",
-    "description": "The official Vim repository"
-  },
-  {
-    "repo": "cs50victor/claude-code-teams-mcp",
-    "branch": "main",
-    "language": "Python",
-    "description": "use claude code's agent teams orchestraction with any harness"
-  },
-  {
-    "repo": "Vasco0x4/AIDA",
+    "repo": "hzm0321/real-time-fund",
     "branch": "main",
     "language": "JavaScript",
-    "description": "AI-Driven Security Assessment - Connect AI to 400+ pentesting tools via MCP"
+    "description": "基金实时估值查看"
   },
   {
-    "repo": "pypa/pipenv",
+    "repo": "0xsouravm/oxichrome",
     "branch": "main",
-    "language": "Python",
-    "description": "Python Development Workflow for Humans."
-  },
-  {
-    "repo": "actions/upload-artifact",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Upload artifacts from your workflow"
-  },
-  {
-    "repo": "donnemartin/system-design-primer",
-    "branch": "master",
-    "language": "Python",
-    "description": "Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards."
-  },
-  {
-    "repo": "trumpet-noek/sora2-free-watermark-remover",
-    "branch": "main",
-    "language": "Python",
-    "description": "sora2 free watermark remover"
-  },
-  {
-    "repo": "Zehong-Ma/PixelGen",
-    "branch": "main",
-    "language": "Python",
-    "description": "Official repository for “PixelGen: Pixel Diffusion Beats Latent Diffusion with Perceptual Loss”"
-  },
-  {
-    "repo": "BurntSushi/ripgrep",
-    "branch": "master",
     "language": "Rust",
-    "description": "ripgrep recursively searches directories for a regex pattern while respecting your gitignore"
+    "description": "Framework to build Chrome extensions entirely in Rust with proc macros, type-safe Chrome API bindings, and Leptos for reactive UI. Compiles to WebAssembly with zero hand-written JavaScript."
   },
   {
-    "repo": "deepset-ai/haystack",
+    "repo": "FireRedTeam/FireRed-Image-Edit",
     "branch": "main",
-    "language": "MDX",
-    "description": "AI orchestration framework to build customizable, production-ready LLM applications. Connect components (models, vector DBs, file converters) to pipelines or agents that can interact with your data. With advanced retrieval methods, it's best suited for building RAG, question answering, semantic search or conversational agent chatbots."
-  },
-  {
-    "repo": "spring-projects/spring-boot",
-    "branch": "main",
-    "language": "Java",
-    "description": "Spring Boot helps you to create Spring-powered, production-grade applications and services with absolute minimum fuss."
-  },
-  {
-    "repo": "lauris/awesome-scala",
-    "branch": "master",
     "language": "Python",
-    "description": "A community driven list of useful Scala libraries, frameworks and software."
+    "description": ""
   },
   {
-    "repo": "chekusu/shipkey",
+    "repo": "openperf/openclaw-cloud",
     "branch": "main",
     "language": "TypeScript",
-    "description": ""
+    "description": "Give your AI Agent a cloud-native life. Deploy once, converse everywhere."
+  },
+  {
+    "repo": "ygwyg/MAHORAGA",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "autonomous trading agent powered by social sentiment analysis and ai that learns, grows, and adapts"
+  },
+  {
+    "repo": "spaceraccoon/vulnerability-spoiler-alert-action",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "GitHub Action to alert on security patches before the CVE drops."
+  },
+  {
+    "repo": "sdmg15/Best-websites-a-programmer-should-visit",
+    "branch": "master",
+    "language": "Other",
+    "description": ":link: Some useful websites for programmers."
+  },
+  {
+    "repo": "facebookresearch/faiss",
+    "branch": "main",
+    "language": "C++",
+    "description": "A library for efficient similarity search and clustering of dense vectors."
+  },
+  {
+    "repo": "jenkinsci/jenkins",
+    "branch": "master",
+    "language": "Java",
+    "description": "Jenkins automation server"
+  },
+  {
+    "repo": "SamuelQZQ/auto-coding-agent-demo",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "一个长达 10 小时的 AI 全自动编程实验"
+  },
+  {
+    "repo": "SawyerHood/gitclaw",
+    "branch": "main",
+    "language": "Python",
+    "description": "OpenClaw but it runs entirely on github actions"
+  },
+  {
+    "repo": "luccast/crabwalk",
+    "branch": "master",
+    "language": "TypeScript",
+    "description": "🦀 Crabwalk 🦀 Real-time companion monitor for Clawdbot agents."
+  },
+  {
+    "repo": "v4nsh0x/InstaTrace",
+    "branch": "main",
+    "language": "Python",
+    "description": "Private Instagram Post URL Extractor (Research POC)"
+  },
+  {
+    "repo": "mo1app/pipemagic",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Visual image processing pipeline editor"
+  },
+  {
+    "repo": "denoland/deno",
+    "branch": "main",
+    "language": "Rust",
+    "description": "A modern runtime for JavaScript and TypeScript."
+  },
+  {
+    "repo": "tompftampffern/polyseed-monero",
+    "branch": "main",
+    "language": "C",
+    "description": "Polyseed Monero"
+  },
+  {
+    "repo": "docker/compose",
+    "branch": "main",
+    "language": "Go",
+    "description": "Define and run multi-container applications with Docker"
   }
 ]
