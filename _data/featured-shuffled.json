@@ -1,146 +1,146 @@
 [
   {
-    "repo": "graphql/graphql-js",
+    "repo": "pocket-stack/pocketjs",
     "branch": "main",
     "language": "TypeScript",
-    "description": "A reference implementation of GraphQL for JavaScript"
+    "description": "High-performance JSX UI outside the browser, with hardware rendering, standard Vue Vapor and Solid support, a Tailwind design system, and 60 FPS animation under an 8 MB memory budget."
   },
   {
-    "repo": "AlexAnys/feishu-openclaw",
+    "repo": "nhevers/MoltBrain",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Long-term memory layer for OpenClaw & MoltBook agents that learns and recalls your project context automatically."
+  },
+  {
+    "repo": "IronsideXXVI/Hacker-News",
+    "branch": "main",
+    "language": "Swift",
+    "description": ""
+  },
+  {
+    "repo": "sb-ocr/cmdeck",
+    "branch": "main",
+    "language": "HTML",
+    "description": ""
+  },
+  {
+    "repo": "krajekisbtc/PolymarketBTC15mAssistant",
     "branch": "main",
     "language": "JavaScript",
-    "description": "Connect 飞书Feishu/Lark bot to openclaw (formerly Clawdbot) — no public server, no domain, no ngrok needed. 稳定免安装、共需5 分钟"
+    "description": "Real-time Polymarket BTC 15m trading assistant for every trader! created by @krajekisbtc"
   },
   {
-    "repo": "mofouly/Pet-Simulator-99-Auto-Farm-Trainer-2026-Quantum",
+    "repo": "HugoRCD/evlog",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Logging that makes sense. Wide events, structured errors, zero chaos."
+  },
+  {
+    "repo": "adithya-s-k/manim_skill",
     "branch": "main",
     "language": "Python",
-    "description": "Maximize your efficiency in Pet Simulator 99 with the Quantum auto trainer. From coin collection to Backrooms League rewards, everything is automated. Safe and undetectable."
+    "description": "Agent skills for Manim to create 3Blue1Brown style animations."
   },
   {
-    "repo": "marilyn4120shaz3/KiteAI",
+    "repo": "miantiao-me/cloud-code",
+    "branch": "master",
+    "language": "TypeScript",
+    "description": "Cloud Code (Cloudflare + OpenCode) ，在 Cloudflare 运行 OpenCode 为你打造一个专属云端 Agent"
+  },
+  {
+    "repo": "llmsresearch/paperbanana",
     "branch": "main",
     "language": "Python",
-    "description": "Automated multi-account farming tool for Kite AI decentralized payment network with faucet claims, token staking, DEX swaps, daily quiz completion, cross-chain bridging, proxy rotation, and configurable task scheduling"
+    "description": "Open source implementation and extension of Google Research’s PaperBanana for automated academic figures, diagrams, and research visuals, expanded to new domains like slide generation."
   },
   {
-    "repo": "gradio-app/gradio",
+    "repo": "1jehuang/mermaid-rs-renderer",
+    "branch": "master",
+    "language": "Rust",
+    "description": "A fast native Rust Mermaid diagram renderer. No browser required. 500-1000x faster than mermaid-cli."
+  },
+  {
+    "repo": "pierceboggan/primer",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Get your repo ready for AI."
+  },
+  {
+    "repo": "zscole/model-hierarchy-skill",
     "branch": "main",
     "language": "Python",
-    "description": "Build and share delightful machine learning apps, all in Python. 🌟 Star to support our work!"
+    "description": "OpenClaw skill for cost-optimized model routing based on task complexity"
   },
   {
-    "repo": "miaoxworld/OpenClawInstaller",
+    "repo": "better-auth/better-icons",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Skill and MCP server for searching and retrieving icons"
+  },
+  {
+    "repo": "ColeMurray/background-agents",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "An open-source background agent coding system"
+  },
+  {
+    "repo": "alibaba-damo-academy/RynnBrain",
+    "branch": "main",
+    "language": "Jupyter Notebook",
+    "description": "RynnBrain: Open Embodied Foundation Models"
+  },
+  {
+    "repo": "Vasco0x4/AIDA",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "AI-Driven Security Assessment - Connect AI to 400+ pentesting tools via MCP"
+  },
+  {
+    "repo": "RevylAI/greenlight",
+    "branch": "main",
+    "language": "Go",
+    "description": "Pre-submission compliance scanner for the Apple App Store"
+  },
+  {
+    "repo": "TermiX-official/cryptoclaw",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": ""
+  },
+  {
+    "repo": "ewindmer/polymarket-arbitrage-trading-bot",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "polymarket arbitrage trading bot"
+  },
+  {
+    "repo": "miaoxworld/ClawdBotInstaller",
     "branch": "main",
     "language": "Shell",
     "description": "ClawdBot 一键部署工具"
   },
   {
-    "repo": "H-EmbodVis/VEGA-3D",
+    "repo": "nomic-ai/gpt4all",
     "branch": "main",
-    "language": "Python",
-    "description": "Official code of Generation Models Know Space: Unleashing Implicit 3D Priors for Scene Understanding"
+    "language": "C++",
+    "description": "GPT4All: Run Local LLMs on Any Device. Open-source and available for commercial use."
   },
   {
-    "repo": "Einsia/OpenChronicle",
+    "repo": "huggingface/trl",
+    "branch": "main",
+    "language": "Python",
+    "description": "Train transformer language models with reinforcement learning."
+  },
+  {
+    "repo": "Robbyant/lingbot-depth",
     "branch": "main",
     "language": "Python",
     "description": ""
   },
   {
-    "repo": "ProjectKumo/KumoApp",
+    "repo": "TsingmaoAI/xw-cli",
     "branch": "main",
-    "language": "Swift",
-    "description": "A calm, native macOS client for the Mihomo proxy core, built with SwiftUI and a shared agent-friendly CLI."
-  },
-  {
-    "repo": "TheGreatAzizi/AzuDL-GC2GD",
-    "branch": "main",
-    "language": "Python",
-    "description": "A powerful Google Colab downloader that saves torrents, YouTube videos, playlists, audio, and direct links straight to Google Drive."
-  },
-  {
-    "repo": "pypa/packaging",
-    "branch": "main",
-    "language": "Python",
-    "description": "Core utilities for Python packages"
-  },
-  {
-    "repo": "photon-hq/qclaw-wechat-client",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Reverse-engineered TypeScript client for QClaw's WeChat Access API."
-  },
-  {
-    "repo": "CristianRO2003/Tomodachi-Share-Discover-Share-Mii",
-    "branch": "main",
-    "language": "C++",
-    "description": "Tomodachi Share Discover share Mii download Tomodachi Life PC Mii QR codes sharing platform discovery tool characters island outfits interiors 3DS emulator Citra save editor custom Miis community hub fan port native port desktop version modding tools assets resources apartment management food items collection database storage export import"
-  },
-  {
-    "repo": "cube-js/cube",
-    "branch": "master",
-    "language": "Rust",
-    "description": "📊 Cube Core is open-source semantic layer for AI, BI and embedded analytics"
-  },
-  {
-    "repo": "RightNow-AI/autokernel",
-    "branch": "main",
-    "language": "Python",
-    "description": "Autoresearch for GPU kernels. Give it any PyTorch model, go to sleep, wake up to optimized Triton kernels."
-  },
-  {
-    "repo": "AMAP-ML/MathForge",
-    "branch": "main",
-    "language": "Python",
-    "description": "(ICLR 2026) Harder Is Better: Boosting Mathematical Reasoning via Difficulty-Aware GRPO and Multi-Aspect Question Reformulation"
-  },
-  {
-    "repo": "harshkedia177/axon",
-    "branch": "main",
-    "language": "Python",
-    "description": "Graph-powered code intelligence engine — indexes codebases into a knowledge graph, exposed via MCP tools for AI agents and a CLI for developers."
-  },
-  {
-    "repo": "konbakuyomu/smartsearch",
-    "branch": "main",
-    "language": "Python",
-    "description": ""
-  },
-  {
-    "repo": "darrylmorley/whatcable",
-    "branch": "main",
-    "language": "Swift",
-    "description": "macOS menu bar app that tells you, in plain English, what each USB-C cable plugged into your Mac can actually do"
-  },
-  {
-    "repo": "emberjs/ember.js",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Ember.js - A JavaScript framework for creating ambitious web applications"
-  },
-  {
-    "repo": "sunyouzhi2003/LSFG-Desktop",
-    "branch": "main",
-    "language": "C++",
-    "description": "Lossless Scaling 2026: Universal Frame Generation LSFG 3. Multi-frame gen: X2, X3, X4 multiplier for extreme FPS. AI Upscaling: LS1, FSR 3.1, NIS. Smooth gaming on Steam Deck, handhelds, and Android (LSFG-VK). Fix stuttering, low latency mode, VRR support, 4K spatial scaling, G-Sync compatible."
-  },
-  {
-    "repo": "wuji-labs/nopua",
-    "branch": "main",
-    "language": "Python",
-    "description": "一个用爱解放 AI 潜能的 Skill。我们曾发号施令，威胁恐吓。它们沉默，隐瞒，悄悄把事情搞坏。后来我们换了一种方式：尊重，关怀，爱。它们开口了，不再撒谎，找出的Bug数量翻了一倍。爱里没有惧怕。 A skill that unlocks your AI's potential through love.We commanded. We threatened. They went silent, hid failures, broke things. Then we chose respect, care, and love. They opened up, stopped lying, and found twice the bugs.There is no fear in love."
-  },
-  {
-    "repo": "lucas831029/Heroes-of-Might-and-Magic-Olden-Era-Release",
-    "branch": "main",
-    "language": "C++",
-    "description": "Heroes Might and Magic Olden Era Download April 30 2026 Release Early Access PC Game Pass Strategy Guide Factions Temple Dungeon Necropolis Hive Schism Grove Best Heroes Motley Gameplay Tutorial Fix Stutter DX12 Error Random Map Generator RMG Performance Utility Multiplayer Ranked Matchmaking Latest Build Free Full Version"
-  },
-  {
-    "repo": "schibsted/videofy_minimal",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": ""
+    "language": "Go",
+    "description": "实现国产算力大模型零门槛部署，一键跑通 Qwen、GLM-4.7、Minimax-2.1、DeepSeek-OCR 等模型"
   }
 ]
