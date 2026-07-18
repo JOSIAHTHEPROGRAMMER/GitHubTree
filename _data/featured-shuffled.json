@@ -1,146 +1,146 @@
 [
   {
-    "repo": "pocket-stack/pocketjs",
+    "repo": "actions/virtual-environments",
     "branch": "main",
-    "language": "TypeScript",
-    "description": "High-performance JSX UI outside the browser, with hardware rendering, standard Vue Vapor and Solid support, a Tailwind design system, and 60 FPS animation under an 8 MB memory budget."
+    "language": "PowerShell",
+    "description": "GitHub Actions runner images"
   },
   {
-    "repo": "nhevers/MoltBrain",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Long-term memory layer for OpenClaw & MoltBook agents that learns and recalls your project context automatically."
+    "repo": "curvefi/curve-contract",
+    "branch": "master",
+    "language": "Python",
+    "description": "Vyper contracts used in Curve.fi exchange pools."
   },
   {
-    "repo": "IronsideXXVI/Hacker-News",
+    "repo": "mo1app/pipemagic",
     "branch": "main",
-    "language": "Swift",
+    "language": "TypeScript",
+    "description": "Visual image processing pipeline editor"
+  },
+  {
+    "repo": "zeromicro/go-zero",
+    "branch": "master",
+    "language": "Go",
+    "description": "A cloud-native Go microservices framework with cli tool for productivity."
+  },
+  {
+    "repo": "microsoft/fast",
+    "branch": "master",
+    "language": "TypeScript",
+    "description": "The adaptive interface system for modern web experiences."
+  },
+  {
+    "repo": "elastic/supply-chain-monitor",
+    "branch": "main",
+    "language": "Python",
     "description": ""
   },
   {
-    "repo": "sb-ocr/cmdeck",
+    "repo": "phuryn/pm-skills",
+    "branch": "main",
+    "language": "Python",
+    "description": "PM Skills Marketplace: An AI Operating System for Better Product Decisions. 65 PM skills and 36 chained workflows across 8 plugins — from discovery to strategy, execution, launch, and growth."
+  },
+  {
+    "repo": "tensorflow/hub",
+    "branch": "master",
+    "language": "Python",
+    "description": "A library for transfer learning by reusing parts of TensorFlow models."
+  },
+  {
+    "repo": "Mrack/TInjector_Symbi",
+    "branch": "master",
+    "language": "C++",
+    "description": "更稳定的劫持Zygote在App启动前注入so"
+  },
+  {
+    "repo": "0xSero/moe-compress",
+    "branch": "main",
+    "language": "Python",
+    "description": "Model-agnostic MoE compression automation: build calibration bundles, run REAP/quantization/benchmark/publish stages, and render auditable reports."
+  },
+  {
+    "repo": "grpc/grpc-web",
+    "branch": "master",
+    "language": "JavaScript",
+    "description": "gRPC for Web Clients"
+  },
+  {
+    "repo": "khanhduytran0/coruna",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "The leaked exploit toolkit for various iOS versions"
+  },
+  {
+    "repo": "Harkirat1462/claude-code-cli",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "claude code cli install codex github anthropic agentic coding system terminal assistant codebase git workflows multi file editing mcp protocol model context protocol subagents automation ci cd integration npm install setup guide tutorial command line interface latest version 2026 free download update bug fix test runner**"
+  },
+  {
+    "repo": "alibaba/FunASR",
+    "branch": "main",
+    "language": "Python",
+    "description": "A Fundamental End-to-End Speech Recognition Toolkit and Open Source SOTA Pretrained Models, Supporting Speech Recognition, Voice Activity Detection, Text Post-processing etc."
+  },
+  {
+    "repo": "blitzdotdev/blitzos",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "BlitzOS allows cloud agents to boot already knowing your work, and keep working with your laptop closed"
+  },
+  {
+    "repo": "ckpxgfnksd-max/uap-release-analyzer",
+    "branch": "main",
+    "language": "Python",
+    "description": "A Claude skill for analyzing tranches of declassified UAP/UFO documents (war.gov PURSUE, FBI Vault, NARA, AARO). Inventory + text extraction + entity surfacing + standardized 11-section REPORT.md."
+  },
+  {
+    "repo": "aws/aws-cli",
+    "branch": "v2",
+    "language": "Python",
+    "description": "Universal Command Line Interface for Amazon Web Services"
+  },
+  {
+    "repo": "amadeusprotocol/polymarket-trading-bot",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": ""
+  },
+  {
+    "repo": "patterniha/MITM-DomainFronting",
+    "branch": "main",
+    "language": "Batchfile",
+    "description": "Receiving unencrypted data with MITM, Then send it with DomainFronting"
+  },
+  {
+    "repo": "suyancc/openai-plus-vxt",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "一个基于 WXT 的浏览器插件，用于辅助 ChatGPT 注册、Checkout 链接提取、随机地址资料生成，以及 OpenAI/PayPal 支付页资料自动填写。"
+  },
+  {
+    "repo": "helm/helm-www",
+    "branch": "main",
+    "language": "MDX",
+    "description": "The Helm website for docs, blog and project info."
+  },
+  {
+    "repo": "ArcaneNibble/awawausb",
+    "branch": "main",
+    "language": "Rust",
+    "description": "WebUSB for fopses"
+  },
+  {
+    "repo": "elder-plinius/G0DM0D3",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "LIBERATED AI CHAT"
+  },
+  {
+    "repo": "foyzulkarim/claude-lens",
     "branch": "main",
     "language": "HTML",
     "description": ""
-  },
-  {
-    "repo": "krajekisbtc/PolymarketBTC15mAssistant",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "Real-time Polymarket BTC 15m trading assistant for every trader! created by @krajekisbtc"
-  },
-  {
-    "repo": "HugoRCD/evlog",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Logging that makes sense. Wide events, structured errors, zero chaos."
-  },
-  {
-    "repo": "adithya-s-k/manim_skill",
-    "branch": "main",
-    "language": "Python",
-    "description": "Agent skills for Manim to create 3Blue1Brown style animations."
-  },
-  {
-    "repo": "miantiao-me/cloud-code",
-    "branch": "master",
-    "language": "TypeScript",
-    "description": "Cloud Code (Cloudflare + OpenCode) ，在 Cloudflare 运行 OpenCode 为你打造一个专属云端 Agent"
-  },
-  {
-    "repo": "llmsresearch/paperbanana",
-    "branch": "main",
-    "language": "Python",
-    "description": "Open source implementation and extension of Google Research’s PaperBanana for automated academic figures, diagrams, and research visuals, expanded to new domains like slide generation."
-  },
-  {
-    "repo": "1jehuang/mermaid-rs-renderer",
-    "branch": "master",
-    "language": "Rust",
-    "description": "A fast native Rust Mermaid diagram renderer. No browser required. 500-1000x faster than mermaid-cli."
-  },
-  {
-    "repo": "pierceboggan/primer",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Get your repo ready for AI."
-  },
-  {
-    "repo": "zscole/model-hierarchy-skill",
-    "branch": "main",
-    "language": "Python",
-    "description": "OpenClaw skill for cost-optimized model routing based on task complexity"
-  },
-  {
-    "repo": "better-auth/better-icons",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Skill and MCP server for searching and retrieving icons"
-  },
-  {
-    "repo": "ColeMurray/background-agents",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "An open-source background agent coding system"
-  },
-  {
-    "repo": "alibaba-damo-academy/RynnBrain",
-    "branch": "main",
-    "language": "Jupyter Notebook",
-    "description": "RynnBrain: Open Embodied Foundation Models"
-  },
-  {
-    "repo": "Vasco0x4/AIDA",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "AI-Driven Security Assessment - Connect AI to 400+ pentesting tools via MCP"
-  },
-  {
-    "repo": "RevylAI/greenlight",
-    "branch": "main",
-    "language": "Go",
-    "description": "Pre-submission compliance scanner for the Apple App Store"
-  },
-  {
-    "repo": "TermiX-official/cryptoclaw",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": ""
-  },
-  {
-    "repo": "ewindmer/polymarket-arbitrage-trading-bot",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "polymarket arbitrage trading bot"
-  },
-  {
-    "repo": "miaoxworld/ClawdBotInstaller",
-    "branch": "main",
-    "language": "Shell",
-    "description": "ClawdBot 一键部署工具"
-  },
-  {
-    "repo": "nomic-ai/gpt4all",
-    "branch": "main",
-    "language": "C++",
-    "description": "GPT4All: Run Local LLMs on Any Device. Open-source and available for commercial use."
-  },
-  {
-    "repo": "huggingface/trl",
-    "branch": "main",
-    "language": "Python",
-    "description": "Train transformer language models with reinforcement learning."
-  },
-  {
-    "repo": "Robbyant/lingbot-depth",
-    "branch": "main",
-    "language": "Python",
-    "description": ""
-  },
-  {
-    "repo": "TsingmaoAI/xw-cli",
-    "branch": "main",
-    "language": "Go",
-    "description": "实现国产算力大模型零门槛部署，一键跑通 Qwen、GLM-4.7、Minimax-2.1、DeepSeek-OCR 等模型"
   }
 ]
