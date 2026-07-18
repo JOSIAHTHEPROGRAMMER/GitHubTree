@@ -1,8 +1,8 @@
 {
-  "repo": "v-modal/vmodal_sdk_flutter",
+  "repo": "MIgHTy-alIeN/Trading-Bot",
   "branch": "main",
-  "language": "Dart",
-  "description": "V- Modal AI: Search anything anywhere SDK Flutter",
-  "stars": 153,
-  "forks": 1
+  "language": "Solidity",
+  "description": "An arbitrage bot is a smart contract connected to an external automation script that controls its operation.",
+  "stars": 239,
+  "forks": 138
 }
