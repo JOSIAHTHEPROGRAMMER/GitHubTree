@@ -1,146 +1,146 @@
 [
   {
-    "repo": "sndrec/WebMonkeyBall",
+    "repo": "benlamiro/ShipGenAI",
     "branch": "main",
-    "language": "TypeScript",
-    "description": "Super Monkey Ball on Web Broser."
+    "language": "JavaScript",
+    "description": "🚀 50 production-ready Generative AI SaaS apps — brand them, ship them, keep 100% of the revenue. Stripe billing · Google OAuth · Vercel deploy · MIT licensed"
   },
   {
-    "repo": "Kirubel125/Kalshi-Claw",
-    "branch": "main",
+    "repo": "trailofbits/algo",
+    "branch": "master",
+    "language": "Python",
+    "description": "Set up a personal VPN in the cloud"
+  },
+  {
+    "repo": "reduxjs/redux",
+    "branch": "master",
     "language": "TypeScript",
+    "description": "A JS library for predictable global state management"
+  },
+  {
+    "repo": "meltano/meltano",
+    "branch": "main",
+    "language": "Python",
+    "description": "Meltano: the declarative code-first data integration engine that powers your wildest data and ML-powered product ideas. Say goodbye to writing, maintaining, and scaling your own API integrations."
+  },
+  {
+    "repo": "uhub/awesome-cpp",
+    "branch": "master",
+    "language": "Other",
+    "description": "A curated list of awesome C++ frameworks, libraries and software."
+  },
+  {
+    "repo": "apache/tvm",
+    "branch": "main",
+    "language": "Python",
+    "description": "Open Machine Learning Compiler Framework"
+  },
+  {
+    "repo": "great-expectations/great_expectations",
+    "branch": "develop",
+    "language": "Python",
+    "description": "Always know what to expect from your data."
+  },
+  {
+    "repo": "DEEIX-AI/DEEIX-Chat",
+    "branch": "dev",
+    "language": "Go",
+    "description": "An enterprise AI workspace for model routing, multimodal chat, files, tools, billing, identity, and operations."
+  },
+  {
+    "repo": "LYiHub/OpenClaw-AWD-Arena",
+    "branch": "main",
+    "language": "Python",
+    "description": "An automated Attack-with-Defense platform where LLM-powered agents compete in real-time."
+  },
+  {
+    "repo": "mrh000mrh/MRH-G2Ray-2",
+    "branch": "main",
+    "language": "HTML",
     "description": ""
   },
   {
-    "repo": "godotengine/godot",
+    "repo": "Multichain-Bot-Lab/polymarket-trading-bot",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "polymarket trading bot polymarket arbitrage trading bot polymarket arbitrage bot polymarket trading bot polymarket arbitrage trading bot polymarket arbitrage bot polymarket trading bot polymarket arbitrage trading bot polymarket arbitrage bot polymarket trading bot polymarket arbitrage trading bot polymarket arbitrage bot polymarket trading bot"
+  },
+  {
+    "repo": "reflex-dev/reflex",
+    "branch": "main",
+    "language": "Python",
+    "description": "🕸️ Web apps in pure Python 🐍"
+  },
+  {
+    "repo": "bentoml/BentoML",
+    "branch": "main",
+    "language": "Python",
+    "description": "The easiest way to serve AI apps and models - Build Model Inference APIs, Job queues, LLM apps, Multi-model pipelines, and more!"
+  },
+  {
+    "repo": "pixel-point/media-downloader",
+    "branch": "main",
+    "language": "Swift",
+    "description": "Beautiful native macOS video downloader. Download and trim in one app."
+  },
+  {
+    "repo": "pytorch/xla",
     "branch": "master",
     "language": "C++",
-    "description": "Godot Engine – Multi-platform 2D and 3D game engine"
+    "description": "Enabling PyTorch on XLA Devices (e.g. Google TPU)"
   },
   {
-    "repo": "SnapKit/SnapKit",
-    "branch": "develop",
-    "language": "Swift",
-    "description": "A Swift Autolayout DSL for iOS & OS X"
-  },
-  {
-    "repo": "iJackUA/awesome-vagrant",
-    "branch": "master",
-    "language": "Other",
-    "description": "A curated list of awesome Vagrant resources, plugins, tutorials and other nice things."
-  },
-  {
-    "repo": "pmndrs/jotai",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "👻 Primitive and flexible state management for React"
-  },
-  {
-    "repo": "lenucksi/aur-malware-check",
-    "branch": "master",
-    "language": "Shell",
-    "description": "Detection tools for the June 2026 atomic-lockfile AUR supply-chain attack. Consolidated from community Gists."
-  },
-  {
-    "repo": "WenyuChiou/awesome-agentic-ai-zh",
-    "branch": "main",
-    "language": "Python",
-    "description": "AI Agent 中文學習地圖 — 從零開始的結構化學習路徑，每階段有必做練習跟必修閱讀。三語對照（繁中／简中／English）。歡迎社群一起貢獻、優化內容。"
-  },
-  {
-    "repo": "workos/auth.md",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "An open protocol that lets agents register for services on behalf of users — discoverable through a Markdown file at your domain."
-  },
-  {
-    "repo": "Snaplii-Inc/agent-to-merchant-payments",
-    "branch": "main",
-    "language": "Python",
-    "description": "Payments are broken for AI agents.  Snaplii unlocks real-world commerce with a safe, tokenized payment layer — powered by 500+ merchant gift cards — and is the only one that actually saves you money (up to 10% per transaction), on top of any existing deals or promotions."
-  },
-  {
-    "repo": "TencentARC/Pixal3D",
-    "branch": "master",
-    "language": "Python",
-    "description": "[SIGGRAPH 2026] Pixal3D: Pixel-Aligned 3D Generation from Images"
-  },
-  {
-    "repo": "iam567/LifeManga",
-    "branch": "main",
-    "language": "Swift",
-    "description": "ios swift swiftui openai gpt-image manga ai-art"
-  },
-  {
-    "repo": "evanphi7/lighthouse-router",
-    "branch": "main",
-    "language": "Rust",
-    "description": "Off-chain DEX route discovery on Solana — pool decoders, multi-hop quoting, and arbitrage cycle detection"
-  },
-  {
-    "repo": "alfiyahkamilah1239298/WallpaperDownloader-26",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "A comprehensive community toolkit for organizing, creating, and managing dynamic wallpaper projects and assets, enhancing your Wallpaper Engine experience."
-  },
-  {
-    "repo": "henliveira/av-curator",
-    "branch": "main",
-    "language": "Python",
-    "description": "Audio-visual data curation pipeline — scene cuts, silence trim, dedup, CLIP/Whisper filtering for messy web video."
-  },
-  {
-    "repo": "iampedii/WhiteDNS",
-    "branch": "main",
-    "language": "Kotlin",
-    "description": "Source-available Android DNS tunneling client with VPN and proxy modes, backed by MasterDNS & StormDNS."
-  },
-  {
-    "repo": "kppox/video-frame-sampler",
-    "branch": "main",
-    "language": "Python",
-    "description": "Content-aware frame sampling strategies for video-LLMs."
-  },
-  {
-    "repo": "wxtsky/byob",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Bring Your Own Browser — let your AI agent use the Chrome you already have open"
-  },
-  {
-    "repo": "steipete/wacrawl",
+    "repo": "codeany-ai/codeany",
     "branch": "main",
     "language": "Go",
-    "description": "🧾 WhatsApp archaeology with encrypted receipts"
+    "description": "Open-source AI-powered terminal agent. Built in Go."
   },
   {
-    "repo": "WUBING2023/PaperSpine",
+    "repo": "Okyumi/OverTrack",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Overland travel route planner — from Tokyo to Antarctica, no flights required."
+  },
+  {
+    "repo": "safishamsi/graphify",
+    "branch": "v3",
+    "language": "Python",
+    "description": "AI coding assistant skill (Claude Code, Codex, OpenCode, OpenClaw). Turn any folder of code, docs, papers, or images into a queryable knowledge graph"
+  },
+  {
+    "repo": "jmuncor/sherlock",
     "branch": "main",
     "language": "Python",
-    "description": "PaperSpine is a motivation-driven Codex skill for learning from strong academic papers, building a paper’s central argument, and rewriting manuscripts through evidence-aware blueprints, revision matrices, and LaTeX-safe audits."
+    "description": "Intercept LLM API traffic and visualize token usage in a real-time terminal dashboard. Track costs,       debug prompts, and monitor context window usage across your AI development sessions."
   },
   {
-    "repo": "basketikun/infinite-canvas",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "面向AI创作的开源无限画布工作台，集成 AI 生图、参考图编辑、画布编排、对话助手、提示词库和素材管理等功能。"
+    "repo": "HBAI-Ltd/Toonflow-app",
+    "branch": "master",
+    "language": "HTML",
+    "description": "Toonflow 是一款 AI 短剧漫剧工具，能够利用 AI 技术将小说自动转化为剧本，并结合 AI 生成的图片和视频，实现高效的短剧创作。借助 Toonflow，可以轻松完成从文字到影像的全流程，让短剧制作变得更加智能与便捷。"
   },
   {
-    "repo": "OldenEraTemplateGenerator/Olden-Era-Template-Generator",
+    "repo": "moresamwilson/running-heatmap",
     "branch": "main",
-    "language": "C#",
-    "description": "olden era template generator github Download heroes of might and magic homm random map rmg json custom map editor templates utility tool windows 11 latest version free preview zone layout multiplayer"
+    "language": "Jupyter Notebook",
+    "description": "Generate heatmaps from your Strava export - frequency, pace, heart rate and gradient."
   },
   {
-    "repo": "crafter-station/petdex",
+    "repo": "uton88/dan-binary-releases",
     "branch": "main",
-    "language": "TypeScript",
-    "description": "Public gallery of animated Codex pets"
+    "language": "Shell",
+    "description": "Public binary-only releases and install scripts for dan"
   },
   {
-    "repo": "Market-Execution-Engine/Solana-Meteora-Bundler",
+    "repo": "paritytech/polkadot",
+    "branch": "master",
+    "language": "Rust",
+    "description": "Polkadot Node Implementation"
+  },
+  {
+    "repo": "Blueemi/codex-eu-patcher",
     "branch": "main",
-    "language": "TypeScript",
-    "description": "Meteora Bundler Meteora Bundler Meteora Bundler Meteora Bundler Meteora Bundler Meteora Bundler Meteora Bundler Meteora Bundler Meteora Bundler Meteora Bundler Meteora Bundler Meteora Bundler Meteora Bundler Meteora Bundler Meteora Bundler Meteora Bundler Meteora Bundler Meteora Bundler Meteora Bundler Meteora Bundler Meteora Bundler"
+    "language": "JavaScript",
+    "description": ""
   }
 ]

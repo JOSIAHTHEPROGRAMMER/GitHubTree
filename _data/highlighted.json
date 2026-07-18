@@ -1,8 +1,8 @@
 {
-  "repo": "MIgHTy-alIeN/Trading-Bot",
+  "repo": "HITsz-TMG/KnowAct",
   "branch": "main",
-  "language": "Solidity",
-  "description": "An arbitrage bot is a smart contract connected to an external automation script that controls its operation.",
-  "stars": 239,
-  "forks": 138
+  "language": "Python",
+  "description": "Recursive Self-Improvement GUI Assistant",
+  "stars": 157,
+  "forks": 11
 }
