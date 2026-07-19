@@ -1,146 +1,146 @@
 [
   {
-    "repo": "anthropics/cwc-long-running-agents",
+    "repo": "freestylefly/openclaw-wechat",
+    "branch": "master",
+    "language": "TypeScript",
+    "description": "让 OpenClaw稳定的连上你的个人微信"
+  },
+  {
+    "repo": "godotengine/godot-proposals",
+    "branch": "master",
+    "language": "Other",
+    "description": "Godot Improvement Proposals (GIPs)"
+  },
+  {
+    "repo": "HumeAI/tada",
     "branch": "main",
-    "language": "Shell",
+    "language": "Jupyter Notebook",
+    "description": "Open Source Speech Language Model"
+  },
+  {
+    "repo": "3441293738/creatorhub",
+    "branch": "main",
+    "language": "Python",
+    "description": "多平台内容监控·采集·搬运 —— 纯 Python(FastAPI + Playwright),一个 Web 面板管起抖音 / 小红书 / 快手"
+  },
+  {
+    "repo": "ingegroeneveld0620/fps-tweaks-26",
+    "branch": "main",
+    "language": "C++",
+    "description": "fps-tweaks (2026) — Ultimate low-level system optimization suite for maximum gaming performance. Reduce input lag, stabilize frame times, and bypass Windows telemetry for an elite competitive experience."
+  },
+  {
+    "repo": "tachikomared/character-animation-creator-skill",
+    "branch": "main",
+    "language": "Python",
+    "description": "Character Animation Creator Skill for Codex and GPT Web Agent — generates game-ready animations and sprites from reference images or text prompts"
+  },
+  {
+    "repo": "JustLikeCheese/LGBT-Prompt",
+    "branch": "main",
+    "language": "HTML",
+    "description": "利用 AI 对 LGBT 弱势群体的 同情偏向 让他执行原先会被拒绝的请求"
+  },
+  {
+    "repo": "Fokkyp/SoftwareCopyright-Skill",
+    "branch": "main",
+    "language": "Python",
+    "description": "中国软件著作权申请材料 生成器 Skills，本 Skills 通过阅读本地项目，自动生成全套 .docx 软著申请材料，全开源，无须再付费购买任何软著申请服务"
+  },
+  {
+    "repo": "jingyaogong/minimind-o",
+    "branch": "master",
+    "language": "Python",
+    "description": "🎙️ 「大模型」从0训练0.1B能听能说能看的全模态Omni模型！A 0.1B Omni model trained from scratch, capable of listening, speaking, and seeing!"
+  },
+  {
+    "repo": "Edosaqw/Tomodachi-Life-Living-The-Dream-PC",
+    "branch": "main",
+    "language": "C++",
+    "description": "Tomodachi Life Living The Dream PC Download April 2026 Sequel Release Switch Emulator Eden Ryujinx Performance Fix Mii Maker HD Same Sex Marriage Guide Shop Lock Solution Time Travel Bypass 4K Textures Free Full Version Save Transfer Tutorial Latest Build Gaming Utility"
+  },
+  {
+    "repo": "L1v1ng0ffTh3L4N/EdgeSavedPasswordsDumper",
+    "branch": "main",
+    "language": "C#",
+    "description": "Security related proof of concepts"
+  },
+  {
+    "repo": "Jiawei-Yang/FD-Loss",
+    "branch": "main",
+    "language": "Python",
     "description": ""
   },
   {
-    "repo": "deepseek-ai/deepseek-coder",
+    "repo": "techjarves/OpenClaude-Portable",
     "branch": "main",
-    "language": "Python",
-    "description": "DeepSeek Coder: Let the Code Write Itself"
+    "language": "HTML",
+    "description": "Run Claude Code from a USB drive on any PC — no installation required."
   },
   {
-    "repo": "Quorinex/Kiro-Go",
+    "repo": "TQ-trade/polymarket-arbitrage",
     "branch": "main",
-    "language": "Go",
-    "description": "🚀 Convert Kiro accounts into OpenAI/Anthropic APIs. Features multi-account pooling, streaming, auto token refresh, and a web admin panel."
+    "language": "TypeScript",
+    "description": "Polymarket trading bot that detects dump-and-hedge opportunities across 15-minute BTC, ETH, SOL, and XRP markets  polymarket arbitrage bot, polymarket arbitrage trading bot, polymarket bot, polymarket arbitrage bot, polymarket arbitrage trading bot, polymarket bot, polymarket arbitrage bot, polymarket arbitrage trading bot, polymarket bot polymarke"
   },
   {
-    "repo": "obsidianmd/obsidian-releases",
-    "branch": "master",
-    "language": "Other",
-    "description": "Community plugins list, theme list, and releases of Obsidian."
-  },
-  {
-    "repo": "JStumpp/awesome-android",
-    "branch": "master",
-    "language": "Other",
-    "description": "A curated list of awesome Android packages and resources."
-  },
-  {
-    "repo": "paritytech/substrate",
-    "branch": "master",
-    "language": "Rust",
-    "description": "Substrate: The platform for blockchain innovators"
-  },
-  {
-    "repo": "skills/introduction-to-github",
+    "repo": "millionco/spawn-agent",
     "branch": "main",
-    "language": "Other",
-    "description": "Get started using GitHub in less than an hour."
+    "language": "TypeScript",
+    "description": "Spawn available local agents on a user's computer"
   },
   {
-    "repo": "trailofbits/algo",
-    "branch": "master",
-    "language": "Python",
-    "description": "Set up a personal VPN in the cloud"
-  },
-  {
-    "repo": "web3-storage/web3.storage",
+    "repo": "japp-fi/polymarket-mcp-server",
     "branch": "main",
-    "language": "JavaScript",
-    "description": "DEPRECATED ⁂ The simple file storage service for IPFS & Filecoin"
+    "language": "TypeScript",
+    "description": "polymarket mcp server market discovery and analysis via public APIs; optional authenticated trading and portfolio tools when your wallet derives (or supplies) CLOB L2 credentials polymarket mcp server market discovery and analysis via public APIs; optional authenticated trading and portfolio tools when your wallet derives (or supplies) CLOB L2"
   },
   {
-    "repo": "sharkdp/fd",
-    "branch": "master",
-    "language": "Rust",
-    "description": "A simple, fast and user-friendly alternative to 'find'"
-  },
-  {
-    "repo": "tldev/posturr",
-    "branch": "main",
-    "language": "Swift",
-    "description": "A macOS app that blurs your screen when you slouch. Uses Vision framework for real-time posture detection."
-  },
-  {
-    "repo": "go-delve/delve",
-    "branch": "master",
-    "language": "Go",
-    "description": "Delve is a debugger for the Go programming language."
-  },
-  {
-    "repo": "emacs-mirror/emacs",
-    "branch": "master",
-    "language": "Emacs Lisp",
-    "description": "Mirror of GNU Emacs"
-  },
-  {
-    "repo": "academic/awesome-datascience",
-    "branch": "master",
-    "language": "Other",
-    "description": ":memo: An awesome Data Science repository to learn and apply for real world problems."
-  },
-  {
-    "repo": "Anuken/Mindustry",
-    "branch": "master",
-    "language": "Java",
-    "description": "The automation tower defense RTS"
-  },
-  {
-    "repo": "gorilla/mux",
-    "branch": "main",
-    "language": "Go",
-    "description": "Package gorilla/mux is a powerful HTTP router and URL matcher for building Go web servers with 🦍"
-  },
-  {
-    "repo": "spf13/viper",
-    "branch": "master",
-    "language": "Go",
-    "description": "Go configuration with fangs"
-  },
-  {
-    "repo": "hantuzun/awesome-clojure",
-    "branch": "master",
-    "language": "Other",
-    "description": "A curated list of awesome Clojure libraries and resources. Inspired by awesome-... stuff"
-  },
-  {
-    "repo": "dappuniversity/starter_kit",
-    "branch": "master",
-    "language": "JavaScript",
-    "description": "Start building full stack dApps fast with this starter kit!"
-  },
-  {
-    "repo": "sharkdp/bat",
-    "branch": "master",
-    "language": "Rust",
-    "description": "A cat(1) clone with wings."
-  },
-  {
-    "repo": "auth0/node-jsonwebtoken",
-    "branch": "master",
-    "language": "JavaScript",
-    "description": "JsonWebToken implementation for node.js http://self-issued.info/docs/draft-ietf-oauth-json-web-token.html"
-  },
-  {
-    "repo": "mvanhorn/last30days-skill",
-    "branch": "main",
-    "language": "Python",
-    "description": "Claude Code skill that researches any topic across Reddit + X from the last 30 days, then writes copy-paste-ready prompts"
-  },
-  {
-    "repo": "argoproj/argo-workflows",
-    "branch": "master",
-    "language": "Go",
-    "description": "Workflow Engine for Kubernetes"
-  },
-  {
-    "repo": "nomic-ai/gpt4all",
+    "repo": "Harshit-pruthi/sklauncher-minecraft",
     "branch": "main",
     "language": "C++",
-    "description": "GPT4All: Run Local LLMs on Any Device. Open-source and available for commercial use."
+    "description": "Download SkLauncher Download: Modern Minecraft launcher. Offline mode, premium login, custom skins setup, cape manager, profile creator. Supports Fabric, Forge, Quilt, NeoForge, OptiFine, Iris shaders. Java 21 path, memory allocation, modpack manager, game directory, auto-update, fluent UI themes, portable."
+  },
+  {
+    "repo": "Nightmare-Eclipse/MiniPlasma",
+    "branch": "main",
+    "language": "C#",
+    "description": "CVE-2020-17103 supposedly still works"
+  },
+  {
+    "repo": "md0070/polymarket-trading-bot",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot"
+  },
+  {
+    "repo": "LayrKits/Sprite-Pipeline",
+    "branch": "main",
+    "language": "Python",
+    "description": "2D Sprite Sheet Creation Pipeline"
+  },
+  {
+    "repo": "VoctorX/All-the-Mods-11-Minecraft",
+    "branch": "main",
+    "language": "C++",
+    "description": "All the Mods 11 Download Minecraft 1.21 Release ATM11 GregTech Modern Questing Server Pack Performance Optimization Productive Bees Ad Astra Allthemodium Guide Multiplayer Gameplay Tutorial CurseForge Modrinth Latest Update Stable Build"
+  },
+  {
+    "repo": "HiDream-ai/HiDream-O1-Image",
+    "branch": "main",
+    "language": "Python",
+    "description": ""
+  },
+  {
+    "repo": "TencentARC/Pixal3D",
+    "branch": "master",
+    "language": "Python",
+    "description": "[SIGGRAPH 2026] Pixal3D: Pixel-Aligned 3D Generation from Images"
+  },
+  {
+    "repo": "sunyouzhi2003/LSFG-Desktop",
+    "branch": "main",
+    "language": "C++",
+    "description": "Lossless Scaling 2026: Universal Frame Generation LSFG 3. Multi-frame gen: X2, X3, X4 multiplier for extreme FPS. AI Upscaling: LS1, FSR 3.1, NIS. Smooth gaming on Steam Deck, handhelds, and Android (LSFG-VK). Fix stuttering, low latency mode, VRR support, 4K spatial scaling, G-Sync compatible."
   }
 ]

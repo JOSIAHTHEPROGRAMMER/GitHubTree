@@ -1,8 +1,8 @@
 {
-  "repo": "lopopolo/harness-engineering",
-  "branch": "trunk",
-  "language": "Python",
-  "description": "🐎 Ryan Lopopolo’s anthology, field guide, and agent context bundle for harness engineering",
-  "stars": 410,
-  "forks": 18
+  "repo": "inbjo/MirrorProxy",
+  "branch": "main",
+  "language": "Rust",
+  "description": "All-in-one mirror acceleration",
+  "stars": 166,
+  "forks": 9
 }
