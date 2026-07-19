@@ -1,146 +1,146 @@
 [
   {
-    "repo": "benlamiro/ShipGenAI",
+    "repo": "huey1in/WindsurfX",
+    "branch": "main",
+    "language": "Python",
+    "description": "Windsurf 协议注册机 | Windsurf (windsurf.com) 批量自动注册工具"
+  },
+  {
+    "repo": "Michaelliv/markit",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "🖍️ Convert anything to markdown. Mark it."
+  },
+  {
+    "repo": "ochyai/open-japan-politech-platform",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "政党・企業によらない政治のデジタル化オープンソース基盤"
+  },
+  {
+    "repo": "jingkaihe/matchlock",
+    "branch": "main",
+    "language": "Go",
+    "description": "Matchlock secures AI agent workloads with a Linux-based sandbox."
+  },
+  {
+    "repo": "shuaiplus/NodeWarden",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Minimal Bitwarden-compatible server on Cloudflare Workers for personal use"
+  },
+  {
+    "repo": "tonyqinatcmu/SlideBot-AI",
     "branch": "main",
     "language": "JavaScript",
-    "description": "🚀 50 production-ready Generative AI SaaS apps — brand them, ship them, keep 100% of the revenue. Stripe billing · Google OAuth · Vercel deploy · MIT licensed"
+    "description": "🎨 SlideBot AI - AI-Powered Presentation Generator"
   },
   {
-    "repo": "trailofbits/algo",
-    "branch": "master",
-    "language": "Python",
-    "description": "Set up a personal VPN in the cloud"
+    "repo": "opencv/opencv",
+    "branch": "4.x",
+    "language": "C++",
+    "description": "Open Source Computer Vision Library"
   },
   {
-    "repo": "reduxjs/redux",
-    "branch": "master",
-    "language": "TypeScript",
-    "description": "A JS library for predictable global state management"
-  },
-  {
-    "repo": "meltano/meltano",
-    "branch": "main",
-    "language": "Python",
-    "description": "Meltano: the declarative code-first data integration engine that powers your wildest data and ML-powered product ideas. Say goodbye to writing, maintaining, and scaling your own API integrations."
-  },
-  {
-    "repo": "uhub/awesome-cpp",
-    "branch": "master",
-    "language": "Other",
-    "description": "A curated list of awesome C++ frameworks, libraries and software."
-  },
-  {
-    "repo": "apache/tvm",
-    "branch": "main",
-    "language": "Python",
-    "description": "Open Machine Learning Compiler Framework"
-  },
-  {
-    "repo": "great-expectations/great_expectations",
-    "branch": "develop",
-    "language": "Python",
-    "description": "Always know what to expect from your data."
-  },
-  {
-    "repo": "DEEIX-AI/DEEIX-Chat",
-    "branch": "dev",
-    "language": "Go",
-    "description": "An enterprise AI workspace for model routing, multimodal chat, files, tools, billing, identity, and operations."
-  },
-  {
-    "repo": "LYiHub/OpenClaw-AWD-Arena",
-    "branch": "main",
-    "language": "Python",
-    "description": "An automated Attack-with-Defense platform where LLM-powered agents compete in real-time."
-  },
-  {
-    "repo": "mrh000mrh/MRH-G2Ray-2",
-    "branch": "main",
-    "language": "HTML",
-    "description": ""
-  },
-  {
-    "repo": "Multichain-Bot-Lab/polymarket-trading-bot",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "polymarket trading bot polymarket arbitrage trading bot polymarket arbitrage bot polymarket trading bot polymarket arbitrage trading bot polymarket arbitrage bot polymarket trading bot polymarket arbitrage trading bot polymarket arbitrage bot polymarket trading bot polymarket arbitrage trading bot polymarket arbitrage bot polymarket trading bot"
-  },
-  {
-    "repo": "reflex-dev/reflex",
-    "branch": "main",
-    "language": "Python",
-    "description": "🕸️ Web apps in pure Python 🐍"
-  },
-  {
-    "repo": "bentoml/BentoML",
-    "branch": "main",
-    "language": "Python",
-    "description": "The easiest way to serve AI apps and models - Build Model Inference APIs, Job queues, LLM apps, Multi-model pipelines, and more!"
-  },
-  {
-    "repo": "pixel-point/media-downloader",
-    "branch": "main",
-    "language": "Swift",
-    "description": "Beautiful native macOS video downloader. Download and trim in one app."
-  },
-  {
-    "repo": "pytorch/xla",
+    "repo": "ClickHouse/ClickHouse",
     "branch": "master",
     "language": "C++",
-    "description": "Enabling PyTorch on XLA Devices (e.g. Google TPU)"
+    "description": "ClickHouse® is a real-time analytics database management system"
   },
   {
-    "repo": "codeany-ai/codeany",
+    "repo": "sipeed/picoclaw",
     "branch": "main",
     "language": "Go",
-    "description": "Open-source AI-powered terminal agent. Built in Go."
+    "description": "picoclaw"
   },
   {
-    "repo": "Okyumi/OverTrack",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Overland travel route planner — from Tokyo to Antarctica, no flights required."
-  },
-  {
-    "repo": "safishamsi/graphify",
-    "branch": "v3",
-    "language": "Python",
-    "description": "AI coding assistant skill (Claude Code, Codex, OpenCode, OpenClaw). Turn any folder of code, docs, papers, or images into a queryable knowledge graph"
-  },
-  {
-    "repo": "jmuncor/sherlock",
-    "branch": "main",
-    "language": "Python",
-    "description": "Intercept LLM API traffic and visualize token usage in a real-time terminal dashboard. Track costs,       debug prompts, and monitor context window usage across your AI development sessions."
-  },
-  {
-    "repo": "HBAI-Ltd/Toonflow-app",
-    "branch": "master",
-    "language": "HTML",
-    "description": "Toonflow 是一款 AI 短剧漫剧工具，能够利用 AI 技术将小说自动转化为剧本，并结合 AI 生成的图片和视频，实现高效的短剧创作。借助 Toonflow，可以轻松完成从文字到影像的全流程，让短剧制作变得更加智能与便捷。"
-  },
-  {
-    "repo": "moresamwilson/running-heatmap",
-    "branch": "main",
-    "language": "Jupyter Notebook",
-    "description": "Generate heatmaps from your Strava export - frequency, pace, heart rate and gradient."
-  },
-  {
-    "repo": "uton88/dan-binary-releases",
-    "branch": "main",
-    "language": "Shell",
-    "description": "Public binary-only releases and install scripts for dan"
-  },
-  {
-    "repo": "paritytech/polkadot",
-    "branch": "master",
-    "language": "Rust",
-    "description": "Polkadot Node Implementation"
-  },
-  {
-    "repo": "Blueemi/codex-eu-patcher",
+    "repo": "jlia0/tinyclaw",
     "branch": "main",
     "language": "JavaScript",
-    "description": ""
+    "description": "TinyClaw is a tiny wrapper of Claude Code that acts as your 24/7 personal assistant"
+  },
+  {
+    "repo": "unslop-xyz/noodles",
+    "branch": "main",
+    "language": "Python",
+    "description": "Your codebase was probably AI-generated. Get a better handle on it. Noodles creates interactive diagrams that visualize how your code actually works, so you can understand what the AI built without reading every line."
+  },
+  {
+    "repo": "timuronlinq/messari-crack",
+    "branch": "main",
+    "language": "Python",
+    "description": "Messari crack"
+  },
+  {
+    "repo": "better-auth/better-icons",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Skill and MCP server for searching and retrieving icons"
+  },
+  {
+    "repo": "sindresorhus/awesome-nodejs",
+    "branch": "main",
+    "language": "Other",
+    "description": ":zap: Delightful Node.js packages and resources"
+  },
+  {
+    "repo": "pola-rs/polars",
+    "branch": "main",
+    "language": "Rust",
+    "description": "Extremely fast Query Engine for DataFrames, written in Rust"
+  },
+  {
+    "repo": "solana-labs/solana",
+    "branch": "master",
+    "language": "Rust",
+    "description": "Web-Scale Blockchain for fast, secure, scalable, decentralized apps and marketplaces."
+  },
+  {
+    "repo": "vueuse/skills",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Agent Skills for VueUse"
+  },
+  {
+    "repo": "shanselman/MaximizeToVirtualDesktop",
+    "branch": "master",
+    "language": "C#",
+    "description": "macOS green-button behavior for Windows 11 — maximize any window to its own virtual desktop"
+  },
+  {
+    "repo": "fspecii/ace-step-ui",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "🎵 The Ultimate Open Source Suno Alternative - Professional UI for ACE-Step 1.5 AI Music Generation. Free, local, unlimited. Stop paying for Suno!"
+  },
+  {
+    "repo": "apple/swift-protobuf",
+    "branch": "main",
+    "language": "Swift",
+    "description": "Plugin and runtime library for using protobuf with Swift"
+  },
+  {
+    "repo": "wolffcatskyy/crowdsec-blocklist-import",
+    "branch": "main",
+    "language": "Shell",
+    "description": "Dockerized tool to import public threat feeds into CrowdSec - 28+ free blocklists, 60k+ IPs"
+  },
+  {
+    "repo": "nyanko3141592/remotion-voicevox-template",
+    "branch": "master",
+    "language": "TypeScript",
+    "description": "Remotion + VOICEVOX動画テンプレート（ずんだもん＆めたん掛け合い動画）"
+  },
+  {
+    "repo": "actions/upload-artifact",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Upload artifacts from your workflow"
+  },
+  {
+    "repo": "actions/cache",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Cache dependencies and build outputs in GitHub Actions"
   }
 ]

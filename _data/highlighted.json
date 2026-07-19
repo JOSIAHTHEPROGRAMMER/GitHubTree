@@ -1,8 +1,8 @@
 {
-  "repo": "HITsz-TMG/KnowAct",
+  "repo": "LewdM3at/Steam-Games-Cartridges",
   "branch": "main",
-  "language": "Python",
-  "description": "Recursive Self-Improvement GUI Assistant",
-  "stars": 157,
-  "forks": 11
+  "language": "PowerShell",
+  "description": "Physical game cartridges with 2.5\" SSDs for your Steam library ",
+  "stars": 121,
+  "forks": 3
 }
