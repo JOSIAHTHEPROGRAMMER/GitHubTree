@@ -1,146 +1,146 @@
 [
   {
-    "repo": "huey1in/WindsurfX",
+    "repo": "starmiaoa/chatgpt-register-k12",
     "branch": "main",
     "language": "Python",
-    "description": "Windsurf 协议注册机 | Windsurf (windsurf.com) 批量自动注册工具"
+    "description": "ChatGPT register to Sub2API exporter with workspace and alias support"
   },
   {
-    "repo": "Michaelliv/markit",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "🖍️ Convert anything to markdown. Mark it."
-  },
-  {
-    "repo": "ochyai/open-japan-politech-platform",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "政党・企業によらない政治のデジタル化オープンソース基盤"
-  },
-  {
-    "repo": "jingkaihe/matchlock",
-    "branch": "main",
-    "language": "Go",
-    "description": "Matchlock secures AI agent workloads with a Linux-based sandbox."
-  },
-  {
-    "repo": "shuaiplus/NodeWarden",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Minimal Bitwarden-compatible server on Cloudflare Workers for personal use"
-  },
-  {
-    "repo": "tonyqinatcmu/SlideBot-AI",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "🎨 SlideBot AI - AI-Powered Presentation Generator"
-  },
-  {
-    "repo": "opencv/opencv",
-    "branch": "4.x",
-    "language": "C++",
-    "description": "Open Source Computer Vision Library"
-  },
-  {
-    "repo": "ClickHouse/ClickHouse",
-    "branch": "master",
-    "language": "C++",
-    "description": "ClickHouse® is a real-time analytics database management system"
-  },
-  {
-    "repo": "sipeed/picoclaw",
-    "branch": "main",
-    "language": "Go",
-    "description": "picoclaw"
-  },
-  {
-    "repo": "jlia0/tinyclaw",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "TinyClaw is a tiny wrapper of Claude Code that acts as your 24/7 personal assistant"
-  },
-  {
-    "repo": "unslop-xyz/noodles",
+    "repo": "Pika-Labs/Pika-Skills",
     "branch": "main",
     "language": "Python",
-    "description": "Your codebase was probably AI-generated. Get a better handle on it. Noodles creates interactive diagrams that visualize how your code actually works, so you can understand what the AI built without reading every line."
+    "description": ""
   },
   {
-    "repo": "timuronlinq/messari-crack",
-    "branch": "main",
-    "language": "Python",
-    "description": "Messari crack"
-  },
-  {
-    "repo": "better-auth/better-icons",
+    "repo": "EvolutionAPI/evo-nexus",
     "branch": "main",
     "language": "TypeScript",
-    "description": "Skill and MCP server for searching and retrieving icons"
+    "description": "The open source operating system for AI-powered businesses — built on Claude Code"
   },
   {
-    "repo": "sindresorhus/awesome-nodejs",
-    "branch": "main",
-    "language": "Other",
-    "description": ":zap: Delightful Node.js packages and resources"
-  },
-  {
-    "repo": "pola-rs/polars",
-    "branch": "main",
-    "language": "Rust",
-    "description": "Extremely fast Query Engine for DataFrames, written in Rust"
-  },
-  {
-    "repo": "solana-labs/solana",
-    "branch": "master",
-    "language": "Rust",
-    "description": "Web-Scale Blockchain for fast, secure, scalable, decentralized apps and marketplaces."
-  },
-  {
-    "repo": "vueuse/skills",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Agent Skills for VueUse"
-  },
-  {
-    "repo": "shanselman/MaximizeToVirtualDesktop",
-    "branch": "master",
-    "language": "C#",
-    "description": "macOS green-button behavior for Windows 11 — maximize any window to its own virtual desktop"
-  },
-  {
-    "repo": "fspecii/ace-step-ui",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "🎵 The Ultimate Open Source Suno Alternative - Professional UI for ACE-Step 1.5 AI Music Generation. Free, local, unlimited. Stop paying for Suno!"
-  },
-  {
-    "repo": "apple/swift-protobuf",
+    "repo": "dodo-reach/hermes-desktop",
     "branch": "main",
     "language": "Swift",
-    "description": "Plugin and runtime library for using protobuf with Swift"
+    "description": "A native Mac workspace for Hermes: real SSH, real terminal, real session data."
   },
   {
-    "repo": "wolffcatskyy/crowdsec-blocklist-import",
+    "repo": "perkfly/ex-skill",
     "branch": "main",
-    "language": "Shell",
-    "description": "Dockerized tool to import public threat feeds into CrowdSec - 28+ free blocklists, 60k+ IPs"
+    "language": "Python",
+    "description": "前女友 skill"
   },
   {
-    "repo": "nyanko3141592/remotion-voicevox-template",
+    "repo": "lucasastorian/llmwiki",
     "branch": "master",
     "language": "TypeScript",
-    "description": "Remotion + VOICEVOX動画テンプレート（ずんだもん＆めたん掛け合い動画）"
+    "description": "Open Source Implementation of Karpathy's LLM Wiki. Upload documents, connect your Claude account via MCP, and have it write your wiki !"
   },
   {
-    "repo": "actions/upload-artifact",
+    "repo": "T-Lab-CUHKSZ/claude-code",
     "branch": "main",
     "language": "TypeScript",
-    "description": "Upload artifacts from your workflow"
+    "description": "Claude Code Source - Buildable Research Fork. Reverse-engineered build system, runnable with Bun."
   },
   {
-    "repo": "actions/cache",
+    "repo": "Happy-Chen-CH/text_classification",
+    "branch": "main",
+    "language": "Python",
+    "description": "This is a text classification project based on the Category News feature of Toutiao. Initially, we used the random forest algorithm, then upgraded to FastText, and finally built a new text classification model using a BERT pre-trained model with an added fully connected layer.There may still contain several bugs—let's work together to fix them."
+  },
+  {
+    "repo": "yande0/Hades-II-Trainer-X",
+    "branch": "main",
+    "language": "Python",
+    "description": "Hades II Trainer 2026 – the most powerful cheat collection. Get unlimited everything, one-hit kills, no cooldowns and more."
+  },
+  {
+    "repo": "triangkas/DBD-AutoGrind-Trainer-2026",
+    "branch": "main",
+    "language": "Python",
+    "description": "Ultimate Dead by Daylight auto-grind trainer with Bloodpoint bot, ESP wallhack, aimbot, and full perk/skin unlocker. Dominate the Fog with our 2026 undetected external tool."
+  },
+  {
+    "repo": "rachartier/tiny-cmdline.nvim",
+    "branch": "main",
+    "language": "Lua",
+    "description": "A Neovim plugin that repositions the cmdline as a centered floating window, powered by Neovim's native ui2 system."
+  },
+  {
+    "repo": "stormneonnightraven4640692/DeepFake-AI-RealTime",
+    "branch": "main",
+    "language": "C#",
+    "description": "An advanced, LLM-powered toolkit providing comprehensive capabilities for ethical synthetic media detection, analysis, and responsible content generation."
+  },
+  {
+    "repo": "trynullsec/nullsec-s1",
+    "branch": "main",
+    "language": "Python",
+    "description": "Security-native LLM system for AI-generated application security."
+  },
+  {
+    "repo": "MuhammadHanzalaIqbal/Hades-II-Trainer-Platinum",
+    "branch": "main",
+    "language": "Python",
+    "description": "Unlock the full potential of Hades II with this free trainer. Features include God Mode, infinite gold, all resources, and speed hack."
+  },
+  {
+    "repo": "elastic/supply-chain-monitor",
+    "branch": "main",
+    "language": "Python",
+    "description": ""
+  },
+  {
+    "repo": "egorpavlov0/Flash-USDT-Sender",
+    "branch": "main",
+    "language": "Python",
+    "description": "Flash USDT Sender — Multi-network flash transaction tool for USDT, BTC, and ETH with configurable duration, custom gas settings, ERC-20/TRC-20/BEP-20 support, and block explorer-visible confirmations"
+  },
+  {
+    "repo": "dominikmartn/ProgressiveBlurHeader",
+    "branch": "main",
+    "language": "Swift",
+    "description": "Drop-in SwiftUI component for sticky headers with progressive blur — like Apple Music, Photos, and App Store. Content scrolls underneath with increasing blur, never clipped."
+  },
+  {
+    "repo": "ZeKaiNie/universal-examprep-skill",
+    "branch": "main",
+    "language": "Python",
+    "description": ""
+  },
+  {
+    "repo": "QwenLM/Qwen-AgentWorld",
+    "branch": "main",
+    "language": "Python",
+    "description": "Qwen-AgentWorld: Language World Models for General Agents"
+  },
+  {
+    "repo": "Sendmux/sendmux-sdk",
+    "branch": "main",
+    "language": "PHP",
+    "description": ""
+  },
+  {
+    "repo": "tllovesxs/wandao",
+    "branch": "main",
+    "language": "Python",
+    "description": "万能导：多平台知识库 Markdown 全项目一键导入导出工具，用自动化代替手动复制粘贴(飞书,语雀,阿里云知识库,知识星球,印象笔记,本地).(可保留目录结构,图片,项目格式)"
+  },
+  {
+    "repo": "Rista-student/ryujinx-emulator-latest",
+    "branch": "main",
+    "language": "HTML",
+    "description": "Ryujinx - Best Nintendo Switch Emulator for All Nintendo Games 2026"
+  },
+  {
+    "repo": "renatoworks/3dsvg",
     "branch": "main",
     "language": "TypeScript",
-    "description": "Cache dependencies and build outputs in GitHub Actions"
+    "description": "The easiest way to turn SVGs into interactive React 3D components"
+  },
+  {
+    "repo": "xtclovver/RKNHardering",
+    "branch": "main",
+    "language": "Kotlin",
+    "description": ""
   }
 ]
