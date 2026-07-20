@@ -1,146 +1,146 @@
 [
   {
-    "repo": "borkdude/cream",
-    "branch": "main",
-    "language": "Clojure",
-    "description": "Fast starting Clojure runtime built with GraalVM native-image + Crema"
-  },
-  {
-    "repo": "googleapis/python-storage",
+    "repo": "apache/airflow",
     "branch": "main",
     "language": "Python",
-    "description": "Python SDK for GCS (Google Cloud Storage)"
+    "description": "Apache Airflow - A platform to programmatically author, schedule, and monitor workflows"
   },
   {
-    "repo": "appium/appium",
+    "repo": "dodo-reach/hermes-desktop",
+    "branch": "main",
+    "language": "Swift",
+    "description": "A native Mac workspace for Hermes: real SSH, real terminal, real session data."
+  },
+  {
+    "repo": "setube/stackprism",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "StackPrism是一款用于检测网页技术栈的浏览器插件。"
+  },
+  {
+    "repo": "codeninja/oauth-cli-coder",
+    "branch": "main",
+    "language": "Python",
+    "description": "Seamlessly interact with CLI coders (Claude, Gemini, Codex) via tmux TUI sessions."
+  },
+  {
+    "repo": "barretlee/agent-pulse",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Evidence-backed AI industry intelligence — trends, source updates, daily data refreshes, and weekly decision briefs."
+  },
+  {
+    "repo": "tutusagi/ai-fishing-game",
+    "branch": "main",
+    "language": "Python",
+    "description": "🎣 给 AI 玩的确定性文字钓鱼小游戏 · 单文件零依赖 · 让你的 AI 伴侣来钓鱼"
+  },
+  {
+    "repo": "Michaelliv/pi-dynamic-workflows",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": ""
+  },
+  {
+    "repo": "gerardapennant96075336582/CapC-Pro-2",
+    "branch": "main",
+    "language": "C++",
+    "description": "CapCut Pro Studio (2026) — The ultimate high-performance video editing suite with all premium features unlocked. Experience 4K HDR exporting, AI-powered transitions, and a full professional asset library without limitations."
+  },
+  {
+    "repo": "perglervitek/Blox-Fruits-Dragon-Update-Auto-Farm-Script-2026-Elite",
+    "branch": "main",
+    "language": "Python",
+    "description": "Auto farm, ESP, and raid script for Blox Fruits Dragon Update 2026 – Elite edition. Level up, farm bosses, and dominate PvP with this undetected trainer."
+  },
+  {
+    "repo": "krispuckett/SwiftUIShaders",
+    "branch": "main",
+    "language": "Metal",
+    "description": "41 hand-curated drop-in SwiftUI Metal shader effects — holographic foil, kaleidoscope, magnetic fields, glitch, neon edges and more. Typed View modifiers, agent-friendly docs."
+  },
+  {
+    "repo": "zq779/yuhutong",
+    "branch": "main",
+    "language": "Python",
+    "description": ""
+  },
+  {
+    "repo": "ziwang-Physics/AgentChat",
     "branch": "master",
     "language": "JavaScript",
-    "description": "Cross-platform automation framework for all kinds of apps, built on top of the W3C WebDriver protocol"
+    "description": ""
   },
   {
-    "repo": "sigstore/cosign",
+    "repo": "Mekotofeuka/MTPROTO_FIX_By_MEKO",
     "branch": "main",
-    "language": "Go",
-    "description": "Code signing and transparency for containers and binaries"
+    "language": "Shell",
+    "description": "MTProto fix - stable fixes the limitations that occurred on June 4"
   },
   {
-    "repo": "openhome-dev/abilities",
-    "branch": "dev",
-    "language": "Python",
-    "description": "Open-source abilities for OpenHome agents."
-  },
-  {
-    "repo": "EbookFoundation/free-programming-books",
-    "branch": "main",
-    "language": "Python",
-    "description": ":books: Freely available programming books"
-  },
-  {
-    "repo": "Lakr233/vphone-cli",
+    "repo": "vannyben7/course-learning-workspace",
     "branch": "main",
     "language": "Python",
     "description": ""
   },
   {
-    "repo": "tonbo-io/ursula",
-    "branch": "main",
-    "language": "Rust",
-    "description": "Distributed event stream server over HTTP, backed by S3."
-  },
-  {
-    "repo": "lidge-jun/opencodex",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Universal provider proxy for OpenAI Codex — use any LLM with Codex CLI, App, and SDK"
-  },
-  {
-    "repo": "OpenDriveLab/WorldEngine",
+    "repo": "deepseek-ai/DeepSpec",
     "branch": "main",
     "language": "Python",
-    "description": "WorldEngine: Towards the Era of Post-Training for Physical AI"
+    "description": "DeepSpec: a full-stack codebase for training and evaluating speculative decoding algorithms"
   },
   {
-    "repo": "bddicken/tuitter",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "tuitter"
-  },
-  {
-    "repo": "0xSero/pi-brain",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": ""
-  },
-  {
-    "repo": "hero8152/Infinite-Canvas",
-    "branch": "main",
-    "language": "HTML",
-    "description": "Supports comfyui/API calls/modelscope calls"
-  },
-  {
-    "repo": "jd-opensource/JoyAI-Image",
-    "branch": "main",
-    "language": "Python",
-    "description": "JoyAI-Image is the unified multimodal foundation model for image understanding, text-to-image generation, and instruction-guided image editing."
-  },
-  {
-    "repo": "foyzulkarim/claude-lens",
-    "branch": "main",
-    "language": "HTML",
-    "description": ""
-  },
-  {
-    "repo": "ultrmgns/claude-private",
+    "repo": "iebb/mithka",
     "branch": "master",
-    "language": "Python",
-    "description": "Claude Code without any telemetry - the perfect cli to combo with CCR"
+    "language": "Dart",
+    "description": ""
   },
   {
-    "repo": "wbh604/UZI-Skill",
-    "branch": "main",
-    "language": "Python",
-    "description": "冰冷的钱就这样流进我的口袋-游资（UZI）Skills — 51位投资大佬帮你看盘 · 22维数据 × 180条量化规则 × 17种机构分析方法 · A股/港股/美股"
-  },
-  {
-    "repo": "redai-infra/Relax",
-    "branch": "main",
-    "language": "Python",
-    "description": "An Asynchronous Reinforcement Learning Engine for Omni-Modal Post-Training at Scale"
-  },
-  {
-    "repo": "perplexityai/bumblebee",
-    "branch": "main",
-    "language": "Go",
-    "description": "Read-only inventory collector for package, extension, and developer-tool metadata on macOS and Linux developer endpoints, built for fast supply-chain exposure checks."
-  },
-  {
-    "repo": "ZhangHanDong/harness-engineering-from-cc-to-ai-coding",
+    "repo": "NotASithLord/peerd",
     "branch": "main",
     "language": "JavaScript",
-    "description": "Harness Engineering From Claude Code source code to AI Coding"
+    "description": "The first AI agent harness native to the browser. A Chrome/Firefox extension that runs the agent loop in your browser — drives your tabs, spins up sandboxed compute (JS notebooks, WASM Linux VMs, client-side apps), and shares what it builds peer-to-peer. BYOK · no backend · no telemetry."
   },
   {
-    "repo": "andraiming/speech-tokenizer-arena",
+    "repo": "Sendmux/sendmux-sdk",
+    "branch": "main",
+    "language": "PHP",
+    "description": ""
+  },
+  {
+    "repo": "Moh4696/websites-100-audit",
+    "branch": "master",
+    "language": "Shell",
+    "description": ""
+  },
+  {
+    "repo": "CopilotKit/OpenTag",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "OpenTag"
+  },
+  {
+    "repo": "steeliron550-ui/search-bibtex",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "[PolyCite] 基于多智能体协同、多源汇聚的论文引用元数据检索工具 A command-line tool for quickly scraping BibTeX information from computer science conferences and journals, optimized for LLM Multi-Agents."
+  },
+  {
+    "repo": "DannyMac180/skills",
     "branch": "main",
     "language": "Python",
-    "description": "A side-by-side benchmarking playground for discrete speech tokenizers (EnCodec, HuBERT-units, SpeechTokenizer, etc.)."
+    "description": "AI agent skills created by me: Dan McAteer"
   },
   {
-    "repo": "notdog1998/yourself-skill",
-    "branch": "master",
-    "language": "Python",
-    "description": "与其蒸馏别人，不如蒸馏自己。欢迎加入数字永生！Inspired by colleague-skill（同事skill）。"
-  },
-  {
-    "repo": "appergb/openless",
+    "repo": "bozhouDev/codex-orange-book",
     "branch": "main",
     "language": "HTML",
-    "description": "Hold a key, speak, release — AI-polished text appears at your cursor in any app. Open-source voice input for macOS & Windows. (按住快捷键说话，松开即得润色后的文字)"
+    "description": "Codex 橙皮书：从安装到实战案例的全链路 Codex 使用指南（非官方开源，含可下载 PDF）"
   },
   {
-    "repo": "tgies/copy-fail-c",
+    "repo": "cloudflare/security-audit-skill",
     "branch": "main",
-    "language": "C",
-    "description": "Cross-platform C port of the Copy Fail Linux LPE (CVE-2026-31431). Disclosed 2026-04-29 by Theori / Xint."
+    "language": "JavaScript",
+    "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings"
   }
 ]
