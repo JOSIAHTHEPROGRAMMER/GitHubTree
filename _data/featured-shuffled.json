@@ -1,146 +1,146 @@
 [
   {
-    "repo": "Emanuele-web04/remodex",
+    "repo": "borkdude/cream",
     "branch": "main",
-    "language": "Swift",
-    "description": "Remote Control for Codex. 24/7 version on the way"
+    "language": "Clojure",
+    "description": "Fast starting Clojure runtime built with GraalVM native-image + Crema"
   },
   {
-    "repo": "kui123456789/cdk-redeem-only-extension",
+    "repo": "googleapis/python-storage",
     "branch": "main",
+    "language": "Python",
+    "description": "Python SDK for GCS (Google Cloud Storage)"
+  },
+  {
+    "repo": "appium/appium",
+    "branch": "master",
     "language": "JavaScript",
-    "description": "UPI redeem only extension"
+    "description": "Cross-platform automation framework for all kinds of apps, built on top of the W3C WebDriver protocol"
   },
   {
-    "repo": "anthropics/claudes-c-compiler",
+    "repo": "sigstore/cosign",
     "branch": "main",
-    "language": "Rust",
-    "description": "Claude Opus 4.6 wrote a dependency-free C compiler in Rust, with backends targeting x86 (64- and 32-bit), ARM, and RISC-V, capable of compiling a booting Linux kernel."
-  },
-  {
-    "repo": "primefaces/primeng",
-    "branch": "master",
-    "language": "TypeScript",
-    "description": "The Most Complete Angular UI Component Library"
-  },
-  {
-    "repo": "Syngnat/GoNavi",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "现代化、原生体验的数据库管理工具，支持 MySQL、PostgreSQL、SQLite 等数据库，采用 Go 后端 + Wails + React 前端构建，启动快、体积小、性能强。"
-  },
-  {
-    "repo": "obsproject/obs-studio",
-    "branch": "master",
-    "language": "C",
-    "description": "OBS Studio - Free and open source software for live streaming and screen recording"
-  },
-  {
-    "repo": "zoontek/react-native-bootsplash",
-    "branch": "master",
-    "language": "TypeScript",
-    "description": "🚀 Show a splash screen during app startup. Hide it when you are ready."
-  },
-  {
-    "repo": "SawyerHood/gitclaw",
-    "branch": "main",
-    "language": "Python",
-    "description": "OpenClaw but it runs entirely on github actions"
-  },
-  {
-    "repo": "umijs/umi",
-    "branch": "master",
-    "language": "TypeScript",
-    "description": "A framework in react community ✨"
-  },
-  {
-    "repo": "rustdesk/rustdesk",
-    "branch": "master",
-    "language": "Rust",
-    "description": "An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer."
-  },
-  {
-    "repo": "EleutherAI/gpt-neox",
-    "branch": "main",
-    "language": "Python",
-    "description": "An implementation of model parallel autoregressive transformers on GPUs, based on the Megatron and DeepSpeed libraries"
-  },
-  {
-    "repo": "geoffreymcgill/react-native-collapsible",
-    "branch": "master",
-    "language": "Other",
-    "description": "Animated collapsible component for React Native, good for accordions, toggles etc"
-  },
-  {
-    "repo": "jarodise/XQuery",
-    "branch": "master",
-    "language": "TypeScript",
-    "description": ""
-  },
-  {
-    "repo": "AMAP-ML/MathForge",
-    "branch": "main",
-    "language": "Python",
-    "description": "(ICLR 2026) Harder Is Better: Boosting Mathematical Reasoning via Difficulty-Aware GRPO and Multi-Aspect Question Reformulation"
-  },
-  {
-    "repo": "HugoRCD/evlog",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Logging that makes sense. Wide events, structured errors, zero chaos."
-  },
-  {
-    "repo": "wiedymi/restty",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "Powerful, lightweight web terminal. Batteries included. Powered by libghostty-vt, WebGPU, and text-shaper."
-  },
-  {
-    "repo": "istio/api",
-    "branch": "master",
     "language": "Go",
-    "description": "API definitions for the Istio project"
+    "description": "Code signing and transparency for containers and binaries"
   },
   {
-    "repo": "sqlite/sqlite",
-    "branch": "master",
-    "language": "C",
-    "description": "Official Git mirror of the SQLite source tree"
+    "repo": "openhome-dev/abilities",
+    "branch": "dev",
+    "language": "Python",
+    "description": "Open-source abilities for OpenHome agents."
   },
   {
-    "repo": "google/ExoPlayer",
-    "branch": "release-v2",
-    "language": "Java",
-    "description": "This project is deprecated and stale. The latest ExoPlayer code is available in https://github.com/androidx/media"
+    "repo": "EbookFoundation/free-programming-books",
+    "branch": "main",
+    "language": "Python",
+    "description": ":books: Freely available programming books"
   },
   {
-    "repo": "sb-ocr/cmdeck",
+    "repo": "Lakr233/vphone-cli",
+    "branch": "main",
+    "language": "Python",
+    "description": ""
+  },
+  {
+    "repo": "tonbo-io/ursula",
+    "branch": "main",
+    "language": "Rust",
+    "description": "Distributed event stream server over HTTP, backed by S3."
+  },
+  {
+    "repo": "lidge-jun/opencodex",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Universal provider proxy for OpenAI Codex — use any LLM with Codex CLI, App, and SDK"
+  },
+  {
+    "repo": "OpenDriveLab/WorldEngine",
+    "branch": "main",
+    "language": "Python",
+    "description": "WorldEngine: Towards the Era of Post-Training for Physical AI"
+  },
+  {
+    "repo": "bddicken/tuitter",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "tuitter"
+  },
+  {
+    "repo": "0xSero/pi-brain",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": ""
+  },
+  {
+    "repo": "hero8152/Infinite-Canvas",
+    "branch": "main",
+    "language": "HTML",
+    "description": "Supports comfyui/API calls/modelscope calls"
+  },
+  {
+    "repo": "jd-opensource/JoyAI-Image",
+    "branch": "main",
+    "language": "Python",
+    "description": "JoyAI-Image is the unified multimodal foundation model for image understanding, text-to-image generation, and instruction-guided image editing."
+  },
+  {
+    "repo": "foyzulkarim/claude-lens",
     "branch": "main",
     "language": "HTML",
     "description": ""
   },
   {
-    "repo": "wbenny/scfw",
+    "repo": "ultrmgns/claude-private",
     "branch": "master",
-    "language": "C++",
-    "description": "A cross-platform C++ framework for building Windows shellcode"
+    "language": "Python",
+    "description": "Claude Code without any telemetry - the perfect cli to combo with CCR"
   },
   {
-    "repo": "pedrohcgs/claude-code-my-workflow",
+    "repo": "wbh604/UZI-Skill",
     "branch": "main",
-    "language": "HTML",
-    "description": "A ready-to-fork Claude Code template for academics using LaTeX/Beamer + R. Multi-agent review, quality gates, adversarial QA, and replication protocols."
+    "language": "Python",
+    "description": "冰冷的钱就这样流进我的口袋-游资（UZI）Skills — 51位投资大佬帮你看盘 · 22维数据 × 180条量化规则 × 17种机构分析方法 · A股/港股/美股"
   },
   {
-    "repo": "PeGasUsCHAkra/mevbot",
+    "repo": "redai-infra/Relax",
+    "branch": "main",
+    "language": "Python",
+    "description": "An Asynchronous Reinforcement Learning Engine for Omni-Modal Post-Training at Scale"
+  },
+  {
+    "repo": "perplexityai/bumblebee",
+    "branch": "main",
+    "language": "Go",
+    "description": "Read-only inventory collector for package, extension, and developer-tool metadata on macOS and Linux developer endpoints, built for fast supply-chain exposure checks."
+  },
+  {
+    "repo": "ZhangHanDong/harness-engineering-from-cc-to-ai-coding",
     "branch": "main",
     "language": "JavaScript",
-    "description": "Ethereum Bot"
+    "description": "Harness Engineering From Claude Code source code to AI Coding"
   },
   {
-    "repo": "npmx-dev/npmx.dev",
+    "repo": "andraiming/speech-tokenizer-arena",
     "branch": "main",
-    "language": "TypeScript",
-    "description": "a fast, modern browser for the npm registry"
+    "language": "Python",
+    "description": "A side-by-side benchmarking playground for discrete speech tokenizers (EnCodec, HuBERT-units, SpeechTokenizer, etc.)."
+  },
+  {
+    "repo": "notdog1998/yourself-skill",
+    "branch": "master",
+    "language": "Python",
+    "description": "与其蒸馏别人，不如蒸馏自己。欢迎加入数字永生！Inspired by colleague-skill（同事skill）。"
+  },
+  {
+    "repo": "appergb/openless",
+    "branch": "main",
+    "language": "HTML",
+    "description": "Hold a key, speak, release — AI-polished text appears at your cursor in any app. Open-source voice input for macOS & Windows. (按住快捷键说话，松开即得润色后的文字)"
+  },
+  {
+    "repo": "tgies/copy-fail-c",
+    "branch": "main",
+    "language": "C",
+    "description": "Cross-platform C port of the Copy Fail Linux LPE (CVE-2026-31431). Disclosed 2026-04-29 by Theori / Xint."
   }
 ]
