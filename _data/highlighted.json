@@ -1,8 +1,8 @@
 {
-  "repo": "inbjo/MirrorProxy",
+  "repo": "OlegSotnikov/sallyport",
   "branch": "main",
-  "language": "Rust",
-  "description": "All-in-one mirror acceleration",
-  "stars": 166,
-  "forks": 9
+  "language": "Swift",
+  "description": "A featured project on GitHubTree.",
+  "stars": 321,
+  "forks": 10
 }

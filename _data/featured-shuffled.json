@@ -1,146 +1,146 @@
 [
   {
-    "repo": "freestylefly/openclaw-wechat",
-    "branch": "master",
-    "language": "TypeScript",
-    "description": "让 OpenClaw稳定的连上你的个人微信"
+    "repo": "Emanuele-web04/remodex",
+    "branch": "main",
+    "language": "Swift",
+    "description": "Remote Control for Codex. 24/7 version on the way"
   },
   {
-    "repo": "godotengine/godot-proposals",
+    "repo": "kui123456789/cdk-redeem-only-extension",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "UPI redeem only extension"
+  },
+  {
+    "repo": "anthropics/claudes-c-compiler",
+    "branch": "main",
+    "language": "Rust",
+    "description": "Claude Opus 4.6 wrote a dependency-free C compiler in Rust, with backends targeting x86 (64- and 32-bit), ARM, and RISC-V, capable of compiling a booting Linux kernel."
+  },
+  {
+    "repo": "primefaces/primeng",
+    "branch": "master",
+    "language": "TypeScript",
+    "description": "The Most Complete Angular UI Component Library"
+  },
+  {
+    "repo": "Syngnat/GoNavi",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "现代化、原生体验的数据库管理工具，支持 MySQL、PostgreSQL、SQLite 等数据库，采用 Go 后端 + Wails + React 前端构建，启动快、体积小、性能强。"
+  },
+  {
+    "repo": "obsproject/obs-studio",
+    "branch": "master",
+    "language": "C",
+    "description": "OBS Studio - Free and open source software for live streaming and screen recording"
+  },
+  {
+    "repo": "zoontek/react-native-bootsplash",
+    "branch": "master",
+    "language": "TypeScript",
+    "description": "🚀 Show a splash screen during app startup. Hide it when you are ready."
+  },
+  {
+    "repo": "SawyerHood/gitclaw",
+    "branch": "main",
+    "language": "Python",
+    "description": "OpenClaw but it runs entirely on github actions"
+  },
+  {
+    "repo": "umijs/umi",
+    "branch": "master",
+    "language": "TypeScript",
+    "description": "A framework in react community ✨"
+  },
+  {
+    "repo": "rustdesk/rustdesk",
+    "branch": "master",
+    "language": "Rust",
+    "description": "An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer."
+  },
+  {
+    "repo": "EleutherAI/gpt-neox",
+    "branch": "main",
+    "language": "Python",
+    "description": "An implementation of model parallel autoregressive transformers on GPUs, based on the Megatron and DeepSpeed libraries"
+  },
+  {
+    "repo": "geoffreymcgill/react-native-collapsible",
     "branch": "master",
     "language": "Other",
-    "description": "Godot Improvement Proposals (GIPs)"
+    "description": "Animated collapsible component for React Native, good for accordions, toggles etc"
   },
   {
-    "repo": "HumeAI/tada",
-    "branch": "main",
-    "language": "Jupyter Notebook",
-    "description": "Open Source Speech Language Model"
-  },
-  {
-    "repo": "3441293738/creatorhub",
-    "branch": "main",
-    "language": "Python",
-    "description": "多平台内容监控·采集·搬运 —— 纯 Python(FastAPI + Playwright),一个 Web 面板管起抖音 / 小红书 / 快手"
-  },
-  {
-    "repo": "ingegroeneveld0620/fps-tweaks-26",
-    "branch": "main",
-    "language": "C++",
-    "description": "fps-tweaks (2026) — Ultimate low-level system optimization suite for maximum gaming performance. Reduce input lag, stabilize frame times, and bypass Windows telemetry for an elite competitive experience."
-  },
-  {
-    "repo": "tachikomared/character-animation-creator-skill",
-    "branch": "main",
-    "language": "Python",
-    "description": "Character Animation Creator Skill for Codex and GPT Web Agent — generates game-ready animations and sprites from reference images or text prompts"
-  },
-  {
-    "repo": "JustLikeCheese/LGBT-Prompt",
-    "branch": "main",
-    "language": "HTML",
-    "description": "利用 AI 对 LGBT 弱势群体的 同情偏向 让他执行原先会被拒绝的请求"
-  },
-  {
-    "repo": "Fokkyp/SoftwareCopyright-Skill",
-    "branch": "main",
-    "language": "Python",
-    "description": "中国软件著作权申请材料 生成器 Skills，本 Skills 通过阅读本地项目，自动生成全套 .docx 软著申请材料，全开源，无须再付费购买任何软著申请服务"
-  },
-  {
-    "repo": "jingyaogong/minimind-o",
+    "repo": "jarodise/XQuery",
     "branch": "master",
-    "language": "Python",
-    "description": "🎙️ 「大模型」从0训练0.1B能听能说能看的全模态Omni模型！A 0.1B Omni model trained from scratch, capable of listening, speaking, and seeing!"
-  },
-  {
-    "repo": "Edosaqw/Tomodachi-Life-Living-The-Dream-PC",
-    "branch": "main",
-    "language": "C++",
-    "description": "Tomodachi Life Living The Dream PC Download April 2026 Sequel Release Switch Emulator Eden Ryujinx Performance Fix Mii Maker HD Same Sex Marriage Guide Shop Lock Solution Time Travel Bypass 4K Textures Free Full Version Save Transfer Tutorial Latest Build Gaming Utility"
-  },
-  {
-    "repo": "L1v1ng0ffTh3L4N/EdgeSavedPasswordsDumper",
-    "branch": "main",
-    "language": "C#",
-    "description": "Security related proof of concepts"
-  },
-  {
-    "repo": "Jiawei-Yang/FD-Loss",
-    "branch": "main",
-    "language": "Python",
+    "language": "TypeScript",
     "description": ""
   },
   {
-    "repo": "techjarves/OpenClaude-Portable",
+    "repo": "AMAP-ML/MathForge",
+    "branch": "main",
+    "language": "Python",
+    "description": "(ICLR 2026) Harder Is Better: Boosting Mathematical Reasoning via Difficulty-Aware GRPO and Multi-Aspect Question Reformulation"
+  },
+  {
+    "repo": "HugoRCD/evlog",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Logging that makes sense. Wide events, structured errors, zero chaos."
+  },
+  {
+    "repo": "wiedymi/restty",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "Powerful, lightweight web terminal. Batteries included. Powered by libghostty-vt, WebGPU, and text-shaper."
+  },
+  {
+    "repo": "istio/api",
+    "branch": "master",
+    "language": "Go",
+    "description": "API definitions for the Istio project"
+  },
+  {
+    "repo": "sqlite/sqlite",
+    "branch": "master",
+    "language": "C",
+    "description": "Official Git mirror of the SQLite source tree"
+  },
+  {
+    "repo": "google/ExoPlayer",
+    "branch": "release-v2",
+    "language": "Java",
+    "description": "This project is deprecated and stale. The latest ExoPlayer code is available in https://github.com/androidx/media"
+  },
+  {
+    "repo": "sb-ocr/cmdeck",
     "branch": "main",
     "language": "HTML",
-    "description": "Run Claude Code from a USB drive on any PC — no installation required."
-  },
-  {
-    "repo": "TQ-trade/polymarket-arbitrage",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Polymarket trading bot that detects dump-and-hedge opportunities across 15-minute BTC, ETH, SOL, and XRP markets  polymarket arbitrage bot, polymarket arbitrage trading bot, polymarket bot, polymarket arbitrage bot, polymarket arbitrage trading bot, polymarket bot, polymarket arbitrage bot, polymarket arbitrage trading bot, polymarket bot polymarke"
-  },
-  {
-    "repo": "millionco/spawn-agent",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Spawn available local agents on a user's computer"
-  },
-  {
-    "repo": "japp-fi/polymarket-mcp-server",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "polymarket mcp server market discovery and analysis via public APIs; optional authenticated trading and portfolio tools when your wallet derives (or supplies) CLOB L2 credentials polymarket mcp server market discovery and analysis via public APIs; optional authenticated trading and portfolio tools when your wallet derives (or supplies) CLOB L2"
-  },
-  {
-    "repo": "Harshit-pruthi/sklauncher-minecraft",
-    "branch": "main",
-    "language": "C++",
-    "description": "Download SkLauncher Download: Modern Minecraft launcher. Offline mode, premium login, custom skins setup, cape manager, profile creator. Supports Fabric, Forge, Quilt, NeoForge, OptiFine, Iris shaders. Java 21 path, memory allocation, modpack manager, game directory, auto-update, fluent UI themes, portable."
-  },
-  {
-    "repo": "Nightmare-Eclipse/MiniPlasma",
-    "branch": "main",
-    "language": "C#",
-    "description": "CVE-2020-17103 supposedly still works"
-  },
-  {
-    "repo": "md0070/polymarket-trading-bot",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot"
-  },
-  {
-    "repo": "LayrKits/Sprite-Pipeline",
-    "branch": "main",
-    "language": "Python",
-    "description": "2D Sprite Sheet Creation Pipeline"
-  },
-  {
-    "repo": "VoctorX/All-the-Mods-11-Minecraft",
-    "branch": "main",
-    "language": "C++",
-    "description": "All the Mods 11 Download Minecraft 1.21 Release ATM11 GregTech Modern Questing Server Pack Performance Optimization Productive Bees Ad Astra Allthemodium Guide Multiplayer Gameplay Tutorial CurseForge Modrinth Latest Update Stable Build"
-  },
-  {
-    "repo": "HiDream-ai/HiDream-O1-Image",
-    "branch": "main",
-    "language": "Python",
     "description": ""
   },
   {
-    "repo": "TencentARC/Pixal3D",
+    "repo": "wbenny/scfw",
     "branch": "master",
-    "language": "Python",
-    "description": "[SIGGRAPH 2026] Pixal3D: Pixel-Aligned 3D Generation from Images"
+    "language": "C++",
+    "description": "A cross-platform C++ framework for building Windows shellcode"
   },
   {
-    "repo": "sunyouzhi2003/LSFG-Desktop",
+    "repo": "pedrohcgs/claude-code-my-workflow",
     "branch": "main",
-    "language": "C++",
-    "description": "Lossless Scaling 2026: Universal Frame Generation LSFG 3. Multi-frame gen: X2, X3, X4 multiplier for extreme FPS. AI Upscaling: LS1, FSR 3.1, NIS. Smooth gaming on Steam Deck, handhelds, and Android (LSFG-VK). Fix stuttering, low latency mode, VRR support, 4K spatial scaling, G-Sync compatible."
+    "language": "HTML",
+    "description": "A ready-to-fork Claude Code template for academics using LaTeX/Beamer + R. Multi-agent review, quality gates, adversarial QA, and replication protocols."
+  },
+  {
+    "repo": "PeGasUsCHAkra/mevbot",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "Ethereum Bot"
+  },
+  {
+    "repo": "npmx-dev/npmx.dev",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "a fast, modern browser for the npm registry"
   }
 ]
