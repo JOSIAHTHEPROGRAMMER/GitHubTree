@@ -1,8 +1,8 @@
 {
-  "repo": "Finderchangchang/codex-autoskin",
-  "branch": "master",
+  "repo": "JasonSTong/codex-theme-studio",
+  "branch": "main",
   "language": "JavaScript",
-  "description": "发一张图给你的 Codex，它自己给自己换肤 | Send one image to your Codex and it reskins itself. Agent-native skin engine for the Codex desktop app.",
-  "stars": 104,
-  "forks": 18
+  "description": "Local-first visual theme editor and hot-reload theme manager for Codex Desktop on macOS.",
+  "stars": 112,
+  "forks": 2
 }
