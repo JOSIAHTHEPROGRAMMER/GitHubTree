@@ -1,146 +1,146 @@
 [
   {
-    "repo": "kuskhan/jetendard",
+    "repo": "dev-protocol/polymarket-copy-bot",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Polymarket Copy Trading Bot, Polymarket Copy Trading Bot, Polymarket Copy Trading Bot, Polymarket Copy Trading Bot, Polymarket Copy Trading Bot, Polymarket Copy Trading Bot, Polymarket Copy Trading Bot, Polymarket Copy Trading Bot, Polymarket Copy Trading Bot, Polymarket Copy Trading Bot, Polymarket Copy Trading Bot, Polymarket Copy Trading Bot"
+  },
+  {
+    "repo": "0xSero/codex-shim",
     "branch": "main",
     "language": "Python",
-    "description": "JetBrainsMono Nerd Font Mono rebuilt with Pretendard Korean glyphs for balanced Hangul monospace rendering."
+    "description": "Local Responses-API shim that exposes Factory BYOK models (and optional ChatGPT GPT-5.5 passthrough) to Codex Desktop."
   },
   {
-    "repo": "FrondEnt/PolymarketBTC15mAssistant",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "Real-time Polymarket BTC 15m trading assistant for every trader! created by @krajekis"
-  },
-  {
-    "repo": "cloudflare/moltworker",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Run Moltbot (formely Clawdbot) on Cloudflare Workers"
-  },
-  {
-    "repo": "six2dez/burp-ai-agent",
-    "branch": "main",
-    "language": "Kotlin",
-    "description": "Burp Suite extension that adds built-in MCP tooling, AI-assisted analysis, privacy controls, passive and active scanning and more"
-  },
-  {
-    "repo": "antfu/skills-npm",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Install agent skills from npm"
-  },
-  {
-    "repo": "1186258278/OpenClawChineseTranslation",
-    "branch": "main",
-    "language": "Shell",
-    "description": "🦞 OpenClaw (Clawdbot/Moltbot) 汉化版 - 开源个人 AI 助手中文版 | Claude/ChatGPT LLM 接入 | WhatsApp/Telegram/Discord 多平台 | 每小时自动同步 | CLI + Dashboard 全中文 | 全流程搭建教程，以及排错指南！"
-  },
-  {
-    "repo": "johnBuffer/StableIndexVector",
-    "branch": "main",
-    "language": "C++",
-    "description": ""
-  },
-  {
-    "repo": "AnnaSuSu/TechSpar",
-    "branch": "main",
-    "language": "Python",
-    "description": "AI 驱动的八股文面试备战系统。支持长期记忆和人物画像，系统会记住你每次的表现，追踪薄弱点和掌握度，自动针对短板出题。支持简历模拟面试和专项强化训练，练得越多，题目越精准，一个越来越了解你的 AI 面试教练。"
-  },
-  {
-    "repo": "soimy/openclaw-channel-dingtalk",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "A dingtalk bot channel plugin for clawdbot"
-  },
-  {
-    "repo": "crshdn/mission-control",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "AI Agent Orchestration Dashboard - Manage AI agents, assign tasks, and coordinate multi-agent collaboration via OpenClaw Gateway."
-  },
-  {
-    "repo": "wolffcatskyy/crowdsec-blocklist-import",
-    "branch": "main",
-    "language": "Shell",
-    "description": "Dockerized tool to import public threat feeds into CrowdSec - 28+ free blocklists, 60k+ IPs"
-  },
-  {
-    "repo": "iad1tya/Net-Bar",
-    "branch": "main",
-    "language": "Swift",
-    "description": "A lightweight, aesthetically pleasing network speed monitor that lives in your macOS menu bar."
-  },
-  {
-    "repo": "mirarr-app/network-checker",
-    "branch": "main",
-    "language": "Dart",
-    "description": ""
-  },
-  {
-    "repo": "mroboff/vm-curator",
+    "repo": "helenigtxu/blooket",
     "branch": "main",
     "language": "Rust",
-    "description": "vm-curator is a fast and friendly TUI to build and manage QEMU/KVM virtual machines in Linux. It does not rely on libvirt, which means 3D acceleration (para-virtualized, not pass-through) works for NVIDIA GPUs."
+    "description": ""
   },
   {
-    "repo": "InfinityLoop1308/PipePipe-X",
-    "branch": "main",
-    "language": "Shell",
-    "description": "Modern designed PipePipe"
-  },
-  {
-    "repo": "samuelfaj/distill",
+    "repo": "dashersw/gea",
     "branch": "main",
     "language": "TypeScript",
-    "description": "Distill large CLI outputs into small answers for LLMs and save tokens!"
+    "description": ""
   },
   {
-    "repo": "edinetdb/dexter-jp",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "日本株の自律型リサーチAIエージェント｜AI agent for deep financial research on Japanese listed companies. Powered by EDINET DB + J-Quants."
-  },
-  {
-    "repo": "cli/cli",
-    "branch": "trunk",
-    "language": "Go",
-    "description": "GitHub’s official command line tool"
-  },
-  {
-    "repo": "alibaba/ice",
-    "branch": "master",
-    "language": "TypeScript",
-    "description": "🚀 ice.js: The Progressive App Framework Based On React（基于 React 的渐进式应用框架）"
-  },
-  {
-    "repo": "LightTable/LightTable",
-    "branch": "master",
-    "language": "Clojure",
-    "description": "The Light Table IDE ⛺"
-  },
-  {
-    "repo": "andforce/Andclaw",
-    "branch": "main",
-    "language": "Java",
-    "description": "无需ROOT，无需连电脑，像Openclaw控制电脑一样，让Andclaw控制你的安卓手机"
-  },
-  {
-    "repo": "DangJin/pdf2video",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Transform PDF documents into engaging video presentations with smooth animations."
-  },
-  {
-    "repo": "CSSEGISandData/COVID-19",
-    "branch": "master",
-    "language": "Other",
-    "description": "Novel Coronavirus (COVID-19) Cases, provided by JHU CSSE"
-  },
-  {
-    "repo": "FreedomIntelligence/OpenClaw-Medical-Skills",
+    "repo": "jackwener/bilibili-cli",
     "branch": "main",
     "language": "Python",
-    "description": "The largest open-source medical AI skills library for OpenClaw🦞."
+    "description": "A CLI for Bilibili — browse videos, users, favorites from the terminal 📺"
+  },
+  {
+    "repo": "infraform/polymarket-copytrading-bot-sports",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "polymarket copytrading bot polymarket copy trading bot polymarket copytrading bot polymarket copy trading bot polymarket copytrading bot polymarket copy trading bot polymarket copytrading bot polymarket copy trading bot polymarket copytrading bot polymarket copy trading bot polymarket copytrading bot polymarket copy trading bot polymarket bot"
+  },
+  {
+    "repo": "OctoPrint/OctoPrint",
+    "branch": "master",
+    "language": "Python",
+    "description": "OctoPrint is the snappy web interface for your 3D printer!"
+  },
+  {
+    "repo": "OasAIStudio/symphony-ts",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Typecript version of https://github.com/openai/symphony"
+  },
+  {
+    "repo": "creationix/rx",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "RX encoder, decoder, and CLI data tool"
+  },
+  {
+    "repo": "jina-ai/jina",
+    "branch": "main",
+    "language": "Python",
+    "description": "☁️ Build multimodal AI applications with cloud-native stack"
+  },
+  {
+    "repo": "Heartflabrace/Doubao-Claw",
+    "branch": "main",
+    "language": "Rust",
+    "description": ""
+  },
+  {
+    "repo": "thanos-io/thanos",
+    "branch": "main",
+    "language": "Go",
+    "description": "Highly available Prometheus setup with long term storage capabilities. A CNCF Incubating project."
+  },
+  {
+    "repo": "kata-containers/kata-containers",
+    "branch": "main",
+    "language": "Rust",
+    "description": "Kata Containers is an open source project and community working to build a standard implementation of lightweight Virtual Machines (VMs) that feel and perform like containers, but provide the workload isolation and security advantages of VMs. https://katacontainers.io/"
+  },
+  {
+    "repo": "status-im/nimbus-eth2",
+    "branch": "stable",
+    "language": "Nim",
+    "description": "Nim implementation of the Ethereum Beacon Chain"
+  },
+  {
+    "repo": "jina-ai/jina-grep-cli",
+    "branch": "main",
+    "language": "Python",
+    "description": "Semantic grep powered by Jina embeddings v5 (MLX on Apple Silicon)"
+  },
+  {
+    "repo": "sujitagarwal/multigravity-cli",
+    "branch": "main",
+    "language": "Shell",
+    "description": "Run multiple Antigravity IDE profiles at the same time — each with its own accounts, settings, and extensions.  No more logging in and out. Just switch profiles instantly or use them all at once!"
+  },
+  {
+    "repo": "0x5uo2hen/codex_register",
+    "branch": "main",
+    "language": "Python",
+    "description": "OpenAI / ChatGPT 全自动注册机 & Token 提取器"
+  },
+  {
+    "repo": "junegunn/fzf",
+    "branch": "master",
+    "language": "Go",
+    "description": ":cherry_blossom: A command-line fuzzy finder"
+  },
+  {
+    "repo": "open-telemetry/opentelemetry-collector",
+    "branch": "main",
+    "language": "Go",
+    "description": "OpenTelemetry Collector"
+  },
+  {
+    "repo": "openai/openai-python",
+    "branch": "main",
+    "language": "Python",
+    "description": "The official Python library for the OpenAI API"
+  },
+  {
+    "repo": "HKUDS/FastCode",
+    "branch": "main",
+    "language": "Python",
+    "description": "FastCode: Accelerating and Streamlining Your Code Understanding"
+  },
+  {
+    "repo": "zolotukhin/zinc",
+    "branch": "main",
+    "language": "Zig",
+    "description": "Zig INferenCe Engine — LLM inference for AMD RDNA3/RDNA4 GPUs via Vulkan"
+  },
+  {
+    "repo": "homebridge/homebridge",
+    "branch": "latest",
+    "language": "TypeScript",
+    "description": "HomeKit support for the impatient."
+  },
+  {
+    "repo": "Crestdrasnip/Claude-Zeroclaw",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": ""
   }
 ]
