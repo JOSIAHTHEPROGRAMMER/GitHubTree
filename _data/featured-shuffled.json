@@ -1,146 +1,146 @@
 [
   {
-    "repo": "coyvalyss1/model-matchmaker",
+    "repo": "kuskhan/jetendard",
+    "branch": "main",
+    "language": "Python",
+    "description": "JetBrainsMono Nerd Font Mono rebuilt with Pretendard Korean glyphs for balanced Hangul monospace rendering."
+  },
+  {
+    "repo": "FrondEnt/PolymarketBTC15mAssistant",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "Real-time Polymarket BTC 15m trading assistant for every trader! created by @krajekis"
+  },
+  {
+    "repo": "cloudflare/moltworker",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Run Moltbot (formely Clawdbot) on Cloudflare Workers"
+  },
+  {
+    "repo": "six2dez/burp-ai-agent",
+    "branch": "main",
+    "language": "Kotlin",
+    "description": "Burp Suite extension that adds built-in MCP tooling, AI-assisted analysis, privacy controls, passive and active scanning and more"
+  },
+  {
+    "repo": "antfu/skills-npm",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Install agent skills from npm"
+  },
+  {
+    "repo": "1186258278/OpenClawChineseTranslation",
     "branch": "main",
     "language": "Shell",
-    "description": "Local hook for Cursor and Claude Code that routes prompts to the right model tier. Stop paying Opus prices to rename files."
+    "description": "🦞 OpenClaw (Clawdbot/Moltbot) 汉化版 - 开源个人 AI 助手中文版 | Claude/ChatGPT LLM 接入 | WhatsApp/Telegram/Discord 多平台 | 每小时自动同步 | CLI + Dashboard 全中文 | 全流程搭建教程，以及排错指南！"
   },
   {
-    "repo": "Sophomoresty/gemini-web2api",
-    "branch": "main",
-    "language": "Python",
-    "description": "Convert Google Gemini web into OpenAI-compatible API. Zero auth, cross-platform, single file."
-  },
-  {
-    "repo": "Vanquishervohonor25/Zapret-4.0",
-    "branch": "main",
-    "language": "Python",
-    "description": "Обход блокировок YouTube, Discord, Telegram и других сервисов на уровне сети - без VPN, без сторонних серверов, без потери скорости."
-  },
-  {
-    "repo": "Predictly-Poly/polymarket-trading-bot",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Polymarket copy trading bot and Polymarket trading bot starter that tracks selected wallets and mirrors, polymarket trading bot, polymarket trading bot, polymarket trading bot,polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot,trading"
-  },
-  {
-    "repo": "manojmidhul92-art/Umbrella-HWID",
+    "repo": "johnBuffer/StableIndexVector",
     "branch": "main",
     "language": "C++",
-    "description": "Advanced HWID changer. Bypass Vanguard, EAC, BattlEye, Ricochet. Features: Disk serials spoofing, BIOS/Baseboard UUID change, MAC address randomize, Monitor ID masking. Registry cleaner, trace remover, permanent/temporary mode. Kernel-level protection, one-click spoofer, anti-cheat bypass."
+    "description": ""
   },
   {
-    "repo": "ircfspace/teleMirror",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "A simple desktop client for viewing Telegram channels, specifically designed for complex filtering environments like Iran"
-  },
-  {
-    "repo": "Fokkyp/SoftwareCopyright-Skill",
+    "repo": "AnnaSuSu/TechSpar",
     "branch": "main",
     "language": "Python",
-    "description": "中国软件著作权申请材料 生成器 Skills，本 Skills 通过阅读本地项目，自动生成全套 .docx 软著申请材料，全开源，无须再付费购买任何软著申请服务"
+    "description": "AI 驱动的八股文面试备战系统。支持长期记忆和人物画像，系统会记住你每次的表现，追踪薄弱点和掌握度，自动针对短板出题。支持简历模拟面试和专项强化训练，练得越多，题目越精准，一个越来越了解你的 AI 面试教练。"
   },
   {
-    "repo": "haigechanlun/chanlun_auto_trading",
+    "repo": "soimy/openclaw-channel-dingtalk",
     "branch": "main",
-    "language": "Python",
-    "description": "一个基于缠论（Chanlun）理论构建的自动化量化交易系统，结合历史数据训练、严格风控与实盘执行，致力于实现稳定且可持续的收益表现。  回测收益年化80%+！欢迎订阅信号和实盘测试。"
+    "language": "TypeScript",
+    "description": "A dingtalk bot channel plugin for clawdbot"
   },
   {
-    "repo": "wasabeef/awesome-android-ui",
+    "repo": "crshdn/mission-control",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "AI Agent Orchestration Dashboard - Manage AI agents, assign tasks, and coordinate multi-agent collaboration via OpenClaw Gateway."
+  },
+  {
+    "repo": "wolffcatskyy/crowdsec-blocklist-import",
+    "branch": "main",
+    "language": "Shell",
+    "description": "Dockerized tool to import public threat feeds into CrowdSec - 28+ free blocklists, 60k+ IPs"
+  },
+  {
+    "repo": "iad1tya/Net-Bar",
+    "branch": "main",
+    "language": "Swift",
+    "description": "A lightweight, aesthetically pleasing network speed monitor that lives in your macOS menu bar."
+  },
+  {
+    "repo": "mirarr-app/network-checker",
+    "branch": "main",
+    "language": "Dart",
+    "description": ""
+  },
+  {
+    "repo": "mroboff/vm-curator",
+    "branch": "main",
+    "language": "Rust",
+    "description": "vm-curator is a fast and friendly TUI to build and manage QEMU/KVM virtual machines in Linux. It does not rely on libvirt, which means 3D acceleration (para-virtualized, not pass-through) works for NVIDIA GPUs."
+  },
+  {
+    "repo": "InfinityLoop1308/PipePipe-X",
+    "branch": "main",
+    "language": "Shell",
+    "description": "Modern designed PipePipe"
+  },
+  {
+    "repo": "samuelfaj/distill",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Distill large CLI outputs into small answers for LLMs and save tokens!"
+  },
+  {
+    "repo": "edinetdb/dexter-jp",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "日本株の自律型リサーチAIエージェント｜AI agent for deep financial research on Japanese listed companies. Powered by EDINET DB + J-Quants."
+  },
+  {
+    "repo": "cli/cli",
+    "branch": "trunk",
+    "language": "Go",
+    "description": "GitHub’s official command line tool"
+  },
+  {
+    "repo": "alibaba/ice",
+    "branch": "master",
+    "language": "TypeScript",
+    "description": "🚀 ice.js: The Progressive App Framework Based On React（基于 React 的渐进式应用框架）"
+  },
+  {
+    "repo": "LightTable/LightTable",
+    "branch": "master",
+    "language": "Clojure",
+    "description": "The Light Table IDE ⛺"
+  },
+  {
+    "repo": "andforce/Andclaw",
+    "branch": "main",
+    "language": "Java",
+    "description": "无需ROOT，无需连电脑，像Openclaw控制电脑一样，让Andclaw控制你的安卓手机"
+  },
+  {
+    "repo": "DangJin/pdf2video",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Transform PDF documents into engaging video presentations with smooth animations."
+  },
+  {
+    "repo": "CSSEGISandData/COVID-19",
     "branch": "master",
     "language": "Other",
-    "description": "A curated list of awesome Android UI/UX libraries"
+    "description": "Novel Coronavirus (COVID-19) Cases, provided by JHU CSSE"
   },
   {
-    "repo": "Dhravya/webpull",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": ""
-  },
-  {
-    "repo": "Ch1rpy2613/Mirrai",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": ""
-  },
-  {
-    "repo": "XBuilderLAB/cheat-on-content",
+    "repo": "FreedomIntelligence/OpenClaw-Medical-Skills",
     "branch": "main",
     "language": "Python",
-    "description": "Content is already a cheat-code race—whoever cracks the patterns first wins the traffic. Your auto-evolving ops expert that learns YOUR account, not the global average. The Claude Code workflow behind 1M followers in 1 month."
-  },
-  {
-    "repo": "TitanFlow-Systems/best-of-algorithmic-trading",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "best-of algorithmic trading quant finance crypto bots frameworks APIs TA indicators libraries Freqtrade Hummingbot OctoBot Jesse Zipline backtrader CCXT Lean StockSharp Python Node Rust Go TypeScript C# Java forex stocks derivatives polymarket prediction-markets courses books YouTube Telegram communities fintech opensource weekly ranked star-score"
-  },
-  {
-    "repo": "jesselau76/cigen",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "Interactive root/affix vocabulary memory web app"
-  },
-  {
-    "repo": "thellimist/clihub",
-    "branch": "main",
-    "language": "Go",
-    "description": ""
-  },
-  {
-    "repo": "magnum6actual/flipoff",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "Free split-flap display emulator for any TV. The classic flip-board look, without the $3,500 hardware."
-  },
-  {
-    "repo": "ory/oathkeeper",
-    "branch": "master",
-    "language": "Go",
-    "description": "A cloud native Identity & Access Proxy / API (IAP) and Access Control Decision API that authenticates, authorizes, and mutates incoming HTTP(s) requests. Inspired by the BeyondCorp / Zero Trust white paper. Written in Go."
-  },
-  {
-    "repo": "ehang-io/nps",
-    "branch": "master",
-    "language": "Go",
-    "description": "一款轻量级、高性能、功能强大的内网穿透代理服务器。支持tcp、udp、socks5、http等几乎所有流量转发，可用来访问内网网站、本地支付接口调试、ssh访问、远程桌面，内网dns解析、内网socks5代理等等……，并带有功能强大的web管理端。a lightweight, high-performance, powerful intranet penetration proxy server, with a powerful web management terminal."
-  },
-  {
-    "repo": "lifo-sh/lifo",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "A browser-native operating system. Unix/Linux reimagined where the browser IS the kernel and Web APIs ARE syscalls. 60+ commands, bash-like shell, virtual filesystem, and IndexedDB persistence."
-  },
-  {
-    "repo": "WebAssembly/wabt",
-    "branch": "main",
-    "language": "C++",
-    "description": "The WebAssembly Binary Toolkit"
-  },
-  {
-    "repo": "SnapKit/SnapKit",
-    "branch": "develop",
-    "language": "Swift",
-    "description": "A Swift Autolayout DSL for iOS & OS X"
-  },
-  {
-    "repo": "dagger/dagger",
-    "branch": "main",
-    "language": "Go",
-    "description": "Automation engine to build, test and ship any codebase. Runs locally, in CI, or directly in the cloud"
-  },
-  {
-    "repo": "randallscott25-star/epstein-forensic-finance",
-    "branch": "main",
-    "language": "HTML",
-    "description": "Epstein Financial Forensics Automated forensic financial reconstruction from 1.48 million DOJ EFTA documents + 503K cataloged media items"
-  },
-  {
-    "repo": "oven-sh/bun",
-    "branch": "main",
-    "language": "Zig",
-    "description": "Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one"
+    "description": "The largest open-source medical AI skills library for OpenClaw🦞."
   }
 ]
