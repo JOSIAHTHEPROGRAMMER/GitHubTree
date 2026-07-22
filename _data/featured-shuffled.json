@@ -1,146 +1,146 @@
 [
   {
-    "repo": "akazwz/hostc",
+    "repo": "Rohim616/DBD-AutoGrind-Trainer-2026-Extreme",
+    "branch": "main",
+    "language": "Python",
+    "description": "Ultimate Dead by Daylight auto-grind trainer Extreme edition with Bloodpoint bot, ESP wallhack, aimbot, and full perk/skin unlocker. Dominate the Fog with our 2026 undetected external tool."
+  },
+  {
+    "repo": "rohitg00/pro-workflow",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "Battle-tested Claude Code workflows from power users. Self-correcting memory, parallel worktrees, wrap-up rituals, and the 80/20 AI coding ratio."
+  },
+  {
+    "repo": "Mathews-Tom/no-magic",
+    "branch": "main",
+    "language": "Python",
+    "description": "Because `model.fit()` isn't an explanation"
+  },
+  {
+    "repo": "win4r/memory-lancedb-pro",
     "branch": "main",
     "language": "TypeScript",
-    "description": "Localhost to the edge. Secure, fast, and zero-config edge tunnels powered by Cloudflare Workers."
+    "description": "Enhanced LanceDB memory plugin for OpenClaw — Hybrid Retrieval (Vector + BM25), Cross-Encoder Rerank, Multi-Scope Isolation, Management CLI"
   },
   {
-    "repo": "ktorio/ktor",
+    "repo": "mverschu/adwsdomaindump",
     "branch": "main",
-    "language": "Kotlin",
-    "description": "Framework for quickly creating connected applications in Kotlin with minimal effort"
+    "language": "Python",
+    "description": "Active Directory information dumper via ADWS for evasion purposes."
   },
   {
-    "repo": "jasmine/jasmine",
+    "repo": "amlalabs/amla-sandbox",
     "branch": "main",
-    "language": "JavaScript",
-    "description": "Simple JavaScript testing framework for browsers and node.js"
+    "language": "Python",
+    "description": ""
   },
   {
-    "repo": "SortableJS/Sortable",
-    "branch": "master",
-    "language": "JavaScript",
-    "description": "Reorderable drag-and-drop lists for modern browsers and touch devices. No jQuery or framework required."
-  },
-  {
-    "repo": "jshachm/pi-rs",
+    "repo": "saif0200/notchprompt",
     "branch": "main",
-    "language": "Rust",
-    "description": "基于pi-mono，rust轻量化版本"
+    "language": "Swift",
+    "description": ""
   },
   {
-    "repo": "serverless/serverless",
+    "repo": "antfu/skills",
     "branch": "main",
-    "language": "JavaScript",
-    "description": "⚡ Serverless Framework – Effortlessly build apps that auto-scale, incur zero costs when idle, and require minimal maintenance using AWS Lambda and other managed cloud services."
-  },
-  {
-    "repo": "erenjugs/OpenGork",
-    "branch": "main",
-    "language": "Shell",
-    "description": "🧠 Uncensored AI agent powered by xAI's Grok - no filters, no limits"
-  },
-  {
-    "repo": "dev-protocol/polymarket-trading-bot-new",
-    "branch": "master",
-    "language": "Rust",
-    "description": "Polymarket trading bot,Polymarket trading bot, Polymarket trading bot, Polymarket trading bot, Polymarket trading bot, Polymarket trading bot, Polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot,Polymarket trading bot,Polymarket trading bot, Polymarket trading bot, Polymarket trading bot, Polymarket tradin"
-  },
-  {
-    "repo": "huangserva/claude-code-cli",
-    "branch": "master",
     "language": "TypeScript",
-    "description": "这是 Claude Code 的 CLI 客户端主体（src/ 目录），即整个终端交互层的源码。具体包含： 1. CLI 入口与命令解析 — main.tsx（4684行）、entrypoints/（CLI 模式、SDK 模式、MCP 模式） 2. 终端 UI 渲染 — components/（144 个组件，用 React + Ink 渲染终端界面） 3. 工具系统 — tools/（43 个工具，Bash、文件读写编辑、Grep、Glob、Web 搜索等） 4. API 通信层 — services/api/（与 Anthropic 后端通信） 5. MCP 协议  6. 多 Agent/Team 协作 l 7. 认证与策略 8. 辅助服务 等"
+    "description": "Anthony Fu's curated collection of agent skills."
   },
   {
-    "repo": "jenkinsci/jenkins",
+    "repo": "juliangarnier/anime",
+    "branch": "master",
+    "language": "JavaScript",
+    "description": "JavaScript animation engine"
+  },
+  {
+    "repo": "TheCaspianAI/Caspian",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Caspian is a control plane for running multiple AI coding agents in parallel, using curated workflows that fit your team."
+  },
+  {
+    "repo": "harshkedia177/axon",
+    "branch": "main",
+    "language": "Python",
+    "description": "Graph-powered code intelligence engine — indexes codebases into a knowledge graph, exposed via MCP tools for AI agents and a CLI for developers."
+  },
+  {
+    "repo": "gothinkster/realworld",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "The mother of all demo apps — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more"
+  },
+  {
+    "repo": "bc-dunia/qwen3-TTS-studio",
+    "branch": "main",
+    "language": "Python",
+    "description": "A professional-grade interface for Qwen3-TTS, designed to unlock the model's full potential with fine-grained control and intuitive workflows."
+  },
+  {
+    "repo": "buckle42/claude-code-remote",
+    "branch": "master",
+    "language": "Python",
+    "description": "Use Claude Code from your phone — or anywhere — over a secure VPN connection."
+  },
+  {
+    "repo": "fspecii/ace-step-ui",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "🎵 The Ultimate Open Source Suno Alternative - Professional UI for ACE-Step 1.5 AI Music Generation. Free, local, unlimited. Stop paying for Suno!"
+  },
+  {
+    "repo": "apache/hadoop",
+    "branch": "trunk",
+    "language": "Java",
+    "description": "Apache Hadoop"
+  },
+  {
+    "repo": "microsoft/DeepSpeed",
+    "branch": "master",
+    "language": "Python",
+    "description": "DeepSpeed is a deep learning optimization library that makes distributed training and inference easy, efficient, and effective."
+  },
+  {
+    "repo": "paritytech/substrate",
+    "branch": "master",
+    "language": "Rust",
+    "description": "Substrate: The platform for blockchain innovators"
+  },
+  {
+    "repo": "apache/beam",
     "branch": "master",
     "language": "Java",
-    "description": "Jenkins automation server"
+    "description": "Apache Beam is a unified programming model for Batch and Streaming data processing."
   },
   {
-    "repo": "FinPyromancerLog/xcode-claw",
+    "repo": "qhkm/zeptoclaw",
     "branch": "main",
-    "language": "JavaScript",
-    "description": ""
+    "language": "Rust",
+    "description": "Final form of claw family (Wannabe)"
   },
   {
-    "repo": "DefinitelyTyped/DefinitelyTyped",
+    "repo": "sympy/sympy",
     "branch": "master",
-    "language": "TypeScript",
-    "description": "The repository for high quality TypeScript type definitions."
-  },
-  {
-    "repo": "eooce/python-ws",
-    "branch": "main",
     "language": "Python",
-    "description": "build vless / trojan /shadowsocks  proxies on python server,no need core"
+    "description": "A computer algebra system written in pure Python"
   },
   {
-    "repo": "krisrice/oracle-db-skills",
-    "branch": "main",
+    "repo": "zsh-users/zsh-autosuggestions",
+    "branch": "master",
     "language": "Shell",
-    "description": "Oracle DB Skills is a curated library of 100+ practical, documentation-backed guides for working with Oracle Database, organized by domain"
+    "description": "Fish-like autosuggestions for zsh"
   },
   {
-    "repo": "tldraw/tldraw",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "very good whiteboard infinite canvas SDK"
-  },
-  {
-    "repo": "pulsemindcover/Polymarket-AI-Trading-Bot",
-    "branch": "main",
-    "language": "Python",
-    "description": "AI-powered macOS trading script for Polymarket. Automatically analyzes markets, generates intelligent trade decisions, and executes orders using configurable risk management and strategy parameters. One-command installation, lightweight setup, and optimized performance for automated prediction market trading."
-  },
-  {
-    "repo": "snoglobe/helios",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": ""
-  },
-  {
-    "repo": "projectdiscovery/nuclei",
+    "repo": "microsoft/winget-cli",
     "branch": "master",
-    "language": "Go",
-    "description": "Nuclei is a fast, customizable vulnerability scanner powered by the global security community and built on a simple YAML-based DSL, enabling collaboration to tackle trending vulnerabilities on the internet. It helps you find vulnerabilities in your applications, APIs, networks, DNS, and cloud configurations."
+    "language": "C++",
+    "description": "WinGet is the Windows Package Manager. This project includes a CLI (Command Line Interface), PowerShell modules, and a COM (Component Object Model) API (Application Programming Interface)."
   },
   {
-    "repo": "linlay/zenmind",
-    "branch": "main",
-    "language": "PowerShell",
-    "description": "宅在家里的电脑，努力做一个openclaw"
-  },
-  {
-    "repo": "facebook/react",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "The library for web and native user interfaces."
-  },
-  {
-    "repo": "encode/starlette",
+    "repo": "gcc-mirror/gcc",
     "branch": "master",
-    "language": "Python",
-    "description": "The little ASGI framework that shines. 🌟"
-  },
-  {
-    "repo": "LukeRenton/explore-claude-code",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "Learn Claude Code by exploring it as it was designed - interactive IDE-style docs for commands, MCP, skills, CLAUDE.md and more."
-  },
-  {
-    "repo": "MistKailorg/Polymarket-trading-bot",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Polymarket trading bot | Polymarket trading bot | Polymarket trading bot | Polymarket trading bot | Polymarket trading bot | Polymarket trading bot | Polymarket trading bot | Polymarket trading bot | Polymarket trading bot | Polymarket copy trading bot | Polymarket copy trading bot | Polymarket copy trading bot | Polymarket copy trading bot"
-  },
-  {
-    "repo": "locustio/locust",
-    "branch": "master",
-    "language": "Python",
-    "description": "Write scalable load tests in plain Python 🚗💨"
+    "language": "C++",
+    "description": "Mirror of the GNU Compiler Collection master repository."
   }
 ]
