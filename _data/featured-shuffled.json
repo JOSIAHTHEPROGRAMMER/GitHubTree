@@ -1,146 +1,146 @@
 [
   {
-    "repo": "SkyBlue997/enableMacosAI",
-    "branch": "main",
-    "language": "Shell",
-    "description": "国行 Mac 一键开启完整 Apple 智能(端侧 + Private Cloud Compute 云端)· macOS 27 / Apple Silicon"
-  },
-  {
-    "repo": "510myRday/Cursor-Toolbox",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": ""
-  },
-  {
-    "repo": "Zephkek/XStoreUnlocker",
-    "branch": "main",
-    "language": "C++",
-    "description": "DLC unlocker for Microsoft Store and Xbox PC games."
-  },
-  {
-    "repo": "pypa/packaging",
-    "branch": "main",
-    "language": "Python",
-    "description": "Core utilities for Python packages"
-  },
-  {
-    "repo": "vuejs/vue",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "This is the repo for Vue 2. For Vue 3, go to https://github.com/vuejs/core"
-  },
-  {
-    "repo": "WerWolv/ImHex",
-    "branch": "master",
-    "language": "C++",
-    "description": "🔍 A Hex Editor for Reverse Engineers, Programmers and people who value their retinas when working at 3 AM."
-  },
-  {
-    "repo": "phai-lab/InstantSplatPP",
-    "branch": "main",
-    "language": "Python",
-    "description": ""
-  },
-  {
-    "repo": "FrondEnt/PolymarketBTC15mAssistant",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "Real-time Polymarket BTC 15m trading assistant for every trader! created by @krajekis"
-  },
-  {
-    "repo": "nats-io/nats-server",
+    "repo": "mosaxiv/clawlet",
     "branch": "main",
     "language": "Go",
-    "description": "High-Performance server for NATS.io, the cloud and edge native messaging system."
+    "description": "Lightweight Personal AI Assistant"
   },
   {
-    "repo": "ReactiveX/RxJava",
-    "branch": "3.x",
+    "repo": "zimingttkx/QuantumFlow",
+    "branch": "main",
+    "language": "Python",
+    "description": "QuantumFlow - Distributed LLM inference scheduling framework with multi-backend support (vLLM, TGI, SGLang), adaptive scheduling strategies, and cluster management."
+  },
+  {
+    "repo": "microsoft/TypeScript",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "TypeScript is a superset of JavaScript that compiles to clean JavaScript output."
+  },
+  {
+    "repo": "ansible/awx",
+    "branch": "devel",
+    "language": "Python",
+    "description": "AWX provides a web-based user interface, REST API, and task engine built on top of Ansible. It is one of the upstream projects for Red Hat Ansible Automation Platform."
+  },
+  {
+    "repo": "Kuberwastaken/claude-code",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Claude Code's Source Code & Breakdown from a leaked map file in their NPM registry"
+  },
+  {
+    "repo": "ZhangHanDong/harness-engineering-from-cc-to-ai-coding",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "Harness Engineering From Claude Code source code to AI Coding"
+  },
+  {
+    "repo": "react-native-image-picker/react-native-image-picker",
+    "branch": "main",
     "language": "Java",
-    "description": "RxJava – Reactive Extensions for the JVM – a library for composing asynchronous and event-based programs using observable sequences for the Java VM."
+    "description": ":sunrise_over_mountains: A React Native module that allows you to use native UI to select media from the device library or directly from the camera."
   },
   {
-    "repo": "soimy/openclaw-channel-dingtalk",
+    "repo": "codeaashu/claude-code",
     "branch": "main",
     "language": "TypeScript",
-    "description": "A dingtalk bot channel plugin for clawdbot"
+    "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands."
   },
   {
-    "repo": "1186258278/OpenClawChineseTranslation",
-    "branch": "main",
-    "language": "Shell",
-    "description": "🦞 OpenClaw (Clawdbot/Moltbot) 汉化版 - 开源个人 AI 助手中文版 | Claude/ChatGPT LLM 接入 | WhatsApp/Telegram/Discord 多平台 | 每小时自动同步 | CLI + Dashboard 全中文 | 全流程搭建教程，以及排错指南！"
-  },
-  {
-    "repo": "gradle/gradle",
+    "repo": "AUTOMATIC1111/stable-diffusion-webui",
     "branch": "master",
-    "language": "Groovy",
-    "description": "Adaptable, fast automation for all"
+    "language": "Python",
+    "description": "Stable Diffusion web UI"
   },
   {
-    "repo": "google-gemini/generative-ai-swift",
-    "branch": "main",
-    "language": "Swift",
-    "description": "This SDK is now deprecated, use the unified Firebase SDK."
-  },
-  {
-    "repo": "antonmedv/fx",
+    "repo": "academic/awesome-datascience",
     "branch": "master",
+    "language": "Other",
+    "description": ":memo: An awesome Data Science repository to learn and apply for real world problems."
+  },
+  {
+    "repo": "krahets/hello-algo",
+    "branch": "main",
+    "language": "Java",
+    "description": "《Hello 算法》：动画图解、一键运行的数据结构与算法教程。支持简中、繁中、English、日本語，提供 Python, Java, C++, C, C#, JS, Go, Swift, Rust, Ruby, Kotlin, TS, Dart 等代码实现"
+  },
+  {
+    "repo": "emotion-js/emotion",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "👩‍🎤 CSS-in-JS library designed for high performance style composition"
+  },
+  {
+    "repo": "h5bp/html5-boilerplate",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "A professional front-end template for building fast, robust, and adaptable web apps or sites."
+  },
+  {
+    "repo": "Enriquefft/openclaw-kapso-whatsapp",
+    "branch": "main",
     "language": "Go",
-    "description": "Terminal JSON viewer & processor"
+    "description": "Give your OpenClaw AI agent a WhatsApp number. Official Meta Cloud API via Kapso. No ban risk."
   },
   {
-    "repo": "better-auth/better-hub",
+    "repo": "cortneymanieri50677828029/RBX-Executor-Version-2026",
+    "branch": "main",
+    "language": "C#",
+    "description": "A curated collection of documentation and safe templates for understanding and analyzing Roblox execution environments in a controlled lab setting."
+  },
+  {
+    "repo": "stanford-iris-lab/meta-harness-tbench2-artifact",
+    "branch": "main",
+    "language": "Python",
+    "description": "Meta-Harness: 76.4% on Terminal-Bench 2.0 (Claude Opus 4.6)"
+  },
+  {
+    "repo": "docmd-io/docmd",
     "branch": "main",
     "language": "TypeScript",
-    "description": "Re-imagining code collaboration for humans and agents"
+    "description": "Build production-ready documentation from Markdown in seconds. No React, no bloat, just content."
   },
   {
-    "repo": "missing-semester/missing-semester",
+    "repo": "buckle42/claude-code-remote",
     "branch": "master",
-    "language": "CSS",
-    "description": "The Missing Semester of Your CS Education 📚"
+    "language": "Python",
+    "description": "Use Claude Code from your phone — or anywhere — over a secure VPN connection."
   },
   {
-    "repo": "nginx/nginx",
-    "branch": "master",
+    "repo": "MatheuZSecurity/Furtex",
+    "branch": "main",
     "language": "C",
-    "description": "The official NGINX Open Source repository."
+    "description": "Post-exploitation and evasion research toolkit for Linux."
   },
   {
-    "repo": "prisma/prisma",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server, SQLite, MongoDB and CockroachDB"
-  },
-  {
-    "repo": "cursor/agent-trace",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "A standard format for tracing AI-generated code."
-  },
-  {
-    "repo": "wevm/incur",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "CLI framework for agents and humans"
-  },
-  {
-    "repo": "LYL1015/JarvisX-Cowork",
+    "repo": "therealXiaomanChu/ex-skill",
     "branch": "main",
     "language": "Python",
-    "description": "JarvisX-Cowork: Your First Personal AI Creative Assistant for Everyone!"
+    "description": "把前任蒸馏成 AI Skill，用ta的方式跟你说话。Inspired by colleague-skill（同事skill）."
   },
   {
-    "repo": "barrosyan/PINNeAPPle",
+    "repo": "demtmeder/audio-vis-align",
     "branch": "main",
     "language": "Python",
-    "description": "Pinneaple is an open-source Physics AI toolkit for Physics-Informed Neural Networks (PINNs), scientific ML, geometry processing, solvers, and reproducible training pipelines."
+    "description": "Training and evaluation toolkit for audio-visual contrastive representation alignment (CLIP-style, but for audio + video)."
   },
   {
-    "repo": "anadim/AdderBoard",
+    "repo": "codetrybe/polymarket-kalshi-arbitrage-bot",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "polymarket kalshi arbitrage bot kalshi arbitrage bot kalshi trading bot"
+  },
+  {
+    "repo": "stanford-iris-lab/meta-harness",
     "branch": "main",
     "language": "Python",
-    "description": "Smallest transformer that can add two 10-digit numbers"
+    "description": "Reference code for the Meta-Harness paper."
+  },
+  {
+    "repo": "SKL2910/limitless-trading-bot",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "limitless trading bot limitless trading bot limitless trading bot limitless trading bot limitless trading bot limitless trading bot limitless trading bot limitless trading bot limitless trading bot limitless trading bot limitless trading bot limitless trading bot limitless trading bot limitless trading bot limitless trading bot bot"
   }
 ]
