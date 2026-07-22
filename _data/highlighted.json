@@ -1,8 +1,8 @@
 {
-  "repo": "cursor/minisqlite",
+  "repo": "AdelanSupport/adelan-support",
   "branch": "main",
-  "language": "Rust",
+  "language": "Python",
   "description": "A featured project on GitHubTree.",
-  "stars": 139,
-  "forks": 13
+  "stars": 214,
+  "forks": 0
 }

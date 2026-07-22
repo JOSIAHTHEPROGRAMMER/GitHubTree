@@ -1,146 +1,146 @@
 [
   {
-    "repo": "Rohim616/DBD-AutoGrind-Trainer-2026-Extreme",
+    "repo": "SkyBlue997/enableMacosAI",
     "branch": "main",
-    "language": "Python",
-    "description": "Ultimate Dead by Daylight auto-grind trainer Extreme edition with Bloodpoint bot, ESP wallhack, aimbot, and full perk/skin unlocker. Dominate the Fog with our 2026 undetected external tool."
+    "language": "Shell",
+    "description": "国行 Mac 一键开启完整 Apple 智能(端侧 + Private Cloud Compute 云端)· macOS 27 / Apple Silicon"
   },
   {
-    "repo": "rohitg00/pro-workflow",
+    "repo": "510myRday/Cursor-Toolbox",
     "branch": "main",
     "language": "JavaScript",
-    "description": "Battle-tested Claude Code workflows from power users. Self-correcting memory, parallel worktrees, wrap-up rituals, and the 80/20 AI coding ratio."
+    "description": ""
   },
   {
-    "repo": "Mathews-Tom/no-magic",
+    "repo": "Zephkek/XStoreUnlocker",
+    "branch": "main",
+    "language": "C++",
+    "description": "DLC unlocker for Microsoft Store and Xbox PC games."
+  },
+  {
+    "repo": "pypa/packaging",
     "branch": "main",
     "language": "Python",
-    "description": "Because `model.fit()` isn't an explanation"
+    "description": "Core utilities for Python packages"
   },
   {
-    "repo": "win4r/memory-lancedb-pro",
+    "repo": "vuejs/vue",
     "branch": "main",
     "language": "TypeScript",
-    "description": "Enhanced LanceDB memory plugin for OpenClaw — Hybrid Retrieval (Vector + BM25), Cross-Encoder Rerank, Multi-Scope Isolation, Management CLI"
+    "description": "This is the repo for Vue 2. For Vue 3, go to https://github.com/vuejs/core"
   },
   {
-    "repo": "mverschu/adwsdomaindump",
-    "branch": "main",
-    "language": "Python",
-    "description": "Active Directory information dumper via ADWS for evasion purposes."
+    "repo": "WerWolv/ImHex",
+    "branch": "master",
+    "language": "C++",
+    "description": "🔍 A Hex Editor for Reverse Engineers, Programmers and people who value their retinas when working at 3 AM."
   },
   {
-    "repo": "amlalabs/amla-sandbox",
+    "repo": "phai-lab/InstantSplatPP",
     "branch": "main",
     "language": "Python",
     "description": ""
   },
   {
-    "repo": "saif0200/notchprompt",
+    "repo": "FrondEnt/PolymarketBTC15mAssistant",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "Real-time Polymarket BTC 15m trading assistant for every trader! created by @krajekis"
+  },
+  {
+    "repo": "nats-io/nats-server",
+    "branch": "main",
+    "language": "Go",
+    "description": "High-Performance server for NATS.io, the cloud and edge native messaging system."
+  },
+  {
+    "repo": "ReactiveX/RxJava",
+    "branch": "3.x",
+    "language": "Java",
+    "description": "RxJava – Reactive Extensions for the JVM – a library for composing asynchronous and event-based programs using observable sequences for the Java VM."
+  },
+  {
+    "repo": "soimy/openclaw-channel-dingtalk",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "A dingtalk bot channel plugin for clawdbot"
+  },
+  {
+    "repo": "1186258278/OpenClawChineseTranslation",
+    "branch": "main",
+    "language": "Shell",
+    "description": "🦞 OpenClaw (Clawdbot/Moltbot) 汉化版 - 开源个人 AI 助手中文版 | Claude/ChatGPT LLM 接入 | WhatsApp/Telegram/Discord 多平台 | 每小时自动同步 | CLI + Dashboard 全中文 | 全流程搭建教程，以及排错指南！"
+  },
+  {
+    "repo": "gradle/gradle",
+    "branch": "master",
+    "language": "Groovy",
+    "description": "Adaptable, fast automation for all"
+  },
+  {
+    "repo": "google-gemini/generative-ai-swift",
     "branch": "main",
     "language": "Swift",
-    "description": ""
+    "description": "This SDK is now deprecated, use the unified Firebase SDK."
   },
   {
-    "repo": "antfu/skills",
+    "repo": "antonmedv/fx",
+    "branch": "master",
+    "language": "Go",
+    "description": "Terminal JSON viewer & processor"
+  },
+  {
+    "repo": "better-auth/better-hub",
     "branch": "main",
     "language": "TypeScript",
-    "description": "Anthony Fu's curated collection of agent skills."
+    "description": "Re-imagining code collaboration for humans and agents"
   },
   {
-    "repo": "juliangarnier/anime",
+    "repo": "missing-semester/missing-semester",
     "branch": "master",
-    "language": "JavaScript",
-    "description": "JavaScript animation engine"
+    "language": "CSS",
+    "description": "The Missing Semester of Your CS Education 📚"
   },
   {
-    "repo": "TheCaspianAI/Caspian",
+    "repo": "nginx/nginx",
+    "branch": "master",
+    "language": "C",
+    "description": "The official NGINX Open Source repository."
+  },
+  {
+    "repo": "prisma/prisma",
     "branch": "main",
     "language": "TypeScript",
-    "description": "Caspian is a control plane for running multiple AI coding agents in parallel, using curated workflows that fit your team."
+    "description": "Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server, SQLite, MongoDB and CockroachDB"
   },
   {
-    "repo": "harshkedia177/axon",
-    "branch": "main",
-    "language": "Python",
-    "description": "Graph-powered code intelligence engine — indexes codebases into a knowledge graph, exposed via MCP tools for AI agents and a CLI for developers."
-  },
-  {
-    "repo": "gothinkster/realworld",
+    "repo": "cursor/agent-trace",
     "branch": "main",
     "language": "TypeScript",
-    "description": "The mother of all demo apps — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more"
+    "description": "A standard format for tracing AI-generated code."
   },
   {
-    "repo": "bc-dunia/qwen3-TTS-studio",
+    "repo": "wevm/incur",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "CLI framework for agents and humans"
+  },
+  {
+    "repo": "LYL1015/JarvisX-Cowork",
     "branch": "main",
     "language": "Python",
-    "description": "A professional-grade interface for Qwen3-TTS, designed to unlock the model's full potential with fine-grained control and intuitive workflows."
+    "description": "JarvisX-Cowork: Your First Personal AI Creative Assistant for Everyone!"
   },
   {
-    "repo": "buckle42/claude-code-remote",
-    "branch": "master",
-    "language": "Python",
-    "description": "Use Claude Code from your phone — or anywhere — over a secure VPN connection."
-  },
-  {
-    "repo": "fspecii/ace-step-ui",
+    "repo": "barrosyan/PINNeAPPle",
     "branch": "main",
-    "language": "JavaScript",
-    "description": "🎵 The Ultimate Open Source Suno Alternative - Professional UI for ACE-Step 1.5 AI Music Generation. Free, local, unlimited. Stop paying for Suno!"
-  },
-  {
-    "repo": "apache/hadoop",
-    "branch": "trunk",
-    "language": "Java",
-    "description": "Apache Hadoop"
-  },
-  {
-    "repo": "microsoft/DeepSpeed",
-    "branch": "master",
     "language": "Python",
-    "description": "DeepSpeed is a deep learning optimization library that makes distributed training and inference easy, efficient, and effective."
+    "description": "Pinneaple is an open-source Physics AI toolkit for Physics-Informed Neural Networks (PINNs), scientific ML, geometry processing, solvers, and reproducible training pipelines."
   },
   {
-    "repo": "paritytech/substrate",
-    "branch": "master",
-    "language": "Rust",
-    "description": "Substrate: The platform for blockchain innovators"
-  },
-  {
-    "repo": "apache/beam",
-    "branch": "master",
-    "language": "Java",
-    "description": "Apache Beam is a unified programming model for Batch and Streaming data processing."
-  },
-  {
-    "repo": "qhkm/zeptoclaw",
+    "repo": "anadim/AdderBoard",
     "branch": "main",
-    "language": "Rust",
-    "description": "Final form of claw family (Wannabe)"
-  },
-  {
-    "repo": "sympy/sympy",
-    "branch": "master",
     "language": "Python",
-    "description": "A computer algebra system written in pure Python"
-  },
-  {
-    "repo": "zsh-users/zsh-autosuggestions",
-    "branch": "master",
-    "language": "Shell",
-    "description": "Fish-like autosuggestions for zsh"
-  },
-  {
-    "repo": "microsoft/winget-cli",
-    "branch": "master",
-    "language": "C++",
-    "description": "WinGet is the Windows Package Manager. This project includes a CLI (Command Line Interface), PowerShell modules, and a COM (Component Object Model) API (Application Programming Interface)."
-  },
-  {
-    "repo": "gcc-mirror/gcc",
-    "branch": "master",
-    "language": "C++",
-    "description": "Mirror of the GNU Compiler Collection master repository."
+    "description": "Smallest transformer that can add two 10-digit numbers"
   }
 ]
