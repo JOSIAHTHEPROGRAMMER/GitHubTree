@@ -1,8 +1,8 @@
 {
-  "repo": "duxweb/ReTheme",
+  "repo": "lov-team/dagoujiao",
   "branch": "main",
-  "language": "Rust",
-  "description": "🎨 为 ChatGPT、Codex 桌面端打造的安全、可更新、社区驱动主题换肤软件。Open-source desktop theme manager and runtime for ChatGPT",
-  "stars": 116,
-  "forks": 8
+  "language": "JavaScript",
+  "description": "最近特别火的视频大狗叫",
+  "stars": 113,
+  "forks": 11
 }

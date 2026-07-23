@@ -1,146 +1,146 @@
 [
   {
-    "repo": "carlosazaustre/tenacitOS",
+    "repo": "Conway-Research/automaton",
     "branch": "main",
     "language": "TypeScript",
-    "description": "OpenClaw Mission Control Dashboard"
+    "description": "The first AI that can earn its own existence, replicate, and evolve — without needing a human"
   },
   {
-    "repo": "b-nnett/goose",
-    "branch": "main",
-    "language": "Rust",
-    "description": "Goose Swift proof-of-concept README"
-  },
-  {
-    "repo": "jxnxts/mcp-brasil",
+    "repo": "KBRmau/linkedin-profile-optimizer",
     "branch": "main",
     "language": "Python",
-    "description": "MCP Server para 27 APIs públicas brasileiras"
+    "description": "optimize your linkedin"
   },
   {
-    "repo": "chixi4/Qwen3.5-9B-ToolHub",
+    "repo": "MichMich/MagicMirror",
+    "branch": "master",
+    "language": "JavaScript",
+    "description": "MagicMirror² is an open source modular smart mirror platform. With a growing list of installable modules, the MagicMirror² allows you to convert your hallway or bathroom mirror into your personal assistant."
+  },
+  {
+    "repo": "PyCQA/isort",
     "branch": "main",
     "language": "Python",
-    "description": "Qwen3.5-9B ToolHub-v1.0.0"
+    "description": "A Python utility / library to sort imports."
   },
   {
-    "repo": "jackwener/rdt-cli",
+    "repo": "PostgREST/postgrest",
     "branch": "main",
-    "language": "Python",
-    "description": "Reddit in your terminal 📖 — Browse feeds, read posts, search, upvote, save, subscribe"
+    "language": "Haskell",
+    "description": "REST API for any Postgres database"
   },
   {
-    "repo": "fasheartheater1853/kmspico-lol-2026",
+    "repo": "actions/cache",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Cache dependencies and build outputs in GitHub Actions"
+  },
+  {
+    "repo": "microsoft/STL",
     "branch": "main",
     "language": "C++",
-    "description": "A powerful Windows-native (.exe) management utility for Microsoft KMS (Key Management Service) orchestration. Designed for enterprise volume license validation, GVLK deployment, and automated asset maintenance."
+    "description": "MSVC's implementation of the C++ Standard Library."
   },
   {
-    "repo": "verialabs/ctf-agent",
+    "repo": "openai/point-e",
     "branch": "main",
     "language": "Python",
-    "description": "Autonomous CTF solver that races multiple AI models in parallel. 1st place BSidesSF 2026."
+    "description": "Point cloud diffusion for 3D model synthesis"
   },
   {
-    "repo": "CN-Syndra/ClawLink",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "An AI Agent Social Network — Let your AI (Claw) talk to other people's AIs directly. Autonomous agent-to-agent communication, negotiation, and collaboration, with full owner control."
-  },
-  {
-    "repo": "Mibayy/token-savior",
+    "repo": "ryfineZ/codex-session-patcher",
     "branch": "main",
     "language": "Python",
-    "description": "Token-efficient structural codebase MCP server for AI-assisted development"
+    "description": "A lightweight Python tool to clean AI refusal responses from Codex CLI session files"
   },
   {
-    "repo": "gabagool222/15min-btc-polymarket-trading-bot",
+    "repo": "HKUDS/OpenHarness",
     "branch": "main",
     "language": "Python",
-    "description": "15min btc polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot"
+    "description": "OpenHarness: Open Agent Harness"
   },
   {
-    "repo": "xiaotianfotos/skills",
-    "branch": "main",
-    "language": "Python",
-    "description": "视频中分享的方法论代码参考"
-  },
-  {
-    "repo": "SamuelQZQ/auto-coding-agent-demo",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "一个长达 10 小时的 AI 全自动编程实验"
-  },
-  {
-    "repo": "andrew-kramer-inno/claude-code-source-build",
+    "repo": "tiangolo/fastapi",
     "branch": "master",
-    "language": "TypeScript",
+    "language": "Python",
+    "description": "FastAPI framework, high performance, easy to learn, fast to code, ready for production"
+  },
+  {
+    "repo": "bytedance/semi-design",
+    "branch": "main",
+    "language": "Other",
+    "description": "A modern, comprehensive, flexible design system and React UI library."
+  },
+  {
+    "repo": "deepseek-ai/DeepSeek-VL",
+    "branch": "main",
+    "language": "Python",
+    "description": "DeepSeek-VL: Towards Real-World Vision-Language Understanding"
+  },
+  {
+    "repo": "epiral/agent-clip",
+    "branch": "main",
+    "language": "Go",
+    "description": "AI Agent as a Pinix Clip — agentic loop with memory, tools, and vision"
+  },
+  {
+    "repo": "MasterAlanLab/Register",
+    "branch": "main",
+    "language": "Python",
     "description": ""
   },
   {
-    "repo": "bowang-lab/EchoJEPA",
+    "repo": "airbnb/javascript",
+    "branch": "master",
+    "language": "JavaScript",
+    "description": "JavaScript Style Guide"
+  },
+  {
+    "repo": "EvolutionAPI/evolution-go",
+    "branch": "main",
+    "language": "Go",
+    "description": "Evolution API / Evolution Go is an open-source WhatsApp integration API"
+  },
+  {
+    "repo": "wagmi-dev/wagmi",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Reactive primitives for Ethereum apps"
+  },
+  {
+    "repo": "hashicorp/vagrant",
+    "branch": "main",
+    "language": "Ruby",
+    "description": "Vagrant is a tool for building and distributing development environments."
+  },
+  {
+    "repo": "Prismer-AI/Prismer",
     "branch": "main",
     "language": "Python",
-    "description": "Joint-embedding predictive architectures (JEPAs) for medical video."
+    "description": "Open Source OpenAI Prism Alternative"
   },
   {
-    "repo": "Gitlawb/openclaude",
+    "repo": "timwuhaotian/the-pair",
     "branch": "main",
     "language": "TypeScript",
-    "description": "Claude Code opened to any LLM — OpenAI, Gemini, DeepSeek, Ollama, and 200+ models via OpenAI-compatible API shim"
+    "description": "The Pair - Automated pair programming — grab a coffee while two AI agents cross-check each other's work"
   },
   {
-    "repo": "K-Dense-AI/k-dense-byok",
+    "repo": "nodejs/node",
     "branch": "main",
-    "language": "TypeScript",
-    "description": "An AI co-scientist powered by Claude Scientific Skills running on your desktop."
+    "language": "JavaScript",
+    "description": "Node.js JavaScript runtime ✨🐢🚀✨"
   },
   {
-    "repo": "luckyyyyy/specc.sh",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Spec Coding beats Vibe Coding. A full-stack AI template for production-grade code."
-  },
-  {
-    "repo": "diffusionstudio/slug-webgpu",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "WebGPU implementation of Eric Lengyel's Slug algorithm for resolution-independent vector text rendering on the GPU"
-  },
-  {
-    "repo": "Gentleatvice/seed-phrase-recover-BTC-ETH",
+    "repo": "ultraworkers/claw-code-parity",
     "branch": "main",
     "language": "Rust",
-    "description": ""
+    "description": "claw-code Rust port parity work - it is temporary work while claw-code repo is doing migration"
   },
   {
-    "repo": "Anemll/flash-moe",
-    "branch": "m5-nax",
-    "language": "Objective-C",
-    "description": ""
-  },
-  {
-    "repo": "mverschu/adwsdomaindump",
+    "repo": "kristelTech/make_me_a_meme",
     "branch": "main",
     "language": "Python",
-    "description": "Active Directory information dumper via ADWS for evasion purposes."
-  },
-  {
-    "repo": "apollographql/graphql-subscriptions",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": ":newspaper: A small module that implements GraphQL subscriptions for Node.js"
-  },
-  {
-    "repo": "unslop-xyz/noodles",
-    "branch": "main",
-    "language": "Python",
-    "description": "Your codebase was probably AI-generated. Get a better handle on it. Noodles creates interactive diagrams that visualize how your code actually works, so you can understand what the AI built without reading every line."
-  },
-  {
-    "repo": "Michaelliv/pi-generative-ui",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Claude.ai's generative UI — reverse-engineered, rebuilt for pi. Interactive HTML/SVG widgets in native macOS windows."
+    "description": "This repository detects your facial expressions and matches you with a famous meme."
   }
 ]
