@@ -1,146 +1,146 @@
 [
   {
-    "repo": "phuryn/pm-skills",
+    "repo": "Sophomoresty/gemini-search-mcp",
     "branch": "main",
     "language": "Python",
-    "description": "PM Skills Marketplace: An AI Operating System for Better Product Decisions. 65 PM skills and 36 chained workflows across 8 plugins — from discovery to strategy, execution, launch, and growth."
+    "description": "Free MCP server for web search powered by Google AI Mode (Gemini). Unlimited, no API key."
   },
   {
-    "repo": "dominikmartn/ProgressiveBlurHeader",
+    "repo": "NVIDIA/NemoClaw",
     "branch": "main",
-    "language": "Swift",
-    "description": "Drop-in SwiftUI component for sticky headers with progressive blur — like Apple Music, Photos, and App Store. Content scrolls underneath with increasing blur, never clipped."
+    "language": "TypeScript",
+    "description": "NVIDIA plugin for secure installation of OpenClaw"
   },
   {
-    "repo": "1837620622/cloudflare-bypass-2026",
+    "repo": "yt-dlp/yt-dlp",
+    "branch": "master",
+    "language": "Python",
+    "description": "A feature-rich command-line audio/video downloader"
+  },
+  {
+    "repo": "unicodeveloper/globalthreatmap",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Global threat map. Learn wars, conflicts, military bases and history of nations."
+  },
+  {
+    "repo": "SakanaAI/AI-Scientist-v2",
     "branch": "main",
     "language": "Python",
-    "description": "Cloudflare Turnstile 绕过工具 | Cloudflare Bypass Tool based on SeleniumBase UC Mode | 支持 Mac/Windows/Linux"
+    "description": "The AI Scientist-v2: Workshop-Level Automated Scientific Discovery via Agentic Tree Search"
   },
   {
-    "repo": "nightwatchjs/nightwatch",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "Integrated end-to-end testing framework written in Node.js and using W3C Webdriver API. Developed at @browserstack"
-  },
-  {
-    "repo": "amplication/amplication",
+    "repo": "confluentinc/kafka-rest",
     "branch": "master",
-    "language": "TypeScript",
-    "description": "Amplication brings order to the chaos of large-scale software development by creating Golden Paths for developers - streamlined workflows that drive consistency, enable high-quality code practices, simplify onboarding, and accelerate standardized delivery across teams."
-  },
-  {
-    "repo": "labuladong/fucking-algorithm",
-    "branch": "master",
-    "language": "Markdown",
-    "description": "刷算法全靠套路，认准 labuladong 就够了！English version supported! Crack LeetCode, not only how, but also why."
-  },
-  {
-    "repo": "Semantic-Org/Semantic-UI",
-    "branch": "master",
-    "language": "JavaScript",
-    "description": "Semantic is a UI component framework based around useful principles from natural language."
-  },
-  {
-    "repo": "atomiks/tippyjs",
-    "branch": "v6",
-    "language": "JavaScript",
-    "description": "Tooltip, popover, dropdown, and menu library"
-  },
-  {
-    "repo": "gluon-framework/gluon",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "A new framework for creating desktop apps from websites, using system installed browsers and NodeJS"
-  },
-  {
-    "repo": "directus/directus",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "The flexible backend for all your projects 🐰 Turn your DB into a headless CMS, admin panels, or apps with a custom UI, instant APIs, auth & more."
-  },
-  {
-    "repo": "jitsi/jitsi-meet",
-    "branch": "master",
-    "language": "TypeScript",
-    "description": "Jitsi Meet - Secure, Simple and Scalable Video Conferences that you use as a standalone app or embed in your web application."
-  },
-  {
-    "repo": "Snailclimb/JavaGuide",
-    "branch": "main",
     "language": "Java",
-    "description": "Java 面试 & 后端通用面试指南，覆盖计算机基础、数据库、分布式、高并发与系统设计。准备后端技术面试，首选 JavaGuide！"
+    "description": "Confluent REST Proxy for Kafka"
   },
   {
-    "repo": "open-webui/open-webui",
-    "branch": "main",
-    "language": "Python",
-    "description": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)"
-  },
-  {
-    "repo": "ruanyf/weekly",
-    "branch": "master",
-    "language": "Other",
-    "description": "科技爱好者周刊，每周五发布"
-  },
-  {
-    "repo": "keephq/keep",
-    "branch": "main",
-    "language": "Python",
-    "description": "The open-source AIOps and alert management platform"
-  },
-  {
-    "repo": "mysqljs/mysql",
-    "branch": "master",
-    "language": "JavaScript",
-    "description": "A pure node.js JavaScript Client implementing the MySQL protocol."
-  },
-  {
-    "repo": "google/trax",
-    "branch": "master",
-    "language": "Python",
-    "description": "Trax — Deep Learning with Clear Code and Speed"
-  },
-  {
-    "repo": "Myhhub/Stock",
-    "branch": "main",
-    "language": "Python",
-    "description": "stock股票.获取股票数据,计算股票指标,筹码分布,识别股票形态,综合选股,选股策略,股票验证回测,股票自动交易,支持PC及移动设备。"
-  },
-  {
-    "repo": "kautukkundan/Awesome-Profile-README-templates",
-    "branch": "master",
-    "language": "JavaScript",
-    "description": "A collection of awesome readme templates to display on your profile"
-  },
-  {
-    "repo": "DioxusLabs/dioxus",
+    "repo": "valeriansaliou/sonic",
     "branch": "master",
     "language": "Rust",
-    "description": "Fullstack app framework for web, desktop, and mobile."
+    "description": "🦔 Fast, lightweight & schema-less search backend. An alternative to Elasticsearch that runs on a few MBs of RAM."
   },
   {
-    "repo": "openai/gym",
-    "branch": "master",
-    "language": "Python",
-    "description": "A toolkit for developing and comparing reinforcement learning algorithms."
+    "repo": "SeleniumHQ/selenium",
+    "branch": "trunk",
+    "language": "Java",
+    "description": "A browser automation framework and ecosystem."
   },
   {
-    "repo": "Significant-Gravitas/AutoGPT",
-    "branch": "master",
-    "language": "Python",
-    "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters."
-  },
-  {
-    "repo": "ultralytics/ultralytics",
+    "repo": "pytorch/examples",
     "branch": "main",
     "language": "Python",
-    "description": "Ultralytics YOLO 🚀"
+    "description": "A set of examples around pytorch in Vision, Text, Reinforcement Learning, etc."
   },
   {
-    "repo": "terausss/polymarket-copy-trading-bot",
+    "repo": "qdrant/qdrant",
+    "branch": "master",
+    "language": "Rust",
+    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also available in the cloud https://cloud.qdrant.io/"
+  },
+  {
+    "repo": "opencv/opencv",
+    "branch": "4.x",
+    "language": "C++",
+    "description": "Open Source Computer Vision Library"
+  },
+  {
+    "repo": "Textualize/textual",
     "branch": "main",
     "language": "Python",
-    "description": "polymarket bot polymarket bot polymarket bot polymarket trading bot polymarket copy trading bot polymarket trading bot polymarket copy trading bot polymarket trading bot polymarket copy trading bot polymarket trading bot polymarket copy trading bot polymarket trading bot polymarket copy trading bot polymarket trading bot polymarket copy trading bot"
+    "description": "The lean application framework for Python.  Build sophisticated user interfaces with a simple Python API. Run your apps in the terminal and a web browser."
+  },
+  {
+    "repo": "appwrite/appwrite",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Appwrite® - complete cloud infrastructure for your web, mobile and AI apps. Including Auth, Databases, Storage, Functions, Messaging, Hosting, Realtime and more"
+  },
+  {
+    "repo": "tailwindlabs/headlessui",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Completely unstyled, fully accessible UI components, designed to integrate beautifully with Tailwind CSS."
+  },
+  {
+    "repo": "virattt/ai-hedge-fund",
+    "branch": "main",
+    "language": "Python",
+    "description": "An AI Hedge Fund Team"
+  },
+  {
+    "repo": "firewalld/firewalld",
+    "branch": "main",
+    "language": "Python",
+    "description": "Stateful zone based firewall daemon with D-Bus interface"
+  },
+  {
+    "repo": "jupyter/notebook",
+    "branch": "main",
+    "language": "Jupyter Notebook",
+    "description": "Jupyter Interactive Notebook"
+  },
+  {
+    "repo": "suborbital/sat",
+    "branch": "main",
+    "language": "Go",
+    "description": "Tiny & fast WebAssembly edge compute server"
+  },
+  {
+    "repo": "karpathy/nanoGPT",
+    "branch": "master",
+    "language": "Python",
+    "description": "The simplest, fastest repository for training/finetuning medium-sized GPTs."
+  },
+  {
+    "repo": "matrix-org/matrix-js-sdk",
+    "branch": "develop",
+    "language": "TypeScript",
+    "description": "Matrix Client-Server SDK for JavaScript"
+  },
+  {
+    "repo": "LineageOS/android",
+    "branch": "lineage-21.0",
+    "language": "Other",
+    "description": "Placeholder repository for LineageOS"
+  },
+  {
+    "repo": "jackc/pgx",
+    "branch": "master",
+    "language": "Go",
+    "description": "PostgreSQL driver and toolkit for Go"
+  },
+  {
+    "repo": "radix-ui/primitives",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Radix Primitives is an open-source UI component library for building high-quality, accessible design systems and web apps. Maintained by @workos."
+  },
+  {
+    "repo": "BuilderIO/qwik",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Instant-loading web apps, without effort"
   }
 ]
