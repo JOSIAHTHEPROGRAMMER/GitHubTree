@@ -1,8 +1,8 @@
 {
-  "repo": "bytedoger/awesome-OpenPrice",
+  "repo": "bryanthaboi/pokemon-gen1-recomp-project",
   "branch": "main",
-  "language": "TypeScript",
-  "description": "open price ,一个开源的收录全网卡网渠道各种AI订阅价格的项目。打破信息茧房，一站式获取各个渠道的 Claude、GPT、gemini 、cursor产品的最新价格",
-  "stars": 174,
-  "forks": 1
+  "language": "C",
+  "description": "Pokemon Gen 1 Recompilation Project - aka Gen1Recomp - A native Lua / LÖVE2D recreation of Gen 1 Pokemon",
+  "stars": 107,
+  "forks": 2
 }

@@ -1,146 +1,146 @@
 [
   {
-    "repo": "CaptainCodex/Among_Us_Ghost_Mode",
+    "repo": "phuryn/pm-skills",
     "branch": "main",
     "language": "Python",
-    "description": "See all roles, tasks, and chat logs in Among Us. Ghost vision, task tracker, role reveal, and chat logger. Host or client."
+    "description": "PM Skills Marketplace: An AI Operating System for Better Product Decisions. 65 PM skills and 36 chained workflows across 8 plugins — from discovery to strategy, execution, launch, and growth."
   },
   {
-    "repo": "bumptech/glide",
-    "branch": "master",
-    "language": "Java",
-    "description": "An image loading and caching library for Android focused on smooth scrolling"
-  },
-  {
-    "repo": "nextcloud/server",
-    "branch": "master",
-    "language": "PHP",
-    "description": "☁️ Nextcloud server, a safe home for all your data"
-  },
-  {
-    "repo": "aws/aws-cdk",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "The AWS Cloud Development Kit is a framework for defining cloud infrastructure in code"
-  },
-  {
-    "repo": "junit-team/junit5",
-    "branch": "main",
-    "language": "Java",
-    "description": "✅ The programmer-friendly testing framework for Java and the JVM"
-  },
-  {
-    "repo": "vercel/swr",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "React Hooks for Data Fetching"
-  },
-  {
-    "repo": "dotnet/maui",
-    "branch": "main",
-    "language": "C#",
-    "description": ".NET MAUI is the .NET Multi-platform App UI, a framework for building native device applications spanning mobile, tablet, and desktop."
-  },
-  {
-    "repo": "actions/runner-images",
-    "branch": "main",
-    "language": "PowerShell",
-    "description": "GitHub Actions runner images"
-  },
-  {
-    "repo": "louisho5/picobot",
-    "branch": "main",
-    "language": "Go",
-    "description": "A lightweight self-hosted bot in a single binary, written in Go."
-  },
-  {
-    "repo": "emscripten-core/emscripten",
-    "branch": "main",
-    "language": "C++",
-    "description": "Emscripten: An LLVM-to-WebAssembly Compiler"
-  },
-  {
-    "repo": "jackwener/xhs-cli",
-    "branch": "main",
-    "language": "Python",
-    "description": "小红书命令行工具 — 搜索、阅读、点赞、收藏、评论，全在终端完成 | Xiaohongshu CLI"
-  },
-  {
-    "repo": "plotly/plotly.py",
-    "branch": "master",
-    "language": "Python",
-    "description": "The interactive graphing library for Python :sparkles:"
-  },
-  {
-    "repo": "win4r/team-tasks",
-    "branch": "master",
-    "language": "Python",
-    "description": "Multi-agent pipeline coordination: Linear, DAG, and Debate modes for AI agent orchestration"
-  },
-  {
-    "repo": "chroma-core/chroma",
-    "branch": "main",
-    "language": "Rust",
-    "description": "Open-source search and retrieval database for AI applications."
-  },
-  {
-    "repo": "CleverCloud/mdr",
-    "branch": "main",
-    "language": "Rust",
-    "description": "a very light rust based markdown reader with support of mermaid (web, native, TUI). vibe coded"
-  },
-  {
-    "repo": "ngrx/platform",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Reactive State for Angular"
-  },
-  {
-    "repo": "foru17/clash-master",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "A modern and elegant dashboard for visualizing and managing Clash network traffic."
-  },
-  {
-    "repo": "sqlite/sqlite",
-    "branch": "master",
-    "language": "C",
-    "description": "Official Git mirror of the SQLite source tree"
-  },
-  {
-    "repo": "Shpigford/clearly",
+    "repo": "dominikmartn/ProgressiveBlurHeader",
     "branch": "main",
     "language": "Swift",
-    "description": "A clean, native markdown editor for macOS."
+    "description": "Drop-in SwiftUI component for sticky headers with progressive blur — like Apple Music, Photos, and App Store. Content scrolls underneath with increasing blur, never clipped."
   },
   {
-    "repo": "karatelabs/karate",
-    "branch": "master",
-    "language": "Java",
-    "description": "Test Automation Made Simple"
-  },
-  {
-    "repo": "Tencent/wepy",
-    "branch": "master",
-    "language": "JavaScript",
-    "description": "小程序组件化开发框架"
-  },
-  {
-    "repo": "michelleoincx/genspark.ai-openclaw",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "OpenClaw for genspark.ai — open-source extension that claws through every paywall and rate limit. Install in one command, run forever free."
-  },
-  {
-    "repo": "HKUDS/nanobot",
+    "repo": "1837620622/cloudflare-bypass-2026",
     "branch": "main",
     "language": "Python",
-    "description": "🐈 nanobot: The Ultra-Lightweight Clawdbot"
+    "description": "Cloudflare Turnstile 绕过工具 | Cloudflare Bypass Tool based on SeleniumBase UC Mode | 支持 Mac/Windows/Linux"
   },
   {
-    "repo": "HumeAI/tada",
+    "repo": "nightwatchjs/nightwatch",
     "branch": "main",
-    "language": "Jupyter Notebook",
-    "description": "Open Source Speech Language Model"
+    "language": "JavaScript",
+    "description": "Integrated end-to-end testing framework written in Node.js and using W3C Webdriver API. Developed at @browserstack"
+  },
+  {
+    "repo": "amplication/amplication",
+    "branch": "master",
+    "language": "TypeScript",
+    "description": "Amplication brings order to the chaos of large-scale software development by creating Golden Paths for developers - streamlined workflows that drive consistency, enable high-quality code practices, simplify onboarding, and accelerate standardized delivery across teams."
+  },
+  {
+    "repo": "labuladong/fucking-algorithm",
+    "branch": "master",
+    "language": "Markdown",
+    "description": "刷算法全靠套路，认准 labuladong 就够了！English version supported! Crack LeetCode, not only how, but also why."
+  },
+  {
+    "repo": "Semantic-Org/Semantic-UI",
+    "branch": "master",
+    "language": "JavaScript",
+    "description": "Semantic is a UI component framework based around useful principles from natural language."
+  },
+  {
+    "repo": "atomiks/tippyjs",
+    "branch": "v6",
+    "language": "JavaScript",
+    "description": "Tooltip, popover, dropdown, and menu library"
+  },
+  {
+    "repo": "gluon-framework/gluon",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "A new framework for creating desktop apps from websites, using system installed browsers and NodeJS"
+  },
+  {
+    "repo": "directus/directus",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "The flexible backend for all your projects 🐰 Turn your DB into a headless CMS, admin panels, or apps with a custom UI, instant APIs, auth & more."
+  },
+  {
+    "repo": "jitsi/jitsi-meet",
+    "branch": "master",
+    "language": "TypeScript",
+    "description": "Jitsi Meet - Secure, Simple and Scalable Video Conferences that you use as a standalone app or embed in your web application."
+  },
+  {
+    "repo": "Snailclimb/JavaGuide",
+    "branch": "main",
+    "language": "Java",
+    "description": "Java 面试 & 后端通用面试指南，覆盖计算机基础、数据库、分布式、高并发与系统设计。准备后端技术面试，首选 JavaGuide！"
+  },
+  {
+    "repo": "open-webui/open-webui",
+    "branch": "main",
+    "language": "Python",
+    "description": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)"
+  },
+  {
+    "repo": "ruanyf/weekly",
+    "branch": "master",
+    "language": "Other",
+    "description": "科技爱好者周刊，每周五发布"
+  },
+  {
+    "repo": "keephq/keep",
+    "branch": "main",
+    "language": "Python",
+    "description": "The open-source AIOps and alert management platform"
+  },
+  {
+    "repo": "mysqljs/mysql",
+    "branch": "master",
+    "language": "JavaScript",
+    "description": "A pure node.js JavaScript Client implementing the MySQL protocol."
+  },
+  {
+    "repo": "google/trax",
+    "branch": "master",
+    "language": "Python",
+    "description": "Trax — Deep Learning with Clear Code and Speed"
+  },
+  {
+    "repo": "Myhhub/Stock",
+    "branch": "main",
+    "language": "Python",
+    "description": "stock股票.获取股票数据,计算股票指标,筹码分布,识别股票形态,综合选股,选股策略,股票验证回测,股票自动交易,支持PC及移动设备。"
+  },
+  {
+    "repo": "kautukkundan/Awesome-Profile-README-templates",
+    "branch": "master",
+    "language": "JavaScript",
+    "description": "A collection of awesome readme templates to display on your profile"
+  },
+  {
+    "repo": "DioxusLabs/dioxus",
+    "branch": "master",
+    "language": "Rust",
+    "description": "Fullstack app framework for web, desktop, and mobile."
+  },
+  {
+    "repo": "openai/gym",
+    "branch": "master",
+    "language": "Python",
+    "description": "A toolkit for developing and comparing reinforcement learning algorithms."
+  },
+  {
+    "repo": "Significant-Gravitas/AutoGPT",
+    "branch": "master",
+    "language": "Python",
+    "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters."
+  },
+  {
+    "repo": "ultralytics/ultralytics",
+    "branch": "main",
+    "language": "Python",
+    "description": "Ultralytics YOLO 🚀"
+  },
+  {
+    "repo": "terausss/polymarket-copy-trading-bot",
+    "branch": "main",
+    "language": "Python",
+    "description": "polymarket bot polymarket bot polymarket bot polymarket trading bot polymarket copy trading bot polymarket trading bot polymarket copy trading bot polymarket trading bot polymarket copy trading bot polymarket trading bot polymarket copy trading bot polymarket trading bot polymarket copy trading bot polymarket trading bot polymarket copy trading bot"
   }
 ]
