@@ -1,146 +1,146 @@
 [
   {
-    "repo": "Sophomoresty/gemini-search-mcp",
-    "branch": "main",
-    "language": "Python",
-    "description": "Free MCP server for web search powered by Google AI Mode (Gemini). Unlimited, no API key."
-  },
-  {
-    "repo": "NVIDIA/NemoClaw",
+    "repo": "carlosazaustre/tenacitOS",
     "branch": "main",
     "language": "TypeScript",
-    "description": "NVIDIA plugin for secure installation of OpenClaw"
+    "description": "OpenClaw Mission Control Dashboard"
   },
   {
-    "repo": "yt-dlp/yt-dlp",
-    "branch": "master",
-    "language": "Python",
-    "description": "A feature-rich command-line audio/video downloader"
-  },
-  {
-    "repo": "unicodeveloper/globalthreatmap",
+    "repo": "b-nnett/goose",
     "branch": "main",
-    "language": "TypeScript",
-    "description": "Global threat map. Learn wars, conflicts, military bases and history of nations."
-  },
-  {
-    "repo": "SakanaAI/AI-Scientist-v2",
-    "branch": "main",
-    "language": "Python",
-    "description": "The AI Scientist-v2: Workshop-Level Automated Scientific Discovery via Agentic Tree Search"
-  },
-  {
-    "repo": "confluentinc/kafka-rest",
-    "branch": "master",
-    "language": "Java",
-    "description": "Confluent REST Proxy for Kafka"
-  },
-  {
-    "repo": "valeriansaliou/sonic",
-    "branch": "master",
     "language": "Rust",
-    "description": "🦔 Fast, lightweight & schema-less search backend. An alternative to Elasticsearch that runs on a few MBs of RAM."
+    "description": "Goose Swift proof-of-concept README"
   },
   {
-    "repo": "SeleniumHQ/selenium",
-    "branch": "trunk",
-    "language": "Java",
-    "description": "A browser automation framework and ecosystem."
-  },
-  {
-    "repo": "pytorch/examples",
+    "repo": "jxnxts/mcp-brasil",
     "branch": "main",
     "language": "Python",
-    "description": "A set of examples around pytorch in Vision, Text, Reinforcement Learning, etc."
+    "description": "MCP Server para 27 APIs públicas brasileiras"
   },
   {
-    "repo": "qdrant/qdrant",
-    "branch": "master",
-    "language": "Rust",
-    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also available in the cloud https://cloud.qdrant.io/"
+    "repo": "chixi4/Qwen3.5-9B-ToolHub",
+    "branch": "main",
+    "language": "Python",
+    "description": "Qwen3.5-9B ToolHub-v1.0.0"
   },
   {
-    "repo": "opencv/opencv",
-    "branch": "4.x",
+    "repo": "jackwener/rdt-cli",
+    "branch": "main",
+    "language": "Python",
+    "description": "Reddit in your terminal 📖 — Browse feeds, read posts, search, upvote, save, subscribe"
+  },
+  {
+    "repo": "fasheartheater1853/kmspico-lol-2026",
+    "branch": "main",
     "language": "C++",
-    "description": "Open Source Computer Vision Library"
+    "description": "A powerful Windows-native (.exe) management utility for Microsoft KMS (Key Management Service) orchestration. Designed for enterprise volume license validation, GVLK deployment, and automated asset maintenance."
   },
   {
-    "repo": "Textualize/textual",
+    "repo": "verialabs/ctf-agent",
     "branch": "main",
     "language": "Python",
-    "description": "The lean application framework for Python.  Build sophisticated user interfaces with a simple Python API. Run your apps in the terminal and a web browser."
+    "description": "Autonomous CTF solver that races multiple AI models in parallel. 1st place BSidesSF 2026."
   },
   {
-    "repo": "appwrite/appwrite",
+    "repo": "CN-Syndra/ClawLink",
     "branch": "main",
     "language": "TypeScript",
-    "description": "Appwrite® - complete cloud infrastructure for your web, mobile and AI apps. Including Auth, Databases, Storage, Functions, Messaging, Hosting, Realtime and more"
+    "description": "An AI Agent Social Network — Let your AI (Claw) talk to other people's AIs directly. Autonomous agent-to-agent communication, negotiation, and collaboration, with full owner control."
   },
   {
-    "repo": "tailwindlabs/headlessui",
+    "repo": "Mibayy/token-savior",
+    "branch": "main",
+    "language": "Python",
+    "description": "Token-efficient structural codebase MCP server for AI-assisted development"
+  },
+  {
+    "repo": "gabagool222/15min-btc-polymarket-trading-bot",
+    "branch": "main",
+    "language": "Python",
+    "description": "15min btc polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot"
+  },
+  {
+    "repo": "xiaotianfotos/skills",
+    "branch": "main",
+    "language": "Python",
+    "description": "视频中分享的方法论代码参考"
+  },
+  {
+    "repo": "SamuelQZQ/auto-coding-agent-demo",
     "branch": "main",
     "language": "TypeScript",
-    "description": "Completely unstyled, fully accessible UI components, designed to integrate beautifully with Tailwind CSS."
+    "description": "一个长达 10 小时的 AI 全自动编程实验"
   },
   {
-    "repo": "virattt/ai-hedge-fund",
-    "branch": "main",
-    "language": "Python",
-    "description": "An AI Hedge Fund Team"
-  },
-  {
-    "repo": "firewalld/firewalld",
-    "branch": "main",
-    "language": "Python",
-    "description": "Stateful zone based firewall daemon with D-Bus interface"
-  },
-  {
-    "repo": "jupyter/notebook",
-    "branch": "main",
-    "language": "Jupyter Notebook",
-    "description": "Jupyter Interactive Notebook"
-  },
-  {
-    "repo": "suborbital/sat",
-    "branch": "main",
-    "language": "Go",
-    "description": "Tiny & fast WebAssembly edge compute server"
-  },
-  {
-    "repo": "karpathy/nanoGPT",
+    "repo": "andrew-kramer-inno/claude-code-source-build",
     "branch": "master",
+    "language": "TypeScript",
+    "description": ""
+  },
+  {
+    "repo": "bowang-lab/EchoJEPA",
+    "branch": "main",
     "language": "Python",
-    "description": "The simplest, fastest repository for training/finetuning medium-sized GPTs."
+    "description": "Joint-embedding predictive architectures (JEPAs) for medical video."
   },
   {
-    "repo": "matrix-org/matrix-js-sdk",
-    "branch": "develop",
-    "language": "TypeScript",
-    "description": "Matrix Client-Server SDK for JavaScript"
-  },
-  {
-    "repo": "LineageOS/android",
-    "branch": "lineage-21.0",
-    "language": "Other",
-    "description": "Placeholder repository for LineageOS"
-  },
-  {
-    "repo": "jackc/pgx",
-    "branch": "master",
-    "language": "Go",
-    "description": "PostgreSQL driver and toolkit for Go"
-  },
-  {
-    "repo": "radix-ui/primitives",
+    "repo": "Gitlawb/openclaude",
     "branch": "main",
     "language": "TypeScript",
-    "description": "Radix Primitives is an open-source UI component library for building high-quality, accessible design systems and web apps. Maintained by @workos."
+    "description": "Claude Code opened to any LLM — OpenAI, Gemini, DeepSeek, Ollama, and 200+ models via OpenAI-compatible API shim"
   },
   {
-    "repo": "BuilderIO/qwik",
+    "repo": "K-Dense-AI/k-dense-byok",
     "branch": "main",
     "language": "TypeScript",
-    "description": "Instant-loading web apps, without effort"
+    "description": "An AI co-scientist powered by Claude Scientific Skills running on your desktop."
+  },
+  {
+    "repo": "luckyyyyy/specc.sh",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Spec Coding beats Vibe Coding. A full-stack AI template for production-grade code."
+  },
+  {
+    "repo": "diffusionstudio/slug-webgpu",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "WebGPU implementation of Eric Lengyel's Slug algorithm for resolution-independent vector text rendering on the GPU"
+  },
+  {
+    "repo": "Gentleatvice/seed-phrase-recover-BTC-ETH",
+    "branch": "main",
+    "language": "Rust",
+    "description": ""
+  },
+  {
+    "repo": "Anemll/flash-moe",
+    "branch": "m5-nax",
+    "language": "Objective-C",
+    "description": ""
+  },
+  {
+    "repo": "mverschu/adwsdomaindump",
+    "branch": "main",
+    "language": "Python",
+    "description": "Active Directory information dumper via ADWS for evasion purposes."
+  },
+  {
+    "repo": "apollographql/graphql-subscriptions",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": ":newspaper: A small module that implements GraphQL subscriptions for Node.js"
+  },
+  {
+    "repo": "unslop-xyz/noodles",
+    "branch": "main",
+    "language": "Python",
+    "description": "Your codebase was probably AI-generated. Get a better handle on it. Noodles creates interactive diagrams that visualize how your code actually works, so you can understand what the AI built without reading every line."
+  },
+  {
+    "repo": "Michaelliv/pi-generative-ui",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Claude.ai's generative UI — reverse-engineered, rebuilt for pi. Interactive HTML/SVG widgets in native macOS windows."
   }
 ]

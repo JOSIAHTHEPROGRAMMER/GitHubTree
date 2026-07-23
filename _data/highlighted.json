@@ -1,8 +1,8 @@
 {
-  "repo": "bryanthaboi/pokemon-gen1-recomp-project",
+  "repo": "duxweb/ReTheme",
   "branch": "main",
-  "language": "C",
-  "description": "Pokemon Gen 1 Recompilation Project - aka Gen1Recomp - A native Lua / LÖVE2D recreation of Gen 1 Pokemon",
-  "stars": 113,
-  "forks": 2
+  "language": "Rust",
+  "description": "🎨 为 ChatGPT、Codex 桌面端打造的安全、可更新、社区驱动主题换肤软件。Open-source desktop theme manager and runtime for ChatGPT",
+  "stars": 116,
+  "forks": 8
 }
