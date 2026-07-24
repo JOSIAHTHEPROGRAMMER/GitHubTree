@@ -1,146 +1,146 @@
 [
   {
-    "repo": "VILA-Lab/FigMirror",
+    "repo": "heyderekj/dinky",
     "branch": "main",
-    "language": "Python",
-    "description": "An Automated AI Agent Tool for Plotting Your Data in Any Paper's Figure Style."
+    "language": "Swift",
+    "description": "Dinky makes files smaller."
   },
   {
-    "repo": "hamelsmu/claude-review-loop",
-    "branch": "main",
-    "language": "Shell",
-    "description": "Claude Code plugin: automated code review loop with Codex"
-  },
-  {
-    "repo": "opf/openproject",
-    "branch": "dev",
-    "language": "Ruby",
-    "description": "OpenProject is the leading open source project management software."
-  },
-  {
-    "repo": "facebook/hermes",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "A JavaScript engine optimized for running React Native."
-  },
-  {
-    "repo": "calesthio/Crucix",
-    "branch": "master",
-    "language": "JavaScript",
-    "description": "Your personal intelligence agent. Watches the world from 26 data sources and pings you when something changes."
-  },
-  {
-    "repo": "helix-editor/helix",
-    "branch": "master",
-    "language": "Rust",
-    "description": "A post-modern modal text editor."
-  },
-  {
-    "repo": "ClawBio/ClawBio",
-    "branch": "main",
-    "language": "Python",
-    "description": "🦖 ClawBio — The first bioinformatics-native AI agent skill library. Local-first. Reproducible. Built on OpenClaw."
-  },
-  {
-    "repo": "prometheus/prometheus",
-    "branch": "main",
-    "language": "Go",
-    "description": "The Prometheus monitoring system and time series database."
-  },
-  {
-    "repo": "finvfamily/finshare",
-    "branch": "main",
-    "language": "Python",
-    "description": "专业的金融数据获取工具库 - A Professional Financial Data Fetching Toolkit for   Python"
-  },
-  {
-    "repo": "babel/babel",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "🐠 Babel is a compiler for writing next generation JavaScript."
-  },
-  {
-    "repo": "antfu/ghfs",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "GitHub issues/PRs as filesystem, for offline view and operations in batch. Designed for human and agents."
-  },
-  {
-    "repo": "0xSteph/pentest-ai",
-    "branch": "main",
-    "language": "Shell",
-    "description": "Turn Claude Code into your offensive security research assistant. Specialized AI subagents for authorized penetration testing plan engagements, analyze recon, research exploits, build detections, audit STIGs, and write reports."
-  },
-  {
-    "repo": "karpathy/autoresearch",
-    "branch": "master",
-    "language": "Python",
-    "description": "AI agents running research on single-GPU nanochat training automatically"
-  },
-  {
-    "repo": "prometheus/node_exporter",
-    "branch": "master",
-    "language": "Go",
-    "description": "Exporter for machine metrics"
-  },
-  {
-    "repo": "Tencent/tdesign-react",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "A React UI components lib for TDesign."
-  },
-  {
-    "repo": "axios/axios",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "Promise based HTTP client for the browser and node.js"
-  },
-  {
-    "repo": "anl331/goey-toast",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "A gooey, morphing toast component built on Sonner with Framer Motion animations"
-  },
-  {
-    "repo": "FortAwesome/Font-Awesome",
-    "branch": "6.x",
-    "language": "JavaScript",
-    "description": "The iconic SVG, font, and CSS toolkit"
-  },
-  {
-    "repo": "mmazzarolo/react-native-modal-datetime-picker",
-    "branch": "master",
-    "language": "JavaScript",
-    "description": "A React-Native datetime-picker for Android and iOS"
-  },
-  {
-    "repo": "tensorflow/models",
-    "branch": "master",
-    "language": "Python",
-    "description": "Models and examples built with TensorFlow"
-  },
-  {
-    "repo": "avihaymenahem/velo",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Open source desktop email client for Gmail"
-  },
-  {
-    "repo": "kamranahmedse/developer-roadmap",
-    "branch": "master",
-    "language": "TypeScript",
-    "description": "Interactive roadmaps, guides and other educational content to help developers grow in their careers."
-  },
-  {
-    "repo": "Frikallo/parakeet.cpp",
+    "repo": "Plingvivin/Ableton-Live-12-Windows",
     "branch": "main",
     "language": "C++",
-    "description": "Ultra fast and portable Parakeet implementation for on-device inference in C++ using Axiom with MPS+Unified Memory and Cuda support"
+    "description": "Ableton Live Free 12 Windows 2026 – Professional Digital Audio Workstation (DAW) for music production, live performance and sound design. Includes powerful MIDI & Audio tools, Session View, Arrangement View, Max for Live, new AI features, advanced warping and mixing tools. Full unlocked Suite edition with all plugins and sound packs."
   },
   {
-    "repo": "redux-saga/redux-saga",
+    "repo": "starccy/doubaoime-asr",
+    "branch": "main",
+    "language": "Python",
+    "description": "豆包输入法语音识别的非官方 Python 客户端"
+  },
+  {
+    "repo": "quic-go/quic-go",
     "branch": "master",
+    "language": "Go",
+    "description": "A production-ready QUIC implementation in pure Go"
+  },
+  {
+    "repo": "microsoft/semantic-kernel",
+    "branch": "main",
+    "language": "C#",
+    "description": "Integrate cutting-edge LLM technology quickly and easily into your apps"
+  },
+  {
+    "repo": "facebook/create-react-app",
+    "branch": "main",
     "language": "JavaScript",
-    "description": "An alternative side effect model for Redux apps"
+    "description": "Set up a modern web app by running one command."
+  },
+  {
+    "repo": "yohey-w/multi-agent-shogun",
+    "branch": "main",
+    "language": "Shell",
+    "description": ""
+  },
+  {
+    "repo": "wy51ai/moltbotCNAPP",
+    "branch": "main",
+    "language": "Go",
+    "description": ""
+  },
+  {
+    "repo": "sympy/sympy",
+    "branch": "master",
+    "language": "Python",
+    "description": "A computer algebra system written in pure Python"
+  },
+  {
+    "repo": "realm/SwiftLint",
+    "branch": "main",
+    "language": "Swift",
+    "description": "A tool to enforce Swift style and conventions."
+  },
+  {
+    "repo": "cockroachdb/cockroach",
+    "branch": "master",
+    "language": "Go",
+    "description": "CockroachDB — the cloud native, distributed SQL database designed for high availability, effortless scale, and control over data placement."
+  },
+  {
+    "repo": "microsoft/TypeScript",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "TypeScript is a superset of JavaScript that compiles to clean JavaScript output."
+  },
+  {
+    "repo": "qufei1993/skills-hub",
+    "branch": "main",
+    "language": "Rust",
+    "description": "A cross-platform desktop app to manage Agent Skills in one place and sync them to multiple AI coding tools’ global skills directories — “Install once, sync everywhere”."
+  },
+  {
+    "repo": "boto/boto3",
+    "branch": "develop",
+    "language": "Python",
+    "description": "Boto3, an AWS SDK for Python"
+  },
+  {
+    "repo": "angular/angular",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Deliver web apps with confidence 🚀"
+  },
+  {
+    "repo": "rabbitmq/rabbitmq-server",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "Open source RabbitMQ: core server and tier 1 (built-in) plugins"
+  },
+  {
+    "repo": "jmuncor/sherlock",
+    "branch": "main",
+    "language": "Python",
+    "description": "Intercept LLM API traffic and visualize token usage in a real-time terminal dashboard. Track costs,       debug prompts, and monitor context window usage across your AI development sessions."
+  },
+  {
+    "repo": "Prismer-AI/Prismer",
+    "branch": "main",
+    "language": "Python",
+    "description": "Open Source OpenAI Prism Alternative"
+  },
+  {
+    "repo": "mandel-macaque/memento",
+    "branch": "main",
+    "language": "F#",
+    "description": "Keep track of you codex sessions per commit"
+  },
+  {
+    "repo": "MistKailorg/Polymarket-trading-bot",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Polymarket trading bot | Polymarket trading bot | Polymarket trading bot | Polymarket trading bot | Polymarket trading bot | Polymarket trading bot | Polymarket trading bot | Polymarket trading bot | Polymarket trading bot | Polymarket copy trading bot | Polymarket copy trading bot | Polymarket copy trading bot | Polymarket copy trading bot"
+  },
+  {
+    "repo": "ewindmer/polymarket-arbitrage-trading-bot",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "polymarket arbitrage trading bot"
+  },
+  {
+    "repo": "jaegertracing/jaeger",
+    "branch": "main",
+    "language": "Go",
+    "description": "CNCF Jaeger, a Distributed Tracing Platform"
+  },
+  {
+    "repo": "DefinitelyTyped/DefinitelyTyped",
+    "branch": "master",
+    "language": "TypeScript",
+    "description": "The repository for high quality TypeScript type definitions."
+  },
+  {
+    "repo": "Geek-1001/arcmark",
+    "branch": "main",
+    "language": "Swift",
+    "description": "macOS bookmark manager that attaches to any browser window as a sidebar"
   }
 ]
