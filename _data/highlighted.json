@@ -1,8 +1,8 @@
 {
-  "repo": "sanjayragavendra/MecchaChameleon-AutoPaintTool",
+  "repo": "Role1776/netmon",
   "branch": "main",
   "language": "Python",
-  "description": "Instant camouflage tool for Meccha Chameleon. Auto-detects surface color and paints you instantly.",
-  "stars": 64,
-  "forks": 17
+  "description": "Self-hosted network monitor — hourly speed tests, LAN device counts via ARP scan, and sarcastic AI-generated reports delivered to Telegram.",
+  "stars": 165,
+  "forks": 19
 }
