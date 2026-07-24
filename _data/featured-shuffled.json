@@ -1,146 +1,146 @@
 [
   {
-    "repo": "SamNet-dev/conduit-manager",
+    "repo": "VILA-Lab/FigMirror",
+    "branch": "main",
+    "language": "Python",
+    "description": "An Automated AI Agent Tool for Plotting Your Data in Any Paper's Figure Style."
+  },
+  {
+    "repo": "hamelsmu/claude-review-loop",
     "branch": "main",
     "language": "Shell",
-    "description": "A powerful, one-click management tool for Psiphon Conduit nodes. Simplifies deployment, automation, and real-time monitoring on any Linux distribution"
+    "description": "Claude Code plugin: automated code review loop with Codex"
   },
   {
-    "repo": "WeZZard/jlens-qwen36",
-    "branch": "main",
-    "language": "Python",
-    "description": "J-space / Jacobian-lens visualizer for Qwen3.6-27B (4-bit) on Apple Silicon, ported to Apple MLX"
+    "repo": "opf/openproject",
+    "branch": "dev",
+    "language": "Ruby",
+    "description": "OpenProject is the leading open source project management software."
   },
   {
-    "repo": "mukul975/cve-mcp-server",
-    "branch": "main",
-    "language": "Python",
-    "description": "Production-grade MCP server giving Claude 27 security intelligence tools across 21 APIs — CVE lookup, EPSS scoring, CISA KEV, MITRE ATT&CK, Shodan, VirusTotal, and more."
-  },
-  {
-    "repo": "jianshuo/ccglass",
+    "repo": "facebook/hermes",
     "branch": "main",
     "language": "JavaScript",
-    "description": "See what your coding agent (Claude Code, Codex, Kimi) sends to the model — local proxy + web dashboard"
+    "description": "A JavaScript engine optimized for running React Native."
   },
   {
-    "repo": "GHOST-227/Auto-2026-Desktop",
-    "branch": "main",
-    "language": "C++",
-    "description": "Resource is a professional suite for advanced 2D/3D drafting. It features optimized toolsets, AI-assisted design, and high-performance libraries. Designed for engineers and architects, it ensures precision and seamless workflow integration for modern industrial projects in 2026."
-  },
-  {
-    "repo": "kyegomez/OpenMythos",
-    "branch": "main",
-    "language": "Python",
-    "description": "A theoretical reconstruction of the Claude Mythos architecture, built from first principles using the available research literature."
-  },
-  {
-    "repo": "garrytan/gbrain",
+    "repo": "calesthio/Crucix",
     "branch": "master",
-    "language": "TypeScript",
-    "description": "Garry's Opinionated OpenClaw Brain"
+    "language": "JavaScript",
+    "description": "Your personal intelligence agent. Watches the world from 26 data sources and pings you when something changes."
   },
   {
-    "repo": "nostrband/ServiceGraph",
-    "branch": "main",
-    "language": "Shell",
-    "description": "AI Agent skills for a structured catalog of 100k+ US professional-services firms"
-  },
-  {
-    "repo": "pedronaldocr07/Solana-Meteora-Alpha-Vault",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "meteora alpha vault to create large marketcap, execute deposit, claim, withdraw across unlimited wallets"
-  },
-  {
-    "repo": "lceminecraft-launcher/LCE-Emerald-Launcher",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "lce emerald launcher minecraft  github Download minecraft legacy console edition"
-  },
-  {
-    "repo": "AKCodez/hackingtool-plugin",
-    "branch": "main",
-    "language": "Python",
-    "description": "Claude Code plugin: 183+ pentesting & OSINT tools from Z4nzu/hackingtool. Auto-runs what it can, hands off the rest."
-  },
-  {
-    "repo": "facebookresearch/vggt-omega",
-    "branch": "main",
-    "language": "Python",
-    "description": "[CVPR 2026 Oral] VGGT Omega"
-  },
-  {
-    "repo": "AdrianNavaG/Polymarket-Arbitrage-Crypto-Trading-Bot",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot"
-  },
-  {
-    "repo": "mereses-labs/solana-pumpfun-bundler",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "🏗️solana pumpfun bundler stealth-mode, bubblemap-bypassing, real bot activity An open-source bundler for pumpfun allows you to create a token and bundle it with 25 buys.Solana bundler Pumpfun bundler  bundler · Bonkfun bundler bundler. Multi-wallet bundler for Solana to"
-  },
-  {
-    "repo": "Rhythmplocutter/printer-offline-fix",
-    "branch": "main",
-    "language": "PowerShell",
-    "description": "printer offline fix || printer offline || printer offline driver || printer offline fix windows"
-  },
-  {
-    "repo": "SteveTheKiller/KillerPDF",
+    "repo": "helix-editor/helix",
     "branch": "master",
-    "language": "C#",
-    "description": "Portable PDF editor for Windows. GPLv3. No installer, no account, no subscription, no telemetry."
+    "language": "Rust",
+    "description": "A post-modern modal text editor."
   },
   {
-    "repo": "caomaolufei/AIInfraGuide",
+    "repo": "ClawBio/ClawBio",
     "branch": "main",
-    "language": "Astro",
-    "description": "AI Infra 全栈从0入门学习资料：https://caomaolufei.github.io/AIInfraGuide/"
+    "language": "Python",
+    "description": "🦖 ClawBio — The first bioinformatics-native AI agent skill library. Local-first. Reproducible. Built on OpenClaw."
   },
   {
-    "repo": "ObesidianQuant/polymarket-trade-engine",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "polymarket trading bot, polymarket copy trading bot, polymarket trading bot, polymarket copy trading bot, polymarket trading bot, polymarket copy trading bot, polymarket trading bot, polymarket copy trading bot, polymarket trading bot, polymarket copy trading bot, polymarket trading bot, polymarket copy trading bot,"
-  },
-  {
-    "repo": "MatinSenPai/SenPaiScanner",
+    "repo": "prometheus/prometheus",
     "branch": "main",
     "language": "Go",
-    "description": "A light-weight scanner for Cloudflare IPs, written in Golang"
+    "description": "The Prometheus monitoring system and time series database."
   },
   {
-    "repo": "wizenheimer/canary",
+    "repo": "finvfamily/finshare",
+    "branch": "main",
+    "language": "Python",
+    "description": "专业的金融数据获取工具库 - A Professional Financial Data Fetching Toolkit for   Python"
+  },
+  {
+    "repo": "babel/babel",
     "branch": "main",
     "language": "TypeScript",
-    "description": "QA harness built for Claude Code | E2E testing with screen recordings, console logs, network HARs, and Playwright traces"
+    "description": "🐠 Babel is a compiler for writing next generation JavaScript."
   },
   {
-    "repo": "hbddevos/PumpFun-Trainer_V1",
+    "repo": "antfu/ghfs",
     "branch": "main",
-    "language": "Python",
-    "description": "An advanced AI‑driven trading utility for Solana meme‑coins, featuring sniper, auto‑sell, MEV protection, multi‑wallet, alerts, and price monitoring."
+    "language": "TypeScript",
+    "description": "GitHub issues/PRs as filesystem, for offline view and operations in batch. Designed for human and agents."
   },
   {
-    "repo": "op7418/m5-paper-buddy",
+    "repo": "0xSteph/pentest-ai",
+    "branch": "main",
+    "language": "Shell",
+    "description": "Turn Claude Code into your offensive security research assistant. Specialized AI subagents for authorized penetration testing plan engagements, analyze recon, research exploits, build detections, audit STIGs, and write reports."
+  },
+  {
+    "repo": "karpathy/autoresearch",
+    "branch": "master",
+    "language": "Python",
+    "description": "AI agents running research on single-GPU nanochat training automatically"
+  },
+  {
+    "repo": "prometheus/node_exporter",
+    "branch": "master",
+    "language": "Go",
+    "description": "Exporter for machine metrics"
+  },
+  {
+    "repo": "Tencent/tdesign-react",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "A React UI components lib for TDesign."
+  },
+  {
+    "repo": "axios/axios",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "Promise based HTTP client for the browser and node.js"
+  },
+  {
+    "repo": "anl331/goey-toast",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "A gooey, morphing toast component built on Sonner with Framer Motion animations"
+  },
+  {
+    "repo": "FortAwesome/Font-Awesome",
+    "branch": "6.x",
+    "language": "JavaScript",
+    "description": "The iconic SVG, font, and CSS toolkit"
+  },
+  {
+    "repo": "mmazzarolo/react-native-modal-datetime-picker",
+    "branch": "master",
+    "language": "JavaScript",
+    "description": "A React-Native datetime-picker for Android and iOS"
+  },
+  {
+    "repo": "tensorflow/models",
+    "branch": "master",
+    "language": "Python",
+    "description": "Models and examples built with TensorFlow"
+  },
+  {
+    "repo": "avihaymenahem/velo",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Open source desktop email client for Gmail"
+  },
+  {
+    "repo": "kamranahmedse/developer-roadmap",
+    "branch": "master",
+    "language": "TypeScript",
+    "description": "Interactive roadmaps, guides and other educational content to help developers grow in their careers."
+  },
+  {
+    "repo": "Frikallo/parakeet.cpp",
     "branch": "main",
     "language": "C++",
-    "description": "📟 Claude Code physical companion on M5Paper V1.1 e-ink. Multi-session dashboard, hardware approval (buttons + touch), AskUserQuestion option cards, CJK, USB/BLE, installable as a Claude Code plugin. / Claude Code 实体搭档，把 M5Paper 变成 Claude Code 的多会话看板 + 硬件审批面板。"
+    "description": "Ultra fast and portable Parakeet implementation for on-device inference in C++ using Axiom with MPS+Unified Memory and Cuda support"
   },
   {
-    "repo": "quincymunene179-ops/Wi-Fi_Password_Extractor",
-    "branch": "main",
-    "language": "Python",
-    "description": "Recover saved Wi-Fi passwords on Windows and Mac. Show all saved networks, show passwords, export to file, and copy to clipboard. Never forget a Wi-Fi password."
-  },
-  {
-    "repo": "SamAun1234/auto-2026",
-    "branch": "main",
-    "language": "C#",
-    "description": "dwg download 2d drafting 3d modeling design software autolisp specialized toolsets smart blocks architecture mechanical electrical"
+    "repo": "redux-saga/redux-saga",
+    "branch": "master",
+    "language": "JavaScript",
+    "description": "An alternative side effect model for Redux apps"
   }
 ]

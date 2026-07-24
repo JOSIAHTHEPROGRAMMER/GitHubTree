@@ -1,8 +1,8 @@
 {
-  "repo": "Red-EAD/FlowBlock",
+  "repo": "codejunkie99/meridian-company-os",
   "branch": "main",
-  "language": "Python",
-  "description": "FlowBlock: Wavefront-Parallel Decoding Framework for Self-Correcting Diffusion Language Models",
+  "language": "TypeScript",
+  "description": "A featured project on GitHubTree.",
   "stars": 110,
-  "forks": 1
+  "forks": 25
 }
