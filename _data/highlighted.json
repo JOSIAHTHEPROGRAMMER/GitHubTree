@@ -1,8 +1,8 @@
 {
-  "repo": "lov-team/dagoujiao",
+  "repo": "Red-EAD/FlowBlock",
   "branch": "main",
-  "language": "JavaScript",
-  "description": "最近特别火的视频大狗叫",
-  "stars": 113,
-  "forks": 11
+  "language": "Python",
+  "description": "FlowBlock: Wavefront-Parallel Decoding Framework for Self-Correcting Diffusion Language Models",
+  "stars": 110,
+  "forks": 1
 }

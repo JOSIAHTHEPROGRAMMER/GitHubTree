@@ -1,146 +1,146 @@
 [
   {
-    "repo": "Conway-Research/automaton",
+    "repo": "SamNet-dev/conduit-manager",
     "branch": "main",
-    "language": "TypeScript",
-    "description": "The first AI that can earn its own existence, replicate, and evolve — without needing a human"
+    "language": "Shell",
+    "description": "A powerful, one-click management tool for Psiphon Conduit nodes. Simplifies deployment, automation, and real-time monitoring on any Linux distribution"
   },
   {
-    "repo": "KBRmau/linkedin-profile-optimizer",
+    "repo": "WeZZard/jlens-qwen36",
     "branch": "main",
     "language": "Python",
-    "description": "optimize your linkedin"
+    "description": "J-space / Jacobian-lens visualizer for Qwen3.6-27B (4-bit) on Apple Silicon, ported to Apple MLX"
   },
   {
-    "repo": "MichMich/MagicMirror",
-    "branch": "master",
+    "repo": "mukul975/cve-mcp-server",
+    "branch": "main",
+    "language": "Python",
+    "description": "Production-grade MCP server giving Claude 27 security intelligence tools across 21 APIs — CVE lookup, EPSS scoring, CISA KEV, MITRE ATT&CK, Shodan, VirusTotal, and more."
+  },
+  {
+    "repo": "jianshuo/ccglass",
+    "branch": "main",
     "language": "JavaScript",
-    "description": "MagicMirror² is an open source modular smart mirror platform. With a growing list of installable modules, the MagicMirror² allows you to convert your hallway or bathroom mirror into your personal assistant."
+    "description": "See what your coding agent (Claude Code, Codex, Kimi) sends to the model — local proxy + web dashboard"
   },
   {
-    "repo": "PyCQA/isort",
-    "branch": "main",
-    "language": "Python",
-    "description": "A Python utility / library to sort imports."
-  },
-  {
-    "repo": "PostgREST/postgrest",
-    "branch": "main",
-    "language": "Haskell",
-    "description": "REST API for any Postgres database"
-  },
-  {
-    "repo": "actions/cache",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Cache dependencies and build outputs in GitHub Actions"
-  },
-  {
-    "repo": "microsoft/STL",
+    "repo": "GHOST-227/Auto-2026-Desktop",
     "branch": "main",
     "language": "C++",
-    "description": "MSVC's implementation of the C++ Standard Library."
+    "description": "Resource is a professional suite for advanced 2D/3D drafting. It features optimized toolsets, AI-assisted design, and high-performance libraries. Designed for engineers and architects, it ensures precision and seamless workflow integration for modern industrial projects in 2026."
   },
   {
-    "repo": "openai/point-e",
+    "repo": "kyegomez/OpenMythos",
     "branch": "main",
     "language": "Python",
-    "description": "Point cloud diffusion for 3D model synthesis"
+    "description": "A theoretical reconstruction of the Claude Mythos architecture, built from first principles using the available research literature."
   },
   {
-    "repo": "ryfineZ/codex-session-patcher",
-    "branch": "main",
-    "language": "Python",
-    "description": "A lightweight Python tool to clean AI refusal responses from Codex CLI session files"
-  },
-  {
-    "repo": "HKUDS/OpenHarness",
-    "branch": "main",
-    "language": "Python",
-    "description": "OpenHarness: Open Agent Harness"
-  },
-  {
-    "repo": "tiangolo/fastapi",
+    "repo": "garrytan/gbrain",
     "branch": "master",
-    "language": "Python",
-    "description": "FastAPI framework, high performance, easy to learn, fast to code, ready for production"
+    "language": "TypeScript",
+    "description": "Garry's Opinionated OpenClaw Brain"
   },
   {
-    "repo": "bytedance/semi-design",
+    "repo": "nostrband/ServiceGraph",
     "branch": "main",
-    "language": "Other",
-    "description": "A modern, comprehensive, flexible design system and React UI library."
+    "language": "Shell",
+    "description": "AI Agent skills for a structured catalog of 100k+ US professional-services firms"
   },
   {
-    "repo": "deepseek-ai/DeepSeek-VL",
-    "branch": "main",
-    "language": "Python",
-    "description": "DeepSeek-VL: Towards Real-World Vision-Language Understanding"
-  },
-  {
-    "repo": "epiral/agent-clip",
-    "branch": "main",
-    "language": "Go",
-    "description": "AI Agent as a Pinix Clip — agentic loop with memory, tools, and vision"
-  },
-  {
-    "repo": "MasterAlanLab/Register",
-    "branch": "main",
-    "language": "Python",
-    "description": ""
-  },
-  {
-    "repo": "airbnb/javascript",
-    "branch": "master",
-    "language": "JavaScript",
-    "description": "JavaScript Style Guide"
-  },
-  {
-    "repo": "EvolutionAPI/evolution-go",
-    "branch": "main",
-    "language": "Go",
-    "description": "Evolution API / Evolution Go is an open-source WhatsApp integration API"
-  },
-  {
-    "repo": "wagmi-dev/wagmi",
+    "repo": "pedronaldocr07/Solana-Meteora-Alpha-Vault",
     "branch": "main",
     "language": "TypeScript",
-    "description": "Reactive primitives for Ethereum apps"
+    "description": "meteora alpha vault to create large marketcap, execute deposit, claim, withdraw across unlimited wallets"
   },
   {
-    "repo": "hashicorp/vagrant",
-    "branch": "main",
-    "language": "Ruby",
-    "description": "Vagrant is a tool for building and distributing development environments."
-  },
-  {
-    "repo": "Prismer-AI/Prismer",
-    "branch": "main",
-    "language": "Python",
-    "description": "Open Source OpenAI Prism Alternative"
-  },
-  {
-    "repo": "timwuhaotian/the-pair",
+    "repo": "lceminecraft-launcher/LCE-Emerald-Launcher",
     "branch": "main",
     "language": "TypeScript",
-    "description": "The Pair - Automated pair programming — grab a coffee while two AI agents cross-check each other's work"
+    "description": "lce emerald launcher minecraft  github Download minecraft legacy console edition"
   },
   {
-    "repo": "nodejs/node",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "Node.js JavaScript runtime ✨🐢🚀✨"
-  },
-  {
-    "repo": "ultraworkers/claw-code-parity",
-    "branch": "main",
-    "language": "Rust",
-    "description": "claw-code Rust port parity work - it is temporary work while claw-code repo is doing migration"
-  },
-  {
-    "repo": "kristelTech/make_me_a_meme",
+    "repo": "AKCodez/hackingtool-plugin",
     "branch": "main",
     "language": "Python",
-    "description": "This repository detects your facial expressions and matches you with a famous meme."
+    "description": "Claude Code plugin: 183+ pentesting & OSINT tools from Z4nzu/hackingtool. Auto-runs what it can, hands off the rest."
+  },
+  {
+    "repo": "facebookresearch/vggt-omega",
+    "branch": "main",
+    "language": "Python",
+    "description": "[CVPR 2026 Oral] VGGT Omega"
+  },
+  {
+    "repo": "AdrianNavaG/Polymarket-Arbitrage-Crypto-Trading-Bot",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot"
+  },
+  {
+    "repo": "mereses-labs/solana-pumpfun-bundler",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "🏗️solana pumpfun bundler stealth-mode, bubblemap-bypassing, real bot activity An open-source bundler for pumpfun allows you to create a token and bundle it with 25 buys.Solana bundler Pumpfun bundler  bundler · Bonkfun bundler bundler. Multi-wallet bundler for Solana to"
+  },
+  {
+    "repo": "Rhythmplocutter/printer-offline-fix",
+    "branch": "main",
+    "language": "PowerShell",
+    "description": "printer offline fix || printer offline || printer offline driver || printer offline fix windows"
+  },
+  {
+    "repo": "SteveTheKiller/KillerPDF",
+    "branch": "master",
+    "language": "C#",
+    "description": "Portable PDF editor for Windows. GPLv3. No installer, no account, no subscription, no telemetry."
+  },
+  {
+    "repo": "caomaolufei/AIInfraGuide",
+    "branch": "main",
+    "language": "Astro",
+    "description": "AI Infra 全栈从0入门学习资料：https://caomaolufei.github.io/AIInfraGuide/"
+  },
+  {
+    "repo": "ObesidianQuant/polymarket-trade-engine",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "polymarket trading bot, polymarket copy trading bot, polymarket trading bot, polymarket copy trading bot, polymarket trading bot, polymarket copy trading bot, polymarket trading bot, polymarket copy trading bot, polymarket trading bot, polymarket copy trading bot, polymarket trading bot, polymarket copy trading bot,"
+  },
+  {
+    "repo": "MatinSenPai/SenPaiScanner",
+    "branch": "main",
+    "language": "Go",
+    "description": "A light-weight scanner for Cloudflare IPs, written in Golang"
+  },
+  {
+    "repo": "wizenheimer/canary",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "QA harness built for Claude Code | E2E testing with screen recordings, console logs, network HARs, and Playwright traces"
+  },
+  {
+    "repo": "hbddevos/PumpFun-Trainer_V1",
+    "branch": "main",
+    "language": "Python",
+    "description": "An advanced AI‑driven trading utility for Solana meme‑coins, featuring sniper, auto‑sell, MEV protection, multi‑wallet, alerts, and price monitoring."
+  },
+  {
+    "repo": "op7418/m5-paper-buddy",
+    "branch": "main",
+    "language": "C++",
+    "description": "📟 Claude Code physical companion on M5Paper V1.1 e-ink. Multi-session dashboard, hardware approval (buttons + touch), AskUserQuestion option cards, CJK, USB/BLE, installable as a Claude Code plugin. / Claude Code 实体搭档，把 M5Paper 变成 Claude Code 的多会话看板 + 硬件审批面板。"
+  },
+  {
+    "repo": "quincymunene179-ops/Wi-Fi_Password_Extractor",
+    "branch": "main",
+    "language": "Python",
+    "description": "Recover saved Wi-Fi passwords on Windows and Mac. Show all saved networks, show passwords, export to file, and copy to clipboard. Never forget a Wi-Fi password."
+  },
+  {
+    "repo": "SamAun1234/auto-2026",
+    "branch": "main",
+    "language": "C#",
+    "description": "dwg download 2d drafting 3d modeling design software autolisp specialized toolsets smart blocks architecture mechanical electrical"
   }
 ]
