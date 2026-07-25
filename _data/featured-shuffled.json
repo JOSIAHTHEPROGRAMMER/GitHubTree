@@ -1,146 +1,146 @@
 [
   {
-    "repo": "OpenMOSS/MOSS-VL",
+    "repo": "turbodragonecholegend2914353/Roblox-Exec-Collection-Desktop",
     "branch": "main",
-    "language": "Python",
-    "description": "MOSS-VL is the core multimodal model series within the OpenMOSS ecosystem, dedicated to visual understanding."
+    "language": "C#",
+    "description": "A curated collection of documentation and safe templates for understanding and analyzing Roblox execution environments in a controlled lab setting."
   },
   {
-    "repo": "netblue30/firejail",
-    "branch": "master",
-    "language": "C",
-    "description": "Linux namespaces and seccomp-bpf sandbox"
-  },
-  {
-    "repo": "sindresorhus/awesome",
+    "repo": "xaskasdf/ntransformer",
     "branch": "main",
-    "language": "Other",
-    "description": "😎 Awesome lists about all kinds of interesting topics"
+    "language": "C++",
+    "description": "High-efficiency LLM inference engine in C++/CUDA. Run Llama 70B on RTX 3090."
   },
   {
-    "repo": "chroma-core/chroma",
+    "repo": "lencx/ChatGPT",
     "branch": "main",
     "language": "Rust",
-    "description": "Open-source search and retrieval database for AI applications."
+    "description": "🔮 ChatGPT Desktop Application (Mac, Windows and Linux)"
   },
   {
-    "repo": "freqtrade/freqtrade",
-    "branch": "develop",
-    "language": "Python",
-    "description": "Free, open source crypto trading bot"
+    "repo": "confluentinc/ksql",
+    "branch": "master",
+    "language": "Java",
+    "description": "The database purpose-built for stream processing applications."
   },
   {
-    "repo": "minio/minio",
+    "repo": "markets/awesome-ruby",
+    "branch": "master",
+    "language": "Other",
+    "description": "💎 A collection of awesome Ruby libraries, tools, frameworks and software"
+  },
+  {
+    "repo": "minix3/minix",
+    "branch": "master",
+    "language": "Other",
+    "description": "Redirection to the real github page only."
+  },
+  {
+    "repo": "milvus-io/milvus",
     "branch": "master",
     "language": "Go",
-    "description": "MinIO is a high-performance, S3 compatible object store, open sourced under GNU AGPLv3 license."
+    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search"
   },
   {
-    "repo": "parcel-bundler/parcel",
-    "branch": "v2",
-    "language": "JavaScript",
-    "description": "The zero configuration build tool for the web. 📦🚀"
-  },
-  {
-    "repo": "square/okhttp",
-    "branch": "master",
-    "language": "Kotlin",
-    "description": "Square’s meticulous HTTP client for the JVM, Android, and GraalVM."
-  },
-  {
-    "repo": "ant-design/ant-design",
-    "branch": "master",
-    "language": "TypeScript",
-    "description": "An enterprise-class UI design language and React UI library"
-  },
-  {
-    "repo": "test-time-training/discover",
+    "repo": "microsoft/Data-Science-For-Beginners",
     "branch": "main",
+    "language": "Jupyter Notebook",
+    "description": "10 Weeks, 20 Lessons, Data Science for All!"
+  },
+  {
+    "repo": "fastai/fastbook",
+    "branch": "master",
+    "language": "Jupyter Notebook",
+    "description": "The fastai book, published as Jupyter Notebooks"
+  },
+  {
+    "repo": "udacity/reactnd-contacts-server",
+    "branch": "master",
+    "language": "JavaScript",
+    "description": "The backend server for the in-class Contacts project."
+  },
+  {
+    "repo": "cryingcheems/codex-team-oauth",
+    "branch": "main",
+    "language": "Python",
+    "description": "利用Team 空间域名free 账号跳过手机号登录 codex的研究脚本"
+  },
+  {
+    "repo": "sightflow-dev/sightflow-desktop-agent",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": ""
+  },
+  {
+    "repo": "FFmpeg/FFmpeg",
+    "branch": "master",
+    "language": "C",
+    "description": "Mirror of https://git.ffmpeg.org/ffmpeg.git"
+  },
+  {
+    "repo": "CostaliyA/Flow-OPD",
+    "branch": "main",
+    "language": "Python",
+    "description": "Official Repo of Flow-OPD: On-Policy Distillation for Flow Matching Models"
+  },
+  {
+    "repo": "NamKhoa-07/Voidstrap",
+    "branch": "main",
+    "language": "C#",
+    "description": "Voidstrap is a simple yet advanced fork of Bloxstrap, advanced customization and improvements."
+  },
+  {
+    "repo": "kdn251/interviews",
+    "branch": "master",
+    "language": "Java",
+    "description": "Everything you need to know to get the job."
+  },
+  {
+    "repo": "rustwasm/wasm-bindgen",
+    "branch": "main",
+    "language": "Rust",
+    "description": "Facilitating high-level interactions between Wasm modules and JavaScript"
+  },
+  {
+    "repo": "GordenSun/CuiMao",
+    "branch": "main",
+    "language": "HTML",
+    "description": "眼睛跟着鼠标旋转。"
+  },
+  {
+    "repo": "liranringel/ddtree",
+    "branch": "master",
     "language": "Python",
     "description": ""
   },
   {
-    "repo": "rome/tools",
-    "branch": "main",
-    "language": "Rust",
-    "description": "Unified developer tools for JavaScript, TypeScript, and the web"
-  },
-  {
-    "repo": "mysqljs/mysql",
+    "repo": "jaywcjlove/awesome-mac",
     "branch": "master",
     "language": "JavaScript",
-    "description": "A pure node.js JavaScript Client implementing the MySQL protocol."
+    "description": " Now we have become very big, Different from the original idea. Collect premium software in various categories."
   },
   {
-    "repo": "mysql/mysql-server",
-    "branch": "8.0",
-    "language": "C++",
-    "description": "MySQL Server, the world's most popular open source database, and MySQL Cluster, a real-time, open source transactional database."
-  },
-  {
-    "repo": "brianc/node-postgres",
-    "branch": "master",
-    "language": "JavaScript",
-    "description": "PostgreSQL client for node.js."
-  },
-  {
-    "repo": "go-kit/kit",
+    "repo": "kubeedge/kubeedge",
     "branch": "master",
     "language": "Go",
-    "description": "A standard library for microservices."
+    "description": "Kubernetes Native Edge Computing Framework (project under CNCF)"
   },
   {
-    "repo": "TabbyML/tabby",
-    "branch": "main",
-    "language": "Rust",
-    "description": "Self-hosted AI coding assistant"
-  },
-  {
-    "repo": "reduxjs/redux",
+    "repo": "nmap/nmap",
     "branch": "master",
-    "language": "TypeScript",
-    "description": "A JS library for predictable global state management"
+    "language": "C",
+    "description": "Nmap - the Network Mapper. Github mirror of official SVN repository."
   },
   {
-    "repo": "terausss/polymarket-copy-trading-bot",
+    "repo": "enaqx/awesome-react",
+    "branch": "master",
+    "language": "Other",
+    "description": "A collection of awesome things regarding React ecosystem"
+  },
+  {
+    "repo": "LoseNine/ruyipage",
     "branch": "main",
     "language": "Python",
-    "description": "polymarket bot polymarket bot polymarket bot polymarket trading bot polymarket copy trading bot polymarket trading bot polymarket copy trading bot polymarket trading bot polymarket copy trading bot polymarket trading bot polymarket copy trading bot polymarket trading bot polymarket copy trading bot polymarket trading bot polymarket copy trading bot"
-  },
-  {
-    "repo": "paragonie/awesome-appsec",
-    "branch": "master",
-    "language": "PHP",
-    "description": "A curated list of resources for learning about application security"
-  },
-  {
-    "repo": "ant-design/ant-design-pro",
-    "branch": "master",
-    "language": "TypeScript",
-    "description": "👨🏻‍💻👩🏻‍💻 Use Ant Design like a Pro!"
-  },
-  {
-    "repo": "apache/kafka",
-    "branch": "trunk",
-    "language": "Java",
-    "description": "Mirror of Apache Kafka"
-  },
-  {
-    "repo": "arrow-kt/arrow",
-    "branch": "main",
-    "language": "Kotlin",
-    "description": "The perfect companion for your Kotlin journey - Inspired by functional, data-oriented and concurrent programming"
-  },
-  {
-    "repo": "tailwindlabs/heroicons",
-    "branch": "master",
-    "language": "JavaScript",
-    "description": "A set of free MIT-licensed high-quality SVG icons for UI development."
-  },
-  {
-    "repo": "cockroachdb/cockroach",
-    "branch": "master",
-    "language": "Go",
-    "description": "CockroachDB — the cloud native, distributed SQL database designed for high availability, effortless scale, and control over data placement."
+    "description": "RuyiPage is a Python-based Firefox automation framework built on the next-generation WebDriver BiDi protocol."
   }
 ]

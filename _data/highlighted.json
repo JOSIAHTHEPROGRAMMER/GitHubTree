@@ -1,8 +1,8 @@
 {
-  "repo": "Role1776/netmon",
+  "repo": "ailinone/collective-intelligence",
   "branch": "main",
-  "language": "Python",
-  "description": "Self-hosted network monitor — hourly speed tests, LAN device counts via ARP scan, and sarcastic AI-generated reports delivered to Telegram.",
-  "stars": 165,
-  "forks": 19
+  "language": "TypeScript",
+  "description": "Ailin¹ is an open-source collective intelligence engine where tens of thousands of AI models collaborate through dozens of coordination strategies, applying structured diversity and independent reasoning to improve reliability, auditability, and resilience.",
+  "stars": 115,
+  "forks": 5
 }
