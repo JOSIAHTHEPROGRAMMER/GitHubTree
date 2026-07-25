@@ -1,146 +1,146 @@
 [
   {
-    "repo": "eooce/transfer-api",
+    "repo": "spotipy-dev/spotipy",
+    "branch": "master",
+    "language": "Python",
+    "description": "A light weight Python library for the Spotify Web API"
+  },
+  {
+    "repo": "Mrack/TInjector_Symbi",
+    "branch": "master",
+    "language": "C++",
+    "description": "更稳定的劫持Zygote在App启动前注入so"
+  },
+  {
+    "repo": "dev-protocol/polymarket-arbitrage-trade-bot",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "polymarket arbitrage bot polymarket arbitrage bot polymarket arbitrage bot polymarket arbitrage bot polymarket arbitrage bot polymarket arbitrage bot polymarket arbitrage bot polymarket arbitrage bot polymarket arbitrage bot polymarket arbitrage bot polymarket arbitrage bot polymarket arbitrage bot polymarket arbitrage bot polymarket arbitrage bot"
+  },
+  {
+    "repo": "ProjectBarks/gopher-code",
+    "branch": "main",
+    "language": "Go",
+    "description": "Claude Code, rewritten from scratch in Go. Zero Node.js. Zero Electron. One binary."
+  },
+  {
+    "repo": "b3-fun/b3os",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "B3OS is your automation platform for cross-chain workflows. Build automated strategies, schedule transactions, and execute complex on-chain operations."
+  },
+  {
+    "repo": "MiniMax-AI/skills",
+    "branch": "main",
+    "language": "Python",
+    "description": ""
+  },
+  {
+    "repo": "Dav777000/Create-Aeronautics-Minecraft-Mod",
+    "branch": "main",
+    "language": "C++",
+    "description": "Create Aeronautics Minecraft Mod Download April 2026 Release  Physics Engine NeoForge 1.21.1 Airship Build Guide Propeller Bearings Survival SMP Modrinth CurseForge Tutorial Gameplay Trailer Reddit Hype Bug Fix Optimization Crafting Vehicles Fly Machines Hot Air Balloons Fabric Version Latest Update High Performance Mechanics"
+  },
+  {
+    "repo": "direkturcrypto/polymarket-terminal",
     "branch": "main",
     "language": "JavaScript",
-    "description": "Cloudflare Worker adapter for unlimited.surf OpenAI/Anthropic-compatible API routes."
+    "description": "Copy, Scalping & Sniper for polymarket"
   },
   {
-    "repo": "kubernetes/ingress-nginx",
-    "branch": "main",
-    "language": "Go",
-    "description": "Ingress NGINX Controller for Kubernetes"
-  },
-  {
-    "repo": "open-pencil/open-pencil",
+    "repo": "cv-cat/TaoBaoApis",
     "branch": "master",
-    "language": "TypeScript",
-    "description": "AI-native design editor. Open-source Figma alternative."
+    "language": "Python",
+    "description": "淘宝算法逆向，淘宝api，websockets自动运营，淘宝AI Agent基座"
   },
   {
-    "repo": "emscripten-core/emscripten",
+    "repo": "Alfattah07/Acrobat-Editor-2026",
     "branch": "main",
     "language": "C++",
-    "description": "Emscripten: An LLVM-to-WebAssembly Compiler"
+    "description": "Download Acrobat AI Assistant PDF Editor Desktop Windows 11 Acrobat DC 2026 Full Version Electronic Signature Tool OCR PDF to Word Document Cloud Sync PDF Security Redaction Tool Fill and Sign Professional PDF Utility 2026 High Performance Adobe Document Intelligence 24h Trend Download"
   },
   {
-    "repo": "Fixie-ai/Ultravox",
+    "repo": "peteromallet/desloppify",
     "branch": "main",
     "language": "Python",
-    "description": "A fast multimodal LLM for real-time voice"
+    "description": ""
   },
   {
-    "repo": "rust-embedded/discovery",
-    "branch": "master",
-    "language": "Rust",
-    "description": "Discover the world of microcontrollers through Rust!"
-  },
-  {
-    "repo": "langgenius/dify",
+    "repo": "SafeRL-Lab/nano-claude-code",
     "branch": "main",
-    "language": "TypeScript",
-    "description": "Production-ready platform for agentic workflow development."
+    "language": "Python",
+    "description": "Nano Claude Code: A Fast, Easy-to-Use Python Reimplementation of Claude Code Supporting Any Model."
   },
   {
-    "repo": "kubevirt/kubevirt",
-    "branch": "main",
-    "language": "Go",
-    "description": "Kubernetes Virtualization API and runtime in order to define and manage virtual machines."
-  },
-  {
-    "repo": "nmap/nmap",
-    "branch": "master",
-    "language": "C",
-    "description": "Nmap - the Network Mapper. Github mirror of official SVN repository."
-  },
-  {
-    "repo": "actix/actix",
-    "branch": "master",
-    "language": "Rust",
-    "description": "Actor framework for Rust."
-  },
-  {
-    "repo": "vercel/ai",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "The AI Toolkit for TypeScript. From the creators of Next.js, the AI SDK is a free open-source library for building AI-powered applications and agents"
-  },
-  {
-    "repo": "tldev/posturr",
+    "repo": "kellyvv/PhoneClaw",
     "branch": "main",
     "language": "Swift",
-    "description": "A macOS app that blurs your screen when you slouch. Uses Vision framework for real-time posture detection."
+    "description": "PhoneClaw: On-device AI Agent for Phone powered by Gemma 4"
   },
   {
-    "repo": "excalidraw/excalidraw",
-    "branch": "master",
-    "language": "TypeScript",
-    "description": "Virtual whiteboard for sketching hand-drawn like diagrams"
-  },
-  {
-    "repo": "angular/angular-cli",
+    "repo": "claude-code-best/claude-code",
     "branch": "main",
     "language": "TypeScript",
-    "description": "CLI tool for Angular"
+    "description": "Claude Code 可运行版; Typescript 类型全修复;企业级可靠性; 安全无毒, lock 文件保真, 可直接 bun i; bun run dev 启动"
   },
   {
-    "repo": "docker/compose",
+    "repo": "op7418/Claude-to-IM-skill",
     "branch": "main",
-    "language": "Go",
-    "description": "Define and run multi-container applications with Docker"
+    "language": "TypeScript",
+    "description": "Bridge Claude Code / Codex to IM platforms — chat with AI coding agents from Telegram, Discord, or Feishu/Lark."
   },
   {
-    "repo": "cockroachdb/cockroach",
+    "repo": "Orbital-Alpha/polymarket-copy-trading-bot",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "polymarket trading bot,polymarket copy trading bot,polymarket trading bot,polymarket copy trading bot,polymarket trading bot,polymarket copy trading bot,polymarket trading bot,polymarket copy trading bot,polymarket trading bot,polymarket copy trading bot,polymarket trading bot,polymarket copy trading bot,"
+  },
+  {
+    "repo": "yaojingang/GEOFlow",
+    "branch": "main",
+    "language": "PHP",
+    "description": "Open-source GEO content production system with AI tasks, review workflow, and publishing."
+  },
+  {
+    "repo": "lightbearco/tupper",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Open-source sandboxes for AI agents — run untrusted, AI-generated code safely on your own machine."
+  },
+  {
+    "repo": "taf2/mdvi",
     "branch": "master",
-    "language": "Go",
-    "description": "CockroachDB — the cloud native, distributed SQL database designed for high availability, effortless scale, and control over data placement."
+    "language": "Rust",
+    "description": "cli based Markdown viewer"
   },
   {
-    "repo": "google-deepmind/graphcast",
+    "repo": "vedangvatsa123/vedang-swarm-prediction",
     "branch": "main",
     "language": "Python",
-    "description": "Deep learning weather model from Google DeepMind."
+    "description": "Swarm Intelligence Prediction Engine - Multi-agent AI debate for calibrated forecasting"
   },
   {
-    "repo": "openai/CLIP",
-    "branch": "main",
-    "language": "Jupyter Notebook",
-    "description": "CLIP (Contrastive Language-Image Pretraining),  Predict the most relevant text snippet given an image"
-  },
-  {
-    "repo": "thepartly/gatehouse",
-    "branch": "main",
-    "language": "Rust",
-    "description": "A flexible authorization library that combines role-based (RBAC), attribute-based (ABAC), and relationship-based (ReBAC) access control policies."
-  },
-  {
-    "repo": "Anduin2017/HowToCook",
-    "branch": "master",
-    "language": "Dockerfile",
-    "description": "程序员在家做饭方法指南。Programmer's guide about how to cook at home (Simplified Chinese only)."
-  },
-  {
-    "repo": "firecracker-microvm/firecracker",
-    "branch": "main",
-    "language": "Rust",
-    "description": "Secure and fast microVMs for serverless computing."
-  },
-  {
-    "repo": "stanford-oval/storm",
-    "branch": "main",
-    "language": "Python",
-    "description": "An LLM-powered knowledge curation system that researches a topic and generates a full-length report with citations."
-  },
-  {
-    "repo": "microsoft/terminal",
-    "branch": "main",
-    "language": "C++",
-    "description": "The new Windows Terminal and the original Windows console host, all in the same place!"
-  },
-  {
-    "repo": "expo/expo",
+    "repo": "TheCSir/TerminalStart",
     "branch": "main",
     "language": "TypeScript",
-    "description": "An open-source framework for making universal native apps with React. Expo runs on Android, iOS, and the web."
+    "description": "Chromium Extension for Tech Bros"
+  },
+  {
+    "repo": "rebornix/Agmente",
+    "branch": "main",
+    "language": "Swift",
+    "description": ""
+  },
+  {
+    "repo": "cnlimiter/codex-register",
+    "branch": "master",
+    "language": "Python",
+    "description": ""
+  },
+  {
+    "repo": "browser-use/video-use",
+    "branch": "main",
+    "language": "Python",
+    "description": ""
   }
 ]
