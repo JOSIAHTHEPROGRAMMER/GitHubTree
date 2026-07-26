@@ -1,146 +1,146 @@
 [
   {
-    "repo": "gsd-build/gsd-2",
+    "repo": "GordenSun/GordenPPTSkill",
     "branch": "main",
-    "language": "TypeScript",
-    "description": "A powerful meta-prompting, context engineering and spec-driven development system that enables agents to work for long periods of time autonomously without losing track of the big picture"
+    "language": "Python",
+    "description": "AI-friendly PPT builder skill: 17 hand-polished Chinese PPTX templates + non-destructive text-only editing tools (python-pptx based). Pick a template, write edits.json, build a real .pptx with the layout intact. Personal/research use only."
   },
   {
-    "repo": "iampedii/WhiteDNS-Wizard",
+    "repo": "pulumi/pulumi",
+    "branch": "master",
+    "language": "Go",
+    "description": "Pulumi - Infrastructure as Code in any programming language 🚀"
+  },
+  {
+    "repo": "pengchengneo/Claude-Code",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "可运行的Claude Code源码"
+  },
+  {
+    "repo": "iluwatar/java-design-patterns",
+    "branch": "master",
+    "language": "Java",
+    "description": "Design patterns implemented in Java"
+  },
+  {
+    "repo": "cilium/cilium",
     "branch": "main",
     "language": "Go",
-    "description": "Cloudflare-first WhiteDNS CLI/TUI for provisioning a managed 3x-ui/Xray VPN stack over SSH, with DNS, certificates, client import links, Tor-routed profiles, diagnostics, backups, and repair/reset flows."
+    "description": "eBPF-based Networking, Security, and Observability"
   },
   {
-    "repo": "sequilade/tokentab",
+    "repo": "0Chencc/clawgod",
+    "branch": "main",
+    "language": "PowerShell",
+    "description": "This is NOT a third-party Claude Code client. ClawGod is a runtime patch applied on top of the official Claude Code. It works with any version — as Claude Code updates, the patch continues to take effect"
+  },
+  {
+    "repo": "zoontek/react-native-bootsplash",
+    "branch": "master",
+    "language": "TypeScript",
+    "description": "🚀 Show a splash screen during app startup. Hide it when you are ready."
+  },
+  {
+    "repo": "psf/requests-html",
+    "branch": "master",
+    "language": "Python",
+    "description": "Pythonic HTML Parsing for Humans™"
+  },
+  {
+    "repo": "Justi1980/Dawn-Validator-BOT",
     "branch": "main",
     "language": "Python",
-    "description": "A CLI that reads Claude Code, Codex, and Gemini CLI session logs and works out how much they cost, by model, project, and day."
+    "description": "Dawn Validator BOT — Automated node validation bot for Dawn Protocol testnet with multi-account support, proxy rotation, validator registration, keepalive pings, reward tracking, and Rich CLI interface for decentralized bandwidth network participation"
   },
   {
-    "repo": "SamAun1234/auto-2026",
+    "repo": "ionic-team/ionic-framework",
     "branch": "main",
-    "language": "C#",
-    "description": "dwg download 2d drafting 3d modeling design software autolisp specialized toolsets smart blocks architecture mechanical electrical"
+    "language": "TypeScript",
+    "description": "A powerful cross-platform UI toolkit for building native-quality iOS, Android, and Progressive Web Apps with HTML, CSS, and JavaScript."
   },
   {
-    "repo": "jmmy9609-design/gpt-pp",
+    "repo": "jobrunr/JavaClaw",
+    "branch": "main",
+    "language": "Java",
+    "description": "JavaClaw, a Java version of OpenClaw built on Spring Boot, Spring AI and JobRunr"
+  },
+  {
+    "repo": "tanviet12/chat-quality-agent",
+    "branch": "main",
+    "language": "Go",
+    "description": ""
+  },
+  {
+    "repo": "Sibyl-Research-Team/sibyl-research-system",
+    "branch": "main",
+    "language": "Python",
+    "description": "Fully Autonomous AI Research System with Self-Evolution, built natively on Claude Code"
+  },
+  {
+    "repo": "FireRedTeam/FireRed-OpenStoryline",
     "branch": "main",
     "language": "Python",
     "description": ""
   },
   {
-    "repo": "b-nnett/goose",
-    "branch": "main",
-    "language": "Rust",
-    "description": "Goose Swift proof-of-concept README"
-  },
-  {
-    "repo": "boto/boto",
-    "branch": "develop",
-    "language": "Python",
-    "description": "For the latest version of boto, see https://github.com/boto/boto3 -- Python interface to Amazon Web Services"
-  },
-  {
-    "repo": "halfof8/patterngen-oss",
+    "repo": "ngrx/platform",
     "branch": "main",
     "language": "TypeScript",
+    "description": "Reactive State for Angular"
+  },
+  {
+    "repo": "LightTable/LightTable",
+    "branch": "master",
+    "language": "Clojure",
+    "description": "The Light Table IDE ⛺"
+  },
+  {
+    "repo": "superturtlee/gbl_root_canoe",
+    "branch": "main",
+    "language": "C",
+    "description": "凭什么ROOT就不给用指纹支付？？？"
+  },
+  {
+    "repo": "ysharma3501/LavaSR",
+    "branch": "main",
+    "language": "Python",
+    "description": "🌋LavaSR: Fast Speech restoration and enhancement"
+  },
+  {
+    "repo": "Veirt/weathr",
+    "branch": "main",
+    "language": "Rust",
+    "description": "a terminal weather app with ascii animation"
+  },
+  {
+    "repo": "networkx/networkx",
+    "branch": "main",
+    "language": "Python",
+    "description": "Network Analysis in Python"
+  },
+  {
+    "repo": "XiaomiRobotics/Xiaomi-Robotics-0",
+    "branch": "main",
+    "language": "Python",
     "description": ""
   },
   {
-    "repo": "openai/triton",
-    "branch": "main",
-    "language": "MLIR",
-    "description": "Development repository for the Triton language and compiler"
-  },
-  {
-    "repo": "lodash/lodash",
-    "branch": "master",
-    "language": "JavaScript",
-    "description": "A modern JavaScript utility library delivering modularity, performance, & extras."
-  },
-  {
-    "repo": "nesaminua/claude-code-lsp-enforcement-kit",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "Hooks that force Claude Code to use LSP instead of Grep for code navigation. Saves   ~80% tokens"
-  },
-  {
-    "repo": "FrondEnt/PolymarketBTC15mAssistant",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "Real-time Polymarket BTC 15m trading assistant for every trader! created by @krajekis"
-  },
-  {
-    "repo": "SXai-lab/prediction-market-arbitrage",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Polymarket套利交易机器人 Polymarket套利机器人 机器人 arbitrage trading bot polymarket arbitrage bot Polymarket套利交易机器人 Polymarket套利机器人 机器人 arbitrage trading bot polymarket arbitrage bot Polymarket套利交易机器人 Polymarket套利机器人 机器人 arbitrage trading bot polymarket arbitrage bot Polymarket套利交易机器人 Polymarket套利机器人 机器人 arbitrage trading bot polymarket arbitrage bot Polymarket"
-  },
-  {
-    "repo": "XFaltixX/DBD-AutoGrind-Trainer-2026-Extreme",
+    "repo": "Soul-AILab/SoulX-Singer",
     "branch": "main",
     "language": "Python",
-    "description": "Ultimate Dead by Daylight auto-grind trainer Extreme edition with Bloodpoint bot, ESP wallhack, aimbot, and full perk/skin unlocker. Dominate the Fog with our 2026 undetected external tool."
+    "description": "Official inference code for SoulX-Singer: Towards High-Quality Zero-Shot Singing Voice Synthesis"
   },
   {
-    "repo": "prisma/prisma",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server, SQLite, MongoDB and CockroachDB"
-  },
-  {
-    "repo": "millionco/react-doctor",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Let coding agents diagnose and fix your React code"
-  },
-  {
-    "repo": "mui/material-ui",
-    "branch": "master",
-    "language": "JavaScript",
-    "description": "Material UI: Comprehensive React component library that implements Google's Material Design. Free forever."
-  },
-  {
-    "repo": "warpdot-dev/craft-agents-oss",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "electron anthropic claude-agent-sdk mcp bun websocket thin-client multi-llm openapi skills automations oauth desktop-ai github-copilot google-ai chatgpt devtools apache-2 headless-server pi-sdk vscode-alternative linux macos windows"
-  },
-  {
-    "repo": "lukehinds/nono",
+    "repo": "kata-containers/kata-containers",
     "branch": "main",
     "language": "Rust",
-    "description": "OS-Level Isolation for AI Agents."
+    "description": "Kata Containers is an open source project and community working to build a standard implementation of lightweight Virtual Machines (VMs) that feel and perform like containers, but provide the workload isolation and security advantages of VMs. https://katacontainers.io/"
   },
   {
-    "repo": "170-carry/codex-tools",
+    "repo": "NirDiamant/GenAI_Agents",
     "branch": "main",
-    "language": "Rust",
-    "description": "快捷切换codex 账号以及监控codex用量的工具"
-  },
-  {
-    "repo": "getify/You-Dont-Know-JS",
-    "branch": "master",
-    "language": "Other",
-    "description": "A book series (2 published editions) on the JS language."
-  },
-  {
-    "repo": "owengretzinger/constellagent",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Desktop app for running multiple AI agents in parallel. Each agent gets its own terminal, editor, and git worktree, all in one window."
-  },
-  {
-    "repo": "facebookresearch/ProgramBench",
-    "branch": "main",
-    "language": "Python",
-    "description": "Can Language Models Rebuild Programs From Scratch?"
-  },
-  {
-    "repo": "h5bp/html5-boilerplate",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "A professional front-end template for building fast, robust, and adaptable web apps or sites."
+    "language": "Jupyter Notebook",
+    "description": "This repository provides tutorials and implementations for various Generative AI Agent techniques, from basic to advanced. It serves as a comprehensive guide for building intelligent, interactive AI systems."
   }
 ]

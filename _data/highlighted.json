@@ -1,8 +1,8 @@
 {
-  "repo": "haoran-zha/Awesome-Spiking-Neural-Networks-Hub",
+  "repo": "msdsj/grok-account-manager-main",
   "branch": "main",
   "language": "Python",
-  "description": "The comprehensive bilingual (EN/中文) hub for Spiking Neural Networks — 340+ papers, models, neuromorphic hardware, datasets, tools & research groups.",
-  "stars": 106,
-  "forks": 1
+  "description": "grok注册机，支持域名邮箱和微软邮箱和谷歌邮箱自动化注册获取SSO、RT、AT",
+  "stars": 105,
+  "forks": 32
 }
