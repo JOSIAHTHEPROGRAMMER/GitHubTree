@@ -1,8 +1,8 @@
 {
-  "repo": "msdsj/grok-account-manager-main",
+  "repo": "0xwilliamortiz/agents-council",
   "branch": "main",
-  "language": "Python",
-  "description": "grok注册机，支持域名邮箱和微软邮箱和谷歌邮箱自动化注册获取SSO、RT、AT",
-  "stars": 105,
-  "forks": 32
+  "language": "JavaScript",
+  "description": "Multi-agents collaboration plugin for Claude Code - orchestrate multiple AI agents (Codex CLI, Gemini CLI, etc.) for diverse perspectives",
+  "stars": 112,
+  "forks": 3
 }
