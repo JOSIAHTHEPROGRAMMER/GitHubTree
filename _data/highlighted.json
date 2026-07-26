@@ -1,8 +1,8 @@
 {
-  "repo": "0xwilliamortiz/agents-council",
+  "repo": "haoran-zha/Awesome-Spiking-Neural-Networks-Hub",
   "branch": "main",
-  "language": "JavaScript",
-  "description": "Multi-agents collaboration plugin for Claude Code - orchestrate multiple AI agents (Codex CLI, Gemini CLI, etc.) for diverse perspectives",
-  "stars": 111,
-  "forks": 2
+  "language": "Python",
+  "description": "The comprehensive bilingual (EN/中文) hub for Spiking Neural Networks — 340+ papers, models, neuromorphic hardware, datasets, tools & research groups.",
+  "stars": 106,
+  "forks": 1
 }

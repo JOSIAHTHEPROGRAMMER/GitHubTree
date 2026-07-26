@@ -1,146 +1,146 @@
 [
   {
-    "repo": "ethereumjs/ethereumjs-monorepo",
-    "branch": "master",
-    "language": "TypeScript",
-    "description": "Ethereum L1 Protocol Stack and EVM in TypeScript"
-  },
-  {
-    "repo": "NicholasSlattery/sony-head-tracker",
-    "branch": "main",
-    "language": "C++",
-    "description": "Use the motion sensors inside Sony headphones as a low-latency Windows head tracker for OpenTrack and simulator games."
-  },
-  {
-    "repo": "TraderAlice/Auto-Quant",
-    "branch": "master",
-    "language": "Python",
-    "description": ""
-  },
-  {
-    "repo": "timhartmann7/omnyssh",
-    "branch": "main",
-    "language": "Rust",
-    "description": "A fast, keyboard-driven TUI for managing SSH connections, written in Rust"
-  },
-  {
-    "repo": "Ping89/MT5EA-Forex-Trading",
-    "branch": "main",
-    "language": "MQL5",
-    "description": "download Forex trading stocks futures MQL5 Expert Advisors EA indicators strategy tester charts brokerage terminal algorithmic trading technical analysis signals copy trading multi-asset platform financial markets automated trading trading bot web terminal depth of market economic calendar order execution leverage margin spread pips."
-  },
-  {
-    "repo": "zacdcook/openclaw-billing-proxy",
-    "branch": "master",
-    "language": "JavaScript",
-    "description": "Route OpenClaw API requests through Claude Code subscription billing instead of Extra Usage"
-  },
-  {
-    "repo": "connectfarm1/accumulation-radar",
-    "branch": "main",
-    "language": "Python",
-    "description": "🏦 Accumulation Radar — Auto-detect market maker accumulation + OI anomaly + 3-strategy scoring for crypto futures. Pure Python, zero AI cost."
-  },
-  {
-    "repo": "iam567/LifeManga",
-    "branch": "main",
-    "language": "Swift",
-    "description": "ios swift swiftui openai gpt-image manga ai-art"
-  },
-  {
-    "repo": "heyderekj/dinky",
-    "branch": "main",
-    "language": "Swift",
-    "description": "Dinky makes files smaller."
-  },
-  {
-    "repo": "TitanFlow-Systems/best-of-algorithmic-trading",
+    "repo": "gsd-build/gsd-2",
     "branch": "main",
     "language": "TypeScript",
-    "description": "best-of algorithmic trading quant finance crypto bots frameworks APIs TA indicators libraries Freqtrade Hummingbot OctoBot Jesse Zipline backtrader CCXT Lean StockSharp Python Node Rust Go TypeScript C# Java forex stocks derivatives polymarket prediction-markets courses books YouTube Telegram communities fintech opensource weekly ranked star-score"
+    "description": "A powerful meta-prompting, context engineering and spec-driven development system that enables agents to work for long periods of time autonomously without losing track of the big picture"
   },
   {
-    "repo": "inclusionAI/cuLA",
-    "branch": "main",
-    "language": "Python",
-    "description": "CUDA kernels for linear attention variants, written in CuTe DSL and CUTLASS C++."
-  },
-  {
-    "repo": "math-ai-org/mathcode",
-    "branch": "main",
-    "language": "Python",
-    "description": "MathCode: A Frontier Mathematical Coding Agent"
-  },
-  {
-    "repo": "HzWeta/Delta-For-Roblox-PC-Edition",
-    "branch": "main",
-    "language": "C++",
-    "description": "Delta For Roblox PC Edition delivers a smooth and optimized Roblox experience on Windows. Enjoy better performance, higher FPS, widescreen support, and enhanced stability while playing your favorite Roblox games on desktop."
-  },
-  {
-    "repo": "Dangerous-hole/Pumpfun_AI_Trading_Bot",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Pump.fun Pump.fun Solana Solana TypeScript TypeScript trading bot trading bot AI trading AI trading OpenAI OpenAI CLI automation meme coin meme coin cryptocurrency cryptocurrency token token comment bot comment bot Solana bot Solana bot web3 web3"
-  },
-  {
-    "repo": "XBuilderLAB/cheat-on-content",
-    "branch": "main",
-    "language": "Python",
-    "description": "Content is already a cheat-code race—whoever cracks the patterns first wins the traffic. Your auto-evolving ops expert that learns YOUR account, not the global average. The Claude Code workflow behind 1M followers in 1 month."
-  },
-  {
-    "repo": "CodeAbra/iai-mcp",
-    "branch": "main",
-    "language": "Python",
-    "description": "The best-benchmarked open-source memory system for AI coding assistants"
-  },
-  {
-    "repo": "pmndrs/zustand",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "🐻 Bear necessities for state management in React"
-  },
-  {
-    "repo": "DevTechJr/turboquant-gpu",
-    "branch": "main",
-    "language": "Python",
-    "description": ""
-  },
-  {
-    "repo": "maaslalani/sheets",
+    "repo": "iampedii/WhiteDNS-Wizard",
     "branch": "main",
     "language": "Go",
-    "description": "Terminal based spreadsheet tool"
+    "description": "Cloudflare-first WhiteDNS CLI/TUI for provisioning a managed 3x-ui/Xray VPN stack over SSH, with DNS, certificates, client import links, Tor-routed profiles, diagnostics, backups, and repair/reset flows."
   },
   {
-    "repo": "ryrylliee/Super-Smash-Bros-PC",
+    "repo": "sequilade/tokentab",
     "branch": "main",
-    "language": "C++",
-    "description": "Super Smash Bros PC Download May 2026 Ultimate Performance Fix Eden Citron Emulator Smash Remix v2.0.1 Update Tug of War Mode Rollback Netplay Guide 4K Texture Pack High FPS Low Latency GameCube Adapter Setup Project Plus Slippi Melee Online Tutorial Free Full Version Latest Build"
+    "language": "Python",
+    "description": "A CLI that reads Claude Code, Codex, and Gemini CLI session logs and works out how much they cost, by model, project, and day."
   },
   {
-    "repo": "johnBuffer/StableIndexVector",
+    "repo": "SamAun1234/auto-2026",
     "branch": "main",
-    "language": "C++",
+    "language": "C#",
+    "description": "dwg download 2d drafting 3d modeling design software autolisp specialized toolsets smart blocks architecture mechanical electrical"
+  },
+  {
+    "repo": "jmmy9609-design/gpt-pp",
+    "branch": "main",
+    "language": "Python",
     "description": ""
   },
   {
-    "repo": "open-telemetry/opentelemetry-js",
+    "repo": "b-nnett/goose",
     "branch": "main",
-    "language": "TypeScript",
-    "description": "OpenTelemetry JavaScript Client"
+    "language": "Rust",
+    "description": "Goose Swift proof-of-concept README"
   },
   {
-    "repo": "codeany-ai/open-agent-sdk-typescript",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Agent-SDK without CLI dependencies, as an alternative to claude-agent-sdk, completely open source"
+    "repo": "boto/boto",
+    "branch": "develop",
+    "language": "Python",
+    "description": "For the latest version of boto, see https://github.com/boto/boto3 -- Python interface to Amazon Web Services"
   },
   {
-    "repo": "apache/pulsar",
+    "repo": "halfof8/patterngen-oss",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": ""
+  },
+  {
+    "repo": "openai/triton",
+    "branch": "main",
+    "language": "MLIR",
+    "description": "Development repository for the Triton language and compiler"
+  },
+  {
+    "repo": "lodash/lodash",
     "branch": "master",
-    "language": "Java",
-    "description": "Apache Pulsar - distributed pub-sub messaging system"
+    "language": "JavaScript",
+    "description": "A modern JavaScript utility library delivering modularity, performance, & extras."
+  },
+  {
+    "repo": "nesaminua/claude-code-lsp-enforcement-kit",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "Hooks that force Claude Code to use LSP instead of Grep for code navigation. Saves   ~80% tokens"
+  },
+  {
+    "repo": "FrondEnt/PolymarketBTC15mAssistant",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "Real-time Polymarket BTC 15m trading assistant for every trader! created by @krajekis"
+  },
+  {
+    "repo": "SXai-lab/prediction-market-arbitrage",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Polymarket套利交易机器人 Polymarket套利机器人 机器人 arbitrage trading bot polymarket arbitrage bot Polymarket套利交易机器人 Polymarket套利机器人 机器人 arbitrage trading bot polymarket arbitrage bot Polymarket套利交易机器人 Polymarket套利机器人 机器人 arbitrage trading bot polymarket arbitrage bot Polymarket套利交易机器人 Polymarket套利机器人 机器人 arbitrage trading bot polymarket arbitrage bot Polymarket"
+  },
+  {
+    "repo": "XFaltixX/DBD-AutoGrind-Trainer-2026-Extreme",
+    "branch": "main",
+    "language": "Python",
+    "description": "Ultimate Dead by Daylight auto-grind trainer Extreme edition with Bloodpoint bot, ESP wallhack, aimbot, and full perk/skin unlocker. Dominate the Fog with our 2026 undetected external tool."
+  },
+  {
+    "repo": "prisma/prisma",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server, SQLite, MongoDB and CockroachDB"
+  },
+  {
+    "repo": "millionco/react-doctor",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Let coding agents diagnose and fix your React code"
+  },
+  {
+    "repo": "mui/material-ui",
+    "branch": "master",
+    "language": "JavaScript",
+    "description": "Material UI: Comprehensive React component library that implements Google's Material Design. Free forever."
+  },
+  {
+    "repo": "warpdot-dev/craft-agents-oss",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "electron anthropic claude-agent-sdk mcp bun websocket thin-client multi-llm openapi skills automations oauth desktop-ai github-copilot google-ai chatgpt devtools apache-2 headless-server pi-sdk vscode-alternative linux macos windows"
+  },
+  {
+    "repo": "lukehinds/nono",
+    "branch": "main",
+    "language": "Rust",
+    "description": "OS-Level Isolation for AI Agents."
+  },
+  {
+    "repo": "170-carry/codex-tools",
+    "branch": "main",
+    "language": "Rust",
+    "description": "快捷切换codex 账号以及监控codex用量的工具"
+  },
+  {
+    "repo": "getify/You-Dont-Know-JS",
+    "branch": "master",
+    "language": "Other",
+    "description": "A book series (2 published editions) on the JS language."
+  },
+  {
+    "repo": "owengretzinger/constellagent",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Desktop app for running multiple AI agents in parallel. Each agent gets its own terminal, editor, and git worktree, all in one window."
+  },
+  {
+    "repo": "facebookresearch/ProgramBench",
+    "branch": "main",
+    "language": "Python",
+    "description": "Can Language Models Rebuild Programs From Scratch?"
+  },
+  {
+    "repo": "h5bp/html5-boilerplate",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "A professional front-end template for building fast, robust, and adaptable web apps or sites."
   }
 ]
