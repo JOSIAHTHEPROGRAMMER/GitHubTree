@@ -1,146 +1,146 @@
 [
   {
-    "repo": "ChristianJR19/p-peg",
+    "repo": "ethereumjs/ethereumjs-monorepo",
+    "branch": "master",
+    "language": "TypeScript",
+    "description": "Ethereum L1 Protocol Stack and EVM in TypeScript"
+  },
+  {
+    "repo": "NicholasSlattery/sony-head-tracker",
     "branch": "main",
+    "language": "C++",
+    "description": "Use the motion sensors inside Sony headphones as a low-latency Windows head tracker for OpenTrack and simulator games."
+  },
+  {
+    "repo": "TraderAlice/Auto-Quant",
+    "branch": "master",
     "language": "Python",
     "description": ""
   },
   {
-    "repo": "AgentSeal/codeburn",
+    "repo": "timhartmann7/omnyssh",
     "branch": "main",
-    "language": "TypeScript",
-    "description": "See where your AI coding tokens go. Interactive TUI dashboard for Claude Code and Codex cost observability."
+    "language": "Rust",
+    "description": "A fast, keyboard-driven TUI for managing SSH connections, written in Rust"
   },
   {
-    "repo": "diepvantien/Tiktok-Pro-Tools",
+    "repo": "Ping89/MT5EA-Forex-Trading",
     "branch": "main",
+    "language": "MQL5",
+    "description": "download Forex trading stocks futures MQL5 Expert Advisors EA indicators strategy tester charts brokerage terminal algorithmic trading technical analysis signals copy trading multi-asset platform financial markets automated trading trading bot web terminal depth of market economic calendar order execution leverage margin spread pips."
+  },
+  {
+    "repo": "zacdcook/openclaw-billing-proxy",
+    "branch": "master",
     "language": "JavaScript",
-    "description": ""
+    "description": "Route OpenClaw API requests through Claude Code subscription billing instead of Extra Usage"
   },
   {
-    "repo": "lzhgus/Capso",
+    "repo": "connectfarm1/accumulation-radar",
+    "branch": "main",
+    "language": "Python",
+    "description": "🏦 Accumulation Radar — Auto-detect market maker accumulation + OI anomaly + 3-strategy scoring for crypto futures. Pure Python, zero AI cost."
+  },
+  {
+    "repo": "iam567/LifeManga",
     "branch": "main",
     "language": "Swift",
-    "description": "Open-source screenshot and screen recording for macOS. The free, native alternative to CleanShot X. Built with Swift 6.0 and SwiftUI."
+    "description": "ios swift swiftui openai gpt-image manga ai-art"
   },
   {
-    "repo": "cv-cat/TaoBaoApis",
-    "branch": "master",
-    "language": "Python",
-    "description": "淘宝算法逆向，淘宝api，websockets自动运营，淘宝AI Agent基座"
-  },
-  {
-    "repo": "Tencent-Hunyuan/Hy3",
+    "repo": "heyderekj/dinky",
     "branch": "main",
-    "language": "Python",
-    "description": "Hy3 (295B A21B), a leading reasoning and agent model in its size, with great cost efficiency."
+    "language": "Swift",
+    "description": "Dinky makes files smaller."
   },
   {
-    "repo": "machinefi/trio-retina",
-    "branch": "main",
-    "language": "Python",
-    "description": "Model-agnostic state layer for world models — turn any detector (YOLO · VLM · DINO) into one standard, queryable stream of events + latent state. numpy-only, runs on CPU at the edge."
-  },
-  {
-    "repo": "dineshbajgain/Final_Fantasy_XIV_Auto-Grind_Bot",
-    "branch": "main",
-    "language": "Python",
-    "description": "Auto-grind, gather, and crafting bot for FFXIV. Level up jobs, farm materials, and craft items automatically. Perfect for endgame farming."
-  },
-  {
-    "repo": "inbrainfun/inbrain",
+    "repo": "TitanFlow-Systems/best-of-algorithmic-trading",
     "branch": "main",
     "language": "TypeScript",
+    "description": "best-of algorithmic trading quant finance crypto bots frameworks APIs TA indicators libraries Freqtrade Hummingbot OctoBot Jesse Zipline backtrader CCXT Lean StockSharp Python Node Rust Go TypeScript C# Java forex stocks derivatives polymarket prediction-markets courses books YouTube Telegram communities fintech opensource weekly ranked star-score"
+  },
+  {
+    "repo": "inclusionAI/cuLA",
+    "branch": "main",
+    "language": "Python",
+    "description": "CUDA kernels for linear attention variants, written in CuTe DSL and CUTLASS C++."
+  },
+  {
+    "repo": "math-ai-org/mathcode",
+    "branch": "main",
+    "language": "Python",
+    "description": "MathCode: A Frontier Mathematical Coding Agent"
+  },
+  {
+    "repo": "HzWeta/Delta-For-Roblox-PC-Edition",
+    "branch": "main",
+    "language": "C++",
+    "description": "Delta For Roblox PC Edition delivers a smooth and optimized Roblox experience on Windows. Enjoy better performance, higher FPS, widescreen support, and enhanced stability while playing your favorite Roblox games on desktop."
+  },
+  {
+    "repo": "Dangerous-hole/Pumpfun_AI_Trading_Bot",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Pump.fun Pump.fun Solana Solana TypeScript TypeScript trading bot trading bot AI trading AI trading OpenAI OpenAI CLI automation meme coin meme coin cryptocurrency cryptocurrency token token comment bot comment bot Solana bot Solana bot web3 web3"
+  },
+  {
+    "repo": "XBuilderLAB/cheat-on-content",
+    "branch": "main",
+    "language": "Python",
+    "description": "Content is already a cheat-code race—whoever cracks the patterns first wins the traffic. Your auto-evolving ops expert that learns YOUR account, not the global average. The Claude Code workflow behind 1M followers in 1 month."
+  },
+  {
+    "repo": "CodeAbra/iai-mcp",
+    "branch": "main",
+    "language": "Python",
+    "description": "The best-benchmarked open-source memory system for AI coding assistants"
+  },
+  {
+    "repo": "pmndrs/zustand",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "🐻 Bear necessities for state management in React"
+  },
+  {
+    "repo": "DevTechJr/turboquant-gpu",
+    "branch": "main",
+    "language": "Python",
     "description": ""
   },
   {
-    "repo": "raheemxghumman/DBD-AutoGrind-Trainer-2026-Elite",
-    "branch": "main",
-    "language": "Python",
-    "description": "Ultimate Dead by Daylight auto-grind trainer Elite edition with Bloodpoint bot, ESP wallhack, aimbot, and full perk/skin unlocker. Dominate the Fog with our 2026 undetected external tool."
-  },
-  {
-    "repo": "umacloud/umadev",
-    "branch": "main",
-    "language": "Rust",
-    "description": "AI 编码项目总监 Agent:驱动你已登录的 Claude Code / Codex / OpenCode，套上 9 阶段可治理的商业级交付流水线。  AI Coding Project Director Agent | Power Claude Code, Codex & OpenCode with a 9-stage governable commercial delivery pipeline."
-  },
-  {
-    "repo": "YuriCrystal/ai-avatar-bot",
-    "branch": "main",
-    "language": "HTML",
-    "description": "可一行嵌入任何網站的 Live2D 語音 AI 虛擬人元件 — 皮肉分離、零金鑰、神經語音可選"
-  },
-  {
-    "repo": "Sortesylvia25678/Polymarket-Arbitrage-Bot",
-    "branch": "main",
-    "language": "Python",
-    "description": "Automated arbitrage and copy-trading bot for Polymarket prediction markets with real-time odds monitoring, Kelly criterion sizing, and comprehensive P&L tracking"
-  },
-  {
-    "repo": "ShandaAI/AlayaRenderer",
-    "branch": "master",
-    "language": "Python",
-    "description": "Generative World Renderer"
-  },
-  {
-    "repo": "mbflabs/Steam_Auto-Buy_Bot",
-    "branch": "main",
-    "language": "Python",
-    "description": "Automated purchasing of limited items, market sniping, and wallet top-up. Purchase items instantly, buy underpriced items, add funds automatically, and manage inventory. Best for Steam traders."
-  },
-  {
-    "repo": "eternityspring/article-tools",
-    "branch": "main",
-    "language": "HTML",
-    "description": "一套封面制作和x、微信公众号排版工具"
-  },
-  {
-    "repo": "patterniha/SNI-Spoofing",
-    "branch": "main",
-    "language": "Python",
-    "description": "Bypass DPI with IP/TCP-Header manipulation"
-  },
-  {
-    "repo": "b-nnett/codex-plusplus",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Codex++ tweak system for the Codex desktop app"
-  },
-  {
-    "repo": "XFaltixX/DBD-AutoGrind-Trainer-2026-Plus",
-    "branch": "main",
-    "language": "Python",
-    "description": "Ultimate Dead by Daylight auto-grind trainer Plus edition with Bloodpoint bot, ESP wallhack, aimbot, and full perk/skin unlocker. Dominate the Fog with our 2026 undetected external tool."
-  },
-  {
-    "repo": "tastyeffectco/sandboxd",
+    "repo": "maaslalani/sheets",
     "branch": "main",
     "language": "Go",
-    "description": "Self-hosted dev sandboxes with preview URLs. One command. No Kubernetes, perfect for coding agents and Saas factories"
+    "description": "Terminal based spreadsheet tool"
   },
   {
-    "repo": "NikolayS/pgque",
+    "repo": "ryrylliee/Super-Smash-Bros-PC",
     "branch": "main",
-    "language": "PLpgSQL",
-    "description": "PgQue – Zero-bloat Postgres queue. One SQL file to install, pg_cron to tick."
+    "language": "C++",
+    "description": "Super Smash Bros PC Download May 2026 Ultimate Performance Fix Eden Citron Emulator Smash Remix v2.0.1 Update Tug of War Mode Rollback Netplay Guide 4K Texture Pack High FPS Low Latency GameCube Adapter Setup Project Plus Slippi Melee Online Tutorial Free Full Version Latest Build"
   },
   {
-    "repo": "joeseesun/qiaomu-blog-opensource",
+    "repo": "johnBuffer/StableIndexVector",
+    "branch": "main",
+    "language": "C++",
+    "description": ""
+  },
+  {
+    "repo": "open-telemetry/opentelemetry-js",
     "branch": "main",
     "language": "TypeScript",
-    "description": "Open-source Cloudflare blog template based on OpenNext, Next.js 16, D1, and R2"
+    "description": "OpenTelemetry JavaScript Client"
   },
   {
-    "repo": "hanxiao/dataroom",
+    "repo": "codeany-ai/open-agent-sdk-typescript",
     "branch": "main",
-    "language": "Python",
-    "description": "Give a query, get a dataroom. Pi + self-hosted Qwen3.6 research harness on a single L4."
+    "language": "TypeScript",
+    "description": "Agent-SDK without CLI dependencies, as an alternative to claude-agent-sdk, completely open source"
   },
   {
-    "repo": "Rajaniraiyn/jzon-rs",
-    "branch": "main",
-    "language": "Rust",
-    "description": "Zero-copy JSON serialization with compile-time generated typed parsers"
+    "repo": "apache/pulsar",
+    "branch": "master",
+    "language": "Java",
+    "description": "Apache Pulsar - distributed pub-sub messaging system"
   }
 ]
