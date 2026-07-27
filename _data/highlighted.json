@@ -1,8 +1,8 @@
 {
-  "repo": "Liuziyu77/AnythingAtlas",
+  "repo": "cporter202/coreclaw-api-directory",
   "branch": "main",
   "language": "Python",
-  "description": "Map the best way into any topic. 规划任何主题的最佳学习路径。",
-  "stars": 125,
-  "forks": 17
+  "description": "An unofficial, categorized directory of 118 CoreClaw Worker APIs for web scraping, automation, lead generation, e-commerce, social data, and more.",
+  "stars": 110,
+  "forks": 30
 }
