@@ -1,146 +1,146 @@
 [
   {
-    "repo": "sunyouzhi2003/LSFG-Desktop",
-    "branch": "main",
-    "language": "C++",
-    "description": "Lossless Scaling 2026: Universal Frame Generation LSFG 3. Multi-frame gen: X2, X3, X4 multiplier for extreme FPS. AI Upscaling: LS1, FSR 3.1, NIS. Smooth gaming on Steam Deck, handhelds, and Android (LSFG-VK). Fix stuttering, low latency mode, VRR support, 4K spatial scaling, G-Sync compatible."
-  },
-  {
-    "repo": "zuckermanai/zuckerman",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Ultra-minimal personal AI agent: starts small, self-modifies its code live, adapts by writing exactly the code & features you need"
-  },
-  {
-    "repo": "huggingface/trl",
-    "branch": "main",
-    "language": "Python",
-    "description": "Train transformer language models with reinforcement learning."
-  },
-  {
-    "repo": "Solido/awesome-flutter",
-    "branch": "master",
-    "language": "Dart",
-    "description": "An awesome list that curates the best Flutter libraries, tools, tutorials, articles and more."
-  },
-  {
-    "repo": "signalapp/Signal-Desktop",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "A private messenger for Windows, macOS, and Linux."
-  },
-  {
-    "repo": "paramiko/paramiko",
-    "branch": "main",
-    "language": "Python",
-    "description": "The leading native Python SSHv2 protocol library."
-  },
-  {
-    "repo": "apache/mxnet",
-    "branch": "master",
-    "language": "C++",
-    "description": "Lightweight, Portable, Flexible Distributed/Mobile Deep Learning with Dynamic, Mutation-aware Dataflow Dep Scheduler; for Python, R, Julia, Scala, Go, Javascript and more"
-  },
-  {
-    "repo": "hammerjs/hammer.js",
+    "repo": "xicilion/boxsh",
     "branch": "master",
     "language": "JavaScript",
-    "description": "A javascript library for multi-touch gestures :// You can touch this"
+    "description": "A sandboxed POSIX shell with a concurrent JSON-line RPC mode"
   },
   {
-    "repo": "tensorflow/tensorboard",
-    "branch": "master",
-    "language": "TypeScript",
-    "description": "TensorFlow's Visualization Toolkit"
-  },
-  {
-    "repo": "angular/angular",
+    "repo": "MoonshotAI/Kimi-VL",
     "branch": "main",
-    "language": "TypeScript",
-    "description": "Deliver web apps with confidence 🚀"
+    "language": "Other",
+    "description": "Kimi-VL: Mixture-of-Experts Vision-Language Model for Multimodal Reasoning, Long-Context Understanding, and Strong Agent Capabilities"
   },
   {
-    "repo": "openai/shap-e",
-    "branch": "main",
-    "language": "Python",
-    "description": "Generate 3D objects conditioned on text or images"
-  },
-  {
-    "repo": "Alamofire/Alamofire",
+    "repo": "antonmedv/fx",
     "branch": "master",
+    "language": "Go",
+    "description": "Terminal JSON viewer & processor"
+  },
+  {
+    "repo": "element-hq/element-ios",
+    "branch": "develop",
     "language": "Swift",
-    "description": "Elegant HTTP Networking in Swift"
+    "description": "A glossy Matrix collaboration client for iOS"
   },
   {
-    "repo": "brackets-cont/brackets",
-    "branch": "master",
-    "language": "JavaScript",
-    "description": "An open source code editor for the web, written in JavaScript, HTML and CSS."
-  },
-  {
-    "repo": "facebook/docusaurus",
+    "repo": "actions/runner-images",
     "branch": "main",
-    "language": "TypeScript",
-    "description": "Easy to maintain open source documentation websites."
+    "language": "PowerShell",
+    "description": "GitHub Actions runner images"
   },
   {
-    "repo": "googleapis/python-storage",
-    "branch": "main",
-    "language": "Python",
-    "description": "Python SDK for GCS (Google Cloud Storage)"
-  },
-  {
-    "repo": "microsoft/calculator",
-    "branch": "main",
-    "language": "C++",
-    "description": "Windows Calculator: A simple yet powerful calculator that ships with Windows"
-  },
-  {
-    "repo": "wasmerio/wasmer",
-    "branch": "master",
-    "language": "Rust",
-    "description": "🚀 Fast, secure, lightweight containers based on WebAssembly"
-  },
-  {
-    "repo": "freqtrade/freqtrade",
+    "repo": "boto/boto",
     "branch": "develop",
     "language": "Python",
-    "description": "Free, open source crypto trading bot"
+    "description": "For the latest version of boto, see https://github.com/boto/boto3 -- Python interface to Amazon Web Services"
   },
   {
-    "repo": "dagster-io/dagster",
+    "repo": "golang-migrate/migrate",
     "branch": "master",
-    "language": "Python",
-    "description": "An orchestration platform for the development, production, and observation of data assets."
+    "language": "Go",
+    "description": "Database migrations. CLI and Golang library."
   },
   {
-    "repo": "electron-userland/electron-builder",
-    "branch": "master",
+    "repo": "trycua/launchpad",
+    "branch": "main",
     "language": "TypeScript",
-    "description": "A complete solution to package and build a ready for distribution Electron app with “auto update” support out of the box"
+    "description": ""
   },
   {
-    "repo": "NVIDIA/cudnn-frontend",
+    "repo": "lukehinds/nono",
     "branch": "main",
-    "language": "C++",
-    "description": "cudnn_frontend provides a c++ wrapper for the cudnn backend API and samples on how to use it"
+    "language": "Rust",
+    "description": "OS-Level Isolation for AI Agents."
   },
   {
-    "repo": "abi/screenshot-to-code",
+    "repo": "mrphrazer/agentic-malware-analysis",
     "branch": "main",
-    "language": "Python",
-    "description": "Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue)"
+    "language": "YARA",
+    "description": "Agentic malware analysis environment with MCP-connected disassemblers, RE tooling, and structured workflows for Claude Code and Codex CLI."
   },
   {
-    "repo": "tiangolo/fastapi",
+    "repo": "geekjourneyx/jina-cli",
+    "branch": "main",
+    "language": "Go",
+    "description": "A lightweight CLI tool wrapping Jina AI Reader API for AI Agents. Fetch and parse any URL into LLM-friendly   formats (Markdown/Text/HTML). Perfect for reading X(Twitter), blogs, and news sites."
+  },
+  {
+    "repo": "graphql-rust/juniper",
     "branch": "master",
-    "language": "Python",
-    "description": "FastAPI framework, high performance, easy to learn, fast to code, ready for production"
+    "language": "Rust",
+    "description": "GraphQL server library for Rust"
   },
   {
-    "repo": "jupyter/notebook",
+    "repo": "TrendTechVista/polymarket-copy-trading-bot",
     "branch": "main",
-    "language": "Jupyter Notebook",
-    "description": "Jupyter Interactive Notebook"
+    "language": "TypeScript",
+    "description": "polymarket copy trading bot polymarket copy trading bot polymarket copy trading bot polymarket copy trading bot polymarket copy trading bot polymarket copy trading bot polymarket copy trading bot polymarket copy trading bot polymarket copy trading bot polymarket copy trading bot polymarket copy trading bot polymarket copy trading bot"
+  },
+  {
+    "repo": "https-deeplearning-ai/sc-agent-skills-files",
+    "branch": "main",
+    "language": "Python",
+    "description": ""
+  },
+  {
+    "repo": "spring-projects/spring-framework",
+    "branch": "main",
+    "language": "Java",
+    "description": "Spring Framework"
+  },
+  {
+    "repo": "TermiX-official/cryptoclaw",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": ""
+  },
+  {
+    "repo": "AssemblyScript/assemblyscript",
+    "branch": "main",
+    "language": "WebAssembly",
+    "description": "A TypeScript-like language for WebAssembly."
+  },
+  {
+    "repo": "junevm/splathash",
+    "branch": "main",
+    "language": "Go",
+    "description": "compress any image to 16 bytes and reconstruct a blurry preview. Like blurhash and thumbhash, but smaller."
+  },
+  {
+    "repo": "originalankur/GenerateAgents.md",
+    "branch": "main",
+    "language": "Python",
+    "description": "Automated generation of comprehensive Agents.md for LLMs, driven by the DSPy Recursive language model implementation."
+  },
+  {
+    "repo": "gravitational/teleport",
+    "branch": "master",
+    "language": "Go",
+    "description": "The easiest, and most secure way to access and protect all of your infrastructure."
+  },
+  {
+    "repo": "ahmadawais/terminui",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Super fast double buffered toolkit for building terminal UIs."
+  },
+  {
+    "repo": "m1heng/clawdbot-feishu",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": ""
+  },
+  {
+    "repo": "Homebrew/brew",
+    "branch": "master",
+    "language": "Ruby",
+    "description": "🍺 The missing package manager for macOS (or Linux)"
+  },
+  {
+    "repo": "junit-team/junit5",
+    "branch": "main",
+    "language": "Java",
+    "description": "✅ The programmer-friendly testing framework for Java and the JVM"
   }
 ]

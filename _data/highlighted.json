@@ -1,8 +1,8 @@
 {
-  "repo": "ahmadzakiyox/gopay-api-gateaway",
+  "repo": "Liuziyu77/AnythingAtlas",
   "branch": "main",
-  "language": "JavaScript",
-  "description": "API Gateway mandiri (Autonomous) berkinerja tinggi untuk memantau mutasi transaksi GoPay Merchant dan men-generate QRIS Dinamis (EMVCo) secara otomatis.",
-  "stars": 106,
-  "forks": 37
+  "language": "Python",
+  "description": "Map the best way into any topic. 规划任何主题的最佳学习路径。",
+  "stars": 120,
+  "forks": 16
 }
