@@ -1,8 +1,8 @@
 {
-  "repo": "0xwilliamortiz/agents-council",
+  "repo": "ahmadzakiyox/gopay-api-gateaway",
   "branch": "main",
   "language": "JavaScript",
-  "description": "Multi-agents collaboration plugin for Claude Code - orchestrate multiple AI agents (Codex CLI, Gemini CLI, etc.) for diverse perspectives",
-  "stars": 112,
-  "forks": 3
+  "description": "API Gateway mandiri (Autonomous) berkinerja tinggi untuk memantau mutasi transaksi GoPay Merchant dan men-generate QRIS Dinamis (EMVCo) secara otomatis.",
+  "stars": 106,
+  "forks": 37
 }

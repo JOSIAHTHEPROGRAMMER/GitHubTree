@@ -1,146 +1,146 @@
 [
   {
-    "repo": "gvisor/gvisor",
+    "repo": "sunyouzhi2003/LSFG-Desktop",
+    "branch": "main",
+    "language": "C++",
+    "description": "Lossless Scaling 2026: Universal Frame Generation LSFG 3. Multi-frame gen: X2, X3, X4 multiplier for extreme FPS. AI Upscaling: LS1, FSR 3.1, NIS. Smooth gaming on Steam Deck, handhelds, and Android (LSFG-VK). Fix stuttering, low latency mode, VRR support, 4K spatial scaling, G-Sync compatible."
+  },
+  {
+    "repo": "zuckermanai/zuckerman",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Ultra-minimal personal AI agent: starts small, self-modifies its code live, adapts by writing exactly the code & features you need"
+  },
+  {
+    "repo": "huggingface/trl",
+    "branch": "main",
+    "language": "Python",
+    "description": "Train transformer language models with reinforcement learning."
+  },
+  {
+    "repo": "Solido/awesome-flutter",
     "branch": "master",
-    "language": "Other",
-    "description": "Application Kernel for Containers."
+    "language": "Dart",
+    "description": "An awesome list that curates the best Flutter libraries, tools, tutorials, articles and more."
   },
   {
-    "repo": "chubbyguan/chubbyskills",
-    "branch": "main",
-    "language": "Python",
-    "description": "chubby 自用知识库实用skill集合 - AI驱动的自动化工作流工具，可以帮助你从各个渠道获取信息，搭建自己的知识库"
-  },
-  {
-    "repo": "jackson-video-resources/markov-hedge-fund-method",
-    "branch": "main",
-    "language": "Python",
-    "description": "Markov regime detection skill + one-shot install prompt + Pine indicator. Companion to Quant Series video 1. Framework by Roan (@RohOnChain)."
-  },
-  {
-    "repo": "denuitt1/mhr-cfw",
-    "branch": "main",
-    "language": "Python",
-    "description": ""
-  },
-  {
-    "repo": "PolyEdgeLab/Web3-casino-game",
+    "repo": "signalapp/Signal-Desktop",
     "branch": "main",
     "language": "TypeScript",
-    "description": "This is casino game tool."
+    "description": "A private messenger for Windows, macOS, and Linux."
   },
   {
-    "repo": "deckerpaislee89916/AI-Voice-Mod-Pro-Studio-2",
-    "branch": "main",
-    "language": "C++",
-    "description": "An open-source, local AI-powered voice changer and audio enhancement utility."
-  },
-  {
-    "repo": "testerlingcodo/gemini-antigravity-cli",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "gemini antigravity 2.0 cli google terminal ai agent tool agy migration guide mcp server plugin slash commands gemini 3.5 flash coding agent tool free"
-  },
-  {
-    "repo": "Joefix2010/Jenny-Mod-Minecraft-ALL-Versions",
-    "branch": "main",
-    "language": "C++",
-    "description": "Jenny Mod Minecraft ALL Versions — complete collection of Jenny Mod for every Minecraft version from 1.8 to 1.21.5. Add a fully customizable interactive companion character with animations, outfits, and multiplayer support."
-  },
-  {
-    "repo": "POWER-PILL/ASCII-Aquarium",
-    "branch": "main",
-    "language": "C++",
-    "description": "ASCII Aquarium turns your Cheap Yellow Display into an tiny animated ASCII fish tank. It renders a live aquarium scene with animated fish, bubbles, swaying seaweed, tap-to-feed food flakes, occasional octopus & seahorse visitors, selectable backgrounds, preferences, optional Wi-Fi clock sync, & More!"
-  },
-  {
-    "repo": "AKCodez/hackingtool-plugin",
+    "repo": "paramiko/paramiko",
     "branch": "main",
     "language": "Python",
-    "description": "Claude Code plugin: 183+ pentesting & OSINT tools from Z4nzu/hackingtool. Auto-runs what it can, hands off the rest."
+    "description": "The leading native Python SSHv2 protocol library."
   },
   {
-    "repo": "PredictiveFlow-Labs/polymarket-arbitrage-bot",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "polymarket arbitrage bot polymarket arbitrage bot polymarket arbitrage bot polymarket arbitrage bot polymarket arbitrage bot polymarket arbitrage bot polymarket arbitrage bot polymarket arbitrage bot polymarket arbitrage bot polymarket arbitrage bot polymarket arbitrage bot polymarket arbitrage bot polymarket arbitrage bot polymarket arbitrage bot"
-  },
-  {
-    "repo": "NikolayS/pgque",
-    "branch": "main",
-    "language": "PLpgSQL",
-    "description": "PgQue – Zero-bloat Postgres queue. One SQL file to install, pg_cron to tick."
-  },
-  {
-    "repo": "amrdoh/ClockMaster",
+    "repo": "apache/mxnet",
     "branch": "master",
-    "language": "Kotlin",
-    "description": "Material Expressive clock app for android 🕛⏰"
+    "language": "C++",
+    "description": "Lightweight, Portable, Flexible Distributed/Mobile Deep Learning with Dynamic, Mutation-aware Dataflow Dep Scheduler; for Python, R, Julia, Scala, Go, Javascript and more"
   },
   {
-    "repo": "hexiecs/talk-normal",
-    "branch": "main",
-    "language": "Shell",
-    "description": "Make any LLM talk like a normal person. A system prompt that removes AI slop."
-  },
-  {
-    "repo": "sherlock-488/xchat-playground",
-    "branch": "main",
-    "language": "Python",
-    "description": "Local simulator & replay lab for XChat bots — debug webhooks, replay events, test E2EE flows without burning API credits"
-  },
-  {
-    "repo": "jaytel0/taste",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Taste skill creation pipeline"
-  },
-  {
-    "repo": "texsellix/polymarket-trading-bot",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Polymarket from your terminal. Copy whales, run autonomous strategies, place orders with one command. CLI-only, no dashboard, no setup."
-  },
-  {
-    "repo": "open-gsd/get-shit-done-redux",
-    "branch": "main",
+    "repo": "hammerjs/hammer.js",
+    "branch": "master",
     "language": "JavaScript",
-    "description": "Getting Shit Done, the Aftermath"
+    "description": "A javascript library for multi-touch gestures :// You can touch this"
   },
   {
-    "repo": "Polymarket-Trading-kit/crypto-trading-bot",
+    "repo": "tensorflow/tensorboard",
+    "branch": "master",
+    "language": "TypeScript",
+    "description": "TensorFlow's Visualization Toolkit"
+  },
+  {
+    "repo": "angular/angular",
     "branch": "main",
     "language": "TypeScript",
-    "description": "crypto trading bot crypto trading bot crypto trading bot crypto trading bot crypto trading bot crypto trading bot crypto trading bot crypto trading bot crypto trading bot crypto trading bot crypto trading bot crypto trading bot crypto trading bot crypto trading bot crypto trading bot crypto trading bot crypto trading bot crypto trading bot crypto"
+    "description": "Deliver web apps with confidence 🚀"
   },
   {
-    "repo": "phuryn/pm-brain",
+    "repo": "openai/shap-e",
     "branch": "main",
     "language": "Python",
-    "description": "PM Brain OS: The Second Brain for Product Managers, Made of Markdown"
+    "description": "Generate 3D objects conditioned on text or images"
   },
   {
-    "repo": "1-dr-eam/RecommenderSystem",
-    "branch": "RecommenderSystem",
-    "language": "Python",
-    "description": "本项目复现了工业界常用的且有效的推荐系统各模块，将其进行全链路整合，并提供外部调用API"
-  },
-  {
-    "repo": "guokaigdg/animal-island-ui",
-    "branch": "main",
-    "language": "Less",
-    "description": "Animal 风格的 React 组件库 灵感来源于任天堂集合啦！动物森友会游戏界面"
-  },
-  {
-    "repo": "lzhgus/Capso",
-    "branch": "main",
+    "repo": "Alamofire/Alamofire",
+    "branch": "master",
     "language": "Swift",
-    "description": "Open-source screenshot and screen recording for macOS. The free, native alternative to CleanShot X. Built with Swift 6.0 and SwiftUI."
+    "description": "Elegant HTTP Networking in Swift"
   },
   {
-    "repo": "Ghesse-p/Free-Nintendo-Switch-GameCube-Games-PC",
+    "repo": "brackets-cont/brackets",
+    "branch": "master",
+    "language": "JavaScript",
+    "description": "An open source code editor for the web, written in JavaScript, HTML and CSS."
+  },
+  {
+    "repo": "facebook/docusaurus",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Easy to maintain open source documentation websites."
+  },
+  {
+    "repo": "googleapis/python-storage",
+    "branch": "main",
+    "language": "Python",
+    "description": "Python SDK for GCS (Google Cloud Storage)"
+  },
+  {
+    "repo": "microsoft/calculator",
     "branch": "main",
     "language": "C++",
-    "description": "Download Nintendo Switch & GameCube Games PC Resource is a high-performance suite for software preservation. It features 4K upscaling, 60+ FPS support, and optimized shaders for Windows. Designed for stability, it ensures a seamless desktop experience for classic and modern titles in 2026."
+    "description": "Windows Calculator: A simple yet powerful calculator that ships with Windows"
+  },
+  {
+    "repo": "wasmerio/wasmer",
+    "branch": "master",
+    "language": "Rust",
+    "description": "🚀 Fast, secure, lightweight containers based on WebAssembly"
+  },
+  {
+    "repo": "freqtrade/freqtrade",
+    "branch": "develop",
+    "language": "Python",
+    "description": "Free, open source crypto trading bot"
+  },
+  {
+    "repo": "dagster-io/dagster",
+    "branch": "master",
+    "language": "Python",
+    "description": "An orchestration platform for the development, production, and observation of data assets."
+  },
+  {
+    "repo": "electron-userland/electron-builder",
+    "branch": "master",
+    "language": "TypeScript",
+    "description": "A complete solution to package and build a ready for distribution Electron app with “auto update” support out of the box"
+  },
+  {
+    "repo": "NVIDIA/cudnn-frontend",
+    "branch": "main",
+    "language": "C++",
+    "description": "cudnn_frontend provides a c++ wrapper for the cudnn backend API and samples on how to use it"
+  },
+  {
+    "repo": "abi/screenshot-to-code",
+    "branch": "main",
+    "language": "Python",
+    "description": "Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue)"
+  },
+  {
+    "repo": "tiangolo/fastapi",
+    "branch": "master",
+    "language": "Python",
+    "description": "FastAPI framework, high performance, easy to learn, fast to code, ready for production"
+  },
+  {
+    "repo": "jupyter/notebook",
+    "branch": "main",
+    "language": "Jupyter Notebook",
+    "description": "Jupyter Interactive Notebook"
   }
 ]
