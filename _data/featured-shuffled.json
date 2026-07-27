@@ -1,146 +1,146 @@
 [
   {
-    "repo": "xicilion/boxsh",
+    "repo": "ryanhcode/sable",
+    "branch": "main",
+    "language": "Java",
+    "description": "Interactive physics moving block structures!"
+  },
+  {
+    "repo": "techjarves/USB-Uncensored-LLM",
+    "branch": "main",
+    "language": "Shell",
+    "description": "The ultimate zero-install, portable local AI environment. Run high-quality, uncensored LLMs (Gemma, Qwen, NemoMix) directly from any USB drive or SSD. Fully air-gapped, cross-platform (Win/Mac/Linux), and privacy-first with persistent chat history."
+  },
+  {
+    "repo": "homer66/Windows-Xbox-Mode",
+    "branch": "main",
+    "language": "C++",
+    "description": "Windows 11 Xbox Mode Download April 2026 Project Helix Console News Advanced Shader Delivery ASD Stutter Fix Gaming Copilot Windows 11 Features ROG Xbox Ally Specs May 2026 Security Update Windows 11 24H2 Gaming Optimization Free 2GB RAM PC Mode DirectStorage zStandard Support Xbox Cloud Sync Fix Windows Xbox Mode Release Date Controller"
+  },
+  {
+    "repo": "TryHarder-L/NiniMenu",
+    "branch": "main",
+    "language": "Go",
+    "description": "一款温馨的情侣家庭每日菜单推荐与食谱管理应用，告别今天吃什么的纠结。"
+  },
+  {
+    "repo": "MuhammadHanzalaIqbal/Blox-Fruits-Dragon-Update-Auto-Farm-Script-2026-Gold",
+    "branch": "main",
+    "language": "Python",
+    "description": "All‑in‑one Blox Fruits script for Dragon Update 2026. Gold edition comes with extra optimizations for faster farming."
+  },
+  {
+    "repo": "raheemxghumman/DBD-AutoGrind-Trainer-2026-Elite",
+    "branch": "main",
+    "language": "Python",
+    "description": "Ultimate Dead by Daylight auto-grind trainer Elite edition with Bloodpoint bot, ESP wallhack, aimbot, and full perk/skin unlocker. Dominate the Fog with our 2026 undetected external tool."
+  },
+  {
+    "repo": "razr001/align-dev",
     "branch": "master",
+    "language": "TypeScript",
+    "description": "AlignDev helps AI-assisted frontend teams generate shared coding standards and SKILL.md so Claude Code, Codex, Cursor, Copilot, and other agents write consistently."
+  },
+  {
+    "repo": "AdilMir1433/DBD-AutoGrind-Trainer-2026-Mega",
+    "branch": "main",
+    "language": "Python",
+    "description": "Ultimate Dead by Daylight auto-grind trainer Mega edition with Bloodpoint bot, ESP wallhack, aimbot, and full perk/skin unlocker. Dominate the Fog with our 2026 undetected external tool."
+  },
+  {
+    "repo": "Mochocyang/QMAI",
+    "branch": "master",
+    "language": "TypeScript",
+    "description": "青幕AI写作软件，解决长篇小说写作问题，解决小说角色性格不统一，防止人设崩坏。"
+  },
+  {
+    "repo": "shaorman/Internet-DM",
+    "branch": "main",
+    "language": "HTML",
+    "description": "internet manager  extension chrome 2026 idm tonec official website download idm integration module chrome extension firefox addon edge browser integration download accelerator dynamic file segmentation resume capability broken downloads recovery queue management"
+  },
+  {
+    "repo": "giorgigelashvili12/DBD-AutoGrind-Trainer-2026",
+    "branch": "main",
+    "language": "Python",
+    "description": "Ultimate Dead by Daylight auto-grind trainer with Bloodpoint bot, ESP wallhack, aimbot, and full perk/skin unlocker. Dominate the Fog with our 2026 undetected external tool."
+  },
+  {
+    "repo": "Maxll51/EZVenera-Lite",
+    "branch": "main",
+    "language": "HTML",
+    "description": "EZVenera 2026 Edition: Lightweight Venera Rewrite with Streamlined Plugin Runtime for Windows & Android"
+  },
+  {
+    "repo": "NagaaSaketh/Blox-Fruits-Dragon-Update-Auto-Farm-Script-2026-Hyper",
+    "branch": "main",
+    "language": "Python",
+    "description": "Blox Fruits Dragon Update 2026 trainer with auto farm, ESP, auto raid, and more. The Hyper version offers enhanced performance and reliability."
+  },
+  {
+    "repo": "liixini/skwd-wall",
+    "branch": "main",
+    "language": "QML",
+    "description": "An aesthetics-first wallpaper selector that supports images, videos and Wallpaper Engine Scenes. It can generate matugen themes from these sources as well! Also has a built in Wallhaven.cc & Steam browser because why not."
+  },
+  {
+    "repo": "eversinc33/MogVMP",
+    "branch": "main",
+    "language": "C++",
+    "description": "Static devirtualizer for VMProtect 3.5. Lifts virtualized code to LLVM using Remill and strips the VM layer through optimization."
+  },
+  {
+    "repo": "serder8866/Universal_USB_Boot_Maker",
+    "branch": "main",
+    "language": "Python",
+    "description": "Create bootable USB drives for Windows, Linux, etc. Write ISO to USB, multiple OS on one USB, format USB drive, and verify files. Install OS easily."
+  },
+  {
+    "repo": "brexhq/CrabTrap",
+    "branch": "main",
+    "language": "Go",
+    "description": "An LLM-as-a-judge HTTP proxy to secure agents in production"
+  },
+  {
+    "repo": "trynullsec/nullsec-s1",
+    "branch": "main",
+    "language": "Python",
+    "description": "Security-native LLM system for AI-generated application security."
+  },
+  {
+    "repo": "Doryoku1223/lunwen-skill",
+    "branch": "main",
+    "language": "Python",
+    "description": "面向本科计科学生的一键论文初稿 Skill，支持样文/开题报告/模板驱动生成，并补全流程图、ER 图和项目截图"
+  },
+  {
+    "repo": "LarsenCundric/port-whisperer",
+    "branch": "main",
     "language": "JavaScript",
-    "description": "A sandboxed POSIX shell with a concurrent JSON-line RPC mode"
+    "description": "A beautiful CLI tool to see what's running on your ports"
   },
   {
-    "repo": "MoonshotAI/Kimi-VL",
+    "repo": "Shakir2021/Delta-for-Roblox-PC-Edition",
     "branch": "main",
-    "language": "Other",
-    "description": "Kimi-VL: Mixture-of-Experts Vision-Language Model for Multimodal Reasoning, Long-Context Understanding, and Strong Agent Capabilities"
+    "language": "C++",
+    "description": "Delta for Roblox PC Edition is a lightweight and optimized Roblox client for Windows. Enjoy higher FPS, reduced input lag, better graphics, and smoother gameplay. The best desktop edition for playing Roblox with enhanced performance and modern features."
   },
   {
-    "repo": "antonmedv/fx",
+    "repo": "janhas1993/Tomodachi-Share-Discover-and-share-Mii",
+    "branch": "main",
+    "language": "C++",
+    "description": "Tomodachi Life 2026 Save Data Sync Mii Creator Switch Emulator Performance Mii QR Codes Vulkan Support High FPS Social Simulator PC Mii Rendering Save Editor Profile Management Virtual Life Resource Data Preservation Metadata Tool 2026 Desktop Utility"
+  },
+  {
+    "repo": "notdog1998/yourself-skill",
     "branch": "master",
-    "language": "Go",
-    "description": "Terminal JSON viewer & processor"
-  },
-  {
-    "repo": "element-hq/element-ios",
-    "branch": "develop",
-    "language": "Swift",
-    "description": "A glossy Matrix collaboration client for iOS"
-  },
-  {
-    "repo": "actions/runner-images",
-    "branch": "main",
-    "language": "PowerShell",
-    "description": "GitHub Actions runner images"
-  },
-  {
-    "repo": "boto/boto",
-    "branch": "develop",
     "language": "Python",
-    "description": "For the latest version of boto, see https://github.com/boto/boto3 -- Python interface to Amazon Web Services"
+    "description": "与其蒸馏别人，不如蒸馏自己。欢迎加入数字永生！Inspired by colleague-skill（同事skill）。"
   },
   {
-    "repo": "golang-migrate/migrate",
+    "repo": "WUBING2023/ExamPass-Assistant",
     "branch": "master",
-    "language": "Go",
-    "description": "Database migrations. CLI and Golang library."
-  },
-  {
-    "repo": "trycua/launchpad",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": ""
-  },
-  {
-    "repo": "lukehinds/nono",
-    "branch": "main",
-    "language": "Rust",
-    "description": "OS-Level Isolation for AI Agents."
-  },
-  {
-    "repo": "mrphrazer/agentic-malware-analysis",
-    "branch": "main",
-    "language": "YARA",
-    "description": "Agentic malware analysis environment with MCP-connected disassemblers, RE tooling, and structured workflows for Claude Code and Codex CLI."
-  },
-  {
-    "repo": "geekjourneyx/jina-cli",
-    "branch": "main",
-    "language": "Go",
-    "description": "A lightweight CLI tool wrapping Jina AI Reader API for AI Agents. Fetch and parse any URL into LLM-friendly   formats (Markdown/Text/HTML). Perfect for reading X(Twitter), blogs, and news sites."
-  },
-  {
-    "repo": "graphql-rust/juniper",
-    "branch": "master",
-    "language": "Rust",
-    "description": "GraphQL server library for Rust"
-  },
-  {
-    "repo": "TrendTechVista/polymarket-copy-trading-bot",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "polymarket copy trading bot polymarket copy trading bot polymarket copy trading bot polymarket copy trading bot polymarket copy trading bot polymarket copy trading bot polymarket copy trading bot polymarket copy trading bot polymarket copy trading bot polymarket copy trading bot polymarket copy trading bot polymarket copy trading bot"
-  },
-  {
-    "repo": "https-deeplearning-ai/sc-agent-skills-files",
-    "branch": "main",
     "language": "Python",
-    "description": ""
-  },
-  {
-    "repo": "spring-projects/spring-framework",
-    "branch": "main",
-    "language": "Java",
-    "description": "Spring Framework"
-  },
-  {
-    "repo": "TermiX-official/cryptoclaw",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": ""
-  },
-  {
-    "repo": "AssemblyScript/assemblyscript",
-    "branch": "main",
-    "language": "WebAssembly",
-    "description": "A TypeScript-like language for WebAssembly."
-  },
-  {
-    "repo": "junevm/splathash",
-    "branch": "main",
-    "language": "Go",
-    "description": "compress any image to 16 bytes and reconstruct a blurry preview. Like blurhash and thumbhash, but smaller."
-  },
-  {
-    "repo": "originalankur/GenerateAgents.md",
-    "branch": "main",
-    "language": "Python",
-    "description": "Automated generation of comprehensive Agents.md for LLMs, driven by the DSPy Recursive language model implementation."
-  },
-  {
-    "repo": "gravitational/teleport",
-    "branch": "master",
-    "language": "Go",
-    "description": "The easiest, and most secure way to access and protect all of your infrastructure."
-  },
-  {
-    "repo": "ahmadawais/terminui",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Super fast double buffered toolkit for building terminal UIs."
-  },
-  {
-    "repo": "m1heng/clawdbot-feishu",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": ""
-  },
-  {
-    "repo": "Homebrew/brew",
-    "branch": "master",
-    "language": "Ruby",
-    "description": "🍺 The missing package manager for macOS (or Linux)"
-  },
-  {
-    "repo": "junit-team/junit5",
-    "branch": "main",
-    "language": "Java",
-    "description": "✅ The programmer-friendly testing framework for Java and the JVM"
+    "description": "把课堂讲义变成考试利器 一键将 PPT、Word、PDF 课件转化为结构清晰的知识清单和交互式测试题，让复习事半功倍。 适用人群：大学生、各个阶段老师、其他需要对付短期考试的朋友"
   }
 ]
