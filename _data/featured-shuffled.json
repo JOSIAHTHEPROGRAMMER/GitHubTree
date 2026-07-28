@@ -1,15 +1,21 @@
 [
   {
-    "repo": "openperf/openclaw-cloud",
+    "repo": "MemeCalculate/moyin-creator",
     "branch": "main",
     "language": "TypeScript",
-    "description": "Give your AI Agent a cloud-native life. Deploy once, converse everywhere."
+    "description": "AI 影视生产级工具 | 支持 Seedance 2.0 | 剧本到成片全流程批量化 | AI-powered film production tool with Seedance 2.0 support"
   },
   {
-    "repo": "yaojingang/yao-open-prompts",
+    "repo": "mverschu/adwsdomaindump",
     "branch": "main",
     "language": "Python",
-    "description": "Yao Open Prompts：中文 AI 提示词库，覆盖工作、学习、内容、营销和生活场景"
+    "description": "Active Directory information dumper via ADWS for evasion purposes."
+  },
+  {
+    "repo": "lsd-rs/lsd",
+    "branch": "master",
+    "language": "Rust",
+    "description": "The next gen ls command"
   },
   {
     "repo": "emscripten-core/emscripten",
@@ -18,129 +24,123 @@
     "description": "Emscripten: An LLVM-to-WebAssembly Compiler"
   },
   {
-    "repo": "hkcanan/katmer-code",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Claude Code inside Obsidian — academic research skills, inline diff editing, MCP support"
-  },
-  {
-    "repo": "google/wire",
-    "branch": "master",
-    "language": "Go",
-    "description": "Compile-time Dependency Injection for Go"
-  },
-  {
-    "repo": "vkhanhqui/figma-mcp-go",
-    "branch": "main",
-    "language": "Go",
-    "description": "Figma MCP for free users — no rate limits, full read/write, text to designs, designs to code"
-  },
-  {
-    "repo": "TanStack/table",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "🤖 Headless UI for building powerful tables & datagrids for TS/JS -  React-Table, Vue-Table, Solid-Table, Svelte-Table"
-  },
-  {
-    "repo": "gohugoio/hugo",
-    "branch": "master",
-    "language": "Go",
-    "description": "The world’s fastest framework for building websites."
-  },
-  {
-    "repo": "google-research/google-research",
-    "branch": "master",
-    "language": "Jupyter Notebook",
-    "description": "Google Research"
-  },
-  {
-    "repo": "CompVis/latent-diffusion",
-    "branch": "main",
-    "language": "Jupyter Notebook",
-    "description": "High-Resolution Image Synthesis with Latent Diffusion Models"
-  },
-  {
-    "repo": "996icu/996.ICU",
-    "branch": "master",
-    "language": "Other",
-    "description": "Repo for counting stars and contributing. Press F to pay respect to glorious developers."
-  },
-  {
-    "repo": "bhope/hedge",
-    "branch": "main",
-    "language": "Go",
-    "description": "Adaptive hedged requests for Go. Cut your p99 latency with zero configuration. Based on Google's The Tail at Scale paper."
-  },
-  {
-    "repo": "composer/composer",
-    "branch": "main",
-    "language": "PHP",
-    "description": "Dependency Manager for PHP"
-  },
-  {
-    "repo": "openai/shap-e",
+    "repo": "metric-anything/metric-anything",
     "branch": "main",
     "language": "Python",
-    "description": "Generate 3D objects conditioned on text or images"
+    "description": ""
   },
   {
-    "repo": "rust-lang/mdBook",
+    "repo": "slackhq/nebula",
     "branch": "master",
-    "language": "Rust",
-    "description": "Create book from markdown files. Like Gitbook but implemented in Rust"
+    "language": "Go",
+    "description": "A scalable overlay networking tool with a focus on performance, simplicity and security"
   },
   {
-    "repo": "PaddlePaddle/PaddleNLP",
-    "branch": "develop",
+    "repo": "mrdoob/three-quake",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "A port of Quake (1996) to Three.js."
+  },
+  {
+    "repo": "langchain-ai/langchainjs",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "🦜🔗 Build context-aware reasoning applications"
+  },
+  {
+    "repo": "reflex-dev/reflex",
+    "branch": "main",
     "language": "Python",
-    "description": "Easy-to-use and powerful LLM and SLM library with awesome model zoo."
+    "description": "🕸️ Web apps in pure Python 🐍"
   },
   {
-    "repo": "d3/d3",
+    "repo": "uedk9p/sora2-watermark-remover",
+    "branch": "main",
+    "language": "Python",
+    "description": "sora2 watermark remover"
+  },
+  {
+    "repo": "Tencent-Hunyuan/HY3D-Bench",
+    "branch": "main",
+    "language": "Python",
+    "description": ""
+  },
+  {
+    "repo": "mindfold-ai/Trellis",
     "branch": "main",
     "language": "Shell",
-    "description": "Bring data to life with SVG, Canvas and HTML. :bar_chart::chart_with_upwards_trend::tada:"
+    "description": "All-in-one AI framework & toolkit for Claude Code & Cursor"
   },
   {
-    "repo": "facebook/folly",
-    "branch": "main",
-    "language": "C++",
-    "description": "An open-source C++ library developed and used at Facebook."
-  },
-  {
-    "repo": "timwuhaotian/the-pair",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "The Pair - Automated pair programming — grab a coffee while two AI agents cross-check each other's work"
-  },
-  {
-    "repo": "anadim/AdderBoard",
-    "branch": "main",
-    "language": "Python",
-    "description": "Smallest transformer that can add two 10-digit numbers"
-  },
-  {
-    "repo": "Johnixr/claude-code-wechat-channel",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Claude Code Channel plugin for WeChat — bridge WeChat messages into Claude Code sessions via the official ClawBot ilink API"
-  },
-  {
-    "repo": "Shikhar-kulshreshtha/Bongo-Cat-Desktop-Pet-Application",
-    "branch": "main",
-    "language": "C++",
-    "description": "Bongo Cat program – adorable animated cat desktop pet that reacts to keystrokes, mouse clicks & gaming. Collect hats, enjoy reactive bongo animations, perfect overlay for streams, typing motivation & fun virtual pet on Windows PC! Cute meme cat companion app."
-  },
-  {
-    "repo": "microsoft/autogen",
-    "branch": "main",
-    "language": "Python",
-    "description": "A programming framework for agentic AI"
-  },
-  {
-    "repo": "actix/actix-web",
+    "repo": "kubernetes-sigs/kubespray",
     "branch": "master",
+    "language": "Jinja",
+    "description": "Deploy a Production Ready Kubernetes Cluster"
+  },
+  {
+    "repo": "ultraworkers/claw-code-parity",
+    "branch": "main",
     "language": "Rust",
-    "description": "Actix Web is a powerful, pragmatic, and extremely fast web framework for Rust."
+    "description": "claw-code Rust port parity work - it is temporary work while claw-code repo is doing migration"
+  },
+  {
+    "repo": "deborahikssv/Antigravity-claw",
+    "branch": "main",
+    "language": "Rust",
+    "description": ""
+  },
+  {
+    "repo": "LeoChen-CoreMind/VMPacker",
+    "branch": "master",
+    "language": "Go",
+    "description": "ARM64 ELF Virtual Machine Protection System"
+  },
+  {
+    "repo": "stong/gradscii-art",
+    "branch": "master",
+    "language": "Python",
+    "description": "An extremely good ASCII art generator, based on machine learning"
+  },
+  {
+    "repo": "AMAP-ML/SpatialGenEval",
+    "branch": "main",
+    "language": "Python",
+    "description": ""
+  },
+  {
+    "repo": "pshycodr/airctl",
+    "branch": "main",
+    "language": "Python",
+    "description": "AIRCTL, a modern WiFi management tool for Linux built with GTK4 and Python. It provides a clean interface to scan, connect, and manage wireless networks."
+  },
+  {
+    "repo": "facebook/react",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "The library for web and native user interfaces."
+  },
+  {
+    "repo": "ColeMurray/background-agents",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "An open-source background agent coding system"
+  },
+  {
+    "repo": "510myRday/Cursor-Toolbox",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": ""
+  },
+  {
+    "repo": "170-carry/codex-tools",
+    "branch": "main",
+    "language": "Rust",
+    "description": "快捷切换codex 账号以及监控codex用量的工具"
+  },
+  {
+    "repo": "freqtrade/freqtrade",
+    "branch": "develop",
+    "language": "Python",
+    "description": "Free, open source crypto trading bot"
   }
 ]

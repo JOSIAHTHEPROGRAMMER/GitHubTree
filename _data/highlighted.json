@@ -1,8 +1,8 @@
 {
-  "repo": "R44VC0RP/hark",
+  "repo": "Jia-Ethan/grok-keysmith",
   "branch": "main",
-  "language": "TypeScript",
-  "description": "A simple, beautiful webhook to notification platform. ",
-  "stars": 116,
-  "forks": 7
+  "language": "Python",
+  "description": "Preview-first Grok Build instruction deployment with compat and hook isolation, durable recovery, and layered uninstall.",
+  "stars": 127,
+  "forks": 19
 }
