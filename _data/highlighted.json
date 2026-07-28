@@ -1,8 +1,8 @@
 {
-  "repo": "Noz2/RootHound",
+  "repo": "R44VC0RP/hark",
   "branch": "main",
-  "language": "Python",
-  "description": "Map your path from a low-priv user to root — like BloodHound, for local Linux privesc.",
-  "stars": 102,
-  "forks": 5
+  "language": "TypeScript",
+  "description": "A simple, beautiful webhook to notification platform. ",
+  "stars": 116,
+  "forks": 7
 }

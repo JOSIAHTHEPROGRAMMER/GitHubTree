@@ -1,146 +1,146 @@
 [
   {
-    "repo": "apache/iceberg",
-    "branch": "main",
-    "language": "Java",
-    "description": "Apache Iceberg"
-  },
-  {
-    "repo": "machinepulse-ai/world2agent",
+    "repo": "openperf/openclaw-cloud",
     "branch": "main",
     "language": "TypeScript",
-    "description": "World2Agent(W2A) is an open protocol that standardizes how Al agents perceive the real world."
+    "description": "Give your AI Agent a cloud-native life. Deploy once, converse everywhere."
   },
   {
-    "repo": "huggingface/peft",
+    "repo": "yaojingang/yao-open-prompts",
     "branch": "main",
     "language": "Python",
-    "description": "🤗 PEFT: State-of-the-art Parameter-Efficient Fine-Tuning."
+    "description": "Yao Open Prompts：中文 AI 提示词库，覆盖工作、学习、内容、营销和生活场景"
   },
   {
-    "repo": "dev-protocol/polymarket-trading-bot-new",
-    "branch": "master",
-    "language": "Rust",
-    "description": "Polymarket trading bot,Polymarket trading bot, Polymarket trading bot, Polymarket trading bot, Polymarket trading bot, Polymarket trading bot, Polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot,Polymarket trading bot,Polymarket trading bot, Polymarket trading bot, Polymarket trading bot, Polymarket tradin"
-  },
-  {
-    "repo": "Solido/awesome-flutter",
-    "branch": "master",
-    "language": "Dart",
-    "description": "An awesome list that curates the best Flutter libraries, tools, tutorials, articles and more."
-  },
-  {
-    "repo": "jaywcjlove/awesome-mac",
-    "branch": "master",
-    "language": "JavaScript",
-    "description": " Now we have become very big, Different from the original idea. Collect premium software in various categories."
-  },
-  {
-    "repo": "statsmodels/statsmodels",
+    "repo": "emscripten-core/emscripten",
     "branch": "main",
-    "language": "Python",
-    "description": "Statsmodels: statistical modeling and econometrics in Python"
+    "language": "C++",
+    "description": "Emscripten: An LLVM-to-WebAssembly Compiler"
   },
   {
-    "repo": "safishamsi/graphify",
-    "branch": "v3",
-    "language": "Python",
-    "description": "AI coding assistant skill (Claude Code, Codex, OpenCode, OpenClaw). Turn any folder of code, docs, papers, or images into a queryable knowledge graph"
-  },
-  {
-    "repo": "serenity-bdd/serenity-core",
+    "repo": "hkcanan/katmer-code",
     "branch": "main",
-    "language": "HTML",
-    "description": "Serenity BDD is a test automation library designed to make writing automated acceptance tests easier, and more fun."
+    "language": "TypeScript",
+    "description": "Claude Code inside Obsidian — academic research skills, inline diff editing, MCP support"
   },
   {
-    "repo": "hxu296/tariff",
-    "branch": "main",
-    "language": "Python",
-    "description": "The official repository for tariff"
-  },
-  {
-    "repo": "SamNet-dev/dnstm-setup",
-    "branch": "master",
-    "language": "Shell",
-    "description": "Interactive setup wizard for dnstm — automated DNS-based network configuration"
-  },
-  {
-    "repo": "grpc-ecosystem/grpc-gateway",
+    "repo": "google/wire",
     "branch": "master",
     "language": "Go",
-    "description": "gRPC to JSON proxy generator following the gRPC HTTP spec"
+    "description": "Compile-time Dependency Injection for Go"
   },
   {
-    "repo": "leo-lilinxiao/codex-autoresearch",
+    "repo": "vkhanhqui/figma-mcp-go",
     "branch": "main",
-    "language": "Shell",
-    "description": "Codex Autoresearch Skill — A self-directed iterative system for Codex that continuously cycles through: modify, verify, retain or discard, and repeat indefinitely. Inspired by Karpathy’s autoresearch concept."
+    "language": "Go",
+    "description": "Figma MCP for free users — no rate limits, full read/write, text to designs, designs to code"
   },
   {
-    "repo": "pytest-dev/pytest",
+    "repo": "TanStack/table",
     "branch": "main",
-    "language": "Python",
-    "description": "The pytest framework makes it easy to write small tests, yet scales to support complex functional testing"
-  },
-  {
-    "repo": "getsentry/sentry-javascript",
-    "branch": "develop",
     "language": "TypeScript",
-    "description": "Official Sentry SDKs for JavaScript"
+    "description": "🤖 Headless UI for building powerful tables & datagrids for TS/JS -  React-Table, Vue-Table, Solid-Table, Svelte-Table"
   },
   {
-    "repo": "Uniswap/v2-core",
+    "repo": "gohugoio/hugo",
     "branch": "master",
-    "language": "TypeScript",
-    "description": "🦄 🦄  Core smart contracts of Uniswap V2"
+    "language": "Go",
+    "description": "The world’s fastest framework for building websites."
   },
   {
-    "repo": "Rivflyyy/HappyTorch",
+    "repo": "google-research/google-research",
+    "branch": "master",
+    "language": "Jupyter Notebook",
+    "description": "Google Research"
+  },
+  {
+    "repo": "CompVis/latent-diffusion",
     "branch": "main",
     "language": "Jupyter Notebook",
-    "description": "A PyTorch coding practice platform — covering LLM, Diffusion, PEFT, and more  A friendly environment to help you deeply understand deep learning components through hands-on practice.  Like LeetCode, but for tensors. Self-hosted. Supports both Jupyter and Web interfaces."
+    "description": "High-Resolution Image Synthesis with Latent Diffusion Models"
   },
   {
-    "repo": "ChristosChristofidis/awesome-deep-learning",
+    "repo": "996icu/996.ICU",
     "branch": "master",
     "language": "Other",
-    "description": "A curated list of awesome Deep Learning tutorials, projects and communities."
+    "description": "Repo for counting stars and contributing. Press F to pay respect to glorious developers."
   },
   {
-    "repo": "rabbitmq/rabbitmq-server",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "Open source RabbitMQ: core server and tier 1 (built-in) plugins"
-  },
-  {
-    "repo": "operator-framework/operator-sdk",
-    "branch": "master",
-    "language": "Go",
-    "description": "SDK for building Kubernetes applications. Provides high level APIs, useful abstractions, and project scaffolding."
-  },
-  {
-    "repo": "termux/termux-app",
-    "branch": "master",
-    "language": "Java",
-    "description": "Termux - a terminal emulator application for Android OS extendible by variety of packages."
-  },
-  {
-    "repo": "llvm/llvm-project",
-    "branch": "main",
-    "language": "LLVM",
-    "description": "The LLVM Project is a collection of modular and reusable compiler and toolchain technologies."
-  },
-  {
-    "repo": "MuhammadHananAsghar/wormhole",
+    "repo": "bhope/hedge",
     "branch": "main",
     "language": "Go",
-    "description": "Open-source ngrok alternative. Expose your localhost to the internet with one command. Built with Go + Cloudflare Workers."
+    "description": "Adaptive hedged requests for Go. Cut your p99 latency with zero configuration. Based on Google's The Tail at Scale paper."
   },
   {
-    "repo": "codetrybe/polymarket-kalshi-arbitrage-bot",
+    "repo": "composer/composer",
+    "branch": "main",
+    "language": "PHP",
+    "description": "Dependency Manager for PHP"
+  },
+  {
+    "repo": "openai/shap-e",
+    "branch": "main",
+    "language": "Python",
+    "description": "Generate 3D objects conditioned on text or images"
+  },
+  {
+    "repo": "rust-lang/mdBook",
+    "branch": "master",
+    "language": "Rust",
+    "description": "Create book from markdown files. Like Gitbook but implemented in Rust"
+  },
+  {
+    "repo": "PaddlePaddle/PaddleNLP",
+    "branch": "develop",
+    "language": "Python",
+    "description": "Easy-to-use and powerful LLM and SLM library with awesome model zoo."
+  },
+  {
+    "repo": "d3/d3",
+    "branch": "main",
+    "language": "Shell",
+    "description": "Bring data to life with SVG, Canvas and HTML. :bar_chart::chart_with_upwards_trend::tada:"
+  },
+  {
+    "repo": "facebook/folly",
+    "branch": "main",
+    "language": "C++",
+    "description": "An open-source C++ library developed and used at Facebook."
+  },
+  {
+    "repo": "timwuhaotian/the-pair",
     "branch": "main",
     "language": "TypeScript",
-    "description": "polymarket kalshi arbitrage bot kalshi arbitrage bot kalshi trading bot"
+    "description": "The Pair - Automated pair programming — grab a coffee while two AI agents cross-check each other's work"
+  },
+  {
+    "repo": "anadim/AdderBoard",
+    "branch": "main",
+    "language": "Python",
+    "description": "Smallest transformer that can add two 10-digit numbers"
+  },
+  {
+    "repo": "Johnixr/claude-code-wechat-channel",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Claude Code Channel plugin for WeChat — bridge WeChat messages into Claude Code sessions via the official ClawBot ilink API"
+  },
+  {
+    "repo": "Shikhar-kulshreshtha/Bongo-Cat-Desktop-Pet-Application",
+    "branch": "main",
+    "language": "C++",
+    "description": "Bongo Cat program – adorable animated cat desktop pet that reacts to keystrokes, mouse clicks & gaming. Collect hats, enjoy reactive bongo animations, perfect overlay for streams, typing motivation & fun virtual pet on Windows PC! Cute meme cat companion app."
+  },
+  {
+    "repo": "microsoft/autogen",
+    "branch": "main",
+    "language": "Python",
+    "description": "A programming framework for agentic AI"
+  },
+  {
+    "repo": "actix/actix-web",
+    "branch": "master",
+    "language": "Rust",
+    "description": "Actix Web is a powerful, pragmatic, and extremely fast web framework for Rust."
   }
 ]
