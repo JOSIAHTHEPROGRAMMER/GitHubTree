@@ -1,146 +1,146 @@
 [
   {
-    "repo": "zjp1997720/wechat-article-search",
+    "repo": "apache/iceberg",
     "branch": "main",
-    "language": "JavaScript",
-    "description": "Search WeChat public account articles by keyword via Sogou WeChat Search. Returns structured JSON — no API key required."
+    "language": "Java",
+    "description": "Apache Iceberg"
   },
   {
-    "repo": "jmuncor/tokentap",
+    "repo": "machinepulse-ai/world2agent",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "World2Agent(W2A) is an open protocol that standardizes how Al agents perceive the real world."
+  },
+  {
+    "repo": "huggingface/peft",
     "branch": "main",
     "language": "Python",
-    "description": "Intercept LLM API traffic and visualize token usage in a real-time terminal dashboard. Track costs,       debug prompts, and monitor context window usage across your AI development sessions."
+    "description": "🤗 PEFT: State-of-the-art Parameter-Efficient Fine-Tuning."
   },
   {
-    "repo": "google/wire",
-    "branch": "master",
-    "language": "Go",
-    "description": "Compile-time Dependency Injection for Go"
-  },
-  {
-    "repo": "AlexAnys/feishu-openclaw",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "Connect 飞书Feishu/Lark bot to openclaw (formerly Clawdbot) — no public server, no domain, no ngrok needed. 稳定免安装、共需5 分钟"
-  },
-  {
-    "repo": "websockets/ws",
-    "branch": "master",
-    "language": "JavaScript",
-    "description": "Simple to use, blazing fast and thoroughly tested WebSocket client and server for Node.js"
-  },
-  {
-    "repo": "starship/starship",
+    "repo": "dev-protocol/polymarket-trading-bot-new",
     "branch": "master",
     "language": "Rust",
-    "description": "☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!"
+    "description": "Polymarket trading bot,Polymarket trading bot, Polymarket trading bot, Polymarket trading bot, Polymarket trading bot, Polymarket trading bot, Polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot,Polymarket trading bot,Polymarket trading bot, Polymarket trading bot, Polymarket trading bot, Polymarket tradin"
   },
   {
-    "repo": "vibe-music/vibe-music-web",
-    "branch": "main",
+    "repo": "Solido/awesome-flutter",
+    "branch": "master",
+    "language": "Dart",
+    "description": "An awesome list that curates the best Flutter libraries, tools, tutorials, articles and more."
+  },
+  {
+    "repo": "jaywcjlove/awesome-mac",
+    "branch": "master",
     "language": "JavaScript",
-    "description": "Open-source cloud music player with a bring-your-own-music model. Local control, optional sync, zero platform dependency."
+    "description": " Now we have become very big, Different from the original idea. Collect premium software in various categories."
   },
   {
-    "repo": "fastlane/supply",
+    "repo": "statsmodels/statsmodels",
+    "branch": "main",
+    "language": "Python",
+    "description": "Statsmodels: statistical modeling and econometrics in Python"
+  },
+  {
+    "repo": "safishamsi/graphify",
+    "branch": "v3",
+    "language": "Python",
+    "description": "AI coding assistant skill (Claude Code, Codex, OpenCode, OpenClaw). Turn any folder of code, docs, papers, or images into a queryable knowledge graph"
+  },
+  {
+    "repo": "serenity-bdd/serenity-core",
+    "branch": "main",
+    "language": "HTML",
+    "description": "Serenity BDD is a test automation library designed to make writing automated acceptance tests easier, and more fun."
+  },
+  {
+    "repo": "hxu296/tariff",
+    "branch": "main",
+    "language": "Python",
+    "description": "The official repository for tariff"
+  },
+  {
+    "repo": "SamNet-dev/dnstm-setup",
+    "branch": "master",
+    "language": "Shell",
+    "description": "Interactive setup wizard for dnstm — automated DNS-based network configuration"
+  },
+  {
+    "repo": "grpc-ecosystem/grpc-gateway",
+    "branch": "master",
+    "language": "Go",
+    "description": "gRPC to JSON proxy generator following the gRPC HTTP spec"
+  },
+  {
+    "repo": "leo-lilinxiao/codex-autoresearch",
+    "branch": "main",
+    "language": "Shell",
+    "description": "Codex Autoresearch Skill — A self-directed iterative system for Codex that continuously cycles through: modify, verify, retain or discard, and repeat indefinitely. Inspired by Karpathy’s autoresearch concept."
+  },
+  {
+    "repo": "pytest-dev/pytest",
+    "branch": "main",
+    "language": "Python",
+    "description": "The pytest framework makes it easy to write small tests, yet scales to support complex functional testing"
+  },
+  {
+    "repo": "getsentry/sentry-javascript",
+    "branch": "develop",
+    "language": "TypeScript",
+    "description": "Official Sentry SDKs for JavaScript"
+  },
+  {
+    "repo": "Uniswap/v2-core",
+    "branch": "master",
+    "language": "TypeScript",
+    "description": "🦄 🦄  Core smart contracts of Uniswap V2"
+  },
+  {
+    "repo": "Rivflyyy/HappyTorch",
+    "branch": "main",
+    "language": "Jupyter Notebook",
+    "description": "A PyTorch coding practice platform — covering LLM, Diffusion, PEFT, and more  A friendly environment to help you deeply understand deep learning components through hands-on practice.  Like LeetCode, but for tensors. Self-hosted. Supports both Jupyter and Web interfaces."
+  },
+  {
+    "repo": "ChristosChristofidis/awesome-deep-learning",
     "branch": "master",
     "language": "Other",
-    "description": "Command line tool for updating Android apps and their metadata on the Google Play Store"
+    "description": "A curated list of awesome Deep Learning tutorials, projects and communities."
   },
   {
-    "repo": "xi-editor/xi-editor",
-    "branch": "master",
-    "language": "Rust",
-    "description": "A modern editor with a backend written in Rust."
-  },
-  {
-    "repo": "element-hq/element-ios",
-    "branch": "develop",
-    "language": "Swift",
-    "description": "A glossy Matrix collaboration client for iOS"
-  },
-  {
-    "repo": "liliMozi/openhanako",
+    "repo": "rabbitmq/rabbitmq-server",
     "branch": "main",
     "language": "JavaScript",
-    "description": "A personal AI agent with memory, personality, and autonomy — built on Electron."
+    "description": "Open source RabbitMQ: core server and tier 1 (built-in) plugins"
   },
   {
-    "repo": "webpack-contrib/style-loader",
+    "repo": "operator-framework/operator-sdk",
     "branch": "master",
-    "language": "JavaScript",
-    "description": "Style Loader"
+    "language": "Go",
+    "description": "SDK for building Kubernetes applications. Provides high level APIs, useful abstractions, and project scaffolding."
   },
   {
-    "repo": "rust-lang/mdBook",
+    "repo": "termux/termux-app",
     "branch": "master",
-    "language": "Rust",
-    "description": "Create book from markdown files. Like Gitbook but implemented in Rust"
+    "language": "Java",
+    "description": "Termux - a terminal emulator application for Android OS extendible by variety of packages."
   },
   {
-    "repo": "python-pillow/Pillow",
+    "repo": "llvm/llvm-project",
     "branch": "main",
-    "language": "Python",
-    "description": "Python Imaging Library (Fork)"
+    "language": "LLVM",
+    "description": "The LLVM Project is a collection of modular and reusable compiler and toolchain technologies."
   },
   {
-    "repo": "pytorch/audio",
-    "branch": "main",
-    "language": "Python",
-    "description": "Data manipulation and transformation for audio signal processing, powered by PyTorch"
-  },
-  {
-    "repo": "appwrite/appwrite",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Appwrite® - complete cloud infrastructure for your web, mobile and AI apps. Including Auth, Databases, Storage, Functions, Messaging, Hosting, Realtime and more"
-  },
-  {
-    "repo": "krisrice/oracle-db-skills",
-    "branch": "main",
-    "language": "Shell",
-    "description": "Oracle DB Skills is a curated library of 100+ practical, documentation-backed guides for working with Oracle Database, organized by domain"
-  },
-  {
-    "repo": "zilliztech/memsearch",
-    "branch": "main",
-    "language": "Python",
-    "description": "A Markdown-first memory system, a standalone library for any AI agent. Inspired by OpenClaw."
-  },
-  {
-    "repo": "FlowiseAI/Flowise",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Build AI Agents, Visually"
-  },
-  {
-    "repo": "koreader/koreader",
-    "branch": "master",
-    "language": "Lua",
-    "description": "An ebook reader application supporting PDF, DjVu, EPUB, FB2 and many more formats, running on Cervantes, Kindle, Kobo, PocketBook and Android devices"
-  },
-  {
-    "repo": "YougLin-dev/Aha-Loop",
-    "branch": "main",
-    "language": "Shell",
-    "description": "Aha Loop is a fully autonomous AI development system, extended from the core ideas of Ralph. It's not just an execution engine, but a complete AI development framework with planning capabilities, research abilities, and oversight mechanisms."
-  },
-  {
-    "repo": "burpheart/cursor-tap",
+    "repo": "MuhammadHananAsghar/wormhole",
     "branch": "main",
     "language": "Go",
-    "description": "Cursor gRPC 通信流量分析工具"
+    "description": "Open-source ngrok alternative. Expose your localhost to the internet with one command. Built with Go + Cloudflare Workers."
   },
   {
-    "repo": "Shopify/flash-list",
+    "repo": "codetrybe/polymarket-kalshi-arbitrage-bot",
     "branch": "main",
     "language": "TypeScript",
-    "description": "A better list for React Native"
-  },
-  {
-    "repo": "trailofbits/CoBRA",
-    "branch": "master",
-    "language": "C++",
-    "description": "Coefficient-Based Reconstruction of Arithmetic — a Mixed Boolean-Arithmetic (MBA) expression simplifier for deobfuscation"
+    "description": "polymarket kalshi arbitrage bot kalshi arbitrage bot kalshi trading bot"
   }
 ]
