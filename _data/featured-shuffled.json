@@ -1,146 +1,146 @@
 [
   {
-    "repo": "GeneticistHere/ggplot2-20-journal-cases",
+    "repo": "zjp1997720/wechat-article-search",
     "branch": "main",
-    "language": "R",
-    "description": ""
-  },
-  {
-    "repo": "apache/camel",
-    "branch": "main",
-    "language": "Java",
-    "description": "Apache Camel is an open source integration framework that empowers you to quickly and easily integrate various systems consuming or producing data."
-  },
-  {
-    "repo": "requirejs/requirejs",
-    "branch": "master",
     "language": "JavaScript",
-    "description": "A file and module loader for JavaScript"
+    "description": "Search WeChat public account articles by keyword via Sogou WeChat Search. Returns structured JSON — no API key required."
   },
   {
-    "repo": "guardrailsio/awesome-python-security",
-    "branch": "master",
-    "language": "Other",
-    "description": "Awesome Python Security resources 🕶🐍🔐"
+    "repo": "jmuncor/tokentap",
+    "branch": "main",
+    "language": "Python",
+    "description": "Intercept LLM API traffic and visualize token usage in a real-time terminal dashboard. Track costs,       debug prompts, and monitor context window usage across your AI development sessions."
   },
   {
-    "repo": "wader/fq",
+    "repo": "google/wire",
     "branch": "master",
     "language": "Go",
-    "description": "jq for binary formats - tool, language and decoders for working with binary and text formats"
+    "description": "Compile-time Dependency Injection for Go"
   },
   {
-    "repo": "datasciencemasters/go",
-    "branch": "master",
-    "language": "Other",
-    "description": "The Open Source Data Science Masters"
-  },
-  {
-    "repo": "doocs/leetcode",
-    "branch": "main",
-    "language": "Java",
-    "description": "🔥LeetCode solutions in any programming language | 多种编程语言实现 LeetCode、《剑指 Offer（第 2 版）》、《程序员面试金典（第 6 版）》题解"
-  },
-  {
-    "repo": "tamagui/tamagui",
-    "branch": "master",
-    "language": "TypeScript",
-    "description": "Style React fast with 100% parity on React Native, an optional UI kit, and optimizing compiler."
-  },
-  {
-    "repo": "sbilly/awesome-security",
-    "branch": "master",
-    "language": "Other",
-    "description": "A collection of awesome software, libraries, documents, books, resources and cools stuffs about security."
-  },
-  {
-    "repo": "dair-ai/Prompt-Engineering-Guide",
-    "branch": "main",
-    "language": "MDX",
-    "description": "🐙 Guides, papers, lessons, notebooks and resources for prompt engineering, context engineering, RAG, and AI Agents."
-  },
-  {
-    "repo": "LadybirdBrowser/ladybird",
-    "branch": "master",
-    "language": "C++",
-    "description": "Truly independent web browser"
-  },
-  {
-    "repo": "dwzhu-pku/PaperBanana",
+    "repo": "AlexAnys/feishu-openclaw",
     "branch": "main",
     "language": "JavaScript",
-    "description": "PaperBanana: Automating Academic Illustration For AI Scientists"
+    "description": "Connect 飞书Feishu/Lark bot to openclaw (formerly Clawdbot) — no public server, no domain, no ngrok needed. 稳定免安装、共需5 分钟"
   },
   {
-    "repo": "terausss/polymarket-copy-trading-bot",
-    "branch": "main",
-    "language": "Python",
-    "description": "polymarket bot polymarket bot polymarket bot polymarket trading bot polymarket copy trading bot polymarket trading bot polymarket copy trading bot polymarket trading bot polymarket copy trading bot polymarket trading bot polymarket copy trading bot polymarket trading bot polymarket copy trading bot polymarket trading bot polymarket copy trading bot"
+    "repo": "websockets/ws",
+    "branch": "master",
+    "language": "JavaScript",
+    "description": "Simple to use, blazing fast and thoroughly tested WebSocket client and server for Node.js"
   },
   {
-    "repo": "deepmind/alphafold",
-    "branch": "main",
-    "language": "Python",
-    "description": "Open source code for AlphaFold 2."
-  },
-  {
-    "repo": "nikmcfly/MiroFish-Offline",
-    "branch": "main",
-    "language": "Python",
-    "description": "Offline multi-agent simulation & prediction engine. English fork of MiroFish with Neo4j + Ollama local stack."
-  },
-  {
-    "repo": "acedef/SynthAPT",
+    "repo": "starship/starship",
     "branch": "master",
     "language": "Rust",
-    "description": "Generate malware with AI"
+    "description": "☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!"
   },
   {
-    "repo": "Pythagora-io/gpt-pilot",
+    "repo": "vibe-music/vibe-music-web",
     "branch": "main",
-    "language": "Python",
-    "description": "The first real AI developer"
+    "language": "JavaScript",
+    "description": "Open-source cloud music player with a bring-your-own-music model. Local control, optional sync, zero platform dependency."
   },
   {
-    "repo": "rest-assured/rest-assured",
+    "repo": "fastlane/supply",
     "branch": "master",
-    "language": "Java",
-    "description": "Java DSL for easy testing of REST services"
+    "language": "Other",
+    "description": "Command line tool for updating Android apps and their metadata on the Google Play Store"
   },
   {
-    "repo": "AdguardTeam/AdGuardHome",
+    "repo": "xi-editor/xi-editor",
     "branch": "master",
-    "language": "Go",
-    "description": "Network-wide ads & trackers blocking DNS server"
+    "language": "Rust",
+    "description": "A modern editor with a backend written in Rust."
   },
   {
-    "repo": "matteyeux/coruna",
-    "branch": "main",
-    "language": "Python",
-    "description": "deobfuscated JS and blobs from https://b27[.]icu, first attempt at using claude"
-  },
-  {
-    "repo": "cypress-io/cypress",
+    "repo": "element-hq/element-ios",
     "branch": "develop",
+    "language": "Swift",
+    "description": "A glossy Matrix collaboration client for iOS"
+  },
+  {
+    "repo": "liliMozi/openhanako",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "A personal AI agent with memory, personality, and autonomy — built on Electron."
+  },
+  {
+    "repo": "webpack-contrib/style-loader",
+    "branch": "master",
+    "language": "JavaScript",
+    "description": "Style Loader"
+  },
+  {
+    "repo": "rust-lang/mdBook",
+    "branch": "master",
+    "language": "Rust",
+    "description": "Create book from markdown files. Like Gitbook but implemented in Rust"
+  },
+  {
+    "repo": "python-pillow/Pillow",
+    "branch": "main",
+    "language": "Python",
+    "description": "Python Imaging Library (Fork)"
+  },
+  {
+    "repo": "pytorch/audio",
+    "branch": "main",
+    "language": "Python",
+    "description": "Data manipulation and transformation for audio signal processing, powered by PyTorch"
+  },
+  {
+    "repo": "appwrite/appwrite",
+    "branch": "main",
     "language": "TypeScript",
-    "description": "Fast, easy and reliable testing for anything that runs in a browser."
+    "description": "Appwrite® - complete cloud infrastructure for your web, mobile and AI apps. Including Auth, Databases, Storage, Functions, Messaging, Hosting, Realtime and more"
   },
   {
-    "repo": "flybirdxx/ComfyUI-Qwen-TTS",
+    "repo": "krisrice/oracle-db-skills",
     "branch": "main",
-    "language": "Python",
-    "description": "A Simple Implementation of Qwen3-TTS's ComfyUI"
+    "language": "Shell",
+    "description": "Oracle DB Skills is a curated library of 100+ practical, documentation-backed guides for working with Oracle Database, organized by domain"
   },
   {
-    "repo": "trevin-creator/autoresearch-mlx",
+    "repo": "zilliztech/memsearch",
     "branch": "main",
     "language": "Python",
-    "description": "Apple Silicon (MLX) port of Karpathy's autoresearch — autonomous AI research loops on Mac, no PyTorch required."
+    "description": "A Markdown-first memory system, a standalone library for any AI agent. Inspired by OpenClaw."
   },
   {
-    "repo": "mediastormDev/dream-to-video-skill",
+    "repo": "FlowiseAI/Flowise",
     "branch": "main",
-    "language": "Python",
-    "description": "AI agent skill that transforms dream descriptions into cinematic videos — auto-generates prompts, submits to Jimeng via browser automation, and downloads finished videos with post-processing effects."
+    "language": "TypeScript",
+    "description": "Build AI Agents, Visually"
+  },
+  {
+    "repo": "koreader/koreader",
+    "branch": "master",
+    "language": "Lua",
+    "description": "An ebook reader application supporting PDF, DjVu, EPUB, FB2 and many more formats, running on Cervantes, Kindle, Kobo, PocketBook and Android devices"
+  },
+  {
+    "repo": "YougLin-dev/Aha-Loop",
+    "branch": "main",
+    "language": "Shell",
+    "description": "Aha Loop is a fully autonomous AI development system, extended from the core ideas of Ralph. It's not just an execution engine, but a complete AI development framework with planning capabilities, research abilities, and oversight mechanisms."
+  },
+  {
+    "repo": "burpheart/cursor-tap",
+    "branch": "main",
+    "language": "Go",
+    "description": "Cursor gRPC 通信流量分析工具"
+  },
+  {
+    "repo": "Shopify/flash-list",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "A better list for React Native"
+  },
+  {
+    "repo": "trailofbits/CoBRA",
+    "branch": "master",
+    "language": "C++",
+    "description": "Coefficient-Based Reconstruction of Arithmetic — a Mixed Boolean-Arithmetic (MBA) expression simplifier for deobfuscation"
   }
 ]

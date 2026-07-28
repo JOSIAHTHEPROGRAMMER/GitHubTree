@@ -1,8 +1,8 @@
 {
-  "repo": "cporter202/coreclaw-api-directory",
+  "repo": "daimon3332/OutlookManage",
   "branch": "main",
   "language": "Python",
-  "description": "An unofficial, categorized directory of 118 CoreClaw Worker APIs for web scraping, automation, lead generation, e-commerce, social data, and more.",
-  "stars": 110,
-  "forks": 30
+  "description": "Outlook/Hotmail local account management WebUI supports batch account import, status detection (alive/banned), token refresh and synchronization.Outlook / Hotmail 本地账号管理 WebUI，支持账号批量导入、状态检测（存活/封禁）、令牌刷新与同步。",
+  "stars": 104,
+  "forks": 8
 }
