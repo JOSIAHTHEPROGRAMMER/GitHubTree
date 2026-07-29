@@ -1,8 +1,8 @@
 {
-  "repo": "chokcoco/teach-yourself-skill",
+  "repo": "HaseebKhalid1507/Myx",
   "branch": "main",
-  "language": "JavaScript",
-  "description": "快速创建一门自学课程",
-  "stars": 104,
+  "language": "Rust",
+  "description": "Spotify player for the terminal. With reactive themes.",
+  "stars": 122,
   "forks": 7
 }

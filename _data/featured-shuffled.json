@@ -1,146 +1,146 @@
 [
   {
-    "repo": "pyenv/pyenv",
-    "branch": "master",
-    "language": "Shell",
-    "description": "Simple Python version management"
-  },
-  {
-    "repo": "actix/actix-web",
-    "branch": "master",
-    "language": "Rust",
-    "description": "Actix Web is a powerful, pragmatic, and extremely fast web framework for Rust."
-  },
-  {
-    "repo": "The-Vibe-Company/claude-code-controller",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Programmatic TypeScript API to pilot Claude Code agents via the internal teams/inbox/tasks filesystem protocol"
-  },
-  {
-    "repo": "compozy/compozy",
-    "branch": "main",
-    "language": "Go",
-    "description": "Drive the full lifecycle of AI-assisted development — from idea to shipped code."
-  },
-  {
-    "repo": "hehehai/voxt",
-    "branch": "main",
-    "language": "Swift",
-    "description": "[Beta] Voice input and translation app for macOS. Press to talk, release to paste."
-  },
-  {
-    "repo": "google/styleguide",
-    "branch": "gh-pages",
-    "language": "HTML",
-    "description": "Style guides for Google-originated open-source projects"
-  },
-  {
-    "repo": "mwaskom/seaborn",
-    "branch": "master",
-    "language": "Python",
-    "description": "Statistical data visualization in Python"
-  },
-  {
-    "repo": "s2-streamstore/claude-batch-toolkit",
-    "branch": "main",
-    "language": "Shell",
-    "description": "Send non-urgent work to the Anthropic Batch API at 50% cost — directly from Claude Code"
-  },
-  {
-    "repo": "sharbelxyz/x-bookmarks",
+    "repo": "Tencent-Hunyuan/HY-SOAR",
     "branch": "main",
     "language": "Python",
-    "description": "OpenClaw skill: turn your X bookmarks into agent actions. Stop hoarding. Start applying."
+    "description": "HY-SOAR:Self-Correction for Optimal Alignment and Refinement in Diffusion Models"
   },
   {
-    "repo": "wbenny/scfw",
-    "branch": "master",
-    "language": "C++",
-    "description": "A cross-platform C++ framework for building Windows shellcode"
-  },
-  {
-    "repo": "junegunn/fzf",
-    "branch": "master",
-    "language": "Go",
-    "description": ":cherry_blossom: A command-line fuzzy finder"
-  },
-  {
-    "repo": "brendanhogan/hermitclaw",
+    "repo": "Tencent-Hunyuan/HY3D-Bench",
     "branch": "main",
     "language": "Python",
     "description": ""
   },
   {
-    "repo": "aikhe/wrapped.nvim",
-    "branch": "master",
-    "language": "Lua",
-    "description": "View your Neovim configuration insights, history, and heatmaps."
-  },
-  {
-    "repo": "animate-css/animate.css",
+    "repo": "michaelpersonal/goal-forge",
     "branch": "main",
-    "language": "CSS",
-    "description": "🍿 A cross-browser library of CSS animations. As easy to use as an easy thing."
+    "language": "Python",
+    "description": "Codex skill: turn a rough coding idea into a SPEC.md, GOAL.md, and /goal-ready contract."
   },
   {
-    "repo": "parcel-bundler/parcel",
-    "branch": "v2",
-    "language": "JavaScript",
-    "description": "The zero configuration build tool for the web. 📦🚀"
-  },
-  {
-    "repo": "vercel/hyper",
+    "repo": "Robbyant/lingbot-map",
     "branch": "main",
-    "language": "TypeScript",
-    "description": "A terminal built on web technologies"
+    "language": "Python",
+    "description": "A feed-forward 3D foundation model for reconstructing scenes from streaming data"
   },
   {
-    "repo": "react-native-video/react-native-video",
-    "branch": "master",
-    "language": "Kotlin",
-    "description": "A <Video /> component for react-native"
-  },
-  {
-    "repo": "knackstedtlivia3560/Gemini-Pro-Desktop",
+    "repo": "blader/taskmaster",
     "branch": "main",
-    "language": "C#",
-    "description": "A free, locally runnable desktop application powered by Gemini Pro for enhanced productivity."
+    "language": "Shell",
+    "description": "Stop hook for Claude Code that keeps the agent working until all plans and user requests are 100% complete"
   },
   {
-    "repo": "5-m0cftvuvif/stake-monthly",
+    "repo": "TheGreatGildo/nerv-ui",
     "branch": "main",
     "language": "HTML",
-    "description": "Stake Monthly is one of the most discussed topics in online platform communities, loyalty systems, and crypto entertainment ecosystems. This educational guide explains how monthly reward structures, VIP progression, recurring engagement systems, and community participation models work across modern digital platforms."
+    "description": "NERV Operations Console aesthetic for web interfaces — Evangelion-inspired instrumentation UI skill for Claude Code / OpenClaw"
   },
   {
-    "repo": "MariCarmen1971/solana-pumpfun-raydium-bundler",
+    "repo": "vibe-music/vibe-music-web",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "Open-source cloud music player with a bring-your-own-music model. Local control, optional sync, zero platform dependency."
+  },
+  {
+    "repo": "noonghunna/club-3090",
+    "branch": "master",
+    "language": "Shell",
+    "description": "Community recipes for serving LLMs on RTX 3090. Multi-engine (vLLM, llama.cpp, SGLang) and model-agnostic. Currently shipping Qwen3.6-27B configs for 1× and 2× cards."
+  },
+  {
+    "repo": "LawmakerTreasure/deepseek-openclaw",
+    "branch": "main",
+    "language": "HTML",
+    "description": "OpenClaw for DeepSeek — a lightweight starter app for connecting DeepSeek models through OpenClaw with a clean UI and simple setup."
+  },
+  {
+    "repo": "moumen-soliman/lab",
+    "branch": "master",
+    "language": "TypeScript",
+    "description": "A small lab of the components we build every day, rethought for better feel. Each one does one thing well, built in React and fully Tailwind, and available in the shadcn registry - copy the source"
+  },
+  {
+    "repo": "veryyoldman/undress-ai-image-video-generator",
+    "branch": "main",
+    "language": "Python",
+    "description": "AI tool for generating uncensored images and videos"
+  },
+  {
+    "repo": "TQ-trade/rari-stable-pool-contracts",
+    "branch": "dependabot/npm_and_yarn/ajv-6.14.0",
+    "language": "HTML",
+    "description": "Smart contracts for the Rari Stable Pool."
+  },
+  {
+    "repo": "JUk1-GH/gpt-promo-scanner",
+    "branch": "main",
+    "language": "Python",
+    "description": "ChatGPT Team(Business) 促销码自动扫描工具 — 批量发现/验证/价格收集，支持 17 国 34 个码，最高折扣 71% | ChatGPT Business promo code scanner — batch discovery, validation, price collection, 34 codes across 17 countries, up to 71% off"
+  },
+  {
+    "repo": "mrslimslim/gpt-image-canvas",
     "branch": "main",
     "language": "TypeScript",
-    "description": "open-source bundler for Pump.Fun. Solana pumpfun bundler stealth-mode, bubblemap-bypassing, real bot activity"
+    "description": "Local professional AI canvas built with tldraw."
   },
   {
-    "repo": "ValeriaVoronin11/Exodus-Fake-Balance",
+    "repo": "aarondfrancis/counselors",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Fan out prompts to multiple AI coding agents in parallel"
+  },
+  {
+    "repo": "nexu-io/open-design",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "🎨 Local-first open replica of Anthropic's Claude Design. ⚡ 19 Skills · ✨ 71 brand-grade Design Systems · 🖼️ sandboxed preview · 📦 HTML/PDF/PPTX export. 🤖 Runs on Claude Code / Codex / Cursor / Gemini CLI / OpenCode / Qwen."
+  },
+  {
+    "repo": "disintegr8te/teams-policy-export",
+    "branch": "main",
+    "language": "PowerShell",
+    "description": "PowerShell tool to export Microsoft Teams policies and generate stakeholder decision workbooks"
+  },
+  {
+    "repo": "frederikemmer/MediaLyze",
     "branch": "main",
     "language": "Python",
-    "description": "Exodus Fake Balance — Native balance overlay tool for Exodus wallet with real-time spoofing across BTC, ETH, SOL, XRP and 200+ assets, persistent hooks, and screenshot-safe display rendering"
+    "description": "Self-hosted media library analysis for large video collections"
   },
   {
-    "repo": "OldenEraTemplateGenerator/Olden-Era-Template-Generator",
-    "branch": "main",
-    "language": "C#",
-    "description": "olden era template generator github Download heroes of might and magic homm random map rmg json custom map editor templates utility tool windows 11 latest version free preview zone layout multiplayer"
-  },
-  {
-    "repo": "MatinSenPai/SenPaiScanner",
-    "branch": "main",
-    "language": "Go",
-    "description": "A light-weight scanner for Cloudflare IPs, written in Golang"
-  },
-  {
-    "repo": "JuneYaooo/nihaixia-tcm",
+    "repo": "kyutai-labs/hibiki-zero",
     "branch": "main",
     "language": "Python",
-    "description": "倪海厦中医课程资料的 Agent Skill：支持课程检索、方证穴位辨析、学习笔记整理与板书截图证据索引。 |  An Agent Skill for Ni Haixia TCM course study, formula-pattern lookup, acupoint reference, and screenshot evidence indexing."
+    "description": "A real-time and multilingual speech translation model"
+  },
+  {
+    "repo": "study8677/awesome-architecture",
+    "branch": "main",
+    "language": "Vue",
+    "description": "🗺️ Think like a software architect, not just a coder — 21 architecture maps (incl. AI gateway, RAG, agents, inference serving, vector DB) + a language-agnostic system-design tutorial. Every template links to real open-source prototypes. 中英文双语。"
+  },
+  {
+    "repo": "rebornix/Agmente",
+    "branch": "main",
+    "language": "Swift",
+    "description": ""
+  },
+  {
+    "repo": "wanshuiyin/Auto-claude-code-research-in-sleep",
+    "branch": "main",
+    "language": "TeX",
+    "description": "ARIS ⚔️ (Auto-Research-In-Sleep) — Claude Code skills for autonomous ML research: cross-model review loops, idea discovery, and experiment automation via Codex MCP"
+  },
+  {
+    "repo": "bbylw/clawdbot-cn",
+    "branch": "main",
+    "language": "HTML",
+    "description": "Clawdbot 是一个运行在您自己设备上的个人 AI 助手"
+  },
+  {
+    "repo": "johnbean393/KeyType",
+    "branch": "main",
+    "language": "Swift",
+    "description": "An open-source Cotypist with macOS system wide AI autocomplete"
   }
 ]
