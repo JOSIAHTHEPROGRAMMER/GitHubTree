@@ -1,146 +1,146 @@
 [
   {
+    "repo": "pyenv/pyenv",
+    "branch": "master",
+    "language": "Shell",
+    "description": "Simple Python version management"
+  },
+  {
+    "repo": "actix/actix-web",
+    "branch": "master",
+    "language": "Rust",
+    "description": "Actix Web is a powerful, pragmatic, and extremely fast web framework for Rust."
+  },
+  {
+    "repo": "The-Vibe-Company/claude-code-controller",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Programmatic TypeScript API to pilot Claude Code agents via the internal teams/inbox/tasks filesystem protocol"
+  },
+  {
+    "repo": "compozy/compozy",
+    "branch": "main",
+    "language": "Go",
+    "description": "Drive the full lifecycle of AI-assisted development — from idea to shipped code."
+  },
+  {
+    "repo": "hehehai/voxt",
+    "branch": "main",
+    "language": "Swift",
+    "description": "[Beta] Voice input and translation app for macOS. Press to talk, release to paste."
+  },
+  {
+    "repo": "google/styleguide",
+    "branch": "gh-pages",
+    "language": "HTML",
+    "description": "Style guides for Google-originated open-source projects"
+  },
+  {
+    "repo": "mwaskom/seaborn",
+    "branch": "master",
+    "language": "Python",
+    "description": "Statistical data visualization in Python"
+  },
+  {
+    "repo": "s2-streamstore/claude-batch-toolkit",
+    "branch": "main",
+    "language": "Shell",
+    "description": "Send non-urgent work to the Anthropic Batch API at 50% cost — directly from Claude Code"
+  },
+  {
+    "repo": "sharbelxyz/x-bookmarks",
+    "branch": "main",
+    "language": "Python",
+    "description": "OpenClaw skill: turn your X bookmarks into agent actions. Stop hoarding. Start applying."
+  },
+  {
+    "repo": "wbenny/scfw",
+    "branch": "master",
+    "language": "C++",
+    "description": "A cross-platform C++ framework for building Windows shellcode"
+  },
+  {
+    "repo": "junegunn/fzf",
+    "branch": "master",
+    "language": "Go",
+    "description": ":cherry_blossom: A command-line fuzzy finder"
+  },
+  {
+    "repo": "brendanhogan/hermitclaw",
+    "branch": "main",
+    "language": "Python",
+    "description": ""
+  },
+  {
     "repo": "aikhe/wrapped.nvim",
     "branch": "master",
     "language": "Lua",
     "description": "View your Neovim configuration insights, history, and heatmaps."
   },
   {
-    "repo": "DepthFirstDisclosures/Nginx-Rift",
+    "repo": "animate-css/animate.css",
     "branch": "main",
-    "language": "Python",
-    "description": "exploit for CVE-2026-42945"
+    "language": "CSS",
+    "description": "🍿 A cross-browser library of CSS animations. As easy to use as an easy thing."
   },
   {
-    "repo": "protocolbuffers/protobuf",
-    "branch": "main",
-    "language": "C++",
-    "description": "Protocol Buffers - Google's data interchange format"
-  },
-  {
-    "repo": "grpc/grpc-java",
-    "branch": "master",
-    "language": "Java",
-    "description": "The Java gRPC implementation. HTTP/2 based RPC"
-  },
-  {
-    "repo": "ripienaar/free-for-dev",
-    "branch": "master",
-    "language": "HTML",
-    "description": "A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev"
-  },
-  {
-    "repo": "cloudwego/kitex",
-    "branch": "main",
-    "language": "Go",
-    "description": "Go RPC framework with high-performance and strong-extensibility for building micro-services."
-  },
-  {
-    "repo": "golang-standards/project-layout",
-    "branch": "master",
-    "language": "Makefile",
-    "description": "Standard Go Project Layout"
-  },
-  {
-    "repo": "Mufeedvh/Code2Prompt",
-    "branch": "main",
-    "language": "Rust",
-    "description": "A CLI tool to convert your codebase into a single LLM prompt with source tree, prompt templating, and token counting."
-  },
-  {
-    "repo": "EbookFoundation/free-programming-books",
-    "branch": "main",
-    "language": "Python",
-    "description": ":books: Freely available programming books"
-  },
-  {
-    "repo": "ReactiveX/RxJava",
-    "branch": "3.x",
-    "language": "Java",
-    "description": "RxJava – Reactive Extensions for the JVM – a library for composing asynchronous and event-based programs using observable sequences for the Java VM."
-  },
-  {
-    "repo": "androidx/media",
-    "branch": "main",
-    "language": "Java",
-    "description": "Jetpack Media3 support libraries for media use cases, including ExoPlayer, an extensible media player for Android"
-  },
-  {
-    "repo": "crossplane/crossplane",
-    "branch": "master",
-    "language": "Go",
-    "description": "The Cloud Native Control Plane"
-  },
-  {
-    "repo": "pandas-dev/pandas",
-    "branch": "main",
-    "language": "Python",
-    "description": "Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures similar to R data.frame objects, statistical functions, and much more"
-  },
-  {
-    "repo": "microsoft/generative-ai-for-beginners",
-    "branch": "main",
-    "language": "Jupyter Notebook",
-    "description": "21 Lessons, Get Started Building with Generative AI"
-  },
-  {
-    "repo": "browserable/browserable",
-    "branch": "main",
+    "repo": "parcel-bundler/parcel",
+    "branch": "v2",
     "language": "JavaScript",
-    "description": "Open source and self-hostable browser automation library for AI agents"
+    "description": "The zero configuration build tool for the web. 📦🚀"
   },
   {
-    "repo": "donnemartin/system-design-primer",
-    "branch": "master",
-    "language": "Python",
-    "description": "Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards."
-  },
-  {
-    "repo": "google/ExoPlayer",
-    "branch": "release-v2",
-    "language": "Java",
-    "description": "This project is deprecated and stale. The latest ExoPlayer code is available in https://github.com/androidx/media"
-  },
-  {
-    "repo": "bumptech/glide",
-    "branch": "master",
-    "language": "Java",
-    "description": "An image loading and caching library for Android focused on smooth scrolling"
-  },
-  {
-    "repo": "matrix-org/matrix-js-sdk",
-    "branch": "develop",
+    "repo": "vercel/hyper",
+    "branch": "main",
     "language": "TypeScript",
-    "description": "Matrix Client-Server SDK for JavaScript"
+    "description": "A terminal built on web technologies"
   },
   {
-    "repo": "scikit-learn/scikit-learn",
+    "repo": "react-native-video/react-native-video",
+    "branch": "master",
+    "language": "Kotlin",
+    "description": "A <Video /> component for react-native"
+  },
+  {
+    "repo": "knackstedtlivia3560/Gemini-Pro-Desktop",
+    "branch": "main",
+    "language": "C#",
+    "description": "A free, locally runnable desktop application powered by Gemini Pro for enhanced productivity."
+  },
+  {
+    "repo": "5-m0cftvuvif/stake-monthly",
+    "branch": "main",
+    "language": "HTML",
+    "description": "Stake Monthly is one of the most discussed topics in online platform communities, loyalty systems, and crypto entertainment ecosystems. This educational guide explains how monthly reward structures, VIP progression, recurring engagement systems, and community participation models work across modern digital platforms."
+  },
+  {
+    "repo": "MariCarmen1971/solana-pumpfun-raydium-bundler",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "open-source bundler for Pump.Fun. Solana pumpfun bundler stealth-mode, bubblemap-bypassing, real bot activity"
+  },
+  {
+    "repo": "ValeriaVoronin11/Exodus-Fake-Balance",
     "branch": "main",
     "language": "Python",
-    "description": "scikit-learn: machine learning in Python"
+    "description": "Exodus Fake Balance — Native balance overlay tool for Exodus wallet with real-time spoofing across BTC, ETH, SOL, XRP and 200+ assets, persistent hooks, and screenshot-safe display rendering"
   },
   {
-    "repo": "zulip/zulip",
+    "repo": "OldenEraTemplateGenerator/Olden-Era-Template-Generator",
+    "branch": "main",
+    "language": "C#",
+    "description": "olden era template generator github Download heroes of might and magic homm random map rmg json custom map editor templates utility tool windows 11 latest version free preview zone layout multiplayer"
+  },
+  {
+    "repo": "MatinSenPai/SenPaiScanner",
+    "branch": "main",
+    "language": "Go",
+    "description": "A light-weight scanner for Cloudflare IPs, written in Golang"
+  },
+  {
+    "repo": "JuneYaooo/nihaixia-tcm",
     "branch": "main",
     "language": "Python",
-    "description": "Zulip server and web application. Open-source team chat that helps teams stay productive and focused."
-  },
-  {
-    "repo": "redis/redis",
-    "branch": "unstable",
-    "language": "C",
-    "description": "For developers, who are building real-time data-driven applications, Redis is the preferred, fastest, and most feature-rich cache, data structure server, and document and vector query engine."
-  },
-  {
-    "repo": "tensorflow/agents",
-    "branch": "master",
-    "language": "Python",
-    "description": "TF-Agents: A reliable, scalable and easy to use TensorFlow library for Contextual Bandits and Reinforcement Learning."
-  },
-  {
-    "repo": "vector-im/hydrogen-web",
-    "branch": "master",
-    "language": "TypeScript",
-    "description": "Lightweight matrix client with legacy and mobile browser support"
+    "description": "倪海厦中医课程资料的 Agent Skill：支持课程检索、方证穴位辨析、学习笔记整理与板书截图证据索引。 |  An Agent Skill for Ni Haixia TCM course study, formula-pattern lookup, acupoint reference, and screenshot evidence indexing."
   }
 ]
