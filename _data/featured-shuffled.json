@@ -1,129 +1,129 @@
 [
   {
-    "repo": "MemeCalculate/moyin-creator",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "AI 影视生产级工具 | 支持 Seedance 2.0 | 剧本到成片全流程批量化 | AI-powered film production tool with Seedance 2.0 support"
-  },
-  {
-    "repo": "mverschu/adwsdomaindump",
+    "repo": "titanwings/colleague-skill",
     "branch": "main",
     "language": "Python",
-    "description": "Active Directory information dumper via ADWS for evasion purposes."
+    "description": "你们搞大模型的就是码奸，你们已经害死前端兄弟了，还要害死后端兄弟，测试兄弟，运维兄弟，害死网安兄弟，害死ic兄弟，最后害死自己害死全人类"
   },
   {
-    "repo": "lsd-rs/lsd",
-    "branch": "master",
-    "language": "Rust",
-    "description": "The next gen ls command"
-  },
-  {
-    "repo": "emscripten-core/emscripten",
-    "branch": "main",
-    "language": "C++",
-    "description": "Emscripten: An LLVM-to-WebAssembly Compiler"
-  },
-  {
-    "repo": "metric-anything/metric-anything",
+    "repo": "koffuxu/ai-influence-digest",
     "branch": "main",
     "language": "Python",
     "description": ""
   },
   {
-    "repo": "slackhq/nebula",
-    "branch": "master",
-    "language": "Go",
-    "description": "A scalable overlay networking tool with a focus on performance, simplicity and security"
+    "repo": "streamlit/streamlit",
+    "branch": "develop",
+    "language": "Python",
+    "description": "Streamlit — A faster way to build and share data apps."
   },
   {
-    "repo": "mrdoob/three-quake",
+    "repo": "wangziqi06/724-office",
+    "branch": "master",
+    "language": "Python",
+    "description": "7/24 Office — Self-evolving AI Agent system. 26 tools, 3500 lines pure Python, MCP/Skill plugins, three-layer memory, self-repair, 24/7 production."
+  },
+  {
+    "repo": "hengfengliya/imgood",
+    "branch": "main",
+    "language": "CSS",
+    "description": ""
+  },
+  {
+    "repo": "Shpigford/clearly",
+    "branch": "main",
+    "language": "Swift",
+    "description": "A clean, native markdown editor for macOS."
+  },
+  {
+    "repo": "Rabrg/artificial-life",
+    "branch": "main",
+    "language": "Python",
+    "description": "A simple (300 lines of code) reproduction of Computational Life: How Well-formed, Self-replicating Programs Emerge from Simple Interaction"
+  },
+  {
+    "repo": "jasmine/jasmine",
     "branch": "main",
     "language": "JavaScript",
-    "description": "A port of Quake (1996) to Three.js."
+    "description": "Simple JavaScript testing framework for browsers and node.js"
   },
   {
-    "repo": "langchain-ai/langchainjs",
+    "repo": "nanostores/nanostores",
     "branch": "main",
     "language": "TypeScript",
-    "description": "🦜🔗 Build context-aware reasoning applications"
+    "description": "A tiny (286 bytes) state manager for React/RN/Preact/Vue/Svelte with many atomic tree-shakable stores"
   },
   {
-    "repo": "reflex-dev/reflex",
+    "repo": "etcd-io/etcd",
     "branch": "main",
-    "language": "Python",
-    "description": "🕸️ Web apps in pure Python 🐍"
+    "language": "Go",
+    "description": "Distributed reliable key-value store for the most critical data of a distributed system"
   },
   {
-    "repo": "uedk9p/sora2-watermark-remover",
+    "repo": "NousResearch/hermes-agent-self-evolution",
     "branch": "main",
     "language": "Python",
-    "description": "sora2 watermark remover"
+    "description": "⚒ Evolutionary self-improvement for Hermes Agent — optimize skills, prompts, and code using DSPy + GEPA"
   },
   {
-    "repo": "Tencent-Hunyuan/HY3D-Bench",
+    "repo": "upper-up/meta-lobbying-and-other-findings",
     "branch": "main",
-    "language": "Python",
+    "language": "HTML",
     "description": ""
   },
   {
-    "repo": "mindfold-ai/Trellis",
+    "repo": "vibeforge1111/dexscreener-cli-mcp-tool",
     "branch": "main",
-    "language": "Shell",
-    "description": "All-in-one AI framework & toolkit for Claude Code & Cursor"
+    "language": "Python",
+    "description": "Visual Dexscreener terminal CLI + MCP scanner"
   },
   {
-    "repo": "kubernetes-sigs/kubespray",
+    "repo": "airbnb/lottie-android",
     "branch": "master",
-    "language": "Jinja",
-    "description": "Deploy a Production Ready Kubernetes Cluster"
+    "language": "Java",
+    "description": "Render After Effects animations natively on Android and iOS, Web, and React Native"
   },
   {
-    "repo": "ultraworkers/claw-code-parity",
+    "repo": "Comfy-Org/Nvidia_RTX_Nodes_ComfyUI",
     "branch": "main",
-    "language": "Rust",
-    "description": "claw-code Rust port parity work - it is temporary work while claw-code repo is doing migration"
-  },
-  {
-    "repo": "deborahikssv/Antigravity-claw",
-    "branch": "main",
-    "language": "Rust",
+    "language": "Python",
     "description": ""
   },
   {
-    "repo": "LeoChen-CoreMind/VMPacker",
+    "repo": "JetBrains/kotlin",
+    "branch": "master",
+    "language": "Kotlin",
+    "description": "The Kotlin Programming Language."
+  },
+  {
+    "repo": "andreisss/KslDump",
+    "branch": "main",
+    "language": "Python",
+    "description": "KslDump — Why bring your own knife when Defender already left one in the kitchen?"
+  },
+  {
+    "repo": "zeromicro/go-zero",
     "branch": "master",
     "language": "Go",
-    "description": "ARM64 ELF Virtual Machine Protection System"
+    "description": "A cloud-native Go microservices framework with cli tool for productivity."
   },
   {
-    "repo": "stong/gradscii-art",
-    "branch": "master",
-    "language": "Python",
-    "description": "An extremely good ASCII art generator, based on machine learning"
-  },
-  {
-    "repo": "AMAP-ML/SpatialGenEval",
+    "repo": "math-inc/OpenGauss",
     "branch": "main",
     "language": "Python",
     "description": ""
   },
   {
-    "repo": "pshycodr/airctl",
+    "repo": "ManimCommunity/manim",
     "branch": "main",
     "language": "Python",
-    "description": "AIRCTL, a modern WiFi management tool for Linux built with GTK4 and Python. It provides a clean interface to scan, connect, and manage wireless networks."
+    "description": "A community-maintained Python framework for creating mathematical animations."
   },
   {
-    "repo": "facebook/react",
+    "repo": "Willis404/Professional-Polymarket-Trading-Bots-Suite-AI-Powered-Arbitrage-Copy-Trading",
     "branch": "main",
-    "language": "JavaScript",
-    "description": "The library for web and native user interfaces."
-  },
-  {
-    "repo": "ColeMurray/background-agents",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "An open-source background agent coding system"
+    "language": "Rust",
+    "description": "Polymarket Trading Bot, Polymarket Arbitrage Bot, Polymarket Copy Trading, Automated Polymarket Trading, Polymarket Bot Rust, Synth AI Trading, Bittensor Trading Bot, Polymarket Prediction Markets, Crypto Trading Bot, DeFi Trading Automation"
   },
   {
     "repo": "510myRday/Cursor-Toolbox",
@@ -132,15 +132,15 @@
     "description": ""
   },
   {
-    "repo": "170-carry/codex-tools",
+    "repo": "stanford-oval/storm",
     "branch": "main",
-    "language": "Rust",
-    "description": "快捷切换codex 账号以及监控codex用量的工具"
+    "language": "Python",
+    "description": "An LLM-powered knowledge curation system that researches a topic and generates a full-length report with citations."
   },
   {
-    "repo": "freqtrade/freqtrade",
-    "branch": "develop",
+    "repo": "HKUDS/ClawTeam",
+    "branch": "main",
     "language": "Python",
-    "description": "Free, open source crypto trading bot"
+    "description": "ClawTeam: Agent Swarm Intelligence (One Command → Full Automation)"
   }
 ]

@@ -1,8 +1,8 @@
 {
-  "repo": "Jia-Ethan/grok-keysmith",
+  "repo": "qaml-ai/camelAI",
   "branch": "main",
-  "language": "Python",
-  "description": "Preview-first Grok Build instruction deployment with compat and hook isolation, durable recovery, and layered uninstall.",
-  "stars": 127,
-  "forks": 19
+  "language": "TypeScript",
+  "description": "camelAI — an AI coding assistant platform built on Cloudflare Workers and Durable Objects",
+  "stars": 114,
+  "forks": 6
 }
