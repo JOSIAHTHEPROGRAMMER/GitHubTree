@@ -1,8 +1,8 @@
 {
-  "repo": "qaml-ai/camelAI",
+  "repo": "chokcoco/teach-yourself-skill",
   "branch": "main",
-  "language": "TypeScript",
-  "description": "camelAI — an AI coding assistant platform built on Cloudflare Workers and Durable Objects",
-  "stars": 114,
-  "forks": 6
+  "language": "JavaScript",
+  "description": "快速创建一门自学课程",
+  "stars": 104,
+  "forks": 7
 }

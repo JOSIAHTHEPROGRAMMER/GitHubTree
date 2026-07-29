@@ -1,146 +1,146 @@
 [
   {
-    "repo": "titanwings/colleague-skill",
-    "branch": "main",
-    "language": "Python",
-    "description": "你们搞大模型的就是码奸，你们已经害死前端兄弟了，还要害死后端兄弟，测试兄弟，运维兄弟，害死网安兄弟，害死ic兄弟，最后害死自己害死全人类"
-  },
-  {
-    "repo": "koffuxu/ai-influence-digest",
-    "branch": "main",
-    "language": "Python",
-    "description": ""
-  },
-  {
-    "repo": "streamlit/streamlit",
-    "branch": "develop",
-    "language": "Python",
-    "description": "Streamlit — A faster way to build and share data apps."
-  },
-  {
-    "repo": "wangziqi06/724-office",
+    "repo": "aikhe/wrapped.nvim",
     "branch": "master",
-    "language": "Python",
-    "description": "7/24 Office — Self-evolving AI Agent system. 26 tools, 3500 lines pure Python, MCP/Skill plugins, three-layer memory, self-repair, 24/7 production."
+    "language": "Lua",
+    "description": "View your Neovim configuration insights, history, and heatmaps."
   },
   {
-    "repo": "hengfengliya/imgood",
-    "branch": "main",
-    "language": "CSS",
-    "description": ""
-  },
-  {
-    "repo": "Shpigford/clearly",
-    "branch": "main",
-    "language": "Swift",
-    "description": "A clean, native markdown editor for macOS."
-  },
-  {
-    "repo": "Rabrg/artificial-life",
+    "repo": "DepthFirstDisclosures/Nginx-Rift",
     "branch": "main",
     "language": "Python",
-    "description": "A simple (300 lines of code) reproduction of Computational Life: How Well-formed, Self-replicating Programs Emerge from Simple Interaction"
+    "description": "exploit for CVE-2026-42945"
   },
   {
-    "repo": "jasmine/jasmine",
+    "repo": "protocolbuffers/protobuf",
     "branch": "main",
-    "language": "JavaScript",
-    "description": "Simple JavaScript testing framework for browsers and node.js"
+    "language": "C++",
+    "description": "Protocol Buffers - Google's data interchange format"
   },
   {
-    "repo": "nanostores/nanostores",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "A tiny (286 bytes) state manager for React/RN/Preact/Vue/Svelte with many atomic tree-shakable stores"
-  },
-  {
-    "repo": "etcd-io/etcd",
-    "branch": "main",
-    "language": "Go",
-    "description": "Distributed reliable key-value store for the most critical data of a distributed system"
-  },
-  {
-    "repo": "NousResearch/hermes-agent-self-evolution",
-    "branch": "main",
-    "language": "Python",
-    "description": "⚒ Evolutionary self-improvement for Hermes Agent — optimize skills, prompts, and code using DSPy + GEPA"
-  },
-  {
-    "repo": "upper-up/meta-lobbying-and-other-findings",
-    "branch": "main",
-    "language": "HTML",
-    "description": ""
-  },
-  {
-    "repo": "vibeforge1111/dexscreener-cli-mcp-tool",
-    "branch": "main",
-    "language": "Python",
-    "description": "Visual Dexscreener terminal CLI + MCP scanner"
-  },
-  {
-    "repo": "airbnb/lottie-android",
+    "repo": "grpc/grpc-java",
     "branch": "master",
     "language": "Java",
-    "description": "Render After Effects animations natively on Android and iOS, Web, and React Native"
+    "description": "The Java gRPC implementation. HTTP/2 based RPC"
   },
   {
-    "repo": "Comfy-Org/Nvidia_RTX_Nodes_ComfyUI",
-    "branch": "main",
-    "language": "Python",
-    "description": ""
-  },
-  {
-    "repo": "JetBrains/kotlin",
+    "repo": "ripienaar/free-for-dev",
     "branch": "master",
-    "language": "Kotlin",
-    "description": "The Kotlin Programming Language."
+    "language": "HTML",
+    "description": "A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev"
   },
   {
-    "repo": "andreisss/KslDump",
+    "repo": "cloudwego/kitex",
     "branch": "main",
-    "language": "Python",
-    "description": "KslDump — Why bring your own knife when Defender already left one in the kitchen?"
-  },
-  {
-    "repo": "zeromicro/go-zero",
-    "branch": "master",
     "language": "Go",
-    "description": "A cloud-native Go microservices framework with cli tool for productivity."
+    "description": "Go RPC framework with high-performance and strong-extensibility for building micro-services."
   },
   {
-    "repo": "math-inc/OpenGauss",
-    "branch": "main",
-    "language": "Python",
-    "description": ""
+    "repo": "golang-standards/project-layout",
+    "branch": "master",
+    "language": "Makefile",
+    "description": "Standard Go Project Layout"
   },
   {
-    "repo": "ManimCommunity/manim",
-    "branch": "main",
-    "language": "Python",
-    "description": "A community-maintained Python framework for creating mathematical animations."
-  },
-  {
-    "repo": "Willis404/Professional-Polymarket-Trading-Bots-Suite-AI-Powered-Arbitrage-Copy-Trading",
+    "repo": "Mufeedvh/Code2Prompt",
     "branch": "main",
     "language": "Rust",
-    "description": "Polymarket Trading Bot, Polymarket Arbitrage Bot, Polymarket Copy Trading, Automated Polymarket Trading, Polymarket Bot Rust, Synth AI Trading, Bittensor Trading Bot, Polymarket Prediction Markets, Crypto Trading Bot, DeFi Trading Automation"
+    "description": "A CLI tool to convert your codebase into a single LLM prompt with source tree, prompt templating, and token counting."
   },
   {
-    "repo": "510myRday/Cursor-Toolbox",
+    "repo": "EbookFoundation/free-programming-books",
+    "branch": "main",
+    "language": "Python",
+    "description": ":books: Freely available programming books"
+  },
+  {
+    "repo": "ReactiveX/RxJava",
+    "branch": "3.x",
+    "language": "Java",
+    "description": "RxJava – Reactive Extensions for the JVM – a library for composing asynchronous and event-based programs using observable sequences for the Java VM."
+  },
+  {
+    "repo": "androidx/media",
+    "branch": "main",
+    "language": "Java",
+    "description": "Jetpack Media3 support libraries for media use cases, including ExoPlayer, an extensible media player for Android"
+  },
+  {
+    "repo": "crossplane/crossplane",
+    "branch": "master",
+    "language": "Go",
+    "description": "The Cloud Native Control Plane"
+  },
+  {
+    "repo": "pandas-dev/pandas",
+    "branch": "main",
+    "language": "Python",
+    "description": "Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures similar to R data.frame objects, statistical functions, and much more"
+  },
+  {
+    "repo": "microsoft/generative-ai-for-beginners",
+    "branch": "main",
+    "language": "Jupyter Notebook",
+    "description": "21 Lessons, Get Started Building with Generative AI"
+  },
+  {
+    "repo": "browserable/browserable",
     "branch": "main",
     "language": "JavaScript",
-    "description": ""
+    "description": "Open source and self-hostable browser automation library for AI agents"
   },
   {
-    "repo": "stanford-oval/storm",
-    "branch": "main",
+    "repo": "donnemartin/system-design-primer",
+    "branch": "master",
     "language": "Python",
-    "description": "An LLM-powered knowledge curation system that researches a topic and generates a full-length report with citations."
+    "description": "Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards."
   },
   {
-    "repo": "HKUDS/ClawTeam",
+    "repo": "google/ExoPlayer",
+    "branch": "release-v2",
+    "language": "Java",
+    "description": "This project is deprecated and stale. The latest ExoPlayer code is available in https://github.com/androidx/media"
+  },
+  {
+    "repo": "bumptech/glide",
+    "branch": "master",
+    "language": "Java",
+    "description": "An image loading and caching library for Android focused on smooth scrolling"
+  },
+  {
+    "repo": "matrix-org/matrix-js-sdk",
+    "branch": "develop",
+    "language": "TypeScript",
+    "description": "Matrix Client-Server SDK for JavaScript"
+  },
+  {
+    "repo": "scikit-learn/scikit-learn",
     "branch": "main",
     "language": "Python",
-    "description": "ClawTeam: Agent Swarm Intelligence (One Command → Full Automation)"
+    "description": "scikit-learn: machine learning in Python"
+  },
+  {
+    "repo": "zulip/zulip",
+    "branch": "main",
+    "language": "Python",
+    "description": "Zulip server and web application. Open-source team chat that helps teams stay productive and focused."
+  },
+  {
+    "repo": "redis/redis",
+    "branch": "unstable",
+    "language": "C",
+    "description": "For developers, who are building real-time data-driven applications, Redis is the preferred, fastest, and most feature-rich cache, data structure server, and document and vector query engine."
+  },
+  {
+    "repo": "tensorflow/agents",
+    "branch": "master",
+    "language": "Python",
+    "description": "TF-Agents: A reliable, scalable and easy to use TensorFlow library for Contextual Bandits and Reinforcement Learning."
+  },
+  {
+    "repo": "vector-im/hydrogen-web",
+    "branch": "master",
+    "language": "TypeScript",
+    "description": "Lightweight matrix client with legacy and mobile browser support"
   }
 ]
