@@ -1,146 +1,146 @@
 [
   {
-    "repo": "Anarkh-Lee/universal-db-mcp",
+    "repo": "aleclindz/seo-skill-bench",
     "branch": "main",
-    "language": "TypeScript",
-    "description": "MCP 数据库万能连接器：使用支持MCP服务协议的工具（例如：Claude Desktop、Cherry Studio等）直接连接你的数据库，用自然语言查询和分析数据"
+    "language": "JavaScript",
+    "description": "Open benchmark for Claude Code SEO skills — real headless execution against fixture sites with planted-defect answer keys. Deterministic scoring, pre-registered rubric."
   },
   {
-    "repo": "GabagoolisLive/polymarket-copytrading-bot-vvvvvvvvvvvv",
+    "repo": "NCSC-NL/spring4shell",
     "branch": "main",
-    "language": "Rust",
-    "description": "Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot Polymarket copy Trading Bot"
-  },
-  {
-    "repo": "tonbo-io/ursula",
-    "branch": "main",
-    "language": "Rust",
-    "description": "Distributed event stream server over HTTP, backed by S3."
-  },
-  {
-    "repo": "RhysSullivan/nextjs-mobile-app-template",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": ""
-  },
-  {
-    "repo": "MistKailorg/polymarket-copytrading-bot-newlogic",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "polymarket trading bot | polymarket trading bot | polymarket trading bot | polymarket trading bot | polymarket trading bot | polymarket trading bot | polymarket trading bot | polymarket trading bot | polymarket copy trading bot | polymarket copy trading bot | polymarket copy trading bot | polymarket copy trading bot | polymarket copy trading bot |"
-  },
-  {
-    "repo": "danielmiessler/fabric",
-    "branch": "main",
-    "language": "Go",
-    "description": "Fabric is an open-source framework for augmenting humans using AI. It provides a modular system for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere."
-  },
-  {
-    "repo": "golang/protobuf",
-    "branch": "master",
-    "language": "Go",
-    "description": "Go support for Google's protocol buffers"
-  },
-  {
-    "repo": "LineageOS/android",
-    "branch": "lineage-21.0",
     "language": "Other",
-    "description": "Placeholder repository for LineageOS"
+    "description": "Operational information regarding the Spring4Shell vulnerability in the Spring Core Framework"
   },
   {
-    "repo": "yangdongchao/UniAudio2",
-    "branch": "main",
-    "language": "Python",
-    "description": "UniAudio 2.0: An audio fundation model for text, speech, sound, and music"
-  },
-  {
-    "repo": "SamNet-dev/dnstm-setup",
-    "branch": "master",
-    "language": "Shell",
-    "description": "Interactive setup wizard for dnstm — automated DNS-based network configuration"
-  },
-  {
-    "repo": "androidx/androidx",
-    "branch": "androidx-main",
-    "language": "Kotlin",
-    "description": "Development environment for Android Jetpack extension libraries under the androidx namespace. Synchronized with Android Jetpack's primary development branch on AOSP."
-  },
-  {
-    "repo": "longnghiemduc6-art/ob12api",
+    "repo": "ythx-101/ask-search",
     "branch": "master",
     "language": "Python",
-    "description": ""
+    "description": "Self-hosted web search skill for AI agents (OpenClaw/Claude Code/Antigravity) via SearxNG"
   },
   {
-    "repo": "ChownYourLife/paqet-tunnel",
-    "branch": "master",
-    "language": "Shell",
-    "description": ""
-  },
-  {
-    "repo": "knostic/OpenAnt",
-    "branch": "master",
+    "repo": "4R7I5T/CL1_LLM_Encoder",
+    "branch": "main",
     "language": "Python",
-    "description": "OpenAnt from Knostic is an open source LLM-based vulnerability discovery product that helps defenders proactively find verified security flaws while minimizing both false positives and false negatives. Stage 1 detects. Stage 2 attacks. What survives is real."
+    "description": "Using Cortical Labs CL1 to train neurons to encode tokenization patterns on LLMs and measure consciousness metrics for advanced AI safety and sentience testing. EXPERIMENTAL: I AM IN NO WAY ASSOCIATED WITH CORTICAL LABS OR ANY RESEARCH LABORATORY"
   },
   {
-    "repo": "IronsideXXVI/Hacker-News",
+    "repo": "my-claude-utils/clsh",
     "branch": "main",
-    "language": "Swift",
-    "description": ""
+    "language": "TypeScript",
+    "description": "Access your terminal and your AI agent from any device — phone, tablet, desktop."
   },
   {
-    "repo": "kapla0011/KaplaStrike",
+    "repo": "wandb/wandb",
     "branch": "main",
-    "language": "C",
-    "description": "A Cobalt Strike RL built with Crystal Palace — module overloading, NtContinue entry transfer, call stack spoofing, sleep masking, and static signature removal."
+    "language": "Python",
+    "description": "The AI developer platform. Use Weights & Biases to train and fine-tune models, and manage models from experimentation to production."
   },
   {
-    "repo": "liuxiaopai-ai/ralph-desktop",
+    "repo": "depreciating/DoodleCloud",
+    "branch": "main",
+    "language": "Python",
+    "description": "Cloud Storage using Instagram."
+  },
+  {
+    "repo": "Y-Peng-Dev/Watchdog",
+    "branch": "master",
+    "language": "C#",
+    "description": "Watchdog for Grasshopper Prevent Rhino & Grasshopper from freezing due to accidental massive computations or cascading calculation chains."
+  },
+  {
+    "repo": "holysheep123/holysheep-cli",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "🐑 One command to configure all AI coding tools — Claude Code, Codex, Gemini CLI, Cursor, Aider & more"
+  },
+  {
+    "repo": "miuda-ai/lele",
     "branch": "main",
     "language": "Rust",
-    "description": "Ralph Desktop -  Start vague. Ralph Loop until perfect.  A visual controller for AI coding agents that helps you brainstorm requirements and execute tasks through persistent iteration."
+    "description": "Bare-Metal Rust Audio AI Framework"
   },
   {
-    "repo": "azl397985856/leetcode",
+    "repo": "Percepta-Core/transformer-vm",
+    "branch": "main",
+    "language": "Python",
+    "description": "Compile programs directly into transformer weights. Includes a 2D convex-hull KV cache with O(log n) inference."
+  },
+  {
+    "repo": "Mufeedvh/Code2Prompt",
+    "branch": "main",
+    "language": "Rust",
+    "description": "A CLI tool to convert your codebase into a single LLM prompt with source tree, prompt templating, and token counting."
+  },
+  {
+    "repo": "home-assistant/core",
+    "branch": "dev",
+    "language": "Python",
+    "description": ":house_with_garden: Open source home automation that puts local control and privacy first."
+  },
+  {
+    "repo": "autoclaw-cc/xiaohongshu-skills",
+    "branch": "main",
+    "language": "Python",
+    "description": "xiaohongshu-skills"
+  },
+  {
+    "repo": "s2-streamstore/claude-batch-toolkit",
+    "branch": "main",
+    "language": "Shell",
+    "description": "Send non-urgent work to the Anthropic Batch API at 50% cost — directly from Claude Code"
+  },
+  {
+    "repo": "ZimoLiao/scholaraio",
+    "branch": "main",
+    "language": "Python",
+    "description": "Scholar All-In-One: AI agent-powered research terminal"
+  },
+  {
+    "repo": "yt-dlp/yt-dlp",
+    "branch": "master",
+    "language": "Python",
+    "description": "A feature-rich command-line audio/video downloader"
+  },
+  {
+    "repo": "louislva/claude-peers-mcp",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Allow all your Claude Codes to message each other ad-hoc!"
+  },
+  {
+    "repo": "nicedreamzapp/claude-code-local",
+    "branch": "main",
+    "language": "Python",
+    "description": "Run Claude Code with local AI on Apple Silicon. 122B model at 41 tok/s with Google TurboQuant. No cloud, no API fees."
+  },
+  {
+    "repo": "spring-cloud/spring-cloud-kubernetes",
+    "branch": "main",
+    "language": "Java",
+    "description": "Kubernetes integration with Spring Cloud Discovery Client, Configuration, etc..."
+  },
+  {
+    "repo": "lodash/lodash",
     "branch": "master",
     "language": "JavaScript",
-    "description": "LeetCode Solutions: A Record of My Problem Solving Journey.( leetcode题解，记录自己的leetcode解题之路。)"
+    "description": "A modern JavaScript utility library delivering modularity, performance, & extras."
   },
   {
-    "repo": "pedronauck/skills",
+    "repo": "hzm0321/real-time-fund",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "基金实时估值查看"
+  },
+  {
+    "repo": "joewongjc/type4me",
+    "branch": "main",
+    "language": "Swift",
+    "description": "MacOS语音输入工具，实时识别、大模型文本优化、全本地存储"
+  },
+  {
+    "repo": "symbolica-ai/arcgentica",
     "branch": "main",
     "language": "Python",
-    "description": "My personal favorite skills"
-  },
-  {
-    "repo": "6551Team/daily-news",
-    "branch": "main",
-    "language": "Python",
-    "description": "Daily news and hot topics via the 6551 API. Supports news categories, hot news articles, and trending tweets by category."
-  },
-  {
-    "repo": "huggingface/accelerate",
-    "branch": "main",
-    "language": "Python",
-    "description": "🚀 A simple way to launch, train, and use PyTorch models on almost any device and distributed configuration, automatic mixed precision (including fp8), and easy-to-configure FSDP and DeepSpeed support"
-  },
-  {
-    "repo": "The-Vibe-Company/claude-code-controller",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Programmatic TypeScript API to pilot Claude Code agents via the internal teams/inbox/tasks filesystem protocol"
-  },
-  {
-    "repo": "open-telemetry/opentelemetry-js",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "OpenTelemetry JavaScript Client"
-  },
-  {
-    "repo": "HsMirage/CliproxyAccountCleaner",
-    "branch": "main",
-    "language": "Python",
-    "description": "一个用于CLI Proxy API 批量账号管理的工具（暂时只支持codex）：Cliproxy Account Cleaner"
+    "description": "An ARC-AGI solution using Agentica from Symbolica"
   }
 ]

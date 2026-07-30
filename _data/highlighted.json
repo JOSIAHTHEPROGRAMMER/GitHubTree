@@ -1,8 +1,8 @@
 {
-  "repo": "realchendahuang/pi-config",
-  "branch": "master",
+  "repo": "xshaduwulfx/proton-linuwux",
+  "branch": "main",
   "language": "Shell",
-  "description": "My Pi coding agent setup: 17 plugins + 18 global skills + 2 MCP servers, with a one-line installer and tutorial README.",
-  "stars": 103,
-  "forks": 3
+  "description": "Automated Proton-GE and Proton-CachyOS builds patched with LinUwUx.patch.",
+  "stars": 109,
+  "forks": 4
 }
