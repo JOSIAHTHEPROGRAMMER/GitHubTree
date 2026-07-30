@@ -1,146 +1,146 @@
 [
   {
-    "repo": "scosman/cursed_browser",
+    "repo": "devcraftt/Reddit_Karma_Farmer",
+    "branch": "main",
+    "language": "Python",
+    "description": "Auto-post, comment, and upvote to earn karma on Reddit. Post content, comment on posts, upvote posts, and earn karma automatically. Build your Reddit reputation."
+  },
+  {
+    "repo": "hiteshchoudhary/gitbackup",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "It was personal script but now it is a complete desktop application to take backup of your github account"
+  },
+  {
+    "repo": "tsoding/ht.h",
+    "branch": "main",
+    "language": "C++",
+    "description": "Hash Table in C but with a nice Generic API"
+  },
+  {
+    "repo": "skycryptsite/SkyCrypt",
+    "branch": "main",
+    "language": "Svelte",
+    "description": "Official SkyCrypt website — a Hypixel SkyBlock stats viewer for checking player profiles, skills, net worth, dungeons, slayers, accessories, collections, pets, armor, weapons, and progression using public Hypixel API data."
+  },
+  {
+    "repo": "joeseesun/qiaomu-artist-style",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": ""
+  },
+  {
+    "repo": "RyensX/OpenCodex",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "OpenCodex是一个轻量级Codex运行环境，可以让你的任意设备通过Web使用你的电脑上的Codex。/ OpenCodex is a lightweight Codex runtime environment that allows any of your devices to use the Codex on your computer via the Web."
+  },
+  {
+    "repo": "alchaincyf/huashu-md-html",
+    "branch": "main",
+    "language": "CSS",
+    "description": "md/html 双向流水线 · 三个能力一站式：万物→md / md→精美html / html→md。封装 markitdown + Pandoc + html-to-markdown + trafilatura。4 套反 AI slop 主题。Claude Code skill."
+  },
+  {
+    "repo": "smithersai/claude-p",
+    "branch": "main",
+    "language": "Zig",
+    "description": "Drop-in replacement for `claude -p` that drives the interactive Claude Code TUI inside an in-process zmux PTY session."
+  },
+  {
+    "repo": "remotion-dev/html-in-canvas",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": ""
+  },
+  {
+    "repo": "vadimsemenykv/saboteur",
+    "branch": "main",
+    "language": "Go",
+    "description": ""
+  },
+  {
+    "repo": "RastProxy88/Zephyr-Executor-Free-Roblox-Executor-PC-No-Key-Required-2026",
+    "branch": "main",
+    "language": "Lua",
+    "description": "Free undetected Roblox script executor with instant injection, full UNC support, and no key system. Clean UI, built-in script hub, regular updates."
+  },
+  {
+    "repo": "aurorascharff/ClickLight",
     "branch": "main",
     "language": "Swift",
-    "description": "A web browser with no rendering engine — the VLM reads the HTML and hallucinates the page."
+    "description": "A macOS menu bar app that highlights your clicks for demos, recordings, UX reviews, and better click visibility."
   },
   {
-    "repo": "htimesnine/DarkSword-RCE",
+    "repo": "StrucksTech/Zelda-TP-Native-Port",
     "branch": "main",
-    "language": "JavaScript",
-    "description": "DarkSword webkit exploit captured ITW"
+    "language": "TypeScript",
+    "description": "Zelda Twilight Princess PC: GameCube ROM download, Wii ISO, Wii U HD download. Dolphin emulator settings, Cemu setup guide, 60 FPS patch, 4K texture pack, widescreen hack. Heart pieces locations, Poe souls map, Golden bugs guide, Master Sword unlock, Snowpeak Ruins walkthrough, HD texture pack Henrico."
   },
   {
-    "repo": "MichaelCade/90DaysOfDevOps",
+    "repo": "amaancoderx/npxskillui",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": ""
+  },
+  {
+    "repo": "hieunc229/mailflare",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Email client with custom domain based on Cloudflare"
+  },
+  {
+    "repo": "kitft/natural_language_autoencoders",
+    "branch": "main",
+    "language": "Python",
+    "description": ""
+  },
+  {
+    "repo": "TheTom/vllm-swift",
+    "branch": "main",
+    "language": "Python",
+    "description": "vLLM Metal plugin powered by mlx-swift — high-performance LLM inference on Apple Silicon"
+  },
+  {
+    "repo": "LiteLLM-Labs/litellm-rust",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "A minimal Rust gateway built for coding agents (LiteLLM-Compatible)"
+  },
+  {
+    "repo": "ClaudioDrews/memory-os",
+    "branch": "main",
+    "language": "Python",
+    "description": "A 7-layer memory operating system for Hermes Agent — persistent memory with Qdrant, structured facts, fabric recall, auto-curated wiki, and surgical context injection. Runs locally, any LLM provider."
+  },
+  {
+    "repo": "johnbean393/KeyType",
+    "branch": "main",
+    "language": "Swift",
+    "description": "An open-source Cotypist with macOS system wide AI autocomplete"
+  },
+  {
+    "repo": "Introspective-Diffusion/I-DLM",
+    "branch": "main",
+    "language": "Python",
+    "description": ""
+  },
+  {
+    "repo": "unclebob/swarm-forge",
     "branch": "main",
     "language": "Shell",
-    "description": "This repository started out as a learning in public project for myself and has now become a structured learning map for many in the community. We have 3 years under our belt covering all things DevOps, including Principles, Processes, Tooling and Use Cases surrounding this vast topic."
+    "description": "A simple tool for coordinating several AI agents."
   },
   {
-    "repo": "foundry-rs/foundry",
-    "branch": "master",
+    "repo": "immanuwell/dockerfile-roast",
+    "branch": "main",
     "language": "Rust",
-    "description": "Foundry is a blazing fast, portable and modular toolkit for Ethereum application development written in Rust."
+    "description": "a dockerfile linter that actually has opinions 🔥"
   },
   {
-    "repo": "status-im/nimbus-eth2",
-    "branch": "stable",
-    "language": "Nim",
-    "description": "Nim implementation of the Ethereum Beacon Chain"
-  },
-  {
-    "repo": "electron-userland/electron-forge",
+    "repo": "SumeLabs/clawra",
     "branch": "main",
     "language": "TypeScript",
-    "description": ":electron: A complete tool for building and publishing Electron applications"
-  },
-  {
-    "repo": "torvalds/linux",
-    "branch": "master",
-    "language": "C",
-    "description": "Linux kernel source tree"
-  },
-  {
-    "repo": "element-plus/element-plus",
-    "branch": "dev",
-    "language": "TypeScript",
-    "description": "🎉 A Vue.js 3 UI Library made by Element team"
-  },
-  {
-    "repo": "facebook/stylex",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "StyleX is the styling system for ambitious user interfaces."
-  },
-  {
-    "repo": "plotly/dash",
-    "branch": "dev",
-    "language": "Python",
-    "description": "Data Apps & Dashboards for Python. No JavaScript Required."
-  },
-  {
-    "repo": "test-time-training/ttt-video-dit",
-    "branch": "main",
-    "language": "Python",
-    "description": "Official PyTorch implementation of One-Minute Video Generation with Test-Time Training"
-  },
-  {
-    "repo": "cloudwego/hertz",
-    "branch": "main",
-    "language": "Go",
-    "description": "Go HTTP framework with high-performance and strong-extensibility for building micro-services."
-  },
-  {
-    "repo": "Quick/Quick",
-    "branch": "main",
-    "language": "Swift",
-    "description": "The Swift (and Objective-C) testing framework."
-  },
-  {
-    "repo": "react-native-camera/react-native-camera",
-    "branch": "master",
-    "language": "Java",
-    "description": "A Camera component for React Native. Also supports barcode scanning!"
-  },
-  {
-    "repo": "better-auth/better-icons",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Skill and MCP server for searching and retrieving icons"
-  },
-  {
-    "repo": "rabbitmq/rabbitmq-server",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "Open source RabbitMQ: core server and tier 1 (built-in) plugins"
-  },
-  {
-    "repo": "Stability-AI/stablediffusion",
-    "branch": "main",
-    "language": "Other",
-    "description": "High-Resolution Image Synthesis with Latent Diffusion Models."
-  },
-  {
-    "repo": "chartjs/Chart.js",
-    "branch": "master",
-    "language": "JavaScript",
-    "description": "Simple HTML5 Charts using the <canvas> tag"
-  },
-  {
-    "repo": "adobe/react-spectrum",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "A collection of libraries and tools that help you build adaptive, accessible, and robust user experiences."
-  },
-  {
-    "repo": "babel/babel",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "🐠 Babel is a compiler for writing next generation JavaScript."
-  },
-  {
-    "repo": "1Panel-dev/MaxKB",
-    "branch": "main",
-    "language": "Python",
-    "description": "🔥 MaxKB is an open-source platform for building enterprise-grade agents.  强大易用的开源企业级智能体平台。"
-  },
-  {
-    "repo": "grpc-ecosystem/grpc-gateway",
-    "branch": "master",
-    "language": "Go",
-    "description": "gRPC to JSON proxy generator following the gRPC HTTP spec"
-  },
-  {
-    "repo": "python-pillow/Pillow",
-    "branch": "main",
-    "language": "Python",
-    "description": "Python Imaging Library (Fork)"
-  },
-  {
-    "repo": "alacritty/alacritty",
-    "branch": "master",
-    "language": "Rust",
-    "description": "A cross-platform, OpenGL terminal emulator."
+    "description": "Clawra - Openclaw as your girlfriend"
   }
 ]

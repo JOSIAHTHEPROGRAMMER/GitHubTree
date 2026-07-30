@@ -1,8 +1,8 @@
 {
-  "repo": "Autumn-27/ARTEX",
-  "branch": "main",
-  "language": "TypeScript",
-  "description": "AI 自主渗透测试系统",
-  "stars": 152,
-  "forks": 19
+  "repo": "realchendahuang/pi-config",
+  "branch": "master",
+  "language": "Shell",
+  "description": "My Pi coding agent setup: 17 plugins + 18 global skills + 2 MCP servers, with a one-line installer and tutorial README.",
+  "stars": 105,
+  "forks": 3
 }
