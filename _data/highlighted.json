@@ -1,8 +1,8 @@
 {
-  "repo": "HaseebKhalid1507/Myx",
-  "branch": "main",
-  "language": "Rust",
-  "description": "Spotify player for the terminal. With reactive themes.",
-  "stars": 122,
-  "forks": 7
+  "repo": "realchendahuang/pi-config",
+  "branch": "master",
+  "language": "Shell",
+  "description": "My Pi coding agent setup: 17 plugins + 18 global skills + 2 MCP servers, with a one-line installer and tutorial README.",
+  "stars": 103,
+  "forks": 3
 }
