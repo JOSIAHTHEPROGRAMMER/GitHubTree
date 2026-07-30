@@ -1,8 +1,8 @@
 {
-  "repo": "xshaduwulfx/proton-linuwux",
+  "repo": "Autumn-27/ARTEX",
   "branch": "main",
-  "language": "Shell",
-  "description": "Automated Proton-GE and Proton-CachyOS builds patched with LinUwUx.patch.",
-  "stars": 109,
-  "forks": 4
+  "language": "TypeScript",
+  "description": "AI 自主渗透测试系统",
+  "stars": 152,
+  "forks": 19
 }
