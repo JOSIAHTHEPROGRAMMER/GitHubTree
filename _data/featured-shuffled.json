@@ -1,146 +1,146 @@
 [
   {
-    "repo": "NUber-dev/YTubic",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Fast, responsive YouTube Music desktop client for Windows — Tauri 2 + React"
-  },
-  {
-    "repo": "smithersai/claude-p",
-    "branch": "main",
-    "language": "Zig",
-    "description": "Drop-in replacement for `claude -p` that drives the interactive Claude Code TUI inside an in-process zmux PTY session."
-  },
-  {
-    "repo": "007FirstLight/007-First-Light-Release",
-    "branch": "main",
-    "language": "C++",
-    "description": "007 first light release date game free download early access  gameplay windows review ps5 steam epic games pc xbox nintendo swtich 2 github"
-  },
-  {
-    "repo": "jackwener/wx-cli",
-    "branch": "main",
-    "language": "Rust",
-    "description": "WeChat local data CLI with daemon architecture"
-  },
-  {
-    "repo": "m-schuetz/CuRast",
-    "branch": "main",
-    "language": "C++",
-    "description": "Cuda-Based Software Rasterization for Billions of Triangles"
-  },
-  {
-    "repo": "cosmicstack-labs/mercury-agent-skills",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "A curated registry of reusable Mercury Agent, Open Claw or Hermes Agent skills designed for real developer workflows, persistent memory, and token-efficient execution."
-  },
-  {
-    "repo": "tidwall/btype",
-    "branch": "main",
-    "language": "Go",
-    "description": "B-tree based collection types for Go"
-  },
-  {
-    "repo": "agentic-in/elephant-agent",
+    "repo": "wquguru/harness-books",
     "branch": "main",
     "language": "Python",
-    "description": "Personal-Model First Self Evolving AI Agent 🐘"
-  },
-  {
-    "repo": "Sunislazi/rbxfpsunlocker-boost-More-240FPS",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "rbxfpsunlocker Roblox FPS BOOST: Roblox FPS unlocker download free More 240 FPS, uncap 60 FPS limit, axst GitHub source code, high refresh rate monitor, Roblox client lag fix, Byfron Hyperion anti-cheat compatibility, safe to use ban status, settings.ini configuration, rfu.exe not working error, ClientAppSettings json,bloxtstrap fps unlocke"
-  },
-  {
-    "repo": "pydantic/httpx2",
-    "branch": "main",
-    "language": "Python",
-    "description": "A next generation HTTP client for Python. 🦋"
-  },
-  {
-    "repo": "val1813/kaiwu",
-    "branch": "main",
-    "language": "Go",
-    "description": "本地开源模型部署器，一键部署，支持各类系统，主流模型。"
-  },
-  {
-    "repo": "Viedie/BongoCat-Windows",
-    "branch": "main",
-    "language": "C++",
-    "description": "Free Bongo Cat download desktop app musical instruments piano drums keyboard guitar trumpet mouse tracking keyboard strokes OBS overlay streaming widget custom skins meme animation pixel art rhythm visualizer soundboard."
-  },
-  {
-    "repo": "aidanBoi123/AutoDesk-AutoCad-2026-Desktop",
-    "branch": "main",
-    "language": "C++",
-    "description": "Free CAD 2026 PC Desktop Version is the latest optimized edition of professional CAD software. Offers powerful 2D and 3D design tools with improved performance and modern interface for Windows."
-  },
-  {
-    "repo": "said-ohamouddou/LIDARLearn",
-    "branch": "main",
-    "language": "Python",
-    "description": "LIDARLearn: A Unified Deep Learning Library for 3D Point Cloud Classification, Segmentation, and Self-Supervised Representation Learning"
-  },
-  {
-    "repo": "baidu-baige/LoongForge",
-    "branch": "master",
-    "language": "Python",
-    "description": "A modular, scalable, and highly efficient training framework for language, multimodal, and embodied models."
-  },
-  {
-    "repo": "pluk-inc/md-preview.app",
-    "branch": "main",
-    "language": "Swift",
-    "description": "A simple Markdown viewer for reading .md files"
-  },
-  {
-    "repo": "BasZ4ll/Stable-Diffusion-WebUI",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Stable Diffusion: webui automatic1111 download free, comfyui setup guide, sdxl checkpoint safetensors, lora model civitai, controlnet extension github. SD WebUI Forge launcher, low VRAM optimization, xformers command line arguments, python torch cuda error fix, out of memory solution, txt2img img2img, inpainting, realesrgan upscaler, local pc insta"
-  },
-  {
-    "repo": "dominikmartn/ProgressiveBlurHeader",
-    "branch": "main",
-    "language": "Swift",
-    "description": "Drop-in SwiftUI component for sticky headers with progressive blur — like Apple Music, Photos, and App Store. Content scrolls underneath with increasing blur, never clipped."
-  },
-  {
-    "repo": "Parallax-Trading/polymarket-copy-trading-bot",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "polymarket trading bot,polymarket copy trading bot,polymarket trading bot,polymarket copy trading bot,polymarket trading bot,polymarket copy trading bot,polymarket trading bot,polymarket copy trading bot,polymarket trading bot,polymarket copy trading bot,polymarket trading bot,polymarket copy trading bot,"
-  },
-  {
-    "repo": "ronaldo-avalos/Maya",
-    "branch": "main",
-    "language": "Swift",
-    "description": "🖥️ 📱 ▶️ Wrap your iPhone screen recordings in a beautiful device frame, add cinematic zoom moments, and export ready-to-share videos."
-  },
-  {
-    "repo": "Jakubantalik/transitions.dev",
-    "branch": "main",
-    "language": "HTML",
-    "description": "Collection of the most essential transitions for web apps that you can just copy and paste into any project."
-  },
-  {
-    "repo": "GitFrog1111/badclaude",
-    "branch": "main",
-    "language": "HTML",
     "description": ""
   },
   {
-    "repo": "krisrice/oracle-db-skills",
-    "branch": "main",
-    "language": "Shell",
-    "description": "Oracle DB Skills is a curated library of 100+ practical, documentation-backed guides for working with Oracle Database, organized by domain"
-  },
-  {
-    "repo": "Mondo-Robotics/DiT4DiT",
+    "repo": "LiuMengxuan04/shushu-internship-tool",
     "branch": "main",
     "language": "Python",
-    "description": "This is the official code repo for DiT4DiT, a Vision-Action-Model (VAM) framework that combines video generation model with flow-matching-based action prediction for generalizable robotic manipulation."
+    "description": "把岗位描述变项目，把项目变简历，把简历变面试。"
+  },
+  {
+    "repo": "fabriciotrinndade/ats-resume-generator-html",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "Generate ATS-friendly resumes using structured JSON and HTML"
+  },
+  {
+    "repo": "xaskasdf/ntransformer",
+    "branch": "main",
+    "language": "C++",
+    "description": "High-efficiency LLM inference engine in C++/CUDA. Run Llama 70B on RTX 3090."
+  },
+  {
+    "repo": "jmoiron/sqlx",
+    "branch": "master",
+    "language": "Go",
+    "description": "general purpose extensions to golang's database/sql"
+  },
+  {
+    "repo": "rohitg00/pro-workflow",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "Battle-tested Claude Code workflows from power users. Self-correcting memory, parallel worktrees, wrap-up rituals, and the 80/20 AI coding ratio."
+  },
+  {
+    "repo": "xywml/PaperGrid",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "执笔为剑  - 一款基于NEXT.js的轻量化博客"
+  },
+  {
+    "repo": "freqtrade/freqtrade",
+    "branch": "develop",
+    "language": "Python",
+    "description": "Free, open source crypto trading bot"
+  },
+  {
+    "repo": "firebase/firebase-ios-sdk",
+    "branch": "master",
+    "language": "C++",
+    "description": "Firebase SDK for Apple App Development"
+  },
+  {
+    "repo": "tonyqinatcmu/SlideBot-AI",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "🎨 SlideBot AI - AI-Powered Presentation Generator"
+  },
+  {
+    "repo": "TsingmaoAI/xw-cli",
+    "branch": "main",
+    "language": "Go",
+    "description": "实现国产算力大模型零门槛部署，一键跑通 Qwen、GLM-4.7、Minimax-2.1、DeepSeek-OCR 等模型"
+  },
+  {
+    "repo": "voocel/openclaw-mini",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "OpenClaw 核心架构的极简复现，涵盖 sessionKey 会话域、队列串行、工具化记忆检索、按需上下文加载、可扩展技能与主动心跳唤醒机制"
+  },
+  {
+    "repo": "TQZHR/grok2api",
+    "branch": "main",
+    "language": "Python",
+    "description": "Grok2API (Cloudflare Workers) one-click deploy with auto D1+KV provisioning"
+  },
+  {
+    "repo": "standard/standard",
+    "branch": "master",
+    "language": "JavaScript",
+    "description": "🌟 JavaScript Style Guide, with linter & automatic code fixer"
+  },
+  {
+    "repo": "ethers-io/ethers.js",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Complete Ethereum library and wallet implementation in JavaScript."
+  },
+  {
+    "repo": "xullexer/PYDNS-Scanner",
+    "branch": "main",
+    "language": "Python",
+    "description": "A modern, high-performance DNS scanner with a beautiful Terminal User Interface (TUI) built with Textual. This tool can scan millions of IP addresses to find working DNS servers with optional Slipstream proxy testing and automatic multi-platform client download."
+  },
+  {
+    "repo": "pointfreeco/swift-composable-architecture",
+    "branch": "main",
+    "language": "Swift",
+    "description": "A library for building applications in a consistent and understandable way, with composition, testing, and ergonomics in mind."
+  },
+  {
+    "repo": "Vasco0x4/AIDA",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "AI-Driven Security Assessment - Connect AI to 400+ pentesting tools via MCP"
+  },
+  {
+    "repo": "HKUDS/nanobot",
+    "branch": "main",
+    "language": "Python",
+    "description": "🐈 nanobot: The Ultra-Lightweight Clawdbot"
+  },
+  {
+    "repo": "iad1tya/Net-Bar",
+    "branch": "main",
+    "language": "Swift",
+    "description": "A lightweight, aesthetically pleasing network speed monitor that lives in your macOS menu bar."
+  },
+  {
+    "repo": "vikingmute/better-wechatpay",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "现代化的微信支付 Node.js SDK - ESM、TypeScript、全支付方式支持"
+  },
+  {
+    "repo": "HBAI-Ltd/Toonflow-app",
+    "branch": "master",
+    "language": "HTML",
+    "description": "Toonflow 是一款 AI 短剧漫剧工具，能够利用 AI 技术将小说自动转化为剧本，并结合 AI 生成的图片和视频，实现高效的短剧创作。借助 Toonflow，可以轻松完成从文字到影像的全流程，让短剧制作变得更加智能与便捷。"
+  },
+  {
+    "repo": "apache/superset",
+    "branch": "master",
+    "language": "TypeScript",
+    "description": "Apache Superset is a Data Visualization and Data Exploration Platform"
+  },
+  {
+    "repo": "actions/setup-python",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Set up your GitHub Actions workflow with a specific version of Python"
   }
 ]

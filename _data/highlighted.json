@@ -1,8 +1,8 @@
 {
-  "repo": "rw-r-r-0644/bc250-core-unlock",
+  "repo": "qa10devteam/behive",
   "branch": "main",
   "language": "Python",
-  "description": "Unlock 2 extra cores on the AMD BC-250",
-  "stars": 102,
-  "forks": 10
+  "description": "Open-source deep research engine that builds structured knowledge graphs. MCP-native. avg 0.82+ quality.",
+  "stars": 108,
+  "forks": 12
 }
