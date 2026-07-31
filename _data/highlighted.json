@@ -1,8 +1,8 @@
 {
-  "repo": "realchendahuang/pi-config",
-  "branch": "master",
-  "language": "Shell",
-  "description": "My Pi coding agent setup: 17 plugins + 18 global skills + 2 MCP servers, with a one-line installer and tutorial README.",
-  "stars": 105,
-  "forks": 3
+  "repo": "rw-r-r-0644/bc250-core-unlock",
+  "branch": "main",
+  "language": "Python",
+  "description": "Unlock 2 extra cores on the AMD BC-250",
+  "stars": 102,
+  "forks": 10
 }

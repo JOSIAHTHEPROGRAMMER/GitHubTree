@@ -1,45 +1,9 @@
 [
   {
-    "repo": "devcraftt/Reddit_Karma_Farmer",
-    "branch": "main",
-    "language": "Python",
-    "description": "Auto-post, comment, and upvote to earn karma on Reddit. Post content, comment on posts, upvote posts, and earn karma automatically. Build your Reddit reputation."
-  },
-  {
-    "repo": "hiteshchoudhary/gitbackup",
+    "repo": "NUber-dev/YTubic",
     "branch": "main",
     "language": "TypeScript",
-    "description": "It was personal script but now it is a complete desktop application to take backup of your github account"
-  },
-  {
-    "repo": "tsoding/ht.h",
-    "branch": "main",
-    "language": "C++",
-    "description": "Hash Table in C but with a nice Generic API"
-  },
-  {
-    "repo": "skycryptsite/SkyCrypt",
-    "branch": "main",
-    "language": "Svelte",
-    "description": "Official SkyCrypt website — a Hypixel SkyBlock stats viewer for checking player profiles, skills, net worth, dungeons, slayers, accessories, collections, pets, armor, weapons, and progression using public Hypixel API data."
-  },
-  {
-    "repo": "joeseesun/qiaomu-artist-style",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": ""
-  },
-  {
-    "repo": "RyensX/OpenCodex",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "OpenCodex是一个轻量级Codex运行环境，可以让你的任意设备通过Web使用你的电脑上的Codex。/ OpenCodex is a lightweight Codex runtime environment that allows any of your devices to use the Codex on your computer via the Web."
-  },
-  {
-    "repo": "alchaincyf/huashu-md-html",
-    "branch": "main",
-    "language": "CSS",
-    "description": "md/html 双向流水线 · 三个能力一站式：万物→md / md→精美html / html→md。封装 markitdown + Pandoc + html-to-markdown + trafilatura。4 套反 AI slop 主题。Claude Code skill."
+    "description": "Fast, responsive YouTube Music desktop client for Windows — Tauri 2 + React"
   },
   {
     "repo": "smithersai/claude-p",
@@ -48,99 +12,135 @@
     "description": "Drop-in replacement for `claude -p` that drives the interactive Claude Code TUI inside an in-process zmux PTY session."
   },
   {
-    "repo": "remotion-dev/html-in-canvas",
+    "repo": "007FirstLight/007-First-Light-Release",
     "branch": "main",
-    "language": "TypeScript",
-    "description": ""
+    "language": "C++",
+    "description": "007 first light release date game free download early access  gameplay windows review ps5 steam epic games pc xbox nintendo swtich 2 github"
   },
   {
-    "repo": "vadimsemenykv/saboteur",
-    "branch": "main",
-    "language": "Go",
-    "description": ""
-  },
-  {
-    "repo": "RastProxy88/Zephyr-Executor-Free-Roblox-Executor-PC-No-Key-Required-2026",
-    "branch": "main",
-    "language": "Lua",
-    "description": "Free undetected Roblox script executor with instant injection, full UNC support, and no key system. Clean UI, built-in script hub, regular updates."
-  },
-  {
-    "repo": "aurorascharff/ClickLight",
-    "branch": "main",
-    "language": "Swift",
-    "description": "A macOS menu bar app that highlights your clicks for demos, recordings, UX reviews, and better click visibility."
-  },
-  {
-    "repo": "StrucksTech/Zelda-TP-Native-Port",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Zelda Twilight Princess PC: GameCube ROM download, Wii ISO, Wii U HD download. Dolphin emulator settings, Cemu setup guide, 60 FPS patch, 4K texture pack, widescreen hack. Heart pieces locations, Poe souls map, Golden bugs guide, Master Sword unlock, Snowpeak Ruins walkthrough, HD texture pack Henrico."
-  },
-  {
-    "repo": "amaancoderx/npxskillui",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": ""
-  },
-  {
-    "repo": "hieunc229/mailflare",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Email client with custom domain based on Cloudflare"
-  },
-  {
-    "repo": "kitft/natural_language_autoencoders",
-    "branch": "main",
-    "language": "Python",
-    "description": ""
-  },
-  {
-    "repo": "TheTom/vllm-swift",
-    "branch": "main",
-    "language": "Python",
-    "description": "vLLM Metal plugin powered by mlx-swift — high-performance LLM inference on Apple Silicon"
-  },
-  {
-    "repo": "LiteLLM-Labs/litellm-rust",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "A minimal Rust gateway built for coding agents (LiteLLM-Compatible)"
-  },
-  {
-    "repo": "ClaudioDrews/memory-os",
-    "branch": "main",
-    "language": "Python",
-    "description": "A 7-layer memory operating system for Hermes Agent — persistent memory with Qdrant, structured facts, fabric recall, auto-curated wiki, and surgical context injection. Runs locally, any LLM provider."
-  },
-  {
-    "repo": "johnbean393/KeyType",
-    "branch": "main",
-    "language": "Swift",
-    "description": "An open-source Cotypist with macOS system wide AI autocomplete"
-  },
-  {
-    "repo": "Introspective-Diffusion/I-DLM",
-    "branch": "main",
-    "language": "Python",
-    "description": ""
-  },
-  {
-    "repo": "unclebob/swarm-forge",
-    "branch": "main",
-    "language": "Shell",
-    "description": "A simple tool for coordinating several AI agents."
-  },
-  {
-    "repo": "immanuwell/dockerfile-roast",
+    "repo": "jackwener/wx-cli",
     "branch": "main",
     "language": "Rust",
-    "description": "a dockerfile linter that actually has opinions 🔥"
+    "description": "WeChat local data CLI with daemon architecture"
   },
   {
-    "repo": "SumeLabs/clawra",
+    "repo": "m-schuetz/CuRast",
+    "branch": "main",
+    "language": "C++",
+    "description": "Cuda-Based Software Rasterization for Billions of Triangles"
+  },
+  {
+    "repo": "cosmicstack-labs/mercury-agent-skills",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "A curated registry of reusable Mercury Agent, Open Claw or Hermes Agent skills designed for real developer workflows, persistent memory, and token-efficient execution."
+  },
+  {
+    "repo": "tidwall/btype",
+    "branch": "main",
+    "language": "Go",
+    "description": "B-tree based collection types for Go"
+  },
+  {
+    "repo": "agentic-in/elephant-agent",
+    "branch": "main",
+    "language": "Python",
+    "description": "Personal-Model First Self Evolving AI Agent 🐘"
+  },
+  {
+    "repo": "Sunislazi/rbxfpsunlocker-boost-More-240FPS",
     "branch": "main",
     "language": "TypeScript",
-    "description": "Clawra - Openclaw as your girlfriend"
+    "description": "rbxfpsunlocker Roblox FPS BOOST: Roblox FPS unlocker download free More 240 FPS, uncap 60 FPS limit, axst GitHub source code, high refresh rate monitor, Roblox client lag fix, Byfron Hyperion anti-cheat compatibility, safe to use ban status, settings.ini configuration, rfu.exe not working error, ClientAppSettings json,bloxtstrap fps unlocke"
+  },
+  {
+    "repo": "pydantic/httpx2",
+    "branch": "main",
+    "language": "Python",
+    "description": "A next generation HTTP client for Python. 🦋"
+  },
+  {
+    "repo": "val1813/kaiwu",
+    "branch": "main",
+    "language": "Go",
+    "description": "本地开源模型部署器，一键部署，支持各类系统，主流模型。"
+  },
+  {
+    "repo": "Viedie/BongoCat-Windows",
+    "branch": "main",
+    "language": "C++",
+    "description": "Free Bongo Cat download desktop app musical instruments piano drums keyboard guitar trumpet mouse tracking keyboard strokes OBS overlay streaming widget custom skins meme animation pixel art rhythm visualizer soundboard."
+  },
+  {
+    "repo": "aidanBoi123/AutoDesk-AutoCad-2026-Desktop",
+    "branch": "main",
+    "language": "C++",
+    "description": "Free CAD 2026 PC Desktop Version is the latest optimized edition of professional CAD software. Offers powerful 2D and 3D design tools with improved performance and modern interface for Windows."
+  },
+  {
+    "repo": "said-ohamouddou/LIDARLearn",
+    "branch": "main",
+    "language": "Python",
+    "description": "LIDARLearn: A Unified Deep Learning Library for 3D Point Cloud Classification, Segmentation, and Self-Supervised Representation Learning"
+  },
+  {
+    "repo": "baidu-baige/LoongForge",
+    "branch": "master",
+    "language": "Python",
+    "description": "A modular, scalable, and highly efficient training framework for language, multimodal, and embodied models."
+  },
+  {
+    "repo": "pluk-inc/md-preview.app",
+    "branch": "main",
+    "language": "Swift",
+    "description": "A simple Markdown viewer for reading .md files"
+  },
+  {
+    "repo": "BasZ4ll/Stable-Diffusion-WebUI",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Stable Diffusion: webui automatic1111 download free, comfyui setup guide, sdxl checkpoint safetensors, lora model civitai, controlnet extension github. SD WebUI Forge launcher, low VRAM optimization, xformers command line arguments, python torch cuda error fix, out of memory solution, txt2img img2img, inpainting, realesrgan upscaler, local pc insta"
+  },
+  {
+    "repo": "dominikmartn/ProgressiveBlurHeader",
+    "branch": "main",
+    "language": "Swift",
+    "description": "Drop-in SwiftUI component for sticky headers with progressive blur — like Apple Music, Photos, and App Store. Content scrolls underneath with increasing blur, never clipped."
+  },
+  {
+    "repo": "Parallax-Trading/polymarket-copy-trading-bot",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "polymarket trading bot,polymarket copy trading bot,polymarket trading bot,polymarket copy trading bot,polymarket trading bot,polymarket copy trading bot,polymarket trading bot,polymarket copy trading bot,polymarket trading bot,polymarket copy trading bot,polymarket trading bot,polymarket copy trading bot,"
+  },
+  {
+    "repo": "ronaldo-avalos/Maya",
+    "branch": "main",
+    "language": "Swift",
+    "description": "🖥️ 📱 ▶️ Wrap your iPhone screen recordings in a beautiful device frame, add cinematic zoom moments, and export ready-to-share videos."
+  },
+  {
+    "repo": "Jakubantalik/transitions.dev",
+    "branch": "main",
+    "language": "HTML",
+    "description": "Collection of the most essential transitions for web apps that you can just copy and paste into any project."
+  },
+  {
+    "repo": "GitFrog1111/badclaude",
+    "branch": "main",
+    "language": "HTML",
+    "description": ""
+  },
+  {
+    "repo": "krisrice/oracle-db-skills",
+    "branch": "main",
+    "language": "Shell",
+    "description": "Oracle DB Skills is a curated library of 100+ practical, documentation-backed guides for working with Oracle Database, organized by domain"
+  },
+  {
+    "repo": "Mondo-Robotics/DiT4DiT",
+    "branch": "main",
+    "language": "Python",
+    "description": "This is the official code repo for DiT4DiT, a Vision-Action-Model (VAM) framework that combines video generation model with flow-matching-based action prediction for generalizable robotic manipulation."
   }
 ]
