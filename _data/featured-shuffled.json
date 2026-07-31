@@ -1,146 +1,146 @@
 [
   {
-    "repo": "wquguru/harness-books",
+    "repo": "ShenSeanChen/waku-agent",
+    "branch": "main",
+    "language": "Python",
+    "description": "Waku Waku! Waku agent is your personal AI agent, on your own laptop, in code you can read in an afternoon — harness + loop + memory + eval"
+  },
+  {
+    "repo": "titanwings/ex-skill",
+    "branch": "master",
+    "language": "Python",
+    "description": "致你忘不掉的那个TA，你们干大模型都是码圣 It's giving rebirth era. Welcome to Digital Life 1.0. 🫶"
+  },
+  {
+    "repo": "zilliztech/memsearch",
+    "branch": "main",
+    "language": "Python",
+    "description": "A Markdown-first memory system, a standalone library for any AI agent. Inspired by OpenClaw."
+  },
+  {
+    "repo": "Tencent-Hunyuan/HY3D-Bench",
     "branch": "main",
     "language": "Python",
     "description": ""
   },
   {
-    "repo": "LiuMengxuan04/shushu-internship-tool",
+    "repo": "SVProgressHUD/SVProgressHUD",
+    "branch": "master",
+    "language": "Objective-C",
+    "description": "A clean and lightweight progress HUD for your iOS and tvOS app."
+  },
+  {
+    "repo": "ByteDance/monolith",
     "branch": "main",
     "language": "Python",
-    "description": "把岗位描述变项目，把项目变简历，把简历变面试。"
+    "description": "A Lightweight Recommendation System"
   },
   {
-    "repo": "fabriciotrinndade/ats-resume-generator-html",
+    "repo": "KKKKhazix/Khazix-Skills",
     "branch": "main",
-    "language": "JavaScript",
-    "description": "Generate ATS-friendly resumes using structured JSON and HTML"
+    "language": "Python",
+    "description": ""
   },
   {
-    "repo": "xaskasdf/ntransformer",
-    "branch": "main",
-    "language": "C++",
-    "description": "High-efficiency LLM inference engine in C++/CUDA. Run Llama 70B on RTX 3090."
-  },
-  {
-    "repo": "jmoiron/sqlx",
+    "repo": "crossplane/crossplane",
     "branch": "master",
     "language": "Go",
-    "description": "general purpose extensions to golang's database/sql"
+    "description": "The Cloud Native Control Plane"
   },
   {
-    "repo": "rohitg00/pro-workflow",
+    "repo": "zevorn/rt-claw",
     "branch": "main",
-    "language": "JavaScript",
-    "description": "Battle-tested Claude Code workflows from power users. Self-correcting memory, parallel worktrees, wrap-up rituals, and the 80/20 AI coding ratio."
+    "language": "C",
+    "description": "Making AI Assistants Cheap Again!"
   },
   {
-    "repo": "xywml/PaperGrid",
+    "repo": "antonpk1/excalidraw-mcp-app",
     "branch": "main",
     "language": "TypeScript",
-    "description": "执笔为剑  - 一款基于NEXT.js的轻量化博客"
+    "description": "Excalidraw MCP App Server — hand-drawn diagrams for Claude"
   },
   {
-    "repo": "freqtrade/freqtrade",
-    "branch": "develop",
-    "language": "Python",
-    "description": "Free, open source crypto trading bot"
-  },
-  {
-    "repo": "firebase/firebase-ios-sdk",
+    "repo": "coredns/coredns",
     "branch": "master",
-    "language": "C++",
-    "description": "Firebase SDK for Apple App Development"
+    "language": "Go",
+    "description": "CoreDNS is a DNS server that chains plugins"
   },
   {
-    "repo": "tonyqinatcmu/SlideBot-AI",
+    "repo": "opencmit/alphora",
     "branch": "main",
-    "language": "JavaScript",
-    "description": "🎨 SlideBot AI - AI-Powered Presentation Generator"
+    "language": "Python",
+    "description": "A Production-Ready Framework for Building Composable AI Agents"
   },
   {
-    "repo": "TsingmaoAI/xw-cli",
+    "repo": "starccy/doubaoime-asr",
+    "branch": "main",
+    "language": "Python",
+    "description": "豆包输入法语音识别的非官方 Python 客户端"
+  },
+  {
+    "repo": "ethanjyx/OpenBrand",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Extract brand assets (logos, colors, backdrops) from any website; open source alternative to Brand.dev"
+  },
+  {
+    "repo": "LucidAkshay/kavach",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Tactical AI Workspace Monitor & EDR"
+  },
+  {
+    "repo": "fluxcd/flux2",
     "branch": "main",
     "language": "Go",
-    "description": "实现国产算力大模型零门槛部署，一键跑通 Qwen、GLM-4.7、Minimax-2.1、DeepSeek-OCR 等模型"
+    "description": "Open and extensible continuous delivery solution for Kubernetes. Powered by GitOps Toolkit."
   },
   {
-    "repo": "voocel/openclaw-mini",
+    "repo": "rancher/k3d",
     "branch": "main",
-    "language": "TypeScript",
-    "description": "OpenClaw 核心架构的极简复现，涵盖 sessionKey 会话域、队列串行、工具化记忆检索、按需上下文加载、可扩展技能与主动心跳唤醒机制"
+    "language": "Go",
+    "description": "Little helper to run CNCF's k3s in Docker"
   },
   {
-    "repo": "TQZHR/grok2api",
-    "branch": "main",
+    "repo": "ruffle-rs/ruffle",
+    "branch": "master",
+    "language": "Rust",
+    "description": "A Flash Player emulator written in Rust"
+  },
+  {
+    "repo": "mtdvio/every-programmer-should-know",
+    "branch": "master",
+    "language": "Other",
+    "description": "A collection of (mostly) technical things every software developer should know about"
+  },
+  {
+    "repo": "OWASP/CheatSheetSeries",
+    "branch": "master",
     "language": "Python",
-    "description": "Grok2API (Cloudflare Workers) one-click deploy with auto D1+KV provisioning"
+    "description": "The OWASP Cheat Sheet Series was created to provide a concise collection of high value information on specific application security topics."
   },
   {
-    "repo": "standard/standard",
+    "repo": "AssemblyScript/assemblyscript",
+    "branch": "main",
+    "language": "WebAssembly",
+    "description": "A TypeScript-like language for WebAssembly."
+  },
+  {
+    "repo": "webpack-contrib/style-loader",
     "branch": "master",
     "language": "JavaScript",
-    "description": "🌟 JavaScript Style Guide, with linter & automatic code fixer"
+    "description": "Style Loader"
   },
   {
-    "repo": "ethers-io/ethers.js",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Complete Ethereum library and wallet implementation in JavaScript."
-  },
-  {
-    "repo": "xullexer/PYDNS-Scanner",
+    "repo": "metric-anything/metric-anything",
     "branch": "main",
     "language": "Python",
-    "description": "A modern, high-performance DNS scanner with a beautiful Terminal User Interface (TUI) built with Textual. This tool can scan millions of IP addresses to find working DNS servers with optional Slipstream proxy testing and automatic multi-platform client download."
+    "description": ""
   },
   {
-    "repo": "pointfreeco/swift-composable-architecture",
-    "branch": "main",
-    "language": "Swift",
-    "description": "A library for building applications in a consistent and understandable way, with composition, testing, and ergonomics in mind."
-  },
-  {
-    "repo": "Vasco0x4/AIDA",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "AI-Driven Security Assessment - Connect AI to 400+ pentesting tools via MCP"
-  },
-  {
-    "repo": "HKUDS/nanobot",
+    "repo": "Zehong-Ma/PixelGen",
     "branch": "main",
     "language": "Python",
-    "description": "🐈 nanobot: The Ultra-Lightweight Clawdbot"
-  },
-  {
-    "repo": "iad1tya/Net-Bar",
-    "branch": "main",
-    "language": "Swift",
-    "description": "A lightweight, aesthetically pleasing network speed monitor that lives in your macOS menu bar."
-  },
-  {
-    "repo": "vikingmute/better-wechatpay",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "现代化的微信支付 Node.js SDK - ESM、TypeScript、全支付方式支持"
-  },
-  {
-    "repo": "HBAI-Ltd/Toonflow-app",
-    "branch": "master",
-    "language": "HTML",
-    "description": "Toonflow 是一款 AI 短剧漫剧工具，能够利用 AI 技术将小说自动转化为剧本，并结合 AI 生成的图片和视频，实现高效的短剧创作。借助 Toonflow，可以轻松完成从文字到影像的全流程，让短剧制作变得更加智能与便捷。"
-  },
-  {
-    "repo": "apache/superset",
-    "branch": "master",
-    "language": "TypeScript",
-    "description": "Apache Superset is a Data Visualization and Data Exploration Platform"
-  },
-  {
-    "repo": "actions/setup-python",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Set up your GitHub Actions workflow with a specific version of Python"
+    "description": "Official repository for “PixelGen: Pixel Diffusion Beats Latent Diffusion with Perceptual Loss”"
   }
 ]

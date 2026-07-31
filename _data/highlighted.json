@@ -1,8 +1,8 @@
 {
-  "repo": "qa10devteam/behive",
+  "repo": "TanStack/charts",
   "branch": "main",
-  "language": "Python",
-  "description": "Open-source deep research engine that builds structured knowledge graphs. MCP-native. avg 0.82+ quality.",
-  "stars": 108,
-  "forks": 12
+  "language": "TypeScript",
+  "description": "A tiny TypeScript visualization grammar for responsive, accessible, server-rendered charts—powered by granular D3 primitives.",
+  "stars": 140,
+  "forks": 2
 }
