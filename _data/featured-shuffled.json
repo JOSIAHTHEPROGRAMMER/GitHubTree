@@ -1,146 +1,146 @@
 [
   {
-    "repo": "ShenSeanChen/waku-agent",
+    "repo": "starling-build/starling",
+    "branch": "main",
+    "language": "Swift",
+    "description": "Starling — a new Linux desktop environment: Swift shell, its own compositor, a Flutter-to-Swift framework port, and first-party apps"
+  },
+  {
+    "repo": "raheemxghumman/DBD-AutoGrind-Trainer-2026-Extreme",
     "branch": "main",
     "language": "Python",
-    "description": "Waku Waku! Waku agent is your personal AI agent, on your own laptop, in code you can read in an afternoon — harness + loop + memory + eval"
+    "description": "Ultimate Dead by Daylight auto-grind trainer Extreme edition with Bloodpoint bot, ESP wallhack, aimbot, and full perk/skin unlocker. Dominate the Fog with our 2026 undetected external tool."
   },
   {
-    "repo": "titanwings/ex-skill",
-    "branch": "master",
-    "language": "Python",
-    "description": "致你忘不掉的那个TA，你们干大模型都是码圣 It's giving rebirth era. Welcome to Digital Life 1.0. 🫶"
-  },
-  {
-    "repo": "zilliztech/memsearch",
-    "branch": "main",
-    "language": "Python",
-    "description": "A Markdown-first memory system, a standalone library for any AI agent. Inspired by OpenClaw."
-  },
-  {
-    "repo": "Tencent-Hunyuan/HY3D-Bench",
+    "repo": "supperzl/ita",
     "branch": "main",
     "language": "Python",
     "description": ""
   },
   {
-    "repo": "SVProgressHUD/SVProgressHUD",
-    "branch": "master",
-    "language": "Objective-C",
-    "description": "A clean and lightweight progress HUD for your iOS and tvOS app."
+    "repo": "m1ckc3s/claude-status-bar",
+    "branch": "main",
+    "language": "Swift",
+    "description": "A tiny macOS menu bar status indicator for Claude Code: animated spark, elapsed timer, and open/close lifecycle."
   },
   {
-    "repo": "ByteDance/monolith",
+    "repo": "we9lii/007-First-Light-Trainer-And-Optimizer_v_2",
     "branch": "main",
     "language": "Python",
-    "description": "A Lightweight Recommendation System"
+    "description": "Advanced trainer and performance utility for 007 First Light. Features God Mode, stealth mechanics, instant gadget/outfit unlocks, map intel reveal, and deep FPS/stutter optimization."
   },
   {
-    "repo": "KKKKhazix/Khazix-Skills",
+    "repo": "jmmy9609-design/gpt-pp",
     "branch": "main",
     "language": "Python",
     "description": ""
   },
   {
-    "repo": "crossplane/crossplane",
-    "branch": "master",
-    "language": "Go",
-    "description": "The Cloud Native Control Plane"
-  },
-  {
-    "repo": "zevorn/rt-claw",
-    "branch": "main",
-    "language": "C",
-    "description": "Making AI Assistants Cheap Again!"
-  },
-  {
-    "repo": "antonpk1/excalidraw-mcp-app",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Excalidraw MCP App Server — hand-drawn diagrams for Claude"
-  },
-  {
-    "repo": "coredns/coredns",
-    "branch": "master",
-    "language": "Go",
-    "description": "CoreDNS is a DNS server that chains plugins"
-  },
-  {
-    "repo": "opencmit/alphora",
+    "repo": "itssosunny/im-not-strange-ai",
     "branch": "main",
     "language": "Python",
-    "description": "A Production-Ready Framework for Building Composable AI Agents"
+    "description": ""
   },
   {
-    "repo": "starccy/doubaoime-asr",
-    "branch": "main",
-    "language": "Python",
-    "description": "豆包输入法语音识别的非官方 Python 客户端"
-  },
-  {
-    "repo": "ethanjyx/OpenBrand",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Extract brand assets (logos, colors, backdrops) from any website; open source alternative to Brand.dev"
-  },
-  {
-    "repo": "LucidAkshay/kavach",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Tactical AI Workspace Monitor & EDR"
-  },
-  {
-    "repo": "fluxcd/flux2",
+    "repo": "MengMengCode/CLICD",
     "branch": "main",
     "language": "Go",
-    "description": "Open and extensible continuous delivery solution for Kubernetes. Powered by GitOps Toolkit."
+    "description": "CLICD 是一个面向 LXC/KVM 的轻量虚拟化管理面板，提供 Web 控制台、CLI、批量任务、镜像管理、NAT 端口、IPv6 分配、WebSSH、VNC、资源限制、流量限制和安全告警能力。它适合用来管理小型 VPS 上的 LXC 容器和 KVM 虚拟机，也适合需要批量创建和分发子用户管理链接的场景。"
   },
   {
-    "repo": "rancher/k3d",
+    "repo": "PentHertz/grimoire",
     "branch": "main",
-    "language": "Go",
-    "description": "Little helper to run CNCF's k3s in Docker"
-  },
-  {
-    "repo": "ruffle-rs/ruffle",
-    "branch": "master",
-    "language": "Rust",
-    "description": "A Flash Player emulator written in Rust"
-  },
-  {
-    "repo": "mtdvio/every-programmer-should-know",
-    "branch": "master",
-    "language": "Other",
-    "description": "A collection of (mostly) technical things every software developer should know about"
-  },
-  {
-    "repo": "OWASP/CheatSheetSeries",
-    "branch": "master",
     "language": "Python",
-    "description": "The OWASP Cheat Sheet Series was created to provide a concise collection of high value information on specific application security topics."
+    "description": "Offensive knowledge, offline. One search box for every playbook."
   },
   {
-    "repo": "AssemblyScript/assemblyscript",
+    "repo": "aleishawei1983/Seed-Generator",
     "branch": "main",
-    "language": "WebAssembly",
-    "description": "A TypeScript-like language for WebAssembly."
+    "language": "Python",
+    "description": "Professional BIP-39 Seed & HD Wallet Toolkit with 12–24 word mnemonics, checksum validation, BIP-44/49/84 derivation, and multi-chain support (BTC, ETH, SOL, LTC, DOGE, ADA, DOT, AVAX, ATOM, XRP, TRX). Features offline CSPRNG, PBKDF2-HMAC-SHA512, AES-256-GCM encryption, wallet recovery, CSV/JSON export, and custom derivation paths."
   },
   {
-    "repo": "webpack-contrib/style-loader",
-    "branch": "master",
+    "repo": "aaviasulin123-design/kms-pico-latest-m6",
+    "branch": "main",
+    "language": "C#",
+    "description": "A secure, educational toolkit for understanding KMS activation, designed for lab environments."
+  },
+  {
+    "repo": "techjarves/Local-AI-Image-Generator",
+    "branch": "main",
     "language": "JavaScript",
-    "description": "Style Loader"
+    "description": "A fully self-contained, offline AI image generation studio for Windows. Runs Stable Diffusion (Safetensors/GGUF) locally with zero manual setup. Auto-configures CUDA for Nvidia GPUs and Vulkan for AMD/Intel Arc cards. Zero system-wide dependencies required."
   },
   {
-    "repo": "metric-anything/metric-anything",
+    "repo": "zyn26/minimax-m3-desktop-app-free-api",
+    "branch": "main",
+    "language": "Go",
+    "description": "minimax m3 free model  ai model free  api  large language model llm 1m context window sparse attention msa architecture native multimodality computer use computer control autonomous coding assistant agentic ai framework swe bench pro software engineering workflow automation multi agent hugging face  api access local llm inference"
+  },
+  {
+    "repo": "valkor-ai/loom",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "An open delivery harness that turns Claude Code, Codex, OpenCode, and other coding agents into repeatable software delivery systems."
+  },
+  {
+    "repo": "beijingcao/binance-deribit-btc",
+    "branch": "main",
+    "language": "Python",
+    "description": "Binance and Deribit BTC cross-exchange arbitrage bot with Redis state recovery, Telegram alerts, and a Flask monitoring dashboard."
+  },
+  {
+    "repo": "emollick/concord",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "Instrument-grade qualitative text analysis: AI-coded corpora, gold calibration, DSL/PPI-corrected statistics, Evidence Ladder"
+  },
+  {
+    "repo": "MSNightmare/RoguePlanet",
+    "branch": "main",
+    "language": "C++",
+    "description": "RoguePlanet Windows Defender Vulnerability"
+  },
+  {
+    "repo": "taisly/agent",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "Taisly Agent Kit: SDK, CLI, examples, and docs for AI agents that publish videos through Taisly."
+  },
+  {
+    "repo": "AI272/speaker",
+    "branch": "main",
+    "language": "Python",
+    "description": "Speaker is a Codex skill project for academic presentations: read real.pptx, combine text extraction, PPTX structure parsing, page-by-page rendering, OCR, and visual review to generate page-by-page speaker notes, and write a clean version of the lecture into the PowerPoint comment area."
+  },
+  {
+    "repo": "lbq110/weread-exporter",
+    "branch": "main",
+    "language": "Python",
+    "description": "微信读书全本导出工具 — Playwright + Canvas Hook 提取完整书籍内容为 Markdown"
+  },
+  {
+    "repo": "amplifthq/opentag",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Open-source @agent mentions for Slack and GitHub. OpenTag routes tagged requests to Codex, Claude Code, then returns results in thread."
+  },
+  {
+    "repo": "judder659/Forven",
     "branch": "main",
     "language": "Python",
     "description": ""
   },
   {
-    "repo": "Zehong-Ma/PixelGen",
+    "repo": "BohemiaInteractive/CWR",
+    "branch": "main",
+    "language": "C++",
+    "description": "Arma: Cold War Assault Remastered Source Code Repository."
+  },
+  {
+    "repo": "ma7mod7/Paralives-Ultimate-Trainer-2026_v_2",
     "branch": "main",
     "language": "Python",
-    "description": "Official repository for “PixelGen: Pixel Diffusion Beats Latent Diffusion with Perceptual Loss”"
+    "description": "Ultimate trainer for Paralives – infinite money, max needs, freeze aging, unlock all items, and more."
   }
 ]
