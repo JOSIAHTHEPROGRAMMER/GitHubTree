@@ -1,93 +1,129 @@
 [
   {
-    "repo": "diinki/linux-antiquity",
-    "branch": "main",
-    "language": "QML",
-    "description": "A highly tasteful Linux-theme, reminiscent of art-nouveau and old drawings related to astronomy, science, and mythology."
-  },
-  {
-    "repo": "NomicFoundation/hardhat",
+    "repo": "pancreations/Halo-MCC-VR",
     "branch": "master",
-    "language": "TypeScript",
-    "description": "Hardhat is a development environment to compile, deploy, test, and debug your Ethereum software."
-  },
-  {
-    "repo": "vercel-labs/portless",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Replace port numbers with stable, named .localhost URLs. For humans and agents."
-  },
-  {
-    "repo": "nicobailon/visual-explainer",
-    "branch": "main",
-    "language": "HTML",
-    "description": "Agent skill + prompt templates that generate rich HTML pages for visual diff reviews, architecture overviews, plan audits, data tables, and project recaps"
-  },
-  {
-    "repo": "SethGammon/Citadel",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "Agent orchestration harness for Claude Code. Four-tier routing (/do), campaign persistence across sessions, parallel agents in isolated worktrees, discovery relay between waves, lifecycle hooks, circuit breaker, and 6 production-quality skills. From solo developer to institutional scale."
-  },
-  {
-    "repo": "Rangizingo/cc-cache-fix",
-    "branch": "main",
-    "language": "Python",
+    "language": "C++",
     "description": ""
   },
   {
-    "repo": "fikrikarim/parlor",
-    "branch": "main",
-    "language": "HTML",
-    "description": "On-device, real-time multimodal AI. Have natural voice and vision conversations with an AI that runs entirely on your machine. Powered by Gemma 4 E2B and Kokoro."
+    "repo": "bumptech/glide",
+    "branch": "master",
+    "language": "Java",
+    "description": "An image loading and caching library for Android focused on smooth scrolling"
   },
   {
-    "repo": "kyutai-labs/hibiki-zero",
+    "repo": "guzzle/guzzle",
+    "branch": "master",
+    "language": "PHP",
+    "description": "Guzzle, an extensible PHP HTTP client"
+  },
+  {
+    "repo": "grpc/grpc-java",
+    "branch": "master",
+    "language": "Java",
+    "description": "The Java gRPC implementation. HTTP/2 based RPC"
+  },
+  {
+    "repo": "mrdoob/three.js",
+    "branch": "dev",
+    "language": "JavaScript",
+    "description": "JavaScript 3D Library."
+  },
+  {
+    "repo": "NVIDIA/cuda-samples",
+    "branch": "master",
+    "language": "C",
+    "description": "Samples for CUDA Developers which demonstrates features in CUDA Toolkit"
+  },
+  {
+    "repo": "craigsc/cmux",
+    "branch": "main",
+    "language": "Shell",
+    "description": "cmux: tmux for Claude Code"
+  },
+  {
+    "repo": "shuyu-labs/BigBanana-AI-Director",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "BigBanana AI Director是一个 AI 一站式短剧/漫剧平台，面向创作者，实现从灵感到成片的高效生产。  它摇弃了传统的“抽卡式”生成，采用 Script-to-Asset-to-Keyframe 的工业化工作流。实现 “一句话生成完整短剧，从剧本到成片全自动化”，同时精准控制角色一致性、场景连续性与镜头运动。"
+  },
+  {
+    "repo": "vitejs/vite",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Next generation frontend tooling. It's fast!"
+  },
+  {
+    "repo": "llmsresearch/paperbanana",
     "branch": "main",
     "language": "Python",
-    "description": "A real-time and multilingual speech translation model"
+    "description": "Open source implementation and extension of Google Research’s PaperBanana for automated academic figures, diagrams, and research visuals, expanded to new domains like slide generation."
   },
   {
-    "repo": "africa1207/AWS-BuildID-Auto-For-Ext",
+    "repo": "rabbitmq/rabbitmq-server",
     "branch": "main",
     "language": "JavaScript",
-    "description": ""
+    "description": "Open source RabbitMQ: core server and tier 1 (built-in) plugins"
   },
   {
-    "repo": "OpenRaiser/NanoResearch",
-    "branch": "main",
-    "language": "Python",
-    "description": "🦞+🔬: NanoResearch: The Autonomous AI Research Assistant"
+    "repo": "papers-we-love/papers-we-love",
+    "branch": "master",
+    "language": "Shell",
+    "description": "Papers from the computer science community to read and discuss."
   },
   {
-    "repo": "OpenMOSS/MOSS-TTS",
-    "branch": "main",
-    "language": "Python",
-    "description": "MOSS‑TTS Family is an open‑source speech and sound generation model family from MOSI.AI and the OpenMOSS team. It is designed for high‑fidelity, high‑expressiveness, and complex real‑world scenarios, covering stable long‑form speech, multi‑speaker dialogue, voice/character design, environmental sound effects, and real‑time streaming TTS."
-  },
-  {
-    "repo": "jnsahaj/gazectl",
-    "branch": "main",
-    "language": "Swift",
-    "description": "Head tracking display focus switcher for macOS"
-  },
-  {
-    "repo": "michelleoincx/zeroclaw-grok",
+    "repo": "nodejs/node",
     "branch": "main",
     "language": "JavaScript",
-    "description": "ZeroClaw — sleek web interface for Grok AI (xAI). Streaming responses, multi-session chat, model selector. Zero npm dependencies. Runs with one command."
+    "description": "Node.js JavaScript runtime ✨🐢🚀✨"
   },
   {
-    "repo": "m0at/rvllm",
+    "repo": "Quorinex/Kiro-Go",
+    "branch": "main",
+    "language": "Go",
+    "description": "🚀 Convert Kiro accounts into OpenAI/Anthropic APIs. Features multi-account pooling, streaming, auto token refresh, and a web admin panel."
+  },
+  {
+    "repo": "mosaicml/llm-foundry",
+    "branch": "main",
+    "language": "Python",
+    "description": "LLM training code for Databricks foundation models"
+  },
+  {
+    "repo": "fajarakpdev/Hades-II-Trainer-Z",
+    "branch": "main",
+    "language": "Python",
+    "description": "Free Hades II Trainer with God Mode, Unlimited Health, Max Gold, One-Hit Kill and more. No survey, instant download."
+  },
+  {
+    "repo": "curl/curl",
+    "branch": "master",
+    "language": "C",
+    "description": "A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, POP3, POP3S, RTMP, RTMPS, RTSP, SCP, SFTP, SMB, SMBS, SMTP, SMTPS, TELNET, TFTP, WS and WSS. libcurl offers a myriad of powerful features"
+  },
+  {
+    "repo": "meilisearch/meilisearch",
     "branch": "main",
     "language": "Rust",
-    "description": "rvLLM: High-performance LLM inference in Rust. Drop-in vLLM replacement."
+    "description": "A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications."
   },
   {
-    "repo": "mikewang817/MacBar",
+    "repo": "iamzifei/bookmark-is-learned",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "收藏到就是学到，解决光收藏不看的问题。收藏的当下立刻学习或者丢弃"
+  },
+  {
+    "repo": "ngrx/platform",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Reactive State for Angular"
+  },
+  {
+    "repo": "godagoo/claude-telegram-relay",
     "branch": "master",
-    "language": "Swift",
-    "description": "A lightweight macOS menu bar clipboard manager with OCR, file support, and global hotkey"
+    "language": "TypeScript",
+    "description": "Minimal pattern for running Claude Code as an always-on Telegram bot. Cross-platform daemon setup included."
   },
   {
     "repo": "agenticnotetaking/arscontexta",
@@ -96,51 +132,15 @@
     "description": "Claude Code plugin that generates individualized knowledge systems from conversation. You describe how you think and work, have a conversation and get a complete second brain as markdown files you own."
   },
   {
-    "repo": "AMAP-ML/RL3DEdit",
+    "repo": "Krypto-Hashers-Community/polymarket-copytrading-bot-rust-sport-crypto",
     "branch": "main",
-    "language": "HTML",
-    "description": ""
+    "language": "Rust",
+    "description": "The ultimate Polymarket CopyTrading Bot in Rust. AI-powered Polymarket CopyTrading Bot for smarter trades. Self-hosted Polymarket CopyTrading Bot with dashboard. Real-time Polymarket CopyTrading Bot for top traders. Reliable Polymarket CopyTrading Bot for prediction markets. Fast Polymarket CopyTrading Bot. Try Polymarket CopyTrading Bot now."
   },
   {
-    "repo": "EvanZhouDev/openai-oauth",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Free OpenAI API access with your ChatGPT account."
-  },
-  {
-    "repo": "ericosiu/ai-marketing-skills",
+    "repo": "renee-jia/scholar-loop",
     "branch": "main",
     "language": "Python",
-    "description": "Open-source AI marketing skills for Claude Code — growth experiments, sales pipeline, content ops, outbound, SEO, and finance automation"
-  },
-  {
-    "repo": "TheDecipherist/claude-code-mastery-project-starter-kit",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "The definitive starting point for Claude Code projects. Based on Claude Code Mastery Guides V3-V5."
-  },
-  {
-    "repo": "caiwuu/web2api",
-    "branch": "master",
-    "language": "Python",
-    "description": "把网页AI转api，如claude2api"
-  },
-  {
-    "repo": "lorryjovens-hub/claude-code-rust",
-    "branch": "master",
-    "language": "TypeScript",
-    "description": "🚀 Rust 全量重构的 Claude Code - 性能提升 2.5x，体积减少 97% | High-performance Rust implementation of Claude Code with 2.5x faster startup and 97% smaller binary"
-  },
-  {
-    "repo": "cnlimiter/codex-register",
-    "branch": "master",
-    "language": "Python",
-    "description": ""
-  },
-  {
-    "repo": "TermiX-official/cryptoclaw",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": ""
+    "description": "An autonomous AI scientist: a multi-agent loop over literature, experiments, self-critique and write-up, with deterministic guards against reward-hacking and hallucination."
   }
 ]

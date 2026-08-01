@@ -1,8 +1,8 @@
 {
-  "repo": "ahmedemad3/arch-wiki",
+  "repo": "awplanets/awplanet",
   "branch": "main",
-  "language": "Python",
-  "description": "A featured project on GitHubTree.",
-  "stars": 105,
+  "language": "JavaScript",
+  "description": "AI 原生 3D 导演工作台与场景创作工具 / AI-native 3D direction and scene creation studio",
+  "stars": 110,
   "forks": 13
 }
