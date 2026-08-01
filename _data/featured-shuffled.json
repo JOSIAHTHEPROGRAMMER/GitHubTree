@@ -1,146 +1,146 @@
 [
   {
-    "repo": "pancreations/Halo-MCC-VR",
+    "repo": "dair-ai/ML-Papers-Explained",
+    "branch": "gh-pages",
+    "language": "Other",
+    "description": "Explanation to key concepts in ML"
+  },
+  {
+    "repo": "bytedance/Bernini",
+    "branch": "main",
+    "language": "Python",
+    "description": "Bernini is a unified framework for video generation and editing that combines an MLLM-based semantic planner with a DiT-based renderer."
+  },
+  {
+    "repo": "disintegr8te/teams-policy-export",
+    "branch": "main",
+    "language": "PowerShell",
+    "description": "PowerShell tool to export Microsoft Teams policies and generate stakeholder decision workbooks"
+  },
+  {
+    "repo": "DenAB-NVS/submarine",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "Sovereign, depth-adaptive AI memory. Open source. Local-first. Model-agnostic."
+  },
+  {
+    "repo": "vinhhien112/Three.js-Object-Sculptor-Codex-Plugin",
+    "branch": "main",
+    "language": "Python",
+    "description": "Codex plugin that turns attached object images into code-only, animation-ready procedural Three.js models."
+  },
+  {
+    "repo": "Nightmare-Eclipse/GreenPlasma",
+    "branch": "main",
+    "language": "C++",
+    "description": "GreenPlasma Windows CTFMON Arbitrary Section Creation Elevation of Privileges Vulnerability"
+  },
+  {
+    "repo": "eduwass/tmux-palette",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Raycast-style command palette for tmux — fast, scriptable, easy to extend"
+  },
+  {
+    "repo": "yaassin12/DeepSeek-V4-Pro-App",
+    "branch": "main",
+    "language": "C++",
+    "description": "DeepSeek V4 Pro: Advanced AI desktop app. Features: 1.6T MoE architecture, 1M token context window, Engram memory. Pro coding agent, Think Mode (High/Max), repo-level reasoning, complex bug fixing. Real-time web search, local API key storage, cross-file analysis, low-latency streaming interface."
+  },
+  {
+    "repo": "kunchenguid/autopreso",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "Realtime speech to presentation. Let the whiteboard whiteboard itself."
+  },
+  {
+    "repo": "stormzhang/token-tracker",
     "branch": "master",
+    "language": "Python",
+    "description": "Track token usage across local AI agents (Claude Code, Codex) — CLI dashboard with cost analysis, rate limit monitoring, and session tracking"
+  },
+  {
+    "repo": "OpenYSM/OpenYSM",
+    "branch": "main",
+    "language": "Java",
+    "description": "Yes-Steve-Model idea ready."
+  },
+  {
+    "repo": "Aladdin-IT/MaaNTE",
+    "branch": "main",
+    "language": "C++",
+    "description": "MaaNTE download Arknights automation assistant daily tasks infrastructure base management recruitment OCR scripts farming resource planner auto-deploy strategy helper open source tool."
+  },
+  {
+    "repo": "Snaplii-Inc/agent-to-merchant-payments",
+    "branch": "main",
+    "language": "Python",
+    "description": "Payments are broken for AI agents.  Snaplii unlocks real-world commerce with a safe, tokenized payment layer — powered by 500+ merchant gift cards — and is the only one that actually saves you money (up to 10% per transaction), on top of any existing deals or promotions."
+  },
+  {
+    "repo": "FULU-Foundation/OrcaSlicer-bambulab",
+    "branch": "main",
     "language": "C++",
     "description": ""
   },
   {
-    "repo": "bumptech/glide",
+    "repo": "TencentARC/Pixal3D",
     "branch": "master",
-    "language": "Java",
-    "description": "An image loading and caching library for Android focused on smooth scrolling"
+    "language": "Python",
+    "description": "[SIGGRAPH 2026] Pixal3D: Pixel-Aligned 3D Generation from Images"
   },
   {
-    "repo": "guzzle/guzzle",
+    "repo": "0xMohammedHassan/morphkatz",
+    "branch": "main",
+    "language": "C++",
+    "description": "Polymorphic PE rewriter for Windows x64 , rewrites binaries into semantically identical but byte-different variants"
+  },
+  {
+    "repo": "darkrishabh/agent-skills-eval",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "A test runner for agentskills.io-style AI agent skills"
+  },
+  {
+    "repo": "jingyaogong/minimind-o",
     "branch": "master",
-    "language": "PHP",
-    "description": "Guzzle, an extensible PHP HTTP client"
+    "language": "Python",
+    "description": "🎙️ 「大模型」从0训练0.1B能听能说能看的全模态Omni模型！A 0.1B Omni model trained from scratch, capable of listening, speaking, and seeing!"
   },
   {
-    "repo": "grpc/grpc-java",
-    "branch": "master",
-    "language": "Java",
-    "description": "The Java gRPC implementation. HTTP/2 based RPC"
+    "repo": "amircloner/g2ray",
+    "branch": "main",
+    "language": "Dockerfile",
+    "description": ""
   },
   {
-    "repo": "mrdoob/three.js",
-    "branch": "dev",
-    "language": "JavaScript",
-    "description": "JavaScript 3D Library."
-  },
-  {
-    "repo": "NVIDIA/cuda-samples",
-    "branch": "master",
-    "language": "C",
-    "description": "Samples for CUDA Developers which demonstrates features in CUDA Toolkit"
-  },
-  {
-    "repo": "craigsc/cmux",
+    "repo": "nostrband/ServiceGraph",
     "branch": "main",
     "language": "Shell",
-    "description": "cmux: tmux for Claude Code"
+    "description": "AI Agent skills for a structured catalog of 100k+ US professional-services firms"
   },
   {
-    "repo": "shuyu-labs/BigBanana-AI-Director",
+    "repo": "mrslimslim/gpt-image-canvas",
     "branch": "main",
     "language": "TypeScript",
-    "description": "BigBanana AI Director是一个 AI 一站式短剧/漫剧平台，面向创作者，实现从灵感到成片的高效生产。  它摇弃了传统的“抽卡式”生成，采用 Script-to-Asset-to-Keyframe 的工业化工作流。实现 “一句话生成完整短剧，从剧本到成片全自动化”，同时精准控制角色一致性、场景连续性与镜头运动。"
+    "description": "Local professional AI canvas built with tldraw."
   },
   {
-    "repo": "vitejs/vite",
+    "repo": "zzzzshawn/matrix",
     "branch": "main",
     "language": "TypeScript",
-    "description": "Next generation frontend tooling. It's fast!"
+    "description": ""
   },
   {
-    "repo": "llmsresearch/paperbanana",
+    "repo": "GordenSun/CuiMao",
     "branch": "main",
-    "language": "Python",
-    "description": "Open source implementation and extension of Google Research’s PaperBanana for automated academic figures, diagrams, and research visuals, expanded to new domains like slide generation."
+    "language": "HTML",
+    "description": "眼睛跟着鼠标旋转。"
   },
   {
-    "repo": "rabbitmq/rabbitmq-server",
+    "repo": "RadianceToadAmend/ARC-Raiders-External-Tool",
     "branch": "main",
-    "language": "JavaScript",
-    "description": "Open source RabbitMQ: core server and tier 1 (built-in) plugins"
-  },
-  {
-    "repo": "papers-we-love/papers-we-love",
-    "branch": "master",
-    "language": "Shell",
-    "description": "Papers from the computer science community to read and discuss."
-  },
-  {
-    "repo": "nodejs/node",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "Node.js JavaScript runtime ✨🐢🚀✨"
-  },
-  {
-    "repo": "Quorinex/Kiro-Go",
-    "branch": "main",
-    "language": "Go",
-    "description": "🚀 Convert Kiro accounts into OpenAI/Anthropic APIs. Features multi-account pooling, streaming, auto token refresh, and a web admin panel."
-  },
-  {
-    "repo": "mosaicml/llm-foundry",
-    "branch": "main",
-    "language": "Python",
-    "description": "LLM training code for Databricks foundation models"
-  },
-  {
-    "repo": "fajarakpdev/Hades-II-Trainer-Z",
-    "branch": "main",
-    "language": "Python",
-    "description": "Free Hades II Trainer with God Mode, Unlimited Health, Max Gold, One-Hit Kill and more. No survey, instant download."
-  },
-  {
-    "repo": "curl/curl",
-    "branch": "master",
-    "language": "C",
-    "description": "A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, POP3, POP3S, RTMP, RTMPS, RTSP, SCP, SFTP, SMB, SMBS, SMTP, SMTPS, TELNET, TFTP, WS and WSS. libcurl offers a myriad of powerful features"
-  },
-  {
-    "repo": "meilisearch/meilisearch",
-    "branch": "main",
-    "language": "Rust",
-    "description": "A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications."
-  },
-  {
-    "repo": "iamzifei/bookmark-is-learned",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "收藏到就是学到，解决光收藏不看的问题。收藏的当下立刻学习或者丢弃"
-  },
-  {
-    "repo": "ngrx/platform",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Reactive State for Angular"
-  },
-  {
-    "repo": "godagoo/claude-telegram-relay",
-    "branch": "master",
-    "language": "TypeScript",
-    "description": "Minimal pattern for running Claude Code as an always-on Telegram bot. Cross-platform daemon setup included."
-  },
-  {
-    "repo": "agenticnotetaking/arscontexta",
-    "branch": "main",
-    "language": "Shell",
-    "description": "Claude Code plugin that generates individualized knowledge systems from conversation. You describe how you think and work, have a conversation and get a complete second brain as markdown files you own."
-  },
-  {
-    "repo": "Krypto-Hashers-Community/polymarket-copytrading-bot-rust-sport-crypto",
-    "branch": "main",
-    "language": "Rust",
-    "description": "The ultimate Polymarket CopyTrading Bot in Rust. AI-powered Polymarket CopyTrading Bot for smarter trades. Self-hosted Polymarket CopyTrading Bot with dashboard. Real-time Polymarket CopyTrading Bot for top traders. Reliable Polymarket CopyTrading Bot for prediction markets. Fast Polymarket CopyTrading Bot. Try Polymarket CopyTrading Bot now."
-  },
-  {
-    "repo": "renee-jia/scholar-loop",
-    "branch": "main",
-    "language": "Python",
-    "description": "An autonomous AI scientist: a multi-agent loop over literature, experiments, self-critique and write-up, with deterministic guards against reward-hacking and hallucination."
+    "language": "C++",
+    "description": "External overlay tool for ARC Raiders. UE5 memory reader, entity , radar, performance monitor. D3D11 render, no injection. For offline training purposes only."
   }
 ]
