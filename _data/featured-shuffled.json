@@ -1,99 +1,63 @@
 [
   {
-    "repo": "bytedance/Lance",
+    "repo": "diinki/linux-antiquity",
     "branch": "main",
-    "language": "Python",
-    "description": "A 3B-active-parameter native unified multimodal model for image and video understanding, generation, and editing."
+    "language": "QML",
+    "description": "A highly tasteful Linux-theme, reminiscent of art-nouveau and old drawings related to astronomy, science, and mythology."
   },
   {
-    "repo": "cloudflare/quiche",
+    "repo": "NomicFoundation/hardhat",
     "branch": "master",
-    "language": "Rust",
-    "description": "🥧 Savoury implementation of the QUIC transport protocol and HTTP/3"
+    "language": "TypeScript",
+    "description": "Hardhat is a development environment to compile, deploy, test, and debug your Ethereum software."
   },
   {
-    "repo": "jackwener/twitter-cli",
+    "repo": "vercel-labs/portless",
     "branch": "main",
-    "language": "Python",
-    "description": "A CLI for Twitter/X — feed, bookmarks, and user timeline in terminal"
+    "language": "TypeScript",
+    "description": "Replace port numbers with stable, named .localhost URLs. For humans and agents."
   },
   {
-    "repo": "jina-ai/jina-grep-cli",
+    "repo": "nicobailon/visual-explainer",
     "branch": "main",
-    "language": "Python",
-    "description": "Semantic grep powered by Jina embeddings v5 (MLX on Apple Silicon)"
+    "language": "HTML",
+    "description": "Agent skill + prompt templates that generate rich HTML pages for visual diff reviews, architecture overviews, plan audits, data tables, and project recaps"
   },
   {
-    "repo": "NoobyGains/claude-pulse",
-    "branch": "master",
-    "language": "Python",
-    "description": "Real-time usage monitor for Claude Code — session limits, weekly limits, and plan tier with colour-coded progress bars"
-  },
-  {
-    "repo": "brunch/brunch",
-    "branch": "master",
+    "repo": "SethGammon/Citadel",
+    "branch": "main",
     "language": "JavaScript",
-    "description": "🍴 Web applications made easy. Since 2011."
+    "description": "Agent orchestration harness for Claude Code. Four-tier routing (/do), campaign persistence across sessions, parallel agents in isolated worktrees, discovery relay between waves, lifecycle hooks, circuit breaker, and 6 production-quality skills. From solo developer to institutional scale."
   },
   {
-    "repo": "InstaPy/InstaPy",
-    "branch": "master",
-    "language": "Python",
-    "description": "📷 Instagram Bot - Tool for automated Instagram interactions"
-  },
-  {
-    "repo": "Veirt/weathr",
-    "branch": "main",
-    "language": "Rust",
-    "description": "a terminal weather app with ascii animation"
-  },
-  {
-    "repo": "mkdocs/mkdocs",
-    "branch": "master",
-    "language": "Python",
-    "description": "Project documentation with Markdown."
-  },
-  {
-    "repo": "pyg-team/pytorch_geometric",
-    "branch": "master",
-    "language": "Python",
-    "description": "Graph Neural Network Library for PyTorch"
-  },
-  {
-    "repo": "thesSmartApe/polymarket-copy-trading-bot-rust",
-    "branch": "main",
-    "language": "Rust",
-    "description": "polymarket rust copy trading bot polymarket copy trading bot polymarket copy trading bot polymarket copy trading bot polymarket copy trading bot polymarket copy trading bot polymarket copy trading bot polymarket copy trading bot polymarket copy trading bot polymarket copy trading bot"
-  },
-  {
-    "repo": "xyzeva/k-id-age-verifier",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "automatically verify your age on discord, twitch, kick, quora and more (k-id)"
-  },
-  {
-    "repo": "ConardLi/rag-skill",
+    "repo": "Rangizingo/cc-cache-fix",
     "branch": "main",
     "language": "Python",
-    "description": "A Skill dedicated to local knowledge base retrieval"
+    "description": ""
   },
   {
-    "repo": "liuxiaopai-ai/ralph-desktop",
+    "repo": "fikrikarim/parlor",
     "branch": "main",
-    "language": "Rust",
-    "description": "Ralph Desktop -  Start vague. Ralph Loop until perfect.  A visual controller for AI coding agents that helps you brainstorm requirements and execute tasks through persistent iteration."
+    "language": "HTML",
+    "description": "On-device, real-time multimodal AI. Have natural voice and vision conversations with an AI that runs entirely on your machine. Powered by Gemma 4 E2B and Kokoro."
   },
   {
-    "repo": "backstage/backstage",
-    "branch": "master",
-    "language": "TypeScript",
-    "description": "Backstage is an open framework for building developer portals"
-  },
-  {
-    "repo": "chu2bard/pinion-os",
+    "repo": "kyutai-labs/hibiki-zero",
     "branch": "main",
-    "language": "TypeScript",
-    "description": "Client SDK, Claude plugin and skill framework for the Pinion protocol. x402 micropayments on Base."
+    "language": "Python",
+    "description": "A real-time and multilingual speech translation model"
+  },
+  {
+    "repo": "africa1207/AWS-BuildID-Auto-For-Ext",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": ""
+  },
+  {
+    "repo": "OpenRaiser/NanoResearch",
+    "branch": "main",
+    "language": "Python",
+    "description": "🦞+🔬: NanoResearch: The Autonomous AI Research Assistant"
   },
   {
     "repo": "OpenMOSS/MOSS-TTS",
@@ -102,45 +66,81 @@
     "description": "MOSS‑TTS Family is an open‑source speech and sound generation model family from MOSI.AI and the OpenMOSS team. It is designed for high‑fidelity, high‑expressiveness, and complex real‑world scenarios, covering stable long‑form speech, multi‑speaker dialogue, voice/character design, environmental sound effects, and real‑time streaming TTS."
   },
   {
-    "repo": "Textualize/rich",
+    "repo": "jnsahaj/gazectl",
+    "branch": "main",
+    "language": "Swift",
+    "description": "Head tracking display focus switcher for macOS"
+  },
+  {
+    "repo": "michelleoincx/zeroclaw-grok",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "ZeroClaw — sleek web interface for Grok AI (xAI). Streaming responses, multi-session chat, model selector. Zero npm dependencies. Runs with one command."
+  },
+  {
+    "repo": "m0at/rvllm",
+    "branch": "main",
+    "language": "Rust",
+    "description": "rvLLM: High-performance LLM inference in Rust. Drop-in vLLM replacement."
+  },
+  {
+    "repo": "mikewang817/MacBar",
+    "branch": "master",
+    "language": "Swift",
+    "description": "A lightweight macOS menu bar clipboard manager with OCR, file support, and global hotkey"
+  },
+  {
+    "repo": "agenticnotetaking/arscontexta",
+    "branch": "main",
+    "language": "Shell",
+    "description": "Claude Code plugin that generates individualized knowledge systems from conversation. You describe how you think and work, have a conversation and get a complete second brain as markdown files you own."
+  },
+  {
+    "repo": "AMAP-ML/RL3DEdit",
+    "branch": "main",
+    "language": "HTML",
+    "description": ""
+  },
+  {
+    "repo": "EvanZhouDev/openai-oauth",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Free OpenAI API access with your ChatGPT account."
+  },
+  {
+    "repo": "ericosiu/ai-marketing-skills",
+    "branch": "main",
+    "language": "Python",
+    "description": "Open-source AI marketing skills for Claude Code — growth experiments, sales pipeline, content ops, outbound, SEO, and finance automation"
+  },
+  {
+    "repo": "TheDecipherist/claude-code-mastery-project-starter-kit",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "The definitive starting point for Claude Code projects. Based on Claude Code Mastery Guides V3-V5."
+  },
+  {
+    "repo": "caiwuu/web2api",
     "branch": "master",
     "language": "Python",
-    "description": "Rich is a Python library for rich text and beautiful formatting in the terminal."
+    "description": "把网页AI转api，如claude2api"
   },
   {
-    "repo": "sharbelxyz/x-bookmarks",
-    "branch": "main",
+    "repo": "lorryjovens-hub/claude-code-rust",
+    "branch": "master",
+    "language": "TypeScript",
+    "description": "🚀 Rust 全量重构的 Claude Code - 性能提升 2.5x，体积减少 97% | High-performance Rust implementation of Claude Code with 2.5x faster startup and 97% smaller binary"
+  },
+  {
+    "repo": "cnlimiter/codex-register",
+    "branch": "master",
     "language": "Python",
-    "description": "OpenClaw skill: turn your X bookmarks into agent actions. Stop hoarding. Start applying."
+    "description": ""
   },
   {
-    "repo": "FreeCAD/FreeCAD",
+    "repo": "TermiX-official/cryptoclaw",
     "branch": "main",
-    "language": "C++",
-    "description": "Official source code of FreeCAD, a free and opensource multiplatform 3D parametric modeler."
-  },
-  {
-    "repo": "celery/kombu",
-    "branch": "main",
-    "language": "Python",
-    "description": "Messaging library for Python."
-  },
-  {
-    "repo": "PrefectHQ/prefect",
-    "branch": "main",
-    "language": "Python",
-    "description": "Prefect is a workflow orchestration framework for building resilient data pipelines in Python."
-  },
-  {
-    "repo": "Soul-AILab/SoulX-Singer",
-    "branch": "main",
-    "language": "Python",
-    "description": "Official inference code for SoulX-Singer: Towards High-Quality Zero-Shot Singing Voice Synthesis"
-  },
-  {
-    "repo": "praetorian-inc/augustus",
-    "branch": "main",
-    "language": "Go",
-    "description": "LLM security testing framework for detecting prompt injection, jailbreaks, and adversarial attacks — 190+ probes, 28 providers, single Go binary"
+    "language": "TypeScript",
+    "description": ""
   }
 ]
