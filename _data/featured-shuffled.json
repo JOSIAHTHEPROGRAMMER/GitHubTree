@@ -1,146 +1,146 @@
 [
   {
-    "repo": "starling-build/starling",
-    "branch": "main",
-    "language": "Swift",
-    "description": "Starling — a new Linux desktop environment: Swift shell, its own compositor, a Flutter-to-Swift framework port, and first-party apps"
-  },
-  {
-    "repo": "raheemxghumman/DBD-AutoGrind-Trainer-2026-Extreme",
+    "repo": "bytedance/Lance",
     "branch": "main",
     "language": "Python",
-    "description": "Ultimate Dead by Daylight auto-grind trainer Extreme edition with Bloodpoint bot, ESP wallhack, aimbot, and full perk/skin unlocker. Dominate the Fog with our 2026 undetected external tool."
+    "description": "A 3B-active-parameter native unified multimodal model for image and video understanding, generation, and editing."
   },
   {
-    "repo": "supperzl/ita",
+    "repo": "cloudflare/quiche",
+    "branch": "master",
+    "language": "Rust",
+    "description": "🥧 Savoury implementation of the QUIC transport protocol and HTTP/3"
+  },
+  {
+    "repo": "jackwener/twitter-cli",
     "branch": "main",
     "language": "Python",
-    "description": ""
+    "description": "A CLI for Twitter/X — feed, bookmarks, and user timeline in terminal"
   },
   {
-    "repo": "m1ckc3s/claude-status-bar",
-    "branch": "main",
-    "language": "Swift",
-    "description": "A tiny macOS menu bar status indicator for Claude Code: animated spark, elapsed timer, and open/close lifecycle."
-  },
-  {
-    "repo": "we9lii/007-First-Light-Trainer-And-Optimizer_v_2",
+    "repo": "jina-ai/jina-grep-cli",
     "branch": "main",
     "language": "Python",
-    "description": "Advanced trainer and performance utility for 007 First Light. Features God Mode, stealth mechanics, instant gadget/outfit unlocks, map intel reveal, and deep FPS/stutter optimization."
+    "description": "Semantic grep powered by Jina embeddings v5 (MLX on Apple Silicon)"
   },
   {
-    "repo": "jmmy9609-design/gpt-pp",
-    "branch": "main",
+    "repo": "NoobyGains/claude-pulse",
+    "branch": "master",
     "language": "Python",
-    "description": ""
+    "description": "Real-time usage monitor for Claude Code — session limits, weekly limits, and plan tier with colour-coded progress bars"
   },
   {
-    "repo": "itssosunny/im-not-strange-ai",
-    "branch": "main",
-    "language": "Python",
-    "description": ""
-  },
-  {
-    "repo": "MengMengCode/CLICD",
-    "branch": "main",
-    "language": "Go",
-    "description": "CLICD 是一个面向 LXC/KVM 的轻量虚拟化管理面板，提供 Web 控制台、CLI、批量任务、镜像管理、NAT 端口、IPv6 分配、WebSSH、VNC、资源限制、流量限制和安全告警能力。它适合用来管理小型 VPS 上的 LXC 容器和 KVM 虚拟机，也适合需要批量创建和分发子用户管理链接的场景。"
-  },
-  {
-    "repo": "PentHertz/grimoire",
-    "branch": "main",
-    "language": "Python",
-    "description": "Offensive knowledge, offline. One search box for every playbook."
-  },
-  {
-    "repo": "aleishawei1983/Seed-Generator",
-    "branch": "main",
-    "language": "Python",
-    "description": "Professional BIP-39 Seed & HD Wallet Toolkit with 12–24 word mnemonics, checksum validation, BIP-44/49/84 derivation, and multi-chain support (BTC, ETH, SOL, LTC, DOGE, ADA, DOT, AVAX, ATOM, XRP, TRX). Features offline CSPRNG, PBKDF2-HMAC-SHA512, AES-256-GCM encryption, wallet recovery, CSV/JSON export, and custom derivation paths."
-  },
-  {
-    "repo": "aaviasulin123-design/kms-pico-latest-m6",
-    "branch": "main",
-    "language": "C#",
-    "description": "A secure, educational toolkit for understanding KMS activation, designed for lab environments."
-  },
-  {
-    "repo": "techjarves/Local-AI-Image-Generator",
-    "branch": "main",
+    "repo": "brunch/brunch",
+    "branch": "master",
     "language": "JavaScript",
-    "description": "A fully self-contained, offline AI image generation studio for Windows. Runs Stable Diffusion (Safetensors/GGUF) locally with zero manual setup. Auto-configures CUDA for Nvidia GPUs and Vulkan for AMD/Intel Arc cards. Zero system-wide dependencies required."
+    "description": "🍴 Web applications made easy. Since 2011."
   },
   {
-    "repo": "zyn26/minimax-m3-desktop-app-free-api",
+    "repo": "InstaPy/InstaPy",
+    "branch": "master",
+    "language": "Python",
+    "description": "📷 Instagram Bot - Tool for automated Instagram interactions"
+  },
+  {
+    "repo": "Veirt/weathr",
     "branch": "main",
-    "language": "Go",
-    "description": "minimax m3 free model  ai model free  api  large language model llm 1m context window sparse attention msa architecture native multimodality computer use computer control autonomous coding assistant agentic ai framework swe bench pro software engineering workflow automation multi agent hugging face  api access local llm inference"
+    "language": "Rust",
+    "description": "a terminal weather app with ascii animation"
   },
   {
-    "repo": "valkor-ai/loom",
+    "repo": "mkdocs/mkdocs",
+    "branch": "master",
+    "language": "Python",
+    "description": "Project documentation with Markdown."
+  },
+  {
+    "repo": "pyg-team/pytorch_geometric",
+    "branch": "master",
+    "language": "Python",
+    "description": "Graph Neural Network Library for PyTorch"
+  },
+  {
+    "repo": "thesSmartApe/polymarket-copy-trading-bot-rust",
+    "branch": "main",
+    "language": "Rust",
+    "description": "polymarket rust copy trading bot polymarket copy trading bot polymarket copy trading bot polymarket copy trading bot polymarket copy trading bot polymarket copy trading bot polymarket copy trading bot polymarket copy trading bot polymarket copy trading bot polymarket copy trading bot"
+  },
+  {
+    "repo": "xyzeva/k-id-age-verifier",
     "branch": "main",
     "language": "TypeScript",
-    "description": "An open delivery harness that turns Claude Code, Codex, OpenCode, and other coding agents into repeatable software delivery systems."
+    "description": "automatically verify your age on discord, twitch, kick, quora and more (k-id)"
   },
   {
-    "repo": "beijingcao/binance-deribit-btc",
+    "repo": "ConardLi/rag-skill",
     "branch": "main",
     "language": "Python",
-    "description": "Binance and Deribit BTC cross-exchange arbitrage bot with Redis state recovery, Telegram alerts, and a Flask monitoring dashboard."
+    "description": "A Skill dedicated to local knowledge base retrieval"
   },
   {
-    "repo": "emollick/concord",
+    "repo": "liuxiaopai-ai/ralph-desktop",
     "branch": "main",
-    "language": "JavaScript",
-    "description": "Instrument-grade qualitative text analysis: AI-coded corpora, gold calibration, DSL/PPI-corrected statistics, Evidence Ladder"
+    "language": "Rust",
+    "description": "Ralph Desktop -  Start vague. Ralph Loop until perfect.  A visual controller for AI coding agents that helps you brainstorm requirements and execute tasks through persistent iteration."
   },
   {
-    "repo": "MSNightmare/RoguePlanet",
-    "branch": "main",
-    "language": "C++",
-    "description": "RoguePlanet Windows Defender Vulnerability"
+    "repo": "backstage/backstage",
+    "branch": "master",
+    "language": "TypeScript",
+    "description": "Backstage is an open framework for building developer portals"
   },
   {
-    "repo": "taisly/agent",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "Taisly Agent Kit: SDK, CLI, examples, and docs for AI agents that publish videos through Taisly."
-  },
-  {
-    "repo": "AI272/speaker",
-    "branch": "main",
-    "language": "Python",
-    "description": "Speaker is a Codex skill project for academic presentations: read real.pptx, combine text extraction, PPTX structure parsing, page-by-page rendering, OCR, and visual review to generate page-by-page speaker notes, and write a clean version of the lecture into the PowerPoint comment area."
-  },
-  {
-    "repo": "lbq110/weread-exporter",
-    "branch": "main",
-    "language": "Python",
-    "description": "微信读书全本导出工具 — Playwright + Canvas Hook 提取完整书籍内容为 Markdown"
-  },
-  {
-    "repo": "amplifthq/opentag",
+    "repo": "chu2bard/pinion-os",
     "branch": "main",
     "language": "TypeScript",
-    "description": "Open-source @agent mentions for Slack and GitHub. OpenTag routes tagged requests to Codex, Claude Code, then returns results in thread."
+    "description": "Client SDK, Claude plugin and skill framework for the Pinion protocol. x402 micropayments on Base."
   },
   {
-    "repo": "judder659/Forven",
+    "repo": "OpenMOSS/MOSS-TTS",
     "branch": "main",
     "language": "Python",
-    "description": ""
+    "description": "MOSS‑TTS Family is an open‑source speech and sound generation model family from MOSI.AI and the OpenMOSS team. It is designed for high‑fidelity, high‑expressiveness, and complex real‑world scenarios, covering stable long‑form speech, multi‑speaker dialogue, voice/character design, environmental sound effects, and real‑time streaming TTS."
   },
   {
-    "repo": "BohemiaInteractive/CWR",
+    "repo": "Textualize/rich",
+    "branch": "master",
+    "language": "Python",
+    "description": "Rich is a Python library for rich text and beautiful formatting in the terminal."
+  },
+  {
+    "repo": "sharbelxyz/x-bookmarks",
+    "branch": "main",
+    "language": "Python",
+    "description": "OpenClaw skill: turn your X bookmarks into agent actions. Stop hoarding. Start applying."
+  },
+  {
+    "repo": "FreeCAD/FreeCAD",
     "branch": "main",
     "language": "C++",
-    "description": "Arma: Cold War Assault Remastered Source Code Repository."
+    "description": "Official source code of FreeCAD, a free and opensource multiplatform 3D parametric modeler."
   },
   {
-    "repo": "ma7mod7/Paralives-Ultimate-Trainer-2026_v_2",
+    "repo": "celery/kombu",
     "branch": "main",
     "language": "Python",
-    "description": "Ultimate trainer for Paralives – infinite money, max needs, freeze aging, unlock all items, and more."
+    "description": "Messaging library for Python."
+  },
+  {
+    "repo": "PrefectHQ/prefect",
+    "branch": "main",
+    "language": "Python",
+    "description": "Prefect is a workflow orchestration framework for building resilient data pipelines in Python."
+  },
+  {
+    "repo": "Soul-AILab/SoulX-Singer",
+    "branch": "main",
+    "language": "Python",
+    "description": "Official inference code for SoulX-Singer: Towards High-Quality Zero-Shot Singing Voice Synthesis"
+  },
+  {
+    "repo": "praetorian-inc/augustus",
+    "branch": "main",
+    "language": "Go",
+    "description": "LLM security testing framework for detecting prompt injection, jailbreaks, and adversarial attacks — 190+ probes, 28 providers, single Go binary"
   }
 ]
