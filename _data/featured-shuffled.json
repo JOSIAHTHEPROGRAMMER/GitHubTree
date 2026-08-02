@@ -1,146 +1,146 @@
 [
   {
-    "repo": "dair-ai/ML-Papers-Explained",
-    "branch": "gh-pages",
-    "language": "Other",
-    "description": "Explanation to key concepts in ML"
-  },
-  {
-    "repo": "bytedance/Bernini",
-    "branch": "main",
-    "language": "Python",
-    "description": "Bernini is a unified framework for video generation and editing that combines an MLLM-based semantic planner with a DiT-based renderer."
-  },
-  {
-    "repo": "disintegr8te/teams-policy-export",
-    "branch": "main",
-    "language": "PowerShell",
-    "description": "PowerShell tool to export Microsoft Teams policies and generate stakeholder decision workbooks"
-  },
-  {
-    "repo": "DenAB-NVS/submarine",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "Sovereign, depth-adaptive AI memory. Open source. Local-first. Model-agnostic."
-  },
-  {
-    "repo": "vinhhien112/Three.js-Object-Sculptor-Codex-Plugin",
-    "branch": "main",
-    "language": "Python",
-    "description": "Codex plugin that turns attached object images into code-only, animation-ready procedural Three.js models."
-  },
-  {
-    "repo": "Nightmare-Eclipse/GreenPlasma",
-    "branch": "main",
-    "language": "C++",
-    "description": "GreenPlasma Windows CTFMON Arbitrary Section Creation Elevation of Privileges Vulnerability"
-  },
-  {
-    "repo": "eduwass/tmux-palette",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Raycast-style command palette for tmux — fast, scriptable, easy to extend"
-  },
-  {
-    "repo": "yaassin12/DeepSeek-V4-Pro-App",
-    "branch": "main",
-    "language": "C++",
-    "description": "DeepSeek V4 Pro: Advanced AI desktop app. Features: 1.6T MoE architecture, 1M token context window, Engram memory. Pro coding agent, Think Mode (High/Max), repo-level reasoning, complex bug fixing. Real-time web search, local API key storage, cross-file analysis, low-latency streaming interface."
-  },
-  {
-    "repo": "kunchenguid/autopreso",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "Realtime speech to presentation. Let the whiteboard whiteboard itself."
-  },
-  {
-    "repo": "stormzhang/token-tracker",
+    "repo": "dev-protocol/polymarket-trading-bot-new",
     "branch": "master",
-    "language": "Python",
-    "description": "Track token usage across local AI agents (Claude Code, Codex) — CLI dashboard with cost analysis, rate limit monitoring, and session tracking"
+    "language": "Rust",
+    "description": "Polymarket trading bot,Polymarket trading bot, Polymarket trading bot, Polymarket trading bot, Polymarket trading bot, Polymarket trading bot, Polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot,Polymarket trading bot,Polymarket trading bot, Polymarket trading bot, Polymarket trading bot, Polymarket tradin"
   },
   {
-    "repo": "OpenYSM/OpenYSM",
+    "repo": "CompVis/stable-diffusion",
     "branch": "main",
+    "language": "Jupyter Notebook",
+    "description": "A latent text-to-image diffusion model"
+  },
+  {
+    "repo": "PandoraReads/apex-dashboard",
+    "branch": "main",
+    "language": "CSS",
+    "description": "Stop switching between Obsidian notes. One page. Everything you need. Memo your thoughts, crush your todos, track your projects — and make it look incredible doing it."
+  },
+  {
+    "repo": "khoj-ai/khoj",
+    "branch": "main",
+    "language": "Python",
+    "description": "Your AI second brain. Self-hostable. Get answers from the web or your docs. Build custom agents, schedule automations, do deep research. Turn any online or local LLM into your personal, autonomous AI (gpt, claude, gemini, llama, qwen, mistral). Get started - free."
+  },
+  {
+    "repo": "OpenCV/opencv_contrib",
+    "branch": "4.x",
+    "language": "C++",
+    "description": "Repository for OpenCV's extra modules"
+  },
+  {
+    "repo": "expressjs/express",
+    "branch": "master",
+    "language": "JavaScript",
+    "description": "Fast, unopinionated, minimalist web framework for node."
+  },
+  {
+    "repo": "bumptech/glide",
+    "branch": "master",
     "language": "Java",
-    "description": "Yes-Steve-Model idea ready."
+    "description": "An image loading and caching library for Android focused on smooth scrolling"
   },
   {
-    "repo": "Aladdin-IT/MaaNTE",
+    "repo": "google/googletest",
     "branch": "main",
     "language": "C++",
-    "description": "MaaNTE download Arknights automation assistant daily tasks infrastructure base management recruitment OCR scripts farming resource planner auto-deploy strategy helper open source tool."
+    "description": "GoogleTest - Google Testing and Mocking Framework"
   },
   {
-    "repo": "Snaplii-Inc/agent-to-merchant-payments",
+    "repo": "immich-app/immich",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "High performance self-hosted photo and video management solution."
+  },
+  {
+    "repo": "QwenLM/Qwen3-ASR",
     "branch": "main",
     "language": "Python",
-    "description": "Payments are broken for AI agents.  Snaplii unlocks real-world commerce with a safe, tokenized payment layer — powered by 500+ merchant gift cards — and is the only one that actually saves you money (up to 10% per transaction), on top of any existing deals or promotions."
+    "description": "Qwen3-ASR is an open-source series of ASR models developed by the Qwen team at Alibaba Cloud, supporting stable multilingual speech/music/song recognition, language detection and timestamp prediction."
   },
   {
-    "repo": "FULU-Foundation/OrcaSlicer-bambulab",
+    "repo": "CrewSX/pumpfun-bubblemap-bypass-bundler",
     "branch": "main",
-    "language": "C++",
-    "description": ""
+    "language": "TypeScript",
+    "description": "pumpfun bubblemap bypass bundler is Launch tokens on Pump.fun with zero Bubblemap trace. Zero bundle detection. Maximum stealth."
   },
   {
-    "repo": "TencentARC/Pixal3D",
+    "repo": "ALKAERR/Kali_Hack_Agent",
     "branch": "master",
     "language": "Python",
-    "description": "[SIGGRAPH 2026] Pixal3D: Pixel-Aligned 3D Generation from Images"
+    "description": "一个基于三层 Agent 架构的容器代码执行系统，专门用于在 Kali Linux Docker 容器中安全、自动地执行渗透测试工具。"
   },
   {
-    "repo": "0xMohammedHassan/morphkatz",
-    "branch": "main",
-    "language": "C++",
-    "description": "Polymorphic PE rewriter for Windows x64 , rewrites binaries into semantically identical but byte-different variants"
-  },
-  {
-    "repo": "darkrishabh/agent-skills-eval",
+    "repo": "yasasbanukaofficial/claude-code",
     "branch": "main",
     "language": "TypeScript",
-    "description": "A test runner for agentskills.io-style AI agent skills"
+    "description": "🚀 Open source Claude Code CLI source code. Advanced AI Agent for developers. Includes TypeScript codebase for LLM tool-calling, agentic workflows, and terminal UI. Remember this is just the skeleton not the brain itself. Found by Chaofan Shou."
   },
   {
-    "repo": "jingyaogong/minimind-o",
-    "branch": "master",
+    "repo": "tensorflow/probability",
+    "branch": "main",
+    "language": "Jupyter Notebook",
+    "description": "Probabilistic reasoning and statistical analysis in TensorFlow"
+  },
+  {
+    "repo": "codetrybe/polymarket-copy-trading-bot",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "polymarket copy trading bot polymarket copytrading bot"
+  },
+  {
+    "repo": "dbt-labs/dbt-core",
+    "branch": "main",
     "language": "Python",
-    "description": "🎙️ 「大模型」从0训练0.1B能听能说能看的全模态Omni模型！A 0.1B Omni model trained from scratch, capable of listening, speaking, and seeing!"
+    "description": "dbt enables data analysts and engineers to transform their data using the same practices that software engineers use to build applications."
   },
   {
-    "repo": "amircloner/g2ray",
-    "branch": "main",
-    "language": "Dockerfile",
-    "description": ""
+    "repo": "grpc/grpc",
+    "branch": "master",
+    "language": "C++",
+    "description": "C++ based gRPC (C++, Python, Ruby, Objective-C, PHP, C#)"
   },
   {
-    "repo": "nostrband/ServiceGraph",
-    "branch": "main",
-    "language": "Shell",
-    "description": "AI Agent skills for a structured catalog of 100k+ US professional-services firms"
-  },
-  {
-    "repo": "mrslimslim/gpt-image-canvas",
+    "repo": "openobserve/openobserve",
     "branch": "main",
     "language": "TypeScript",
-    "description": "Local professional AI canvas built with tldraw."
+    "description": "Modern observability platform: 10x easier, 140x lower storage cost, petabyte scale. Open-source alternative to Elasticsearch/Splunk/Datadog for logs, metrics, traces, RUM, and more."
   },
   {
-    "repo": "zzzzshawn/matrix",
+    "repo": "amitshekhariitbhu/ai-engineering-interview-questions",
     "branch": "main",
-    "language": "TypeScript",
-    "description": ""
+    "language": "Markdown",
+    "description": "Your Cheat Sheet for AI Engineering Interview – Questions and Answers."
   },
   {
-    "repo": "GordenSun/CuiMao",
+    "repo": "writetoaniketparihar-collab/claude-spend",
     "branch": "main",
     "language": "HTML",
-    "description": "眼睛跟着鼠标旋转。"
+    "description": ""
   },
   {
-    "repo": "RadianceToadAmend/ARC-Raiders-External-Tool",
+    "repo": "THU-SI/Spatial-TTT",
     "branch": "main",
-    "language": "C++",
-    "description": "External overlay tool for ARC Raiders. UE5 memory reader, entity , radar, performance monitor. D3D11 render, no injection. For offline training purposes only."
+    "language": "Python",
+    "description": "Official Implementation of Spatial-TTT: Streaming Visual-based Spatial Intelligence with Test-Time Training"
+  },
+  {
+    "repo": "Vasco0x4/AIDA",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "AI-Driven Security Assessment - Connect AI to 400+ pentesting tools via MCP"
+  },
+  {
+    "repo": "andyhuo520/openclaw-assistant-mvp",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "OpenClaw Desktop Assistant MVP - Electron-based AI voice assistant with Live2D character animations, real-time speech recognition, and text-to-speech"
+  },
+  {
+    "repo": "chu2bard/pinion-os",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Client SDK, Claude plugin and skill framework for the Pinion protocol. x402 micropayments on Base."
   }
 ]
