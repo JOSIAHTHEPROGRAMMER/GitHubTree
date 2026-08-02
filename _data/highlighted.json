@@ -1,8 +1,8 @@
 {
-  "repo": "shuaiplus/inkstone",
+  "repo": "alexiglad/XM",
   "branch": "main",
-  "language": "TypeScript",
-  "description": "A self-hosted Markdown notebook that runs entirely on Cloudflare Workers.",
-  "stars": 118,
-  "forks": 92
+  "language": "Python",
+  "description": "PyTorch Code for Explorative Modeling: Unlocking a Third Pretraining Axis and End-to-End Generation",
+  "stars": 136,
+  "forks": 6
 }

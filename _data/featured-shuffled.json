@@ -1,146 +1,146 @@
 [
   {
-    "repo": "selfishblackberry177/sni-spoof",
+    "repo": "Veirt/weathr",
+    "branch": "main",
+    "language": "Rust",
+    "description": "a terminal weather app with ascii animation"
+  },
+  {
+    "repo": "khanhduytran0/coruna",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "The leaked exploit toolkit for various iOS versions"
+  },
+  {
+    "repo": "google/zx",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "A tool for writing better scripts"
+  },
+  {
+    "repo": "littlefrogyq/UE4SS-Subnautica-2",
+    "branch": "main",
+    "language": "C++",
+    "description": "UE4SS Subnautica 2: UE4SS download github latest version, Subnautica 2 UE5 mod loader setup, xinput1_4.dll dwmapi.dll injector error. REUE4SS UE4SS-settings.ini config, console modding commands, Subnautica 2 crashes on launch fix, dump SDK C++ blueprints, Live Viewport object spacer, GuiConsole visible toggle. Unreal Engine 5.5 compatibility,"
+  },
+  {
+    "repo": "jenkinsci/jenkins",
+    "branch": "master",
+    "language": "Java",
+    "description": "Jenkins automation server"
+  },
+  {
+    "repo": "SamNet-dev/dnstm-setup",
+    "branch": "master",
+    "language": "Shell",
+    "description": "Interactive setup wizard for dnstm — automated DNS-based network configuration"
+  },
+  {
+    "repo": "hashicorp/consul",
     "branch": "main",
     "language": "Go",
-    "description": "Go port of @patterniha's SNI spoofing / DPI bypass TCP forwarder (Linux)"
+    "description": "Consul is a distributed, highly available, and data center aware solution to connect and configure applications across dynamic, distributed infrastructure."
   },
   {
-    "repo": "lardissone/ansi-saver",
+    "repo": "rails/rails",
     "branch": "main",
-    "language": "Swift",
-    "description": "ANSI art screensaver for macOS — streams art from 16colo.rs BBS archive packs"
+    "language": "Ruby",
+    "description": "Ruby on Rails"
   },
   {
-    "repo": "NoizAI/skills",
+    "repo": "Sir-Scuzza/gluetun-webui",
     "branch": "main",
-    "language": "Shell",
-    "description": "Allow your 🦞 bot to Shout, Speak, with human vibe"
+    "language": "JavaScript",
+    "description": ""
   },
   {
-    "repo": "ghostwright/phantom",
+    "repo": "trumpet-noek/sora2-free-watermark-remover",
+    "branch": "main",
+    "language": "Python",
+    "description": "sora2 free watermark remover"
+  },
+  {
+    "repo": "OpenBMB/MiniCPM-o",
+    "branch": "main",
+    "language": "Python",
+    "description": "MiniCPM-V 4.5: A GPT-4o Level MLLM for Single Image, Multi Image and High-FPS Video Understanding on Your Phone"
+  },
+  {
+    "repo": "geoffreymcgill/react-native-collapsible",
+    "branch": "master",
+    "language": "Other",
+    "description": "Animated collapsible component for React Native, good for accordions, toggles etc"
+  },
+  {
+    "repo": "NVIDIA/cuda-samples",
+    "branch": "master",
+    "language": "C",
+    "description": "Samples for CUDA Developers which demonstrates features in CUDA Toolkit"
+  },
+  {
+    "repo": "Vasco0x4/AIDA",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "AI-Driven Security Assessment - Connect AI to 400+ pentesting tools via MCP"
+  },
+  {
+    "repo": "jarodise/XQuery",
+    "branch": "master",
+    "language": "TypeScript",
+    "description": ""
+  },
+  {
+    "repo": "freestylefly/openclaw-wechat",
+    "branch": "master",
+    "language": "TypeScript",
+    "description": "让 OpenClaw稳定的连上你的个人微信"
+  },
+  {
+    "repo": "f/agentlytics",
+    "branch": "master",
+    "language": "JavaScript",
+    "description": "Comprehensive analytics dashboard for AI coding agents — Cursor, Windsurf, Claude Code, VS Code Copilot, Zed, Antigravity, OpenCode, Command Code"
+  },
+  {
+    "repo": "jimuzhe/tiez-clipboard",
+    "branch": "master",
+    "language": "TypeScript",
+    "description": "TieZ 是一款基于 Tauri 的跨平台剪贴板管理器 / A cross-platform clipboard manager with history, tags, sync, privacy protection, and fast daily workflows."
+  },
+  {
+    "repo": "supermemoryai/clawdbot-supermemory",
     "branch": "main",
     "language": "TypeScript",
-    "description": "An AI co-worker with its own computer. Self-evolving, persistent memory, MCP server, secure credential collection, email identity. Built on the Claude Agent SDK."
+    "description": "Supermemory allows Clawdbot / Molt bot to have PERFECT memory and recall for their own personal agent."
   },
   {
-    "repo": "ultraworkers/claw-code",
+    "repo": "miuda-ai/lele",
     "branch": "main",
     "language": "Rust",
-    "description": "[Notice] The repo temporarily locked while ownership transfer. in the meantime we maintain on here: https://github.com/ultraworkers/claw-code-parity. The fastest repo in history to surpass 100K stars ⭐. Better Harness Tools that make real things done. Built in Rust using oh-my-codex."
+    "description": "Bare-Metal Rust Audio AI Framework"
   },
   {
-    "repo": "aarondfrancis/counselors",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Fan out prompts to multiple AI coding agents in parallel"
-  },
-  {
-    "repo": "wbenny/scfw",
-    "branch": "master",
-    "language": "C++",
-    "description": "A cross-platform C++ framework for building Windows shellcode"
-  },
-  {
-    "repo": "ryan26craf/Hbar-Wallet-Desktop",
-    "branch": "main",
-    "language": "C++",
-    "description": "A secure, open-source desktop wallet for Hedera HBAR cryptocurrency built with C++ and Qt6."
-  },
-  {
-    "repo": "bschoepke/ableton-live-mcp",
-    "branch": "main",
-    "language": "Python",
-    "description": "General-purpose MCP bridge for Ableton Live"
-  },
-  {
-    "repo": "ConardLi/garden-skills",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "ConardLi's open-source Skills collection, featuring web design, knowledge retrieval, image generation, and more."
-  },
-  {
-    "repo": "Rivflyyy/HappyTorch",
-    "branch": "main",
-    "language": "Jupyter Notebook",
-    "description": "A PyTorch coding practice platform — covering LLM, Diffusion, PEFT, and more  A friendly environment to help you deeply understand deep learning components through hands-on practice.  Like LeetCode, but for tensors. Self-hosted. Supports both Jupyter and Web interfaces."
-  },
-  {
-    "repo": "jd-opensource/JoyAI-Image",
-    "branch": "main",
-    "language": "Python",
-    "description": "JoyAI-Image is the unified multimodal foundation model for image understanding, text-to-image generation, and instruction-guided image editing."
-  },
-  {
-    "repo": "russellromney/honker",
-    "branch": "main",
-    "language": "Python",
-    "description": "SQLite extension + bindings for Postgres NOTIFY/LISTEN semantics with durable queues, streams, pub/sub, and scheduler"
-  },
-  {
-    "repo": "AdilMir1433/DBD-AutoGrind-Trainer-2026-Max",
-    "branch": "main",
-    "language": "Python",
-    "description": "Ultimate Dead by Daylight auto-grind trainer Max edition with Bloodpoint bot, ESP wallhack, aimbot, and full perk/skin unlocker. Dominate the Fog with our 2026 undetected external tool."
-  },
-  {
-    "repo": "V-IOLE-T/hotmail-register-extension",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "基于Outlook Email的Chrome扩展：支持OpenAI OAuth古法注册与账号标签管理"
-  },
-  {
-    "repo": "wbh604/UZI-Skill",
-    "branch": "main",
-    "language": "Python",
-    "description": "冰冷的钱就这样流进我的口袋-游资（UZI）Skills — 51位投资大佬帮你看盘 · 22维数据 × 180条量化规则 × 17种机构分析方法 · A股/港股/美股"
-  },
-  {
-    "repo": "mkbula/HideMyData",
-    "branch": "master",
-    "language": "Swift",
-    "description": "Native macOS PII removal software with on device Vision OCR and OpenAI privacy filter model"
-  },
-  {
-    "repo": "connectfarm1/accumulation-radar",
-    "branch": "main",
-    "language": "Python",
-    "description": "🏦 Accumulation Radar — Auto-detect market maker accumulation + OI anomaly + 3-strategy scoring for crypto futures. Pure Python, zero AI cost."
-  },
-  {
-    "repo": "superpilot69/pdf-trad-to-simp-preserve-layout-kit",
-    "branch": "main",
-    "language": "Python",
-    "description": "PDF traditional-to-simplified Chinese conversion kit with layout-preserving scripts, Codex skill, and example source/output PDFs."
-  },
-  {
-    "repo": "loyalpartner/selfsync",
+    "repo": "BurntSushi/xsv",
     "branch": "master",
     "language": "Rust",
-    "description": "Self-hosted Chrome Sync server. 自托管 Chrome 同步服务器 — 书签、密码、偏好等浏览器数据留在本地，不经过 Google"
+    "description": "A fast CSV command line toolkit written in Rust."
   },
   {
-    "repo": "xsawyerx/curl-doom",
+    "repo": "vercel/ai-chatbot-svelte",
     "branch": "main",
-    "language": "JavaScript",
-    "description": "DOOM, played over cURL"
+    "language": "Svelte",
+    "description": "A full-featured, hackable SvelteKit AI chatbot built by Vercel"
   },
   {
-    "repo": "andrewjiang/palantir-for-family-trips",
+    "repo": "run-bigpig/jcp",
     "branch": "master",
+    "language": "Go",
+    "description": "韭菜盘 (JCP AI) - AI 驱动的智能股票分析系统，基于 Wails + Go + React，支持多 Agent 协作分析"
+  },
+  {
+    "repo": "wiedymi/restty",
+    "branch": "main",
     "language": "JavaScript",
-    "description": "A Palantir-ish dashboard for family trip planning."
-  },
-  {
-    "repo": "patterniha/SNI-Spoofing",
-    "branch": "main",
-    "language": "Python",
-    "description": "Bypass DPI with IP/TCP-Header manipulation"
-  },
-  {
-    "repo": "dezgit2025/auto-memory",
-    "branch": "main",
-    "language": "Python",
-    "description": "Your AI coding agent never forgets — progressive session recall CLI"
+    "description": "Powerful, lightweight web terminal. Batteries included. Powered by libghostty-vt, WebGPU, and text-shaper."
   }
 ]
