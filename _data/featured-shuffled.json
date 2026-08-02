@@ -1,146 +1,146 @@
 [
   {
-    "repo": "Yu9191/sub-store-workers",
+    "repo": "selfishblackberry177/sni-spoof",
     "branch": "main",
-    "language": "JavaScript",
-    "description": "Sub-Store 后端 Cloudflare Workers/Pages 移植版"
-  },
-  {
-    "repo": "yarnpkg/berry",
-    "branch": "master",
-    "language": "TypeScript",
-    "description": "📦🐈 Active development trunk for Yarn ⚒"
-  },
-  {
-    "repo": "antonmedv/fx",
-    "branch": "master",
     "language": "Go",
-    "description": "Terminal JSON viewer & processor"
+    "description": "Go port of @patterniha's SNI spoofing / DPI bypass TCP forwarder (Linux)"
   },
   {
-    "repo": "3-JonWallis1993/HyperLiquid-Claw",
+    "repo": "lardissone/ansi-saver",
+    "branch": "main",
+    "language": "Swift",
+    "description": "ANSI art screensaver for macOS — streams art from 16colo.rs BBS archive packs"
+  },
+  {
+    "repo": "NoizAI/skills",
+    "branch": "main",
+    "language": "Shell",
+    "description": "Allow your 🦞 bot to Shout, Speak, with human vibe"
+  },
+  {
+    "repo": "ghostwright/phantom",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "An AI co-worker with its own computer. Self-evolving, persistent memory, MCP server, secure credential collection, email identity. Built on the Claude Agent SDK."
+  },
+  {
+    "repo": "ultraworkers/claw-code",
     "branch": "main",
     "language": "Rust",
-    "description": ""
+    "description": "[Notice] The repo temporarily locked while ownership transfer. in the meantime we maintain on here: https://github.com/ultraworkers/claw-code-parity. The fastest repo in history to surpass 100K stars ⭐. Better Harness Tools that make real things done. Built in Rust using oh-my-codex."
   },
   {
-    "repo": "liuup/claude-code-analysis",
+    "repo": "aarondfrancis/counselors",
     "branch": "main",
     "language": "TypeScript",
-    "description": "The analysis of Claude Code"
+    "description": "Fan out prompts to multiple AI coding agents in parallel"
   },
   {
-    "repo": "hmmhmmhm/daiso-mcp",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "내 주변 다이소/올리브영 매장을 찾고, 재고를 확인하는 기능을 AI에게 부여합니다."
-  },
-  {
-    "repo": "pmndrs/zustand",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "🐻 Bear necessities for state management in React"
-  },
-  {
-    "repo": "fjh1997/Linux.do-Accelerator",
-    "branch": "main",
-    "language": "Rust",
-    "description": "一个原生 Rust 的 linux.do 专属加速器，基于本地 ECH/DoH 处理，支持 CLI + 桌面 GUI。 Native Rust accelerator for linux.do with local ECH/DoH-assisted access, CLI + desktop GUI."
-  },
-  {
-    "repo": "formik/formik",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Build forms in React, without the tears 😭"
-  },
-  {
-    "repo": "actions/setup-node",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Set up your GitHub Actions workflow with a specific version of node.js"
-  },
-  {
-    "repo": "newrelic/newrelic-java-agent",
-    "branch": "main",
-    "language": "Java",
-    "description": "The New Relic Java agent"
-  },
-  {
-    "repo": "nektos/act",
+    "repo": "wbenny/scfw",
     "branch": "master",
-    "language": "Go",
-    "description": "Run your GitHub Actions locally 🚀"
+    "language": "C++",
+    "description": "A cross-platform C++ framework for building Windows shellcode"
   },
   {
-    "repo": "SamuelQZQ/auto-coding-agent-demo",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "一个长达 10 小时的 AI 全自动编程实验"
-  },
-  {
-    "repo": "google-research/google-research",
-    "branch": "master",
-    "language": "Jupyter Notebook",
-    "description": "Google Research"
-  },
-  {
-    "repo": "openai/sora-prompt-engineering-guide",
-    "branch": "main",
-    "language": "Other",
-    "description": "Guide for prompt engineering for video generation with Sora."
-  },
-  {
-    "repo": "microsoft/calculator",
+    "repo": "ryan26craf/Hbar-Wallet-Desktop",
     "branch": "main",
     "language": "C++",
-    "description": "Windows Calculator: A simple yet powerful calculator that ships with Windows"
+    "description": "A secure, open-source desktop wallet for Hedera HBAR cryptocurrency built with C++ and Qt6."
   },
   {
-    "repo": "okooo5km/Skills4U",
-    "branch": "main",
-    "language": "TeX",
-    "description": "Skills here"
-  },
-  {
-    "repo": "spool-lab/spool",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "The missing search engine for your own data."
-  },
-  {
-    "repo": "TanStack/table",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "🤖 Headless UI for building powerful tables & datagrids for TS/JS -  React-Table, Vue-Table, Solid-Table, Svelte-Table"
-  },
-  {
-    "repo": "deltatrader01/Polymarket-Trading-Bot",
+    "repo": "bschoepke/ableton-live-mcp",
     "branch": "main",
     "language": "Python",
-    "description": "Polymarket arbitrage trading bot that detects inefficiencies in 5-minute, 15-minute, and 1-hour markets. polymarket arbitrage trading bot polymarket arbitrage bot polymarket arbitrage bot polymarket arbitrage bot polymarket arbitrage bot polymarket arbitrage bot polymarket arbitrage bot"
+    "description": "General-purpose MCP bridge for Ableton Live"
   },
   {
-    "repo": "google-deepmind/alphageometry",
+    "repo": "ConardLi/garden-skills",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "ConardLi's open-source Skills collection, featuring web design, knowledge retrieval, image generation, and more."
+  },
+  {
+    "repo": "Rivflyyy/HappyTorch",
+    "branch": "main",
+    "language": "Jupyter Notebook",
+    "description": "A PyTorch coding practice platform — covering LLM, Diffusion, PEFT, and more  A friendly environment to help you deeply understand deep learning components through hands-on practice.  Like LeetCode, but for tensors. Self-hosted. Supports both Jupyter and Web interfaces."
+  },
+  {
+    "repo": "jd-opensource/JoyAI-Image",
     "branch": "main",
     "language": "Python",
-    "description": "Solving olympiad geometry without human demonstrations."
+    "description": "JoyAI-Image is the unified multimodal foundation model for image understanding, text-to-image generation, and instruction-guided image editing."
   },
   {
-    "repo": "tasmirz/jagoo-bahee",
+    "repo": "russellromney/honker",
     "branch": "main",
-    "language": "TypeScript",
-    "description": ""
+    "language": "Python",
+    "description": "SQLite extension + bindings for Postgres NOTIFY/LISTEN semantics with durable queues, streams, pub/sub, and scheduler"
   },
   {
-    "repo": "Momciloo/fun-with-clip-path",
+    "repo": "AdilMir1433/DBD-AutoGrind-Trainer-2026-Max",
     "branch": "main",
-    "language": "CSS",
-    "description": ""
+    "language": "Python",
+    "description": "Ultimate Dead by Daylight auto-grind trainer Max edition with Bloodpoint bot, ESP wallhack, aimbot, and full perk/skin unlocker. Dominate the Fog with our 2026 undetected external tool."
   },
   {
-    "repo": "chrisryugj/kordoc",
+    "repo": "V-IOLE-T/hotmail-register-extension",
     "branch": "main",
-    "language": "TypeScript",
-    "description": "모두 파싱해버리겠다 — HWP/HWPX/PDF → Markdown | npm · CLI · MCP Server"
+    "language": "JavaScript",
+    "description": "基于Outlook Email的Chrome扩展：支持OpenAI OAuth古法注册与账号标签管理"
+  },
+  {
+    "repo": "wbh604/UZI-Skill",
+    "branch": "main",
+    "language": "Python",
+    "description": "冰冷的钱就这样流进我的口袋-游资（UZI）Skills — 51位投资大佬帮你看盘 · 22维数据 × 180条量化规则 × 17种机构分析方法 · A股/港股/美股"
+  },
+  {
+    "repo": "mkbula/HideMyData",
+    "branch": "master",
+    "language": "Swift",
+    "description": "Native macOS PII removal software with on device Vision OCR and OpenAI privacy filter model"
+  },
+  {
+    "repo": "connectfarm1/accumulation-radar",
+    "branch": "main",
+    "language": "Python",
+    "description": "🏦 Accumulation Radar — Auto-detect market maker accumulation + OI anomaly + 3-strategy scoring for crypto futures. Pure Python, zero AI cost."
+  },
+  {
+    "repo": "superpilot69/pdf-trad-to-simp-preserve-layout-kit",
+    "branch": "main",
+    "language": "Python",
+    "description": "PDF traditional-to-simplified Chinese conversion kit with layout-preserving scripts, Codex skill, and example source/output PDFs."
+  },
+  {
+    "repo": "loyalpartner/selfsync",
+    "branch": "master",
+    "language": "Rust",
+    "description": "Self-hosted Chrome Sync server. 自托管 Chrome 同步服务器 — 书签、密码、偏好等浏览器数据留在本地，不经过 Google"
+  },
+  {
+    "repo": "xsawyerx/curl-doom",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "DOOM, played over cURL"
+  },
+  {
+    "repo": "andrewjiang/palantir-for-family-trips",
+    "branch": "master",
+    "language": "JavaScript",
+    "description": "A Palantir-ish dashboard for family trip planning."
+  },
+  {
+    "repo": "patterniha/SNI-Spoofing",
+    "branch": "main",
+    "language": "Python",
+    "description": "Bypass DPI with IP/TCP-Header manipulation"
+  },
+  {
+    "repo": "dezgit2025/auto-memory",
+    "branch": "main",
+    "language": "Python",
+    "description": "Your AI coding agent never forgets — progressive session recall CLI"
   }
 ]
