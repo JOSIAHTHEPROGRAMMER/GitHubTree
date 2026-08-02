@@ -1,146 +1,146 @@
 [
   {
-    "repo": "dev-protocol/polymarket-trading-bot-new",
-    "branch": "master",
-    "language": "Rust",
-    "description": "Polymarket trading bot,Polymarket trading bot, Polymarket trading bot, Polymarket trading bot, Polymarket trading bot, Polymarket trading bot, Polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot,Polymarket trading bot,Polymarket trading bot, Polymarket trading bot, Polymarket trading bot, Polymarket tradin"
-  },
-  {
-    "repo": "CompVis/stable-diffusion",
+    "repo": "Yu9191/sub-store-workers",
     "branch": "main",
-    "language": "Jupyter Notebook",
-    "description": "A latent text-to-image diffusion model"
-  },
-  {
-    "repo": "PandoraReads/apex-dashboard",
-    "branch": "main",
-    "language": "CSS",
-    "description": "Stop switching between Obsidian notes. One page. Everything you need. Memo your thoughts, crush your todos, track your projects — and make it look incredible doing it."
-  },
-  {
-    "repo": "khoj-ai/khoj",
-    "branch": "main",
-    "language": "Python",
-    "description": "Your AI second brain. Self-hostable. Get answers from the web or your docs. Build custom agents, schedule automations, do deep research. Turn any online or local LLM into your personal, autonomous AI (gpt, claude, gemini, llama, qwen, mistral). Get started - free."
-  },
-  {
-    "repo": "OpenCV/opencv_contrib",
-    "branch": "4.x",
-    "language": "C++",
-    "description": "Repository for OpenCV's extra modules"
-  },
-  {
-    "repo": "expressjs/express",
-    "branch": "master",
     "language": "JavaScript",
-    "description": "Fast, unopinionated, minimalist web framework for node."
+    "description": "Sub-Store 后端 Cloudflare Workers/Pages 移植版"
   },
   {
-    "repo": "bumptech/glide",
+    "repo": "yarnpkg/berry",
     "branch": "master",
-    "language": "Java",
-    "description": "An image loading and caching library for Android focused on smooth scrolling"
-  },
-  {
-    "repo": "google/googletest",
-    "branch": "main",
-    "language": "C++",
-    "description": "GoogleTest - Google Testing and Mocking Framework"
-  },
-  {
-    "repo": "immich-app/immich",
-    "branch": "main",
     "language": "TypeScript",
-    "description": "High performance self-hosted photo and video management solution."
+    "description": "📦🐈 Active development trunk for Yarn ⚒"
   },
   {
-    "repo": "QwenLM/Qwen3-ASR",
-    "branch": "main",
-    "language": "Python",
-    "description": "Qwen3-ASR is an open-source series of ASR models developed by the Qwen team at Alibaba Cloud, supporting stable multilingual speech/music/song recognition, language detection and timestamp prediction."
-  },
-  {
-    "repo": "CrewSX/pumpfun-bubblemap-bypass-bundler",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "pumpfun bubblemap bypass bundler is Launch tokens on Pump.fun with zero Bubblemap trace. Zero bundle detection. Maximum stealth."
-  },
-  {
-    "repo": "ALKAERR/Kali_Hack_Agent",
+    "repo": "antonmedv/fx",
     "branch": "master",
-    "language": "Python",
-    "description": "一个基于三层 Agent 架构的容器代码执行系统，专门用于在 Kali Linux Docker 容器中安全、自动地执行渗透测试工具。"
+    "language": "Go",
+    "description": "Terminal JSON viewer & processor"
   },
   {
-    "repo": "yasasbanukaofficial/claude-code",
+    "repo": "3-JonWallis1993/HyperLiquid-Claw",
     "branch": "main",
-    "language": "TypeScript",
-    "description": "🚀 Open source Claude Code CLI source code. Advanced AI Agent for developers. Includes TypeScript codebase for LLM tool-calling, agentic workflows, and terminal UI. Remember this is just the skeleton not the brain itself. Found by Chaofan Shou."
-  },
-  {
-    "repo": "tensorflow/probability",
-    "branch": "main",
-    "language": "Jupyter Notebook",
-    "description": "Probabilistic reasoning and statistical analysis in TensorFlow"
-  },
-  {
-    "repo": "codetrybe/polymarket-copy-trading-bot",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "polymarket copy trading bot polymarket copytrading bot"
-  },
-  {
-    "repo": "dbt-labs/dbt-core",
-    "branch": "main",
-    "language": "Python",
-    "description": "dbt enables data analysts and engineers to transform their data using the same practices that software engineers use to build applications."
-  },
-  {
-    "repo": "grpc/grpc",
-    "branch": "master",
-    "language": "C++",
-    "description": "C++ based gRPC (C++, Python, Ruby, Objective-C, PHP, C#)"
-  },
-  {
-    "repo": "openobserve/openobserve",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Modern observability platform: 10x easier, 140x lower storage cost, petabyte scale. Open-source alternative to Elasticsearch/Splunk/Datadog for logs, metrics, traces, RUM, and more."
-  },
-  {
-    "repo": "amitshekhariitbhu/ai-engineering-interview-questions",
-    "branch": "main",
-    "language": "Markdown",
-    "description": "Your Cheat Sheet for AI Engineering Interview – Questions and Answers."
-  },
-  {
-    "repo": "writetoaniketparihar-collab/claude-spend",
-    "branch": "main",
-    "language": "HTML",
+    "language": "Rust",
     "description": ""
   },
   {
-    "repo": "THU-SI/Spatial-TTT",
-    "branch": "main",
-    "language": "Python",
-    "description": "Official Implementation of Spatial-TTT: Streaming Visual-based Spatial Intelligence with Test-Time Training"
-  },
-  {
-    "repo": "Vasco0x4/AIDA",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "AI-Driven Security Assessment - Connect AI to 400+ pentesting tools via MCP"
-  },
-  {
-    "repo": "andyhuo520/openclaw-assistant-mvp",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "OpenClaw Desktop Assistant MVP - Electron-based AI voice assistant with Live2D character animations, real-time speech recognition, and text-to-speech"
-  },
-  {
-    "repo": "chu2bard/pinion-os",
+    "repo": "liuup/claude-code-analysis",
     "branch": "main",
     "language": "TypeScript",
-    "description": "Client SDK, Claude plugin and skill framework for the Pinion protocol. x402 micropayments on Base."
+    "description": "The analysis of Claude Code"
+  },
+  {
+    "repo": "hmmhmmhm/daiso-mcp",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "내 주변 다이소/올리브영 매장을 찾고, 재고를 확인하는 기능을 AI에게 부여합니다."
+  },
+  {
+    "repo": "pmndrs/zustand",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "🐻 Bear necessities for state management in React"
+  },
+  {
+    "repo": "fjh1997/Linux.do-Accelerator",
+    "branch": "main",
+    "language": "Rust",
+    "description": "一个原生 Rust 的 linux.do 专属加速器，基于本地 ECH/DoH 处理，支持 CLI + 桌面 GUI。 Native Rust accelerator for linux.do with local ECH/DoH-assisted access, CLI + desktop GUI."
+  },
+  {
+    "repo": "formik/formik",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Build forms in React, without the tears 😭"
+  },
+  {
+    "repo": "actions/setup-node",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Set up your GitHub Actions workflow with a specific version of node.js"
+  },
+  {
+    "repo": "newrelic/newrelic-java-agent",
+    "branch": "main",
+    "language": "Java",
+    "description": "The New Relic Java agent"
+  },
+  {
+    "repo": "nektos/act",
+    "branch": "master",
+    "language": "Go",
+    "description": "Run your GitHub Actions locally 🚀"
+  },
+  {
+    "repo": "SamuelQZQ/auto-coding-agent-demo",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "一个长达 10 小时的 AI 全自动编程实验"
+  },
+  {
+    "repo": "google-research/google-research",
+    "branch": "master",
+    "language": "Jupyter Notebook",
+    "description": "Google Research"
+  },
+  {
+    "repo": "openai/sora-prompt-engineering-guide",
+    "branch": "main",
+    "language": "Other",
+    "description": "Guide for prompt engineering for video generation with Sora."
+  },
+  {
+    "repo": "microsoft/calculator",
+    "branch": "main",
+    "language": "C++",
+    "description": "Windows Calculator: A simple yet powerful calculator that ships with Windows"
+  },
+  {
+    "repo": "okooo5km/Skills4U",
+    "branch": "main",
+    "language": "TeX",
+    "description": "Skills here"
+  },
+  {
+    "repo": "spool-lab/spool",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "The missing search engine for your own data."
+  },
+  {
+    "repo": "TanStack/table",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "🤖 Headless UI for building powerful tables & datagrids for TS/JS -  React-Table, Vue-Table, Solid-Table, Svelte-Table"
+  },
+  {
+    "repo": "deltatrader01/Polymarket-Trading-Bot",
+    "branch": "main",
+    "language": "Python",
+    "description": "Polymarket arbitrage trading bot that detects inefficiencies in 5-minute, 15-minute, and 1-hour markets. polymarket arbitrage trading bot polymarket arbitrage bot polymarket arbitrage bot polymarket arbitrage bot polymarket arbitrage bot polymarket arbitrage bot polymarket arbitrage bot"
+  },
+  {
+    "repo": "google-deepmind/alphageometry",
+    "branch": "main",
+    "language": "Python",
+    "description": "Solving olympiad geometry without human demonstrations."
+  },
+  {
+    "repo": "tasmirz/jagoo-bahee",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": ""
+  },
+  {
+    "repo": "Momciloo/fun-with-clip-path",
+    "branch": "main",
+    "language": "CSS",
+    "description": ""
+  },
+  {
+    "repo": "chrisryugj/kordoc",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "모두 파싱해버리겠다 — HWP/HWPX/PDF → Markdown | npm · CLI · MCP Server"
   }
 ]
