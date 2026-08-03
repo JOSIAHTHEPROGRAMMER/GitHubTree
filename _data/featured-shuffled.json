@@ -1,146 +1,146 @@
 [
   {
-    "repo": "Veirt/weathr",
+    "repo": "antonpk1/excalidraw-mcp-app",
     "branch": "main",
-    "language": "Rust",
-    "description": "a terminal weather app with ascii animation"
+    "language": "TypeScript",
+    "description": "Excalidraw MCP App Server — hand-drawn diagrams for Claude"
   },
   {
-    "repo": "khanhduytran0/coruna",
+    "repo": "opentokenz/mcpx",
     "branch": "main",
-    "language": "JavaScript",
-    "description": "The leaked exploit toolkit for various iOS versions"
+    "language": "Go",
+    "description": "MCPX 是运行在开发环境中的 MCP Runtime（网关）。ChatGPT、Claude、Cursor、Grok 及其他支持 Streamable HTTP 的 MCP 客户端，可以通过统一工具面理解项目、查看 Unified Diff、修改源码、运行任务、采集环境信息，并调用本地 MCP 与 Skill。"
   },
   {
-    "repo": "google/zx",
+    "repo": "facebook/docusaurus",
     "branch": "main",
-    "language": "JavaScript",
-    "description": "A tool for writing better scripts"
+    "language": "TypeScript",
+    "description": "Easy to maintain open source documentation websites."
   },
   {
-    "repo": "littlefrogyq/UE4SS-Subnautica-2",
+    "repo": "Anarkh-Lee/universal-db-mcp",
     "branch": "main",
-    "language": "C++",
-    "description": "UE4SS Subnautica 2: UE4SS download github latest version, Subnautica 2 UE5 mod loader setup, xinput1_4.dll dwmapi.dll injector error. REUE4SS UE4SS-settings.ini config, console modding commands, Subnautica 2 crashes on launch fix, dump SDK C++ blueprints, Live Viewport object spacer, GuiConsole visible toggle. Unreal Engine 5.5 compatibility,"
+    "language": "TypeScript",
+    "description": "MCP 数据库万能连接器：使用支持MCP服务协议的工具（例如：Claude Desktop、Cherry Studio等）直接连接你的数据库，用自然语言查询和分析数据"
   },
   {
-    "repo": "jenkinsci/jenkins",
-    "branch": "master",
-    "language": "Java",
-    "description": "Jenkins automation server"
+    "repo": "photon-hq/qclaw-wechat-client",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Reverse-engineered TypeScript client for QClaw's WeChat Access API."
   },
   {
-    "repo": "SamNet-dev/dnstm-setup",
-    "branch": "master",
+    "repo": "antfu/skills-npm",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Install agent skills from npm"
+  },
+  {
+    "repo": "behzadea12/Paqet-Tunnel-Manager",
+    "branch": "main",
     "language": "Shell",
-    "description": "Interactive setup wizard for dnstm — automated DNS-based network configuration"
+    "description": "Management script for paqet: raw socket KCP-based tunnel for firewall/DPI bypass. Supports kharej server and Iran client configurations."
   },
   {
-    "repo": "hashicorp/consul",
+    "repo": "depthsecurity/RelayKing-Depth",
+    "branch": "master",
+    "language": "Python",
+    "description": "Dominate the domain. Relay to royalty."
+  },
+  {
+    "repo": "ory/oathkeeper",
+    "branch": "master",
+    "language": "Go",
+    "description": "A cloud native Identity & Access Proxy / API (IAP) and Access Control Decision API that authenticates, authorizes, and mutates incoming HTTP(s) requests. Inspired by the BeyondCorp / Zero Trust white paper. Written in Go."
+  },
+  {
+    "repo": "EurekaClaw/EurekaClaw",
+    "branch": "main",
+    "language": "Python",
+    "description": "The official repo of EurekaClaw"
+  },
+  {
+    "repo": "HumeAI/tada",
+    "branch": "main",
+    "language": "Jupyter Notebook",
+    "description": "Open Source Speech Language Model"
+  },
+  {
+    "repo": "istio/istio",
+    "branch": "master",
+    "language": "Go",
+    "description": "Connect, secure, control, and observe services."
+  },
+  {
+    "repo": "stellarlinkco/myclaw",
     "branch": "main",
     "language": "Go",
-    "description": "Consul is a distributed, highly available, and data center aware solution to connect and configure applications across dynamic, distributed infrastructure."
-  },
-  {
-    "repo": "rails/rails",
-    "branch": "main",
-    "language": "Ruby",
-    "description": "Ruby on Rails"
-  },
-  {
-    "repo": "Sir-Scuzza/gluetun-webui",
-    "branch": "main",
-    "language": "JavaScript",
     "description": ""
   },
   {
-    "repo": "trumpet-noek/sora2-free-watermark-remover",
+    "repo": "edgedb/edgedb",
+    "branch": "master",
+    "language": "Python",
+    "description": "Gel supercharges Postgres with a modern data model, graph queries, Auth & AI solutions, and much more."
+  },
+  {
+    "repo": "Flowseal/tg-ws-proxy",
     "branch": "main",
     "language": "Python",
-    "description": "sora2 free watermark remover"
+    "description": "Local SOCKS5 proxy server for partial bypassing of Telegram loading"
   },
   {
-    "repo": "OpenBMB/MiniCPM-o",
+    "repo": "bottlerocket-os/bottlerocket",
+    "branch": "develop",
+    "language": "Rust",
+    "description": "An operating system designed for hosting containers"
+  },
+  {
+    "repo": "dashersw/gea",
     "branch": "main",
-    "language": "Python",
-    "description": "MiniCPM-V 4.5: A GPT-4o Level MLLM for Single Image, Multi Image and High-FPS Video Understanding on Your Phone"
-  },
-  {
-    "repo": "geoffreymcgill/react-native-collapsible",
-    "branch": "master",
-    "language": "Other",
-    "description": "Animated collapsible component for React Native, good for accordions, toggles etc"
-  },
-  {
-    "repo": "NVIDIA/cuda-samples",
-    "branch": "master",
-    "language": "C",
-    "description": "Samples for CUDA Developers which demonstrates features in CUDA Toolkit"
-  },
-  {
-    "repo": "Vasco0x4/AIDA",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "AI-Driven Security Assessment - Connect AI to 400+ pentesting tools via MCP"
-  },
-  {
-    "repo": "jarodise/XQuery",
-    "branch": "master",
     "language": "TypeScript",
     "description": ""
   },
   {
-    "repo": "freestylefly/openclaw-wechat",
-    "branch": "master",
-    "language": "TypeScript",
-    "description": "让 OpenClaw稳定的连上你的个人微信"
-  },
-  {
-    "repo": "f/agentlytics",
-    "branch": "master",
+    "repo": "LedgerHQ/ledger-live",
+    "branch": "develop",
     "language": "JavaScript",
-    "description": "Comprehensive analytics dashboard for AI coding agents — Cursor, Windsurf, Claude Code, VS Code Copilot, Zed, Antigravity, OpenCode, Command Code"
+    "description": "Mono-repository for packages related to Ledger Live and its JavaScript ecosystem."
   },
   {
-    "repo": "jimuzhe/tiez-clipboard",
-    "branch": "master",
-    "language": "TypeScript",
-    "description": "TieZ 是一款基于 Tauri 的跨平台剪贴板管理器 / A cross-platform clipboard manager with history, tags, sync, privacy protection, and fast daily workflows."
-  },
-  {
-    "repo": "supermemoryai/clawdbot-supermemory",
+    "repo": "K-Dense-AI/k-dense-byok",
     "branch": "main",
     "language": "TypeScript",
-    "description": "Supermemory allows Clawdbot / Molt bot to have PERFECT memory and recall for their own personal agent."
+    "description": "An AI co-scientist powered by Claude Scientific Skills running on your desktop."
   },
   {
-    "repo": "miuda-ai/lele",
+    "repo": "RhysSullivan/nextjs-mobile-app-template",
     "branch": "main",
-    "language": "Rust",
-    "description": "Bare-Metal Rust Audio AI Framework"
+    "language": "TypeScript",
+    "description": ""
   },
   {
-    "repo": "BurntSushi/xsv",
+    "repo": "docker/awesome-compose",
     "branch": "master",
-    "language": "Rust",
-    "description": "A fast CSV command line toolkit written in Rust."
+    "language": "HTML",
+    "description": "Awesome Docker Compose samples"
   },
   {
-    "repo": "vercel/ai-chatbot-svelte",
+    "repo": "wy51ai/moltbotCNAPP",
     "branch": "main",
-    "language": "Svelte",
-    "description": "A full-featured, hackable SvelteKit AI chatbot built by Vercel"
-  },
-  {
-    "repo": "run-bigpig/jcp",
-    "branch": "master",
     "language": "Go",
-    "description": "韭菜盘 (JCP AI) - AI 驱动的智能股票分析系统，基于 Wails + Go + React，支持多 Agent 协作分析"
+    "description": ""
   },
   {
-    "repo": "wiedymi/restty",
+    "repo": "SethGammon/Citadel",
     "branch": "main",
     "language": "JavaScript",
-    "description": "Powerful, lightweight web terminal. Batteries included. Powered by libghostty-vt, WebGPU, and text-shaper."
+    "description": "Agent orchestration harness for Claude Code. Four-tier routing (/do), campaign persistence across sessions, parallel agents in isolated worktrees, discovery relay between waves, lifecycle hooks, circuit breaker, and 6 production-quality skills. From solo developer to institutional scale."
+  },
+  {
+    "repo": "fjh1997/Linux.do-Accelerator",
+    "branch": "main",
+    "language": "Rust",
+    "description": "一个原生 Rust 的 linux.do 专属加速器，基于本地 ECH/DoH 处理，支持 CLI + 桌面 GUI。 Native Rust accelerator for linux.do with local ECH/DoH-assisted access, CLI + desktop GUI."
   }
 ]
