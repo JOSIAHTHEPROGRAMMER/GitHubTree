@@ -1,146 +1,146 @@
 [
   {
-    "repo": "zoyluoblue/mc_aiplayer",
+    "repo": "alibaba/landmark-tokenized-dit",
     "branch": "main",
+    "language": "Python",
+    "description": "Official repository for paper LaTo: Landmark-tokenized Diffusion Transformer for Fine-grained Human Face Editing"
+  },
+  {
+    "repo": "Hassanjan49/File_Association_Manager",
+    "branch": "main",
+    "language": "Python",
+    "description": "Manage file associations: choose which program opens each file type. Reset or change associations easily. Fix broken file associations."
+  },
+  {
+    "repo": "syncthing/syncthing",
+    "branch": "main",
+    "language": "Go",
+    "description": "Open Source Continuous File Synchronization"
+  },
+  {
+    "repo": "google/ExoPlayer",
+    "branch": "release-v2",
     "language": "Java",
-    "description": ""
+    "description": "This project is deprecated and stale. The latest ExoPlayer code is available in https://github.com/androidx/media"
   },
   {
-    "repo": "steipete/birdclaw",
+    "repo": "prisma/prisma",
     "branch": "main",
     "language": "TypeScript",
-    "description": "Stores all your tweets nicely claw-able for agents."
+    "description": "Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server, SQLite, MongoDB and CockroachDB"
   },
   {
-    "repo": "django/django",
+    "repo": "tldev/posturr",
     "branch": "main",
-    "language": "Python",
-    "description": "The Web framework for perfectionists with deadlines."
+    "language": "Swift",
+    "description": "A macOS app that blurs your screen when you slouch. Uses Vision framework for real-time posture detection."
   },
   {
-    "repo": "matteyeux/coruna",
-    "branch": "main",
-    "language": "Python",
-    "description": "deobfuscated JS and blobs from https://b27[.]icu, first attempt at using claude"
-  },
-  {
-    "repo": "tonyqinatcmu/SlideBot-AI",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "🎨 SlideBot AI - AI-Powered Presentation Generator"
-  },
-  {
-    "repo": "panyiwei-home/Freedeck",
-    "branch": "main",
-    "language": "Python",
-    "description": "学习版游戏一站式平台"
-  },
-  {
-    "repo": "aligfellow/xyzrender",
-    "branch": "main",
-    "language": "Python",
-    "description": "Publication-quality molecular graphics from the command line."
-  },
-  {
-    "repo": "plotly/plotly.js",
+    "repo": "dappuniversity/starter_kit",
     "branch": "master",
     "language": "JavaScript",
-    "description": "Open-source JavaScript charting library behind Plotly and Dash"
+    "description": "Start building full stack dApps fast with this starter kit!"
   },
   {
-    "repo": "sebastianvkl/pizero-openclaw",
-    "branch": "main",
-    "language": "Python",
-    "description": ""
-  },
-  {
-    "repo": "elder-plinius/GLOSSOPETRAE",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "LINGUISTIC ENGINE FOR AI"
-  },
-  {
-    "repo": "status-im/nimbus-eth2",
-    "branch": "stable",
-    "language": "Nim",
-    "description": "Nim implementation of the Ethereum Beacon Chain"
-  },
-  {
-    "repo": "google/guava",
+    "repo": "istio/istio",
     "branch": "master",
-    "language": "Java",
-    "description": "Google core libraries for Java"
+    "language": "Go",
+    "description": "Connect, secure, control, and observe services."
   },
   {
-    "repo": "1Panel-dev/MaxKB",
-    "branch": "main",
-    "language": "Python",
-    "description": "🔥 MaxKB is an open-source platform for building enterprise-grade agents.  强大易用的开源企业级智能体平台。"
-  },
-  {
-    "repo": "yangdongchao/UniAudio2",
-    "branch": "main",
-    "language": "Python",
-    "description": "UniAudio 2.0: An audio fundation model for text, speech, sound, and music"
-  },
-  {
-    "repo": "avbiswas/fast-rlm",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Recursive Language Models (https://arxiv.org/abs/2512.24601)"
-  },
-  {
-    "repo": "bregman-arie/devops-exercises",
-    "branch": "master",
-    "language": "Python",
-    "description": "Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions"
-  },
-  {
-    "repo": "ckckck/UltimateSearchSkill",
-    "branch": "main",
-    "language": "Shell",
-    "description": "Dual-engine web search Skill for OpenClaw/Pi: Grok AI + Tavily + FireCrawl"
-  },
-  {
-    "repo": "depreciating/DoodleCloud",
-    "branch": "main",
-    "language": "Python",
-    "description": "Cloud Storage using Instagram."
-  },
-  {
-    "repo": "deepseek-ai/DeepSeek-V3",
-    "branch": "main",
-    "language": "Python",
-    "description": "Vision-language models from DeepSeek research."
-  },
-  {
-    "repo": "vercel-labs/webreel",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Record scripted browser demos as video"
-  },
-  {
-    "repo": "ant-design/ant-design",
+    "repo": "supabase/supabase",
     "branch": "master",
     "language": "TypeScript",
-    "description": "An enterprise-class UI design language and React UI library"
+    "description": "The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications."
   },
   {
-    "repo": "pallets/werkzeug",
-    "branch": "main",
-    "language": "Python",
-    "description": "The comprehensive WSGI web application library."
+    "repo": "bitcoin/bitcoin",
+    "branch": "master",
+    "language": "C++",
+    "description": "Bitcoin Core integration/staging tree"
   },
   {
-    "repo": "lynaghk/vibe",
-    "branch": "main",
-    "language": "Rust",
-    "description": "Easy Linux virtual machine on MacOS to sandbox LLM agents."
+    "repo": "kubernetes/kubernetes",
+    "branch": "master",
+    "language": "Go",
+    "description": "Production-Grade Container Scheduling and Management"
   },
   {
-    "repo": "qazbnm456/awesome-web-security",
+    "repo": "mtdvio/every-programmer-should-know",
     "branch": "master",
     "language": "Other",
-    "description": "🐶 A curated list of Web Security materials and resources."
+    "description": "A collection of (mostly) technical things every software developer should know about"
+  },
+  {
+    "repo": "makerdao/dss",
+    "branch": "master",
+    "language": "Solidity",
+    "description": "Dai Stablecoin System"
+  },
+  {
+    "repo": "karpathy/nanoGPT",
+    "branch": "master",
+    "language": "Python",
+    "description": "The simplest, fastest repository for training/finetuning medium-sized GPTs."
+  },
+  {
+    "repo": "zkSync-Community-Hub/zksync-developers",
+    "branch": "main",
+    "language": "Other",
+    "description": "Discussions and Support for the ZKsync Developer Community."
+  },
+  {
+    "repo": "actions/runner",
+    "branch": "main",
+    "language": "C#",
+    "description": "The Runner for GitHub Actions :rocket:"
+  },
+  {
+    "repo": "e10nMa2k/cc-mini",
+    "branch": "main",
+    "language": "Python",
+    "description": "mini version of claude code"
+  },
+  {
+    "repo": "thu-ml/Causal-Forcing",
+    "branch": "main",
+    "language": "Python",
+    "description": "Official codebase for Causal Forcing: Autoregressive Diffusion Distillation Done Right for High-Quality Real-Time Interactive Video Generation"
+  },
+  {
+    "repo": "TraderAlice/OpenAlice",
+    "branch": "master",
+    "language": "TypeScript",
+    "description": "File-driven AI trading agent engine for crypto and securities markets"
+  },
+  {
+    "repo": "facebook/react",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "The library for web and native user interfaces."
+  },
+  {
+    "repo": "shanselman/cert-inspector",
+    "branch": "master",
+    "language": "JavaScript",
+    "description": "🔒 Web tool to inspect SSL certificates and DNS for all domains in a webpage's request tree. Captures full network footprint via headless browser."
+  },
+  {
+    "repo": "Aliothmoon/MAA-Meow",
+    "branch": "main",
+    "language": "Kotlin",
+    "description": "《明日方舟》小助手Android版，全日常一键长草！| A one-click tool for the daily tasks of Arknights, supporting all clients."
+  },
+  {
+    "repo": "soimy/openclaw-channel-dingtalk",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "A dingtalk bot channel plugin for clawdbot"
+  },
+  {
+    "repo": "openperf/brief",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "AI Agent Service Agreement"
   }
 ]

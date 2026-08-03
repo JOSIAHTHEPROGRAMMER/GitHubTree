@@ -1,8 +1,8 @@
 {
-  "repo": "FZ2000/da-cli",
+  "repo": "liangnjupt/VisTouch",
   "branch": "main",
   "language": "Python",
-  "description": "Sync DeviantArt galleries to local folders — zero-dependency Python CLI with OAuth 2.1 PKCE, a SQLite index, and scheduled macOS syncs.",
-  "stars": 101,
-  "forks": 0
+  "description": "A large-scale synchronized vision–touch–audio dataset of robotic sliding contact",
+  "stars": 120,
+  "forks": 3
 }
