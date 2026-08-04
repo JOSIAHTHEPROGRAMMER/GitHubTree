@@ -1,146 +1,146 @@
 [
   {
-    "repo": "lilxyzw/NonToon",
-    "branch": "main",
-    "language": "HLSL",
-    "description": "A shader combining PBR and NPR"
-  },
-  {
-    "repo": "deepmind/alphafold",
-    "branch": "main",
-    "language": "Python",
-    "description": "Open source code for AlphaFold 2."
-  },
-  {
-    "repo": "larksuite/openclaw-lark",
+    "repo": "Ansub/wiki-os",
     "branch": "main",
     "language": "TypeScript",
-    "description": "飞书官方出品的 OpenClaw 飞书/Lark Channel 插件"
+    "description": "Open-source web app for search, browsing, graphs, and local knowledge exploration."
   },
   {
-    "repo": "gradenGnostic/LegacyLauncher",
+    "repo": "wesbos/JSON-Alexander",
     "branch": "main",
-    "language": "JavaScript",
-    "description": "A custom launcher for Minecraft LCE."
+    "language": "TypeScript",
+    "description": "A really good JSON viewer browser Extension"
   },
   {
-    "repo": "KeyID-AI/sdk-py",
+    "repo": "HKUDS/ClawWork",
     "branch": "main",
     "language": "Python",
-    "description": "Free email for AI agents. No signup, no human needed. Install → provision → send and receive. Ed25519 keypair auth."
+    "description": "ClawWork: OpenClaw as Your AI Coworker - 💰 $10K earned in 7 Hours"
   },
   {
-    "repo": "huangserva/claude-code-cli",
-    "branch": "master",
-    "language": "TypeScript",
-    "description": "这是 Claude Code 的 CLI 客户端主体（src/ 目录），即整个终端交互层的源码。具体包含： 1. CLI 入口与命令解析 — main.tsx（4684行）、entrypoints/（CLI 模式、SDK 模式、MCP 模式） 2. 终端 UI 渲染 — components/（144 个组件，用 React + Ink 渲染终端界面） 3. 工具系统 — tools/（43 个工具，Bash、文件读写编辑、Grep、Glob、Web 搜索等） 4. API 通信层 — services/api/（与 Anthropic 后端通信） 5. MCP 协议  6. 多 Agent/Team 协作 l 7. 认证与策略 8. 辅助服务 等"
-  },
-  {
-    "repo": "asdsadasdasdasdsd121/Crimson-Desert-RenoDX",
-    "branch": "main",
-    "language": "C++",
-    "description": "Crimson Desert RenoDX Full Version 2026 – Advanced Graphics Rendering Mod for Crimson Desert. Enhances lighting, dynamic shadows, realistic reflections, ambient occlusion and post-processing using RenoDX. Delivers significantly better visual fidelity and cinematic quality."
-  },
-  {
-    "repo": "JudoChinX/rangarr",
+    "repo": "statsmodels/statsmodels",
     "branch": "main",
     "language": "Python",
-    "description": "Rangarr automates and staggers media searches across your Radarr, Sonarr, and Lidarr instances."
+    "description": "Statsmodels: statistical modeling and econometrics in Python"
   },
   {
-    "repo": "mandel-macaque/memento",
+    "repo": "dev-protocol/polymarket-ai-trading-bot",
     "branch": "main",
-    "language": "F#",
-    "description": "Keep track of you codex sessions per commit"
-  },
-  {
-    "repo": "adn8naiagent/F1ReplayTiming",
-    "branch": "dev",
     "language": "TypeScript",
-    "description": "Visualisation of real-time track data and telemetry synced to F1 replays."
+    "description": "polymarket trading bot polymarket copy trading bot polymarket copy trading bot polymarket trading bot polymarket trading bot polymarket botpolymarket trading bot polymarket copy trading bot polymarket copy trading bot polymarket trading bot polymarket trading ML pipeline for Polymarket crypto 15m: predict UP token move in 5s from"
   },
   {
-    "repo": "Gentleatvice/seed-phrase-recover-BTC-ETH",
+    "repo": "nickustinov/itsypad-macos",
     "branch": "main",
-    "language": "Rust",
+    "language": "Swift",
+    "description": "A tiny, fast scratchpad and clipboard manager for Mac"
+  },
+  {
+    "repo": "owenlejeune/ArrMatey",
+    "branch": "main",
+    "language": "Kotlin",
     "description": ""
   },
   {
-    "repo": "TrendTechVista/polymarket-politics-bot",
+    "repo": "kewonit/aeris",
     "branch": "main",
     "language": "TypeScript",
-    "description": "polymarket politics bot polymarket politics bot polymarket politics bot polymarket politics bot polymarket politics bot polymarket politics bot polymarket politics bot polymarket politics bot polymarket politics bot polymarket politics bot polymarket politics bot polymarket politics bot polymarket politics bot polymarket politics bot"
+    "description": "Aeris is a real-time 3D flight radar for the web"
   },
   {
-    "repo": "googleworkspace/cli",
+    "repo": "erikdarlingdata/PerformanceMonitor",
     "branch": "main",
-    "language": "Rust",
-    "description": "Google Workspace CLI — one command-line tool for Drive, Gmail, Calendar, Sheets, Docs, Chat, Admin, and more. Dynamically built from Google Discovery Service. Includes AI agent skills."
+    "language": "C#",
+    "description": "Free, open-source SQL Server performance monitoring. Full Edition (server-installed, 30 collectors) and Lite Edition (standalone, DuckDB). Built-in MCP server for AI integration."
   },
   {
-    "repo": "openmax-server/server",
+    "repo": "klawsh/klaw.sh",
+    "branch": "main",
+    "language": "Go",
+    "description": "kubectl for AI Agents"
+  },
+  {
+    "repo": "dateutil/dateutil",
     "branch": "master",
     "language": "Python",
-    "description": "Открытый сервер для MAX"
+    "description": "Useful extensions to the standard Python datetime features"
   },
   {
-    "repo": "bleuropa/loomkin",
-    "branch": "main",
-    "language": "Elixir",
-    "description": "An Elixir-native AI coding assistant with persistent decision graphs, repo intelligence, and a Phoenix LiveView UI"
-  },
-  {
-    "repo": "shenhao-stu/openclaw-agents",
-    "branch": "main",
-    "language": "Shell",
-    "description": "🐾 One-command multi-agent setup for OpenClaw — 9 specialized AI agents, group routing, safe config merge."
-  },
-  {
-    "repo": "0xpoIygon/polymarket-trading-bot-example",
+    "repo": "glommer/cachebro",
     "branch": "main",
     "language": "TypeScript",
-    "description": "Polymarket Bot - TypeScript bot for Polymarket 15-minute BTC up/down markets: Gamma market discovery, CLOB quotes, weighted signal fusion, risk checks, and optional live orders via @polymarket/clob-client. Clue: Polymarket Bot, Polymarket Trading Bot, Polymarket Copy Trading Bot, Polymarket Arbitrage Trading Bot, Polymarket Copytrading Bot"
+    "description": "File cache with diff tracking for AI coding agents. Drop-in MCP server that cuts token usage by 26%."
   },
   {
-    "repo": "Kindness-Kismet/One-Player",
+    "repo": "pinchtab/pinchtab",
     "branch": "main",
-    "language": "Kotlin",
-    "description": "增强的 Android 视频播放器"
+    "language": "Go",
+    "description": ""
   },
   {
-    "repo": "nirholas/claude-code",
+    "repo": "kdenlive/kdenlive",
+    "branch": "master",
+    "language": "Other",
+    "description": "Kdenlive is a free and open source video editor, available for GNU/Linux, Windows and macOS."
+  },
+  {
+    "repo": "khalildh/garment-notation",
     "branch": "main",
-    "language": "TypeScript",
-    "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands."
+    "language": "JavaScript",
+    "description": ""
   },
   {
-    "repo": "World-Open-Graph/br-acc",
-    "branch": "main",
-    "language": "Python",
-    "description": "World Transparency Graph public codebase"
-  },
-  {
-    "repo": "vigorX777/product-design-system",
-    "branch": "main",
-    "language": "HTML",
-    "description": "面向产品经理的 AI 辅助产品设计工作框架，可 fork 定制的通用产品设计系统"
-  },
-  {
-    "repo": "qiuzhi2046/Qclaw",
+    "repo": "activepieces/activepieces",
     "branch": "main",
     "language": "TypeScript",
-    "description": "不用命令行，小白也能轻松玩转 OpenClaw"
+    "description": "AI Agents & MCPs & AI Workflow Automation • (~400 MCP servers for AI agents) • AI Automation / AI Agent with MCPs • AI Workflows & AI Agents • MCPs for AI Agents"
   },
   {
-    "repo": "Trooped/QuickBars",
+    "repo": "aarondfrancis/counselors",
     "branch": "main",
-    "language": "Kotlin",
-    "description": "The Official QuickBars for Home Assistant Repository"
+    "language": "TypeScript",
+    "description": "Fan out prompts to multiple AI coding agents in parallel"
   },
   {
-    "repo": "shobhit99/claude-watch",
+    "repo": "fabriciotrinndade/ats-resume-generator-html",
     "branch": "main",
-    "language": "Swift",
-    "description": "Control your claude code from your apple watch"
+    "language": "JavaScript",
+    "description": "Generate ATS-friendly resumes using structured JSON and HTML"
+  },
+  {
+    "repo": "DioxusLabs/dioxus",
+    "branch": "master",
+    "language": "Rust",
+    "description": "Fullstack app framework for web, desktop, and mobile."
+  },
+  {
+    "repo": "andyhuo520/openclaw-assistant-mvp",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "OpenClaw Desktop Assistant MVP - Electron-based AI voice assistant with Live2D character animations, real-time speech recognition, and text-to-speech"
+  },
+  {
+    "repo": "cloudflare/vinext",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Vite plugin that reimplements the Next.js API surface — deploy anywhere"
+  },
+  {
+    "repo": "microsoft/wslg",
+    "branch": "main",
+    "language": "C++",
+    "description": "Enabling the Windows Subsystem for Linux to include support for Wayland and X server related scenarios"
+  },
+  {
+    "repo": "freeCodeCamp/freeCodeCamp",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free."
+  },
+  {
+    "repo": "prusa3d/PrusaSlicer",
+    "branch": "master",
+    "language": "C++",
+    "description": "G-code generator for 3D printers (RepRap, Makerbot, Ultimaker etc.)"
   }
 ]
