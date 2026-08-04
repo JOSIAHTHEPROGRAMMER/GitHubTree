@@ -1,146 +1,146 @@
 [
   {
-    "repo": "alibaba/landmark-tokenized-dit",
+    "repo": "dohoangtungduong24/Redline-Vidar-NJRat-Raccoon-C2-Panel",
     "branch": "main",
-    "language": "Python",
-    "description": "Official repository for paper LaTo: Landmark-tokenized Diffusion Transformer for Fine-grained Human Face Editing"
+    "language": "HTML",
+    "description": "Advanced Malware Panel Redline Lumma Vidar NJRat DCrat Raccoon 2026"
   },
   {
-    "repo": "Hassanjan49/File_Association_Manager",
-    "branch": "main",
-    "language": "Python",
-    "description": "Manage file associations: choose which program opens each file type. Reset or change associations easily. Fix broken file associations."
-  },
-  {
-    "repo": "syncthing/syncthing",
+    "repo": "buildpacks/pack",
     "branch": "main",
     "language": "Go",
-    "description": "Open Source Continuous File Synchronization"
+    "description": "CLI for building apps using Cloud Native Buildpacks"
   },
   {
-    "repo": "google/ExoPlayer",
-    "branch": "release-v2",
-    "language": "Java",
-    "description": "This project is deprecated and stale. The latest ExoPlayer code is available in https://github.com/androidx/media"
-  },
-  {
-    "repo": "prisma/prisma",
+    "repo": "NVlabs/cutile-rs",
     "branch": "main",
-    "language": "TypeScript",
-    "description": "Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server, SQLite, MongoDB and CockroachDB"
+    "language": "Rust",
+    "description": "cuTile Rust provides a safe, tile-based kernel programming DSL for the Rust programming language. It features a safe host-side API for passing tensors to asynchronously executed kernel functions."
   },
   {
-    "repo": "tldev/posturr",
+    "repo": "sentrux/sentrux",
     "branch": "main",
-    "language": "Swift",
-    "description": "A macOS app that blurs your screen when you slouch. Uses Vision framework for real-time posture detection."
+    "language": "Rust",
+    "description": "See what your AI agent is building. Real-time architecture visualization + structural quality scoring for AI-generated code. Pure Rust."
   },
   {
-    "repo": "dappuniversity/starter_kit",
+    "repo": "kautukkundan/Awesome-Profile-README-templates",
     "branch": "master",
     "language": "JavaScript",
-    "description": "Start building full stack dApps fast with this starter kit!"
+    "description": "A collection of awesome readme templates to display on your profile"
   },
   {
-    "repo": "istio/istio",
+    "repo": "pgvector/pgvector",
     "branch": "master",
-    "language": "Go",
-    "description": "Connect, secure, control, and observe services."
+    "language": "C",
+    "description": "Open-source vector similarity search for Postgres"
   },
   {
-    "repo": "supabase/supabase",
+    "repo": "openmax-server/server",
+    "branch": "master",
+    "language": "Python",
+    "description": "Открытый сервер для MAX"
+  },
+  {
+    "repo": "Lum1104/Understand-Anything",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Claude Code skills that turn any codebase into an interactive knowledge graph you can explore, search, and ask questions about."
+  },
+  {
+    "repo": "square/retrofit",
+    "branch": "master",
+    "language": "HTML",
+    "description": "A type-safe HTTP client for Android and the JVM"
+  },
+  {
+    "repo": "react-native-webview/react-native-webview",
     "branch": "master",
     "language": "TypeScript",
-    "description": "The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications."
+    "description": "React Native Cross-Platform WebView"
   },
   {
-    "repo": "bitcoin/bitcoin",
+    "repo": "xiaomi-research/dmail",
     "branch": "master",
-    "language": "C++",
-    "description": "Bitcoin Core integration/staging tree"
+    "language": "Python",
+    "description": ""
   },
   {
-    "repo": "kubernetes/kubernetes",
+    "repo": "KeyID-AI/sdk-js",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Free email for AI agents. No signup, no human needed. Install → provision → send and receive. Ed25519 keypair auth."
+  },
+  {
+    "repo": "plotly/plotly.js",
     "branch": "master",
-    "language": "Go",
-    "description": "Production-Grade Container Scheduling and Management"
+    "language": "JavaScript",
+    "description": "Open-source JavaScript charting library behind Plotly and Dash"
   },
   {
-    "repo": "mtdvio/every-programmer-should-know",
+    "repo": "PyCQA/isort",
+    "branch": "main",
+    "language": "Python",
+    "description": "A Python utility / library to sort imports."
+  },
+  {
+    "repo": "pasky/chrome-cdp-skill",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "Give your AI agent access to your live Chrome session — works out of the box, connects to tabs you already have open"
+  },
+  {
+    "repo": "qntrade1/polymarket-arbitrage-trading-bot",
+    "branch": "main",
+    "language": "Python",
+    "description": "polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot"
+  },
+  {
+    "repo": "xodn348/han",
+    "branch": "main",
+    "language": "Rust",
+    "description": "A compiled programming language with Korean keywords, written in Rust"
+  },
+  {
+    "repo": "jupyterlab/jupyterlab",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "JupyterLab computational environment."
+  },
+  {
+    "repo": "hengfengliya/imgood",
+    "branch": "main",
+    "language": "CSS",
+    "description": ""
+  },
+  {
+    "repo": "mmazzarolo/react-native-modal-datetime-picker",
+    "branch": "master",
+    "language": "JavaScript",
+    "description": "A React-Native datetime-picker for Android and iOS"
+  },
+  {
+    "repo": "vibe-music/vibe-music-web",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "Open-source cloud music player with a bring-your-own-music model. Local control, optional sync, zero platform dependency."
+  },
+  {
+    "repo": "ImageMagick/ImageMagick",
+    "branch": "main",
+    "language": "C",
+    "description": "ImageMagick is a free, open-source software suite for creating, editing, converting, and displaying images. It supports 200+ formats and offers powerful command-line tools and APIs for automation, scripting, and integration across platforms."
+  },
+  {
+    "repo": "EvilFreelancer/openapi-to-cli",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Turns any OpenAPI/Swagger API into an CLI with set of commands. One CLI command per endpoint."
+  },
+  {
+    "repo": "kdenlive/kdenlive",
     "branch": "master",
     "language": "Other",
-    "description": "A collection of (mostly) technical things every software developer should know about"
-  },
-  {
-    "repo": "makerdao/dss",
-    "branch": "master",
-    "language": "Solidity",
-    "description": "Dai Stablecoin System"
-  },
-  {
-    "repo": "karpathy/nanoGPT",
-    "branch": "master",
-    "language": "Python",
-    "description": "The simplest, fastest repository for training/finetuning medium-sized GPTs."
-  },
-  {
-    "repo": "zkSync-Community-Hub/zksync-developers",
-    "branch": "main",
-    "language": "Other",
-    "description": "Discussions and Support for the ZKsync Developer Community."
-  },
-  {
-    "repo": "actions/runner",
-    "branch": "main",
-    "language": "C#",
-    "description": "The Runner for GitHub Actions :rocket:"
-  },
-  {
-    "repo": "e10nMa2k/cc-mini",
-    "branch": "main",
-    "language": "Python",
-    "description": "mini version of claude code"
-  },
-  {
-    "repo": "thu-ml/Causal-Forcing",
-    "branch": "main",
-    "language": "Python",
-    "description": "Official codebase for Causal Forcing: Autoregressive Diffusion Distillation Done Right for High-Quality Real-Time Interactive Video Generation"
-  },
-  {
-    "repo": "TraderAlice/OpenAlice",
-    "branch": "master",
-    "language": "TypeScript",
-    "description": "File-driven AI trading agent engine for crypto and securities markets"
-  },
-  {
-    "repo": "facebook/react",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "The library for web and native user interfaces."
-  },
-  {
-    "repo": "shanselman/cert-inspector",
-    "branch": "master",
-    "language": "JavaScript",
-    "description": "🔒 Web tool to inspect SSL certificates and DNS for all domains in a webpage's request tree. Captures full network footprint via headless browser."
-  },
-  {
-    "repo": "Aliothmoon/MAA-Meow",
-    "branch": "main",
-    "language": "Kotlin",
-    "description": "《明日方舟》小助手Android版，全日常一键长草！| A one-click tool for the daily tasks of Arknights, supporting all clients."
-  },
-  {
-    "repo": "soimy/openclaw-channel-dingtalk",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "A dingtalk bot channel plugin for clawdbot"
-  },
-  {
-    "repo": "openperf/brief",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "AI Agent Service Agreement"
+    "description": "Kdenlive is a free and open source video editor, available for GNU/Linux, Windows and macOS."
   }
 ]
