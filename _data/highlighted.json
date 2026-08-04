@@ -1,8 +1,8 @@
 {
-  "repo": "xisanpi/zuonaar-cinema-simulator",
+  "repo": "lij768423-svg/grok2api-egress-enhancements",
   "branch": "main",
-  "language": "TypeScript",
-  "description": "按城市和真实座位视角体验 IMAX、杜比及精选巨幕影厅",
-  "stars": 122,
-  "forks": 9
+  "language": "Go",
+  "description": "Grok2API & CPA egress quality guard with proxy recovery, quarantine, migration, and operations UI",
+  "stars": 124,
+  "forks": 30
 }

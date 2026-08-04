@@ -1,99 +1,45 @@
 [
   {
-    "repo": "Ansub/wiki-os",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Open-source web app for search, browsing, graphs, and local knowledge exploration."
-  },
-  {
-    "repo": "wesbos/JSON-Alexander",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "A really good JSON viewer browser Extension"
-  },
-  {
-    "repo": "HKUDS/ClawWork",
+    "repo": "myccarl/ai-shortVideo-pipeline",
     "branch": "main",
     "language": "Python",
-    "description": "ClawWork: OpenClaw as Your AI Coworker - 💰 $10K earned in 7 Hours"
+    "description": "End-to-end AI short-video production pipeline. FastAPI orchestration + Spring Boot gateway with multi-model failover, circuit breaker, metering, and full-stack observability. AI quality gating: prompt anchoring, CLIP consistency, AV sync auto-rescue."
   },
   {
-    "repo": "statsmodels/statsmodels",
+    "repo": "cft0808/edict",
     "branch": "main",
-    "language": "Python",
-    "description": "Statsmodels: statistical modeling and econometrics in Python"
+    "language": "HTML",
+    "description": "🏛️ 三省六部制 · OpenClaw Multi-Agent Orchestration System — 9 specialized AI agents with real-time dashboard, model config, and full audit trails"
   },
   {
-    "repo": "dev-protocol/polymarket-ai-trading-bot",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "polymarket trading bot polymarket copy trading bot polymarket copy trading bot polymarket trading bot polymarket trading bot polymarket botpolymarket trading bot polymarket copy trading bot polymarket copy trading bot polymarket trading bot polymarket trading ML pipeline for Polymarket crypto 15m: predict UP token move in 5s from"
-  },
-  {
-    "repo": "nickustinov/itsypad-macos",
-    "branch": "main",
-    "language": "Swift",
-    "description": "A tiny, fast scratchpad and clipboard manager for Mac"
-  },
-  {
-    "repo": "owenlejeune/ArrMatey",
-    "branch": "main",
-    "language": "Kotlin",
-    "description": ""
-  },
-  {
-    "repo": "kewonit/aeris",
+    "repo": "molefrog/skills",
     "branch": "main",
     "language": "TypeScript",
-    "description": "Aeris is a real-time 3D flight radar for the web"
+    "description": "❈ Claude skill for generating high-quality PDFs using react-pdf"
   },
   {
-    "repo": "erikdarlingdata/PerformanceMonitor",
-    "branch": "main",
-    "language": "C#",
-    "description": "Free, open-source SQL Server performance monitoring. Full Edition (server-installed, 30 collectors) and Lite Edition (standalone, DuckDB). Built-in MCP server for AI integration."
-  },
-  {
-    "repo": "klawsh/klaw.sh",
+    "repo": "Gentleman-Programming/engram",
     "branch": "main",
     "language": "Go",
-    "description": "kubectl for AI Agents"
+    "description": "Persistent memory system for AI coding agents. Agent-agnostic Go binary with SQLite + FTS5, MCP server, HTTP API, CLI, and TUI."
   },
   {
-    "repo": "dateutil/dateutil",
-    "branch": "master",
+    "repo": "Runnin4ik/dpi-detector",
+    "branch": "main",
     "language": "Python",
-    "description": "Useful extensions to the standard Python datetime features"
+    "description": "DPI detection tool for internet censorship testing. Identifies TLS, TCP, HTTP blocking and 16-20KB connection drops"
   },
   {
-    "repo": "glommer/cachebro",
+    "repo": "prompt-security/clawsec",
     "branch": "main",
     "language": "TypeScript",
-    "description": "File cache with diff tracking for AI coding agents. Drop-in MCP server that cuts token usage by 26%."
+    "description": "A complete security skill suite for OpenClaw's family of agents. Protect your SOUL.md (etc') with drift detection, live security recommendations, automated audits, and skill integrity verification. All from one installable suite."
   },
   {
-    "repo": "pinchtab/pinchtab",
+    "repo": "34306/vphone-aio",
     "branch": "main",
-    "language": "Go",
-    "description": ""
-  },
-  {
-    "repo": "kdenlive/kdenlive",
-    "branch": "master",
-    "language": "Other",
-    "description": "Kdenlive is a free and open source video editor, available for GNU/Linux, Windows and macOS."
-  },
-  {
-    "repo": "khalildh/garment-notation",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": ""
-  },
-  {
-    "repo": "activepieces/activepieces",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "AI Agents & MCPs & AI Workflow Automation • (~400 MCP servers for AI agents) • AI Automation / AI Agent with MCPs • AI Workflows & AI Agents • MCPs for AI Agents"
+    "language": "Shell",
+    "description": "1 script run the vphone"
   },
   {
     "repo": "aarondfrancis/counselors",
@@ -102,45 +48,99 @@
     "description": "Fan out prompts to multiple AI coding agents in parallel"
   },
   {
-    "repo": "fabriciotrinndade/ats-resume-generator-html",
+    "repo": "oneclaw/oneclaw",
     "branch": "main",
     "language": "JavaScript",
-    "description": "Generate ATS-friendly resumes using structured JSON and HTML"
+    "description": "OneClaw"
   },
   {
-    "repo": "DioxusLabs/dioxus",
-    "branch": "master",
+    "repo": "World-Open-Graph/br-acc",
+    "branch": "main",
+    "language": "Python",
+    "description": "World Transparency Graph public codebase"
+  },
+  {
+    "repo": "spacedriveapp/spacedrive",
+    "branch": "main",
     "language": "Rust",
-    "description": "Fullstack app framework for web, desktop, and mobile."
+    "description": "Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust."
   },
   {
-    "repo": "andyhuo520/openclaw-assistant-mvp",
+    "repo": "sb-ocr/cmdeck",
     "branch": "main",
-    "language": "JavaScript",
-    "description": "OpenClaw Desktop Assistant MVP - Electron-based AI voice assistant with Live2D character animations, real-time speech recognition, and text-to-speech"
+    "language": "HTML",
+    "description": ""
   },
   {
-    "repo": "cloudflare/vinext",
+    "repo": "calebwin/pgclaw",
+    "branch": "main",
+    "language": "Rust",
+    "description": "A Clawdbot in every row with 400 lines of Postgres SQL"
+  },
+  {
+    "repo": "yologdev/yoyo-evolve",
+    "branch": "main",
+    "language": "Rust",
+    "description": "A coding agent that evolves itself. One commit per day."
+  },
+  {
+    "repo": "buildpacks/pack",
+    "branch": "main",
+    "language": "Go",
+    "description": "CLI for building apps using Cloud Native Buildpacks"
+  },
+  {
+    "repo": "YunjueTech/Yunjue-Agent",
+    "branch": "main",
+    "language": "Python",
+    "description": "Yunjue Agent: A Fully Reproducible, Zero-Start In-Situ Self-Evolving Agent System for Open-Ended Tasks"
+  },
+  {
+    "repo": "nocodb/nocodb",
+    "branch": "develop",
+    "language": "TypeScript",
+    "description": "🔥 🔥 🔥 A Free & Self-hostable Airtable Alternative"
+  },
+  {
+    "repo": "Blimp-Labs/claude-usage-bar",
+    "branch": "main",
+    "language": "Swift",
+    "description": "A macOS menu bar app that shows your Claude API usage at a glance"
+  },
+  {
+    "repo": "petergpt/bullshit-benchmark",
+    "branch": "main",
+    "language": "Python",
+    "description": ""
+  },
+  {
+    "repo": "pyg-team/pytorch_geometric",
+    "branch": "master",
+    "language": "Python",
+    "description": "Graph Neural Network Library for PyTorch"
+  },
+  {
+    "repo": "actions/checkout",
     "branch": "main",
     "language": "TypeScript",
-    "description": "Vite plugin that reimplements the Next.js API surface — deploy anywhere"
+    "description": "Action for checking out a repo"
   },
   {
-    "repo": "microsoft/wslg",
-    "branch": "main",
-    "language": "C++",
-    "description": "Enabling the Windows Subsystem for Linux to include support for Wayland and X server related scenarios"
-  },
-  {
-    "repo": "freeCodeCamp/freeCodeCamp",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free."
-  },
-  {
-    "repo": "prusa3d/PrusaSlicer",
+    "repo": "apache/mxnet",
     "branch": "master",
     "language": "C++",
-    "description": "G-code generator for 3D printers (RepRap, Makerbot, Ultimaker etc.)"
+    "description": "Lightweight, Portable, Flexible Distributed/Mobile Deep Learning with Dynamic, Mutation-aware Dataflow Dep Scheduler; for Python, R, Julia, Scala, Go, Javascript and more"
+  },
+  {
+    "repo": "kewonit/aeris",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Aeris is a real-time 3D flight radar for the web"
+  },
+  {
+    "repo": "joeseesun/knowledge-site-creator",
+    "branch": "main",
+    "language": "Shell",
+    "description": "一句话生成任何领域的知识学习网站 - AI 理解主题，自动创作内容，生成页面，一键部署"
   }
 ]
