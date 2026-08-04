@@ -1,8 +1,8 @@
 {
-  "repo": "alexan0618/zkky",
+  "repo": "xisanpi/zuonaar-cinema-simulator",
   "branch": "main",
-  "language": "Python",
-  "description": "直卡开源",
-  "stars": 129,
-  "forks": 103
+  "language": "TypeScript",
+  "description": "按城市和真实座位视角体验 IMAX、杜比及精选巨幕影厅",
+  "stars": 115,
+  "forks": 8
 }

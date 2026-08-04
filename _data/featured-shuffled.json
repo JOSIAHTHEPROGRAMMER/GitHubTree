@@ -1,39 +1,81 @@
 [
   {
-    "repo": "dohoangtungduong24/Redline-Vidar-NJRat-Raccoon-C2-Panel",
+    "repo": "lilxyzw/NonToon",
     "branch": "main",
-    "language": "HTML",
-    "description": "Advanced Malware Panel Redline Lumma Vidar NJRat DCrat Raccoon 2026"
+    "language": "HLSL",
+    "description": "A shader combining PBR and NPR"
   },
   {
-    "repo": "buildpacks/pack",
+    "repo": "deepmind/alphafold",
     "branch": "main",
-    "language": "Go",
-    "description": "CLI for building apps using Cloud Native Buildpacks"
+    "language": "Python",
+    "description": "Open source code for AlphaFold 2."
   },
   {
-    "repo": "NVlabs/cutile-rs",
+    "repo": "larksuite/openclaw-lark",
     "branch": "main",
-    "language": "Rust",
-    "description": "cuTile Rust provides a safe, tile-based kernel programming DSL for the Rust programming language. It features a safe host-side API for passing tensors to asynchronously executed kernel functions."
+    "language": "TypeScript",
+    "description": "飞书官方出品的 OpenClaw 飞书/Lark Channel 插件"
   },
   {
-    "repo": "sentrux/sentrux",
+    "repo": "gradenGnostic/LegacyLauncher",
     "branch": "main",
-    "language": "Rust",
-    "description": "See what your AI agent is building. Real-time architecture visualization + structural quality scoring for AI-generated code. Pure Rust."
-  },
-  {
-    "repo": "kautukkundan/Awesome-Profile-README-templates",
-    "branch": "master",
     "language": "JavaScript",
-    "description": "A collection of awesome readme templates to display on your profile"
+    "description": "A custom launcher for Minecraft LCE."
   },
   {
-    "repo": "pgvector/pgvector",
+    "repo": "KeyID-AI/sdk-py",
+    "branch": "main",
+    "language": "Python",
+    "description": "Free email for AI agents. No signup, no human needed. Install → provision → send and receive. Ed25519 keypair auth."
+  },
+  {
+    "repo": "huangserva/claude-code-cli",
     "branch": "master",
-    "language": "C",
-    "description": "Open-source vector similarity search for Postgres"
+    "language": "TypeScript",
+    "description": "这是 Claude Code 的 CLI 客户端主体（src/ 目录），即整个终端交互层的源码。具体包含： 1. CLI 入口与命令解析 — main.tsx（4684行）、entrypoints/（CLI 模式、SDK 模式、MCP 模式） 2. 终端 UI 渲染 — components/（144 个组件，用 React + Ink 渲染终端界面） 3. 工具系统 — tools/（43 个工具，Bash、文件读写编辑、Grep、Glob、Web 搜索等） 4. API 通信层 — services/api/（与 Anthropic 后端通信） 5. MCP 协议  6. 多 Agent/Team 协作 l 7. 认证与策略 8. 辅助服务 等"
+  },
+  {
+    "repo": "asdsadasdasdasdsd121/Crimson-Desert-RenoDX",
+    "branch": "main",
+    "language": "C++",
+    "description": "Crimson Desert RenoDX Full Version 2026 – Advanced Graphics Rendering Mod for Crimson Desert. Enhances lighting, dynamic shadows, realistic reflections, ambient occlusion and post-processing using RenoDX. Delivers significantly better visual fidelity and cinematic quality."
+  },
+  {
+    "repo": "JudoChinX/rangarr",
+    "branch": "main",
+    "language": "Python",
+    "description": "Rangarr automates and staggers media searches across your Radarr, Sonarr, and Lidarr instances."
+  },
+  {
+    "repo": "mandel-macaque/memento",
+    "branch": "main",
+    "language": "F#",
+    "description": "Keep track of you codex sessions per commit"
+  },
+  {
+    "repo": "adn8naiagent/F1ReplayTiming",
+    "branch": "dev",
+    "language": "TypeScript",
+    "description": "Visualisation of real-time track data and telemetry synced to F1 replays."
+  },
+  {
+    "repo": "Gentleatvice/seed-phrase-recover-BTC-ETH",
+    "branch": "main",
+    "language": "Rust",
+    "description": ""
+  },
+  {
+    "repo": "TrendTechVista/polymarket-politics-bot",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "polymarket politics bot polymarket politics bot polymarket politics bot polymarket politics bot polymarket politics bot polymarket politics bot polymarket politics bot polymarket politics bot polymarket politics bot polymarket politics bot polymarket politics bot polymarket politics bot polymarket politics bot polymarket politics bot"
+  },
+  {
+    "repo": "googleworkspace/cli",
+    "branch": "main",
+    "language": "Rust",
+    "description": "Google Workspace CLI — one command-line tool for Drive, Gmail, Calendar, Sheets, Docs, Chat, Admin, and more. Dynamically built from Google Discovery Service. Includes AI agent skills."
   },
   {
     "repo": "openmax-server/server",
@@ -42,105 +84,63 @@
     "description": "Открытый сервер для MAX"
   },
   {
-    "repo": "Lum1104/Understand-Anything",
+    "repo": "bleuropa/loomkin",
     "branch": "main",
-    "language": "TypeScript",
-    "description": "Claude Code skills that turn any codebase into an interactive knowledge graph you can explore, search, and ask questions about."
+    "language": "Elixir",
+    "description": "An Elixir-native AI coding assistant with persistent decision graphs, repo intelligence, and a Phoenix LiveView UI"
   },
   {
-    "repo": "square/retrofit",
-    "branch": "master",
+    "repo": "shenhao-stu/openclaw-agents",
+    "branch": "main",
+    "language": "Shell",
+    "description": "🐾 One-command multi-agent setup for OpenClaw — 9 specialized AI agents, group routing, safe config merge."
+  },
+  {
+    "repo": "0xpoIygon/polymarket-trading-bot-example",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Polymarket Bot - TypeScript bot for Polymarket 15-minute BTC up/down markets: Gamma market discovery, CLOB quotes, weighted signal fusion, risk checks, and optional live orders via @polymarket/clob-client. Clue: Polymarket Bot, Polymarket Trading Bot, Polymarket Copy Trading Bot, Polymarket Arbitrage Trading Bot, Polymarket Copytrading Bot"
+  },
+  {
+    "repo": "Kindness-Kismet/One-Player",
+    "branch": "main",
+    "language": "Kotlin",
+    "description": "增强的 Android 视频播放器"
+  },
+  {
+    "repo": "nirholas/claude-code",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands."
+  },
+  {
+    "repo": "World-Open-Graph/br-acc",
+    "branch": "main",
+    "language": "Python",
+    "description": "World Transparency Graph public codebase"
+  },
+  {
+    "repo": "vigorX777/product-design-system",
+    "branch": "main",
     "language": "HTML",
-    "description": "A type-safe HTTP client for Android and the JVM"
+    "description": "面向产品经理的 AI 辅助产品设计工作框架，可 fork 定制的通用产品设计系统"
   },
   {
-    "repo": "react-native-webview/react-native-webview",
-    "branch": "master",
-    "language": "TypeScript",
-    "description": "React Native Cross-Platform WebView"
-  },
-  {
-    "repo": "xiaomi-research/dmail",
-    "branch": "master",
-    "language": "Python",
-    "description": ""
-  },
-  {
-    "repo": "KeyID-AI/sdk-js",
+    "repo": "qiuzhi2046/Qclaw",
     "branch": "main",
     "language": "TypeScript",
-    "description": "Free email for AI agents. No signup, no human needed. Install → provision → send and receive. Ed25519 keypair auth."
+    "description": "不用命令行，小白也能轻松玩转 OpenClaw"
   },
   {
-    "repo": "plotly/plotly.js",
-    "branch": "master",
-    "language": "JavaScript",
-    "description": "Open-source JavaScript charting library behind Plotly and Dash"
-  },
-  {
-    "repo": "PyCQA/isort",
+    "repo": "Trooped/QuickBars",
     "branch": "main",
-    "language": "Python",
-    "description": "A Python utility / library to sort imports."
+    "language": "Kotlin",
+    "description": "The Official QuickBars for Home Assistant Repository"
   },
   {
-    "repo": "pasky/chrome-cdp-skill",
+    "repo": "shobhit99/claude-watch",
     "branch": "main",
-    "language": "JavaScript",
-    "description": "Give your AI agent access to your live Chrome session — works out of the box, connects to tabs you already have open"
-  },
-  {
-    "repo": "qntrade1/polymarket-arbitrage-trading-bot",
-    "branch": "main",
-    "language": "Python",
-    "description": "polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot"
-  },
-  {
-    "repo": "xodn348/han",
-    "branch": "main",
-    "language": "Rust",
-    "description": "A compiled programming language with Korean keywords, written in Rust"
-  },
-  {
-    "repo": "jupyterlab/jupyterlab",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "JupyterLab computational environment."
-  },
-  {
-    "repo": "hengfengliya/imgood",
-    "branch": "main",
-    "language": "CSS",
-    "description": ""
-  },
-  {
-    "repo": "mmazzarolo/react-native-modal-datetime-picker",
-    "branch": "master",
-    "language": "JavaScript",
-    "description": "A React-Native datetime-picker for Android and iOS"
-  },
-  {
-    "repo": "vibe-music/vibe-music-web",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "Open-source cloud music player with a bring-your-own-music model. Local control, optional sync, zero platform dependency."
-  },
-  {
-    "repo": "ImageMagick/ImageMagick",
-    "branch": "main",
-    "language": "C",
-    "description": "ImageMagick is a free, open-source software suite for creating, editing, converting, and displaying images. It supports 200+ formats and offers powerful command-line tools and APIs for automation, scripting, and integration across platforms."
-  },
-  {
-    "repo": "EvilFreelancer/openapi-to-cli",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Turns any OpenAPI/Swagger API into an CLI with set of commands. One CLI command per endpoint."
-  },
-  {
-    "repo": "kdenlive/kdenlive",
-    "branch": "master",
-    "language": "Other",
-    "description": "Kdenlive is a free and open source video editor, available for GNU/Linux, Windows and macOS."
+    "language": "Swift",
+    "description": "Control your claude code from your apple watch"
   }
 ]
