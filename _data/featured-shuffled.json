@@ -1,146 +1,146 @@
 [
   {
-    "repo": "lxh77721/k12-reg",
-    "branch": "master",
-    "language": "TypeScript",
-    "description": "多线程全自动注册free 强上K12空间 gmail版"
-  },
-  {
-    "repo": "netblue30/firejail",
-    "branch": "master",
-    "language": "C",
-    "description": "Linux namespaces and seccomp-bpf sandbox"
-  },
-  {
-    "repo": "kubernetes-sigs/kubespray",
-    "branch": "master",
-    "language": "Jinja",
-    "description": "Deploy a Production Ready Kubernetes Cluster"
-  },
-  {
-    "repo": "zevorn/rt-claw",
+    "repo": "facebook/litho",
     "branch": "main",
-    "language": "C",
-    "description": "Making AI Assistants Cheap Again!"
+    "language": "Kotlin",
+    "description": "A declarative framework for building efficient UIs on Android."
   },
   {
-    "repo": "amneziawg-mikrotik/awg-proxy",
-    "branch": "main",
-    "language": "Go",
-    "description": ""
-  },
-  {
-    "repo": "reduxjs/redux-thunk",
+    "repo": "photonstorm/phaser",
     "branch": "master",
-    "language": "TypeScript",
-    "description": "Thunk middleware for Redux"
+    "language": "JavaScript",
+    "description": "Phaser is a fun, free and fast 2D game framework for making HTML5 games for desktop and mobile web browsers, supporting Canvas and WebGL rendering."
   },
   {
-    "repo": "open-telemetry/opentelemetry-python",
+    "repo": "phuryn/pm-brain",
     "branch": "main",
     "language": "Python",
-    "description": "OpenTelemetry Python API and SDK"
+    "description": "PM Brain OS: The Second Brain for Product Managers, Made of Markdown"
   },
   {
-    "repo": "cncf/landscape",
-    "branch": "master",
-    "language": "Other",
-    "description": "🌄 The Cloud Native Interactive Landscape filters and sorts hundreds of projects and products, and shows details including GitHub stars, funding, first and last commits, contributor counts and headquarters location."
-  },
-  {
-    "repo": "pmndrs/react-three-fiber",
-    "branch": "master",
+    "repo": "element-plus/element-plus",
+    "branch": "dev",
     "language": "TypeScript",
-    "description": "🇨🇭 A React renderer for Three.js"
+    "description": "🎉 A Vue.js 3 UI Library made by Element team"
   },
   {
-    "repo": "chef/chef",
-    "branch": "main",
-    "language": "Ruby",
-    "description": "Chef Infra, a powerful automation platform that transforms infrastructure into code automating how infrastructure is configured, deployed and managed across any environment, at any scale"
-  },
-  {
-    "repo": "actions/checkout",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Action for checking out a repo"
-  },
-  {
-    "repo": "behzadea12/Paqet-Tunnel-Manager",
-    "branch": "main",
+    "repo": "SamNet-dev/dnstm-setup",
+    "branch": "master",
     "language": "Shell",
-    "description": "Management script for paqet: raw socket KCP-based tunnel for firewall/DPI bypass. Supports kharej server and Iran client configurations."
+    "description": "Interactive setup wizard for dnstm — automated DNS-based network configuration"
   },
   {
-    "repo": "sdkman/sdkman-cli",
+    "repo": "nestjs/nest",
     "branch": "master",
-    "language": "Gherkin",
-    "description": "The SDKMAN! Command Line Interface"
+    "language": "TypeScript",
+    "description": "A progressive Node.js framework for building efficient, scalable, and enterprise-grade server-side applications with TypeScript/JavaScript 🚀"
   },
   {
-    "repo": "thanos-io/thanos",
+    "repo": "jarmuine/claude-code",
     "branch": "main",
-    "language": "Go",
-    "description": "Highly available Prometheus setup with long term storage capabilities. A CNCF Incubating project."
+    "language": "TypeScript",
+    "description": "Fork of instructkr/claude-code"
   },
   {
-    "repo": "prettier/eslint-plugin-prettier",
+    "repo": "vxcozy/tome",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Beautiful documentation that doesn't cost a fortune. Open-source Mintlify alternative."
+  },
+  {
+    "repo": "openmax-server/server",
+    "branch": "master",
+    "language": "Python",
+    "description": "Открытый сервер для MAX"
+  },
+  {
+    "repo": "ultralytics/yolov5",
+    "branch": "master",
+    "language": "Python",
+    "description": "YOLOv5 🚀 in PyTorch > ONNX > CoreML > TFLite"
+  },
+  {
+    "repo": "Klipper3d/klipper",
+    "branch": "master",
+    "language": "C",
+    "description": "Klipper is a 3d-printer firmware"
+  },
+  {
+    "repo": "SeleniumHQ/selenium",
+    "branch": "trunk",
+    "language": "Java",
+    "description": "A browser automation framework and ecosystem."
+  },
+  {
+    "repo": "doctorhetfield-cmd/simpleui.koplugin",
+    "branch": "main",
+    "language": "Lua",
+    "description": "A UI plugin for KOReader with bottom navigation bar, topbar, and desktop widgets"
+  },
+  {
+    "repo": "MINT-SJTU/RoboClaw",
+    "branch": "main",
+    "language": "Python",
+    "description": "RoboClaw is an Embodied AI Assistant."
+  },
+  {
+    "repo": "aws/aws-cdk",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "The AWS Cloud Development Kit is a framework for defining cloud infrastructure in code"
+  },
+  {
+    "repo": "DeveloperExotic/LegacyCrossPlay",
     "branch": "main",
     "language": "JavaScript",
-    "description": "ESLint plugin for Prettier formatting"
+    "description": "A Minecraft Legacy Edition proxy translator, that allows connections to Java Edition servers."
   },
   {
-    "repo": "Gitlawb/openclaude",
+    "repo": "ramda/ramda",
+    "branch": "master",
+    "language": "JavaScript",
+    "description": ":ram: Practical functional Javascript"
+  },
+  {
+    "repo": "ktorio/ktor",
     "branch": "main",
-    "language": "TypeScript",
-    "description": "Claude Code opened to any LLM — OpenAI, Gemini, DeepSeek, Ollama, and 200+ models via OpenAI-compatible API shim"
+    "language": "Kotlin",
+    "description": "Framework for quickly creating connected applications in Kotlin with minimal effort"
   },
   {
-    "repo": "sparkyniner/Netryx-OpenSource-Next-Gen-Street-Level-Geolocation",
+    "repo": "skernelx/tavily-key-generator",
     "branch": "main",
     "language": "Python",
-    "description": "Netryx is a powerful, locally-hosted geolocation tool that uses state-of-the-art computer vision to identify the exact coordinates of a street-level image. It replicates the core pipeline of high-end geolocation SaaS platforms but runs entirely on your local hardware."
+    "description": "Auto batch register Tavily API Keys with pluggable email backends"
   },
   {
-    "repo": "actions/setup-node",
+    "repo": "actions/download-artifact",
     "branch": "main",
     "language": "TypeScript",
-    "description": "Set up your GitHub Actions workflow with a specific version of node.js"
+    "description": "Download artifacts from your build"
   },
   {
-    "repo": "miaoxworld/OpenClawInstaller",
+    "repo": "huggingface/transformers",
     "branch": "main",
-    "language": "Shell",
-    "description": "ClawdBot 一键部署工具"
+    "language": "Python",
+    "description": "🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training."
   },
   {
-    "repo": "compozy/compozy",
+    "repo": "1837620622/cloudflare-bypass-2026",
     "branch": "main",
-    "language": "Go",
-    "description": "Drive the full lifecycle of AI-assisted development — from idea to shipped code."
+    "language": "Python",
+    "description": "Cloudflare Turnstile 绕过工具 | Cloudflare Bypass Tool based on SeleniumBase UC Mode | 支持 Mac/Windows/Linux"
   },
   {
-    "repo": "actions/setup-python",
+    "repo": "AnInsomniacy/motrix-next",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "The next chapter of Motrix — rebuilt from scratch with Tauri 2, Vue 3, and Rust"
+  },
+  {
+    "repo": "beita6969/ScienceClaw",
     "branch": "main",
     "language": "TypeScript",
-    "description": "Set up your GitHub Actions workflow with a specific version of Python"
-  },
-  {
-    "repo": "uuidjs/uuid",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Generate RFC-compliant UUIDs in JavaScript"
-  },
-  {
-    "repo": "apple/swift-log",
-    "branch": "main",
-    "language": "Swift",
-    "description": "A Logging API for Swift"
-  },
-  {
-    "repo": "envoyproxy/protoc-gen-validate",
-    "branch": "main",
-    "language": "Go",
-    "description": "Protocol Buffer Validation - replaced by https://github.com/bufbuild/protovalidate"
+    "description": "🔬🦞 A self-evolving AI research colleague for scientists. 285 skills, zero hallucination, persistent memory."
   }
 ]

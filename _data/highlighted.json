@@ -1,8 +1,8 @@
 {
-  "repo": "mrpulor-gh/nuphus-mcp",
-  "branch": "master",
-  "language": "Rust",
-  "description": "Desktop automation MCP server — computer use for any AI agent: control screen, windows, mouse/keyboard, and Chrome via Model Context Protocol (stdio)",
-  "stars": 110,
-  "forks": 11
+  "repo": "alexngdev99/rork-medieval-3d-chess",
+  "branch": "main",
+  "language": "TypeScript",
+  "description": "Created by Rork",
+  "stars": 166,
+  "forks": 44
 }
