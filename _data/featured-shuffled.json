@@ -1,146 +1,146 @@
 [
   {
-    "repo": "FinPyromancerLog/xcode-claw",
+    "repo": "kessler/gemma-gem",
     "branch": "main",
-    "language": "JavaScript",
-    "description": ""
+    "language": "TypeScript",
+    "description": "Gemma Gem runs Google's Gemma 4 model entirely on-device via WebGPU — no API keys, no cloud, no data leaving your machine."
   },
   {
-    "repo": "LearnPrompt/luban-skill",
-    "branch": "master",
-    "language": "Shell",
-    "description": "鲁班 | Luban — 把'能用的Skill'打磨成'能被装、能传播、能验证、能进化'的公共资产。Agent skill-polishing workshop: 验料·访行·过尺·慢刨·回炉"
-  },
-  {
-    "repo": "kubernetes-sigs/kustomize",
-    "branch": "master",
-    "language": "Go",
-    "description": "Customization of kubernetes YAML configurations"
-  },
-  {
-    "repo": "sbilly/awesome-security",
-    "branch": "master",
-    "language": "Other",
-    "description": "A collection of awesome software, libraries, documents, books, resources and cools stuffs about security."
-  },
-  {
-    "repo": "Shopify/javy",
+    "repo": "PolyMomentum/polymarket-momentum-mispricing-bot",
     "branch": "main",
-    "language": "Rust",
-    "description": "JS to WebAssembly toolchain"
+    "language": "TypeScript",
+    "description": "Polymarket trading bot, Binance momentum bot, prediction market arbitrage, BTC fast market bot, Polymarket trading bot, Binance momentum bot, prediction market arbitrage, BTC fast market bot, Polymarket trading bot, Binance momentum bot, prediction market arbitrage, BTC fast market bot, Polymarket trading bot, Binance momentum bot"
   },
   {
-    "repo": "6551Team/opennews-mcp",
+    "repo": "haolinwang819-boop/ai-video-generation-workflow",
     "branch": "main",
+    "language": "TypeScript",
+    "description": "AI video generation workflow with script, slides, TTS, subtitles, and FFmpeg rendering."
+  },
+  {
+    "repo": "raspberrypi/documentation",
+    "branch": "master",
     "language": "Python",
-    "description": "Crypto News Aggregation · AI Ratings · Trading Signals · Real-time Updates"
+    "description": "The official documentation for Raspberry Pi computers and microcontrollers"
   },
   {
-    "repo": "google/wire",
+    "repo": "ephraimduncan/opencode-cursor",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Use your cursor subscription in opencode"
+  },
+  {
+    "repo": "rustwasm/wasm-pack",
     "branch": "master",
-    "language": "Go",
-    "description": "Compile-time Dependency Injection for Go"
+    "language": "Rust",
+    "description": "📦✨ your favorite rust -> wasm workflow tool!"
   },
   {
-    "repo": "go-task/task",
-    "branch": "master",
-    "language": "Go",
-    "description": "A task runner / simpler Make alternative written in Go"
-  },
-  {
-    "repo": "ClawdisAI/ClawdisAI",
+    "repo": "Emanuele-web04/remodex",
     "branch": "main",
     "language": "Swift",
-    "description": "Always on. Always local. Always listening. A personal AI assistant that lives on your devices and meets you on every surface you already use."
+    "description": "Remote Control for Codex. 24/7 version on the way"
   },
   {
-    "repo": "ringhyacinth/Star-Office-UI",
-    "branch": "master",
-    "language": "HTML",
-    "description": ""
-  },
-  {
-    "repo": "github/gitignore",
+    "repo": "vueuse/vueuse",
     "branch": "main",
-    "language": "Other",
-    "description": "A collection of useful .gitignore templates"
-  },
-  {
-    "repo": "go-resty/resty",
-    "branch": "master",
-    "language": "Go",
-    "description": "Simple HTTP, REST, and SSE client library for Go"
-  },
-  {
-    "repo": "Tencent/tdesign-vue-next",
-    "branch": "develop",
     "language": "TypeScript",
-    "description": "A Vue3.x UI components lib for TDesign."
+    "description": "Collection of essential Vue Composition Utilities for Vue 3"
   },
   {
-    "repo": "tauri-apps/tauri",
+    "repo": "TrendTechVista/polymarket-sports-bot",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "polymarket sports bot polymarket sports bot polymarket sports bot polymarket sports bot polymarket sports bot polymarket sports bot polymarket sports bot polymarket sports bot polymarket sports bot polymarket sports bot polymarket sports bot polymarket sports bot polymarket sports bot polymarket sports bot polymarket sports bot polymarket spots"
+  },
+  {
+    "repo": "H-EmbodVis/VEGA-3D",
+    "branch": "main",
+    "language": "Python",
+    "description": "Official code of Generation Models Know Space: Unleashing Implicit 3D Priors for Scene Understanding"
+  },
+  {
+    "repo": "JeanMeijer/slopmeter",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "CLI tool to show off how many tokens you use"
+  },
+  {
+    "repo": "World-Open-Graph/br-acc",
+    "branch": "main",
+    "language": "Python",
+    "description": "World Transparency Graph public codebase"
+  },
+  {
+    "repo": "arpitg1304/robotics-agent-skills",
+    "branch": "main",
+    "language": "Python",
+    "description": "Agent skills that make AI coding assistants write production-grade robotics software. ROS1, ROS2, design patterns, SOLID principles, and testing — for Claude Code, Cursor, Copilot, and any SKILL.md-compatible agent."
+  },
+  {
+    "repo": "NousResearch/hermes-agent-self-evolution",
+    "branch": "main",
+    "language": "Python",
+    "description": "⚒ Evolutionary self-improvement for Hermes Agent — optimize skills, prompts, and code using DSPy + GEPA"
+  },
+  {
+    "repo": "better-auth/better-icons",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Skill and MCP server for searching and retrieving icons"
+  },
+  {
+    "repo": "fatedier/frp",
     "branch": "dev",
-    "language": "Rust",
-    "description": "Build smaller, faster, and more secure desktop and mobile applications with a web frontend."
+    "language": "Go",
+    "description": "A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet."
   },
   {
-    "repo": "memovai/mimiclaw",
-    "branch": "main",
-    "language": "C",
-    "description": "MimiClaw: Run OpenClaw on a $5 chip. No OS(Linux). No Node.js. No Mac mini. No Raspberry Pi. No VPS.😗Local-first memory. Shareable. Portable. Privacy-first."
-  },
-  {
-    "repo": "cloudflare/vinext",
+    "repo": "fspecii/HeartMuLa-Studio",
     "branch": "main",
     "language": "TypeScript",
-    "description": "Vite plugin that reimplements the Next.js API surface — deploy anywhere"
+    "description": "Suno-like music generation studio for HeartMuLa/heartlib - AI-powered music creation with reference audio style transfer"
   },
   {
-    "repo": "anthropics/financial-services-plugins",
+    "repo": "Kindness-Kismet/One-Player",
+    "branch": "main",
+    "language": "Kotlin",
+    "description": "增强的 Android 视频播放器"
+  },
+  {
+    "repo": "videojs/video.js",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "Video.js - open source HTML5 video player"
+  },
+  {
+    "repo": "alibaba/FunASR",
     "branch": "main",
     "language": "Python",
-    "description": ""
+    "description": "A Fundamental End-to-End Speech Recognition Toolkit and Open Source SOTA Pretrained Models, Supporting Speech Recognition, Voice Activity Detection, Text Post-processing etc."
   },
   {
-    "repo": "skernelx/tavily-key-generator",
-    "branch": "main",
-    "language": "Python",
-    "description": "Auto batch register Tavily API Keys with pluggable email backends"
-  },
-  {
-    "repo": "FiloSottile/mkcert",
+    "repo": "derailed/k9s",
     "branch": "master",
     "language": "Go",
-    "description": "A simple zero-config tool to make locally trusted development certificates with any names you'd like."
+    "description": "🐶 Kubernetes CLI To Manage Your Clusters In Style!"
   },
   {
-    "repo": "hashicorp/raft",
-    "branch": "main",
-    "language": "Go",
-    "description": "Golang implementation of the Raft consensus protocol"
-  },
-  {
-    "repo": "revfactory/harness",
-    "branch": "main",
-    "language": "HTML",
-    "description": "A meta-skill that designs domain-specific agent teams, defines specialized agents, and generates the skills they use."
-  },
-  {
-    "repo": "zhangbo2008/claude_code_annotated",
+    "repo": "steipete/birdclaw",
     "branch": "main",
     "language": "TypeScript",
-    "description": "claudecode泄露部分的代码解析"
+    "description": "Stores all your tweets nicely claw-able for agents."
   },
   {
-    "repo": "XTLS/Xray-core",
+    "repo": "testcontainers/testcontainers-java",
     "branch": "main",
-    "language": "Go",
-    "description": "Xray, Penetrates Everything. Also the best v2ray-core. Where the magic happens. An open platform for various uses."
+    "language": "Java",
+    "description": "Testcontainers is a Java library that supports JUnit tests, providing lightweight, throwaway instances of common databases, Selenium web browsers, or anything else that can run in a Docker container."
   },
   {
-    "repo": "tinygo-org/tinygo",
-    "branch": "release",
-    "language": "Go",
-    "description": "Go compiler for small places. Microcontrollers, WebAssembly (WASM/WASI), and command-line tools. Based on LLVM."
+    "repo": "infraform/polymarket-arbitrage-trading-bot",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "polymarket arbitrage bot, polymarket arbitrage bot, polymarket arbitrage bot, polymarket arbitrage bot, polymarket arbitrage bot, polymarket arbitrage bot, polymarket arbitrage bot, polymarket arbitrage bot, polymarket arbitrage bot, polymarket arbitrage bot, polymarket arbitrage bot, polymarket arbitrage bot, polymarket arbitrage bot"
   }
 ]

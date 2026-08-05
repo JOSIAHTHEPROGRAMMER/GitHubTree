@@ -1,8 +1,8 @@
 {
-  "repo": "xyaz1313/phoenix",
-  "branch": "main",
+  "repo": "typewriter03/Desko",
+  "branch": "master",
   "language": "Python",
-  "description": "不死鸟 Phoenix — Hermes Agent 插件：路由分档/风险防线/自愈/存档点提醒/审批策略自适应，官方钩子接入，不改 Hermes 核心代码",
-  "stars": 120,
-  "forks": 8
+  "description": "A featured project on GitHubTree.",
+  "stars": 112,
+  "forks": 6
 }
