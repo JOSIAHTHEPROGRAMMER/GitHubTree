@@ -1,8 +1,8 @@
 {
-  "repo": "lij768423-svg/grok2api-egress-enhancements",
+  "repo": "xyaz1313/phoenix",
   "branch": "main",
-  "language": "Go",
-  "description": "Grok2API & CPA egress quality guard with proxy recovery, quarantine, migration, and operations UI",
-  "stars": 124,
-  "forks": 30
+  "language": "Python",
+  "description": "不死鸟 Phoenix — Hermes Agent 插件：路由分档/风险防线/自愈/存档点提醒/审批策略自适应，官方钩子接入，不改 Hermes 核心代码",
+  "stars": 120,
+  "forks": 8
 }

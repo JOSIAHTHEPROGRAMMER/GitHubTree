@@ -1,146 +1,146 @@
 [
   {
-    "repo": "myccarl/ai-shortVideo-pipeline",
-    "branch": "main",
-    "language": "Python",
-    "description": "End-to-end AI short-video production pipeline. FastAPI orchestration + Spring Boot gateway with multi-model failover, circuit breaker, metering, and full-stack observability. AI quality gating: prompt anchoring, CLIP consistency, AV sync auto-rescue."
-  },
-  {
-    "repo": "cft0808/edict",
-    "branch": "main",
-    "language": "HTML",
-    "description": "🏛️ 三省六部制 · OpenClaw Multi-Agent Orchestration System — 9 specialized AI agents with real-time dashboard, model config, and full audit trails"
-  },
-  {
-    "repo": "molefrog/skills",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "❈ Claude skill for generating high-quality PDFs using react-pdf"
-  },
-  {
-    "repo": "Gentleman-Programming/engram",
-    "branch": "main",
-    "language": "Go",
-    "description": "Persistent memory system for AI coding agents. Agent-agnostic Go binary with SQLite + FTS5, MCP server, HTTP API, CLI, and TUI."
-  },
-  {
-    "repo": "Runnin4ik/dpi-detector",
-    "branch": "main",
-    "language": "Python",
-    "description": "DPI detection tool for internet censorship testing. Identifies TLS, TCP, HTTP blocking and 16-20KB connection drops"
-  },
-  {
-    "repo": "prompt-security/clawsec",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "A complete security skill suite for OpenClaw's family of agents. Protect your SOUL.md (etc') with drift detection, live security recommendations, automated audits, and skill integrity verification. All from one installable suite."
-  },
-  {
-    "repo": "34306/vphone-aio",
-    "branch": "main",
-    "language": "Shell",
-    "description": "1 script run the vphone"
-  },
-  {
-    "repo": "aarondfrancis/counselors",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Fan out prompts to multiple AI coding agents in parallel"
-  },
-  {
-    "repo": "oneclaw/oneclaw",
+    "repo": "FinPyromancerLog/xcode-claw",
     "branch": "main",
     "language": "JavaScript",
-    "description": "OneClaw"
+    "description": ""
   },
   {
-    "repo": "World-Open-Graph/br-acc",
-    "branch": "main",
-    "language": "Python",
-    "description": "World Transparency Graph public codebase"
+    "repo": "LearnPrompt/luban-skill",
+    "branch": "master",
+    "language": "Shell",
+    "description": "鲁班 | Luban — 把'能用的Skill'打磨成'能被装、能传播、能验证、能进化'的公共资产。Agent skill-polishing workshop: 验料·访行·过尺·慢刨·回炉"
   },
   {
-    "repo": "spacedriveapp/spacedrive",
+    "repo": "kubernetes-sigs/kustomize",
+    "branch": "master",
+    "language": "Go",
+    "description": "Customization of kubernetes YAML configurations"
+  },
+  {
+    "repo": "sbilly/awesome-security",
+    "branch": "master",
+    "language": "Other",
+    "description": "A collection of awesome software, libraries, documents, books, resources and cools stuffs about security."
+  },
+  {
+    "repo": "Shopify/javy",
     "branch": "main",
     "language": "Rust",
-    "description": "Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust."
+    "description": "JS to WebAssembly toolchain"
   },
   {
-    "repo": "sb-ocr/cmdeck",
+    "repo": "6551Team/opennews-mcp",
     "branch": "main",
+    "language": "Python",
+    "description": "Crypto News Aggregation · AI Ratings · Trading Signals · Real-time Updates"
+  },
+  {
+    "repo": "google/wire",
+    "branch": "master",
+    "language": "Go",
+    "description": "Compile-time Dependency Injection for Go"
+  },
+  {
+    "repo": "go-task/task",
+    "branch": "master",
+    "language": "Go",
+    "description": "A task runner / simpler Make alternative written in Go"
+  },
+  {
+    "repo": "ClawdisAI/ClawdisAI",
+    "branch": "main",
+    "language": "Swift",
+    "description": "Always on. Always local. Always listening. A personal AI assistant that lives on your devices and meets you on every surface you already use."
+  },
+  {
+    "repo": "ringhyacinth/Star-Office-UI",
+    "branch": "master",
     "language": "HTML",
     "description": ""
   },
   {
-    "repo": "calebwin/pgclaw",
+    "repo": "github/gitignore",
     "branch": "main",
-    "language": "Rust",
-    "description": "A Clawdbot in every row with 400 lines of Postgres SQL"
+    "language": "Other",
+    "description": "A collection of useful .gitignore templates"
   },
   {
-    "repo": "yologdev/yoyo-evolve",
-    "branch": "main",
-    "language": "Rust",
-    "description": "A coding agent that evolves itself. One commit per day."
-  },
-  {
-    "repo": "buildpacks/pack",
-    "branch": "main",
+    "repo": "go-resty/resty",
+    "branch": "master",
     "language": "Go",
-    "description": "CLI for building apps using Cloud Native Buildpacks"
+    "description": "Simple HTTP, REST, and SSE client library for Go"
   },
   {
-    "repo": "YunjueTech/Yunjue-Agent",
-    "branch": "main",
-    "language": "Python",
-    "description": "Yunjue Agent: A Fully Reproducible, Zero-Start In-Situ Self-Evolving Agent System for Open-Ended Tasks"
-  },
-  {
-    "repo": "nocodb/nocodb",
+    "repo": "Tencent/tdesign-vue-next",
     "branch": "develop",
     "language": "TypeScript",
-    "description": "🔥 🔥 🔥 A Free & Self-hostable Airtable Alternative"
+    "description": "A Vue3.x UI components lib for TDesign."
   },
   {
-    "repo": "Blimp-Labs/claude-usage-bar",
+    "repo": "tauri-apps/tauri",
+    "branch": "dev",
+    "language": "Rust",
+    "description": "Build smaller, faster, and more secure desktop and mobile applications with a web frontend."
+  },
+  {
+    "repo": "memovai/mimiclaw",
     "branch": "main",
-    "language": "Swift",
-    "description": "A macOS menu bar app that shows your Claude API usage at a glance"
+    "language": "C",
+    "description": "MimiClaw: Run OpenClaw on a $5 chip. No OS(Linux). No Node.js. No Mac mini. No Raspberry Pi. No VPS.😗Local-first memory. Shareable. Portable. Privacy-first."
   },
   {
-    "repo": "petergpt/bullshit-benchmark",
+    "repo": "cloudflare/vinext",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Vite plugin that reimplements the Next.js API surface — deploy anywhere"
+  },
+  {
+    "repo": "anthropics/financial-services-plugins",
     "branch": "main",
     "language": "Python",
     "description": ""
   },
   {
-    "repo": "pyg-team/pytorch_geometric",
-    "branch": "master",
+    "repo": "skernelx/tavily-key-generator",
+    "branch": "main",
     "language": "Python",
-    "description": "Graph Neural Network Library for PyTorch"
+    "description": "Auto batch register Tavily API Keys with pluggable email backends"
   },
   {
-    "repo": "actions/checkout",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Action for checking out a repo"
-  },
-  {
-    "repo": "apache/mxnet",
+    "repo": "FiloSottile/mkcert",
     "branch": "master",
-    "language": "C++",
-    "description": "Lightweight, Portable, Flexible Distributed/Mobile Deep Learning with Dynamic, Mutation-aware Dataflow Dep Scheduler; for Python, R, Julia, Scala, Go, Javascript and more"
+    "language": "Go",
+    "description": "A simple zero-config tool to make locally trusted development certificates with any names you'd like."
   },
   {
-    "repo": "kewonit/aeris",
+    "repo": "hashicorp/raft",
+    "branch": "main",
+    "language": "Go",
+    "description": "Golang implementation of the Raft consensus protocol"
+  },
+  {
+    "repo": "revfactory/harness",
+    "branch": "main",
+    "language": "HTML",
+    "description": "A meta-skill that designs domain-specific agent teams, defines specialized agents, and generates the skills they use."
+  },
+  {
+    "repo": "zhangbo2008/claude_code_annotated",
     "branch": "main",
     "language": "TypeScript",
-    "description": "Aeris is a real-time 3D flight radar for the web"
+    "description": "claudecode泄露部分的代码解析"
   },
   {
-    "repo": "joeseesun/knowledge-site-creator",
+    "repo": "XTLS/Xray-core",
     "branch": "main",
-    "language": "Shell",
-    "description": "一句话生成任何领域的知识学习网站 - AI 理解主题，自动创作内容，生成页面，一键部署"
+    "language": "Go",
+    "description": "Xray, Penetrates Everything. Also the best v2ray-core. Where the magic happens. An open platform for various uses."
+  },
+  {
+    "repo": "tinygo-org/tinygo",
+    "branch": "release",
+    "language": "Go",
+    "description": "Go compiler for small places. Microcontrollers, WebAssembly (WASM/WASI), and command-line tools. Based on LLVM."
   }
 ]
