@@ -1,146 +1,146 @@
 [
   {
-    "repo": "kessler/gemma-gem",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Gemma Gem runs Google's Gemma 4 model entirely on-device via WebGPU — no API keys, no cloud, no data leaving your machine."
-  },
-  {
-    "repo": "PolyMomentum/polymarket-momentum-mispricing-bot",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Polymarket trading bot, Binance momentum bot, prediction market arbitrage, BTC fast market bot, Polymarket trading bot, Binance momentum bot, prediction market arbitrage, BTC fast market bot, Polymarket trading bot, Binance momentum bot, prediction market arbitrage, BTC fast market bot, Polymarket trading bot, Binance momentum bot"
-  },
-  {
-    "repo": "haolinwang819-boop/ai-video-generation-workflow",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "AI video generation workflow with script, slides, TTS, subtitles, and FFmpeg rendering."
-  },
-  {
-    "repo": "raspberrypi/documentation",
+    "repo": "lxh77721/k12-reg",
     "branch": "master",
-    "language": "Python",
-    "description": "The official documentation for Raspberry Pi computers and microcontrollers"
-  },
-  {
-    "repo": "ephraimduncan/opencode-cursor",
-    "branch": "main",
     "language": "TypeScript",
-    "description": "Use your cursor subscription in opencode"
+    "description": "多线程全自动注册free 强上K12空间 gmail版"
   },
   {
-    "repo": "rustwasm/wasm-pack",
+    "repo": "netblue30/firejail",
     "branch": "master",
-    "language": "Rust",
-    "description": "📦✨ your favorite rust -> wasm workflow tool!"
+    "language": "C",
+    "description": "Linux namespaces and seccomp-bpf sandbox"
   },
   {
-    "repo": "Emanuele-web04/remodex",
+    "repo": "kubernetes-sigs/kubespray",
+    "branch": "master",
+    "language": "Jinja",
+    "description": "Deploy a Production Ready Kubernetes Cluster"
+  },
+  {
+    "repo": "zevorn/rt-claw",
     "branch": "main",
-    "language": "Swift",
-    "description": "Remote Control for Codex. 24/7 version on the way"
+    "language": "C",
+    "description": "Making AI Assistants Cheap Again!"
   },
   {
-    "repo": "vueuse/vueuse",
+    "repo": "amneziawg-mikrotik/awg-proxy",
     "branch": "main",
-    "language": "TypeScript",
-    "description": "Collection of essential Vue Composition Utilities for Vue 3"
-  },
-  {
-    "repo": "TrendTechVista/polymarket-sports-bot",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "polymarket sports bot polymarket sports bot polymarket sports bot polymarket sports bot polymarket sports bot polymarket sports bot polymarket sports bot polymarket sports bot polymarket sports bot polymarket sports bot polymarket sports bot polymarket sports bot polymarket sports bot polymarket sports bot polymarket sports bot polymarket spots"
-  },
-  {
-    "repo": "H-EmbodVis/VEGA-3D",
-    "branch": "main",
-    "language": "Python",
-    "description": "Official code of Generation Models Know Space: Unleashing Implicit 3D Priors for Scene Understanding"
-  },
-  {
-    "repo": "JeanMeijer/slopmeter",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "CLI tool to show off how many tokens you use"
-  },
-  {
-    "repo": "World-Open-Graph/br-acc",
-    "branch": "main",
-    "language": "Python",
-    "description": "World Transparency Graph public codebase"
-  },
-  {
-    "repo": "arpitg1304/robotics-agent-skills",
-    "branch": "main",
-    "language": "Python",
-    "description": "Agent skills that make AI coding assistants write production-grade robotics software. ROS1, ROS2, design patterns, SOLID principles, and testing — for Claude Code, Cursor, Copilot, and any SKILL.md-compatible agent."
-  },
-  {
-    "repo": "NousResearch/hermes-agent-self-evolution",
-    "branch": "main",
-    "language": "Python",
-    "description": "⚒ Evolutionary self-improvement for Hermes Agent — optimize skills, prompts, and code using DSPy + GEPA"
-  },
-  {
-    "repo": "better-auth/better-icons",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Skill and MCP server for searching and retrieving icons"
-  },
-  {
-    "repo": "fatedier/frp",
-    "branch": "dev",
     "language": "Go",
-    "description": "A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet."
+    "description": ""
   },
   {
-    "repo": "fspecii/HeartMuLa-Studio",
+    "repo": "reduxjs/redux-thunk",
+    "branch": "master",
+    "language": "TypeScript",
+    "description": "Thunk middleware for Redux"
+  },
+  {
+    "repo": "open-telemetry/opentelemetry-python",
+    "branch": "main",
+    "language": "Python",
+    "description": "OpenTelemetry Python API and SDK"
+  },
+  {
+    "repo": "cncf/landscape",
+    "branch": "master",
+    "language": "Other",
+    "description": "🌄 The Cloud Native Interactive Landscape filters and sorts hundreds of projects and products, and shows details including GitHub stars, funding, first and last commits, contributor counts and headquarters location."
+  },
+  {
+    "repo": "pmndrs/react-three-fiber",
+    "branch": "master",
+    "language": "TypeScript",
+    "description": "🇨🇭 A React renderer for Three.js"
+  },
+  {
+    "repo": "chef/chef",
+    "branch": "main",
+    "language": "Ruby",
+    "description": "Chef Infra, a powerful automation platform that transforms infrastructure into code automating how infrastructure is configured, deployed and managed across any environment, at any scale"
+  },
+  {
+    "repo": "actions/checkout",
     "branch": "main",
     "language": "TypeScript",
-    "description": "Suno-like music generation studio for HeartMuLa/heartlib - AI-powered music creation with reference audio style transfer"
+    "description": "Action for checking out a repo"
   },
   {
-    "repo": "Kindness-Kismet/One-Player",
+    "repo": "behzadea12/Paqet-Tunnel-Manager",
     "branch": "main",
-    "language": "Kotlin",
-    "description": "增强的 Android 视频播放器"
+    "language": "Shell",
+    "description": "Management script for paqet: raw socket KCP-based tunnel for firewall/DPI bypass. Supports kharej server and Iran client configurations."
   },
   {
-    "repo": "videojs/video.js",
+    "repo": "sdkman/sdkman-cli",
+    "branch": "master",
+    "language": "Gherkin",
+    "description": "The SDKMAN! Command Line Interface"
+  },
+  {
+    "repo": "thanos-io/thanos",
+    "branch": "main",
+    "language": "Go",
+    "description": "Highly available Prometheus setup with long term storage capabilities. A CNCF Incubating project."
+  },
+  {
+    "repo": "prettier/eslint-plugin-prettier",
     "branch": "main",
     "language": "JavaScript",
-    "description": "Video.js - open source HTML5 video player"
+    "description": "ESLint plugin for Prettier formatting"
   },
   {
-    "repo": "alibaba/FunASR",
+    "repo": "Gitlawb/openclaude",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Claude Code opened to any LLM — OpenAI, Gemini, DeepSeek, Ollama, and 200+ models via OpenAI-compatible API shim"
+  },
+  {
+    "repo": "sparkyniner/Netryx-OpenSource-Next-Gen-Street-Level-Geolocation",
     "branch": "main",
     "language": "Python",
-    "description": "A Fundamental End-to-End Speech Recognition Toolkit and Open Source SOTA Pretrained Models, Supporting Speech Recognition, Voice Activity Detection, Text Post-processing etc."
+    "description": "Netryx is a powerful, locally-hosted geolocation tool that uses state-of-the-art computer vision to identify the exact coordinates of a street-level image. It replicates the core pipeline of high-end geolocation SaaS platforms but runs entirely on your local hardware."
   },
   {
-    "repo": "derailed/k9s",
-    "branch": "master",
+    "repo": "actions/setup-node",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Set up your GitHub Actions workflow with a specific version of node.js"
+  },
+  {
+    "repo": "miaoxworld/OpenClawInstaller",
+    "branch": "main",
+    "language": "Shell",
+    "description": "ClawdBot 一键部署工具"
+  },
+  {
+    "repo": "compozy/compozy",
+    "branch": "main",
     "language": "Go",
-    "description": "🐶 Kubernetes CLI To Manage Your Clusters In Style!"
+    "description": "Drive the full lifecycle of AI-assisted development — from idea to shipped code."
   },
   {
-    "repo": "steipete/birdclaw",
+    "repo": "actions/setup-python",
     "branch": "main",
     "language": "TypeScript",
-    "description": "Stores all your tweets nicely claw-able for agents."
+    "description": "Set up your GitHub Actions workflow with a specific version of Python"
   },
   {
-    "repo": "testcontainers/testcontainers-java",
-    "branch": "main",
-    "language": "Java",
-    "description": "Testcontainers is a Java library that supports JUnit tests, providing lightweight, throwaway instances of common databases, Selenium web browsers, or anything else that can run in a Docker container."
-  },
-  {
-    "repo": "infraform/polymarket-arbitrage-trading-bot",
+    "repo": "uuidjs/uuid",
     "branch": "main",
     "language": "TypeScript",
-    "description": "polymarket arbitrage bot, polymarket arbitrage bot, polymarket arbitrage bot, polymarket arbitrage bot, polymarket arbitrage bot, polymarket arbitrage bot, polymarket arbitrage bot, polymarket arbitrage bot, polymarket arbitrage bot, polymarket arbitrage bot, polymarket arbitrage bot, polymarket arbitrage bot, polymarket arbitrage bot"
+    "description": "Generate RFC-compliant UUIDs in JavaScript"
+  },
+  {
+    "repo": "apple/swift-log",
+    "branch": "main",
+    "language": "Swift",
+    "description": "A Logging API for Swift"
+  },
+  {
+    "repo": "envoyproxy/protoc-gen-validate",
+    "branch": "main",
+    "language": "Go",
+    "description": "Protocol Buffer Validation - replaced by https://github.com/bufbuild/protovalidate"
   }
 ]
