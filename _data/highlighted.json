@@ -1,8 +1,8 @@
 {
-  "repo": "alexngdev99/rork-medieval-3d-chess",
+  "repo": "lincwang123-bot/moonlit-stories",
   "branch": "main",
-  "language": "TypeScript",
-  "description": "Created by Rork",
-  "stars": 166,
-  "forks": 44
+  "language": "JavaScript",
+  "description": "Reusable AI English picture-book workflow with consistent illustrations and local Chatterbox TTS.",
+  "stars": 119,
+  "forks": 24
 }

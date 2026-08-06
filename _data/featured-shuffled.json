@@ -1,146 +1,146 @@
 [
   {
-    "repo": "facebook/litho",
-    "branch": "main",
-    "language": "Kotlin",
-    "description": "A declarative framework for building efficient UIs on Android."
-  },
-  {
-    "repo": "photonstorm/phaser",
+    "repo": "yin-yizhen/sonic-topography",
     "branch": "master",
-    "language": "JavaScript",
-    "description": "Phaser is a fun, free and fast 2D game framework for making HTML5 games for desktop and mobile web browsers, supporting Canvas and WebGL rendering."
-  },
-  {
-    "repo": "phuryn/pm-brain",
-    "branch": "main",
-    "language": "Python",
-    "description": "PM Brain OS: The Second Brain for Product Managers, Made of Markdown"
-  },
-  {
-    "repo": "element-plus/element-plus",
-    "branch": "dev",
     "language": "TypeScript",
-    "description": "🎉 A Vue.js 3 UI Library made by Element team"
+    "description": "随音乐产生交互的棋盘式海浪，支持网易云搜索"
   },
   {
-    "repo": "SamNet-dev/dnstm-setup",
-    "branch": "master",
+    "repo": "spf13/cobra",
+    "branch": "main",
+    "language": "Go",
+    "description": "A Commander for modern Go CLI interactions"
+  },
+  {
+    "repo": "0xSero/glm-5.2-sm120",
+    "branch": "main",
     "language": "Shell",
-    "description": "Interactive setup wizard for dnstm — automated DNS-based network configuration"
+    "description": "GLM-5.2-NVFP4-REAP-469B serving on SM120 (4× RTX PRO 6000 Blackwell) — one-command vLLM launch recipe, 250K context, DeepSeek Sparse Attention + MTP speculative decode"
   },
   {
-    "repo": "nestjs/nest",
+    "repo": "NO6KIKO/gorest-2d-animation-spritesheet-generator",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Codex-assisted local 2D animation spritesheet generator and scene compositing workspace."
+  },
+  {
+    "repo": "dazzyddos/ClickOnceBlobber",
+    "branch": "main",
+    "language": "Python",
+    "description": ""
+  },
+  {
+    "repo": "projectdiscovery/nuclei",
+    "branch": "master",
+    "language": "Go",
+    "description": "Nuclei is a fast, customizable vulnerability scanner powered by the global security community and built on a simple YAML-based DSL, enabling collaboration to tackle trending vulnerabilities on the internet. It helps you find vulnerabilities in your applications, APIs, networks, DNS, and cloud configurations."
+  },
+  {
+    "repo": "tailwindcss/tailwindcss",
     "branch": "master",
     "language": "TypeScript",
-    "description": "A progressive Node.js framework for building efficient, scalable, and enterprise-grade server-side applications with TypeScript/JavaScript 🚀"
+    "description": "A utility-first CSS framework for rapid UI development."
   },
   {
-    "repo": "jarmuine/claude-code",
+    "repo": "james-6-23/codex2api",
     "branch": "main",
-    "language": "TypeScript",
-    "description": "Fork of instructkr/claude-code"
+    "language": "Go",
+    "description": ""
   },
   {
-    "repo": "vxcozy/tome",
+    "repo": "tmchow/illo-skill",
     "branch": "main",
-    "language": "TypeScript",
-    "description": "Beautiful documentation that doesn't cost a fortune. Open-source Mintlify alternative."
+    "language": "Python",
+    "description": "illo — an AI agent skill that turns ideas and articles into original print-style editorial illustrations, starring a recurring mascot. Ten bundled looks, custom characters, OpenRouter-powered."
   },
   {
-    "repo": "openmax-server/server",
+    "repo": "vorssaint/vorssaint-utils",
+    "branch": "main",
+    "language": "Swift",
+    "description": ""
+  },
+  {
+    "repo": "EbookFoundation/free-programming-books",
+    "branch": "main",
+    "language": "Python",
+    "description": ":books: Freely available programming books"
+  },
+  {
+    "repo": "soltia48/sdrplusplus-j-alert-plugin",
+    "branch": "main",
+    "language": "C++",
+    "description": "Out-of-tree decoder plugin for SDR++ that demodulates and decodes the J-ALERT (全国瞬時警報システム) satellite downlink."
+  },
+  {
+    "repo": "Higangssh/gitcredits",
+    "branch": "main",
+    "language": "Go",
+    "description": "Roll movie-style credits for your git repo — right in the terminal"
+  },
+  {
+    "repo": "clap-rs/clap",
     "branch": "master",
-    "language": "Python",
-    "description": "Открытый сервер для MAX"
+    "language": "Rust",
+    "description": "A full featured, fast Command Line Argument Parser for Rust"
   },
   {
-    "repo": "ultralytics/yolov5",
-    "branch": "master",
-    "language": "Python",
-    "description": "YOLOv5 🚀 in PyTorch > ONNX > CoreML > TFLite"
-  },
-  {
-    "repo": "Klipper3d/klipper",
-    "branch": "master",
-    "language": "C",
-    "description": "Klipper is a 3d-printer firmware"
-  },
-  {
-    "repo": "SeleniumHQ/selenium",
-    "branch": "trunk",
-    "language": "Java",
-    "description": "A browser automation framework and ecosystem."
-  },
-  {
-    "repo": "doctorhetfield-cmd/simpleui.koplugin",
-    "branch": "main",
-    "language": "Lua",
-    "description": "A UI plugin for KOReader with bottom navigation bar, topbar, and desktop widgets"
-  },
-  {
-    "repo": "MINT-SJTU/RoboClaw",
+    "repo": "raheemxghumman/DBD-AutoGrind-Trainer-2026-Extreme",
     "branch": "main",
     "language": "Python",
-    "description": "RoboClaw is an Embodied AI Assistant."
+    "description": "Ultimate Dead by Daylight auto-grind trainer Extreme edition with Bloodpoint bot, ESP wallhack, aimbot, and full perk/skin unlocker. Dominate the Fog with our 2026 undetected external tool."
   },
   {
-    "repo": "aws/aws-cdk",
+    "repo": "HugoRCD/evlog",
     "branch": "main",
     "language": "TypeScript",
-    "description": "The AWS Cloud Development Kit is a framework for defining cloud infrastructure in code"
+    "description": "Logging that makes sense. Wide events, structured errors, zero chaos."
   },
   {
-    "repo": "DeveloperExotic/LegacyCrossPlay",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "A Minecraft Legacy Edition proxy translator, that allows connections to Java Edition servers."
-  },
-  {
-    "repo": "ramda/ramda",
+    "repo": "gohugoio/hugo",
     "branch": "master",
-    "language": "JavaScript",
-    "description": ":ram: Practical functional Javascript"
+    "language": "Go",
+    "description": "The world’s fastest framework for building websites."
   },
   {
-    "repo": "ktorio/ktor",
-    "branch": "main",
-    "language": "Kotlin",
-    "description": "Framework for quickly creating connected applications in Kotlin with minimal effort"
-  },
-  {
-    "repo": "skernelx/tavily-key-generator",
+    "repo": "VictorTaelin/OptMem",
     "branch": "main",
     "language": "Python",
-    "description": "Auto batch register Tavily API Keys with pluggable email backends"
+    "description": "Permanent memory for AI agents. A 426-token prompt, a script, plug and play."
   },
   {
-    "repo": "actions/download-artifact",
+    "repo": "zju3dv/Scal3R",
+    "branch": "main",
+    "language": "Python",
+    "description": "[CVPR 2026 (Highlight)] Scal3R: Scalable Test-Time Training for Large-Scale 3D Reconstruction"
+  },
+  {
+    "repo": "dexhorthy/shannon",
     "branch": "main",
     "language": "TypeScript",
-    "description": "Download artifacts from your build"
+    "description": "alternative to claude -p that lifecycles interactive sessions in tmux"
   },
   {
-    "repo": "huggingface/transformers",
+    "repo": "revfactory/harness",
     "branch": "main",
-    "language": "Python",
-    "description": "🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training."
+    "language": "HTML",
+    "description": "A meta-skill that designs domain-specific agent teams, defines specialized agents, and generates the skills they use."
   },
   {
-    "repo": "1837620622/cloudflare-bypass-2026",
-    "branch": "main",
-    "language": "Python",
-    "description": "Cloudflare Turnstile 绕过工具 | Cloudflare Bypass Tool based on SeleniumBase UC Mode | 支持 Mac/Windows/Linux"
-  },
-  {
-    "repo": "AnInsomniacy/motrix-next",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "The next chapter of Motrix — rebuilt from scratch with Tauri 2, Vue 3, and Rust"
-  },
-  {
-    "repo": "beita6969/ScienceClaw",
+    "repo": "ObesidianQuant/polymarket-trade-engine",
     "branch": "main",
     "language": "TypeScript",
-    "description": "🔬🦞 A self-evolving AI research colleague for scientists. 285 skills, zero hallucination, persistent memory."
+    "description": "polymarket trading bot, polymarket copy trading bot, polymarket trading bot, polymarket copy trading bot, polymarket trading bot, polymarket copy trading bot, polymarket trading bot, polymarket copy trading bot, polymarket trading bot, polymarket copy trading bot, polymarket trading bot, polymarket copy trading bot,"
+  },
+  {
+    "repo": "Yuzu-NES/Yuzu-Emu",
+    "branch": "main",
+    "language": "C++",
+    "description": "yuzu emulator nintendo switch emulation open source community fork backup archive github repository download link suyu torzu pineappleea vulkan api shader cache graphics mods production keys firmware windows 11 linux steam deck android configuration setup guide troubleshooting performance optimization gaming utility tutorial"
+  },
+  {
+    "repo": "composer/composer",
+    "branch": "main",
+    "language": "PHP",
+    "description": "Dependency Manager for PHP"
   }
 ]
