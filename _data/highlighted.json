@@ -1,8 +1,8 @@
 {
-  "repo": "lincwang123-bot/moonlit-stories",
-  "branch": "main",
-  "language": "JavaScript",
-  "description": "Reusable AI English picture-book workflow with consistent illustrations and local Chatterbox TTS.",
-  "stars": 119,
-  "forks": 24
+  "repo": "humanpen/humanpen-skill",
+  "branch": "master",
+  "language": "Python",
+  "description": "A featured project on GitHubTree.",
+  "stars": 110,
+  "forks": 0
 }

@@ -1,146 +1,146 @@
 [
   {
-    "repo": "yin-yizhen/sonic-topography",
-    "branch": "master",
-    "language": "TypeScript",
-    "description": "随音乐产生交互的棋盘式海浪，支持网易云搜索"
-  },
-  {
-    "repo": "spf13/cobra",
+    "repo": "kontaktinfob-popeb-music-glitch/pokemon-champions-pc",
     "branch": "main",
-    "language": "Go",
-    "description": "A Commander for modern Go CLI interactions"
+    "language": "C#",
+    "description": "pokemon champions on pc desktop emulator mobile"
   },
   {
-    "repo": "0xSero/glm-5.2-sm120",
+    "repo": "jlevy/the-art-of-command-line",
+    "branch": "master",
+    "language": "Other",
+    "description": "Master the command line, in one page"
+  },
+  {
+    "repo": "withkynam/vibecode-pro-max-kit",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "Your AI forgets. This remembers. Spec-driven coding harness for vibecoders, product owners, CEOs and real builders — self-improving context memory, 12 agents, 32 skills. Kills context rot, ships features, not spaghetti. Claude Code & Codex. Any stack. 30 seconds"
+  },
+  {
+    "repo": "elastic/kibana",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Your window into all of your data"
+  },
+  {
+    "repo": "infixity24/Extreme-Injector-v3.7.3-Dll-Injector",
+    "branch": "main",
+    "language": "C++",
+    "description": "Extreme Injector v3.7.3 is a powerful and easy-to-use DLL injector for Windows. Supports Manual Map, Stealth mode, Auto-Inject, and multiple injection methods. Ideal for developers and single-player game modding."
+  },
+  {
+    "repo": "99xAgency/GodModeSkill",
     "branch": "main",
     "language": "Shell",
-    "description": "GLM-5.2-NVFP4-REAP-469B serving on SM120 (4× RTX PRO 6000 Blackwell) — one-command vLLM launch recipe, 250K context, DeepSeek Sparse Attention + MTP speculative decode"
+    "description": "Multi-LLM cross-review workflow for Claude Code. /work orchestrates plan/implement/bug-fix with 3 different model families voting on every gate."
   },
   {
-    "repo": "NO6KIKO/gorest-2d-animation-spritesheet-generator",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Codex-assisted local 2D animation spritesheet generator and scene compositing workspace."
-  },
-  {
-    "repo": "dazzyddos/ClickOnceBlobber",
-    "branch": "main",
-    "language": "Python",
-    "description": ""
-  },
-  {
-    "repo": "projectdiscovery/nuclei",
+    "repo": "google/flatbuffers",
     "branch": "master",
-    "language": "Go",
-    "description": "Nuclei is a fast, customizable vulnerability scanner powered by the global security community and built on a simple YAML-based DSL, enabling collaboration to tackle trending vulnerabilities on the internet. It helps you find vulnerabilities in your applications, APIs, networks, DNS, and cloud configurations."
-  },
-  {
-    "repo": "tailwindcss/tailwindcss",
-    "branch": "master",
-    "language": "TypeScript",
-    "description": "A utility-first CSS framework for rapid UI development."
-  },
-  {
-    "repo": "james-6-23/codex2api",
-    "branch": "main",
-    "language": "Go",
-    "description": ""
-  },
-  {
-    "repo": "tmchow/illo-skill",
-    "branch": "main",
-    "language": "Python",
-    "description": "illo — an AI agent skill that turns ideas and articles into original print-style editorial illustrations, starring a recurring mascot. Ten bundled looks, custom characters, OpenRouter-powered."
-  },
-  {
-    "repo": "vorssaint/vorssaint-utils",
-    "branch": "main",
-    "language": "Swift",
-    "description": ""
-  },
-  {
-    "repo": "EbookFoundation/free-programming-books",
-    "branch": "main",
-    "language": "Python",
-    "description": ":books: Freely available programming books"
-  },
-  {
-    "repo": "soltia48/sdrplusplus-j-alert-plugin",
-    "branch": "main",
     "language": "C++",
-    "description": "Out-of-tree decoder plugin for SDR++ that demodulates and decodes the J-ALERT (全国瞬時警報システム) satellite downlink."
+    "description": "FlatBuffers: Memory Efficient Serialization Library"
   },
   {
-    "repo": "Higangssh/gitcredits",
-    "branch": "main",
-    "language": "Go",
-    "description": "Roll movie-style credits for your git repo — right in the terminal"
-  },
-  {
-    "repo": "clap-rs/clap",
+    "repo": "spf13/viper",
     "branch": "master",
+    "language": "Go",
+    "description": "Go configuration with fangs"
+  },
+  {
+    "repo": "iad1tya/EchoTube",
+    "branch": "main",
+    "language": "Kotlin",
+    "description": "Open-source YouTube client - enjoy an ad-free experience in a lightweight app, no account required."
+  },
+  {
+    "repo": "openai/gym",
+    "branch": "master",
+    "language": "Python",
+    "description": "A toolkit for developing and comparing reinforcement learning algorithms."
+  },
+  {
+    "repo": "cli/cli",
+    "branch": "trunk",
+    "language": "Go",
+    "description": "GitHub’s official command line tool"
+  },
+  {
+    "repo": "prof-oguzergin/bilgisayar-mimarisi",
+    "branch": "main",
+    "language": "TeX",
+    "description": "Bilgisayar Mimarisi: RISC-V Tabanlı Yaklaşım — Açık kaynak Türkçe ders kitabı (CC BY-NC-ND 4.0)"
+  },
+  {
+    "repo": "CoreGuideLab/polymarket-arbitrage-trading-bot",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Polymarket arbitrage trading bot: Polymarket arbitrage trading bot Polymarket arbitrage bot Polymarket trading bot Polymarket trading bot Polymarket trading bot Polymarket trading bot Polymarket trading bot Polymarket trading bot Polymarket trading bot Polymarket trading bot Polymarket trading bot Polymarket trading bot Polymarket tradingbot"
+  },
+  {
+    "repo": "ufira-ai/Vibma",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Vibe Design meets Figma. Let AI agents design directly in Figma."
+  },
+  {
+    "repo": "Albert-Weasker/niubi_guard",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Open-source GitHub repository abuse detection and response system."
+  },
+  {
+    "repo": "ryan26craf/polymarket-kalshi-arbitrage-bot",
+    "branch": "main",
     "language": "Rust",
-    "description": "A full featured, fast Command Line Argument Parser for Rust"
+    "description": "Kalshi open source trading bot to automate copy trading and arbitrage strategies on crypto prediction markets for free, with simple interface."
   },
   {
-    "repo": "raheemxghumman/DBD-AutoGrind-Trainer-2026-Extreme",
+    "repo": "kepengxu/PRISM-VL",
     "branch": "main",
     "language": "Python",
-    "description": "Ultimate Dead by Daylight auto-grind trainer Extreme edition with Bloodpoint bot, ESP wallhack, aimbot, and full perk/skin unlocker. Dominate the Fog with our 2026 undetected external tool."
+    "description": "PRISM-VL studies measurement-grounded VLM learning with RAW-derived Meas.-XYZ inputs, camera-conditioned grounding, and exposure-bracketed supervision transfer."
   },
   {
-    "repo": "HugoRCD/evlog",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Logging that makes sense. Wide events, structured errors, zero chaos."
-  },
-  {
-    "repo": "gohugoio/hugo",
-    "branch": "master",
-    "language": "Go",
-    "description": "The world’s fastest framework for building websites."
-  },
-  {
-    "repo": "VictorTaelin/OptMem",
+    "repo": "SentiAvatar/SentiAvatar",
     "branch": "main",
     "language": "Python",
-    "description": "Permanent memory for AI agents. A 426-token prompt, a script, plug and play."
+    "description": ""
   },
   {
-    "repo": "zju3dv/Scal3R",
-    "branch": "main",
-    "language": "Python",
-    "description": "[CVPR 2026 (Highlight)] Scal3R: Scalable Test-Time Training for Large-Scale 3D Reconstruction"
-  },
-  {
-    "repo": "dexhorthy/shannon",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "alternative to claude -p that lifecycles interactive sessions in tmux"
-  },
-  {
-    "repo": "revfactory/harness",
-    "branch": "main",
-    "language": "HTML",
-    "description": "A meta-skill that designs domain-specific agent teams, defines specialized agents, and generates the skills they use."
-  },
-  {
-    "repo": "ObesidianQuant/polymarket-trade-engine",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "polymarket trading bot, polymarket copy trading bot, polymarket trading bot, polymarket copy trading bot, polymarket trading bot, polymarket copy trading bot, polymarket trading bot, polymarket copy trading bot, polymarket trading bot, polymarket copy trading bot, polymarket trading bot, polymarket copy trading bot,"
-  },
-  {
-    "repo": "Yuzu-NES/Yuzu-Emu",
+    "repo": "dadi1921/Tomodachi-Life-Living-The-Dream-PC",
     "branch": "main",
     "language": "C++",
-    "description": "yuzu emulator nintendo switch emulation open source community fork backup archive github repository download link suyu torzu pineappleea vulkan api shader cache graphics mods production keys firmware windows 11 linux steam deck android configuration setup guide troubleshooting performance optimization gaming utility tutorial"
+    "description": "Tomodachi Life: Living the Dream PC Version is an optimized Windows port of the popular life simulation game. Create unique Miis, develop relationships, host concerts and events on your own island in high resolution. Features improved performance, widescreen support, smooth FPS"
   },
   {
-    "repo": "composer/composer",
+    "repo": "Gloridust/WechatOnCloud",
     "branch": "main",
-    "language": "PHP",
-    "description": "Dependency Manager for PHP"
+    "language": "TypeScript",
+    "description": "云微WOC，云微信，自由连接"
+  },
+  {
+    "repo": "Morgensonne/EditDeck",
+    "branch": "main",
+    "language": "Python",
+    "description": ""
+  },
+  {
+    "repo": "kessler/gemma-gem",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Gemma Gem runs Google's Gemma 4 model entirely on-device via WebGPU — no API keys, no cloud, no data leaving your machine."
+  },
+  {
+    "repo": "rootsecdev/cve_2026_31431",
+    "branch": "main",
+    "language": "Python",
+    "description": "Exploit POC for CVE_2026_31431"
+  },
+  {
+    "repo": "rasoir0591/Crosshair-X",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "crosshair x steam download custom crosshair free overlay extension torrent valorant cs2 apex pro settings windows"
   }
 ]
