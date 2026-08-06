@@ -1,146 +1,146 @@
 [
   {
-    "repo": "kontaktinfob-popeb-music-glitch/pokemon-champions-pc",
+    "repo": "btseytlin/hr-breaker",
     "branch": "main",
-    "language": "C#",
-    "description": "pokemon champions on pc desktop emulator mobile"
+    "language": "Python",
+    "description": "Optimize resume for jobs, now with AI"
   },
   {
-    "repo": "jlevy/the-art-of-command-line",
-    "branch": "master",
-    "language": "Other",
-    "description": "Master the command line, in one page"
-  },
-  {
-    "repo": "withkynam/vibecode-pro-max-kit",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "Your AI forgets. This remembers. Spec-driven coding harness for vibecoders, product owners, CEOs and real builders — self-improving context memory, 12 agents, 32 skills. Kills context rot, ships features, not spaghetti. Claude Code & Codex. Any stack. 30 seconds"
-  },
-  {
-    "repo": "elastic/kibana",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Your window into all of your data"
-  },
-  {
-    "repo": "infixity24/Extreme-Injector-v3.7.3-Dll-Injector",
+    "repo": "reiazevedo/Tomodachi-Life-Living-the-Dream-Desktop-Version",
     "branch": "main",
     "language": "C++",
-    "description": "Extreme Injector v3.7.3 is a powerful and easy-to-use DLL injector for Windows. Supports Manual Map, Stealth mode, Auto-Inject, and multiple injection methods. Ideal for developers and single-player game modding."
+    "description": "Tomodachi Life: Living the Dream Desktop Version is the optimized PC edition of the popular life simulation game. Create Miis, build friendships, host concerts, and enjoy island life in high resolution with smooth performance and modern controls on Windows."
   },
   {
-    "repo": "99xAgency/GodModeSkill",
+    "repo": "Eronred/aso-skills",
     "branch": "main",
     "language": "Shell",
-    "description": "Multi-LLM cross-review workflow for Claude Code. /work orchestrates plan/implement/bug-fix with 3 different model families voting on every gate."
+    "description": "AI agent skills for App Store Optimization (ASO) and mobile app marketing. Built for indie developers, app marketers, and growth teams who want Cursor, Claude Code, or any Agent Skills-compatible AI assistant to help with keyword research, metadata optimization, competitor analysis, and app growth."
   },
   {
-    "repo": "google/flatbuffers",
-    "branch": "master",
+    "repo": "SulfurNitride/Fluorine-Manager",
+    "branch": "main",
     "language": "C++",
-    "description": "FlatBuffers: Memory Efficient Serialization Library"
+    "description": "An attempt at recreating all MO2 functions in linux with NaK integration and FUSE based VFS. Comes with Root Builder support by default. It's in alpha and needs a lot of testing to be done."
   },
   {
-    "repo": "spf13/viper",
-    "branch": "master",
-    "language": "Go",
-    "description": "Go configuration with fangs"
-  },
-  {
-    "repo": "iad1tya/EchoTube",
+    "repo": "runesleo/x-reader",
     "branch": "main",
-    "language": "Kotlin",
-    "description": "Open-source YouTube client - enjoy an ad-free experience in a lightweight app, no account required."
-  },
-  {
-    "repo": "openai/gym",
-    "branch": "master",
     "language": "Python",
-    "description": "A toolkit for developing and comparing reinforcement learning algorithms."
+    "description": "Universal content reader — fetch, normalize, and digest content from 7+ platforms (WeChat, Telegram, X, YouTube, Bilibili, Xiaohongshu, RSS)"
   },
   {
-    "repo": "cli/cli",
-    "branch": "trunk",
+    "repo": "vercel-labs/visual-json",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "The Visual JSON Editor. Schema-aware, embeddable, extensible."
+  },
+  {
+    "repo": "eljojo/rememory",
+    "branch": "main",
     "language": "Go",
-    "description": "GitHub’s official command line tool"
+    "description": "have a plan for the worst-case scenario"
   },
   {
-    "repo": "prof-oguzergin/bilgisayar-mimarisi",
+    "repo": "Fox-Fig/phoenix",
     "branch": "main",
-    "language": "TeX",
-    "description": "Bilgisayar Mimarisi: RISC-V Tabanlı Yaklaşım — Açık kaynak Türkçe ders kitabı (CC BY-NC-ND 4.0)"
+    "language": "Go",
+    "description": "Phoenix is a high-performance, resilient tunneling tool designed to bypass DPI and severe network censorship using HTTP/2 (h2/h2c) multiplexing."
   },
   {
-    "repo": "CoreGuideLab/polymarket-arbitrage-trading-bot",
+    "repo": "yeuxuan/openclaw-docs",
     "branch": "main",
-    "language": "TypeScript",
-    "description": "Polymarket arbitrage trading bot: Polymarket arbitrage trading bot Polymarket arbitrage bot Polymarket trading bot Polymarket trading bot Polymarket trading bot Polymarket trading bot Polymarket trading bot Polymarket trading bot Polymarket trading bot Polymarket trading bot Polymarket trading bot Polymarket trading bot Polymarket tradingbot"
+    "language": "JavaScript",
+    "description": "openclaw 剖析、拆解、教程在线文档"
   },
   {
-    "repo": "ufira-ai/Vibma",
+    "repo": "Robbyant/lingbot-va",
     "branch": "main",
-    "language": "TypeScript",
-    "description": "Vibe Design meets Figma. Let AI agents design directly in Figma."
+    "language": "Python",
+    "description": "Causal video-action world model for generalist robot control"
   },
   {
-    "repo": "Albert-Weasker/niubi_guard",
+    "repo": "iad1tya/Net-Bar",
     "branch": "main",
-    "language": "TypeScript",
-    "description": "Open-source GitHub repository abuse detection and response system."
+    "language": "Swift",
+    "description": "A lightweight, aesthetically pleasing network speed monitor that lives in your macOS menu bar."
   },
   {
-    "repo": "ryan26craf/polymarket-kalshi-arbitrage-bot",
+    "repo": "sheeki03/tirith",
     "branch": "main",
     "language": "Rust",
-    "description": "Kalshi open source trading bot to automate copy trading and arbitrage strategies on crypto prediction markets for free, with simple interface."
+    "description": "Your browser catches homograph attacks. Your terminal doesn't. Tirith guards the gate — intercepts suspicious URLs, ANSI injection, and pipe-to-shell attacks before they execute."
   },
   {
-    "repo": "kepengxu/PRISM-VL",
-    "branch": "main",
-    "language": "Python",
-    "description": "PRISM-VL studies measurement-grounded VLM learning with RAW-derived Meas.-XYZ inputs, camera-conditioned grounding, and exposure-bracketed supervision transfer."
-  },
-  {
-    "repo": "SentiAvatar/SentiAvatar",
-    "branch": "main",
-    "language": "Python",
-    "description": ""
-  },
-  {
-    "repo": "dadi1921/Tomodachi-Life-Living-The-Dream-PC",
-    "branch": "main",
-    "language": "C++",
-    "description": "Tomodachi Life: Living the Dream PC Version is an optimized Windows port of the popular life simulation game. Create unique Miis, develop relationships, host concerts and events on your own island in high resolution. Features improved performance, widescreen support, smooth FPS"
-  },
-  {
-    "repo": "Gloridust/WechatOnCloud",
+    "repo": "gavrielc/nanoclaw",
     "branch": "main",
     "language": "TypeScript",
-    "description": "云微WOC，云微信，自由连接"
+    "description": "My personal Claude assistant that runs in Apple containers. Lightweight, secure, and built to be understood and customized for your own needs."
   },
   {
-    "repo": "Morgensonne/EditDeck",
+    "repo": "TQZHR/grok2api",
     "branch": "main",
     "language": "Python",
-    "description": ""
+    "description": "Grok2API (Cloudflare Workers) one-click deploy with auto D1+KV provisioning"
   },
   {
-    "repo": "kessler/gemma-gem",
+    "repo": "dazzyddos/lsawhisper-bof",
     "branch": "main",
-    "language": "TypeScript",
-    "description": "Gemma Gem runs Google's Gemma 4 model entirely on-device via WebGPU — no API keys, no cloud, no data leaving your machine."
+    "language": "C",
+    "description": "A Beacon Object File (BOF) that talks directly to Windows authentication packages through the LSA untrusted/trusted client interface, without touching LSASS process memory."
   },
   {
-    "repo": "rootsecdev/cve_2026_31431",
+    "repo": "ryfineZ/codex-session-patcher",
     "branch": "main",
     "language": "Python",
-    "description": "Exploit POC for CVE_2026_31431"
+    "description": "A lightweight Python tool to clean AI refusal responses from Codex CLI session files"
   },
   {
-    "repo": "rasoir0591/Crosshair-X",
+    "repo": "tanbiralam/claude-code",
     "branch": "main",
     "language": "TypeScript",
-    "description": "crosshair x steam download custom crosshair free overlay extension torrent valorant cs2 apex pro settings windows"
+    "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands. All original source code is the property of Anthropic."
+  },
+  {
+    "repo": "miaoxworld/OpenClawInstaller",
+    "branch": "main",
+    "language": "Shell",
+    "description": "ClawdBot 一键部署工具"
+  },
+  {
+    "repo": "averygan/reclip",
+    "branch": "main",
+    "language": "HTML",
+    "description": "Download videos from almost any website. Lightweight, self-hosted media downloader with a clean web UI."
+  },
+  {
+    "repo": "OpenDCAI/OpenPrism",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Open-source implementation of AI-powered academic writing workspace inspired by OpenAI Prism, featuring LaTeX editing, PDF preview, and intelligent AI assistance"
+  },
+  {
+    "repo": "shuaiplus/NodeWarden",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Minimal Bitwarden-compatible server on Cloudflare Workers for personal use"
+  },
+  {
+    "repo": "est-labs/polymarket-arbitrage-bot",
+    "branch": "master",
+    "language": "TypeScript",
+    "description": "polymarket arbitrage trading bot polymarket arbitrage trading bot polymarket arbitrage trading bot polymarket arbitrage trading bot polymarket arbitrage trading bot polymarket arbitrage trading bot polymarket arbitrage trading bot polymarket arbitrage trading bot polymarket arbitrage trading bot polymarket arbitrage trading bot polymarket arbitrage"
+  },
+  {
+    "repo": "uqogihujomuwhiff/sora2-watermark-cleaner-pro",
+    "branch": "main",
+    "language": "Python",
+    "description": "sora2 watermark cleaner pro"
+  },
+  {
+    "repo": "maria-rcks/t1code",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "T3Code, but in your terminal"
   }
 ]
