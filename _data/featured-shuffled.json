@@ -1,146 +1,146 @@
 [
   {
-    "repo": "neovim/neovim",
-    "branch": "master",
-    "language": "Vim Script",
-    "description": "Vim-fork focused on extensibility and usability"
+    "repo": "TQ-trade/rari-stable-pool-contracts",
+    "branch": "dependabot/npm_and_yarn/ajv-6.14.0",
+    "language": "HTML",
+    "description": "Smart contracts for the Rari Stable Pool."
   },
   {
-    "repo": "hantuzun/awesome-clojure",
-    "branch": "master",
-    "language": "Other",
-    "description": "A curated list of awesome Clojure libraries and resources. Inspired by awesome-... stuff"
-  },
-  {
-    "repo": "rubygems/rubygems",
-    "branch": "master",
-    "language": "Ruby",
-    "description": "Library packaging and distribution for Ruby."
-  },
-  {
-    "repo": "nmap/nmap",
-    "branch": "master",
-    "language": "C",
-    "description": "Nmap - the Network Mapper. Github mirror of official SVN repository."
-  },
-  {
-    "repo": "op7418/Youtube-clipper-skill",
+    "repo": "IAmIronMan42/MiniMax-H3-FineTuning",
     "branch": "main",
     "language": "Python",
     "description": ""
   },
   {
-    "repo": "flybirdxx/ComfyUI-Qwen-TTS",
+    "repo": "zhilin1112/YellowKey-Bitlocker",
     "branch": "main",
-    "language": "Python",
-    "description": "A Simple Implementation of Qwen3-TTS's ComfyUI"
+    "language": "TypeScript",
+    "description": "YellowKey BitLocker Bypass Vulnerability : Zero-day exploit, proof-of-concept PoC, Chaotic Eclipse GitHub. Windows 11 bypass, Windows Server 2022 2025. WinRE recovery image, FsTx directory, System Volume Information, USB drive files, winpeshl.ini deletion, Transactional NTFS flaw, CTRL key shell, TPM-only backdoor."
   },
   {
-    "repo": "jquery/jquery-ui",
+    "repo": "darkrishabh/agent-skills-eval",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "A test runner for agentskills.io-style AI agent skills"
+  },
+  {
+    "repo": "binggandata/bggg-skills",
+    "branch": "main",
+    "language": "Python",
+    "description": "Open-source Codex skills from BGGG"
+  },
+  {
+    "repo": "cosmicstack-labs/mercury-agent-skills",
     "branch": "main",
     "language": "JavaScript",
-    "description": "The official jQuery user interface library."
+    "description": "A curated registry of reusable Mercury Agent, Open Claw or Hermes Agent skills designed for real developer workflows, persistent memory, and token-efficient execution."
   },
   {
-    "repo": "KNG7-P/Se7en-Pro",
-    "branch": "master",
-    "language": "C#",
+    "repo": "amanning3390/deepswarm",
+    "branch": "main",
+    "language": "Python",
     "description": ""
   },
   {
-    "repo": "pacifio/cersei",
+    "repo": "kunchenguid/lavish-axi",
     "branch": "main",
-    "language": "Rust",
-    "description": "The Rust SDK for building coding agents. Tool execution, LLM streaming, graph memory, sub-agent orchestration, MCP — as composable library functions."
+    "language": "JavaScript",
+    "description": "HTML is the new markdown. Lavish is the new editor for your HTML artifacts."
   },
   {
-    "repo": "EthanLipnik/Loom",
+    "repo": "ProjectKumo/KumoApp",
     "branch": "main",
     "language": "Swift",
-    "description": "Easy peer to peer networking for Apple devices"
+    "description": "A calm, native macOS client for the Mihomo proxy core, built with SwiftUI and a shared agent-friendly CLI."
   },
   {
-    "repo": "getsentry/sentry-javascript",
-    "branch": "develop",
+    "repo": "ShinyaTomitsuka/arbitrage-trading-bot",
+    "branch": "main",
     "language": "TypeScript",
-    "description": "Official Sentry SDKs for JavaScript"
+    "description": "polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot bot"
   },
   {
-    "repo": "altair-viz/altair",
+    "repo": "DadsMmoLab/dads-mmo-lab",
+    "branch": "main",
+    "language": "Shell",
+    "description": "Offline MMO private servers on Steam Deck. Free guides, Docker scripts & shell installers for classic MMOs. No subscription. No internet. Forever. Visibility:       ✅ Public"
+  },
+  {
+    "repo": "Ahtasham-ul-haq/Hades_II_Trainer_X",
     "branch": "main",
     "language": "Python",
-    "description": "Declarative visualization library for Python"
+    "description": "God mode, unlimited resources, and one-hit kill for Hades II. Take zero damage, infinite health and mana, one-shot all enemies. Escape the Underworld effortlessly."
   },
   {
-    "repo": "kicad/kicad",
-    "branch": "master",
+    "repo": "RadianceToadAmend/ARC-Raiders-External-Tool",
+    "branch": "main",
     "language": "C++",
-    "description": "This is an active mirror of the KiCad development branch, which is hosted at GitLab (updated every time something is pushed). Pull requests on GitHub are not accepted or watched."
+    "description": "External overlay tool for ARC Raiders. UE5 memory reader, entity , radar, performance monitor. D3D11 render, no injection. For offline training purposes only."
   },
   {
-    "repo": "helm/helm",
-    "branch": "main",
-    "language": "Go",
-    "description": "The Kubernetes Package Manager"
-  },
-  {
-    "repo": "lauris/awesome-scala",
-    "branch": "master",
-    "language": "Python",
-    "description": "A community driven list of useful Scala libraries, frameworks and software."
-  },
-  {
-    "repo": "lllyasviel/VCC",
+    "repo": "xzf-thu/Mega-ASR",
     "branch": "main",
     "language": "Python",
-    "description": "Compile agent conversations!"
+    "description": "First foundation ASR built for the real world - 7 atomic acoustic conditions, 54 compound scenarios, 2.6M samples, and up to ~30% gains over SOTA where every other model falls apart. **You'll come back to MEGA-ASR, after the rest fail in the wild. ⭐**"
   },
   {
-    "repo": "EbookFoundation/free-programming-books",
-    "branch": "main",
-    "language": "Python",
-    "description": ":books: Freely available programming books"
-  },
-  {
-    "repo": "vxcozy/tome",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Beautiful documentation that doesn't cost a fortune. Open-source Mintlify alternative."
-  },
-  {
-    "repo": "liuwei283/RealWonder",
-    "branch": "main",
-    "language": "Python",
-    "description": "Real-Time Physical Action-Conditioned Video Generation"
-  },
-  {
-    "repo": "vigorX777/product-design-system",
+    "repo": "Syed-Imran88/MT5-Exposure-Mesh-Analyzer",
     "branch": "main",
     "language": "HTML",
-    "description": "面向产品经理的 AI 辅助产品设计工作框架，可 fork 定制的通用产品设计系统"
+    "description": "Best Multi-Asset Correlation Heatmap & Risk Matrix for MetaTrader 2026"
   },
   {
-    "repo": "soongenwong/claudecode",
+    "repo": "downclash/clash",
     "branch": "main",
-    "language": "Rust",
-    "description": "Open Source ClaudeCode Leaked. Same functionalities as Claude Code by Anthropic. Written in Rust, Ready to use immediately for free."
+    "language": "JavaScript",
+    "description": ""
   },
   {
-    "repo": "uber-go/zap",
+    "repo": "0xShug0/audio.cpp",
+    "branch": "release-0.1",
+    "language": "C++",
+    "description": "An all-in-one, pure C++ inference engine for audio models, powered by ggml. Supports TTS, STT, VAD, voice conversion, music generation, and more, with highly optimized performance. No Python dependency."
+  },
+  {
+    "repo": "Composio-HQ/polymarket-kalshi-arbitrage-bot",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Polymarket Kalshi arbitrage prediction-markets trading-bot TypeScript Node.js CLOB Polygon ethers automated-trading spread-trading DeFi crypto algorithmic-trading market-making Kalshi-API Polymarket-CLOB express axios dotenv"
+  },
+  {
+    "repo": "alvinunreal/claude-pets",
     "branch": "master",
-    "language": "Go",
-    "description": "Blazing fast, structured, leveled logging in Go."
+    "language": "TypeScript",
+    "description": "Claude Code integration for OpenPets: automatic desktop pet status updates with one-command setup."
   },
   {
-    "repo": "aiming-lab/MetaClaw",
+    "repo": "primitive-bench/primitive-bench",
     "branch": "main",
     "language": "Python",
-    "description": "Just talk to your agent — it learns and EVOLVES."
+    "description": ""
   },
   {
-    "repo": "androidx/androidx",
-    "branch": "androidx-main",
-    "language": "Kotlin",
-    "description": "Development environment for Android Jetpack extension libraries under the androidx namespace. Synchronized with Android Jetpack's primary development branch on AOSP."
+    "repo": "tahzeeb031/harmonize-ffmpeg-pipeline",
+    "branch": "main",
+    "language": "HTML",
+    "description": "Self-Hosted 24/7 Media Hub with AI Playlist Curation & Smart Transcoding 2026"
+  },
+  {
+    "repo": "facebookresearch/ProgramBench",
+    "branch": "main",
+    "language": "Python",
+    "description": "Can Language Models Rebuild Programs From Scratch?"
+  },
+  {
+    "repo": "Jia-Ethan/claude-keysmith",
+    "branch": "main",
+    "language": "Python",
+    "description": "Claude Code CLAUDE.md import-block installer for local instruction files"
+  },
+  {
+    "repo": "kitft/natural_language_autoencoders",
+    "branch": "main",
+    "language": "Python",
+    "description": ""
   }
 ]
