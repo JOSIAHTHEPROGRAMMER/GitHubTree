@@ -1,8 +1,8 @@
 {
-  "repo": "ryanzhou/deepseek-v4-flash-mi300x",
+  "repo": "ARMSX2/ARMSX1",
   "branch": "main",
-  "language": "Python",
-  "description": "A featured project on GitHubTree.",
-  "stars": 129,
-  "forks": 10
+  "language": "C",
+  "description": "New PS1 Emulator from the Founders of ARMSX2 ",
+  "stars": 118,
+  "forks": 2
 }

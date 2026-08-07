@@ -1,146 +1,146 @@
 [
   {
-    "repo": "btseytlin/hr-breaker",
-    "branch": "main",
-    "language": "Python",
-    "description": "Optimize resume for jobs, now with AI"
+    "repo": "istio/istio.io",
+    "branch": "master",
+    "language": "HTML",
+    "description": "Source for the istio.io site"
   },
   {
-    "repo": "reiazevedo/Tomodachi-Life-Living-the-Dream-Desktop-Version",
-    "branch": "main",
-    "language": "C++",
-    "description": "Tomodachi Life: Living the Dream Desktop Version is the optimized PC edition of the popular life simulation game. Create Miis, build friendships, host concerts, and enjoy island life in high resolution with smooth performance and modern controls on Windows."
-  },
-  {
-    "repo": "Eronred/aso-skills",
-    "branch": "main",
-    "language": "Shell",
-    "description": "AI agent skills for App Store Optimization (ASO) and mobile app marketing. Built for indie developers, app marketers, and growth teams who want Cursor, Claude Code, or any Agent Skills-compatible AI assistant to help with keyword research, metadata optimization, competitor analysis, and app growth."
-  },
-  {
-    "repo": "SulfurNitride/Fluorine-Manager",
-    "branch": "main",
-    "language": "C++",
-    "description": "An attempt at recreating all MO2 functions in linux with NaK integration and FUSE based VFS. Comes with Root Builder support by default. It's in alpha and needs a lot of testing to be done."
-  },
-  {
-    "repo": "runesleo/x-reader",
-    "branch": "main",
-    "language": "Python",
-    "description": "Universal content reader — fetch, normalize, and digest content from 7+ platforms (WeChat, Telegram, X, YouTube, Bilibili, Xiaohongshu, RSS)"
-  },
-  {
-    "repo": "vercel-labs/visual-json",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "The Visual JSON Editor. Schema-aware, embeddable, extensible."
-  },
-  {
-    "repo": "eljojo/rememory",
-    "branch": "main",
-    "language": "Go",
-    "description": "have a plan for the worst-case scenario"
-  },
-  {
-    "repo": "Fox-Fig/phoenix",
-    "branch": "main",
-    "language": "Go",
-    "description": "Phoenix is a high-performance, resilient tunneling tool designed to bypass DPI and severe network censorship using HTTP/2 (h2/h2c) multiplexing."
-  },
-  {
-    "repo": "yeuxuan/openclaw-docs",
+    "repo": "atagon-GmbH/kogiqa-mcp",
     "branch": "main",
     "language": "JavaScript",
-    "description": "openclaw 剖析、拆解、教程在线文档"
+    "description": "This web browser has been designed to help your agent debug and develop complex web applications. (MCP Server)"
   },
   {
-    "repo": "Robbyant/lingbot-va",
+    "repo": "freq-trades/hyperliquid-trading-bot",
     "branch": "main",
     "language": "Python",
-    "description": "Causal video-action world model for generalist robot control"
+    "description": "hyperliquid perpetuals grid crypto derivatives dex typescript nodejs automated-trading algorithmic-trading quant api leverage orderbook market-making testnet defi trading-bot blockchain risk OHLCV crypto-bot grid-strategy stop-loss drawdown viem websocket yaml systematic futures spot hedging rebalance liquidation SDK npm opensource observability d"
   },
   {
-    "repo": "iad1tya/Net-Bar",
-    "branch": "main",
-    "language": "Swift",
-    "description": "A lightweight, aesthetically pleasing network speed monitor that lives in your macOS menu bar."
-  },
-  {
-    "repo": "sheeki03/tirith",
-    "branch": "main",
-    "language": "Rust",
-    "description": "Your browser catches homograph attacks. Your terminal doesn't. Tirith guards the gate — intercepts suspicious URLs, ANSI injection, and pipe-to-shell attacks before they execute."
-  },
-  {
-    "repo": "gavrielc/nanoclaw",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "My personal Claude assistant that runs in Apple containers. Lightweight, secure, and built to be understood and customized for your own needs."
-  },
-  {
-    "repo": "TQZHR/grok2api",
+    "repo": "lynote-ai/humanize-text",
     "branch": "main",
     "language": "Python",
-    "description": "Grok2API (Cloudflare Workers) one-click deploy with auto D1+KV provisioning"
+    "description": "Free open-source AI text humanizer to convert AI-generated content into undetectable, human-like writing. Bypass Turnitin, GPTZero, and all major AI detectors. No sign-up required. Try our unlimited free online tool"
   },
   {
-    "repo": "dazzyddos/lsawhisper-bof",
+    "repo": "johnmiddleton12/my-whoop",
+    "branch": "main",
+    "language": "Python",
+    "description": ""
+  },
+  {
+    "repo": "sander110419/lightroom-cc-on-linux",
     "branch": "main",
     "language": "C",
-    "description": "A Beacon Object File (BOF) that talks directly to Windows authentication packages through the LSA untrusted/trusted client interface, without touching LSASS process memory."
+    "description": "Reproducible recipe for running Adobe Lightroom CC on Linux via Wine 11.8 staging. Researched and verified end-to-end by Claude Opus 4.7."
   },
   {
-    "repo": "ryfineZ/codex-session-patcher",
+    "repo": "sartoopjj/vpn-over-github",
+    "branch": "main",
+    "language": "Go",
+    "description": "Tunnels TCP connections through GitHub. Supports gist and git transports ( Too slow. Not usable.)"
+  },
+  {
+    "repo": "johnbean393/KeyType",
+    "branch": "main",
+    "language": "Swift",
+    "description": "An open-source Cotypist with macOS system wide AI autocomplete"
+  },
+  {
+    "repo": "matildagrahamgraham5131/FN-Panel-D-M-A-2026",
+    "branch": "main",
+    "language": "C#",
+    "description": "A foundational toolkit and documentation base for analyzing game client behavior, enhancing security, and developing fair-play countermeasures."
+  },
+  {
+    "repo": "toridawson1907244/XVapeV4-Client-2026",
+    "branch": "main",
+    "language": "C++",
+    "description": "⭐️ Minecraft Vape V4 2026 Latest Download Updated Version Client | Vape Minecraft Client Release New Build Patch Update Installer | Setup File Edition V4 2026 Newest Latest Download | Vape V4 Minecraft Update Installer Setup File Edition | Client V4 2026 Release New Build Patch Update New ⭐️"
+  },
+  {
+    "repo": "seulee26/mckinsey-pptx",
     "branch": "main",
     "language": "Python",
-    "description": "A lightweight Python tool to clean AI refusal responses from Codex CLI session files"
+    "description": "McKinsey-style PPTX generator — Claude Code plugin with 40 slide templates + subagent that picks the right template and defends its choice. Built by AX Labs (이승필)."
   },
   {
-    "repo": "tanbiralam/claude-code",
+    "repo": "Jafta-September/Diablo-IV-Lord-of-Hatred-PC",
     "branch": "main",
-    "language": "TypeScript",
-    "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands. All original source code is the property of Anthropic."
+    "language": "C++",
+    "description": "Diablo IV Lord of Hatred PC Download April 28 2026 Release Date Warlock Class Build Guide Season of Slaughter Be The Butcher Overwatch 2 Collab Skins Diablo 4 Expansion Early Access US Release Warlock Shadowform Eviscerate Hex Skill Tree Tower Mode Tile Sets Fix Diablo 4 4K 144FPS Windows 11 24H2 Optimization Battle.net Login Error Fix Free"
   },
   {
-    "repo": "miaoxworld/OpenClawInstaller",
+    "repo": "K-Dense-AI/science-superpowers",
     "branch": "main",
     "language": "Shell",
-    "description": "ClawdBot 一键部署工具"
+    "description": "Composable computational-science methodology skills for AI research agents — pre-registration over TDD. A science-domain reimplementation of Superpowers."
   },
   {
-    "repo": "averygan/reclip",
+    "repo": "aayan555/DS4Windows",
     "branch": "main",
-    "language": "HTML",
-    "description": "Download videos from almost any website. Lightweight, self-hosted media downloader with a clean web UI."
+    "language": "C#",
+    "description": "ds4windows ps4 ps5 download pc windows 11 xbox controller mapper forza horizon 6 dualshock 4 dualsense ps5 ps4 xbox 360 emulation bluetooth low latency inputmapper profile config driver vigem ryochan7 free"
   },
   {
-    "repo": "OpenDCAI/OpenPrism",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Open-source implementation of AI-powered academic writing workspace inspired by OpenAI Prism, featuring LaTeX editing, PDF preview, and intelligent AI assistance"
-  },
-  {
-    "repo": "shuaiplus/NodeWarden",
+    "repo": "limitless-org/crypto-engine",
     "branch": "main",
     "language": "TypeScript",
-    "description": "Minimal Bitwarden-compatible server on Cloudflare Workers for personal use"
+    "description": "Crypto Engine"
   },
   {
-    "repo": "est-labs/polymarket-arbitrage-bot",
-    "branch": "master",
-    "language": "TypeScript",
-    "description": "polymarket arbitrage trading bot polymarket arbitrage trading bot polymarket arbitrage trading bot polymarket arbitrage trading bot polymarket arbitrage trading bot polymarket arbitrage trading bot polymarket arbitrage trading bot polymarket arbitrage trading bot polymarket arbitrage trading bot polymarket arbitrage trading bot polymarket arbitrage"
+    "repo": "ConardLi/garden-skills",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "ConardLi's open-source Skills collection, featuring web design, knowledge retrieval, image generation, and more."
   },
   {
-    "repo": "uqogihujomuwhiff/sora2-watermark-cleaner-pro",
+    "repo": "MentalPrism42/FL-Production-25.2.5-DAW",
+    "branch": "main",
+    "language": "C++",
+    "description": "25.2.5 Music Production DAW 2026 Beatmaking AI Mastering Stems Separation PluggnB Organic Sounds MIDI Support VST3 Plugins Audio Recording Low Latency Mixing Mastering Windows 11 Sound Design Virtual Instruments Producer Edition Professional Audio Resource"
+  },
+  {
+    "repo": "xqnode/codex-helper",
+    "branch": "main",
+    "language": "Rust",
+    "description": "轻量 Windows 托盘代理，让 Codex CLI 一键切换 DeepSeek、通义千问等国产大模型"
+  },
+  {
+    "repo": "machinarii/hypervibe",
+    "branch": "main",
+    "language": "Swift",
+    "description": "One-handed vibe coding using Apple TV Remote, customizable buttons and gestures."
+  },
+  {
+    "repo": "TencentYoutuResearch/T2I-L2P",
     "branch": "main",
     "language": "Python",
-    "description": "sora2 watermark cleaner pro"
+    "description": "Code for L2P: Unlocking Latent Potential for Pixel Generation"
   },
   {
-    "repo": "maria-rcks/t1code",
+    "repo": "dashersw/gea",
     "branch": "main",
     "language": "TypeScript",
-    "description": "T3Code, but in your terminal"
+    "description": ""
+  },
+  {
+    "repo": "oboard/claude-code-rev",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Runnable ClaudeCode source code"
+  },
+  {
+    "repo": "bedriyan/medkit-app",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "A voice-first AI patient simulator bringing the future of medical education to your browser, built with Claude Opus 4.7."
+  },
+  {
+    "repo": "NullLatency/FlowDriver",
+    "branch": "master",
+    "language": "Go",
+    "description": "Bypass restrictive networks by tunneling SOCKS5 traffic through legitimate Google Drive API requests."
   }
 ]
