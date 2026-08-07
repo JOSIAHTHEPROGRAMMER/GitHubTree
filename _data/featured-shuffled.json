@@ -1,146 +1,146 @@
 [
   {
-    "repo": "istio/istio.io",
-    "branch": "master",
-    "language": "HTML",
-    "description": "Source for the istio.io site"
+    "repo": "vinhhien112/Three.js-Object-Sculptor-Codex-Plugin",
+    "branch": "main",
+    "language": "Python",
+    "description": "Codex plugin that turns attached object images into code-only, animation-ready procedural Three.js models."
   },
   {
-    "repo": "atagon-GmbH/kogiqa-mcp",
+    "repo": "squadassurancevoid/fl-studio-premium-release",
     "branch": "main",
     "language": "JavaScript",
-    "description": "This web browser has been designed to help your agent debug and develop complex web applications. (MCP Server)"
+    "description": "FL Studio 2026 Premium Release: Official Desktop Installer for Windows - Full Version. Experience studio-quality sound production."
   },
   {
-    "repo": "freq-trades/hyperliquid-trading-bot",
+    "repo": "bonhs1983/Peace-Equalizer-Apo",
     "branch": "main",
-    "language": "Python",
-    "description": "hyperliquid perpetuals grid crypto derivatives dex typescript nodejs automated-trading algorithmic-trading quant api leverage orderbook market-making testnet defi trading-bot blockchain risk OHLCV crypto-bot grid-strategy stop-loss drawdown viem websocket yaml systematic futures spot hedging rebalance liquidation SDK npm opensource observability d"
+    "language": "C#",
+    "description": "peace equalizer apo gui system wide parametric equalizer windows 11 windows 10 audio configuration tool sourceforge download bass boost preamp sound booster headphones calibration microphone setup gaming audio interface gui vst plugins open source desktop utility pc audio enhancement profile manager audio effects"
   },
   {
-    "repo": "lynote-ai/humanize-text",
+    "repo": "Zeeshan2899/System_Backup___Restore",
     "branch": "main",
     "language": "Python",
-    "description": "Free open-source AI text humanizer to convert AI-generated content into undetectable, human-like writing. Bypass Turnitin, GPTZero, and all major AI detectors. No sign-up required. Try our unlimited free online tool"
+    "description": "Create system images, backup files, and restore when needed. Protect your data from crashes and malware. Full system backup."
   },
   {
-    "repo": "johnmiddleton12/my-whoop",
+    "repo": "TianhangZhuzth/Fundamental-Ava",
     "branch": "main",
     "language": "Python",
+    "description": "Build digital human beings — autonomous, collaborative, and socially intelligent agents. FNzgGxU31RWiDgLr3GvxxSa42nRntvZNSG6aBMQ1pump"
+  },
+  {
+    "repo": "simonlin1212/Vibe-Research",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Vibe-Research: Your Personal Trading Research Agent · A股/美股/港股 的个人投研 Agent：每日复盘、资讯雷达、个股数据、板块中心、我的持仓、研究记录。Vibe-Research 把数据和功能配齐，由你自己的 AI 驱动投资研究。"
+  },
+  {
+    "repo": "ylvachifu1992/Silent-Crypto-Miner",
+    "branch": "main",
+    "language": "Python",
+    "description": "Silent Crypto Miner is an advanced cryptocurrency mining builder and runtime engine with multi-algorithm CPU/GPU support and intelligent resource management. Create custom mining executables with configurable algorithms, cross-platform output, real-time monitoring, session persistence, thermal throttling, scheduling, and hashrate optimization."
+  },
+  {
+    "repo": "x4gKing/3x-ui-Upgrade",
+    "branch": "main",
+    "language": "Dockerfile",
     "description": ""
   },
   {
-    "repo": "sander110419/lightroom-cc-on-linux",
+    "repo": "Cjbuilds/Codex-Orchestration",
+    "branch": "main",
+    "language": "Python",
+    "description": "Bring any model to Codex, assign them any role, use them in /goal or any workflow."
+  },
+  {
+    "repo": "joeseesun/qiaomu-novel-generator",
+    "branch": "main",
+    "language": "Python",
+    "description": "Generate complete, gripping original Chinese short fiction from story ideas with reusable narrative craft hooks."
+  },
+  {
+    "repo": "AdilMir1433/DBD-AutoGrind-Trainer-2026-Max",
+    "branch": "main",
+    "language": "Python",
+    "description": "Ultimate Dead by Daylight auto-grind trainer Max edition with Bloodpoint bot, ESP wallhack, aimbot, and full perk/skin unlocker. Dominate the Fog with our 2026 undetected external tool."
+  },
+  {
+    "repo": "x4gKing/3x-ui",
+    "branch": "main",
+    "language": "Dockerfile",
+    "description": ""
+  },
+  {
+    "repo": "robinhood-ape/robinhood-sniper-bot",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "NOXA Fun token sniper on Robinhood Chain - watches TokenLaunched, buys via Uniswap V3 SwapRouter02, auto-sells on take-profit / stop-loss"
+  },
+  {
+    "repo": "bryanthaboi/pokemon-gen1-recomp-project",
     "branch": "main",
     "language": "C",
-    "description": "Reproducible recipe for running Adobe Lightroom CC on Linux via Wine 11.8 staging. Researched and verified end-to-end by Claude Opus 4.7."
+    "description": "Pokemon Gen 1 Recompilation Project - aka Gen1Recomp - A native Lua / LÖVE2D recreation of Gen 1 Pokemon"
   },
   {
-    "repo": "sartoopjj/vpn-over-github",
-    "branch": "main",
-    "language": "Go",
-    "description": "Tunnels TCP connections through GitHub. Supports gist and git transports ( Too slow. Not usable.)"
-  },
-  {
-    "repo": "johnbean393/KeyType",
-    "branch": "main",
-    "language": "Swift",
-    "description": "An open-source Cotypist with macOS system wide AI autocomplete"
-  },
-  {
-    "repo": "matildagrahamgraham5131/FN-Panel-D-M-A-2026",
-    "branch": "main",
-    "language": "C#",
-    "description": "A foundational toolkit and documentation base for analyzing game client behavior, enhancing security, and developing fair-play countermeasures."
-  },
-  {
-    "repo": "toridawson1907244/XVapeV4-Client-2026",
-    "branch": "main",
-    "language": "C++",
-    "description": "⭐️ Minecraft Vape V4 2026 Latest Download Updated Version Client | Vape Minecraft Client Release New Build Patch Update Installer | Setup File Edition V4 2026 Newest Latest Download | Vape V4 Minecraft Update Installer Setup File Edition | Client V4 2026 Release New Build Patch Update New ⭐️"
-  },
-  {
-    "repo": "seulee26/mckinsey-pptx",
-    "branch": "main",
-    "language": "Python",
-    "description": "McKinsey-style PPTX generator — Claude Code plugin with 40 slide templates + subagent that picks the right template and defends its choice. Built by AX Labs (이승필)."
-  },
-  {
-    "repo": "Jafta-September/Diablo-IV-Lord-of-Hatred-PC",
-    "branch": "main",
-    "language": "C++",
-    "description": "Diablo IV Lord of Hatred PC Download April 28 2026 Release Date Warlock Class Build Guide Season of Slaughter Be The Butcher Overwatch 2 Collab Skins Diablo 4 Expansion Early Access US Release Warlock Shadowform Eviscerate Hex Skill Tree Tower Mode Tile Sets Fix Diablo 4 4K 144FPS Windows 11 24H2 Optimization Battle.net Login Error Fix Free"
-  },
-  {
-    "repo": "K-Dense-AI/science-superpowers",
-    "branch": "main",
-    "language": "Shell",
-    "description": "Composable computational-science methodology skills for AI research agents — pre-registration over TDD. A science-domain reimplementation of Superpowers."
-  },
-  {
-    "repo": "aayan555/DS4Windows",
-    "branch": "main",
-    "language": "C#",
-    "description": "ds4windows ps4 ps5 download pc windows 11 xbox controller mapper forza horizon 6 dualshock 4 dualsense ps5 ps4 xbox 360 emulation bluetooth low latency inputmapper profile config driver vigem ryochan7 free"
-  },
-  {
-    "repo": "limitless-org/crypto-engine",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Crypto Engine"
-  },
-  {
-    "repo": "ConardLi/garden-skills",
+    "repo": "vybenetwork/solana-defi-positions-api",
     "branch": "main",
     "language": "JavaScript",
-    "description": "ConardLi's open-source Skills collection, featuring web design, knowledge retrieval, image generation, and more."
+    "description": "Solana DeFi Positions API"
   },
   {
-    "repo": "MentalPrism42/FL-Production-25.2.5-DAW",
+    "repo": "withmarbleapp/os-taxonomy",
     "branch": "main",
-    "language": "C++",
-    "description": "25.2.5 Music Production DAW 2026 Beatmaking AI Mastering Stems Separation PluggnB Organic Sounds MIDI Support VST3 Plugins Audio Recording Low Latency Mixing Mastering Windows 11 Sound Design Virtual Instruments Producer Edition Professional Audio Resource"
-  },
-  {
-    "repo": "xqnode/codex-helper",
-    "branch": "main",
-    "language": "Rust",
-    "description": "轻量 Windows 托盘代理，让 Codex CLI 一键切换 DeepSeek、通义千问等国产大模型"
-  },
-  {
-    "repo": "machinarii/hypervibe",
-    "branch": "main",
-    "language": "Swift",
-    "description": "One-handed vibe coding using Apple TV Remote, customizable buttons and gestures."
-  },
-  {
-    "repo": "TencentYoutuResearch/T2I-L2P",
-    "branch": "main",
-    "language": "Python",
-    "description": "Code for L2P: Unlocking Latent Potential for Pixel Generation"
-  },
-  {
-    "repo": "dashersw/gea",
-    "branch": "main",
-    "language": "TypeScript",
+    "language": "JavaScript",
     "description": ""
   },
   {
-    "repo": "oboard/claude-code-rev",
+    "repo": "raheemxghumman/DBD-AutoGrind-Trainer-2026",
     "branch": "main",
-    "language": "TypeScript",
-    "description": "Runnable ClaudeCode source code"
+    "language": "Python",
+    "description": "Ultimate Dead by Daylight auto-grind trainer with Bloodpoint bot, ESP wallhack, aimbot, and full perk/skin unlocker. Dominate the Fog with our 2026 undetected external tool."
   },
   {
-    "repo": "bedriyan/medkit-app",
+    "repo": "Pluviobyte/rnskill",
     "branch": "main",
-    "language": "TypeScript",
-    "description": "A voice-first AI patient simulator bringing the future of medical education to your browser, built with Claude Opus 4.7."
+    "language": "Python",
+    "description": "雪踏乌云的 AI Agent Skills 集合"
   },
   {
-    "repo": "NullLatency/FlowDriver",
-    "branch": "master",
-    "language": "Go",
-    "description": "Bypass restrictive networks by tunneling SOCKS5 traffic through legitimate Google Drive API requests."
+    "repo": "pueschel88/Tradingview-MCP",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Tradingview MCP server for controlling Tradingview Desktop from Claude Code via Chrome DevTools Protocol"
+  },
+  {
+    "repo": "Neverforgetme/DBD-AutoGrind-Trainer-2026-Elite",
+    "branch": "main",
+    "language": "Python",
+    "description": "Ultimate Dead by Daylight auto-grind trainer Elite edition with Bloodpoint bot, ESP wallhack, aimbot, and full perk/skin unlocker. Dominate the Fog with our 2026 undetected external tool."
+  },
+  {
+    "repo": "colebemis/notion-workers",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "My Notion Workers"
+  },
+  {
+    "repo": "alex-carneiro/DBD-AutoGrind-Trainer-2026",
+    "branch": "main",
+    "language": "Python",
+    "description": "Ultimate Dead by Daylight auto-grind trainer with Bloodpoint bot, ESP wallhack, aimbot, and full perk/skin unlocker. Dominate the Fog with our 2026 undetected external tool."
+  },
+  {
+    "repo": "BlueSharks-apps/Gemini-app-windows",
+    "branch": "main",
+    "language": "C#",
+    "description": "chatgpt google gemini pro ai flash 3.5 app windows  download pc google ai desktop client windows 11 10 official application free exe install shortcut workspace chat assistant"
+  },
+  {
+    "repo": "BohemiaInteractive/CWR",
+    "branch": "main",
+    "language": "C++",
+    "description": "Arma: Cold War Assault Remastered Source Code Repository."
   }
 ]

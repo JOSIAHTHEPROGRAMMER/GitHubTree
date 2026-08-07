@@ -1,8 +1,8 @@
 {
-  "repo": "ARMSX2/ARMSX1",
+  "repo": "seesee75-commits/ComfyUI-MiniMaxH3-Director",
   "branch": "main",
-  "language": "C",
-  "description": "New PS1 Emulator from the Founders of ARMSX2 ",
-  "stars": 118,
-  "forks": 2
+  "language": "JavaScript",
+  "description": "A timeline editor for MiniMax H3 inside ComfyUI - storyboard prompts, first/last keyframes, image/video/audio references, joint audio, live sampling preview, retakes and shot chaining.",
+  "stars": 141,
+  "forks": 14
 }
