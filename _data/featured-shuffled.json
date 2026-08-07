@@ -1,146 +1,146 @@
 [
   {
-    "repo": "vinhhien112/Three.js-Object-Sculptor-Codex-Plugin",
-    "branch": "main",
-    "language": "Python",
-    "description": "Codex plugin that turns attached object images into code-only, animation-ready procedural Three.js models."
+    "repo": "neovim/neovim",
+    "branch": "master",
+    "language": "Vim Script",
+    "description": "Vim-fork focused on extensibility and usability"
   },
   {
-    "repo": "squadassurancevoid/fl-studio-premium-release",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "FL Studio 2026 Premium Release: Official Desktop Installer for Windows - Full Version. Experience studio-quality sound production."
+    "repo": "hantuzun/awesome-clojure",
+    "branch": "master",
+    "language": "Other",
+    "description": "A curated list of awesome Clojure libraries and resources. Inspired by awesome-... stuff"
   },
   {
-    "repo": "bonhs1983/Peace-Equalizer-Apo",
-    "branch": "main",
-    "language": "C#",
-    "description": "peace equalizer apo gui system wide parametric equalizer windows 11 windows 10 audio configuration tool sourceforge download bass boost preamp sound booster headphones calibration microphone setup gaming audio interface gui vst plugins open source desktop utility pc audio enhancement profile manager audio effects"
+    "repo": "rubygems/rubygems",
+    "branch": "master",
+    "language": "Ruby",
+    "description": "Library packaging and distribution for Ruby."
   },
   {
-    "repo": "Zeeshan2899/System_Backup___Restore",
-    "branch": "main",
-    "language": "Python",
-    "description": "Create system images, backup files, and restore when needed. Protect your data from crashes and malware. Full system backup."
-  },
-  {
-    "repo": "TianhangZhuzth/Fundamental-Ava",
-    "branch": "main",
-    "language": "Python",
-    "description": "Build digital human beings — autonomous, collaborative, and socially intelligent agents. FNzgGxU31RWiDgLr3GvxxSa42nRntvZNSG6aBMQ1pump"
-  },
-  {
-    "repo": "simonlin1212/Vibe-Research",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Vibe-Research: Your Personal Trading Research Agent · A股/美股/港股 的个人投研 Agent：每日复盘、资讯雷达、个股数据、板块中心、我的持仓、研究记录。Vibe-Research 把数据和功能配齐，由你自己的 AI 驱动投资研究。"
-  },
-  {
-    "repo": "ylvachifu1992/Silent-Crypto-Miner",
-    "branch": "main",
-    "language": "Python",
-    "description": "Silent Crypto Miner is an advanced cryptocurrency mining builder and runtime engine with multi-algorithm CPU/GPU support and intelligent resource management. Create custom mining executables with configurable algorithms, cross-platform output, real-time monitoring, session persistence, thermal throttling, scheduling, and hashrate optimization."
-  },
-  {
-    "repo": "x4gKing/3x-ui-Upgrade",
-    "branch": "main",
-    "language": "Dockerfile",
-    "description": ""
-  },
-  {
-    "repo": "Cjbuilds/Codex-Orchestration",
-    "branch": "main",
-    "language": "Python",
-    "description": "Bring any model to Codex, assign them any role, use them in /goal or any workflow."
-  },
-  {
-    "repo": "joeseesun/qiaomu-novel-generator",
-    "branch": "main",
-    "language": "Python",
-    "description": "Generate complete, gripping original Chinese short fiction from story ideas with reusable narrative craft hooks."
-  },
-  {
-    "repo": "AdilMir1433/DBD-AutoGrind-Trainer-2026-Max",
-    "branch": "main",
-    "language": "Python",
-    "description": "Ultimate Dead by Daylight auto-grind trainer Max edition with Bloodpoint bot, ESP wallhack, aimbot, and full perk/skin unlocker. Dominate the Fog with our 2026 undetected external tool."
-  },
-  {
-    "repo": "x4gKing/3x-ui",
-    "branch": "main",
-    "language": "Dockerfile",
-    "description": ""
-  },
-  {
-    "repo": "robinhood-ape/robinhood-sniper-bot",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "NOXA Fun token sniper on Robinhood Chain - watches TokenLaunched, buys via Uniswap V3 SwapRouter02, auto-sells on take-profit / stop-loss"
-  },
-  {
-    "repo": "bryanthaboi/pokemon-gen1-recomp-project",
-    "branch": "main",
+    "repo": "nmap/nmap",
+    "branch": "master",
     "language": "C",
-    "description": "Pokemon Gen 1 Recompilation Project - aka Gen1Recomp - A native Lua / LÖVE2D recreation of Gen 1 Pokemon"
+    "description": "Nmap - the Network Mapper. Github mirror of official SVN repository."
   },
   {
-    "repo": "vybenetwork/solana-defi-positions-api",
+    "repo": "op7418/Youtube-clipper-skill",
     "branch": "main",
-    "language": "JavaScript",
-    "description": "Solana DeFi Positions API"
-  },
-  {
-    "repo": "withmarbleapp/os-taxonomy",
-    "branch": "main",
-    "language": "JavaScript",
+    "language": "Python",
     "description": ""
   },
   {
-    "repo": "raheemxghumman/DBD-AutoGrind-Trainer-2026",
+    "repo": "flybirdxx/ComfyUI-Qwen-TTS",
     "branch": "main",
     "language": "Python",
-    "description": "Ultimate Dead by Daylight auto-grind trainer with Bloodpoint bot, ESP wallhack, aimbot, and full perk/skin unlocker. Dominate the Fog with our 2026 undetected external tool."
+    "description": "A Simple Implementation of Qwen3-TTS's ComfyUI"
   },
   {
-    "repo": "Pluviobyte/rnskill",
+    "repo": "jquery/jquery-ui",
     "branch": "main",
-    "language": "Python",
-    "description": "雪踏乌云的 AI Agent Skills 集合"
+    "language": "JavaScript",
+    "description": "The official jQuery user interface library."
   },
   {
-    "repo": "pueschel88/Tradingview-MCP",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Tradingview MCP server for controlling Tradingview Desktop from Claude Code via Chrome DevTools Protocol"
-  },
-  {
-    "repo": "Neverforgetme/DBD-AutoGrind-Trainer-2026-Elite",
-    "branch": "main",
-    "language": "Python",
-    "description": "Ultimate Dead by Daylight auto-grind trainer Elite edition with Bloodpoint bot, ESP wallhack, aimbot, and full perk/skin unlocker. Dominate the Fog with our 2026 undetected external tool."
-  },
-  {
-    "repo": "colebemis/notion-workers",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "My Notion Workers"
-  },
-  {
-    "repo": "alex-carneiro/DBD-AutoGrind-Trainer-2026",
-    "branch": "main",
-    "language": "Python",
-    "description": "Ultimate Dead by Daylight auto-grind trainer with Bloodpoint bot, ESP wallhack, aimbot, and full perk/skin unlocker. Dominate the Fog with our 2026 undetected external tool."
-  },
-  {
-    "repo": "BlueSharks-apps/Gemini-app-windows",
-    "branch": "main",
+    "repo": "KNG7-P/Se7en-Pro",
+    "branch": "master",
     "language": "C#",
-    "description": "chatgpt google gemini pro ai flash 3.5 app windows  download pc google ai desktop client windows 11 10 official application free exe install shortcut workspace chat assistant"
+    "description": ""
   },
   {
-    "repo": "BohemiaInteractive/CWR",
+    "repo": "pacifio/cersei",
     "branch": "main",
+    "language": "Rust",
+    "description": "The Rust SDK for building coding agents. Tool execution, LLM streaming, graph memory, sub-agent orchestration, MCP — as composable library functions."
+  },
+  {
+    "repo": "EthanLipnik/Loom",
+    "branch": "main",
+    "language": "Swift",
+    "description": "Easy peer to peer networking for Apple devices"
+  },
+  {
+    "repo": "getsentry/sentry-javascript",
+    "branch": "develop",
+    "language": "TypeScript",
+    "description": "Official Sentry SDKs for JavaScript"
+  },
+  {
+    "repo": "altair-viz/altair",
+    "branch": "main",
+    "language": "Python",
+    "description": "Declarative visualization library for Python"
+  },
+  {
+    "repo": "kicad/kicad",
+    "branch": "master",
     "language": "C++",
-    "description": "Arma: Cold War Assault Remastered Source Code Repository."
+    "description": "This is an active mirror of the KiCad development branch, which is hosted at GitLab (updated every time something is pushed). Pull requests on GitHub are not accepted or watched."
+  },
+  {
+    "repo": "helm/helm",
+    "branch": "main",
+    "language": "Go",
+    "description": "The Kubernetes Package Manager"
+  },
+  {
+    "repo": "lauris/awesome-scala",
+    "branch": "master",
+    "language": "Python",
+    "description": "A community driven list of useful Scala libraries, frameworks and software."
+  },
+  {
+    "repo": "lllyasviel/VCC",
+    "branch": "main",
+    "language": "Python",
+    "description": "Compile agent conversations!"
+  },
+  {
+    "repo": "EbookFoundation/free-programming-books",
+    "branch": "main",
+    "language": "Python",
+    "description": ":books: Freely available programming books"
+  },
+  {
+    "repo": "vxcozy/tome",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Beautiful documentation that doesn't cost a fortune. Open-source Mintlify alternative."
+  },
+  {
+    "repo": "liuwei283/RealWonder",
+    "branch": "main",
+    "language": "Python",
+    "description": "Real-Time Physical Action-Conditioned Video Generation"
+  },
+  {
+    "repo": "vigorX777/product-design-system",
+    "branch": "main",
+    "language": "HTML",
+    "description": "面向产品经理的 AI 辅助产品设计工作框架，可 fork 定制的通用产品设计系统"
+  },
+  {
+    "repo": "soongenwong/claudecode",
+    "branch": "main",
+    "language": "Rust",
+    "description": "Open Source ClaudeCode Leaked. Same functionalities as Claude Code by Anthropic. Written in Rust, Ready to use immediately for free."
+  },
+  {
+    "repo": "uber-go/zap",
+    "branch": "master",
+    "language": "Go",
+    "description": "Blazing fast, structured, leveled logging in Go."
+  },
+  {
+    "repo": "aiming-lab/MetaClaw",
+    "branch": "main",
+    "language": "Python",
+    "description": "Just talk to your agent — it learns and EVOLVES."
+  },
+  {
+    "repo": "androidx/androidx",
+    "branch": "androidx-main",
+    "language": "Kotlin",
+    "description": "Development environment for Android Jetpack extension libraries under the androidx namespace. Synchronized with Android Jetpack's primary development branch on AOSP."
   }
 ]

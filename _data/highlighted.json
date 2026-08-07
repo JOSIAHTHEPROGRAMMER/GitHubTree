@@ -1,8 +1,8 @@
 {
-  "repo": "seesee75-commits/ComfyUI-MiniMaxH3-Director",
+  "repo": "cloudflare/cloudflare-os-starter",
   "branch": "main",
   "language": "JavaScript",
-  "description": "A timeline editor for MiniMax H3 inside ComfyUI - storyboard prompts, first/last keyframes, image/video/audio references, joint audio, live sampling preview, retakes and shot chaining.",
-  "stars": 141,
-  "forks": 14
+  "description": "A guide for customizing your Cloudflare OS deployment",
+  "stars": 132,
+  "forks": 33
 }
