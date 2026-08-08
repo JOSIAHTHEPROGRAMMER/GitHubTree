@@ -1,146 +1,146 @@
 [
   {
-    "repo": "harrietbrooke/NEdge",
-    "branch": "main",
-    "language": "Python",
-    "description": "Edge-orchestrated, real-time NFTMesh platform enables decentralized, immutable, and dynamic digital asset management Suite."
-  },
-  {
-    "repo": "THU-MAIC/OpenMAIC",
+    "repo": "1270011/claude-buddy",
     "branch": "main",
     "language": "TypeScript",
-    "description": "Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning experience in just one click"
+    "description": "Keep Your Claude Code Buddy Forever — permanent coding companion that survives every update"
   },
   {
-    "repo": "makerdao/dss",
-    "branch": "master",
-    "language": "Solidity",
-    "description": "Dai Stablecoin System"
-  },
-  {
-    "repo": "rclone/rclone",
-    "branch": "master",
-    "language": "Go",
-    "description": "rsync for cloud storage - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Azure Blob, Azure Files, Yandex Files"
-  },
-  {
-    "repo": "webpack-contrib/css-loader",
-    "branch": "master",
-    "language": "JavaScript",
-    "description": "CSS Loader"
-  },
-  {
-    "repo": "CompVis/latent-diffusion",
-    "branch": "main",
-    "language": "Jupyter Notebook",
-    "description": "High-Resolution Image Synthesis with Latent Diffusion Models"
-  },
-  {
-    "repo": "iamzifei/bookmark-is-learned",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "收藏到就是学到，解决光收藏不看的问题。收藏的当下立刻学习或者丢弃"
-  },
-  {
-    "repo": "ierror/synaps-cad",
-    "branch": "main",
-    "language": "Rust",
-    "description": "The AI-powered 3D CAD IDE — edit code, visualize in 3D, and reshape your designs with natural language."
-  },
-  {
-    "repo": "veyliss/ai-localbase",
-    "branch": "main",
-    "language": "Go",
-    "description": "一个本地优先的AI知识库系统（RAG），用于把本地文档接入辅导搜索与大模型对话流程。"
-  },
-  {
-    "repo": "skernelx/tavily-key-generator",
-    "branch": "main",
-    "language": "Python",
-    "description": "Auto batch register Tavily API Keys with pluggable email backends"
-  },
-  {
-    "repo": "apple/ml-ssd",
-    "branch": "main",
-    "language": "Python",
-    "description": ""
-  },
-  {
-    "repo": "trumpet-noek/sora2-free-watermark-remover",
-    "branch": "main",
-    "language": "Python",
-    "description": "sora2 free watermark remover"
-  },
-  {
-    "repo": "seabra98/Polymarket-Kalshi-Arbitrage-Bot",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": ""
-  },
-  {
-    "repo": "getsentry/sentry",
-    "branch": "master",
-    "language": "Python",
-    "description": "Developer-first error tracking and performance monitoring"
-  },
-  {
-    "repo": "maile456/qq-farm-bot",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "基于 Node.js + Vue 3 构建的 QQ 农场自动化工具，支持多账号同时管理，提供 Web 可视化面板，实现种植、收获、偷菜、任务领取、仓库出售等全流程自动化。"
-  },
-  {
-    "repo": "androidx/media",
-    "branch": "main",
-    "language": "Java",
-    "description": "Jetpack Media3 support libraries for media use cases, including ExoPlayer, an extensible media player for Android"
-  },
-  {
-    "repo": "Fixie-ai/Ultravox",
-    "branch": "main",
-    "language": "Python",
-    "description": "A fast multimodal LLM for real-time voice"
-  },
-  {
-    "repo": "AprilNEA/claude-code-source",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Claude Code source code recovered from source map"
-  },
-  {
-    "repo": "koreader/koreader",
-    "branch": "master",
-    "language": "Lua",
-    "description": "An ebook reader application supporting PDF, DjVu, EPUB, FB2 and many more formats, running on Cervantes, Kindle, Kobo, PocketBook and Android devices"
-  },
-  {
-    "repo": "ml-explore/mlx",
+    "repo": "apple/swift",
     "branch": "main",
     "language": "C++",
-    "description": "MLX: An array framework for Apple silicon"
+    "description": "The Swift Programming Language"
   },
   {
-    "repo": "mkdocs/mkdocs",
+    "repo": "mongodb/mongo",
     "branch": "master",
-    "language": "Python",
-    "description": "Project documentation with Markdown."
+    "language": "C++",
+    "description": "The MongoDB Database"
   },
   {
-    "repo": "leon-ai/leon",
-    "branch": "develop",
-    "language": "TypeScript",
-    "description": "🧠 Leon is your open-source personal assistant."
-  },
-  {
-    "repo": "google/flax",
+    "repo": "facebookresearch/faiss",
     "branch": "main",
-    "language": "Jupyter Notebook",
-    "description": "Flax is a neural network library for JAX that is designed for flexibility."
+    "language": "C++",
+    "description": "A library for efficient similarity search and clustering of dense vectors."
   },
   {
-    "repo": "mlflow/mlflow",
-    "branch": "master",
+    "repo": "IAmUnbounded/devctx",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Carry context across coding agents/editors/IDEs - Cursor/Windsurf/Claude Code/Antigravity"
+  },
+  {
+    "repo": "superturtlee/gbl_root_canoe",
+    "branch": "main",
+    "language": "C",
+    "description": "凭什么ROOT就不给用指纹支付？？？"
+  },
+  {
+    "repo": "MistKailorg/polymarket-copytrading-bot-newlogic",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "polymarket trading bot | polymarket trading bot | polymarket trading bot | polymarket trading bot | polymarket trading bot | polymarket trading bot | polymarket trading bot | polymarket trading bot | polymarket copy trading bot | polymarket copy trading bot | polymarket copy trading bot | polymarket copy trading bot | polymarket copy trading bot |"
+  },
+  {
+    "repo": "mitkox/vllm-turboquant",
+    "branch": "main",
     "language": "Python",
-    "description": "The open source developer platform to build AI agents and models with confidence. Enhance your AI applications with end-to-end tracking, observability, and evaluations, all in one integrated platform."
+    "description": "vLLM 0.18.1rc1 with TurboQuant"
+  },
+  {
+    "repo": "charonviz/text2geo",
+    "branch": "main",
+    "language": "Python",
+    "description": ""
+  },
+  {
+    "repo": "Jane-xiaoer/x-fetcher",
+    "branch": "main",
+    "language": "Python",
+    "description": ""
+  },
+  {
+    "repo": "Maoleio/CPA-Codex-Manager",
+    "branch": "main",
+    "language": "Python",
+    "description": "CPA-Codex-Manager 是一款专为 OpenAI 账号池设计的高性能管理面板，集成全自动批量注册、CLIProxyAPI 平台账号池实时监控与智能维护功能"
+  },
+  {
+    "repo": "krahets/hello-algo",
+    "branch": "main",
+    "language": "Java",
+    "description": "《Hello 算法》：动画图解、一键运行的数据结构与算法教程。支持简中、繁中、English、日本語，提供 Python, Java, C++, C, C#, JS, Go, Swift, Rust, Ruby, Kotlin, TS, Dart 等代码实现"
+  },
+  {
+    "repo": "HBAI-Ltd/Toonflow-app",
+    "branch": "master",
+    "language": "HTML",
+    "description": "Toonflow 是一款 AI 短剧漫剧工具，能够利用 AI 技术将小说自动转化为剧本，并结合 AI 生成的图片和视频，实现高效的短剧创作。借助 Toonflow，可以轻松完成从文字到影像的全流程，让短剧制作变得更加智能与便捷。"
+  },
+  {
+    "repo": "elixir-volt/quickbeam",
+    "branch": "master",
+    "language": "C",
+    "description": "JavaScript runtime for the BEAM — Web APIs backed by OTP, native DOM, and a built-in TypeScript toolchain."
+  },
+  {
+    "repo": "facebook/react",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "The library for web and native user interfaces."
+  },
+  {
+    "repo": "Percepta-Core/transformer-vm",
+    "branch": "main",
+    "language": "Python",
+    "description": "Compile programs directly into transformer weights. Includes a 2D convex-hull KV cache with O(log n) inference."
+  },
+  {
+    "repo": "mochajs/mocha",
+    "branch": "master",
+    "language": "JavaScript",
+    "description": "☕️ Classic, reliable, trusted test framework for Node.js and the browser"
+  },
+  {
+    "repo": "Zackriya-Solutions/meeting-minutes",
+    "branch": "main",
+    "language": "Rust",
+    "description": "Privacy first, AI meeting assistant with 4x faster Parakeet/Whisper live transcription, speaker diarization, and Ollama summarization built on Rust. 100% local processing. no cloud required. Meetily (Meetly Ai - https://meetily.ai) is the #1 Self-hosted,  Open-source Ai meeting note taker for macOS & Windows."
+  },
+  {
+    "repo": "jackwener/rdt-cli",
+    "branch": "main",
+    "language": "Python",
+    "description": "Reddit in your terminal 📖 — Browse feeds, read posts, search, upvote, save, subscribe"
+  },
+  {
+    "repo": "Homebrew/brew",
+    "branch": "master",
+    "language": "Ruby",
+    "description": "🍺 The missing package manager for macOS (or Linux)"
+  },
+  {
+    "repo": "filiksyos/gitreverse",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Reverse engineer any repo into it's original prompt"
+  },
+  {
+    "repo": "theforeveriris/simulated-12306-view",
+    "branch": "main",
+    "language": "HTML",
+    "description": "简易的12306购票模拟器.用于应急应付对方请求看购票截图的无理要求"
+  },
+  {
+    "repo": "stanfordnlp/stanza",
+    "branch": "main",
+    "language": "Python",
+    "description": "Stanford NLP Python library for tokenization, sentence segmentation, NER, and parsing of many human languages"
+  },
+  {
+    "repo": "animate-css/animate.css",
+    "branch": "main",
+    "language": "CSS",
+    "description": "🍿 A cross-browser library of CSS animations. As easy to use as an easy thing."
   }
 ]
