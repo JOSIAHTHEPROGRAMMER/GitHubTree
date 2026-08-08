@@ -1,146 +1,146 @@
 [
   {
-    "repo": "TQ-trade/rari-stable-pool-contracts",
-    "branch": "dependabot/npm_and_yarn/ajv-6.14.0",
-    "language": "HTML",
-    "description": "Smart contracts for the Rari Stable Pool."
-  },
-  {
-    "repo": "IAmIronMan42/MiniMax-H3-FineTuning",
+    "repo": "harrietbrooke/NEdge",
     "branch": "main",
     "language": "Python",
-    "description": ""
+    "description": "Edge-orchestrated, real-time NFTMesh platform enables decentralized, immutable, and dynamic digital asset management Suite."
   },
   {
-    "repo": "zhilin1112/YellowKey-Bitlocker",
+    "repo": "THU-MAIC/OpenMAIC",
     "branch": "main",
     "language": "TypeScript",
-    "description": "YellowKey BitLocker Bypass Vulnerability : Zero-day exploit, proof-of-concept PoC, Chaotic Eclipse GitHub. Windows 11 bypass, Windows Server 2022 2025. WinRE recovery image, FsTx directory, System Volume Information, USB drive files, winpeshl.ini deletion, Transactional NTFS flaw, CTRL key shell, TPM-only backdoor."
+    "description": "Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning experience in just one click"
   },
   {
-    "repo": "darkrishabh/agent-skills-eval",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "A test runner for agentskills.io-style AI agent skills"
-  },
-  {
-    "repo": "binggandata/bggg-skills",
-    "branch": "main",
-    "language": "Python",
-    "description": "Open-source Codex skills from BGGG"
-  },
-  {
-    "repo": "cosmicstack-labs/mercury-agent-skills",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "A curated registry of reusable Mercury Agent, Open Claw or Hermes Agent skills designed for real developer workflows, persistent memory, and token-efficient execution."
-  },
-  {
-    "repo": "amanning3390/deepswarm",
-    "branch": "main",
-    "language": "Python",
-    "description": ""
-  },
-  {
-    "repo": "kunchenguid/lavish-axi",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "HTML is the new markdown. Lavish is the new editor for your HTML artifacts."
-  },
-  {
-    "repo": "ProjectKumo/KumoApp",
-    "branch": "main",
-    "language": "Swift",
-    "description": "A calm, native macOS client for the Mihomo proxy core, built with SwiftUI and a shared agent-friendly CLI."
-  },
-  {
-    "repo": "ShinyaTomitsuka/arbitrage-trading-bot",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot bot"
-  },
-  {
-    "repo": "DadsMmoLab/dads-mmo-lab",
-    "branch": "main",
-    "language": "Shell",
-    "description": "Offline MMO private servers on Steam Deck. Free guides, Docker scripts & shell installers for classic MMOs. No subscription. No internet. Forever. Visibility:       ✅ Public"
-  },
-  {
-    "repo": "Ahtasham-ul-haq/Hades_II_Trainer_X",
-    "branch": "main",
-    "language": "Python",
-    "description": "God mode, unlimited resources, and one-hit kill for Hades II. Take zero damage, infinite health and mana, one-shot all enemies. Escape the Underworld effortlessly."
-  },
-  {
-    "repo": "RadianceToadAmend/ARC-Raiders-External-Tool",
-    "branch": "main",
-    "language": "C++",
-    "description": "External overlay tool for ARC Raiders. UE5 memory reader, entity , radar, performance monitor. D3D11 render, no injection. For offline training purposes only."
-  },
-  {
-    "repo": "xzf-thu/Mega-ASR",
-    "branch": "main",
-    "language": "Python",
-    "description": "First foundation ASR built for the real world - 7 atomic acoustic conditions, 54 compound scenarios, 2.6M samples, and up to ~30% gains over SOTA where every other model falls apart. **You'll come back to MEGA-ASR, after the rest fail in the wild. ⭐**"
-  },
-  {
-    "repo": "Syed-Imran88/MT5-Exposure-Mesh-Analyzer",
-    "branch": "main",
-    "language": "HTML",
-    "description": "Best Multi-Asset Correlation Heatmap & Risk Matrix for MetaTrader 2026"
-  },
-  {
-    "repo": "downclash/clash",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": ""
-  },
-  {
-    "repo": "0xShug0/audio.cpp",
-    "branch": "release-0.1",
-    "language": "C++",
-    "description": "An all-in-one, pure C++ inference engine for audio models, powered by ggml. Supports TTS, STT, VAD, voice conversion, music generation, and more, with highly optimized performance. No Python dependency."
-  },
-  {
-    "repo": "Composio-HQ/polymarket-kalshi-arbitrage-bot",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Polymarket Kalshi arbitrage prediction-markets trading-bot TypeScript Node.js CLOB Polygon ethers automated-trading spread-trading DeFi crypto algorithmic-trading market-making Kalshi-API Polymarket-CLOB express axios dotenv"
-  },
-  {
-    "repo": "alvinunreal/claude-pets",
+    "repo": "makerdao/dss",
     "branch": "master",
+    "language": "Solidity",
+    "description": "Dai Stablecoin System"
+  },
+  {
+    "repo": "rclone/rclone",
+    "branch": "master",
+    "language": "Go",
+    "description": "rsync for cloud storage - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Azure Blob, Azure Files, Yandex Files"
+  },
+  {
+    "repo": "webpack-contrib/css-loader",
+    "branch": "master",
+    "language": "JavaScript",
+    "description": "CSS Loader"
+  },
+  {
+    "repo": "CompVis/latent-diffusion",
+    "branch": "main",
+    "language": "Jupyter Notebook",
+    "description": "High-Resolution Image Synthesis with Latent Diffusion Models"
+  },
+  {
+    "repo": "iamzifei/bookmark-is-learned",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "收藏到就是学到，解决光收藏不看的问题。收藏的当下立刻学习或者丢弃"
+  },
+  {
+    "repo": "ierror/synaps-cad",
+    "branch": "main",
+    "language": "Rust",
+    "description": "The AI-powered 3D CAD IDE — edit code, visualize in 3D, and reshape your designs with natural language."
+  },
+  {
+    "repo": "veyliss/ai-localbase",
+    "branch": "main",
+    "language": "Go",
+    "description": "一个本地优先的AI知识库系统（RAG），用于把本地文档接入辅导搜索与大模型对话流程。"
+  },
+  {
+    "repo": "skernelx/tavily-key-generator",
+    "branch": "main",
+    "language": "Python",
+    "description": "Auto batch register Tavily API Keys with pluggable email backends"
+  },
+  {
+    "repo": "apple/ml-ssd",
+    "branch": "main",
+    "language": "Python",
+    "description": ""
+  },
+  {
+    "repo": "trumpet-noek/sora2-free-watermark-remover",
+    "branch": "main",
+    "language": "Python",
+    "description": "sora2 free watermark remover"
+  },
+  {
+    "repo": "seabra98/Polymarket-Kalshi-Arbitrage-Bot",
+    "branch": "main",
     "language": "TypeScript",
-    "description": "Claude Code integration for OpenPets: automatic desktop pet status updates with one-command setup."
-  },
-  {
-    "repo": "primitive-bench/primitive-bench",
-    "branch": "main",
-    "language": "Python",
     "description": ""
   },
   {
-    "repo": "tahzeeb031/harmonize-ffmpeg-pipeline",
-    "branch": "main",
-    "language": "HTML",
-    "description": "Self-Hosted 24/7 Media Hub with AI Playlist Curation & Smart Transcoding 2026"
+    "repo": "getsentry/sentry",
+    "branch": "master",
+    "language": "Python",
+    "description": "Developer-first error tracking and performance monitoring"
   },
   {
-    "repo": "facebookresearch/ProgramBench",
+    "repo": "maile456/qq-farm-bot",
     "branch": "main",
-    "language": "Python",
-    "description": "Can Language Models Rebuild Programs From Scratch?"
+    "language": "JavaScript",
+    "description": "基于 Node.js + Vue 3 构建的 QQ 农场自动化工具，支持多账号同时管理，提供 Web 可视化面板，实现种植、收获、偷菜、任务领取、仓库出售等全流程自动化。"
   },
   {
-    "repo": "Jia-Ethan/claude-keysmith",
+    "repo": "androidx/media",
     "branch": "main",
-    "language": "Python",
-    "description": "Claude Code CLAUDE.md import-block installer for local instruction files"
+    "language": "Java",
+    "description": "Jetpack Media3 support libraries for media use cases, including ExoPlayer, an extensible media player for Android"
   },
   {
-    "repo": "kitft/natural_language_autoencoders",
+    "repo": "Fixie-ai/Ultravox",
     "branch": "main",
     "language": "Python",
-    "description": ""
+    "description": "A fast multimodal LLM for real-time voice"
+  },
+  {
+    "repo": "AprilNEA/claude-code-source",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Claude Code source code recovered from source map"
+  },
+  {
+    "repo": "koreader/koreader",
+    "branch": "master",
+    "language": "Lua",
+    "description": "An ebook reader application supporting PDF, DjVu, EPUB, FB2 and many more formats, running on Cervantes, Kindle, Kobo, PocketBook and Android devices"
+  },
+  {
+    "repo": "ml-explore/mlx",
+    "branch": "main",
+    "language": "C++",
+    "description": "MLX: An array framework for Apple silicon"
+  },
+  {
+    "repo": "mkdocs/mkdocs",
+    "branch": "master",
+    "language": "Python",
+    "description": "Project documentation with Markdown."
+  },
+  {
+    "repo": "leon-ai/leon",
+    "branch": "develop",
+    "language": "TypeScript",
+    "description": "🧠 Leon is your open-source personal assistant."
+  },
+  {
+    "repo": "google/flax",
+    "branch": "main",
+    "language": "Jupyter Notebook",
+    "description": "Flax is a neural network library for JAX that is designed for flexibility."
+  },
+  {
+    "repo": "mlflow/mlflow",
+    "branch": "master",
+    "language": "Python",
+    "description": "The open source developer platform to build AI agents and models with confidence. Enhance your AI applications with end-to-end tracking, observability, and evaluations, all in one integrated platform."
   }
 ]

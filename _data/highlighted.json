@@ -1,8 +1,8 @@
 {
-  "repo": "cloudflare/cloudflare-os-starter",
-  "branch": "main",
-  "language": "JavaScript",
-  "description": "A guide for customizing your Cloudflare OS deployment",
-  "stars": 138,
-  "forks": 37
+  "repo": "ARMSX2/ARMSX3",
+  "branch": "master",
+  "language": "C++",
+  "description": "Proof of concept port of RPCS3 for Android ",
+  "stars": 125,
+  "forks": 2
 }
