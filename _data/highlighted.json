@@ -1,8 +1,8 @@
 {
-  "repo": "maliubiao/dgx-spark-2-deepseek-flash-0731",
+  "repo": "sanjanvandijk/SwarmSync",
   "branch": "main",
-  "language": "Shell",
-  "description": "setup guide for deepseek-flash-0731 on two dgx-spark from scratch",
-  "stars": 143,
-  "forks": 18
+  "language": "JavaScript",
+  "description": "Edge-empowered SwarmSync orchestrates real-time data-driven workflows across self-healing, multi-cloud deployments. implementing modern self-healing patterns",
+  "stars": 141,
+  "forks": 0
 }

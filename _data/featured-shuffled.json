@@ -1,146 +1,146 @@
 [
   {
-    "repo": "vanna-ai/vanna",
+    "repo": "SL0ANE/TheMoldsmalPlugin",
     "branch": "main",
-    "language": "Python",
-    "description": "🤖 Chat with your SQL database 📊. Accurate Text-to-SQL Generation via LLMs using Agentic Retrieval 🔄."
+    "language": "Lua",
+    "description": "a plugin for boil effect for aseprite maybe"
   },
   {
-    "repo": "ankitvgupta/mail-app",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Claude Code for your Inbox"
-  },
-  {
-    "repo": "MunGell/awesome-for-beginners",
-    "branch": "master",
-    "language": "Other",
-    "description": "A list of awesome beginners-friendly projects."
-  },
-  {
-    "repo": "larlarua/AutoCVE",
-    "branch": "main",
-    "language": "Python",
-    "description": "Agent-driven automated CVE discovery platform for source code auditing, vulnerability verification, and report generation."
-  },
-  {
-    "repo": "nats-io/nats.go",
-    "branch": "main",
-    "language": "Go",
-    "description": "Golang client for NATS, the cloud native messaging system."
-  },
-  {
-    "repo": "bigcode-project/starcoder",
-    "branch": "main",
-    "language": "Python",
-    "description": "Home of StarCoder: fine-tuning & inference!"
-  },
-  {
-    "repo": "cypress-io/cypress",
-    "branch": "develop",
-    "language": "TypeScript",
-    "description": "Fast, easy and reliable testing for anything that runs in a browser."
-  },
-  {
-    "repo": "Stability-AI/generative-models",
-    "branch": "main",
-    "language": "Python",
-    "description": "Generative Models by Stability AI"
-  },
-  {
-    "repo": "element-hq/element-ios",
-    "branch": "develop",
-    "language": "Swift",
-    "description": "A glossy Matrix collaboration client for iOS"
-  },
-  {
-    "repo": "electron-userland/electron-forge",
+    "repo": "vxcozy/tome",
     "branch": "main",
     "language": "TypeScript",
-    "description": ":electron: A complete tool for building and publishing Electron applications"
+    "description": "Beautiful documentation that doesn't cost a fortune. Open-source Mintlify alternative."
   },
   {
-    "repo": "TheAlgorithms/Rust",
-    "branch": "master",
-    "language": "Rust",
-    "description": "All Algorithms implemented in Rust"
+    "repo": "bokeh/bokeh",
+    "branch": "branch-3.4",
+    "language": "TypeScript",
+    "description": "Interactive Data Visualization in the browser, from  Python"
   },
   {
-    "repo": "melonjs/melonJS",
-    "branch": "master",
-    "language": "JavaScript",
-    "description": "a fresh, modern & lightweight HTML5 game engine"
-  },
-  {
-    "repo": "serenity-bdd/serenity-core",
+    "repo": "formulahendry/wechat-acp",
     "branch": "main",
-    "language": "HTML",
-    "description": "Serenity BDD is a test automation library designed to make writing automated acceptance tests easier, and more fun."
+    "language": "TypeScript",
+    "description": "Bridge WeChat chat messages to any ACP-compatible AI agent"
   },
   {
-    "repo": "go-kit/kit",
-    "branch": "master",
-    "language": "Go",
-    "description": "A standard library for microservices."
-  },
-  {
-    "repo": "karanb192/claude-code-hooks",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "🪝 A growing collection of useful Claude Code hooks. Copy, paste, customize."
-  },
-  {
-    "repo": "wolffcatskyy/crowdsec-blocklist-import",
-    "branch": "main",
-    "language": "Shell",
-    "description": "Dockerized tool to import public threat feeds into CrowdSec - 28+ free blocklists, 60k+ IPs"
-  },
-  {
-    "repo": "apache/commons-lang",
-    "branch": "master",
-    "language": "Java",
-    "description": "Apache Commons Lang"
-  },
-  {
-    "repo": "KKKKhazix/Khazix-Skills",
+    "repo": "idanshen/Self-Distillation",
     "branch": "main",
     "language": "Python",
     "description": ""
   },
   {
-    "repo": "jmuncor/sherlock",
+    "repo": "wesbos/JSON-Alexander",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "A really good JSON viewer browser Extension"
+  },
+  {
+    "repo": "VexedWilosn/AetherSwap",
     "branch": "main",
     "language": "Python",
-    "description": "Intercept LLM API traffic and visualize token usage in a real-time terminal dashboard. Track costs,       debug prompts, and monitor context window usage across your AI development sessions."
+    "description": "⚗️ AetherSwap：全自动、零代码配置的 Steam 低价余额助手。提供现代化可视化 Web 控制台，基于数学模型智能选品，实现从买入到全自动上架的无人值守交易。"
   },
   {
-    "repo": "quarkusio/quarkus",
+    "repo": "TACOWASA059/katamariio",
     "branch": "main",
     "language": "Java",
-    "description": "Quarkus: Supersonic Subatomic Java."
+    "description": "[Forge1.20.1] 球体を操作して周囲のブロックを巻き込み大きくなれるMOD"
   },
   {
-    "repo": "ziadoz/awesome-php",
+    "repo": "mysqljs/mysql",
     "branch": "master",
-    "language": "Other",
-    "description": "A curated list of amazingly awesome PHP libraries, resources and shiny things."
+    "language": "JavaScript",
+    "description": "A pure node.js JavaScript Client implementing the MySQL protocol."
   },
   {
-    "repo": "krahets/hello-algo",
+    "repo": "sadsadsasdasadsadsadsadsa/Crimson-Desert-Optiscaler-Fsr-4",
     "branch": "main",
-    "language": "Java",
-    "description": "《Hello 算法》：动画图解、一键运行的数据结构与算法教程。支持简中、繁中、English、日本語，提供 Python, Java, C++, C, C#, JS, Go, Swift, Rust, Ruby, Kotlin, TS, Dart 等代码实现"
+    "language": "C++",
+    "description": "Crimson Desert Optiscaler FSR 4 Full Version 2026 – Advanced Graphics Mod featuring OptiScaler + AMD FSR 4. Significantly increases FPS while improving image sharpness and reducing ghosting in Crimson Desert. Perfect for low-end and high-end PCs. Includes multiple FSR 4 presets. Best performance and upscaling solution for Crimson Desert in 2026!"
   },
   {
-    "repo": "espressif/esp-idf",
+    "repo": "robinebers/openusage",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "A plugin-based menu bar app for tracking AI coding tool subscriptions like Cursor, Claude, Codex and more, all in one place with a heavy focus user experience, speed, and stability."
+  },
+  {
+    "repo": "Zaneham/BarraCUDA",
     "branch": "master",
     "language": "C",
-    "description": "Espressif IoT Development Framework. Official development framework for Espressif SoCs."
+    "description": "Open-source CUDA compiler targeting AMD GPUs (and more in the future!). Compiles .cu to GFX11 machine code."
   },
   {
-    "repo": "great-expectations/great_expectations",
-    "branch": "develop",
+    "repo": "sanbuphy/claude-code-source-code",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Claude Code v2.1.88 Source Code"
+  },
+  {
+    "repo": "balancer/balancer-v2-monorepo",
+    "branch": "master",
+    "language": "TypeScript",
+    "description": "Balancer V2 Monorepo"
+  },
+  {
+    "repo": "Percepta-Core/transformer-vm",
+    "branch": "main",
     "language": "Python",
-    "description": "Always know what to expect from your data."
+    "description": "Compile programs directly into transformer weights. Includes a 2D convex-hull KV cache with O(log n) inference."
+  },
+  {
+    "repo": "pood1e/wa-app",
+    "branch": "main",
+    "language": "Go",
+    "description": ""
+  },
+  {
+    "repo": "hashicorp/vault",
+    "branch": "main",
+    "language": "Go",
+    "description": "A tool for secrets management, encryption as a service, and privileged access management"
+  },
+  {
+    "repo": "moby/buildkit",
+    "branch": "master",
+    "language": "Go",
+    "description": "concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit"
+  },
+  {
+    "repo": "Tencent/tdesign-react",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "A React UI components lib for TDesign."
+  },
+  {
+    "repo": "cert-manager/cert-manager",
+    "branch": "master",
+    "language": "Go",
+    "description": "Automatically provision and manage TLS certificates in Kubernetes"
+  },
+  {
+    "repo": "facebook/folly",
+    "branch": "main",
+    "language": "C++",
+    "description": "An open-source C++ library developed and used at Facebook."
+  },
+  {
+    "repo": "shobhit99/claude-watch",
+    "branch": "main",
+    "language": "Swift",
+    "description": "Control your claude code from your apple watch"
+  },
+  {
+    "repo": "THUDM/ChatGLM-6B",
+    "branch": "main",
+    "language": "Python",
+    "description": "ChatGLM-6B: An Open Bilingual Dialogue Language Model | 开源双语对话语言模型"
+  },
+  {
+    "repo": "sigstore/cosign",
+    "branch": "main",
+    "language": "Go",
+    "description": "Code signing and transparency for containers and binaries"
   }
 ]
