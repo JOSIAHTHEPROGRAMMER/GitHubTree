@@ -1,69 +1,129 @@
 [
   {
-    "repo": "1270011/claude-buddy",
+    "repo": "vanna-ai/vanna",
+    "branch": "main",
+    "language": "Python",
+    "description": "🤖 Chat with your SQL database 📊. Accurate Text-to-SQL Generation via LLMs using Agentic Retrieval 🔄."
+  },
+  {
+    "repo": "ankitvgupta/mail-app",
     "branch": "main",
     "language": "TypeScript",
-    "description": "Keep Your Claude Code Buddy Forever — permanent coding companion that survives every update"
+    "description": "Claude Code for your Inbox"
   },
   {
-    "repo": "apple/swift",
-    "branch": "main",
-    "language": "C++",
-    "description": "The Swift Programming Language"
-  },
-  {
-    "repo": "mongodb/mongo",
+    "repo": "MunGell/awesome-for-beginners",
     "branch": "master",
-    "language": "C++",
-    "description": "The MongoDB Database"
+    "language": "Other",
+    "description": "A list of awesome beginners-friendly projects."
   },
   {
-    "repo": "facebookresearch/faiss",
-    "branch": "main",
-    "language": "C++",
-    "description": "A library for efficient similarity search and clustering of dense vectors."
-  },
-  {
-    "repo": "IAmUnbounded/devctx",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Carry context across coding agents/editors/IDEs - Cursor/Windsurf/Claude Code/Antigravity"
-  },
-  {
-    "repo": "superturtlee/gbl_root_canoe",
-    "branch": "main",
-    "language": "C",
-    "description": "凭什么ROOT就不给用指纹支付？？？"
-  },
-  {
-    "repo": "MistKailorg/polymarket-copytrading-bot-newlogic",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "polymarket trading bot | polymarket trading bot | polymarket trading bot | polymarket trading bot | polymarket trading bot | polymarket trading bot | polymarket trading bot | polymarket trading bot | polymarket copy trading bot | polymarket copy trading bot | polymarket copy trading bot | polymarket copy trading bot | polymarket copy trading bot |"
-  },
-  {
-    "repo": "mitkox/vllm-turboquant",
+    "repo": "larlarua/AutoCVE",
     "branch": "main",
     "language": "Python",
-    "description": "vLLM 0.18.1rc1 with TurboQuant"
+    "description": "Agent-driven automated CVE discovery platform for source code auditing, vulnerability verification, and report generation."
   },
   {
-    "repo": "charonviz/text2geo",
+    "repo": "nats-io/nats.go",
+    "branch": "main",
+    "language": "Go",
+    "description": "Golang client for NATS, the cloud native messaging system."
+  },
+  {
+    "repo": "bigcode-project/starcoder",
+    "branch": "main",
+    "language": "Python",
+    "description": "Home of StarCoder: fine-tuning & inference!"
+  },
+  {
+    "repo": "cypress-io/cypress",
+    "branch": "develop",
+    "language": "TypeScript",
+    "description": "Fast, easy and reliable testing for anything that runs in a browser."
+  },
+  {
+    "repo": "Stability-AI/generative-models",
+    "branch": "main",
+    "language": "Python",
+    "description": "Generative Models by Stability AI"
+  },
+  {
+    "repo": "element-hq/element-ios",
+    "branch": "develop",
+    "language": "Swift",
+    "description": "A glossy Matrix collaboration client for iOS"
+  },
+  {
+    "repo": "electron-userland/electron-forge",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": ":electron: A complete tool for building and publishing Electron applications"
+  },
+  {
+    "repo": "TheAlgorithms/Rust",
+    "branch": "master",
+    "language": "Rust",
+    "description": "All Algorithms implemented in Rust"
+  },
+  {
+    "repo": "melonjs/melonJS",
+    "branch": "master",
+    "language": "JavaScript",
+    "description": "a fresh, modern & lightweight HTML5 game engine"
+  },
+  {
+    "repo": "serenity-bdd/serenity-core",
+    "branch": "main",
+    "language": "HTML",
+    "description": "Serenity BDD is a test automation library designed to make writing automated acceptance tests easier, and more fun."
+  },
+  {
+    "repo": "go-kit/kit",
+    "branch": "master",
+    "language": "Go",
+    "description": "A standard library for microservices."
+  },
+  {
+    "repo": "karanb192/claude-code-hooks",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "🪝 A growing collection of useful Claude Code hooks. Copy, paste, customize."
+  },
+  {
+    "repo": "wolffcatskyy/crowdsec-blocklist-import",
+    "branch": "main",
+    "language": "Shell",
+    "description": "Dockerized tool to import public threat feeds into CrowdSec - 28+ free blocklists, 60k+ IPs"
+  },
+  {
+    "repo": "apache/commons-lang",
+    "branch": "master",
+    "language": "Java",
+    "description": "Apache Commons Lang"
+  },
+  {
+    "repo": "KKKKhazix/Khazix-Skills",
     "branch": "main",
     "language": "Python",
     "description": ""
   },
   {
-    "repo": "Jane-xiaoer/x-fetcher",
+    "repo": "jmuncor/sherlock",
     "branch": "main",
     "language": "Python",
-    "description": ""
+    "description": "Intercept LLM API traffic and visualize token usage in a real-time terminal dashboard. Track costs,       debug prompts, and monitor context window usage across your AI development sessions."
   },
   {
-    "repo": "Maoleio/CPA-Codex-Manager",
+    "repo": "quarkusio/quarkus",
     "branch": "main",
-    "language": "Python",
-    "description": "CPA-Codex-Manager 是一款专为 OpenAI 账号池设计的高性能管理面板，集成全自动批量注册、CLIProxyAPI 平台账号池实时监控与智能维护功能"
+    "language": "Java",
+    "description": "Quarkus: Supersonic Subatomic Java."
+  },
+  {
+    "repo": "ziadoz/awesome-php",
+    "branch": "master",
+    "language": "Other",
+    "description": "A curated list of amazingly awesome PHP libraries, resources and shiny things."
   },
   {
     "repo": "krahets/hello-algo",
@@ -72,75 +132,15 @@
     "description": "《Hello 算法》：动画图解、一键运行的数据结构与算法教程。支持简中、繁中、English、日本語，提供 Python, Java, C++, C, C#, JS, Go, Swift, Rust, Ruby, Kotlin, TS, Dart 等代码实现"
   },
   {
-    "repo": "HBAI-Ltd/Toonflow-app",
-    "branch": "master",
-    "language": "HTML",
-    "description": "Toonflow 是一款 AI 短剧漫剧工具，能够利用 AI 技术将小说自动转化为剧本，并结合 AI 生成的图片和视频，实现高效的短剧创作。借助 Toonflow，可以轻松完成从文字到影像的全流程，让短剧制作变得更加智能与便捷。"
-  },
-  {
-    "repo": "elixir-volt/quickbeam",
+    "repo": "espressif/esp-idf",
     "branch": "master",
     "language": "C",
-    "description": "JavaScript runtime for the BEAM — Web APIs backed by OTP, native DOM, and a built-in TypeScript toolchain."
+    "description": "Espressif IoT Development Framework. Official development framework for Espressif SoCs."
   },
   {
-    "repo": "facebook/react",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "The library for web and native user interfaces."
-  },
-  {
-    "repo": "Percepta-Core/transformer-vm",
-    "branch": "main",
+    "repo": "great-expectations/great_expectations",
+    "branch": "develop",
     "language": "Python",
-    "description": "Compile programs directly into transformer weights. Includes a 2D convex-hull KV cache with O(log n) inference."
-  },
-  {
-    "repo": "mochajs/mocha",
-    "branch": "master",
-    "language": "JavaScript",
-    "description": "☕️ Classic, reliable, trusted test framework for Node.js and the browser"
-  },
-  {
-    "repo": "Zackriya-Solutions/meeting-minutes",
-    "branch": "main",
-    "language": "Rust",
-    "description": "Privacy first, AI meeting assistant with 4x faster Parakeet/Whisper live transcription, speaker diarization, and Ollama summarization built on Rust. 100% local processing. no cloud required. Meetily (Meetly Ai - https://meetily.ai) is the #1 Self-hosted,  Open-source Ai meeting note taker for macOS & Windows."
-  },
-  {
-    "repo": "jackwener/rdt-cli",
-    "branch": "main",
-    "language": "Python",
-    "description": "Reddit in your terminal 📖 — Browse feeds, read posts, search, upvote, save, subscribe"
-  },
-  {
-    "repo": "Homebrew/brew",
-    "branch": "master",
-    "language": "Ruby",
-    "description": "🍺 The missing package manager for macOS (or Linux)"
-  },
-  {
-    "repo": "filiksyos/gitreverse",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Reverse engineer any repo into it's original prompt"
-  },
-  {
-    "repo": "theforeveriris/simulated-12306-view",
-    "branch": "main",
-    "language": "HTML",
-    "description": "简易的12306购票模拟器.用于应急应付对方请求看购票截图的无理要求"
-  },
-  {
-    "repo": "stanfordnlp/stanza",
-    "branch": "main",
-    "language": "Python",
-    "description": "Stanford NLP Python library for tokenization, sentence segmentation, NER, and parsing of many human languages"
-  },
-  {
-    "repo": "animate-css/animate.css",
-    "branch": "main",
-    "language": "CSS",
-    "description": "🍿 A cross-browser library of CSS animations. As easy to use as an easy thing."
+    "description": "Always know what to expect from your data."
   }
 ]

@@ -1,8 +1,8 @@
 {
-  "repo": "alishamari/DecentralPurse",
+  "repo": "maliubiao/dgx-spark-2-deepseek-flash-0731",
   "branch": "main",
-  "language": "Python",
-  "description": "A featured project on GitHubTree.",
+  "language": "Shell",
+  "description": "setup guide for deepseek-flash-0731 on two dgx-spark from scratch",
   "stars": 143,
-  "forks": 0
+  "forks": 18
 }
