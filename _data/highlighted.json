@@ -1,8 +1,8 @@
 {
-  "repo": "Andiveli/wptui",
+  "repo": "Samin100/codex-ios-assistant",
   "branch": "main",
-  "language": "Rust",
-  "description": "Keyboard-driven WhatsApp client for the terminal (Rust/Ratatui + Go/whatsmeow)",
-  "stars": 135,
-  "forks": 4
+  "language": "Python",
+  "description": "Control and inspect an iPhone from Codex through iMessage and Shortcuts",
+  "stars": 175,
+  "forks": 23
 }

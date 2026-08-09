@@ -1,39 +1,93 @@
 [
   {
-    "repo": "PipeNetwork/kimi-k3-mlx",
-    "branch": "main",
-    "language": "Python",
-    "description": "MLX port of moonshotai/Kimi-K3 (2.78T multimodal MoE): streaming converter, REAP expert pruning, and per-language expert-overlap analysis"
-  },
-  {
-    "repo": "ramda/ramda",
-    "branch": "master",
-    "language": "JavaScript",
-    "description": ":ram: Practical functional Javascript"
-  },
-  {
-    "repo": "yfyang007/RealRestorer",
-    "branch": "master",
-    "language": "Python",
-    "description": ""
-  },
-  {
-    "repo": "JinGuYuan/jinguyuan-dumpling-skill",
-    "branch": "main",
-    "language": "Python",
-    "description": "金谷园饺子馆 AI Skill - 北邮边上的饺子馆"
-  },
-  {
-    "repo": "MasterAlanLab/Register",
-    "branch": "main",
-    "language": "Python",
-    "description": ""
-  },
-  {
-    "repo": "marshmallow-code/apispec",
+    "repo": "marshmallow-code/marshmallow",
     "branch": "dev",
     "language": "Python",
-    "description": "A pluggable API specification generator. Currently supports the OpenAPI Specification (f.k.a. the Swagger specification).."
+    "description": "A lightweight library for converting complex objects to and from simple Python datatypes."
+  },
+  {
+    "repo": "lxh77721/k12-reg",
+    "branch": "master",
+    "language": "TypeScript",
+    "description": "多线程全自动注册free 强上K12空间 gmail版"
+  },
+  {
+    "repo": "poteto/hiring-without-whiteboards",
+    "branch": "master",
+    "language": "JavaScript",
+    "description": "⭐️  Companies that don't have a broken hiring process"
+  },
+  {
+    "repo": "argentlabs/argent-contracts",
+    "branch": "develop",
+    "language": "Solidity",
+    "description": "Smart Contracts for Argent Wallet"
+  },
+  {
+    "repo": "distribution/distribution",
+    "branch": "main",
+    "language": "Go",
+    "description": "The toolkit to pack, ship, store, and deliver container content"
+  },
+  {
+    "repo": "mmazzarolo/react-native-modal-datetime-picker",
+    "branch": "master",
+    "language": "JavaScript",
+    "description": "A React-Native datetime-picker for Android and iOS"
+  },
+  {
+    "repo": "sqlite/sqlite",
+    "branch": "master",
+    "language": "C",
+    "description": "Official Git mirror of the SQLite source tree"
+  },
+  {
+    "repo": "google/zx",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "A tool for writing better scripts"
+  },
+  {
+    "repo": "react-native-picker/picker",
+    "branch": "master",
+    "language": "JavaScript",
+    "description": "Picker is a cross-platform UI component for selecting an item from a list of options."
+  },
+  {
+    "repo": "Quick/Nimble",
+    "branch": "main",
+    "language": "Swift",
+    "description": "A Matcher Framework for Swift and Objective-C"
+  },
+  {
+    "repo": "huggingface/peft",
+    "branch": "main",
+    "language": "Python",
+    "description": "🤗 PEFT: State-of-the-art Parameter-Efficient Fine-Tuning."
+  },
+  {
+    "repo": "grpc/grpc-go",
+    "branch": "master",
+    "language": "Go",
+    "description": "The Go language implementation of gRPC. HTTP/2 based RPC"
+  },
+  {
+    "repo": "scipy/scipy",
+    "branch": "main",
+    "language": "Python",
+    "description": "SciPy library main repository"
+  },
+  {
+    "repo": "total-typescript/ts-reset",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "A 'CSS reset' for TypeScript, improving types for common JavaScript API's"
+  },
+  {
+    "repo": "owncloud/core",
+    "branch": "master",
+    "language": "PHP",
+    "description": ":cloud: ownCloud web server core (Files, DAV, etc.)"
   },
   {
     "repo": "colinhacks/zod",
@@ -42,105 +96,51 @@
     "description": "TypeScript-first schema validation with static type inference"
   },
   {
-    "repo": "qwikverse/qwik",
-    "branch": "main",
-    "language": "Other",
-    "description": "The HTML-first framework. Instant apps of any size with ~ 1kb JS"
-  },
-  {
-    "repo": "mattermost/mattermost-server",
-    "branch": "master",
-    "language": "TypeScript",
-    "description": "Mattermost is an open source platform for secure collaboration across the entire software development lifecycle.."
-  },
-  {
-    "repo": "openai/whisper",
+    "repo": "OmniSVG/OmniSVG",
     "branch": "main",
     "language": "Python",
-    "description": "Robust Speech Recognition via Large-Scale Weak Supervision"
+    "description": "[NeurIPS 2025] OmniSVG is the first family of end-to-end multimodal SVG generators that leverage pre-trained Vision-Language Models (VLMs), capable of generating complex and detailed SVGs, from simple icons to intricate anime characters."
   },
   {
-    "repo": "diffusionstudio/slug-webgpu",
+    "repo": "emscripten-core/emscripten",
     "branch": "main",
-    "language": "TypeScript",
-    "description": "WebGPU implementation of Eric Lengyel's Slug algorithm for resolution-independent vector text rendering on the GPU"
+    "language": "C++",
+    "description": "Emscripten: An LLVM-to-WebAssembly Compiler"
   },
   {
-    "repo": "strapi/strapi",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "🚀 Strapi is the leading open-source headless CMS. It’s 100% JavaScript/TypeScript, fully customizable, and developer-first."
-  },
-  {
-    "repo": "huggingface/accelerate",
-    "branch": "main",
-    "language": "Python",
-    "description": "🚀 A simple way to launch, train, and use PyTorch models on almost any device and distributed configuration, automatic mixed precision (including fp8), and easy-to-configure FSDP and DeepSpeed support"
-  },
-  {
-    "repo": "zhu1090093659/spec_driven_develop",
-    "branch": "main",
-    "language": "Shell",
-    "description": "Cross-platform AI agent skill for spec-driven development: analyze codebases, decompose large  transformations, and track long-running work."
-  },
-  {
-    "repo": "psycopg/psycopg",
-    "branch": "master",
-    "language": "Python",
-    "description": "New generation PostgreSQL database adapter for the Python programming language"
-  },
-  {
-    "repo": "gravitational/teleport",
+    "repo": "argoproj/argo-events",
     "branch": "master",
     "language": "Go",
-    "description": "The easiest, and most secure way to access and protect all of your infrastructure."
+    "description": "Event-driven Automation Framework for Kubernetes"
   },
   {
-    "repo": "dou-jiang/codex-console",
+    "repo": "actions/setup-python",
     "branch": "main",
-    "language": "Python",
-    "description": "codex-console 是一个集成化控制台项目，支持任务管理、批量处理、数据导出、自动上传、日志查看与打包支持。"
+    "language": "TypeScript",
+    "description": "Set up your GitHub Actions workflow with a specific version of Python"
   },
   {
-    "repo": "rohitg00/ai-engineering-from-scratch",
-    "branch": "main",
-    "language": "Python",
-    "description": "Learn it. Build it. Ship it for others."
-  },
-  {
-    "repo": "gradio-app/gradio",
-    "branch": "main",
-    "language": "Python",
-    "description": "Build and share delightful machine learning apps, all in Python. 🌟 Star to support our work!"
-  },
-  {
-    "repo": "deepcon3/Binance-Claw",
+    "repo": "qufei1993/skills-hub",
     "branch": "main",
     "language": "Rust",
-    "description": "Binance-Claw Lightning-fast Binance price sniper, real-time monitor & OpenClaw skill — written in Rust"
+    "description": "A cross-platform desktop app to manage Agent Skills in one place and sync them to multiple AI coding tools’ global skills directories — “Install once, sync everywhere”."
   },
   {
-    "repo": "get-Lucid/Lucid",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "An intelligence layer grounding autonomous agents in verified, real-time knowledge at scale."
+    "repo": "standard/standard",
+    "branch": "master",
+    "language": "JavaScript",
+    "description": "🌟 JavaScript Style Guide, with linter & automatic code fixer"
   },
   {
-    "repo": "ShawnPana/aurl",
-    "branch": "main",
+    "repo": "uber-go/fx",
+    "branch": "master",
     "language": "Go",
-    "description": "A command line tool for turning any API into a CLI command, supporting OpenAPI 3.0, OpenAPI 3.1, Swagger 2.0, and GraphQL. aurl auto-detects authentication, validates requests against the spec, and generates documentation from introspection."
+    "description": "A dependency injection based application framework for Go."
   },
   {
-    "repo": "michelleoincx/zeroclaw-grok",
+    "repo": "jquery/jquery",
     "branch": "main",
     "language": "JavaScript",
-    "description": "ZeroClaw — sleek web interface for Grok AI (xAI). Streaming responses, multi-session chat, model selector. Zero npm dependencies. Runs with one command."
-  },
-  {
-    "repo": "react-native-camera/react-native-camera",
-    "branch": "master",
-    "language": "Java",
-    "description": "A Camera component for React Native. Also supports barcode scanning!"
+    "description": "jQuery JavaScript Library"
   }
 ]
