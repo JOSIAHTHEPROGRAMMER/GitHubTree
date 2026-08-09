@@ -1,146 +1,146 @@
 [
   {
-    "repo": "karola3vax/CS2AC",
-    "branch": "main",
-    "language": "C++",
-    "description": "Server-side anti-cheat for Counter-Strike 2 community servers, built for Metamod:Source."
-  },
-  {
-    "repo": "tachikomared/character-animation-creator-skill",
+    "repo": "Moore-developers/moore-wechat-article-downloader",
     "branch": "main",
     "language": "Python",
-    "description": "Character Animation Creator Skill for Codex and GPT Web Agent — generates game-ready animations and sprites from reference images or text prompts"
-  },
-  {
-    "repo": "sanzoI-tech/polymarket-kalshi-arbitrage-bot",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "polymarket trading bot, polymarket bot, polymarket kalshi trading bot, polymarket trading bot, polymarket bot, polymarket kalshi trading bot, polymarket trading bot, polymarket bot, polymarket kalshi trading bot, polymarket trading bot, polymarket bot, polymarket kalshi trading bot, kalshi, prediction-markets, arbitrage, typescript, clob"
-  },
-  {
-    "repo": "gar212/VoidStrap-Roblox",
-    "branch": "main",
-    "language": "C++",
-    "description": "VoidStrap Roblox download bootstrapper launcher custom client optimization tools FPS unlocker utility scripts framework desktop app update manager setup installer repository."
-  },
-  {
-    "repo": "PHjont/Wallpaper-Engine-Live-wallpaper-engine",
-    "branch": "main",
-    "language": "C++",
-    "description": "Wallpaper Engine Steam: Live wallpaper engine. Features: 3D interactive scenes, audio visualizer, clock widgets. Android sync, mobile companion, playlist scheduler. Performance optimization, low CPU usage, LED hardware lighting, Razer Chroma, Corsair iCUE, Steam Workshop integration, SceneScript."
-  },
-  {
-    "repo": "Parallax-Trading/polymarket-copy-trading-bot",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "polymarket trading bot,polymarket copy trading bot,polymarket trading bot,polymarket copy trading bot,polymarket trading bot,polymarket copy trading bot,polymarket trading bot,polymarket copy trading bot,polymarket trading bot,polymarket copy trading bot,polymarket trading bot,polymarket copy trading bot,"
-  },
-  {
-    "repo": "CookSleep/gpt_image_playground",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "基于 OpenAI gpt-image-2 接口的图片生成与编辑工具"
-  },
-  {
-    "repo": "kargnas/damn-my-slow-kt",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "명령어 설치 한번으로 한달 KT 인터넷 요금을 무료로 쓸 수 있습니다. 귀찮은 공문 작성 필요 없습니다."
-  },
-  {
-    "repo": "ridha61/Lossless-Scaling-Upscaler-FPS",
-    "branch": "main",
-    "language": "C++",
-    "description": "Lossless Scaling Free Download May 2026 LSFG 3 Frame Generation Tool Universal AI Upscaler LS1 FSR 3.1 Guide High FPS Gaming Utility Desktop Performance Booster Low Latency Smooth Motion Handheld Optimization Steam Deck ROG Ally Pro Version Latest Build Tutorial No Lag"
-  },
-  {
-    "repo": "muxprotocol/kalshi-trading-bot",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "kalshi trading bot on prediction market autonomous kalshi trading bot that connects to the kalshi api via kalshi rest and kalshi websocket, runs a five-agent ai ensemble to analyze kalshi prediction markets, sizes positions with fractional kelly criterion against your kalshi balance, and executes kalshi orders in paper or live mode with hard daily"
-  },
-  {
-    "repo": "SmartOrder-Systems/polymarket-copy-trading-bot",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "polymarket trading bot,polymarket copy trading bot,polymarket trading bot,polymarket copy trading bot,polymarket trading bot,polymarket copy trading bot,polymarket trading bot,polymarket copy trading bot,polymarket trading bot,polymarket copy trading bot,polymarket trading bot,polymarket copy trading bot,"
-  },
-  {
-    "repo": "LazyVim/LazyVim",
-    "branch": "main",
-    "language": "Lua",
-    "description": "Neovim config for the lazy"
-  },
-  {
-    "repo": "tiangolo/fastapi",
-    "branch": "master",
-    "language": "Python",
-    "description": "FastAPI framework, high performance, easy to learn, fast to code, ready for production"
-  },
-  {
-    "repo": "NVIDIA/apex",
-    "branch": "master",
-    "language": "Python",
-    "description": "A PyTorch Extension:  Tools for easy mixed precision and distributed training in Pytorch"
-  },
-  {
-    "repo": "tgies/copy-fail-c",
-    "branch": "main",
-    "language": "C",
-    "description": "Cross-platform C port of the Copy Fail Linux LPE (CVE-2026-31431). Disclosed 2026-04-29 by Theori / Xint."
-  },
-  {
-    "repo": "apache/spark",
-    "branch": "master",
-    "language": "Scala",
-    "description": "Apache Spark - A unified analytics engine for large-scale data processing"
-  },
-  {
-    "repo": "deepseek-ai/DeepSeek-V3",
-    "branch": "main",
-    "language": "Python",
-    "description": "Vision-language models from DeepSeek research."
-  },
-  {
-    "repo": "tddworks/baguette",
-    "branch": "main",
-    "language": "Swift",
-    "description": "Headless iOS Simulator manager/farm + host-side input injection for iOS 26 — taps, swipes, multi-finger gestures, and 60 fps streaming"
-  },
-  {
-    "repo": "LadybirdBrowser/ladybird",
-    "branch": "master",
-    "language": "C++",
-    "description": "Truly independent web browser"
-  },
-  {
-    "repo": "wangyingqi-x/workflow-showcase-platform",
-    "branch": "main",
-    "language": "Java",
     "description": ""
   },
   {
-    "repo": "bytedance/Lance",
+    "repo": "containerd/containerd",
+    "branch": "main",
+    "language": "Go",
+    "description": "An open and reliable container runtime"
+  },
+  {
+    "repo": "huggingface/hf-agents",
+    "branch": "main",
+    "language": "Shell",
+    "description": "HF CLI extension to run local coding agent powered by llmfit and llama.cpp"
+  },
+  {
+    "repo": "lapce/lapce",
+    "branch": "master",
+    "language": "Rust",
+    "description": "Lightning-fast and Powerful Code Editor written in Rust"
+  },
+  {
+    "repo": "zuckermanai/zuckerman",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Ultra-minimal personal AI agent: starts small, self-modifies its code live, adapts by writing exactly the code & features you need"
+  },
+  {
+    "repo": "scipy/scipy",
     "branch": "main",
     "language": "Python",
-    "description": "A 3B-active-parameter native unified multimodal model for image and video understanding, generation, and editing."
+    "description": "SciPy library main repository"
   },
   {
-    "repo": "actionbook/ascent-research",
+    "repo": "sujitagarwal/multigravity-cli",
     "branch": "main",
-    "language": "Rust",
-    "description": "research cli for agent"
+    "language": "Shell",
+    "description": "Run multiple Antigravity IDE profiles at the same time — each with its own accounts, settings, and extensions.  No more logging in and out. Just switch profiles instantly or use them all at once!"
   },
   {
-    "repo": "levelsio/superlevels",
+    "repo": "leonyx007/Polymarket-Sports-Arbitrage-Bot",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Polymarket Sports Trading Bot | Polymarket Arbitrage Trading Bot | Polymarket Trading Bot | Polymarket Sports Trading Bot | Polymarket Sports Arbitrage Trading Bot | Polymarket NBA Trading Bot | Polymarket Sports Trading Bot | Polymarket Arbitrage Trading Bot |Polymarket Arbitrage Bot | Polymarket Trading Bot | Polymarket-Sports-Arbitrage-Bot"
+  },
+  {
+    "repo": "syncthing/syncthing",
+    "branch": "main",
+    "language": "Go",
+    "description": "Open Source Continuous File Synchronization"
+  },
+  {
+    "repo": "poteto/hiring-without-whiteboards",
+    "branch": "master",
+    "language": "JavaScript",
+    "description": "⭐️  Companies that don't have a broken hiring process"
+  },
+  {
+    "repo": "storybookjs/testing-react",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Testing utilities that allow you to reuse your Storybook stories in your React unit tests!"
+  },
+  {
+    "repo": "simonw/rodney",
+    "branch": "main",
+    "language": "Go",
+    "description": "CLI tool for interacting with the web"
+  },
+  {
+    "repo": "jesseduffield/lazydocker",
+    "branch": "master",
+    "language": "Go",
+    "description": "The lazier way to manage everything docker"
+  },
+  {
+    "repo": "redis/redis",
+    "branch": "unstable",
+    "language": "C",
+    "description": "For developers, who are building real-time data-driven applications, Redis is the preferred, fastest, and most feature-rich cache, data structure server, and document and vector query engine."
+  },
+  {
+    "repo": "reduxjs/redux-thunk",
+    "branch": "master",
+    "language": "TypeScript",
+    "description": "Thunk middleware for Redux"
+  },
+  {
+    "repo": "tldraw/tldraw",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "very good whiteboard infinite canvas SDK"
+  },
+  {
+    "repo": "alpinejs/alpine",
+    "branch": "main",
+    "language": "HTML",
+    "description": "A rugged, minimal framework for composing JavaScript behavior in your markup."
+  },
+  {
+    "repo": "Automattic/mongoose",
+    "branch": "master",
+    "language": "JavaScript",
+    "description": "MongoDB object modeling designed to work in an asynchronous environment."
+  },
+  {
+    "repo": "GammaLabTechnologies/harmonist",
+    "branch": "main",
+    "language": "Python",
+    "description": "Portable AI agent orchestration with mechanical protocol enforcement. 186 agents, zero runtime dependencies."
+  },
+  {
+    "repo": "golang/protobuf",
+    "branch": "master",
+    "language": "Go",
+    "description": "Go support for Google's protocol buffers"
+  },
+  {
+    "repo": "hamelsmu/claude-review-loop",
+    "branch": "main",
+    "language": "Shell",
+    "description": "Claude Code plugin: automated code review loop with Codex"
+  },
+  {
+    "repo": "LightTable/LightTable",
+    "branch": "master",
+    "language": "Clojure",
+    "description": "The Light Table IDE ⛺"
+  },
+  {
+    "repo": "phuc-nt/my-translator",
     "branch": "main",
     "language": "JavaScript",
-    "description": "A super Chrome extension I made that's safer than installing external malware/spyware-filled extensions that form a massive security risk, this one is open source and you can read and check the source code (with AI) before you install it, and customize it to your liking!"
+    "description": "Real-time speech translation for macOS — open source, no tracking, direct Soniox API"
   },
   {
-    "repo": "adamallcock/codex-chatgpt-control",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "Unofficial SDK for Codex agents controlling visible ChatGPT web sessions"
+    "repo": "keras-team/keras",
+    "branch": "master",
+    "language": "Python",
+    "description": "Deep Learning for humans"
   }
 ]
