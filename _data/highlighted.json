@@ -1,8 +1,8 @@
 {
-  "repo": "RidgeRookPattern/comix-autoclipper",
+  "repo": "Andiveli/wptui",
   "branch": "main",
-  "language": "Python",
-  "description": "Best Manga Downloader 2026: Fast GUI & CLI Comix Tool with PDF CBZ Export",
-  "stars": 121,
-  "forks": 0
+  "language": "Rust",
+  "description": "Keyboard-driven WhatsApp client for the terminal (Rust/Ratatui + Go/whatsmeow)",
+  "stars": 135,
+  "forks": 4
 }

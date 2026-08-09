@@ -1,146 +1,146 @@
 [
   {
-    "repo": "Moore-developers/moore-wechat-article-downloader",
+    "repo": "PipeNetwork/kimi-k3-mlx",
+    "branch": "main",
+    "language": "Python",
+    "description": "MLX port of moonshotai/Kimi-K3 (2.78T multimodal MoE): streaming converter, REAP expert pruning, and per-language expert-overlap analysis"
+  },
+  {
+    "repo": "ramda/ramda",
+    "branch": "master",
+    "language": "JavaScript",
+    "description": ":ram: Practical functional Javascript"
+  },
+  {
+    "repo": "yfyang007/RealRestorer",
+    "branch": "master",
+    "language": "Python",
+    "description": ""
+  },
+  {
+    "repo": "JinGuYuan/jinguyuan-dumpling-skill",
+    "branch": "main",
+    "language": "Python",
+    "description": "金谷园饺子馆 AI Skill - 北邮边上的饺子馆"
+  },
+  {
+    "repo": "MasterAlanLab/Register",
     "branch": "main",
     "language": "Python",
     "description": ""
   },
   {
-    "repo": "containerd/containerd",
-    "branch": "main",
-    "language": "Go",
-    "description": "An open and reliable container runtime"
+    "repo": "marshmallow-code/apispec",
+    "branch": "dev",
+    "language": "Python",
+    "description": "A pluggable API specification generator. Currently supports the OpenAPI Specification (f.k.a. the Swagger specification).."
   },
   {
-    "repo": "huggingface/hf-agents",
+    "repo": "colinhacks/zod",
+    "branch": "master",
+    "language": "TypeScript",
+    "description": "TypeScript-first schema validation with static type inference"
+  },
+  {
+    "repo": "qwikverse/qwik",
+    "branch": "main",
+    "language": "Other",
+    "description": "The HTML-first framework. Instant apps of any size with ~ 1kb JS"
+  },
+  {
+    "repo": "mattermost/mattermost-server",
+    "branch": "master",
+    "language": "TypeScript",
+    "description": "Mattermost is an open source platform for secure collaboration across the entire software development lifecycle.."
+  },
+  {
+    "repo": "openai/whisper",
+    "branch": "main",
+    "language": "Python",
+    "description": "Robust Speech Recognition via Large-Scale Weak Supervision"
+  },
+  {
+    "repo": "diffusionstudio/slug-webgpu",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "WebGPU implementation of Eric Lengyel's Slug algorithm for resolution-independent vector text rendering on the GPU"
+  },
+  {
+    "repo": "strapi/strapi",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "🚀 Strapi is the leading open-source headless CMS. It’s 100% JavaScript/TypeScript, fully customizable, and developer-first."
+  },
+  {
+    "repo": "huggingface/accelerate",
+    "branch": "main",
+    "language": "Python",
+    "description": "🚀 A simple way to launch, train, and use PyTorch models on almost any device and distributed configuration, automatic mixed precision (including fp8), and easy-to-configure FSDP and DeepSpeed support"
+  },
+  {
+    "repo": "zhu1090093659/spec_driven_develop",
     "branch": "main",
     "language": "Shell",
-    "description": "HF CLI extension to run local coding agent powered by llmfit and llama.cpp"
+    "description": "Cross-platform AI agent skill for spec-driven development: analyze codebases, decompose large  transformations, and track long-running work."
   },
   {
-    "repo": "lapce/lapce",
+    "repo": "psycopg/psycopg",
     "branch": "master",
+    "language": "Python",
+    "description": "New generation PostgreSQL database adapter for the Python programming language"
+  },
+  {
+    "repo": "gravitational/teleport",
+    "branch": "master",
+    "language": "Go",
+    "description": "The easiest, and most secure way to access and protect all of your infrastructure."
+  },
+  {
+    "repo": "dou-jiang/codex-console",
+    "branch": "main",
+    "language": "Python",
+    "description": "codex-console 是一个集成化控制台项目，支持任务管理、批量处理、数据导出、自动上传、日志查看与打包支持。"
+  },
+  {
+    "repo": "rohitg00/ai-engineering-from-scratch",
+    "branch": "main",
+    "language": "Python",
+    "description": "Learn it. Build it. Ship it for others."
+  },
+  {
+    "repo": "gradio-app/gradio",
+    "branch": "main",
+    "language": "Python",
+    "description": "Build and share delightful machine learning apps, all in Python. 🌟 Star to support our work!"
+  },
+  {
+    "repo": "deepcon3/Binance-Claw",
+    "branch": "main",
     "language": "Rust",
-    "description": "Lightning-fast and Powerful Code Editor written in Rust"
+    "description": "Binance-Claw Lightning-fast Binance price sniper, real-time monitor & OpenClaw skill — written in Rust"
   },
   {
-    "repo": "zuckermanai/zuckerman",
+    "repo": "get-Lucid/Lucid",
     "branch": "main",
     "language": "TypeScript",
-    "description": "Ultra-minimal personal AI agent: starts small, self-modifies its code live, adapts by writing exactly the code & features you need"
+    "description": "An intelligence layer grounding autonomous agents in verified, real-time knowledge at scale."
   },
   {
-    "repo": "scipy/scipy",
-    "branch": "main",
-    "language": "Python",
-    "description": "SciPy library main repository"
-  },
-  {
-    "repo": "sujitagarwal/multigravity-cli",
-    "branch": "main",
-    "language": "Shell",
-    "description": "Run multiple Antigravity IDE profiles at the same time — each with its own accounts, settings, and extensions.  No more logging in and out. Just switch profiles instantly or use them all at once!"
-  },
-  {
-    "repo": "leonyx007/Polymarket-Sports-Arbitrage-Bot",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Polymarket Sports Trading Bot | Polymarket Arbitrage Trading Bot | Polymarket Trading Bot | Polymarket Sports Trading Bot | Polymarket Sports Arbitrage Trading Bot | Polymarket NBA Trading Bot | Polymarket Sports Trading Bot | Polymarket Arbitrage Trading Bot |Polymarket Arbitrage Bot | Polymarket Trading Bot | Polymarket-Sports-Arbitrage-Bot"
-  },
-  {
-    "repo": "syncthing/syncthing",
+    "repo": "ShawnPana/aurl",
     "branch": "main",
     "language": "Go",
-    "description": "Open Source Continuous File Synchronization"
+    "description": "A command line tool for turning any API into a CLI command, supporting OpenAPI 3.0, OpenAPI 3.1, Swagger 2.0, and GraphQL. aurl auto-detects authentication, validates requests against the spec, and generates documentation from introspection."
   },
   {
-    "repo": "poteto/hiring-without-whiteboards",
-    "branch": "master",
-    "language": "JavaScript",
-    "description": "⭐️  Companies that don't have a broken hiring process"
-  },
-  {
-    "repo": "storybookjs/testing-react",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Testing utilities that allow you to reuse your Storybook stories in your React unit tests!"
-  },
-  {
-    "repo": "simonw/rodney",
-    "branch": "main",
-    "language": "Go",
-    "description": "CLI tool for interacting with the web"
-  },
-  {
-    "repo": "jesseduffield/lazydocker",
-    "branch": "master",
-    "language": "Go",
-    "description": "The lazier way to manage everything docker"
-  },
-  {
-    "repo": "redis/redis",
-    "branch": "unstable",
-    "language": "C",
-    "description": "For developers, who are building real-time data-driven applications, Redis is the preferred, fastest, and most feature-rich cache, data structure server, and document and vector query engine."
-  },
-  {
-    "repo": "reduxjs/redux-thunk",
-    "branch": "master",
-    "language": "TypeScript",
-    "description": "Thunk middleware for Redux"
-  },
-  {
-    "repo": "tldraw/tldraw",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "very good whiteboard infinite canvas SDK"
-  },
-  {
-    "repo": "alpinejs/alpine",
-    "branch": "main",
-    "language": "HTML",
-    "description": "A rugged, minimal framework for composing JavaScript behavior in your markup."
-  },
-  {
-    "repo": "Automattic/mongoose",
-    "branch": "master",
-    "language": "JavaScript",
-    "description": "MongoDB object modeling designed to work in an asynchronous environment."
-  },
-  {
-    "repo": "GammaLabTechnologies/harmonist",
-    "branch": "main",
-    "language": "Python",
-    "description": "Portable AI agent orchestration with mechanical protocol enforcement. 186 agents, zero runtime dependencies."
-  },
-  {
-    "repo": "golang/protobuf",
-    "branch": "master",
-    "language": "Go",
-    "description": "Go support for Google's protocol buffers"
-  },
-  {
-    "repo": "hamelsmu/claude-review-loop",
-    "branch": "main",
-    "language": "Shell",
-    "description": "Claude Code plugin: automated code review loop with Codex"
-  },
-  {
-    "repo": "LightTable/LightTable",
-    "branch": "master",
-    "language": "Clojure",
-    "description": "The Light Table IDE ⛺"
-  },
-  {
-    "repo": "phuc-nt/my-translator",
+    "repo": "michelleoincx/zeroclaw-grok",
     "branch": "main",
     "language": "JavaScript",
-    "description": "Real-time speech translation for macOS — open source, no tracking, direct Soniox API"
+    "description": "ZeroClaw — sleek web interface for Grok AI (xAI). Streaming responses, multi-session chat, model selector. Zero npm dependencies. Runs with one command."
   },
   {
-    "repo": "keras-team/keras",
+    "repo": "react-native-camera/react-native-camera",
     "branch": "master",
-    "language": "Python",
-    "description": "Deep Learning for humans"
+    "language": "Java",
+    "description": "A Camera component for React Native. Also supports barcode scanning!"
   }
 ]
