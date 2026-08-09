@@ -1,146 +1,146 @@
 [
   {
-    "repo": "SL0ANE/TheMoldsmalPlugin",
+    "repo": "karola3vax/CS2AC",
+    "branch": "main",
+    "language": "C++",
+    "description": "Server-side anti-cheat for Counter-Strike 2 community servers, built for Metamod:Source."
+  },
+  {
+    "repo": "tachikomared/character-animation-creator-skill",
+    "branch": "main",
+    "language": "Python",
+    "description": "Character Animation Creator Skill for Codex and GPT Web Agent — generates game-ready animations and sprites from reference images or text prompts"
+  },
+  {
+    "repo": "sanzoI-tech/polymarket-kalshi-arbitrage-bot",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "polymarket trading bot, polymarket bot, polymarket kalshi trading bot, polymarket trading bot, polymarket bot, polymarket kalshi trading bot, polymarket trading bot, polymarket bot, polymarket kalshi trading bot, polymarket trading bot, polymarket bot, polymarket kalshi trading bot, kalshi, prediction-markets, arbitrage, typescript, clob"
+  },
+  {
+    "repo": "gar212/VoidStrap-Roblox",
+    "branch": "main",
+    "language": "C++",
+    "description": "VoidStrap Roblox download bootstrapper launcher custom client optimization tools FPS unlocker utility scripts framework desktop app update manager setup installer repository."
+  },
+  {
+    "repo": "PHjont/Wallpaper-Engine-Live-wallpaper-engine",
+    "branch": "main",
+    "language": "C++",
+    "description": "Wallpaper Engine Steam: Live wallpaper engine. Features: 3D interactive scenes, audio visualizer, clock widgets. Android sync, mobile companion, playlist scheduler. Performance optimization, low CPU usage, LED hardware lighting, Razer Chroma, Corsair iCUE, Steam Workshop integration, SceneScript."
+  },
+  {
+    "repo": "Parallax-Trading/polymarket-copy-trading-bot",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "polymarket trading bot,polymarket copy trading bot,polymarket trading bot,polymarket copy trading bot,polymarket trading bot,polymarket copy trading bot,polymarket trading bot,polymarket copy trading bot,polymarket trading bot,polymarket copy trading bot,polymarket trading bot,polymarket copy trading bot,"
+  },
+  {
+    "repo": "CookSleep/gpt_image_playground",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "基于 OpenAI gpt-image-2 接口的图片生成与编辑工具"
+  },
+  {
+    "repo": "kargnas/damn-my-slow-kt",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "명령어 설치 한번으로 한달 KT 인터넷 요금을 무료로 쓸 수 있습니다. 귀찮은 공문 작성 필요 없습니다."
+  },
+  {
+    "repo": "ridha61/Lossless-Scaling-Upscaler-FPS",
+    "branch": "main",
+    "language": "C++",
+    "description": "Lossless Scaling Free Download May 2026 LSFG 3 Frame Generation Tool Universal AI Upscaler LS1 FSR 3.1 Guide High FPS Gaming Utility Desktop Performance Booster Low Latency Smooth Motion Handheld Optimization Steam Deck ROG Ally Pro Version Latest Build Tutorial No Lag"
+  },
+  {
+    "repo": "muxprotocol/kalshi-trading-bot",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "kalshi trading bot on prediction market autonomous kalshi trading bot that connects to the kalshi api via kalshi rest and kalshi websocket, runs a five-agent ai ensemble to analyze kalshi prediction markets, sizes positions with fractional kelly criterion against your kalshi balance, and executes kalshi orders in paper or live mode with hard daily"
+  },
+  {
+    "repo": "SmartOrder-Systems/polymarket-copy-trading-bot",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "polymarket trading bot,polymarket copy trading bot,polymarket trading bot,polymarket copy trading bot,polymarket trading bot,polymarket copy trading bot,polymarket trading bot,polymarket copy trading bot,polymarket trading bot,polymarket copy trading bot,polymarket trading bot,polymarket copy trading bot,"
+  },
+  {
+    "repo": "LazyVim/LazyVim",
     "branch": "main",
     "language": "Lua",
-    "description": "a plugin for boil effect for aseprite maybe"
+    "description": "Neovim config for the lazy"
   },
   {
-    "repo": "vxcozy/tome",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Beautiful documentation that doesn't cost a fortune. Open-source Mintlify alternative."
-  },
-  {
-    "repo": "bokeh/bokeh",
-    "branch": "branch-3.4",
-    "language": "TypeScript",
-    "description": "Interactive Data Visualization in the browser, from  Python"
-  },
-  {
-    "repo": "formulahendry/wechat-acp",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Bridge WeChat chat messages to any ACP-compatible AI agent"
-  },
-  {
-    "repo": "idanshen/Self-Distillation",
-    "branch": "main",
-    "language": "Python",
-    "description": ""
-  },
-  {
-    "repo": "wesbos/JSON-Alexander",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "A really good JSON viewer browser Extension"
-  },
-  {
-    "repo": "VexedWilosn/AetherSwap",
-    "branch": "main",
-    "language": "Python",
-    "description": "⚗️ AetherSwap：全自动、零代码配置的 Steam 低价余额助手。提供现代化可视化 Web 控制台，基于数学模型智能选品，实现从买入到全自动上架的无人值守交易。"
-  },
-  {
-    "repo": "TACOWASA059/katamariio",
-    "branch": "main",
-    "language": "Java",
-    "description": "[Forge1.20.1] 球体を操作して周囲のブロックを巻き込み大きくなれるMOD"
-  },
-  {
-    "repo": "mysqljs/mysql",
+    "repo": "tiangolo/fastapi",
     "branch": "master",
-    "language": "JavaScript",
-    "description": "A pure node.js JavaScript Client implementing the MySQL protocol."
+    "language": "Python",
+    "description": "FastAPI framework, high performance, easy to learn, fast to code, ready for production"
   },
   {
-    "repo": "sadsadsasdasadsadsadsadsa/Crimson-Desert-Optiscaler-Fsr-4",
-    "branch": "main",
-    "language": "C++",
-    "description": "Crimson Desert Optiscaler FSR 4 Full Version 2026 – Advanced Graphics Mod featuring OptiScaler + AMD FSR 4. Significantly increases FPS while improving image sharpness and reducing ghosting in Crimson Desert. Perfect for low-end and high-end PCs. Includes multiple FSR 4 presets. Best performance and upscaling solution for Crimson Desert in 2026!"
-  },
-  {
-    "repo": "robinebers/openusage",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "A plugin-based menu bar app for tracking AI coding tool subscriptions like Cursor, Claude, Codex and more, all in one place with a heavy focus user experience, speed, and stability."
-  },
-  {
-    "repo": "Zaneham/BarraCUDA",
+    "repo": "NVIDIA/apex",
     "branch": "master",
+    "language": "Python",
+    "description": "A PyTorch Extension:  Tools for easy mixed precision and distributed training in Pytorch"
+  },
+  {
+    "repo": "tgies/copy-fail-c",
+    "branch": "main",
     "language": "C",
-    "description": "Open-source CUDA compiler targeting AMD GPUs (and more in the future!). Compiles .cu to GFX11 machine code."
+    "description": "Cross-platform C port of the Copy Fail Linux LPE (CVE-2026-31431). Disclosed 2026-04-29 by Theori / Xint."
   },
   {
-    "repo": "sanbuphy/claude-code-source-code",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Claude Code v2.1.88 Source Code"
-  },
-  {
-    "repo": "balancer/balancer-v2-monorepo",
+    "repo": "apache/spark",
     "branch": "master",
-    "language": "TypeScript",
-    "description": "Balancer V2 Monorepo"
+    "language": "Scala",
+    "description": "Apache Spark - A unified analytics engine for large-scale data processing"
   },
   {
-    "repo": "Percepta-Core/transformer-vm",
+    "repo": "deepseek-ai/DeepSeek-V3",
     "branch": "main",
     "language": "Python",
-    "description": "Compile programs directly into transformer weights. Includes a 2D convex-hull KV cache with O(log n) inference."
+    "description": "Vision-language models from DeepSeek research."
   },
   {
-    "repo": "pood1e/wa-app",
-    "branch": "main",
-    "language": "Go",
-    "description": ""
-  },
-  {
-    "repo": "hashicorp/vault",
-    "branch": "main",
-    "language": "Go",
-    "description": "A tool for secrets management, encryption as a service, and privileged access management"
-  },
-  {
-    "repo": "moby/buildkit",
-    "branch": "master",
-    "language": "Go",
-    "description": "concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit"
-  },
-  {
-    "repo": "Tencent/tdesign-react",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "A React UI components lib for TDesign."
-  },
-  {
-    "repo": "cert-manager/cert-manager",
-    "branch": "master",
-    "language": "Go",
-    "description": "Automatically provision and manage TLS certificates in Kubernetes"
-  },
-  {
-    "repo": "facebook/folly",
-    "branch": "main",
-    "language": "C++",
-    "description": "An open-source C++ library developed and used at Facebook."
-  },
-  {
-    "repo": "shobhit99/claude-watch",
+    "repo": "tddworks/baguette",
     "branch": "main",
     "language": "Swift",
-    "description": "Control your claude code from your apple watch"
+    "description": "Headless iOS Simulator manager/farm + host-side input injection for iOS 26 — taps, swipes, multi-finger gestures, and 60 fps streaming"
   },
   {
-    "repo": "THUDM/ChatGLM-6B",
+    "repo": "LadybirdBrowser/ladybird",
+    "branch": "master",
+    "language": "C++",
+    "description": "Truly independent web browser"
+  },
+  {
+    "repo": "wangyingqi-x/workflow-showcase-platform",
+    "branch": "main",
+    "language": "Java",
+    "description": ""
+  },
+  {
+    "repo": "bytedance/Lance",
     "branch": "main",
     "language": "Python",
-    "description": "ChatGLM-6B: An Open Bilingual Dialogue Language Model | 开源双语对话语言模型"
+    "description": "A 3B-active-parameter native unified multimodal model for image and video understanding, generation, and editing."
   },
   {
-    "repo": "sigstore/cosign",
+    "repo": "actionbook/ascent-research",
     "branch": "main",
-    "language": "Go",
-    "description": "Code signing and transparency for containers and binaries"
+    "language": "Rust",
+    "description": "research cli for agent"
+  },
+  {
+    "repo": "levelsio/superlevels",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "A super Chrome extension I made that's safer than installing external malware/spyware-filled extensions that form a massive security risk, this one is open source and you can read and check the source code (with AI) before you install it, and customize it to your liking!"
+  },
+  {
+    "repo": "adamallcock/codex-chatgpt-control",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "Unofficial SDK for Codex agents controlling visible ChatGPT web sessions"
   }
 ]
