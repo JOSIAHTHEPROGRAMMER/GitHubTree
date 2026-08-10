@@ -1,146 +1,146 @@
 [
   {
-    "repo": "gnomeria/usbtree",
-    "branch": "main",
-    "language": "Rust",
-    "description": "Live USB device tree in your terminal. Rust TUI, no root, no libusb. Full activity metrics on Linux; device tree on macOS/Windows."
+    "repo": "vsouza/awesome-ios",
+    "branch": "master",
+    "language": "Swift",
+    "description": "A curated list of awesome iOS ecosystem, including Objective-C and Swift Projects"
   },
   {
-    "repo": "deepseek-ai/deepseek-coder",
+    "repo": "ryujinx-emu/Ryujinx-Emu",
+    "branch": "main",
+    "language": "C++",
+    "description": "ryujinx emulator nintendo switch emulation pc gaming open source github repository download link fork ryubing vulkan api opengl renderer shader cache graphics mods ldn multiplayer local wireless save manager firmware setup configuration guide controller mapping steam deck linux windows 11 desktop applicatio"
+  },
+  {
+    "repo": "ggerganov/llama.cpp",
+    "branch": "master",
+    "language": "C++",
+    "description": "LLM inference in C/C++"
+  },
+  {
+    "repo": "zarazhangrui/youtube-to-ebook",
     "branch": "main",
     "language": "Python",
-    "description": "DeepSeek Coder: Let the Code Write Itself"
+    "description": "Claude skill for turning YouTube transcripts from your favorite channels into EPUB ebooks, delivered to your email inbox regularly"
   },
   {
-    "repo": "cockroachdb/cockroach",
+    "repo": "vigorX777/content-collector-skill",
+    "branch": "main",
+    "language": "Python",
+    "description": "OpenClaw skill: 自动收集社交媒体内容并整理成结构化笔记存入飞书文档"
+  },
+  {
+    "repo": "prometheus/node_exporter",
     "branch": "master",
     "language": "Go",
-    "description": "CockroachDB — the cloud native, distributed SQL database designed for high availability, effortless scale, and control over data placement."
+    "description": "Exporter for machine metrics"
   },
   {
-    "repo": "EvilFreelancer/openapi-to-cli",
+    "repo": "googleworkspace/cli",
     "branch": "main",
-    "language": "TypeScript",
-    "description": "Turns any OpenAPI/Swagger API into an CLI with set of commands. One CLI command per endpoint."
+    "language": "Rust",
+    "description": "Google Workspace CLI — one command-line tool for Drive, Gmail, Calendar, Sheets, Docs, Chat, Admin, and more. Dynamically built from Google Discovery Service. Includes AI agent skills."
   },
   {
-    "repo": "fastclaw-ai/weclaw",
-    "branch": "main",
-    "language": "Go",
-    "description": "Connect to any agents with WeChat ClawBot."
-  },
-  {
-    "repo": "NVIDIA/NemoClaw",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "NVIDIA plugin for secure installation of OpenClaw"
-  },
-  {
-    "repo": "ManimCommunity/manim",
-    "branch": "main",
-    "language": "Python",
-    "description": "A community-maintained Python framework for creating mathematical animations."
-  },
-  {
-    "repo": "Abnerla/AI_paper",
-    "branch": "main",
-    "language": "Python",
-    "description": "一站式AI学术写作辅助工具 · 支持降AIGC、查重率、润色、智能纠错等功能"
-  },
-  {
-    "repo": "larksuite/cli",
-    "branch": "main",
-    "language": "Go",
-    "description": "A command-line tool for Lark/Feishu Open Platform — built for humans and AI Agents. Covers core business domains including Messenger, Docs, Base, Sheets, Calendar, Mail, Tasks, Meetings, and more, with 200+ commands and 19 AI Agent Skills."
-  },
-  {
-    "repo": "mrdoob/three-quake",
+    "repo": "krajekisbtc/PolymarketBTC15mAssistant",
     "branch": "main",
     "language": "JavaScript",
-    "description": "A port of Quake (1996) to Three.js."
+    "description": "Real-time Polymarket BTC 15m trading assistant for every trader! created by @krajekisbtc"
   },
   {
-    "repo": "prettier/prettier",
+    "repo": "tensorflow/probability",
     "branch": "main",
-    "language": "JavaScript",
-    "description": "Prettier is an opinionated code formatter."
+    "language": "Jupyter Notebook",
+    "description": "Probabilistic reasoning and statistical analysis in TensorFlow"
   },
   {
-    "repo": "h9zdev/WireTapper",
+    "repo": "agarrharr/awesome-cli-apps",
+    "branch": "main",
+    "language": "Shell",
+    "description": "🖥 📊 🕹 🛠 A curated list of command line apps"
+  },
+  {
+    "repo": "sanic-org/sanic",
+    "branch": "main",
+    "language": "Python",
+    "description": "Accelerate your web app development  | Build fast. Run fast."
+  },
+  {
+    "repo": "PIPIKAI/auto-painter-win",
+    "branch": "main",
+    "language": "Python",
+    "description": "Supports multiple sketch styles and automated mouse-controlled painting."
+  },
+  {
+    "repo": "DataDog/datadog-agent",
+    "branch": "main",
+    "language": "Go",
+    "description": "Main repository for Datadog Agent"
+  },
+  {
+    "repo": "zachlatta/freeflow",
+    "branch": "main",
+    "language": "Swift",
+    "description": "Free and open source alternative to Wispr Flow / Superwhisper / Monologue / etc"
+  },
+  {
+    "repo": "v4nsh0x/InstaTrace",
+    "branch": "main",
+    "language": "Python",
+    "description": "Private Instagram Post URL Extractor (Research POC)"
+  },
+  {
+    "repo": "xiaolajiaoyyds/regplatformm",
+    "branch": "main",
+    "language": "Go",
+    "description": ""
+  },
+  {
+    "repo": "uhub/awesome-cpp",
+    "branch": "master",
+    "language": "Other",
+    "description": "A curated list of awesome C++ frameworks, libraries and software."
+  },
+  {
+    "repo": "rzru/nightingale",
+    "branch": "master",
+    "language": "Rust",
+    "description": "Machine learning powered Karaoke app (with scores!)"
+  },
+  {
+    "repo": "GokuMohandas/Made-With-ML",
+    "branch": "main",
+    "language": "Jupyter Notebook",
+    "description": "Learn how to design, develop, deploy and iterate on production-grade ML applications."
+  },
+  {
+    "repo": "lxf746/any-auto-register",
+    "branch": "main",
+    "language": "Python",
+    "description": ""
+  },
+  {
+    "repo": "appium/appium",
+    "branch": "master",
+    "language": "JavaScript",
+    "description": "Cross-platform automation framework for all kinds of apps, built on top of the W3C WebDriver protocol"
+  },
+  {
+    "repo": "hubeiqiao/apple-bento-grid",
     "branch": "main",
     "language": "HTML",
-    "description": "WireTapper is a wireless OSINT tool that passively detects and maps Wi-Fi, Bluetooth, CCTV cameras, vehicles, headphones, TVs, IoT devices, and cell towers, turning nearby radio signals into clear situational intelligence 📡"
+    "description": "Agent skill that generates Apple-inspired bento grid presentation cards. For Claude Code, Codex, and any AI coding agent."
   },
   {
-    "repo": "YunjueTech/Yunjue-Agent",
-    "branch": "main",
-    "language": "Python",
-    "description": "Yunjue Agent: A Fully Reproducible, Zero-Start In-Situ Self-Evolving Agent System for Open-Ended Tasks"
-  },
-  {
-    "repo": "nedbat/coveragepy",
-    "branch": "master",
-    "language": "Python",
-    "description": "The code coverage tool for Python"
-  },
-  {
-    "repo": "nanostores/nanostores",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "A tiny (286 bytes) state manager for React/RN/Preact/Vue/Svelte with many atomic tree-shakable stores"
-  },
-  {
-    "repo": "getsentry/sentry",
-    "branch": "master",
-    "language": "Python",
-    "description": "Developer-first error tracking and performance monitoring"
-  },
-  {
-    "repo": "hashicorp/packer",
+    "repo": "jingkaihe/matchlock",
     "branch": "main",
     "language": "Go",
-    "description": "Packer is a tool for creating identical machine images for multiple platforms from a single source configuration."
+    "description": "Matchlock secures AI agent workloads with a Linux-based sandbox."
   },
   {
-    "repo": "MeisnerDan/mission-control",
+    "repo": "elastic/elasticsearch",
     "branch": "main",
-    "language": "TypeScript",
-    "description": "Open-source task management for the agentic era. The command center for solo entrepreneurs who delegate work to AI agents."
-  },
-  {
-    "repo": "harrietteehisqu7759383/kms-pico-latest-april-2026",
-    "branch": "main",
-    "language": "C#",
-    "description": "A secure, educational toolkit for understanding KMS activation, designed for lab environments."
-  },
-  {
-    "repo": "tastyeffectco/sandboxd",
-    "branch": "main",
-    "language": "Go",
-    "description": "Self-hosted dev sandboxes with preview URLs. One command. No Kubernetes, perfect for coding agents and Saas factories"
-  },
-  {
-    "repo": "websockets/ws",
-    "branch": "master",
-    "language": "JavaScript",
-    "description": "Simple to use, blazing fast and thoroughly tested WebSocket client and server for Node.js"
-  },
-  {
-    "repo": "fabro-sh/fabro",
-    "branch": "main",
-    "language": "Rust",
-    "description": "⚒️ The open source dark software factory for expert engineers."
-  },
-  {
-    "repo": "liu-ziting/ThinkFlowAI",
-    "branch": "main",
-    "language": "Vue",
-    "description": "ThinkFlow AI 是一个轻量级“从想法到结构化图谱”的工作台：输入一个核心想法，应用会把它扩展为可浏览的知识图谱（模块/子模块）。每个节点支持继续追问扩展、深挖详情，以及可选的配图生成。"
-  },
-  {
-    "repo": "hashicorp/nomad",
-    "branch": "main",
-    "language": "Go",
-    "description": "Nomad is an easy-to-use, flexible, and performant workload orchestrator that can deploy a mix of microservice, batch, containerized, and non-containerized applications. Nomad is easy to operate and scale and has native Consul and Vault integrations."
+    "language": "Java",
+    "description": "Free and Open Source, Distributed, RESTful Search Engine"
   }
 ]
