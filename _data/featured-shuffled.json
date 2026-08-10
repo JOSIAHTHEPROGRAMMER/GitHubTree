@@ -1,146 +1,146 @@
 [
   {
-    "repo": "borhen68/TokenTamer",
+    "repo": "zolotukhin/zinc",
+    "branch": "main",
+    "language": "Zig",
+    "description": "Zig INferenCe Engine — LLM inference for AMD RDNA3/RDNA4 GPUs via Vulkan"
+  },
+  {
+    "repo": "dev-shamsali/Evade_-_Auto-Dodge___ESP",
     "branch": "main",
     "language": "Python",
-    "description": "A drop-in proxy that compresses bloated code context in real-time, cutting LLM API costs by 50–80% without losing what the model actually needs to know."
+    "description": "Auto-dodge and ESP for Evade, the 3D nextbots survival game with 8.7 billion visits[reference:24]. Automatically dodge nextbots, see them through walls, and survive every round."
   },
   {
-    "repo": "Pluviobyte/video-production-skills",
-    "branch": "main",
-    "language": "Python",
-    "description": "Reusable AI video production skills library for creation, recreation, motion design, openers, and QA."
-  },
-  {
-    "repo": "H-EmbodVis/TurboVLA",
-    "branch": "main",
-    "language": "Python",
-    "description": "TurboVLA: Real-Time Vision-Language-Action Model at 32 Hz on an RTX 4090 with <1 GB VRAM"
-  },
-  {
-    "repo": "windcase-maker/Grand_Theft_Auto_VI_Ultimate_Trainer",
-    "branch": "main",
-    "language": "Python",
-    "description": "The ultimate trainer for GTA VI (pre-release). Unlimited money, god mode, vehicle spawner, and teleport. Prepare for the next generation of GTA."
-  },
-  {
-    "repo": "AdilMir1433/DBD-AutoGrind-Trainer-2026-Max",
-    "branch": "main",
-    "language": "Python",
-    "description": "Ultimate Dead by Daylight auto-grind trainer Max edition with Bloodpoint bot, ESP wallhack, aimbot, and full perk/skin unlocker. Dominate the Fog with our 2026 undetected external tool."
-  },
-  {
-    "repo": "alkhudarigroupuae/PumpFun-Trainer_V1",
-    "branch": "main",
-    "language": "Python",
-    "description": "An advanced AI‑driven trading utility for Solana meme‑coins, featuring sniper, auto‑sell, MEV protection, multi‑wallet, alerts, and price monitoring."
-  },
-  {
-    "repo": "qiayue/Twitter-Trend-Radar",
-    "branch": "main",
-    "language": "HTML",
-    "description": "Twitter Trend Radar"
-  },
-  {
-    "repo": "fendouai/humanize-text-skill",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "Free AI Humanizer: Humanize AI Text Online"
-  },
-  {
-    "repo": "Noumena-Network/code",
+    "repo": "cloudflare/vinext",
     "branch": "main",
     "language": "TypeScript",
-    "description": "Noumena's internal version of your favorite coding tui but improved and optimized for our inference stack"
+    "description": "Vite plugin that reimplements the Next.js API surface — deploy anywhere"
   },
   {
-    "repo": "anthropics/launch-your-agent",
-    "branch": "main",
-    "language": "HTML",
-    "description": "Claude Code skills that take a founder from idea to a live Claude Managed Agent: interview, scope a v0, launch in their own account, grade it, iterate, and schedule it"
-  },
-  {
-    "repo": "UGELSbba/File_Type_Detective",
-    "branch": "main",
-    "language": "Python",
-    "description": "Identify file types by analyzing their signatures (magic bytes). Useful for unknown or corrupted files. Show extension and MIME type."
-  },
-  {
-    "repo": "awaisaleem1/Mass_Effect_Legendary_Edition_Unlimited_Credits",
-    "branch": "main",
-    "language": "Python",
-    "description": "Unlimited credits, skill points, and all weapons for Mass Effect LE. God mode, infinite ammo, and max paragon/renegade."
-  },
-  {
-    "repo": "MaximeRivest/riddle",
+    "repo": "ryan26craf/polymarket-kalshi-arbitrage-bot",
     "branch": "main",
     "language": "Rust",
-    "description": "The diary of Tom Riddle for the reMarkable Paper Pro — write with your pen, the page drinks your ink and answers in a flowing hand"
+    "description": "Kalshi open source trading bot to automate copy trading and arbitrage strategies on crypto prediction markets for free, with simple interface."
   },
   {
-    "repo": "macton/differentiable-collisions-optc",
-    "branch": "main",
-    "language": "C",
-    "description": ""
-  },
-  {
-    "repo": "moylajuwoonrs1971-crypto/manga-vault-stream",
-    "branch": "main",
-    "language": "HTML",
-    "description": "Top Manga & Webcomic Reader App for Windows & Mac 2026"
-  },
-  {
-    "repo": "AHepi/DeepReason",
-    "branch": "main",
-    "language": "Python",
-    "description": ""
-  },
-  {
-    "repo": "KorroAi/drunk-claude",
+    "repo": "aikhe/wrapped.nvim",
     "branch": "master",
+    "language": "Lua",
+    "description": "View your Neovim configuration insights, history, and heatmaps."
+  },
+  {
+    "repo": "aspi6246/ClaudeCodeTools",
+    "branch": "main",
     "language": "TeX",
-    "description": "Drunk Claude : intensity slider (0.1 tipsy to 1.0 blackout), 5 moods, 8 creative techniques. The unfiltered genius skill for Claude Code. MIT."
+    "description": "My collection of Claude Code tools"
   },
   {
-    "repo": "oalanicolas/claude-design-premium",
+    "repo": "randallscott25-star/epstein-forensic-finance",
     "branch": "main",
-    "language": "JavaScript",
-    "description": "Claude Design starter kit for premium design systems"
+    "language": "HTML",
+    "description": "Epstein Financial Forensics Automated forensic financial reconstruction from 1.48 million DOJ EFTA documents + 503K cataloged media items"
   },
   {
-    "repo": "gakiyukr/Codex_team_auto",
+    "repo": "moabukar/miniblue",
     "branch": "main",
-    "language": "Python",
+    "language": "Go",
+    "description": "Local Azure development. One binary. No account needed. 20+ emulated services for testing, CI and local dev."
+  },
+  {
+    "repo": "Okyumi/OverTrack",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Overland travel route planner — from Tokyo to Antarctica, no flights required."
+  },
+  {
+    "repo": "glommer/cachebro",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "File cache with diff tracking for AI coding agents. Drop-in MCP server that cuts token usage by 26%."
+  },
+  {
+    "repo": "btahir/react-kino",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Cinematic scroll-driven storytelling for React"
+  },
+  {
+    "repo": "saimon4u/Drive-Pool",
+    "branch": "main",
+    "language": "TypeScript",
     "description": ""
   },
   {
-    "repo": "Maxll51/EZVenera-Lite",
+    "repo": "langwatch/kanban-code",
     "branch": "main",
-    "language": "HTML",
-    "description": "EZVenera 2026 Edition: Lightweight Venera Rewrite with Streamlined Plugin Runtime for Windows & Android"
+    "language": "Swift",
+    "description": ""
   },
   {
-    "repo": "meuttamsharma/RAM_Cleaner___Optimizer",
+    "repo": "lqs/retrotick",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "💾 Run classic Windows & DOS executables in the browser — an x86 emulator + Win32/Win16/DOS API layer built from scratch in TypeScript"
+  },
+  {
+    "repo": "op7418/CodePilot",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "A native desktop GUI for Claude Code — chat, code, and manage projects visually. Built with Electron + Next.js."
+  },
+  {
+    "repo": "tigerabrodi/neiro",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Audio processing for TypeScript. Chainable, immutable, serverless-ready."
+  },
+  {
+    "repo": "facebookresearch/HyperAgents",
     "branch": "main",
     "language": "Python",
-    "description": "Free up RAM, optimize memory usage, and boost system performance. Clear cache, defragment memory, and monitor usage."
+    "description": "Self-referential self-improving agents that can optimize for any computable task"
   },
   {
-    "repo": "denny11301/veox-cortex",
+    "repo": "victorsosaMx/vsWaybar-Studio",
     "branch": "main",
-    "language": "HTML",
-    "description": "Rust Autonomous Cognition Engine 2026"
+    "language": "Python",
+    "description": "Visual editor for Waybar — build, style and preview your bar in real time (GTK + Python)"
   },
   {
-    "repo": "wring-hellcar/Tomadach-PC-2026-M2",
-    "branch": "main",
+    "repo": "4jcraft/4jcraft",
+    "branch": "dev",
     "language": "C++",
-    "description": "Easy-to-use PC utility and installer for TomodachiShare, featuring a simple .exe setup. Built for speed and accessibility."
+    "description": "Leaked version of Minecraft Legacy Console Edition. Not for commercial purposes"
   },
   {
-    "repo": "d-samaun/Tomodachi-Share-Mii",
+    "repo": "ProjectBarks/gopher-code",
     "branch": "main",
-    "language": "C#",
-    "description": "tomodachi share mii tomodachi life mii sharing qr codes mii editor database github web utility export mii import mii nintendo 3ds citra emulator save editor avatar generator custom miis collection archive fan made project open source browser app"
+    "language": "Go",
+    "description": "Claude Code, rewritten from scratch in Go. Zero Node.js. Zero Electron. One binary."
+  },
+  {
+    "repo": "carlosazaustre/tenacitOS",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "OpenClaw Mission Control Dashboard"
+  },
+  {
+    "repo": "nathaniel329/polymarket-trading-bot",
+    "branch": "main",
+    "language": "Python",
+    "description": "polymarket trading bot"
+  },
+  {
+    "repo": "ShandaAI/AlayaRenderer",
+    "branch": "master",
+    "language": "Python",
+    "description": "Generative World Renderer"
+  },
+  {
+    "repo": "HELPMEEADICE/doge-code",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Claude Code 的一个 Fork。不是官方正史，而是平行世界番外篇；不是萌豚整活仓库，而是“认真修、顺手发癫一点点”的工程分支。"
   }
 ]

@@ -1,8 +1,8 @@
 {
-  "repo": "sosoj92/jarvis-assistant-vocal",
-  "branch": "main",
-  "language": "Python",
-  "description": "Assistant vocal local en francais : Claude ou Ollama (offline), domotique Hue, OBS, agenda, navigateur, appels Twilio, serveur MCP. Python.",
-  "stars": 111,
-  "forks": 17
+  "repo": "OlegSotnikov/jc-rs",
+  "branch": "master",
+  "language": "Rust",
+  "description": "237 parsers that turn command output, file formats and strings into JSON, from one static Rust binary with no runtime to install. Verified against the full reference fixture corpus on every commit.",
+  "stars": 106,
+  "forks": 11
 }
