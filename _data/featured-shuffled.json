@@ -1,146 +1,146 @@
 [
   {
-    "repo": "marshmallow-code/marshmallow",
-    "branch": "dev",
-    "language": "Python",
-    "description": "A lightweight library for converting complex objects to and from simple Python datatypes."
-  },
-  {
-    "repo": "lxh77721/k12-reg",
-    "branch": "master",
-    "language": "TypeScript",
-    "description": "多线程全自动注册free 强上K12空间 gmail版"
-  },
-  {
-    "repo": "poteto/hiring-without-whiteboards",
-    "branch": "master",
-    "language": "JavaScript",
-    "description": "⭐️  Companies that don't have a broken hiring process"
-  },
-  {
-    "repo": "argentlabs/argent-contracts",
-    "branch": "develop",
-    "language": "Solidity",
-    "description": "Smart Contracts for Argent Wallet"
-  },
-  {
-    "repo": "distribution/distribution",
-    "branch": "main",
-    "language": "Go",
-    "description": "The toolkit to pack, ship, store, and deliver container content"
-  },
-  {
-    "repo": "mmazzarolo/react-native-modal-datetime-picker",
-    "branch": "master",
-    "language": "JavaScript",
-    "description": "A React-Native datetime-picker for Android and iOS"
-  },
-  {
-    "repo": "sqlite/sqlite",
-    "branch": "master",
-    "language": "C",
-    "description": "Official Git mirror of the SQLite source tree"
-  },
-  {
-    "repo": "google/zx",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "A tool for writing better scripts"
-  },
-  {
-    "repo": "react-native-picker/picker",
-    "branch": "master",
-    "language": "JavaScript",
-    "description": "Picker is a cross-platform UI component for selecting an item from a list of options."
-  },
-  {
-    "repo": "Quick/Nimble",
-    "branch": "main",
-    "language": "Swift",
-    "description": "A Matcher Framework for Swift and Objective-C"
-  },
-  {
-    "repo": "huggingface/peft",
-    "branch": "main",
-    "language": "Python",
-    "description": "🤗 PEFT: State-of-the-art Parameter-Efficient Fine-Tuning."
-  },
-  {
-    "repo": "grpc/grpc-go",
-    "branch": "master",
-    "language": "Go",
-    "description": "The Go language implementation of gRPC. HTTP/2 based RPC"
-  },
-  {
-    "repo": "scipy/scipy",
-    "branch": "main",
-    "language": "Python",
-    "description": "SciPy library main repository"
-  },
-  {
-    "repo": "total-typescript/ts-reset",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "A 'CSS reset' for TypeScript, improving types for common JavaScript API's"
-  },
-  {
-    "repo": "owncloud/core",
-    "branch": "master",
-    "language": "PHP",
-    "description": ":cloud: ownCloud web server core (Files, DAV, etc.)"
-  },
-  {
-    "repo": "colinhacks/zod",
-    "branch": "master",
-    "language": "TypeScript",
-    "description": "TypeScript-first schema validation with static type inference"
-  },
-  {
-    "repo": "OmniSVG/OmniSVG",
-    "branch": "main",
-    "language": "Python",
-    "description": "[NeurIPS 2025] OmniSVG is the first family of end-to-end multimodal SVG generators that leverage pre-trained Vision-Language Models (VLMs), capable of generating complex and detailed SVGs, from simple icons to intricate anime characters."
-  },
-  {
-    "repo": "emscripten-core/emscripten",
-    "branch": "main",
-    "language": "C++",
-    "description": "Emscripten: An LLVM-to-WebAssembly Compiler"
-  },
-  {
-    "repo": "argoproj/argo-events",
-    "branch": "master",
-    "language": "Go",
-    "description": "Event-driven Automation Framework for Kubernetes"
-  },
-  {
-    "repo": "actions/setup-python",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Set up your GitHub Actions workflow with a specific version of Python"
-  },
-  {
-    "repo": "qufei1993/skills-hub",
+    "repo": "gnomeria/usbtree",
     "branch": "main",
     "language": "Rust",
-    "description": "A cross-platform desktop app to manage Agent Skills in one place and sync them to multiple AI coding tools’ global skills directories — “Install once, sync everywhere”."
+    "description": "Live USB device tree in your terminal. Rust TUI, no root, no libusb. Full activity metrics on Linux; device tree on macOS/Windows."
   },
   {
-    "repo": "standard/standard",
-    "branch": "master",
-    "language": "JavaScript",
-    "description": "🌟 JavaScript Style Guide, with linter & automatic code fixer"
+    "repo": "deepseek-ai/deepseek-coder",
+    "branch": "main",
+    "language": "Python",
+    "description": "DeepSeek Coder: Let the Code Write Itself"
   },
   {
-    "repo": "uber-go/fx",
+    "repo": "cockroachdb/cockroach",
     "branch": "master",
     "language": "Go",
-    "description": "A dependency injection based application framework for Go."
+    "description": "CockroachDB — the cloud native, distributed SQL database designed for high availability, effortless scale, and control over data placement."
   },
   {
-    "repo": "jquery/jquery",
+    "repo": "EvilFreelancer/openapi-to-cli",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Turns any OpenAPI/Swagger API into an CLI with set of commands. One CLI command per endpoint."
+  },
+  {
+    "repo": "fastclaw-ai/weclaw",
+    "branch": "main",
+    "language": "Go",
+    "description": "Connect to any agents with WeChat ClawBot."
+  },
+  {
+    "repo": "NVIDIA/NemoClaw",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "NVIDIA plugin for secure installation of OpenClaw"
+  },
+  {
+    "repo": "ManimCommunity/manim",
+    "branch": "main",
+    "language": "Python",
+    "description": "A community-maintained Python framework for creating mathematical animations."
+  },
+  {
+    "repo": "Abnerla/AI_paper",
+    "branch": "main",
+    "language": "Python",
+    "description": "一站式AI学术写作辅助工具 · 支持降AIGC、查重率、润色、智能纠错等功能"
+  },
+  {
+    "repo": "larksuite/cli",
+    "branch": "main",
+    "language": "Go",
+    "description": "A command-line tool for Lark/Feishu Open Platform — built for humans and AI Agents. Covers core business domains including Messenger, Docs, Base, Sheets, Calendar, Mail, Tasks, Meetings, and more, with 200+ commands and 19 AI Agent Skills."
+  },
+  {
+    "repo": "mrdoob/three-quake",
     "branch": "main",
     "language": "JavaScript",
-    "description": "jQuery JavaScript Library"
+    "description": "A port of Quake (1996) to Three.js."
+  },
+  {
+    "repo": "prettier/prettier",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "Prettier is an opinionated code formatter."
+  },
+  {
+    "repo": "h9zdev/WireTapper",
+    "branch": "main",
+    "language": "HTML",
+    "description": "WireTapper is a wireless OSINT tool that passively detects and maps Wi-Fi, Bluetooth, CCTV cameras, vehicles, headphones, TVs, IoT devices, and cell towers, turning nearby radio signals into clear situational intelligence 📡"
+  },
+  {
+    "repo": "YunjueTech/Yunjue-Agent",
+    "branch": "main",
+    "language": "Python",
+    "description": "Yunjue Agent: A Fully Reproducible, Zero-Start In-Situ Self-Evolving Agent System for Open-Ended Tasks"
+  },
+  {
+    "repo": "nedbat/coveragepy",
+    "branch": "master",
+    "language": "Python",
+    "description": "The code coverage tool for Python"
+  },
+  {
+    "repo": "nanostores/nanostores",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "A tiny (286 bytes) state manager for React/RN/Preact/Vue/Svelte with many atomic tree-shakable stores"
+  },
+  {
+    "repo": "getsentry/sentry",
+    "branch": "master",
+    "language": "Python",
+    "description": "Developer-first error tracking and performance monitoring"
+  },
+  {
+    "repo": "hashicorp/packer",
+    "branch": "main",
+    "language": "Go",
+    "description": "Packer is a tool for creating identical machine images for multiple platforms from a single source configuration."
+  },
+  {
+    "repo": "MeisnerDan/mission-control",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Open-source task management for the agentic era. The command center for solo entrepreneurs who delegate work to AI agents."
+  },
+  {
+    "repo": "harrietteehisqu7759383/kms-pico-latest-april-2026",
+    "branch": "main",
+    "language": "C#",
+    "description": "A secure, educational toolkit for understanding KMS activation, designed for lab environments."
+  },
+  {
+    "repo": "tastyeffectco/sandboxd",
+    "branch": "main",
+    "language": "Go",
+    "description": "Self-hosted dev sandboxes with preview URLs. One command. No Kubernetes, perfect for coding agents and Saas factories"
+  },
+  {
+    "repo": "websockets/ws",
+    "branch": "master",
+    "language": "JavaScript",
+    "description": "Simple to use, blazing fast and thoroughly tested WebSocket client and server for Node.js"
+  },
+  {
+    "repo": "fabro-sh/fabro",
+    "branch": "main",
+    "language": "Rust",
+    "description": "⚒️ The open source dark software factory for expert engineers."
+  },
+  {
+    "repo": "liu-ziting/ThinkFlowAI",
+    "branch": "main",
+    "language": "Vue",
+    "description": "ThinkFlow AI 是一个轻量级“从想法到结构化图谱”的工作台：输入一个核心想法，应用会把它扩展为可浏览的知识图谱（模块/子模块）。每个节点支持继续追问扩展、深挖详情，以及可选的配图生成。"
+  },
+  {
+    "repo": "hashicorp/nomad",
+    "branch": "main",
+    "language": "Go",
+    "description": "Nomad is an easy-to-use, flexible, and performant workload orchestrator that can deploy a mix of microservice, batch, containerized, and non-containerized applications. Nomad is easy to operate and scale and has native Consul and Vault integrations."
   }
 ]

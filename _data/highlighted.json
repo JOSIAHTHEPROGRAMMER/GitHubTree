@@ -1,8 +1,8 @@
 {
-  "repo": "Samin100/codex-ios-assistant",
+  "repo": "gemini35profree/Gemini-3.5-Pro-Free-Desktop",
   "branch": "main",
-  "language": "Python",
-  "description": "Control and inspect an iPhone from Codex through iMessage and Shortcuts",
-  "stars": 175,
-  "forks": 23
+  "language": "TypeScript",
+  "description": "Early access desktop client for Google's Gemini 3.5 Pro and Flash models on Windows, macOS and Linux. Released before the official launch date with full benchmark data, 2M token context, Search grounding and multimodal input. Compare against 3.1 Pro, GPT-5.6  and Claude Opus 5 side by side. Download free.",
+  "stars": 119,
+  "forks": 0
 }
