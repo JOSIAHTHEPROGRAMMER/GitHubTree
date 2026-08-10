@@ -1,146 +1,146 @@
 [
   {
-    "repo": "vsouza/awesome-ios",
-    "branch": "master",
-    "language": "Swift",
-    "description": "A curated list of awesome iOS ecosystem, including Objective-C and Swift Projects"
-  },
-  {
-    "repo": "ryujinx-emu/Ryujinx-Emu",
-    "branch": "main",
-    "language": "C++",
-    "description": "ryujinx emulator nintendo switch emulation pc gaming open source github repository download link fork ryubing vulkan api opengl renderer shader cache graphics mods ldn multiplayer local wireless save manager firmware setup configuration guide controller mapping steam deck linux windows 11 desktop applicatio"
-  },
-  {
-    "repo": "ggerganov/llama.cpp",
-    "branch": "master",
-    "language": "C++",
-    "description": "LLM inference in C/C++"
-  },
-  {
-    "repo": "zarazhangrui/youtube-to-ebook",
+    "repo": "borhen68/TokenTamer",
     "branch": "main",
     "language": "Python",
-    "description": "Claude skill for turning YouTube transcripts from your favorite channels into EPUB ebooks, delivered to your email inbox regularly"
+    "description": "A drop-in proxy that compresses bloated code context in real-time, cutting LLM API costs by 50–80% without losing what the model actually needs to know."
   },
   {
-    "repo": "vigorX777/content-collector-skill",
+    "repo": "Pluviobyte/video-production-skills",
     "branch": "main",
     "language": "Python",
-    "description": "OpenClaw skill: 自动收集社交媒体内容并整理成结构化笔记存入飞书文档"
+    "description": "Reusable AI video production skills library for creation, recreation, motion design, openers, and QA."
   },
   {
-    "repo": "prometheus/node_exporter",
-    "branch": "master",
-    "language": "Go",
-    "description": "Exporter for machine metrics"
-  },
-  {
-    "repo": "googleworkspace/cli",
-    "branch": "main",
-    "language": "Rust",
-    "description": "Google Workspace CLI — one command-line tool for Drive, Gmail, Calendar, Sheets, Docs, Chat, Admin, and more. Dynamically built from Google Discovery Service. Includes AI agent skills."
-  },
-  {
-    "repo": "krajekisbtc/PolymarketBTC15mAssistant",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "Real-time Polymarket BTC 15m trading assistant for every trader! created by @krajekisbtc"
-  },
-  {
-    "repo": "tensorflow/probability",
-    "branch": "main",
-    "language": "Jupyter Notebook",
-    "description": "Probabilistic reasoning and statistical analysis in TensorFlow"
-  },
-  {
-    "repo": "agarrharr/awesome-cli-apps",
-    "branch": "main",
-    "language": "Shell",
-    "description": "🖥 📊 🕹 🛠 A curated list of command line apps"
-  },
-  {
-    "repo": "sanic-org/sanic",
+    "repo": "H-EmbodVis/TurboVLA",
     "branch": "main",
     "language": "Python",
-    "description": "Accelerate your web app development  | Build fast. Run fast."
+    "description": "TurboVLA: Real-Time Vision-Language-Action Model at 32 Hz on an RTX 4090 with <1 GB VRAM"
   },
   {
-    "repo": "PIPIKAI/auto-painter-win",
+    "repo": "windcase-maker/Grand_Theft_Auto_VI_Ultimate_Trainer",
     "branch": "main",
     "language": "Python",
-    "description": "Supports multiple sketch styles and automated mouse-controlled painting."
+    "description": "The ultimate trainer for GTA VI (pre-release). Unlimited money, god mode, vehicle spawner, and teleport. Prepare for the next generation of GTA."
   },
   {
-    "repo": "DataDog/datadog-agent",
-    "branch": "main",
-    "language": "Go",
-    "description": "Main repository for Datadog Agent"
-  },
-  {
-    "repo": "zachlatta/freeflow",
-    "branch": "main",
-    "language": "Swift",
-    "description": "Free and open source alternative to Wispr Flow / Superwhisper / Monologue / etc"
-  },
-  {
-    "repo": "v4nsh0x/InstaTrace",
+    "repo": "AdilMir1433/DBD-AutoGrind-Trainer-2026-Max",
     "branch": "main",
     "language": "Python",
-    "description": "Private Instagram Post URL Extractor (Research POC)"
+    "description": "Ultimate Dead by Daylight auto-grind trainer Max edition with Bloodpoint bot, ESP wallhack, aimbot, and full perk/skin unlocker. Dominate the Fog with our 2026 undetected external tool."
   },
   {
-    "repo": "xiaolajiaoyyds/regplatformm",
-    "branch": "main",
-    "language": "Go",
-    "description": ""
-  },
-  {
-    "repo": "uhub/awesome-cpp",
-    "branch": "master",
-    "language": "Other",
-    "description": "A curated list of awesome C++ frameworks, libraries and software."
-  },
-  {
-    "repo": "rzru/nightingale",
-    "branch": "master",
-    "language": "Rust",
-    "description": "Machine learning powered Karaoke app (with scores!)"
-  },
-  {
-    "repo": "GokuMohandas/Made-With-ML",
-    "branch": "main",
-    "language": "Jupyter Notebook",
-    "description": "Learn how to design, develop, deploy and iterate on production-grade ML applications."
-  },
-  {
-    "repo": "lxf746/any-auto-register",
+    "repo": "alkhudarigroupuae/PumpFun-Trainer_V1",
     "branch": "main",
     "language": "Python",
-    "description": ""
+    "description": "An advanced AI‑driven trading utility for Solana meme‑coins, featuring sniper, auto‑sell, MEV protection, multi‑wallet, alerts, and price monitoring."
   },
   {
-    "repo": "appium/appium",
-    "branch": "master",
-    "language": "JavaScript",
-    "description": "Cross-platform automation framework for all kinds of apps, built on top of the W3C WebDriver protocol"
-  },
-  {
-    "repo": "hubeiqiao/apple-bento-grid",
+    "repo": "qiayue/Twitter-Trend-Radar",
     "branch": "main",
     "language": "HTML",
-    "description": "Agent skill that generates Apple-inspired bento grid presentation cards. For Claude Code, Codex, and any AI coding agent."
+    "description": "Twitter Trend Radar"
   },
   {
-    "repo": "jingkaihe/matchlock",
+    "repo": "fendouai/humanize-text-skill",
     "branch": "main",
-    "language": "Go",
-    "description": "Matchlock secures AI agent workloads with a Linux-based sandbox."
+    "language": "JavaScript",
+    "description": "Free AI Humanizer: Humanize AI Text Online"
   },
   {
-    "repo": "elastic/elasticsearch",
+    "repo": "Noumena-Network/code",
     "branch": "main",
-    "language": "Java",
-    "description": "Free and Open Source, Distributed, RESTful Search Engine"
+    "language": "TypeScript",
+    "description": "Noumena's internal version of your favorite coding tui but improved and optimized for our inference stack"
+  },
+  {
+    "repo": "anthropics/launch-your-agent",
+    "branch": "main",
+    "language": "HTML",
+    "description": "Claude Code skills that take a founder from idea to a live Claude Managed Agent: interview, scope a v0, launch in their own account, grade it, iterate, and schedule it"
+  },
+  {
+    "repo": "UGELSbba/File_Type_Detective",
+    "branch": "main",
+    "language": "Python",
+    "description": "Identify file types by analyzing their signatures (magic bytes). Useful for unknown or corrupted files. Show extension and MIME type."
+  },
+  {
+    "repo": "awaisaleem1/Mass_Effect_Legendary_Edition_Unlimited_Credits",
+    "branch": "main",
+    "language": "Python",
+    "description": "Unlimited credits, skill points, and all weapons for Mass Effect LE. God mode, infinite ammo, and max paragon/renegade."
+  },
+  {
+    "repo": "MaximeRivest/riddle",
+    "branch": "main",
+    "language": "Rust",
+    "description": "The diary of Tom Riddle for the reMarkable Paper Pro — write with your pen, the page drinks your ink and answers in a flowing hand"
+  },
+  {
+    "repo": "macton/differentiable-collisions-optc",
+    "branch": "main",
+    "language": "C",
+    "description": ""
+  },
+  {
+    "repo": "moylajuwoonrs1971-crypto/manga-vault-stream",
+    "branch": "main",
+    "language": "HTML",
+    "description": "Top Manga & Webcomic Reader App for Windows & Mac 2026"
+  },
+  {
+    "repo": "AHepi/DeepReason",
+    "branch": "main",
+    "language": "Python",
+    "description": ""
+  },
+  {
+    "repo": "KorroAi/drunk-claude",
+    "branch": "master",
+    "language": "TeX",
+    "description": "Drunk Claude : intensity slider (0.1 tipsy to 1.0 blackout), 5 moods, 8 creative techniques. The unfiltered genius skill for Claude Code. MIT."
+  },
+  {
+    "repo": "oalanicolas/claude-design-premium",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "Claude Design starter kit for premium design systems"
+  },
+  {
+    "repo": "gakiyukr/Codex_team_auto",
+    "branch": "main",
+    "language": "Python",
+    "description": ""
+  },
+  {
+    "repo": "Maxll51/EZVenera-Lite",
+    "branch": "main",
+    "language": "HTML",
+    "description": "EZVenera 2026 Edition: Lightweight Venera Rewrite with Streamlined Plugin Runtime for Windows & Android"
+  },
+  {
+    "repo": "meuttamsharma/RAM_Cleaner___Optimizer",
+    "branch": "main",
+    "language": "Python",
+    "description": "Free up RAM, optimize memory usage, and boost system performance. Clear cache, defragment memory, and monitor usage."
+  },
+  {
+    "repo": "denny11301/veox-cortex",
+    "branch": "main",
+    "language": "HTML",
+    "description": "Rust Autonomous Cognition Engine 2026"
+  },
+  {
+    "repo": "wring-hellcar/Tomadach-PC-2026-M2",
+    "branch": "main",
+    "language": "C++",
+    "description": "Easy-to-use PC utility and installer for TomodachiShare, featuring a simple .exe setup. Built for speed and accessibility."
+  },
+  {
+    "repo": "d-samaun/Tomodachi-Share-Mii",
+    "branch": "main",
+    "language": "C#",
+    "description": "tomodachi share mii tomodachi life mii sharing qr codes mii editor database github web utility export mii import mii nintendo 3ds citra emulator save editor avatar generator custom miis collection archive fan made project open source browser app"
   }
 ]

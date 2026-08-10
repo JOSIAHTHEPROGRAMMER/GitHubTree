@@ -3,6 +3,6 @@
   "branch": "main",
   "language": "Python",
   "description": "Assistant vocal local en francais : Claude ou Ollama (offline), domotique Hue, OBS, agenda, navigateur, appels Twilio, serveur MCP. Python.",
-  "stars": 110,
+  "stars": 111,
   "forks": 17
 }
