@@ -1,146 +1,146 @@
 [
   {
-    "repo": "samuelfaj/distill",
+    "repo": "envoyproxy/envoy",
     "branch": "main",
-    "language": "TypeScript",
-    "description": "Distill large CLI outputs into small answers for LLMs and save tokens!"
+    "language": "C++",
+    "description": "Cloud-native high-performance edge/middle/service proxy"
   },
   {
-    "repo": "Mufeedvh/Code2Prompt",
+    "repo": "dev-protocol/Polymarket-Trading-Bot-with-Synth-AI",
     "branch": "main",
     "language": "Rust",
-    "description": "A CLI tool to convert your codebase into a single LLM prompt with source tree, prompt templating, and token counting."
+    "description": "Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot"
   },
   {
-    "repo": "adysec/CForum",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "CForum — A modern, serverless forum built on Cloudflare Workers + Pages + D1 + R2, featuring posts, threaded comments, image uploads, 2FA authentication, and a hybrid deployment architecture optimized through smart edge routing."
-  },
-  {
-    "repo": "NirDiamant/GenAI_Agents",
-    "branch": "main",
-    "language": "Jupyter Notebook",
-    "description": "This repository provides tutorials and implementations for various Generative AI Agent techniques, from basic to advanced. It serves as a comprehensive guide for building intelligent, interactive AI systems."
-  },
-  {
-    "repo": "midudev/spiderman-brand-new-day",
-    "branch": "main",
-    "language": "Astro",
-    "description": "Web oficial española para la película Spiderman Brand New Day"
-  },
-  {
-    "repo": "xunchahaha/mi_nobl_root",
-    "branch": "main",
-    "language": "Shell",
-    "description": "小米免解bl的ksu+lsp方案"
-  },
-  {
-    "repo": "THUDM/CodeGeeX",
-    "branch": "main",
-    "language": "Python",
-    "description": "CodeGeeX: An Open Multilingual Code Generation Model (KDD 2023)"
-  },
-  {
-    "repo": "ionic-team/capacitor",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Build cross-platform Native Progressive Web Apps for iOS, Android, and the Web ⚡️"
-  },
-  {
-    "repo": "chatgptprojects/clear-code",
-    "branch": "main",
-    "language": "Shell",
-    "description": "See your claude code logs in clear details in your dashboard"
-  },
-  {
-    "repo": "xoai/sage-wiki",
+    "repo": "anchore/grype",
     "branch": "main",
     "language": "Go",
-    "description": "An LLM-compiled personal knowledge base.  Drop in your papers, articles, and notes. sage-wiki compiles them into a structured, interlinked wiki — with concepts extracted, cross-references discovered, and everything searchable."
+    "description": "A vulnerability scanner for container images and filesystems"
   },
   {
-    "repo": "v1r3n/dinesh-gilfoyle",
+    "repo": "tanviet12/chat-quality-agent",
     "branch": "main",
-    "language": "HTML",
-    "description": "What if Dinesh and Gilfoyle reviewed your code?"
-  },
-  {
-    "repo": "EbookFoundation/free-programming-books",
-    "branch": "main",
-    "language": "Python",
-    "description": ":books: Freely available programming books"
-  },
-  {
-    "repo": "uhub/awesome-cpp",
-    "branch": "master",
-    "language": "Other",
-    "description": "A curated list of awesome C++ frameworks, libraries and software."
-  },
-  {
-    "repo": "HELPMEEADICE/doge-code",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Claude Code 的一个 Fork。不是官方正史，而是平行世界番外篇；不是萌豚整活仓库，而是“认真修、顺手发癫一点点”的工程分支。"
-  },
-  {
-    "repo": "pengchengneo/Claude-Code",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "可运行的Claude Code源码"
-  },
-  {
-    "repo": "dou-jiang/codex-console",
-    "branch": "main",
-    "language": "Python",
-    "description": "codex-console 是一个集成化控制台项目，支持任务管理、批量处理、数据导出、自动上传、日志查看与打包支持。"
-  },
-  {
-    "repo": "runesleo/x-reader",
-    "branch": "main",
-    "language": "Python",
-    "description": "Universal content reader — fetch, normalize, and digest content from 7+ platforms (WeChat, Telegram, X, YouTube, Bilibili, Xiaohongshu, RSS)"
-  },
-  {
-    "repo": "KXJ-WQL/PortalWebsiteSystem",
-    "branch": "master",
-    "language": "Java",
-    "description": "☃企业门户系统，基于Springboot和Thymeleaf🎪，使用layui前后端分离"
-  },
-  {
-    "repo": "vuejs/vue",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "This is the repo for Vue 2. For Vue 3, go to https://github.com/vuejs/core"
-  },
-  {
-    "repo": "zhixianio/clawpal",
-    "branch": "main",
-    "language": "Rust",
-    "description": "ClawPal - Manage OpenClaw agents, models, and configs with a visual interface. Stop editing JSON by hand."
-  },
-  {
-    "repo": "susanudgzf/Aave-Claw",
-    "branch": "main",
-    "language": "Rust",
+    "language": "Go",
     "description": ""
   },
   {
-    "repo": "996icu/996.ICU",
-    "branch": "master",
-    "language": "Other",
-    "description": "Repo for counting stars and contributing. Press F to pay respect to glorious developers."
-  },
-  {
-    "repo": "Shopify/javy",
+    "repo": "Thearas/wechat-db-decrypt-macos",
     "branch": "main",
-    "language": "Rust",
-    "description": "JS to WebAssembly toolchain"
+    "language": "Python",
+    "description": "macOS arm64 微信 4.1 数据库解密，只在最新的微信 4.1.2.241 测试过，不支持4.0 以下版本"
   },
   {
-    "repo": "cert-manager/cert-manager",
+    "repo": "NoobyGains/claude-pulse",
     "branch": "master",
+    "language": "Python",
+    "description": "Real-time usage monitor for Claude Code — session limits, weekly limits, and plan tier with colour-coded progress bars"
+  },
+  {
+    "repo": "s2-streamstore/claude-batch-toolkit",
+    "branch": "main",
+    "language": "Shell",
+    "description": "Send non-urgent work to the Anthropic Batch API at 50% cost — directly from Claude Code"
+  },
+  {
+    "repo": "facebook/jest",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Delightful JavaScript Testing."
+  },
+  {
+    "repo": "v4nsh0x/InstaTrace",
+    "branch": "main",
+    "language": "Python",
+    "description": "Private Instagram Post URL Extractor (Research POC)"
+  },
+  {
+    "repo": "celery/celery",
+    "branch": "master",
+    "language": "Python",
+    "description": "Distributed Task Queue (development branch)"
+  },
+  {
+    "repo": "botiverse/agent-vault",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Keep your secrets hidden from AI agents."
+  },
+  {
+    "repo": "cheeriojs/cheerio",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "The fast, flexible, and elegant library for parsing and manipulating HTML and XML."
+  },
+  {
+    "repo": "manuelschipper/nah",
+    "branch": "main",
+    "language": "Python",
+    "description": "Context-aware safety guard for Claude Code. A permission system you control."
+  },
+  {
+    "repo": "amitshekhariitbhu/ai-engineering-interview-questions",
+    "branch": "main",
+    "language": "Markdown",
+    "description": "Your Cheat Sheet for AI Engineering Interview – Questions and Answers."
+  },
+  {
+    "repo": "tailwindcss/tailwindcss",
+    "branch": "master",
+    "language": "TypeScript",
+    "description": "A utility-first CSS framework for rapid UI development."
+  },
+  {
+    "repo": "immich-app/immich",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "High performance self-hosted photo and video management solution."
+  },
+  {
+    "repo": "auth0/node-jsonwebtoken",
+    "branch": "master",
+    "language": "JavaScript",
+    "description": "JsonWebToken implementation for node.js http://self-issued.info/docs/draft-ietf-oauth-json-web-token.html"
+  },
+  {
+    "repo": "hashicorp/packer",
+    "branch": "main",
     "language": "Go",
-    "description": "Automatically provision and manage TLS certificates in Kubernetes"
+    "description": "Packer is a tool for creating identical machine images for multiple platforms from a single source configuration."
+  },
+  {
+    "repo": "jaegertracing/jaeger",
+    "branch": "main",
+    "language": "Go",
+    "description": "CNCF Jaeger, a Distributed Tracing Platform"
+  },
+  {
+    "repo": "PyCQA/isort",
+    "branch": "main",
+    "language": "Python",
+    "description": "A Python utility / library to sort imports."
+  },
+  {
+    "repo": "The-Vibe-Company/companion",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Web UI for Claude Code built on a reverse-engineered WebSocket protocol. Launch sessions, stream responses, approve tools.  All from your browser / mobile"
+  },
+  {
+    "repo": "vinta/awesome-python",
+    "branch": "master",
+    "language": "Python",
+    "description": "An opinionated list of awesome Python frameworks, libraries, software and resources."
+  },
+  {
+    "repo": "zq779/yuhutong",
+    "branch": "main",
+    "language": "Python",
+    "description": ""
+  },
+  {
+    "repo": "gaotiexinqu/OneResearchClaw",
+    "branch": "main",
+    "language": "Python",
+    "description": "Any research. One Claw. 🦞 From any materials to research with fully autonomous & skill-driven researcher."
   }
 ]

@@ -1,8 +1,8 @@
 {
-  "repo": "WTFox/luna.nvim",
+  "repo": "tytsxai/IDM-Activation-Script-Chinese",
   "branch": "main",
-  "language": "Lua",
-  "description": "A near-black Neovim colorscheme built on greys, with four accent hues and nothing else.",
-  "stars": 110,
-  "forks": 7
+  "language": "Batchfile",
+  "description": "Chinese GBK toolkit for IDM trial/activation/reset with registry backup (does not patch IDM binary). IDM 激活脚本中文版。",
+  "stars": 115,
+  "forks": 5
 }
