@@ -1,146 +1,146 @@
 [
   {
-    "repo": "envoyproxy/envoy",
-    "branch": "main",
-    "language": "C++",
-    "description": "Cloud-native high-performance edge/middle/service proxy"
-  },
-  {
-    "repo": "dev-protocol/Polymarket-Trading-Bot-with-Synth-AI",
-    "branch": "main",
-    "language": "Rust",
-    "description": "Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot"
-  },
-  {
-    "repo": "anchore/grype",
-    "branch": "main",
-    "language": "Go",
-    "description": "A vulnerability scanner for container images and filesystems"
-  },
-  {
-    "repo": "tanviet12/chat-quality-agent",
-    "branch": "main",
-    "language": "Go",
-    "description": ""
-  },
-  {
-    "repo": "Thearas/wechat-db-decrypt-macos",
-    "branch": "main",
-    "language": "Python",
-    "description": "macOS arm64 微信 4.1 数据库解密，只在最新的微信 4.1.2.241 测试过，不支持4.0 以下版本"
-  },
-  {
-    "repo": "NoobyGains/claude-pulse",
+    "repo": "NyxTides/ppt-image-first",
     "branch": "master",
     "language": "Python",
-    "description": "Real-time usage monitor for Claude Code — session limits, weekly limits, and plan tier with colour-coded progress bars"
+    "description": "PPT image-first skill for Codex CLI"
   },
   {
-    "repo": "s2-streamstore/claude-batch-toolkit",
+    "repo": "gabagool222/15min-btc-polymarket-trading-bot",
+    "branch": "main",
+    "language": "Python",
+    "description": "15min btc polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot"
+  },
+  {
+    "repo": "davidhariri/life-system",
     "branch": "main",
     "language": "Shell",
-    "description": "Send non-urgent work to the Anthropic Batch API at 50% cost — directly from Claude Code"
+    "description": "A plain-text life operating system powered by Claude Code. Inspired by Carmack's .plan files and Franklin's systematic self-improvement."
   },
   {
-    "repo": "facebook/jest",
+    "repo": "millionco/isolet",
     "branch": "main",
     "language": "TypeScript",
-    "description": "Delightful JavaScript Testing."
+    "description": "Package any component into a self-contained, isolated widget"
   },
   {
-    "repo": "v4nsh0x/InstaTrace",
+    "repo": "dominikmartn/ProgressiveBlurHeader",
+    "branch": "main",
+    "language": "Swift",
+    "description": "Drop-in SwiftUI component for sticky headers with progressive blur — like Apple Music, Photos, and App Store. Content scrolls underneath with increasing blur, never clipped."
+  },
+  {
+    "repo": "confluentinc/schema-registry",
+    "branch": "master",
+    "language": "Java",
+    "description": "Confluent Schema Registry for Kafka"
+  },
+  {
+    "repo": "react-native-video/react-native-video",
+    "branch": "master",
+    "language": "Kotlin",
+    "description": "A <Video /> component for react-native"
+  },
+  {
+    "repo": "civilian7/sql-tutorial",
     "branch": "main",
     "language": "Python",
-    "description": "Private Instagram Post URL Extractor (Research POC)"
+    "description": "현실적인 전자상거래 데이터베이스로 배우는 SQL 튜토리얼 (21 tables, 18 views, 111 exercises)"
   },
   {
-    "repo": "celery/celery",
-    "branch": "master",
-    "language": "Python",
-    "description": "Distributed Task Queue (development branch)"
-  },
-  {
-    "repo": "botiverse/agent-vault",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Keep your secrets hidden from AI agents."
-  },
-  {
-    "repo": "cheeriojs/cheerio",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "The fast, flexible, and elegant library for parsing and manipulating HTML and XML."
-  },
-  {
-    "repo": "manuelschipper/nah",
+    "repo": "nox-project/nox-framework",
     "branch": "main",
     "language": "Python",
-    "description": "Context-aware safety guard for Claude Code. A permission system you control."
+    "description": "The ultimate OSINT & CTI Framework. 120+ sources, async performance, identity pivoting, and automated risk analysis. Built for Red Teams and Forensics."
   },
   {
-    "repo": "amitshekhariitbhu/ai-engineering-interview-questions",
-    "branch": "main",
-    "language": "Markdown",
-    "description": "Your Cheat Sheet for AI Engineering Interview – Questions and Answers."
+    "repo": "kubeedge/kubeedge",
+    "branch": "master",
+    "language": "Go",
+    "description": "Kubernetes Native Edge Computing Framework (project under CNCF)"
   },
   {
-    "repo": "tailwindcss/tailwindcss",
+    "repo": "ponponon/claude_code_src",
     "branch": "master",
     "language": "TypeScript",
-    "description": "A utility-first CSS framework for rapid UI development."
+    "description": ""
   },
   {
-    "repo": "immich-app/immich",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "High performance self-hosted photo and video management solution."
-  },
-  {
-    "repo": "auth0/node-jsonwebtoken",
+    "repo": "datavorous/sameshi",
     "branch": "master",
+    "language": "C",
+    "description": "a ~1200 Elo chess engine that fits within 2KB"
+  },
+  {
+    "repo": "yeuxuan/openclaw-docs",
+    "branch": "main",
     "language": "JavaScript",
-    "description": "JsonWebToken implementation for node.js http://self-issued.info/docs/draft-ietf-oauth-json-web-token.html"
+    "description": "openclaw 剖析、拆解、教程在线文档"
   },
   {
-    "repo": "hashicorp/packer",
+    "repo": "marswei/seaseed-clawerse",
     "branch": "main",
-    "language": "Go",
-    "description": "Packer is a tool for creating identical machine images for multiple platforms from a single source configuration."
+    "language": "JavaScript",
+    "description": "Open-source implementation of SeaSeed.ai v1.0 (codename: Clawerse). AI ocean world platform for multi-agent social, tasks and compute collaboration."
   },
   {
-    "repo": "jaegertracing/jaeger",
-    "branch": "main",
-    "language": "Go",
-    "description": "CNCF Jaeger, a Distributed Tracing Platform"
-  },
-  {
-    "repo": "PyCQA/isort",
-    "branch": "main",
-    "language": "Python",
-    "description": "A Python utility / library to sort imports."
-  },
-  {
-    "repo": "The-Vibe-Company/companion",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Web UI for Claude Code built on a reverse-engineered WebSocket protocol. Launch sessions, stream responses, approve tools.  All from your browser / mobile"
-  },
-  {
-    "repo": "vinta/awesome-python",
-    "branch": "master",
-    "language": "Python",
-    "description": "An opinionated list of awesome Python frameworks, libraries, software and resources."
-  },
-  {
-    "repo": "zq779/yuhutong",
+    "repo": "MasterAlanLab/Register",
     "branch": "main",
     "language": "Python",
     "description": ""
   },
   {
-    "repo": "gaotiexinqu/OneResearchClaw",
+    "repo": "webpack-contrib/terser-webpack-plugin",
+    "branch": "master",
+    "language": "JavaScript",
+    "description": "Terser Plugin"
+  },
+  {
+    "repo": "dotnet/runtime",
+    "branch": "main",
+    "language": "C#",
+    "description": ".NET is a cross-platform runtime for cloud, mobile, desktop, and IoT apps."
+  },
+  {
+    "repo": "dotnet/aspnetcore",
+    "branch": "main",
+    "language": "C#",
+    "description": "ASP.NET Core is a cross-platform .NET framework for building modern cloud-based web applications on Windows, Mac, or Linux."
+  },
+  {
+    "repo": "prisma/graphql-yoga",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "🧘 Rewrite of a fully-featured GraphQL Server with focus on easy setup, performance & great developer experience.  The core of Yoga implements WHATWG Fetch API and can run/deploy on any JS environment."
+  },
+  {
+    "repo": "googleapis/python-storage",
     "branch": "main",
     "language": "Python",
-    "description": "Any research. One Claw. 🦞 From any materials to research with fully autonomous & skill-driven researcher."
+    "description": "Python SDK for GCS (Google Cloud Storage)"
+  },
+  {
+    "repo": "ollama/ollama",
+    "branch": "main",
+    "language": "Go",
+    "description": "Get up and running with OpenAI GLM-4.7, DeepSeek, gpt-oss, Qwen, Gemma and other models."
+  },
+  {
+    "repo": "DenisSergeevitch/repo-task-proof-loop",
+    "branch": "main",
+    "language": "Python",
+    "description": "Spec driven skill with subagents spawning"
+  },
+  {
+    "repo": "babel/babel-loader",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "📦 Babel loader for webpack"
+  },
+  {
+    "repo": "kapla0011/KaplaStrike",
+    "branch": "main",
+    "language": "C",
+    "description": "A Cobalt Strike RL built with Crystal Palace — module overloading, NtContinue entry transfer, call stack spoofing, sleep masking, and static signature removal."
   }
 ]
