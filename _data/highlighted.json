@@ -1,8 +1,8 @@
 {
-  "repo": "rit3zh/expo-content-transition",
+  "repo": "tytsxai/IDM-Activation-Script-Chinese",
   "branch": "main",
-  "language": "Swift",
-  "description": "🚀 Native content transitions for React Native + Expo.",
-  "stars": 125,
-  "forks": 2
+  "language": "Batchfile",
+  "description": "Chinese GBK toolkit for IDM trial/activation/reset with registry backup (does not patch IDM binary). IDM 激活脚本中文版。",
+  "stars": 120,
+  "forks": 5
 }
