@@ -1,146 +1,146 @@
 [
   {
-    "repo": "labuladong/fucking-algorithm",
-    "branch": "master",
-    "language": "Markdown",
-    "description": "刷算法全靠套路，认准 labuladong 就够了！English version supported! Crack LeetCode, not only how, but also why."
-  },
-  {
-    "repo": "arrow-kt/arrow",
+    "repo": "KenneyNL/Starter-Kit-Racing",
     "branch": "main",
-    "language": "Kotlin",
-    "description": "The perfect companion for your Kotlin journey - Inspired by functional, data-oriented and concurrent programming"
-  },
-  {
-    "repo": "steeliron550-ui/search-bibtex",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "[PolyCite] 基于多智能体协同、多源汇聚的论文引用元数据检索工具 A command-line tool for quickly scraping BibTeX information from computer science conferences and journals, optimized for LLM Multi-Agents."
-  },
-  {
-    "repo": "saltstack/salt",
-    "branch": "master",
-    "language": "Python",
-    "description": "Software to automate the management and configuration of infrastructure and applications at scale."
-  },
-  {
-    "repo": "grafana/loki",
-    "branch": "main",
-    "language": "Go",
-    "description": "Like Prometheus, but for logs."
-  },
-  {
-    "repo": "fastlane/fastlane",
-    "branch": "master",
-    "language": "Ruby",
-    "description": "🚀 The easiest way to automate building and releasing your iOS and Android apps"
-  },
-  {
-    "repo": "apple/swift-algorithms",
-    "branch": "main",
-    "language": "Swift",
-    "description": "Commonly used sequence and collection algorithms for Swift"
-  },
-  {
-    "repo": "grafana/mimir",
-    "branch": "main",
-    "language": "Go",
-    "description": "Grafana Mimir provides horizontally scalable, highly available, multi-tenant, long-term storage for Prometheus."
-  },
-  {
-    "repo": "AAAAAAAJ/slides",
-    "branch": "main",
-    "language": "Python",
-    "description": "slides generates prompts for various expression styles"
-  },
-  {
-    "repo": "avelino/awesome-go",
-    "branch": "main",
-    "language": "Go",
-    "description": "A curated list of awesome Go frameworks, libraries and software"
-  },
-  {
-    "repo": "NousResearch/hermes-agent-self-evolution",
-    "branch": "main",
-    "language": "Python",
-    "description": "⚒ Evolutionary self-improvement for Hermes Agent — optimize skills, prompts, and code using DSPy + GEPA"
-  },
-  {
-    "repo": "bufbuild/buf",
-    "branch": "main",
-    "language": "Go",
-    "description": "The best way of working with Protocol Buffers."
-  },
-  {
-    "repo": "open-policy-agent/gatekeeper",
-    "branch": "master",
-    "language": "Go",
-    "description": "🐊 Policy Controller for Kubernetes"
-  },
-  {
-    "repo": "mermaid-js/mermaid",
-    "branch": "develop",
-    "language": "TypeScript",
-    "description": "Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdown"
-  },
-  {
-    "repo": "SKYFIRE5836/Slay-the-Spire-2-Drawing",
-    "branch": "main",
-    "language": "Python",
-    "description": "杀戮尖塔2 数字琥珀自动画板 | A Python automation drawing tool for Slay the Spire 2"
-  },
-  {
-    "repo": "leaked-claude-code/leaked-claude-code",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "[ LEAKED | LEAK ] Claude Code source code. full claude code opensource."
-  },
-  {
-    "repo": "behzadea12/Paqet-Tunnel-Manager",
-    "branch": "main",
-    "language": "Shell",
-    "description": "Management script for paqet: raw socket KCP-based tunnel for firewall/DPI bypass. Supports kharej server and Iran client configurations."
-  },
-  {
-    "repo": "Whit1985/Binance-Futures-Signal-Bot",
-    "branch": "main",
-    "language": "Python",
-    "description": "Professional automated trading bot for Binance and Bybit Futures markets with multi-strategy engine and real-time P&L dashboard."
-  },
-  {
-    "repo": "huangserva/claude-code-cli",
-    "branch": "master",
-    "language": "TypeScript",
-    "description": "这是 Claude Code 的 CLI 客户端主体（src/ 目录），即整个终端交互层的源码。具体包含： 1. CLI 入口与命令解析 — main.tsx（4684行）、entrypoints/（CLI 模式、SDK 模式、MCP 模式） 2. 终端 UI 渲染 — components/（144 个组件，用 React + Ink 渲染终端界面） 3. 工具系统 — tools/（43 个工具，Bash、文件读写编辑、Grep、Glob、Web 搜索等） 4. API 通信层 — services/api/（与 Anthropic 后端通信） 5. MCP 协议  6. 多 Agent/Team 协作 l 7. 认证与策略 8. 辅助服务 等"
-  },
-  {
-    "repo": "stevibe/ToolCall-15",
-    "branch": "main",
-    "language": "TypeScript",
+    "language": "GDScript",
     "description": ""
   },
   {
-    "repo": "boogu-project/Boogu-Image",
-    "branch": "main",
-    "language": "Python",
-    "description": "Boogu-Image-0.1 is an Apache-2.0 open-source image generation and editing model family that delivers near-closed-source performance with an order of magnitude less data."
-  },
-  {
-    "repo": "d3/d3",
-    "branch": "main",
-    "language": "Shell",
-    "description": "Bring data to life with SVG, Canvas and HTML. :bar_chart::chart_with_upwards_trend::tada:"
-  },
-  {
-    "repo": "anderson6666/lianghua",
-    "branch": "master",
-    "language": "Python",
-    "description": ""
-  },
-  {
-    "repo": "charan820/PhantomCrowd-Simulacra",
+    "repo": "cft0808/edict",
     "branch": "main",
     "language": "HTML",
-    "description": "PhantomCrowd AI Marketing Simulator 2026: Content Spread Forecasting with Local LLM"
+    "description": "🏛️ 三省六部制 · OpenClaw Multi-Agent Orchestration System — 9 specialized AI agents with real-time dashboard, model config, and full audit trails"
+  },
+  {
+    "repo": "openabdev/openab",
+    "branch": "main",
+    "language": "Rust",
+    "description": "A lightweight, secure, cloud-native ACP harness that bridges Discord and any ACP-compatible coding CLI."
+  },
+  {
+    "repo": "tanishqkumar/ssd",
+    "branch": "main",
+    "language": "Python",
+    "description": "A lightweight inference engine supporting speculative speculative decoding (SSD)."
+  },
+  {
+    "repo": "cporter202/openclaw-api-list",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "This GitHub repo is a list of APIs you can plug into your OpenClaw bot to make it run like a powerhouse!"
+  },
+  {
+    "repo": "ncvgl/slawk",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "A 14 day experiment to clone Slack with Claude Code"
+  },
+  {
+    "repo": "whwh1233/StepFlow-Duck",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "cpa+duck结合体"
+  },
+  {
+    "repo": "Blimp-Labs/claude-usage-bar",
+    "branch": "main",
+    "language": "Swift",
+    "description": "A macOS menu bar app that shows your Claude API usage at a glance"
+  },
+  {
+    "repo": "NoizAI/skills",
+    "branch": "main",
+    "language": "Shell",
+    "description": "Allow your 🦞 bot to Shout, Speak, with human vibe"
+  },
+  {
+    "repo": "erenjugs/OpenGork",
+    "branch": "main",
+    "language": "Shell",
+    "description": "🧠 Uncensored AI agent powered by xAI's Grok - no filters, no limits"
+  },
+  {
+    "repo": "ZJU-REAL/SkillZero",
+    "branch": "main",
+    "language": "Python",
+    "description": "Official code for SKILL0: In-Context Agentic Reinforcement Learning for Skill Internalization"
+  },
+  {
+    "repo": "mizchi/actrun",
+    "branch": "main",
+    "language": "MoonBit",
+    "description": "GitHub Actions compatible CI runner in MoonBit"
+  },
+  {
+    "repo": "gatelynch/llm-knowledge-base",
+    "branch": "main",
+    "language": "Python",
+    "description": "參考自Andrej Kapathy的llm-wiki概念，把原始素材、LLM 編譯後的知識、   探索中的思考，以及最終作品明確分層管理   的個人知識庫系統。"
+  },
+  {
+    "repo": "Dinesh-Sowndar/flutter_billing_app",
+    "branch": "main",
+    "language": "Dart",
+    "description": ""
+  },
+  {
+    "repo": "Michaelliv/markit",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "🖍️ Convert anything to markdown. Mark it."
+  },
+  {
+    "repo": "heri1845/ai-meme-trading-bot",
+    "branch": "main",
+    "language": "Go",
+    "description": "Automated trading system for Solana and Base meme coins with AI-powered strategy evaluation. AI trading, AI prediction, AI trading, AI predictiction"
+  },
+  {
+    "repo": "xr843/Master-skill",
+    "branch": "main",
+    "language": "Python",
+    "description": "Chinese Buddhist Master-skill powered by FoJin — 基于佛教经典文献的汉传祖师大德教学角色生成器"
+  },
+  {
+    "repo": "GeiserX/awesome-spain",
+    "branch": "main",
+    "language": "Python",
+    "description": "Una selección de software open source que da soporte específico a España, incluyendo comunidades autónomas, provincias y ciudades."
+  },
+  {
+    "repo": "oaker-io/wewrite",
+    "branch": "main",
+    "language": "Python",
+    "description": "公众号文章全流程 AI Skill for Claude Code — 热点抓取 → 选题 → 写作 → SEO → 视觉AI → 排版 → 微信草稿箱"
+  },
+  {
+    "repo": "mrphrazer/binary-ninja-headless-mcp",
+    "branch": "main",
+    "language": "Python",
+    "description": "Headless Binary Ninja MCP server — giving AI agents deep reverse-engineering capabilities via 180 tools."
+  },
+  {
+    "repo": "Doryoku1223/lunwen-skill",
+    "branch": "main",
+    "language": "Python",
+    "description": "面向本科计科学生的一键论文初稿 Skill，支持样文/开题报告/模板驱动生成，并补全流程图、ER 图和项目截图"
+  },
+  {
+    "repo": "ygwyg/agent-experience",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "A visual reference to the patterns, surfaces, and infrastructure behind AI agents."
+  },
+  {
+    "repo": "dashersw/gea",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": ""
+  },
+  {
+    "repo": "GabagoolisLive/polymarket-copytrading-bot-vvvvvvvvvvvv",
+    "branch": "main",
+    "language": "Rust",
+    "description": "Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot Polymarket copy Trading Bot"
   }
 ]
