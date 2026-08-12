@@ -1,8 +1,8 @@
 {
-  "repo": "shift-labs-ai/pi-peer",
+  "repo": "lacvietanh/aki-mcp-sv",
   "branch": "main",
-  "language": "TypeScript",
-  "description": "A pi extension that lets your pi sessions find and message each other",
+  "language": "JavaScript",
+  "description": "Custom MCP [Connector] for AI chat web [Claude|ChatGPT|Grok...] use Files/Shell on your computer directly",
   "stars": 105,
-  "forks": 5
+  "forks": 27
 }
