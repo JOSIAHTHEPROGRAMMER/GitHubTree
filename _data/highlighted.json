@@ -1,8 +1,8 @@
 {
-  "repo": "50kg/image-to-slice",
+  "repo": "mateusdcc/pi-gpt-search",
   "branch": "main",
-  "language": "JavaScript",
-  "description": "AI 拆图、被遮挡背景补齐、人工校准、导入可编辑 Figma 图层、导出 HTML/CSS",
-  "stars": 165,
-  "forks": 32
+  "language": "TypeScript",
+  "description": "Native, Model-Independent Web Search for Pi using OpenAI Codex Standalone Search Engine.",
+  "stars": 108,
+  "forks": 3
 }

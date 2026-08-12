@@ -1,146 +1,146 @@
 [
   {
-    "repo": "Stability-AI/generative-models",
+    "repo": "afumu/openlink",
     "branch": "main",
-    "language": "Python",
-    "description": "Generative Models by Stability AI"
+    "language": "Go",
+    "description": "OpenLink让网页版 AI直接访问你的本地文件系统和执行命令。"
   },
   {
-    "repo": "Gustavo1900/bevy-atmosphere",
-    "branch": "master",
-    "language": "Rust",
-    "description": ""
-  },
-  {
-    "repo": "deepseek-ai/DeepSeek-Math",
-    "branch": "main",
-    "language": "Python",
-    "description": "DeepSeekMath: Pushing the Limits of Mathematical Reasoning in Open Language Models"
-  },
-  {
-    "repo": "python-pillow/Pillow",
-    "branch": "main",
-    "language": "Python",
-    "description": "Python Imaging Library (Fork)"
-  },
-  {
-    "repo": "Norman-bury/articlewriting-skill",
-    "branch": "main",
-    "language": "Python",
-    "description": "科研写作助手 (Research Writing Assistant)"
-  },
-  {
-    "repo": "ierror/synaps-cad",
-    "branch": "main",
-    "language": "Rust",
-    "description": "The AI-powered 3D CAD IDE — edit code, visualize in 3D, and reshape your designs with natural language."
-  },
-  {
-    "repo": "hiragram/claude-docker",
-    "branch": "main",
-    "language": "Shell",
-    "description": ""
-  },
-  {
-    "repo": "SumeLabs/clawra",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Clawra - Openclaw as your girlfriend"
-  },
-  {
-    "repo": "anthropics/financial-services-plugins",
-    "branch": "main",
-    "language": "Python",
-    "description": ""
-  },
-  {
-    "repo": "OpenDCAI/OpenPrism",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Open-source implementation of AI-powered academic writing workspace inspired by OpenAI Prism, featuring LaTeX editing, PDF preview, and intelligent AI assistance"
-  },
-  {
-    "repo": "rollup/rollup",
-    "branch": "master",
-    "language": "JavaScript",
-    "description": "Next-generation ES module bundler"
-  },
-  {
-    "repo": "davegoldblatt/total-recall",
-    "branch": "main",
-    "language": "Shell",
-    "description": "Persistent memory plugin for Claude Code. Tiered memory system with write gates, correction propagation, and slash commands."
-  },
-  {
-    "repo": "dievus/ADPulse",
-    "branch": "main",
-    "language": "Python",
-    "description": "Active Directory Vulnerability Scanner"
-  },
-  {
-    "repo": "glommer/codemogger",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Codemogger is a code indexing library and MCP server for AI coding agents"
-  },
-  {
-    "repo": "bc-dunia/qwen3-TTS-studio",
-    "branch": "main",
-    "language": "Python",
-    "description": "A professional-grade interface for Qwen3-TTS, designed to unlock the model's full potential with fine-grained control and intuitive workflows."
-  },
-  {
-    "repo": "facebook/react",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "The library for web and native user interfaces."
-  },
-  {
-    "repo": "electron/electron",
+    "repo": "TriangleSector/Simple_Checker_2026_new",
     "branch": "main",
     "language": "C++",
-    "description": ":electron: Build cross-platform desktop apps with JavaScript, HTML, and CSS"
+    "description": "Simple Checker - All-in-One Data Validation Tool for Steam, Epic Games, Netflix, and 50+ Services."
   },
   {
-    "repo": "pallets/flask",
+    "repo": "garnix-io/garnix-ci",
+    "branch": "main",
+    "language": "Haskell",
+    "description": "CI and hosting for nix-based, flakified github repos"
+  },
+  {
+    "repo": "Manavarya09/design-extract",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "Extract the complete design language from any website — colors, typography, spacing, shadows, and more. npx CLI + Claude Code plugin."
+  },
+  {
+    "repo": "Russell-cell/PPT-Design-Prompt",
     "branch": "main",
     "language": "Python",
-    "description": "The Python micro framework for building web applications."
-  },
-  {
-    "repo": "vuejs/vue",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "This is the repo for Vue 2. For Vue 3, go to https://github.com/vuejs/core"
-  },
-  {
-    "repo": "TermiX-official/cryptoclaw",
-    "branch": "main",
-    "language": "TypeScript",
     "description": ""
   },
   {
-    "repo": "tensorflow/models",
+    "repo": "mrT4ntr4/NtWarden",
     "branch": "master",
-    "language": "Python",
-    "description": "Models and examples built with TensorFlow"
+    "language": "C++",
+    "description": "Windows Analysis and Research Toolkit"
   },
   {
-    "repo": "vercel/next.js",
+    "repo": "vuciv/artblock",
     "branch": "main",
     "language": "JavaScript",
-    "description": "The React Framework"
+    "description": "Every ad on the internet, replaced with fine art from public museum and NASA collections."
   },
   {
-    "repo": "EleutherAI/lm-evaluation-harness",
+    "repo": "cosmic-market/polymarket-copy-trading-bot",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "polymarket copy trading Bot polymarket copy trading Bot polymarket copy trading Bot polymarket copy trading Bot polymarket copy trading Bot polymarket copy trading Bot polymarket copytrading bot polymarket copytrading bot polymarket copytrading bot polymarket copytrading bot polymarket copytrading bot polymarket copytrading bot polymarket copytrade"
+  },
+  {
+    "repo": "mukul975/cve-mcp-server",
     "branch": "main",
     "language": "Python",
-    "description": "A framework for few-shot evaluation of language models."
+    "description": "Production-grade MCP server giving Claude 27 security intelligence tools across 21 APIs — CVE lookup, EPSS scoring, CISA KEV, MITRE ATT&CK, Shodan, VirusTotal, and more."
   },
   {
-    "repo": "jupyter/notebook",
+    "repo": "vavallee/bindery",
     "branch": "main",
-    "language": "Jupyter Notebook",
-    "description": "Jupyter Interactive Notebook"
+    "language": "Go",
+    "description": "Automated book download manager for Usenet. Monitor authors, search indexers, download via SABnzbd, and organize your library. The modern replacement for Readarr."
+  },
+  {
+    "repo": "mizchi/skills",
+    "branch": "main",
+    "language": "Nix",
+    "description": "Agent skills by mizchi, distributed via APM"
+  },
+  {
+    "repo": "raskolnikov90/Beatrice.py",
+    "branch": "main",
+    "language": "Python",
+    "description": "Modify machine code in binaries with alternative x64 assembly opcodes for AV evasion"
+  },
+  {
+    "repo": "gcc-mirror/gcc",
+    "branch": "master",
+    "language": "C++",
+    "description": "Mirror of the GNU Compiler Collection master repository."
+  },
+  {
+    "repo": "adanto/EtwTiViewer",
+    "branch": "main",
+    "language": "C++",
+    "description": "Live ETW-TI event viewer for Windows kernel threat-intelligence telemetry. Research tool for exploring the same signals commercial EDRs rely on."
+  },
+  {
+    "repo": "SakanaAI/AI-Scientist-v2",
+    "branch": "main",
+    "language": "Python",
+    "description": "The AI Scientist-v2: Workshop-Level Automated Scientific Discovery via Agentic Tree Search"
+  },
+  {
+    "repo": "Robbyant/lingbot-depth",
+    "branch": "main",
+    "language": "Python",
+    "description": ""
+  },
+  {
+    "repo": "humanrouter/ddtree-mlx",
+    "branch": "main",
+    "language": "Python",
+    "description": "Tree-based speculative decoding for Apple Silicon (MLX). ~10-15% faster than DFlash on code, ~1.5x over autoregressive. First MLX port with custom Metal kernels for hybrid model support."
+  },
+  {
+    "repo": "jorgebucaran/hyperapp",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "1kB-ish JavaScript framework for building hypertext applications"
+  },
+  {
+    "repo": "facebook/folly",
+    "branch": "main",
+    "language": "C++",
+    "description": "An open-source C++ library developed and used at Facebook."
+  },
+  {
+    "repo": "bestpracticaI/kalshi-ai-trading-bot",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Kalshi prediction markets trading bot algorithmic automated trading TypeScript Node.js Kalshi REST API RSA signing OpenRouter LLM CLI npm quant fintech event contracts market making exchange API bot Kalshi SDK"
+  },
+  {
+    "repo": "ryanhcode/sable",
+    "branch": "main",
+    "language": "Java",
+    "description": "Interactive physics moving block structures!"
+  },
+  {
+    "repo": "akazwz/hostc",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Localhost to the edge. Secure, fast, and zero-config edge tunnels powered by Cloudflare Workers."
+  },
+  {
+    "repo": "airbytehq/airbyte",
+    "branch": "master",
+    "language": "Python",
+    "description": "The leading data integration platform for ETL / ELT data pipelines from APIs, databases & files to data warehouses, data lakes & data lakehouses. Both self-hosted and Cloud-hosted."
+  },
+  {
+    "repo": "software-mansion/react-native-gesture-handler",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Declarative API exposing platform native touch and gesture system to React Native."
   }
 ]
