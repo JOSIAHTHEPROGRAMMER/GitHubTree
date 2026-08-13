@@ -1,8 +1,8 @@
 {
-  "repo": "mateusdcc/pi-gpt-search",
+  "repo": "lilvli/portable-vna",
   "branch": "main",
-  "language": "TypeScript",
-  "description": "Native, Model-Independent Web Search for Pi using OpenAI Codex Standalone Search Engine.",
-  "stars": 108,
+  "language": "Verilog",
+  "description": "Low-cost compact direct-sampling vector network analyzer with optional future RTC antenna-test integration.",
+  "stars": 102,
   "forks": 3
 }

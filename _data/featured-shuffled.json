@@ -1,146 +1,146 @@
 [
   {
-    "repo": "afumu/openlink",
+    "repo": "jundizhou/easy-stock",
     "branch": "main",
     "language": "Go",
-    "description": "OpenLink让网页版 AI直接访问你的本地文件系统和执行命令。"
+    "description": ""
   },
   {
-    "repo": "TriangleSector/Simple_Checker_2026_new",
+    "repo": "SulfurNitride/Fluorine-Manager",
     "branch": "main",
     "language": "C++",
-    "description": "Simple Checker - All-in-One Data Validation Tool for Steam, Epic Games, Netflix, and 50+ Services."
+    "description": "An attempt at recreating all MO2 functions in linux with NaK integration and FUSE based VFS. Comes with Root Builder support by default. It's in alpha and needs a lot of testing to be done."
   },
   {
-    "repo": "garnix-io/garnix-ci",
+    "repo": "python-attrs/attrs",
     "branch": "main",
-    "language": "Haskell",
-    "description": "CI and hosting for nix-based, flakified github repos"
+    "language": "Python",
+    "description": "Python Classes Without Boilerplate"
   },
   {
-    "repo": "Manavarya09/design-extract",
+    "repo": "shuyicc/MathLens",
+    "branch": "main",
+    "language": "Python",
+    "description": "MathLens 是一个专注于数学题目视频讲解的 Agent Skill。你只需粘贴一道数学题（图片或文字），它就能自动完成从题目分析、可视化讲解、配音脚本到 Manim 动画视频的全流程制作。单条视频1-10 分钟，成本 0.2-1 元以内。"
+  },
+  {
+    "repo": "MoonshotAI/Kimi-VL",
+    "branch": "main",
+    "language": "Other",
+    "description": "Kimi-VL: Mixture-of-Experts Vision-Language Model for Multimodal Reasoning, Long-Context Understanding, and Strong Agent Capabilities"
+  },
+  {
+    "repo": "Koenkk/zigbee2mqtt",
+    "branch": "master",
+    "language": "TypeScript",
+    "description": "Zigbee 🐝 to MQTT bridge 🌉, get rid of your proprietary Zigbee bridges 🔨"
+  },
+  {
+    "repo": "iflytek/astronclaw-tutorial",
     "branch": "main",
     "language": "JavaScript",
-    "description": "Extract the complete design language from any website — colors, typography, spacing, shadows, and more. npx CLI + Claude Code plugin."
+    "description": "从零到工作流，掌握 AstronClaw（云端）与 Loomy（桌面）的 AI 助手实战教程 | A complete tutorial to master AstronClaw (cloud AI) & Loomy (desktop AI)"
   },
   {
-    "repo": "Russell-cell/PPT-Design-Prompt",
+    "repo": "symbolica-ai/arcgentica",
+    "branch": "main",
+    "language": "Python",
+    "description": "An ARC-AGI solution using Agentica from Symbolica"
+  },
+  {
+    "repo": "SimplifyJobs/Summer2025-Internships",
+    "branch": "main",
+    "language": "Python",
+    "description": "Collection of Summer 2026 tech internships!"
+  },
+  {
+    "repo": "iamlukethedev/Claw3D",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Claw3D is an open source 3D engine built on OpenClaw for creating games, simulations, and high-performance 3D applications."
+  },
+  {
+    "repo": "runesleo/x-reader",
+    "branch": "main",
+    "language": "Python",
+    "description": "Universal content reader — fetch, normalize, and digest content from 7+ platforms (WeChat, Telegram, X, YouTube, Bilibili, Xiaohongshu, RSS)"
+  },
+  {
+    "repo": "koajs/koa",
+    "branch": "master",
+    "language": "JavaScript",
+    "description": "Expressive middleware for node.js using ES2017 async functions"
+  },
+  {
+    "repo": "standardagents/sip",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Small Image Processor - Ultra memory-efficient image processing for Cloudflare Workers 🟠"
+  },
+  {
+    "repo": "miantiao-me/cloud-code",
+    "branch": "master",
+    "language": "TypeScript",
+    "description": "Cloud Code (Cloudflare + OpenCode) ，在 Cloudflare 运行 OpenCode 为你打造一个专属云端 Agent"
+  },
+  {
+    "repo": "element-hq/element-web",
+    "branch": "develop",
+    "language": "TypeScript",
+    "description": "A glossy Matrix collaboration client for the web."
+  },
+  {
+    "repo": "OpenDriveLab/WorldEngine",
+    "branch": "main",
+    "language": "Python",
+    "description": "WorldEngine: Towards the Era of Post-Training for Physical AI"
+  },
+  {
+    "repo": "chixi4/Qwen3.5-9B-ToolHub",
+    "branch": "main",
+    "language": "Python",
+    "description": "Qwen3.5-9B ToolHub-v1.0.0"
+  },
+  {
+    "repo": "llvm/llvm-project",
+    "branch": "main",
+    "language": "LLVM",
+    "description": "The LLVM Project is a collection of modular and reusable compiler and toolchain technologies."
+  },
+  {
+    "repo": "quilljs/quill",
+    "branch": "develop",
+    "language": "TypeScript",
+    "description": "Quill is a modern WYSIWYG editor built for compatibility and extensibility"
+  },
+  {
+    "repo": "robinebers/openusage",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "A plugin-based menu bar app for tracking AI coding tool subscriptions like Cursor, Claude, Codex and more, all in one place with a heavy focus user experience, speed, and stability."
+  },
+  {
+    "repo": "depreciating/DoodleCloud",
+    "branch": "main",
+    "language": "Python",
+    "description": "Cloud Storage using Instagram."
+  },
+  {
+    "repo": "761696148/Game-Map-Tracker",
     "branch": "main",
     "language": "Python",
     "description": ""
   },
   {
-    "repo": "mrT4ntr4/NtWarden",
-    "branch": "master",
-    "language": "C++",
-    "description": "Windows Analysis and Research Toolkit"
-  },
-  {
-    "repo": "vuciv/artblock",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "Every ad on the internet, replaced with fine art from public museum and NASA collections."
-  },
-  {
-    "repo": "cosmic-market/polymarket-copy-trading-bot",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "polymarket copy trading Bot polymarket copy trading Bot polymarket copy trading Bot polymarket copy trading Bot polymarket copy trading Bot polymarket copy trading Bot polymarket copytrading bot polymarket copytrading bot polymarket copytrading bot polymarket copytrading bot polymarket copytrading bot polymarket copytrading bot polymarket copytrade"
-  },
-  {
-    "repo": "mukul975/cve-mcp-server",
+    "repo": "ZimoLiao/scholaraio",
     "branch": "main",
     "language": "Python",
-    "description": "Production-grade MCP server giving Claude 27 security intelligence tools across 21 APIs — CVE lookup, EPSS scoring, CISA KEV, MITRE ATT&CK, Shodan, VirusTotal, and more."
+    "description": "Scholar All-In-One: AI agent-powered research terminal"
   },
   {
-    "repo": "vavallee/bindery",
+    "repo": "Quick/Nimble",
     "branch": "main",
-    "language": "Go",
-    "description": "Automated book download manager for Usenet. Monitor authors, search indexers, download via SABnzbd, and organize your library. The modern replacement for Readarr."
-  },
-  {
-    "repo": "mizchi/skills",
-    "branch": "main",
-    "language": "Nix",
-    "description": "Agent skills by mizchi, distributed via APM"
-  },
-  {
-    "repo": "raskolnikov90/Beatrice.py",
-    "branch": "main",
-    "language": "Python",
-    "description": "Modify machine code in binaries with alternative x64 assembly opcodes for AV evasion"
-  },
-  {
-    "repo": "gcc-mirror/gcc",
-    "branch": "master",
-    "language": "C++",
-    "description": "Mirror of the GNU Compiler Collection master repository."
-  },
-  {
-    "repo": "adanto/EtwTiViewer",
-    "branch": "main",
-    "language": "C++",
-    "description": "Live ETW-TI event viewer for Windows kernel threat-intelligence telemetry. Research tool for exploring the same signals commercial EDRs rely on."
-  },
-  {
-    "repo": "SakanaAI/AI-Scientist-v2",
-    "branch": "main",
-    "language": "Python",
-    "description": "The AI Scientist-v2: Workshop-Level Automated Scientific Discovery via Agentic Tree Search"
-  },
-  {
-    "repo": "Robbyant/lingbot-depth",
-    "branch": "main",
-    "language": "Python",
-    "description": ""
-  },
-  {
-    "repo": "humanrouter/ddtree-mlx",
-    "branch": "main",
-    "language": "Python",
-    "description": "Tree-based speculative decoding for Apple Silicon (MLX). ~10-15% faster than DFlash on code, ~1.5x over autoregressive. First MLX port with custom Metal kernels for hybrid model support."
-  },
-  {
-    "repo": "jorgebucaran/hyperapp",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "1kB-ish JavaScript framework for building hypertext applications"
-  },
-  {
-    "repo": "facebook/folly",
-    "branch": "main",
-    "language": "C++",
-    "description": "An open-source C++ library developed and used at Facebook."
-  },
-  {
-    "repo": "bestpracticaI/kalshi-ai-trading-bot",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Kalshi prediction markets trading bot algorithmic automated trading TypeScript Node.js Kalshi REST API RSA signing OpenRouter LLM CLI npm quant fintech event contracts market making exchange API bot Kalshi SDK"
-  },
-  {
-    "repo": "ryanhcode/sable",
-    "branch": "main",
-    "language": "Java",
-    "description": "Interactive physics moving block structures!"
-  },
-  {
-    "repo": "akazwz/hostc",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Localhost to the edge. Secure, fast, and zero-config edge tunnels powered by Cloudflare Workers."
-  },
-  {
-    "repo": "airbytehq/airbyte",
-    "branch": "master",
-    "language": "Python",
-    "description": "The leading data integration platform for ETL / ELT data pipelines from APIs, databases & files to data warehouses, data lakes & data lakehouses. Both self-hosted and Cloud-hosted."
-  },
-  {
-    "repo": "software-mansion/react-native-gesture-handler",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Declarative API exposing platform native touch and gesture system to React Native."
+    "language": "Swift",
+    "description": "A Matcher Framework for Swift and Objective-C"
   }
 ]
