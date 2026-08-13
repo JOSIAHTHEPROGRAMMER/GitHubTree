@@ -1,8 +1,8 @@
 {
-  "repo": "Lichtspektrum/liang-intensity-calibrator",
+  "repo": "wenqi9115-glitch/systematic-etf-relative-strength-alpha-attribution",
   "branch": "main",
-  "language": "TypeScript",
-  "description": "滑动变祖器：31 级梁系强度校准器",
-  "stars": 131,
-  "forks": 15
+  "language": "Jupyter Notebook",
+  "description": "Systematic ETF relative-strength research, overlapping-sleeve portfolio construction, LEAN implementation, and factor attribution.",
+  "stars": 104,
+  "forks": 0
 }

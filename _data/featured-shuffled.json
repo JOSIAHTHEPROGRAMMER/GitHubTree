@@ -1,146 +1,146 @@
 [
   {
-    "repo": "dotnet/efcore",
+    "repo": "antfu/skills",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Anthony Fu's curated collection of agent skills."
+  },
+  {
+    "repo": "panyiwei-home/Freedeck",
+    "branch": "main",
+    "language": "Python",
+    "description": "学习版游戏一站式平台"
+  },
+  {
+    "repo": "LearnPrompt/ai-news-radar",
+    "branch": "master",
+    "language": "Python",
+    "description": ""
+  },
+  {
+    "repo": "StartupHakk/OpenMonoAgent.ai",
     "branch": "main",
     "language": "C#",
-    "description": "EF Core is a modern object-database mapper for .NET. It supports LINQ queries, change tracking, updates, and schema migrations."
+    "description": "(BETA) AI shouldn't have a meter. Unlimited tokens. Forever. Your machine. Your agent. Use it from anywhere. Terminal-native coding agent powered by local LLMs — 100% open source, free forever, and installed with a single command. Proudly built on C#/.NET, because AI tooling should be infrastructure, not a subscription."
   },
   {
-    "repo": "bytedance/Bernini",
-    "branch": "main",
-    "language": "Python",
-    "description": "Bernini is a unified framework for video generation and editing that combines an MLLM-based semantic planner with a DiT-based renderer."
-  },
-  {
-    "repo": "shadcn-ui/ui",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "A set of beautifully-designed, accessible components and a code distribution platform. Works with your favorite frameworks. Open Source. Open Code."
-  },
-  {
-    "repo": "FreeCAD/FreeCAD",
-    "branch": "main",
-    "language": "C++",
-    "description": "Official source code of FreeCAD, a free and opensource multiplatform 3D parametric modeler."
-  },
-  {
-    "repo": "redis/hiredis",
+    "repo": "ringhyacinth/Star-Office-UI",
     "branch": "master",
-    "language": "C",
-    "description": "Minimalistic C client for Redis >= 1.2"
+    "language": "HTML",
+    "description": ""
   },
   {
-    "repo": "chartjs/Chart.js",
+    "repo": "karatelabs/karate",
     "branch": "master",
-    "language": "JavaScript",
-    "description": "Simple HTML5 Charts using the <canvas> tag"
+    "language": "Java",
+    "description": "Test Automation Made Simple"
   },
   {
-    "repo": "H-EmbodVis/VEGA-3D",
-    "branch": "main",
-    "language": "Python",
-    "description": "Official code of Generation Models Know Space: Unleashing Implicit 3D Priors for Scene Understanding"
-  },
-  {
-    "repo": "deepset-ai/haystack",
-    "branch": "main",
-    "language": "MDX",
-    "description": "AI orchestration framework to build customizable, production-ready LLM applications. Connect components (models, vector DBs, file converters) to pipelines or agents that can interact with your data. With advanced retrieval methods, it's best suited for building RAG, question answering, semantic search or conversational agent chatbots."
-  },
-  {
-    "repo": "rivet-dev/sandbox-agent",
-    "branch": "main",
-    "language": "Rust",
-    "description": "Universal API for automatic coding agents in sandboxes. Supports Claude Code, Codex, OpenCode, and Amp."
-  },
-  {
-    "repo": "btseytlin/hr-breaker",
-    "branch": "main",
-    "language": "Python",
-    "description": "Optimize resume for jobs, now with AI"
-  },
-  {
-    "repo": "vigorX777/content-collector-skill",
-    "branch": "main",
-    "language": "Python",
-    "description": "OpenClaw skill: 自动收集社交媒体内容并整理成结构化笔记存入飞书文档"
-  },
-  {
-    "repo": "mrdoob/three.wasm",
-    "branch": "master",
-    "language": "TypeScript",
-    "description": "8x Faster JavaScript 3D Library."
-  },
-  {
-    "repo": "LaurieWired/tailslayer",
-    "branch": "main",
-    "language": "C++",
-    "description": "Library for reducing tail latency in RAM reads"
-  },
-  {
-    "repo": "lhfer/claude-howto-zh-cn",
-    "branch": "main",
-    "language": "Python",
-    "description": "Claude Code 中文全面上手指南。基于 luongnv89/claude-howto 本土化重写，面向中国小白用户，保留命令与配置兼容性，并附学习路径与本地化校验护栏。"
-  },
-  {
-    "repo": "AI45Lab/TrinityGuard",
-    "branch": "master",
-    "language": "Python",
-    "description": "TrinityGuard: A Unified Framework for Safeguarding Multi-Agent System Safety"
-  },
-  {
-    "repo": "xi-editor/xi-editor",
-    "branch": "master",
-    "language": "Rust",
-    "description": "A modern editor with a backend written in Rust."
-  },
-  {
-    "repo": "go-chi/chi",
-    "branch": "master",
-    "language": "Go",
-    "description": "lightweight, idiomatic and composable router for building Go HTTP services"
-  },
-  {
-    "repo": "MetaMask/metamask-extension",
-    "branch": "develop",
-    "language": "TypeScript",
-    "description": ":globe_with_meridians: :electric_plug: The MetaMask browser extension enables browsing Ethereum blockchain enabled websites"
-  },
-  {
-    "repo": "Mibayy/token-savior",
-    "branch": "main",
-    "language": "Python",
-    "description": "Token-efficient structural codebase MCP server for AI-assisted development"
-  },
-  {
-    "repo": "awesome-selfhosted/awesome-selfhosted",
-    "branch": "master",
-    "language": "Other",
-    "description": "A list of Free Software network services and web applications which can be hosted on your own servers"
-  },
-  {
-    "repo": "hashicorp/terraform",
-    "branch": "main",
-    "language": "Go",
-    "description": "Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned."
-  },
-  {
-    "repo": "4jcraft/4jcraft",
+    "repo": "vulhunt-re/vulhunt",
     "branch": "dev",
     "language": "C++",
-    "description": "Leaked version of Minecraft Legacy Console Edition. Not for commercial purposes"
+    "description": "Vulnerability detection framework by Binarly's REsearch team"
   },
   {
-    "repo": "microsoft/cascadia-code",
+    "repo": "UniRound-Tec/Aurogen",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Aurogen🍊: The Multi-Agent Evolution of OpenClaw."
+  },
+  {
+    "repo": "microsoft/unilm",
+    "branch": "master",
+    "language": "Python",
+    "description": "Large-scale Self-supervised Pre-training Across Tasks, Languages, and Modalities"
+  },
+  {
+    "repo": "caiwuu/web2api",
+    "branch": "master",
+    "language": "Python",
+    "description": "把网页AI转api，如claude2api"
+  },
+  {
+    "repo": "0xpoIygon/polymarket-trading-bot-example",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Polymarket Bot - TypeScript bot for Polymarket 15-minute BTC up/down markets: Gamma market discovery, CLOB quotes, weighted signal fusion, risk checks, and optional live orders via @polymarket/clob-client. Clue: Polymarket Bot, Polymarket Trading Bot, Polymarket Copy Trading Bot, Polymarket Arbitrage Trading Bot, Polymarket Copytrading Bot"
+  },
+  {
+    "repo": "FrankDavis236869/spyder-osint",
     "branch": "main",
     "language": "Python",
-    "description": "This is a fun, new monospaced font that includes programming ligatures and is designed to enhance the modern look and feel of the Windows Terminal."
+    "description": "Spyder OSINT GUI — Graphical open-source intelligence research tool for phone number lookup, IP geolocation, social media reconnaissance, email validation, domain WHOIS, username search, with multi-module architecture and Tkinter-based interface for digital forensics"
   },
   {
-    "repo": "SamNet-dev/dnstm-setup",
+    "repo": "THUDM/CodeGeeX",
+    "branch": "main",
+    "language": "Python",
+    "description": "CodeGeeX: An Open Multilingual Code Generation Model (KDD 2023)"
+  },
+  {
+    "repo": "jazzband/django-debug-toolbar",
+    "branch": "main",
+    "language": "Python",
+    "description": "A configurable set of panels that display various debug information about the current request/response."
+  },
+  {
+    "repo": "NateBJones-Projects/OB1",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Open Brain — The infrastructure layer for your thinking. One database, one AI gateway, one chat channel — any AI plugs in. No middleware, no SaaS."
+  },
+  {
+    "repo": "dongsheng123132/u-claw",
+    "branch": "main",
+    "language": "HTML",
+    "description": "🦞 U-Claw - OpenClaw Offline Installer USB for China | OpenClaw 离线安装 U 盘，专为中国用户打造。免翻墙，一键安装，雨林木风风格。"
+  },
+  {
+    "repo": "hammerjs/hammer.js",
     "branch": "master",
-    "language": "Shell",
-    "description": "Interactive setup wizard for dnstm — automated DNS-based network configuration"
+    "language": "JavaScript",
+    "description": "A javascript library for multi-touch gestures :// You can touch this"
+  },
+  {
+    "repo": "google/wire",
+    "branch": "master",
+    "language": "Go",
+    "description": "Compile-time Dependency Injection for Go"
+  },
+  {
+    "repo": "ryanmcdermott/clean-code-javascript",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "Clean Code concepts adapted for JavaScript"
+  },
+  {
+    "repo": "alibaba/FunASR",
+    "branch": "main",
+    "language": "Python",
+    "description": "A Fundamental End-to-End Speech Recognition Toolkit and Open Source SOTA Pretrained Models, Supporting Speech Recognition, Voice Activity Detection, Text Post-processing etc."
+  },
+  {
+    "repo": "tektoncd/cli",
+    "branch": "main",
+    "language": "Go",
+    "description": "A CLI for interacting with Tekton!"
+  },
+  {
+    "repo": "andrewyng/openworker",
+    "branch": "main",
+    "language": "Python",
+    "description": ""
+  },
+  {
+    "repo": "jackwener/twitter-cli",
+    "branch": "main",
+    "language": "Python",
+    "description": "A CLI for Twitter/X — feed, bookmarks, and user timeline in terminal"
+  },
+  {
+    "repo": "Tencent/cherry-markdown",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "✨ A Markdown Editor"
   }
 ]
