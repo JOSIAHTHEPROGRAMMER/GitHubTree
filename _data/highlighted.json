@@ -1,8 +1,8 @@
 {
-  "repo": "wanshuiyin/HERO-Anti-OverDefense",
+  "repo": "Lichtspektrum/liang-intensity-calibrator",
   "branch": "main",
-  "language": "Markdown",
-  "description": "HERO = Hashing · Edge cases · Rubrics · Overbuild — the four shapes coding agents over-defend in. A paste-in contract that stops them. Works with Claude Code, Codex, Antigravity, Cursor, Copilot, Windsurf, Gemini CLI.",
-  "stars": 123,
-  "forks": 4
+  "language": "TypeScript",
+  "description": "滑动变祖器：31 级梁系强度校准器",
+  "stars": 131,
+  "forks": 15
 }
