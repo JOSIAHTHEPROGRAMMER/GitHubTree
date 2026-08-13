@@ -1,146 +1,146 @@
 [
   {
-    "repo": "jundizhou/easy-stock",
+    "repo": "CompVis/latent-diffusion",
     "branch": "main",
-    "language": "Go",
+    "language": "Jupyter Notebook",
+    "description": "High-Resolution Image Synthesis with Latent Diffusion Models"
+  },
+  {
+    "repo": "zexuanw958-svg/travel-plan-viz",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "Migo · 旅行领航 —— 把旅行行程生成为单文件、可离线、手机优先的 HTML（交互地图+每日时间轴+出发前提醒）。Claude Code / Codex 通用 Skill（travel-plan-viz）。"
+  },
+  {
+    "repo": "xgen-universe/Capybara",
+    "branch": "main",
+    "language": "Python",
     "description": ""
   },
   {
-    "repo": "SulfurNitride/Fluorine-Manager",
-    "branch": "main",
-    "language": "C++",
-    "description": "An attempt at recreating all MO2 functions in linux with NaK integration and FUSE based VFS. Comes with Root Builder support by default. It's in alpha and needs a lot of testing to be done."
-  },
-  {
-    "repo": "python-attrs/attrs",
-    "branch": "main",
-    "language": "Python",
-    "description": "Python Classes Without Boilerplate"
-  },
-  {
-    "repo": "shuyicc/MathLens",
-    "branch": "main",
-    "language": "Python",
-    "description": "MathLens 是一个专注于数学题目视频讲解的 Agent Skill。你只需粘贴一道数学题（图片或文字），它就能自动完成从题目分析、可视化讲解、配音脚本到 Manim 动画视频的全流程制作。单条视频1-10 分钟，成本 0.2-1 元以内。"
-  },
-  {
-    "repo": "MoonshotAI/Kimi-VL",
+    "repo": "sindresorhus/awesome",
     "branch": "main",
     "language": "Other",
-    "description": "Kimi-VL: Mixture-of-Experts Vision-Language Model for Multimodal Reasoning, Long-Context Understanding, and Strong Agent Capabilities"
+    "description": "😎 Awesome lists about all kinds of interesting topics"
   },
   {
-    "repo": "Koenkk/zigbee2mqtt",
+    "repo": "k3s-io/k3s",
     "branch": "master",
-    "language": "TypeScript",
-    "description": "Zigbee 🐝 to MQTT bridge 🌉, get rid of your proprietary Zigbee bridges 🔨"
+    "language": "Go",
+    "description": "Lightweight Kubernetes"
   },
   {
-    "repo": "iflytek/astronclaw-tutorial",
+    "repo": "vinta/awesome-python",
+    "branch": "master",
+    "language": "Python",
+    "description": "An opinionated list of awesome Python frameworks, libraries, software and resources."
+  },
+  {
+    "repo": "celery/celery",
+    "branch": "master",
+    "language": "Python",
+    "description": "Distributed Task Queue (development branch)"
+  },
+  {
+    "repo": "zed-industries/zed",
+    "branch": "main",
+    "language": "Rust",
+    "description": "Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter."
+  },
+  {
+    "repo": "primefaces/primevue",
+    "branch": "master",
+    "language": "Vue",
+    "description": "Next Generation Vue UI Component Library"
+  },
+  {
+    "repo": "microsoft/ML-For-Beginners",
+    "branch": "main",
+    "language": "Jupyter Notebook",
+    "description": "12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all"
+  },
+  {
+    "repo": "firecracker-microvm/firecracker",
+    "branch": "main",
+    "language": "Rust",
+    "description": "Secure and fast microVMs for serverless computing."
+  },
+  {
+    "repo": "axios/axios",
     "branch": "main",
     "language": "JavaScript",
-    "description": "从零到工作流，掌握 AstronClaw（云端）与 Loomy（桌面）的 AI 助手实战教程 | A complete tutorial to master AstronClaw (cloud AI) & Loomy (desktop AI)"
+    "description": "Promise based HTTP client for the browser and node.js"
   },
   {
-    "repo": "symbolica-ai/arcgentica",
+    "repo": "animate-css/animate.css",
     "branch": "main",
-    "language": "Python",
-    "description": "An ARC-AGI solution using Agentica from Symbolica"
+    "language": "CSS",
+    "description": "🍿 A cross-browser library of CSS animations. As easy to use as an easy thing."
   },
   {
-    "repo": "SimplifyJobs/Summer2025-Internships",
+    "repo": "hashicorp/vault",
     "branch": "main",
-    "language": "Python",
-    "description": "Collection of Summer 2026 tech internships!"
+    "language": "Go",
+    "description": "A tool for secrets management, encryption as a service, and privileged access management"
   },
   {
-    "repo": "iamlukethedev/Claw3D",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Claw3D is an open source 3D engine built on OpenClaw for creating games, simulations, and high-performance 3D applications."
+    "repo": "microsoft/react-native-code-push",
+    "branch": "master",
+    "language": "C",
+    "description": "React Native module for CodePush"
   },
   {
-    "repo": "runesleo/x-reader",
-    "branch": "main",
-    "language": "Python",
-    "description": "Universal content reader — fetch, normalize, and digest content from 7+ platforms (WeChat, Telegram, X, YouTube, Bilibili, Xiaohongshu, RSS)"
-  },
-  {
-    "repo": "koajs/koa",
+    "repo": "atom/atom",
     "branch": "master",
     "language": "JavaScript",
-    "description": "Expressive middleware for node.js using ES2017 async functions"
+    "description": ":atom: The hackable text editor"
   },
   {
-    "repo": "standardagents/sip",
+    "repo": "graphql/graphql-js",
     "branch": "main",
     "language": "TypeScript",
-    "description": "Small Image Processor - Ultra memory-efficient image processing for Cloudflare Workers 🟠"
+    "description": "A reference implementation of GraphQL for JavaScript"
   },
   {
-    "repo": "miantiao-me/cloud-code",
+    "repo": "huggingface/tokenizers",
+    "branch": "main",
+    "language": "Rust",
+    "description": "💥 Fast State-of-the-Art Tokenizers optimized for Research and Production"
+  },
+  {
+    "repo": "mysql/mysql-server",
+    "branch": "8.0",
+    "language": "C++",
+    "description": "MySQL Server, the world's most popular open source database, and MySQL Cluster, a real-time, open source transactional database."
+  },
+  {
+    "repo": "react-hook-form/react-hook-form",
     "branch": "master",
     "language": "TypeScript",
-    "description": "Cloud Code (Cloudflare + OpenCode) ，在 Cloudflare 运行 OpenCode 为你打造一个专属云端 Agent"
+    "description": "📋 React Hooks for form state management and validation (Web + React Native)"
   },
   {
-    "repo": "element-hq/element-web",
-    "branch": "develop",
+    "repo": "typeorm/typeorm",
+    "branch": "master",
     "language": "TypeScript",
-    "description": "A glossy Matrix collaboration client for the web."
+    "description": "ORM for TypeScript and JavaScript. Supports MySQL, PostgreSQL, MariaDB, SQLite, MS SQL Server, Oracle, SAP Hana, WebSQL databases. Works in NodeJS, Browser, Ionic, Cordova and Electron platforms."
   },
   {
-    "repo": "OpenDriveLab/WorldEngine",
+    "repo": "thepartly/gatehouse",
     "branch": "main",
-    "language": "Python",
-    "description": "WorldEngine: Towards the Era of Post-Training for Physical AI"
+    "language": "Rust",
+    "description": "A flexible authorization library that combines role-based (RBAC), attribute-based (ABAC), and relationship-based (ReBAC) access control policies."
   },
   {
-    "repo": "chixi4/Qwen3.5-9B-ToolHub",
+    "repo": "microsoft/onnxruntime",
     "branch": "main",
-    "language": "Python",
-    "description": "Qwen3.5-9B ToolHub-v1.0.0"
+    "language": "C++",
+    "description": "ONNX Runtime: cross-platform, high performance ML inferencing and training accelerator"
   },
   {
-    "repo": "llvm/llvm-project",
-    "branch": "main",
-    "language": "LLVM",
-    "description": "The LLVM Project is a collection of modular and reusable compiler and toolchain technologies."
-  },
-  {
-    "repo": "quilljs/quill",
-    "branch": "develop",
-    "language": "TypeScript",
-    "description": "Quill is a modern WYSIWYG editor built for compatibility and extensibility"
-  },
-  {
-    "repo": "robinebers/openusage",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "A plugin-based menu bar app for tracking AI coding tool subscriptions like Cursor, Claude, Codex and more, all in one place with a heavy focus user experience, speed, and stability."
-  },
-  {
-    "repo": "depreciating/DoodleCloud",
-    "branch": "main",
-    "language": "Python",
-    "description": "Cloud Storage using Instagram."
-  },
-  {
-    "repo": "761696148/Game-Map-Tracker",
-    "branch": "main",
-    "language": "Python",
-    "description": ""
-  },
-  {
-    "repo": "ZimoLiao/scholaraio",
-    "branch": "main",
-    "language": "Python",
-    "description": "Scholar All-In-One: AI agent-powered research terminal"
-  },
-  {
-    "repo": "Quick/Nimble",
-    "branch": "main",
-    "language": "Swift",
-    "description": "A Matcher Framework for Swift and Objective-C"
+    "repo": "websockets/ws",
+    "branch": "master",
+    "language": "JavaScript",
+    "description": "Simple to use, blazing fast and thoroughly tested WebSocket client and server for Node.js"
   }
 ]

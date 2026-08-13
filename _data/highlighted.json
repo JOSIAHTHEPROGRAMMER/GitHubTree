@@ -1,8 +1,8 @@
 {
-  "repo": "lilvli/portable-vna",
+  "repo": "wanshuiyin/HERO-Anti-OverDefense",
   "branch": "main",
-  "language": "Verilog",
-  "description": "Low-cost compact direct-sampling vector network analyzer with optional future RTC antenna-test integration.",
-  "stars": 102,
-  "forks": 3
+  "language": "Markdown",
+  "description": "HERO = Hashing · Edge cases · Rubrics · Overbuild — the four shapes coding agents over-defend in. A paste-in contract that stops them. Works with Claude Code, Codex, Antigravity, Cursor, Copilot, Windsurf, Gemini CLI.",
+  "stars": 123,
+  "forks": 4
 }
