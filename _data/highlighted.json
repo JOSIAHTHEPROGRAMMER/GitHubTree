@@ -1,8 +1,8 @@
 {
-  "repo": "loveisbl1nd/linksift",
+  "repo": "mikiane/claude-watermark-cleaner",
   "branch": "main",
   "language": "Python",
-  "description": "Local-first, self-hosted media downloader powered by yt-dlp, Flask, Docker, and ffmpeg.",
-  "stars": 116,
-  "forks": 88
+  "description": "Démonstration critique et outil expérimental de perturbation des watermarks statistiques de Claude",
+  "stars": 117,
+  "forks": 19
 }

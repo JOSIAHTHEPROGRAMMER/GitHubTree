@@ -1,135 +1,111 @@
 [
   {
-    "repo": "Matchameleon/moneyclaw",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "openclaw agents for prepaid wallet, virtual card, OTP inbox, public docs, and skill"
-  },
-  {
-    "repo": "raxx21/rajesh-portfolio",
+    "repo": "vercel/hyper",
     "branch": "main",
     "language": "TypeScript",
-    "description": ""
+    "description": "A terminal built on web technologies"
   },
   {
-    "repo": "mochajs/mocha",
-    "branch": "master",
-    "language": "JavaScript",
-    "description": "☕️ Classic, reliable, trusted test framework for Node.js and the browser"
-  },
-  {
-    "repo": "elastic/logstash",
-    "branch": "main",
-    "language": "Java",
-    "description": "Logstash - transport and process your logs, events, or other data"
-  },
-  {
-    "repo": "apache/airflow",
-    "branch": "main",
-    "language": "Python",
-    "description": "Apache Airflow - A platform to programmatically author, schedule, and monitor workflows"
-  },
-  {
-    "repo": "zubair-trabzada/ai-marketing-claude",
-    "branch": "main",
-    "language": "Python",
-    "description": "AI Marketing Suite for Claude Code. 15 marketing skills with parallel subagents — audit any website, generate copy, email sequences, ad campaigns, content calendars, competitive intelligence, and client-ready PDF reports."
-  },
-  {
-    "repo": "vuetifyjs/vuetify",
-    "branch": "master",
-    "language": "TypeScript",
-    "description": "🐉 Vue Component Framework"
-  },
-  {
-    "repo": "Minecraft-Community-Edition/client",
-    "branch": "main",
-    "language": "C++",
-    "description": "Whispers LCE Client"
-  },
-  {
-    "repo": "phpmyadmin/phpmyadmin",
-    "branch": "master",
-    "language": "PHP",
-    "description": "A web interface for MySQL and MariaDB"
-  },
-  {
-    "repo": "firecracker-microvm/firecracker",
-    "branch": "main",
-    "language": "Rust",
-    "description": "Secure and fast microVMs for serverless computing."
-  },
-  {
-    "repo": "mlflow/mlflow",
-    "branch": "master",
-    "language": "Python",
-    "description": "The open source developer platform to build AI agents and models with confidence. Enhance your AI applications with end-to-end tracking, observability, and evaluations, all in one integrated platform."
-  },
-  {
-    "repo": "gohugoio/hugo",
-    "branch": "master",
-    "language": "Go",
-    "description": "The world’s fastest framework for building websites."
-  },
-  {
-    "repo": "aitradingbotspro/cryto-trading-ai-assistant",
-    "branch": "main",
-    "language": "Python",
-    "description": "AI guardian for manual crypto traders — risk monitoring, strategy validation & emotional trading detection. No trade execution."
-  },
-  {
-    "repo": "fastclaw-ai/weclaw",
-    "branch": "main",
-    "language": "Go",
-    "description": "Connect to any agents with WeChat ClawBot."
-  },
-  {
-    "repo": "es617/claude-replay",
+    "repo": "Mitalii-2403/Lossless-Scaling-LatestVersion-2026",
     "branch": "main",
     "language": "HTML",
-    "description": "Community tool to convert Claude Code session transcripts into self-contained, embeddable HTML replays"
+    "description": "Lossless Scaling is a Windows application that provides image upscaling, resolution scaling, and frame generation features. Designed to improve visual quality and gaming performance, it offers flexible scaling options, hardware compatibility, and an easy-to-use interface for optimizing desktop and gaming experiences."
   },
   {
-    "repo": "e10nMa2k/cc-mini",
-    "branch": "main",
-    "language": "Python",
-    "description": "mini version of claude code"
-  },
-  {
-    "repo": "streamlit/streamlit",
-    "branch": "develop",
-    "language": "Python",
-    "description": "Streamlit — A faster way to build and share data apps."
-  },
-  {
-    "repo": "superpilot69/pdf-trad-to-simp-preserve-layout-kit",
-    "branch": "main",
-    "language": "Python",
-    "description": "PDF traditional-to-simplified Chinese conversion kit with layout-preserving scripts, Codex skill, and example source/output PDFs."
-  },
-  {
-    "repo": "deepseek-ai/DeepSeek-Math",
-    "branch": "main",
-    "language": "Python",
-    "description": "DeepSeekMath: Pushing the Limits of Mathematical Reasoning in Open Language Models"
-  },
-  {
-    "repo": "Flowseal/tg-ws-proxy",
-    "branch": "main",
-    "language": "Python",
-    "description": "Local SOCKS5 proxy server for partial bypassing of Telegram loading"
-  },
-  {
-    "repo": "stretchr/testify",
+    "repo": "go-kit/kit",
     "branch": "master",
     "language": "Go",
-    "description": "A toolkit with common assertions and mocks that plays nicely with the standard library"
+    "description": "A standard library for microservices."
   },
   {
-    "repo": "HarnessLab/claw-code-agent",
+    "repo": "melonjs/melonJS",
+    "branch": "master",
+    "language": "JavaScript",
+    "description": "a fresh, modern & lightweight HTML5 game engine"
+  },
+  {
+    "repo": "phuc-nt/my-translator",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "Real-time speech translation for macOS — open source, no tracking, direct Soniox API"
+  },
+  {
+    "repo": "Stability-AI/stablediffusion",
+    "branch": "main",
+    "language": "Other",
+    "description": "High-Resolution Image Synthesis with Latent Diffusion Models."
+  },
+  {
+    "repo": "spool-lab/spool",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "The missing search engine for your own data."
+  },
+  {
+    "repo": "rails/rails",
+    "branch": "main",
+    "language": "Ruby",
+    "description": "Ruby on Rails"
+  },
+  {
+    "repo": "redis/redis",
+    "branch": "unstable",
+    "language": "C",
+    "description": "For developers, who are building real-time data-driven applications, Redis is the preferred, fastest, and most feature-rich cache, data structure server, and document and vector query engine."
+  },
+  {
+    "repo": "joeseesun/qiaomu-mondo-poster-design",
+    "branch": "master",
+    "language": "Python",
+    "description": "一句话生成大师级海报、书籍封面、专辑封面和各类设计作品。无需懂PS、配色或艺术史，AI自动选择最佳风格（基于20位传奇海报设计师）。支持电影海报、读书笔记、公众号封面、小红书配图等。默认9:16竖版，完美适配社交媒体。包含AI提示词优化、风格对比、图生图转换功能。触发词：Mondo风格、书籍封"
+  },
+  {
+    "repo": "alpinejs/alpine",
+    "branch": "main",
+    "language": "HTML",
+    "description": "A rugged, minimal framework for composing JavaScript behavior in your markup."
+  },
+  {
+    "repo": "aave/aave-v2",
+    "branch": "master",
+    "language": "Other",
+    "description": "Aave Protocol V2"
+  },
+  {
+    "repo": "donghuixin/AI-Vibe-Writing-Skills",
     "branch": "main",
     "language": "Python",
-    "description": "Claw Code No Rust No TypeScript Only Python. Easy to work with. Fast to iterate. 🔥 Zero external dependencies 🔥"
+    "description": "Using AI for high quality writing"
+  },
+  {
+    "repo": "cortexproject/cortex",
+    "branch": "master",
+    "language": "Go",
+    "description": "A horizontally scalable, highly available, multi-tenant, long term Prometheus."
+  },
+  {
+    "repo": "walter-grace/mac-code",
+    "branch": "main",
+    "language": "Python",
+    "description": "mac code — Claude Code, but it runs on your Mac for free.   35B AI agent at 30 tok/s via Apple Silicon flash-paging. $0/month."
+  },
+  {
+    "repo": "Tencent/tdesign-vue-next",
+    "branch": "develop",
+    "language": "TypeScript",
+    "description": "A Vue3.x UI components lib for TDesign."
+  },
+  {
+    "repo": "obsidianmd/obsidian-releases",
+    "branch": "master",
+    "language": "Other",
+    "description": "Community plugins list, theme list, and releases of Obsidian."
+  },
+  {
+    "repo": "ethereumjs/ethereumjs-monorepo",
+    "branch": "master",
+    "language": "TypeScript",
+    "description": "Ethereum L1 Protocol Stack and EVM in TypeScript"
   },
   {
     "repo": "explosion/spaCy",
@@ -138,9 +114,33 @@
     "description": "💫 Industrial-strength Natural Language Processing (NLP) in Python"
   },
   {
-    "repo": "derHaken/SuperAntigravity",
+    "repo": "vixhal-baraiya/microgpt-c",
     "branch": "main",
-    "language": "Shell",
-    "description": "Superpowers + SuperClaude for Google Antigravity IDE"
+    "language": "C",
+    "description": "The most atomic way to train and inference a GPT in pure, dependency-free C"
+  },
+  {
+    "repo": "foru17/clash-master",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "A modern and elegant dashboard for visualizing and managing Clash network traffic."
+  },
+  {
+    "repo": "tailwindlabs/headlessui",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Completely unstyled, fully accessible UI components, designed to integrate beautifully with Tailwind CSS."
+  },
+  {
+    "repo": "trailofbits/algo",
+    "branch": "master",
+    "language": "Python",
+    "description": "Set up a personal VPN in the cloud"
+  },
+  {
+    "repo": "Shudesu/line-harness-oss",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Open-source LINE Official Account CRM — free alternative to paid tools. Step delivery, broadcasts, forms, rich menus, scoring, automation, and more."
   }
 ]
