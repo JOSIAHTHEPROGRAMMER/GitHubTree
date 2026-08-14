@@ -1,146 +1,146 @@
 [
   {
-    "repo": "shinyquagsire23/Klepton",
+    "repo": "Matchameleon/moneyclaw",
     "branch": "main",
-    "language": "C",
-    "description": "JIT-less relinker and compatibility layer for running Quest/Android XR APKs on visionOS and macOS"
+    "language": "JavaScript",
+    "description": "openclaw agents for prepaid wallet, virtual card, OTP inbox, public docs, and skill"
   },
   {
-    "repo": "Janlaywss/cloud-code",
-    "branch": "master",
-    "language": "TypeScript",
-    "description": "cloud-code"
-  },
-  {
-    "repo": "obsproject/obs-studio",
-    "branch": "master",
-    "language": "C",
-    "description": "OBS Studio - Free and open source software for live streaming and screen recording"
-  },
-  {
-    "repo": "collaborator-ai/collab-public",
-    "branch": "main",
-    "language": "Shell",
-    "description": "Collaborator is a place to build with agents."
-  },
-  {
-    "repo": "supermemoryai/clawdbot-supermemory",
+    "repo": "raxx21/rajesh-portfolio",
     "branch": "main",
     "language": "TypeScript",
-    "description": "Supermemory allows Clawdbot / Molt bot to have PERFECT memory and recall for their own personal agent."
-  },
-  {
-    "repo": "phuryn/claude-usage",
-    "branch": "main",
-    "language": "Python",
-    "description": "A local dashboard for tracking your Claude Code token usage, costs, and session history. Pro and Max subscribers get a progress bar. This gives you the full picture."
-  },
-  {
-    "repo": "ImageMagick/ImageMagick",
-    "branch": "main",
-    "language": "C",
-    "description": "ImageMagick is a free, open-source software suite for creating, editing, converting, and displaying images. It supports 200+ formats and offers powerful command-line tools and APIs for automation, scripting, and integration across platforms."
-  },
-  {
-    "repo": "caiwuu/web2api",
-    "branch": "master",
-    "language": "Python",
-    "description": "把网页AI转api，如claude2api"
-  },
-  {
-    "repo": "psycopg/psycopg",
-    "branch": "master",
-    "language": "Python",
-    "description": "New generation PostgreSQL database adapter for the Python programming language"
-  },
-  {
-    "repo": "AAAAAAAJ/slides",
-    "branch": "main",
-    "language": "Python",
-    "description": "slides generates prompts for various expression styles"
-  },
-  {
-    "repo": "qlabs-eng/slowrun",
-    "branch": "main",
-    "language": "Python",
-    "description": "100M tokens, no time limit, best val loss wins!"
-  },
-  {
-    "repo": "calebwin/pgclaw",
-    "branch": "main",
-    "language": "Rust",
-    "description": "A Clawdbot in every row with 400 lines of Postgres SQL"
-  },
-  {
-    "repo": "alaeelhariri/iut-db-final-project",
-    "branch": "master",
-    "language": "Python",
     "description": ""
   },
   {
-    "repo": "mrslimslim/gpt-image-canvas",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Local professional AI canvas built with tldraw."
+    "repo": "mochajs/mocha",
+    "branch": "master",
+    "language": "JavaScript",
+    "description": "☕️ Classic, reliable, trusted test framework for Node.js and the browser"
   },
   {
-    "repo": "andralien/Synapse-Exec",
+    "repo": "elastic/logstash",
+    "branch": "main",
+    "language": "Java",
+    "description": "Logstash - transport and process your logs, events, or other data"
+  },
+  {
+    "repo": "apache/airflow",
+    "branch": "main",
+    "language": "Python",
+    "description": "Apache Airflow - A platform to programmatically author, schedule, and monitor workflows"
+  },
+  {
+    "repo": "zubair-trabzada/ai-marketing-claude",
+    "branch": "main",
+    "language": "Python",
+    "description": "AI Marketing Suite for Claude Code. 15 marketing skills with parallel subagents — audit any website, generate copy, email sequences, ad campaigns, content calendars, competitive intelligence, and client-ready PDF reports."
+  },
+  {
+    "repo": "vuetifyjs/vuetify",
+    "branch": "master",
+    "language": "TypeScript",
+    "description": "🐉 Vue Component Framework"
+  },
+  {
+    "repo": "Minecraft-Community-Edition/client",
+    "branch": "main",
+    "language": "C++",
+    "description": "Whispers LCE Client"
+  },
+  {
+    "repo": "phpmyadmin/phpmyadmin",
+    "branch": "master",
+    "language": "PHP",
+    "description": "A web interface for MySQL and MariaDB"
+  },
+  {
+    "repo": "firecracker-microvm/firecracker",
+    "branch": "main",
+    "language": "Rust",
+    "description": "Secure and fast microVMs for serverless computing."
+  },
+  {
+    "repo": "mlflow/mlflow",
+    "branch": "master",
+    "language": "Python",
+    "description": "The open source developer platform to build AI agents and models with confidence. Enhance your AI applications with end-to-end tracking, observability, and evaluations, all in one integrated platform."
+  },
+  {
+    "repo": "gohugoio/hugo",
+    "branch": "master",
+    "language": "Go",
+    "description": "The world’s fastest framework for building websites."
+  },
+  {
+    "repo": "aitradingbotspro/cryto-trading-ai-assistant",
+    "branch": "main",
+    "language": "Python",
+    "description": "AI guardian for manual crypto traders — risk monitoring, strategy validation & emotional trading detection. No trade execution."
+  },
+  {
+    "repo": "fastclaw-ai/weclaw",
+    "branch": "main",
+    "language": "Go",
+    "description": "Connect to any agents with WeChat ClawBot."
+  },
+  {
+    "repo": "es617/claude-replay",
     "branch": "main",
     "language": "HTML",
-    "description": "Synapse PC v3.2 — Free Roblox Script Executor for Windows 2026. Instant Lua injection, 500+ scripts, auto-update, no key required."
+    "description": "Community tool to convert Claude Code session transcripts into self-contained, embeddable HTML replays"
   },
   {
-    "repo": "excalidraw/excalidraw",
-    "branch": "master",
-    "language": "TypeScript",
-    "description": "Virtual whiteboard for sketching hand-drawn like diagrams"
-  },
-  {
-    "repo": "ZRainbow1275/AutoTeam-F",
+    "repo": "e10nMa2k/cc-mini",
     "branch": "main",
     "language": "Python",
-    "description": "参照上游 cnitlrt/AutoTeam 的改善版,重点在于实现免费号批量获得以及改善操作体验 (Fix + Free)"
+    "description": "mini version of claude code"
   },
   {
-    "repo": "torvalds/ScrollWheel",
-    "branch": "main",
-    "language": "C",
-    "description": "Minimalist RP2350 magnetic sensor scroll wheel toy project"
+    "repo": "streamlit/streamlit",
+    "branch": "develop",
+    "language": "Python",
+    "description": "Streamlit — A faster way to build and share data apps."
   },
   {
-    "repo": "lbq110/weread-exporter",
+    "repo": "superpilot69/pdf-trad-to-simp-preserve-layout-kit",
     "branch": "main",
     "language": "Python",
-    "description": "微信读书全本导出工具 — Playwright + Canvas Hook 提取完整书籍内容为 Markdown"
+    "description": "PDF traditional-to-simplified Chinese conversion kit with layout-preserving scripts, Codex skill, and example source/output PDFs."
   },
   {
-    "repo": "juliangarnier/anime",
+    "repo": "deepseek-ai/DeepSeek-Math",
+    "branch": "main",
+    "language": "Python",
+    "description": "DeepSeekMath: Pushing the Limits of Mathematical Reasoning in Open Language Models"
+  },
+  {
+    "repo": "Flowseal/tg-ws-proxy",
+    "branch": "main",
+    "language": "Python",
+    "description": "Local SOCKS5 proxy server for partial bypassing of Telegram loading"
+  },
+  {
+    "repo": "stretchr/testify",
     "branch": "master",
-    "language": "JavaScript",
-    "description": "JavaScript animation engine"
+    "language": "Go",
+    "description": "A toolkit with common assertions and mocks that plays nicely with the standard library"
   },
   {
-    "repo": "fimbox/html-in-canvas",
+    "repo": "HarnessLab/claw-code-agent",
     "branch": "main",
-    "language": "JavaScript",
-    "description": "HTML in Canvas — arrival.space"
+    "language": "Python",
+    "description": "Claw Code No Rust No TypeScript Only Python. Easy to work with. Fast to iterate. 🔥 Zero external dependencies 🔥"
   },
   {
-    "repo": "jesselau76/cigen",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "Interactive root/affix vocabulary memory web app"
+    "repo": "explosion/spaCy",
+    "branch": "master",
+    "language": "Python",
+    "description": "💫 Industrial-strength Natural Language Processing (NLP) in Python"
   },
   {
-    "repo": "uton88/dan-binary-releases",
+    "repo": "derHaken/SuperAntigravity",
     "branch": "main",
     "language": "Shell",
-    "description": "Public binary-only releases and install scripts for dan"
-  },
-  {
-    "repo": "KXJ-WQL/PortalWebsiteSystem",
-    "branch": "master",
-    "language": "Java",
-    "description": "☃企业门户系统，基于Springboot和Thymeleaf🎪，使用layui前后端分离"
+    "description": "Superpowers + SuperClaude for Google Antigravity IDE"
   }
 ]

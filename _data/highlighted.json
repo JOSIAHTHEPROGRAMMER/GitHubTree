@@ -1,8 +1,8 @@
 {
-  "repo": "fellowgeek/mcp-memory",
+  "repo": "loveisbl1nd/linksift",
   "branch": "main",
   "language": "Python",
-  "description": "An OKF-backed Model Context Protocol (MCP) server delivering persistent long-term memory and SQLite FTS5 search for AI agents.",
-  "stars": 112,
-  "forks": 2
+  "description": "Local-first, self-hosted media downloader powered by yt-dlp, Flask, Docker, and ffmpeg.",
+  "stars": 116,
+  "forks": 88
 }
