@@ -1,8 +1,8 @@
 {
-  "repo": "mikiane/claude-watermark-cleaner",
+  "repo": "GongChang2020/ollama-gui-manager",
   "branch": "main",
-  "language": "Python",
-  "description": "Démonstration critique et outil expérimental de perturbation des watermarks statistiques de Claude",
-  "stars": 117,
-  "forks": 19
+  "language": "Vue",
+  "description": "Desktop GUI for managing local Ollama models and proxy access. Built with Electron + Vue 3.",
+  "stars": 113,
+  "forks": 5
 }

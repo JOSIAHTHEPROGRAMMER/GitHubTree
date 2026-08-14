@@ -1,33 +1,45 @@
 [
   {
-    "repo": "vercel/hyper",
+    "repo": "OpenBMB/PilotDeck",
     "branch": "main",
     "language": "TypeScript",
-    "description": "A terminal built on web technologies"
+    "description": "Task-oriented AI Agent productivity platform"
   },
   {
-    "repo": "Mitalii-2403/Lossless-Scaling-LatestVersion-2026",
+    "repo": "javaevolved/javaevolved.github.io",
     "branch": "main",
     "language": "HTML",
-    "description": "Lossless Scaling is a Windows application that provides image upscaling, resolution scaling, and frame generation features. Designed to improve visual quality and gaming performance, it offers flexible scaling options, hardware compatibility, and an easy-to-use interface for optimizing desktop and gaming experiences."
+    "description": "Java Evolved. Your Code Can Evolve Too!"
   },
   {
-    "repo": "go-kit/kit",
+    "repo": "huggingface/accelerate",
+    "branch": "main",
+    "language": "Python",
+    "description": "🚀 A simple way to launch, train, and use PyTorch models on almost any device and distributed configuration, automatic mixed precision (including fp8), and easy-to-configure FSDP and DeepSpeed support"
+  },
+  {
+    "repo": "junit-team/junit5",
+    "branch": "main",
+    "language": "Java",
+    "description": "✅ The programmer-friendly testing framework for Java and the JVM"
+  },
+  {
+    "repo": "pallets/jinja",
+    "branch": "main",
+    "language": "Python",
+    "description": "A very fast and expressive template engine."
+  },
+  {
+    "repo": "ipfs/kubo",
     "branch": "master",
     "language": "Go",
-    "description": "A standard library for microservices."
+    "description": "An IPFS implementation in Go"
   },
   {
-    "repo": "melonjs/melonJS",
-    "branch": "master",
-    "language": "JavaScript",
-    "description": "a fresh, modern & lightweight HTML5 game engine"
-  },
-  {
-    "repo": "phuc-nt/my-translator",
+    "repo": "formik/formik",
     "branch": "main",
-    "language": "JavaScript",
-    "description": "Real-time speech translation for macOS — open source, no tracking, direct Soniox API"
+    "language": "TypeScript",
+    "description": "Build forms in React, without the tears 😭"
   },
   {
     "repo": "Stability-AI/stablediffusion",
@@ -36,10 +48,10 @@
     "description": "High-Resolution Image Synthesis with Latent Diffusion Models."
   },
   {
-    "repo": "spool-lab/spool",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "The missing search engine for your own data."
+    "repo": "neovim/neovim",
+    "branch": "master",
+    "language": "Vim Script",
+    "description": "Vim-fork focused on extensibility and usability"
   },
   {
     "repo": "rails/rails",
@@ -48,99 +60,87 @@
     "description": "Ruby on Rails"
   },
   {
-    "repo": "redis/redis",
-    "branch": "unstable",
-    "language": "C",
-    "description": "For developers, who are building real-time data-driven applications, Redis is the preferred, fastest, and most feature-rich cache, data structure server, and document and vector query engine."
+    "repo": "nuxt/nuxt",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "The Full-Stack Vue Framework."
   },
   {
-    "repo": "joeseesun/qiaomu-mondo-poster-design",
+    "repo": "facebookresearch/detectron2",
+    "branch": "main",
+    "language": "Python",
+    "description": "Detectron2 is a platform for object detection, segmentation and other visual recognition tasks."
+  },
+  {
+    "repo": "microsoft/autogen",
+    "branch": "main",
+    "language": "Python",
+    "description": "A programming framework for agentic AI"
+  },
+  {
+    "repo": "keras-team/keras-nlp",
     "branch": "master",
     "language": "Python",
-    "description": "一句话生成大师级海报、书籍封面、专辑封面和各类设计作品。无需懂PS、配色或艺术史，AI自动选择最佳风格（基于20位传奇海报设计师）。支持电影海报、读书笔记、公众号封面、小红书配图等。默认9:16竖版，完美适配社交媒体。包含AI提示词优化、风格对比、图生图转换功能。触发词：Mondo风格、书籍封"
+    "description": "Pretrained model hub for Keras 3."
   },
   {
-    "repo": "alpinejs/alpine",
+    "repo": "facebookresearch/segment-anything",
     "branch": "main",
+    "language": "Jupyter Notebook",
+    "description": "The repository provides code for running inference with the SegmentAnything Model (SAM), links for downloading the trained model checkpoints, and example notebooks that show how to use the model."
+  },
+  {
+    "repo": "square/retrofit",
+    "branch": "master",
     "language": "HTML",
-    "description": "A rugged, minimal framework for composing JavaScript behavior in your markup."
+    "description": "A type-safe HTTP client for Android and the JVM"
   },
   {
-    "repo": "aave/aave-v2",
-    "branch": "master",
-    "language": "Other",
-    "description": "Aave Protocol V2"
-  },
-  {
-    "repo": "donghuixin/AI-Vibe-Writing-Skills",
-    "branch": "main",
+    "repo": "marshmallow-code/marshmallow",
+    "branch": "dev",
     "language": "Python",
-    "description": "Using AI for high quality writing"
+    "description": "A lightweight library for converting complex objects to and from simple Python datatypes."
   },
   {
-    "repo": "cortexproject/cortex",
+    "repo": "google/guava",
+    "branch": "master",
+    "language": "Java",
+    "description": "Google core libraries for Java"
+  },
+  {
+    "repo": "caddyserver/caddy",
     "branch": "master",
     "language": "Go",
-    "description": "A horizontally scalable, highly available, multi-tenant, long term Prometheus."
+    "description": "Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS"
   },
   {
-    "repo": "walter-grace/mac-code",
+    "repo": "polkadot-js/apps",
+    "branch": "master",
+    "language": "TypeScript",
+    "description": "Basic Polkadot/Substrate UI for interacting with a Polkadot and Substrate node. This is the main user-facing application, allowing access to all features available on Substrate chains."
+  },
+  {
+    "repo": "emotion-js/emotion",
     "branch": "main",
-    "language": "Python",
-    "description": "mac code — Claude Code, but it runs on your Mac for free.   35B AI agent at 30 tok/s via Apple Silicon flash-paging. $0/month."
+    "language": "JavaScript",
+    "description": "👩‍🎤 CSS-in-JS library designed for high performance style composition"
   },
   {
-    "repo": "Tencent/tdesign-vue-next",
-    "branch": "develop",
-    "language": "TypeScript",
-    "description": "A Vue3.x UI components lib for TDesign."
-  },
-  {
-    "repo": "obsidianmd/obsidian-releases",
-    "branch": "master",
-    "language": "Other",
-    "description": "Community plugins list, theme list, and releases of Obsidian."
-  },
-  {
-    "repo": "ethereumjs/ethereumjs-monorepo",
-    "branch": "master",
-    "language": "TypeScript",
-    "description": "Ethereum L1 Protocol Stack and EVM in TypeScript"
-  },
-  {
-    "repo": "explosion/spaCy",
+    "repo": "ray-project/ray",
     "branch": "master",
     "language": "Python",
-    "description": "💫 Industrial-strength Natural Language Processing (NLP) in Python"
+    "description": "Ray is an AI compute engine. Ray consists of a core distributed runtime and a set of AI Libraries for accelerating ML workloads."
   },
   {
-    "repo": "vixhal-baraiya/microgpt-c",
-    "branch": "main",
-    "language": "C",
-    "description": "The most atomic way to train and inference a GPT in pure, dependency-free C"
-  },
-  {
-    "repo": "foru17/clash-master",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "A modern and elegant dashboard for visualizing and managing Clash network traffic."
-  },
-  {
-    "repo": "tailwindlabs/headlessui",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Completely unstyled, fully accessible UI components, designed to integrate beautifully with Tailwind CSS."
-  },
-  {
-    "repo": "trailofbits/algo",
+    "repo": "mlflow/mlflow",
     "branch": "master",
     "language": "Python",
-    "description": "Set up a personal VPN in the cloud"
+    "description": "The open source developer platform to build AI agents and models with confidence. Enhance your AI applications with end-to-end tracking, observability, and evaluations, all in one integrated platform."
   },
   {
-    "repo": "Shudesu/line-harness-oss",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Open-source LINE Official Account CRM — free alternative to paid tools. Step delivery, broadcasts, forms, rich menus, scoring, automation, and more."
+    "repo": "restic/restic",
+    "branch": "master",
+    "language": "Go",
+    "description": "Fast, secure, efficient backup program"
   }
 ]
