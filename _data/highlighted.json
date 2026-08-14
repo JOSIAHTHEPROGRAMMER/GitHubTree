@@ -1,8 +1,8 @@
 {
-  "repo": "wenqi9115-glitch/systematic-etf-relative-strength-alpha-attribution",
+  "repo": "fellowgeek/mcp-memory",
   "branch": "main",
-  "language": "Jupyter Notebook",
-  "description": "Systematic ETF relative-strength research, overlapping-sleeve portfolio construction, LEAN implementation, and factor attribution.",
-  "stars": 104,
-  "forks": 0
+  "language": "Python",
+  "description": "An OKF-backed Model Context Protocol (MCP) server delivering persistent long-term memory and SQLite FTS5 search for AI agents.",
+  "stars": 112,
+  "forks": 2
 }

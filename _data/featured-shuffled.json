@@ -1,57 +1,45 @@
 [
   {
-    "repo": "antfu/skills",
+    "repo": "shinyquagsire23/Klepton",
+    "branch": "main",
+    "language": "C",
+    "description": "JIT-less relinker and compatibility layer for running Quest/Android XR APKs on visionOS and macOS"
+  },
+  {
+    "repo": "Janlaywss/cloud-code",
+    "branch": "master",
+    "language": "TypeScript",
+    "description": "cloud-code"
+  },
+  {
+    "repo": "obsproject/obs-studio",
+    "branch": "master",
+    "language": "C",
+    "description": "OBS Studio - Free and open source software for live streaming and screen recording"
+  },
+  {
+    "repo": "collaborator-ai/collab-public",
+    "branch": "main",
+    "language": "Shell",
+    "description": "Collaborator is a place to build with agents."
+  },
+  {
+    "repo": "supermemoryai/clawdbot-supermemory",
     "branch": "main",
     "language": "TypeScript",
-    "description": "Anthony Fu's curated collection of agent skills."
+    "description": "Supermemory allows Clawdbot / Molt bot to have PERFECT memory and recall for their own personal agent."
   },
   {
-    "repo": "panyiwei-home/Freedeck",
+    "repo": "phuryn/claude-usage",
     "branch": "main",
     "language": "Python",
-    "description": "学习版游戏一站式平台"
+    "description": "A local dashboard for tracking your Claude Code token usage, costs, and session history. Pro and Max subscribers get a progress bar. This gives you the full picture."
   },
   {
-    "repo": "LearnPrompt/ai-news-radar",
-    "branch": "master",
-    "language": "Python",
-    "description": ""
-  },
-  {
-    "repo": "StartupHakk/OpenMonoAgent.ai",
+    "repo": "ImageMagick/ImageMagick",
     "branch": "main",
-    "language": "C#",
-    "description": "(BETA) AI shouldn't have a meter. Unlimited tokens. Forever. Your machine. Your agent. Use it from anywhere. Terminal-native coding agent powered by local LLMs — 100% open source, free forever, and installed with a single command. Proudly built on C#/.NET, because AI tooling should be infrastructure, not a subscription."
-  },
-  {
-    "repo": "ringhyacinth/Star-Office-UI",
-    "branch": "master",
-    "language": "HTML",
-    "description": ""
-  },
-  {
-    "repo": "karatelabs/karate",
-    "branch": "master",
-    "language": "Java",
-    "description": "Test Automation Made Simple"
-  },
-  {
-    "repo": "vulhunt-re/vulhunt",
-    "branch": "dev",
-    "language": "C++",
-    "description": "Vulnerability detection framework by Binarly's REsearch team"
-  },
-  {
-    "repo": "UniRound-Tec/Aurogen",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Aurogen🍊: The Multi-Agent Evolution of OpenClaw."
-  },
-  {
-    "repo": "microsoft/unilm",
-    "branch": "master",
-    "language": "Python",
-    "description": "Large-scale Self-supervised Pre-training Across Tasks, Languages, and Modalities"
+    "language": "C",
+    "description": "ImageMagick is a free, open-source software suite for creating, editing, converting, and displaying images. It supports 200+ formats and offers powerful command-line tools and APIs for automation, scripting, and integration across platforms."
   },
   {
     "repo": "caiwuu/web2api",
@@ -60,87 +48,99 @@
     "description": "把网页AI转api，如claude2api"
   },
   {
-    "repo": "0xpoIygon/polymarket-trading-bot-example",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Polymarket Bot - TypeScript bot for Polymarket 15-minute BTC up/down markets: Gamma market discovery, CLOB quotes, weighted signal fusion, risk checks, and optional live orders via @polymarket/clob-client. Clue: Polymarket Bot, Polymarket Trading Bot, Polymarket Copy Trading Bot, Polymarket Arbitrage Trading Bot, Polymarket Copytrading Bot"
-  },
-  {
-    "repo": "FrankDavis236869/spyder-osint",
-    "branch": "main",
-    "language": "Python",
-    "description": "Spyder OSINT GUI — Graphical open-source intelligence research tool for phone number lookup, IP geolocation, social media reconnaissance, email validation, domain WHOIS, username search, with multi-module architecture and Tkinter-based interface for digital forensics"
-  },
-  {
-    "repo": "THUDM/CodeGeeX",
-    "branch": "main",
-    "language": "Python",
-    "description": "CodeGeeX: An Open Multilingual Code Generation Model (KDD 2023)"
-  },
-  {
-    "repo": "jazzband/django-debug-toolbar",
-    "branch": "main",
-    "language": "Python",
-    "description": "A configurable set of panels that display various debug information about the current request/response."
-  },
-  {
-    "repo": "NateBJones-Projects/OB1",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Open Brain — The infrastructure layer for your thinking. One database, one AI gateway, one chat channel — any AI plugs in. No middleware, no SaaS."
-  },
-  {
-    "repo": "dongsheng123132/u-claw",
-    "branch": "main",
-    "language": "HTML",
-    "description": "🦞 U-Claw - OpenClaw Offline Installer USB for China | OpenClaw 离线安装 U 盘，专为中国用户打造。免翻墙，一键安装，雨林木风风格。"
-  },
-  {
-    "repo": "hammerjs/hammer.js",
+    "repo": "psycopg/psycopg",
     "branch": "master",
-    "language": "JavaScript",
-    "description": "A javascript library for multi-touch gestures :// You can touch this"
+    "language": "Python",
+    "description": "New generation PostgreSQL database adapter for the Python programming language"
   },
   {
-    "repo": "google/wire",
-    "branch": "master",
-    "language": "Go",
-    "description": "Compile-time Dependency Injection for Go"
-  },
-  {
-    "repo": "ryanmcdermott/clean-code-javascript",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "Clean Code concepts adapted for JavaScript"
-  },
-  {
-    "repo": "alibaba/FunASR",
+    "repo": "AAAAAAAJ/slides",
     "branch": "main",
     "language": "Python",
-    "description": "A Fundamental End-to-End Speech Recognition Toolkit and Open Source SOTA Pretrained Models, Supporting Speech Recognition, Voice Activity Detection, Text Post-processing etc."
+    "description": "slides generates prompts for various expression styles"
   },
   {
-    "repo": "tektoncd/cli",
+    "repo": "qlabs-eng/slowrun",
     "branch": "main",
-    "language": "Go",
-    "description": "A CLI for interacting with Tekton!"
+    "language": "Python",
+    "description": "100M tokens, no time limit, best val loss wins!"
   },
   {
-    "repo": "andrewyng/openworker",
+    "repo": "calebwin/pgclaw",
     "branch": "main",
+    "language": "Rust",
+    "description": "A Clawdbot in every row with 400 lines of Postgres SQL"
+  },
+  {
+    "repo": "alaeelhariri/iut-db-final-project",
+    "branch": "master",
     "language": "Python",
     "description": ""
   },
   {
-    "repo": "jackwener/twitter-cli",
+    "repo": "mrslimslim/gpt-image-canvas",
     "branch": "main",
-    "language": "Python",
-    "description": "A CLI for Twitter/X — feed, bookmarks, and user timeline in terminal"
+    "language": "TypeScript",
+    "description": "Local professional AI canvas built with tldraw."
   },
   {
-    "repo": "Tencent/cherry-markdown",
+    "repo": "andralien/Synapse-Exec",
+    "branch": "main",
+    "language": "HTML",
+    "description": "Synapse PC v3.2 — Free Roblox Script Executor for Windows 2026. Instant Lua injection, 500+ scripts, auto-update, no key required."
+  },
+  {
+    "repo": "excalidraw/excalidraw",
+    "branch": "master",
+    "language": "TypeScript",
+    "description": "Virtual whiteboard for sketching hand-drawn like diagrams"
+  },
+  {
+    "repo": "ZRainbow1275/AutoTeam-F",
+    "branch": "main",
+    "language": "Python",
+    "description": "参照上游 cnitlrt/AutoTeam 的改善版,重点在于实现免费号批量获得以及改善操作体验 (Fix + Free)"
+  },
+  {
+    "repo": "torvalds/ScrollWheel",
+    "branch": "main",
+    "language": "C",
+    "description": "Minimalist RP2350 magnetic sensor scroll wheel toy project"
+  },
+  {
+    "repo": "lbq110/weread-exporter",
+    "branch": "main",
+    "language": "Python",
+    "description": "微信读书全本导出工具 — Playwright + Canvas Hook 提取完整书籍内容为 Markdown"
+  },
+  {
+    "repo": "juliangarnier/anime",
+    "branch": "master",
+    "language": "JavaScript",
+    "description": "JavaScript animation engine"
+  },
+  {
+    "repo": "fimbox/html-in-canvas",
     "branch": "main",
     "language": "JavaScript",
-    "description": "✨ A Markdown Editor"
+    "description": "HTML in Canvas — arrival.space"
+  },
+  {
+    "repo": "jesselau76/cigen",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "Interactive root/affix vocabulary memory web app"
+  },
+  {
+    "repo": "uton88/dan-binary-releases",
+    "branch": "main",
+    "language": "Shell",
+    "description": "Public binary-only releases and install scripts for dan"
+  },
+  {
+    "repo": "KXJ-WQL/PortalWebsiteSystem",
+    "branch": "master",
+    "language": "Java",
+    "description": "☃企业门户系统，基于Springboot和Thymeleaf🎪，使用layui前后端分离"
   }
 ]
