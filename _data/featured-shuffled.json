@@ -1,146 +1,146 @@
 [
   {
-    "repo": "terry4369mika0464/CCLean-Latest-2026",
-    "branch": "main",
-    "language": "C#",
-    "description": "A professional-grade system optimization and maintenance toolkit designed for automated workspace cleanup and performance orchestration."
+    "repo": "videolan/vlc",
+    "branch": "master",
+    "language": "C",
+    "description": "VLC media player - All pull requests are ignored, please use MRs on https://code.videolan.org/videolan/vlc"
   },
   {
-    "repo": "op7418/Youtube-clipper-skill",
+    "repo": "facebook/docusaurus",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Easy to maintain open source documentation websites."
+  },
+  {
+    "repo": "RD1707/Umbrella-HWID",
+    "branch": "main",
+    "language": "C++",
+    "description": "Umbrella Spoofer download HWID cleaner  BattlEye EAC permanent temporary registry disk serial MAC address monitor ID Vanguard hardware changer ban protect system utility software."
+  },
+  {
+    "repo": "canivibecodeit/canivibecodeit",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "Find out which subscriptions are one prompt away from free. caniuse.com, but for replacing SaaS with one AI prompt."
+  },
+  {
+    "repo": "MuhammadHanzalaIqbal/Hades-II-Trainer-Ultra",
     "branch": "main",
     "language": "Python",
+    "description": "Hades II Trainer 2026 – the most powerful cheat collection. Get unlimited everything, one-hit kills, no cooldowns and more."
+  },
+  {
+    "repo": "millennium-steam/Millennium-Steam",
+    "branch": "main",
+    "language": "C#",
+    "description": "steam millennium steambrew steam skins client modification open source github repository download link custom themes plugins framework css injection javascript patcher user interface customization user experience windows 11 windows 10 linux steam deck setup configuration guide installation tutorial troubleshooting desktop utility gaming"
+  },
+  {
+    "repo": "olemeyer/rocketplaneIO",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Self-hosted AI SRE for Kubernetes — zero-instrumentation eBPF observability plus a copilot that fixes issues through guardrailed, self-verifying actions. BYO-LLM, air-gapped capable."
+  },
+  {
+    "repo": "win4r/codebase-memory-mcp-pro",
+    "branch": "main",
+    "language": "C",
+    "description": "Community fork of DeusData/codebase-memory-mcp (MIT) — incremental-reindex CALLS-edge fix + 9 integrated upstream PRs. Pure-C code knowledge-graph MCP server."
+  },
+  {
+    "repo": "CoscoAI/luxy-aisre",
+    "branch": "main",
+    "language": "Python",
+    "description": "AISRE for Cosco"
+  },
+  {
+    "repo": "pixelgridhub-coder/Gothic-Remake-Lockpick-Solver",
+    "branch": "main",
+    "language": "C#",
+    "description": "Gothic Remake Lockpick Solver chest gate puzzle combination sequence pin plate slider helper assistant unreal pc steam alkimia thq colony break logic calculator ue5 turn door pattern"
+  },
+  {
+    "repo": "fortis001/Star_Wars_Jedi__Survivor_Unlimited_Force",
+    "branch": "main",
+    "language": "Python",
+    "description": "Unlimited Force, health, and skill points for Jedi: Survivor. God mode, infinite lightsaber combos, and all abilities."
+  },
+  {
+    "repo": "ItsUnknown555/Dandy_s_World_-_Auto-Survive___ESP",
+    "branch": "main",
+    "language": "Python",
+    "description": "Auto-survive and ESP for Dandy's World, the horror survival game. See all monsters through walls, auto-heal, and survive every floor."
+  },
+  {
+    "repo": "triangkas/DBD-AutoGrind-Trainer-2026-Plus",
+    "branch": "main",
+    "language": "Python",
+    "description": "Ultimate Dead by Daylight auto-grind trainer Plus edition with Bloodpoint bot, ESP wallhack, aimbot, and full perk/skin unlocker. Dominate the Fog with our 2026 undetected external tool."
+  },
+  {
+    "repo": "bkingfilm/lapian-notes",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "拉片笔记:把电影变成 AI 辅助的拉片笔记 - 本地抽帧/剧情泳道时间轴/结构树/情绪曲线/段落深拆"
+  },
+  {
+    "repo": "x4gKing/PasarGuard-Node",
+    "branch": "main",
+    "language": "Dockerfile",
     "description": ""
   },
   {
-    "repo": "russelleNVy/three-man-team",
-    "branch": "main",
-    "language": "Shell",
-    "description": "A structured 3-agent AI dev team — Architect, Builder, Reviewer. Built from production use. Token-optimized. Works with Claude Code, VS Code, Cursor, and any AI that supports context files."
-  },
-  {
-    "repo": "cloudwego/hertz",
-    "branch": "main",
-    "language": "Go",
-    "description": "Go HTTP framework with high-performance and strong-extensibility for building micro-services."
-  },
-  {
-    "repo": "tokio-rs/tokio",
-    "branch": "master",
-    "language": "Rust",
-    "description": "A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ..."
-  },
-  {
-    "repo": "d3/d3",
-    "branch": "main",
-    "language": "Shell",
-    "description": "Bring data to life with SVG, Canvas and HTML. :bar_chart::chart_with_upwards_trend::tada:"
-  },
-  {
-    "repo": "nestjs/nest",
-    "branch": "master",
-    "language": "TypeScript",
-    "description": "A progressive Node.js framework for building efficient, scalable, and enterprise-grade server-side applications with TypeScript/JavaScript 🚀"
-  },
-  {
-    "repo": "python-pillow/Pillow",
+    "repo": "OpenEnvision/WorldFoundry",
     "branch": "main",
     "language": "Python",
-    "description": "Python Imaging Library (Fork)"
+    "description": "Official Repo of WorldFoundry"
   },
   {
-    "repo": "open-policy-agent/gatekeeper",
-    "branch": "master",
-    "language": "Go",
-    "description": "🐊 Policy Controller for Kubernetes"
-  },
-  {
-    "repo": "llvm/llvm-project",
-    "branch": "main",
-    "language": "LLVM",
-    "description": "The LLVM Project is a collection of modular and reusable compiler and toolchain technologies."
-  },
-  {
-    "repo": "django/django",
+    "repo": "WeZZard/jlens-qwen36",
     "branch": "main",
     "language": "Python",
-    "description": "The Web framework for perfectionists with deadlines."
+    "description": "J-space / Jacobian-lens visualizer for Qwen3.6-27B (4-bit) on Apple Silicon, ported to Apple MLX"
   },
   {
-    "repo": "phpmyadmin/phpmyadmin",
-    "branch": "master",
-    "language": "PHP",
-    "description": "A web interface for MySQL and MariaDB"
-  },
-  {
-    "repo": "microsoft/vscode",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Visual Studio Code"
-  },
-  {
-    "repo": "yarnpkg/yarn",
-    "branch": "master",
-    "language": "JavaScript",
-    "description": "The 1.x line is frozen - features and bugfixes now happen on https://github.com/yarnpkg/berry"
-  },
-  {
-    "repo": "angular/angular",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Deliver web apps with confidence 🚀"
-  },
-  {
-    "repo": "rq/rq",
-    "branch": "master",
-    "language": "Python",
-    "description": "Simple job queues for Python"
-  },
-  {
-    "repo": "hashicorp/vault",
-    "branch": "main",
-    "language": "Go",
-    "description": "A tool for secrets management, encryption as a service, and privileged access management"
-  },
-  {
-    "repo": "hashicorp/vagrant",
-    "branch": "main",
-    "language": "Ruby",
-    "description": "Vagrant is a tool for building and distributing development environments."
-  },
-  {
-    "repo": "typeorm/typeorm",
-    "branch": "master",
-    "language": "TypeScript",
-    "description": "ORM for TypeScript and JavaScript. Supports MySQL, PostgreSQL, MariaDB, SQLite, MS SQL Server, Oracle, SAP Hana, WebSQL databases. Works in NodeJS, Browser, Ionic, Cordova and Electron platforms."
-  },
-  {
-    "repo": "khoj-ai/khoj",
+    "repo": "vinhhien112/Three.js-Object-Sculptor-Codex-Plugin",
     "branch": "main",
     "language": "Python",
-    "description": "Your AI second brain. Self-hostable. Get answers from the web or your docs. Build custom agents, schedule automations, do deep research. Turn any online or local LLM into your personal, autonomous AI (gpt, claude, gemini, llama, qwen, mistral). Get started - free."
+    "description": "Codex plugin that turns attached object images into code-only, animation-ready procedural Three.js models."
   },
   {
-    "repo": "apache/pulsar",
+    "repo": "ninjahawk/Subtext",
+    "branch": "main",
+    "language": "HTML",
+    "description": "To know what models don't say out loud."
+  },
+  {
+    "repo": "AdilMir1433/DBD-AutoGrind-Trainer-2026-Extreme",
+    "branch": "main",
+    "language": "Python",
+    "description": "Ultimate Dead by Daylight auto-grind trainer Extreme edition with Bloodpoint bot, ESP wallhack, aimbot, and full perk/skin unlocker. Dominate the Fog with our 2026 undetected external tool."
+  },
+  {
+    "repo": "frecodecasti/polymarket-weather-trading-bot",
     "branch": "master",
-    "language": "Java",
-    "description": "Apache Pulsar - distributed pub-sub messaging system"
+    "language": "TypeScript",
+    "description": "Polymarket weather trading bot | Polymarket weather trading bot | Polymarket weather trading bot | Polymarket weather trading bot | Polymarket weather trading bot | Polymarket weather trading bot | Polymarket weather trading bot | Polymarket weather trading bot | Polymarket weather trading bot"
   },
   {
-    "repo": "prometheus/prometheus",
+    "repo": "William-Lu-stack/Flawless",
     "branch": "main",
-    "language": "Go",
-    "description": "The Prometheus monitoring system and time series database."
+    "language": "Python",
+    "description": "AI SRE AgenticOps for Kubernetes and cloud infrastructure."
   },
   {
-    "repo": "spring-cloud/spring-cloud-kubernetes",
+    "repo": "solidjs/solid",
     "branch": "main",
-    "language": "Java",
-    "description": "Kubernetes integration with Spring Cloud Discovery Client, Configuration, etc..."
+    "language": "TypeScript",
+    "description": "A declarative, efficient, and flexible JavaScript library for building user interfaces."
   },
   {
-    "repo": "elastic/logstash",
+    "repo": "Xingyu-Zheng/MrFlow",
     "branch": "main",
-    "language": "Java",
-    "description": "Logstash - transport and process your logs, events, or other data"
+    "language": "Python",
+    "description": "Multi-Resolution Flow Matching: Training-Free Diffusion Acceleration via Staged Sampling"
   }
 ]
