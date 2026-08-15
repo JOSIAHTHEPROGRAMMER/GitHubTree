@@ -1,146 +1,146 @@
 [
   {
-    "repo": "OpenBMB/PilotDeck",
+    "repo": "garrytan/gstack",
     "branch": "main",
     "language": "TypeScript",
-    "description": "Task-oriented AI Agent productivity platform"
+    "description": "Use Garry Tan's exact Claude Code setup: 6 opinionated tools that serve as CEO, Eng Manager, Release Manager and QA Engineer"
   },
   {
-    "repo": "javaevolved/javaevolved.github.io",
-    "branch": "main",
-    "language": "HTML",
-    "description": "Java Evolved. Your Code Can Evolve Too!"
-  },
-  {
-    "repo": "huggingface/accelerate",
-    "branch": "main",
-    "language": "Python",
-    "description": "🚀 A simple way to launch, train, and use PyTorch models on almost any device and distributed configuration, automatic mixed precision (including fp8), and easy-to-configure FSDP and DeepSpeed support"
-  },
-  {
-    "repo": "junit-team/junit5",
-    "branch": "main",
-    "language": "Java",
-    "description": "✅ The programmer-friendly testing framework for Java and the JVM"
-  },
-  {
-    "repo": "pallets/jinja",
-    "branch": "main",
-    "language": "Python",
-    "description": "A very fast and expressive template engine."
-  },
-  {
-    "repo": "ipfs/kubo",
+    "repo": "juliangarnier/anime",
     "branch": "master",
+    "language": "JavaScript",
+    "description": "JavaScript animation engine"
+  },
+  {
+    "repo": "ibelick/mesurer",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": ""
+  },
+  {
+    "repo": "reakjra/omikuji",
+    "branch": "master",
+    "language": "Rust",
+    "description": "Qt/QML based game launcher for Linux"
+  },
+  {
+    "repo": "typeorm/typeorm",
+    "branch": "master",
+    "language": "TypeScript",
+    "description": "ORM for TypeScript and JavaScript. Supports MySQL, PostgreSQL, MariaDB, SQLite, MS SQL Server, Oracle, SAP Hana, WebSQL databases. Works in NodeJS, Browser, Ionic, Cordova and Electron platforms."
+  },
+  {
+    "repo": "bufbuild/buf",
+    "branch": "main",
     "language": "Go",
-    "description": "An IPFS implementation in Go"
+    "description": "The best way of working with Protocol Buffers."
   },
   {
-    "repo": "formik/formik",
+    "repo": "v1ewp0rt/BAREBLOOD",
     "branch": "main",
-    "language": "TypeScript",
-    "description": "Build forms in React, without the tears 😭"
+    "language": "QML",
+    "description": "Gothic maximalist linux theme for KDE plasma 6.5"
   },
   {
-    "repo": "Stability-AI/stablediffusion",
-    "branch": "main",
-    "language": "Other",
-    "description": "High-Resolution Image Synthesis with Latent Diffusion Models."
-  },
-  {
-    "repo": "neovim/neovim",
-    "branch": "master",
-    "language": "Vim Script",
-    "description": "Vim-fork focused on extensibility and usability"
-  },
-  {
-    "repo": "rails/rails",
-    "branch": "main",
-    "language": "Ruby",
-    "description": "Ruby on Rails"
-  },
-  {
-    "repo": "nuxt/nuxt",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "The Full-Stack Vue Framework."
-  },
-  {
-    "repo": "facebookresearch/detectron2",
-    "branch": "main",
-    "language": "Python",
-    "description": "Detectron2 is a platform for object detection, segmentation and other visual recognition tasks."
-  },
-  {
-    "repo": "microsoft/autogen",
-    "branch": "main",
-    "language": "Python",
-    "description": "A programming framework for agentic AI"
-  },
-  {
-    "repo": "keras-team/keras-nlp",
-    "branch": "master",
-    "language": "Python",
-    "description": "Pretrained model hub for Keras 3."
-  },
-  {
-    "repo": "facebookresearch/segment-anything",
-    "branch": "main",
-    "language": "Jupyter Notebook",
-    "description": "The repository provides code for running inference with the SegmentAnything Model (SAM), links for downloading the trained model checkpoints, and example notebooks that show how to use the model."
-  },
-  {
-    "repo": "square/retrofit",
-    "branch": "master",
-    "language": "HTML",
-    "description": "A type-safe HTTP client for Android and the JVM"
-  },
-  {
-    "repo": "marshmallow-code/marshmallow",
-    "branch": "dev",
-    "language": "Python",
-    "description": "A lightweight library for converting complex objects to and from simple Python datatypes."
-  },
-  {
-    "repo": "google/guava",
-    "branch": "master",
-    "language": "Java",
-    "description": "Google core libraries for Java"
-  },
-  {
-    "repo": "caddyserver/caddy",
-    "branch": "master",
-    "language": "Go",
-    "description": "Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS"
-  },
-  {
-    "repo": "polkadot-js/apps",
-    "branch": "master",
-    "language": "TypeScript",
-    "description": "Basic Polkadot/Substrate UI for interacting with a Polkadot and Substrate node. This is the main user-facing application, allowing access to all features available on Substrate chains."
-  },
-  {
-    "repo": "emotion-js/emotion",
+    "repo": "gluon-framework/gluon",
     "branch": "main",
     "language": "JavaScript",
-    "description": "👩‍🎤 CSS-in-JS library designed for high performance style composition"
+    "description": "A new framework for creating desktop apps from websites, using system installed browsers and NodeJS"
   },
   {
-    "repo": "ray-project/ray",
+    "repo": "istio/istio.io",
     "branch": "master",
-    "language": "Python",
-    "description": "Ray is an AI compute engine. Ray consists of a core distributed runtime and a set of AI Libraries for accelerating ML workloads."
+    "language": "HTML",
+    "description": "Source for the istio.io site"
   },
   {
-    "repo": "mlflow/mlflow",
+    "repo": "chenhg5/cc-connect",
+    "branch": "main",
+    "language": "Go",
+    "description": "Bridge local AI coding agents (Claude Code, Cursor, Gemini CLI, Codex) to messaging platforms (Feishu/Lark, DingTalk, Slack, Telegram, Discord, LINE, WeChat Work). Chat with your AI dev assistant from anywhere — no public IP required for most platforms."
+  },
+  {
+    "repo": "linkedin/school-of-sre",
+    "branch": "main",
+    "language": "HTML",
+    "description": "At LinkedIn, we are using this curriculum for onboarding our entry-level talents into the SRE role."
+  },
+  {
+    "repo": "1jehuang/mermaid-rs-renderer",
     "branch": "master",
-    "language": "Python",
-    "description": "The open source developer platform to build AI agents and models with confidence. Enhance your AI applications with end-to-end tracking, observability, and evaluations, all in one integrated platform."
+    "language": "Rust",
+    "description": "A fast native Rust Mermaid diagram renderer. No browser required. 500-1000x faster than mermaid-cli."
   },
   {
-    "repo": "restic/restic",
+    "repo": "facebookresearch/xformers",
+    "branch": "main",
+    "language": "Python",
+    "description": "Hackable and optimized Transformers building blocks, supporting a composable construction."
+  },
+  {
+    "repo": "termux/termux-packages",
+    "branch": "master",
+    "language": "Shell",
+    "description": "A package build system for Termux."
+  },
+  {
+    "repo": "apple/python-apple-fm-sdk",
+    "branch": "main",
+    "language": "Python",
+    "description": "Python bindings for access to the on-device model at the core of Apple Intelligence through the Foundation Models framework"
+  },
+  {
+    "repo": "dayflow-js/BlossomColorPicker",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "A beautiful, blooming color picker component build by Tailwind for Web.     🌟 If you like it, give it a star :)"
+  },
+  {
+    "repo": "owengretzinger/constellagent",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Desktop app for running multiple AI agents in parallel. Each agent gets its own terminal, editor, and git worktree, all in one window."
+  },
+  {
+    "repo": "openobserve/openobserve",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Modern observability platform: 10x easier, 140x lower storage cost, petabyte scale. Open-source alternative to Elasticsearch/Splunk/Datadog for logs, metrics, traces, RUM, and more."
+  },
+  {
+    "repo": "Quorinex/Kiro-Go",
+    "branch": "main",
+    "language": "Go",
+    "description": "🚀 Convert Kiro accounts into OpenAI/Anthropic APIs. Features multi-account pooling, streaming, auto token refresh, and a web admin panel."
+  },
+  {
+    "repo": "minio/minio",
     "branch": "master",
     "language": "Go",
-    "description": "Fast, secure, efficient backup program"
+    "description": "MinIO is a high-performance, S3 compatible object store, open sourced under GNU AGPLv3 license."
+  },
+  {
+    "repo": "HKUDS/nanobot",
+    "branch": "main",
+    "language": "Python",
+    "description": "🐈 nanobot: The Ultra-Lightweight Clawdbot"
+  },
+  {
+    "repo": "sharbelxyz/x-bookmarks",
+    "branch": "main",
+    "language": "Python",
+    "description": "OpenClaw skill: turn your X bookmarks into agent actions. Stop hoarding. Start applying."
+  },
+  {
+    "repo": "dazzyddos/lsawhisper-bof",
+    "branch": "main",
+    "language": "C",
+    "description": "A Beacon Object File (BOF) that talks directly to Windows authentication packages through the LSA untrusted/trusted client interface, without touching LSASS process memory."
+  },
+  {
+    "repo": "TeamStuQ/skill-map",
+    "branch": "master",
+    "language": "HTML",
+    "description": "程序员技能图谱"
   }
 ]
