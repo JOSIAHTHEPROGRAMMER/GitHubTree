@@ -1,27 +1,111 @@
 [
   {
-    "repo": "garrytan/gstack",
+    "repo": "terry4369mika0464/CCLean-Latest-2026",
     "branch": "main",
-    "language": "TypeScript",
-    "description": "Use Garry Tan's exact Claude Code setup: 6 opinionated tools that serve as CEO, Eng Manager, Release Manager and QA Engineer"
+    "language": "C#",
+    "description": "A professional-grade system optimization and maintenance toolkit designed for automated workspace cleanup and performance orchestration."
   },
   {
-    "repo": "juliangarnier/anime",
-    "branch": "master",
-    "language": "JavaScript",
-    "description": "JavaScript animation engine"
-  },
-  {
-    "repo": "ibelick/mesurer",
+    "repo": "op7418/Youtube-clipper-skill",
     "branch": "main",
-    "language": "TypeScript",
+    "language": "Python",
     "description": ""
   },
   {
-    "repo": "reakjra/omikuji",
+    "repo": "russelleNVy/three-man-team",
+    "branch": "main",
+    "language": "Shell",
+    "description": "A structured 3-agent AI dev team — Architect, Builder, Reviewer. Built from production use. Token-optimized. Works with Claude Code, VS Code, Cursor, and any AI that supports context files."
+  },
+  {
+    "repo": "cloudwego/hertz",
+    "branch": "main",
+    "language": "Go",
+    "description": "Go HTTP framework with high-performance and strong-extensibility for building micro-services."
+  },
+  {
+    "repo": "tokio-rs/tokio",
     "branch": "master",
     "language": "Rust",
-    "description": "Qt/QML based game launcher for Linux"
+    "description": "A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ..."
+  },
+  {
+    "repo": "d3/d3",
+    "branch": "main",
+    "language": "Shell",
+    "description": "Bring data to life with SVG, Canvas and HTML. :bar_chart::chart_with_upwards_trend::tada:"
+  },
+  {
+    "repo": "nestjs/nest",
+    "branch": "master",
+    "language": "TypeScript",
+    "description": "A progressive Node.js framework for building efficient, scalable, and enterprise-grade server-side applications with TypeScript/JavaScript 🚀"
+  },
+  {
+    "repo": "python-pillow/Pillow",
+    "branch": "main",
+    "language": "Python",
+    "description": "Python Imaging Library (Fork)"
+  },
+  {
+    "repo": "open-policy-agent/gatekeeper",
+    "branch": "master",
+    "language": "Go",
+    "description": "🐊 Policy Controller for Kubernetes"
+  },
+  {
+    "repo": "llvm/llvm-project",
+    "branch": "main",
+    "language": "LLVM",
+    "description": "The LLVM Project is a collection of modular and reusable compiler and toolchain technologies."
+  },
+  {
+    "repo": "django/django",
+    "branch": "main",
+    "language": "Python",
+    "description": "The Web framework for perfectionists with deadlines."
+  },
+  {
+    "repo": "phpmyadmin/phpmyadmin",
+    "branch": "master",
+    "language": "PHP",
+    "description": "A web interface for MySQL and MariaDB"
+  },
+  {
+    "repo": "microsoft/vscode",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Visual Studio Code"
+  },
+  {
+    "repo": "yarnpkg/yarn",
+    "branch": "master",
+    "language": "JavaScript",
+    "description": "The 1.x line is frozen - features and bugfixes now happen on https://github.com/yarnpkg/berry"
+  },
+  {
+    "repo": "angular/angular",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Deliver web apps with confidence 🚀"
+  },
+  {
+    "repo": "rq/rq",
+    "branch": "master",
+    "language": "Python",
+    "description": "Simple job queues for Python"
+  },
+  {
+    "repo": "hashicorp/vault",
+    "branch": "main",
+    "language": "Go",
+    "description": "A tool for secrets management, encryption as a service, and privileged access management"
+  },
+  {
+    "repo": "hashicorp/vagrant",
+    "branch": "main",
+    "language": "Ruby",
+    "description": "Vagrant is a tool for building and distributing development environments."
   },
   {
     "repo": "typeorm/typeorm",
@@ -30,117 +114,33 @@
     "description": "ORM for TypeScript and JavaScript. Supports MySQL, PostgreSQL, MariaDB, SQLite, MS SQL Server, Oracle, SAP Hana, WebSQL databases. Works in NodeJS, Browser, Ionic, Cordova and Electron platforms."
   },
   {
-    "repo": "bufbuild/buf",
-    "branch": "main",
-    "language": "Go",
-    "description": "The best way of working with Protocol Buffers."
-  },
-  {
-    "repo": "v1ewp0rt/BAREBLOOD",
-    "branch": "main",
-    "language": "QML",
-    "description": "Gothic maximalist linux theme for KDE plasma 6.5"
-  },
-  {
-    "repo": "gluon-framework/gluon",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "A new framework for creating desktop apps from websites, using system installed browsers and NodeJS"
-  },
-  {
-    "repo": "istio/istio.io",
-    "branch": "master",
-    "language": "HTML",
-    "description": "Source for the istio.io site"
-  },
-  {
-    "repo": "chenhg5/cc-connect",
-    "branch": "main",
-    "language": "Go",
-    "description": "Bridge local AI coding agents (Claude Code, Cursor, Gemini CLI, Codex) to messaging platforms (Feishu/Lark, DingTalk, Slack, Telegram, Discord, LINE, WeChat Work). Chat with your AI dev assistant from anywhere — no public IP required for most platforms."
-  },
-  {
-    "repo": "linkedin/school-of-sre",
-    "branch": "main",
-    "language": "HTML",
-    "description": "At LinkedIn, we are using this curriculum for onboarding our entry-level talents into the SRE role."
-  },
-  {
-    "repo": "1jehuang/mermaid-rs-renderer",
-    "branch": "master",
-    "language": "Rust",
-    "description": "A fast native Rust Mermaid diagram renderer. No browser required. 500-1000x faster than mermaid-cli."
-  },
-  {
-    "repo": "facebookresearch/xformers",
+    "repo": "khoj-ai/khoj",
     "branch": "main",
     "language": "Python",
-    "description": "Hackable and optimized Transformers building blocks, supporting a composable construction."
+    "description": "Your AI second brain. Self-hostable. Get answers from the web or your docs. Build custom agents, schedule automations, do deep research. Turn any online or local LLM into your personal, autonomous AI (gpt, claude, gemini, llama, qwen, mistral). Get started - free."
   },
   {
-    "repo": "termux/termux-packages",
+    "repo": "apache/pulsar",
     "branch": "master",
-    "language": "Shell",
-    "description": "A package build system for Termux."
+    "language": "Java",
+    "description": "Apache Pulsar - distributed pub-sub messaging system"
   },
   {
-    "repo": "apple/python-apple-fm-sdk",
-    "branch": "main",
-    "language": "Python",
-    "description": "Python bindings for access to the on-device model at the core of Apple Intelligence through the Foundation Models framework"
-  },
-  {
-    "repo": "dayflow-js/BlossomColorPicker",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "A beautiful, blooming color picker component build by Tailwind for Web.     🌟 If you like it, give it a star :)"
-  },
-  {
-    "repo": "owengretzinger/constellagent",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Desktop app for running multiple AI agents in parallel. Each agent gets its own terminal, editor, and git worktree, all in one window."
-  },
-  {
-    "repo": "openobserve/openobserve",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Modern observability platform: 10x easier, 140x lower storage cost, petabyte scale. Open-source alternative to Elasticsearch/Splunk/Datadog for logs, metrics, traces, RUM, and more."
-  },
-  {
-    "repo": "Quorinex/Kiro-Go",
+    "repo": "prometheus/prometheus",
     "branch": "main",
     "language": "Go",
-    "description": "🚀 Convert Kiro accounts into OpenAI/Anthropic APIs. Features multi-account pooling, streaming, auto token refresh, and a web admin panel."
+    "description": "The Prometheus monitoring system and time series database."
   },
   {
-    "repo": "minio/minio",
-    "branch": "master",
-    "language": "Go",
-    "description": "MinIO is a high-performance, S3 compatible object store, open sourced under GNU AGPLv3 license."
-  },
-  {
-    "repo": "HKUDS/nanobot",
+    "repo": "spring-cloud/spring-cloud-kubernetes",
     "branch": "main",
-    "language": "Python",
-    "description": "🐈 nanobot: The Ultra-Lightweight Clawdbot"
+    "language": "Java",
+    "description": "Kubernetes integration with Spring Cloud Discovery Client, Configuration, etc..."
   },
   {
-    "repo": "sharbelxyz/x-bookmarks",
+    "repo": "elastic/logstash",
     "branch": "main",
-    "language": "Python",
-    "description": "OpenClaw skill: turn your X bookmarks into agent actions. Stop hoarding. Start applying."
-  },
-  {
-    "repo": "dazzyddos/lsawhisper-bof",
-    "branch": "main",
-    "language": "C",
-    "description": "A Beacon Object File (BOF) that talks directly to Windows authentication packages through the LSA untrusted/trusted client interface, without touching LSASS process memory."
-  },
-  {
-    "repo": "TeamStuQ/skill-map",
-    "branch": "master",
-    "language": "HTML",
-    "description": "程序员技能图谱"
+    "language": "Java",
+    "description": "Logstash - transport and process your logs, events, or other data"
   }
 ]

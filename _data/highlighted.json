@@ -1,8 +1,8 @@
 {
-  "repo": "huiliyi37/dsh-tianshu-tui",
+  "repo": "steven-kid/deepseek-harness-desktop",
   "branch": "main",
-  "language": "TypeScript",
-  "description": "dsh-tianshu-tui — DeepSeek Harness terminal UI +harness workflow。是官方 DeepSeek Harness 上的交互式终端 UI 插件。渲染核心从本仓库自研的harness agent  Tianshu-Tui 演进而来，在官方的基础上增加了TDD、证据门、视觉图像模块等工作流。",
-  "stars": 135,
-  "forks": 5
+  "language": "JavaScript",
+  "description": "Minimal desktop wrapper for DeepSeek Harness 极简 Deespeek Harness 桌面端，跨平台，免配置，开箱即用",
+  "stars": 126,
+  "forks": 8
 }
