@@ -1,146 +1,146 @@
 [
   {
-    "repo": "videolan/vlc",
-    "branch": "master",
-    "language": "C",
-    "description": "VLC media player - All pull requests are ignored, please use MRs on https://code.videolan.org/videolan/vlc"
-  },
-  {
-    "repo": "facebook/docusaurus",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Easy to maintain open source documentation websites."
-  },
-  {
-    "repo": "RD1707/Umbrella-HWID",
-    "branch": "main",
-    "language": "C++",
-    "description": "Umbrella Spoofer download HWID cleaner  BattlEye EAC permanent temporary registry disk serial MAC address monitor ID Vanguard hardware changer ban protect system utility software."
-  },
-  {
-    "repo": "canivibecodeit/canivibecodeit",
+    "repo": "khalildh/garment-notation",
     "branch": "main",
     "language": "JavaScript",
-    "description": "Find out which subscriptions are one prompt away from free. caniuse.com, but for replacing SaaS with one AI prompt."
-  },
-  {
-    "repo": "MuhammadHanzalaIqbal/Hades-II-Trainer-Ultra",
-    "branch": "main",
-    "language": "Python",
-    "description": "Hades II Trainer 2026 – the most powerful cheat collection. Get unlimited everything, one-hit kills, no cooldowns and more."
-  },
-  {
-    "repo": "millennium-steam/Millennium-Steam",
-    "branch": "main",
-    "language": "C#",
-    "description": "steam millennium steambrew steam skins client modification open source github repository download link custom themes plugins framework css injection javascript patcher user interface customization user experience windows 11 windows 10 linux steam deck setup configuration guide installation tutorial troubleshooting desktop utility gaming"
-  },
-  {
-    "repo": "olemeyer/rocketplaneIO",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Self-hosted AI SRE for Kubernetes — zero-instrumentation eBPF observability plus a copilot that fixes issues through guardrailed, self-verifying actions. BYO-LLM, air-gapped capable."
-  },
-  {
-    "repo": "win4r/codebase-memory-mcp-pro",
-    "branch": "main",
-    "language": "C",
-    "description": "Community fork of DeusData/codebase-memory-mcp (MIT) — incremental-reindex CALLS-edge fix + 9 integrated upstream PRs. Pure-C code knowledge-graph MCP server."
-  },
-  {
-    "repo": "CoscoAI/luxy-aisre",
-    "branch": "main",
-    "language": "Python",
-    "description": "AISRE for Cosco"
-  },
-  {
-    "repo": "pixelgridhub-coder/Gothic-Remake-Lockpick-Solver",
-    "branch": "main",
-    "language": "C#",
-    "description": "Gothic Remake Lockpick Solver chest gate puzzle combination sequence pin plate slider helper assistant unreal pc steam alkimia thq colony break logic calculator ue5 turn door pattern"
-  },
-  {
-    "repo": "fortis001/Star_Wars_Jedi__Survivor_Unlimited_Force",
-    "branch": "main",
-    "language": "Python",
-    "description": "Unlimited Force, health, and skill points for Jedi: Survivor. God mode, infinite lightsaber combos, and all abilities."
-  },
-  {
-    "repo": "ItsUnknown555/Dandy_s_World_-_Auto-Survive___ESP",
-    "branch": "main",
-    "language": "Python",
-    "description": "Auto-survive and ESP for Dandy's World, the horror survival game. See all monsters through walls, auto-heal, and survive every floor."
-  },
-  {
-    "repo": "triangkas/DBD-AutoGrind-Trainer-2026-Plus",
-    "branch": "main",
-    "language": "Python",
-    "description": "Ultimate Dead by Daylight auto-grind trainer Plus edition with Bloodpoint bot, ESP wallhack, aimbot, and full perk/skin unlocker. Dominate the Fog with our 2026 undetected external tool."
-  },
-  {
-    "repo": "bkingfilm/lapian-notes",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "拉片笔记:把电影变成 AI 辅助的拉片笔记 - 本地抽帧/剧情泳道时间轴/结构树/情绪曲线/段落深拆"
-  },
-  {
-    "repo": "x4gKing/PasarGuard-Node",
-    "branch": "main",
-    "language": "Dockerfile",
     "description": ""
   },
   {
-    "repo": "OpenEnvision/WorldFoundry",
+    "repo": "mockito/mockito",
     "branch": "main",
-    "language": "Python",
-    "description": "Official Repo of WorldFoundry"
+    "language": "Java",
+    "description": "Most popular Mocking framework for unit tests written in Java"
   },
   {
-    "repo": "WeZZard/jlens-qwen36",
+    "repo": "composer/composer",
     "branch": "main",
-    "language": "Python",
-    "description": "J-space / Jacobian-lens visualizer for Qwen3.6-27B (4-bit) on Apple Silicon, ported to Apple MLX"
+    "language": "PHP",
+    "description": "Dependency Manager for PHP"
   },
   {
-    "repo": "vinhhien112/Three.js-Object-Sculptor-Codex-Plugin",
-    "branch": "main",
-    "language": "Python",
-    "description": "Codex plugin that turns attached object images into code-only, animation-ready procedural Three.js models."
-  },
-  {
-    "repo": "ninjahawk/Subtext",
-    "branch": "main",
-    "language": "HTML",
-    "description": "To know what models don't say out loud."
-  },
-  {
-    "repo": "AdilMir1433/DBD-AutoGrind-Trainer-2026-Extreme",
-    "branch": "main",
-    "language": "Python",
-    "description": "Ultimate Dead by Daylight auto-grind trainer Extreme edition with Bloodpoint bot, ESP wallhack, aimbot, and full perk/skin unlocker. Dominate the Fog with our 2026 undetected external tool."
-  },
-  {
-    "repo": "frecodecasti/polymarket-weather-trading-bot",
+    "repo": "ComPDFKit/compdf-generation",
     "branch": "master",
-    "language": "TypeScript",
-    "description": "Polymarket weather trading bot | Polymarket weather trading bot | Polymarket weather trading bot | Polymarket weather trading bot | Polymarket weather trading bot | Polymarket weather trading bot | Polymarket weather trading bot | Polymarket weather trading bot | Polymarket weather trading bot"
+    "language": "Vue",
+    "description": "Generate PDFs effortlessly with the open-source ComPDF Generation SDK. Design HTML-based templates to produce business-critical documents, such as contracts, invoices, reports, and certificates with ease."
   },
   {
-    "repo": "William-Lu-stack/Flawless",
+    "repo": "techjarves/Uncensored-Local-AI-Multiplatform",
+    "branch": "main",
+    "language": "Dart",
+    "description": "A cross-platform Flutter app that runs uncensored, 100% offline open-source AI models (GGUF) directly on your Android, iOS, or PC. No cloud, no filters, total privacy."
+  },
+  {
+    "repo": "maria-rcks/miri",
+    "branch": "main",
+    "language": "Swift",
+    "description": "Niri-ish, keyboard-first window manager for macOS."
+  },
+  {
+    "repo": "Rhythmplocutter/printer-offline-fix",
+    "branch": "main",
+    "language": "PowerShell",
+    "description": "printer offline fix || printer offline || printer offline driver || printer offline fix windows"
+  },
+  {
+    "repo": "vmi-rs/ephemera",
+    "branch": "master",
+    "language": "Rust",
+    "description": "Multiplatform MEMORY.DMP analysis tool with a WinDbg flavor"
+  },
+  {
+    "repo": "haiddrrs/Steam-Tools",
+    "branch": "main",
+    "language": "C#",
+    "description": "Lua Steam Tools: SteamTools download free PC latest version, lua manifest generator github, steamtools safe to use account ban risk, BeyondDimension SteamTools source code, unlock free steam games dlc unlocker, watt toolkit alternative, steamtools exe local ticket bypass, lua tools manifest downloader, st-setup virus total malware scan, steamtools"
+  },
+  {
+    "repo": "pedrodg28/yuzu-emu",
+    "branch": "main",
+    "language": "C++",
+    "description": "Yuzu Emulator Switch Nintendo Pokemon Scarlet Violet, Mario Kart 8 Deluxe, firmware 18.1.0, prod.keys, shader stutter fix, FPS++ mod, save file importer, amiibo bin, motion control setup, local wireless LDN, multicore, handheld mode, docked mode, custom resolution, Joy-Con drift fix."
+  },
+  {
+    "repo": "leochlon/ntkmirror",
     "branch": "main",
     "language": "Python",
-    "description": "AI SRE AgenticOps for Kubernetes and cloud infrastructure."
+    "description": ""
   },
   {
-    "repo": "solidjs/solid",
+    "repo": "uktrash/LSFG-Desktop",
     "branch": "main",
-    "language": "TypeScript",
-    "description": "A declarative, efficient, and flexible JavaScript library for building user interfaces."
+    "language": "C#",
+    "description": "Lossless Scaling github steam reddit LSFG 3 frame generation  v3.22, uncap FPS low end PC, AMD FSR NIS scaling, cursor lag fix. Double FPS laptop guide, windowed to borderless fullscreen, ghosting artifact solution, capture API DXGI GDI, half refresh rate VSync. anime4k ,  version , latency reduction, lsfg"
   },
   {
-    "repo": "Xingyu-Zheng/MrFlow",
+    "repo": "edgenuitybot/exodusbot",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "Exodus | The # 1 Edgenuity Bot for Quizes, Tests, and Exams. Includes Auto Answers, Auto delays, built in AI Answers, Auto Submit, EdgeEX support and MORE! | About: Exodus is an online course tool designed for online middle and high school classes (K-8 curriculum). Join the Discord: https://discord.gg/exodusbot"
+  },
+  {
+    "repo": "Yaolinwang/AITD",
     "branch": "main",
     "language": "Python",
-    "description": "Multi-Resolution Flow Matching: Training-Free Diffusion Acceleration via Staged Sampling"
+    "description": "AI Trading Agent for Everyone"
+  },
+  {
+    "repo": "yzhao062/anywhere-agents",
+    "branch": "main",
+    "language": "Python",
+    "description": "One config to rule all your AI agents: portable (every project, every session), effective (curated writing, routing, skills), and safer (destructive-command guard)."
+  },
+  {
+    "repo": "domye/Solace",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Solace - 基于 Go + React + TypeScript + PostgreSQL 的全栈博客系统。支持 Markdown 编辑、相册管理、深色模式、SEO 优化、Docker 部署。采用整洁架构，适合个人博客、技术博客、开发者作品集。MIT 开源，生产就绪"
+  },
+  {
+    "repo": "levelsio/superlevels",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "A super Chrome extension I made that's safer than installing external malware/spyware-filled extensions that form a massive security risk, this one is open source and you can read and check the source code (with AI) before you install it, and customize it to your liking!"
+  },
+  {
+    "repo": "huey1in/WindsurfX",
+    "branch": "main",
+    "language": "Python",
+    "description": "Windsurf 协议注册机 | Windsurf (windsurf.com) 批量自动注册工具"
+  },
+  {
+    "repo": "l3gi0nXXXX/Metis-agent",
+    "branch": "main",
+    "language": "Cangjie",
+    "description": ""
+  },
+  {
+    "repo": "cosmicstack-labs/mercury-agent-skills",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "A curated registry of reusable Mercury Agent, Open Claw or Hermes Agent skills designed for real developer workflows, persistent memory, and token-efficient execution."
+  },
+  {
+    "repo": "apple/corecrypto",
+    "branch": "main",
+    "language": "C++",
+    "description": "Apple corecrypto"
+  },
+  {
+    "repo": "haaarshsingh/halftone-dots",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": ""
+  },
+  {
+    "repo": "willchen96/mike",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "OSS AI Legal Platform"
+  },
+  {
+    "repo": "noonghunna/club-3090",
+    "branch": "master",
+    "language": "Shell",
+    "description": "Community recipes for serving LLMs on RTX 3090. Multi-engine (vLLM, llama.cpp, SGLang) and model-agnostic. Currently shipping Qwen3.6-27B configs for 1× and 2× cards."
   }
 ]
