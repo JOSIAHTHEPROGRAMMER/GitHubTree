@@ -1,146 +1,146 @@
 [
   {
-    "repo": "opencoredev/domain-sdk",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Add, verify, monitor, and remove customer domains with one TypeScript API."
-  },
-  {
-    "repo": "fluent/fluent-bit",
-    "branch": "master",
-    "language": "C",
-    "description": "Fast and Lightweight Logs, Metrics and Traces processor for Linux, BSD, OSX and Windows"
-  },
-  {
-    "repo": "onesuper/tui-use",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "tui-use lets agents interact with programs that expect a human at the keyboard — REPLs, debuggers, TUI apps, and anything else bash can't reach."
-  },
-  {
-    "repo": "khoj-ai/khoj",
-    "branch": "main",
-    "language": "Python",
-    "description": "Your AI second brain. Self-hostable. Get answers from the web or your docs. Build custom agents, schedule automations, do deep research. Turn any online or local LLM into your personal, autonomous AI (gpt, claude, gemini, llama, qwen, mistral). Get started - free."
-  },
-  {
-    "repo": "openai/openai-python",
-    "branch": "main",
-    "language": "Python",
-    "description": "The official Python library for the OpenAI API"
-  },
-  {
-    "repo": "ygwyg/MAHORAGA",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "autonomous trading agent powered by social sentiment analysis and ai that learns, grows, and adapts"
-  },
-  {
-    "repo": "golang/tools",
-    "branch": "master",
-    "language": "Go",
-    "description": "[mirror] Go Tools"
-  },
-  {
-    "repo": "redux-saga/redux-saga",
-    "branch": "master",
+    "repo": "npm/cli",
+    "branch": "latest",
     "language": "JavaScript",
-    "description": "An alternative side effect model for Redux apps"
+    "description": "the package manager for JavaScript"
   },
   {
-    "repo": "hashicorp/terraform",
+    "repo": "dnakov/litter",
     "branch": "main",
-    "language": "Go",
-    "description": "Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned."
+    "language": "Swift",
+    "description": ""
   },
   {
-    "repo": "aquasecurity/trivy",
-    "branch": "main",
-    "language": "Go",
-    "description": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more"
-  },
-  {
-    "repo": "vuetifyjs/vuetify",
-    "branch": "master",
-    "language": "TypeScript",
-    "description": "🐉 Vue Component Framework"
-  },
-  {
-    "repo": "goharbor/harbor",
-    "branch": "main",
-    "language": "Go",
-    "description": "An open source trusted cloud native registry project that stores, signs, and scans content."
-  },
-  {
-    "repo": "facebookresearch/detectron2",
-    "branch": "main",
-    "language": "Python",
-    "description": "Detectron2 is a platform for object detection, segmentation and other visual recognition tasks."
-  },
-  {
-    "repo": "deep-learning-indaba/GoodPracticesML",
-    "branch": "main",
-    "language": "Other",
-    "description": "A repository of good practices for developing usable ML products in Africa."
-  },
-  {
-    "repo": "faker-js/faker",
+    "repo": "StrucksTech/Zelda-TP-Native-Port",
     "branch": "main",
     "language": "TypeScript",
-    "description": "Generate massive amounts of fake data in the browser and node.js"
+    "description": "Zelda Twilight Princess PC: GameCube ROM download, Wii ISO, Wii U HD download. Dolphin emulator settings, Cemu setup guide, 60 FPS patch, 4K texture pack, widescreen hack. Heart pieces locations, Poe souls map, Golden bugs guide, Master Sword unlock, Snowpeak Ruins walkthrough, HD texture pack Henrico."
   },
   {
-    "repo": "openclarity/kubeclarity",
+    "repo": "cporter202/coreclaw-api-directory",
     "branch": "main",
-    "language": "Go",
-    "description": "KubeClarity is a tool for detection and management of Software Bill Of Materials (SBOM) and vulnerabilities of container images and filesystems"
+    "language": "Python",
+    "description": "An unofficial, categorized directory of 118 CoreClaw Worker APIs for web scraping, automation, lead generation, e-commerce, social data, and more."
   },
   {
-    "repo": "nodemailer/nodemailer",
-    "branch": "master",
-    "language": "JavaScript",
-    "description": "✉️ Send e-mails with Node.JS – easy as cake!"
-  },
-  {
-    "repo": "matildagrahamgraham5131/FN-Panel-D-M-A-2026",
+    "repo": "agentara/skills",
     "branch": "main",
-    "language": "C#",
-    "description": "A foundational toolkit and documentation base for analyzing game client behavior, enhancing security, and developing fair-play countermeasures."
+    "language": "HTML",
+    "description": "Original and practical skills for AI builders."
   },
   {
-    "repo": "TheAlgorithms/Python",
+    "repo": "LocoreMind/locoagent",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "AI-powered social media agent with real browser automation"
+  },
+  {
+    "repo": "fristork/hyperliquid-trading-bot",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "hyperliquid trading bot hyperliquid bot hyperliquid copytrading bot hyperliquid trading bot hyperliquid bot hyperliquid copytrading bot hyperliquid trading bot hyperliquid bot hyperliquid copytrading bot hyperliquid trading bot hyperliquid bot hyperliquid copytrading bot hyperliquid trading bot hyperliquid bot hyperliquid copytrading bot"
+  },
+  {
+    "repo": "lawson8451jour1871/FL-Product-Version-26",
+    "branch": "main",
+    "language": "C++",
+    "description": "FL Studio 25 Producer Suite (2026) — Advanced audio engine optimization and offline licensing environment. Unlock All-Plugins Edition features, AI-Stem Separation, and ultra-low latency ASIO performance for professional music production."
+  },
+  {
+    "repo": "yb2460/harness-anything",
     "branch": "master",
     "language": "Python",
-    "description": "All Algorithms implemented in Python"
+    "description": "CLI harness for WPS Office -- let AI agents control Writer, Calc & Impress via COM automation"
   },
   {
-    "repo": "vorpus/performativeUI",
+    "repo": "sunyouzhi2003/LSFG-Desktop",
+    "branch": "main",
+    "language": "C++",
+    "description": "Lossless Scaling 2026: Universal Frame Generation LSFG 3. Multi-frame gen: X2, X3, X4 multiplier for extreme FPS. AI Upscaling: LS1, FSR 3.1, NIS. Smooth gaming on Steam Deck, handhelds, and Android (LSFG-VK). Fix stuttering, low latency mode, VRR support, 4K spatial scaling, G-Sync compatible."
+  },
+  {
+    "repo": "Outcome-Signal-Forge/trading-bot",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot"
+  },
+  {
+    "repo": "lewislulu/html-ppt-skill",
+    "branch": "main",
+    "language": "HTML",
+    "description": "HTML PPT Studio — AgentSkill with 24 themes, 31 layouts, 20+ animations for building professional HTML presentations"
+  },
+  {
+    "repo": "Margele/OpenZen",
+    "branch": "master",
+    "language": "Java",
+    "description": "打得过Zen"
+  },
+  {
+    "repo": "EnsignKazekage/Prodigy-Hacks",
+    "branch": "main",
+    "language": "Python",
+    "description": "Prodigymathgamehacking || prodigy hacks || prodigymathgame"
+  },
+  {
+    "repo": "haaarshsingh/halftone-dots",
     "branch": "main",
     "language": "TypeScript",
     "description": ""
   },
   {
-    "repo": "hbddevos/PumpFun-Trainer_V1",
+    "repo": "BJTUpupil/AscendFHE",
+    "branch": "main",
+    "language": "C++",
+    "description": ""
+  },
+  {
+    "repo": "guokaigdg/animal-island-ui",
+    "branch": "main",
+    "language": "Less",
+    "description": "Animal 风格的 React 组件库 灵感来源于任天堂集合啦！动物森友会游戏界面"
+  },
+  {
+    "repo": "phuryn/pm-brain",
     "branch": "main",
     "language": "Python",
-    "description": "An advanced AI‑driven trading utility for Solana meme‑coins, featuring sniper, auto‑sell, MEV protection, multi‑wallet, alerts, and price monitoring."
+    "description": "PM Brain OS: The Second Brain for Product Managers, Made of Markdown"
   },
   {
-    "repo": "paritytech/substrate",
-    "branch": "master",
-    "language": "Rust",
-    "description": "Substrate: The platform for blockchain innovators"
+    "repo": "bozhouDev/14days-build-claude-code-cli",
+    "branch": "main",
+    "language": "MDX",
+    "description": "网页版教程，看起来会舒服一点"
   },
   {
-    "repo": "BarneyD66/open-warehouse-system",
+    "repo": "said-ohamouddou/LIDARLearn",
+    "branch": "main",
+    "language": "Python",
+    "description": "LIDARLearn: A Unified Deep Learning Library for 3D Point Cloud Classification, Segmentation, and Self-Supervised Representation Learning"
+  },
+  {
+    "repo": "koffuxu/ai-influence-digest",
+    "branch": "main",
+    "language": "Python",
+    "description": ""
+  },
+  {
+    "repo": "unprovable/ShadowCat",
+    "branch": "main",
+    "language": "HTML",
+    "description": "Single file optical file transfer using a browser"
+  },
+  {
+    "repo": "SalhaNabil/CloakBrowser",
     "branch": "main",
     "language": "TypeScript",
-    "description": "Chinese-first open-source WMS starter for cross-border warehouse, fulfillment, inventory, billing, returns, and 3PL operations."
+    "description": "CloakBrowser Github: anti-detect browser download, source-level chromium patches, browser fingerprinting spoofing, multi-accounting tool, canvas webgl modification, proxy manager http socks5, cookie isolation, session import export, user-agent switcher, puppeteer playwright automation api, profile sharing, web scraping free, github"
   },
   {
-    "repo": "fastlane/supply",
-    "branch": "master",
-    "language": "Other",
-    "description": "Command line tool for updating Android apps and their metadata on the Google Play Store"
+    "repo": "adelaideacfalle50838568946/ChatGPT-Pro-Desktop-2026",
+    "branch": "main",
+    "language": "C#",
+    "description": "A comprehensive desktop application package for advanced ChatGPT interactions and management."
   }
 ]
