@@ -1,8 +1,8 @@
 {
-  "repo": "icesixgod/codex-trajectory",
+  "repo": "ysr666/dsh-vision-router",
   "branch": "main",
-  "language": "Python",
-  "description": "Privacy-aware trajectory viewer for local Codex task logs",
-  "stars": 142,
-  "forks": 6
+  "language": "JavaScript",
+  "description": "Eyes for text-only DeepSeek Harness agents: built-in free vision chain (no key) + pixel-level vision tools (Q&A, grounding, crop, pixel diff, colors, OCR, SVG trace, cutout, screenshots). One-command install, no Python, image turns work like ordinary tool-calling turns.",
+  "stars": 329,
+  "forks": 18
 }
