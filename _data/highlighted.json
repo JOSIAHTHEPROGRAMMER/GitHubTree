@@ -1,8 +1,8 @@
 {
-  "repo": "omdsh-dev/dsh-at-file",
+  "repo": "Nagi-ovo/dsh-visualize",
   "branch": "main",
-  "language": "JavaScript",
-  "description": "Codex-style @file mentions for DeepSeek Harness: search workspace files in the composer and attach their contents to prompts.",
-  "stars": 218,
-  "forks": 8
+  "language": "TypeScript",
+  "description": "在 DSH 对话中生成交互式可视化｜Render model-generated interactive cards inside DSH conversations",
+  "stars": 126,
+  "forks": 3
 }

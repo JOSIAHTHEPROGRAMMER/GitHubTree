@@ -1,146 +1,146 @@
 [
   {
-    "repo": "khalildh/garment-notation",
+    "repo": "andthattoo/structured-cot",
+    "branch": "main",
+    "language": "Python",
+    "description": "Structured Chain-of-Thought"
+  },
+  {
+    "repo": "zhouxiyu1997/friendmaker",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Friend Maker is a macOS/Windows toolkit for turning images into pixel grids and ESP32 controller scripts, enabling automatic drawing on Nintendo Switch in Tomodachi Life and related workflows."
+  },
+  {
+    "repo": "quincymunene179-ops/Wi-Fi_Password_Extractor",
+    "branch": "main",
+    "language": "Python",
+    "description": "Recover saved Wi-Fi passwords on Windows and Mac. Show all saved networks, show passwords, export to file, and copy to clipboard. Never forget a Wi-Fi password."
+  },
+  {
+    "repo": "amplifthq/opentag",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Open-source @agent mentions for Slack and GitHub. OpenTag routes tagged requests to Codex, Claude Code, then returns results in thread."
+  },
+  {
+    "repo": "byJoey/cfnew-deployer",
     "branch": "main",
     "language": "JavaScript",
     "description": ""
   },
   {
-    "repo": "mockito/mockito",
+    "repo": "sv-number/skills",
     "branch": "main",
-    "language": "Java",
-    "description": "Most popular Mocking framework for unit tests written in Java"
+    "language": "Python",
+    "description": "Give your AI agent a phone number: order a private number in 200+ countries over the API, read the SMS verification code, hand the number back. The widest country coverage in the category, checkable with one API call."
   },
   {
-    "repo": "composer/composer",
+    "repo": "FFF686868/proxypin-wloc-spoofer",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "ProxyPin script for authorized iOS Apple WLOC response rewriting tests"
+  },
+  {
+    "repo": "staturnzz/amethyst",
+    "branch": "main",
+    "language": "C",
+    "description": "iOS 12/13 jailbreak for all devices"
+  },
+  {
+    "repo": "ZHChen2000/qzone-history",
+    "branch": "main",
+    "language": "Go",
+    "description": "QQ空间历史数据恢复工具：Qzone-History"
+  },
+  {
+    "repo": "MuhammadHanzalaIqbal/Blox-Fruits-Dragon-Update-Auto-Farm-Script-2026-Gold",
+    "branch": "main",
+    "language": "Python",
+    "description": "All‑in‑one Blox Fruits script for Dragon Update 2026. Gold edition comes with extra optimizations for faster farming."
+  },
+  {
+    "repo": "Mekotofeuka/MTPROTO_FIX_By_MEKO",
+    "branch": "main",
+    "language": "Shell",
+    "description": "MTProto fix - stable fixes the limitations that occurred on June 4"
+  },
+  {
+    "repo": "triangkas/DBD-AutoGrind-Trainer-2026-Pro",
+    "branch": "main",
+    "language": "Python",
+    "description": "Ultimate Dead by Daylight auto-grind trainer Pro edition with Bloodpoint bot, ESP wallhack, aimbot, and full perk/skin unlocker. Dominate the Fog with our 2026 undetected external tool."
+  },
+  {
+    "repo": "MuhammadHanzalaIqbal/Hades-II-Trainer-Ultra",
+    "branch": "main",
+    "language": "Python",
+    "description": "Hades II Trainer 2026 – the most powerful cheat collection. Get unlimited everything, one-hit kills, no cooldowns and more."
+  },
+  {
+    "repo": "martinkoutecky/tine",
+    "branch": "master",
+    "language": "TypeScript",
+    "description": ""
+  },
+  {
+    "repo": "blknoiz0632/CandyDrop",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "Cut the rope. Feed the monster. Earn real Solana. A skill-based play-to-earn puzzle on @Solana — play, stack $CANDY, claim SOL. No wagers. Just skill."
+  },
+  {
+    "repo": "nawras15/File_Integrity_Checker",
+    "branch": "main",
+    "language": "Python",
+    "description": "Check integrity of files by computing and verifying hashes (MD5, SHA1, SHA256). Detect file corruption and ensure data integrity."
+  },
+  {
+    "repo": "kentjuno/ainovel-cli",
+    "branch": "main",
+    "language": "Go",
+    "description": "CLI sáng tác tiểu thuyết AI đa agent — Bản tiếng Việt của voocel/ainovel-cli"
+  },
+  {
+    "repo": "olivier-ls/php-fts",
     "branch": "main",
     "language": "PHP",
-    "description": "Dependency Manager for PHP"
+    "description": "A self-contained full-text search engine in pure PHP. No extensions, no dependencies."
   },
   {
-    "repo": "ComPDFKit/compdf-generation",
-    "branch": "master",
-    "language": "Vue",
-    "description": "Generate PDFs effortlessly with the open-source ComPDF Generation SDK. Design HTML-based templates to produce business-critical documents, such as contracts, invoices, reports, and certificates with ease."
-  },
-  {
-    "repo": "techjarves/Uncensored-Local-AI-Multiplatform",
+    "repo": "entropykit/entropia",
     "branch": "main",
-    "language": "Dart",
-    "description": "A cross-platform Flutter app that runs uncensored, 100% offline open-source AI models (GGUF) directly on your Android, iOS, or PC. No cloud, no filters, total privacy."
+    "language": "C",
+    "description": "A compiled language for Windows position-independent x86-64 shellcode and Beacon Object Files."
   },
   {
-    "repo": "maria-rcks/miri",
+    "repo": "perglervitek/Blox-Fruits-Dragon-Update-Auto-Farm-Script-2026-Elite",
     "branch": "main",
-    "language": "Swift",
-    "description": "Niri-ish, keyboard-first window manager for macOS."
+    "language": "Python",
+    "description": "Auto farm, ESP, and raid script for Blox Fruits Dragon Update 2026 – Elite edition. Level up, farm bosses, and dominate PvP with this undetected trainer."
   },
   {
-    "repo": "Rhythmplocutter/printer-offline-fix",
-    "branch": "main",
-    "language": "PowerShell",
-    "description": "printer offline fix || printer offline || printer offline driver || printer offline fix windows"
-  },
-  {
-    "repo": "vmi-rs/ephemera",
-    "branch": "master",
-    "language": "Rust",
-    "description": "Multiplatform MEMORY.DMP analysis tool with a WinDbg flavor"
-  },
-  {
-    "repo": "haiddrrs/Steam-Tools",
-    "branch": "main",
-    "language": "C#",
-    "description": "Lua Steam Tools: SteamTools download free PC latest version, lua manifest generator github, steamtools safe to use account ban risk, BeyondDimension SteamTools source code, unlock free steam games dlc unlocker, watt toolkit alternative, steamtools exe local ticket bypass, lua tools manifest downloader, st-setup virus total malware scan, steamtools"
-  },
-  {
-    "repo": "pedrodg28/yuzu-emu",
+    "repo": "MasnoNi/Invincible-VS-Game-Release-Desktop",
     "branch": "main",
     "language": "C++",
-    "description": "Yuzu Emulator Switch Nintendo Pokemon Scarlet Violet, Mario Kart 8 Deluxe, firmware 18.1.0, prod.keys, shader stutter fix, FPS++ mod, save file importer, amiibo bin, motion control setup, local wireless LDN, multicore, handheld mode, docked mode, custom resolution, Joy-Con drift fix."
+    "description": "Invincible VS Game Download April 30 2026 Release Date Skybound 3v3 Tag Fighter Omni-Man Gameplay Guide Best Characters Combo List Day One Patch Notes Fix Stutter D3D Error Character Pass Universa Immortal DLC Zero Suit Skin Xbox PC PS5 Performance Utility Latest Build Free Full Version Pro Arcade Sticks Support"
   },
   {
-    "repo": "leochlon/ntkmirror",
-    "branch": "main",
-    "language": "Python",
-    "description": ""
-  },
-  {
-    "repo": "uktrash/LSFG-Desktop",
-    "branch": "main",
-    "language": "C#",
-    "description": "Lossless Scaling github steam reddit LSFG 3 frame generation  v3.22, uncap FPS low end PC, AMD FSR NIS scaling, cursor lag fix. Double FPS laptop guide, windowed to borderless fullscreen, ghosting artifact solution, capture API DXGI GDI, half refresh rate VSync. anime4k ,  version , latency reduction, lsfg"
-  },
-  {
-    "repo": "edgenuitybot/exodusbot",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "Exodus | The # 1 Edgenuity Bot for Quizes, Tests, and Exams. Includes Auto Answers, Auto delays, built in AI Answers, Auto Submit, EdgeEX support and MORE! | About: Exodus is an online course tool designed for online middle and high school classes (K-8 curriculum). Join the Discord: https://discord.gg/exodusbot"
-  },
-  {
-    "repo": "Yaolinwang/AITD",
-    "branch": "main",
-    "language": "Python",
-    "description": "AI Trading Agent for Everyone"
-  },
-  {
-    "repo": "yzhao062/anywhere-agents",
-    "branch": "main",
-    "language": "Python",
-    "description": "One config to rule all your AI agents: portable (every project, every session), effective (curated writing, routing, skills), and safer (destructive-command guard)."
-  },
-  {
-    "repo": "domye/Solace",
+    "repo": "CookSleep/gpt_image_playground",
     "branch": "main",
     "language": "TypeScript",
-    "description": "Solace - 基于 Go + React + TypeScript + PostgreSQL 的全栈博客系统。支持 Markdown 编辑、相册管理、深色模式、SEO 优化、Docker 部署。采用整洁架构，适合个人博客、技术博客、开发者作品集。MIT 开源，生产就绪"
+    "description": "基于 OpenAI gpt-image-2 接口的图片生成与编辑工具"
   },
   {
-    "repo": "levelsio/superlevels",
+    "repo": "CatsJuice/medal-forge",
     "branch": "main",
-    "language": "JavaScript",
-    "description": "A super Chrome extension I made that's safer than installing external malware/spyware-filled extensions that form a massive security risk, this one is open source and you can read and check the source code (with AI) before you install it, and customize it to your liking!"
-  },
-  {
-    "repo": "huey1in/WindsurfX",
-    "branch": "main",
-    "language": "Python",
-    "description": "Windsurf 协议注册机 | Windsurf (windsurf.com) 批量自动注册工具"
-  },
-  {
-    "repo": "l3gi0nXXXX/Metis-agent",
-    "branch": "main",
-    "language": "Cangjie",
+    "language": "TypeScript",
     "description": ""
   },
   {
-    "repo": "cosmicstack-labs/mercury-agent-skills",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "A curated registry of reusable Mercury Agent, Open Claw or Hermes Agent skills designed for real developer workflows, persistent memory, and token-efficient execution."
-  },
-  {
-    "repo": "apple/corecrypto",
+    "repo": "lucas831029/Heroes-of-Might-and-Magic-Olden-Era-Release",
     "branch": "main",
     "language": "C++",
-    "description": "Apple corecrypto"
-  },
-  {
-    "repo": "haaarshsingh/halftone-dots",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": ""
-  },
-  {
-    "repo": "willchen96/mike",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "OSS AI Legal Platform"
-  },
-  {
-    "repo": "noonghunna/club-3090",
-    "branch": "master",
-    "language": "Shell",
-    "description": "Community recipes for serving LLMs on RTX 3090. Multi-engine (vLLM, llama.cpp, SGLang) and model-agnostic. Currently shipping Qwen3.6-27B configs for 1× and 2× cards."
+    "description": "Heroes Might and Magic Olden Era Download April 30 2026 Release Early Access PC Game Pass Strategy Guide Factions Temple Dungeon Necropolis Hive Schism Grove Best Heroes Motley Gameplay Tutorial Fix Stutter DX12 Error Random Map Generator RMG Performance Utility Multiplayer Ranked Matchmaking Latest Build Free Full Version"
   }
 ]
