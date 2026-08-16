@@ -1,8 +1,8 @@
 {
-  "repo": "Nagi-ovo/dsh-visualize",
+  "repo": "icesixgod/codex-trajectory",
   "branch": "main",
-  "language": "TypeScript",
-  "description": "在 DSH 对话中生成交互式可视化｜Render model-generated interactive cards inside DSH conversations",
-  "stars": 126,
-  "forks": 3
+  "language": "Python",
+  "description": "Privacy-aware trajectory viewer for local Codex task logs",
+  "stars": 142,
+  "forks": 6
 }
