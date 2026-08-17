@@ -1,146 +1,146 @@
 [
   {
-    "repo": "MentalPrism42/FL-Production-25.2.5-DAW",
+    "repo": "Forsy-AI/forsy-trace-skill",
     "branch": "main",
-    "language": "C++",
-    "description": "25.2.5 Music Production DAW 2026 Beatmaking AI Mastering Stems Separation PluggnB Organic Sounds MIDI Support VST3 Plugins Audio Recording Low Latency Mixing Mastering Windows 11 Sound Design Virtual Instruments Producer Edition Professional Audio Resource"
+    "language": "Python",
+    "description": "Open skill for capturing AI agent work as structured traces."
   },
   {
-    "repo": "nam271212/strategic-advisor-orchestrator",
+    "repo": "TQ-trade/polymarket-copytrade",
     "branch": "main",
     "language": "HTML",
-    "description": "AI Coding Agent Orchestrator 2026: Pro-Level Strategy & Review Framework"
+    "description": "Polymarket copytrading bot that mirrors a target trader's activity to your own account polymarket copy trading bot, polymarket copy bot polymarket copy bot polymarket bot polymarket trading bot polymarket copy trading bot, polymarket copy bot polymarket copy bot polymarket bot polymarket trading bot polymarket copy trading bot, polymarket copy bot"
   },
   {
-    "repo": "eli-labz/Godcoder",
+    "repo": "tasmirz/jagoo-bahee",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": ""
+  },
+  {
+    "repo": "nexu-io/html-anything",
+    "branch": "main",
+    "language": "HTML",
+    "description": "✨ The agentic HTML editor — your local AI agent writes the HTML, you ship it. 🚀 75 Skills × 9 Surfaces (magazine · deck · poster · XHS / tweet · prototype · data report · Hyperframes) 🛡️ Sandboxed preview · 📤 1-click to WeChat / X / Zhihu / HTML / PNG 🔑 Zero API key — Claude Code / Cursor / Codex / Gemini / Copilot / OpenCode / Qwen / Aider."
+  },
+  {
+    "repo": "moxailoo/univ3-pool-lens",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "A focused TypeScript toolkit for inspecting Uniswap V3 pools — liquidity distribution, fee yield, and impermanent-loss math from your terminal."
+  },
+  {
+    "repo": "BuluBulugege/Free-BAI",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": ""
+  },
+  {
+    "repo": "GordenSun/LearningCell",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "细胞3D模型展示"
+  },
+  {
+    "repo": "ajavadinezhad/zyrln",
+    "branch": "main",
+    "language": "Go",
+    "description": "Domain-fronting relay that routes traffic through Google infrastructure to bypass DPI-based censorship,  Android VPN    app + desktop proxy"
+  },
+  {
+    "repo": "MrMilenko/Theseus",
+    "branch": "main",
+    "language": "C++",
+    "description": "Reverse-engineered reconstruction of the original Xbox 5960 dashboard. Runs on Xbox hardware and on desktop (macOS, Linux, Windows) via SDL2/OpenGL."
+  },
+  {
+    "repo": "sunyouzhi2003/LSFG-Desktop",
+    "branch": "main",
+    "language": "C++",
+    "description": "Lossless Scaling 2026: Universal Frame Generation LSFG 3. Multi-frame gen: X2, X3, X4 multiplier for extreme FPS. AI Upscaling: LS1, FSR 3.1, NIS. Smooth gaming on Steam Deck, handhelds, and Android (LSFG-VK). Fix stuttering, low latency mode, VRR support, 4K spatial scaling, G-Sync compatible."
+  },
+  {
+    "repo": "ltyzen/KMSAutoTool",
+    "branch": "main",
+    "language": "C++",
+    "description": "System license utility Windows product key manager Office license assistant Volume Licensing tool HWID management system deployment utility desktop OS setup enterprise license emulator digital license helper software repository installer package system verification tool."
+  },
+  {
+    "repo": "SXai-lab/prediction-market-copytrade",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Polymarket copy trade Polymarket跟单交易 Polymarket copytrading bot  Polymarket跟单交易机器人 Copytrading Polymarket  Polymarket跟单交易 Polymarket copy trade Polymarket跟单交易 Polymarket copytrading bot  Polymarket跟单交易机器人 Copytrading Polymarket  Polymarket跟单交易 Polymarket copy trade Polymarket跟单交易 Polymarket copytrading bot  Polymarket跟单交易机器人 Copytrading Polymarket"
+  },
+  {
+    "repo": "evanphi7/lighthouse-router",
     "branch": "main",
     "language": "Rust",
-    "description": "A local-first, open-source coding agent for your desktop. Bring your own LLM key; your code stays on your machine and only ever leaves to the model provider"
+    "description": "Off-chain DEX route discovery on Solana — pool decoders, multi-hop quoting, and arbitrage cycle detection"
   },
   {
-    "repo": "x4gKing/PasarGuard-Node",
-    "branch": "main",
-    "language": "Dockerfile",
-    "description": ""
-  },
-  {
-    "repo": "Gheat1/tuistore",
-    "branch": "main",
-    "language": "Python",
-    "description": "🛍️ The TUI app store — browse, search & one-key-install hundreds of terminal apps. Built on ricekit, seeded from awesome-tuis."
-  },
-  {
-    "repo": "tanishqkumar/ssd",
-    "branch": "main",
-    "language": "Python",
-    "description": "A lightweight inference engine supporting speculative speculative decoding (SSD)."
-  },
-  {
-    "repo": "achrefelouafi/LinearAbiltyCastingThreeJS",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": ""
-  },
-  {
-    "repo": "Appllama/top-welcome-screens",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "How top iOS apps say hello | 10 animated welcome screens inspired by top-earning apps. Rebuilt in React Native + Expo."
-  },
-  {
-    "repo": "thinkany-ai/dscode",
-    "branch": "dev",
-    "language": "TypeScript",
-    "description": "Coding agent powered by DeepSeek."
-  },
-  {
-    "repo": "disler/super-simple-software-factory",
-    "branch": "main",
-    "language": "Python",
-    "description": "Repeatable agents-plus-code workflows, packaged as one skill, stamped into any repo. Deterministic Python owns the graph; coding agents are bounded nodes inside it."
-  },
-  {
-    "repo": "xisanpi/zuonaar-cinema-simulator",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "按城市和真实座位视角体验 IMAX、杜比及精选巨幕影厅"
-  },
-  {
-    "repo": "liangnjupt/VisTouch",
-    "branch": "main",
-    "language": "Python",
-    "description": "A large-scale synchronized vision–touch–audio dataset of robotic sliding contact"
-  },
-  {
-    "repo": "SethGammon/Citadel",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "Agent orchestration harness for Claude Code. Four-tier routing (/do), campaign persistence across sessions, parallel agents in isolated worktrees, discovery relay between waves, lifecycle hooks, circuit breaker, and 6 production-quality skills. From solo developer to institutional scale."
-  },
-  {
-    "repo": "xaskasdf/ntransformer",
-    "branch": "main",
-    "language": "C++",
-    "description": "High-efficiency LLM inference engine in C++/CUDA. Run Llama 70B on RTX 3090."
-  },
-  {
-    "repo": "wumingqi60/lingxi",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "灵犀跨境-开源共建版"
-  },
-  {
-    "repo": "PsiACE/skills",
+    "repo": "foyzulkarim/claude-lens",
     "branch": "main",
     "language": "HTML",
-    "description": "A small, shared skill library by builders, for builders."
-  },
-  {
-    "repo": "SahilH4ck4you/iOS-SSL-pinning-bypass-without-jalibreak",
-    "branch": "main",
-    "language": "Shell",
-    "description": "SSL pinning bypass setup for iOS (No Jailbreak) using OpenVPN + iptables traffic redirection to proxy (Burp Suite / mitmproxy)"
-  },
-  {
-    "repo": "leonickson1/Swiftlet",
-    "branch": "main",
-    "language": "Swift",
     "description": ""
   },
   {
-    "repo": "roger2ai/Claude-Code-Compiled",
+    "repo": "binggandata/bggg-skills",
     "branch": "main",
-    "language": "TypeScript",
-    "description": "Compiled version of Leaked Claude Code"
+    "language": "Python",
+    "description": "Open-source Codex skills from BGGG"
   },
   {
-    "repo": "drivelineresearch/autoresearch-claude-code",
+    "repo": "jingyaogong/minimind-o",
     "branch": "master",
     "language": "Python",
-    "description": "Autonomous experiment loop skill for Claude Code — port of pi-autoresearch"
+    "description": "🎙️ 「大模型」从0训练0.1B能听能说能看的全模态Omni模型！A 0.1B Omni model trained from scratch, capable of listening, speaking, and seeing!"
   },
   {
-    "repo": "ArchAstro/scopey",
+    "repo": "laramint/laravel-brain",
     "branch": "main",
-    "language": "Rust",
-    "description": "Keep Claude/Codex/Grok/Pi/OpenCode sessions on scope"
+    "language": "PHP",
+    "description": "Visualize your Laravel request lifecycle as an interactive graph"
   },
   {
-    "repo": "HaidarJbeily7/cargo-frisk",
+    "repo": "Predictly-Poly/polymarket-trading-bot",
     "branch": "main",
-    "language": "Rust",
+    "language": "TypeScript",
+    "description": "Polymarket copy trading bot and Polymarket trading bot starter that tracks selected wallets and mirrors, polymarket trading bot, polymarket trading bot, polymarket trading bot,polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot,trading"
+  },
+  {
+    "repo": "mykolaharmash/notelet",
+    "branch": "main",
+    "language": "Swift",
+    "description": "SwiftUI component for displaying rich release notes inside an app"
+  },
+  {
+    "repo": "OpenImagingLab/AnyRecon",
+    "branch": "main",
+    "language": "Python",
     "description": ""
   },
   {
-    "repo": "Vasco0x4/AIDA",
+    "repo": "windowsMarketLab/polymarket-arbitrage-bot-v2",
     "branch": "main",
-    "language": "JavaScript",
-    "description": "AI-Driven Security Assessment - Connect AI to 400+ pentesting tools via MCP"
+    "language": "TypeScript",
+    "description": "polymarket arbitrage bot V2 to interact with CLOB V2 polymarket arbitrage bot polymarket arbitrage bot polymarket arbitrage bot polymarket arbitrage bot polymarket arbitrage bot polymarket arbitrage bot polymarket arbitrage bot polymarket arbitrage bot polymarket arbitrage bot polymarket arbitrage bot polymarket arbitrage bot"
   },
   {
-    "repo": "kaomei/stickman-video-director",
+    "repo": "amaancoderx/npxskillui",
     "branch": "main",
-    "language": "Shell",
-    "description": "Turn copy into rich one-minute Gemini Omni Flash stickman video prompt packages."
+    "language": "TypeScript",
+    "description": ""
+  },
+  {
+    "repo": "TheSashaDev/girl-agent",
+    "branch": "master",
+    "language": "TypeScript",
+    "description": "ИИ-девушка с человеческим поведением: сон, настроение, расписание, память, стадии отношений и конфликты. Userbot mode через MTProto — реагирует, печатает, ставит реакции. Anti-AI промпт убирает ChatGPT-повадки. Не чат-бот — персонаж с состоянием."
+  },
+  {
+    "repo": "MangoLion/stretchystudio",
+    "branch": "master",
+    "language": "JavaScript",
+    "description": "FOSS 2D animation tool for turning static illustrations into mesh-deformable characters"
   }
 ]
