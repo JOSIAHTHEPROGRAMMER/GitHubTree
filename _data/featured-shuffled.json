@@ -1,146 +1,146 @@
 [
   {
-    "repo": "npm/cli",
-    "branch": "latest",
-    "language": "JavaScript",
-    "description": "the package manager for JavaScript"
+    "repo": "MentalPrism42/FL-Production-25.2.5-DAW",
+    "branch": "main",
+    "language": "C++",
+    "description": "25.2.5 Music Production DAW 2026 Beatmaking AI Mastering Stems Separation PluggnB Organic Sounds MIDI Support VST3 Plugins Audio Recording Low Latency Mixing Mastering Windows 11 Sound Design Virtual Instruments Producer Edition Professional Audio Resource"
   },
   {
-    "repo": "dnakov/litter",
+    "repo": "nam271212/strategic-advisor-orchestrator",
+    "branch": "main",
+    "language": "HTML",
+    "description": "AI Coding Agent Orchestrator 2026: Pro-Level Strategy & Review Framework"
+  },
+  {
+    "repo": "eli-labz/Godcoder",
+    "branch": "main",
+    "language": "Rust",
+    "description": "A local-first, open-source coding agent for your desktop. Bring your own LLM key; your code stays on your machine and only ever leaves to the model provider"
+  },
+  {
+    "repo": "x4gKing/PasarGuard-Node",
+    "branch": "main",
+    "language": "Dockerfile",
+    "description": ""
+  },
+  {
+    "repo": "Gheat1/tuistore",
+    "branch": "main",
+    "language": "Python",
+    "description": "🛍️ The TUI app store — browse, search & one-key-install hundreds of terminal apps. Built on ricekit, seeded from awesome-tuis."
+  },
+  {
+    "repo": "tanishqkumar/ssd",
+    "branch": "main",
+    "language": "Python",
+    "description": "A lightweight inference engine supporting speculative speculative decoding (SSD)."
+  },
+  {
+    "repo": "achrefelouafi/LinearAbiltyCastingThreeJS",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": ""
+  },
+  {
+    "repo": "Appllama/top-welcome-screens",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "How top iOS apps say hello | 10 animated welcome screens inspired by top-earning apps. Rebuilt in React Native + Expo."
+  },
+  {
+    "repo": "thinkany-ai/dscode",
+    "branch": "dev",
+    "language": "TypeScript",
+    "description": "Coding agent powered by DeepSeek."
+  },
+  {
+    "repo": "disler/super-simple-software-factory",
+    "branch": "main",
+    "language": "Python",
+    "description": "Repeatable agents-plus-code workflows, packaged as one skill, stamped into any repo. Deterministic Python owns the graph; coding agents are bounded nodes inside it."
+  },
+  {
+    "repo": "xisanpi/zuonaar-cinema-simulator",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "按城市和真实座位视角体验 IMAX、杜比及精选巨幕影厅"
+  },
+  {
+    "repo": "liangnjupt/VisTouch",
+    "branch": "main",
+    "language": "Python",
+    "description": "A large-scale synchronized vision–touch–audio dataset of robotic sliding contact"
+  },
+  {
+    "repo": "SethGammon/Citadel",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "Agent orchestration harness for Claude Code. Four-tier routing (/do), campaign persistence across sessions, parallel agents in isolated worktrees, discovery relay between waves, lifecycle hooks, circuit breaker, and 6 production-quality skills. From solo developer to institutional scale."
+  },
+  {
+    "repo": "xaskasdf/ntransformer",
+    "branch": "main",
+    "language": "C++",
+    "description": "High-efficiency LLM inference engine in C++/CUDA. Run Llama 70B on RTX 3090."
+  },
+  {
+    "repo": "wumingqi60/lingxi",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "灵犀跨境-开源共建版"
+  },
+  {
+    "repo": "PsiACE/skills",
+    "branch": "main",
+    "language": "HTML",
+    "description": "A small, shared skill library by builders, for builders."
+  },
+  {
+    "repo": "SahilH4ck4you/iOS-SSL-pinning-bypass-without-jalibreak",
+    "branch": "main",
+    "language": "Shell",
+    "description": "SSL pinning bypass setup for iOS (No Jailbreak) using OpenVPN + iptables traffic redirection to proxy (Burp Suite / mitmproxy)"
+  },
+  {
+    "repo": "leonickson1/Swiftlet",
     "branch": "main",
     "language": "Swift",
     "description": ""
   },
   {
-    "repo": "StrucksTech/Zelda-TP-Native-Port",
+    "repo": "roger2ai/Claude-Code-Compiled",
     "branch": "main",
     "language": "TypeScript",
-    "description": "Zelda Twilight Princess PC: GameCube ROM download, Wii ISO, Wii U HD download. Dolphin emulator settings, Cemu setup guide, 60 FPS patch, 4K texture pack, widescreen hack. Heart pieces locations, Poe souls map, Golden bugs guide, Master Sword unlock, Snowpeak Ruins walkthrough, HD texture pack Henrico."
+    "description": "Compiled version of Leaked Claude Code"
   },
   {
-    "repo": "cporter202/coreclaw-api-directory",
-    "branch": "main",
-    "language": "Python",
-    "description": "An unofficial, categorized directory of 118 CoreClaw Worker APIs for web scraping, automation, lead generation, e-commerce, social data, and more."
-  },
-  {
-    "repo": "agentara/skills",
-    "branch": "main",
-    "language": "HTML",
-    "description": "Original and practical skills for AI builders."
-  },
-  {
-    "repo": "LocoreMind/locoagent",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "AI-powered social media agent with real browser automation"
-  },
-  {
-    "repo": "fristork/hyperliquid-trading-bot",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "hyperliquid trading bot hyperliquid bot hyperliquid copytrading bot hyperliquid trading bot hyperliquid bot hyperliquid copytrading bot hyperliquid trading bot hyperliquid bot hyperliquid copytrading bot hyperliquid trading bot hyperliquid bot hyperliquid copytrading bot hyperliquid trading bot hyperliquid bot hyperliquid copytrading bot"
-  },
-  {
-    "repo": "lawson8451jour1871/FL-Product-Version-26",
-    "branch": "main",
-    "language": "C++",
-    "description": "FL Studio 25 Producer Suite (2026) — Advanced audio engine optimization and offline licensing environment. Unlock All-Plugins Edition features, AI-Stem Separation, and ultra-low latency ASIO performance for professional music production."
-  },
-  {
-    "repo": "yb2460/harness-anything",
+    "repo": "drivelineresearch/autoresearch-claude-code",
     "branch": "master",
     "language": "Python",
-    "description": "CLI harness for WPS Office -- let AI agents control Writer, Calc & Impress via COM automation"
+    "description": "Autonomous experiment loop skill for Claude Code — port of pi-autoresearch"
   },
   {
-    "repo": "sunyouzhi2003/LSFG-Desktop",
+    "repo": "ArchAstro/scopey",
     "branch": "main",
-    "language": "C++",
-    "description": "Lossless Scaling 2026: Universal Frame Generation LSFG 3. Multi-frame gen: X2, X3, X4 multiplier for extreme FPS. AI Upscaling: LS1, FSR 3.1, NIS. Smooth gaming on Steam Deck, handhelds, and Android (LSFG-VK). Fix stuttering, low latency mode, VRR support, 4K spatial scaling, G-Sync compatible."
+    "language": "Rust",
+    "description": "Keep Claude/Codex/Grok/Pi/OpenCode sessions on scope"
   },
   {
-    "repo": "Outcome-Signal-Forge/trading-bot",
+    "repo": "HaidarJbeily7/cargo-frisk",
     "branch": "main",
-    "language": "TypeScript",
-    "description": "polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot"
-  },
-  {
-    "repo": "lewislulu/html-ppt-skill",
-    "branch": "main",
-    "language": "HTML",
-    "description": "HTML PPT Studio — AgentSkill with 24 themes, 31 layouts, 20+ animations for building professional HTML presentations"
-  },
-  {
-    "repo": "Margele/OpenZen",
-    "branch": "master",
-    "language": "Java",
-    "description": "打得过Zen"
-  },
-  {
-    "repo": "EnsignKazekage/Prodigy-Hacks",
-    "branch": "main",
-    "language": "Python",
-    "description": "Prodigymathgamehacking || prodigy hacks || prodigymathgame"
-  },
-  {
-    "repo": "haaarshsingh/halftone-dots",
-    "branch": "main",
-    "language": "TypeScript",
+    "language": "Rust",
     "description": ""
   },
   {
-    "repo": "BJTUpupil/AscendFHE",
+    "repo": "Vasco0x4/AIDA",
     "branch": "main",
-    "language": "C++",
-    "description": ""
+    "language": "JavaScript",
+    "description": "AI-Driven Security Assessment - Connect AI to 400+ pentesting tools via MCP"
   },
   {
-    "repo": "guokaigdg/animal-island-ui",
+    "repo": "kaomei/stickman-video-director",
     "branch": "main",
-    "language": "Less",
-    "description": "Animal 风格的 React 组件库 灵感来源于任天堂集合啦！动物森友会游戏界面"
-  },
-  {
-    "repo": "phuryn/pm-brain",
-    "branch": "main",
-    "language": "Python",
-    "description": "PM Brain OS: The Second Brain for Product Managers, Made of Markdown"
-  },
-  {
-    "repo": "bozhouDev/14days-build-claude-code-cli",
-    "branch": "main",
-    "language": "MDX",
-    "description": "网页版教程，看起来会舒服一点"
-  },
-  {
-    "repo": "said-ohamouddou/LIDARLearn",
-    "branch": "main",
-    "language": "Python",
-    "description": "LIDARLearn: A Unified Deep Learning Library for 3D Point Cloud Classification, Segmentation, and Self-Supervised Representation Learning"
-  },
-  {
-    "repo": "koffuxu/ai-influence-digest",
-    "branch": "main",
-    "language": "Python",
-    "description": ""
-  },
-  {
-    "repo": "unprovable/ShadowCat",
-    "branch": "main",
-    "language": "HTML",
-    "description": "Single file optical file transfer using a browser"
-  },
-  {
-    "repo": "SalhaNabil/CloakBrowser",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "CloakBrowser Github: anti-detect browser download, source-level chromium patches, browser fingerprinting spoofing, multi-accounting tool, canvas webgl modification, proxy manager http socks5, cookie isolation, session import export, user-agent switcher, puppeteer playwright automation api, profile sharing, web scraping free, github"
-  },
-  {
-    "repo": "adelaideacfalle50838568946/ChatGPT-Pro-Desktop-2026",
-    "branch": "main",
-    "language": "C#",
-    "description": "A comprehensive desktop application package for advanced ChatGPT interactions and management."
+    "language": "Shell",
+    "description": "Turn copy into rich one-minute Gemini Omni Flash stickman video prompt packages."
   }
 ]
