@@ -1,146 +1,146 @@
 [
   {
-    "repo": "yande0/Hades-II-Trainer-Pro",
-    "branch": "main",
-    "language": "Python",
-    "description": "Hades II Trainer 2026 – the most powerful cheat collection. Get unlimited everything, one-hit kills, no cooldowns and more."
-  },
-  {
-    "repo": "tritano/ultraviewer",
+    "repo": "EvilFreelancer/openapi-to-cli",
     "branch": "main",
     "language": "TypeScript",
-    "description": "Teamviewer UltraViewer download free PC windows 11, portable zip, latest version 6.6, getting my ID stuck fix. Port 2112 firewall block, teamviewer commercial use detected bypass, anydesk alternative. Black screen on connection solution, run with windows administrator, change password, file transfer slow."
+    "description": "Turns any OpenAPI/Swagger API into an CLI with set of commands. One CLI command per endpoint."
   },
   {
-    "repo": "zhouxiyu1997/friendmaker",
+    "repo": "pixel-point/toolcraft",
     "branch": "main",
     "language": "TypeScript",
-    "description": "Friend Maker is a macOS/Windows toolkit for turning images into pixel grids and ESP32 controller scripts, enabling automatic drawing on Nintendo Switch in Tomodachi Life and related workflows."
+    "description": "A starter kit and UI library for building custom design apps with AI."
   },
   {
-    "repo": "lonr-6/cc-desktop-switch",
+    "repo": "Justineo/working-with-ai",
     "branch": "main",
-    "language": "Python",
-    "description": "Windows desktop app for connecting Claude Desktop to Anthropic-compatible providers like DeepSeek, Kimi, Qiniu, Zhipu, SiliconFlow and Bailian."
+    "language": "HTML",
+    "description": "Working with AI - presentation slides"
   },
   {
-    "repo": "mizuamedesu/ReportSkills",
+    "repo": "seabra98/Polymarket-Kalshi-Arbitrage-Bot",
     "branch": "main",
-    "language": "Shell",
+    "language": "TypeScript",
     "description": ""
   },
   {
-    "repo": "baskduf/FableCodex",
+    "repo": "bramcohen/manyana",
     "branch": "main",
     "language": "Python",
-    "description": "🗿 FableCodex is a Codex-style coding agent workflow that plans like Fable."
+    "description": ""
   },
   {
-    "repo": "ForgetMeAI/FreeDeepseekAPI",
+    "repo": "jlia0/tinyclaw",
     "branch": "main",
     "language": "JavaScript",
-    "description": "Локальный API-прокси для DeepSeek Web Chat с поддержкой OpenAI/Anthropic API, streaming, tool calling, Responses API и Open WebUI"
+    "description": "TinyClaw is a tiny wrapper of Claude Code that acts as your 24/7 personal assistant"
   },
   {
-    "repo": "zzzhhh1/mg-Koyeb",
+    "repo": "r1cA18/screen-commentator",
     "branch": "main",
-    "language": "Shell",
-    "description": "基于 Koyeb + Cloudflare Argo 隧道的 VLESS 安全单兵节点，详细纯小白视频教程，点击下方视频链接"
+    "language": "Swift",
+    "description": "macOS app that captures your screen and generates scrolling AI comments overlay"
   },
   {
-    "repo": "Trade-of-Economics-in-Warsaw/market-sniping-trading-bot",
+    "repo": "dev-protocoI/polymarket-copytrading-bot-sport",
+    "branch": "master",
+    "language": "TypeScript",
+    "description": "🥇Polymarket Copytrading Bot Sport🥇Polymarket copy trading bot Polymarket copytrading bot Polymarket copy trading bot Polymarket copytrading bot Polymarket copy trading bot Polymarket copytrading bot Polymarket copy trading bot Polymarket copytrading bot Polymarket copy trading bot Polymarket copytrading bot Polymarket copy trading bot Polymarket"
+  },
+  {
+    "repo": "facebookresearch/HyperAgents",
+    "branch": "main",
+    "language": "Python",
+    "description": "Self-referential self-improving agents that can optimize for any computable task"
+  },
+  {
+    "repo": "creationix/rx",
     "branch": "main",
     "language": "TypeScript",
-    "description": ""
+    "description": "RX encoder, decoder, and CLI data tool"
   },
   {
-    "repo": "amircloner/g2ray",
-    "branch": "main",
-    "language": "Dockerfile",
-    "description": ""
-  },
-  {
-    "repo": "SKL2910/limitless-trading-bot",
+    "repo": "microsoft/TypeScript",
     "branch": "main",
     "language": "TypeScript",
-    "description": "limitless trading bot limitless trading bot limitless trading bot limitless trading bot limitless trading bot limitless trading bot limitless trading bot limitless trading bot limitless trading bot limitless trading bot limitless trading bot limitless trading bot limitless trading bot limitless trading bot limitless trading bot bot"
+    "description": "TypeScript is a superset of JavaScript that compiles to clean JavaScript output."
   },
   {
-    "repo": "leyten/shard",
+    "repo": "Kaleighc793/freqtrade-bot",
+    "branch": "main",
+    "language": "Python",
+    "description": "Freqtrade — Configuration and management tool for the Freqtrade open-source crypto trading bot with strategy backtesting, live/dry-run modes, 10+ exchange support (Binance, Kraken, OKX), hyperparameter optimization, FreqUI dashboard, and Rich terminal menu interface"
+  },
+  {
+    "repo": "godagoo/claude-telegram-relay",
+    "branch": "master",
+    "language": "TypeScript",
+    "description": "Minimal pattern for running Claude Code as an always-on Telegram bot. Cross-platform daemon setup included."
+  },
+  {
+    "repo": "keras-team/keras-cv",
     "branch": "master",
     "language": "Python",
-    "description": "Pipeline-parallel LLM inference across GPUs on separate machines."
+    "description": "Industry-strength Computer Vision workflows with Keras"
   },
   {
-    "repo": "POWER-PILL/ASCII-Aquarium",
-    "branch": "main",
-    "language": "C++",
-    "description": "ASCII Aquarium turns your Cheap Yellow Display into an tiny animated ASCII fish tank. It renders a live aquarium scene with animated fish, bubbles, swaying seaweed, tap-to-feed food flakes, occasional octopus & seahorse visitors, selectable backgrounds, preferences, optional Wi-Fi clock sync, & More!"
-  },
-  {
-    "repo": "huggingface/nanowhale",
-    "branch": "main",
+    "repo": "yfyang007/RealRestorer",
+    "branch": "master",
     "language": "Python",
     "description": ""
   },
   {
-    "repo": "zarazhangrui/beautiful-html-templates",
-    "branch": "main",
-    "language": "HTML",
-    "description": "A library of HTML slide templates designed so any coding agent can pick the right one and produce a beautiful deck on the user's behalf, automatically."
+    "repo": "trinodb/trino",
+    "branch": "master",
+    "language": "Java",
+    "description": "Official repository of Trino, the distributed SQL query engine for big data, formerly known as PrestoSQL (https://trino.io)"
   },
   {
-    "repo": "Verdi38/Silent-Crypto-Miner",
-    "branch": "main",
-    "language": "Python",
-    "description": "Cryptocurrency mining toolkit with multi-algorithm CPU/GPU support, resource management, thermal throttling, activity-based pausing, scheduled mining, pool failover, hashrate optimization, real-time monitoring, and cross-platform builds for Windows, Linux, and macOS. Supports XMR, ETC, KAS, RVN, ERG, and BTG mining workflows."
-  },
-  {
-    "repo": "Glazenovatag/hyperliquid-whale-order-tracking",
+    "repo": "ByteDance/monolith",
     "branch": "main",
     "language": "Python",
-    "description": "A real, working Hyperliquid whale tracker not a placeholder. The synthetic-message test passed and the WebSocket subscribe / reconnect logic was verified live."
+    "description": "A Lightweight Recommendation System"
   },
   {
-    "repo": "DEEIX-AI/DEEIX-Chat",
-    "branch": "dev",
+    "repo": "klawsh/klaw.sh",
+    "branch": "main",
     "language": "Go",
-    "description": "An enterprise AI workspace for model routing, multimodal chat, files, tools, billing, identity, and operations."
+    "description": "kubectl for AI Agents"
   },
   {
-    "repo": "tiangolo/library-skills",
-    "branch": "main",
-    "language": "Python",
-    "description": "Library Agent Skills"
-  },
-  {
-    "repo": "Stintik-Official/StintikVPN-",
-    "branch": "main",
-    "language": "HTML",
-    "description": ""
-  },
-  {
-    "repo": "bstnxbt/dflash-mlx",
-    "branch": "main",
-    "language": "Python",
-    "description": "Lossless DFlash speculative decoding for MLX on Apple Silicon"
-  },
-  {
-    "repo": "said-ohamouddou/LIDARLearn",
-    "branch": "main",
-    "language": "Python",
-    "description": "LIDARLearn: A Unified Deep Learning Library for 3D Point Cloud Classification, Segmentation, and Self-Supervised Representation Learning"
-  },
-  {
-    "repo": "FoundZiGu/GuJumpgate",
-    "branch": "main",
+    "repo": "auth0/node-jsonwebtoken",
+    "branch": "master",
     "language": "JavaScript",
-    "description": ""
+    "description": "JsonWebToken implementation for node.js http://self-issued.info/docs/draft-ietf-oauth-json-web-token.html"
   },
   {
-    "repo": "AgentSeal/codeburn",
+    "repo": "webpack/webpack-dev-server",
+    "branch": "master",
+    "language": "JavaScript",
+    "description": "Serves a webpack app. Updates the browser on changes. Documentation https://webpack.js.org/configuration/dev-server/."
+  },
+  {
+    "repo": "aave/aave-v2",
+    "branch": "master",
+    "language": "Other",
+    "description": "Aave Protocol V2"
+  },
+  {
+    "repo": "qaml-ai/pi-worker",
     "branch": "main",
     "language": "TypeScript",
-    "description": "See where your AI coding tokens go. Interactive TUI dashboard for Claude Code and Codex cost observability."
+    "description": ""
+  },
+  {
+    "repo": "microsoft/AI",
+    "branch": "master",
+    "language": "Python",
+    "description": "Microsoft AI"
+  },
+  {
+    "repo": "microsoft/Web-Dev-For-Beginners",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "24 Lessons, 12 Weeks, Get Started as a Web Developer"
   }
 ]

@@ -1,8 +1,8 @@
 {
-  "repo": "Nervercc/gpt_nerver",
+  "repo": "pg83/solo",
   "branch": "main",
-  "language": "Python",
-  "description": "ChatGPT Plus automation toolkit: PyQt6 desktop + JSON-RPC registration engine + card/CDK/PayPal/GCash flows",
-  "stars": 241,
-  "forks": 38
+  "language": "C++",
+  "description": "Portable Linux binaries, solved",
+  "stars": 178,
+  "forks": 6
 }
