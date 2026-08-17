@@ -1,8 +1,8 @@
 {
-  "repo": "Yousuf-developer/Viscose-carousel",
+  "repo": "Nervercc/gpt_nerver",
   "branch": "main",
-  "language": "JavaScript",
-  "description": "A wheel of work that never quite sets. Cards fuse as they meet, and draw into threads as they part.",
-  "stars": 235,
-  "forks": 40
+  "language": "Python",
+  "description": "ChatGPT Plus automation toolkit: PyQt6 desktop + JSON-RPC registration engine + card/CDK/PayPal/GCash flows",
+  "stars": 241,
+  "forks": 38
 }
