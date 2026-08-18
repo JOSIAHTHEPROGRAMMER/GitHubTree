@@ -1,8 +1,8 @@
 {
-  "repo": "pg83/solo",
+  "repo": "missuo/kumone",
   "branch": "main",
-  "language": "C++",
-  "description": "Portable Linux binaries, solved",
-  "stars": 178,
-  "forks": 6
+  "language": "Swift",
+  "description": "雲の音 — Native macOS NetEase Cloud Music client built with SwiftUI",
+  "stars": 149,
+  "forks": 11
 }
