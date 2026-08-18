@@ -1,8 +1,8 @@
 {
-  "repo": "missuo/kumone",
+  "repo": "qianye-wuyu/yueyuan-bazi",
   "branch": "main",
-  "language": "Swift",
-  "description": "雲の音 — Native macOS NetEase Cloud Music client built with SwiftUI",
-  "stars": 157,
-  "forks": 12
+  "language": "Python",
+  "description": "跃渊 YueYuan · 子平命理分析系统（研究型八字解读 Skill：假设-证据-反证、规则分层、预注册预测+后验验证、变格四态状态机、100 案例测试）",
+  "stars": 175,
+  "forks": 23
 }

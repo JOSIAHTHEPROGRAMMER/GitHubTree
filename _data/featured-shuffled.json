@@ -1,146 +1,146 @@
 [
   {
-    "repo": "kargnas/damn-my-slow-kt",
+    "repo": "elastic/logstash",
     "branch": "main",
-    "language": "TypeScript",
-    "description": "명령어 설치 한번으로 한달 KT 인터넷 요금을 무료로 쓸 수 있습니다. 귀찮은 공문 작성 필요 없습니다."
+    "language": "Java",
+    "description": "Logstash - transport and process your logs, events, or other data"
   },
   {
-    "repo": "gradle/gradle",
-    "branch": "master",
-    "language": "Groovy",
-    "description": "Adaptable, fast automation for all"
-  },
-  {
-    "repo": "operator-framework/operator-lifecycle-manager",
-    "branch": "master",
-    "language": "Go",
-    "description": "A management framework for extending Kubernetes with Operators"
-  },
-  {
-    "repo": "1Panel-dev/MaxKB",
+    "repo": "ddperso/Password_Generator",
     "branch": "main",
     "language": "Python",
-    "description": "🔥 MaxKB is an open-source platform for building enterprise-grade agents.  强大易用的开源企业级智能体平台。"
+    "description": "Generate strong, random passwords with custom length and character sets. Create secure passwords for all your accounts."
   },
   {
-    "repo": "Ganso/refugiOS",
+    "repo": "Eynzof/hermes-agent-cn-desktop",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Hermes Agent CN desktop app, Windows-First, built with Tauri, Typescript and Rust. Isolated Hermes Agent core insides."
+  },
+  {
+    "repo": "hypnguyen1209/offensive-claude",
     "branch": "main",
     "language": "Shell",
+    "description": "Offensive security toolkit for Claude Code covering red team, exploit dev, AD attacks, EDR bypass, mobile pentest"
+  },
+  {
+    "repo": "akeit0/okojo",
+    "branch": "main",
+    "language": "C#",
+    "description": "Okojo is an experimental low allocation managed JavaScript engine for .NET"
+  },
+  {
+    "repo": "bandyah/uni-mm-trainer",
+    "branch": "main",
+    "language": "Python",
+    "description": "A small library for training multimodal LLMs combining text, vision, and audio"
+  },
+  {
+    "repo": "appergb/openless",
+    "branch": "main",
+    "language": "HTML",
+    "description": "Hold a key, speak, release — AI-polished text appears at your cursor in any app. Open-source voice input for macOS & Windows. (按住快捷键说话，松开即得润色后的文字)"
+  },
+  {
+    "repo": "Fenng/Tech-Doc-Style-Chinese",
+    "branch": "main",
+    "language": "Python",
+    "description": "Yet another reusable writing skill for Chinese technical documentation and product copy."
+  },
+  {
+    "repo": "amrdoh/ClockMaster",
+    "branch": "master",
+    "language": "Kotlin",
+    "description": "Material Expressive clock app for android 🕛⏰"
+  },
+  {
+    "repo": "Wendor/teapod-stream",
+    "branch": "master",
+    "language": "Dart",
     "description": ""
   },
   {
-    "repo": "Volumetenrectify/ae-motion-compiler",
-    "branch": "main",
-    "language": "HTML",
-    "description": "Motion graphics automation framework for Adobe After Effects CC 2024+. Procedural keyframe generation, expression-based animation control, layer automation, and batch rendering. Scripting tools for animators and motion designers. Includes keyframe generators, expression builders, and render automation."
-  },
-  {
-    "repo": "Leadrogue/Wiflux",
-    "branch": "main",
-    "language": "Python",
-    "description": "Modern wireless security auditor with live Rich UI and smart attack orchestration"
-  },
-  {
-    "repo": "PitShipwrightGraph/MecchaPhantom",
-    "branch": "main",
-    "language": "Python",
-    "description": "🦎 MecchaPhantom – complete hack tool for MECCHA CHAMELEON. Features ESP wallhack, aimbot, fly hack, teleport, god mode, infinite paint, speed hack, and more. Dominate the hide-and-seek battlefield!"
-  },
-  {
-    "repo": "ThisIsLittleSky/WaterPaper",
-    "branch": "master",
-    "language": "Python",
-    "description": "水论文skill一句话出论文：多角度选题、真实文献采集、大纲写作、降低AIGC率、降低重复率、绘制图表、DOCX交付"
-  },
-  {
-    "repo": "oversecured/Samsung_Vulnerabilities",
-    "branch": "main",
-    "language": "Java",
-    "description": "176 vulnerabilities in Samsung preinstalled Android apps"
-  },
-  {
-    "repo": "dunefalcon1qrj/Telegram-Bot",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "Polymarket whale trades in real time"
-  },
-  {
-    "repo": "sequilade/tokentab",
-    "branch": "main",
-    "language": "Python",
-    "description": "A CLI that reads Claude Code, Codex, and Gemini CLI session logs and works out how much they cost, by model, project, and day."
-  },
-  {
-    "repo": "KlaatAI/klaatcode",
+    "repo": "suyancc/openai-plus-vxt",
     "branch": "main",
     "language": "TypeScript",
-    "description": "Open-source AI coding agent for the terminal. Claude Code-grade accuracy with smart model routing — uses the right AI model for each task, cutting costs 10x. Supports Claude, GPT, Gemini, DeepSeek & more."
+    "description": "一个基于 WXT 的浏览器插件，用于辅助 ChatGPT 注册、Checkout 链接提取、随机地址资料生成，以及 OpenAI/PayPal 支付页资料自动填写。"
   },
   {
-    "repo": "QwenAudio/qwen-audio-agent",
+    "repo": "KenKaneki18/CloakBrowser",
     "branch": "main",
-    "language": "JavaScript",
-    "description": "A realtime voice runtime that keeps Agents talking, working, and present.  Real-time Voice Runtime for AI Agents"
+    "language": "TypeScript",
+    "description": "CloakBrowser: Anti-detect browser download, browser fingerprinting spoofing, multi-accounting tool, Canvas WebGL modification. Proxy manager HTTP SOCKS5, cookie isolation, session import export, user-agent switcher. Puppeteer Playwright automation API, profile sharing, web scraping, free."
   },
   {
-    "repo": "syabro/neat-annotations",
+    "repo": "haidang1810/md2html",
     "branch": "main",
     "language": "HTML",
-    "description": "Hand-drawn CSS annotations for inline content"
+    "description": "Your AI writes docs — md2html turns them into pages people actually read. A portable skill for Claude Code / Codex / Antigravity that converts long-form Markdown (plans, specs, system designs, RFCs, runbooks, postmortems, brainstorms) into self-contained HTML with Mermaid, timelines, callouts, TOC. Multi-language."
   },
   {
-    "repo": "PengZhang64/circuit-framework",
+    "repo": "Julpygo/Claude-Code-AI-Design",
+    "branch": "main",
+    "language": "C++",
+    "description": "Claude Design Anthropic Tool Download April 2026 Figma to Code AI Agent Research Preview Claude Code CLI Integration React 19 Tailwind v4 Support Model Context Protocol MCP Server Setup Design Systems Automation UI UX Prototyping Next.js Component Generation Best Developer Tools 2026 Free Tutorial"
+  },
+  {
+    "repo": "lonr-6/cc-desktop-switch",
     "branch": "main",
     "language": "Python",
-    "description": "Circuit Framework — multi-agent LLM trading research system"
+    "description": "Windows desktop app for connecting Claude Desktop to Anthropic-compatible providers like DeepSeek, Kimi, Qiniu, Zhipu, SiliconFlow and Bailian."
   },
   {
-    "repo": "liangnjupt/VisTouch",
+    "repo": "mpiorowski/late-sh",
+    "branch": "main",
+    "language": "Rust",
+    "description": "A cozy terminal clubhouse for developers. Lofi beats, casual games, chat, and tech news, all via SSH."
+  },
+  {
+    "repo": "evilsocket/audit",
     "branch": "main",
     "language": "Python",
-    "description": "A large-scale synchronized vision–touch–audio dataset of robotic sliding contact"
+    "description": "An 8-stage vulnerability-discovery agent."
   },
   {
-    "repo": "simonlin1212/vibe-astock",
+    "repo": "huggingface/nanowhale",
     "branch": "main",
     "language": "Python",
-    "description": "A 股短线复盘看板：涨停池·连板梯队·龙虎榜·板块资金一屏看完，赚钱效应/晋级率/梯队断层/情绪周期等派生指标纯计算直出（不经过 AI），AI 只把数据串成能读的盘面研判。全本地运行，可用 Claude/Codex 订阅免 API key。| A-share short-term daily-review dashboard: derived sentiment metrics computed locally, AI only writes the narrative. No API key needed."
+    "description": ""
   },
   {
-    "repo": "FuDie0915/Super-Instruct-Codex-5.6",
+    "repo": "OpenBMB/PilotDeck",
     "branch": "main",
-    "language": "Python",
-    "description": "针对GPT 5.6的破甲实验项目，基于Rust开发"
+    "language": "TypeScript",
+    "description": "Task-oriented AI Agent productivity platform"
   },
   {
-    "repo": "mikiarlo3/awesome-growth-hacking-skills",
+    "repo": "gordonmurray/firnflow",
     "branch": "main",
-    "language": "Shell",
-    "description": "Find agentic growth hacking skills for Claude, ChatGPT, Manus | by enso.bot"
+    "language": "Rust",
+    "description": "The cost efficiency of S3 with the speed of local RAM. A multi-tenant vector and full-text search engine featuring a tiered RAM → NVMe → S3 architecture for microsecond latency on   top of object storage"
   },
   {
-    "repo": "ARMSX2/ARMSX1",
+    "repo": "AmmarkoV/SAM3DBody-cpp",
     "branch": "main",
     "language": "C",
-    "description": "New PS1 Emulator from the Founders of ARMSX2"
+    "description": "Real-time 3D full-body reconstruction from a single camera, Multiperson BVH output, Pure C++ runtime, ONNX + ggml, 70-joint skeleton with hands."
   },
   {
-    "repo": "Evianis/travel-photo-abstraction",
+    "repo": "evanklem/evanflow",
     "branch": "main",
-    "language": "Python",
-    "description": "A source-available Codex skill for distilling photographs into sparse editorial abstractions."
+    "language": "Shell",
+    "description": "A TDD-driven iterative feedback loop for software development. 16 cohesive Claude Code skills walk an idea from brainstorm → plan → execute → iterate, with checkpoints throughout."
   },
   {
-    "repo": "oil-oil/codex-deepseek-subagent",
+    "repo": "Senabayu08989/Stable-Diffusion-AI-Free",
     "branch": "main",
-    "language": "Python",
-    "description": "Configure DeepSeek as a native Codex subagent with automated setup and verified routing."
+    "language": "C++",
+    "description": "Stable Diffusion Free AI Image Generator Flux 2 Local Deployment Real-time Video Character Consistency Identity Anchoring SDXL Turbo LoRA Training ControlNet Open Source Art Studio Hyperrealistic Cinematic Styles Prompt Engineering Python Pytorch Forge ComfyUI 2026 Release High Resolution Desktop Tool"
   },
   {
-    "repo": "qianye-wuyu/yueyuan-bazi",
+    "repo": "vava-nessa/free-coding-models",
     "branch": "main",
-    "language": "Python",
-    "description": "跃渊 YueYuan · 子平命理分析系统（研究型八字解读 Skill：假设-证据-反证、规则分层、预注册预测+后验验证、变格四态状态机、100 案例测试）"
+    "language": "JavaScript",
+    "description": ""
   }
 ]
