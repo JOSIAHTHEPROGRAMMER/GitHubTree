@@ -1,146 +1,146 @@
 [
   {
-    "repo": "olvvier/apple-silicon-accelerometer",
+    "repo": "valkor-ai/loom",
     "branch": "main",
-    "language": "Python",
-    "description": "reading the undocumented mems accelerometer on apple silicon macbooks via iokit hid"
-  },
-  {
-    "repo": "kubernetes/dashboard",
-    "branch": "master",
-    "language": "Go",
-    "description": "General-purpose web UI for Kubernetes clusters"
-  },
-  {
-    "repo": "hadiaimran1090/Duplicate_File_Cleaner",
-    "branch": "main",
-    "language": "Python",
-    "description": "Find and remove duplicate files by content, name, or size. Free up disk space efficiently."
-  },
-  {
-    "repo": "sqlite/sqlite",
-    "branch": "master",
-    "language": "C",
-    "description": "Official Git mirror of the SQLite source tree"
-  },
-  {
-    "repo": "encode/uvicorn",
-    "branch": "master",
-    "language": "Python",
-    "description": "An ASGI web server, for Python. 🦄"
-  },
-  {
-    "repo": "barrosyan/PINNeAPPle",
-    "branch": "main",
-    "language": "Python",
-    "description": "Pinneaple is an open-source Physics AI toolkit for Physics-Informed Neural Networks (PINNs), scientific ML, geometry processing, solvers, and reproducible training pipelines."
-  },
-  {
-    "repo": "jquery/jquery",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "jQuery JavaScript Library"
-  },
-  {
-    "repo": "ant-design/ant-design-pro",
-    "branch": "master",
     "language": "TypeScript",
-    "description": "👨🏻‍💻👩🏻‍💻 Use Ant Design like a Pro!"
+    "description": "An open delivery harness that turns Claude Code, Codex, OpenCode, and other coding agents into repeatable software delivery systems."
   },
   {
-    "repo": "YunjueTech/Yunjue-Agent",
+    "repo": "bonhs1983/Peace-Equalizer-Apo",
     "branch": "main",
-    "language": "Python",
-    "description": "Yunjue Agent: A Fully Reproducible, Zero-Start In-Situ Self-Evolving Agent System for Open-Ended Tasks"
+    "language": "C#",
+    "description": "peace equalizer apo gui system wide parametric equalizer windows 11 windows 10 audio configuration tool sourceforge download bass boost preamp sound booster headphones calibration microphone setup gaming audio interface gui vst plugins open source desktop utility pc audio enhancement profile manager audio effects"
   },
   {
-    "repo": "cockroachdb/cockroach",
+    "repo": "2latemc/JustAnotherMusicClient",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "A desktop music client that integrates with YouTube Music for Windows and MacOS. Independent and not affiliated with, endorsed by, or sponsored by YouTube or Google."
+  },
+  {
+    "repo": "pro-tech-killers/binance-trading-bot",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "binance trading bot binance spot binance api trading bot crypto trading bot automated trading binance trading bot typescript ccxt algorithmic trading spot trading crypto bot binance trading bot npm nodejs quant fintech crypto trading bot automated trading binance trading bot open source binance trading bot btc eth usdt binance trading bot"
+  },
+  {
+    "repo": "Wendor/teapod-stream",
     "branch": "master",
+    "language": "Dart",
+    "description": ""
+  },
+  {
+    "repo": "432539/gpt2api",
+    "branch": "main",
     "language": "Go",
-    "description": "CockroachDB — the cloud native, distributed SQL database designed for high availability, effortless scale, and control over data placement."
+    "description": "基于 chatgpt.com 逆向的 OpenAI 兼容 SaaS 网关 · IMG2 灰度 · 批量出图 · 多账号池 · 高并发调度 · 积分计费 · 技术交流QQ 群 382446"
   },
   {
-    "repo": "scrapy/scrapy",
+    "repo": "MrsEWE44/musicDownload",
     "branch": "master",
     "language": "Python",
-    "description": "Scrapy, a fast high-level web crawling & scraping framework for Python."
+    "description": ""
   },
   {
-    "repo": "wassim249/fastapi-langgraph-agent-production-ready-template",
+    "repo": "Predictly-Poly/polymarket-trading-bot",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Polymarket copy trading bot and Polymarket trading bot starter that tracks selected wallets and mirrors, polymarket trading bot, polymarket trading bot, polymarket trading bot,polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot,trading"
+  },
+  {
+    "repo": "zimingttkx/QuantumFlow",
     "branch": "main",
     "language": "Python",
-    "description": "A production-ready FastAPI template for building AI agent applications with LangGraph integration. This template provides a robust foundation for building scalable, secure, and maintainable AI agent services."
+    "description": "QuantumFlow - Distributed LLM inference scheduling framework with multi-backend support (vLLM, TGI, SGLang), adaptive scheduling strategies, and cluster management."
   },
   {
-    "repo": "OmniSVG/OmniSVG",
+    "repo": "yuzhworkhard-wq/image-to-code",
     "branch": "main",
     "language": "Python",
-    "description": "[NeurIPS 2025] OmniSVG is the first family of end-to-end multimodal SVG generators that leverage pre-trained Vision-Language Models (VLMs), capable of generating complex and detailed SVGs, from simple icons to intricate anime characters."
+    "description": "Codex skill for 750px image-to-code reconstruction and transparent PNG slicing"
   },
   {
-    "repo": "optuna/optuna",
-    "branch": "master",
-    "language": "Python",
-    "description": "A hyperparameter optimization framework"
-  },
-  {
-    "repo": "videojs/video.js",
+    "repo": "ZoyaMalhotra/DualSenseX-DSX-Steam-Edition",
     "branch": "main",
-    "language": "JavaScript",
-    "description": "Video.js - open source HTML5 video player"
-  },
-  {
-    "repo": "chartjs/Chart.js",
-    "branch": "master",
-    "language": "JavaScript",
-    "description": "Simple HTML5 Charts using the <canvas> tag"
-  },
-  {
-    "repo": "microsoft/ML-For-Beginners",
-    "branch": "main",
-    "language": "Jupyter Notebook",
-    "description": "12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all"
-  },
-  {
-    "repo": "jupyter/notebook",
-    "branch": "main",
-    "language": "Jupyter Notebook",
-    "description": "Jupyter Interactive Notebook"
-  },
-  {
-    "repo": "mongodb/mongo",
-    "branch": "master",
     "language": "C++",
-    "description": "The MongoDB Database"
+    "description": "DualSenseX Steam: DSX free download github, adaptive triggers test mod PC, audio to haptics setup, Xbox 360 DualShock 4 emulation. ViGEmBus driver error fix, Bluetooth audio latency, Cyberpunk 2077 controller mod, non-steam games controller not working, DS4Windows alternative. Paliverse crack bypass, BSOD crash fix, Steam Xbox Extended Feature"
   },
   {
-    "repo": "projectdiscovery/nuclei",
-    "branch": "master",
-    "language": "Go",
-    "description": "Nuclei is a fast, customizable vulnerability scanner powered by the global security community and built on a simple YAML-based DSL, enabling collaboration to tackle trending vulnerabilities on the internet. It helps you find vulnerabilities in your applications, APIs, networks, DNS, and cloud configurations."
-  },
-  {
-    "repo": "github/gitignore",
+    "repo": "hehehai/voxt",
     "branch": "main",
-    "language": "Other",
-    "description": "A collection of useful .gitignore templates"
+    "language": "Swift",
+    "description": "[Beta] Voice input and translation app for macOS. Press to talk, release to paste."
   },
   {
-    "repo": "rust-lang/rustlings",
+    "repo": "win4r/ClawTeam-OpenClaw",
     "branch": "main",
-    "language": "Rust",
-    "description": ":crab: Small exercises to get you used to reading and writing Rust code!"
+    "language": "Python",
+    "description": "ClawTeam fork fully adapted for OpenClaw — multi-agent swarm coordination with OpenClaw as the default agent"
   },
   {
-    "repo": "tailwindcss/tailwindcss",
-    "branch": "master",
+    "repo": "Fenng/Tech-Doc-Style-Chinese",
+    "branch": "main",
+    "language": "Python",
+    "description": "Yet another reusable writing skill for Chinese technical documentation and product copy."
+  },
+  {
+    "repo": "simonw/cia-world-factbook-2020",
+    "branch": "main",
+    "language": "HTML",
+    "description": "Recovered cia.gov/the-world-factbook/about/archives/download/factbook-2020.zip from Internet Archive"
+  },
+  {
+    "repo": "tomascupr/sandstorm",
+    "branch": "main",
+    "language": "Python",
+    "description": "One API call. Full Claude agent. Completely sandboxed."
+  },
+  {
+    "repo": "ythx-101/x-tweet-fetcher",
+    "branch": "main",
+    "language": "Python",
+    "description": "🦞 Fetch tweets and replies from X/Twitter without login or API keys. OpenClaw skill."
+  },
+  {
+    "repo": "mizuamedesu/ReportSkills",
+    "branch": "main",
+    "language": "Shell",
+    "description": ""
+  },
+  {
+    "repo": "snarktank/antfarm",
+    "branch": "main",
     "language": "TypeScript",
-    "description": "A utility-first CSS framework for rapid UI development."
+    "description": "Build your agent team in OpenClaw with one command."
   },
   {
-    "repo": "vercel/hyper",
+    "repo": "easylink-ai-open/agent-runtime",
     "branch": "main",
-    "language": "TypeScript",
-    "description": "A terminal built on web technologies"
+    "language": "Python",
+    "description": "Standalone agent runtime core with neutral LLM types, provider clients, tool loop, and extension protocols."
+  },
+  {
+    "repo": "MIgHTy-alIeN/Trading-Bot",
+    "branch": "main",
+    "language": "Solidity",
+    "description": "An arbitrage bot is a smart contract connected to an external automation script that controls its operation."
+  },
+  {
+    "repo": "symbolica-ai/arcgentica",
+    "branch": "main",
+    "language": "Python",
+    "description": "An ARC-AGI solution using Agentica from Symbolica"
+  },
+  {
+    "repo": "bingook/bingo",
+    "branch": "main",
+    "language": "Python",
+    "description": "Bingo - AI-powered Red Team Terminal (DeepSeek/Claude/GPT/GLM)"
+  },
+  {
+    "repo": "fajarakpdev/Blox-Fruits-Dragon-Update-Auto-Farm-Script-2026-Ultra",
+    "branch": "main",
+    "language": "Python",
+    "description": "Blox Fruits Dragon Update 2026 trainer with auto farm, ESP, auto raid, and more. The Ultra version offers enhanced performance and reliability."
   }
 ]
