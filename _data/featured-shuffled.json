@@ -1,146 +1,146 @@
 [
   {
-    "repo": "valkor-ai/loom",
+    "repo": "kargnas/damn-my-slow-kt",
     "branch": "main",
     "language": "TypeScript",
-    "description": "An open delivery harness that turns Claude Code, Codex, OpenCode, and other coding agents into repeatable software delivery systems."
+    "description": "명령어 설치 한번으로 한달 KT 인터넷 요금을 무료로 쓸 수 있습니다. 귀찮은 공문 작성 필요 없습니다."
   },
   {
-    "repo": "bonhs1983/Peace-Equalizer-Apo",
-    "branch": "main",
-    "language": "C#",
-    "description": "peace equalizer apo gui system wide parametric equalizer windows 11 windows 10 audio configuration tool sourceforge download bass boost preamp sound booster headphones calibration microphone setup gaming audio interface gui vst plugins open source desktop utility pc audio enhancement profile manager audio effects"
-  },
-  {
-    "repo": "2latemc/JustAnotherMusicClient",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "A desktop music client that integrates with YouTube Music for Windows and MacOS. Independent and not affiliated with, endorsed by, or sponsored by YouTube or Google."
-  },
-  {
-    "repo": "pro-tech-killers/binance-trading-bot",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "binance trading bot binance spot binance api trading bot crypto trading bot automated trading binance trading bot typescript ccxt algorithmic trading spot trading crypto bot binance trading bot npm nodejs quant fintech crypto trading bot automated trading binance trading bot open source binance trading bot btc eth usdt binance trading bot"
-  },
-  {
-    "repo": "Wendor/teapod-stream",
+    "repo": "gradle/gradle",
     "branch": "master",
-    "language": "Dart",
-    "description": ""
+    "language": "Groovy",
+    "description": "Adaptable, fast automation for all"
   },
   {
-    "repo": "432539/gpt2api",
-    "branch": "main",
+    "repo": "operator-framework/operator-lifecycle-manager",
+    "branch": "master",
     "language": "Go",
-    "description": "基于 chatgpt.com 逆向的 OpenAI 兼容 SaaS 网关 · IMG2 灰度 · 批量出图 · 多账号池 · 高并发调度 · 积分计费 · 技术交流QQ 群 382446"
+    "description": "A management framework for extending Kubernetes with Operators"
   },
   {
-    "repo": "MrsEWE44/musicDownload",
-    "branch": "master",
-    "language": "Python",
-    "description": ""
-  },
-  {
-    "repo": "Predictly-Poly/polymarket-trading-bot",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Polymarket copy trading bot and Polymarket trading bot starter that tracks selected wallets and mirrors, polymarket trading bot, polymarket trading bot, polymarket trading bot,polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot,trading"
-  },
-  {
-    "repo": "zimingttkx/QuantumFlow",
+    "repo": "1Panel-dev/MaxKB",
     "branch": "main",
     "language": "Python",
-    "description": "QuantumFlow - Distributed LLM inference scheduling framework with multi-backend support (vLLM, TGI, SGLang), adaptive scheduling strategies, and cluster management."
+    "description": "🔥 MaxKB is an open-source platform for building enterprise-grade agents.  强大易用的开源企业级智能体平台。"
   },
   {
-    "repo": "yuzhworkhard-wq/image-to-code",
-    "branch": "main",
-    "language": "Python",
-    "description": "Codex skill for 750px image-to-code reconstruction and transparent PNG slicing"
-  },
-  {
-    "repo": "ZoyaMalhotra/DualSenseX-DSX-Steam-Edition",
-    "branch": "main",
-    "language": "C++",
-    "description": "DualSenseX Steam: DSX free download github, adaptive triggers test mod PC, audio to haptics setup, Xbox 360 DualShock 4 emulation. ViGEmBus driver error fix, Bluetooth audio latency, Cyberpunk 2077 controller mod, non-steam games controller not working, DS4Windows alternative. Paliverse crack bypass, BSOD crash fix, Steam Xbox Extended Feature"
-  },
-  {
-    "repo": "hehehai/voxt",
-    "branch": "main",
-    "language": "Swift",
-    "description": "[Beta] Voice input and translation app for macOS. Press to talk, release to paste."
-  },
-  {
-    "repo": "win4r/ClawTeam-OpenClaw",
-    "branch": "main",
-    "language": "Python",
-    "description": "ClawTeam fork fully adapted for OpenClaw — multi-agent swarm coordination with OpenClaw as the default agent"
-  },
-  {
-    "repo": "Fenng/Tech-Doc-Style-Chinese",
-    "branch": "main",
-    "language": "Python",
-    "description": "Yet another reusable writing skill for Chinese technical documentation and product copy."
-  },
-  {
-    "repo": "simonw/cia-world-factbook-2020",
-    "branch": "main",
-    "language": "HTML",
-    "description": "Recovered cia.gov/the-world-factbook/about/archives/download/factbook-2020.zip from Internet Archive"
-  },
-  {
-    "repo": "tomascupr/sandstorm",
-    "branch": "main",
-    "language": "Python",
-    "description": "One API call. Full Claude agent. Completely sandboxed."
-  },
-  {
-    "repo": "ythx-101/x-tweet-fetcher",
-    "branch": "main",
-    "language": "Python",
-    "description": "🦞 Fetch tweets and replies from X/Twitter without login or API keys. OpenClaw skill."
-  },
-  {
-    "repo": "mizuamedesu/ReportSkills",
+    "repo": "Ganso/refugiOS",
     "branch": "main",
     "language": "Shell",
     "description": ""
   },
   {
-    "repo": "snarktank/antfarm",
+    "repo": "Volumetenrectify/ae-motion-compiler",
+    "branch": "main",
+    "language": "HTML",
+    "description": "Motion graphics automation framework for Adobe After Effects CC 2024+. Procedural keyframe generation, expression-based animation control, layer automation, and batch rendering. Scripting tools for animators and motion designers. Includes keyframe generators, expression builders, and render automation."
+  },
+  {
+    "repo": "Leadrogue/Wiflux",
+    "branch": "main",
+    "language": "Python",
+    "description": "Modern wireless security auditor with live Rich UI and smart attack orchestration"
+  },
+  {
+    "repo": "PitShipwrightGraph/MecchaPhantom",
+    "branch": "main",
+    "language": "Python",
+    "description": "🦎 MecchaPhantom – complete hack tool for MECCHA CHAMELEON. Features ESP wallhack, aimbot, fly hack, teleport, god mode, infinite paint, speed hack, and more. Dominate the hide-and-seek battlefield!"
+  },
+  {
+    "repo": "ThisIsLittleSky/WaterPaper",
+    "branch": "master",
+    "language": "Python",
+    "description": "水论文skill一句话出论文：多角度选题、真实文献采集、大纲写作、降低AIGC率、降低重复率、绘制图表、DOCX交付"
+  },
+  {
+    "repo": "oversecured/Samsung_Vulnerabilities",
+    "branch": "main",
+    "language": "Java",
+    "description": "176 vulnerabilities in Samsung preinstalled Android apps"
+  },
+  {
+    "repo": "dunefalcon1qrj/Telegram-Bot",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "Polymarket whale trades in real time"
+  },
+  {
+    "repo": "sequilade/tokentab",
+    "branch": "main",
+    "language": "Python",
+    "description": "A CLI that reads Claude Code, Codex, and Gemini CLI session logs and works out how much they cost, by model, project, and day."
+  },
+  {
+    "repo": "KlaatAI/klaatcode",
     "branch": "main",
     "language": "TypeScript",
-    "description": "Build your agent team in OpenClaw with one command."
+    "description": "Open-source AI coding agent for the terminal. Claude Code-grade accuracy with smart model routing — uses the right AI model for each task, cutting costs 10x. Supports Claude, GPT, Gemini, DeepSeek & more."
   },
   {
-    "repo": "easylink-ai-open/agent-runtime",
+    "repo": "QwenAudio/qwen-audio-agent",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "A realtime voice runtime that keeps Agents talking, working, and present.  Real-time Voice Runtime for AI Agents"
+  },
+  {
+    "repo": "syabro/neat-annotations",
+    "branch": "main",
+    "language": "HTML",
+    "description": "Hand-drawn CSS annotations for inline content"
+  },
+  {
+    "repo": "PengZhang64/circuit-framework",
     "branch": "main",
     "language": "Python",
-    "description": "Standalone agent runtime core with neutral LLM types, provider clients, tool loop, and extension protocols."
+    "description": "Circuit Framework — multi-agent LLM trading research system"
   },
   {
-    "repo": "MIgHTy-alIeN/Trading-Bot",
-    "branch": "main",
-    "language": "Solidity",
-    "description": "An arbitrage bot is a smart contract connected to an external automation script that controls its operation."
-  },
-  {
-    "repo": "symbolica-ai/arcgentica",
+    "repo": "liangnjupt/VisTouch",
     "branch": "main",
     "language": "Python",
-    "description": "An ARC-AGI solution using Agentica from Symbolica"
+    "description": "A large-scale synchronized vision–touch–audio dataset of robotic sliding contact"
   },
   {
-    "repo": "bingook/bingo",
+    "repo": "simonlin1212/vibe-astock",
     "branch": "main",
     "language": "Python",
-    "description": "Bingo - AI-powered Red Team Terminal (DeepSeek/Claude/GPT/GLM)"
+    "description": "A 股短线复盘看板：涨停池·连板梯队·龙虎榜·板块资金一屏看完，赚钱效应/晋级率/梯队断层/情绪周期等派生指标纯计算直出（不经过 AI），AI 只把数据串成能读的盘面研判。全本地运行，可用 Claude/Codex 订阅免 API key。| A-share short-term daily-review dashboard: derived sentiment metrics computed locally, AI only writes the narrative. No API key needed."
   },
   {
-    "repo": "fajarakpdev/Blox-Fruits-Dragon-Update-Auto-Farm-Script-2026-Ultra",
+    "repo": "FuDie0915/Super-Instruct-Codex-5.6",
     "branch": "main",
     "language": "Python",
-    "description": "Blox Fruits Dragon Update 2026 trainer with auto farm, ESP, auto raid, and more. The Ultra version offers enhanced performance and reliability."
+    "description": "针对GPT 5.6的破甲实验项目，基于Rust开发"
+  },
+  {
+    "repo": "mikiarlo3/awesome-growth-hacking-skills",
+    "branch": "main",
+    "language": "Shell",
+    "description": "Find agentic growth hacking skills for Claude, ChatGPT, Manus | by enso.bot"
+  },
+  {
+    "repo": "ARMSX2/ARMSX1",
+    "branch": "main",
+    "language": "C",
+    "description": "New PS1 Emulator from the Founders of ARMSX2"
+  },
+  {
+    "repo": "Evianis/travel-photo-abstraction",
+    "branch": "main",
+    "language": "Python",
+    "description": "A source-available Codex skill for distilling photographs into sparse editorial abstractions."
+  },
+  {
+    "repo": "oil-oil/codex-deepseek-subagent",
+    "branch": "main",
+    "language": "Python",
+    "description": "Configure DeepSeek as a native Codex subagent with automated setup and verified routing."
+  },
+  {
+    "repo": "qianye-wuyu/yueyuan-bazi",
+    "branch": "main",
+    "language": "Python",
+    "description": "跃渊 YueYuan · 子平命理分析系统（研究型八字解读 Skill：假设-证据-反证、规则分层、预注册预测+后验验证、变格四态状态机、100 案例测试）"
   }
 ]
