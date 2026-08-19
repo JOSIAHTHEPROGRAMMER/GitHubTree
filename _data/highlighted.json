@@ -1,8 +1,8 @@
 {
-  "repo": "qianye-wuyu/yueyuan-bazi",
+  "repo": "MengTo/sylva",
   "branch": "main",
-  "language": "Python",
-  "description": "跃渊 YueYuan · 子平命理分析系统（研究型八字解读 Skill：假设-证据-反证、规则分层、预注册预测+后验验证、变格四态状态机、100 案例测试）",
-  "stars": 175,
-  "forks": 23
+  "language": "HTML",
+  "description": "An interactive Three.js landscape study with a procedural, pointer-responsive moss world.",
+  "stars": 190,
+  "forks": 30
 }
