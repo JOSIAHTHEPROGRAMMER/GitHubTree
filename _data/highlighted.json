@@ -1,8 +1,8 @@
 {
-  "repo": "MengTo/sylva",
+  "repo": "d-dev0101/open-sea-skin",
   "branch": "main",
-  "language": "HTML",
-  "description": "An interactive Three.js landscape study with a procedural, pointer-responsive moss world.",
-  "stars": 190,
-  "forks": 30
+  "language": "JavaScript",
+  "description": "WebGPU ocean skin for DeepSeek Harness — DSH plugin, Harness-only Chrome/Edge extension, static installer, and native integration.",
+  "stars": 178,
+  "forks": 3
 }

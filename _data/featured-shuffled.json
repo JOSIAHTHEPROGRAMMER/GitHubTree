@@ -1,146 +1,146 @@
 [
   {
-    "repo": "Pylons/pyramid",
-    "branch": "master",
-    "language": "Python",
-    "description": "Pyramid - A Python web framework"
-  },
-  {
-    "repo": "FFF686868/proxypin-wloc-spoofer",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "ProxyPin script for authorized iOS Apple WLOC response rewriting tests"
-  },
-  {
-    "repo": "Dominic789654/awesome-deepseek-harness",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "A curated list of plugins, skills, MCP servers, patch/profile layers, orchestrators & UIs for DeepSeek Harness (DSH). Visualization · PPT · Coding · Agents · Loops (auto-research) and more. #dsh"
-  },
-  {
-    "repo": "therealaleph/MasterHttpRelayVPN-RUST",
-    "branch": "main",
-    "language": "Rust",
-    "description": "Rust port of @masterking32's MasterHttpRelayVPN — all credit to @masterking32 for the original idea and Python implementation. Free DPI bypass via a Google Apps Script relay with TLS SNI concealment. CLI + cross-platform desktop UI, HTTP + SOCKS5 proxy, no runtime deps."
-  },
-  {
-    "repo": "amplifthq/opentag",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Open-source @agent mentions for Slack and GitHub. OpenTag routes tagged requests to Codex, Claude Code, then returns results in thread."
-  },
-  {
-    "repo": "AnythingForTheTrustRank/Jenny-Mod-All-Versions",
-    "branch": "main",
-    "language": "Java",
-    "description": "Jenny Mod Minecraft: Interactive virtual companion system. Jenny, Ellie, Bia social interactions, gift giving, friendship levels. Minecraft Java 1.12.2, Bedrock Edition addon, MCPE compatibility. Custom character animations, NPC dialogue, house building, social simulator, quests."
-  },
-  {
-    "repo": "Sophomoresty/gemini-web2api",
-    "branch": "main",
-    "language": "Python",
-    "description": "Convert Google Gemini web into OpenAI-compatible API. Zero auth, cross-platform, single file."
-  },
-  {
-    "repo": "DARKHOLEUM/VoidStrap-For-Roblox",
-    "branch": "main",
-    "language": "C#",
-    "description": "VoidStrap: Roblox bootstrapper, launcher utility. FFlag Editor, FastFlags, FPS Unlocker, memory trimmer, CPU watcher. UI customization, Aero theme, AniWatch layout, Nvidia Profile Inspector, .NET 10. Font sharpening, skybox changer, Join-Game Notify, AppSettings JSON, client optimization."
-  },
-  {
-    "repo": "lukiIabs/skills",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Cursor Claude MCP SKILL.md TypeScript Node.js AI agent prompts automation developer tooling IDE productivity skills repository open source"
-  },
-  {
-    "repo": "B3hnamR/XHTTPRelayECO",
-    "branch": "master",
-    "language": "HTML",
-    "description": "Low-overhead hardened XHTTP relay on Vercel Node runtime"
-  },
-  {
-    "repo": "Harkirat1462/claude-code-cli",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "claude code cli install codex github anthropic agentic coding system terminal assistant codebase git workflows multi file editing mcp protocol model context protocol subagents automation ci cd integration npm install setup guide tutorial command line interface latest version 2026 free download update bug fix test runner**"
-  },
-  {
-    "repo": "Nick-Baumann/Gobby",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "GRRRBLEHHH!"
-  },
-  {
-    "repo": "Stellarwolf001/forza-horizon-6-spotify-radio",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "forza horizon 6 spotify radio FH 6 spotify radio  mod download nexus mods github bigjohn0 spotify radio steam epic games xbox ps5"
-  },
-  {
-    "repo": "MatinSenPai/SenPaiScanner",
-    "branch": "main",
-    "language": "Go",
-    "description": "A light-weight scanner for Cloudflare IPs, written in Golang"
-  },
-  {
-    "repo": "paid-tw/einvoice",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "台灣電子發票統一 SDK：一套與供應商無關的介面，支援 Amego、ECPay 綠界、ezPay 藍新與財政部平台。Unified e-invoice (電子發票) SDK for Taiwan — one interface, multiple providers."
-  },
-  {
-    "repo": "SXai-lab/prediction-market-arbitrage",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Polymarket套利交易机器人 Polymarket套利机器人 机器人 arbitrage trading bot polymarket arbitrage bot Polymarket套利交易机器人 Polymarket套利机器人 机器人 arbitrage trading bot polymarket arbitrage bot Polymarket套利交易机器人 Polymarket套利机器人 机器人 arbitrage trading bot polymarket arbitrage bot Polymarket套利交易机器人 Polymarket套利机器人 机器人 arbitrage trading bot polymarket arbitrage bot Polymarket"
-  },
-  {
-    "repo": "ircfspace/teleMirror",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "A simple desktop client for viewing Telegram channels, specifically designed for complex filtering environments like Iran"
-  },
-  {
-    "repo": "wwe-dog/ppt-image2-editable-rebuild",
-    "branch": "main",
-    "language": "Python",
-    "description": "一个基于截图/参考图重建可编辑 PPT 的 Codex skill。先用 image2/imagegen 生成单页视觉参考图，再以局部截图保留复杂插图、图标、地图等视觉资产，同时用 PPT 文本框和形状重建标题、正文、卡片、箭头、标签、结论条等可编辑元素。"
-  },
-  {
-    "repo": "0xdeadbeefnetwork/ssh-keysign-pwn",
-    "branch": "main",
-    "language": "C",
-    "description": "Steal SSH host private keys and /etc/shadow via the ptrace_may_access mm-NULL bypass + pidfd_getfd. Pre-31e62c2ebbfd kernels."
-  },
-  {
-    "repo": "brexhq/CrabTrap",
-    "branch": "main",
-    "language": "Go",
-    "description": "An LLM-as-a-judge HTTP proxy to secure agents in production"
-  },
-  {
-    "repo": "DeepSeek-TUI/DeepSeek-TUI",
-    "branch": "main",
-    "language": "Rust",
-    "description": "Install DeepSeek TUI - Coding agent for DeepSeek models that runs in your terminal."
-  },
-  {
-    "repo": "TQ-trade/defidollar-core",
-    "branch": "decentralized-stable-index",
-    "language": "JavaScript",
-    "description": "Smart contracts for the DefiDollar ($DUSD) stablecoin."
-  },
-  {
-    "repo": "Yu9191/wloc",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "Apple WLOC Location Spoofer"
-  },
-  {
-    "repo": "agentara/skills",
+    "repo": "asdafgs419/Extreme-FPS-Boost",
     "branch": "main",
     "language": "HTML",
-    "description": "Original and practical skills for AI builders."
+    "description": "Extreme FPS Boost is a lightweight Windows 10/11 gaming optimizer designed to improve FPS stability, reduce input lag, and enhance overall system performance."
+  },
+  {
+    "repo": "jackwener/boss-cli",
+    "branch": "main",
+    "language": "Python",
+    "description": "A CLI for BOSS 直聘 — search jobs, view recommendations, manage applications via reverse-engineered API"
+  },
+  {
+    "repo": "ygwyg/agent-experience",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "A visual reference to the patterns, surfaces, and infrastructure behind AI agents."
+  },
+  {
+    "repo": "gothinkster/realworld",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "The mother of all demo apps — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more"
+  },
+  {
+    "repo": "snoglobe/helios",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": ""
+  },
+  {
+    "repo": "kubernetes/client-go",
+    "branch": "master",
+    "language": "Go",
+    "description": "Go client for Kubernetes."
+  },
+  {
+    "repo": "MarioGalindoQ/Modern-CPP-Design-Patterns",
+    "branch": "main",
+    "language": "C++",
+    "description": "32 Design Patterns and C++ Idioms implemented in Modern C++"
+  },
+  {
+    "repo": "github/super-linter",
+    "branch": "main",
+    "language": "Shell",
+    "description": "Combination of multiple linters to install as a GitHub Action"
+  },
+  {
+    "repo": "lucasastorian/llmwiki",
+    "branch": "master",
+    "language": "TypeScript",
+    "description": "Open Source Implementation of Karpathy's LLM Wiki. Upload documents, connect your Claude account via MCP, and have it write your wiki !"
+  },
+  {
+    "repo": "pretyflaco/meetscribe",
+    "branch": "main",
+    "language": "Python",
+    "description": "Fully local meeting transcription with speaker diarization, AI summaries, and PDF output"
+  },
+  {
+    "repo": "SwiftyJSON/SwiftyJSON",
+    "branch": "master",
+    "language": "Swift",
+    "description": "The better way to deal with JSON data in Swift."
+  },
+  {
+    "repo": "pnpm/pnpm",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Fast, disk space efficient package manager"
+  },
+  {
+    "repo": "pedronauck/skills",
+    "branch": "main",
+    "language": "Python",
+    "description": "My personal favorite skills"
+  },
+  {
+    "repo": "JinGuYuan/jinguyuan-dumpling-skill",
+    "branch": "main",
+    "language": "Python",
+    "description": "金谷园饺子馆 AI Skill - 北邮边上的饺子馆"
+  },
+  {
+    "repo": "webpack-contrib/style-loader",
+    "branch": "master",
+    "language": "JavaScript",
+    "description": "Style Loader"
+  },
+  {
+    "repo": "dominikmartn/ProgressiveBlurHeader",
+    "branch": "main",
+    "language": "Swift",
+    "description": "Drop-in SwiftUI component for sticky headers with progressive blur — like Apple Music, Photos, and App Store. Content scrolls underneath with increasing blur, never clipped."
+  },
+  {
+    "repo": "auth0/node-jsonwebtoken",
+    "branch": "master",
+    "language": "JavaScript",
+    "description": "JsonWebToken implementation for node.js http://self-issued.info/docs/draft-ietf-oauth-json-web-token.html"
+  },
+  {
+    "repo": "tvytlx/ai-agent-deep-dive",
+    "branch": "main",
+    "language": "Python",
+    "description": "AI Agent 源码深度研究报告"
+  },
+  {
+    "repo": "clockworklabs/SpacetimeDB",
+    "branch": "master",
+    "language": "Rust",
+    "description": "Multiplayer at the speed of light"
+  },
+  {
+    "repo": "jackwener/xiaohongshu-cli",
+    "branch": "main",
+    "language": "Python",
+    "description": "A CLI for Xiaohongshu (小红书) — search, read, interact via reverse-engineered API"
+  },
+  {
+    "repo": "elastic/supply-chain-monitor",
+    "branch": "main",
+    "language": "Python",
+    "description": ""
+  },
+  {
+    "repo": "Guid-Lab/kdecrypt",
+    "branch": "main",
+    "language": "C++",
+    "description": "PGP/GPG file encryption and decryption manager for KDE Plasma"
+  },
+  {
+    "repo": "TheAlgorithms/Rust",
+    "branch": "master",
+    "language": "Rust",
+    "description": "All Algorithms implemented in Rust"
+  },
+  {
+    "repo": "dazzyddos/PrivHound",
+    "branch": "main",
+    "language": "PowerShell",
+    "description": "A BloodHound OpenGraph collector that models Windows local privilege escalation as interconnected attack paths."
   }
 ]
