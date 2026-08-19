@@ -1,87 +1,129 @@
 [
   {
-    "repo": "Junyi42/LoGeR",
+    "repo": "jackwener/twitter-cli",
     "branch": "main",
     "language": "Python",
-    "description": "Reimplementation of LoGeR: Long-Context Geometric Reconstruction with Hybrid Memory"
+    "description": "A CLI for Twitter/X — feed, bookmarks, and user timeline in terminal"
   },
   {
-    "repo": "mufengyuan666/Gazette",
-    "branch": "main",
-    "language": "Python",
-    "description": ""
-  },
-  {
-    "repo": "sstklen/trump-code",
-    "branch": "main",
-    "language": "Python",
-    "description": "AI cryptanalysis of Trump's social media posts × stock market impact. 31.5M models tested, 551 survivors, 61.3% hit rate. Live dashboard + open data + API."
-  },
-  {
-    "repo": "saimon4u/Drive-Pool",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": ""
-  },
-  {
-    "repo": "Affitor/affiliate-skills",
-    "branch": "main",
-    "language": "HTML",
-    "description": "AI-powered Claude Skills for affiliate marketers. Full funnel: research → content → blog → landing → deploy."
-  },
-  {
-    "repo": "Narcooo/inkos",
-    "branch": "master",
-    "language": "TypeScript",
-    "description": "Multi-agent novel production system — AI agents autonomously write, audit, and revise novels with human review gates"
-  },
-  {
-    "repo": "CocoaPods/CocoaPods",
-    "branch": "master",
-    "language": "Ruby",
-    "description": "The Cocoa Dependency Manager."
-  },
-  {
-    "repo": "marshmallow-code/marshmallow",
+    "repo": "mrdoob/three.js",
     "branch": "dev",
-    "language": "Python",
-    "description": "A lightweight library for converting complex objects to and from simple Python datatypes."
+    "language": "JavaScript",
+    "description": "JavaScript 3D Library."
   },
   {
-    "repo": "junevm/splathash",
+    "repo": "krahets/hello-algo",
     "branch": "main",
-    "language": "Go",
-    "description": "compress any image to 16 bytes and reconstruct a blurry preview. Like blurhash and thumbhash, but smaller."
+    "language": "Java",
+    "description": "《Hello 算法》：动画图解、一键运行的数据结构与算法教程。支持简中、繁中、English、日本語，提供 Python, Java, C++, C, C#, JS, Go, Swift, Rust, Ruby, Kotlin, TS, Dart 等代码实现"
   },
   {
-    "repo": "go-pg/pg",
-    "branch": "master",
-    "language": "Go",
-    "description": "Golang ORM with focus on PostgreSQL features and performance"
+    "repo": "pytorch/vision",
+    "branch": "main",
+    "language": "Python",
+    "description": "Datasets, Transforms and Models specific to Computer Vision"
   },
   {
-    "repo": "redux-saga/redux-saga",
+    "repo": "photonstorm/phaser",
     "branch": "master",
     "language": "JavaScript",
-    "description": "An alternative side effect model for Redux apps"
+    "description": "Phaser is a fun, free and fast 2D game framework for making HTML5 games for desktop and mobile web browsers, supporting Canvas and WebGL rendering."
   },
   {
-    "repo": "samanalalokaya/polymarket-copy-trading-bot",
+    "repo": "tensorflow/tensorflow",
     "branch": "master",
+    "language": "C++",
+    "description": "An Open Source Machine Learning Framework for Everyone"
+  },
+  {
+    "repo": "meuttamsharma/RAM_Cleaner___Optimizer",
+    "branch": "main",
+    "language": "Python",
+    "description": "Free up RAM, optimize memory usage, and boost system performance. Clear cache, defragment memory, and monitor usage."
+  },
+  {
+    "repo": "drizzle-team/drizzle-orm",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "ORM"
+  },
+  {
+    "repo": "kivy/kivy",
+    "branch": "master",
+    "language": "Python",
+    "description": "Open source UI framework written in Python, running on Windows, Linux, macOS, Android and iOS"
+  },
+  {
+    "repo": "GoogleCloudPlatform/golang-samples",
+    "branch": "main",
+    "language": "Go",
+    "description": "Sample apps and code written for Google Cloud in the Go programming language."
+  },
+  {
+    "repo": "wasmerio/wasmer",
+    "branch": "master",
+    "language": "Rust",
+    "description": "🚀 Fast, secure, lightweight containers based on WebAssembly"
+  },
+  {
+    "repo": "vercel/next.js",
+    "branch": "main",
     "language": "JavaScript",
-    "description": "Copies trades from a target Polymarket wallet to your own. Watches the target via REST or WebSocket, then places matching orders (scaled by a multiplier) using the Polymarket CLOB. CLUE: polymarket copy trading bot polymarket copy trading bot polymarket copy trading bot polymarket copy trading bot polymarket copy trading bot polymarket copy trading"
+    "description": "The React Framework"
   },
   {
-    "repo": "Soul-AILab/SoulX-Singer",
+    "repo": "actions/download-artifact",
     "branch": "main",
-    "language": "Python",
-    "description": "Official inference code for SoulX-Singer: Towards High-Quality Zero-Shot Singing Voice Synthesis"
+    "language": "TypeScript",
+    "description": "Download artifacts from your build"
   },
   {
-    "repo": "docker/docker-py",
+    "repo": "sweetalert2/sweetalert2",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "✨ A beautiful, responsive, highly customizable and accessible (WAI-ARIA) replacement for JavaScript's popup boxes. Zero dependencies. 🇺🇦🇪🇺"
+  },
+  {
+    "repo": "Mufeedvh/Code2Prompt",
+    "branch": "main",
+    "language": "Rust",
+    "description": "A CLI tool to convert your codebase into a single LLM prompt with source tree, prompt templating, and token counting."
+  },
+  {
+    "repo": "labuladong/fucking-algorithm",
+    "branch": "master",
+    "language": "Markdown",
+    "description": "刷算法全靠套路，认准 labuladong 就够了！English version supported! Crack LeetCode, not only how, but also why."
+  },
+  {
+    "repo": "stanford-oval/storm",
     "branch": "main",
     "language": "Python",
-    "description": "A Python library for the Docker Engine API"
+    "description": "An LLM-powered knowledge curation system that researches a topic and generates a full-length report with citations."
+  },
+  {
+    "repo": "tensorflow/models",
+    "branch": "master",
+    "language": "Python",
+    "description": "Models and examples built with TensorFlow"
+  },
+  {
+    "repo": "honojs/hono",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Web framework built on Web Standards"
+  },
+  {
+    "repo": "GoogleContainerTools/jib",
+    "branch": "master",
+    "language": "Java",
+    "description": "🏗 Build container images for your Java applications."
+  },
+  {
+    "repo": "ipython/ipython",
+    "branch": "main",
+    "language": "Python",
+    "description": "Official repository for IPython itself. Other repos in the IPython organization contain things like the website, documentation builds, etc."
   },
   {
     "repo": "996icu/996.ICU",
@@ -90,57 +132,15 @@
     "description": "Repo for counting stars and contributing. Press F to pay respect to glorious developers."
   },
   {
-    "repo": "google/jax",
+    "repo": "Zackriya-Solutions/meeting-minutes",
+    "branch": "main",
+    "language": "Rust",
+    "description": "Privacy first, AI meeting assistant with 4x faster Parakeet/Whisper live transcription, speaker diarization, and Ollama summarization built on Rust. 100% local processing. no cloud required. Meetily (Meetly Ai - https://meetily.ai) is the #1 Self-hosted,  Open-source Ai meeting note taker for macOS & Windows."
+  },
+  {
+    "repo": "python-pillow/Pillow",
     "branch": "main",
     "language": "Python",
-    "description": "Composable transformations of Python+NumPy programs: differentiate, vectorize, JIT to GPU/TPU, and more"
-  },
-  {
-    "repo": "iammaimai/claude-code-fixed",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": ""
-  },
-  {
-    "repo": "PanJiaChen/vue-element-admin",
-    "branch": "master",
-    "language": "Vue",
-    "description": ":tada: A magical vue admin                                                                https://panjiachen.github.io/vue-element-admin"
-  },
-  {
-    "repo": "microsoft/guidance",
-    "branch": "main",
-    "language": "Jupyter Notebook",
-    "description": "A guidance language for controlling large language models."
-  },
-  {
-    "repo": "hmmhmmhm/daiso-mcp",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "내 주변 다이소/올리브영 매장을 찾고, 재고를 확인하는 기능을 AI에게 부여합니다."
-  },
-  {
-    "repo": "rclone/rclone",
-    "branch": "master",
-    "language": "Go",
-    "description": "rsync for cloud storage - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Azure Blob, Azure Files, Yandex Files"
-  },
-  {
-    "repo": "every-app/open-seo",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Own your SEO. Research keywords and competitors on your terms. 100% open source."
-  },
-  {
-    "repo": "TanStack/table",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "🤖 Headless UI for building powerful tables & datagrids for TS/JS -  React-Table, Vue-Table, Solid-Table, Svelte-Table"
-  },
-  {
-    "repo": "snoglobe/helios",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": ""
+    "description": "Python Imaging Library (Fork)"
   }
 ]

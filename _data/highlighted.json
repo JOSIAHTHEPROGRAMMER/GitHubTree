@@ -1,8 +1,8 @@
 {
-  "repo": "DFarm6/Prism-Browser-Community",
+  "repo": "op7418/pilot-harness",
   "branch": "main",
   "language": "TypeScript",
-  "description": "Local-first open-source multi-profile fingerprint browser based on Chromium and Electron",
-  "stars": 209,
-  "forks": 51
+  "description": "Pilot Harness — a CodePilot-inspired desktop client and plugin suite for DeepSeek Harness on macOS, Windows, and Linux.",
+  "stars": 221,
+  "forks": 12
 }
