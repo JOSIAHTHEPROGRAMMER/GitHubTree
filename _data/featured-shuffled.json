@@ -1,146 +1,146 @@
 [
   {
-    "repo": "jackwener/twitter-cli",
+    "repo": "duonghieu7104/Star-Fox-64-Remake-PC-Port",
     "branch": "main",
-    "language": "Python",
-    "description": "A CLI for Twitter/X — feed, bookmarks, and user timeline in terminal"
-  },
-  {
-    "repo": "mrdoob/three.js",
-    "branch": "dev",
-    "language": "JavaScript",
-    "description": "JavaScript 3D Library."
-  },
-  {
-    "repo": "krahets/hello-algo",
-    "branch": "main",
-    "language": "Java",
-    "description": "《Hello 算法》：动画图解、一键运行的数据结构与算法教程。支持简中、繁中、English、日本語，提供 Python, Java, C++, C, C#, JS, Go, Swift, Rust, Ruby, Kotlin, TS, Dart 等代码实现"
-  },
-  {
-    "repo": "pytorch/vision",
-    "branch": "main",
-    "language": "Python",
-    "description": "Datasets, Transforms and Models specific to Computer Vision"
-  },
-  {
-    "repo": "photonstorm/phaser",
-    "branch": "master",
-    "language": "JavaScript",
-    "description": "Phaser is a fun, free and fast 2D game framework for making HTML5 games for desktop and mobile web browsers, supporting Canvas and WebGL rendering."
-  },
-  {
-    "repo": "tensorflow/tensorflow",
-    "branch": "master",
     "language": "C++",
-    "description": "An Open Source Machine Learning Framework for Everyone"
+    "description": "Star Fox 64 Remake PC download Fox McCloud Arwing Landmaster Falco Peppy Slippy Lylat System Corneria Andross Star Wolf Team 4K Widescreen Native Port Controller Support HD Textures Medals Expert Mode Barrel Roll All-Range Mode Venom Sector Z Solar Macbeth Aquas 60FPS."
   },
   {
-    "repo": "meuttamsharma/RAM_Cleaner___Optimizer",
+    "repo": "WebAssembly/spec",
     "branch": "main",
-    "language": "Python",
-    "description": "Free up RAM, optimize memory usage, and boost system performance. Clear cache, defragment memory, and monitor usage."
+    "language": "WebAssembly",
+    "description": "WebAssembly specification, reference interpreter, and test suite."
   },
   {
-    "repo": "drizzle-team/drizzle-orm",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "ORM"
-  },
-  {
-    "repo": "kivy/kivy",
+    "repo": "sharkdp/hyperfine",
     "branch": "master",
-    "language": "Python",
-    "description": "Open source UI framework written in Python, running on Windows, Linux, macOS, Android and iOS"
+    "language": "Rust",
+    "description": "A command-line benchmarking tool"
   },
   {
-    "repo": "GoogleCloudPlatform/golang-samples",
+    "repo": "erenjugs/OpenGork",
+    "branch": "main",
+    "language": "Shell",
+    "description": "🧠 Uncensored AI agent powered by xAI's Grok - no filters, no limits"
+  },
+  {
+    "repo": "hashicorp/vault",
     "branch": "main",
     "language": "Go",
-    "description": "Sample apps and code written for Google Cloud in the Go programming language."
+    "description": "A tool for secrets management, encryption as a service, and privileged access management"
   },
   {
-    "repo": "wasmerio/wasmer",
-    "branch": "master",
-    "language": "Rust",
-    "description": "🚀 Fast, secure, lightweight containers based on WebAssembly"
-  },
-  {
-    "repo": "vercel/next.js",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "The React Framework"
-  },
-  {
-    "repo": "actions/download-artifact",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Download artifacts from your build"
-  },
-  {
-    "repo": "sweetalert2/sweetalert2",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "✨ A beautiful, responsive, highly customizable and accessible (WAI-ARIA) replacement for JavaScript's popup boxes. Zero dependencies. 🇺🇦🇪🇺"
-  },
-  {
-    "repo": "Mufeedvh/Code2Prompt",
-    "branch": "main",
-    "language": "Rust",
-    "description": "A CLI tool to convert your codebase into a single LLM prompt with source tree, prompt templating, and token counting."
-  },
-  {
-    "repo": "labuladong/fucking-algorithm",
-    "branch": "master",
-    "language": "Markdown",
-    "description": "刷算法全靠套路，认准 labuladong 就够了！English version supported! Crack LeetCode, not only how, but also why."
-  },
-  {
-    "repo": "stanford-oval/storm",
-    "branch": "main",
-    "language": "Python",
-    "description": "An LLM-powered knowledge curation system that researches a topic and generates a full-length report with citations."
-  },
-  {
-    "repo": "tensorflow/models",
+    "repo": "public-apis/public-apis",
     "branch": "master",
     "language": "Python",
-    "description": "Models and examples built with TensorFlow"
+    "description": "A collective list of free APIs"
   },
   {
-    "repo": "honojs/hono",
+    "repo": "zilliztech/memsearch",
     "branch": "main",
-    "language": "TypeScript",
-    "description": "Web framework built on Web Standards"
+    "language": "Python",
+    "description": "A Markdown-first memory system, a standalone library for any AI agent. Inspired by OpenClaw."
   },
   {
-    "repo": "GoogleContainerTools/jib",
-    "branch": "master",
+    "repo": "ReactiveX/RxJava",
+    "branch": "3.x",
     "language": "Java",
-    "description": "🏗 Build container images for your Java applications."
+    "description": "RxJava – Reactive Extensions for the JVM – a library for composing asynchronous and event-based programs using observable sequences for the Java VM."
   },
   {
-    "repo": "ipython/ipython",
+    "repo": "depreciating/DoodleCloud",
     "branch": "main",
     "language": "Python",
-    "description": "Official repository for IPython itself. Other repos in the IPython organization contain things like the website, documentation builds, etc."
+    "description": "Cloud Storage using Instagram."
   },
   {
-    "repo": "996icu/996.ICU",
+    "repo": "rasbt/mini-coding-agent",
+    "branch": "main",
+    "language": "Python",
+    "description": "Minimal and readable coding agent harness implementation in Python to explain the core components of coding agents."
+  },
+  {
+    "repo": "langchain-ai/langchain",
     "branch": "master",
-    "language": "Other",
-    "description": "Repo for counting stars and contributing. Press F to pay respect to glorious developers."
+    "language": "Python",
+    "description": "🦜🔗 The platform for reliable agents."
   },
   {
-    "repo": "Zackriya-Solutions/meeting-minutes",
-    "branch": "main",
-    "language": "Rust",
-    "description": "Privacy first, AI meeting assistant with 4x faster Parakeet/Whisper live transcription, speaker diarization, and Ollama summarization built on Rust. 100% local processing. no cloud required. Meetily (Meetly Ai - https://meetily.ai) is the #1 Self-hosted,  Open-source Ai meeting note taker for macOS & Windows."
-  },
-  {
-    "repo": "python-pillow/Pillow",
+    "repo": "huggingface/trl",
     "branch": "main",
     "language": "Python",
-    "description": "Python Imaging Library (Fork)"
+    "description": "Train transformer language models with reinforcement learning."
+  },
+  {
+    "repo": "nestjs/nest",
+    "branch": "master",
+    "language": "TypeScript",
+    "description": "A progressive Node.js framework for building efficient, scalable, and enterprise-grade server-side applications with TypeScript/JavaScript 🚀"
+  },
+  {
+    "repo": "alibaba/FunASR",
+    "branch": "main",
+    "language": "Python",
+    "description": "A Fundamental End-to-End Speech Recognition Toolkit and Open Source SOTA Pretrained Models, Supporting Speech Recognition, Voice Activity Detection, Text Post-processing etc."
+  },
+  {
+    "repo": "LightTable/LightTable",
+    "branch": "master",
+    "language": "Clojure",
+    "description": "The Light Table IDE ⛺"
+  },
+  {
+    "repo": "memovai/mimiclaw",
+    "branch": "main",
+    "language": "C",
+    "description": "MimiClaw: Run OpenClaw on a $5 chip. No OS(Linux). No Node.js. No Mac mini. No Raspberry Pi. No VPS.😗Local-first memory. Shareable. Portable. Privacy-first."
+  },
+  {
+    "repo": "instructkr/claw-code",
+    "branch": "main",
+    "language": "Python",
+    "description": "Better Harness Tools, not merely storing the archive of leaked Claude Code but also make real things done. Now rewriting in Rust."
+  },
+  {
+    "repo": "vercel/serve",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Static file serving and directory listing"
+  },
+  {
+    "repo": "EurekaClaw/EurekaClaw",
+    "branch": "main",
+    "language": "Python",
+    "description": "The official repo of EurekaClaw"
+  },
+  {
+    "repo": "python-attrs/attrs",
+    "branch": "main",
+    "language": "Python",
+    "description": "Python Classes Without Boilerplate"
+  },
+  {
+    "repo": "dair-ai/ML-YouTube-Courses",
+    "branch": "main",
+    "language": "Other",
+    "description": "📺 Discover the latest machine learning / AI courses on YouTube."
+  },
+  {
+    "repo": "fastclaw-ai/weclaw",
+    "branch": "main",
+    "language": "Go",
+    "description": "Connect to any agents with WeChat ClawBot."
+  },
+  {
+    "repo": "moby/buildkit",
+    "branch": "master",
+    "language": "Go",
+    "description": "concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit"
+  },
+  {
+    "repo": "ManimCommunity/manim",
+    "branch": "main",
+    "language": "Python",
+    "description": "A community-maintained Python framework for creating mathematical animations."
   }
 ]
