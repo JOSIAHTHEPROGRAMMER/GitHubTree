@@ -1,8 +1,8 @@
 {
-  "repo": "bas3line/Airsec",
+  "repo": "liceses/dsh-gitbash-preset",
   "branch": "main",
-  "language": "TypeScript",
-  "description": "Find Security Issues in your code by using coding CLIs like Claude, Codex & CommandCode",
-  "stars": 128,
+  "language": "JavaScript",
+  "description": "DeepSeek Harness 插件：一键安装「极简模式 (Git Bash)」agent preset —— 把 DSH 自带极简模式中的 bash 调用映射到 Git for Windows 的 bash（MSYS），让 Windows 上的极简模式真正可用。",
+  "stars": 135,
   "forks": 0
 }
