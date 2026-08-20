@@ -1,111 +1,27 @@
 [
   {
-    "repo": "duonghieu7104/Star-Fox-64-Remake-PC-Port",
+    "repo": "patterniha/MITM-DomainFronting",
     "branch": "main",
-    "language": "C++",
-    "description": "Star Fox 64 Remake PC download Fox McCloud Arwing Landmaster Falco Peppy Slippy Lylat System Corneria Andross Star Wolf Team 4K Widescreen Native Port Controller Support HD Textures Medals Expert Mode Barrel Roll All-Range Mode Venom Sector Z Solar Macbeth Aquas 60FPS."
+    "language": "Batchfile",
+    "description": "Receiving unencrypted data with MITM, Then send it with DomainFronting"
   },
   {
-    "repo": "WebAssembly/spec",
+    "repo": "xr843/Master-skill",
     "branch": "main",
-    "language": "WebAssembly",
-    "description": "WebAssembly specification, reference interpreter, and test suite."
+    "language": "Python",
+    "description": "Chinese Buddhist Master-skill powered by FoJin — 基于佛教经典文献的汉传祖师大德教学角色生成器"
   },
   {
-    "repo": "sharkdp/hyperfine",
-    "branch": "master",
-    "language": "Rust",
-    "description": "A command-line benchmarking tool"
-  },
-  {
-    "repo": "erenjugs/OpenGork",
-    "branch": "main",
-    "language": "Shell",
-    "description": "🧠 Uncensored AI agent powered by xAI's Grok - no filters, no limits"
-  },
-  {
-    "repo": "hashicorp/vault",
+    "repo": "antflydb/antfly",
     "branch": "main",
     "language": "Go",
-    "description": "A tool for secrets management, encryption as a service, and privileged access management"
+    "description": ""
   },
   {
-    "repo": "public-apis/public-apis",
-    "branch": "master",
-    "language": "Python",
-    "description": "A collective list of free APIs"
-  },
-  {
-    "repo": "zilliztech/memsearch",
+    "repo": "SamNet-dev/paqctl",
     "branch": "main",
-    "language": "Python",
-    "description": "A Markdown-first memory system, a standalone library for any AI agent. Inspired by OpenClaw."
-  },
-  {
-    "repo": "ReactiveX/RxJava",
-    "branch": "3.x",
-    "language": "Java",
-    "description": "RxJava – Reactive Extensions for the JVM – a library for composing asynchronous and event-based programs using observable sequences for the Java VM."
-  },
-  {
-    "repo": "depreciating/DoodleCloud",
-    "branch": "main",
-    "language": "Python",
-    "description": "Cloud Storage using Instagram."
-  },
-  {
-    "repo": "rasbt/mini-coding-agent",
-    "branch": "main",
-    "language": "Python",
-    "description": "Minimal and readable coding agent harness implementation in Python to explain the core components of coding agents."
-  },
-  {
-    "repo": "langchain-ai/langchain",
-    "branch": "master",
-    "language": "Python",
-    "description": "🦜🔗 The platform for reliable agents."
-  },
-  {
-    "repo": "huggingface/trl",
-    "branch": "main",
-    "language": "Python",
-    "description": "Train transformer language models with reinforcement learning."
-  },
-  {
-    "repo": "nestjs/nest",
-    "branch": "master",
-    "language": "TypeScript",
-    "description": "A progressive Node.js framework for building efficient, scalable, and enterprise-grade server-side applications with TypeScript/JavaScript 🚀"
-  },
-  {
-    "repo": "alibaba/FunASR",
-    "branch": "main",
-    "language": "Python",
-    "description": "A Fundamental End-to-End Speech Recognition Toolkit and Open Source SOTA Pretrained Models, Supporting Speech Recognition, Voice Activity Detection, Text Post-processing etc."
-  },
-  {
-    "repo": "LightTable/LightTable",
-    "branch": "master",
-    "language": "Clojure",
-    "description": "The Light Table IDE ⛺"
-  },
-  {
-    "repo": "memovai/mimiclaw",
-    "branch": "main",
-    "language": "C",
-    "description": "MimiClaw: Run OpenClaw on a $5 chip. No OS(Linux). No Node.js. No Mac mini. No Raspberry Pi. No VPS.😗Local-first memory. Shareable. Portable. Privacy-first."
-  },
-  {
-    "repo": "instructkr/claw-code",
-    "branch": "main",
-    "language": "Python",
-    "description": "Better Harness Tools, not merely storing the archive of leaked Claude Code but also make real things done. Now rewriting in Rust."
-  },
-  {
-    "repo": "vercel/serve",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Static file serving and directory listing"
+    "language": "Shell",
+    "description": "Unified proxy manager for bypassing firewalls - supports Paqet (KCP/raw socket) and GFW-Knocker (violated TCP/QUIC) with dual-backend simultaneous operation"
   },
   {
     "repo": "EurekaClaw/EurekaClaw",
@@ -114,33 +30,117 @@
     "description": "The official repo of EurekaClaw"
   },
   {
-    "repo": "python-attrs/attrs",
+    "repo": "second-state/kitten_tts_rs",
     "branch": "main",
-    "language": "Python",
-    "description": "Python Classes Without Boilerplate"
+    "language": "Rust",
+    "description": "A Rust port of KittenTTS — ultra-lightweight ONNX-based text-to-speech."
   },
   {
-    "repo": "dair-ai/ML-YouTube-Courses",
+    "repo": "NeoVertex1/nuggets",
     "branch": "main",
-    "language": "Other",
-    "description": "📺 Discover the latest machine learning / AI courses on YouTube."
+    "language": "TypeScript",
+    "description": "First AI assistant with holographic memory"
   },
   {
-    "repo": "fastclaw-ai/weclaw",
+    "repo": "ShawnPana/aurl",
     "branch": "main",
     "language": "Go",
-    "description": "Connect to any agents with WeChat ClawBot."
+    "description": "A command line tool for turning any API into a CLI command, supporting OpenAPI 3.0, OpenAPI 3.1, Swagger 2.0, and GraphQL. aurl auto-detects authentication, validates requests against the spec, and generates documentation from introspection."
   },
   {
-    "repo": "moby/buildkit",
-    "branch": "master",
-    "language": "Go",
-    "description": "concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit"
+    "repo": "zengwenliang416/ppt-agent",
+    "branch": "main",
+    "language": "HTML",
+    "description": ""
   },
   {
-    "repo": "ManimCommunity/manim",
+    "repo": "trumpet-noek/sora2-free-watermark-remover",
     "branch": "main",
     "language": "Python",
-    "description": "A community-maintained Python framework for creating mathematical animations."
+    "description": "sora2 free watermark remover"
+  },
+  {
+    "repo": "donghuixin/AI-Vibe-Writing-Skills",
+    "branch": "main",
+    "language": "Python",
+    "description": "Using AI for high quality writing"
+  },
+  {
+    "repo": "griffinmartin/opencode-claude-auth",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "OpenCode plugin that uses your existing Claude Code credentials — no separate login needed"
+  },
+  {
+    "repo": "elder-plinius/G0DM0D3",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "LIBERATED AI CHAT"
+  },
+  {
+    "repo": "outsourc-e/hermes-workspace",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Native web workspace for Hermes Agent — chat, terminal, memory, skills, inspector. Built for the Nous Research hackathon."
+  },
+  {
+    "repo": "Nasiko-Labs/nasiko",
+    "branch": "main",
+    "language": "Python",
+    "description": "AI-powered development platform for the future"
+  },
+  {
+    "repo": "xuanyuanzhifeng/easytshark",
+    "branch": "main",
+    "language": "C",
+    "description": "一款开源的简洁好用的网络抓包分析软件"
+  },
+  {
+    "repo": "Gentleman-Programming/engram",
+    "branch": "main",
+    "language": "Go",
+    "description": "Persistent memory system for AI coding agents. Agent-agnostic Go binary with SQLite + FTS5, MCP server, HTTP API, CLI, and TUI."
+  },
+  {
+    "repo": "klawsh/klaw.sh",
+    "branch": "main",
+    "language": "Go",
+    "description": "kubectl for AI Agents"
+  },
+  {
+    "repo": "emscripten-core/emscripten",
+    "branch": "main",
+    "language": "C++",
+    "description": "Emscripten: An LLVM-to-WebAssembly Compiler"
+  },
+  {
+    "repo": "jazzband/django-debug-toolbar",
+    "branch": "main",
+    "language": "Python",
+    "description": "A configurable set of panels that display various debug information about the current request/response."
+  },
+  {
+    "repo": "nightwatchjs/nightwatch",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "Integrated end-to-end testing framework written in Node.js and using W3C Webdriver API. Developed at @browserstack"
+  },
+  {
+    "repo": "jzOcb/writing-style-skill",
+    "branch": "main",
+    "language": "Python",
+    "description": "Writing style skill template with built-in auto-learning. AI writes → you edit → rules auto-extracted → SKILL.md improves. Works with Claude Code + OpenClaw."
+  },
+  {
+    "repo": "originalankur/GenerateAgents.md",
+    "branch": "main",
+    "language": "Python",
+    "description": "Automated generation of comprehensive Agents.md for LLMs, driven by the DSPy Recursive language model implementation."
+  },
+  {
+    "repo": "microsoft/onnxruntime",
+    "branch": "main",
+    "language": "C++",
+    "description": "ONNX Runtime: cross-platform, high performance ML inferencing and training accelerator"
   }
 ]
