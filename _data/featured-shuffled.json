@@ -1,146 +1,146 @@
 [
   {
-    "repo": "patterniha/MITM-DomainFronting",
-    "branch": "main",
-    "language": "Batchfile",
-    "description": "Receiving unencrypted data with MITM, Then send it with DomainFronting"
-  },
-  {
-    "repo": "xr843/Master-skill",
-    "branch": "main",
-    "language": "Python",
-    "description": "Chinese Buddhist Master-skill powered by FoJin — 基于佛教经典文献的汉传祖师大德教学角色生成器"
-  },
-  {
-    "repo": "antflydb/antfly",
-    "branch": "main",
-    "language": "Go",
-    "description": ""
-  },
-  {
-    "repo": "SamNet-dev/paqctl",
+    "repo": "0xSteph/pentest-ai",
     "branch": "main",
     "language": "Shell",
-    "description": "Unified proxy manager for bypassing firewalls - supports Paqet (KCP/raw socket) and GFW-Knocker (violated TCP/QUIC) with dual-backend simultaneous operation"
+    "description": "Turn Claude Code into your offensive security research assistant. Specialized AI subagents for authorized penetration testing plan engagements, analyze recon, research exploits, build detections, audit STIGs, and write reports."
   },
   {
-    "repo": "EurekaClaw/EurekaClaw",
+    "repo": "nv-tlabs/kimodo",
     "branch": "main",
     "language": "Python",
-    "description": "The official repo of EurekaClaw"
-  },
-  {
-    "repo": "second-state/kitten_tts_rs",
-    "branch": "main",
-    "language": "Rust",
-    "description": "A Rust port of KittenTTS — ultra-lightweight ONNX-based text-to-speech."
-  },
-  {
-    "repo": "NeoVertex1/nuggets",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "First AI assistant with holographic memory"
-  },
-  {
-    "repo": "ShawnPana/aurl",
-    "branch": "main",
-    "language": "Go",
-    "description": "A command line tool for turning any API into a CLI command, supporting OpenAPI 3.0, OpenAPI 3.1, Swagger 2.0, and GraphQL. aurl auto-detects authentication, validates requests against the spec, and generates documentation from introspection."
-  },
-  {
-    "repo": "zengwenliang416/ppt-agent",
-    "branch": "main",
-    "language": "HTML",
     "description": ""
   },
   {
-    "repo": "trumpet-noek/sora2-free-watermark-remover",
+    "repo": "jazzband/pip-tools",
     "branch": "main",
     "language": "Python",
-    "description": "sora2 free watermark remover"
+    "description": "A set of tools to keep your pinned Python dependencies fresh."
   },
   {
-    "repo": "donghuixin/AI-Vibe-Writing-Skills",
+    "repo": "Qwilxy/paralives-release",
     "branch": "main",
-    "language": "Python",
-    "description": "Using AI for high quality writing"
+    "language": "C#",
+    "description": "paralives release date early access steam download pc windows 11 gameplay trailer paramaker life simulation sims alternative free updates system requirements character creator build mode"
   },
   {
-    "repo": "griffinmartin/opencode-claude-auth",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "OpenCode plugin that uses your existing Claude Code credentials — no separate login needed"
-  },
-  {
-    "repo": "elder-plinius/G0DM0D3",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "LIBERATED AI CHAT"
-  },
-  {
-    "repo": "outsourc-e/hermes-workspace",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Native web workspace for Hermes Agent — chat, terminal, memory, skills, inspector. Built for the Nous Research hackathon."
-  },
-  {
-    "repo": "Nasiko-Labs/nasiko",
-    "branch": "main",
-    "language": "Python",
-    "description": "AI-powered development platform for the future"
-  },
-  {
-    "repo": "xuanyuanzhifeng/easytshark",
-    "branch": "main",
-    "language": "C",
-    "description": "一款开源的简洁好用的网络抓包分析软件"
-  },
-  {
-    "repo": "Gentleman-Programming/engram",
-    "branch": "main",
-    "language": "Go",
-    "description": "Persistent memory system for AI coding agents. Agent-agnostic Go binary with SQLite + FTS5, MCP server, HTTP API, CLI, and TUI."
-  },
-  {
-    "repo": "klawsh/klaw.sh",
-    "branch": "main",
-    "language": "Go",
-    "description": "kubectl for AI Agents"
-  },
-  {
-    "repo": "emscripten-core/emscripten",
-    "branch": "main",
-    "language": "C++",
-    "description": "Emscripten: An LLVM-to-WebAssembly Compiler"
-  },
-  {
-    "repo": "jazzband/django-debug-toolbar",
-    "branch": "main",
-    "language": "Python",
-    "description": "A configurable set of panels that display various debug information about the current request/response."
-  },
-  {
-    "repo": "nightwatchjs/nightwatch",
+    "repo": "lov-team/dagoujiao",
     "branch": "main",
     "language": "JavaScript",
-    "description": "Integrated end-to-end testing framework written in Node.js and using W3C Webdriver API. Developed at @browserstack"
+    "description": "最近特别火的视频大狗叫"
   },
   {
-    "repo": "jzOcb/writing-style-skill",
-    "branch": "main",
-    "language": "Python",
-    "description": "Writing style skill template with built-in auto-learning. AI writes → you edit → rules auto-extracted → SKILL.md improves. Works with Claude Code + OpenClaw."
-  },
-  {
-    "repo": "originalankur/GenerateAgents.md",
-    "branch": "main",
-    "language": "Python",
-    "description": "Automated generation of comprehensive Agents.md for LLMs, driven by the DSPy Recursive language model implementation."
-  },
-  {
-    "repo": "microsoft/onnxruntime",
+    "repo": "gerardapennant96075336582/CapC-Pro-2",
     "branch": "main",
     "language": "C++",
-    "description": "ONNX Runtime: cross-platform, high performance ML inferencing and training accelerator"
+    "description": "CapCut Pro Studio (2026) — The ultimate high-performance video editing suite with all premium features unlocked. Experience 4K HDR exporting, AI-powered transitions, and a full professional asset library without limitations."
+  },
+  {
+    "repo": "wwe-dog/ppt-image2-editable-rebuild",
+    "branch": "main",
+    "language": "Python",
+    "description": "一个基于截图/参考图重建可编辑 PPT 的 Codex skill。先用 image2/imagegen 生成单页视觉参考图，再以局部截图保留复杂插图、图标、地图等视觉资产，同时用 PPT 文本框和形状重建标题、正文、卡片、箭头、标签、结论条等可编辑元素。"
+  },
+  {
+    "repo": "signalapp/Signal-Android",
+    "branch": "main",
+    "language": "Kotlin",
+    "description": "A private messenger for Android."
+  },
+  {
+    "repo": "v2fly/v2ray-core",
+    "branch": "master",
+    "language": "Go",
+    "description": "A platform for building proxies to bypass network restrictions."
+  },
+  {
+    "repo": "Shudesu/line-harness-oss",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Open-source LINE Official Account CRM — free alternative to paid tools. Step delivery, broadcasts, forms, rich menus, scoring, automation, and more."
+  },
+  {
+    "repo": "lukilabs/beautiful-mermaid-swift",
+    "branch": "main",
+    "language": "Swift",
+    "description": "Native Mermaid diagram renderer for Swift"
+  },
+  {
+    "repo": "figure-markets/polymarket-arbitrage-bot",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "polymarket arbitrage bot polymarket arbitrage bot polymarket arbitrage bot polymarket arbitrage bot polymarket arbitrage bot polymarket arbitrage bot polymarket arbitrage bot polymarket arbitrage bot polymarket arbitrage bot polymarket arbitrage bot polymarket arbitrage bot polymarket arbitrage bot polymarket arbitrage bot polymarket arbitrage bot"
+  },
+  {
+    "repo": "vikingmute/better-wechatpay",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "现代化的微信支付 Node.js SDK - ESM、TypeScript、全支付方式支持"
+  },
+  {
+    "repo": "appledog-xyz/FormCmsPortal",
+    "branch": "main",
+    "language": "Python",
+    "description": ""
+  },
+  {
+    "repo": "freqtrade/freqtrade",
+    "branch": "develop",
+    "language": "Python",
+    "description": "Free, open source crypto trading bot"
+  },
+  {
+    "repo": "l0ng-ai/papr",
+    "branch": "main",
+    "language": "Rust",
+    "description": "A fast, native RSS reader for the desktop."
+  },
+  {
+    "repo": "build-poe2/PathOfBuilding-PoE2",
+    "branch": "main",
+    "language": "Lua",
+    "description": "path of building poe2 build 0.5 pob community fork path of exile 2 build planner dps calculator github download  portable  pobb in league starter passive tree ascendancy gems"
+  },
+  {
+    "repo": "J2TEAM/vibe.j2team.org",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "Sẽ thế nào nếu cả nhóm J2TEAM Community vibe code cùng nhau?"
+  },
+  {
+    "repo": "ytnrvdf/wha-spell-simulator",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "A fan-made browser-based Witch Hat Atelier spell simulator."
+  },
+  {
+    "repo": "assafelovic/skyll",
+    "branch": "main",
+    "language": "Python",
+    "description": "A tool for AI agents to discover and learn skills autonomously"
+  },
+  {
+    "repo": "CodeSeven/toastr",
+    "branch": "master",
+    "language": "JavaScript",
+    "description": "Simple javascript toast notifications"
+  },
+  {
+    "repo": "postrv/forgemax",
+    "branch": "main",
+    "language": "Rust",
+    "description": "Code Mode inspired local sandboxed MCP Gateway — collapses N servers x M tools into 2 tools (~1,000 tokens)"
+  },
+  {
+    "repo": "Mclisterjoeh2o/yellowkey-bitlocker",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "yellowkey  bitlocker github vulnerability  bypass  cve-2026-45585 windows 11 security zero day exploit winre recovery mode poc nightmare eclipse chaotic eclipse exploit tool usb attack encryption hack script mitigation guide fstx winpeshl shell unpatched fix tool"
+  },
+  {
+    "repo": "psycopg/psycopg",
+    "branch": "master",
+    "language": "Python",
+    "description": "New generation PostgreSQL database adapter for the Python programming language"
   }
 ]

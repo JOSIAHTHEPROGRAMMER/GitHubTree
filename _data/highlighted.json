@@ -1,8 +1,8 @@
 {
-  "repo": "AwaisShah75/Real-Time-Person-Elderly-Fall-Detection-System",
+  "repo": "bas3line/Airsec",
   "branch": "main",
-  "language": "Python",
-  "description": "A featured project on GitHubTree.",
-  "stars": 134,
-  "forks": 29
+  "language": "TypeScript",
+  "description": "Find Security Issues in your code by using coding CLIs like Claude, Codex & CommandCode",
+  "stars": 128,
+  "forks": 0
 }
