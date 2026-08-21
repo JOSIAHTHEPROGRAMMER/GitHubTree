@@ -1,8 +1,8 @@
 {
-  "repo": "Sui-IB/InternalBeyond-Mobile",
+  "repo": "MrMoT9I/paper-aquarium",
   "branch": "main",
-  "language": "HTML",
-  "description": "Internal Beyond 的移动端同源版本：一个离线运行的单文件个人网站式应用项目，旨于维系情感的连续性。",
-  "stars": 109,
-  "forks": 310
+  "language": "JavaScript",
+  "description": "Бумажная раскраска превращается в 3D-рыбу: ребёнок раскрашивает лист, фотографирует телефоном — и рыбка плывёт в аквариуме на большом экране. Node без зависимостей + three.js.",
+  "stars": 118,
+  "forks": 23
 }

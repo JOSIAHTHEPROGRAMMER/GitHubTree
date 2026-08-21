@@ -1,146 +1,146 @@
 [
   {
-    "repo": "dotnet/efcore",
-    "branch": "main",
-    "language": "C#",
-    "description": "EF Core is a modern object-database mapper for .NET. It supports LINQ queries, change tracking, updates, and schema migrations."
-  },
-  {
-    "repo": "ZimoLiao/scholaraio",
-    "branch": "main",
-    "language": "Python",
-    "description": "Scholar All-In-One: AI agent-powered research terminal"
-  },
-  {
-    "repo": "Rista-student/ryujinx-emulator-latest",
-    "branch": "main",
-    "language": "HTML",
-    "description": "Ryujinx - Best Nintendo Switch Emulator for All Nintendo Games 2026"
-  },
-  {
-    "repo": "eli-labz/Cognitive-Core-Skills",
-    "branch": "main",
-    "language": "Python",
-    "description": "A universal, industry-neutral taxonomy of cognitive core skills (perception, memory, reasoning, planning, action, verification, learning, governance) for LLMs, SLMs, AI agents, and world models — with schemas, 159 skill cards, benchmarks, and CI."
-  },
-  {
-    "repo": "littlefrogyq/UE4SS-Subnautica-2",
-    "branch": "main",
-    "language": "C++",
-    "description": "UE4SS Subnautica 2: UE4SS download github latest version, Subnautica 2 UE5 mod loader setup, xinput1_4.dll dwmapi.dll injector error. REUE4SS UE4SS-settings.ini config, console modding commands, Subnautica 2 crashes on launch fix, dump SDK C++ blueprints, Live Viewport object spacer, GuiConsole visible toggle. Unreal Engine 5.5 compatibility,"
-  },
-  {
-    "repo": "Sayhi-bzb/AIEden",
+    "repo": "x1xhlol/better-clawd",
     "branch": "main",
     "language": "TypeScript",
-    "description": "an LLM-native world and civilization"
+    "description": "Claude Code, but better: better performance, OpenAI/OpenRouter support, no telemetry, no lock-in."
   },
   {
-    "repo": "dadi1921/Tomodachi-Life-Living-The-Dream-PC",
+    "repo": "withmarbleapp/os-taxonomy",
     "branch": "main",
-    "language": "C++",
-    "description": "Tomodachi Life: Living the Dream PC Version is an optimized Windows port of the popular life simulation game. Create unique Miis, develop relationships, host concerts and events on your own island in high resolution. Features improved performance, widescreen support, smooth FPS"
-  },
-  {
-    "repo": "Dhravya/webpull",
-    "branch": "main",
-    "language": "TypeScript",
+    "language": "JavaScript",
     "description": ""
   },
   {
-    "repo": "sartoopjj/vpn-over-github",
-    "branch": "main",
-    "language": "Go",
-    "description": "Tunnels TCP connections through GitHub. Supports gist and git transports ( Too slow. Not usable.)"
-  },
-  {
-    "repo": "selfishblackberry177/sni-spoof",
-    "branch": "main",
-    "language": "Go",
-    "description": "Go port of @patterniha's SNI spoofing / DPI bypass TCP forwarder (Linux)"
-  },
-  {
-    "repo": "michaelpersonal/goal-forge",
+    "repo": "deusyu/translate-book",
     "branch": "main",
     "language": "Python",
-    "description": "Codex skill: turn a rough coding idea into a SPEC.md, GOAL.md, and /goal-ready contract."
+    "description": "Claude Code skill that translates entire books (PDF/DOCX/EPUB) into any language using parallel subagents"
   },
   {
-    "repo": "shanselman/PeekDesktop",
-    "branch": "main",
-    "language": "C#",
-    "description": "Click your desktop to peek at it - just like macOS Sonoma."
-  },
-  {
-    "repo": "Octoberfest7/SilentHarvest_BOF",
-    "branch": "main",
-    "language": "C",
-    "description": "A Cobalt Strike BOF implementation of the SilentHarvest registry dumping technique"
-  },
-  {
-    "repo": "riverscn/intro-agentic-ai",
-    "branch": "main",
-    "language": "Vue",
-    "description": "认识 Agentic AI：从神经网络到智能体"
-  },
-  {
-    "repo": "B3hnamR/XHTTPRelayECO",
-    "branch": "master",
-    "language": "HTML",
-    "description": "Low-overhead hardened XHTTP relay on Vercel Node runtime"
-  },
-  {
-    "repo": "jakobfriedl/tgt-monitor-bof",
-    "branch": "main",
-    "language": "C",
-    "description": "Async BOF implementation of 'Rubeus monitor' to detect and automatically extract Kerberos TGTs as they appear on a target system."
-  },
-  {
-    "repo": "haigechanlun/chanlun_auto_trading",
-    "branch": "main",
-    "language": "Python",
-    "description": "一个基于缠论（Chanlun）理论构建的自动化量化交易系统，结合历史数据训练、严格风控与实盘执行，致力于实现稳定且可持续的收益表现。  回测收益年化80%+！欢迎订阅信号和实盘测试。"
-  },
-  {
-    "repo": "Composio-HQ/polymarket-kalshi-arbitrage-bot",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Polymarket Kalshi arbitrage prediction-markets trading-bot TypeScript Node.js CLOB Polygon ethers automated-trading spread-trading DeFi crypto algorithmic-trading market-making Kalshi-API Polymarket-CLOB express axios dotenv"
-  },
-  {
-    "repo": "MayersScott/rkn-block-checker",
-    "branch": "main",
-    "language": "Python",
-    "description": "Diagnose RKN/TSPU internet blocks layer by layer (DNS, TCP, TLS, HTTP)"
-  },
-  {
-    "repo": "youssofal/MTPLX",
-    "branch": "main",
-    "language": "Python",
-    "description": "Native MTP Speculative Decoding On Apple Silicon | 2x - 2.5x decode TPS increase at temp 0.6 | MLX-native, OpenAI API/Anthropic-compatible serving, no external drafter."
-  },
-  {
-    "repo": "cosmic-market/polymarket-copy-trading-bot",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "polymarket copy trading Bot polymarket copy trading Bot polymarket copy trading Bot polymarket copy trading Bot polymarket copy trading Bot polymarket copy trading Bot polymarket copytrading bot polymarket copytrading bot polymarket copytrading bot polymarket copytrading bot polymarket copytrading bot polymarket copytrading bot polymarket copytrade"
-  },
-  {
-    "repo": "jackwener/wx-cli",
+    "repo": "firecracker-microvm/firecracker",
     "branch": "main",
     "language": "Rust",
-    "description": "WeChat local data CLI with daemon architecture"
+    "description": "Secure and fast microVMs for serverless computing."
   },
   {
-    "repo": "jwangkun/hermes-agent-guide",
-    "branch": "main",
-    "language": "Python",
-    "description": "Hermes Agent 是目前开源社区最具潜力的 AI Agent 框架之一。它继承了 OpenClaw 的优秀基因，在架构设计、记忆系统、技能生态和自动化能力上实现全面升级。但 Hermes 的文档分散在多个仓库和平台，缺乏一本系统性的中文指南。  本书填补的正是这个空白。全书 16 册、30 万+ 字，覆盖从安装部署到高阶开发、从个人玩赚到企业服务、从单 Agent 操控到多 Agent 编排的完整知识图谱。"
+    "repo": "redis/hiredis",
+    "branch": "master",
+    "language": "C",
+    "description": "Minimalistic C client for Redis >= 1.2"
   },
   {
-    "repo": "HKUSTDial/Supervisor-Skills",
+    "repo": "blurrer/Polymarket-Sports-Market-Auto-Trading-Script",
+    "branch": "main",
+    "language": "Rust",
+    "description": "Open-source Rust bot for automated Polymarket sports market trading with trailing-stop strategy. Simulation and live modes."
+  },
+  {
+    "repo": "facebookresearch/detectron2",
     "branch": "main",
     "language": "Python",
-    "description": "将博导十年科研经验炼化为可直接调用的 AI 技能。从 Idea 构思到论文投稿，你的 AI 科研副导师。"
+    "description": "Detectron2 is a platform for object detection, segmentation and other visual recognition tasks."
+  },
+  {
+    "repo": "elastic/elasticsearch",
+    "branch": "main",
+    "language": "Java",
+    "description": "Free and Open Source, Distributed, RESTful Search Engine"
+  },
+  {
+    "repo": "ysharma3501/LuxTTS",
+    "branch": "master",
+    "language": "Python",
+    "description": "A high-quality rapid TTS voice cloning model that reaches speeds of 150x realtime."
+  },
+  {
+    "repo": "Gustavo1900/bevy-tokio-tasks",
+    "branch": "master",
+    "language": "Rust",
+    "description": ""
+  },
+  {
+    "repo": "jupyterlab/jupyterlab",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "JupyterLab computational environment."
+  },
+  {
+    "repo": "duckdb/duckdb",
+    "branch": "main",
+    "language": "C++",
+    "description": "DuckDB is an analytical in-process SQL database management system"
+  },
+  {
+    "repo": "calesthio/Crucix",
+    "branch": "master",
+    "language": "JavaScript",
+    "description": "Your personal intelligence agent. Watches the world from 26 data sources and pings you when something changes."
+  },
+  {
+    "repo": "sindresorhus/awesome-electron",
+    "branch": "main",
+    "language": "Other",
+    "description": "Useful resources for creating apps with Electron"
+  },
+  {
+    "repo": "Krypto-Hashers-Community/polymarket-copytrading-bot-rust-sport-crypto",
+    "branch": "main",
+    "language": "Rust",
+    "description": "The ultimate Polymarket CopyTrading Bot in Rust. AI-powered Polymarket CopyTrading Bot for smarter trades. Self-hosted Polymarket CopyTrading Bot with dashboard. Real-time Polymarket CopyTrading Bot for top traders. Reliable Polymarket CopyTrading Bot for prediction markets. Fast Polymarket CopyTrading Bot. Try Polymarket CopyTrading Bot now."
+  },
+  {
+    "repo": "rzru/nightingale",
+    "branch": "master",
+    "language": "Rust",
+    "description": "Machine learning powered Karaoke app (with scores!)"
+  },
+  {
+    "repo": "sdmg15/Best-websites-a-programmer-should-visit",
+    "branch": "master",
+    "language": "Other",
+    "description": ":link: Some useful websites for programmers."
+  },
+  {
+    "repo": "UniRound-Tec/Aurogen",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Aurogen🍊: The Multi-Agent Evolution of OpenClaw."
+  },
+  {
+    "repo": "gavrielc/nanoclaw",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "My personal Claude assistant that runs in Apple containers. Lightweight, secure, and built to be understood and customized for your own needs."
+  },
+  {
+    "repo": "Lethalchip/SpaceChatDB",
+    "branch": "main",
+    "language": "Rust",
+    "description": ""
+  },
+  {
+    "repo": "ringhyacinth/Star-Office-UI",
+    "branch": "master",
+    "language": "HTML",
+    "description": ""
+  },
+  {
+    "repo": "OpenBMB/MiniCPM-o",
+    "branch": "main",
+    "language": "Python",
+    "description": "MiniCPM-V 4.5: A GPT-4o Level MLLM for Single Image, Multi Image and High-FPS Video Understanding on Your Phone"
+  },
+  {
+    "repo": "soimy/openclaw-channel-dingtalk",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "A dingtalk bot channel plugin for clawdbot"
+  },
+  {
+    "repo": "imxv/Pretty-mermaid-skills",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "To provide AI with Mermaid chart rendering capability, supporting both SVG and ASCII output formats"
   }
 ]
