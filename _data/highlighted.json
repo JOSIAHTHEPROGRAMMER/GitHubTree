@@ -1,8 +1,8 @@
 {
-  "repo": "bezumiya/GoLiveBypass",
+  "repo": "albertobeiz/kindergrimm",
   "branch": "main",
-  "language": "TypeScript",
-  "description": "GoLiveBypass — Equicord/Vencord plugin that restores Go Live & camera for Brazilian Discord users by booting the session behind a non-BR proxy (Tor or tested free proxy). Privacy and anti-censorship tool.",
-  "stars": 117,
-  "forks": 16
+  "language": "JavaScript",
+  "description": "Procedural doodle characters drawn as if by hand on cream paper — and Kindergrimm, the game they live in",
+  "stars": 109,
+  "forks": 22
 }

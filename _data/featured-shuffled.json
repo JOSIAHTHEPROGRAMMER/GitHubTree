@@ -1,146 +1,146 @@
 [
   {
-    "repo": "aiming-lab/AutoResearchClaw",
-    "branch": "main",
-    "language": "Python",
-    "description": "Fully autonomous research from idea to paper. Chat an Idea. Get a Paper. Fully Autonomous. 🦞"
-  },
-  {
-    "repo": "gabagool222/15min-btc-polymarket-trading-bot",
-    "branch": "main",
-    "language": "Python",
-    "description": "15min btc polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot"
-  },
-  {
-    "repo": "vercel/swr",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "React Hooks for Data Fetching"
-  },
-  {
-    "repo": "vanroon/Pet-Simulator-99-Auto-Farm-Trainer-2026-Elite",
-    "branch": "main",
-    "language": "Python",
-    "description": "Boost your Pet Simulator 99 progress with the Elite trainer. Auto-farm, auto-hatch, instant break, and League auto-grind – all in one sleek GUI. Works with the June 2026 update."
-  },
-  {
-    "repo": "react-native-video/react-native-video",
-    "branch": "master",
-    "language": "Kotlin",
-    "description": "A <Video /> component for react-native"
-  },
-  {
-    "repo": "URLab-Sim/UnrealRoboticsLab",
-    "branch": "main",
-    "language": "C++",
-    "description": "A high-fidelity, open-source robotics simulator integrating Unreal Engine's photorealistic rendering with MuJoCo's precision physics."
-  },
-  {
-    "repo": "microsoft/winget-pkgs",
-    "branch": "master",
-    "language": "PowerShell",
-    "description": "The Microsoft community Windows Package Manager manifest repository"
-  },
-  {
-    "repo": "dogadmin/ProcIR",
-    "branch": "main",
-    "language": "Go",
-    "description": ""
-  },
-  {
-    "repo": "hitmux/HitCC",
-    "branch": "main",
-    "language": "Python",
-    "description": "Complete reverse-engineering documentation of the full logic of Claude Code CLI Node.js version v2.1.84"
-  },
-  {
-    "repo": "tensorflow/tensorflow",
-    "branch": "master",
-    "language": "C++",
-    "description": "An Open Source Machine Learning Framework for Everyone"
-  },
-  {
-    "repo": "docker/docker-py",
-    "branch": "main",
-    "language": "Python",
-    "description": "A Python library for the Docker Engine API"
-  },
-  {
-    "repo": "apache/airflow",
-    "branch": "main",
-    "language": "Python",
-    "description": "Apache Airflow - A platform to programmatically author, schedule, and monitor workflows"
-  },
-  {
-    "repo": "fastlane/supply",
-    "branch": "master",
-    "language": "Other",
-    "description": "Command line tool for updating Android apps and their metadata on the Google Play Store"
-  },
-  {
-    "repo": "kubernetes/kubernetes",
-    "branch": "master",
-    "language": "Go",
-    "description": "Production-Grade Container Scheduling and Management"
-  },
-  {
-    "repo": "pytorch/serve",
-    "branch": "master",
-    "language": "Java",
-    "description": "Serve, optimize and scale PyTorch models in production"
-  },
-  {
-    "repo": "pocketbase/pocketbase",
-    "branch": "master",
-    "language": "Go",
-    "description": "Open Source realtime backend in 1 file"
-  },
-  {
-    "repo": "apache/camel",
-    "branch": "main",
-    "language": "Java",
-    "description": "Apache Camel is an open source integration framework that empowers you to quickly and easily integrate various systems consuming or producing data."
-  },
-  {
-    "repo": "R6410418/Jackrong-llm-finetuning-guide",
-    "branch": "main",
-    "language": "Jupyter Notebook",
-    "description": ""
-  },
-  {
-    "repo": "symfony/symfony",
-    "branch": "7.1",
-    "language": "PHP",
-    "description": "The Symfony PHP framework"
-  },
-  {
-    "repo": "denoland/deno",
-    "branch": "main",
-    "language": "Rust",
-    "description": "A modern runtime for JavaScript and TypeScript."
-  },
-  {
-    "repo": "ReactiveX/RxJava",
-    "branch": "3.x",
-    "language": "Java",
-    "description": "RxJava – Reactive Extensions for the JVM – a library for composing asynchronous and event-based programs using observable sequences for the Java VM."
-  },
-  {
-    "repo": "ExpondoEgirl/felca-reporter",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "Extensão Chrome/Edge que automatiza denúncias de conteúdo inadequado para menores no YouTube, conforme a Lei nº 15.211/2025 (Lei Felca / ECA Digital)"
-  },
-  {
-    "repo": "nvm-sh/nvm",
+    "repo": "pi-hole/pi-hole",
     "branch": "master",
     "language": "Shell",
-    "description": "Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions"
+    "description": "A black hole for Internet advertisements"
   },
   {
-    "repo": "DLYuanGod/MegaTrain",
+    "repo": "openai/privacy-filter",
     "branch": "main",
     "language": "Python",
-    "description": ""
+    "description": "OpenAI Privacy Filter"
+  },
+  {
+    "repo": "johnkf5-ops/the-dev-squad",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Give Claude its own dev team: one supervisor, four specialists, and bulletproof plans/builds without losing context."
+  },
+  {
+    "repo": "keithnull/TeachYourselfCS-CN",
+    "branch": "master",
+    "language": "Other",
+    "description": "TeachYourselfCS 的中文翻译 |  A Chinese translation of TeachYourselfCS"
+  },
+  {
+    "repo": "ryanstephen/lil-agents",
+    "branch": "main",
+    "language": "Swift",
+    "description": "tiny AI companions that live on your macOS dock"
+  },
+  {
+    "repo": "vercel/ai-chatbot-svelte",
+    "branch": "main",
+    "language": "Svelte",
+    "description": "A full-featured, hackable SvelteKit AI chatbot built by Vercel"
+  },
+  {
+    "repo": "milla-jovovich/mempalace",
+    "branch": "main",
+    "language": "Python",
+    "description": "The highest-scoring AI memory system ever benchmarked. And it's free."
+  },
+  {
+    "repo": "PaddlePaddle/PaddleNLP",
+    "branch": "develop",
+    "language": "Python",
+    "description": "Easy-to-use and powerful LLM and SLM library with awesome model zoo."
+  },
+  {
+    "repo": "material-components/material-components-android",
+    "branch": "master",
+    "language": "Java",
+    "description": "Modular and customizable Material Design UI components for Android"
+  },
+  {
+    "repo": "webpack/webpack-dev-server",
+    "branch": "master",
+    "language": "JavaScript",
+    "description": "Serves a webpack app. Updates the browser on changes. Documentation https://webpack.js.org/configuration/dev-server/."
+  },
+  {
+    "repo": "mit-pdos/xv6-public",
+    "branch": "master",
+    "language": "C",
+    "description": "xv6 OS"
+  },
+  {
+    "repo": "payloadcms/payload",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Payload is the open-source, fullstack Next.js framework, giving you instant backend superpowers. Get a full TypeScript backend and admin panel instantly. Use Payload as a headless CMS or for building powerful applications."
+  },
+  {
+    "repo": "JinGuYuan/jinguyuan-dumpling-skill",
+    "branch": "main",
+    "language": "Python",
+    "description": "金谷园饺子馆 AI Skill - 北邮边上的饺子馆"
+  },
+  {
+    "repo": "rust-lang/mdBook",
+    "branch": "master",
+    "language": "Rust",
+    "description": "Create book from markdown files. Like Gitbook but implemented in Rust"
+  },
+  {
+    "repo": "bazelbuild/bazel",
+    "branch": "master",
+    "language": "Java",
+    "description": "a fast, scalable, multi-language and extensible build system"
+  },
+  {
+    "repo": "prettier/prettier",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "Prettier is an opinionated code formatter."
+  },
+  {
+    "repo": "stylelint/stylelint",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "A mighty CSS linter that helps you avoid errors and enforce conventions."
+  },
+  {
+    "repo": "zhangbo2008/claude_code_annotated",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "claudecode泄露部分的代码解析"
+  },
+  {
+    "repo": "skibidiskib/ai-codex",
+    "branch": "master",
+    "language": "TypeScript",
+    "description": "Generate a compact codebase index for AI assistants — saves 50K+ tokens per conversation"
+  },
+  {
+    "repo": "soimy/openclaw-channel-dingtalk",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "A dingtalk bot channel plugin for clawdbot"
+  },
+  {
+    "repo": "deepchem/deepchem",
+    "branch": "master",
+    "language": "Python",
+    "description": "Democratizing Deep-Learning for Drug Discovery, Quantum Chemistry, Materials Science and Biology"
+  },
+  {
+    "repo": "knative/eventing",
+    "branch": "main",
+    "language": "Go",
+    "description": "Event-driven application platform for Kubernetes"
+  },
+  {
+    "repo": "wasabeef/awesome-android-ui",
+    "branch": "master",
+    "language": "Other",
+    "description": "A curated list of awesome Android UI/UX libraries"
+  },
+  {
+    "repo": "googleapis/google-api-python-client",
+    "branch": "main",
+    "language": "Python",
+    "description": "🐍 The official Python client library for Google's discovery based APIs."
   }
 ]
