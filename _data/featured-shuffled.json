@@ -1,146 +1,146 @@
 [
   {
-    "repo": "facebook/hermes",
+    "repo": "dotnet/efcore",
     "branch": "main",
-    "language": "JavaScript",
-    "description": "A JavaScript engine optimized for running React Native."
+    "language": "C#",
+    "description": "EF Core is a modern object-database mapper for .NET. It supports LINQ queries, change tracking, updates, and schema migrations."
   },
   {
-    "repo": "trycua/launchpad",
+    "repo": "ZimoLiao/scholaraio",
     "branch": "main",
-    "language": "TypeScript",
-    "description": ""
-  },
-  {
-    "repo": "ygwyg/MAHORAGA",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "autonomous trading agent powered by social sentiment analysis and ai that learns, grows, and adapts"
-  },
-  {
-    "repo": "ok-oldking/ok-end-field",
-    "branch": "master",
     "language": "Python",
-    "description": "终末地 End Field Automation 基于ok-script开发的自动化"
+    "description": "Scholar All-In-One: AI agent-powered research terminal"
   },
   {
-    "repo": "ray-project/ray",
-    "branch": "master",
-    "language": "Python",
-    "description": "Ray is an AI compute engine. Ray consists of a core distributed runtime and a set of AI Libraries for accelerating ML workloads."
-  },
-  {
-    "repo": "hasura/graphql-engine",
-    "branch": "master",
-    "language": "TypeScript",
-    "description": "Blazing fast, instant realtime GraphQL APIs on all your data with fine grained access control, also trigger webhooks on database events."
-  },
-  {
-    "repo": "javaevolved/javaevolved.github.io",
+    "repo": "Rista-student/ryujinx-emulator-latest",
     "branch": "main",
     "language": "HTML",
-    "description": "Java Evolved. Your Code Can Evolve Too!"
+    "description": "Ryujinx - Best Nintendo Switch Emulator for All Nintendo Games 2026"
   },
   {
-    "repo": "pytorch/vision",
+    "repo": "eli-labz/Cognitive-Core-Skills",
     "branch": "main",
     "language": "Python",
-    "description": "Datasets, Transforms and Models specific to Computer Vision"
+    "description": "A universal, industry-neutral taxonomy of cognitive core skills (perception, memory, reasoning, planning, action, verification, learning, governance) for LLMs, SLMs, AI agents, and world models — with schemas, 159 skill cards, benchmarks, and CI."
   },
   {
-    "repo": "immanuwell/dockerfile-roast",
+    "repo": "littlefrogyq/UE4SS-Subnautica-2",
     "branch": "main",
-    "language": "Rust",
-    "description": "a dockerfile linter that actually has opinions 🔥"
+    "language": "C++",
+    "description": "UE4SS Subnautica 2: UE4SS download github latest version, Subnautica 2 UE5 mod loader setup, xinput1_4.dll dwmapi.dll injector error. REUE4SS UE4SS-settings.ini config, console modding commands, Subnautica 2 crashes on launch fix, dump SDK C++ blueprints, Live Viewport object spacer, GuiConsole visible toggle. Unreal Engine 5.5 compatibility,"
   },
   {
-    "repo": "johannesjo/parallel-code",
+    "repo": "Sayhi-bzb/AIEden",
     "branch": "main",
     "language": "TypeScript",
-    "description": "Run Claude Code, Codex, and Gemini side by side — each in      its own git worktree"
+    "description": "an LLM-native world and civilization"
   },
   {
-    "repo": "jupyter/notebook",
+    "repo": "dadi1921/Tomodachi-Life-Living-The-Dream-PC",
     "branch": "main",
-    "language": "Jupyter Notebook",
-    "description": "Jupyter Interactive Notebook"
+    "language": "C++",
+    "description": "Tomodachi Life: Living the Dream PC Version is an optimized Windows port of the popular life simulation game. Create unique Miis, develop relationships, host concerts and events on your own island in high resolution. Features improved performance, widescreen support, smooth FPS"
   },
   {
-    "repo": "Thearas/wechat-db-decrypt-macos",
+    "repo": "Dhravya/webpull",
     "branch": "main",
-    "language": "Python",
-    "description": "macOS arm64 微信 4.1 数据库解密，只在最新的微信 4.1.2.241 测试过，不支持4.0 以下版本"
-  },
-  {
-    "repo": "VictoriaMetrics/VictoriaMetrics",
-    "branch": "master",
-    "language": "Go",
-    "description": "VictoriaMetrics: fast, cost-effective monitoring solution and time series database"
-  },
-  {
-    "repo": "operator-framework/operator-lifecycle-manager",
-    "branch": "master",
-    "language": "Go",
-    "description": "A management framework for extending Kubernetes with Operators"
-  },
-  {
-    "repo": "mdp/linkedin-extension-fingerprinting",
-    "branch": "main",
-    "language": "JavaScript",
+    "language": "TypeScript",
     "description": ""
   },
   {
-    "repo": "pi-hole/pi-hole",
-    "branch": "master",
-    "language": "Shell",
-    "description": "A black hole for Internet advertisements"
-  },
-  {
-    "repo": "n8n-io/n8n",
-    "branch": "master",
-    "language": "TypeScript",
-    "description": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations."
-  },
-  {
-    "repo": "Pylons/pyramid",
-    "branch": "master",
-    "language": "Python",
-    "description": "Pyramid - A Python web framework"
-  },
-  {
-    "repo": "cloudwego/hertz",
+    "repo": "sartoopjj/vpn-over-github",
     "branch": "main",
     "language": "Go",
-    "description": "Go HTTP framework with high-performance and strong-extensibility for building micro-services."
+    "description": "Tunnels TCP connections through GitHub. Supports gist and git transports ( Too slow. Not usable.)"
   },
   {
-    "repo": "arduino/Arduino",
+    "repo": "selfishblackberry177/sni-spoof",
+    "branch": "main",
+    "language": "Go",
+    "description": "Go port of @patterniha's SNI spoofing / DPI bypass TCP forwarder (Linux)"
+  },
+  {
+    "repo": "michaelpersonal/goal-forge",
+    "branch": "main",
+    "language": "Python",
+    "description": "Codex skill: turn a rough coding idea into a SPEC.md, GOAL.md, and /goal-ready contract."
+  },
+  {
+    "repo": "shanselman/PeekDesktop",
+    "branch": "main",
+    "language": "C#",
+    "description": "Click your desktop to peek at it - just like macOS Sonoma."
+  },
+  {
+    "repo": "Octoberfest7/SilentHarvest_BOF",
+    "branch": "main",
+    "language": "C",
+    "description": "A Cobalt Strike BOF implementation of the SilentHarvest registry dumping technique"
+  },
+  {
+    "repo": "riverscn/intro-agentic-ai",
+    "branch": "main",
+    "language": "Vue",
+    "description": "认识 Agentic AI：从神经网络到智能体"
+  },
+  {
+    "repo": "B3hnamR/XHTTPRelayECO",
     "branch": "master",
-    "language": "Java",
-    "description": "Arduino IDE 1.x"
+    "language": "HTML",
+    "description": "Low-overhead hardened XHTTP relay on Vercel Node runtime"
   },
   {
-    "repo": "EleutherAI/gpt-neox",
+    "repo": "jakobfriedl/tgt-monitor-bof",
+    "branch": "main",
+    "language": "C",
+    "description": "Async BOF implementation of 'Rubeus monitor' to detect and automatically extract Kerberos TGTs as they appear on a target system."
+  },
+  {
+    "repo": "haigechanlun/chanlun_auto_trading",
     "branch": "main",
     "language": "Python",
-    "description": "An implementation of model parallel autoregressive transformers on GPUs, based on the Megatron and DeepSpeed libraries"
+    "description": "一个基于缠论（Chanlun）理论构建的自动化量化交易系统，结合历史数据训练、严格风控与实盘执行，致力于实现稳定且可持续的收益表现。  回测收益年化80%+！欢迎订阅信号和实盘测试。"
   },
   {
-    "repo": "LeoYeAI/openclaw-backup",
+    "repo": "Composio-HQ/polymarket-kalshi-arbitrage-bot",
     "branch": "main",
-    "language": "Shell",
-    "description": "One-click backup & restore for OpenClaw instances — workspace, credentials, skills, agent history. Powered by MyClaw.ai"
+    "language": "TypeScript",
+    "description": "Polymarket Kalshi arbitrage prediction-markets trading-bot TypeScript Node.js CLOB Polygon ethers automated-trading spread-trading DeFi crypto algorithmic-trading market-making Kalshi-API Polymarket-CLOB express axios dotenv"
   },
   {
-    "repo": "timuronlinq/messari-crack",
-    "branch": "main",
-    "language": "Python",
-    "description": "Messari crack"
-  },
-  {
-    "repo": "juliye2025/evil-read-arxiv",
+    "repo": "MayersScott/rkn-block-checker",
     "branch": "main",
     "language": "Python",
-    "description": "Claude Code+Obsidian，邪修读论文就是快"
+    "description": "Diagnose RKN/TSPU internet blocks layer by layer (DNS, TCP, TLS, HTTP)"
+  },
+  {
+    "repo": "youssofal/MTPLX",
+    "branch": "main",
+    "language": "Python",
+    "description": "Native MTP Speculative Decoding On Apple Silicon | 2x - 2.5x decode TPS increase at temp 0.6 | MLX-native, OpenAI API/Anthropic-compatible serving, no external drafter."
+  },
+  {
+    "repo": "cosmic-market/polymarket-copy-trading-bot",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "polymarket copy trading Bot polymarket copy trading Bot polymarket copy trading Bot polymarket copy trading Bot polymarket copy trading Bot polymarket copy trading Bot polymarket copytrading bot polymarket copytrading bot polymarket copytrading bot polymarket copytrading bot polymarket copytrading bot polymarket copytrading bot polymarket copytrade"
+  },
+  {
+    "repo": "jackwener/wx-cli",
+    "branch": "main",
+    "language": "Rust",
+    "description": "WeChat local data CLI with daemon architecture"
+  },
+  {
+    "repo": "jwangkun/hermes-agent-guide",
+    "branch": "main",
+    "language": "Python",
+    "description": "Hermes Agent 是目前开源社区最具潜力的 AI Agent 框架之一。它继承了 OpenClaw 的优秀基因，在架构设计、记忆系统、技能生态和自动化能力上实现全面升级。但 Hermes 的文档分散在多个仓库和平台，缺乏一本系统性的中文指南。  本书填补的正是这个空白。全书 16 册、30 万+ 字，覆盖从安装部署到高阶开发、从个人玩赚到企业服务、从单 Agent 操控到多 Agent 编排的完整知识图谱。"
+  },
+  {
+    "repo": "HKUSTDial/Supervisor-Skills",
+    "branch": "main",
+    "language": "Python",
+    "description": "将博导十年科研经验炼化为可直接调用的 AI 技能。从 Idea 构思到论文投稿，你的 AI 科研副导师。"
   }
 ]

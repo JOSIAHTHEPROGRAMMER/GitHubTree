@@ -1,8 +1,8 @@
 {
-  "repo": "liceses/dsh-gitbash-preset",
+  "repo": "Sui-IB/InternalBeyond-Mobile",
   "branch": "main",
-  "language": "JavaScript",
-  "description": "DeepSeek Harness 插件：一键安装「极简模式 (Git Bash)」agent preset —— 把 DSH 自带极简模式中的 bash 调用映射到 Git for Windows 的 bash（MSYS），让 Windows 上的极简模式真正可用。",
-  "stars": 135,
-  "forks": 0
+  "language": "HTML",
+  "description": "Internal Beyond 的移动端同源版本：一个离线运行的单文件个人网站式应用项目，旨于维系情感的连续性。",
+  "stars": 109,
+  "forks": 310
 }
