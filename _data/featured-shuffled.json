@@ -1,146 +1,146 @@
 [
   {
-    "repo": "x1xhlol/better-clawd",
+    "repo": "aiming-lab/AutoResearchClaw",
+    "branch": "main",
+    "language": "Python",
+    "description": "Fully autonomous research from idea to paper. Chat an Idea. Get a Paper. Fully Autonomous. 🦞"
+  },
+  {
+    "repo": "gabagool222/15min-btc-polymarket-trading-bot",
+    "branch": "main",
+    "language": "Python",
+    "description": "15min btc polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot"
+  },
+  {
+    "repo": "vercel/swr",
     "branch": "main",
     "language": "TypeScript",
-    "description": "Claude Code, but better: better performance, OpenAI/OpenRouter support, no telemetry, no lock-in."
+    "description": "React Hooks for Data Fetching"
   },
   {
-    "repo": "withmarbleapp/os-taxonomy",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": ""
-  },
-  {
-    "repo": "deusyu/translate-book",
+    "repo": "vanroon/Pet-Simulator-99-Auto-Farm-Trainer-2026-Elite",
     "branch": "main",
     "language": "Python",
-    "description": "Claude Code skill that translates entire books (PDF/DOCX/EPUB) into any language using parallel subagents"
+    "description": "Boost your Pet Simulator 99 progress with the Elite trainer. Auto-farm, auto-hatch, instant break, and League auto-grind – all in one sleek GUI. Works with the June 2026 update."
   },
   {
-    "repo": "firecracker-microvm/firecracker",
-    "branch": "main",
-    "language": "Rust",
-    "description": "Secure and fast microVMs for serverless computing."
-  },
-  {
-    "repo": "redis/hiredis",
+    "repo": "react-native-video/react-native-video",
     "branch": "master",
-    "language": "C",
-    "description": "Minimalistic C client for Redis >= 1.2"
+    "language": "Kotlin",
+    "description": "A <Video /> component for react-native"
   },
   {
-    "repo": "blurrer/Polymarket-Sports-Market-Auto-Trading-Script",
-    "branch": "main",
-    "language": "Rust",
-    "description": "Open-source Rust bot for automated Polymarket sports market trading with trailing-stop strategy. Simulation and live modes."
-  },
-  {
-    "repo": "facebookresearch/detectron2",
-    "branch": "main",
-    "language": "Python",
-    "description": "Detectron2 is a platform for object detection, segmentation and other visual recognition tasks."
-  },
-  {
-    "repo": "elastic/elasticsearch",
-    "branch": "main",
-    "language": "Java",
-    "description": "Free and Open Source, Distributed, RESTful Search Engine"
-  },
-  {
-    "repo": "ysharma3501/LuxTTS",
-    "branch": "master",
-    "language": "Python",
-    "description": "A high-quality rapid TTS voice cloning model that reaches speeds of 150x realtime."
-  },
-  {
-    "repo": "Gustavo1900/bevy-tokio-tasks",
-    "branch": "master",
-    "language": "Rust",
-    "description": ""
-  },
-  {
-    "repo": "jupyterlab/jupyterlab",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "JupyterLab computational environment."
-  },
-  {
-    "repo": "duckdb/duckdb",
+    "repo": "URLab-Sim/UnrealRoboticsLab",
     "branch": "main",
     "language": "C++",
-    "description": "DuckDB is an analytical in-process SQL database management system"
+    "description": "A high-fidelity, open-source robotics simulator integrating Unreal Engine's photorealistic rendering with MuJoCo's precision physics."
   },
   {
-    "repo": "calesthio/Crucix",
+    "repo": "microsoft/winget-pkgs",
     "branch": "master",
-    "language": "JavaScript",
-    "description": "Your personal intelligence agent. Watches the world from 26 data sources and pings you when something changes."
+    "language": "PowerShell",
+    "description": "The Microsoft community Windows Package Manager manifest repository"
   },
   {
-    "repo": "sindresorhus/awesome-electron",
+    "repo": "dogadmin/ProcIR",
     "branch": "main",
-    "language": "Other",
-    "description": "Useful resources for creating apps with Electron"
-  },
-  {
-    "repo": "Krypto-Hashers-Community/polymarket-copytrading-bot-rust-sport-crypto",
-    "branch": "main",
-    "language": "Rust",
-    "description": "The ultimate Polymarket CopyTrading Bot in Rust. AI-powered Polymarket CopyTrading Bot for smarter trades. Self-hosted Polymarket CopyTrading Bot with dashboard. Real-time Polymarket CopyTrading Bot for top traders. Reliable Polymarket CopyTrading Bot for prediction markets. Fast Polymarket CopyTrading Bot. Try Polymarket CopyTrading Bot now."
-  },
-  {
-    "repo": "rzru/nightingale",
-    "branch": "master",
-    "language": "Rust",
-    "description": "Machine learning powered Karaoke app (with scores!)"
-  },
-  {
-    "repo": "sdmg15/Best-websites-a-programmer-should-visit",
-    "branch": "master",
-    "language": "Other",
-    "description": ":link: Some useful websites for programmers."
-  },
-  {
-    "repo": "UniRound-Tec/Aurogen",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Aurogen🍊: The Multi-Agent Evolution of OpenClaw."
-  },
-  {
-    "repo": "gavrielc/nanoclaw",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "My personal Claude assistant that runs in Apple containers. Lightweight, secure, and built to be understood and customized for your own needs."
-  },
-  {
-    "repo": "Lethalchip/SpaceChatDB",
-    "branch": "main",
-    "language": "Rust",
+    "language": "Go",
     "description": ""
   },
   {
-    "repo": "ringhyacinth/Star-Office-UI",
-    "branch": "master",
-    "language": "HTML",
-    "description": ""
-  },
-  {
-    "repo": "OpenBMB/MiniCPM-o",
+    "repo": "hitmux/HitCC",
     "branch": "main",
     "language": "Python",
-    "description": "MiniCPM-V 4.5: A GPT-4o Level MLLM for Single Image, Multi Image and High-FPS Video Understanding on Your Phone"
+    "description": "Complete reverse-engineering documentation of the full logic of Claude Code CLI Node.js version v2.1.84"
   },
   {
-    "repo": "soimy/openclaw-channel-dingtalk",
+    "repo": "tensorflow/tensorflow",
+    "branch": "master",
+    "language": "C++",
+    "description": "An Open Source Machine Learning Framework for Everyone"
+  },
+  {
+    "repo": "docker/docker-py",
     "branch": "main",
-    "language": "TypeScript",
-    "description": "A dingtalk bot channel plugin for clawdbot"
+    "language": "Python",
+    "description": "A Python library for the Docker Engine API"
   },
   {
-    "repo": "imxv/Pretty-mermaid-skills",
+    "repo": "apache/airflow",
+    "branch": "main",
+    "language": "Python",
+    "description": "Apache Airflow - A platform to programmatically author, schedule, and monitor workflows"
+  },
+  {
+    "repo": "fastlane/supply",
+    "branch": "master",
+    "language": "Other",
+    "description": "Command line tool for updating Android apps and their metadata on the Google Play Store"
+  },
+  {
+    "repo": "kubernetes/kubernetes",
+    "branch": "master",
+    "language": "Go",
+    "description": "Production-Grade Container Scheduling and Management"
+  },
+  {
+    "repo": "pytorch/serve",
+    "branch": "master",
+    "language": "Java",
+    "description": "Serve, optimize and scale PyTorch models in production"
+  },
+  {
+    "repo": "pocketbase/pocketbase",
+    "branch": "master",
+    "language": "Go",
+    "description": "Open Source realtime backend in 1 file"
+  },
+  {
+    "repo": "apache/camel",
+    "branch": "main",
+    "language": "Java",
+    "description": "Apache Camel is an open source integration framework that empowers you to quickly and easily integrate various systems consuming or producing data."
+  },
+  {
+    "repo": "R6410418/Jackrong-llm-finetuning-guide",
+    "branch": "main",
+    "language": "Jupyter Notebook",
+    "description": ""
+  },
+  {
+    "repo": "symfony/symfony",
+    "branch": "7.1",
+    "language": "PHP",
+    "description": "The Symfony PHP framework"
+  },
+  {
+    "repo": "denoland/deno",
+    "branch": "main",
+    "language": "Rust",
+    "description": "A modern runtime for JavaScript and TypeScript."
+  },
+  {
+    "repo": "ReactiveX/RxJava",
+    "branch": "3.x",
+    "language": "Java",
+    "description": "RxJava – Reactive Extensions for the JVM – a library for composing asynchronous and event-based programs using observable sequences for the Java VM."
+  },
+  {
+    "repo": "ExpondoEgirl/felca-reporter",
     "branch": "main",
     "language": "JavaScript",
-    "description": "To provide AI with Mermaid chart rendering capability, supporting both SVG and ASCII output formats"
+    "description": "Extensão Chrome/Edge que automatiza denúncias de conteúdo inadequado para menores no YouTube, conforme a Lei nº 15.211/2025 (Lei Felca / ECA Digital)"
+  },
+  {
+    "repo": "nvm-sh/nvm",
+    "branch": "master",
+    "language": "Shell",
+    "description": "Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions"
+  },
+  {
+    "repo": "DLYuanGod/MegaTrain",
+    "branch": "main",
+    "language": "Python",
+    "description": ""
   }
 ]

@@ -1,8 +1,8 @@
 {
-  "repo": "MrMoT9I/paper-aquarium",
+  "repo": "bezumiya/GoLiveBypass",
   "branch": "main",
-  "language": "JavaScript",
-  "description": "Бумажная раскраска превращается в 3D-рыбу: ребёнок раскрашивает лист, фотографирует телефоном — и рыбка плывёт в аквариуме на большом экране. Node без зависимостей + three.js.",
-  "stars": 118,
-  "forks": 23
+  "language": "TypeScript",
+  "description": "GoLiveBypass — Equicord/Vencord plugin that restores Go Live & camera for Brazilian Discord users by booting the session behind a non-BR proxy (Tor or tested free proxy). Privacy and anti-censorship tool.",
+  "stars": 117,
+  "forks": 16
 }
