@@ -1,8 +1,8 @@
 {
-  "repo": "albertobeiz/kindergrimm",
+  "repo": "skydashnet/material-design-3-ui-skill",
   "branch": "main",
-  "language": "JavaScript",
-  "description": "Procedural doodle characters drawn as if by hand on cream paper — and Kindergrimm, the game they live in",
-  "stars": 109,
-  "forks": 22
+  "language": "PowerShell",
+  "description": "A reusable Agent Skill for designing, reviewing, and implementing UI/UX with Google Material Design 3, Material You, M3 Expressive, accessibility, adaptive layouts, and semantic design tokens.",
+  "stars": 101,
+  "forks": 9
 }

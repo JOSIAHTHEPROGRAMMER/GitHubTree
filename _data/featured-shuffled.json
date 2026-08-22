@@ -1,146 +1,146 @@
 [
   {
-    "repo": "pi-hole/pi-hole",
-    "branch": "master",
-    "language": "Shell",
-    "description": "A black hole for Internet advertisements"
+    "repo": "xtclovver/RKNHardering",
+    "branch": "main",
+    "language": "Kotlin",
+    "description": ""
   },
   {
-    "repo": "openai/privacy-filter",
+    "repo": "alaeelhariri/iut-db-final-project",
+    "branch": "master",
+    "language": "Python",
+    "description": ""
+  },
+  {
+    "repo": "Infatoshi/OpenSquirrel",
+    "branch": "main",
+    "language": "Rust",
+    "description": "For people who get distracted by agents. A native Rust/GPUI control plane for running Claude Code, Codex, Cursor, and OpenCode side by side — because if you're going to be squirrely, you might as well optimize for it."
+  },
+  {
+    "repo": "xiaotianfotos/skills",
     "branch": "main",
     "language": "Python",
-    "description": "OpenAI Privacy Filter"
+    "description": "视频中分享的方法论代码参考"
   },
   {
-    "repo": "johnkf5-ops/the-dev-squad",
+    "repo": "ewindmer/polymarket-arbitrage-trading-bot",
     "branch": "main",
     "language": "TypeScript",
-    "description": "Give Claude its own dev team: one supervisor, four specialists, and bulletproof plans/builds without losing context."
+    "description": "polymarket arbitrage trading bot"
   },
   {
-    "repo": "keithnull/TeachYourselfCS-CN",
-    "branch": "master",
-    "language": "Other",
-    "description": "TeachYourselfCS 的中文翻译 |  A Chinese translation of TeachYourselfCS"
+    "repo": "vlln/whale-girl",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "DSH Web GUI 桌面宠物插件（QQ 宠物形态）：右下角悬浮、可拖拽/投喂/玩耍的积累型伙伴。官方 repository-plugin（.dsh-plugin 格式），config.yaml 安装：github:dsh-external/whale-girl#<ref>&path:/.dsh-plugin"
   },
   {
-    "repo": "ryanstephen/lil-agents",
+    "repo": "iam567/LifeManga",
     "branch": "main",
     "language": "Swift",
-    "description": "tiny AI companions that live on your macOS dock"
+    "description": "ios swift swiftui openai gpt-image manga ai-art"
   },
   {
-    "repo": "vercel/ai-chatbot-svelte",
-    "branch": "main",
-    "language": "Svelte",
-    "description": "A full-featured, hackable SvelteKit AI chatbot built by Vercel"
-  },
-  {
-    "repo": "milla-jovovich/mempalace",
+    "repo": "ferdinandobons/brand-docs",
     "branch": "main",
     "language": "Python",
-    "description": "The highest-scoring AI memory system ever benchmarked. And it's free."
+    "description": "BrandDocs is a set of agent skills that learn your existing Word, PowerPoint and Excel templates and generate new on-brand documents from them. Unlike generic AI document generators, it preserves brand, structure, styles and formulas by construction. Built for Claude Code, Codex and compatible AI agents."
   },
   {
-    "repo": "PaddlePaddle/PaddleNLP",
-    "branch": "develop",
-    "language": "Python",
-    "description": "Easy-to-use and powerful LLM and SLM library with awesome model zoo."
-  },
-  {
-    "repo": "material-components/material-components-android",
+    "repo": "kellyclaudeai/openclaw-deck",
     "branch": "master",
-    "language": "Java",
-    "description": "Modular and customizable Material Design UI components for Android"
+    "language": "TypeScript",
+    "description": "Multi-column chat interface for OpenClaw agents"
   },
   {
-    "repo": "webpack/webpack-dev-server",
-    "branch": "master",
-    "language": "JavaScript",
-    "description": "Serves a webpack app. Updates the browser on changes. Documentation https://webpack.js.org/configuration/dev-server/."
-  },
-  {
-    "repo": "mit-pdos/xv6-public",
-    "branch": "master",
-    "language": "C",
-    "description": "xv6 OS"
-  },
-  {
-    "repo": "payloadcms/payload",
+    "repo": "moltlaunch/cashclaw",
     "branch": "main",
     "language": "TypeScript",
-    "description": "Payload is the open-source, fullstack Next.js framework, giving you instant backend superpowers. Get a full TypeScript backend and admin panel instantly. Use Payload as a headless CMS or for building powerful applications."
+    "description": "An autonomous agent that takes work, does work, gets paid, and gets better at it."
   },
   {
-    "repo": "JinGuYuan/jinguyuan-dumpling-skill",
+    "repo": "tigerabrodi/neiro",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Audio processing for TypeScript. Chainable, immutable, serverless-ready."
+  },
+  {
+    "repo": "beita6969/ScienceClaw",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "🔬🦞 A self-evolving AI research colleague for scientists. 285 skills, zero hallucination, persistent memory."
+  },
+  {
+    "repo": "Astraltenprosper/uncensored-ai-image-video-generator",
     "branch": "main",
     "language": "Python",
-    "description": "金谷园饺子馆 AI Skill - 北邮边上的饺子馆"
+    "description": "AI tool for generating uncensored images and videos (18+)"
   },
   {
-    "repo": "rust-lang/mdBook",
-    "branch": "master",
-    "language": "Rust",
-    "description": "Create book from markdown files. Like Gitbook but implemented in Rust"
-  },
-  {
-    "repo": "bazelbuild/bazel",
-    "branch": "master",
-    "language": "Java",
-    "description": "a fast, scalable, multi-language and extensible build system"
-  },
-  {
-    "repo": "prettier/prettier",
+    "repo": "Unicornronote/Microsoft-Office-Activated",
     "branch": "main",
-    "language": "JavaScript",
-    "description": "Prettier is an opinionated code formatter."
+    "language": "C++",
+    "description": "📊 Microsoft Office Professional Edition — Complete Productivity & Document Management Suite for Windows (2026)"
   },
   {
-    "repo": "stylelint/stylelint",
+    "repo": "facebookresearch/atlas-lean",
+    "branch": "main",
+    "language": "Lean",
+    "description": "ATLAS Autoformalized Textbook Library At Scale"
+  },
+  {
+    "repo": "aayan555/DS4Windows",
+    "branch": "main",
+    "language": "C#",
+    "description": "ds4windows ps4 ps5 download pc windows 11 xbox controller mapper forza horizon 6 dualshock 4 dualsense ps5 ps4 xbox 360 emulation bluetooth low latency inputmapper profile config driver vigem ryochan7 free"
+  },
+  {
+    "repo": "nekocode/filetree-skill",
+    "branch": "main",
+    "language": "Python",
+    "description": "A Claude Code plugin that maintains `FILETREE.md`."
+  },
+  {
+    "repo": "fabriciotrinndade/ats-resume-generator-html",
     "branch": "main",
     "language": "JavaScript",
-    "description": "A mighty CSS linter that helps you avoid errors and enforce conventions."
+    "description": "Generate ATS-friendly resumes using structured JSON and HTML"
   },
   {
-    "repo": "zhangbo2008/claude_code_annotated",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "claudecode泄露部分的代码解析"
-  },
-  {
-    "repo": "skibidiskib/ai-codex",
+    "repo": "godagoo/claude-telegram-relay",
     "branch": "master",
     "language": "TypeScript",
-    "description": "Generate a compact codebase index for AI assistants — saves 50K+ tokens per conversation"
+    "description": "Minimal pattern for running Claude Code as an always-on Telegram bot. Cross-platform daemon setup included."
   },
   {
-    "repo": "soimy/openclaw-channel-dingtalk",
+    "repo": "judithsulfan/trading-bot",
     "branch": "main",
     "language": "TypeScript",
-    "description": "A dingtalk bot channel plugin for clawdbot"
+    "description": "polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot bot"
   },
   {
-    "repo": "deepchem/deepchem",
-    "branch": "master",
-    "language": "Python",
-    "description": "Democratizing Deep-Learning for Drug Discovery, Quantum Chemistry, Materials Science and Biology"
-  },
-  {
-    "repo": "knative/eventing",
+    "repo": "NubPlayz/GoodLib-Zlib-Goodreads-extension",
     "branch": "main",
-    "language": "Go",
-    "description": "Event-driven application platform for Kubernetes"
+    "language": "TypeScript",
+    "description": "An extension that open Books in Zlib Or Anna's Archive with a button on Goodreads in one click.  Available on Chrome and Firefox"
   },
   {
-    "repo": "wasabeef/awesome-android-ui",
+    "repo": "Joyi-code/DeepSeekMonitorWindows",
     "branch": "master",
-    "language": "Other",
-    "description": "A curated list of awesome Android UI/UX libraries"
+    "language": "TypeScript",
+    "description": "Windows desktop monitor for DeepSeek balance and usage, built with Tauri, React and Rust."
   },
   {
-    "repo": "googleapis/google-api-python-client",
+    "repo": "davegoldblatt/total-recall",
+    "branch": "main",
+    "language": "Shell",
+    "description": "Persistent memory plugin for Claude Code. Tiered memory system with write gates, correction propagation, and slash commands."
+  },
+  {
+    "repo": "UnrealXu/UnrealEngine5-Skills",
     "branch": "main",
     "language": "Python",
-    "description": "🐍 The official Python client library for Google's discovery based APIs."
+    "description": ""
   }
 ]
