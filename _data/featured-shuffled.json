@@ -1,146 +1,146 @@
 [
   {
-    "repo": "xtclovver/RKNHardering",
-    "branch": "main",
-    "language": "Kotlin",
-    "description": ""
-  },
-  {
-    "repo": "alaeelhariri/iut-db-final-project",
-    "branch": "master",
-    "language": "Python",
-    "description": ""
-  },
-  {
-    "repo": "Infatoshi/OpenSquirrel",
+    "repo": "Avarok-Cybersecurity/atlas",
     "branch": "main",
     "language": "Rust",
-    "description": "For people who get distracted by agents. A native Rust/GPUI control plane for running Claude Code, Codex, Cursor, and OpenCode side by side — because if you're going to be squirrely, you might as well optimize for it."
+    "description": "Pure Rust Inference Engine"
   },
   {
-    "repo": "xiaotianfotos/skills",
+    "repo": "99Ayush/iPhone_Backup_Tool",
     "branch": "main",
     "language": "Python",
-    "description": "视频中分享的方法论代码参考"
+    "description": "Auto-backup photos, messages, and settings to PC. Backup when connected, export photos, save messages, and backup over Wi-Fi. Secure your iPhone data."
   },
   {
-    "repo": "ewindmer/polymarket-arbitrage-trading-bot",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "polymarket arbitrage trading bot"
-  },
-  {
-    "repo": "vlln/whale-girl",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "DSH Web GUI 桌面宠物插件（QQ 宠物形态）：右下角悬浮、可拖拽/投喂/玩耍的积累型伙伴。官方 repository-plugin（.dsh-plugin 格式），config.yaml 安装：github:dsh-external/whale-girl#<ref>&path:/.dsh-plugin"
-  },
-  {
-    "repo": "iam567/LifeManga",
-    "branch": "main",
-    "language": "Swift",
-    "description": "ios swift swiftui openai gpt-image manga ai-art"
-  },
-  {
-    "repo": "ferdinandobons/brand-docs",
-    "branch": "main",
-    "language": "Python",
-    "description": "BrandDocs is a set of agent skills that learn your existing Word, PowerPoint and Excel templates and generate new on-brand documents from them. Unlike generic AI document generators, it preserves brand, structure, styles and formulas by construction. Built for Claude Code, Codex and compatible AI agents."
-  },
-  {
-    "repo": "kellyclaudeai/openclaw-deck",
-    "branch": "master",
-    "language": "TypeScript",
-    "description": "Multi-column chat interface for OpenClaw agents"
-  },
-  {
-    "repo": "moltlaunch/cashclaw",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "An autonomous agent that takes work, does work, gets paid, and gets better at it."
-  },
-  {
-    "repo": "tigerabrodi/neiro",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Audio processing for TypeScript. Chainable, immutable, serverless-ready."
-  },
-  {
-    "repo": "beita6969/ScienceClaw",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "🔬🦞 A self-evolving AI research colleague for scientists. 285 skills, zero hallucination, persistent memory."
-  },
-  {
-    "repo": "Astraltenprosper/uncensored-ai-image-video-generator",
-    "branch": "main",
-    "language": "Python",
-    "description": "AI tool for generating uncensored images and videos (18+)"
-  },
-  {
-    "repo": "Unicornronote/Microsoft-Office-Activated",
-    "branch": "main",
-    "language": "C++",
-    "description": "📊 Microsoft Office Professional Edition — Complete Productivity & Document Management Suite for Windows (2026)"
-  },
-  {
-    "repo": "facebookresearch/atlas-lean",
-    "branch": "main",
-    "language": "Lean",
-    "description": "ATLAS Autoformalized Textbook Library At Scale"
-  },
-  {
-    "repo": "aayan555/DS4Windows",
-    "branch": "main",
-    "language": "C#",
-    "description": "ds4windows ps4 ps5 download pc windows 11 xbox controller mapper forza horizon 6 dualshock 4 dualsense ps5 ps4 xbox 360 emulation bluetooth low latency inputmapper profile config driver vigem ryochan7 free"
-  },
-  {
-    "repo": "nekocode/filetree-skill",
-    "branch": "main",
-    "language": "Python",
-    "description": "A Claude Code plugin that maintains `FILETREE.md`."
-  },
-  {
-    "repo": "fabriciotrinndade/ats-resume-generator-html",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "Generate ATS-friendly resumes using structured JSON and HTML"
-  },
-  {
-    "repo": "godagoo/claude-telegram-relay",
-    "branch": "master",
-    "language": "TypeScript",
-    "description": "Minimal pattern for running Claude Code as an always-on Telegram bot. Cross-platform daemon setup included."
-  },
-  {
-    "repo": "judithsulfan/trading-bot",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot bot"
-  },
-  {
-    "repo": "NubPlayz/GoodLib-Zlib-Goodreads-extension",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "An extension that open Books in Zlib Or Anna's Archive with a button on Goodreads in one click.  Available on Chrome and Firefox"
-  },
-  {
-    "repo": "Joyi-code/DeepSeekMonitorWindows",
-    "branch": "master",
-    "language": "TypeScript",
-    "description": "Windows desktop monitor for DeepSeek balance and usage, built with Tauri, React and Rust."
-  },
-  {
-    "repo": "davegoldblatt/total-recall",
+    "repo": "Kylin010/tcpfit",
     "branch": "main",
     "language": "Shell",
-    "description": "Persistent memory plugin for Claude Code. Tiered memory system with write gates, correction propagation, and slash commands."
+    "description": "按每台机器实测推导的 TCP 调优工具 —— 不套用固定参数，实测 BDP 与限速器拐点"
   },
   {
-    "repo": "UnrealXu/UnrealEngine5-Skills",
+    "repo": "shlgd/SuperDictate",
+    "branch": "main",
+    "language": "Swift",
+    "description": "Fast, private, local dictation for Apple Silicon Macs."
+  },
+  {
+    "repo": "jd-opensource/JoyAI-Video-Edit",
     "branch": "main",
     "language": "Python",
     "description": ""
+  },
+  {
+    "repo": "hardrave/NIGHTRUN",
+    "branch": "master",
+    "language": "Rust",
+    "description": "Boot your PC straight into an LLM. Rust, UEFI-resident, no operating system underneath."
+  },
+  {
+    "repo": "TanStack/charts",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "A tiny TypeScript visualization grammar for responsive, accessible, server-rendered charts—powered by granular D3 primitives."
+  },
+  {
+    "repo": "cherryand1112-creator/IPTV-JAPAN-M3U",
+    "branch": "main",
+    "language": "Python",
+    "description": "只为分享能够持续有效的日本电视台m3u直播源，尽我所能做到每月更新"
+  },
+  {
+    "repo": "starling-build/starling",
+    "branch": "main",
+    "language": "Swift",
+    "description": "Starling — a new Linux desktop environment: Swift shell, its own compositor, a Flutter-to-Swift framework port, and first-party apps"
+  },
+  {
+    "repo": "miuuyy/codex-chatgpt-web",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Use ChatGPT Web (including Pro) as a native model in the Codex app — with context, tools, streaming and images beyond Codex usage limits."
+  },
+  {
+    "repo": "qa10devteam/behive",
+    "branch": "main",
+    "language": "Python",
+    "description": "Open-source deep research engine that builds structured knowledge graphs. MCP-native. avg 0.82+ quality."
+  },
+  {
+    "repo": "lyu0805/pixshell",
+    "branch": "main",
+    "language": "Swift",
+    "description": "跨平台 SSH / SFTP 桌面客户端 · 终端 · 连接管理 · 文件传输 | Cross-platform SSH/SFTP desktop client for macOS, Windows"
+  },
+  {
+    "repo": "tasmirz/jagoo-bahee",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": ""
+  },
+  {
+    "repo": "cvg/vidmap",
+    "branch": "main",
+    "language": "Python",
+    "description": "VidMap: Exploiting Temporal Structure for Video-Based Structure-from-Motion (ECCV 2026)"
+  },
+  {
+    "repo": "joeseesun/qiaomu-bento-ppt",
+    "branch": "main",
+    "language": "HTML",
+    "description": "Use the standalone qiaomu-bento-ppt skill to create or edit qiaomu-style bento presentations as self-contained .bento.html files from briefs, notes, r"
+  },
+  {
+    "repo": "nfzerox/VirtualMacOniPad",
+    "branch": "main",
+    "language": "Objective-C",
+    "description": "People have dreamed of running macOS on iPad for more than a decade. Today, that dream comes true. With Virtual Mac, iPad finally breaks free from iPadOS, enabling pro apps like Xcode and Terminal to run directly on device. Requires iPad Pro (M1, M2) or iPad Air (M1) running iPadOS 16 up to 16.3.1."
+  },
+  {
+    "repo": "lalalune/outreachr",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Local-first, open-source investor fundraising CRM for founders"
+  },
+  {
+    "repo": "sequilade/tokentab",
+    "branch": "main",
+    "language": "Python",
+    "description": "A CLI that reads Claude Code, Codex, and Gemini CLI session logs and works out how much they cost, by model, project, and day."
+  },
+  {
+    "repo": "digimata/quill",
+    "branch": "master",
+    "language": "Swift",
+    "description": "Ultraminimalist macOS recording + transcription."
+  },
+  {
+    "repo": "pireel/pireel",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Open-source, backend-free AI video editor for talking-head video — storyboarding, designed graphics, kinetic captions, themes and in-browser WebCodecs export. Drivable by any AI agent over MCP."
+  },
+  {
+    "repo": "bashalarmistalt/decimen-optical-transfer",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": ""
+  },
+  {
+    "repo": "lyu0805/OpenBrowser",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "本地指纹浏览器 · 多环境隔离 · 代理 / 指纹 / 同步 / RPA"
+  },
+  {
+    "repo": "DutchDiederik/AmberConsole",
+    "branch": "main",
+    "language": "CSS",
+    "description": "A UI design system inspired by the 1970s"
+  },
+  {
+    "repo": "dtolnay/chapter-tgz",
+    "branch": "master",
+    "language": "Rust",
+    "description": "Specially crafted .tar.gz with embedded chapter boundary information"
   }
 ]

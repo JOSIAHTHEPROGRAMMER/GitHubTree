@@ -1,8 +1,8 @@
 {
-  "repo": "skydashnet/material-design-3-ui-skill",
+  "repo": "warmsum/mini-harness",
   "branch": "main",
-  "language": "PowerShell",
-  "description": "A reusable Agent Skill for designing, reviewing, and implementing UI/UX with Google Material Design 3, Material You, M3 Expressive, accessibility, adaptive layouts, and semantic design tokens.",
-  "stars": 101,
-  "forks": 9
+  "language": "Python",
+  "description": "用 Python 从零理解 DeepSeek Harness 的 Headless 架构",
+  "stars": 105,
+  "forks": 0
 }
