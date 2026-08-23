@@ -1,8 +1,8 @@
 {
-  "repo": "d4ncboz/github-farm",
+  "repo": "ChenShuo2004/cs-board",
   "branch": "main",
   "language": "Python",
-  "description": "Production-grade, AI-Agent-friendly multi-platform OAuth harvesting and session management framework for AI Gateways.",
-  "stars": 112,
-  "forks": 8
+  "description": "将参考声音和中文文案自动生成白板动画视频的本地 AI 工具。",
+  "stars": 119,
+  "forks": 25
 }

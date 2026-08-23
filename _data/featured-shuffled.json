@@ -1,146 +1,146 @@
 [
   {
-    "repo": "Yuzu-NES/Yuzu-Emu",
-    "branch": "main",
-    "language": "C++",
-    "description": "yuzu emulator nintendo switch emulation open source community fork backup archive github repository download link suyu torzu pineappleea vulkan api shader cache graphics mods production keys firmware windows 11 linux steam deck android configuration setup guide troubleshooting performance optimization gaming utility tutorial"
-  },
-  {
-    "repo": "web3-storage/web3.storage",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "DEPRECATED ⁂ The simple file storage service for IPFS & Filecoin"
-  },
-  {
-    "repo": "WenXiaoWendy/timeline-for-agent",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "Kill Tomato Clock"
-  },
-  {
-    "repo": "wagmi-dev/viem",
+    "repo": "luckyyyyy/specc.sh",
     "branch": "main",
     "language": "TypeScript",
-    "description": "TypeScript Interface for Ethereum"
+    "description": "Spec Coding beats Vibe Coding. A full-stack AI template for production-grade code."
   },
   {
-    "repo": "K-Dense-AI/k-dense-byok",
+    "repo": "browser-use/browser-harness-js",
     "branch": "main",
     "language": "TypeScript",
-    "description": "An AI co-scientist powered by Claude Scientific Skills running on your desktop."
+    "description": "Self-healing browser harness that enables LLMs to complete any task"
   },
   {
-    "repo": "tj/commander.js",
-    "branch": "master",
+    "repo": "wanonewan/wanwan",
+    "branch": "main",
     "language": "JavaScript",
-    "description": "node.js command-line interfaces made easy"
-  },
-  {
-    "repo": "xiaomi-research/dmail",
-    "branch": "master",
-    "language": "Python",
     "description": ""
   },
   {
-    "repo": "axios/axios",
+    "repo": "Stintik-Official/StintikVPN-",
     "branch": "main",
-    "language": "JavaScript",
-    "description": "Promise based HTTP client for the browser and node.js"
+    "language": "HTML",
+    "description": ""
   },
   {
-    "repo": "sindresorhus/type-fest",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "A collection of essential TypeScript types"
-  },
-  {
-    "repo": "MoyangLi00/DROID-W",
-    "branch": "main",
-    "language": "Python",
-    "description": "[CVPR 2026] DROID-SLAM in the Wild"
-  },
-  {
-    "repo": "mui/material-ui",
-    "branch": "master",
-    "language": "JavaScript",
-    "description": "Material UI: Comprehensive React component library that implements Google's Material Design. Free forever."
-  },
-  {
-    "repo": "NVIDIA/NemoClaw",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "NVIDIA plugin for secure installation of OpenClaw"
-  },
-  {
-    "repo": "facebook/folly",
-    "branch": "main",
-    "language": "C++",
-    "description": "An open-source C++ library developed and used at Facebook."
-  },
-  {
-    "repo": "996icu/996.ICU",
-    "branch": "master",
-    "language": "Other",
-    "description": "Repo for counting stars and contributing. Press F to pay respect to glorious developers."
-  },
-  {
-    "repo": "liorwn/claudetop",
-    "branch": "main",
-    "language": "Shell",
-    "description": "htop for your Claude Code sessions — real-time cost, cache efficiency, model comparison, and smart alerts"
-  },
-  {
-    "repo": "mrphrazer/agentic-malware-analysis",
-    "branch": "main",
-    "language": "YARA",
-    "description": "Agentic malware analysis environment with MCP-connected disassemblers, RE tooling, and structured workflows for Claude Code and Codex CLI."
-  },
-  {
-    "repo": "susanudgzf/Aave-Claw",
+    "repo": "evanphi7/lighthouse-router",
     "branch": "main",
     "language": "Rust",
+    "description": "Off-chain DEX route discovery on Solana — pool decoders, multi-hop quoting, and arbitrage cycle detection"
+  },
+  {
+    "repo": "Predictly-Poly/polymarket-trading-bot",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Polymarket copy trading bot and Polymarket trading bot starter that tracks selected wallets and mirrors, polymarket trading bot, polymarket trading bot, polymarket trading bot,polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot,trading"
+  },
+  {
+    "repo": "dotcl/dotcl",
+    "branch": "master",
+    "language": "C#",
     "description": ""
   },
   {
-    "repo": "ayush-that/jiang-clips",
+    "repo": "DylanDavis1/DSCourier",
+    "branch": "main",
+    "language": "PowerShell",
+    "description": ""
+  },
+  {
+    "repo": "backnotprop/rig",
+    "branch": "main",
+    "language": "Swift",
+    "description": ""
+  },
+  {
+    "repo": "rexa-developer/tiks",
     "branch": "main",
     "language": "TypeScript",
-    "description": "Automated pipeline that converts long-form YouTube videos into viral-ready vertical clips"
+    "description": "Procedural UI sounds for the web. Zero audio files. Pure synthesis."
   },
   {
-    "repo": "NeoVertex1/nuggets",
+    "repo": "cosmicstack-labs/mercury-agent-skills",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "A curated registry of reusable Mercury Agent, Open Claw or Hermes Agent skills designed for real developer workflows, persistent memory, and token-efficient execution."
+  },
+  {
+    "repo": "tukuaiai/fatecat",
+    "branch": "main",
+    "language": "Python",
+    "description": ""
+  },
+  {
+    "repo": "gaotiexinqu/OneResearchClaw",
+    "branch": "main",
+    "language": "Python",
+    "description": "Any research. One Claw. 🦞 From any materials to research with fully autonomous & skill-driven researcher."
+  },
+  {
+    "repo": "incursi0n/BlueSAM",
+    "branch": "main",
+    "language": "C",
+    "description": "A Cobalt Strike Beacon Object File that exploits the BlueHammer vulnerability that to obtain a copy of the SAM database."
+  },
+  {
+    "repo": "0x0funky/agent-sprite-forge",
+    "branch": "main",
+    "language": "Python",
+    "description": "Agent Skill for generating 2D sprite sheets, transparent PNG frames, and animated GIFs from prompts."
+  },
+  {
+    "repo": "NamKhoa-07/wallet-recovery-seed",
+    "branch": "main",
+    "language": "Python",
+    "description": "ethereum wallet recovery password multithread tool, baked from pyethrecover and pyethereum, for using keystore v3 json file to help recover your lost password if you know some phrases using both brute and wordlist technique, start + end words, whole ascii or just numbers"
+  },
+  {
+    "repo": "GordenSun/mathVideoMaker",
+    "branch": "main",
+    "language": "Python",
+    "description": ""
+  },
+  {
+    "repo": "mukul975/cve-mcp-server",
+    "branch": "main",
+    "language": "Python",
+    "description": "Production-grade MCP server giving Claude 27 security intelligence tools across 21 APIs — CVE lookup, EPSS scoring, CISA KEV, MITRE ATT&CK, Shodan, VirusTotal, and more."
+  },
+  {
+    "repo": "clent267/FUNCAPTCHAV3",
+    "branch": "main",
+    "language": "Python",
+    "description": ""
+  },
+  {
+    "repo": "Drakkar-Softwares/polymarket-kalshi-arbitrage-bot",
     "branch": "main",
     "language": "TypeScript",
-    "description": "First AI assistant with holographic memory"
+    "description": "polymarket trading bot, polymarket bot, polymarket kalshi trading bot,polymarket trading bot, polymarket bot, polymarket kalshi trading bot,polymarket trading bot, polymarket bot, polymarket kalshi trading bot,polymarket trading bot, polymarket bot, polymarket kalshi trading bot,polymarket trading bot, polymarket bot, polymarket kalshi trading bot"
   },
   {
-    "repo": "pytorch/pytorch",
+    "repo": "TaiwanBoss/DualSenseX-Steam-PC-Controller",
     "branch": "main",
-    "language": "Python",
-    "description": "Tensors and Dynamic neural networks in Python with strong GPU acceleration"
+    "language": "C#",
+    "description": "dsx steam dualsensex download free ps5 dualsens controller pc adaptive triggers haptic feedback ds4windows emulation windows 11 fix 2026"
   },
   {
-    "repo": "matteorigodanza/cryto-trading-ai-assistant",
-    "branch": "main",
-    "language": "Python",
-    "description": "AI guardian for manual crypto traders — risk monitoring, strategy validation & emotional trading detection. No trade execution."
-  },
-  {
-    "repo": "MunGell/awesome-for-beginners",
+    "repo": "alchaincyf/fanbox",
     "branch": "master",
-    "language": "Other",
-    "description": "A list of awesome beginners-friendly projects."
+    "language": "JavaScript",
+    "description": ""
   },
   {
-    "repo": "iamlukethedev/Claw3D",
+    "repo": "wojtczyk/trust",
+    "branch": "main",
+    "language": "Rust",
+    "description": "TRUST – Coding Rust like it's 1989"
+  },
+  {
+    "repo": "SXai-lab/prediction-market-arbitrage",
     "branch": "main",
     "language": "TypeScript",
-    "description": "Claw3D is an open source 3D engine built on OpenClaw for creating games, simulations, and high-performance 3D applications."
-  },
-  {
-    "repo": "EricLengyel/Slug",
-    "branch": "main",
-    "language": "HLSL",
-    "description": "Reference code for the Slug Algorithm."
+    "description": "Polymarket套利交易机器人 Polymarket套利机器人 机器人 arbitrage trading bot polymarket arbitrage bot Polymarket套利交易机器人 Polymarket套利机器人 机器人 arbitrage trading bot polymarket arbitrage bot Polymarket套利交易机器人 Polymarket套利机器人 机器人 arbitrage trading bot polymarket arbitrage bot Polymarket套利交易机器人 Polymarket套利机器人 机器人 arbitrage trading bot polymarket arbitrage bot Polymarket"
   }
 ]
