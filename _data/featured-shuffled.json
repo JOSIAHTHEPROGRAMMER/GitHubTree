@@ -1,146 +1,146 @@
 [
   {
-    "repo": "yaojingang/TokHub",
+    "repo": "dtnewman/burn-baby-burn",
     "branch": "main",
-    "language": "TypeScript",
-    "description": "AI API 中转站监控、推荐运营与 OpenAI 兼容专属网关系统，支持分层探测、健康评分、用量计量、告警审计和 Docker 自托管。"
+    "language": "Shell",
+    "description": "Be the most productive engineer on your team 🚀🚀🚀"
   },
   {
-    "repo": "invertase/react-native-firebase",
+    "repo": "ynsmroztas/AndroHunter",
     "branch": "main",
-    "language": "TypeScript",
-    "description": "🔥 A well-tested feature-rich modular Firebase implementation for React Native. Supports both iOS & Android platforms for all Firebase services."
+    "language": "Java",
+    "description": "AndroHunter"
   },
   {
-    "repo": "TrendTechVista/polymarket-politics-bot",
+    "repo": "duriantaco/fyn",
     "branch": "main",
-    "language": "TypeScript",
-    "description": "polymarket politics bot polymarket politics bot polymarket politics bot polymarket politics bot polymarket politics bot polymarket politics bot polymarket politics bot polymarket politics bot polymarket politics bot polymarket politics bot polymarket politics bot polymarket politics bot polymarket politics bot polymarket politics bot"
+    "language": "Rust",
+    "description": "Fyn is a privacy-first fork of uv for fast Python package management, dependency resolution, virtual environments, and pyproject.toml workflows."
   },
   {
-    "repo": "tldev/posturr",
-    "branch": "main",
-    "language": "Swift",
-    "description": "A macOS app that blurs your screen when you slouch. Uses Vision framework for real-time posture detection."
-  },
-  {
-    "repo": "home-assistant/core",
-    "branch": "dev",
-    "language": "Python",
-    "description": ":house_with_garden: Open source home automation that puts local control and privacy first."
-  },
-  {
-    "repo": "element-hq/element-android",
-    "branch": "develop",
-    "language": "Kotlin",
-    "description": "A Matrix collaboration client for Android."
-  },
-  {
-    "repo": "quilljs/quill",
-    "branch": "develop",
-    "language": "TypeScript",
-    "description": "Quill is a modern WYSIWYG editor built for compatibility and extensibility"
-  },
-  {
-    "repo": "EbookFoundation/free-programming-books",
-    "branch": "main",
-    "language": "Python",
-    "description": ":books: Freely available programming books"
-  },
-  {
-    "repo": "netblue30/firejail",
-    "branch": "master",
-    "language": "C",
-    "description": "Linux namespaces and seccomp-bpf sandbox"
-  },
-  {
-    "repo": "langchain-ai/langchainjs",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "🦜🔗 Build context-aware reasoning applications"
-  },
-  {
-    "repo": "labuladong/fucking-algorithm",
-    "branch": "master",
-    "language": "Markdown",
-    "description": "刷算法全靠套路，认准 labuladong 就够了！English version supported! Crack LeetCode, not only how, but also why."
-  },
-  {
-    "repo": "mlflow/mlflow",
-    "branch": "master",
-    "language": "Python",
-    "description": "The open source developer platform to build AI agents and models with confidence. Enhance your AI applications with end-to-end tracking, observability, and evaluations, all in one integrated platform."
-  },
-  {
-    "repo": "airbytehq/airbyte",
-    "branch": "master",
-    "language": "Python",
-    "description": "The leading data integration platform for ETL / ELT data pipelines from APIs, databases & files to data warehouses, data lakes & data lakehouses. Both self-hosted and Cloud-hosted."
-  },
-  {
-    "repo": "google/flatbuffers",
-    "branch": "master",
-    "language": "C++",
-    "description": "FlatBuffers: Memory Efficient Serialization Library"
-  },
-  {
-    "repo": "ultralytics/ultralytics",
-    "branch": "main",
-    "language": "Python",
-    "description": "Ultralytics YOLO 🚀"
-  },
-  {
-    "repo": "deepchem/deepchem",
-    "branch": "master",
-    "language": "Python",
-    "description": "Democratizing Deep-Learning for Drug Discovery, Quantum Chemistry, Materials Science and Biology"
-  },
-  {
-    "repo": "CocoaPods/CocoaPods",
-    "branch": "master",
-    "language": "Ruby",
-    "description": "The Cocoa Dependency Manager."
-  },
-  {
-    "repo": "microsoft/PowerToys",
-    "branch": "main",
-    "language": "C#",
-    "description": "Microsoft PowerToys is a collection of utilities that help you customize Windows and streamline everyday tasks"
-  },
-  {
-    "repo": "pmndrs/zustand",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "🐻 Bear necessities for state management in React"
-  },
-  {
-    "repo": "NVlabs/Sana",
-    "branch": "main",
-    "language": "Python",
-    "description": "SANA: Efficient High-Resolution Image Synthesis with Linear Diffusion Transformer"
-  },
-  {
-    "repo": "996icu/996.ICU",
-    "branch": "master",
-    "language": "Other",
-    "description": "Repo for counting stars and contributing. Press F to pay respect to glorious developers."
-  },
-  {
-    "repo": "jquery/jquery",
+    "repo": "comeonzhj/AutoContents",
     "branch": "main",
     "language": "JavaScript",
-    "description": "jQuery JavaScript Library"
+    "description": "基于 RSS 的 AI 资讯聚合、内容创作与 Agent 自动化工具"
   },
   {
-    "repo": "dropwizard/dropwizard",
+    "repo": "robertorobotics/Nextis-AIRA-3D",
+    "branch": "main",
+    "language": "Python",
+    "description": "Open-source 7DoF 3D-printable robotic arm with LeRobot integration."
+  },
+  {
+    "repo": "elastic/supply-chain-monitor",
+    "branch": "main",
+    "language": "Python",
+    "description": ""
+  },
+  {
+    "repo": "ory/oathkeeper",
+    "branch": "master",
+    "language": "Go",
+    "description": "A cloud native Identity & Access Proxy / API (IAP) and Access Control Decision API that authenticates, authorizes, and mutates incoming HTTP(s) requests. Inspired by the BeyondCorp / Zero Trust white paper. Written in Go."
+  },
+  {
+    "repo": "nagisanzenin/skyclaw",
+    "branch": "main",
+    "language": "Rust",
+    "description": "Hyper-lean & blazing fast Claw that lives and self-sustain on the cloud... indefinitely"
+  },
+  {
+    "repo": "shenhao-stu/ohmycaptcha",
+    "branch": "main",
+    "language": "Python",
+    "description": "⚡ Self-hostable YesCaptcha-compatible captcha solver built with FastAPI, Playwright, and OpenAI-compatible multimodal models."
+  },
+  {
+    "repo": "LemoLev/tg-ws-proxy-ANDROID",
+    "branch": "main",
+    "language": "Python",
+    "description": "Flowseal/tg-ws-proxy на андроид (да и не только)"
+  },
+  {
+    "repo": "bazelbuild/bazel",
     "branch": "master",
     "language": "Java",
-    "description": "A damn simple library for building production-ready RESTful web services."
+    "description": "a fast, scalable, multi-language and extensible build system"
   },
   {
-    "repo": "excalidraw/excalidraw",
-    "branch": "master",
+    "repo": "vueuse/skills",
+    "branch": "main",
     "language": "TypeScript",
-    "description": "Virtual whiteboard for sketching hand-drawn like diagrams"
+    "description": "Agent Skills for VueUse"
+  },
+  {
+    "repo": "reflex-dev/reflex",
+    "branch": "main",
+    "language": "Python",
+    "description": "🕸️ Web apps in pure Python 🐍"
+  },
+  {
+    "repo": "phlx0/drift",
+    "branch": "main",
+    "language": "Go",
+    "description": "Terminal screensaver that activates when you're idle — constellations, rain, particles & braille   waves. Press any key to resume."
+  },
+  {
+    "repo": "livehl/aimirror",
+    "branch": "main",
+    "language": "Python",
+    "description": "🚀 200倍速！AI时代的下载神器 | Docker/PyPI/HuggingFace/CRAN 全加速 | 并行分片+智能缓存，让下载飞起来"
+  },
+  {
+    "repo": "THU-MAIC/OpenMAIC",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning experience in just one click"
+  },
+  {
+    "repo": "doocs/advanced-java",
+    "branch": "main",
+    "language": "Java",
+    "description": "😮 Core Interview Questions & Answers For Experienced Java(Backend) Developers | 互联网 Java 工程师进阶知识完全扫盲：涵盖高并发、分布式、高可用、微服务、海量数据处理等领域知识"
+  },
+  {
+    "repo": "0xMH/fichero-printer",
+    "branch": "main",
+    "language": "HTML",
+    "description": "Fichero D11s thermal label printer - BLE protocol reverse engineering and Python CLI tool"
+  },
+  {
+    "repo": "glommer/codemogger",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Codemogger is a code indexing library and MCP server for AI coding agents"
+  },
+  {
+    "repo": "burpheart/cursor-tap",
+    "branch": "main",
+    "language": "Go",
+    "description": "Cursor gRPC 通信流量分析工具"
+  },
+  {
+    "repo": "EleutherAI/gpt-neox",
+    "branch": "main",
+    "language": "Python",
+    "description": "An implementation of model parallel autoregressive transformers on GPUs, based on the Megatron and DeepSpeed libraries"
+  },
+  {
+    "repo": "Haleclipse/CodexDesktop-Rebuild",
+    "branch": "master",
+    "language": "JavaScript",
+    "description": "Codex Desktop App - Cross-platform Rebuild"
+  },
+  {
+    "repo": "olucasandrade/youjustneedpostgres",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": ""
+  },
+  {
+    "repo": "academic/awesome-datascience",
+    "branch": "master",
+    "language": "Other",
+    "description": ":memo: An awesome Data Science repository to learn and apply for real world problems."
   }
 ]
