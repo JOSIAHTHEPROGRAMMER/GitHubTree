@@ -1,146 +1,146 @@
 [
   {
-    "repo": "luckyyyyy/specc.sh",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Spec Coding beats Vibe Coding. A full-stack AI template for production-grade code."
-  },
-  {
-    "repo": "browser-use/browser-harness-js",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Self-healing browser harness that enables LLMs to complete any task"
-  },
-  {
-    "repo": "wanonewan/wanwan",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": ""
-  },
-  {
-    "repo": "Stintik-Official/StintikVPN-",
+    "repo": "linkedin/school-of-sre",
     "branch": "main",
     "language": "HTML",
-    "description": ""
+    "description": "At LinkedIn, we are using this curriculum for onboarding our entry-level talents into the SRE role."
   },
   {
-    "repo": "evanphi7/lighthouse-router",
+    "repo": "yc-duan/fastctx",
     "branch": "main",
     "language": "Rust",
-    "description": "Off-chain DEX route discovery on Solana — pool decoders, multi-hop quoting, and arbitrage cycle detection"
+    "description": "Fast, context-efficient repository tools for AI agents (MCP)"
   },
   {
-    "repo": "Predictly-Poly/polymarket-trading-bot",
+    "repo": "fullcalendar/fullcalendar",
     "branch": "main",
     "language": "TypeScript",
-    "description": "Polymarket copy trading bot and Polymarket trading bot starter that tracks selected wallets and mirrors, polymarket trading bot, polymarket trading bot, polymarket trading bot,polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot,trading"
+    "description": "Full-sized drag & drop event calendar in JavaScript"
   },
   {
-    "repo": "dotcl/dotcl",
-    "branch": "master",
-    "language": "C#",
-    "description": ""
-  },
-  {
-    "repo": "DylanDavis1/DSCourier",
-    "branch": "main",
-    "language": "PowerShell",
-    "description": ""
-  },
-  {
-    "repo": "backnotprop/rig",
-    "branch": "main",
-    "language": "Swift",
-    "description": ""
-  },
-  {
-    "repo": "rexa-developer/tiks",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Procedural UI sounds for the web. Zero audio files. Pure synthesis."
-  },
-  {
-    "repo": "cosmicstack-labs/mercury-agent-skills",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "A curated registry of reusable Mercury Agent, Open Claw or Hermes Agent skills designed for real developer workflows, persistent memory, and token-efficient execution."
-  },
-  {
-    "repo": "tukuaiai/fatecat",
+    "repo": "HarnessLab/claw-code-agent",
     "branch": "main",
     "language": "Python",
-    "description": ""
+    "description": "Claw Code No Rust No TypeScript Only Python. Easy to work with. Fast to iterate. 🔥 Zero external dependencies 🔥"
   },
   {
-    "repo": "gaotiexinqu/OneResearchClaw",
-    "branch": "main",
-    "language": "Python",
-    "description": "Any research. One Claw. 🦞 From any materials to research with fully autonomous & skill-driven researcher."
-  },
-  {
-    "repo": "incursi0n/BlueSAM",
-    "branch": "main",
-    "language": "C",
-    "description": "A Cobalt Strike Beacon Object File that exploits the BlueHammer vulnerability that to obtain a copy of the SAM database."
-  },
-  {
-    "repo": "0x0funky/agent-sprite-forge",
-    "branch": "main",
-    "language": "Python",
-    "description": "Agent Skill for generating 2D sprite sheets, transparent PNG frames, and animated GIFs from prompts."
-  },
-  {
-    "repo": "NamKhoa-07/wallet-recovery-seed",
-    "branch": "main",
-    "language": "Python",
-    "description": "ethereum wallet recovery password multithread tool, baked from pyethrecover and pyethereum, for using keystore v3 json file to help recover your lost password if you know some phrases using both brute and wordlist technique, start + end words, whole ascii or just numbers"
-  },
-  {
-    "repo": "GordenSun/mathVideoMaker",
-    "branch": "main",
-    "language": "Python",
-    "description": ""
-  },
-  {
-    "repo": "mukul975/cve-mcp-server",
-    "branch": "main",
-    "language": "Python",
-    "description": "Production-grade MCP server giving Claude 27 security intelligence tools across 21 APIs — CVE lookup, EPSS scoring, CISA KEV, MITRE ATT&CK, Shodan, VirusTotal, and more."
-  },
-  {
-    "repo": "clent267/FUNCAPTCHAV3",
-    "branch": "main",
-    "language": "Python",
-    "description": ""
-  },
-  {
-    "repo": "Drakkar-Softwares/polymarket-kalshi-arbitrage-bot",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "polymarket trading bot, polymarket bot, polymarket kalshi trading bot,polymarket trading bot, polymarket bot, polymarket kalshi trading bot,polymarket trading bot, polymarket bot, polymarket kalshi trading bot,polymarket trading bot, polymarket bot, polymarket kalshi trading bot,polymarket trading bot, polymarket bot, polymarket kalshi trading bot"
-  },
-  {
-    "repo": "TaiwanBoss/DualSenseX-Steam-PC-Controller",
-    "branch": "main",
-    "language": "C#",
-    "description": "dsx steam dualsensex download free ps5 dualsens controller pc adaptive triggers haptic feedback ds4windows emulation windows 11 fix 2026"
-  },
-  {
-    "repo": "alchaincyf/fanbox",
+    "repo": "calesthio/Crucix",
     "branch": "master",
     "language": "JavaScript",
+    "description": "Your personal intelligence agent. Watches the world from 26 data sources and pings you when something changes."
+  },
+  {
+    "repo": "cnitlrt/AutoTeam",
+    "branch": "dev",
+    "language": "Python",
+    "description": "ChatGPT Team 账号自动轮转管理 - Codex 额度监控、自动换号、CPA 认证同步"
+  },
+  {
+    "repo": "colinhacks/zod",
+    "branch": "master",
+    "language": "TypeScript",
+    "description": "TypeScript-first schema validation with static type inference"
+  },
+  {
+    "repo": "google/zx",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "A tool for writing better scripts"
+  },
+  {
+    "repo": "google/flatbuffers",
+    "branch": "master",
+    "language": "C++",
+    "description": "FlatBuffers: Memory Efficient Serialization Library"
+  },
+  {
+    "repo": "iluwatar/java-design-patterns",
+    "branch": "master",
+    "language": "Java",
+    "description": "Design patterns implemented in Java"
+  },
+  {
+    "repo": "raxx21/rajesh-portfolio",
+    "branch": "main",
+    "language": "TypeScript",
     "description": ""
   },
   {
-    "repo": "wojtczyk/trust",
+    "repo": "redmine/redmine",
+    "branch": "master",
+    "language": "Ruby",
+    "description": "Mirror of redmine code source - Official Subversion repository is at https://svn.redmine.org/redmine - contact: @vividtone or maeda (at) farend (dot) jp"
+  },
+  {
+    "repo": "EleutherAI/gpt-neox",
+    "branch": "main",
+    "language": "Python",
+    "description": "An implementation of model parallel autoregressive transformers on GPUs, based on the Megatron and DeepSpeed libraries"
+  },
+  {
+    "repo": "EleutherAI/lm-evaluation-harness",
+    "branch": "main",
+    "language": "Python",
+    "description": "A framework for few-shot evaluation of language models."
+  },
+  {
+    "repo": "HKUDS/OpenHarness",
+    "branch": "main",
+    "language": "Python",
+    "description": "OpenHarness: Open Agent Harness"
+  },
+  {
+    "repo": "microsoft/vscode",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Visual Studio Code"
+  },
+  {
+    "repo": "signalapp/Signal-Desktop",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "A private messenger for Windows, macOS, and Linux."
+  },
+  {
+    "repo": "guzzle/guzzle",
+    "branch": "master",
+    "language": "PHP",
+    "description": "Guzzle, an extensible PHP HTTP client"
+  },
+  {
+    "repo": "karpathy/autoresearch",
+    "branch": "master",
+    "language": "Python",
+    "description": "AI agents running research on single-GPU nanochat training automatically"
+  },
+  {
+    "repo": "GabagoolisLive/polymarket-copytrading-bot-vvvvvvvvvvvv",
     "branch": "main",
     "language": "Rust",
-    "description": "TRUST – Coding Rust like it's 1989"
+    "description": "Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot Polymarket copy Trading Bot"
   },
   {
-    "repo": "SXai-lab/prediction-market-arbitrage",
+    "repo": "nepfaff/scenesmith",
     "branch": "main",
-    "language": "TypeScript",
-    "description": "Polymarket套利交易机器人 Polymarket套利机器人 机器人 arbitrage trading bot polymarket arbitrage bot Polymarket套利交易机器人 Polymarket套利机器人 机器人 arbitrage trading bot polymarket arbitrage bot Polymarket套利交易机器人 Polymarket套利机器人 机器人 arbitrage trading bot polymarket arbitrage bot Polymarket套利交易机器人 Polymarket套利机器人 机器人 arbitrage trading bot polymarket arbitrage bot Polymarket"
+    "language": "Python",
+    "description": "Code for SceneSmith: Agentic Generation of Simulation-Ready Indoor Scenes"
+  },
+  {
+    "repo": "hxu296/tariff",
+    "branch": "main",
+    "language": "Python",
+    "description": "The official repository for tariff"
+  },
+  {
+    "repo": "pallets/flask",
+    "branch": "main",
+    "language": "Python",
+    "description": "The Python micro framework for building web applications."
+  },
+  {
+    "repo": "pocketbase/pocketbase",
+    "branch": "master",
+    "language": "Go",
+    "description": "Open Source realtime backend in 1 file"
   }
 ]
