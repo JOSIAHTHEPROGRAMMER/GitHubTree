@@ -1,51 +1,81 @@
 [
   {
-    "repo": "linkedin/school-of-sre",
-    "branch": "main",
-    "language": "HTML",
-    "description": "At LinkedIn, we are using this curriculum for onboarding our entry-level talents into the SRE role."
-  },
-  {
-    "repo": "yc-duan/fastctx",
-    "branch": "main",
-    "language": "Rust",
-    "description": "Fast, context-efficient repository tools for AI agents (MCP)"
-  },
-  {
-    "repo": "fullcalendar/fullcalendar",
+    "repo": "yaojingang/TokHub",
     "branch": "main",
     "language": "TypeScript",
-    "description": "Full-sized drag & drop event calendar in JavaScript"
+    "description": "AI API 中转站监控、推荐运营与 OpenAI 兼容专属网关系统，支持分层探测、健康评分、用量计量、告警审计和 Docker 自托管。"
   },
   {
-    "repo": "HarnessLab/claw-code-agent",
+    "repo": "invertase/react-native-firebase",
     "branch": "main",
-    "language": "Python",
-    "description": "Claw Code No Rust No TypeScript Only Python. Easy to work with. Fast to iterate. 🔥 Zero external dependencies 🔥"
+    "language": "TypeScript",
+    "description": "🔥 A well-tested feature-rich modular Firebase implementation for React Native. Supports both iOS & Android platforms for all Firebase services."
   },
   {
-    "repo": "calesthio/Crucix",
-    "branch": "master",
-    "language": "JavaScript",
-    "description": "Your personal intelligence agent. Watches the world from 26 data sources and pings you when something changes."
+    "repo": "TrendTechVista/polymarket-politics-bot",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "polymarket politics bot polymarket politics bot polymarket politics bot polymarket politics bot polymarket politics bot polymarket politics bot polymarket politics bot polymarket politics bot polymarket politics bot polymarket politics bot polymarket politics bot polymarket politics bot polymarket politics bot polymarket politics bot"
   },
   {
-    "repo": "cnitlrt/AutoTeam",
+    "repo": "tldev/posturr",
+    "branch": "main",
+    "language": "Swift",
+    "description": "A macOS app that blurs your screen when you slouch. Uses Vision framework for real-time posture detection."
+  },
+  {
+    "repo": "home-assistant/core",
     "branch": "dev",
     "language": "Python",
-    "description": "ChatGPT Team 账号自动轮转管理 - Codex 额度监控、自动换号、CPA 认证同步"
+    "description": ":house_with_garden: Open source home automation that puts local control and privacy first."
   },
   {
-    "repo": "colinhacks/zod",
-    "branch": "master",
+    "repo": "element-hq/element-android",
+    "branch": "develop",
+    "language": "Kotlin",
+    "description": "A Matrix collaboration client for Android."
+  },
+  {
+    "repo": "quilljs/quill",
+    "branch": "develop",
     "language": "TypeScript",
-    "description": "TypeScript-first schema validation with static type inference"
+    "description": "Quill is a modern WYSIWYG editor built for compatibility and extensibility"
   },
   {
-    "repo": "google/zx",
+    "repo": "EbookFoundation/free-programming-books",
     "branch": "main",
-    "language": "JavaScript",
-    "description": "A tool for writing better scripts"
+    "language": "Python",
+    "description": ":books: Freely available programming books"
+  },
+  {
+    "repo": "netblue30/firejail",
+    "branch": "master",
+    "language": "C",
+    "description": "Linux namespaces and seccomp-bpf sandbox"
+  },
+  {
+    "repo": "langchain-ai/langchainjs",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "🦜🔗 Build context-aware reasoning applications"
+  },
+  {
+    "repo": "labuladong/fucking-algorithm",
+    "branch": "master",
+    "language": "Markdown",
+    "description": "刷算法全靠套路，认准 labuladong 就够了！English version supported! Crack LeetCode, not only how, but also why."
+  },
+  {
+    "repo": "mlflow/mlflow",
+    "branch": "master",
+    "language": "Python",
+    "description": "The open source developer platform to build AI agents and models with confidence. Enhance your AI applications with end-to-end tracking, observability, and evaluations, all in one integrated platform."
+  },
+  {
+    "repo": "airbytehq/airbyte",
+    "branch": "master",
+    "language": "Python",
+    "description": "The leading data integration platform for ETL / ELT data pipelines from APIs, databases & files to data warehouses, data lakes & data lakehouses. Both self-hosted and Cloud-hosted."
   },
   {
     "repo": "google/flatbuffers",
@@ -54,93 +84,63 @@
     "description": "FlatBuffers: Memory Efficient Serialization Library"
   },
   {
-    "repo": "iluwatar/java-design-patterns",
-    "branch": "master",
-    "language": "Java",
-    "description": "Design patterns implemented in Java"
-  },
-  {
-    "repo": "raxx21/rajesh-portfolio",
+    "repo": "ultralytics/ultralytics",
     "branch": "main",
-    "language": "TypeScript",
-    "description": ""
+    "language": "Python",
+    "description": "Ultralytics YOLO 🚀"
   },
   {
-    "repo": "redmine/redmine",
+    "repo": "deepchem/deepchem",
+    "branch": "master",
+    "language": "Python",
+    "description": "Democratizing Deep-Learning for Drug Discovery, Quantum Chemistry, Materials Science and Biology"
+  },
+  {
+    "repo": "CocoaPods/CocoaPods",
     "branch": "master",
     "language": "Ruby",
-    "description": "Mirror of redmine code source - Official Subversion repository is at https://svn.redmine.org/redmine - contact: @vividtone or maeda (at) farend (dot) jp"
+    "description": "The Cocoa Dependency Manager."
   },
   {
-    "repo": "EleutherAI/gpt-neox",
+    "repo": "microsoft/PowerToys",
     "branch": "main",
-    "language": "Python",
-    "description": "An implementation of model parallel autoregressive transformers on GPUs, based on the Megatron and DeepSpeed libraries"
+    "language": "C#",
+    "description": "Microsoft PowerToys is a collection of utilities that help you customize Windows and streamline everyday tasks"
   },
   {
-    "repo": "EleutherAI/lm-evaluation-harness",
-    "branch": "main",
-    "language": "Python",
-    "description": "A framework for few-shot evaluation of language models."
-  },
-  {
-    "repo": "HKUDS/OpenHarness",
-    "branch": "main",
-    "language": "Python",
-    "description": "OpenHarness: Open Agent Harness"
-  },
-  {
-    "repo": "microsoft/vscode",
+    "repo": "pmndrs/zustand",
     "branch": "main",
     "language": "TypeScript",
-    "description": "Visual Studio Code"
+    "description": "🐻 Bear necessities for state management in React"
   },
   {
-    "repo": "signalapp/Signal-Desktop",
+    "repo": "NVlabs/Sana",
     "branch": "main",
+    "language": "Python",
+    "description": "SANA: Efficient High-Resolution Image Synthesis with Linear Diffusion Transformer"
+  },
+  {
+    "repo": "996icu/996.ICU",
+    "branch": "master",
+    "language": "Other",
+    "description": "Repo for counting stars and contributing. Press F to pay respect to glorious developers."
+  },
+  {
+    "repo": "jquery/jquery",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "jQuery JavaScript Library"
+  },
+  {
+    "repo": "dropwizard/dropwizard",
+    "branch": "master",
+    "language": "Java",
+    "description": "A damn simple library for building production-ready RESTful web services."
+  },
+  {
+    "repo": "excalidraw/excalidraw",
+    "branch": "master",
     "language": "TypeScript",
-    "description": "A private messenger for Windows, macOS, and Linux."
-  },
-  {
-    "repo": "guzzle/guzzle",
-    "branch": "master",
-    "language": "PHP",
-    "description": "Guzzle, an extensible PHP HTTP client"
-  },
-  {
-    "repo": "karpathy/autoresearch",
-    "branch": "master",
-    "language": "Python",
-    "description": "AI agents running research on single-GPU nanochat training automatically"
-  },
-  {
-    "repo": "GabagoolisLive/polymarket-copytrading-bot-vvvvvvvvvvvv",
-    "branch": "main",
-    "language": "Rust",
-    "description": "Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot Polymarket copy Trading Bot"
-  },
-  {
-    "repo": "nepfaff/scenesmith",
-    "branch": "main",
-    "language": "Python",
-    "description": "Code for SceneSmith: Agentic Generation of Simulation-Ready Indoor Scenes"
-  },
-  {
-    "repo": "hxu296/tariff",
-    "branch": "main",
-    "language": "Python",
-    "description": "The official repository for tariff"
-  },
-  {
-    "repo": "pallets/flask",
-    "branch": "main",
-    "language": "Python",
-    "description": "The Python micro framework for building web applications."
-  },
-  {
-    "repo": "pocketbase/pocketbase",
-    "branch": "master",
-    "language": "Go",
-    "description": "Open Source realtime backend in 1 file"
+    "description": "Virtual whiteboard for sketching hand-drawn like diagrams"
   }
 ]

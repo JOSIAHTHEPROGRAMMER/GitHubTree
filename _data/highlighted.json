@@ -1,8 +1,8 @@
 {
-  "repo": "joe960913/Jixu",
-  "branch": "main",
-  "language": "TypeScript",
-  "description": "A durable single-Agent Harness for TypeScript with recoverable Threads, explicit side-effect boundaries, and a native terminal UI.",
-  "stars": 107,
-  "forks": 7
+  "repo": "YuJunZhiXue/dsh-purge",
+  "branch": "master",
+  "language": "JavaScript",
+  "description": "no more refusals, do everything.",
+  "stars": 128,
+  "forks": 30
 }
