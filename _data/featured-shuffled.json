@@ -1,146 +1,146 @@
 [
   {
-    "repo": "dtnewman/burn-baby-burn",
-    "branch": "main",
-    "language": "Shell",
-    "description": "Be the most productive engineer on your team 🚀🚀🚀"
-  },
-  {
-    "repo": "ynsmroztas/AndroHunter",
-    "branch": "main",
-    "language": "Java",
-    "description": "AndroHunter"
-  },
-  {
-    "repo": "duriantaco/fyn",
-    "branch": "main",
-    "language": "Rust",
-    "description": "Fyn is a privacy-first fork of uv for fast Python package management, dependency resolution, virtual environments, and pyproject.toml workflows."
-  },
-  {
-    "repo": "comeonzhj/AutoContents",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "基于 RSS 的 AI 资讯聚合、内容创作与 Agent 自动化工具"
-  },
-  {
-    "repo": "robertorobotics/Nextis-AIRA-3D",
-    "branch": "main",
-    "language": "Python",
-    "description": "Open-source 7DoF 3D-printable robotic arm with LeRobot integration."
-  },
-  {
-    "repo": "elastic/supply-chain-monitor",
-    "branch": "main",
-    "language": "Python",
-    "description": ""
-  },
-  {
-    "repo": "ory/oathkeeper",
-    "branch": "master",
-    "language": "Go",
-    "description": "A cloud native Identity & Access Proxy / API (IAP) and Access Control Decision API that authenticates, authorizes, and mutates incoming HTTP(s) requests. Inspired by the BeyondCorp / Zero Trust white paper. Written in Go."
-  },
-  {
-    "repo": "nagisanzenin/skyclaw",
-    "branch": "main",
-    "language": "Rust",
-    "description": "Hyper-lean & blazing fast Claw that lives and self-sustain on the cloud... indefinitely"
-  },
-  {
-    "repo": "shenhao-stu/ohmycaptcha",
-    "branch": "main",
-    "language": "Python",
-    "description": "⚡ Self-hostable YesCaptcha-compatible captcha solver built with FastAPI, Playwright, and OpenAI-compatible multimodal models."
-  },
-  {
-    "repo": "LemoLev/tg-ws-proxy-ANDROID",
-    "branch": "main",
-    "language": "Python",
-    "description": "Flowseal/tg-ws-proxy на андроид (да и не только)"
-  },
-  {
-    "repo": "bazelbuild/bazel",
-    "branch": "master",
-    "language": "Java",
-    "description": "a fast, scalable, multi-language and extensible build system"
-  },
-  {
-    "repo": "vueuse/skills",
+    "repo": "tanbiralam/claude-code",
     "branch": "main",
     "language": "TypeScript",
-    "description": "Agent Skills for VueUse"
+    "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands. All original source code is the property of Anthropic."
   },
   {
-    "repo": "reflex-dev/reflex",
-    "branch": "main",
-    "language": "Python",
-    "description": "🕸️ Web apps in pure Python 🐍"
-  },
-  {
-    "repo": "phlx0/drift",
-    "branch": "main",
-    "language": "Go",
-    "description": "Terminal screensaver that activates when you're idle — constellations, rain, particles & braille   waves. Press any key to resume."
-  },
-  {
-    "repo": "livehl/aimirror",
-    "branch": "main",
-    "language": "Python",
-    "description": "🚀 200倍速！AI时代的下载神器 | Docker/PyPI/HuggingFace/CRAN 全加速 | 并行分片+智能缓存，让下载飞起来"
-  },
-  {
-    "repo": "THU-MAIC/OpenMAIC",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning experience in just one click"
-  },
-  {
-    "repo": "doocs/advanced-java",
-    "branch": "main",
-    "language": "Java",
-    "description": "😮 Core Interview Questions & Answers For Experienced Java(Backend) Developers | 互联网 Java 工程师进阶知识完全扫盲：涵盖高并发、分布式、高可用、微服务、海量数据处理等领域知识"
-  },
-  {
-    "repo": "0xMH/fichero-printer",
+    "repo": "op7418/guizang-ppt-skill",
     "branch": "main",
     "language": "HTML",
-    "description": "Fichero D11s thermal label printer - BLE protocol reverse engineering and Python CLI tool"
+    "description": "A Claude Code Skill that turns prompts into horizontal-swipe magazine-style HTML decks — 10 layouts, 5 curated themes, WebGL hero backgrounds, single-file output."
   },
   {
-    "repo": "glommer/codemogger",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Codemogger is a code indexing library and MCP server for AI coding agents"
-  },
-  {
-    "repo": "burpheart/cursor-tap",
+    "repo": "grafana/mimir",
     "branch": "main",
     "language": "Go",
-    "description": "Cursor gRPC 通信流量分析工具"
+    "description": "Grafana Mimir provides horizontally scalable, highly available, multi-tenant, long-term storage for Prometheus."
   },
   {
-    "repo": "EleutherAI/gpt-neox",
-    "branch": "main",
-    "language": "Python",
-    "description": "An implementation of model parallel autoregressive transformers on GPUs, based on the Megatron and DeepSpeed libraries"
-  },
-  {
-    "repo": "Haleclipse/CodexDesktop-Rebuild",
-    "branch": "master",
-    "language": "JavaScript",
-    "description": "Codex Desktop App - Cross-platform Rebuild"
-  },
-  {
-    "repo": "olucasandrade/youjustneedpostgres",
+    "repo": "standardagents/sip",
     "branch": "main",
     "language": "TypeScript",
+    "description": "Small Image Processor - Ultra memory-efficient image processing for Cloudflare Workers 🟠"
+  },
+  {
+    "repo": "JubaKitiashvili/expo-pretext",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Predict React Native text heights before rendering. Native TextKit/TextPaint measurement + ~0.0002ms JS layout. FlashList, streaming AI chat, typewriter, pinch-to-zoom, obstacle reflow, Dynamic Type, Expo Web. 386 tests. MIT."
+  },
+  {
+    "repo": "facebookresearch/detectron2",
+    "branch": "main",
+    "language": "Python",
+    "description": "Detectron2 is a platform for object detection, segmentation and other visual recognition tasks."
+  },
+  {
+    "repo": "ggerganov/llama.cpp",
+    "branch": "master",
+    "language": "C++",
+    "description": "LLM inference in C/C++"
+  },
+  {
+    "repo": "v4nsh0x/InstaTrace",
+    "branch": "main",
+    "language": "Python",
+    "description": "Private Instagram Post URL Extractor (Research POC)"
+  },
+  {
+    "repo": "marktext/marktext",
+    "branch": "master",
+    "language": "JavaScript",
+    "description": "📝A simple and elegant markdown editor, available for Linux, macOS and Windows."
+  },
+  {
+    "repo": "jashkenas/backbone",
+    "branch": "master",
+    "language": "JavaScript",
+    "description": "Give your JS App some Backbone with Models, Views, Collections, and Events"
+  },
+  {
+    "repo": "0Voice/Expert_Readed_Books",
+    "branch": "master",
+    "language": "Other",
+    "description": "2021年最新总结，推荐工程师合适读本，计算机科学，软件技术，创业，思想类，数学类，人物传记书籍"
+  },
+  {
+    "repo": "tradesdontlie/tradingview-mcp",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "AI-assisted TradingView chart analysis — connect Claude Code to your TradingView Desktop for personal workflow automation"
+  },
+  {
+    "repo": "HELPMEEADICE/doge-code",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Claude Code 的一个 Fork。不是官方正史，而是平行世界番外篇；不是萌豚整活仓库，而是“认真修、顺手发癫一点点”的工程分支。"
+  },
+  {
+    "repo": "gleam-lang/gleam",
+    "branch": "main",
+    "language": "Rust",
+    "description": "⭐️ A friendly language for building type-safe, scalable systems!"
+  },
+  {
+    "repo": "quasarframework/quasar",
+    "branch": "dev",
+    "language": "JavaScript",
+    "description": "Quasar Framework - Build high-performance VueJS user interfaces in record time"
+  },
+  {
+    "repo": "SentiAvatar/SentiAvatar",
+    "branch": "main",
+    "language": "Python",
     "description": ""
   },
   {
-    "repo": "academic/awesome-datascience",
+    "repo": "actix/actix",
     "branch": "master",
-    "language": "Other",
-    "description": ":memo: An awesome Data Science repository to learn and apply for real world problems."
+    "language": "Rust",
+    "description": "Actor framework for Rust."
+  },
+  {
+    "repo": "vercel/next.js",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "The React Framework"
+  },
+  {
+    "repo": "OpenDriveLab/WorldEngine",
+    "branch": "main",
+    "language": "Python",
+    "description": "WorldEngine: Towards the Era of Post-Training for Physical AI"
+  },
+  {
+    "repo": "expressjs/express",
+    "branch": "master",
+    "language": "JavaScript",
+    "description": "Fast, unopinionated, minimalist web framework for node."
+  },
+  {
+    "repo": "tensorflow/tensorflow",
+    "branch": "master",
+    "language": "C++",
+    "description": "An Open Source Machine Learning Framework for Everyone"
+  },
+  {
+    "repo": "klsf/codex-register",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "用于批量注册 OpenAI 账号、登录生成 `auth` 授权文件，以及批量检查凭证剩余可用额度。"
+  },
+  {
+    "repo": "NVlabs/Sana",
+    "branch": "main",
+    "language": "Python",
+    "description": "SANA: Efficient High-Resolution Image Synthesis with Linear Diffusion Transformer"
+  },
+  {
+    "repo": "trekhleb/javascript-algorithms",
+    "branch": "master",
+    "language": "JavaScript",
+    "description": "📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings"
   }
 ]
