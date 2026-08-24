@@ -1,146 +1,146 @@
 [
   {
-    "repo": "tanbiralam/claude-code",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands. All original source code is the property of Anthropic."
-  },
-  {
-    "repo": "op7418/guizang-ppt-skill",
-    "branch": "main",
-    "language": "HTML",
-    "description": "A Claude Code Skill that turns prompts into horizontal-swipe magazine-style HTML decks — 10 layouts, 5 curated themes, WebGL hero backgrounds, single-file output."
-  },
-  {
-    "repo": "grafana/mimir",
-    "branch": "main",
-    "language": "Go",
-    "description": "Grafana Mimir provides horizontally scalable, highly available, multi-tenant, long-term storage for Prometheus."
-  },
-  {
-    "repo": "standardagents/sip",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Small Image Processor - Ultra memory-efficient image processing for Cloudflare Workers 🟠"
-  },
-  {
-    "repo": "JubaKitiashvili/expo-pretext",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Predict React Native text heights before rendering. Native TextKit/TextPaint measurement + ~0.0002ms JS layout. FlashList, streaming AI chat, typewriter, pinch-to-zoom, obstacle reflow, Dynamic Type, Expo Web. 386 tests. MIT."
-  },
-  {
-    "repo": "facebookresearch/detectron2",
-    "branch": "main",
-    "language": "Python",
-    "description": "Detectron2 is a platform for object detection, segmentation and other visual recognition tasks."
-  },
-  {
-    "repo": "ggerganov/llama.cpp",
+    "repo": "trailofbits/CoBRA",
     "branch": "master",
     "language": "C++",
-    "description": "LLM inference in C/C++"
+    "description": "Coefficient-Based Reconstruction of Arithmetic — a Mixed Boolean-Arithmetic (MBA) expression simplifier for deobfuscation"
   },
   {
-    "repo": "v4nsh0x/InstaTrace",
+    "repo": "newrelic/newrelic-python-agent",
     "branch": "main",
     "language": "Python",
-    "description": "Private Instagram Post URL Extractor (Research POC)"
+    "description": "New Relic Python Agent"
   },
   {
-    "repo": "marktext/marktext",
-    "branch": "master",
-    "language": "JavaScript",
-    "description": "📝A simple and elegant markdown editor, available for Linux, macOS and Windows."
-  },
-  {
-    "repo": "jashkenas/backbone",
-    "branch": "master",
-    "language": "JavaScript",
-    "description": "Give your JS App some Backbone with Models, Views, Collections, and Events"
-  },
-  {
-    "repo": "0Voice/Expert_Readed_Books",
-    "branch": "master",
-    "language": "Other",
-    "description": "2021年最新总结，推荐工程师合适读本，计算机科学，软件技术，创业，思想类，数学类，人物传记书籍"
-  },
-  {
-    "repo": "tradesdontlie/tradingview-mcp",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "AI-assisted TradingView chart analysis — connect Claude Code to your TradingView Desktop for personal workflow automation"
-  },
-  {
-    "repo": "HELPMEEADICE/doge-code",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Claude Code 的一个 Fork。不是官方正史，而是平行世界番外篇；不是萌豚整活仓库，而是“认真修、顺手发癫一点点”的工程分支。"
-  },
-  {
-    "repo": "gleam-lang/gleam",
-    "branch": "main",
-    "language": "Rust",
-    "description": "⭐️ A friendly language for building type-safe, scalable systems!"
-  },
-  {
-    "repo": "quasarframework/quasar",
-    "branch": "dev",
-    "language": "JavaScript",
-    "description": "Quasar Framework - Build high-performance VueJS user interfaces in record time"
-  },
-  {
-    "repo": "SentiAvatar/SentiAvatar",
+    "repo": "AdelanSupport/adelan-support",
     "branch": "main",
     "language": "Python",
     "description": ""
   },
   {
-    "repo": "actix/actix",
+    "repo": "moby/moby",
     "branch": "master",
-    "language": "Rust",
-    "description": "Actor framework for Rust."
+    "language": "Go",
+    "description": "The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems"
   },
   {
-    "repo": "vercel/next.js",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "The React Framework"
-  },
-  {
-    "repo": "OpenDriveLab/WorldEngine",
-    "branch": "main",
-    "language": "Python",
-    "description": "WorldEngine: Towards the Era of Post-Training for Physical AI"
-  },
-  {
-    "repo": "expressjs/express",
-    "branch": "master",
-    "language": "JavaScript",
-    "description": "Fast, unopinionated, minimalist web framework for node."
-  },
-  {
-    "repo": "tensorflow/tensorflow",
-    "branch": "master",
-    "language": "C++",
-    "description": "An Open Source Machine Learning Framework for Everyone"
-  },
-  {
-    "repo": "klsf/codex-register",
+    "repo": "lukilabs/beautiful-mermaid",
     "branch": "main",
     "language": "TypeScript",
-    "description": "用于批量注册 OpenAI 账号、登录生成 `auth` 授权文件，以及批量检查凭证剩余可用额度。"
+    "description": ""
   },
   {
-    "repo": "NVlabs/Sana",
+    "repo": "Lucent-Snow/style-extractor",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "一个能够提取最大化提取网页风格的skill"
+  },
+  {
+    "repo": "https-deeplearning-ai/sc-agent-skills-files",
     "branch": "main",
     "language": "Python",
-    "description": "SANA: Efficient High-Resolution Image Synthesis with Linear Diffusion Transformer"
+    "description": ""
   },
   {
-    "repo": "trekhleb/javascript-algorithms",
+    "repo": "sqlite/sqlite",
     "branch": "master",
+    "language": "C",
+    "description": "Official Git mirror of the SQLite source tree"
+  },
+  {
+    "repo": "tanaer/WindowsClear",
+    "branch": "main",
+    "language": "Rust",
+    "description": "Windows C盘清理工具/C盘瘦身工具，还你Appdata的大量硬盘空间 | Windows System disk cleanup, returning a large amount of hard drive space from your Appdata"
+  },
+  {
+    "repo": "plotly/plotly.py",
+    "branch": "master",
+    "language": "Python",
+    "description": "The interactive graphing library for Python :sparkles:"
+  },
+  {
+    "repo": "EbookFoundation/free-programming-books",
+    "branch": "main",
+    "language": "Python",
+    "description": ":books: Freely available programming books"
+  },
+  {
+    "repo": "deepset-ai/haystack",
+    "branch": "main",
+    "language": "MDX",
+    "description": "AI orchestration framework to build customizable, production-ready LLM applications. Connect components (models, vector DBs, file converters) to pipelines or agents that can interact with your data. With advanced retrieval methods, it's best suited for building RAG, question answering, semantic search or conversational agent chatbots."
+  },
+  {
+    "repo": "typeorm/typeorm",
+    "branch": "master",
+    "language": "TypeScript",
+    "description": "ORM for TypeScript and JavaScript. Supports MySQL, PostgreSQL, MariaDB, SQLite, MS SQL Server, Oracle, SAP Hana, WebSQL databases. Works in NodeJS, Browser, Ionic, Cordova and Electron platforms."
+  },
+  {
+    "repo": "statsmodels/statsmodels",
+    "branch": "main",
+    "language": "Python",
+    "description": "Statsmodels: statistical modeling and econometrics in Python"
+  },
+  {
+    "repo": "eljojo/rememory",
+    "branch": "main",
+    "language": "Go",
+    "description": "have a plan for the worst-case scenario"
+  },
+  {
+    "repo": "PaddlePaddle/PaddleSpeech",
+    "branch": "develop",
+    "language": "Python",
+    "description": "Easy-to-use Speech Toolkit including Self-Supervised Learning model, SOTA/Streaming ASR with punctuation, Streaming TTS with text frontend, Speaker Verification System, End-to-End Speech Translation and Keyword Spotting. Won NAACL2022 Best Demo Award."
+  },
+  {
+    "repo": "geoffreymcgill/react-native-collapsible",
+    "branch": "master",
+    "language": "Other",
+    "description": "Animated collapsible component for React Native, good for accordions, toggles etc"
+  },
+  {
+    "repo": "confluentinc/ksql",
+    "branch": "master",
+    "language": "Java",
+    "description": "The database purpose-built for stream processing applications."
+  },
+  {
+    "repo": "astro/astro",
+    "branch": "main",
+    "language": "Other",
+    "description": "The web framework that scales with you, with server-first rendering and an all-in-one build flow."
+  },
+  {
+    "repo": "burpheart/cursor-tap",
+    "branch": "main",
+    "language": "Go",
+    "description": "Cursor gRPC 通信流量分析工具"
+  },
+  {
+    "repo": "jarodise/pdf2epub-paddle",
+    "branch": "main",
+    "language": "Python",
+    "description": ""
+  },
+  {
+    "repo": "yohey-w/multi-agent-shogun",
+    "branch": "main",
+    "language": "Shell",
+    "description": ""
+  },
+  {
+    "repo": "rohitg00/awesome-claude-code-toolkit",
+    "branch": "main",
     "language": "JavaScript",
-    "description": "📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings"
+    "description": "The most comprehensive toolkit for Claude Code -- 135 agents, 35 curated skills (+15,000 via SkillKit), 42 commands, 120 plugins, 19 hooks, 15 rules, 7 templates, 6 MCP configs, and more."
+  },
+  {
+    "repo": "google/trax",
+    "branch": "master",
+    "language": "Python",
+    "description": "Trax — Deep Learning with Clear Code and Speed"
   }
 ]
