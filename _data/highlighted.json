@@ -1,8 +1,8 @@
 {
-  "repo": "whyubel1eve/Mars-Editor",
+  "repo": "addyosmani/factory",
   "branch": "main",
-  "language": "TypeScript",
-  "description": "Markdown 写作，一键转成内联样式富文本，粘贴到微信公众号编辑器即可无损还原。",
-  "stars": 142,
-  "forks": 17
+  "language": "Shell",
+  "description": "A reference software factory for Claude Code and Codex",
+  "stars": 123,
+  "forks": 7
 }

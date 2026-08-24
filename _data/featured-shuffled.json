@@ -1,146 +1,146 @@
 [
   {
-    "repo": "trailofbits/CoBRA",
+    "repo": "riverscn/intro-agentic-ai",
+    "branch": "main",
+    "language": "Vue",
+    "description": "认识 Agentic AI：从神经网络到智能体"
+  },
+  {
+    "repo": "samanalalokaya/polymarket-copy-trading-bot",
     "branch": "master",
-    "language": "C++",
-    "description": "Coefficient-Based Reconstruction of Arithmetic — a Mixed Boolean-Arithmetic (MBA) expression simplifier for deobfuscation"
-  },
-  {
-    "repo": "newrelic/newrelic-python-agent",
-    "branch": "main",
-    "language": "Python",
-    "description": "New Relic Python Agent"
-  },
-  {
-    "repo": "AdelanSupport/adelan-support",
-    "branch": "main",
-    "language": "Python",
-    "description": ""
-  },
-  {
-    "repo": "moby/moby",
-    "branch": "master",
-    "language": "Go",
-    "description": "The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems"
-  },
-  {
-    "repo": "lukilabs/beautiful-mermaid",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": ""
-  },
-  {
-    "repo": "Lucent-Snow/style-extractor",
-    "branch": "main",
     "language": "JavaScript",
-    "description": "一个能够提取最大化提取网页风格的skill"
+    "description": "Copies trades from a target Polymarket wallet to your own. Watches the target via REST or WebSocket, then places matching orders (scaled by a multiplier) using the Polymarket CLOB. CLUE: polymarket copy trading bot polymarket copy trading bot polymarket copy trading bot polymarket copy trading bot polymarket copy trading bot polymarket copy trading"
   },
   {
-    "repo": "https-deeplearning-ai/sc-agent-skills-files",
+    "repo": "vercel/ai-chatbot-svelte",
     "branch": "main",
-    "language": "Python",
-    "description": ""
+    "language": "Svelte",
+    "description": "A full-featured, hackable SvelteKit AI chatbot built by Vercel"
   },
   {
-    "repo": "sqlite/sqlite",
+    "repo": "pyg-team/pytorch_geometric",
     "branch": "master",
-    "language": "C",
-    "description": "Official Git mirror of the SQLite source tree"
+    "language": "Python",
+    "description": "Graph Neural Network Library for PyTorch"
   },
   {
-    "repo": "tanaer/WindowsClear",
+    "repo": "thedaviddias/Front-End-Checklist",
+    "branch": "master",
+    "language": "Other",
+    "description": "🗂 The perfect Front-End Checklist for modern websites and meticulous developers"
+  },
+  {
+    "repo": "square/picasso",
+    "branch": "master",
+    "language": "Kotlin",
+    "description": "A powerful image downloading and caching library for Android"
+  },
+  {
+    "repo": "expressjs/express",
+    "branch": "master",
+    "language": "JavaScript",
+    "description": "Fast, unopinionated, minimalist web framework for node."
+  },
+  {
+    "repo": "qufei1993/skills-hub",
     "branch": "main",
     "language": "Rust",
-    "description": "Windows C盘清理工具/C盘瘦身工具，还你Appdata的大量硬盘空间 | Windows System disk cleanup, returning a large amount of hard drive space from your Appdata"
+    "description": "A cross-platform desktop app to manage Agent Skills in one place and sync them to multiple AI coding tools’ global skills directories — “Install once, sync everywhere”."
   },
   {
-    "repo": "plotly/plotly.py",
-    "branch": "master",
-    "language": "Python",
-    "description": "The interactive graphing library for Python :sparkles:"
-  },
-  {
-    "repo": "EbookFoundation/free-programming-books",
+    "repo": "vercel/hyper",
     "branch": "main",
-    "language": "Python",
-    "description": ":books: Freely available programming books"
-  },
-  {
-    "repo": "deepset-ai/haystack",
-    "branch": "main",
-    "language": "MDX",
-    "description": "AI orchestration framework to build customizable, production-ready LLM applications. Connect components (models, vector DBs, file converters) to pipelines or agents that can interact with your data. With advanced retrieval methods, it's best suited for building RAG, question answering, semantic search or conversational agent chatbots."
-  },
-  {
-    "repo": "typeorm/typeorm",
-    "branch": "master",
     "language": "TypeScript",
-    "description": "ORM for TypeScript and JavaScript. Supports MySQL, PostgreSQL, MariaDB, SQLite, MS SQL Server, Oracle, SAP Hana, WebSQL databases. Works in NodeJS, Browser, Ionic, Cordova and Electron platforms."
+    "description": "A terminal built on web technologies"
   },
   {
-    "repo": "statsmodels/statsmodels",
-    "branch": "main",
-    "language": "Python",
-    "description": "Statsmodels: statistical modeling and econometrics in Python"
-  },
-  {
-    "repo": "eljojo/rememory",
-    "branch": "main",
-    "language": "Go",
-    "description": "have a plan for the worst-case scenario"
-  },
-  {
-    "repo": "PaddlePaddle/PaddleSpeech",
-    "branch": "develop",
-    "language": "Python",
-    "description": "Easy-to-use Speech Toolkit including Self-Supervised Learning model, SOTA/Streaming ASR with punctuation, Streaming TTS with text frontend, Speaker Verification System, End-to-End Speech Translation and Keyword Spotting. Won NAACL2022 Best Demo Award."
-  },
-  {
-    "repo": "geoffreymcgill/react-native-collapsible",
+    "repo": "kubernetes/minikube",
     "branch": "master",
-    "language": "Other",
-    "description": "Animated collapsible component for React Native, good for accordions, toggles etc"
-  },
-  {
-    "repo": "confluentinc/ksql",
-    "branch": "master",
-    "language": "Java",
-    "description": "The database purpose-built for stream processing applications."
-  },
-  {
-    "repo": "astro/astro",
-    "branch": "main",
-    "language": "Other",
-    "description": "The web framework that scales with you, with server-first rendering and an all-in-one build flow."
-  },
-  {
-    "repo": "burpheart/cursor-tap",
-    "branch": "main",
     "language": "Go",
-    "description": "Cursor gRPC 通信流量分析工具"
+    "description": "Run Kubernetes locally"
   },
   {
-    "repo": "jarodise/pdf2epub-paddle",
-    "branch": "main",
-    "language": "Python",
-    "description": ""
-  },
-  {
-    "repo": "yohey-w/multi-agent-shogun",
-    "branch": "main",
-    "language": "Shell",
-    "description": ""
-  },
-  {
-    "repo": "rohitg00/awesome-claude-code-toolkit",
+    "repo": "imxv/Pretty-mermaid-skills",
     "branch": "main",
     "language": "JavaScript",
-    "description": "The most comprehensive toolkit for Claude Code -- 135 agents, 35 curated skills (+15,000 via SkillKit), 42 commands, 120 plugins, 19 hooks, 15 rules, 7 templates, 6 MCP configs, and more."
+    "description": "To provide AI with Mermaid chart rendering capability, supporting both SVG and ASCII output formats"
   },
   {
-    "repo": "google/trax",
+    "repo": "HKUDS/nanobot",
+    "branch": "main",
+    "language": "Python",
+    "description": "🐈 nanobot: The Ultra-Lightweight Clawdbot"
+  },
+  {
+    "repo": "opencontainers/runc",
+    "branch": "main",
+    "language": "Go",
+    "description": "CLI tool for spawning and running containers according to the OCI specification"
+  },
+  {
+    "repo": "vueuse/skills",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Agent Skills for VueUse"
+  },
+  {
+    "repo": "stepfun-ai/Step-3.5-Flash",
+    "branch": "main",
+    "language": "C++",
+    "description": "Fast, Sharp & Reliable Agentic Intelligence"
+  },
+  {
+    "repo": "hashicorp/consul",
+    "branch": "main",
+    "language": "Go",
+    "description": "Consul is a distributed, highly available, and data center aware solution to connect and configure applications across dynamic, distributed infrastructure."
+  },
+  {
+    "repo": "bevyengine/bevy",
+    "branch": "main",
+    "language": "Rust",
+    "description": "A refreshingly simple data-driven game engine built in Rust"
+  },
+  {
+    "repo": "TQZHR/grok2api",
+    "branch": "main",
+    "language": "Python",
+    "description": "Grok2API (Cloudflare Workers) one-click deploy with auto D1+KV provisioning"
+  },
+  {
+    "repo": "tensorflow/agents",
     "branch": "master",
     "language": "Python",
-    "description": "Trax — Deep Learning with Clear Code and Speed"
+    "description": "TF-Agents: A reliable, scalable and easy to use TensorFlow library for Contextual Bandits and Reinforcement Learning."
+  },
+  {
+    "repo": "doocs/leetcode",
+    "branch": "main",
+    "language": "Java",
+    "description": "🔥LeetCode solutions in any programming language | 多种编程语言实现 LeetCode、《剑指 Offer（第 2 版）》、《程序员面试金典（第 6 版）》题解"
+  },
+  {
+    "repo": "letta-ai/lettabot",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Your personal AI assistant that remembers everything across Telegram, Slack, WhatsApp, and Signal"
+  },
+  {
+    "repo": "fluent/fluent-bit",
+    "branch": "master",
+    "language": "C",
+    "description": "Fast and Lightweight Logs, Metrics and Traces processor for Linux, BSD, OSX and Windows"
+  },
+  {
+    "repo": "facebook/docusaurus",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Easy to maintain open source documentation websites."
+  },
+  {
+    "repo": "robinebers/openusage",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "A plugin-based menu bar app for tracking AI coding tool subscriptions like Cursor, Claude, Codex and more, all in one place with a heavy focus user experience, speed, and stability."
   }
 ]
