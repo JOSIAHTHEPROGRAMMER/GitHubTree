@@ -1,146 +1,146 @@
 [
   {
-    "repo": "riverscn/intro-agentic-ai",
+    "repo": "catsing/oot-pc-port",
     "branch": "main",
-    "language": "Vue",
-    "description": "认识 Agentic AI：从神经网络到智能体"
+    "language": "C#",
+    "description": "ocarina of time pc port ship of harkinian oot native pc port harbour masters github decompilation project rom extraction asset compiler widescreen support 60fps unlocked framerate hd texture pack custom models randomizer built in retro gaming nintendo 64 pc gaming desktop utility linux macos steam deck compatible graphics enhancement"
   },
   {
-    "repo": "samanalalokaya/polymarket-copy-trading-bot",
-    "branch": "master",
-    "language": "JavaScript",
-    "description": "Copies trades from a target Polymarket wallet to your own. Watches the target via REST or WebSocket, then places matching orders (scaled by a multiplier) using the Polymarket CLOB. CLUE: polymarket copy trading bot polymarket copy trading bot polymarket copy trading bot polymarket copy trading bot polymarket copy trading bot polymarket copy trading"
-  },
-  {
-    "repo": "vercel/ai-chatbot-svelte",
-    "branch": "main",
-    "language": "Svelte",
-    "description": "A full-featured, hackable SvelteKit AI chatbot built by Vercel"
-  },
-  {
-    "repo": "pyg-team/pytorch_geometric",
-    "branch": "master",
-    "language": "Python",
-    "description": "Graph Neural Network Library for PyTorch"
-  },
-  {
-    "repo": "thedaviddias/Front-End-Checklist",
+    "repo": "akullpp/awesome-java",
     "branch": "master",
     "language": "Other",
-    "description": "🗂 The perfect Front-End Checklist for modern websites and meticulous developers"
+    "description": "A curated list of awesome frameworks, libraries and software for the Java programming language."
   },
   {
-    "repo": "square/picasso",
-    "branch": "master",
-    "language": "Kotlin",
-    "description": "A powerful image downloading and caching library for Android"
-  },
-  {
-    "repo": "expressjs/express",
-    "branch": "master",
-    "language": "JavaScript",
-    "description": "Fast, unopinionated, minimalist web framework for node."
-  },
-  {
-    "repo": "qufei1993/skills-hub",
+    "repo": "thepartly/gatehouse",
     "branch": "main",
     "language": "Rust",
-    "description": "A cross-platform desktop app to manage Agent Skills in one place and sync them to multiple AI coding tools’ global skills directories — “Install once, sync everywhere”."
+    "description": "A flexible authorization library that combines role-based (RBAC), attribute-based (ABAC), and relationship-based (ReBAC) access control policies."
   },
   {
-    "repo": "vercel/hyper",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "A terminal built on web technologies"
-  },
-  {
-    "repo": "kubernetes/minikube",
+    "repo": "vinta/awesome-python",
     "branch": "master",
-    "language": "Go",
-    "description": "Run Kubernetes locally"
-  },
-  {
-    "repo": "imxv/Pretty-mermaid-skills",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "To provide AI with Mermaid chart rendering capability, supporting both SVG and ASCII output formats"
-  },
-  {
-    "repo": "HKUDS/nanobot",
-    "branch": "main",
     "language": "Python",
-    "description": "🐈 nanobot: The Ultra-Lightweight Clawdbot"
+    "description": "An opinionated list of awesome Python frameworks, libraries, software and resources."
   },
   {
-    "repo": "opencontainers/runc",
-    "branch": "main",
-    "language": "Go",
-    "description": "CLI tool for spawning and running containers according to the OCI specification"
-  },
-  {
-    "repo": "vueuse/skills",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Agent Skills for VueUse"
-  },
-  {
-    "repo": "stepfun-ai/Step-3.5-Flash",
-    "branch": "main",
-    "language": "C++",
-    "description": "Fast, Sharp & Reliable Agentic Intelligence"
-  },
-  {
-    "repo": "hashicorp/consul",
-    "branch": "main",
-    "language": "Go",
-    "description": "Consul is a distributed, highly available, and data center aware solution to connect and configure applications across dynamic, distributed infrastructure."
-  },
-  {
-    "repo": "bevyengine/bevy",
-    "branch": "main",
+    "repo": "embedding-shapes/one-agent-one-browser",
+    "branch": "master",
     "language": "Rust",
-    "description": "A refreshingly simple data-driven game engine built in Rust"
+    "description": "One from scratch browser built by one human and one agent, working hand in hand"
   },
   {
-    "repo": "TQZHR/grok2api",
-    "branch": "main",
-    "language": "Python",
-    "description": "Grok2API (Cloudflare Workers) one-click deploy with auto D1+KV provisioning"
+    "repo": "google/styleguide",
+    "branch": "gh-pages",
+    "language": "HTML",
+    "description": "Style guides for Google-originated open-source projects"
   },
   {
-    "repo": "tensorflow/agents",
+    "repo": "libgdx/libgdx",
     "branch": "master",
-    "language": "Python",
-    "description": "TF-Agents: A reliable, scalable and easy to use TensorFlow library for Contextual Bandits and Reinforcement Learning."
-  },
-  {
-    "repo": "doocs/leetcode",
-    "branch": "main",
     "language": "Java",
-    "description": "🔥LeetCode solutions in any programming language | 多种编程语言实现 LeetCode、《剑指 Offer（第 2 版）》、《程序员面试金典（第 6 版）》题解"
+    "description": "Desktop/Android/HTML5/iOS Java game development framework"
   },
   {
-    "repo": "letta-ai/lettabot",
+    "repo": "pierceboggan/primer",
     "branch": "main",
     "language": "TypeScript",
-    "description": "Your personal AI assistant that remembers everything across Telegram, Slack, WhatsApp, and Signal"
+    "description": "Get your repo ready for AI."
   },
   {
-    "repo": "fluent/fluent-bit",
+    "repo": "Stability-AI/generative-models",
+    "branch": "main",
+    "language": "Python",
+    "description": "Generative Models by Stability AI"
+  },
+  {
+    "repo": "select2/select2",
+    "branch": "develop",
+    "language": "JavaScript",
+    "description": "Select2 is a jQuery based replacement for select boxes. It supports searching, remote data sets, and infinite scrolling of results."
+  },
+  {
+    "repo": "expo/expo",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "An open-source framework for making universal native apps with React. Expo runs on Android, iOS, and the web."
+  },
+  {
+    "repo": "scikit-learn/scikit-learn",
+    "branch": "main",
+    "language": "Python",
+    "description": "scikit-learn: machine learning in Python"
+  },
+  {
+    "repo": "LYL1015/JarvisX-Cowork",
+    "branch": "main",
+    "language": "Python",
+    "description": "JarvisX-Cowork: Your First Personal AI Creative Assistant for Everyone!"
+  },
+  {
+    "repo": "microsoft/winget-cli",
     "branch": "master",
-    "language": "C",
-    "description": "Fast and Lightweight Logs, Metrics and Traces processor for Linux, BSD, OSX and Windows"
+    "language": "C++",
+    "description": "WinGet is the Windows Package Manager. This project includes a CLI (Command Line Interface), PowerShell modules, and a COM (Component Object Model) API (Application Programming Interface)."
   },
   {
-    "repo": "facebook/docusaurus",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Easy to maintain open source documentation websites."
+    "repo": "termux/termux-app",
+    "branch": "master",
+    "language": "Java",
+    "description": "Termux - a terminal emulator application for Android OS extendible by variety of packages."
   },
   {
-    "repo": "robinebers/openusage",
+    "repo": "mgks/GitHubTree",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "Visualise any GitHub repository folder structure. Available as a web app, CLI tool, and node.js library."
+  },
+  {
+    "repo": "cloudcommunity/Free-Certifications",
+    "branch": "main",
+    "language": "Other",
+    "description": "A curated list of free courses with certifications. Also available at https://free-certifications.com/"
+  },
+  {
+    "repo": "kivy/kivy",
+    "branch": "master",
+    "language": "Python",
+    "description": "Open source UI framework written in Python, running on Windows, Linux, macOS, Android and iOS"
+  },
+  {
+    "repo": "ray-project/ray",
+    "branch": "master",
+    "language": "Python",
+    "description": "Ray is an AI compute engine. Ray consists of a core distributed runtime and a set of AI Libraries for accelerating ML workloads."
+  },
+  {
+    "repo": "caddyserver/caddy",
+    "branch": "master",
+    "language": "Go",
+    "description": "Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS"
+  },
+  {
+    "repo": "microsoft/vscode",
     "branch": "main",
     "language": "TypeScript",
-    "description": "A plugin-based menu bar app for tracking AI coding tool subscriptions like Cursor, Claude, Codex and more, all in one place with a heavy focus user experience, speed, and stability."
+    "description": "Visual Studio Code"
+  },
+  {
+    "repo": "sigp/lighthouse",
+    "branch": "stable",
+    "language": "Rust",
+    "description": "Ethereum consensus client in Rust"
+  },
+  {
+    "repo": "ohmyzsh/ohmyzsh",
+    "branch": "master",
+    "language": "Shell",
+    "description": "🙃   A delightful community-driven (with 2,400+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python, etc), 140+ themes to spice up your morning, and an auto-update tool that makes it easy to keep up with the latest updates from the community."
+  },
+  {
+    "repo": "flame-engine/flame",
+    "branch": "main",
+    "language": "Dart",
+    "description": "A Flutter based game engine."
   }
 ]
