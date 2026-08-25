@@ -1,8 +1,8 @@
 {
-  "repo": "zhengzihaoPKU/KERV",
-  "branch": "master",
-  "language": "Python",
-  "description": "Code of paper \"KERV: Kinematic-Rectified Speculative Decoding for Embodied VLA Models\" accepted by DAC 2026.",
-  "stars": 113,
-  "forks": 2
+  "repo": "bendrape1-byte/silk-design",
+  "branch": "main",
+  "language": "CSS",
+  "description": "A Claude Code skill for building web interfaces that move well. Motion, smooth scroll, and design tokens by default.",
+  "stars": 116,
+  "forks": 9
 }

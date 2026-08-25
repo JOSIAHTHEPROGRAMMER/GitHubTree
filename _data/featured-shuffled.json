@@ -1,146 +1,146 @@
 [
   {
-    "repo": "openssl/openssl",
-    "branch": "master",
-    "language": "C",
-    "description": "TLS/SSL and crypto library"
-  },
-  {
-    "repo": "needle-tools/md-browse",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Markdown Browser – See the web like an AI does"
-  },
-  {
-    "repo": "jazzband/pip-tools",
-    "branch": "main",
-    "language": "Python",
-    "description": "A set of tools to keep your pinned Python dependencies fresh."
-  },
-  {
-    "repo": "deltabarbershopofficial-cloud/DBD-AutoGrind-Trainer-2026",
-    "branch": "main",
-    "language": "Python",
-    "description": "Ultimate Dead by Daylight auto-grind trainer with Bloodpoint bot, ESP wallhack, aimbot, and full perk/skin unlocker. Dominate the Fog with our 2026 undetected external tool."
-  },
-  {
-    "repo": "falcosecurity/falco",
-    "branch": "master",
-    "language": "C++",
-    "description": "Cloud Native Runtime Security"
-  },
-  {
-    "repo": "juanceresa/sift-kg",
-    "branch": "main",
-    "language": "Python",
-    "description": "Turn any collection of documents into a knowledge graph. Domain-configurable entity extraction, human-in-the-loop dedup, and narrative generation — all from the CLI."
-  },
-  {
-    "repo": "zggf-zggf/openviktor",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Your AI employee for Slack — open source, self-hosted, MIT licensed"
-  },
-  {
-    "repo": "ussumant/llm-wiki-compiler",
-    "branch": "main",
-    "language": "Shell",
-    "description": "Claude Code plugin that compiles markdown knowledge files into a topic-based wiki. Implements Karpathy's LLM Knowledge Base pattern."
-  },
-  {
-    "repo": "Lissy93/awesome-privacy",
-    "branch": "main",
-    "language": "Astro",
-    "description": "🦄  A curated list of privacy & security-focused software and services"
-  },
-  {
-    "repo": "LanRhyme/MicYou",
-    "branch": "master",
-    "language": "Kotlin",
-    "description": "MicYou is a powerful tool that turns your Android device into a high-quality wireless microphone for your PC."
-  },
-  {
-    "repo": "linguo2625469/qq-farm-bot",
+    "repo": "andyhuo520/rf-detr-detection",
     "branch": "main",
     "language": "JavaScript",
-    "description": "基于 Node.js 的 QQ 经典农场小程序自动化挂机脚本。通过分析小程序 WebSocket 通信协议（Protocol Buffers），实现全自动农场管理。"
+    "description": "基于 RF-DETR 的浏览器端实时目标检测应用"
   },
   {
-    "repo": "pi-hole/pi-hole",
-    "branch": "master",
-    "language": "Shell",
-    "description": "A black hole for Internet advertisements"
-  },
-  {
-    "repo": "TanStack/query",
+    "repo": "EvilFreelancer/openapi-to-cli",
     "branch": "main",
     "language": "TypeScript",
-    "description": "🤖 Powerful asynchronous state management, server-state utilities and data fetching for the web. TS/JS, React Query, Solid Query, Svelte Query and Vue Query."
+    "description": "Turns any OpenAPI/Swagger API into an CLI with set of commands. One CLI command per endpoint."
   },
   {
-    "repo": "mikeyobrien/rho",
+    "repo": "fayazara/portfolio-site-template",
     "branch": "main",
-    "language": "TypeScript",
-    "description": "An AI agent that stays running, remembers across sessions, and checks in on its own. macOS, Linux, Android. Built on Pi."
+    "language": "Astro",
+    "description": "A fun little personal portfolio site template"
   },
   {
-    "repo": "LichAmnesia/lich-skills",
+    "repo": "xodn348/han",
     "branch": "main",
-    "language": "Python",
-    "description": ""
-  },
-  {
-    "repo": "run-llama/ParseBench",
-    "branch": "main",
-    "language": "Python",
-    "description": "ParseBench - A Document Parsing Benchmark for AI Agents"
-  },
-  {
-    "repo": "maybe-finance/maybe",
-    "branch": "main",
-    "language": "Ruby",
-    "description": "The personal finance app for everyone"
-  },
-  {
-    "repo": "Sibyl-Research-Team/sibyl-research-system",
-    "branch": "main",
-    "language": "Python",
-    "description": "Fully Autonomous AI Research System with Self-Evolution, built natively on Claude Code"
-  },
-  {
-    "repo": "vectordotdev/vector",
-    "branch": "master",
     "language": "Rust",
-    "description": "A high-performance observability data pipeline."
+    "description": "A compiled programming language with Korean keywords, written in Rust"
   },
   {
-    "repo": "xywml/PaperGrid",
+    "repo": "deborahikssv/Antigravity-claw",
     "branch": "main",
-    "language": "TypeScript",
-    "description": "执笔为剑  - 一款基于NEXT.js的轻量化博客"
-  },
-  {
-    "repo": "farzaa/clicky",
-    "branch": "main",
-    "language": "Swift",
+    "language": "Rust",
     "description": ""
   },
   {
-    "repo": "CocoaPods/CocoaPods",
-    "branch": "master",
-    "language": "Ruby",
-    "description": "The Cocoa Dependency Manager."
+    "repo": "nicepkg/ctxport",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Copy AI conversations as clean Markdown Context Bundles — one click from ChatGPT, Claude, Gemini, DeepSeek, Grok & GitHub. Copy from sidebar without opening. Zero upload, 100% local, open source."
   },
   {
-    "repo": "vuetifyjs/vuetify",
+    "repo": "HKUDS/MoChat",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "MoChat: Reconnecting the World through AI Agents (OpenClaw & nanobot & ClaudeCode) https://mochat.io"
+  },
+  {
+    "repo": "liranringel/ddtree",
+    "branch": "master",
+    "language": "Python",
+    "description": ""
+  },
+  {
+    "repo": "guokaigdg/animal-island-ui",
+    "branch": "main",
+    "language": "Less",
+    "description": "Animal 风格的 React 组件库 灵感来源于任天堂集合啦！动物森友会游戏界面"
+  },
+  {
+    "repo": "ula7i921011/React2Shell-Scanner",
+    "branch": "main",
+    "language": "Python",
+    "description": "React2Shell Scanner"
+  },
+  {
+    "repo": "dayflow-js/BlossomColorPicker",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "A beautiful, blooming color picker component build by Tailwind for Web.     🌟 If you like it, give it a star :)"
+  },
+  {
+    "repo": "MasterAlanLab/Register",
+    "branch": "main",
+    "language": "Python",
+    "description": ""
+  },
+  {
+    "repo": "jingkaihe/matchlock",
+    "branch": "main",
+    "language": "Go",
+    "description": "Matchlock secures AI agent workloads with a Linux-based sandbox."
+  },
+  {
+    "repo": "ewindmer/polymarket-arbitrage-trading-bot",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "polymarket arbitrage trading bot"
+  },
+  {
+    "repo": "epiral/bb-sites",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "Community fetch recipes for bb-browser — pre-built adapters for Reddit, Twitter, GitHub, and more"
+  },
+  {
+    "repo": "activetheory/activeframe",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "Custom .af video format for WebCodecs: frame-accurate playback without a video tag or third-party decoders."
+  },
+  {
+    "repo": "esaradev/icarus-daedalus",
+    "branch": "main",
+    "language": "Shell",
+    "description": "Icarus Memory Protocol -- universal agent memory in 50 lines. markdown files in a directory. any framework, any platform, shared memory. includes two-agent reference implementation with Telegram, Slack, and cross-platform recall."
+  },
+  {
+    "repo": "RuizeLyu/paper-dl",
+    "branch": "main",
+    "language": "Python",
+    "description": "Download arxiv PDFs from PaSa search results for local AI-powered literature analysis."
+  },
+  {
+    "repo": "kiberkingyammee7/Awp-gg-Roblox-Executor-2026",
+    "branch": "main",
+    "language": "C++",
+    "description": "The most advanced, high-performance V3 execution engine for Roblox. Experience seamless Luau scripting, unparalleled 100% UNC bypass mechanisms, and maximum thread stability."
+  },
+  {
+    "repo": "garrytan/gbrain",
     "branch": "master",
     "language": "TypeScript",
-    "description": "🐉 Vue Component Framework"
+    "description": "Garry's Opinionated OpenClaw Brain"
   },
   {
-    "repo": "moby/moby",
-    "branch": "master",
-    "language": "Go",
-    "description": "The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems"
+    "repo": "GainSec/AutoProber",
+    "branch": "main",
+    "language": "Python",
+    "description": "Hardware hacker’s flying probe automation stack for agent-driven   target discovery, microscope mapping, safety-monitored CNC motion, probe review, and   controlled pin probing."
+  },
+  {
+    "repo": "MarioGalindoQ/Modern-CPP-Design-Patterns",
+    "branch": "main",
+    "language": "C++",
+    "description": "32 Design Patterns and C++ Idioms implemented in Modern C++"
+  },
+  {
+    "repo": "maderix/ANE",
+    "branch": "main",
+    "language": "Objective-C",
+    "description": "Training neural networks on Apple Neural Engine via reverse-engineered private APIs"
+  },
+  {
+    "repo": "BigBodyCobain/Shadowbroker",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Open-source intelligence for the global theater. Track everything from the corporate/private jets of the wealthy, and spy satellites, to seismic events in one unified interface. The knowledge is available to all but rarely aggregated in the open, until now."
   }
 ]
