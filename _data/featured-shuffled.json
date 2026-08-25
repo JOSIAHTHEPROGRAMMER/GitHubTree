@@ -1,105 +1,15 @@
 [
   {
-    "repo": "catsing/oot-pc-port",
-    "branch": "main",
-    "language": "C#",
-    "description": "ocarina of time pc port ship of harkinian oot native pc port harbour masters github decompilation project rom extraction asset compiler widescreen support 60fps unlocked framerate hd texture pack custom models randomizer built in retro gaming nintendo 64 pc gaming desktop utility linux macos steam deck compatible graphics enhancement"
-  },
-  {
-    "repo": "akullpp/awesome-java",
-    "branch": "master",
-    "language": "Other",
-    "description": "A curated list of awesome frameworks, libraries and software for the Java programming language."
-  },
-  {
-    "repo": "thepartly/gatehouse",
-    "branch": "main",
-    "language": "Rust",
-    "description": "A flexible authorization library that combines role-based (RBAC), attribute-based (ABAC), and relationship-based (ReBAC) access control policies."
-  },
-  {
-    "repo": "vinta/awesome-python",
-    "branch": "master",
-    "language": "Python",
-    "description": "An opinionated list of awesome Python frameworks, libraries, software and resources."
-  },
-  {
-    "repo": "embedding-shapes/one-agent-one-browser",
-    "branch": "master",
-    "language": "Rust",
-    "description": "One from scratch browser built by one human and one agent, working hand in hand"
-  },
-  {
-    "repo": "google/styleguide",
-    "branch": "gh-pages",
-    "language": "HTML",
-    "description": "Style guides for Google-originated open-source projects"
-  },
-  {
-    "repo": "libgdx/libgdx",
-    "branch": "master",
-    "language": "Java",
-    "description": "Desktop/Android/HTML5/iOS Java game development framework"
-  },
-  {
-    "repo": "pierceboggan/primer",
+    "repo": "MoonshotAI/kimi-code",
     "branch": "main",
     "language": "TypeScript",
-    "description": "Get your repo ready for AI."
+    "description": "The Starting Point for Next-Gen Agents"
   },
   {
-    "repo": "Stability-AI/generative-models",
+    "repo": "lbjlaq/Antigravity-Tools-LS",
     "branch": "main",
-    "language": "Python",
-    "description": "Generative Models by Stability AI"
-  },
-  {
-    "repo": "select2/select2",
-    "branch": "develop",
-    "language": "JavaScript",
-    "description": "Select2 is a jQuery based replacement for select boxes. It supports searching, remote data sets, and infinite scrolling of results."
-  },
-  {
-    "repo": "expo/expo",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "An open-source framework for making universal native apps with React. Expo runs on Android, iOS, and the web."
-  },
-  {
-    "repo": "scikit-learn/scikit-learn",
-    "branch": "main",
-    "language": "Python",
-    "description": "scikit-learn: machine learning in Python"
-  },
-  {
-    "repo": "LYL1015/JarvisX-Cowork",
-    "branch": "main",
-    "language": "Python",
-    "description": "JarvisX-Cowork: Your First Personal AI Creative Assistant for Everyone!"
-  },
-  {
-    "repo": "microsoft/winget-cli",
-    "branch": "master",
-    "language": "C++",
-    "description": "WinGet is the Windows Package Manager. This project includes a CLI (Command Line Interface), PowerShell modules, and a COM (Component Object Model) API (Application Programming Interface)."
-  },
-  {
-    "repo": "termux/termux-app",
-    "branch": "master",
-    "language": "Java",
-    "description": "Termux - a terminal emulator application for Android OS extendible by variety of packages."
-  },
-  {
-    "repo": "mgks/GitHubTree",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "Visualise any GitHub repository folder structure. Available as a web app, CLI tool, and node.js library."
-  },
-  {
-    "repo": "cloudcommunity/Free-Certifications",
-    "branch": "main",
-    "language": "Other",
-    "description": "A curated list of free courses with certifications. Also available at https://free-certifications.com/"
+    "language": "Rust",
+    "description": "Antigravity-Tools-LS is a local proxy bridge system designed specifically for the Antigravity IDE."
   },
   {
     "repo": "kivy/kivy",
@@ -108,39 +18,129 @@
     "description": "Open source UI framework written in Python, running on Windows, Linux, macOS, Android and iOS"
   },
   {
-    "repo": "ray-project/ray",
+    "repo": "j3h4ck/PoisonKiller",
+    "branch": "main",
+    "language": "C++",
+    "description": "Another BYOVD process killer. works on CrowdStrike. fully signed."
+  },
+  {
+    "repo": "appium/appium",
     "branch": "master",
+    "language": "JavaScript",
+    "description": "Cross-platform automation framework for all kinds of apps, built on top of the W3C WebDriver protocol"
+  },
+  {
+    "repo": "GeiserX/awesome-spain",
+    "branch": "main",
     "language": "Python",
-    "description": "Ray is an AI compute engine. Ray consists of a core distributed runtime and a set of AI Libraries for accelerating ML workloads."
+    "description": "Una selección de software open source que da soporte específico a España, incluyendo comunidades autónomas, provincias y ciudades."
   },
   {
-    "repo": "caddyserver/caddy",
+    "repo": "starship/starship",
     "branch": "master",
-    "language": "Go",
-    "description": "Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS"
+    "language": "Rust",
+    "description": "☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!"
   },
   {
-    "repo": "microsoft/vscode",
+    "repo": "pytorch/vision",
+    "branch": "main",
+    "language": "Python",
+    "description": "Datasets, Transforms and Models specific to Computer Vision"
+  },
+  {
+    "repo": "awesome-selfhosted/awesome-selfhosted",
+    "branch": "master",
+    "language": "Other",
+    "description": "A list of Free Software network services and web applications which can be hosted on your own servers"
+  },
+  {
+    "repo": "silships/figma-cli",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": ""
+  },
+  {
+    "repo": "gorhill/uBlock",
+    "branch": "master",
+    "language": "JavaScript",
+    "description": "uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean."
+  },
+  {
+    "repo": "jgarzik/apython",
+    "branch": "main",
+    "language": "Assembly",
+    "description": "Accelerated Asm Python"
+  },
+  {
+    "repo": "FortAwesome/Font-Awesome",
+    "branch": "6.x",
+    "language": "JavaScript",
+    "description": "The iconic SVG, font, and CSS toolkit"
+  },
+  {
+    "repo": "ExpondoEgirl/felca-reporter",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "Extensão Chrome/Edge que automatiza denúncias de conteúdo inadequado para menores no YouTube, conforme a Lei nº 15.211/2025 (Lei Felca / ECA Digital)"
+  },
+  {
+    "repo": "gulpjs/gulp",
+    "branch": "master",
+    "language": "JavaScript",
+    "description": "A toolkit to automate & enhance your workflow"
+  },
+  {
+    "repo": "olvvier/apple-silicon-accelerometer",
+    "branch": "main",
+    "language": "Python",
+    "description": "reading the undocumented mems accelerometer on apple silicon macbooks via iokit hid"
+  },
+  {
+    "repo": "pandas-profiling/pandas-profiling",
+    "branch": "develop",
+    "language": "Python",
+    "description": "1 Line of code data quality profiling & exploratory data analysis for Pandas and Spark DataFrames."
+  },
+  {
+    "repo": "storybookjs/storybook",
+    "branch": "next",
+    "language": "TypeScript",
+    "description": "Storybook is the industry standard workshop for building, documenting, and testing UI components in isolation"
+  },
+  {
+    "repo": "millionco/react-doctor",
     "branch": "main",
     "language": "TypeScript",
-    "description": "Visual Studio Code"
+    "description": "Let coding agents diagnose and fix your React code"
   },
   {
-    "repo": "sigp/lighthouse",
-    "branch": "stable",
-    "language": "Rust",
-    "description": "Ethereum consensus client in Rust"
-  },
-  {
-    "repo": "ohmyzsh/ohmyzsh",
+    "repo": "ossu/computer-science",
     "branch": "master",
-    "language": "Shell",
-    "description": "🙃   A delightful community-driven (with 2,400+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python, etc), 140+ themes to spice up your morning, and an auto-update tool that makes it easy to keep up with the latest updates from the community."
+    "language": "HTML",
+    "description": "🎓 Path to a free self-taught education in Computer Science!"
   },
   {
-    "repo": "flame-engine/flame",
+    "repo": "cilium/hubble",
     "branch": "main",
-    "language": "Dart",
-    "description": "A Flutter based game engine."
+    "language": "Makefile",
+    "description": "Hubble - Network, Service & Security Observability for Kubernetes using eBPF"
+  },
+  {
+    "repo": "zscole/model-hierarchy-skill",
+    "branch": "main",
+    "language": "Python",
+    "description": "OpenClaw skill for cost-optimized model routing based on task complexity"
+  },
+  {
+    "repo": "facebook/jest",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Delightful JavaScript Testing."
+  },
+  {
+    "repo": "epiral/bb-sites",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "Community fetch recipes for bb-browser — pre-built adapters for Reddit, Twitter, GitHub, and more"
   }
 ]
