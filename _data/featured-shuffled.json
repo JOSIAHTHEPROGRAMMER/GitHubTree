@@ -1,146 +1,146 @@
 [
   {
-    "repo": "MoonshotAI/kimi-code",
+    "repo": "triangkas/DBD-AutoGrind-Trainer-2026-Ultra",
+    "branch": "main",
+    "language": "Python",
+    "description": "Ultimate Dead by Daylight auto-grind trainer Ultra edition with Bloodpoint bot, ESP wallhack, aimbot, and full perk/skin unlocker. Dominate the Fog with our 2026 undetected external tool."
+  },
+  {
+    "repo": "planetscale/database-skills",
+    "branch": "main",
+    "language": "HTML",
+    "description": "Skills for AI agents working with databases"
+  },
+  {
+    "repo": "wesbos/JSON-Alexander",
     "branch": "main",
     "language": "TypeScript",
-    "description": "The Starting Point for Next-Gen Agents"
+    "description": "A really good JSON viewer browser Extension"
   },
   {
-    "repo": "lbjlaq/Antigravity-Tools-LS",
+    "repo": "directus/directus",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "The flexible backend for all your projects 🐰 Turn your DB into a headless CMS, admin panels, or apps with a custom UI, instant APIs, auth & more."
+  },
+  {
+    "repo": "github/storybook-addon-performance-panel",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "A Storybook Addon for tracking web performance"
+  },
+  {
+    "repo": "peters/horizon",
     "branch": "main",
     "language": "Rust",
-    "description": "Antigravity-Tools-LS is a local proxy bridge system designed specifically for the Antigravity IDE."
+    "description": "GPU-accelerated spatial terminal observatory — manage terminals, AI agents, and dev tools on an infinite canvas"
   },
   {
-    "repo": "kivy/kivy",
+    "repo": "minio/minio",
     "branch": "master",
-    "language": "Python",
-    "description": "Open source UI framework written in Python, running on Windows, Linux, macOS, Android and iOS"
+    "language": "Go",
+    "description": "MinIO is a high-performance, S3 compatible object store, open sourced under GNU AGPLv3 license."
   },
   {
-    "repo": "j3h4ck/PoisonKiller",
+    "repo": "kubernetes/kompose",
+    "branch": "master",
+    "language": "Go",
+    "description": "Convert Compose to Kubernetes"
+  },
+  {
+    "repo": "vercel-labs/visual-json",
     "branch": "main",
-    "language": "C++",
-    "description": "Another BYOVD process killer. works on CrowdStrike. fully signed."
+    "language": "TypeScript",
+    "description": "The Visual JSON Editor. Schema-aware, embeddable, extensible."
   },
   {
-    "repo": "appium/appium",
-    "branch": "master",
-    "language": "JavaScript",
-    "description": "Cross-platform automation framework for all kinds of apps, built on top of the W3C WebDriver protocol"
-  },
-  {
-    "repo": "GeiserX/awesome-spain",
-    "branch": "main",
-    "language": "Python",
-    "description": "Una selección de software open source que da soporte específico a España, incluyendo comunidades autónomas, provincias y ciudades."
-  },
-  {
-    "repo": "starship/starship",
-    "branch": "master",
-    "language": "Rust",
-    "description": "☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!"
-  },
-  {
-    "repo": "pytorch/vision",
+    "repo": "cksac/turboquant-model",
     "branch": "main",
     "language": "Python",
-    "description": "Datasets, Transforms and Models specific to Computer Vision"
-  },
-  {
-    "repo": "awesome-selfhosted/awesome-selfhosted",
-    "branch": "master",
-    "language": "Other",
-    "description": "A list of Free Software network services and web applications which can be hosted on your own servers"
-  },
-  {
-    "repo": "silships/figma-cli",
-    "branch": "main",
-    "language": "JavaScript",
     "description": ""
   },
   {
-    "repo": "gorhill/uBlock",
-    "branch": "master",
-    "language": "JavaScript",
-    "description": "uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean."
-  },
-  {
-    "repo": "jgarzik/apython",
-    "branch": "main",
-    "language": "Assembly",
-    "description": "Accelerated Asm Python"
-  },
-  {
-    "repo": "FortAwesome/Font-Awesome",
-    "branch": "6.x",
-    "language": "JavaScript",
-    "description": "The iconic SVG, font, and CSS toolkit"
-  },
-  {
-    "repo": "ExpondoEgirl/felca-reporter",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "Extensão Chrome/Edge que automatiza denúncias de conteúdo inadequado para menores no YouTube, conforme a Lei nº 15.211/2025 (Lei Felca / ECA Digital)"
-  },
-  {
-    "repo": "gulpjs/gulp",
-    "branch": "master",
-    "language": "JavaScript",
-    "description": "A toolkit to automate & enhance your workflow"
-  },
-  {
-    "repo": "olvvier/apple-silicon-accelerometer",
+    "repo": "xiaotianfotos/skills",
     "branch": "main",
     "language": "Python",
-    "description": "reading the undocumented mems accelerometer on apple silicon macbooks via iokit hid"
+    "description": "视频中分享的方法论代码参考"
   },
   {
-    "repo": "pandas-profiling/pandas-profiling",
-    "branch": "develop",
-    "language": "Python",
-    "description": "1 Line of code data quality profiling & exploratory data analysis for Pandas and Spark DataFrames."
-  },
-  {
-    "repo": "storybookjs/storybook",
-    "branch": "next",
-    "language": "TypeScript",
-    "description": "Storybook is the industry standard workshop for building, documenting, and testing UI components in isolation"
-  },
-  {
-    "repo": "millionco/react-doctor",
+    "repo": "phioranex/openclaw-docker",
     "branch": "main",
-    "language": "TypeScript",
-    "description": "Let coding agents diagnose and fix your React code"
+    "language": "PowerShell",
+    "description": ""
   },
   {
-    "repo": "ossu/computer-science",
-    "branch": "master",
+    "repo": "TheOdinProject/css-exercises",
+    "branch": "main",
     "language": "HTML",
-    "description": "🎓 Path to a free self-taught education in Computer Science!"
+    "description": "A repository for practicing CSS concepts."
   },
   {
-    "repo": "cilium/hubble",
+    "repo": "rustwasm/wasm-bindgen",
     "branch": "main",
-    "language": "Makefile",
-    "description": "Hubble - Network, Service & Security Observability for Kubernetes using eBPF"
+    "language": "Rust",
+    "description": "Facilitating high-level interactions between Wasm modules and JavaScript"
   },
   {
-    "repo": "zscole/model-hierarchy-skill",
+    "repo": "firewalld/firewalld",
     "branch": "main",
     "language": "Python",
-    "description": "OpenClaw skill for cost-optimized model routing based on task complexity"
+    "description": "Stateful zone based firewall daemon with D-Bus interface"
   },
   {
-    "repo": "facebook/jest",
+    "repo": "PCRE2Project/pcre2",
+    "branch": "master",
+    "language": "C",
+    "description": "PCRE2 development is based here."
+  },
+  {
+    "repo": "tanbiralam/claude-code",
     "branch": "main",
     "language": "TypeScript",
-    "description": "Delightful JavaScript Testing."
+    "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands. All original source code is the property of Anthropic."
   },
   {
-    "repo": "epiral/bb-sites",
+    "repo": "Uniswap/interface",
     "branch": "main",
+    "language": "TypeScript",
+    "description": "🦄 Open source interfaces for the Uniswap protocol"
+  },
+  {
+    "repo": "abi/screenshot-to-code",
+    "branch": "main",
+    "language": "Python",
+    "description": "Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue)"
+  },
+  {
+    "repo": "harlan-zw/vue-ecosystem-skills",
+    "branch": "main",
+    "language": "MDX",
+    "description": "AI agent skills for the bleeding edge Vue ecosystem. Built from real docs, issues, and releases."
+  },
+  {
+    "repo": "Fox-Fig/phoenix",
+    "branch": "main",
+    "language": "Go",
+    "description": "Phoenix is a high-performance, resilient tunneling tool designed to bypass DPI and severe network censorship using HTTP/2 (h2/h2c) multiplexing."
+  },
+  {
+    "repo": "claude-code-best/claude-code",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Claude Code 可运行版; Typescript 类型全修复;企业级可靠性; 安全无毒, lock 文件保真, 可直接 bun i; bun run dev 启动"
+  },
+  {
+    "repo": "Lethalchip/SpaceChatDB",
+    "branch": "main",
+    "language": "Rust",
+    "description": ""
+  },
+  {
+    "repo": "brunch/brunch",
+    "branch": "master",
     "language": "JavaScript",
-    "description": "Community fetch recipes for bb-browser — pre-built adapters for Reddit, Twitter, GitHub, and more"
+    "description": "🍴 Web applications made easy. Since 2011."
   }
 ]

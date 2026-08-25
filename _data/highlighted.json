@@ -1,8 +1,8 @@
 {
-  "repo": "bendrape1-byte/silk-design",
+  "repo": "sqzw-x/amane",
   "branch": "main",
-  "language": "CSS",
-  "description": "A Claude Code skill for building web interfaces that move well. Motion, smooth scroll, and design tokens by default.",
-  "stars": 110,
-  "forks": 8
+  "language": "Python",
+  "description": "AI 时代的私人影库",
+  "stars": 121,
+  "forks": 7
 }
