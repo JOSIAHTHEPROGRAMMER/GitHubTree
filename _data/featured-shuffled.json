@@ -1,146 +1,146 @@
 [
   {
-    "repo": "triangkas/DBD-AutoGrind-Trainer-2026-Ultra",
-    "branch": "main",
-    "language": "Python",
-    "description": "Ultimate Dead by Daylight auto-grind trainer Ultra edition with Bloodpoint bot, ESP wallhack, aimbot, and full perk/skin unlocker. Dominate the Fog with our 2026 undetected external tool."
-  },
-  {
-    "repo": "planetscale/database-skills",
-    "branch": "main",
-    "language": "HTML",
-    "description": "Skills for AI agents working with databases"
-  },
-  {
-    "repo": "wesbos/JSON-Alexander",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "A really good JSON viewer browser Extension"
-  },
-  {
-    "repo": "directus/directus",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "The flexible backend for all your projects 🐰 Turn your DB into a headless CMS, admin panels, or apps with a custom UI, instant APIs, auth & more."
-  },
-  {
-    "repo": "github/storybook-addon-performance-panel",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "A Storybook Addon for tracking web performance"
-  },
-  {
-    "repo": "peters/horizon",
-    "branch": "main",
-    "language": "Rust",
-    "description": "GPU-accelerated spatial terminal observatory — manage terminals, AI agents, and dev tools on an infinite canvas"
-  },
-  {
-    "repo": "minio/minio",
-    "branch": "master",
-    "language": "Go",
-    "description": "MinIO is a high-performance, S3 compatible object store, open sourced under GNU AGPLv3 license."
-  },
-  {
-    "repo": "kubernetes/kompose",
-    "branch": "master",
-    "language": "Go",
-    "description": "Convert Compose to Kubernetes"
-  },
-  {
-    "repo": "vercel-labs/visual-json",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "The Visual JSON Editor. Schema-aware, embeddable, extensible."
-  },
-  {
-    "repo": "cksac/turboquant-model",
-    "branch": "main",
-    "language": "Python",
-    "description": ""
-  },
-  {
-    "repo": "xiaotianfotos/skills",
-    "branch": "main",
-    "language": "Python",
-    "description": "视频中分享的方法论代码参考"
-  },
-  {
-    "repo": "phioranex/openclaw-docker",
-    "branch": "main",
-    "language": "PowerShell",
-    "description": ""
-  },
-  {
-    "repo": "TheOdinProject/css-exercises",
-    "branch": "main",
-    "language": "HTML",
-    "description": "A repository for practicing CSS concepts."
-  },
-  {
-    "repo": "rustwasm/wasm-bindgen",
-    "branch": "main",
-    "language": "Rust",
-    "description": "Facilitating high-level interactions between Wasm modules and JavaScript"
-  },
-  {
-    "repo": "firewalld/firewalld",
-    "branch": "main",
-    "language": "Python",
-    "description": "Stateful zone based firewall daemon with D-Bus interface"
-  },
-  {
-    "repo": "PCRE2Project/pcre2",
+    "repo": "openssl/openssl",
     "branch": "master",
     "language": "C",
-    "description": "PCRE2 development is based here."
+    "description": "TLS/SSL and crypto library"
   },
   {
-    "repo": "tanbiralam/claude-code",
+    "repo": "needle-tools/md-browse",
     "branch": "main",
     "language": "TypeScript",
-    "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands. All original source code is the property of Anthropic."
+    "description": "Markdown Browser – See the web like an AI does"
   },
   {
-    "repo": "Uniswap/interface",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "🦄 Open source interfaces for the Uniswap protocol"
-  },
-  {
-    "repo": "abi/screenshot-to-code",
+    "repo": "jazzband/pip-tools",
     "branch": "main",
     "language": "Python",
-    "description": "Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue)"
+    "description": "A set of tools to keep your pinned Python dependencies fresh."
   },
   {
-    "repo": "harlan-zw/vue-ecosystem-skills",
+    "repo": "deltabarbershopofficial-cloud/DBD-AutoGrind-Trainer-2026",
     "branch": "main",
-    "language": "MDX",
-    "description": "AI agent skills for the bleeding edge Vue ecosystem. Built from real docs, issues, and releases."
+    "language": "Python",
+    "description": "Ultimate Dead by Daylight auto-grind trainer with Bloodpoint bot, ESP wallhack, aimbot, and full perk/skin unlocker. Dominate the Fog with our 2026 undetected external tool."
   },
   {
-    "repo": "Fox-Fig/phoenix",
+    "repo": "falcosecurity/falco",
+    "branch": "master",
+    "language": "C++",
+    "description": "Cloud Native Runtime Security"
+  },
+  {
+    "repo": "juanceresa/sift-kg",
     "branch": "main",
-    "language": "Go",
-    "description": "Phoenix is a high-performance, resilient tunneling tool designed to bypass DPI and severe network censorship using HTTP/2 (h2/h2c) multiplexing."
+    "language": "Python",
+    "description": "Turn any collection of documents into a knowledge graph. Domain-configurable entity extraction, human-in-the-loop dedup, and narrative generation — all from the CLI."
   },
   {
-    "repo": "claude-code-best/claude-code",
+    "repo": "zggf-zggf/openviktor",
     "branch": "main",
     "language": "TypeScript",
-    "description": "Claude Code 可运行版; Typescript 类型全修复;企业级可靠性; 安全无毒, lock 文件保真, 可直接 bun i; bun run dev 启动"
+    "description": "Your AI employee for Slack — open source, self-hosted, MIT licensed"
   },
   {
-    "repo": "Lethalchip/SpaceChatDB",
+    "repo": "ussumant/llm-wiki-compiler",
     "branch": "main",
-    "language": "Rust",
+    "language": "Shell",
+    "description": "Claude Code plugin that compiles markdown knowledge files into a topic-based wiki. Implements Karpathy's LLM Knowledge Base pattern."
+  },
+  {
+    "repo": "Lissy93/awesome-privacy",
+    "branch": "main",
+    "language": "Astro",
+    "description": "🦄  A curated list of privacy & security-focused software and services"
+  },
+  {
+    "repo": "LanRhyme/MicYou",
+    "branch": "master",
+    "language": "Kotlin",
+    "description": "MicYou is a powerful tool that turns your Android device into a high-quality wireless microphone for your PC."
+  },
+  {
+    "repo": "linguo2625469/qq-farm-bot",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "基于 Node.js 的 QQ 经典农场小程序自动化挂机脚本。通过分析小程序 WebSocket 通信协议（Protocol Buffers），实现全自动农场管理。"
+  },
+  {
+    "repo": "pi-hole/pi-hole",
+    "branch": "master",
+    "language": "Shell",
+    "description": "A black hole for Internet advertisements"
+  },
+  {
+    "repo": "TanStack/query",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "🤖 Powerful asynchronous state management, server-state utilities and data fetching for the web. TS/JS, React Query, Solid Query, Svelte Query and Vue Query."
+  },
+  {
+    "repo": "mikeyobrien/rho",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "An AI agent that stays running, remembers across sessions, and checks in on its own. macOS, Linux, Android. Built on Pi."
+  },
+  {
+    "repo": "LichAmnesia/lich-skills",
+    "branch": "main",
+    "language": "Python",
     "description": ""
   },
   {
-    "repo": "brunch/brunch",
+    "repo": "run-llama/ParseBench",
+    "branch": "main",
+    "language": "Python",
+    "description": "ParseBench - A Document Parsing Benchmark for AI Agents"
+  },
+  {
+    "repo": "maybe-finance/maybe",
+    "branch": "main",
+    "language": "Ruby",
+    "description": "The personal finance app for everyone"
+  },
+  {
+    "repo": "Sibyl-Research-Team/sibyl-research-system",
+    "branch": "main",
+    "language": "Python",
+    "description": "Fully Autonomous AI Research System with Self-Evolution, built natively on Claude Code"
+  },
+  {
+    "repo": "vectordotdev/vector",
     "branch": "master",
-    "language": "JavaScript",
-    "description": "🍴 Web applications made easy. Since 2011."
+    "language": "Rust",
+    "description": "A high-performance observability data pipeline."
+  },
+  {
+    "repo": "xywml/PaperGrid",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "执笔为剑  - 一款基于NEXT.js的轻量化博客"
+  },
+  {
+    "repo": "farzaa/clicky",
+    "branch": "main",
+    "language": "Swift",
+    "description": ""
+  },
+  {
+    "repo": "CocoaPods/CocoaPods",
+    "branch": "master",
+    "language": "Ruby",
+    "description": "The Cocoa Dependency Manager."
+  },
+  {
+    "repo": "vuetifyjs/vuetify",
+    "branch": "master",
+    "language": "TypeScript",
+    "description": "🐉 Vue Component Framework"
+  },
+  {
+    "repo": "moby/moby",
+    "branch": "master",
+    "language": "Go",
+    "description": "The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems"
   }
 ]

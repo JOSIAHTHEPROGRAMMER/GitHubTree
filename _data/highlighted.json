@@ -1,8 +1,8 @@
 {
-  "repo": "sqzw-x/amane",
-  "branch": "main",
+  "repo": "zhengzihaoPKU/KERV",
+  "branch": "master",
   "language": "Python",
-  "description": "AI 时代的私人影库",
-  "stars": 121,
-  "forks": 7
+  "description": "Code of paper \"KERV: Kinematic-Rectified Speculative Decoding for Embodied VLA Models\" accepted by DAC 2026.",
+  "stars": 113,
+  "forks": 2
 }
