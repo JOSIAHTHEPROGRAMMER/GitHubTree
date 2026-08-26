@@ -1,146 +1,146 @@
 [
   {
-    "repo": "redai-infra/Relax",
+    "repo": "SilentFleetKK/ai-market-pulse",
     "branch": "main",
     "language": "Python",
-    "description": "An Asynchronous Reinforcement Learning Engine for Omni-Modal Post-Training at Scale"
+    "description": "Turn any watchlist into a daily AI market research report — a quant research cockpit or a zero-code daily report tool."
   },
   {
-    "repo": "Kotlin/kotlinx.serialization",
+    "repo": "microsoft/cascadia-code",
+    "branch": "main",
+    "language": "Python",
+    "description": "This is a fun, new monospaced font that includes programming ligatures and is designed to enhance the modern look and feel of the Windows Terminal."
+  },
+  {
+    "repo": "GAIR-NLP/daVinci-MagiHuman",
+    "branch": "main",
+    "language": "Python",
+    "description": ""
+  },
+  {
+    "repo": "flame-engine/flame",
+    "branch": "main",
+    "language": "Dart",
+    "description": "A Flutter based game engine."
+  },
+  {
+    "repo": "remorses/usecomputer",
+    "branch": "main",
+    "language": "Zig",
+    "description": "Fast computer automation CLI for AI agents. Control any desktop with accessibility snapshots, clicks, typing, scrolling, and more."
+  },
+  {
+    "repo": "ahaodev/shadmin",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "An Enterprise-Grade Full-Stack RBAC Permission Management System Built with Go + React"
+  },
+  {
+    "repo": "golangci/golangci-lint",
     "branch": "master",
+    "language": "Go",
+    "description": "Fast linters runner for Go"
+  },
+  {
+    "repo": "github/super-linter",
+    "branch": "main",
+    "language": "Shell",
+    "description": "Combination of multiple linters to install as a GitHub Action"
+  },
+  {
+    "repo": "primefaces/primeng",
+    "branch": "master",
+    "language": "TypeScript",
+    "description": "The Most Complete Angular UI Component Library"
+  },
+  {
+    "repo": "jorgebucaran/hyperapp",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "1kB-ish JavaScript framework for building hypertext applications"
+  },
+  {
+    "repo": "eze-is/web-access",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "给 Claude Code 装上完整联网能力的 skill：三层通道调度 + 浏览器 CDP + 并行分治"
+  },
+  {
+    "repo": "apkclaw-team/ApkClaw",
+    "branch": "main",
     "language": "Kotlin",
-    "description": "Kotlin multiplatform / multi-format serialization"
+    "description": ""
   },
   {
-    "repo": "kubernetes-sigs/external-dns",
+    "repo": "bentoml/BentoML",
+    "branch": "main",
+    "language": "Python",
+    "description": "The easiest way to serve AI apps and models - Build Model Inference APIs, Job queues, LLM apps, Multi-model pipelines, and more!"
+  },
+  {
+    "repo": "dev-protocol/polymarket-arbitrage-trade-bot",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "polymarket arbitrage bot polymarket arbitrage bot polymarket arbitrage bot polymarket arbitrage bot polymarket arbitrage bot polymarket arbitrage bot polymarket arbitrage bot polymarket arbitrage bot polymarket arbitrage bot polymarket arbitrage bot polymarket arbitrage bot polymarket arbitrage bot polymarket arbitrage bot polymarket arbitrage bot"
+  },
+  {
+    "repo": "Timeverse/My-TW-Coverage",
+    "branch": "master",
+    "language": "Python",
+    "description": "Equity research coverage of 1,735 Taiwan-listed companies (TWSE + OTC). Business overviews, supply chain mapping, and financial data with wikilink cross-referencing."
+  },
+  {
+    "repo": "google/or-tools",
+    "branch": "stable",
+    "language": "C++",
+    "description": "Google's Operations Research tools:"
+  },
+  {
+    "repo": "espressif/arduino-esp32",
+    "branch": "master",
+    "language": "C++",
+    "description": "Arduino core for the ESP32"
+  },
+  {
+    "repo": "jquery/jquery",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "jQuery JavaScript Library"
+  },
+  {
+    "repo": "labstack/echo",
     "branch": "master",
     "language": "Go",
-    "description": "Configure external DNS servers dynamically from Kubernetes resources"
+    "description": "High performance, minimalist Go web framework"
   },
   {
-    "repo": "nteract/nteract",
+    "repo": "VexedWilosn/AetherSwap",
+    "branch": "main",
+    "language": "Python",
+    "description": "⚗️ AetherSwap：全自动、零代码配置的 Steam 低价余额助手。提供现代化可视化 Web 控制台，基于数学模型智能选品，实现从买入到全自动上架的无人值守交易。"
+  },
+  {
+    "repo": "PaddlePaddle/PaddleOCR",
+    "branch": "main",
+    "language": "Python",
+    "description": "Turn any PDF or image document into structured data for your AI. A powerful, lightweight OCR toolkit that bridges the gap between images/PDFs and LLMs. Supports 100+ languages."
+  },
+  {
+    "repo": "audacity/audacity",
     "branch": "master",
-    "language": "TypeScript",
-    "description": "📘 The interactive computing suite for you!  ✨"
+    "language": "C++",
+    "description": "Audio Editor"
   },
   {
-    "repo": "kubernetes-sigs/kubespray",
-    "branch": "master",
-    "language": "Jinja",
-    "description": "Deploy a Production Ready Kubernetes Cluster"
+    "repo": "silverstein/minutes",
+    "branch": "main",
+    "language": "Rust",
+    "description": "Every meeting, every idea, every voice note — searchable by your AI. Open-source, privacy-first conversation memory layer."
   },
   {
-    "repo": "apache/superset",
-    "branch": "master",
-    "language": "TypeScript",
-    "description": "Apache Superset is a Data Visualization and Data Exploration Platform"
-  },
-  {
-    "repo": "uuidjs/uuid",
+    "repo": "diffusionstudio/slug-webgpu",
     "branch": "main",
     "language": "TypeScript",
-    "description": "Generate RFC-compliant UUIDs in JavaScript"
-  },
-  {
-    "repo": "open-telemetry/opentelemetry-js",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "OpenTelemetry JavaScript Client"
-  },
-  {
-    "repo": "Cranot/agi-in-md",
-    "branch": "master",
-    "language": "Python",
-    "description": "System prompts as cognitive lenses. 13 compression levels, 650+ experiments. Haiku + a 332-word prompt beats Opus vanilla on structural code analysis at 5x less cost. Includes Prism: a lens-powered CLI tool."
-  },
-  {
-    "repo": "LukeRenton/explore-claude-code",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "Learn Claude Code by exploring it as it was designed - interactive IDE-style docs for commands, MCP, skills, CLAUDE.md and more."
-  },
-  {
-    "repo": "paperclipai/paperclip",
-    "branch": "master",
-    "language": "TypeScript",
-    "description": "Open-source orchestration for zero-human companies"
-  },
-  {
-    "repo": "dnakov/litter",
-    "branch": "main",
-    "language": "Swift",
-    "description": ""
-  },
-  {
-    "repo": "SethGammon/Citadel",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "Agent orchestration harness for Claude Code. Four-tier routing (/do), campaign persistence across sessions, parallel agents in isolated worktrees, discovery relay between waves, lifecycle hooks, circuit breaker, and 6 production-quality skills. From solo developer to institutional scale."
-  },
-  {
-    "repo": "bleuropa/loomkin",
-    "branch": "main",
-    "language": "Elixir",
-    "description": "An Elixir-native AI coding assistant with persistent decision graphs, repo intelligence, and a Phoenix LiveView UI"
-  },
-  {
-    "repo": "civilian7/sql-tutorial",
-    "branch": "main",
-    "language": "Python",
-    "description": "현실적인 전자상거래 데이터베이스로 배우는 SQL 튜토리얼 (21 tables, 18 views, 111 exercises)"
-  },
-  {
-    "repo": "vmware-tanzu/velero",
-    "branch": "main",
-    "language": "Go",
-    "description": "Backup and migrate Kubernetes applications and their persistent volumes"
-  },
-  {
-    "repo": "Mondo-Robotics/DiT4DiT",
-    "branch": "main",
-    "language": "Python",
-    "description": "This is the official code repo for DiT4DiT, a Vision-Action-Model (VAM) framework that combines video generation model with flow-matching-based action prediction for generalizable robotic manipulation."
-  },
-  {
-    "repo": "pallets/click",
-    "branch": "main",
-    "language": "Python",
-    "description": "Python composable command line interface toolkit"
-  },
-  {
-    "repo": "cdppcorp/KESE-KIT",
-    "branch": "main",
-    "language": "Python",
-    "description": "KISA 주요정보통신기반시설 기술적 취약점 분석 평가방법 상세가이드 기반 Skills"
-  },
-  {
-    "repo": "finvfamily/finshare",
-    "branch": "main",
-    "language": "Python",
-    "description": "专业的金融数据获取工具库 - A Professional Financial Data Fetching Toolkit for   Python"
-  },
-  {
-    "repo": "nv-tlabs/kimodo",
-    "branch": "main",
-    "language": "Python",
-    "description": ""
-  },
-  {
-    "repo": "apple/swift-nio",
-    "branch": "main",
-    "language": "Swift",
-    "description": "Event-driven network application framework for high performance protocol servers & clients, non-blocking."
-  },
-  {
-    "repo": "haeyupi/hotmail_re_plugin",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": ""
-  },
-  {
-    "repo": "NubPlayz/GoodLib-Zlib-Goodreads-extension",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "An extension that open Books in Zlib Or Anna's Archive with a button on Goodreads in one click.  Available on Chrome and Firefox"
+    "description": "WebGPU implementation of Eric Lengyel's Slug algorithm for resolution-independent vector text rendering on the GPU"
   }
 ]
