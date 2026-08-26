@@ -1,8 +1,8 @@
 {
-  "repo": "bendrape1-byte/silk-design",
+  "repo": "dragthelake/ambient-context",
   "branch": "main",
-  "language": "CSS",
-  "description": "A Claude Code skill for building web interfaces that move well. Motion, smooth scroll, and design tokens by default.",
-  "stars": 116,
-  "forks": 9
+  "language": "Rust",
+  "description": "A menu bar app that keeps a written record of what you worked on.",
+  "stars": 113,
+  "forks": 5
 }

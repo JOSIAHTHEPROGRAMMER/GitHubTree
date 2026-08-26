@@ -1,146 +1,146 @@
 [
   {
-    "repo": "andyhuo520/rf-detr-detection",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "基于 RF-DETR 的浏览器端实时目标检测应用"
-  },
-  {
-    "repo": "EvilFreelancer/openapi-to-cli",
+    "repo": "coollabsio/jean",
     "branch": "main",
     "language": "TypeScript",
-    "description": "Turns any OpenAPI/Swagger API into an CLI with set of commands. One CLI command per endpoint."
+    "description": "Run AI agents parallel in isolated workspaces."
   },
   {
-    "repo": "fayazara/portfolio-site-template",
+    "repo": "Robbyant/lingbot-va",
     "branch": "main",
-    "language": "Astro",
-    "description": "A fun little personal portfolio site template"
+    "language": "Python",
+    "description": "Causal video-action world model for generalist robot control"
   },
   {
-    "repo": "xodn348/han",
+    "repo": "celery/kombu",
+    "branch": "main",
+    "language": "Python",
+    "description": "Messaging library for Python."
+  },
+  {
+    "repo": "RoushanKhalid/File_Encryption_Tool",
+    "branch": "main",
+    "language": "Python",
+    "description": "Encrypt/decrypt files with AES-256 and password protection. Encrypt files, decrypt files, batch encrypt, and encrypt entire folders. Protect your data."
+  },
+  {
+    "repo": "ecto/vcad",
     "branch": "main",
     "language": "Rust",
-    "description": "A compiled programming language with Korean keywords, written in Rust"
+    "description": "Parametric CAD in Rust — CSG modeling with multi-format export"
   },
   {
-    "repo": "deborahikssv/Antigravity-claw",
-    "branch": "main",
-    "language": "Rust",
-    "description": ""
-  },
-  {
-    "repo": "nicepkg/ctxport",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Copy AI conversations as clean Markdown Context Bundles — one click from ChatGPT, Claude, Gemini, DeepSeek, Grok & GitHub. Copy from sidebar without opening. Zero upload, 100% local, open source."
-  },
-  {
-    "repo": "HKUDS/MoChat",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "MoChat: Reconnecting the World through AI Agents (OpenClaw & nanobot & ClaudeCode) https://mochat.io"
-  },
-  {
-    "repo": "liranringel/ddtree",
-    "branch": "master",
-    "language": "Python",
-    "description": ""
-  },
-  {
-    "repo": "guokaigdg/animal-island-ui",
-    "branch": "main",
-    "language": "Less",
-    "description": "Animal 风格的 React 组件库 灵感来源于任天堂集合啦！动物森友会游戏界面"
-  },
-  {
-    "repo": "ula7i921011/React2Shell-Scanner",
+    "repo": "deepmind/dm-haiku",
     "branch": "main",
     "language": "Python",
-    "description": "React2Shell Scanner"
+    "description": "JAX-based neural network library"
   },
   {
-    "repo": "dayflow-js/BlossomColorPicker",
+    "repo": "Stability-AI/stablediffusion",
     "branch": "main",
-    "language": "TypeScript",
-    "description": "A beautiful, blooming color picker component build by Tailwind for Web.     🌟 If you like it, give it a star :)"
+    "language": "Other",
+    "description": "High-Resolution Image Synthesis with Latent Diffusion Models."
   },
   {
-    "repo": "MasterAlanLab/Register",
-    "branch": "main",
-    "language": "Python",
-    "description": ""
-  },
-  {
-    "repo": "jingkaihe/matchlock",
-    "branch": "main",
-    "language": "Go",
-    "description": "Matchlock secures AI agent workloads with a Linux-based sandbox."
-  },
-  {
-    "repo": "ewindmer/polymarket-arbitrage-trading-bot",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "polymarket arbitrage trading bot"
-  },
-  {
-    "repo": "epiral/bb-sites",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "Community fetch recipes for bb-browser — pre-built adapters for Reddit, Twitter, GitHub, and more"
-  },
-  {
-    "repo": "activetheory/activeframe",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "Custom .af video format for WebCodecs: frame-accurate playback without a video tag or third-party decoders."
-  },
-  {
-    "repo": "esaradev/icarus-daedalus",
+    "repo": "gemini-cli-extensions/ralph",
     "branch": "main",
     "language": "Shell",
-    "description": "Icarus Memory Protocol -- universal agent memory in 50 lines. markdown files in a directory. any framework, any platform, shared memory. includes two-agent reference implementation with Telegram, Slack, and cross-platform recall."
+    "description": "Gemini CLI extension for Ralph loops"
   },
   {
-    "repo": "RuizeLyu/paper-dl",
+    "repo": "spring-guides/gs-spring-boot",
     "branch": "main",
-    "language": "Python",
-    "description": "Download arxiv PDFs from PaSa search results for local AI-powered literature analysis."
+    "language": "Java",
+    "description": "Building an Application with Spring Boot :: Learn how to build an application with minimal configuration."
   },
   {
-    "repo": "kiberkingyammee7/Awp-gg-Roblox-Executor-2026",
+    "repo": "total-typescript/ts-reset",
     "branch": "main",
-    "language": "C++",
-    "description": "The most advanced, high-performance V3 execution engine for Roblox. Experience seamless Luau scripting, unparalleled 100% UNC bypass mechanisms, and maximum thread stability."
+    "language": "TypeScript",
+    "description": "A 'CSS reset' for TypeScript, improving types for common JavaScript API's"
   },
   {
-    "repo": "garrytan/gbrain",
+    "repo": "tmux/tmux",
     "branch": "master",
-    "language": "TypeScript",
-    "description": "Garry's Opinionated OpenClaw Brain"
+    "language": "C",
+    "description": "tmux source code"
   },
   {
-    "repo": "GainSec/AutoProber",
+    "repo": "bramcohen/manyana",
     "branch": "main",
     "language": "Python",
-    "description": "Hardware hacker’s flying probe automation stack for agent-driven   target discovery, microscope mapping, safety-monitored CNC motion, probe review, and   controlled pin probing."
+    "description": ""
   },
   {
-    "repo": "MarioGalindoQ/Modern-CPP-Design-Patterns",
+    "repo": "SergioBenitez/Rocket",
+    "branch": "master",
+    "language": "Rust",
+    "description": "A web framework for Rust."
+  },
+  {
+    "repo": "armadasvc/armada",
+    "branch": "master",
+    "language": "Python",
+    "description": "Kubernetes-native framework for bot and scraper orchestration"
+  },
+  {
+    "repo": "NOBB2333/ClipCascade_go",
+    "branch": "main",
+    "language": "Go",
+    "description": "ClipCascade go语言重制版"
+  },
+  {
+    "repo": "michelleoincx/zeroclaw-grok",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "ZeroClaw — sleek web interface for Grok AI (xAI). Streaming responses, multi-session chat, model selector. Zero npm dependencies. Runs with one command."
+  },
+  {
+    "repo": "square/retrofit",
+    "branch": "master",
+    "language": "HTML",
+    "description": "A type-safe HTTP client for Android and the JVM"
+  },
+  {
+    "repo": "XyhTender/qq-farm-automation-bot",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "QQ农场全自动脚本"
+  },
+  {
+    "repo": "Guid-Lab/kdecrypt",
     "branch": "main",
     "language": "C++",
-    "description": "32 Design Patterns and C++ Idioms implemented in Modern C++"
+    "description": "PGP/GPG file encryption and decryption manager for KDE Plasma"
   },
   {
-    "repo": "maderix/ANE",
+    "repo": "xvhuan/xiaoi",
     "branch": "main",
-    "language": "Objective-C",
-    "description": "Training neural networks on Apple Neural Engine via reverse-engineered private APIs"
+    "language": "JavaScript",
+    "description": "小爱音箱语音通知工具：提供 CLI/TUI/MCP/Webhook 一键播报与控制音量，支持 PM2 常驻部署，支持docker部署。"
   },
   {
-    "repo": "BigBodyCobain/Shadowbroker",
+    "repo": "psf/black",
     "branch": "main",
-    "language": "TypeScript",
-    "description": "Open-source intelligence for the global theater. Track everything from the corporate/private jets of the wealthy, and spy satellites, to seismic events in one unified interface. The knowledge is available to all but rarely aggregated in the open, until now."
+    "language": "Python",
+    "description": "The uncompromising Python code formatter"
+  },
+  {
+    "repo": "dypsilon/frontend-dev-bookmarks",
+    "branch": "master",
+    "language": "Other",
+    "description": "Manually curated collection of resources for frontend web developers."
+  },
+  {
+    "repo": "Justi1980/Dawn-Validator-BOT",
+    "branch": "main",
+    "language": "Python",
+    "description": "Dawn Validator BOT — Automated node validation bot for Dawn Protocol testnet with multi-account support, proxy rotation, validator registration, keepalive pings, reward tracking, and Rich CLI interface for decentralized bandwidth network participation"
+  },
+  {
+    "repo": "typesense/typesense",
+    "branch": "master",
+    "language": "C++",
+    "description": "Open Source alternative to Algolia + Pinecone and an Easier-to-Use alternative to ElasticSearch ⚡ 🔍 ✨ Fast, typo tolerant, in-memory fuzzy Search Engine for building delightful search experiences"
   }
 ]
