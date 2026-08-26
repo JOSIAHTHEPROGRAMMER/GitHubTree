@@ -1,146 +1,146 @@
 [
   {
-    "repo": "coollabsio/jean",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Run AI agents parallel in isolated workspaces."
-  },
-  {
-    "repo": "Robbyant/lingbot-va",
+    "repo": "redai-infra/Relax",
     "branch": "main",
     "language": "Python",
-    "description": "Causal video-action world model for generalist robot control"
+    "description": "An Asynchronous Reinforcement Learning Engine for Omni-Modal Post-Training at Scale"
   },
   {
-    "repo": "celery/kombu",
-    "branch": "main",
-    "language": "Python",
-    "description": "Messaging library for Python."
-  },
-  {
-    "repo": "RoushanKhalid/File_Encryption_Tool",
-    "branch": "main",
-    "language": "Python",
-    "description": "Encrypt/decrypt files with AES-256 and password protection. Encrypt files, decrypt files, batch encrypt, and encrypt entire folders. Protect your data."
-  },
-  {
-    "repo": "ecto/vcad",
-    "branch": "main",
-    "language": "Rust",
-    "description": "Parametric CAD in Rust — CSG modeling with multi-format export"
-  },
-  {
-    "repo": "deepmind/dm-haiku",
-    "branch": "main",
-    "language": "Python",
-    "description": "JAX-based neural network library"
-  },
-  {
-    "repo": "Stability-AI/stablediffusion",
-    "branch": "main",
-    "language": "Other",
-    "description": "High-Resolution Image Synthesis with Latent Diffusion Models."
-  },
-  {
-    "repo": "gemini-cli-extensions/ralph",
-    "branch": "main",
-    "language": "Shell",
-    "description": "Gemini CLI extension for Ralph loops"
-  },
-  {
-    "repo": "spring-guides/gs-spring-boot",
-    "branch": "main",
-    "language": "Java",
-    "description": "Building an Application with Spring Boot :: Learn how to build an application with minimal configuration."
-  },
-  {
-    "repo": "total-typescript/ts-reset",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "A 'CSS reset' for TypeScript, improving types for common JavaScript API's"
-  },
-  {
-    "repo": "tmux/tmux",
+    "repo": "Kotlin/kotlinx.serialization",
     "branch": "master",
-    "language": "C",
-    "description": "tmux source code"
+    "language": "Kotlin",
+    "description": "Kotlin multiplatform / multi-format serialization"
   },
   {
-    "repo": "bramcohen/manyana",
+    "repo": "kubernetes-sigs/external-dns",
+    "branch": "master",
+    "language": "Go",
+    "description": "Configure external DNS servers dynamically from Kubernetes resources"
+  },
+  {
+    "repo": "nteract/nteract",
+    "branch": "master",
+    "language": "TypeScript",
+    "description": "📘 The interactive computing suite for you!  ✨"
+  },
+  {
+    "repo": "kubernetes-sigs/kubespray",
+    "branch": "master",
+    "language": "Jinja",
+    "description": "Deploy a Production Ready Kubernetes Cluster"
+  },
+  {
+    "repo": "apache/superset",
+    "branch": "master",
+    "language": "TypeScript",
+    "description": "Apache Superset is a Data Visualization and Data Exploration Platform"
+  },
+  {
+    "repo": "uuidjs/uuid",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Generate RFC-compliant UUIDs in JavaScript"
+  },
+  {
+    "repo": "open-telemetry/opentelemetry-js",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "OpenTelemetry JavaScript Client"
+  },
+  {
+    "repo": "Cranot/agi-in-md",
+    "branch": "master",
+    "language": "Python",
+    "description": "System prompts as cognitive lenses. 13 compression levels, 650+ experiments. Haiku + a 332-word prompt beats Opus vanilla on structural code analysis at 5x less cost. Includes Prism: a lens-powered CLI tool."
+  },
+  {
+    "repo": "LukeRenton/explore-claude-code",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "Learn Claude Code by exploring it as it was designed - interactive IDE-style docs for commands, MCP, skills, CLAUDE.md and more."
+  },
+  {
+    "repo": "paperclipai/paperclip",
+    "branch": "master",
+    "language": "TypeScript",
+    "description": "Open-source orchestration for zero-human companies"
+  },
+  {
+    "repo": "dnakov/litter",
+    "branch": "main",
+    "language": "Swift",
+    "description": ""
+  },
+  {
+    "repo": "SethGammon/Citadel",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "Agent orchestration harness for Claude Code. Four-tier routing (/do), campaign persistence across sessions, parallel agents in isolated worktrees, discovery relay between waves, lifecycle hooks, circuit breaker, and 6 production-quality skills. From solo developer to institutional scale."
+  },
+  {
+    "repo": "bleuropa/loomkin",
+    "branch": "main",
+    "language": "Elixir",
+    "description": "An Elixir-native AI coding assistant with persistent decision graphs, repo intelligence, and a Phoenix LiveView UI"
+  },
+  {
+    "repo": "civilian7/sql-tutorial",
+    "branch": "main",
+    "language": "Python",
+    "description": "현실적인 전자상거래 데이터베이스로 배우는 SQL 튜토리얼 (21 tables, 18 views, 111 exercises)"
+  },
+  {
+    "repo": "vmware-tanzu/velero",
+    "branch": "main",
+    "language": "Go",
+    "description": "Backup and migrate Kubernetes applications and their persistent volumes"
+  },
+  {
+    "repo": "Mondo-Robotics/DiT4DiT",
+    "branch": "main",
+    "language": "Python",
+    "description": "This is the official code repo for DiT4DiT, a Vision-Action-Model (VAM) framework that combines video generation model with flow-matching-based action prediction for generalizable robotic manipulation."
+  },
+  {
+    "repo": "pallets/click",
+    "branch": "main",
+    "language": "Python",
+    "description": "Python composable command line interface toolkit"
+  },
+  {
+    "repo": "cdppcorp/KESE-KIT",
+    "branch": "main",
+    "language": "Python",
+    "description": "KISA 주요정보통신기반시설 기술적 취약점 분석 평가방법 상세가이드 기반 Skills"
+  },
+  {
+    "repo": "finvfamily/finshare",
+    "branch": "main",
+    "language": "Python",
+    "description": "专业的金融数据获取工具库 - A Professional Financial Data Fetching Toolkit for   Python"
+  },
+  {
+    "repo": "nv-tlabs/kimodo",
     "branch": "main",
     "language": "Python",
     "description": ""
   },
   {
-    "repo": "SergioBenitez/Rocket",
-    "branch": "master",
-    "language": "Rust",
-    "description": "A web framework for Rust."
-  },
-  {
-    "repo": "armadasvc/armada",
-    "branch": "master",
-    "language": "Python",
-    "description": "Kubernetes-native framework for bot and scraper orchestration"
-  },
-  {
-    "repo": "NOBB2333/ClipCascade_go",
+    "repo": "apple/swift-nio",
     "branch": "main",
-    "language": "Go",
-    "description": "ClipCascade go语言重制版"
+    "language": "Swift",
+    "description": "Event-driven network application framework for high performance protocol servers & clients, non-blocking."
   },
   {
-    "repo": "michelleoincx/zeroclaw-grok",
+    "repo": "haeyupi/hotmail_re_plugin",
     "branch": "main",
     "language": "JavaScript",
-    "description": "ZeroClaw — sleek web interface for Grok AI (xAI). Streaming responses, multi-session chat, model selector. Zero npm dependencies. Runs with one command."
+    "description": ""
   },
   {
-    "repo": "square/retrofit",
-    "branch": "master",
-    "language": "HTML",
-    "description": "A type-safe HTTP client for Android and the JVM"
-  },
-  {
-    "repo": "XyhTender/qq-farm-automation-bot",
+    "repo": "NubPlayz/GoodLib-Zlib-Goodreads-extension",
     "branch": "main",
-    "language": "JavaScript",
-    "description": "QQ农场全自动脚本"
-  },
-  {
-    "repo": "Guid-Lab/kdecrypt",
-    "branch": "main",
-    "language": "C++",
-    "description": "PGP/GPG file encryption and decryption manager for KDE Plasma"
-  },
-  {
-    "repo": "xvhuan/xiaoi",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "小爱音箱语音通知工具：提供 CLI/TUI/MCP/Webhook 一键播报与控制音量，支持 PM2 常驻部署，支持docker部署。"
-  },
-  {
-    "repo": "psf/black",
-    "branch": "main",
-    "language": "Python",
-    "description": "The uncompromising Python code formatter"
-  },
-  {
-    "repo": "dypsilon/frontend-dev-bookmarks",
-    "branch": "master",
-    "language": "Other",
-    "description": "Manually curated collection of resources for frontend web developers."
-  },
-  {
-    "repo": "Justi1980/Dawn-Validator-BOT",
-    "branch": "main",
-    "language": "Python",
-    "description": "Dawn Validator BOT — Automated node validation bot for Dawn Protocol testnet with multi-account support, proxy rotation, validator registration, keepalive pings, reward tracking, and Rich CLI interface for decentralized bandwidth network participation"
-  },
-  {
-    "repo": "typesense/typesense",
-    "branch": "master",
-    "language": "C++",
-    "description": "Open Source alternative to Algolia + Pinecone and an Easier-to-Use alternative to ElasticSearch ⚡ 🔍 ✨ Fast, typo tolerant, in-memory fuzzy Search Engine for building delightful search experiences"
+    "language": "TypeScript",
+    "description": "An extension that open Books in Zlib Or Anna's Archive with a button on Goodreads in one click.  Available on Chrome and Firefox"
   }
 ]
