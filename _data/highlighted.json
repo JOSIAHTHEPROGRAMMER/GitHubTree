@@ -1,8 +1,8 @@
 {
-  "repo": "dragthelake/ambient-context",
+  "repo": "halofyai/halofy",
   "branch": "main",
-  "language": "Rust",
-  "description": "A menu bar app that keeps a written record of what you worked on.",
-  "stars": 124,
-  "forks": 7
+  "language": "TypeScript",
+  "description": "Halofy is the open access and governance layer for AI agents across your organization. Identity, policy, provenance, audit, and signed erasure.",
+  "stars": 347,
+  "forks": 4
 }

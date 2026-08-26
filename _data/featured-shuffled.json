@@ -1,146 +1,146 @@
 [
   {
-    "repo": "SilentFleetKK/ai-market-pulse",
-    "branch": "main",
-    "language": "Python",
-    "description": "Turn any watchlist into a daily AI market research report — a quant research cockpit or a zero-code daily report tool."
-  },
-  {
-    "repo": "microsoft/cascadia-code",
-    "branch": "main",
-    "language": "Python",
-    "description": "This is a fun, new monospaced font that includes programming ligatures and is designed to enhance the modern look and feel of the Windows Terminal."
-  },
-  {
-    "repo": "GAIR-NLP/daVinci-MagiHuman",
-    "branch": "main",
-    "language": "Python",
-    "description": ""
-  },
-  {
-    "repo": "flame-engine/flame",
-    "branch": "main",
-    "language": "Dart",
-    "description": "A Flutter based game engine."
-  },
-  {
-    "repo": "remorses/usecomputer",
-    "branch": "main",
-    "language": "Zig",
-    "description": "Fast computer automation CLI for AI agents. Control any desktop with accessibility snapshots, clicks, typing, scrolling, and more."
-  },
-  {
-    "repo": "ahaodev/shadmin",
+    "repo": "ikeda042/PhenoPixel",
     "branch": "main",
     "language": "TypeScript",
-    "description": "An Enterprise-Grade Full-Stack RBAC Permission Management System Built with Go + React"
+    "description": "An OpenCV based image analysis web application (Deployed at Hiroshima University)"
   },
   {
-    "repo": "golangci/golangci-lint",
-    "branch": "master",
-    "language": "Go",
-    "description": "Fast linters runner for Go"
-  },
-  {
-    "repo": "github/super-linter",
+    "repo": "wanshuiyin/Auto-claude-code-research-in-sleep",
     "branch": "main",
-    "language": "Shell",
-    "description": "Combination of multiple linters to install as a GitHub Action"
+    "language": "TeX",
+    "description": "ARIS ⚔️ (Auto-Research-In-Sleep) — Claude Code skills for autonomous ML research: cross-model review loops, idea discovery, and experiment automation via Codex MCP"
   },
   {
-    "repo": "primefaces/primeng",
-    "branch": "master",
-    "language": "TypeScript",
-    "description": "The Most Complete Angular UI Component Library"
-  },
-  {
-    "repo": "jorgebucaran/hyperapp",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "1kB-ish JavaScript framework for building hypertext applications"
-  },
-  {
-    "repo": "eze-is/web-access",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "给 Claude Code 装上完整联网能力的 skill：三层通道调度 + 浏览器 CDP + 并行分治"
-  },
-  {
-    "repo": "apkclaw-team/ApkClaw",
-    "branch": "main",
-    "language": "Kotlin",
-    "description": ""
-  },
-  {
-    "repo": "bentoml/BentoML",
-    "branch": "main",
-    "language": "Python",
-    "description": "The easiest way to serve AI apps and models - Build Model Inference APIs, Job queues, LLM apps, Multi-model pipelines, and more!"
-  },
-  {
-    "repo": "dev-protocol/polymarket-arbitrage-trade-bot",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "polymarket arbitrage bot polymarket arbitrage bot polymarket arbitrage bot polymarket arbitrage bot polymarket arbitrage bot polymarket arbitrage bot polymarket arbitrage bot polymarket arbitrage bot polymarket arbitrage bot polymarket arbitrage bot polymarket arbitrage bot polymarket arbitrage bot polymarket arbitrage bot polymarket arbitrage bot"
-  },
-  {
-    "repo": "Timeverse/My-TW-Coverage",
-    "branch": "master",
-    "language": "Python",
-    "description": "Equity research coverage of 1,735 Taiwan-listed companies (TWSE + OTC). Business overviews, supply chain mapping, and financial data with wikilink cross-referencing."
-  },
-  {
-    "repo": "google/or-tools",
-    "branch": "stable",
-    "language": "C++",
-    "description": "Google's Operations Research tools:"
-  },
-  {
-    "repo": "espressif/arduino-esp32",
-    "branch": "master",
-    "language": "C++",
-    "description": "Arduino core for the ESP32"
-  },
-  {
-    "repo": "jquery/jquery",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "jQuery JavaScript Library"
-  },
-  {
-    "repo": "labstack/echo",
-    "branch": "master",
-    "language": "Go",
-    "description": "High performance, minimalist Go web framework"
-  },
-  {
-    "repo": "VexedWilosn/AetherSwap",
-    "branch": "main",
-    "language": "Python",
-    "description": "⚗️ AetherSwap：全自动、零代码配置的 Steam 低价余额助手。提供现代化可视化 Web 控制台，基于数学模型智能选品，实现从买入到全自动上架的无人值守交易。"
-  },
-  {
-    "repo": "PaddlePaddle/PaddleOCR",
-    "branch": "main",
-    "language": "Python",
-    "description": "Turn any PDF or image document into structured data for your AI. A powerful, lightweight OCR toolkit that bridges the gap between images/PDFs and LLMs. Supports 100+ languages."
-  },
-  {
-    "repo": "audacity/audacity",
-    "branch": "master",
-    "language": "C++",
-    "description": "Audio Editor"
-  },
-  {
-    "repo": "silverstein/minutes",
+    "repo": "xiaguan/pegainfer",
     "branch": "main",
     "language": "Rust",
-    "description": "Every meeting, every idea, every voice note — searchable by your AI. Open-source, privacy-first conversation memory layer."
+    "description": "Pure Rust + CUDA LLM inference engine"
   },
   {
-    "repo": "diffusionstudio/slug-webgpu",
+    "repo": "khalildh/garment-notation",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": ""
+  },
+  {
+    "repo": "NeoVertex1/nuggets",
     "branch": "main",
     "language": "TypeScript",
-    "description": "WebGPU implementation of Eric Lengyel's Slug algorithm for resolution-independent vector text rendering on the GPU"
+    "description": "First AI assistant with holographic memory"
+  },
+  {
+    "repo": "WeaveMindAI/weft",
+    "branch": "main",
+    "language": "Rust",
+    "description": "A programming language for AI systems"
+  },
+  {
+    "repo": "Ta0ing/claude-code_evil",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "cc完整版，含手册，编译等"
+  },
+  {
+    "repo": "mliu98/awesome-human-distillation",
+    "branch": "main",
+    "language": "Python",
+    "description": "A curated catalog of human distillliation agent skills"
+  },
+  {
+    "repo": "gpasquero/voog",
+    "branch": "main",
+    "language": "Python",
+    "description": "VOOG — Virtual Analog Synthesizer (Moog-style polyphonic synth with GUI)"
+  },
+  {
+    "repo": "romerzzz/Tomodachi-Life-Living-in-the-Dream-PC-Version",
+    "branch": "main",
+    "language": "C++",
+    "description": "Tomodachi Life Living in the Dream PC is the  Windows version of the popular life simulation game. Create your own Mii characters, build your dream island, interact with quirky residents, fall in love, solve problems, and enjoy endless daily events"
+  },
+  {
+    "repo": "pacifio/cersei",
+    "branch": "main",
+    "language": "Rust",
+    "description": "The Rust SDK for building coding agents. Tool execution, LLM streaming, graph memory, sub-agent orchestration, MCP — as composable library functions."
+  },
+  {
+    "repo": "uqogihujomuwhiff/sora2-watermark-cleaner-pro",
+    "branch": "main",
+    "language": "Python",
+    "description": "sora2 watermark cleaner pro"
+  },
+  {
+    "repo": "Pickle-Pixel/ApplyPilot",
+    "branch": "main",
+    "language": "Python",
+    "description": "AI agent that applies to jobs for you. Any site. Any form."
+  },
+  {
+    "repo": "fabro-sh/fabro",
+    "branch": "main",
+    "language": "Rust",
+    "description": "⚒️ The open source dark software factory for expert engineers."
+  },
+  {
+    "repo": "SAGAR-TAMANG/friday-tony-stark-demo",
+    "branch": "main",
+    "language": "Python",
+    "description": "Demo of tools of capabilities of Tony Stark."
+  },
+  {
+    "repo": "RaidOwl/homelab-hub",
+    "branch": "main",
+    "language": "Svelte",
+    "description": ""
+  },
+  {
+    "repo": "VoltAgent/awesome-design-md",
+    "branch": "main",
+    "language": "HTML",
+    "description": "Collection of DESIGN.md files that capture design systems from popular websites. Drop one into your project and let coding agents build matching UI."
+  },
+  {
+    "repo": "Wechat-ggGitHub/wechat-claude-code",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Chat with Claude Code from WeChat - a Claude Code Skill"
+  },
+  {
+    "repo": "chrisryugj/kordoc",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "모두 파싱해버리겠다 — HWP/HWPX/PDF → Markdown | npm · CLI · MCP Server"
+  },
+  {
+    "repo": "revfactory/harness",
+    "branch": "main",
+    "language": "HTML",
+    "description": "A meta-skill that designs domain-specific agent teams, defines specialized agents, and generates the skills they use."
+  },
+  {
+    "repo": "liandu2024/AnGe-ClashBoard",
+    "branch": "main",
+    "language": "Vue",
+    "description": "AnGe-ClashBoard - zashboard 完整体"
+  },
+  {
+    "repo": "nickustinov/itsytv-macos",
+    "branch": "main",
+    "language": "Swift",
+    "description": "The missing Apple TV remote app for macOS"
+  },
+  {
+    "repo": "liorwn/claudetop",
+    "branch": "main",
+    "language": "Shell",
+    "description": "htop for your Claude Code sessions — real-time cost, cache efficiency, model comparison, and smart alerts"
+  },
+  {
+    "repo": "hao-ji-xing/openclaw-weixin",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "openclaw-weixin"
   }
 ]
