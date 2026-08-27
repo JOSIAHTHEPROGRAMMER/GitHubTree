@@ -1,146 +1,146 @@
 [
   {
-    "repo": "ikeda042/PhenoPixel",
+    "repo": "Alamofire/Alamofire",
+    "branch": "master",
+    "language": "Swift",
+    "description": "Elegant HTTP Networking in Swift"
+  },
+  {
+    "repo": "0xhype/hyperliquid-tracker",
     "branch": "main",
     "language": "TypeScript",
-    "description": "An OpenCV based image analysis web application (Deployed at Hiroshima University)"
+    "description": "Get notified when big trades happen on Hyperliquid."
   },
   {
-    "repo": "wanshuiyin/Auto-claude-code-research-in-sleep",
+    "repo": "ConardLi/rag-skill",
     "branch": "main",
-    "language": "TeX",
-    "description": "ARIS ⚔️ (Auto-Research-In-Sleep) — Claude Code skills for autonomous ML research: cross-model review loops, idea discovery, and experiment automation via Codex MCP"
+    "language": "Python",
+    "description": "A Skill dedicated to local knowledge base retrieval"
   },
   {
-    "repo": "xiaguan/pegainfer",
+    "repo": "poteto/hiring-without-whiteboards",
+    "branch": "master",
+    "language": "JavaScript",
+    "description": "⭐️  Companies that don't have a broken hiring process"
+  },
+  {
+    "repo": "doocs/advanced-java",
     "branch": "main",
-    "language": "Rust",
-    "description": "Pure Rust + CUDA LLM inference engine"
+    "language": "Java",
+    "description": "😮 Core Interview Questions & Answers For Experienced Java(Backend) Developers | 互联网 Java 工程师进阶知识完全扫盲：涵盖高并发、分布式、高可用、微服务、海量数据处理等领域知识"
   },
   {
-    "repo": "khalildh/garment-notation",
+    "repo": "Dokhacgiakhoa/google-antigravity",
+    "branch": "main",
+    "language": "Python",
+    "description": ""
+  },
+  {
+    "repo": "daltoniam/Starscream",
+    "branch": "master",
+    "language": "Swift",
+    "description": "Websockets in swift for iOS and OSX"
+  },
+  {
+    "repo": "joeseesun/anything-to-notebooklm",
+    "branch": "main",
+    "language": "Python",
+    "description": "Claude Skill: Multi-source content processor for NotebookLM. Supports WeChat articles, web pages, YouTube, PDF, Markdown, search queries → Podcast/PPT/MindMap/Quiz etc."
+  },
+  {
+    "repo": "pytorch/pytorch",
+    "branch": "main",
+    "language": "Python",
+    "description": "Tensors and Dynamic neural networks in Python with strong GPU acceleration"
+  },
+  {
+    "repo": "pandas-dev/pandas",
+    "branch": "main",
+    "language": "Python",
+    "description": "Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures similar to R data.frame objects, statistical functions, and much more"
+  },
+  {
+    "repo": "flybirdxx/ComfyUI-Qwen-TTS",
+    "branch": "main",
+    "language": "Python",
+    "description": "A Simple Implementation of Qwen3-TTS's ComfyUI"
+  },
+  {
+    "repo": "jquery/jquery",
     "branch": "main",
     "language": "JavaScript",
-    "description": ""
+    "description": "jQuery JavaScript Library"
   },
   {
-    "repo": "NeoVertex1/nuggets",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "First AI assistant with holographic memory"
-  },
-  {
-    "repo": "WeaveMindAI/weft",
+    "repo": "Nuzair46/Monarch",
     "branch": "main",
     "language": "Rust",
-    "description": "A programming language for AI systems"
+    "description": "Detach, restore, and switch monitor layouts without touching cables."
   },
   {
-    "repo": "Ta0ing/claude-code_evil",
+    "repo": "EleutherAI/gpt-neox",
+    "branch": "main",
+    "language": "Python",
+    "description": "An implementation of model parallel autoregressive transformers on GPUs, based on the Megatron and DeepSpeed libraries"
+  },
+  {
+    "repo": "webadderall/Recordly",
     "branch": "main",
     "language": "TypeScript",
-    "description": "cc完整版，含手册，编译等"
+    "description": "A free, open-source Screen Studio alternative that adds auto-zoom, cursor animations and more to your screen recordings. Substantially modifies the OpenScreen foundation."
   },
   {
-    "repo": "mliu98/awesome-human-distillation",
+    "repo": "FiloSottile/age",
     "branch": "main",
-    "language": "Python",
-    "description": "A curated catalog of human distillliation agent skills"
+    "language": "Go",
+    "description": "A simple, modern and secure encryption tool (and Go library) with small explicit keys, no config options, and UNIX-style composability."
   },
   {
-    "repo": "gpasquero/voog",
-    "branch": "main",
-    "language": "Python",
-    "description": "VOOG — Virtual Analog Synthesizer (Moog-style polyphonic synth with GUI)"
-  },
-  {
-    "repo": "romerzzz/Tomodachi-Life-Living-in-the-Dream-PC-Version",
-    "branch": "main",
-    "language": "C++",
-    "description": "Tomodachi Life Living in the Dream PC is the  Windows version of the popular life simulation game. Create your own Mii characters, build your dream island, interact with quirky residents, fall in love, solve problems, and enjoy endless daily events"
-  },
-  {
-    "repo": "pacifio/cersei",
-    "branch": "main",
-    "language": "Rust",
-    "description": "The Rust SDK for building coding agents. Tool execution, LLM streaming, graph memory, sub-agent orchestration, MCP — as composable library functions."
-  },
-  {
-    "repo": "uqogihujomuwhiff/sora2-watermark-cleaner-pro",
-    "branch": "main",
-    "language": "Python",
-    "description": "sora2 watermark cleaner pro"
-  },
-  {
-    "repo": "Pickle-Pixel/ApplyPilot",
-    "branch": "main",
-    "language": "Python",
-    "description": "AI agent that applies to jobs for you. Any site. Any form."
-  },
-  {
-    "repo": "fabro-sh/fabro",
-    "branch": "main",
-    "language": "Rust",
-    "description": "⚒️ The open source dark software factory for expert engineers."
-  },
-  {
-    "repo": "SAGAR-TAMANG/friday-tony-stark-demo",
-    "branch": "main",
-    "language": "Python",
-    "description": "Demo of tools of capabilities of Tony Stark."
-  },
-  {
-    "repo": "RaidOwl/homelab-hub",
-    "branch": "main",
-    "language": "Svelte",
-    "description": ""
-  },
-  {
-    "repo": "VoltAgent/awesome-design-md",
-    "branch": "main",
-    "language": "HTML",
-    "description": "Collection of DESIGN.md files that capture design systems from popular websites. Drop one into your project and let coding agents build matching UI."
-  },
-  {
-    "repo": "Wechat-ggGitHub/wechat-claude-code",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Chat with Claude Code from WeChat - a Claude Code Skill"
-  },
-  {
-    "repo": "chrisryugj/kordoc",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "모두 파싱해버리겠다 — HWP/HWPX/PDF → Markdown | npm · CLI · MCP Server"
-  },
-  {
-    "repo": "revfactory/harness",
-    "branch": "main",
-    "language": "HTML",
-    "description": "A meta-skill that designs domain-specific agent teams, defines specialized agents, and generates the skills they use."
-  },
-  {
-    "repo": "liandu2024/AnGe-ClashBoard",
-    "branch": "main",
-    "language": "Vue",
-    "description": "AnGe-ClashBoard - zashboard 完整体"
-  },
-  {
-    "repo": "nickustinov/itsytv-macos",
+    "repo": "momenbasel/PureMac",
     "branch": "main",
     "language": "Swift",
-    "description": "The missing Apple TV remote app for macOS"
+    "description": "Free, open-source macOS cleaner. CleanMyMac alternative with zero telemetry. Native SwiftUI, scheduled auto-cleaning, Xcode/Homebrew/system cache cleanup. MIT licensed."
   },
   {
-    "repo": "liorwn/claudetop",
-    "branch": "main",
-    "language": "Shell",
-    "description": "htop for your Claude Code sessions — real-time cost, cache efficiency, model comparison, and smart alerts"
-  },
-  {
-    "repo": "hao-ji-xing/openclaw-weixin",
+    "repo": "SumeLabs/clawra",
     "branch": "main",
     "language": "TypeScript",
-    "description": "openclaw-weixin"
+    "description": "Clawra - Openclaw as your girlfriend"
+  },
+  {
+    "repo": "GokuMohandas/Made-With-ML",
+    "branch": "main",
+    "language": "Jupyter Notebook",
+    "description": "Learn how to design, develop, deploy and iterate on production-grade ML applications."
+  },
+  {
+    "repo": "erenjugs/OpenGork",
+    "branch": "main",
+    "language": "Shell",
+    "description": "🧠 Uncensored AI agent powered by xAI's Grok - no filters, no limits"
+  },
+  {
+    "repo": "PyGithub/PyGithub",
+    "branch": "master",
+    "language": "Python",
+    "description": "Typed interactions with the GitHub API v3"
+  },
+  {
+    "repo": "capybara-zy/xiaoye-ai",
+    "branch": "main",
+    "language": "Vue",
+    "description": ""
+  },
+  {
+    "repo": "ReactiveX/RxJava",
+    "branch": "3.x",
+    "language": "Java",
+    "description": "RxJava – Reactive Extensions for the JVM – a library for composing asynchronous and event-based programs using observable sequences for the Java VM."
+  },
+  {
+    "repo": "mrphrazer/binary-ninja-headless-mcp",
+    "branch": "main",
+    "language": "Python",
+    "description": "Headless Binary Ninja MCP server — giving AI agents deep reverse-engineering capabilities via 180 tools."
   }
 ]
