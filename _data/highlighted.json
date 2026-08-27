@@ -1,8 +1,8 @@
 {
-  "repo": "framepipe-dev/media-inference-worker",
+  "repo": "zunmax/technocore-did-starter",
   "branch": "main",
   "language": "Python",
-  "description": "Small client for media model inference",
+  "description": "Simple tutorial for creating an encrypted Ed25519 DID, publishing signed Technocore messages, and documenting useful contributions for potential $FLOP airdrop",
   "stars": 109,
-  "forks": 33
+  "forks": 99
 }

@@ -1,146 +1,146 @@
 [
   {
-    "repo": "Alamofire/Alamofire",
-    "branch": "master",
-    "language": "Swift",
-    "description": "Elegant HTTP Networking in Swift"
-  },
-  {
-    "repo": "0xhype/hyperliquid-tracker",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Get notified when big trades happen on Hyperliquid."
-  },
-  {
-    "repo": "ConardLi/rag-skill",
+    "repo": "bron1e/fnos-rce-chain",
     "branch": "main",
     "language": "Python",
-    "description": "A Skill dedicated to local knowledge base retrieval"
+    "description": "飞牛系统（fnOS）远程代码执行链：认证绕过"
   },
   {
-    "repo": "poteto/hiring-without-whiteboards",
+    "repo": "golang/protobuf",
     "branch": "master",
-    "language": "JavaScript",
-    "description": "⭐️  Companies that don't have a broken hiring process"
+    "language": "Go",
+    "description": "Go support for Google's protocol buffers"
   },
   {
-    "repo": "doocs/advanced-java",
+    "repo": "paramiko/paramiko",
     "branch": "main",
-    "language": "Java",
-    "description": "😮 Core Interview Questions & Answers For Experienced Java(Backend) Developers | 互联网 Java 工程师进阶知识完全扫盲：涵盖高并发、分布式、高可用、微服务、海量数据处理等领域知识"
+    "language": "Python",
+    "description": "The leading native Python SSHv2 protocol library."
   },
   {
-    "repo": "Dokhacgiakhoa/google-antigravity",
+    "repo": "Fahim-SS/lsfg-git",
+    "branch": "main",
+    "language": "C++",
+    "description": "lossless scaling lsfg 3 frame generation scaling tool steam github pc gaming amd fsr nvidia nis dlss alternative windowed mode frame multiplier latency reduction utility lsfg v3.22 display scaling screen resolution frame rate optimizer desktop utility performance enhancer gameplay smooth gaming scaling legacy games x2 x3 frame generation"
+  },
+  {
+    "repo": "andyhuo520/MacCheck",
+    "branch": "main",
+    "language": "Swift",
+    "description": "MacCheck 验机宝：本地 Mac 硬件检测、交互验机与 PDF/PNG 报告导出工具"
+  },
+  {
+    "repo": "khrisat/text-humanizer",
+    "branch": "main",
+    "language": "Python",
+    "description": "Advanced open-source AI humanizer designed to make AI-generated text undetectable by Turnitin, GPTZero, and other AI detection services."
+  },
+  {
+    "repo": "watchtowrlabs/watchTowr-vs-cPanel-WHM-AuthBypass-to-RCE.py",
     "branch": "main",
     "language": "Python",
     "description": ""
   },
   {
-    "repo": "daltoniam/Starscream",
-    "branch": "master",
-    "language": "Swift",
-    "description": "Websockets in swift for iOS and OSX"
-  },
-  {
-    "repo": "joeseesun/anything-to-notebooklm",
+    "repo": "dimasarestuprasmanto/Pet-Simulator-99-Auto-Farm-Trainer-2026-Tera",
     "branch": "main",
     "language": "Python",
-    "description": "Claude Skill: Multi-source content processor for NotebookLM. Supports WeChat articles, web pages, YouTube, PDF, Markdown, search queries → Podcast/PPT/MindMap/Quiz etc."
+    "description": "Tera edition of the most advanced Pet Simulator 99 automation tool. Farm coins, hatch eggs, complete Backrooms League tasks automatically. Fully undetected and user-friendly."
   },
   {
-    "repo": "pytorch/pytorch",
-    "branch": "main",
-    "language": "Python",
-    "description": "Tensors and Dynamic neural networks in Python with strong GPU acceleration"
-  },
-  {
-    "repo": "pandas-dev/pandas",
-    "branch": "main",
-    "language": "Python",
-    "description": "Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures similar to R data.frame objects, statistical functions, and much more"
-  },
-  {
-    "repo": "flybirdxx/ComfyUI-Qwen-TTS",
-    "branch": "main",
-    "language": "Python",
-    "description": "A Simple Implementation of Qwen3-TTS's ComfyUI"
-  },
-  {
-    "repo": "jquery/jquery",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "jQuery JavaScript Library"
-  },
-  {
-    "repo": "Nuzair46/Monarch",
-    "branch": "main",
-    "language": "Rust",
-    "description": "Detach, restore, and switch monitor layouts without touching cables."
-  },
-  {
-    "repo": "EleutherAI/gpt-neox",
-    "branch": "main",
-    "language": "Python",
-    "description": "An implementation of model parallel autoregressive transformers on GPUs, based on the Megatron and DeepSpeed libraries"
-  },
-  {
-    "repo": "webadderall/Recordly",
+    "repo": "PlaceNL2026/best-of-algorithmic-trading",
     "branch": "main",
     "language": "TypeScript",
-    "description": "A free, open-source Screen Studio alternative that adds auto-zoom, cursor animations and more to your screen recordings. Substantially modifies the OpenScreen foundation."
+    "description": "algorithmic trading curated list quant finance trading bots backtesting technical analysis crypto open-source freqtrade hummingbot fintech Python TypeScript resources MCP quantopian-style rankings"
   },
   {
-    "repo": "FiloSottile/age",
+    "repo": "GALIAIS/k_i_r_o-register",
+    "branch": "main",
+    "language": "Python",
+    "description": ""
+  },
+  {
+    "repo": "igoruehara/spec-driven",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": ""
+  },
+  {
+    "repo": "Unicornronote/Microsoft-Office-Activated",
+    "branch": "main",
+    "language": "C++",
+    "description": "📊 Microsoft Office Professional Edition — Complete Productivity & Document Management Suite for Windows (2026)"
+  },
+  {
+    "repo": "beykantemel0702azfy8144/WorpGPT-Latest-2026-AllPrompts",
+    "branch": "main",
+    "language": "C#",
+    "description": "A comprehensive Red Teaming framework for testing Large Language Model (LLM) robustness against adversarial prompt engineering and jailbreak vectors."
+  },
+  {
+    "repo": "LuisAlexisSalazar/Zelda-Minish-Cap-PC",
+    "branch": "main",
+    "language": "C++",
+    "description": "Zelda Minish Cap PC download Link Ezlo Picori Vaati Hyrule Kinstones Four Sword shrinking GBA native widescreen controller save editor rom."
+  },
+  {
+    "repo": "OnlyTerp/UltraCode-Shim",
+    "branch": "main",
+    "language": "Python",
+    "description": "Give Claude Code's ultracode mode to ANY model you already pay for. A tiny local proxy + one config.json. Point your AI at AGENTS.md and it sets itself up."
+  },
+  {
+    "repo": "openfi-dao/kalshi-trading-bot",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "kalshi trading bot kalshi trading bot kalshi trading bot kalshi trading bot kalshi trading bot kalshi trading bot kalshi trading bot kalshi trading bot kalshi trading bot kalshi trading bot kalshi trading bot kalshi trading bot kalshi trading bot kalshi trading bot kalshi trading bot kalshi trading bot kalshi trading bot"
+  },
+  {
+    "repo": "sanzoI-tech/polymarket-kalshi-arbitrage-bot",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "polymarket trading bot, polymarket bot, polymarket kalshi trading bot, polymarket trading bot, polymarket bot, polymarket kalshi trading bot, polymarket trading bot, polymarket bot, polymarket kalshi trading bot, polymarket trading bot, polymarket bot, polymarket kalshi trading bot, kalshi, prediction-markets, arbitrage, typescript, clob"
+  },
+  {
+    "repo": "Longbridges/polymarket-kalshi-arbitrage-bot",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "polymarket trading bot, polymarket bot, polymarket kalshi trading bot, polymarket trading bot, polymarket bot, polymarket kalshi trading bot, polymarket trading bot, polymarket bot, polymarket kalshi trading bot, polymarket trading bot, polymarket bot, polymarket kalshi trading bot, polymarket trading bot, polymarket bot"
+  },
+  {
+    "repo": "iampedii/WhiteDNS",
+    "branch": "main",
+    "language": "Kotlin",
+    "description": "Source-available Android DNS tunneling client with VPN and proxy modes, backed by MasterDNS & StormDNS."
+  },
+  {
+    "repo": "RadianceToadAmend/ARC-Raiders-External-Tool",
+    "branch": "main",
+    "language": "C++",
+    "description": "External overlay tool for ARC Raiders. UE5 memory reader, entity , radar, performance monitor. D3D11 render, no injection. For offline training purposes only."
+  },
+  {
+    "repo": "NV404/gova",
     "branch": "main",
     "language": "Go",
-    "description": "A simple, modern and secure encryption tool (and Go library) with small explicit keys, no config options, and UNIX-style composability."
+    "description": "declarative GUI framework for Go"
   },
   {
-    "repo": "momenbasel/PureMac",
+    "repo": "AKCodez/hackingtool-plugin",
     "branch": "main",
-    "language": "Swift",
-    "description": "Free, open-source macOS cleaner. CleanMyMac alternative with zero telemetry. Native SwiftUI, scheduled auto-cleaning, Xcode/Homebrew/system cache cleanup. MIT licensed."
+    "language": "Python",
+    "description": "Claude Code plugin: 183+ pentesting & OSINT tools from Z4nzu/hackingtool. Auto-runs what it can, hands off the rest."
   },
   {
-    "repo": "SumeLabs/clawra",
+    "repo": "md0070/polymarket-trading-bot",
     "branch": "main",
     "language": "TypeScript",
-    "description": "Clawra - Openclaw as your girlfriend"
+    "description": "polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot"
   },
   {
-    "repo": "GokuMohandas/Made-With-ML",
-    "branch": "main",
-    "language": "Jupyter Notebook",
-    "description": "Learn how to design, develop, deploy and iterate on production-grade ML applications."
-  },
-  {
-    "repo": "erenjugs/OpenGork",
-    "branch": "main",
-    "language": "Shell",
-    "description": "🧠 Uncensored AI agent powered by xAI's Grok - no filters, no limits"
-  },
-  {
-    "repo": "PyGithub/PyGithub",
-    "branch": "master",
-    "language": "Python",
-    "description": "Typed interactions with the GitHub API v3"
-  },
-  {
-    "repo": "capybara-zy/xiaoye-ai",
-    "branch": "main",
-    "language": "Vue",
-    "description": ""
-  },
-  {
-    "repo": "ReactiveX/RxJava",
-    "branch": "3.x",
-    "language": "Java",
-    "description": "RxJava – Reactive Extensions for the JVM – a library for composing asynchronous and event-based programs using observable sequences for the Java VM."
-  },
-  {
-    "repo": "mrphrazer/binary-ninja-headless-mcp",
+    "repo": "epoko77-ai/im-not-ai",
     "branch": "main",
     "language": "Python",
-    "description": "Headless Binary Ninja MCP server — giving AI agents deep reverse-engineering capabilities via 180 tools."
+    "description": "AI가 쓴 글이 아닌 것처럼 윤문해주는 스킬"
   }
 ]
