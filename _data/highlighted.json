@@ -1,8 +1,8 @@
 {
-  "repo": "hypnguyen1209/CVE-2026-62911",
+  "repo": "petergyang/fuck-cancer",
   "branch": "main",
   "language": "Python",
-  "description": "POC pre-auth RCE on Exchange",
-  "stars": 125,
-  "forks": 20
+  "description": "Create and update a practical brief to help patients and caregivers advocate for themselves.",
+  "stars": 120,
+  "forks": 10
 }

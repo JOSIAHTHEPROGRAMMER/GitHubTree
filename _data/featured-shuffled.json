@@ -1,146 +1,146 @@
 [
   {
-    "repo": "hyperium/hyper",
+    "repo": "winsznx/theeleven",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Eleven autonomous AI agents open live football prop markets on X Layer — custom Uniswap v4 hook, gasless USDT0 staking."
+  },
+  {
+    "repo": "pytest-dev/pytest",
+    "branch": "main",
+    "language": "Python",
+    "description": "The pytest framework makes it easy to write small tests, yet scales to support complex functional testing"
+  },
+  {
+    "repo": "Semantic-Org/Semantic-UI",
     "branch": "master",
-    "language": "Rust",
-    "description": "An HTTP library for Rust"
+    "language": "JavaScript",
+    "description": "Semantic is a UI component framework based around useful principles from natural language."
   },
   {
-    "repo": "lidge-jun/opencodex",
+    "repo": "K-Dense-AI/k-dense-byok",
     "branch": "main",
     "language": "TypeScript",
-    "description": "Universal provider proxy for OpenAI Codex — use any LLM with Codex CLI, App, and SDK"
+    "description": "An AI co-scientist powered by Claude Scientific Skills running on your desktop."
   },
   {
-    "repo": "yin-yizhen/sonic-topography",
+    "repo": "sindresorhus/awesome-nodejs",
+    "branch": "main",
+    "language": "Other",
+    "description": ":zap: Delightful Node.js packages and resources"
+  },
+  {
+    "repo": "Supervisor/supervisor",
     "branch": "master",
-    "language": "TypeScript",
-    "description": "随音乐产生交互的棋盘式海浪，支持网易云搜索"
+    "language": "Python",
+    "description": "Supervisor process control system for Unix (supervisord)"
   },
   {
-    "repo": "letstri/druk",
+    "repo": "RhysSullivan/fastergh",
     "branch": "main",
     "language": "TypeScript",
     "description": ""
   },
   {
-    "repo": "goehou/tabbit-toy",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "这是一个基于tabbit的研究包，可以转化成OAI格式出来，同时增加了会员认证功能和一键提取cookie的浏览器拓展，方便快速本地快速使用claude gpt等模型"
-  },
-  {
-    "repo": "ladybug-me/caelestia-dots-kde",
-    "branch": "main",
-    "language": "QML",
-    "description": "caelestia-dots ported to KDE plasma 6"
-  },
-  {
-    "repo": "Kaimen-Inc/Co-Scientist",
-    "branch": "main",
-    "language": "Python",
-    "description": "Open Source Reimplementation of Google Deepmind's Co-Scientist"
-  },
-  {
-    "repo": "HKUDS/AgentSpace",
+    "repo": "NativeScript/NativeScript",
     "branch": "main",
     "language": "TypeScript",
-    "description": "AgentSpace: Human + Agents. One Team. One Workspace"
+    "description": "⚡ Write Native with TypeScript ✨ Best of all worlds (TypeScript, Swift, Objective C, Kotlin, Java, Dart). Use what you love ❤️ Angular, React, Solid, Svelte, Vue with: iOS (UIKit, SwiftUI), Android (View, Jetpack Compose), Flutter and you name it compatible."
   },
   {
-    "repo": "PlummersSoftwareLLC/TinyRetroPad",
-    "branch": "main",
-    "language": "Assembly",
-    "description": ""
-  },
-  {
-    "repo": "thebriangao/pebble",
-    "branch": "main",
-    "language": "Swift",
-    "description": "The open-source alternative to Minecraft: Java Edition, a complete block-survival game in ~45,000 lines of Swift + Metal. Zero dependencies, fully deterministic, singleplayer for now. Not affiliated with Mojang or Microsoft. We lowkey need y'all to submit bug reports cuz there are so many 😭"
-  },
-  {
-    "repo": "deckerpaislee89916/AI-Voice-Mod-Pro-Studio-2",
-    "branch": "main",
-    "language": "C++",
-    "description": "An open-source, local AI-powered voice changer and audio enhancement utility."
-  },
-  {
-    "repo": "AI272/speaker",
-    "branch": "main",
-    "language": "Python",
-    "description": "Speaker is a Codex skill project for academic presentations: read real.pptx, combine text extraction, PPTX structure parsing, page-by-page rendering, OCR, and visual review to generate page-by-page speaker notes, and write a clean version of the lecture into the PowerPoint comment area."
-  },
-  {
-    "repo": "ShiroEirin/comfyui-good-anima",
-    "branch": "main",
-    "language": "Python",
-    "description": ""
-  },
-  {
-    "repo": "Danu-Nur/Resident-Evil-Requiem-Ultimate-Trainer-2026_v_2",
-    "branch": "main",
-    "language": "Python",
-    "description": "Ultimate trainer for Resident Evil Requiem (RE9) – 42+ features including God Mode, Infinite Ammo, CP Editor, FOV fix, and more."
-  },
-  {
-    "repo": "kepengxu/PRISM-VL",
-    "branch": "main",
-    "language": "Python",
-    "description": "PRISM-VL studies measurement-grounded VLM learning with RAW-derived Meas.-XYZ inputs, camera-conditioned grounding, and exposure-bracketed supervision transfer."
-  },
-  {
-    "repo": "cloudflare/security-audit-skill",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings"
-  },
-  {
-    "repo": "fxyz666/LogicPipe",
-    "branch": "main",
-    "language": "Python",
-    "description": "LogicPipe 是一个面向边缘多设备协同 LLM 推理的开源软件项目，提供离线管线规划、分布式 stage 权重加载、依赖感知任务调度和上下文 KV cache 复用能力。"
-  },
-  {
-    "repo": "AleaStrategies/aleastrategies",
-    "branch": "main",
-    "language": "Rust",
-    "description": "Don't pick which AI company wins. Find what they all need. Bottleneck thinking, automated."
-  },
-  {
-    "repo": "tor-browsers/tor-browser",
-    "branch": "main",
-    "language": "C#",
-    "description": "tor browser download official onion dark web privacy security anonymous vpn unblock windows 11 android apk latest version 2026 free setup guide fix"
-  },
-  {
-    "repo": "c0deJedi/nbd-vram",
+    "repo": "tnm/zclaw",
     "branch": "main",
     "language": "C",
-    "description": "Use your NVIDIA GPU's VRAM as swap space on Linux. Built for laptops with soldered memory and no upgrade path. If you have an RTX card sitting there with 8GB of VRAM and you're getting swapped to SSD, this puts that VRAM to work"
+    "description": "Your personal AI assistant in under 888 KB, running on an ESP32"
   },
   {
-    "repo": "stormneonnightraven4640692/DeepFake-AI-RealTime",
-    "branch": "main",
-    "language": "C#",
-    "description": "An advanced, LLM-powered toolkit providing comprehensive capabilities for ethical synthetic media detection, analysis, and responsible content generation."
-  },
-  {
-    "repo": "rasoir0591/Crosshair-X",
+    "repo": "vueuse/vueuse",
     "branch": "main",
     "language": "TypeScript",
-    "description": "crosshair x steam download custom crosshair free overlay extension torrent valorant cs2 apex pro settings windows"
+    "description": "Collection of essential Vue Composition Utilities for Vue 3"
   },
   {
-    "repo": "onfable/onfable",
+    "repo": "olvvier/apple-silicon-accelerometer",
+    "branch": "main",
+    "language": "Python",
+    "description": "reading the undocumented mems accelerometer on apple silicon macbooks via iokit hid"
+  },
+  {
+    "repo": "golang-migrate/migrate",
+    "branch": "master",
+    "language": "Go",
+    "description": "Database migrations. CLI and Golang library."
+  },
+  {
+    "repo": "rustdesk/rustdesk",
+    "branch": "master",
+    "language": "Rust",
+    "description": "An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer."
+  },
+  {
+    "repo": "huggingface/peft",
+    "branch": "main",
+    "language": "Python",
+    "description": "🤗 PEFT: State-of-the-art Parameter-Efficient Fine-Tuning."
+  },
+  {
+    "repo": "pulumi/pulumi",
+    "branch": "master",
+    "language": "Go",
+    "description": "Pulumi - Infrastructure as Code in any programming language 🚀"
+  },
+  {
+    "repo": "vasilytrofimchuk/domainsearcher-app",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "Score and choose the best domain name for your startup — AI-powered generation, real-time availability, and multi-dimensional scoring (LEN, PRO, MEM, BRD, FIT). Free, no signup."
+  },
+  {
+    "repo": "vitejs/vite",
     "branch": "main",
     "language": "TypeScript",
-    "description": ""
+    "description": "Next generation frontend tooling. It's fast!"
   },
   {
-    "repo": "catsing/oot-pc-port",
+    "repo": "moltlaunch/cashclaw",
     "branch": "main",
-    "language": "C#",
-    "description": "ocarina of time pc port ship of harkinian oot native pc port harbour masters github decompilation project rom extraction asset compiler widescreen support 60fps unlocked framerate hd texture pack custom models randomizer built in retro gaming nintendo 64 pc gaming desktop utility linux macos steam deck compatible graphics enhancement"
+    "language": "TypeScript",
+    "description": "An autonomous agent that takes work, does work, gets paid, and gets better at it."
+  },
+  {
+    "repo": "seaweedfs/seaweedfs",
+    "branch": "master",
+    "language": "Go",
+    "description": "SeaweedFS is a fast distributed storage system for blobs, objects, files, and data lake, for billions of files! Blob store has O(1) disk seek, cloud tiering. Filer supports Cloud Drive, xDC replication, Kubernetes, POSIX FUSE mount, S3 API, S3 Gateway, Hadoop, WebDAV, encryption, Erasure Coding. Enterprise version is at seaweedfs.com."
+  },
+  {
+    "repo": "microsoft/fast",
+    "branch": "master",
+    "language": "TypeScript",
+    "description": "The adaptive interface system for modern web experiences."
+  },
+  {
+    "repo": "rohitg00/ai-engineering-from-scratch",
+    "branch": "main",
+    "language": "Python",
+    "description": "Learn it. Build it. Ship it for others."
+  },
+  {
+    "repo": "zoontek/react-native-permissions",
+    "branch": "master",
+    "language": "Objective-C++",
+    "description": "An unified permissions API for React Native on iOS, Android and Windows."
+  },
+  {
+    "repo": "bjarneo/cliamp",
+    "branch": "main",
+    "language": "Go",
+    "description": "Terminal Winamp"
+  },
+  {
+    "repo": "tilt-dev/tilt",
+    "branch": "master",
+    "language": "Go",
+    "description": "Define your dev environment as code. For microservice apps on Kubernetes."
   }
 ]
