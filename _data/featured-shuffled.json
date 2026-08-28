@@ -1,146 +1,146 @@
 [
   {
-    "repo": "bron1e/fnos-rce-chain",
-    "branch": "main",
-    "language": "Python",
-    "description": "飞牛系统（fnOS）远程代码执行链：认证绕过"
-  },
-  {
-    "repo": "golang/protobuf",
+    "repo": "hyperium/hyper",
     "branch": "master",
-    "language": "Go",
-    "description": "Go support for Google's protocol buffers"
+    "language": "Rust",
+    "description": "An HTTP library for Rust"
   },
   {
-    "repo": "paramiko/paramiko",
-    "branch": "main",
-    "language": "Python",
-    "description": "The leading native Python SSHv2 protocol library."
-  },
-  {
-    "repo": "Fahim-SS/lsfg-git",
-    "branch": "main",
-    "language": "C++",
-    "description": "lossless scaling lsfg 3 frame generation scaling tool steam github pc gaming amd fsr nvidia nis dlss alternative windowed mode frame multiplier latency reduction utility lsfg v3.22 display scaling screen resolution frame rate optimizer desktop utility performance enhancer gameplay smooth gaming scaling legacy games x2 x3 frame generation"
-  },
-  {
-    "repo": "andyhuo520/MacCheck",
-    "branch": "main",
-    "language": "Swift",
-    "description": "MacCheck 验机宝：本地 Mac 硬件检测、交互验机与 PDF/PNG 报告导出工具"
-  },
-  {
-    "repo": "khrisat/text-humanizer",
-    "branch": "main",
-    "language": "Python",
-    "description": "Advanced open-source AI humanizer designed to make AI-generated text undetectable by Turnitin, GPTZero, and other AI detection services."
-  },
-  {
-    "repo": "watchtowrlabs/watchTowr-vs-cPanel-WHM-AuthBypass-to-RCE.py",
-    "branch": "main",
-    "language": "Python",
-    "description": ""
-  },
-  {
-    "repo": "dimasarestuprasmanto/Pet-Simulator-99-Auto-Farm-Trainer-2026-Tera",
-    "branch": "main",
-    "language": "Python",
-    "description": "Tera edition of the most advanced Pet Simulator 99 automation tool. Farm coins, hatch eggs, complete Backrooms League tasks automatically. Fully undetected and user-friendly."
-  },
-  {
-    "repo": "PlaceNL2026/best-of-algorithmic-trading",
+    "repo": "lidge-jun/opencodex",
     "branch": "main",
     "language": "TypeScript",
-    "description": "algorithmic trading curated list quant finance trading bots backtesting technical analysis crypto open-source freqtrade hummingbot fintech Python TypeScript resources MCP quantopian-style rankings"
+    "description": "Universal provider proxy for OpenAI Codex — use any LLM with Codex CLI, App, and SDK"
   },
   {
-    "repo": "GALIAIS/k_i_r_o-register",
+    "repo": "yin-yizhen/sonic-topography",
+    "branch": "master",
+    "language": "TypeScript",
+    "description": "随音乐产生交互的棋盘式海浪，支持网易云搜索"
+  },
+  {
+    "repo": "letstri/druk",
     "branch": "main",
-    "language": "Python",
+    "language": "TypeScript",
     "description": ""
   },
   {
-    "repo": "igoruehara/spec-driven",
+    "repo": "goehou/tabbit-toy",
     "branch": "main",
     "language": "JavaScript",
+    "description": "这是一个基于tabbit的研究包，可以转化成OAI格式出来，同时增加了会员认证功能和一键提取cookie的浏览器拓展，方便快速本地快速使用claude gpt等模型"
+  },
+  {
+    "repo": "ladybug-me/caelestia-dots-kde",
+    "branch": "main",
+    "language": "QML",
+    "description": "caelestia-dots ported to KDE plasma 6"
+  },
+  {
+    "repo": "Kaimen-Inc/Co-Scientist",
+    "branch": "main",
+    "language": "Python",
+    "description": "Open Source Reimplementation of Google Deepmind's Co-Scientist"
+  },
+  {
+    "repo": "HKUDS/AgentSpace",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "AgentSpace: Human + Agents. One Team. One Workspace"
+  },
+  {
+    "repo": "PlummersSoftwareLLC/TinyRetroPad",
+    "branch": "main",
+    "language": "Assembly",
     "description": ""
   },
   {
-    "repo": "Unicornronote/Microsoft-Office-Activated",
+    "repo": "thebriangao/pebble",
     "branch": "main",
-    "language": "C++",
-    "description": "📊 Microsoft Office Professional Edition — Complete Productivity & Document Management Suite for Windows (2026)"
+    "language": "Swift",
+    "description": "The open-source alternative to Minecraft: Java Edition, a complete block-survival game in ~45,000 lines of Swift + Metal. Zero dependencies, fully deterministic, singleplayer for now. Not affiliated with Mojang or Microsoft. We lowkey need y'all to submit bug reports cuz there are so many 😭"
   },
   {
-    "repo": "beykantemel0702azfy8144/WorpGPT-Latest-2026-AllPrompts",
+    "repo": "deckerpaislee89916/AI-Voice-Mod-Pro-Studio-2",
+    "branch": "main",
+    "language": "C++",
+    "description": "An open-source, local AI-powered voice changer and audio enhancement utility."
+  },
+  {
+    "repo": "AI272/speaker",
+    "branch": "main",
+    "language": "Python",
+    "description": "Speaker is a Codex skill project for academic presentations: read real.pptx, combine text extraction, PPTX structure parsing, page-by-page rendering, OCR, and visual review to generate page-by-page speaker notes, and write a clean version of the lecture into the PowerPoint comment area."
+  },
+  {
+    "repo": "ShiroEirin/comfyui-good-anima",
+    "branch": "main",
+    "language": "Python",
+    "description": ""
+  },
+  {
+    "repo": "Danu-Nur/Resident-Evil-Requiem-Ultimate-Trainer-2026_v_2",
+    "branch": "main",
+    "language": "Python",
+    "description": "Ultimate trainer for Resident Evil Requiem (RE9) – 42+ features including God Mode, Infinite Ammo, CP Editor, FOV fix, and more."
+  },
+  {
+    "repo": "kepengxu/PRISM-VL",
+    "branch": "main",
+    "language": "Python",
+    "description": "PRISM-VL studies measurement-grounded VLM learning with RAW-derived Meas.-XYZ inputs, camera-conditioned grounding, and exposure-bracketed supervision transfer."
+  },
+  {
+    "repo": "cloudflare/security-audit-skill",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings"
+  },
+  {
+    "repo": "fxyz666/LogicPipe",
+    "branch": "main",
+    "language": "Python",
+    "description": "LogicPipe 是一个面向边缘多设备协同 LLM 推理的开源软件项目，提供离线管线规划、分布式 stage 权重加载、依赖感知任务调度和上下文 KV cache 复用能力。"
+  },
+  {
+    "repo": "AleaStrategies/aleastrategies",
+    "branch": "main",
+    "language": "Rust",
+    "description": "Don't pick which AI company wins. Find what they all need. Bottleneck thinking, automated."
+  },
+  {
+    "repo": "tor-browsers/tor-browser",
     "branch": "main",
     "language": "C#",
-    "description": "A comprehensive Red Teaming framework for testing Large Language Model (LLM) robustness against adversarial prompt engineering and jailbreak vectors."
+    "description": "tor browser download official onion dark web privacy security anonymous vpn unblock windows 11 android apk latest version 2026 free setup guide fix"
   },
   {
-    "repo": "LuisAlexisSalazar/Zelda-Minish-Cap-PC",
+    "repo": "c0deJedi/nbd-vram",
     "branch": "main",
-    "language": "C++",
-    "description": "Zelda Minish Cap PC download Link Ezlo Picori Vaati Hyrule Kinstones Four Sword shrinking GBA native widescreen controller save editor rom."
+    "language": "C",
+    "description": "Use your NVIDIA GPU's VRAM as swap space on Linux. Built for laptops with soldered memory and no upgrade path. If you have an RTX card sitting there with 8GB of VRAM and you're getting swapped to SSD, this puts that VRAM to work"
   },
   {
-    "repo": "OnlyTerp/UltraCode-Shim",
+    "repo": "stormneonnightraven4640692/DeepFake-AI-RealTime",
     "branch": "main",
-    "language": "Python",
-    "description": "Give Claude Code's ultracode mode to ANY model you already pay for. A tiny local proxy + one config.json. Point your AI at AGENTS.md and it sets itself up."
+    "language": "C#",
+    "description": "An advanced, LLM-powered toolkit providing comprehensive capabilities for ethical synthetic media detection, analysis, and responsible content generation."
   },
   {
-    "repo": "openfi-dao/kalshi-trading-bot",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "kalshi trading bot kalshi trading bot kalshi trading bot kalshi trading bot kalshi trading bot kalshi trading bot kalshi trading bot kalshi trading bot kalshi trading bot kalshi trading bot kalshi trading bot kalshi trading bot kalshi trading bot kalshi trading bot kalshi trading bot kalshi trading bot kalshi trading bot"
-  },
-  {
-    "repo": "sanzoI-tech/polymarket-kalshi-arbitrage-bot",
+    "repo": "rasoir0591/Crosshair-X",
     "branch": "main",
     "language": "TypeScript",
-    "description": "polymarket trading bot, polymarket bot, polymarket kalshi trading bot, polymarket trading bot, polymarket bot, polymarket kalshi trading bot, polymarket trading bot, polymarket bot, polymarket kalshi trading bot, polymarket trading bot, polymarket bot, polymarket kalshi trading bot, kalshi, prediction-markets, arbitrage, typescript, clob"
+    "description": "crosshair x steam download custom crosshair free overlay extension torrent valorant cs2 apex pro settings windows"
   },
   {
-    "repo": "Longbridges/polymarket-kalshi-arbitrage-bot",
+    "repo": "onfable/onfable",
     "branch": "main",
     "language": "TypeScript",
-    "description": "polymarket trading bot, polymarket bot, polymarket kalshi trading bot, polymarket trading bot, polymarket bot, polymarket kalshi trading bot, polymarket trading bot, polymarket bot, polymarket kalshi trading bot, polymarket trading bot, polymarket bot, polymarket kalshi trading bot, polymarket trading bot, polymarket bot"
+    "description": ""
   },
   {
-    "repo": "iampedii/WhiteDNS",
+    "repo": "catsing/oot-pc-port",
     "branch": "main",
-    "language": "Kotlin",
-    "description": "Source-available Android DNS tunneling client with VPN and proxy modes, backed by MasterDNS & StormDNS."
-  },
-  {
-    "repo": "RadianceToadAmend/ARC-Raiders-External-Tool",
-    "branch": "main",
-    "language": "C++",
-    "description": "External overlay tool for ARC Raiders. UE5 memory reader, entity , radar, performance monitor. D3D11 render, no injection. For offline training purposes only."
-  },
-  {
-    "repo": "NV404/gova",
-    "branch": "main",
-    "language": "Go",
-    "description": "declarative GUI framework for Go"
-  },
-  {
-    "repo": "AKCodez/hackingtool-plugin",
-    "branch": "main",
-    "language": "Python",
-    "description": "Claude Code plugin: 183+ pentesting & OSINT tools from Z4nzu/hackingtool. Auto-runs what it can, hands off the rest."
-  },
-  {
-    "repo": "md0070/polymarket-trading-bot",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot"
-  },
-  {
-    "repo": "epoko77-ai/im-not-ai",
-    "branch": "main",
-    "language": "Python",
-    "description": "AI가 쓴 글이 아닌 것처럼 윤문해주는 스킬"
+    "language": "C#",
+    "description": "ocarina of time pc port ship of harkinian oot native pc port harbour masters github decompilation project rom extraction asset compiler widescreen support 60fps unlocked framerate hd texture pack custom models randomizer built in retro gaming nintendo 64 pc gaming desktop utility linux macos steam deck compatible graphics enhancement"
   }
 ]
