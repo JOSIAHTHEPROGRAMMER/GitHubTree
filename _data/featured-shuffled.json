@@ -1,146 +1,146 @@
 [
   {
-    "repo": "joe960913/Jixu",
+    "repo": "anthnykr/codex-voice",
+    "branch": "main",
+    "language": "Swift",
+    "description": ""
+  },
+  {
+    "repo": "glommer/cachebro",
     "branch": "main",
     "language": "TypeScript",
-    "description": "A durable single-Agent Harness for TypeScript with recoverable Threads, explicit side-effect boundaries, and a native terminal UI."
+    "description": "File cache with diff tracking for AI coding agents. Drop-in MCP server that cuts token usage by 26%."
   },
   {
-    "repo": "qazbnm456/awesome-web-security",
+    "repo": "uber-go/fx",
     "branch": "master",
-    "language": "Other",
-    "description": "🐶 A curated list of Web Security materials and resources."
+    "language": "Go",
+    "description": "A dependency injection based application framework for Go."
   },
   {
-    "repo": "Zehong-Ma/PixelGen",
+    "repo": "vigorX777/content-collector-skill",
     "branch": "main",
     "language": "Python",
-    "description": "Official repository for “PixelGen: Pixel Diffusion Beats Latent Diffusion with Perceptual Loss”"
+    "description": "OpenClaw skill: 自动收集社交媒体内容并整理成结构化笔记存入飞书文档"
   },
   {
-    "repo": "hapijs/hapi",
+    "repo": "sstklen/trump-code",
     "branch": "main",
-    "language": "JavaScript",
-    "description": "The Simple, Secure Framework Developers Trust"
+    "language": "Python",
+    "description": "AI cryptanalysis of Trump's social media posts × stock market impact. 31.5M models tested, 551 survivors, 61.3% hit rate. Live dashboard + open data + API."
   },
   {
-    "repo": "Fox-Fig/phoenix",
+    "repo": "Alamofire/Alamofire",
+    "branch": "master",
+    "language": "Swift",
+    "description": "Elegant HTTP Networking in Swift"
+  },
+  {
+    "repo": "docker/compose",
     "branch": "main",
     "language": "Go",
-    "description": "Phoenix is a high-performance, resilient tunneling tool designed to bypass DPI and severe network censorship using HTTP/2 (h2/h2c) multiplexing."
+    "description": "Define and run multi-container applications with Docker"
   },
   {
-    "repo": "curvefi/curve-contract",
-    "branch": "master",
-    "language": "Python",
-    "description": "Vyper contracts used in Curve.fi exchange pools."
-  },
-  {
-    "repo": "josephmisiti/awesome-machine-learning",
-    "branch": "master",
-    "language": "Python",
-    "description": "A curated list of awesome Machine Learning frameworks, libraries and software."
-  },
-  {
-    "repo": "veggiemonk/awesome-docker",
-    "branch": "master",
-    "language": "Other",
-    "description": ":whale: A curated list of Docker resources and projects"
-  },
-  {
-    "repo": "theonlyhennygod/zeroclaw",
-    "branch": "main",
-    "language": "Rust",
-    "description": "claw done right 🦀"
-  },
-  {
-    "repo": "cporter202/video-scraping-apis",
+    "repo": "delbaoliveira/learn-claude-code",
     "branch": "main",
     "language": "JavaScript",
-    "description": "A collection of APIs for scraping video metadata, engagement stats, and public video data across multiple platforms."
+    "description": ""
   },
   {
-    "repo": "tokio-rs/tokio",
+    "repo": "kibitzsh/kibitz",
     "branch": "master",
-    "language": "Rust",
-    "description": "A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ..."
+    "language": "TypeScript",
+    "description": "Real-time decoded feed of AI agent actions — monitor multiple Claude Code & Codex sessions, see exactly what each agent is doing, and coordinate swarms efficiently"
   },
   {
-    "repo": "yfyang007/RealRestorer",
+    "repo": "scienceLabwork/Stable-Action",
+    "branch": "main",
+    "language": "Swift",
+    "description": "Samsung Super Steady Horizon Lock - rebuilt for iPhone."
+  },
+  {
+    "repo": "Galaxy-Dawn/claude-scholar",
+    "branch": "main",
+    "language": "TeX",
+    "description": "A comprehensive Claude Code configuration for data science, AI research, and academic writing. Streamline the complete research workflow—from idea to publication."
+  },
+  {
+    "repo": "codejunkie99/agentic-stack",
     "branch": "master",
+    "language": "Python",
+    "description": "One brain, many harnesses. Portable .agent/ folder (memory + skills + protocols) that plugs into Claude Code, Cursor, Windsurf, OpenCode, OpenClaw, Hermes, or DIY Python — and keeps its knowledge when you switch."
+  },
+  {
+    "repo": "actions/virtual-environments",
+    "branch": "main",
+    "language": "PowerShell",
+    "description": "GitHub Actions runner images"
+  },
+  {
+    "repo": "VictoriaMetrics/VictoriaMetrics",
+    "branch": "master",
+    "language": "Go",
+    "description": "VictoriaMetrics: fast, cost-effective monitoring solution and time series database"
+  },
+  {
+    "repo": "borkdude/cream",
+    "branch": "main",
+    "language": "Clojure",
+    "description": "Fast starting Clojure runtime built with GraalVM native-image + Crema"
+  },
+  {
+    "repo": "ktorio/ktor",
+    "branch": "main",
+    "language": "Kotlin",
+    "description": "Framework for quickly creating connected applications in Kotlin with minimal effort"
+  },
+  {
+    "repo": "junjiezhou1122/GptCrate",
+    "branch": "main",
     "language": "Python",
     "description": ""
   },
   {
-    "repo": "0xsouravm/oxichrome",
-    "branch": "main",
-    "language": "Rust",
-    "description": "Framework to build Chrome extensions entirely in Rust with proc macros, type-safe Chrome API bindings, and Leptos for reactive UI. Compiles to WebAssembly with zero hand-written JavaScript."
-  },
-  {
-    "repo": "large-performance-model/large-performance-model.github.io",
-    "branch": "main",
-    "language": "HTML",
-    "description": "LPM 1.0: Video-based Character Performance Model"
-  },
-  {
-    "repo": "DingTalk-Real-AI/dingtalk-moltbot-connector",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "将钉钉机器人连接到 Moltbot Gateway 的轻量级 Python和TS 双版本连接器，支持 AI Card 流式响应"
-  },
-  {
-    "repo": "ethereum-optimism/optimism",
-    "branch": "develop",
-    "language": "Go",
-    "description": "Optimism is Ethereum, scaled."
-  },
-  {
-    "repo": "Kylsky/chatgpt-team-helper",
-    "branch": "main",
-    "language": "Vue",
-    "description": "一站式Team账号管理"
-  },
-  {
-    "repo": "ryanstephen/lil-agents",
-    "branch": "main",
-    "language": "Swift",
-    "description": "tiny AI companions that live on your macOS dock"
-  },
-  {
-    "repo": "tiimgreen/github-cheat-sheet",
-    "branch": "master",
-    "language": "Other",
-    "description": "A list of cool features of Git and GitHub."
-  },
-  {
-    "repo": "silverstein/minutes",
-    "branch": "main",
-    "language": "Rust",
-    "description": "Every meeting, every idea, every voice note — searchable by your AI. Open-source, privacy-first conversation memory layer."
-  },
-  {
-    "repo": "lifedever/TaskTick",
-    "branch": "main",
-    "language": "Swift",
-    "description": "A native macOS app for managing scheduled tasks. Built with SwiftUI + SwiftData. Menu bar resident, cron expressions, script execution, and more."
-  },
-  {
-    "repo": "facebookresearch/dino",
+    "repo": "Mibayy/token-savior",
     "branch": "main",
     "language": "Python",
-    "description": "PyTorch code for Vision Transformers training with the Self-Supervised learning method DINO"
+    "description": "Token-efficient structural codebase MCP server for AI-assisted development"
   },
   {
-    "repo": "T-Lab-CUHKSZ/claude-code",
+    "repo": "akeit0/okojo",
     "branch": "main",
-    "language": "TypeScript",
-    "description": "Claude Code Source - Buildable Research Fork. Reverse-engineered build system, runnable with Bun."
+    "language": "C#",
+    "description": "Okojo is an experimental low allocation managed JavaScript engine for .NET"
   },
   {
-    "repo": "open-telemetry/opentelemetry-python",
+    "repo": "realm/SwiftLint",
+    "branch": "main",
+    "language": "Swift",
+    "description": "A tool to enforce Swift style and conventions."
+  },
+  {
+    "repo": "alchaincyf/nuwa-skill",
     "branch": "main",
     "language": "Python",
-    "description": "OpenTelemetry Python API and SDK"
+    "description": "你想蒸馏的下一个员工，何必是同事。蒸馏任何人的思维方式——心智模型、决策启发式、表达DNA。Distill how anyone thinks."
+  },
+  {
+    "repo": "pytorch/vision",
+    "branch": "main",
+    "language": "Python",
+    "description": "Datasets, Transforms and Models specific to Computer Vision"
+  },
+  {
+    "repo": "vansh-nagar/ascii-studio",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Turn Videos into ASCII Frames - real ascii frames (character-based frames that run smoothly in sequence)"
+  },
+  {
+    "repo": "fastify/fastify",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "Fast and low overhead web framework, for Node.js"
   }
 ]
