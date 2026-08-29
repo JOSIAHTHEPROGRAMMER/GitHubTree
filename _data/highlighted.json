@@ -1,8 +1,8 @@
 {
-  "repo": "hassenbrahim/ValidatorMempool",
+  "repo": "fuad403273/GradientOracle",
   "branch": "main",
-  "language": "JavaScript",
-  "description": "Automates smart blockchain validation through real-time-processing and auto-scaling, ensuring robust validator service.",
+  "language": "Python",
+  "description": "GradientOracle is a predictive analytics framework utilizing machine learning processing and online learning, with built-in optimizer and scheduler.",
   "stars": 117,
-  "forks": 0
+  "forks": 1
 }

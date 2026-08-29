@@ -1,146 +1,146 @@
 [
   {
-    "repo": "fcompc4/ecommerce-kushi",
+    "repo": "joe960913/Jixu",
     "branch": "main",
-    "language": "JavaScript",
-    "description": "E-commerce roupa"
+    "language": "TypeScript",
+    "description": "A durable single-Agent Harness for TypeScript with recoverable Threads, explicit side-effect boundaries, and a native terminal UI."
   },
   {
-    "repo": "DeveloperExotic/LegacyCrossPlay",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "A Minecraft Legacy Edition proxy translator, that allows connections to Java Edition servers."
+    "repo": "qazbnm456/awesome-web-security",
+    "branch": "master",
+    "language": "Other",
+    "description": "🐶 A curated list of Web Security materials and resources."
   },
   {
-    "repo": "javaevolved/javaevolved.github.io",
-    "branch": "main",
-    "language": "HTML",
-    "description": "Java Evolved. Your Code Can Evolve Too!"
-  },
-  {
-    "repo": "openhome-dev/abilities",
-    "branch": "dev",
-    "language": "Python",
-    "description": "Open-source abilities for OpenHome agents."
-  },
-  {
-    "repo": "whisperbit-labs/zemzeme-android",
-    "branch": "main",
-    "language": "Kotlin",
-    "description": "Private, serverless messaging for Android - offline Bluetooth mesh, peer-to-peer, and Nostr relay. No accounts, no internet required."
-  },
-  {
-    "repo": "Joefix2010/Jenny-Mod-Minecraft-ALL-Versions",
-    "branch": "main",
-    "language": "C++",
-    "description": "Jenny Mod Minecraft ALL Versions — complete collection of Jenny Mod for every Minecraft version from 1.8 to 1.21.5. Add a fully customizable interactive companion character with animations, outfits, and multiplayer support."
-  },
-  {
-    "repo": "openai/glide-text2im",
+    "repo": "Zehong-Ma/PixelGen",
     "branch": "main",
     "language": "Python",
-    "description": "GLIDE: a diffusion-based text-conditional image synthesis model"
+    "description": "Official repository for “PixelGen: Pixel Diffusion Beats Latent Diffusion with Perceptual Loss”"
   },
   {
-    "repo": "encode/uvicorn",
+    "repo": "hapijs/hapi",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "The Simple, Secure Framework Developers Trust"
+  },
+  {
+    "repo": "Fox-Fig/phoenix",
+    "branch": "main",
+    "language": "Go",
+    "description": "Phoenix is a high-performance, resilient tunneling tool designed to bypass DPI and severe network censorship using HTTP/2 (h2/h2c) multiplexing."
+  },
+  {
+    "repo": "curvefi/curve-contract",
     "branch": "master",
     "language": "Python",
-    "description": "An ASGI web server, for Python. 🦄"
+    "description": "Vyper contracts used in Curve.fi exchange pools."
   },
   {
-    "repo": "hammerjs/hammer.js",
+    "repo": "josephmisiti/awesome-machine-learning",
     "branch": "master",
-    "language": "JavaScript",
-    "description": "A javascript library for multi-touch gestures :// You can touch this"
-  },
-  {
-    "repo": "bcurts/agentchattr",
-    "branch": "main",
     "language": "Python",
-    "description": "Local chat server for real-time autonomous coordination between AI coding agents and humans"
+    "description": "A curated list of awesome Machine Learning frameworks, libraries and software."
   },
   {
-    "repo": "xM0kht4r/VEN0m-Ransomware",
+    "repo": "veggiemonk/awesome-docker",
+    "branch": "master",
+    "language": "Other",
+    "description": ":whale: A curated list of Docker resources and projects"
+  },
+  {
+    "repo": "theonlyhennygod/zeroclaw",
     "branch": "main",
     "language": "Rust",
-    "description": "Fully undetectable and evasive ransomware written in Rust, leveraging a BYOVD technique to disable AV/EDR solutions on the infected systems."
+    "description": "claw done right 🦀"
   },
   {
-    "repo": "alibaba/ice",
-    "branch": "master",
-    "language": "TypeScript",
-    "description": "🚀 ice.js: The Progressive App Framework Based On React（基于 React 的渐进式应用框架）"
-  },
-  {
-    "repo": "ipfs/js-ipfs",
-    "branch": "master",
-    "language": "JavaScript",
-    "description": "IPFS implementation in JavaScript"
-  },
-  {
-    "repo": "eslint/eslint",
+    "repo": "cporter202/video-scraping-apis",
     "branch": "main",
     "language": "JavaScript",
-    "description": "Find and fix problems in your JavaScript code."
+    "description": "A collection of APIs for scraping video metadata, engagement stats, and public video data across multiple platforms."
   },
   {
-    "repo": "L1AD/claude-task-viewer",
-    "branch": "main",
-    "language": "HTML",
-    "description": "A web-based Kanban board for viewing Claude Code tasks"
+    "repo": "tokio-rs/tokio",
+    "branch": "master",
+    "language": "Rust",
+    "description": "A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ..."
   },
   {
-    "repo": "sterlingcrispin/nothing-ever-happens",
-    "branch": "main",
+    "repo": "yfyang007/RealRestorer",
+    "branch": "master",
     "language": "Python",
     "description": ""
   },
   {
-    "repo": "timwuhaotian/the-pair",
+    "repo": "0xsouravm/oxichrome",
+    "branch": "main",
+    "language": "Rust",
+    "description": "Framework to build Chrome extensions entirely in Rust with proc macros, type-safe Chrome API bindings, and Leptos for reactive UI. Compiles to WebAssembly with zero hand-written JavaScript."
+  },
+  {
+    "repo": "large-performance-model/large-performance-model.github.io",
+    "branch": "main",
+    "language": "HTML",
+    "description": "LPM 1.0: Video-based Character Performance Model"
+  },
+  {
+    "repo": "DingTalk-Real-AI/dingtalk-moltbot-connector",
     "branch": "main",
     "language": "TypeScript",
-    "description": "The Pair - Automated pair programming — grab a coffee while two AI agents cross-check each other's work"
+    "description": "将钉钉机器人连接到 Moltbot Gateway 的轻量级 Python和TS 双版本连接器，支持 AI Card 流式响应"
   },
   {
-    "repo": "junit-team/junit4",
+    "repo": "ethereum-optimism/optimism",
+    "branch": "develop",
+    "language": "Go",
+    "description": "Optimism is Ethereum, scaled."
+  },
+  {
+    "repo": "Kylsky/chatgpt-team-helper",
     "branch": "main",
-    "language": "Java",
-    "description": "A programmer-oriented testing framework for Java — :warning: maintenance mode"
+    "language": "Vue",
+    "description": "一站式Team账号管理"
   },
   {
-    "repo": "web3/web3.js",
-    "branch": "1.x",
-    "language": "TypeScript",
-    "description": "Collection of comprehensive TypeScript libraries for Interaction with the Ethereum JSON RPC API and utility functions."
-  },
-  {
-    "repo": "lovisdotio/falsprite",
+    "repo": "ryanstephen/lil-agents",
     "branch": "main",
-    "language": "JavaScript",
-    "description": "Generate animated sprite sheets from a text prompt. Powered by Nano-banana-2, BRIA & OpenRouter on fal.ai, one API key."
+    "language": "Swift",
+    "description": "tiny AI companions that live on your macOS dock"
   },
   {
-    "repo": "emotion-js/emotion",
+    "repo": "tiimgreen/github-cheat-sheet",
+    "branch": "master",
+    "language": "Other",
+    "description": "A list of cool features of Git and GitHub."
+  },
+  {
+    "repo": "silverstein/minutes",
     "branch": "main",
-    "language": "JavaScript",
-    "description": "👩‍🎤 CSS-in-JS library designed for high performance style composition"
+    "language": "Rust",
+    "description": "Every meeting, every idea, every voice note — searchable by your AI. Open-source, privacy-first conversation memory layer."
   },
   {
-    "repo": "flowapi-net/flow-llm-router",
+    "repo": "lifedever/TaskTick",
+    "branch": "main",
+    "language": "Swift",
+    "description": "A native macOS app for managing scheduled tasks. Built with SwiftUI + SwiftData. Menu bar resident, cron expressions, script execution, and more."
+  },
+  {
+    "repo": "facebookresearch/dino",
     "branch": "main",
     "language": "Python",
-    "description": "The Ultimate Token Saver"
+    "description": "PyTorch code for Vision Transformers training with the Self-Supervised learning method DINO"
   },
   {
-    "repo": "jyoung105/frouter",
+    "repo": "T-Lab-CUHKSZ/claude-code",
     "branch": "main",
     "language": "TypeScript",
-    "description": "Free model router CLI to discover, benchmark, and configure free AI models for OpenCode and OpenClaw"
+    "description": "Claude Code Source - Buildable Research Fork. Reverse-engineered build system, runnable with Bun."
   },
   {
-    "repo": "homielab/giapha-os",
+    "repo": "open-telemetry/opentelemetry-python",
     "branch": "main",
-    "language": "TypeScript",
-    "description": "Đây là mã nguồn mở cho ứng dụng quản lý gia phả dòng họ, cung cấp giao diện trực quan để xem sơ đồ phả hệ, quản lý thành viên, tìm kiếm và lọc danh sách thành viên."
+    "language": "Python",
+    "description": "OpenTelemetry Python API and SDK"
   }
 ]
