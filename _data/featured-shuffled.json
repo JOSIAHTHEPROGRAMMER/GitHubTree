@@ -1,146 +1,146 @@
 [
   {
-    "repo": "winsznx/theeleven",
+    "repo": "fcompc4/ecommerce-kushi",
     "branch": "main",
-    "language": "TypeScript",
-    "description": "Eleven autonomous AI agents open live football prop markets on X Layer — custom Uniswap v4 hook, gasless USDT0 staking."
+    "language": "JavaScript",
+    "description": "E-commerce roupa"
   },
   {
-    "repo": "pytest-dev/pytest",
+    "repo": "DeveloperExotic/LegacyCrossPlay",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "A Minecraft Legacy Edition proxy translator, that allows connections to Java Edition servers."
+  },
+  {
+    "repo": "javaevolved/javaevolved.github.io",
+    "branch": "main",
+    "language": "HTML",
+    "description": "Java Evolved. Your Code Can Evolve Too!"
+  },
+  {
+    "repo": "openhome-dev/abilities",
+    "branch": "dev",
+    "language": "Python",
+    "description": "Open-source abilities for OpenHome agents."
+  },
+  {
+    "repo": "whisperbit-labs/zemzeme-android",
+    "branch": "main",
+    "language": "Kotlin",
+    "description": "Private, serverless messaging for Android - offline Bluetooth mesh, peer-to-peer, and Nostr relay. No accounts, no internet required."
+  },
+  {
+    "repo": "Joefix2010/Jenny-Mod-Minecraft-ALL-Versions",
+    "branch": "main",
+    "language": "C++",
+    "description": "Jenny Mod Minecraft ALL Versions — complete collection of Jenny Mod for every Minecraft version from 1.8 to 1.21.5. Add a fully customizable interactive companion character with animations, outfits, and multiplayer support."
+  },
+  {
+    "repo": "openai/glide-text2im",
     "branch": "main",
     "language": "Python",
-    "description": "The pytest framework makes it easy to write small tests, yet scales to support complex functional testing"
+    "description": "GLIDE: a diffusion-based text-conditional image synthesis model"
   },
   {
-    "repo": "Semantic-Org/Semantic-UI",
+    "repo": "encode/uvicorn",
+    "branch": "master",
+    "language": "Python",
+    "description": "An ASGI web server, for Python. 🦄"
+  },
+  {
+    "repo": "hammerjs/hammer.js",
     "branch": "master",
     "language": "JavaScript",
-    "description": "Semantic is a UI component framework based around useful principles from natural language."
+    "description": "A javascript library for multi-touch gestures :// You can touch this"
   },
   {
-    "repo": "K-Dense-AI/k-dense-byok",
+    "repo": "bcurts/agentchattr",
     "branch": "main",
-    "language": "TypeScript",
-    "description": "An AI co-scientist powered by Claude Scientific Skills running on your desktop."
-  },
-  {
-    "repo": "sindresorhus/awesome-nodejs",
-    "branch": "main",
-    "language": "Other",
-    "description": ":zap: Delightful Node.js packages and resources"
-  },
-  {
-    "repo": "Supervisor/supervisor",
-    "branch": "master",
     "language": "Python",
-    "description": "Supervisor process control system for Unix (supervisord)"
+    "description": "Local chat server for real-time autonomous coordination between AI coding agents and humans"
   },
   {
-    "repo": "RhysSullivan/fastergh",
+    "repo": "xM0kht4r/VEN0m-Ransomware",
     "branch": "main",
+    "language": "Rust",
+    "description": "Fully undetectable and evasive ransomware written in Rust, leveraging a BYOVD technique to disable AV/EDR solutions on the infected systems."
+  },
+  {
+    "repo": "alibaba/ice",
+    "branch": "master",
     "language": "TypeScript",
+    "description": "🚀 ice.js: The Progressive App Framework Based On React（基于 React 的渐进式应用框架）"
+  },
+  {
+    "repo": "ipfs/js-ipfs",
+    "branch": "master",
+    "language": "JavaScript",
+    "description": "IPFS implementation in JavaScript"
+  },
+  {
+    "repo": "eslint/eslint",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "Find and fix problems in your JavaScript code."
+  },
+  {
+    "repo": "L1AD/claude-task-viewer",
+    "branch": "main",
+    "language": "HTML",
+    "description": "A web-based Kanban board for viewing Claude Code tasks"
+  },
+  {
+    "repo": "sterlingcrispin/nothing-ever-happens",
+    "branch": "main",
+    "language": "Python",
     "description": ""
   },
   {
-    "repo": "NativeScript/NativeScript",
+    "repo": "timwuhaotian/the-pair",
     "branch": "main",
     "language": "TypeScript",
-    "description": "⚡ Write Native with TypeScript ✨ Best of all worlds (TypeScript, Swift, Objective C, Kotlin, Java, Dart). Use what you love ❤️ Angular, React, Solid, Svelte, Vue with: iOS (UIKit, SwiftUI), Android (View, Jetpack Compose), Flutter and you name it compatible."
+    "description": "The Pair - Automated pair programming — grab a coffee while two AI agents cross-check each other's work"
   },
   {
-    "repo": "tnm/zclaw",
+    "repo": "junit-team/junit4",
     "branch": "main",
-    "language": "C",
-    "description": "Your personal AI assistant in under 888 KB, running on an ESP32"
+    "language": "Java",
+    "description": "A programmer-oriented testing framework for Java — :warning: maintenance mode"
   },
   {
-    "repo": "vueuse/vueuse",
-    "branch": "main",
+    "repo": "web3/web3.js",
+    "branch": "1.x",
     "language": "TypeScript",
-    "description": "Collection of essential Vue Composition Utilities for Vue 3"
+    "description": "Collection of comprehensive TypeScript libraries for Interaction with the Ethereum JSON RPC API and utility functions."
   },
   {
-    "repo": "olvvier/apple-silicon-accelerometer",
-    "branch": "main",
-    "language": "Python",
-    "description": "reading the undocumented mems accelerometer on apple silicon macbooks via iokit hid"
-  },
-  {
-    "repo": "golang-migrate/migrate",
-    "branch": "master",
-    "language": "Go",
-    "description": "Database migrations. CLI and Golang library."
-  },
-  {
-    "repo": "rustdesk/rustdesk",
-    "branch": "master",
-    "language": "Rust",
-    "description": "An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer."
-  },
-  {
-    "repo": "huggingface/peft",
-    "branch": "main",
-    "language": "Python",
-    "description": "🤗 PEFT: State-of-the-art Parameter-Efficient Fine-Tuning."
-  },
-  {
-    "repo": "pulumi/pulumi",
-    "branch": "master",
-    "language": "Go",
-    "description": "Pulumi - Infrastructure as Code in any programming language 🚀"
-  },
-  {
-    "repo": "vasilytrofimchuk/domainsearcher-app",
+    "repo": "lovisdotio/falsprite",
     "branch": "main",
     "language": "JavaScript",
-    "description": "Score and choose the best domain name for your startup — AI-powered generation, real-time availability, and multi-dimensional scoring (LEN, PRO, MEM, BRD, FIT). Free, no signup."
+    "description": "Generate animated sprite sheets from a text prompt. Powered by Nano-banana-2, BRIA & OpenRouter on fal.ai, one API key."
   },
   {
-    "repo": "vitejs/vite",
+    "repo": "emotion-js/emotion",
     "branch": "main",
-    "language": "TypeScript",
-    "description": "Next generation frontend tooling. It's fast!"
+    "language": "JavaScript",
+    "description": "👩‍🎤 CSS-in-JS library designed for high performance style composition"
   },
   {
-    "repo": "moltlaunch/cashclaw",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "An autonomous agent that takes work, does work, gets paid, and gets better at it."
-  },
-  {
-    "repo": "seaweedfs/seaweedfs",
-    "branch": "master",
-    "language": "Go",
-    "description": "SeaweedFS is a fast distributed storage system for blobs, objects, files, and data lake, for billions of files! Blob store has O(1) disk seek, cloud tiering. Filer supports Cloud Drive, xDC replication, Kubernetes, POSIX FUSE mount, S3 API, S3 Gateway, Hadoop, WebDAV, encryption, Erasure Coding. Enterprise version is at seaweedfs.com."
-  },
-  {
-    "repo": "microsoft/fast",
-    "branch": "master",
-    "language": "TypeScript",
-    "description": "The adaptive interface system for modern web experiences."
-  },
-  {
-    "repo": "rohitg00/ai-engineering-from-scratch",
+    "repo": "flowapi-net/flow-llm-router",
     "branch": "main",
     "language": "Python",
-    "description": "Learn it. Build it. Ship it for others."
+    "description": "The Ultimate Token Saver"
   },
   {
-    "repo": "zoontek/react-native-permissions",
-    "branch": "master",
-    "language": "Objective-C++",
-    "description": "An unified permissions API for React Native on iOS, Android and Windows."
-  },
-  {
-    "repo": "bjarneo/cliamp",
+    "repo": "jyoung105/frouter",
     "branch": "main",
-    "language": "Go",
-    "description": "Terminal Winamp"
+    "language": "TypeScript",
+    "description": "Free model router CLI to discover, benchmark, and configure free AI models for OpenCode and OpenClaw"
   },
   {
-    "repo": "tilt-dev/tilt",
-    "branch": "master",
-    "language": "Go",
-    "description": "Define your dev environment as code. For microservice apps on Kubernetes."
+    "repo": "homielab/giapha-os",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Đây là mã nguồn mở cho ứng dụng quản lý gia phả dòng họ, cung cấp giao diện trực quan để xem sơ đồ phả hệ, quản lý thành viên, tìm kiếm và lọc danh sách thành viên."
   }
 ]
