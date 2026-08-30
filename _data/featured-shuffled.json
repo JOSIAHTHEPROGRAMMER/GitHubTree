@@ -1,146 +1,146 @@
 [
   {
-    "repo": "square/retrofit",
-    "branch": "master",
-    "language": "HTML",
-    "description": "A type-safe HTTP client for Android and the JVM"
+    "repo": "ynsmroztas/AndroHunter",
+    "branch": "main",
+    "language": "Java",
+    "description": "AndroHunter"
   },
   {
-    "repo": "anthropics/cwc-workshops",
+    "repo": "humblebanana/open-record-replay",
+    "branch": "main",
+    "language": "Swift",
+    "description": "Open-source macOS record-and-replay workflow recorder for computer use agents. Captures mouse, keyboard, and UI events as structured traces so agents can learn, replay, and automate real desktop tasks."
+  },
+  {
+    "repo": "ArielMartinezz/Character-Creator-Female-Crimson-Desert-Mod",
+    "branch": "main",
+    "language": "C++",
+    "description": "Download Character Creator Female mod for Crimson Desert. Expanded customization with new hairstyles, faces, body morphs, outfits, and accessories. Create more beautiful and diverse female characters with high-quality textures and presets."
+  },
+  {
+    "repo": "orchetron/storm",
     "branch": "main",
     "language": "TypeScript",
+    "description": "A compositor-based terminal UI framework. Fast. Layered. Unstoppable."
+  },
+  {
+    "repo": "hang-in/seCall",
+    "branch": "main",
+    "language": "Rust",
+    "description": "recall your second brain"
+  },
+  {
+    "repo": "NousResearch/hermes-agent-self-evolution",
+    "branch": "main",
+    "language": "Python",
+    "description": "⚒ Evolutionary self-improvement for Hermes Agent — optimize skills, prompts, and code using DSPy + GEPA"
+  },
+  {
+    "repo": "prof-oguzergin/bilgisayar-mimarisi",
+    "branch": "main",
+    "language": "TeX",
+    "description": "Bilgisayar Mimarisi: RISC-V Tabanlı Yaklaşım — Açık kaynak Türkçe ders kitabı (CC BY-NC-ND 4.0)"
+  },
+  {
+    "repo": "millionco/debug-agent",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Debugging skill for AI agents"
+  },
+  {
+    "repo": "bitman09/Rust-Politics-Sports-Polymarket-Trading-Bot",
+    "branch": "main",
+    "language": "Rust",
+    "description": "A Rust bot for Polymarket that trades sports and politics (binary) markets by slug using a trailing stop strategy only."
+  },
+  {
+    "repo": "agenmod/immortal-skill",
+    "branch": "main",
+    "language": "Python",
+    "description": "♾️ 开源数字永生框架 — 从聊天记录蒸馏任何人的七维数字分身。支持微信/飞书/iMessage/Telegram等12+平台，7种角色模板，对齐 OpenClaw Soul Spec 标准。一行指令让你的AI学会蒸馏。"
+  },
+  {
+    "repo": "areofyl/fetch",
+    "branch": "main",
+    "language": "C",
+    "description": "An animated 3D fetch tool for your terminal. Takes your distro's ASCII logo, turns it into a spinning 3D object, and displays system info alongside it."
+  },
+  {
+    "repo": "PIPIKAI/auto-painter-win",
+    "branch": "main",
+    "language": "Python",
+    "description": "Supports multiple sketch styles and automated mouse-controlled painting."
+  },
+  {
+    "repo": "htimesnine/DarkSword-RCE",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "DarkSword webkit exploit captured ITW"
+  },
+  {
+    "repo": "ListerOvO1211/LazyEnv",
+    "branch": "main",
+    "language": "C++",
     "description": ""
   },
   {
-    "repo": "vixhal-baraiya/microgpt-c",
+    "repo": "0din-ai/ai-scanner",
     "branch": "main",
-    "language": "C",
-    "description": "The most atomic way to train and inference a GPT in pure, dependency-free C"
+    "language": "Ruby",
+    "description": "AI model safety scanner built on NVIDIA garak"
   },
   {
-    "repo": "TeleHuman/humanoid_skateboarding",
+    "repo": "jackwener/xiaohongshu-cli",
     "branch": "main",
     "language": "Python",
-    "description": "Official implementation of HUSKY: Humanoid Skateboarding System via Physics-Aware Whole-Body Control"
+    "description": "A CLI for Xiaohongshu (小红书) — search, read, interact via reverse-engineered API"
   },
   {
-    "repo": "rebane2001/x86CSS",
-    "branch": "mane",
-    "language": "HTML",
-    "description": "x86CSS is a working CSS-only x86 CPU/emulator/computer. No JavaScript required."
-  },
-  {
-    "repo": "krishnaop/Adobe-CS6-Photoshop-For-PC",
-    "branch": "main",
-    "language": "C++",
-    "description": "Adobe Photoshop CS6 Extended Full Version 2026 for PC – Professional photo editing software with all advanced tools. Includes layers, masks, brushes, filters, 3D editing, and powerful image manipulation features. Full unlocked Extended edition with no restrictions. Offline installer for Windows 10/11. The best classic Photoshop CS6"
-  },
-  {
-    "repo": "holysheep123/holysheep-cli",
+    "repo": "FinPyromancerLog/xcode-claw",
     "branch": "main",
     "language": "JavaScript",
-    "description": "🐑 One command to configure all AI coding tools — Claude Code, Codex, Gemini CLI, Cursor, Aider & more"
+    "description": ""
   },
   {
-    "repo": "freestylefly/openclaw-wechat",
+    "repo": "Wendor/teapod-stream",
     "branch": "master",
-    "language": "TypeScript",
-    "description": "让 OpenClaw稳定的连上你的个人微信"
+    "language": "Dart",
+    "description": ""
   },
   {
-    "repo": "cfinke/EpsteIn",
+    "repo": "EthanLipnik/Loom",
+    "branch": "main",
+    "language": "Swift",
+    "description": "Easy peer to peer networking for Apple devices"
+  },
+  {
+    "repo": "ironsh/iron-proxy",
+    "branch": "main",
+    "language": "Go",
+    "description": "An egress firewall for untrusted workloads."
+  },
+  {
+    "repo": "helenigtxu/TradingView-Claw",
     "branch": "main",
     "language": "Python",
-    "description": "See which of your LinkedIn connections appear in the Epstein files."
+    "description": ""
   },
   {
-    "repo": "facebook/docusaurus",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Easy to maintain open source documentation websites."
-  },
-  {
-    "repo": "ReactiveX/RxJava",
-    "branch": "3.x",
-    "language": "Java",
-    "description": "RxJava – Reactive Extensions for the JVM – a library for composing asynchronous and event-based programs using observable sequences for the Java VM."
-  },
-  {
-    "repo": "microsoft/react-native-code-push",
-    "branch": "master",
-    "language": "C",
-    "description": "React Native module for CodePush"
-  },
-  {
-    "repo": "google-deepmind/graphcast",
+    "repo": "finvfamily/finshare",
     "branch": "main",
     "language": "Python",
-    "description": "Deep learning weather model from Google DeepMind."
+    "description": "专业的金融数据获取工具库 - A Professional Financial Data Fetching Toolkit for   Python"
   },
   {
-    "repo": "Shudesu/line-harness-oss",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Open-source LINE Official Account CRM — free alternative to paid tools. Step delivery, broadcasts, forms, rich menus, scoring, automation, and more."
-  },
-  {
-    "repo": "HJCheng0602/nanoPD",
+    "repo": "CrewSX/polymarket-esports-trading-bot",
     "branch": "main",
     "language": "Python",
-    "description": "A from-scratch Prefill/Decode disaggregation inference engine for LLMs"
+    "description": "Automated prediction market trading bot for Polymarket esports markets — LoL, Dota 2, CS2, Valorant, Rainbow Six, Call of Duty, Mobile Legends, StarCraft II & Overwatch."
   },
   {
-    "repo": "cisco-ai-defense/defenseclaw",
+    "repo": "Shakir2021/Delta-for-Roblox-PC-Edition",
     "branch": "main",
-    "language": "Python",
-    "description": "Security Governance for Agentic AI"
-  },
-  {
-    "repo": "0xSero/moe-compress",
-    "branch": "main",
-    "language": "Python",
-    "description": "Model-agnostic MoE compression automation: build calibration bundles, run REAP/quantization/benchmark/publish stages, and render auditable reports."
-  },
-  {
-    "repo": "serde-rs/serde",
-    "branch": "master",
-    "language": "Rust",
-    "description": "Serialization framework for Rust"
-  },
-  {
-    "repo": "streamlit/streamlit",
-    "branch": "develop",
-    "language": "Python",
-    "description": "Streamlit — A faster way to build and share data apps."
-  },
-  {
-    "repo": "gcc-mirror/gcc",
-    "branch": "master",
     "language": "C++",
-    "description": "Mirror of the GNU Compiler Collection master repository."
-  },
-  {
-    "repo": "cathrynlavery/diagram-design",
-    "branch": "main",
-    "language": "HTML",
-    "description": "Thirteen editorial diagram types for Claude Code. Self-contained HTML + SVG. No shadows, no Mermaid-slop."
-  },
-  {
-    "repo": "guzzle/guzzle",
-    "branch": "master",
-    "language": "PHP",
-    "description": "Guzzle, an extensible PHP HTTP client"
-  },
-  {
-    "repo": "microsoft/AI",
-    "branch": "master",
-    "language": "Python",
-    "description": "Microsoft AI"
-  },
-  {
-    "repo": "stablyai/agent-slack",
-    "branch": "master",
-    "language": "TypeScript",
-    "description": "Slack automation CLI for AI agents"
+    "description": "Delta for Roblox PC Edition is a lightweight and optimized Roblox client for Windows. Enjoy higher FPS, reduced input lag, better graphics, and smoother gameplay. The best desktop edition for playing Roblox with enhanced performance and modern features."
   }
 ]
