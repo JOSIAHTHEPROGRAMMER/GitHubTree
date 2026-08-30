@@ -1,146 +1,146 @@
 [
   {
-    "repo": "AppleOnFire/JennyMod-All-Versions",
+    "repo": "thesSmartApe/polymarket-copy-trading-bot-rust",
     "branch": "main",
-    "language": "Java",
-    "description": "jenny mod minecraft pe mc video download pc java curseforge forge fabric  girlfriend addon pocket edition download .jar mediafire link realistic animations render pass bed interaction companion skin texture bedrock edition mcpack free portable zip apk mobile character custom dialogue chat adult content"
+    "language": "Rust",
+    "description": "polymarket rust copy trading bot polymarket copy trading bot polymarket copy trading bot polymarket copy trading bot polymarket copy trading bot polymarket copy trading bot polymarket copy trading bot polymarket copy trading bot polymarket copy trading bot polymarket copy trading bot"
   },
   {
-    "repo": "plotly/plotly.py",
-    "branch": "master",
+    "repo": "rogerbush007-a11y/DJOneHub-mac-enhanced",
+    "branch": "main",
+    "language": "Go",
+    "description": ""
+  },
+  {
+    "repo": "supermemoryai/openclaw-supermemory",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Supermemory allows Clawdbot / Molt bot to have PERFECT memory and recall for their own personal agent."
+  },
+  {
+    "repo": "AMAP-ML/MathForge",
+    "branch": "main",
     "language": "Python",
-    "description": "The interactive graphing library for Python :sparkles:"
+    "description": "(ICLR 2026) Harder Is Better: Boosting Mathematical Reasoning via Difficulty-Aware GRPO and Multi-Aspect Question Reformulation"
   },
   {
-    "repo": "Shakir2021/Delta-for-Roblox-PC-Edition",
+    "repo": "acedef/SynthAPT",
+    "branch": "master",
+    "language": "Rust",
+    "description": "Generate malware with AI"
+  },
+  {
+    "repo": "Eul45/omni-search",
     "branch": "main",
     "language": "C++",
-    "description": "Delta for Roblox PC Edition is a lightweight and optimized Roblox client for Windows. Enjoy higher FPS, reduced input lag, better graphics, and smoother gameplay. The best desktop edition for playing Roblox with enhanced performance and modern features."
+    "description": "High-performance Windows file indexer/search app using NTFS USN/MFT (Tauri + Rust + C++)."
   },
   {
-    "repo": "kitlangton/tailcode",
+    "repo": "HKUDS/ClawWork",
     "branch": "main",
-    "language": "TypeScript",
-    "description": ""
+    "language": "Python",
+    "description": "ClawWork: OpenClaw as Your AI Coworker - 💰 $10K earned in 7 Hours"
   },
   {
-    "repo": "antirez/qwen-asr",
+    "repo": "antirez/voxtral.c",
     "branch": "main",
     "language": "C",
-    "description": "C inference for Qwen3-ASR 0.6b and 1.7b transcriptions models"
+    "description": "Pure C inference of Mistral Voxtral Realtime 4B speech to text model"
   },
   {
-    "repo": "graphprotocol/graph-node",
-    "branch": "master",
-    "language": "Rust",
-    "description": "Graph Node indexes data from blockchains such as Ethereum and serves it over GraphQL"
-  },
-  {
-    "repo": "actix/actix",
-    "branch": "master",
-    "language": "Rust",
-    "description": "Actor framework for Rust."
-  },
-  {
-    "repo": "dseditor/QwenASRMiniTool",
-    "branch": "main",
-    "language": "Python",
-    "description": "基於OpenVino-int8權重，精簡的QwenASR小工具，用於即時辨識以及字幕轉換使用"
-  },
-  {
-    "repo": "ohmyzsh/ohmyzsh",
-    "branch": "master",
-    "language": "Shell",
-    "description": "🙃   A delightful community-driven (with 2,400+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python, etc), 140+ themes to spice up your morning, and an auto-update tool that makes it easy to keep up with the latest updates from the community."
-  },
-  {
-    "repo": "sharonubsyq/trading-view-indicator-extension",
+    "repo": "ShinMegamiBoson/OpenPlanter",
     "branch": "main",
     "language": "Python",
     "description": ""
   },
   {
-    "repo": "owengretzinger/constellagent",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Desktop app for running multiple AI agents in parallel. Each agent gets its own terminal, editor, and git worktree, all in one window."
-  },
-  {
-    "repo": "symbolica-ai/arcgentica",
+    "repo": "petergpt/bullshit-benchmark",
     "branch": "main",
     "language": "Python",
-    "description": "An ARC-AGI solution using Agentica from Symbolica"
+    "description": ""
   },
   {
-    "repo": "angular/angular",
+    "repo": "FiloSottile/age",
     "branch": "main",
-    "language": "TypeScript",
-    "description": "Deliver web apps with confidence 🚀"
+    "language": "Go",
+    "description": "A simple, modern and secure encryption tool (and Go library) with small explicit keys, no config options, and UNIX-style composability."
   },
   {
-    "repo": "getify/You-Dont-Know-JS",
-    "branch": "master",
-    "language": "Other",
-    "description": "A book series (2 published editions) on the JS language."
+    "repo": "nj19257/FastSkills",
+    "branch": "main",
+    "language": "Python",
+    "description": "⚡ MCP server that brings Agent Skills (the open standard behind Claude Code, OpenClaw & nanobot) to any MCP-compatible agent. Discover, load, create & execute skills."
   },
   {
-    "repo": "labstack/echo",
+    "repo": "marswei/seaseed-clawerse",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "Open-source implementation of SeaSeed.ai v1.0 (codename: Clawerse). AI ocean world platform for multi-agent social, tasks and compute collaboration."
+  },
+  {
+    "repo": "ClawBio/ClawBio",
+    "branch": "main",
+    "language": "Python",
+    "description": "🦖 ClawBio — The first bioinformatics-native AI agent skill library. Local-first. Reproducible. Built on OpenClaw."
+  },
+  {
+    "repo": "open-policy-agent/gatekeeper",
     "branch": "master",
     "language": "Go",
-    "description": "High performance, minimalist Go web framework"
+    "description": "🐊 Policy Controller for Kubernetes"
   },
   {
-    "repo": "badaramoni/wave-field-llm",
+    "repo": "junit-team/junit4",
     "branch": "main",
-    "language": "Python",
-    "description": "An O(n log n) language model architecture using wave equation dynamics instead of O(n²) self-attention. Within 5% of standard transformer quality."
-  },
-  {
-    "repo": "dimartarmizi/map-to-poster",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "MapToPoster JS is a client-side web app that turns any location into a high-resolution, customizable map poster with various themes, layouts, and export options."
-  },
-  {
-    "repo": "by-sonic/unblock-pro",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "Обход блокировок Discord и YouTube — автоматический DPI bypass для macOS и Windows | Unblock Discord & YouTube in Russia"
-  },
-  {
-    "repo": "TheCSir/TerminalStart",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Chromium Extension for Tech Bros"
-  },
-  {
-    "repo": "vercel-labs/visual-json",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "The Visual JSON Editor. Schema-aware, embeddable, extensible."
-  },
-  {
-    "repo": "deepseek-ai/DeepSeek-Math",
-    "branch": "main",
-    "language": "Python",
-    "description": "DeepSeekMath: Pushing the Limits of Mathematical Reasoning in Open Language Models"
-  },
-  {
-    "repo": "iluwatar/java-design-patterns",
-    "branch": "master",
     "language": "Java",
-    "description": "Design patterns implemented in Java"
+    "description": "A programmer-oriented testing framework for Java — :warning: maintenance mode"
   },
   {
-    "repo": "openai/openai-python",
-    "branch": "main",
+    "repo": "Ibrahim-3d/conductor-orchestrator-superpowers",
+    "branch": "master",
     "language": "Python",
-    "description": "The official Python library for the OpenAI API"
+    "description": "Multi-agent orchestration system for Claude Code with parallel execution, automated quality gates, Board of Directors, and bundled Superpowers skills"
   },
   {
-    "repo": "nashsu/llm_wiki",
+    "repo": "pi0/skillman",
     "branch": "main",
     "language": "TypeScript",
-    "description": ""
+    "description": "🤹 Manage project skills and lock them in skills.json"
+  },
+  {
+    "repo": "MarlinFirmware/Marlin",
+    "branch": "bugfix-2.1.x",
+    "language": "C++",
+    "description": "Marlin is a firmware for RepRap 3D printers optimized for both 8 and 32 bit microcontrollers.  Marlin supports all common platforms.   Many commercial 3D printers come with Marlin installed.  Check with your vendor if you need source code for your specific machine."
+  },
+  {
+    "repo": "marshmallow-code/marshmallow",
+    "branch": "dev",
+    "language": "Python",
+    "description": "A lightweight library for converting complex objects to and from simple Python datatypes."
+  },
+  {
+    "repo": "runesleo/x-reader",
+    "branch": "main",
+    "language": "Python",
+    "description": "Universal content reader — fetch, normalize, and digest content from 7+ platforms (WeChat, Telegram, X, YouTube, Bilibili, Xiaohongshu, RSS)"
+  },
+  {
+    "repo": "operator-framework/operator-sdk",
+    "branch": "master",
+    "language": "Go",
+    "description": "SDK for building Kubernetes applications. Provides high level APIs, useful abstractions, and project scaffolding."
+  },
+  {
+    "repo": "steipete/birdclaw",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Stores all your tweets nicely claw-able for agents."
+  },
+  {
+    "repo": "seaweedfs/seaweedfs",
+    "branch": "master",
+    "language": "Go",
+    "description": "SeaweedFS is a fast distributed storage system for blobs, objects, files, and data lake, for billions of files! Blob store has O(1) disk seek, cloud tiering. Filer supports Cloud Drive, xDC replication, Kubernetes, POSIX FUSE mount, S3 API, S3 Gateway, Hadoop, WebDAV, encryption, Erasure Coding. Enterprise version is at seaweedfs.com."
   }
 ]
