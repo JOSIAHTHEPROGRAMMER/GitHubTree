@@ -1,146 +1,146 @@
 [
   {
-    "repo": "anthnykr/codex-voice",
+    "repo": "AppleOnFire/JennyMod-All-Versions",
     "branch": "main",
-    "language": "Swift",
+    "language": "Java",
+    "description": "jenny mod minecraft pe mc video download pc java curseforge forge fabric  girlfriend addon pocket edition download .jar mediafire link realistic animations render pass bed interaction companion skin texture bedrock edition mcpack free portable zip apk mobile character custom dialogue chat adult content"
+  },
+  {
+    "repo": "plotly/plotly.py",
+    "branch": "master",
+    "language": "Python",
+    "description": "The interactive graphing library for Python :sparkles:"
+  },
+  {
+    "repo": "Shakir2021/Delta-for-Roblox-PC-Edition",
+    "branch": "main",
+    "language": "C++",
+    "description": "Delta for Roblox PC Edition is a lightweight and optimized Roblox client for Windows. Enjoy higher FPS, reduced input lag, better graphics, and smoother gameplay. The best desktop edition for playing Roblox with enhanced performance and modern features."
+  },
+  {
+    "repo": "kitlangton/tailcode",
+    "branch": "main",
+    "language": "TypeScript",
     "description": ""
   },
   {
-    "repo": "glommer/cachebro",
+    "repo": "antirez/qwen-asr",
+    "branch": "main",
+    "language": "C",
+    "description": "C inference for Qwen3-ASR 0.6b and 1.7b transcriptions models"
+  },
+  {
+    "repo": "graphprotocol/graph-node",
+    "branch": "master",
+    "language": "Rust",
+    "description": "Graph Node indexes data from blockchains such as Ethereum and serves it over GraphQL"
+  },
+  {
+    "repo": "actix/actix",
+    "branch": "master",
+    "language": "Rust",
+    "description": "Actor framework for Rust."
+  },
+  {
+    "repo": "dseditor/QwenASRMiniTool",
+    "branch": "main",
+    "language": "Python",
+    "description": "基於OpenVino-int8權重，精簡的QwenASR小工具，用於即時辨識以及字幕轉換使用"
+  },
+  {
+    "repo": "ohmyzsh/ohmyzsh",
+    "branch": "master",
+    "language": "Shell",
+    "description": "🙃   A delightful community-driven (with 2,400+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python, etc), 140+ themes to spice up your morning, and an auto-update tool that makes it easy to keep up with the latest updates from the community."
+  },
+  {
+    "repo": "sharonubsyq/trading-view-indicator-extension",
+    "branch": "main",
+    "language": "Python",
+    "description": ""
+  },
+  {
+    "repo": "owengretzinger/constellagent",
     "branch": "main",
     "language": "TypeScript",
-    "description": "File cache with diff tracking for AI coding agents. Drop-in MCP server that cuts token usage by 26%."
+    "description": "Desktop app for running multiple AI agents in parallel. Each agent gets its own terminal, editor, and git worktree, all in one window."
   },
   {
-    "repo": "uber-go/fx",
-    "branch": "master",
-    "language": "Go",
-    "description": "A dependency injection based application framework for Go."
-  },
-  {
-    "repo": "vigorX777/content-collector-skill",
+    "repo": "symbolica-ai/arcgentica",
     "branch": "main",
     "language": "Python",
-    "description": "OpenClaw skill: 自动收集社交媒体内容并整理成结构化笔记存入飞书文档"
+    "description": "An ARC-AGI solution using Agentica from Symbolica"
   },
   {
-    "repo": "sstklen/trump-code",
+    "repo": "angular/angular",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Deliver web apps with confidence 🚀"
+  },
+  {
+    "repo": "getify/You-Dont-Know-JS",
+    "branch": "master",
+    "language": "Other",
+    "description": "A book series (2 published editions) on the JS language."
+  },
+  {
+    "repo": "labstack/echo",
+    "branch": "master",
+    "language": "Go",
+    "description": "High performance, minimalist Go web framework"
+  },
+  {
+    "repo": "badaramoni/wave-field-llm",
     "branch": "main",
     "language": "Python",
-    "description": "AI cryptanalysis of Trump's social media posts × stock market impact. 31.5M models tested, 551 survivors, 61.3% hit rate. Live dashboard + open data + API."
+    "description": "An O(n log n) language model architecture using wave equation dynamics instead of O(n²) self-attention. Within 5% of standard transformer quality."
   },
   {
-    "repo": "Alamofire/Alamofire",
-    "branch": "master",
-    "language": "Swift",
-    "description": "Elegant HTTP Networking in Swift"
-  },
-  {
-    "repo": "docker/compose",
-    "branch": "main",
-    "language": "Go",
-    "description": "Define and run multi-container applications with Docker"
-  },
-  {
-    "repo": "delbaoliveira/learn-claude-code",
+    "repo": "dimartarmizi/map-to-poster",
     "branch": "main",
     "language": "JavaScript",
-    "description": ""
+    "description": "MapToPoster JS is a client-side web app that turns any location into a high-resolution, customizable map poster with various themes, layouts, and export options."
   },
   {
-    "repo": "kibitzsh/kibitz",
-    "branch": "master",
-    "language": "TypeScript",
-    "description": "Real-time decoded feed of AI agent actions — monitor multiple Claude Code & Codex sessions, see exactly what each agent is doing, and coordinate swarms efficiently"
-  },
-  {
-    "repo": "scienceLabwork/Stable-Action",
-    "branch": "main",
-    "language": "Swift",
-    "description": "Samsung Super Steady Horizon Lock - rebuilt for iPhone."
-  },
-  {
-    "repo": "Galaxy-Dawn/claude-scholar",
-    "branch": "main",
-    "language": "TeX",
-    "description": "A comprehensive Claude Code configuration for data science, AI research, and academic writing. Streamline the complete research workflow—from idea to publication."
-  },
-  {
-    "repo": "codejunkie99/agentic-stack",
-    "branch": "master",
-    "language": "Python",
-    "description": "One brain, many harnesses. Portable .agent/ folder (memory + skills + protocols) that plugs into Claude Code, Cursor, Windsurf, OpenCode, OpenClaw, Hermes, or DIY Python — and keeps its knowledge when you switch."
-  },
-  {
-    "repo": "actions/virtual-environments",
-    "branch": "main",
-    "language": "PowerShell",
-    "description": "GitHub Actions runner images"
-  },
-  {
-    "repo": "VictoriaMetrics/VictoriaMetrics",
-    "branch": "master",
-    "language": "Go",
-    "description": "VictoriaMetrics: fast, cost-effective monitoring solution and time series database"
-  },
-  {
-    "repo": "borkdude/cream",
-    "branch": "main",
-    "language": "Clojure",
-    "description": "Fast starting Clojure runtime built with GraalVM native-image + Crema"
-  },
-  {
-    "repo": "ktorio/ktor",
-    "branch": "main",
-    "language": "Kotlin",
-    "description": "Framework for quickly creating connected applications in Kotlin with minimal effort"
-  },
-  {
-    "repo": "junjiezhou1122/GptCrate",
-    "branch": "main",
-    "language": "Python",
-    "description": ""
-  },
-  {
-    "repo": "Mibayy/token-savior",
-    "branch": "main",
-    "language": "Python",
-    "description": "Token-efficient structural codebase MCP server for AI-assisted development"
-  },
-  {
-    "repo": "akeit0/okojo",
-    "branch": "main",
-    "language": "C#",
-    "description": "Okojo is an experimental low allocation managed JavaScript engine for .NET"
-  },
-  {
-    "repo": "realm/SwiftLint",
-    "branch": "main",
-    "language": "Swift",
-    "description": "A tool to enforce Swift style and conventions."
-  },
-  {
-    "repo": "alchaincyf/nuwa-skill",
-    "branch": "main",
-    "language": "Python",
-    "description": "你想蒸馏的下一个员工，何必是同事。蒸馏任何人的思维方式——心智模型、决策启发式、表达DNA。Distill how anyone thinks."
-  },
-  {
-    "repo": "pytorch/vision",
-    "branch": "main",
-    "language": "Python",
-    "description": "Datasets, Transforms and Models specific to Computer Vision"
-  },
-  {
-    "repo": "vansh-nagar/ascii-studio",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Turn Videos into ASCII Frames - real ascii frames (character-based frames that run smoothly in sequence)"
-  },
-  {
-    "repo": "fastify/fastify",
+    "repo": "by-sonic/unblock-pro",
     "branch": "main",
     "language": "JavaScript",
-    "description": "Fast and low overhead web framework, for Node.js"
+    "description": "Обход блокировок Discord и YouTube — автоматический DPI bypass для macOS и Windows | Unblock Discord & YouTube in Russia"
+  },
+  {
+    "repo": "TheCSir/TerminalStart",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Chromium Extension for Tech Bros"
+  },
+  {
+    "repo": "vercel-labs/visual-json",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "The Visual JSON Editor. Schema-aware, embeddable, extensible."
+  },
+  {
+    "repo": "deepseek-ai/DeepSeek-Math",
+    "branch": "main",
+    "language": "Python",
+    "description": "DeepSeekMath: Pushing the Limits of Mathematical Reasoning in Open Language Models"
+  },
+  {
+    "repo": "iluwatar/java-design-patterns",
+    "branch": "master",
+    "language": "Java",
+    "description": "Design patterns implemented in Java"
+  },
+  {
+    "repo": "openai/openai-python",
+    "branch": "main",
+    "language": "Python",
+    "description": "The official Python library for the OpenAI API"
+  },
+  {
+    "repo": "nashsu/llm_wiki",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": ""
   }
 ]

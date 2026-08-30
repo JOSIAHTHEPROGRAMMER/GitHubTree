@@ -1,8 +1,8 @@
 {
-  "repo": "hassenbrahim/GradientCanvas",
+  "repo": "XIaodou0416/Beans-Music",
   "branch": "main",
-  "language": "PHP",
-  "description": "GradientCanvas is a parallel-processing, auto-scaling render platform for real-time data visualization utilizing a distributed toolkit framework.",
-  "stars": 116,
-  "forks": 1
+  "language": "Swift",
+  "description": "Beans Music - iOS 26 液态玻璃风格第三方音乐播放器（仅供学习）",
+  "stars": 220,
+  "forks": 17
 }
