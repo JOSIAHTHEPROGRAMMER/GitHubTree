@@ -1,8 +1,8 @@
 {
-  "repo": "MSNightmare/HardBreacher",
+  "repo": "fuad403273/CryptoPool",
   "branch": "main",
-  "language": "C",
-  "description": "Kaspersky Antivirus For Endpoint ZeroDay Elevation of Privileges Vulnerability",
-  "stars": 175,
-  "forks": 40
+  "language": "JavaScript",
+  "description": "A simple CryptoPool Platform for Predictive Analytics.",
+  "stars": 116,
+  "forks": 0
 }

@@ -1,146 +1,146 @@
 [
   {
-    "repo": "thesSmartApe/polymarket-copy-trading-bot-rust",
-    "branch": "main",
-    "language": "Rust",
-    "description": "polymarket rust copy trading bot polymarket copy trading bot polymarket copy trading bot polymarket copy trading bot polymarket copy trading bot polymarket copy trading bot polymarket copy trading bot polymarket copy trading bot polymarket copy trading bot polymarket copy trading bot"
+    "repo": "square/retrofit",
+    "branch": "master",
+    "language": "HTML",
+    "description": "A type-safe HTTP client for Android and the JVM"
   },
   {
-    "repo": "rogerbush007-a11y/DJOneHub-mac-enhanced",
+    "repo": "anthropics/cwc-workshops",
     "branch": "main",
-    "language": "Go",
+    "language": "TypeScript",
     "description": ""
   },
   {
-    "repo": "supermemoryai/openclaw-supermemory",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Supermemory allows Clawdbot / Molt bot to have PERFECT memory and recall for their own personal agent."
-  },
-  {
-    "repo": "AMAP-ML/MathForge",
-    "branch": "main",
-    "language": "Python",
-    "description": "(ICLR 2026) Harder Is Better: Boosting Mathematical Reasoning via Difficulty-Aware GRPO and Multi-Aspect Question Reformulation"
-  },
-  {
-    "repo": "acedef/SynthAPT",
-    "branch": "master",
-    "language": "Rust",
-    "description": "Generate malware with AI"
-  },
-  {
-    "repo": "Eul45/omni-search",
-    "branch": "main",
-    "language": "C++",
-    "description": "High-performance Windows file indexer/search app using NTFS USN/MFT (Tauri + Rust + C++)."
-  },
-  {
-    "repo": "HKUDS/ClawWork",
-    "branch": "main",
-    "language": "Python",
-    "description": "ClawWork: OpenClaw as Your AI Coworker - 💰 $10K earned in 7 Hours"
-  },
-  {
-    "repo": "antirez/voxtral.c",
+    "repo": "vixhal-baraiya/microgpt-c",
     "branch": "main",
     "language": "C",
-    "description": "Pure C inference of Mistral Voxtral Realtime 4B speech to text model"
+    "description": "The most atomic way to train and inference a GPT in pure, dependency-free C"
   },
   {
-    "repo": "ShinMegamiBoson/OpenPlanter",
+    "repo": "TeleHuman/humanoid_skateboarding",
     "branch": "main",
     "language": "Python",
-    "description": ""
+    "description": "Official implementation of HUSKY: Humanoid Skateboarding System via Physics-Aware Whole-Body Control"
   },
   {
-    "repo": "petergpt/bullshit-benchmark",
+    "repo": "rebane2001/x86CSS",
+    "branch": "mane",
+    "language": "HTML",
+    "description": "x86CSS is a working CSS-only x86 CPU/emulator/computer. No JavaScript required."
+  },
+  {
+    "repo": "krishnaop/Adobe-CS6-Photoshop-For-PC",
     "branch": "main",
-    "language": "Python",
-    "description": ""
+    "language": "C++",
+    "description": "Adobe Photoshop CS6 Extended Full Version 2026 for PC – Professional photo editing software with all advanced tools. Includes layers, masks, brushes, filters, 3D editing, and powerful image manipulation features. Full unlocked Extended edition with no restrictions. Offline installer for Windows 10/11. The best classic Photoshop CS6"
   },
   {
-    "repo": "FiloSottile/age",
-    "branch": "main",
-    "language": "Go",
-    "description": "A simple, modern and secure encryption tool (and Go library) with small explicit keys, no config options, and UNIX-style composability."
-  },
-  {
-    "repo": "nj19257/FastSkills",
-    "branch": "main",
-    "language": "Python",
-    "description": "⚡ MCP server that brings Agent Skills (the open standard behind Claude Code, OpenClaw & nanobot) to any MCP-compatible agent. Discover, load, create & execute skills."
-  },
-  {
-    "repo": "marswei/seaseed-clawerse",
+    "repo": "holysheep123/holysheep-cli",
     "branch": "main",
     "language": "JavaScript",
-    "description": "Open-source implementation of SeaSeed.ai v1.0 (codename: Clawerse). AI ocean world platform for multi-agent social, tasks and compute collaboration."
+    "description": "🐑 One command to configure all AI coding tools — Claude Code, Codex, Gemini CLI, Cursor, Aider & more"
   },
   {
-    "repo": "ClawBio/ClawBio",
+    "repo": "freestylefly/openclaw-wechat",
+    "branch": "master",
+    "language": "TypeScript",
+    "description": "让 OpenClaw稳定的连上你的个人微信"
+  },
+  {
+    "repo": "cfinke/EpsteIn",
     "branch": "main",
     "language": "Python",
-    "description": "🦖 ClawBio — The first bioinformatics-native AI agent skill library. Local-first. Reproducible. Built on OpenClaw."
+    "description": "See which of your LinkedIn connections appear in the Epstein files."
   },
   {
-    "repo": "open-policy-agent/gatekeeper",
-    "branch": "master",
-    "language": "Go",
-    "description": "🐊 Policy Controller for Kubernetes"
-  },
-  {
-    "repo": "junit-team/junit4",
+    "repo": "facebook/docusaurus",
     "branch": "main",
+    "language": "TypeScript",
+    "description": "Easy to maintain open source documentation websites."
+  },
+  {
+    "repo": "ReactiveX/RxJava",
+    "branch": "3.x",
     "language": "Java",
-    "description": "A programmer-oriented testing framework for Java — :warning: maintenance mode"
+    "description": "RxJava – Reactive Extensions for the JVM – a library for composing asynchronous and event-based programs using observable sequences for the Java VM."
   },
   {
-    "repo": "Ibrahim-3d/conductor-orchestrator-superpowers",
+    "repo": "microsoft/react-native-code-push",
     "branch": "master",
-    "language": "Python",
-    "description": "Multi-agent orchestration system for Claude Code with parallel execution, automated quality gates, Board of Directors, and bundled Superpowers skills"
+    "language": "C",
+    "description": "React Native module for CodePush"
   },
   {
-    "repo": "pi0/skillman",
+    "repo": "google-deepmind/graphcast",
+    "branch": "main",
+    "language": "Python",
+    "description": "Deep learning weather model from Google DeepMind."
+  },
+  {
+    "repo": "Shudesu/line-harness-oss",
     "branch": "main",
     "language": "TypeScript",
-    "description": "🤹 Manage project skills and lock them in skills.json"
+    "description": "Open-source LINE Official Account CRM — free alternative to paid tools. Step delivery, broadcasts, forms, rich menus, scoring, automation, and more."
   },
   {
-    "repo": "MarlinFirmware/Marlin",
-    "branch": "bugfix-2.1.x",
+    "repo": "HJCheng0602/nanoPD",
+    "branch": "main",
+    "language": "Python",
+    "description": "A from-scratch Prefill/Decode disaggregation inference engine for LLMs"
+  },
+  {
+    "repo": "cisco-ai-defense/defenseclaw",
+    "branch": "main",
+    "language": "Python",
+    "description": "Security Governance for Agentic AI"
+  },
+  {
+    "repo": "0xSero/moe-compress",
+    "branch": "main",
+    "language": "Python",
+    "description": "Model-agnostic MoE compression automation: build calibration bundles, run REAP/quantization/benchmark/publish stages, and render auditable reports."
+  },
+  {
+    "repo": "serde-rs/serde",
+    "branch": "master",
+    "language": "Rust",
+    "description": "Serialization framework for Rust"
+  },
+  {
+    "repo": "streamlit/streamlit",
+    "branch": "develop",
+    "language": "Python",
+    "description": "Streamlit — A faster way to build and share data apps."
+  },
+  {
+    "repo": "gcc-mirror/gcc",
+    "branch": "master",
     "language": "C++",
-    "description": "Marlin is a firmware for RepRap 3D printers optimized for both 8 and 32 bit microcontrollers.  Marlin supports all common platforms.   Many commercial 3D printers come with Marlin installed.  Check with your vendor if you need source code for your specific machine."
+    "description": "Mirror of the GNU Compiler Collection master repository."
   },
   {
-    "repo": "marshmallow-code/marshmallow",
-    "branch": "dev",
-    "language": "Python",
-    "description": "A lightweight library for converting complex objects to and from simple Python datatypes."
-  },
-  {
-    "repo": "runesleo/x-reader",
+    "repo": "cathrynlavery/diagram-design",
     "branch": "main",
-    "language": "Python",
-    "description": "Universal content reader — fetch, normalize, and digest content from 7+ platforms (WeChat, Telegram, X, YouTube, Bilibili, Xiaohongshu, RSS)"
+    "language": "HTML",
+    "description": "Thirteen editorial diagram types for Claude Code. Self-contained HTML + SVG. No shadows, no Mermaid-slop."
   },
   {
-    "repo": "operator-framework/operator-sdk",
+    "repo": "guzzle/guzzle",
     "branch": "master",
-    "language": "Go",
-    "description": "SDK for building Kubernetes applications. Provides high level APIs, useful abstractions, and project scaffolding."
+    "language": "PHP",
+    "description": "Guzzle, an extensible PHP HTTP client"
   },
   {
-    "repo": "steipete/birdclaw",
-    "branch": "main",
+    "repo": "microsoft/AI",
+    "branch": "master",
+    "language": "Python",
+    "description": "Microsoft AI"
+  },
+  {
+    "repo": "stablyai/agent-slack",
+    "branch": "master",
     "language": "TypeScript",
-    "description": "Stores all your tweets nicely claw-able for agents."
-  },
-  {
-    "repo": "seaweedfs/seaweedfs",
-    "branch": "master",
-    "language": "Go",
-    "description": "SeaweedFS is a fast distributed storage system for blobs, objects, files, and data lake, for billions of files! Blob store has O(1) disk seek, cloud tiering. Filer supports Cloud Drive, xDC replication, Kubernetes, POSIX FUSE mount, S3 API, S3 Gateway, Hadoop, WebDAV, encryption, Erasure Coding. Enterprise version is at seaweedfs.com."
+    "description": "Slack automation CLI for AI agents"
   }
 ]
