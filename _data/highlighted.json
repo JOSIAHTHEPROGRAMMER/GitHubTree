@@ -1,8 +1,8 @@
 {
-  "repo": "lxl0825/MerkleVault",
+  "repo": "Belucking/RagPool",
   "branch": "main",
-  "language": "PHP",
-  "description": "Edge MerkleVault Manager that handles event driven processing, built for everyday use.",
-  "stars": 115,
+  "language": "Python",
+  "description": "RagPool enables real-time data processing across a distributed system, utilizing auto-scaling capabilities for optimized performance management.",
+  "stars": 116,
   "forks": 0
 }

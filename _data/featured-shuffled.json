@@ -1,99 +1,99 @@
 [
   {
-    "repo": "yuwen-cool/yuwen-publish-precheck",
-    "branch": "master",
-    "language": "Python",
-    "description": "发布前审｜发抖音/小红书/视频号前先让 AI 审一遍：哪句踩线、依据哪条官方规则、给能直接用的改法。38 篇真实样本校准判定尺度，72 条官方原文引文可查证，你踩过的坑沉淀成本地规则库越用越准。不承诺过审，不教绕审。"
-  },
-  {
-    "repo": "prakhar1989/awesome-courses",
-    "branch": "master",
-    "language": "Other",
-    "description": ":books: List of awesome university courses for learning Computer Science!"
-  },
-  {
-    "repo": "fullcalendar/fullcalendar",
+    "repo": "heyFive-dev/Polymarket-Arbitrage-Trading-Bot-v2",
     "branch": "main",
     "language": "TypeScript",
-    "description": "Full-sized drag & drop event calendar in JavaScript"
+    "description": "Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot  Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot"
   },
   {
-    "repo": "BabylonJS/Babylon.js",
+    "repo": "pmndrs/react-three-fiber",
     "branch": "master",
     "language": "TypeScript",
-    "description": "Babylon.js is a powerful, beautiful, simple, and open game and rendering engine packed into a friendly JavaScript framework."
+    "description": "🇨🇭 A React renderer for Three.js"
   },
   {
-    "repo": "compound-finance/compound-protocol",
-    "branch": "master",
-    "language": "TypeScript",
-    "description": "The Compound On-Chain Protocol"
-  },
-  {
-    "repo": "prusa3d/PrusaSlicer",
-    "branch": "master",
-    "language": "C++",
-    "description": "G-code generator for 3D printers (RepRap, Makerbot, Ultimaker etc.)"
-  },
-  {
-    "repo": "kapla0011/KaplaStrike",
-    "branch": "main",
-    "language": "C",
-    "description": "A Cobalt Strike RL built with Crystal Palace — module overloading, NtContinue entry transfer, call stack spoofing, sleep masking, and static signature removal."
-  },
-  {
-    "repo": "dodo-reach/hermes-desktop",
-    "branch": "main",
-    "language": "Swift",
-    "description": "A native Mac workspace for Hermes: real SSH, real terminal, real session data."
-  },
-  {
-    "repo": "FuelLabs/fuel-core",
-    "branch": "master",
-    "language": "Rust",
-    "description": "Rust full node implementation of the Fuel v2 protocol."
-  },
-  {
-    "repo": "bc-dunia/qwen3-TTS-studio",
+    "repo": "AgriciDaniel/claude-seo",
     "branch": "main",
     "language": "Python",
-    "description": "A professional-grade interface for Qwen3-TTS, designed to unlock the model's full potential with fine-grained control and intuitive workflows."
+    "description": "Universal SEO skill for Claude Code. Comprehensive SEO analysis for any website or business type."
   },
   {
-    "repo": "ythx-101/ask-search",
+    "repo": "alibaba-damo-academy/RynnBrain",
+    "branch": "main",
+    "language": "Jupyter Notebook",
+    "description": "RynnBrain: Open Embodied Foundation Models"
+  },
+  {
+    "repo": "godagoo/claude-telegram-relay",
     "branch": "master",
-    "language": "Python",
-    "description": "Self-hosted web search skill for AI agents (OpenClaw/Claude Code/Antigravity) via SearxNG"
-  },
-  {
-    "repo": "simonw/cia-world-factbook-2020",
-    "branch": "main",
-    "language": "HTML",
-    "description": "Recovered cia.gov/the-world-factbook/about/archives/download/factbook-2020.zip from Internet Archive"
-  },
-  {
-    "repo": "MeisnerDan/mission-control",
-    "branch": "main",
     "language": "TypeScript",
-    "description": "Open-source task management for the agentic era. The command center for solo entrepreneurs who delegate work to AI agents."
+    "description": "Minimal pattern for running Claude Code as an always-on Telegram bot. Cross-platform daemon setup included."
   },
   {
-    "repo": "calesthio/Crucix",
-    "branch": "master",
-    "language": "JavaScript",
-    "description": "Your personal intelligence agent. Watches the world from 26 data sources and pings you when something changes."
-  },
-  {
-    "repo": "golang-migrate/migrate",
-    "branch": "master",
+    "repo": "thellimist/clihub",
+    "branch": "main",
     "language": "Go",
-    "description": "Database migrations. CLI and Golang library."
+    "description": ""
   },
   {
-    "repo": "vercel-labs/portless",
+    "repo": "openhome-dev/abilities",
+    "branch": "dev",
+    "language": "Python",
+    "description": "Open-source abilities for OpenHome agents."
+  },
+  {
+    "repo": "Thearas/wechat-db-decrypt-macos",
     "branch": "main",
-    "language": "TypeScript",
-    "description": "Replace port numbers with stable, named .localhost URLs. For humans and agents."
+    "language": "Python",
+    "description": "macOS arm64 微信 4.1 数据库解密，只在最新的微信 4.1.2.241 测试过，不支持4.0 以下版本"
+  },
+  {
+    "repo": "ythx-101/x-tweet-fetcher",
+    "branch": "main",
+    "language": "Python",
+    "description": "🦞 Fetch tweets and replies from X/Twitter without login or API keys. OpenClaw skill."
+  },
+  {
+    "repo": "andyhuo520/rf-detr-detection",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "基于 RF-DETR 的浏览器端实时目标检测应用"
+  },
+  {
+    "repo": "TeleHuman/humanoid_skateboarding",
+    "branch": "main",
+    "language": "Python",
+    "description": "Official implementation of HUSKY: Humanoid Skateboarding System via Physics-Aware Whole-Body Control"
+  },
+  {
+    "repo": "Eul45/omni-search",
+    "branch": "main",
+    "language": "C++",
+    "description": "High-performance Windows file indexer/search app using NTFS USN/MFT (Tauri + Rust + C++)."
+  },
+  {
+    "repo": "cs50victor/claude-code-teams-mcp",
+    "branch": "main",
+    "language": "Python",
+    "description": "use claude code's agent teams orchestraction with any harness"
+  },
+  {
+    "repo": "FrankDavis236869/spyder-osint",
+    "branch": "main",
+    "language": "Python",
+    "description": "Spyder OSINT GUI — Graphical open-source intelligence research tool for phone number lookup, IP geolocation, social media reconnaissance, email validation, domain WHOIS, username search, with multi-module architecture and Tkinter-based interface for digital forensics"
+  },
+  {
+    "repo": "HKUDS/FastCode",
+    "branch": "main",
+    "language": "Python",
+    "description": "FastCode: Accelerating and Streamlining Your Code Understanding"
+  },
+  {
+    "repo": "ashleymills/Reachability.swift",
+    "branch": "master",
+    "language": "Swift",
+    "description": "Replacement for Apple's Reachability re-written in Swift with closures"
   },
   {
     "repo": "ysharma3501/LavaSR",
@@ -102,45 +102,45 @@
     "description": "🌋LavaSR: Fast Speech restoration and enhancement"
   },
   {
-    "repo": "raspberrypi/linux",
-    "branch": "rpi-6.6.y",
-    "language": "C",
-    "description": "Kernel source tree for Raspberry Pi-provided kernel builds. Issues unrelated to the linux kernel should be posted on the community forum at https://forums.raspberrypi.com/"
-  },
-  {
-    "repo": "antirez/tgterm",
-    "branch": "main",
-    "language": "C",
-    "description": "Control your MacOS terminals via Telegram, for fun coding agents interaction and profit"
-  },
-  {
-    "repo": "scrya-com/rotorquant",
+    "repo": "deepseek-ai/DeepSeek-OCR-2",
     "branch": "main",
     "language": "Python",
-    "description": "RotorQuant: Clifford algebra vector quantization for LLM KV cache compression. 10-19x faster than TurboQuant, 44x fewer parameters."
+    "description": ""
   },
   {
-    "repo": "virattt/ai-hedge-fund",
+    "repo": "hallucinogen/agent-viewer",
     "branch": "main",
-    "language": "Python",
-    "description": "An AI Hedge Fund Team"
+    "language": "HTML",
+    "description": "Kanban board for managing Claude Code agents in tmux"
   },
   {
-    "repo": "labuladong/fucking-algorithm",
+    "repo": "ochyai/open-japan-politech-platform",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "政党・企業によらない政治のデジタル化オープンソース基盤"
+  },
+  {
+    "repo": "lijigang/ljg-skill-explain-words",
     "branch": "master",
-    "language": "Markdown",
-    "description": "刷算法全靠套路，认准 labuladong 就够了！English version supported! Crack LeetCode, not only how, but also why."
+    "language": "HTML",
+    "description": "单词灵魂解剖师 — Claude Code Skill，深度解构英文单词，生成博物馆级 HTML 卡片"
   },
   {
-    "repo": "paramiko/paramiko",
+    "repo": "eonsystemspbc/fly-brain",
     "branch": "main",
     "language": "Python",
-    "description": "The leading native Python SSHv2 protocol library."
+    "description": "Emulation of the Drosophila Fly brain: Brian2, Brian2CUDA, PyTorch, NEST GPU, and neuromorphic chips"
   },
   {
-    "repo": "Zcy233035/rl-explainer",
+    "repo": "africa1207/AWS-BuildID-Auto-For-Ext",
     "branch": "main",
-    "language": "Svelte",
-    "description": "rl-explainer"
+    "language": "JavaScript",
+    "description": ""
+  },
+  {
+    "repo": "frederikemmer/MediaLyze",
+    "branch": "main",
+    "language": "Python",
+    "description": "Self-hosted media library analysis for large video collections"
   }
 ]
