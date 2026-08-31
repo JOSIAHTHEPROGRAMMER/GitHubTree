@@ -1,146 +1,146 @@
 [
   {
-    "repo": "ynsmroztas/AndroHunter",
-    "branch": "main",
-    "language": "Java",
-    "description": "AndroHunter"
+    "repo": "yuwen-cool/yuwen-publish-precheck",
+    "branch": "master",
+    "language": "Python",
+    "description": "发布前审｜发抖音/小红书/视频号前先让 AI 审一遍：哪句踩线、依据哪条官方规则、给能直接用的改法。38 篇真实样本校准判定尺度，72 条官方原文引文可查证，你踩过的坑沉淀成本地规则库越用越准。不承诺过审，不教绕审。"
   },
   {
-    "repo": "humblebanana/open-record-replay",
-    "branch": "main",
-    "language": "Swift",
-    "description": "Open-source macOS record-and-replay workflow recorder for computer use agents. Captures mouse, keyboard, and UI events as structured traces so agents can learn, replay, and automate real desktop tasks."
+    "repo": "prakhar1989/awesome-courses",
+    "branch": "master",
+    "language": "Other",
+    "description": ":books: List of awesome university courses for learning Computer Science!"
   },
   {
-    "repo": "ArielMartinezz/Character-Creator-Female-Crimson-Desert-Mod",
+    "repo": "fullcalendar/fullcalendar",
     "branch": "main",
+    "language": "TypeScript",
+    "description": "Full-sized drag & drop event calendar in JavaScript"
+  },
+  {
+    "repo": "BabylonJS/Babylon.js",
+    "branch": "master",
+    "language": "TypeScript",
+    "description": "Babylon.js is a powerful, beautiful, simple, and open game and rendering engine packed into a friendly JavaScript framework."
+  },
+  {
+    "repo": "compound-finance/compound-protocol",
+    "branch": "master",
+    "language": "TypeScript",
+    "description": "The Compound On-Chain Protocol"
+  },
+  {
+    "repo": "prusa3d/PrusaSlicer",
+    "branch": "master",
     "language": "C++",
-    "description": "Download Character Creator Female mod for Crimson Desert. Expanded customization with new hairstyles, faces, body morphs, outfits, and accessories. Create more beautiful and diverse female characters with high-quality textures and presets."
+    "description": "G-code generator for 3D printers (RepRap, Makerbot, Ultimaker etc.)"
   },
   {
-    "repo": "orchetron/storm",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "A compositor-based terminal UI framework. Fast. Layered. Unstoppable."
-  },
-  {
-    "repo": "hang-in/seCall",
-    "branch": "main",
-    "language": "Rust",
-    "description": "recall your second brain"
-  },
-  {
-    "repo": "NousResearch/hermes-agent-self-evolution",
-    "branch": "main",
-    "language": "Python",
-    "description": "⚒ Evolutionary self-improvement for Hermes Agent — optimize skills, prompts, and code using DSPy + GEPA"
-  },
-  {
-    "repo": "prof-oguzergin/bilgisayar-mimarisi",
-    "branch": "main",
-    "language": "TeX",
-    "description": "Bilgisayar Mimarisi: RISC-V Tabanlı Yaklaşım — Açık kaynak Türkçe ders kitabı (CC BY-NC-ND 4.0)"
-  },
-  {
-    "repo": "millionco/debug-agent",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Debugging skill for AI agents"
-  },
-  {
-    "repo": "bitman09/Rust-Politics-Sports-Polymarket-Trading-Bot",
-    "branch": "main",
-    "language": "Rust",
-    "description": "A Rust bot for Polymarket that trades sports and politics (binary) markets by slug using a trailing stop strategy only."
-  },
-  {
-    "repo": "agenmod/immortal-skill",
-    "branch": "main",
-    "language": "Python",
-    "description": "♾️ 开源数字永生框架 — 从聊天记录蒸馏任何人的七维数字分身。支持微信/飞书/iMessage/Telegram等12+平台，7种角色模板，对齐 OpenClaw Soul Spec 标准。一行指令让你的AI学会蒸馏。"
-  },
-  {
-    "repo": "areofyl/fetch",
+    "repo": "kapla0011/KaplaStrike",
     "branch": "main",
     "language": "C",
-    "description": "An animated 3D fetch tool for your terminal. Takes your distro's ASCII logo, turns it into a spinning 3D object, and displays system info alongside it."
+    "description": "A Cobalt Strike RL built with Crystal Palace — module overloading, NtContinue entry transfer, call stack spoofing, sleep masking, and static signature removal."
   },
   {
-    "repo": "PIPIKAI/auto-painter-win",
-    "branch": "main",
-    "language": "Python",
-    "description": "Supports multiple sketch styles and automated mouse-controlled painting."
-  },
-  {
-    "repo": "htimesnine/DarkSword-RCE",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "DarkSword webkit exploit captured ITW"
-  },
-  {
-    "repo": "ListerOvO1211/LazyEnv",
-    "branch": "main",
-    "language": "C++",
-    "description": ""
-  },
-  {
-    "repo": "0din-ai/ai-scanner",
-    "branch": "main",
-    "language": "Ruby",
-    "description": "AI model safety scanner built on NVIDIA garak"
-  },
-  {
-    "repo": "jackwener/xiaohongshu-cli",
-    "branch": "main",
-    "language": "Python",
-    "description": "A CLI for Xiaohongshu (小红书) — search, read, interact via reverse-engineered API"
-  },
-  {
-    "repo": "FinPyromancerLog/xcode-claw",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": ""
-  },
-  {
-    "repo": "Wendor/teapod-stream",
-    "branch": "master",
-    "language": "Dart",
-    "description": ""
-  },
-  {
-    "repo": "EthanLipnik/Loom",
+    "repo": "dodo-reach/hermes-desktop",
     "branch": "main",
     "language": "Swift",
-    "description": "Easy peer to peer networking for Apple devices"
+    "description": "A native Mac workspace for Hermes: real SSH, real terminal, real session data."
   },
   {
-    "repo": "ironsh/iron-proxy",
+    "repo": "FuelLabs/fuel-core",
+    "branch": "master",
+    "language": "Rust",
+    "description": "Rust full node implementation of the Fuel v2 protocol."
+  },
+  {
+    "repo": "bc-dunia/qwen3-TTS-studio",
     "branch": "main",
+    "language": "Python",
+    "description": "A professional-grade interface for Qwen3-TTS, designed to unlock the model's full potential with fine-grained control and intuitive workflows."
+  },
+  {
+    "repo": "ythx-101/ask-search",
+    "branch": "master",
+    "language": "Python",
+    "description": "Self-hosted web search skill for AI agents (OpenClaw/Claude Code/Antigravity) via SearxNG"
+  },
+  {
+    "repo": "simonw/cia-world-factbook-2020",
+    "branch": "main",
+    "language": "HTML",
+    "description": "Recovered cia.gov/the-world-factbook/about/archives/download/factbook-2020.zip from Internet Archive"
+  },
+  {
+    "repo": "MeisnerDan/mission-control",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Open-source task management for the agentic era. The command center for solo entrepreneurs who delegate work to AI agents."
+  },
+  {
+    "repo": "calesthio/Crucix",
+    "branch": "master",
+    "language": "JavaScript",
+    "description": "Your personal intelligence agent. Watches the world from 26 data sources and pings you when something changes."
+  },
+  {
+    "repo": "golang-migrate/migrate",
+    "branch": "master",
     "language": "Go",
-    "description": "An egress firewall for untrusted workloads."
+    "description": "Database migrations. CLI and Golang library."
   },
   {
-    "repo": "helenigtxu/TradingView-Claw",
+    "repo": "vercel-labs/portless",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Replace port numbers with stable, named .localhost URLs. For humans and agents."
+  },
+  {
+    "repo": "ysharma3501/LavaSR",
     "branch": "main",
     "language": "Python",
-    "description": ""
+    "description": "🌋LavaSR: Fast Speech restoration and enhancement"
   },
   {
-    "repo": "finvfamily/finshare",
+    "repo": "raspberrypi/linux",
+    "branch": "rpi-6.6.y",
+    "language": "C",
+    "description": "Kernel source tree for Raspberry Pi-provided kernel builds. Issues unrelated to the linux kernel should be posted on the community forum at https://forums.raspberrypi.com/"
+  },
+  {
+    "repo": "antirez/tgterm",
+    "branch": "main",
+    "language": "C",
+    "description": "Control your MacOS terminals via Telegram, for fun coding agents interaction and profit"
+  },
+  {
+    "repo": "scrya-com/rotorquant",
     "branch": "main",
     "language": "Python",
-    "description": "专业的金融数据获取工具库 - A Professional Financial Data Fetching Toolkit for   Python"
+    "description": "RotorQuant: Clifford algebra vector quantization for LLM KV cache compression. 10-19x faster than TurboQuant, 44x fewer parameters."
   },
   {
-    "repo": "CrewSX/polymarket-esports-trading-bot",
+    "repo": "virattt/ai-hedge-fund",
     "branch": "main",
     "language": "Python",
-    "description": "Automated prediction market trading bot for Polymarket esports markets — LoL, Dota 2, CS2, Valorant, Rainbow Six, Call of Duty, Mobile Legends, StarCraft II & Overwatch."
+    "description": "An AI Hedge Fund Team"
   },
   {
-    "repo": "Shakir2021/Delta-for-Roblox-PC-Edition",
+    "repo": "labuladong/fucking-algorithm",
+    "branch": "master",
+    "language": "Markdown",
+    "description": "刷算法全靠套路，认准 labuladong 就够了！English version supported! Crack LeetCode, not only how, but also why."
+  },
+  {
+    "repo": "paramiko/paramiko",
     "branch": "main",
-    "language": "C++",
-    "description": "Delta for Roblox PC Edition is a lightweight and optimized Roblox client for Windows. Enjoy higher FPS, reduced input lag, better graphics, and smoother gameplay. The best desktop edition for playing Roblox with enhanced performance and modern features."
+    "language": "Python",
+    "description": "The leading native Python SSHv2 protocol library."
+  },
+  {
+    "repo": "Zcy233035/rl-explainer",
+    "branch": "main",
+    "language": "Svelte",
+    "description": "rl-explainer"
   }
 ]
