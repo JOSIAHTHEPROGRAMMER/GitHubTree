@@ -1,146 +1,146 @@
 [
   {
-    "repo": "heyFive-dev/Polymarket-Arbitrage-Trading-Bot-v2",
+    "repo": "OpusDelta/opusdelta",
+    "branch": "main",
+    "language": "Python",
+    "description": "The first expression of machine emotion, a living delta of perpetual evolution."
+  },
+  {
+    "repo": "afonsojramos/react-native-super-calendar",
     "branch": "main",
     "language": "TypeScript",
-    "description": "Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot  Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot"
+    "description": "Gesture-driven, virtualized month / week / day calendar and date picker for React Native and the web."
   },
   {
-    "repo": "pmndrs/react-three-fiber",
+    "repo": "ReactiveX/RxAndroid",
+    "branch": "3.x",
+    "language": "Java",
+    "description": "RxJava bindings for Android"
+  },
+  {
+    "repo": "apache/echarts",
     "branch": "master",
     "language": "TypeScript",
-    "description": "🇨🇭 A React renderer for Three.js"
+    "description": "Apache ECharts is a powerful, interactive charting and data visualization library for browser"
   },
   {
-    "repo": "AgriciDaniel/claude-seo",
+    "repo": "tmux/tmux",
+    "branch": "master",
+    "language": "C",
+    "description": "tmux source code"
+  },
+  {
+    "repo": "lukehinds/nono",
     "branch": "main",
-    "language": "Python",
-    "description": "Universal SEO skill for Claude Code. Comprehensive SEO analysis for any website or business type."
+    "language": "Rust",
+    "description": "OS-Level Isolation for AI Agents."
   },
   {
-    "repo": "alibaba-damo-academy/RynnBrain",
-    "branch": "main",
-    "language": "Jupyter Notebook",
-    "description": "RynnBrain: Open Embodied Foundation Models"
-  },
-  {
-    "repo": "godagoo/claude-telegram-relay",
+    "repo": "FuelLabs/fuels-ts",
     "branch": "master",
     "language": "TypeScript",
-    "description": "Minimal pattern for running Claude Code as an always-on Telegram bot. Cross-platform daemon setup included."
+    "description": "Fuel Network Typescript SDK"
   },
   {
-    "repo": "thellimist/clihub",
-    "branch": "main",
-    "language": "Go",
-    "description": ""
-  },
-  {
-    "repo": "openhome-dev/abilities",
-    "branch": "dev",
-    "language": "Python",
-    "description": "Open-source abilities for OpenHome agents."
-  },
-  {
-    "repo": "Thearas/wechat-db-decrypt-macos",
-    "branch": "main",
-    "language": "Python",
-    "description": "macOS arm64 微信 4.1 数据库解密，只在最新的微信 4.1.2.241 测试过，不支持4.0 以下版本"
-  },
-  {
-    "repo": "ythx-101/x-tweet-fetcher",
-    "branch": "main",
-    "language": "Python",
-    "description": "🦞 Fetch tweets and replies from X/Twitter without login or API keys. OpenClaw skill."
-  },
-  {
-    "repo": "andyhuo520/rf-detr-detection",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "基于 RF-DETR 的浏览器端实时目标检测应用"
-  },
-  {
-    "repo": "TeleHuman/humanoid_skateboarding",
-    "branch": "main",
-    "language": "Python",
-    "description": "Official implementation of HUSKY: Humanoid Skateboarding System via Physics-Aware Whole-Body Control"
-  },
-  {
-    "repo": "Eul45/omni-search",
-    "branch": "main",
-    "language": "C++",
-    "description": "High-performance Windows file indexer/search app using NTFS USN/MFT (Tauri + Rust + C++)."
-  },
-  {
-    "repo": "cs50victor/claude-code-teams-mcp",
-    "branch": "main",
-    "language": "Python",
-    "description": "use claude code's agent teams orchestraction with any harness"
-  },
-  {
-    "repo": "FrankDavis236869/spyder-osint",
-    "branch": "main",
-    "language": "Python",
-    "description": "Spyder OSINT GUI — Graphical open-source intelligence research tool for phone number lookup, IP geolocation, social media reconnaissance, email validation, domain WHOIS, username search, with multi-module architecture and Tkinter-based interface for digital forensics"
-  },
-  {
-    "repo": "HKUDS/FastCode",
-    "branch": "main",
-    "language": "Python",
-    "description": "FastCode: Accelerating and Streamlining Your Code Understanding"
-  },
-  {
-    "repo": "ashleymills/Reachability.swift",
+    "repo": "shanselman/openclaw-windows-hub",
     "branch": "master",
+    "language": "C#",
+    "description": "Windows companion suite for Moltbot - System Tray app, Shared library, and PowerToys Command Palette extension"
+  },
+  {
+    "repo": "huggingface/transformers",
+    "branch": "main",
+    "language": "Python",
+    "description": "🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training."
+  },
+  {
+    "repo": "ansible/awx",
+    "branch": "devel",
+    "language": "Python",
+    "description": "AWX provides a web-based user interface, REST API, and task engine built on top of Ansible. It is one of the upstream projects for Red Hat Ansible Automation Platform."
+  },
+  {
+    "repo": "apple/swift-protobuf",
+    "branch": "main",
     "language": "Swift",
-    "description": "Replacement for Apple's Reachability re-written in Swift with closures"
+    "description": "Plugin and runtime library for using protobuf with Swift"
   },
   {
-    "repo": "ysharma3501/LavaSR",
+    "repo": "xullexer/PYDNS-Scanner",
     "branch": "main",
     "language": "Python",
-    "description": "🌋LavaSR: Fast Speech restoration and enhancement"
+    "description": "A modern, high-performance DNS scanner with a beautiful Terminal User Interface (TUI) built with Textual. This tool can scan millions of IP addresses to find working DNS servers with optional Slipstream proxy testing and automatic multi-platform client download."
   },
   {
-    "repo": "deepseek-ai/DeepSeek-OCR-2",
-    "branch": "main",
-    "language": "Python",
-    "description": ""
+    "repo": "akullpp/awesome-java",
+    "branch": "master",
+    "language": "Other",
+    "description": "A curated list of awesome frameworks, libraries and software for the Java programming language."
   },
   {
-    "repo": "hallucinogen/agent-viewer",
-    "branch": "main",
-    "language": "HTML",
-    "description": "Kanban board for managing Claude Code agents in tmux"
-  },
-  {
-    "repo": "ochyai/open-japan-politech-platform",
+    "repo": "callstackincubator/agent-device",
     "branch": "main",
     "language": "TypeScript",
-    "description": "政党・企業によらない政治のデジタル化オープンソース基盤"
+    "description": "CLI to control iOS and Android devices for AI agents"
   },
   {
-    "repo": "lijigang/ljg-skill-explain-words",
+    "repo": "smartcontractkit/chainlink",
+    "branch": "develop",
+    "language": "Go",
+    "description": "node of the decentralized oracle network, bridging on and off-chain computation"
+  },
+  {
+    "repo": "vercel/geist-font",
+    "branch": "main",
+    "language": "Python",
+    "description": "Geist is a typeface developed by Vercel."
+  },
+  {
+    "repo": "supermemoryai/clawdbot-supermemory",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Supermemory allows Clawdbot / Molt bot to have PERFECT memory and recall for their own personal agent."
+  },
+  {
+    "repo": "ChristosChristofidis/awesome-deep-learning",
     "branch": "master",
-    "language": "HTML",
-    "description": "单词灵魂解剖师 — Claude Code Skill，深度解构英文单词，生成博物馆级 HTML 卡片"
+    "language": "Other",
+    "description": "A curated list of awesome Deep Learning tutorials, projects and communities."
   },
   {
-    "repo": "eonsystemspbc/fly-brain",
-    "branch": "main",
-    "language": "Python",
-    "description": "Emulation of the Drosophila Fly brain: Brian2, Brian2CUDA, PyTorch, NEST GPU, and neuromorphic chips"
-  },
-  {
-    "repo": "africa1207/AWS-BuildID-Auto-For-Ext",
-    "branch": "main",
+    "repo": "moment/moment",
+    "branch": "develop",
     "language": "JavaScript",
-    "description": ""
+    "description": "Parse, validate, manipulate, and display dates in javascript."
   },
   {
-    "repo": "frederikemmer/MediaLyze",
+    "repo": "emacs-mirror/emacs",
+    "branch": "master",
+    "language": "Emacs Lisp",
+    "description": "Mirror of GNU Emacs"
+  },
+  {
+    "repo": "Ar9av/obsidian-wiki",
     "branch": "main",
     "language": "Python",
-    "description": "Self-hosted media library analysis for large video collections"
+    "description": "Framework for AI agents to build and maintain an Obsidian wiki using Karpathy's LLM Wiki pattern"
+  },
+  {
+    "repo": "e10nMa2k/cc-mini",
+    "branch": "main",
+    "language": "Python",
+    "description": "mini version of claude code"
+  },
+  {
+    "repo": "mui/material-ui",
+    "branch": "master",
+    "language": "JavaScript",
+    "description": "Material UI: Comprehensive React component library that implements Google's Material Design. Free forever."
+  },
+  {
+    "repo": "cypress-io/cypress",
+    "branch": "develop",
+    "language": "TypeScript",
+    "description": "Fast, easy and reliable testing for anything that runs in a browser."
   }
 ]
