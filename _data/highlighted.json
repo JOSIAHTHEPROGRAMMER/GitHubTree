@@ -1,8 +1,8 @@
 {
-  "repo": "alberto4442/ComputePool",
+  "repo": "blazux/qwen3.8-Flash-DGX",
   "branch": "main",
-  "language": "JavaScript",
-  "description": "A simple ComputePool Platform for Resource optimization.",
-  "stars": 115,
-  "forks": 0
+  "language": "Python",
+  "description": "recipe for running Qwen3.8-Flash-Next on a single DGX Spark",
+  "stars": 123,
+  "forks": 16
 }

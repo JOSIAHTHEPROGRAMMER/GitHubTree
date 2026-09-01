@@ -1,146 +1,146 @@
 [
   {
-    "repo": "ShawnPana/phone-harness",
+    "repo": "gorkem-bwl/animated-icons",
     "branch": "main",
-    "language": "Python",
-    "description": "let your agent control your phone"
+    "language": "JavaScript",
+    "description": ""
   },
   {
-    "repo": "FlowiseAI/Flowise",
+    "repo": "google/jax",
+    "branch": "main",
+    "language": "Python",
+    "description": "Composable transformations of Python+NumPy programs: differentiate, vectorize, JIT to GPU/TPU, and more"
+  },
+  {
+    "repo": "keras-team/keras-nlp",
+    "branch": "master",
+    "language": "Python",
+    "description": "Pretrained model hub for Keras 3."
+  },
+  {
+    "repo": "HughYau/qiushi-skill",
+    "branch": "main",
+    "language": "PowerShell",
+    "description": "求是Skill——从教员思想中提炼出一条总原则和九大方法论工具，系统性地武装 AI 的大脑。"
+  },
+  {
+    "repo": "OasAIStudio/symphony-ts",
     "branch": "main",
     "language": "TypeScript",
-    "description": "Build AI Agents, Visually"
+    "description": "Typecript version of https://github.com/openai/symphony"
   },
   {
-    "repo": "gpasquero/voog",
+    "repo": "cporter202/video-scraping-apis",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "A collection of APIs for scraping video metadata, engagement stats, and public video data across multiple platforms."
+  },
+  {
+    "repo": "NeoVertex1/nuggets",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "First AI assistant with holographic memory"
+  },
+  {
+    "repo": "firecracker-microvm/firecracker",
+    "branch": "main",
+    "language": "Rust",
+    "description": "Secure and fast microVMs for serverless computing."
+  },
+  {
+    "repo": "liandu2024/AnGe-ClashBoard",
+    "branch": "main",
+    "language": "Vue",
+    "description": "AnGe-ClashBoard - zashboard 完整体"
+  },
+  {
+    "repo": "tauri-apps/tauri",
+    "branch": "dev",
+    "language": "Rust",
+    "description": "Build smaller, faster, and more secure desktop and mobile applications with a web frontend."
+  },
+  {
+    "repo": "jimuzhe/tiez-clipboard",
+    "branch": "master",
+    "language": "TypeScript",
+    "description": "TieZ 是一款基于 Tauri 的跨平台剪贴板管理器 / A cross-platform clipboard manager with history, tags, sync, privacy protection, and fast daily workflows."
+  },
+  {
+    "repo": "pypa/packaging",
     "branch": "main",
     "language": "Python",
-    "description": "VOOG — Virtual Analog Synthesizer (Moog-style polyphonic synth with GUI)"
+    "description": "Core utilities for Python packages"
   },
   {
-    "repo": "sb-ocr/cmdeck",
+    "repo": "tophant-ai/ClawVault",
+    "branch": "main",
+    "language": "Python",
+    "description": "OpenClaw Security Vault — Atomic claw control: every AI reach, within your sight."
+  },
+  {
+    "repo": "LeoYeAI/openclaw-guardian",
+    "branch": "main",
+    "language": "Shell",
+    "description": "🛡️ Guardian watchdog for OpenClaw Gateway — auto-monitor, self-repair via doctor --fix, git-based rollback, daily snapshots, and Discord alerts. Powered by MyClaw.ai"
+  },
+  {
+    "repo": "cpaczek/any-buddy",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Hack Claude Code to get any buddy you want"
+  },
+  {
+    "repo": "LucidAkshay/kavach",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Tactical AI Workspace Monitor & EDR"
+  },
+  {
+    "repo": "amirmushichge/tribeV2_ViralAnalyser",
+    "branch": "main",
+    "language": "Python",
+    "description": ""
+  },
+  {
+    "repo": "flame-engine/flame",
+    "branch": "main",
+    "language": "Dart",
+    "description": "A Flutter based game engine."
+  },
+  {
+    "repo": "JudoChinX/rangarr",
+    "branch": "main",
+    "language": "Python",
+    "description": "Rangarr automates and staggers media searches across your Radarr, Sonarr, and Lidarr instances."
+  },
+  {
+    "repo": "CalyxOS/calyxos",
     "branch": "main",
     "language": "HTML",
-    "description": ""
+    "description": "CalyxOS - Google-free Android"
   },
   {
-    "repo": "xoai/sage-wiki",
-    "branch": "main",
-    "language": "Go",
-    "description": "An LLM-compiled personal knowledge base.  Drop in your papers, articles, and notes. sage-wiki compiles them into a structured, interlinked wiki — with concepts extracted, cross-references discovered, and everything searchable."
-  },
-  {
-    "repo": "34306/FilzaJailedDS",
-    "branch": "main",
-    "language": "Objective-C",
-    "description": "Filza Jailed Darksword, support iOS 17.0-26.0.1. This repo open source the tweak inject into the Filza iPA (4.0.0 and back, 4.0.2 seems crash something)"
-  },
-  {
-    "repo": "LearnPrompt/cc-harness-skills",
+    "repo": "adamlyttleapps/claude-skill-aso-appstore-screenshots",
     "branch": "main",
     "language": "Python",
-    "description": "Portable CC-inspired skills for memory, verification, multi-agent coordination, context compression, and proactive coding-agent workflows."
-  },
-  {
-    "repo": "ZeroAd-06/MAACodex",
-    "branch": "main",
-    "language": "JavaScript",
     "description": ""
   },
   {
-    "repo": "RevylAI/greenlight",
+    "repo": "yetone/voice-input-dist",
     "branch": "main",
-    "language": "Go",
-    "description": "Pre-submission compliance scanner for the Apple App Store"
-  },
-  {
-    "repo": "wiedymi/restty",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "Powerful, lightweight web terminal. Batteries included. Powered by libghostty-vt, WebGPU, and text-shaper."
-  },
-  {
-    "repo": "zhu1090093659/spec_driven_develop",
-    "branch": "main",
-    "language": "Shell",
-    "description": "Cross-platform AI agent skill for spec-driven development: analyze codebases, decompose large  transformations, and track long-running work."
-  },
-  {
-    "repo": "raxx21/rajesh-portfolio",
-    "branch": "main",
-    "language": "TypeScript",
+    "language": "Swift",
     "description": ""
   },
   {
-    "repo": "epiral/weixin-bot",
+    "repo": "ByteByteGoHq/system-design-101",
     "branch": "main",
-    "language": "Python",
-    "description": "WeChat iLink Bot SDK for Node.js and Python — zero-config agent integration"
+    "language": "Other",
+    "description": "Explain complex systems using visuals and simple terms. Help you prepare for system design interviews."
   },
   {
-    "repo": "sdyckjq-lab/llm-wiki-skill",
-    "branch": "main",
-    "language": "Shell",
-    "description": "基于 Karpathy llm-wiki 方法论的个人知识库构建 Skill，支持多平台！"
-  },
-  {
-    "repo": "amadeusprotocol/polymarket-trading-bot",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": ""
-  },
-  {
-    "repo": "armadasvc/armada",
+    "repo": "Lightning-AI/lightning",
     "branch": "master",
     "language": "Python",
-    "description": "Kubernetes-native framework for bot and scraper orchestration"
-  },
-  {
-    "repo": "mco-org/mco",
-    "branch": "main",
-    "language": "Python",
-    "description": "Orchestrate AI coding agents. Any prompt. Any agent. Any IDE. Neutral orchestration layer for Claude Code, Codex CLI, Gemini CLI, OpenCode, Qwen Code — works from Cursor, Trae, Copilot, Windsurf, or plain shell."
-  },
-  {
-    "repo": "LeoYeAI/openclaw-master-skills",
-    "branch": "main",
-    "language": "Python",
-    "description": "🧠 Curated collection of 127+ best OpenClaw skills — weekly updated from skills.sh, GitHub & ClaWHub. Powered by MyClaw.ai"
-  },
-  {
-    "repo": "shanselman/PeekDesktop",
-    "branch": "main",
-    "language": "C#",
-    "description": "Click your desktop to peek at it - just like macOS Sonoma."
-  },
-  {
-    "repo": "danveloper/flash-moe",
-    "branch": "main",
-    "language": "Objective-C",
-    "description": "Running a big model on a small laptop"
-  },
-  {
-    "repo": "erenjugs/OpenGork",
-    "branch": "main",
-    "language": "Shell",
-    "description": "🧠 Uncensored AI agent powered by xAI's Grok - no filters, no limits"
-  },
-  {
-    "repo": "x1xhlol/better-clawd",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Claude Code, but better: better performance, OpenAI/OpenRouter support, no telemetry, no lock-in."
-  },
-  {
-    "repo": "apple/python-apple-fm-sdk",
-    "branch": "main",
-    "language": "Python",
-    "description": "Python bindings for access to the on-device model at the core of Apple Intelligence through the Foundation Models framework"
-  },
-  {
-    "repo": "taf2/mdvi",
-    "branch": "master",
-    "language": "Rust",
-    "description": "cli based Markdown viewer"
+    "description": "Pretrain, finetune ANY AI model of ANY size on 1 or 10,000+ GPUs with zero code changes."
   }
 ]
