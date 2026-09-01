@@ -1,146 +1,146 @@
 [
   {
-    "repo": "gorkem-bwl/animated-icons",
+    "repo": "hopechen067/china-antique-maplibre",
+    "branch": "master",
+    "language": "HTML",
+    "description": "China antique parchment MapLibre stack: EOX Sentinel-2 + Terrarium hillshade, water overlay, live tuner, tiered settlements for historical video."
+  },
+  {
+    "repo": "snoglobe/helios",
     "branch": "main",
-    "language": "JavaScript",
+    "language": "TypeScript",
     "description": ""
   },
   {
-    "repo": "google/jax",
-    "branch": "main",
-    "language": "Python",
-    "description": "Composable transformations of Python+NumPy programs: differentiate, vectorize, JIT to GPU/TPU, and more"
-  },
-  {
-    "repo": "keras-team/keras-nlp",
+    "repo": "tqdm/tqdm",
     "branch": "master",
     "language": "Python",
-    "description": "Pretrained model hub for Keras 3."
+    "description": ":zap: A Fast, Extensible Progress Bar for Python and CLI"
   },
   {
-    "repo": "HughYau/qiushi-skill",
-    "branch": "main",
-    "language": "PowerShell",
-    "description": "求是Skill——从教员思想中提炼出一条总原则和九大方法论工具，系统性地武装 AI 的大脑。"
-  },
-  {
-    "repo": "OasAIStudio/symphony-ts",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Typecript version of https://github.com/openai/symphony"
-  },
-  {
-    "repo": "cporter202/video-scraping-apis",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "A collection of APIs for scraping video metadata, engagement stats, and public video data across multiple platforms."
-  },
-  {
-    "repo": "NeoVertex1/nuggets",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "First AI assistant with holographic memory"
-  },
-  {
-    "repo": "firecracker-microvm/firecracker",
-    "branch": "main",
-    "language": "Rust",
-    "description": "Secure and fast microVMs for serverless computing."
-  },
-  {
-    "repo": "liandu2024/AnGe-ClashBoard",
-    "branch": "main",
-    "language": "Vue",
-    "description": "AnGe-ClashBoard - zashboard 完整体"
-  },
-  {
-    "repo": "tauri-apps/tauri",
-    "branch": "dev",
-    "language": "Rust",
-    "description": "Build smaller, faster, and more secure desktop and mobile applications with a web frontend."
-  },
-  {
-    "repo": "jimuzhe/tiez-clipboard",
+    "repo": "OpenZeppelin/openzeppelin-contracts",
     "branch": "master",
-    "language": "TypeScript",
-    "description": "TieZ 是一款基于 Tauri 的跨平台剪贴板管理器 / A cross-platform clipboard manager with history, tags, sync, privacy protection, and fast daily workflows."
+    "language": "Solidity",
+    "description": "OpenZeppelin Contracts is a library for secure smart contract development."
   },
   {
-    "repo": "pypa/packaging",
-    "branch": "main",
-    "language": "Python",
-    "description": "Core utilities for Python packages"
-  },
-  {
-    "repo": "tophant-ai/ClawVault",
-    "branch": "main",
-    "language": "Python",
-    "description": "OpenClaw Security Vault — Atomic claw control: every AI reach, within your sight."
-  },
-  {
-    "repo": "LeoYeAI/openclaw-guardian",
-    "branch": "main",
-    "language": "Shell",
-    "description": "🛡️ Guardian watchdog for OpenClaw Gateway — auto-monitor, self-repair via doctor --fix, git-based rollback, daily snapshots, and Discord alerts. Powered by MyClaw.ai"
-  },
-  {
-    "repo": "cpaczek/any-buddy",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Hack Claude Code to get any buddy you want"
-  },
-  {
-    "repo": "LucidAkshay/kavach",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Tactical AI Workspace Monitor & EDR"
-  },
-  {
-    "repo": "amirmushichge/tribeV2_ViralAnalyser",
-    "branch": "main",
-    "language": "Python",
-    "description": ""
-  },
-  {
-    "repo": "flame-engine/flame",
-    "branch": "main",
-    "language": "Dart",
-    "description": "A Flutter based game engine."
-  },
-  {
-    "repo": "JudoChinX/rangarr",
-    "branch": "main",
-    "language": "Python",
-    "description": "Rangarr automates and staggers media searches across your Radarr, Sonarr, and Lidarr instances."
-  },
-  {
-    "repo": "CalyxOS/calyxos",
+    "repo": "PsiACE/skills",
     "branch": "main",
     "language": "HTML",
-    "description": "CalyxOS - Google-free Android"
+    "description": "A small, shared skill library by builders, for builders."
   },
   {
-    "repo": "adamlyttleapps/claude-skill-aso-appstore-screenshots",
-    "branch": "main",
-    "language": "Python",
-    "description": ""
+    "repo": "expressjs/express",
+    "branch": "master",
+    "language": "JavaScript",
+    "description": "Fast, unopinionated, minimalist web framework for node."
   },
   {
-    "repo": "yetone/voice-input-dist",
-    "branch": "main",
-    "language": "Swift",
-    "description": ""
-  },
-  {
-    "repo": "ByteByteGoHq/system-design-101",
-    "branch": "main",
-    "language": "Other",
-    "description": "Explain complex systems using visuals and simple terms. Help you prepare for system design interviews."
-  },
-  {
-    "repo": "Lightning-AI/lightning",
+    "repo": "airbnb/knowledge-repo",
     "branch": "master",
     "language": "Python",
-    "description": "Pretrain, finetune ANY AI model of ANY size on 1 or 10,000+ GPUs with zero code changes."
+    "description": "A next-generation curated knowledge sharing platform for data scientists and other technical professions."
+  },
+  {
+    "repo": "doocs/leetcode",
+    "branch": "main",
+    "language": "Java",
+    "description": "🔥LeetCode solutions in any programming language | 多种编程语言实现 LeetCode、《剑指 Offer（第 2 版）》、《程序员面试金典（第 6 版）》题解"
+  },
+  {
+    "repo": "fspecii/HeartMuLa-Studio",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Suno-like music generation studio for HeartMuLa/heartlib - AI-powered music creation with reference audio style transfer"
+  },
+  {
+    "repo": "aave/aave-v3-core",
+    "branch": "master",
+    "language": "TypeScript",
+    "description": "This repository contains the core smart contracts of the Aave V3 protocol."
+  },
+  {
+    "repo": "dypsilon/frontend-dev-bookmarks",
+    "branch": "master",
+    "language": "Other",
+    "description": "Manually curated collection of resources for frontend web developers."
+  },
+  {
+    "repo": "nvm-sh/nvm",
+    "branch": "master",
+    "language": "Shell",
+    "description": "Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions"
+  },
+  {
+    "repo": "wasabeef/awesome-android-ui",
+    "branch": "master",
+    "language": "Other",
+    "description": "A curated list of awesome Android UI/UX libraries"
+  },
+  {
+    "repo": "plotly/plotly.py",
+    "branch": "master",
+    "language": "Python",
+    "description": "The interactive graphing library for Python :sparkles:"
+  },
+  {
+    "repo": "uralbash/awesome-pyramid",
+    "branch": "master",
+    "language": "Other",
+    "description": "A curated list of awesome Pyramid apps, projects and resources."
+  },
+  {
+    "repo": "CyC2018/CS-Notes",
+    "branch": "master",
+    "language": "Other",
+    "description": ":books: 技术面试必备基础知识、Leetcode、计算机操作系统、计算机网络、系统设计"
+  },
+  {
+    "repo": "inputsh/awesome-linux",
+    "branch": "master",
+    "language": "Other",
+    "description": ":penguin: A list of awesome projects and resources that make Linux even more awesome. :penguin:"
+  },
+  {
+    "repo": "NativeScript/NativeScript",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "⚡ Write Native with TypeScript ✨ Best of all worlds (TypeScript, Swift, Objective C, Kotlin, Java, Dart). Use what you love ❤️ Angular, React, Solid, Svelte, Vue with: iOS (UIKit, SwiftUI), Android (View, Jetpack Compose), Flutter and you name it compatible."
+  },
+  {
+    "repo": "bregman-arie/devops-exercises",
+    "branch": "master",
+    "language": "Python",
+    "description": "Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions"
+  },
+  {
+    "repo": "test-time-training/discover",
+    "branch": "main",
+    "language": "Python",
+    "description": ""
+  },
+  {
+    "repo": "pmndrs/zustand",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "🐻 Bear necessities for state management in React"
+  },
+  {
+    "repo": "LeCoupa/awesome-cheatsheets",
+    "branch": "master",
+    "language": "JavaScript",
+    "description": "👩‍💻👨‍💻 Awesome cheatsheets for popular programming languages, frameworks and development tools. They include everything you should know in one single file."
+  },
+  {
+    "repo": "karatelabs/karate",
+    "branch": "master",
+    "language": "Java",
+    "description": "Test Automation Made Simple"
+  },
+  {
+    "repo": "sequelize/sequelize",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Feature-rich ORM for modern Node.js and TypeScript, it supports PostgreSQL (with JSON and JSONB support), MySQL, MariaDB, SQLite, MS SQL Server, Snowflake, Oracle DB (v6), DB2 and DB2 for IBM i."
   }
 ]

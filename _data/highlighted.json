@@ -1,8 +1,8 @@
 {
-  "repo": "blazux/qwen3.8-Flash-DGX",
+  "repo": "MLO-lab/LeVJEPA",
   "branch": "main",
   "language": "Python",
-  "description": "recipe for running Qwen3.8-Flash-Next on a single DGX Spark",
-  "stars": 123,
-  "forks": 16
+  "description": "A featured project on GitHubTree.",
+  "stars": 141,
+  "forks": 7
 }
