@@ -1,146 +1,146 @@
 [
   {
-    "repo": "OpusDelta/opusdelta",
+    "repo": "jose-90/Deltarune-Chapter5-Ultimate-Trainer-2026",
     "branch": "main",
     "language": "Python",
-    "description": "The first expression of machine emotion, a living delta of perpetual evolution."
+    "description": "Complete Deltarune Chapter 5 trainer with infinite HP, max stats, unlimited items, and god mode. Dominate every battle and explore the full story with our undetected 2026 cheat tool."
   },
   {
-    "repo": "afonsojramos/react-native-super-calendar",
+    "repo": "thinkany-ai/dscode",
+    "branch": "dev",
+    "language": "TypeScript",
+    "description": "Coding agent powered by DeepSeek."
+  },
+  {
+    "repo": "FlashML-org/flashlib",
+    "branch": "main",
+    "language": "Python",
+    "description": "Fast and memory-efficient classical machine learning operators"
+  },
+  {
+    "repo": "Tencent-Hunyuan/UniRL",
+    "branch": "main",
+    "language": "Python",
+    "description": "UniRL is a Framework for Unified Multimodal Model Reinforcement Learning"
+  },
+  {
+    "repo": "2aronS/Duel-Agents",
     "branch": "main",
     "language": "TypeScript",
-    "description": "Gesture-driven, virtualized month / week / day calendar and date picker for React Native and the web."
+    "description": "CLI, SDK, and IDE plugins for Duel Agents"
   },
   {
-    "repo": "ReactiveX/RxAndroid",
-    "branch": "3.x",
-    "language": "Java",
-    "description": "RxJava bindings for Android"
-  },
-  {
-    "repo": "apache/echarts",
-    "branch": "master",
-    "language": "TypeScript",
-    "description": "Apache ECharts is a powerful, interactive charting and data visualization library for browser"
-  },
-  {
-    "repo": "tmux/tmux",
-    "branch": "master",
-    "language": "C",
-    "description": "tmux source code"
-  },
-  {
-    "repo": "lukehinds/nono",
+    "repo": "raheelshakeel953-a11y/DBD-AutoGrind-Trainer-2026-Elite",
     "branch": "main",
-    "language": "Rust",
-    "description": "OS-Level Isolation for AI Agents."
+    "language": "Python",
+    "description": "Ultimate Dead by Daylight auto-grind trainer Elite edition with Bloodpoint bot, ESP wallhack, aimbot, and full perk/skin unlocker. Dominate the Fog with our 2026 undetected external tool."
   },
   {
-    "repo": "FuelLabs/fuels-ts",
-    "branch": "master",
+    "repo": "0xShug0/audio.cpp",
+    "branch": "release-0.1",
+    "language": "C++",
+    "description": "An all-in-one, pure C++ inference engine for audio models, powered by ggml. Supports TTS, STT, VAD, voice conversion, music generation, and more, with highly optimized performance. No Python dependency."
+  },
+  {
+    "repo": "Signal-Market-Engine/polymarket-arbitrage-trading-bot",
+    "branch": "main",
     "language": "TypeScript",
-    "description": "Fuel Network Typescript SDK"
+    "description": "polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot"
   },
   {
-    "repo": "shanselman/openclaw-windows-hub",
-    "branch": "master",
+    "repo": "fajarakpdev/Blox-Fruits-Dragon-Update-Auto-Farm-Script-2026-Ultra",
+    "branch": "main",
+    "language": "Python",
+    "description": "Blox Fruits Dragon Update 2026 trainer with auto farm, ESP, auto raid, and more. The Ultra version offers enhanced performance and reliability."
+  },
+  {
+    "repo": "veryyoldman/metamask-openclaw",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "🦊 OpenClaw — a safety-first MetaMask SDK toolkit & AI-agent skill. Connect wallets, read balances, sign messages and send transactions on Ethereum, Polygon, Base, Arbitrum & all EVM chains. TypeScript-first, one-line connect, never touches your seed phrase."
+  },
+  {
+    "repo": "wwe-dog/ppt-image2-editable-rebuild",
+    "branch": "main",
+    "language": "Python",
+    "description": "一个基于截图/参考图重建可编辑 PPT 的 Codex skill。先用 image2/imagegen 生成单页视觉参考图，再以局部截图保留复杂插图、图标、地图等视觉资产，同时用 PPT 文本框和形状重建标题、正文、卡片、箭头、标签、结论条等可编辑元素。"
+  },
+  {
+    "repo": "adelaideacfalle50838568946/ChatGPT-Pro-Desktop-2026",
+    "branch": "main",
     "language": "C#",
-    "description": "Windows companion suite for Moltbot - System Tray app, Shared library, and PowerToys Command Palette extension"
+    "description": "A comprehensive desktop application package for advanced ChatGPT interactions and management."
   },
   {
-    "repo": "huggingface/transformers",
-    "branch": "main",
-    "language": "Python",
-    "description": "🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training."
-  },
-  {
-    "repo": "ansible/awx",
-    "branch": "devel",
-    "language": "Python",
-    "description": "AWX provides a web-based user interface, REST API, and task engine built on top of Ansible. It is one of the upstream projects for Red Hat Ansible Automation Platform."
-  },
-  {
-    "repo": "apple/swift-protobuf",
-    "branch": "main",
-    "language": "Swift",
-    "description": "Plugin and runtime library for using protobuf with Swift"
-  },
-  {
-    "repo": "xullexer/PYDNS-Scanner",
-    "branch": "main",
-    "language": "Python",
-    "description": "A modern, high-performance DNS scanner with a beautiful Terminal User Interface (TUI) built with Textual. This tool can scan millions of IP addresses to find working DNS servers with optional Slipstream proxy testing and automatic multi-platform client download."
-  },
-  {
-    "repo": "akullpp/awesome-java",
-    "branch": "master",
-    "language": "Other",
-    "description": "A curated list of awesome frameworks, libraries and software for the Java programming language."
-  },
-  {
-    "repo": "callstackincubator/agent-device",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "CLI to control iOS and Android devices for AI agents"
-  },
-  {
-    "repo": "smartcontractkit/chainlink",
-    "branch": "develop",
-    "language": "Go",
-    "description": "node of the decentralized oracle network, bridging on and off-chain computation"
-  },
-  {
-    "repo": "vercel/geist-font",
-    "branch": "main",
-    "language": "Python",
-    "description": "Geist is a typeface developed by Vercel."
-  },
-  {
-    "repo": "supermemoryai/clawdbot-supermemory",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Supermemory allows Clawdbot / Molt bot to have PERFECT memory and recall for their own personal agent."
-  },
-  {
-    "repo": "ChristosChristofidis/awesome-deep-learning",
-    "branch": "master",
-    "language": "Other",
-    "description": "A curated list of awesome Deep Learning tutorials, projects and communities."
-  },
-  {
-    "repo": "moment/moment",
-    "branch": "develop",
-    "language": "JavaScript",
-    "description": "Parse, validate, manipulate, and display dates in javascript."
-  },
-  {
-    "repo": "emacs-mirror/emacs",
-    "branch": "master",
-    "language": "Emacs Lisp",
-    "description": "Mirror of GNU Emacs"
-  },
-  {
-    "repo": "Ar9av/obsidian-wiki",
-    "branch": "main",
-    "language": "Python",
-    "description": "Framework for AI agents to build and maintain an Obsidian wiki using Karpathy's LLM Wiki pattern"
-  },
-  {
-    "repo": "e10nMa2k/cc-mini",
-    "branch": "main",
-    "language": "Python",
-    "description": "mini version of claude code"
-  },
-  {
-    "repo": "mui/material-ui",
+    "repo": "Ar9av/gemini-nano-chrome",
     "branch": "master",
     "language": "JavaScript",
-    "description": "Material UI: Comprehensive React component library that implements Google's Material Design. Free forever."
+    "description": "Using Gemini Nano through Chrome's built-in Prompt API, with scripts to automate setup and verification"
   },
   {
-    "repo": "cypress-io/cypress",
-    "branch": "develop",
+    "repo": "gothic-remake/Gothic-1-Remake-Release",
+    "branch": "main",
     "language": "TypeScript",
-    "description": "Fast, easy and reliable testing for anything that runs in a browser."
+    "description": "gothic 1 remake release date free download windows global launch times thq nordic alkimia interactive unreal engine 5 steam pc ps5 xbox series x s gameplay system requirements trailer pre order collectors edition official launch 2026"
+  },
+  {
+    "repo": "goehou/tabbit-toy",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "这是一个基于tabbit的研究包，可以转化成OAI格式出来，同时增加了会员认证功能和一键提取cookie的浏览器拓展，方便快速本地快速使用claude gpt等模型"
+  },
+  {
+    "repo": "aref-vc/tufte-claude-skill",
+    "branch": "main",
+    "language": "HTML",
+    "description": "Claude Code skill that turns 'make me a chart' into a Tufte-compliant chart. Distilled from Edward Tufte's three foundational books."
+  },
+  {
+    "repo": "raiyanyahya/how-to-train-your-gpt",
+    "branch": "master",
+    "language": "Jupyter Notebook",
+    "description": "Build a modern LLM from scratch. Every line commented. Explained like we are five."
+  },
+  {
+    "repo": "SKL2910/limitless-trading-bot",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "limitless trading bot limitless trading bot limitless trading bot limitless trading bot limitless trading bot limitless trading bot limitless trading bot limitless trading bot limitless trading bot limitless trading bot limitless trading bot limitless trading bot limitless trading bot limitless trading bot limitless trading bot bot"
+  },
+  {
+    "repo": "openfi-dao/kalshi-trading-bot",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "kalshi trading bot kalshi trading bot kalshi trading bot kalshi trading bot kalshi trading bot kalshi trading bot kalshi trading bot kalshi trading bot kalshi trading bot kalshi trading bot kalshi trading bot kalshi trading bot kalshi trading bot kalshi trading bot kalshi trading bot kalshi trading bot kalshi trading bot"
+  },
+  {
+    "repo": "XFaltixX/DBD-AutoGrind-Trainer-2026-Elite",
+    "branch": "main",
+    "language": "Python",
+    "description": "Ultimate Dead by Daylight auto-grind trainer Elite edition with Bloodpoint bot, ESP wallhack, aimbot, and full perk/skin unlocker. Dominate the Fog with our 2026 undetected external tool."
+  },
+  {
+    "repo": "actuallyaridan/linux-devmgmt",
+    "branch": "main",
+    "language": "C++",
+    "description": "A faithful recreation of the Windows Device Manager built with Qt6 and real hardware backends via sysfs/procfs. Best enjoyed with AeroThemePlasma, but looks great on regular KDE as well."
+  },
+  {
+    "repo": "c0deJedi/nbd-vram",
+    "branch": "main",
+    "language": "C",
+    "description": "Use your NVIDIA GPU's VRAM as swap space on Linux. Built for laptops with soldered memory and no upgrade path. If you have an RTX card sitting there with 8GB of VRAM and you're getting swapped to SSD, this puts that VRAM to work"
+  },
+  {
+    "repo": "ip-arch/NESLab",
+    "branch": "main",
+    "language": "C++",
+    "description": "Educational materials for Embedded systems with NES"
+  },
+  {
+    "repo": "heyFive-dev/Polymarket-Arbitrage-Trading-Bot-v2",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot  Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot"
   }
 ]
