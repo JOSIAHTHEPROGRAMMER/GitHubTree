@@ -1,8 +1,8 @@
 {
-  "repo": "KorekKayu/IKONA-Security",
+  "repo": "alberto4442/ComputePool",
   "branch": "main",
-  "language": "Python",
-  "description": "🛡️ Comprehensive Cybersecurity Arsenal, Bug Bounty Payloads & Security Audit Tools by IKONA ONI",
+  "language": "JavaScript",
+  "description": "A simple ComputePool Platform for Resource optimization.",
   "stars": 115,
-  "forks": 61
+  "forks": 0
 }

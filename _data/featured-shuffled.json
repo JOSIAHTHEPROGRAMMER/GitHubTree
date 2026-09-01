@@ -1,146 +1,146 @@
 [
   {
-    "repo": "jose-90/Deltarune-Chapter5-Ultimate-Trainer-2026",
+    "repo": "ShawnPana/phone-harness",
     "branch": "main",
     "language": "Python",
-    "description": "Complete Deltarune Chapter 5 trainer with infinite HP, max stats, unlimited items, and god mode. Dominate every battle and explore the full story with our undetected 2026 cheat tool."
+    "description": "let your agent control your phone"
   },
   {
-    "repo": "thinkany-ai/dscode",
-    "branch": "dev",
-    "language": "TypeScript",
-    "description": "Coding agent powered by DeepSeek."
-  },
-  {
-    "repo": "FlashML-org/flashlib",
-    "branch": "main",
-    "language": "Python",
-    "description": "Fast and memory-efficient classical machine learning operators"
-  },
-  {
-    "repo": "Tencent-Hunyuan/UniRL",
-    "branch": "main",
-    "language": "Python",
-    "description": "UniRL is a Framework for Unified Multimodal Model Reinforcement Learning"
-  },
-  {
-    "repo": "2aronS/Duel-Agents",
+    "repo": "FlowiseAI/Flowise",
     "branch": "main",
     "language": "TypeScript",
-    "description": "CLI, SDK, and IDE plugins for Duel Agents"
+    "description": "Build AI Agents, Visually"
   },
   {
-    "repo": "raheelshakeel953-a11y/DBD-AutoGrind-Trainer-2026-Elite",
+    "repo": "gpasquero/voog",
     "branch": "main",
     "language": "Python",
-    "description": "Ultimate Dead by Daylight auto-grind trainer Elite edition with Bloodpoint bot, ESP wallhack, aimbot, and full perk/skin unlocker. Dominate the Fog with our 2026 undetected external tool."
+    "description": "VOOG — Virtual Analog Synthesizer (Moog-style polyphonic synth with GUI)"
   },
   {
-    "repo": "0xShug0/audio.cpp",
-    "branch": "release-0.1",
-    "language": "C++",
-    "description": "An all-in-one, pure C++ inference engine for audio models, powered by ggml. Supports TTS, STT, VAD, voice conversion, music generation, and more, with highly optimized performance. No Python dependency."
-  },
-  {
-    "repo": "Signal-Market-Engine/polymarket-arbitrage-trading-bot",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot"
-  },
-  {
-    "repo": "fajarakpdev/Blox-Fruits-Dragon-Update-Auto-Farm-Script-2026-Ultra",
-    "branch": "main",
-    "language": "Python",
-    "description": "Blox Fruits Dragon Update 2026 trainer with auto farm, ESP, auto raid, and more. The Ultra version offers enhanced performance and reliability."
-  },
-  {
-    "repo": "veryyoldman/metamask-openclaw",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "🦊 OpenClaw — a safety-first MetaMask SDK toolkit & AI-agent skill. Connect wallets, read balances, sign messages and send transactions on Ethereum, Polygon, Base, Arbitrum & all EVM chains. TypeScript-first, one-line connect, never touches your seed phrase."
-  },
-  {
-    "repo": "wwe-dog/ppt-image2-editable-rebuild",
-    "branch": "main",
-    "language": "Python",
-    "description": "一个基于截图/参考图重建可编辑 PPT 的 Codex skill。先用 image2/imagegen 生成单页视觉参考图，再以局部截图保留复杂插图、图标、地图等视觉资产，同时用 PPT 文本框和形状重建标题、正文、卡片、箭头、标签、结论条等可编辑元素。"
-  },
-  {
-    "repo": "adelaideacfalle50838568946/ChatGPT-Pro-Desktop-2026",
-    "branch": "main",
-    "language": "C#",
-    "description": "A comprehensive desktop application package for advanced ChatGPT interactions and management."
-  },
-  {
-    "repo": "Ar9av/gemini-nano-chrome",
-    "branch": "master",
-    "language": "JavaScript",
-    "description": "Using Gemini Nano through Chrome's built-in Prompt API, with scripts to automate setup and verification"
-  },
-  {
-    "repo": "gothic-remake/Gothic-1-Remake-Release",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "gothic 1 remake release date free download windows global launch times thq nordic alkimia interactive unreal engine 5 steam pc ps5 xbox series x s gameplay system requirements trailer pre order collectors edition official launch 2026"
-  },
-  {
-    "repo": "goehou/tabbit-toy",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "这是一个基于tabbit的研究包，可以转化成OAI格式出来，同时增加了会员认证功能和一键提取cookie的浏览器拓展，方便快速本地快速使用claude gpt等模型"
-  },
-  {
-    "repo": "aref-vc/tufte-claude-skill",
+    "repo": "sb-ocr/cmdeck",
     "branch": "main",
     "language": "HTML",
-    "description": "Claude Code skill that turns 'make me a chart' into a Tufte-compliant chart. Distilled from Edward Tufte's three foundational books."
+    "description": ""
   },
   {
-    "repo": "raiyanyahya/how-to-train-your-gpt",
-    "branch": "master",
-    "language": "Jupyter Notebook",
-    "description": "Build a modern LLM from scratch. Every line commented. Explained like we are five."
-  },
-  {
-    "repo": "SKL2910/limitless-trading-bot",
+    "repo": "xoai/sage-wiki",
     "branch": "main",
-    "language": "TypeScript",
-    "description": "limitless trading bot limitless trading bot limitless trading bot limitless trading bot limitless trading bot limitless trading bot limitless trading bot limitless trading bot limitless trading bot limitless trading bot limitless trading bot limitless trading bot limitless trading bot limitless trading bot limitless trading bot bot"
+    "language": "Go",
+    "description": "An LLM-compiled personal knowledge base.  Drop in your papers, articles, and notes. sage-wiki compiles them into a structured, interlinked wiki — with concepts extracted, cross-references discovered, and everything searchable."
   },
   {
-    "repo": "openfi-dao/kalshi-trading-bot",
+    "repo": "34306/FilzaJailedDS",
     "branch": "main",
-    "language": "TypeScript",
-    "description": "kalshi trading bot kalshi trading bot kalshi trading bot kalshi trading bot kalshi trading bot kalshi trading bot kalshi trading bot kalshi trading bot kalshi trading bot kalshi trading bot kalshi trading bot kalshi trading bot kalshi trading bot kalshi trading bot kalshi trading bot kalshi trading bot kalshi trading bot"
+    "language": "Objective-C",
+    "description": "Filza Jailed Darksword, support iOS 17.0-26.0.1. This repo open source the tweak inject into the Filza iPA (4.0.0 and back, 4.0.2 seems crash something)"
   },
   {
-    "repo": "XFaltixX/DBD-AutoGrind-Trainer-2026-Elite",
+    "repo": "LearnPrompt/cc-harness-skills",
     "branch": "main",
     "language": "Python",
-    "description": "Ultimate Dead by Daylight auto-grind trainer Elite edition with Bloodpoint bot, ESP wallhack, aimbot, and full perk/skin unlocker. Dominate the Fog with our 2026 undetected external tool."
+    "description": "Portable CC-inspired skills for memory, verification, multi-agent coordination, context compression, and proactive coding-agent workflows."
   },
   {
-    "repo": "actuallyaridan/linux-devmgmt",
+    "repo": "ZeroAd-06/MAACodex",
     "branch": "main",
-    "language": "C++",
-    "description": "A faithful recreation of the Windows Device Manager built with Qt6 and real hardware backends via sysfs/procfs. Best enjoyed with AeroThemePlasma, but looks great on regular KDE as well."
+    "language": "JavaScript",
+    "description": ""
   },
   {
-    "repo": "c0deJedi/nbd-vram",
+    "repo": "RevylAI/greenlight",
     "branch": "main",
-    "language": "C",
-    "description": "Use your NVIDIA GPU's VRAM as swap space on Linux. Built for laptops with soldered memory and no upgrade path. If you have an RTX card sitting there with 8GB of VRAM and you're getting swapped to SSD, this puts that VRAM to work"
+    "language": "Go",
+    "description": "Pre-submission compliance scanner for the Apple App Store"
   },
   {
-    "repo": "ip-arch/NESLab",
+    "repo": "wiedymi/restty",
     "branch": "main",
-    "language": "C++",
-    "description": "Educational materials for Embedded systems with NES"
+    "language": "JavaScript",
+    "description": "Powerful, lightweight web terminal. Batteries included. Powered by libghostty-vt, WebGPU, and text-shaper."
   },
   {
-    "repo": "heyFive-dev/Polymarket-Arbitrage-Trading-Bot-v2",
+    "repo": "zhu1090093659/spec_driven_develop",
+    "branch": "main",
+    "language": "Shell",
+    "description": "Cross-platform AI agent skill for spec-driven development: analyze codebases, decompose large  transformations, and track long-running work."
+  },
+  {
+    "repo": "raxx21/rajesh-portfolio",
     "branch": "main",
     "language": "TypeScript",
-    "description": "Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot  Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot"
+    "description": ""
+  },
+  {
+    "repo": "epiral/weixin-bot",
+    "branch": "main",
+    "language": "Python",
+    "description": "WeChat iLink Bot SDK for Node.js and Python — zero-config agent integration"
+  },
+  {
+    "repo": "sdyckjq-lab/llm-wiki-skill",
+    "branch": "main",
+    "language": "Shell",
+    "description": "基于 Karpathy llm-wiki 方法论的个人知识库构建 Skill，支持多平台！"
+  },
+  {
+    "repo": "amadeusprotocol/polymarket-trading-bot",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": ""
+  },
+  {
+    "repo": "armadasvc/armada",
+    "branch": "master",
+    "language": "Python",
+    "description": "Kubernetes-native framework for bot and scraper orchestration"
+  },
+  {
+    "repo": "mco-org/mco",
+    "branch": "main",
+    "language": "Python",
+    "description": "Orchestrate AI coding agents. Any prompt. Any agent. Any IDE. Neutral orchestration layer for Claude Code, Codex CLI, Gemini CLI, OpenCode, Qwen Code — works from Cursor, Trae, Copilot, Windsurf, or plain shell."
+  },
+  {
+    "repo": "LeoYeAI/openclaw-master-skills",
+    "branch": "main",
+    "language": "Python",
+    "description": "🧠 Curated collection of 127+ best OpenClaw skills — weekly updated from skills.sh, GitHub & ClaWHub. Powered by MyClaw.ai"
+  },
+  {
+    "repo": "shanselman/PeekDesktop",
+    "branch": "main",
+    "language": "C#",
+    "description": "Click your desktop to peek at it - just like macOS Sonoma."
+  },
+  {
+    "repo": "danveloper/flash-moe",
+    "branch": "main",
+    "language": "Objective-C",
+    "description": "Running a big model on a small laptop"
+  },
+  {
+    "repo": "erenjugs/OpenGork",
+    "branch": "main",
+    "language": "Shell",
+    "description": "🧠 Uncensored AI agent powered by xAI's Grok - no filters, no limits"
+  },
+  {
+    "repo": "x1xhlol/better-clawd",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Claude Code, but better: better performance, OpenAI/OpenRouter support, no telemetry, no lock-in."
+  },
+  {
+    "repo": "apple/python-apple-fm-sdk",
+    "branch": "main",
+    "language": "Python",
+    "description": "Python bindings for access to the on-device model at the core of Apple Intelligence through the Foundation Models framework"
+  },
+  {
+    "repo": "taf2/mdvi",
+    "branch": "master",
+    "language": "Rust",
+    "description": "cli based Markdown viewer"
   }
 ]
