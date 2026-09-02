@@ -1,8 +1,8 @@
 {
-  "repo": "QihanZhao/cc-prune",
+  "repo": "MSNightmare/GreenSection",
   "branch": "main",
-  "language": "Python",
-  "description": "A featured project on GitHubTree.",
-  "stars": 101,
-  "forks": 5
+  "language": "C++",
+  "description": "Nvidia GreenSection Memory Corruption 0day vulnerability",
+  "stars": 114,
+  "forks": 27
 }

@@ -1,146 +1,146 @@
 [
   {
-    "repo": "CatsJuice/sticker-forge",
+    "repo": "turtle2209/Bigfish",
     "branch": "main",
     "language": "JavaScript",
-    "description": "A tactile WebGL sticker maker with rich text, image uploads, and interactive peel physics."
+    "description": "Bigfish —— DeepSeek Harness 的第三方桌面端，内置 Node 运行时，双击即用，附带桌面萌宠。"
   },
   {
-    "repo": "icebear0828/clio",
-    "branch": "master",
-    "language": "TypeScript",
-    "description": "A Claude Code clone CLI - agentic coding assistant in your terminal"
-  },
-  {
-    "repo": "nodejs/node",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "Node.js JavaScript runtime ✨🐢🚀✨"
-  },
-  {
-    "repo": "milvus-io/milvus",
+    "repo": "kubernetes/minikube",
     "branch": "master",
     "language": "Go",
-    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search"
+    "description": "Run Kubernetes locally"
   },
   {
-    "repo": "apple/swift-nio",
-    "branch": "main",
-    "language": "Swift",
-    "description": "Event-driven network application framework for high performance protocol servers & clients, non-blocking."
+    "repo": "go-task/task",
+    "branch": "master",
+    "language": "Go",
+    "description": "A task runner / simpler Make alternative written in Go"
   },
   {
-    "repo": "microsoft/terminal",
+    "repo": "WalletConnect/walletconnect-monorepo",
+    "branch": "v2.0",
+    "language": "TypeScript",
+    "description": "WalletConnect Monorepo"
+  },
+  {
+    "repo": "xodn348/han",
     "branch": "main",
+    "language": "Rust",
+    "description": "A compiled programming language with Korean keywords, written in Rust"
+  },
+  {
+    "repo": "clap-rs/clap",
+    "branch": "master",
+    "language": "Rust",
+    "description": "A full featured, fast Command Line Argument Parser for Rust"
+  },
+  {
+    "repo": "freeCodeCamp/freeCodeCamp",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free."
+  },
+  {
+    "repo": "software-mansion/react-native-gesture-handler",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Declarative API exposing platform native touch and gesture system to React Native."
+  },
+  {
+    "repo": "oblador/react-native-vector-icons",
+    "branch": "master",
+    "language": "TypeScript",
+    "description": "Customizable Icons for React Native with support for image source and full styling."
+  },
+  {
+    "repo": "primefaces/primevue",
+    "branch": "master",
+    "language": "Vue",
+    "description": "Next Generation Vue UI Component Library"
+  },
+  {
+    "repo": "basketikun/chatgpt2api",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": ""
+  },
+  {
+    "repo": "scrya-com/rotorquant",
+    "branch": "main",
+    "language": "Python",
+    "description": "RotorQuant: Clifford algebra vector quantization for LLM KV cache compression. 10-19x faster than TurboQuant, 44x fewer parameters."
+  },
+  {
+    "repo": "lodash/lodash",
+    "branch": "master",
+    "language": "JavaScript",
+    "description": "A modern JavaScript utility library delivering modularity, performance, & extras."
+  },
+  {
+    "repo": "RhysSullivan/nextjs-mobile-app-template",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": ""
+  },
+  {
+    "repo": "codeninja/oauth-cli-coder",
+    "branch": "main",
+    "language": "Python",
+    "description": "Seamlessly interact with CLI coders (Claude, Gemini, Codex) via tmux TUI sessions."
+  },
+  {
+    "repo": "phuc-nt/my-translator",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "Real-time speech translation for macOS — open source, no tracking, direct Soniox API"
+  },
+  {
+    "repo": "brendanhogan/loophole",
+    "branch": "main",
+    "language": "Python",
+    "description": ""
+  },
+  {
+    "repo": "microsoft/vscode",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Visual Studio Code"
+  },
+  {
+    "repo": "vicnaum/bun-demincer",
+    "branch": "master",
+    "language": "JavaScript",
+    "description": "Decompiler, deminifier and deobfuscator for Bun-compiled standalone JavaScript binaries"
+  },
+  {
+    "repo": "google/sentencepiece",
+    "branch": "master",
     "language": "C++",
-    "description": "The new Windows Terminal and the original Windows console host, all in the same place!"
+    "description": "Unsupervised text tokenizer for Neural Network-based text generation."
   },
   {
-    "repo": "simonw/cia-world-factbook-2020",
-    "branch": "main",
-    "language": "HTML",
-    "description": "Recovered cia.gov/the-world-factbook/about/archives/download/factbook-2020.zip from Internet Archive"
-  },
-  {
-    "repo": "DefinitelyTyped/DefinitelyTyped",
+    "repo": "sharkdp/bat",
     "branch": "master",
-    "language": "TypeScript",
-    "description": "The repository for high quality TypeScript type definitions."
+    "language": "Rust",
+    "description": "A cat(1) clone with wings."
   },
   {
-    "repo": "expressjs/express",
-    "branch": "master",
-    "language": "JavaScript",
-    "description": "Fast, unopinionated, minimalist web framework for node."
-  },
-  {
-    "repo": "ImageMagick/ImageMagick",
+    "repo": "influxdata/influxdb",
     "branch": "main",
+    "language": "Rust",
+    "description": "Scalable datastore for metrics, events, and real-time analytics"
+  },
+  {
+    "repo": "openssl/openssl",
+    "branch": "master",
     "language": "C",
-    "description": "ImageMagick is a free, open-source software suite for creating, editing, converting, and displaying images. It supports 200+ formats and offers powerful command-line tools and APIs for automation, scripting, and integration across platforms."
+    "description": "TLS/SSL and crypto library"
   },
   {
-    "repo": "H-EmbodVis/VEGA-3D",
+    "repo": "sveltejs/svelte",
     "branch": "main",
-    "language": "Python",
-    "description": "Official code of Generation Models Know Space: Unleashing Implicit 3D Priors for Scene Understanding"
-  },
-  {
-    "repo": "pshycodr/airctl",
-    "branch": "main",
-    "language": "Python",
-    "description": "AIRCTL, a modern WiFi management tool for Linux built with GTK4 and Python. It provides a clean interface to scan, connect, and manage wireless networks."
-  },
-  {
-    "repo": "Doriandarko/webmcp-starter",
-    "branch": "main",
-    "language": "HTML",
-    "description": "WebMCP starter demo — a DoorDash-style food delivery app with 9 AI agent tools (imperative + declarative)"
-  },
-  {
-    "repo": "avelino/awesome-go",
-    "branch": "main",
-    "language": "Go",
-    "description": "A curated list of awesome Go frameworks, libraries and software"
-  },
-  {
-    "repo": "MINT-SJTU/RoboClaw",
-    "branch": "main",
-    "language": "Python",
-    "description": "RoboClaw is an Embodied AI Assistant."
-  },
-  {
-    "repo": "tj/commander.js",
-    "branch": "master",
     "language": "JavaScript",
-    "description": "node.js command-line interfaces made easy"
-  },
-  {
-    "repo": "Syngnat/GoNavi",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "现代化、原生体验的数据库管理工具，支持 MySQL、PostgreSQL、SQLite 等数据库，采用 Go 后端 + Wails + React 前端构建，启动快、体积小、性能强。"
-  },
-  {
-    "repo": "nicobailon/visual-explainer",
-    "branch": "main",
-    "language": "HTML",
-    "description": "Agent skill + prompt templates that generate rich HTML pages for visual diff reviews, architecture overviews, plan audits, data tables, and project recaps"
-  },
-  {
-    "repo": "callstackincubator/agent-device",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "CLI to control iOS and Android devices for AI agents"
-  },
-  {
-    "repo": "CocoaPods/CocoaPods",
-    "branch": "master",
-    "language": "Ruby",
-    "description": "The Cocoa Dependency Manager."
-  },
-  {
-    "repo": "keras-team/keras-nlp",
-    "branch": "master",
-    "language": "Python",
-    "description": "Pretrained model hub for Keras 3."
-  },
-  {
-    "repo": "0xKarl-dev/claw-codes",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Fastest repo on my GitHub to hit 50⭐ in under 2 hours. Building tools that get real things done. Now rewriting in Rust."
-  },
-  {
-    "repo": "pytorch/serve",
-    "branch": "master",
-    "language": "Java",
-    "description": "Serve, optimize and scale PyTorch models in production"
-  },
-  {
-    "repo": "apache/flink",
-    "branch": "master",
-    "language": "Java",
-    "description": "Apache Flink"
+    "description": "web development for the rest of us"
   }
 ]
