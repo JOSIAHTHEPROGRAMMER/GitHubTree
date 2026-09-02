@@ -1,146 +1,146 @@
 [
   {
-    "repo": "hopechen067/china-antique-maplibre",
-    "branch": "master",
-    "language": "HTML",
-    "description": "China antique parchment MapLibre stack: EOX Sentinel-2 + Terrarium hillshade, water overlay, live tuner, tiered settlements for historical video."
-  },
-  {
-    "repo": "snoglobe/helios",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": ""
-  },
-  {
-    "repo": "tqdm/tqdm",
-    "branch": "master",
-    "language": "Python",
-    "description": ":zap: A Fast, Extensible Progress Bar for Python and CLI"
-  },
-  {
-    "repo": "OpenZeppelin/openzeppelin-contracts",
-    "branch": "master",
-    "language": "Solidity",
-    "description": "OpenZeppelin Contracts is a library for secure smart contract development."
-  },
-  {
-    "repo": "PsiACE/skills",
-    "branch": "main",
-    "language": "HTML",
-    "description": "A small, shared skill library by builders, for builders."
-  },
-  {
-    "repo": "expressjs/express",
-    "branch": "master",
-    "language": "JavaScript",
-    "description": "Fast, unopinionated, minimalist web framework for node."
-  },
-  {
-    "repo": "airbnb/knowledge-repo",
-    "branch": "master",
-    "language": "Python",
-    "description": "A next-generation curated knowledge sharing platform for data scientists and other technical professions."
-  },
-  {
-    "repo": "doocs/leetcode",
-    "branch": "main",
-    "language": "Java",
-    "description": "🔥LeetCode solutions in any programming language | 多种编程语言实现 LeetCode、《剑指 Offer（第 2 版）》、《程序员面试金典（第 6 版）》题解"
-  },
-  {
-    "repo": "fspecii/HeartMuLa-Studio",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Suno-like music generation studio for HeartMuLa/heartlib - AI-powered music creation with reference audio style transfer"
-  },
-  {
-    "repo": "aave/aave-v3-core",
-    "branch": "master",
-    "language": "TypeScript",
-    "description": "This repository contains the core smart contracts of the Aave V3 protocol."
-  },
-  {
-    "repo": "dypsilon/frontend-dev-bookmarks",
-    "branch": "master",
-    "language": "Other",
-    "description": "Manually curated collection of resources for frontend web developers."
-  },
-  {
-    "repo": "nvm-sh/nvm",
-    "branch": "master",
-    "language": "Shell",
-    "description": "Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions"
-  },
-  {
-    "repo": "wasabeef/awesome-android-ui",
-    "branch": "master",
-    "language": "Other",
-    "description": "A curated list of awesome Android UI/UX libraries"
-  },
-  {
-    "repo": "plotly/plotly.py",
-    "branch": "master",
-    "language": "Python",
-    "description": "The interactive graphing library for Python :sparkles:"
-  },
-  {
-    "repo": "uralbash/awesome-pyramid",
-    "branch": "master",
-    "language": "Other",
-    "description": "A curated list of awesome Pyramid apps, projects and resources."
-  },
-  {
-    "repo": "CyC2018/CS-Notes",
-    "branch": "master",
-    "language": "Other",
-    "description": ":books: 技术面试必备基础知识、Leetcode、计算机操作系统、计算机网络、系统设计"
-  },
-  {
-    "repo": "inputsh/awesome-linux",
-    "branch": "master",
-    "language": "Other",
-    "description": ":penguin: A list of awesome projects and resources that make Linux even more awesome. :penguin:"
-  },
-  {
-    "repo": "NativeScript/NativeScript",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "⚡ Write Native with TypeScript ✨ Best of all worlds (TypeScript, Swift, Objective C, Kotlin, Java, Dart). Use what you love ❤️ Angular, React, Solid, Svelte, Vue with: iOS (UIKit, SwiftUI), Android (View, Jetpack Compose), Flutter and you name it compatible."
-  },
-  {
-    "repo": "bregman-arie/devops-exercises",
-    "branch": "master",
-    "language": "Python",
-    "description": "Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions"
-  },
-  {
-    "repo": "test-time-training/discover",
+    "repo": "Lakr233/vphone-cli",
     "branch": "main",
     "language": "Python",
     "description": ""
   },
   {
-    "repo": "pmndrs/zustand",
+    "repo": "qianye-wuyu/yueyuan-bazi",
     "branch": "main",
-    "language": "TypeScript",
-    "description": "🐻 Bear necessities for state management in React"
+    "language": "Python",
+    "description": "跃渊 YueYuan · 子平命理分析系统（研究型八字解读 Skill：假设-证据-反证、规则分层、预注册预测+后验验证、变格四态状态机、100 案例测试）"
   },
   {
-    "repo": "LeCoupa/awesome-cheatsheets",
-    "branch": "master",
+    "repo": "0din-ai/ai-scanner",
+    "branch": "main",
+    "language": "Ruby",
+    "description": "AI model safety scanner built on NVIDIA garak"
+  },
+  {
+    "repo": "pytest-dev/pytest",
+    "branch": "main",
+    "language": "Python",
+    "description": "The pytest framework makes it easy to write small tests, yet scales to support complex functional testing"
+  },
+  {
+    "repo": "EbookFoundation/free-programming-books",
+    "branch": "main",
+    "language": "Python",
+    "description": ":books: Freely available programming books"
+  },
+  {
+    "repo": "TheTom/turboquant_plus",
+    "branch": "main",
+    "language": "Python",
+    "description": ""
+  },
+  {
+    "repo": "django/django",
+    "branch": "main",
+    "language": "Python",
+    "description": "The Web framework for perfectionists with deadlines."
+  },
+  {
+    "repo": "jlia0/tinyclaw",
+    "branch": "main",
     "language": "JavaScript",
-    "description": "👩‍💻👨‍💻 Awesome cheatsheets for popular programming languages, frameworks and development tools. They include everything you should know in one single file."
+    "description": "TinyClaw is a tiny wrapper of Claude Code that acts as your 24/7 personal assistant"
   },
   {
-    "repo": "karatelabs/karate",
+    "repo": "v2ray/v2ray-core",
     "branch": "master",
-    "language": "Java",
-    "description": "Test Automation Made Simple"
+    "language": "Go",
+    "description": "A platform for building proxies to bypass network restrictions."
   },
   {
-    "repo": "sequelize/sequelize",
+    "repo": "luccast/crabwalk",
+    "branch": "master",
+    "language": "TypeScript",
+    "description": "🦀 Crabwalk 🦀 Real-time companion monitor for Clawdbot agents."
+  },
+  {
+    "repo": "huggingface/transformers",
+    "branch": "main",
+    "language": "Python",
+    "description": "🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training."
+  },
+  {
+    "repo": "wassim249/fastapi-langgraph-agent-production-ready-template",
+    "branch": "main",
+    "language": "Python",
+    "description": "A production-ready FastAPI template for building AI agent applications with LangGraph integration. This template provides a robust foundation for building scalable, secure, and maintainable AI agent services."
+  },
+  {
+    "repo": "facebook/react",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "The library for web and native user interfaces."
+  },
+  {
+    "repo": "NousResearch/hermes-agent-self-evolution",
+    "branch": "main",
+    "language": "Python",
+    "description": "⚒ Evolutionary self-improvement for Hermes Agent — optimize skills, prompts, and code using DSPy + GEPA"
+  },
+  {
+    "repo": "anl331/goey-toast",
     "branch": "main",
     "language": "TypeScript",
-    "description": "Feature-rich ORM for modern Node.js and TypeScript, it supports PostgreSQL (with JSON and JSONB support), MySQL, MariaDB, SQLite, MS SQL Server, Snowflake, Oracle DB (v6), DB2 and DB2 for IBM i."
+    "description": "A gooey, morphing toast component built on Sonner with Framer Motion animations"
+  },
+  {
+    "repo": "friendlymatthew/gabagool",
+    "branch": "main",
+    "language": "Rust",
+    "description": "Snapshotable WebAssembly interpreter from scratch"
+  },
+  {
+    "repo": "BitrigApp/XCDocs",
+    "branch": "main",
+    "language": "Swift",
+    "description": "Apple's developer docs as a Swift package and CLI."
+  },
+  {
+    "repo": "fikrikarim/parlor",
+    "branch": "main",
+    "language": "HTML",
+    "description": "On-device, real-time multimodal AI. Have natural voice and vision conversations with an AI that runs entirely on your machine. Powered by Gemma 4 E2B and Kokoro."
+  },
+  {
+    "repo": "electron/electron",
+    "branch": "main",
+    "language": "C++",
+    "description": ":electron: Build cross-platform desktop apps with JavaScript, HTML, and CSS"
+  },
+  {
+    "repo": "vigorX777/ai-daily-digest",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "从 Andrej Karpathy 推荐的 90 顶级技术博客中抓取最新文章，AI 多维评分筛选，生成一份每日精选日报。更多可见公众号：懂点儿AI"
+  },
+  {
+    "repo": "stellarlinkco/myclaw",
+    "branch": "main",
+    "language": "Go",
+    "description": ""
+  },
+  {
+    "repo": "twbs/bootstrap",
+    "branch": "main",
+    "language": "MDX",
+    "description": "The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web."
+  },
+  {
+    "repo": "weeseezios/kms-pico-emulator-2026",
+    "branch": "main",
+    "language": "C++",
+    "description": "The most reliable KMS emulator for 2026. Manage and validate Windows 10/11 and Office 2016-2024 instances instantly. Pure, open-source, and offline-ready."
+  },
+  {
+    "repo": "H-EmbodVis/VEGA-3D",
+    "branch": "main",
+    "language": "Python",
+    "description": "Official code of Generation Models Know Space: Unleashing Implicit 3D Priors for Scene Understanding"
   }
 ]
