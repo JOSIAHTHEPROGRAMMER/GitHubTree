@@ -1,8 +1,8 @@
 {
-  "repo": "MSNightmare/GreenSection",
+  "repo": "charlie754/Game-Optimizer-CPUs-Threads-Optimizer",
   "branch": "main",
   "language": "C++",
-  "description": "Nvidia GreenSection Memory Corruption 0day vulnerability",
-  "stars": 114,
-  "forks": 27
+  "description": "Game Optimizer (CPUs Threads Optimizer) - Windows tray app that pins games to the right CPU cache complex using the Windows CPU Sets API. No affinity masks, no SMT disable, no BIOS changes.",
+  "stars": 102,
+  "forks": 8
 }

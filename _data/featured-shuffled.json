@@ -1,146 +1,146 @@
 [
   {
-    "repo": "turtle2209/Bigfish",
+    "repo": "Neverforgetme/DBD-AutoGrind-Trainer-2026-Elite",
     "branch": "main",
-    "language": "JavaScript",
-    "description": "Bigfish —— DeepSeek Harness 的第三方桌面端，内置 Node 运行时，双击即用，附带桌面萌宠。"
+    "language": "Python",
+    "description": "Ultimate Dead by Daylight auto-grind trainer Elite edition with Bloodpoint bot, ESP wallhack, aimbot, and full perk/skin unlocker. Dominate the Fog with our 2026 undetected external tool."
   },
   {
-    "repo": "kubernetes/minikube",
+    "repo": "samvallad33/vestige",
+    "branch": "main",
+    "language": "Rust",
+    "description": "Cognitive memory MCP server for Claude - FSRS-6, spreading activation, synaptic tagging, and 130 years of memory research"
+  },
+  {
+    "repo": "tradesdontlie/tradingview-mcp",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "AI-assisted TradingView chart analysis — connect Claude Code to your TradingView Desktop for personal workflow automation"
+  },
+  {
+    "repo": "mukul975/cve-mcp-server",
+    "branch": "main",
+    "language": "Python",
+    "description": "Production-grade MCP server giving Claude 27 security intelligence tools across 21 APIs — CVE lookup, EPSS scoring, CISA KEV, MITRE ATT&CK, Shodan, VirusTotal, and more."
+  },
+  {
+    "repo": "TylerBoni/headless-airplay-screen-mirror",
+    "branch": "main",
+    "language": "Shell",
+    "description": ""
+  },
+  {
+    "repo": "emberjs/ember.js",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Ember.js - A JavaScript framework for creating ambitious web applications"
+  },
+  {
+    "repo": "PyGithub/PyGithub",
+    "branch": "master",
+    "language": "Python",
+    "description": "Typed interactions with the GitHub API v3"
+  },
+  {
+    "repo": "rasbt/mini-coding-agent",
+    "branch": "main",
+    "language": "Python",
+    "description": "Minimal and readable coding agent harness implementation in Python to explain the core components of coding agents."
+  },
+  {
+    "repo": "pydantic/FastUI",
+    "branch": "main",
+    "language": "Python",
+    "description": "Build better UIs faster."
+  },
+  {
+    "repo": "lance0/xfr",
+    "branch": "master",
+    "language": "Rust",
+    "description": "A modern iperf3 alternative with a live TUI, multi-client server, and QUIC support. Built in Rust."
+  },
+  {
+    "repo": "perkfly/ex-skill",
+    "branch": "main",
+    "language": "Python",
+    "description": "前女友 skill"
+  },
+  {
+    "repo": "retlehs/quien",
+    "branch": "main",
+    "language": "Go",
+    "description": "A better WHOIS lookup tool"
+  },
+  {
+    "repo": "Azure/azure-sdk-for-python",
+    "branch": "main",
+    "language": "Python",
+    "description": "This repository is for active development of the Azure SDK for Python. For consumers of the SDK we recommend visiting our public developer docs at https://learn.microsoft.com/python/azure/ or our versioned developer docs at https://azure.github.io/azure-sdk-for-python."
+  },
+  {
+    "repo": "v2ray/v2ray-core",
     "branch": "master",
     "language": "Go",
-    "description": "Run Kubernetes locally"
+    "description": "A platform for building proxies to bypass network restrictions."
   },
   {
-    "repo": "go-task/task",
+    "repo": "kzhrknt/awesome-design-md-jp",
+    "branch": "main",
+    "language": "HTML",
+    "description": "日本語UIをAIエージェントに正しくつくらせるためのDESIGN.md集。Japanese DESIGN.md collection for AI agents — extending Google Stitch format with CJK typography."
+  },
+  {
+    "repo": "yanhua1010/zero-to-ai-fullstack",
+    "branch": "main",
+    "language": "Python",
+    "description": "A Java backend engineer learning AI full-stack in public — Python · FastAPI · RAG · pgvector · Next.js"
+  },
+  {
+    "repo": "vakovalskii/codedash",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "Termius-style browser dashboard for Claude Code & Codex sessions. View, search, resume, tag, and manage all your AI coding sessions."
+  },
+  {
+    "repo": "maaslalani/sheets",
+    "branch": "main",
+    "language": "Go",
+    "description": "Terminal based spreadsheet tool"
+  },
+  {
+    "repo": "v2fly/v2ray-core",
     "branch": "master",
     "language": "Go",
-    "description": "A task runner / simpler Make alternative written in Go"
+    "description": "A platform for building proxies to bypass network restrictions."
   },
   {
-    "repo": "WalletConnect/walletconnect-monorepo",
-    "branch": "v2.0",
-    "language": "TypeScript",
-    "description": "WalletConnect Monorepo"
-  },
-  {
-    "repo": "xodn348/han",
-    "branch": "main",
-    "language": "Rust",
-    "description": "A compiled programming language with Korean keywords, written in Rust"
-  },
-  {
-    "repo": "clap-rs/clap",
-    "branch": "master",
-    "language": "Rust",
-    "description": "A full featured, fast Command Line Argument Parser for Rust"
-  },
-  {
-    "repo": "freeCodeCamp/freeCodeCamp",
+    "repo": "cpaczek/any-buddy",
     "branch": "main",
     "language": "TypeScript",
-    "description": "freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free."
+    "description": "Hack Claude Code to get any buddy you want"
   },
   {
-    "repo": "software-mansion/react-native-gesture-handler",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Declarative API exposing platform native touch and gesture system to React Native."
-  },
-  {
-    "repo": "oblador/react-native-vector-icons",
-    "branch": "master",
-    "language": "TypeScript",
-    "description": "Customizable Icons for React Native with support for image source and full styling."
-  },
-  {
-    "repo": "primefaces/primevue",
-    "branch": "master",
-    "language": "Vue",
-    "description": "Next Generation Vue UI Component Library"
-  },
-  {
-    "repo": "basketikun/chatgpt2api",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": ""
-  },
-  {
-    "repo": "scrya-com/rotorquant",
+    "repo": "LeoYeAI/teammate-skill",
     "branch": "main",
     "language": "Python",
-    "description": "RotorQuant: Clifford algebra vector quantization for LLM KV cache compression. 10-19x faster than TurboQuant, 44x fewer parameters."
+    "description": "Distill a teammate into an AI Skill. Auto-collect Slack/Teams/GitHub data, generate Work Skill + 5-layer Persona, with continuous evolution. Powered by MyClaw.ai. Works with Claude Code, OpenClaw, and any AgentSkills-compatible agent."
   },
   {
-    "repo": "lodash/lodash",
+    "repo": "mui/material-ui",
     "branch": "master",
     "language": "JavaScript",
-    "description": "A modern JavaScript utility library delivering modularity, performance, & extras."
+    "description": "Material UI: Comprehensive React component library that implements Google's Material Design. Free forever."
   },
   {
-    "repo": "RhysSullivan/nextjs-mobile-app-template",
+    "repo": "Uniswap/v3-core",
     "branch": "main",
     "language": "TypeScript",
-    "description": ""
+    "description": "🦄 🦄 🦄 Core smart contracts of Uniswap v3"
   },
   {
-    "repo": "codeninja/oauth-cli-coder",
-    "branch": "main",
-    "language": "Python",
-    "description": "Seamlessly interact with CLI coders (Claude, Gemini, Codex) via tmux TUI sessions."
-  },
-  {
-    "repo": "phuc-nt/my-translator",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "Real-time speech translation for macOS — open source, no tracking, direct Soniox API"
-  },
-  {
-    "repo": "brendanhogan/loophole",
-    "branch": "main",
-    "language": "Python",
-    "description": ""
-  },
-  {
-    "repo": "microsoft/vscode",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Visual Studio Code"
-  },
-  {
-    "repo": "vicnaum/bun-demincer",
+    "repo": "istio/istio.io",
     "branch": "master",
-    "language": "JavaScript",
-    "description": "Decompiler, deminifier and deobfuscator for Bun-compiled standalone JavaScript binaries"
-  },
-  {
-    "repo": "google/sentencepiece",
-    "branch": "master",
-    "language": "C++",
-    "description": "Unsupervised text tokenizer for Neural Network-based text generation."
-  },
-  {
-    "repo": "sharkdp/bat",
-    "branch": "master",
-    "language": "Rust",
-    "description": "A cat(1) clone with wings."
-  },
-  {
-    "repo": "influxdata/influxdb",
-    "branch": "main",
-    "language": "Rust",
-    "description": "Scalable datastore for metrics, events, and real-time analytics"
-  },
-  {
-    "repo": "openssl/openssl",
-    "branch": "master",
-    "language": "C",
-    "description": "TLS/SSL and crypto library"
-  },
-  {
-    "repo": "sveltejs/svelte",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "web development for the rest of us"
+    "language": "HTML",
+    "description": "Source for the istio.io site"
   }
 ]
