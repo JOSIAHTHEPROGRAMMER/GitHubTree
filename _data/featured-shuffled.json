@@ -1,146 +1,146 @@
 [
   {
-    "repo": "Lakr233/vphone-cli",
-    "branch": "main",
-    "language": "Python",
-    "description": ""
-  },
-  {
-    "repo": "qianye-wuyu/yueyuan-bazi",
-    "branch": "main",
-    "language": "Python",
-    "description": "跃渊 YueYuan · 子平命理分析系统（研究型八字解读 Skill：假设-证据-反证、规则分层、预注册预测+后验验证、变格四态状态机、100 案例测试）"
-  },
-  {
-    "repo": "0din-ai/ai-scanner",
-    "branch": "main",
-    "language": "Ruby",
-    "description": "AI model safety scanner built on NVIDIA garak"
-  },
-  {
-    "repo": "pytest-dev/pytest",
-    "branch": "main",
-    "language": "Python",
-    "description": "The pytest framework makes it easy to write small tests, yet scales to support complex functional testing"
-  },
-  {
-    "repo": "EbookFoundation/free-programming-books",
-    "branch": "main",
-    "language": "Python",
-    "description": ":books: Freely available programming books"
-  },
-  {
-    "repo": "TheTom/turboquant_plus",
-    "branch": "main",
-    "language": "Python",
-    "description": ""
-  },
-  {
-    "repo": "django/django",
-    "branch": "main",
-    "language": "Python",
-    "description": "The Web framework for perfectionists with deadlines."
-  },
-  {
-    "repo": "jlia0/tinyclaw",
+    "repo": "CatsJuice/sticker-forge",
     "branch": "main",
     "language": "JavaScript",
-    "description": "TinyClaw is a tiny wrapper of Claude Code that acts as your 24/7 personal assistant"
+    "description": "A tactile WebGL sticker maker with rich text, image uploads, and interactive peel physics."
   },
   {
-    "repo": "v2ray/v2ray-core",
+    "repo": "icebear0828/clio",
+    "branch": "master",
+    "language": "TypeScript",
+    "description": "A Claude Code clone CLI - agentic coding assistant in your terminal"
+  },
+  {
+    "repo": "nodejs/node",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "Node.js JavaScript runtime ✨🐢🚀✨"
+  },
+  {
+    "repo": "milvus-io/milvus",
     "branch": "master",
     "language": "Go",
-    "description": "A platform for building proxies to bypass network restrictions."
+    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search"
   },
   {
-    "repo": "luccast/crabwalk",
-    "branch": "master",
-    "language": "TypeScript",
-    "description": "🦀 Crabwalk 🦀 Real-time companion monitor for Clawdbot agents."
-  },
-  {
-    "repo": "huggingface/transformers",
-    "branch": "main",
-    "language": "Python",
-    "description": "🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training."
-  },
-  {
-    "repo": "wassim249/fastapi-langgraph-agent-production-ready-template",
-    "branch": "main",
-    "language": "Python",
-    "description": "A production-ready FastAPI template for building AI agent applications with LangGraph integration. This template provides a robust foundation for building scalable, secure, and maintainable AI agent services."
-  },
-  {
-    "repo": "facebook/react",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "The library for web and native user interfaces."
-  },
-  {
-    "repo": "NousResearch/hermes-agent-self-evolution",
-    "branch": "main",
-    "language": "Python",
-    "description": "⚒ Evolutionary self-improvement for Hermes Agent — optimize skills, prompts, and code using DSPy + GEPA"
-  },
-  {
-    "repo": "anl331/goey-toast",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "A gooey, morphing toast component built on Sonner with Framer Motion animations"
-  },
-  {
-    "repo": "friendlymatthew/gabagool",
-    "branch": "main",
-    "language": "Rust",
-    "description": "Snapshotable WebAssembly interpreter from scratch"
-  },
-  {
-    "repo": "BitrigApp/XCDocs",
+    "repo": "apple/swift-nio",
     "branch": "main",
     "language": "Swift",
-    "description": "Apple's developer docs as a Swift package and CLI."
+    "description": "Event-driven network application framework for high performance protocol servers & clients, non-blocking."
   },
   {
-    "repo": "fikrikarim/parlor",
+    "repo": "microsoft/terminal",
+    "branch": "main",
+    "language": "C++",
+    "description": "The new Windows Terminal and the original Windows console host, all in the same place!"
+  },
+  {
+    "repo": "simonw/cia-world-factbook-2020",
     "branch": "main",
     "language": "HTML",
-    "description": "On-device, real-time multimodal AI. Have natural voice and vision conversations with an AI that runs entirely on your machine. Powered by Gemma 4 E2B and Kokoro."
+    "description": "Recovered cia.gov/the-world-factbook/about/archives/download/factbook-2020.zip from Internet Archive"
   },
   {
-    "repo": "electron/electron",
-    "branch": "main",
-    "language": "C++",
-    "description": ":electron: Build cross-platform desktop apps with JavaScript, HTML, and CSS"
-  },
-  {
-    "repo": "vigorX777/ai-daily-digest",
-    "branch": "main",
+    "repo": "DefinitelyTyped/DefinitelyTyped",
+    "branch": "master",
     "language": "TypeScript",
-    "description": "从 Andrej Karpathy 推荐的 90 顶级技术博客中抓取最新文章，AI 多维评分筛选，生成一份每日精选日报。更多可见公众号：懂点儿AI"
+    "description": "The repository for high quality TypeScript type definitions."
   },
   {
-    "repo": "stellarlinkco/myclaw",
-    "branch": "main",
-    "language": "Go",
-    "description": ""
+    "repo": "expressjs/express",
+    "branch": "master",
+    "language": "JavaScript",
+    "description": "Fast, unopinionated, minimalist web framework for node."
   },
   {
-    "repo": "twbs/bootstrap",
+    "repo": "ImageMagick/ImageMagick",
     "branch": "main",
-    "language": "MDX",
-    "description": "The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web."
-  },
-  {
-    "repo": "weeseezios/kms-pico-emulator-2026",
-    "branch": "main",
-    "language": "C++",
-    "description": "The most reliable KMS emulator for 2026. Manage and validate Windows 10/11 and Office 2016-2024 instances instantly. Pure, open-source, and offline-ready."
+    "language": "C",
+    "description": "ImageMagick is a free, open-source software suite for creating, editing, converting, and displaying images. It supports 200+ formats and offers powerful command-line tools and APIs for automation, scripting, and integration across platforms."
   },
   {
     "repo": "H-EmbodVis/VEGA-3D",
     "branch": "main",
     "language": "Python",
     "description": "Official code of Generation Models Know Space: Unleashing Implicit 3D Priors for Scene Understanding"
+  },
+  {
+    "repo": "pshycodr/airctl",
+    "branch": "main",
+    "language": "Python",
+    "description": "AIRCTL, a modern WiFi management tool for Linux built with GTK4 and Python. It provides a clean interface to scan, connect, and manage wireless networks."
+  },
+  {
+    "repo": "Doriandarko/webmcp-starter",
+    "branch": "main",
+    "language": "HTML",
+    "description": "WebMCP starter demo — a DoorDash-style food delivery app with 9 AI agent tools (imperative + declarative)"
+  },
+  {
+    "repo": "avelino/awesome-go",
+    "branch": "main",
+    "language": "Go",
+    "description": "A curated list of awesome Go frameworks, libraries and software"
+  },
+  {
+    "repo": "MINT-SJTU/RoboClaw",
+    "branch": "main",
+    "language": "Python",
+    "description": "RoboClaw is an Embodied AI Assistant."
+  },
+  {
+    "repo": "tj/commander.js",
+    "branch": "master",
+    "language": "JavaScript",
+    "description": "node.js command-line interfaces made easy"
+  },
+  {
+    "repo": "Syngnat/GoNavi",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "现代化、原生体验的数据库管理工具，支持 MySQL、PostgreSQL、SQLite 等数据库，采用 Go 后端 + Wails + React 前端构建，启动快、体积小、性能强。"
+  },
+  {
+    "repo": "nicobailon/visual-explainer",
+    "branch": "main",
+    "language": "HTML",
+    "description": "Agent skill + prompt templates that generate rich HTML pages for visual diff reviews, architecture overviews, plan audits, data tables, and project recaps"
+  },
+  {
+    "repo": "callstackincubator/agent-device",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "CLI to control iOS and Android devices for AI agents"
+  },
+  {
+    "repo": "CocoaPods/CocoaPods",
+    "branch": "master",
+    "language": "Ruby",
+    "description": "The Cocoa Dependency Manager."
+  },
+  {
+    "repo": "keras-team/keras-nlp",
+    "branch": "master",
+    "language": "Python",
+    "description": "Pretrained model hub for Keras 3."
+  },
+  {
+    "repo": "0xKarl-dev/claw-codes",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Fastest repo on my GitHub to hit 50⭐ in under 2 hours. Building tools that get real things done. Now rewriting in Rust."
+  },
+  {
+    "repo": "pytorch/serve",
+    "branch": "master",
+    "language": "Java",
+    "description": "Serve, optimize and scale PyTorch models in production"
+  },
+  {
+    "repo": "apache/flink",
+    "branch": "master",
+    "language": "Java",
+    "description": "Apache Flink"
   }
 ]
