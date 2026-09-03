@@ -1,8 +1,8 @@
 {
-  "repo": "charlie754/Game-Optimizer-CPUs-Threads-Optimizer",
+  "repo": "Parsifal1986/TokensBurned",
   "branch": "main",
-  "language": "C++",
-  "description": "Game Optimizer (CPUs Threads Optimizer) - Windows tray app that pins games to the right CPU cache complex using the Windows CPU Sets API. No affinity masks, no SMT disable, no BIOS changes.",
-  "stars": 102,
-  "forks": 8
+  "language": "JavaScript",
+  "description": "Privacy-first AI coding activity for your GitHub profile.",
+  "stars": 105,
+  "forks": 6
 }

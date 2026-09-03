@@ -1,146 +1,146 @@
 [
   {
-    "repo": "Neverforgetme/DBD-AutoGrind-Trainer-2026-Elite",
+    "repo": "junit-team/junit4",
     "branch": "main",
-    "language": "Python",
-    "description": "Ultimate Dead by Daylight auto-grind trainer Elite edition with Bloodpoint bot, ESP wallhack, aimbot, and full perk/skin unlocker. Dominate the Fog with our 2026 undetected external tool."
+    "language": "Java",
+    "description": "A programmer-oriented testing framework for Java — :warning: maintenance mode"
   },
   {
-    "repo": "samvallad33/vestige",
+    "repo": "denoland/ronly",
     "branch": "main",
     "language": "Rust",
-    "description": "Cognitive memory MCP server for Claude - FSRS-6, spreading activation, synaptic tagging, and 130 years of memory research"
-  },
-  {
-    "repo": "tradesdontlie/tradingview-mcp",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "AI-assisted TradingView chart analysis — connect Claude Code to your TradingView Desktop for personal workflow automation"
-  },
-  {
-    "repo": "mukul975/cve-mcp-server",
-    "branch": "main",
-    "language": "Python",
-    "description": "Production-grade MCP server giving Claude 27 security intelligence tools across 21 APIs — CVE lookup, EPSS scoring, CISA KEV, MITRE ATT&CK, Shodan, VirusTotal, and more."
-  },
-  {
-    "repo": "TylerBoni/headless-airplay-screen-mirror",
-    "branch": "main",
-    "language": "Shell",
     "description": ""
   },
   {
-    "repo": "emberjs/ember.js",
+    "repo": "pixijs/pixijs",
+    "branch": "dev",
+    "language": "TypeScript",
+    "description": "The HTML5 Creation Engine: Create beautiful digital content with the fastest, most flexible 2D WebGL renderer."
+  },
+  {
+    "repo": "krisrice/oracle-db-skills",
+    "branch": "main",
+    "language": "Shell",
+    "description": "Oracle DB Skills is a curated library of 100+ practical, documentation-backed guides for working with Oracle Database, organized by domain"
+  },
+  {
+    "repo": "Kanaries/pygwalker",
+    "branch": "main",
+    "language": "Python",
+    "description": "PyGWalker: Turn your dataframe into an interactive UI for visual analysis"
+  },
+  {
+    "repo": "klawsh/klaw.sh",
+    "branch": "main",
+    "language": "Go",
+    "description": "kubectl for AI Agents"
+  },
+  {
+    "repo": "pi0/skillman",
     "branch": "main",
     "language": "TypeScript",
-    "description": "Ember.js - A JavaScript framework for creating ambitious web applications"
+    "description": "🤹 Manage project skills and lock them in skills.json"
   },
   {
-    "repo": "PyGithub/PyGithub",
+    "repo": "FlowiseAI/Flowise",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Build AI Agents, Visually"
+  },
+  {
+    "repo": "larksuite/openclaw-lark",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "飞书官方出品的 OpenClaw 飞书/Lark Channel 插件"
+  },
+  {
+    "repo": "jbhuang0604/awesome-computer-vision",
+    "branch": "master",
+    "language": "Other",
+    "description": "A curated list of awesome computer vision resources"
+  },
+  {
+    "repo": "jyoung105/frouter",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Free model router CLI to discover, benchmark, and configure free AI models for OpenCode and OpenClaw"
+  },
+  {
+    "repo": "vuejs/awesome-vue",
+    "branch": "master",
+    "language": "Other",
+    "description": "🎉 A curated list of awesome things related to Vue.js"
+  },
+  {
+    "repo": "microsoft/AI",
     "branch": "master",
     "language": "Python",
-    "description": "Typed interactions with the GitHub API v3"
+    "description": "Microsoft AI"
   },
   {
-    "repo": "rasbt/mini-coding-agent",
-    "branch": "main",
-    "language": "Python",
-    "description": "Minimal and readable coding agent harness implementation in Python to explain the core components of coding agents."
-  },
-  {
-    "repo": "pydantic/FastUI",
-    "branch": "main",
-    "language": "Python",
-    "description": "Build better UIs faster."
-  },
-  {
-    "repo": "lance0/xfr",
+    "repo": "daltoniam/Starscream",
     "branch": "master",
+    "language": "Swift",
+    "description": "Websockets in swift for iOS and OSX"
+  },
+  {
+    "repo": "RongleCat/grok-go",
+    "branch": "main",
     "language": "Rust",
-    "description": "A modern iperf3 alternative with a live TUI, multi-client server, and QUIC support. Built in Rust."
+    "description": "Local multi-account Grok gateway for Codex (API + MCP). 本地多账号 Grok 网关，面向 Codex。"
   },
   {
-    "repo": "perkfly/ex-skill",
-    "branch": "main",
+    "repo": "deepfakes/faceswap",
+    "branch": "master",
     "language": "Python",
-    "description": "前女友 skill"
+    "description": "Deepfakes Software For All"
   },
   {
-    "repo": "retlehs/quien",
+    "repo": "lucas831029/Heroes-of-Might-and-Magic-Olden-Era-Release",
     "branch": "main",
-    "language": "Go",
-    "description": "A better WHOIS lookup tool"
+    "language": "C++",
+    "description": "Heroes Might and Magic Olden Era Download April 30 2026 Release Early Access PC Game Pass Strategy Guide Factions Temple Dungeon Necropolis Hive Schism Grove Best Heroes Motley Gameplay Tutorial Fix Stutter DX12 Error Random Map Generator RMG Performance Utility Multiplayer Ranked Matchmaking Latest Build Free Full Version"
   },
   {
-    "repo": "Azure/azure-sdk-for-python",
-    "branch": "main",
-    "language": "Python",
-    "description": "This repository is for active development of the Azure SDK for Python. For consumers of the SDK we recommend visiting our public developer docs at https://learn.microsoft.com/python/azure/ or our versioned developer docs at https://azure.github.io/azure-sdk-for-python."
-  },
-  {
-    "repo": "v2ray/v2ray-core",
+    "repo": "docker/cli",
     "branch": "master",
     "language": "Go",
-    "description": "A platform for building proxies to bypass network restrictions."
+    "description": "The Docker CLI"
   },
   {
-    "repo": "kzhrknt/awesome-design-md-jp",
-    "branch": "main",
-    "language": "HTML",
-    "description": "日本語UIをAIエージェントに正しくつくらせるためのDESIGN.md集。Japanese DESIGN.md collection for AI agents — extending Google Stitch format with CJK typography."
-  },
-  {
-    "repo": "yanhua1010/zero-to-ai-fullstack",
-    "branch": "main",
-    "language": "Python",
-    "description": "A Java backend engineer learning AI full-stack in public — Python · FastAPI · RAG · pgvector · Next.js"
-  },
-  {
-    "repo": "vakovalskii/codedash",
+    "repo": "FoundZiGu/GuJumpgate",
     "branch": "main",
     "language": "JavaScript",
-    "description": "Termius-style browser dashboard for Claude Code & Codex sessions. View, search, resume, tag, and manage all your AI coding sessions."
+    "description": ""
   },
   {
-    "repo": "maaslalani/sheets",
-    "branch": "main",
-    "language": "Go",
-    "description": "Terminal based spreadsheet tool"
-  },
-  {
-    "repo": "v2fly/v2ray-core",
+    "repo": "godagoo/claude-telegram-relay",
     "branch": "master",
-    "language": "Go",
-    "description": "A platform for building proxies to bypass network restrictions."
+    "language": "TypeScript",
+    "description": "Minimal pattern for running Claude Code as an always-on Telegram bot. Cross-platform daemon setup included."
   },
   {
-    "repo": "cpaczek/any-buddy",
+    "repo": "zzzzshawn/matrix",
     "branch": "main",
     "language": "TypeScript",
-    "description": "Hack Claude Code to get any buddy you want"
+    "description": ""
   },
   {
-    "repo": "LeoYeAI/teammate-skill",
+    "repo": "Runnin4ik/dpi-detector",
     "branch": "main",
     "language": "Python",
-    "description": "Distill a teammate into an AI Skill. Auto-collect Slack/Teams/GitHub data, generate Work Skill + 5-layer Persona, with continuous evolution. Powered by MyClaw.ai. Works with Claude Code, OpenClaw, and any AgentSkills-compatible agent."
+    "description": "DPI detection tool for internet censorship testing. Identifies TLS, TCP, HTTP blocking and 16-20KB connection drops"
   },
   {
-    "repo": "mui/material-ui",
-    "branch": "master",
-    "language": "JavaScript",
-    "description": "Material UI: Comprehensive React component library that implements Google's Material Design. Free forever."
-  },
-  {
-    "repo": "Uniswap/v3-core",
+    "repo": "lukeed/comptime",
     "branch": "main",
     "language": "TypeScript",
-    "description": "🦄 🦄 🦄 Core smart contracts of Uniswap v3"
+    "description": "A Zig-inspired build-time evaluation primitive, exposed as Vite and Rolldown plugins"
   },
   {
-    "repo": "istio/istio.io",
+    "repo": "prometheus/node_exporter",
     "branch": "master",
-    "language": "HTML",
-    "description": "Source for the istio.io site"
+    "language": "Go",
+    "description": "Exporter for machine metrics"
   }
 ]
