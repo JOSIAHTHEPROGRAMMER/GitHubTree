@@ -1,146 +1,146 @@
 [
   {
-    "repo": "junit-team/junit4",
+    "repo": "GRVYDEV/marky",
     "branch": "main",
-    "language": "Java",
-    "description": "A programmer-oriented testing framework for Java — :warning: maintenance mode"
-  },
-  {
-    "repo": "denoland/ronly",
-    "branch": "main",
-    "language": "Rust",
-    "description": ""
-  },
-  {
-    "repo": "pixijs/pixijs",
-    "branch": "dev",
     "language": "TypeScript",
-    "description": "The HTML5 Creation Engine: Create beautiful digital content with the fastest, most flexible 2D WebGL renderer."
+    "description": "A lightweight easy to use markdown viewer"
   },
   {
-    "repo": "krisrice/oracle-db-skills",
+    "repo": "wagmi-dev/viem",
     "branch": "main",
-    "language": "Shell",
-    "description": "Oracle DB Skills is a curated library of 100+ practical, documentation-backed guides for working with Oracle Database, organized by domain"
+    "language": "TypeScript",
+    "description": "TypeScript Interface for Ethereum"
   },
   {
-    "repo": "Kanaries/pygwalker",
+    "repo": "stanford-oval/storm",
     "branch": "main",
     "language": "Python",
-    "description": "PyGWalker: Turn your dataframe into an interactive UI for visual analysis"
+    "description": "An LLM-powered knowledge curation system that researches a topic and generates a full-length report with citations."
   },
   {
-    "repo": "klawsh/klaw.sh",
-    "branch": "main",
-    "language": "Go",
-    "description": "kubectl for AI Agents"
-  },
-  {
-    "repo": "pi0/skillman",
+    "repo": "unjs/h3",
     "branch": "main",
     "language": "TypeScript",
-    "description": "🤹 Manage project skills and lock them in skills.json"
+    "description": "⚡️ Minimal H(TTP) framework built for high performance and portability"
   },
   {
-    "repo": "FlowiseAI/Flowise",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Build AI Agents, Visually"
-  },
-  {
-    "repo": "larksuite/openclaw-lark",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "飞书官方出品的 OpenClaw 飞书/Lark Channel 插件"
-  },
-  {
-    "repo": "jbhuang0604/awesome-computer-vision",
-    "branch": "master",
-    "language": "Other",
-    "description": "A curated list of awesome computer vision resources"
-  },
-  {
-    "repo": "jyoung105/frouter",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Free model router CLI to discover, benchmark, and configure free AI models for OpenCode and OpenClaw"
-  },
-  {
-    "repo": "vuejs/awesome-vue",
-    "branch": "master",
-    "language": "Other",
-    "description": "🎉 A curated list of awesome things related to Vue.js"
-  },
-  {
-    "repo": "microsoft/AI",
-    "branch": "master",
-    "language": "Python",
-    "description": "Microsoft AI"
-  },
-  {
-    "repo": "daltoniam/Starscream",
-    "branch": "master",
-    "language": "Swift",
-    "description": "Websockets in swift for iOS and OSX"
-  },
-  {
-    "repo": "RongleCat/grok-go",
-    "branch": "main",
-    "language": "Rust",
-    "description": "Local multi-account Grok gateway for Codex (API + MCP). 本地多账号 Grok 网关，面向 Codex。"
-  },
-  {
-    "repo": "deepfakes/faceswap",
-    "branch": "master",
-    "language": "Python",
-    "description": "Deepfakes Software For All"
-  },
-  {
-    "repo": "lucas831029/Heroes-of-Might-and-Magic-Olden-Era-Release",
-    "branch": "main",
-    "language": "C++",
-    "description": "Heroes Might and Magic Olden Era Download April 30 2026 Release Early Access PC Game Pass Strategy Guide Factions Temple Dungeon Necropolis Hive Schism Grove Best Heroes Motley Gameplay Tutorial Fix Stutter DX12 Error Random Map Generator RMG Performance Utility Multiplayer Ranked Matchmaking Latest Build Free Full Version"
-  },
-  {
-    "repo": "docker/cli",
-    "branch": "master",
-    "language": "Go",
-    "description": "The Docker CLI"
-  },
-  {
-    "repo": "FoundZiGu/GuJumpgate",
+    "repo": "TryGhost/Ghost",
     "branch": "main",
     "language": "JavaScript",
-    "description": ""
+    "description": "Independent technology for modern publishing, memberships, subscriptions and newsletters."
   },
   {
-    "repo": "godagoo/claude-telegram-relay",
-    "branch": "master",
-    "language": "TypeScript",
-    "description": "Minimal pattern for running Claude Code as an always-on Telegram bot. Cross-platform daemon setup included."
+    "repo": "defold/defold",
+    "branch": "dev",
+    "language": "C++",
+    "description": "Defold is a completely free to use game engine for development of desktop, mobile and web games."
   },
   {
-    "repo": "zzzzshawn/matrix",
+    "repo": "langgenius/dify",
     "branch": "main",
     "language": "TypeScript",
-    "description": ""
+    "description": "Production-ready platform for agentic workflow development."
   },
   {
-    "repo": "Runnin4ik/dpi-detector",
+    "repo": "lencx/ChatGPT",
+    "branch": "main",
+    "language": "Rust",
+    "description": "🔮 ChatGPT Desktop Application (Mac, Windows and Linux)"
+  },
+  {
+    "repo": "jorgebucaran/hyperapp",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "1kB-ish JavaScript framework for building hypertext applications"
+  },
+  {
+    "repo": "keephq/keep",
     "branch": "main",
     "language": "Python",
-    "description": "DPI detection tool for internet censorship testing. Identifies TLS, TCP, HTTP blocking and 16-20KB connection drops"
+    "description": "The open-source AIOps and alert management platform"
   },
   {
-    "repo": "lukeed/comptime",
+    "repo": "MarlinFirmware/Marlin",
+    "branch": "bugfix-2.1.x",
+    "language": "C++",
+    "description": "Marlin is a firmware for RepRap 3D printers optimized for both 8 and 32 bit microcontrollers.  Marlin supports all common platforms.   Many commercial 3D printers come with Marlin installed.  Check with your vendor if you need source code for your specific machine."
+  },
+  {
+    "repo": "prusa3d/PrusaSlicer",
+    "branch": "master",
+    "language": "C++",
+    "description": "G-code generator for 3D printers (RepRap, Makerbot, Ultimaker etc.)"
+  },
+  {
+    "repo": "HzWeta/Delta-For-Roblox-PC-Edition",
+    "branch": "main",
+    "language": "C++",
+    "description": "Delta For Roblox PC Edition delivers a smooth and optimized Roblox experience on Windows. Enjoy better performance, higher FPS, widescreen support, and enhanced stability while playing your favorite Roblox games on desktop."
+  },
+  {
+    "repo": "m1heng/claude-plugin-weixin",
     "branch": "main",
     "language": "TypeScript",
-    "description": "A Zig-inspired build-time evaluation primitive, exposed as Vite and Rolldown plugins"
+    "description": ""
   },
   {
-    "repo": "prometheus/node_exporter",
+    "repo": "browser-use/video-use",
+    "branch": "main",
+    "language": "Python",
+    "description": ""
+  },
+  {
+    "repo": "ccch1mneyyy/dsh-TUI",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "解决DSH 官方尚无终端 TUI 痛点的补位之作，献给偏爱cli的各位极客：Claude Code 风格全屏交互终端插件——像素鲸鱼顶栏、实时工作状态行、思考流式展开、双击 Esc 回滚、上下文进度条 + TPS 仪表。npm 一键安装。"
+  },
+  {
+    "repo": "gi-dellav/zerostack",
+    "branch": "main",
+    "language": "Rust",
+    "description": "Minimalistic coding agent written in Rust, optimized for memory footprint and performance"
+  },
+  {
+    "repo": "godotengine/godot-docs",
     "branch": "master",
-    "language": "Go",
-    "description": "Exporter for machine metrics"
+    "language": "reStructuredText",
+    "description": "Godot Engine official documentation"
+  },
+  {
+    "repo": "fancyai-official/skills",
+    "branch": "main",
+    "language": "Python",
+    "description": ""
+  },
+  {
+    "repo": "vercel-labs/wterm",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "A terminal emulator for the web"
+  },
+  {
+    "repo": "YuriCrystal/ai-avatar-bot",
+    "branch": "main",
+    "language": "HTML",
+    "description": "可一行嵌入任何網站的 Live2D 語音 AI 虛擬人元件 — 皮肉分離、零金鑰、神經語音可選"
+  },
+  {
+    "repo": "paralives-free/Paralives-Money-Cheats",
+    "branch": "main",
+    "language": "C#",
+    "description": "paralives mod cheats money console commands money hack trainer steam  game download free steam pc paramaker unlimited money needs mod"
+  },
+  {
+    "repo": "op7418/guizang-social-card-skill",
+    "branch": "main",
+    "language": "HTML",
+    "description": "🪧 Claude Code / Codex skill — generate Xiaohongshu carousels & WeChat 21:9+1:1 cover pairs. Editorial × Swiss visual systems, 28 layouts, 10 themes, single-file HTML → PNG. 小红书图文 + 公众号封面对"
+  },
+  {
+    "repo": "ByteByteGoHq/system-design-101",
+    "branch": "main",
+    "language": "Other",
+    "description": "Explain complex systems using visuals and simple terms. Help you prepare for system design interviews."
   }
 ]
