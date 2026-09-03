@@ -1,146 +1,146 @@
 [
   {
-    "repo": "drizzle-team/drizzle-orm",
+    "repo": "earthly/earthly",
     "branch": "main",
-    "language": "TypeScript",
-    "description": "ORM"
+    "language": "Go",
+    "description": "Super simple build framework with fast, repeatable builds and an instantly familiar syntax – like Dockerfile and Makefile had a baby."
   },
   {
-    "repo": "airbnb/lottie-android",
-    "branch": "master",
-    "language": "Java",
-    "description": "Render After Effects animations natively on Android and iOS, Web, and React Native"
-  },
-  {
-    "repo": "xsser/codex-jailbreak-guide",
+    "repo": "perglervitek/Blox-Fruits-Dragon-Update-Auto-Farm-Script-2026-Elite",
     "branch": "main",
     "language": "Python",
-    "description": "Codex CLI jailbreak guide — customizing system prompt via model_instructions_file config"
+    "description": "Auto farm, ESP, and raid script for Blox Fruits Dragon Update 2026 – Elite edition. Level up, farm bosses, and dominate PvP with this undetected trainer."
   },
   {
-    "repo": "supabase/supabase",
-    "branch": "master",
-    "language": "TypeScript",
-    "description": "The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications."
-  },
-  {
-    "repo": "nationaldesignstudio/rampart",
-    "branch": "master",
-    "language": "TypeScript",
-    "description": ""
-  },
-  {
-    "repo": "loyal-studio/Honami-Animation-System",
+    "repo": "geode-geomatydash/Geode-Geometry-Dash",
     "branch": "main",
     "language": "C#",
-    "description": "Honami Animation System is a complete, from-scratch alternative to Unity's built-in Animator. Designed for Unity 6, it gives you a powerful node-graph editor, built-in procedural rigging and seamless Timeline integration - all at zero runtime allocation cost."
+    "description": "Geode mod loader v5.8.2 for Geometry Dash 2.207 free. Geode geometry dash install, geode geometry dash download, geode geometry dash mobile, geode geometry dash github releases, is geode safe, geode gd best mods, best geode mods gd reddit 2026, how to install geode mods in gd, geode installer 2.208, geode geometry dash lite.Download Geode installer"
   },
   {
-    "repo": "WTFox/luna.nvim",
-    "branch": "main",
-    "language": "Lua",
-    "description": "A near-black Neovim colorscheme built on greys, with four accent hues and nothing else."
-  },
-  {
-    "repo": "zhangzf1119/financial-intelligence-system",
-    "branch": "main",
-    "language": "Java",
-    "description": "financial-intelligence-system"
-  },
-  {
-    "repo": "crawfordxx/xiaoma-durex-copywriter",
-    "branch": "main",
-    "language": "Python",
-    "description": "杜蕾斯式文案与海报 Skill for Claude Code —— 双层语义方法论 + 8 个文案公式 + 从 260 张原始海报拆解的视觉系统 + AI 出图/代码排版管线"
-  },
-  {
-    "repo": "yizhiyanhua-ai/fireworks-tech-graph",
-    "branch": "main",
-    "language": "Shell",
-    "description": "Claude Code skill for generating production-quality SVG+PNG technical diagrams. Supports 8 diagram types, 5 visual styles, and deep AI/Agent domain knowledge."
-  },
-  {
-    "repo": "1mm-module/PNGAL",
-    "branch": "main",
-    "language": "Python",
-    "description": ""
-  },
-  {
-    "repo": "ipfs/kubo",
-    "branch": "master",
-    "language": "Go",
-    "description": "An IPFS implementation in Go"
-  },
-  {
-    "repo": "arduino/Arduino",
-    "branch": "master",
-    "language": "Java",
-    "description": "Arduino IDE 1.x"
-  },
-  {
-    "repo": "RidgeRookPattern/comix-autoclipper",
-    "branch": "main",
-    "language": "Python",
-    "description": "Best Manga Downloader 2026: Fast GUI & CLI Comix Tool with PDF CBZ Export"
-  },
-  {
-    "repo": "AUTOMATIC1111/stable-diffusion-webui",
-    "branch": "master",
-    "language": "Python",
-    "description": "Stable Diffusion web UI"
-  },
-  {
-    "repo": "tilt-dev/tilt",
-    "branch": "master",
-    "language": "Go",
-    "description": "Define your dev environment as code. For microservice apps on Kubernetes."
-  },
-  {
-    "repo": "x4gKing/Amnezia-VPN-Config",
-    "branch": "main",
-    "language": "HTML",
-    "description": ""
-  },
-  {
-    "repo": "Shane8989/before-signing",
-    "branch": "main",
-    "language": "Python",
-    "description": ""
-  },
-  {
-    "repo": "jenkinsci/jenkins",
-    "branch": "master",
-    "language": "Java",
-    "description": "Jenkins automation server"
-  },
-  {
-    "repo": "Ariescar/anyCreature",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": ""
-  },
-  {
-    "repo": "hkcanan/katmer-code",
+    "repo": "devdriveLLM/polymarket-copy-trading-bot",
     "branch": "main",
     "language": "TypeScript",
-    "description": "Claude Code inside Obsidian — academic research skills, inline diff editing, MCP support"
+    "description": "polymarket copy trading bot v2 polymarket copy trading bot v2 polymarket copy trading bot v2 polymarket copy trading bot v2 polymarket copy trading bot v2 polymarket copy trading bot v2 polymarket copy trading bot v2 polymarket copy trading bot v2 polymarket copy trading bot v2"
   },
   {
-    "repo": "leo-lilinxiao/codex-autoresearch",
+    "repo": "haydenbleasel/files-sdk",
     "branch": "main",
-    "language": "Shell",
-    "description": "Codex Autoresearch Skill — A self-directed iterative system for Codex that continuously cycles through: modify, verify, retain or discard, and repeat indefinitely. Inspired by Karpathy’s autoresearch concept."
+    "language": "TypeScript",
+    "description": "A unified storage SDK for object and blob backends. One small, honest API. Web-standards I/O."
   },
   {
-    "repo": "dahan6/siming",
+    "repo": "MaxiFan/TunnelX",
+    "branch": "main",
+    "language": "C#",
+    "description": "TunnelX - Windows split-tunneling VPN manager | مدیریت تونل و Split Tunneling برای ویندوز"
+  },
+  {
+    "repo": "dikurdikur/palmier-pro-windows",
+    "branch": "main",
+    "language": "C#",
+    "description": "Palmier Pro AI video editor macOS windows timeline multitrack NLE footage model context protocol MCP server agent Claude Cursor Swift SwiftUI AVFoundation storyboard audio prores metal automation rendering fx"
+  },
+  {
+    "repo": "afonsojramos/react-native-super-calendar",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Gesture-driven, virtualized month / week / day calendar and date picker for React Native and the web."
+  },
+  {
+    "repo": "Katbrink/polymarket-weather-trading-bot",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "polymarket weather bot polymarket weather trading bot weather bot polymarket weather bot polymarket weather trading bot weather bot polymarket weather bot polymarket weather trading bot weather bot polymarket weather bot polymarket weather trading bot weather bot polymarket weather bot polymarket weather trading bot weather bot"
+  },
+  {
+    "repo": "HTX-Trading-ToolKit/HTX-human-elite-copy-trading-bot",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "HTX Human Elite Copy Trading Bot HTX Human Elite Copy Trading Bot HTX Human Elite Copy Trading Bot HTX Human Elite Copy Trading Bot HTX Human Elite Copy Trading Bot HTX Human Elite Copy Trading Bot HTX Human Elite Copy Trading Bot HTX Human Elite Copy Trading Bot HTX Human Elite Copy Trading Bot HTX Human Elite Copy Trading Bot"
+  },
+  {
+    "repo": "KorroAi/drunk-claude",
+    "branch": "master",
+    "language": "TeX",
+    "description": "Drunk Claude : intensity slider (0.1 tipsy to 1.0 blackout), 5 moods, 8 creative techniques. The unfiltered genius skill for Claude Code. MIT."
+  },
+  {
+    "repo": "basketikun/infinite-canvas",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "面向AI创作的开源无限画布工作台，集成 AI 生图、参考图编辑、画布编排、对话助手、提示词库和素材管理等功能。"
+  },
+  {
+    "repo": "sii-research/tau-0-wm",
     "branch": "main",
     "language": "Python",
-    "description": "Behavioral Grammar: detecting adaptive malware via tiny language-model priors and second-order temporal analysis. 0.88M-param self-supervised HIDS — 93% detection vs adaptive adversarial agent at 3.84% onboarding FPR."
+    "description": ""
   },
   {
-    "repo": "tetsuo-ai/voice_clone_lab",
+    "repo": "QwenLM/Qwen-AgentWorld",
     "branch": "main",
     "language": "Python",
-    "description": "Clone a voice from a few minutes of audio and generate speech locally — Qwen3-TTS fine-tuning pipeline with CLI and web UI"
+    "description": "Qwen-AgentWorld: Language World Models for General Agents"
+  },
+  {
+    "repo": "ywnd1144/Gopay_plus_automatic",
+    "branch": "main",
+    "language": "Python",
+    "description": ""
+  },
+  {
+    "repo": "GordenSun/GordenPPTSkill",
+    "branch": "main",
+    "language": "Python",
+    "description": "AI-friendly PPT builder skill: 17 hand-polished Chinese PPTX templates + non-destructive text-only editing tools (python-pptx based). Pick a template, write edits.json, build a real .pptx with the layout intact. Personal/research use only."
+  },
+  {
+    "repo": "HeroicLauncher/HeroicGamesLauncher",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "heroic games launcher Download github pc heroicgameslauncher steam epic games gog amazon prime gaming nile legendary open source windows 11"
+  },
+  {
+    "repo": "zhongweiv/hermes-edu-skills",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "中文教育 Agent Skill Pack：教材同步、备考复习、拍照答疑、错题复盘、亲子陪学、阅读写作和教师工具，Hermes Agent 可直接使用，也可导出到 OpenClaw/Codex/Cursor/Claude Code。"
+  },
+  {
+    "repo": "riyagoelrs/tiktok-scraper",
+    "branch": "main",
+    "language": "Python",
+    "description": ""
+  },
+  {
+    "repo": "Dharyen/ryujinx-emu",
+    "branch": "main",
+    "language": "C#",
+    "description": "canary ryujinx emulator tomodachi life github ryubing nintendo switch emulator download"
+  },
+  {
+    "repo": "NabilAziz99/agent-runtime",
+    "branch": "main",
+    "language": "Python",
+    "description": "Python port of Claude Code's agent-runtime architecture, on LangChain"
+  },
+  {
+    "repo": "Nightmare-Eclipse/GreenPlasma",
+    "branch": "main",
+    "language": "C++",
+    "description": "GreenPlasma Windows CTFMON Arbitrary Section Creation Elevation of Privileges Vulnerability"
+  },
+  {
+    "repo": "EURICO55/download-tor-browser",
+    "branch": "main",
+    "language": "C#",
+    "description": "tor browser github onion  vpn brave  official download onion routing dark web privacy anonymity security censorship circumvention tracker blocker encrypted traffic .onion sites open source firefox based windows macos linux android portable secure web browsing"
+  },
+  {
+    "repo": "virgo777/buddyme",
+    "branch": "master",
+    "language": "Python",
+    "description": "Lightweight agent framework with layered personality evolution, three-tier skill loading and heartbeat memory system."
   }
 ]
