@@ -1,146 +1,146 @@
 [
   {
-    "repo": "GRVYDEV/marky",
+    "repo": "drizzle-team/drizzle-orm",
     "branch": "main",
     "language": "TypeScript",
-    "description": "A lightweight easy to use markdown viewer"
+    "description": "ORM"
   },
   {
-    "repo": "wagmi-dev/viem",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "TypeScript Interface for Ethereum"
-  },
-  {
-    "repo": "stanford-oval/storm",
-    "branch": "main",
-    "language": "Python",
-    "description": "An LLM-powered knowledge curation system that researches a topic and generates a full-length report with citations."
-  },
-  {
-    "repo": "unjs/h3",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "⚡️ Minimal H(TTP) framework built for high performance and portability"
-  },
-  {
-    "repo": "TryGhost/Ghost",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "Independent technology for modern publishing, memberships, subscriptions and newsletters."
-  },
-  {
-    "repo": "defold/defold",
-    "branch": "dev",
-    "language": "C++",
-    "description": "Defold is a completely free to use game engine for development of desktop, mobile and web games."
-  },
-  {
-    "repo": "langgenius/dify",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Production-ready platform for agentic workflow development."
-  },
-  {
-    "repo": "lencx/ChatGPT",
-    "branch": "main",
-    "language": "Rust",
-    "description": "🔮 ChatGPT Desktop Application (Mac, Windows and Linux)"
-  },
-  {
-    "repo": "jorgebucaran/hyperapp",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "1kB-ish JavaScript framework for building hypertext applications"
-  },
-  {
-    "repo": "keephq/keep",
-    "branch": "main",
-    "language": "Python",
-    "description": "The open-source AIOps and alert management platform"
-  },
-  {
-    "repo": "MarlinFirmware/Marlin",
-    "branch": "bugfix-2.1.x",
-    "language": "C++",
-    "description": "Marlin is a firmware for RepRap 3D printers optimized for both 8 and 32 bit microcontrollers.  Marlin supports all common platforms.   Many commercial 3D printers come with Marlin installed.  Check with your vendor if you need source code for your specific machine."
-  },
-  {
-    "repo": "prusa3d/PrusaSlicer",
+    "repo": "airbnb/lottie-android",
     "branch": "master",
-    "language": "C++",
-    "description": "G-code generator for 3D printers (RepRap, Makerbot, Ultimaker etc.)"
+    "language": "Java",
+    "description": "Render After Effects animations natively on Android and iOS, Web, and React Native"
   },
   {
-    "repo": "HzWeta/Delta-For-Roblox-PC-Edition",
-    "branch": "main",
-    "language": "C++",
-    "description": "Delta For Roblox PC Edition delivers a smooth and optimized Roblox experience on Windows. Enjoy better performance, higher FPS, widescreen support, and enhanced stability while playing your favorite Roblox games on desktop."
-  },
-  {
-    "repo": "m1heng/claude-plugin-weixin",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": ""
-  },
-  {
-    "repo": "browser-use/video-use",
+    "repo": "xsser/codex-jailbreak-guide",
     "branch": "main",
     "language": "Python",
-    "description": ""
+    "description": "Codex CLI jailbreak guide — customizing system prompt via model_instructions_file config"
   },
   {
-    "repo": "ccch1mneyyy/dsh-TUI",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "解决DSH 官方尚无终端 TUI 痛点的补位之作，献给偏爱cli的各位极客：Claude Code 风格全屏交互终端插件——像素鲸鱼顶栏、实时工作状态行、思考流式展开、双击 Esc 回滚、上下文进度条 + TPS 仪表。npm 一键安装。"
-  },
-  {
-    "repo": "gi-dellav/zerostack",
-    "branch": "main",
-    "language": "Rust",
-    "description": "Minimalistic coding agent written in Rust, optimized for memory footprint and performance"
-  },
-  {
-    "repo": "godotengine/godot-docs",
+    "repo": "supabase/supabase",
     "branch": "master",
-    "language": "reStructuredText",
-    "description": "Godot Engine official documentation"
+    "language": "TypeScript",
+    "description": "The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications."
   },
   {
-    "repo": "fancyai-official/skills",
-    "branch": "main",
-    "language": "Python",
+    "repo": "nationaldesignstudio/rampart",
+    "branch": "master",
+    "language": "TypeScript",
     "description": ""
   },
   {
-    "repo": "vercel-labs/wterm",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "A terminal emulator for the web"
-  },
-  {
-    "repo": "YuriCrystal/ai-avatar-bot",
-    "branch": "main",
-    "language": "HTML",
-    "description": "可一行嵌入任何網站的 Live2D 語音 AI 虛擬人元件 — 皮肉分離、零金鑰、神經語音可選"
-  },
-  {
-    "repo": "paralives-free/Paralives-Money-Cheats",
+    "repo": "loyal-studio/Honami-Animation-System",
     "branch": "main",
     "language": "C#",
-    "description": "paralives mod cheats money console commands money hack trainer steam  game download free steam pc paramaker unlimited money needs mod"
+    "description": "Honami Animation System is a complete, from-scratch alternative to Unity's built-in Animator. Designed for Unity 6, it gives you a powerful node-graph editor, built-in procedural rigging and seamless Timeline integration - all at zero runtime allocation cost."
   },
   {
-    "repo": "op7418/guizang-social-card-skill",
+    "repo": "WTFox/luna.nvim",
+    "branch": "main",
+    "language": "Lua",
+    "description": "A near-black Neovim colorscheme built on greys, with four accent hues and nothing else."
+  },
+  {
+    "repo": "zhangzf1119/financial-intelligence-system",
+    "branch": "main",
+    "language": "Java",
+    "description": "financial-intelligence-system"
+  },
+  {
+    "repo": "crawfordxx/xiaoma-durex-copywriter",
+    "branch": "main",
+    "language": "Python",
+    "description": "杜蕾斯式文案与海报 Skill for Claude Code —— 双层语义方法论 + 8 个文案公式 + 从 260 张原始海报拆解的视觉系统 + AI 出图/代码排版管线"
+  },
+  {
+    "repo": "yizhiyanhua-ai/fireworks-tech-graph",
+    "branch": "main",
+    "language": "Shell",
+    "description": "Claude Code skill for generating production-quality SVG+PNG technical diagrams. Supports 8 diagram types, 5 visual styles, and deep AI/Agent domain knowledge."
+  },
+  {
+    "repo": "1mm-module/PNGAL",
+    "branch": "main",
+    "language": "Python",
+    "description": ""
+  },
+  {
+    "repo": "ipfs/kubo",
+    "branch": "master",
+    "language": "Go",
+    "description": "An IPFS implementation in Go"
+  },
+  {
+    "repo": "arduino/Arduino",
+    "branch": "master",
+    "language": "Java",
+    "description": "Arduino IDE 1.x"
+  },
+  {
+    "repo": "RidgeRookPattern/comix-autoclipper",
+    "branch": "main",
+    "language": "Python",
+    "description": "Best Manga Downloader 2026: Fast GUI & CLI Comix Tool with PDF CBZ Export"
+  },
+  {
+    "repo": "AUTOMATIC1111/stable-diffusion-webui",
+    "branch": "master",
+    "language": "Python",
+    "description": "Stable Diffusion web UI"
+  },
+  {
+    "repo": "tilt-dev/tilt",
+    "branch": "master",
+    "language": "Go",
+    "description": "Define your dev environment as code. For microservice apps on Kubernetes."
+  },
+  {
+    "repo": "x4gKing/Amnezia-VPN-Config",
     "branch": "main",
     "language": "HTML",
-    "description": "🪧 Claude Code / Codex skill — generate Xiaohongshu carousels & WeChat 21:9+1:1 cover pairs. Editorial × Swiss visual systems, 28 layouts, 10 themes, single-file HTML → PNG. 小红书图文 + 公众号封面对"
+    "description": ""
   },
   {
-    "repo": "ByteByteGoHq/system-design-101",
+    "repo": "Shane8989/before-signing",
     "branch": "main",
-    "language": "Other",
-    "description": "Explain complex systems using visuals and simple terms. Help you prepare for system design interviews."
+    "language": "Python",
+    "description": ""
+  },
+  {
+    "repo": "jenkinsci/jenkins",
+    "branch": "master",
+    "language": "Java",
+    "description": "Jenkins automation server"
+  },
+  {
+    "repo": "Ariescar/anyCreature",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": ""
+  },
+  {
+    "repo": "hkcanan/katmer-code",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Claude Code inside Obsidian — academic research skills, inline diff editing, MCP support"
+  },
+  {
+    "repo": "leo-lilinxiao/codex-autoresearch",
+    "branch": "main",
+    "language": "Shell",
+    "description": "Codex Autoresearch Skill — A self-directed iterative system for Codex that continuously cycles through: modify, verify, retain or discard, and repeat indefinitely. Inspired by Karpathy’s autoresearch concept."
+  },
+  {
+    "repo": "dahan6/siming",
+    "branch": "main",
+    "language": "Python",
+    "description": "Behavioral Grammar: detecting adaptive malware via tiny language-model priors and second-order temporal analysis. 0.88M-param self-supervised HIDS — 93% detection vs adaptive adversarial agent at 3.84% onboarding FPR."
+  },
+  {
+    "repo": "tetsuo-ai/voice_clone_lab",
+    "branch": "main",
+    "language": "Python",
+    "description": "Clone a voice from a few minutes of audio and generate speech locally — Qwen3-TTS fine-tuning pipeline with CLI and web UI"
   }
 ]
