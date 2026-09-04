@@ -1,8 +1,8 @@
 {
-  "repo": "AlephAITech/DoubaoWorkGuide",
+  "repo": "zordhalo/runs-on.dev",
   "branch": "main",
   "language": "JavaScript",
-  "description": "豆包工作系统化中文实践指南：教程、真实任务、Skills、连接器、自动化与多 Agent 工作流。",
-  "stars": 114,
-  "forks": 10
+  "description": "Grab your own cool'runs-on.dev' subdomain to use for free forever.",
+  "stars": 103,
+  "forks": 33
 }

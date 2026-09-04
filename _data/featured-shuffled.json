@@ -1,146 +1,146 @@
 [
   {
-    "repo": "earthly/earthly",
-    "branch": "main",
-    "language": "Go",
-    "description": "Super simple build framework with fast, repeatable builds and an instantly familiar syntax – like Dockerfile and Makefile had a baby."
-  },
-  {
-    "repo": "perglervitek/Blox-Fruits-Dragon-Update-Auto-Farm-Script-2026-Elite",
+    "repo": "ApodexAI/AgentHarness",
     "branch": "main",
     "language": "Python",
-    "description": "Auto farm, ESP, and raid script for Blox Fruits Dragon Update 2026 – Elite edition. Level up, farm bosses, and dominate PvP with this undetected trainer."
+    "description": "Evaluation harness for Apodex-1.0 on public deep-research benchmarks."
   },
   {
-    "repo": "geode-geomatydash/Geode-Geometry-Dash",
-    "branch": "main",
-    "language": "C#",
-    "description": "Geode mod loader v5.8.2 for Geometry Dash 2.207 free. Geode geometry dash install, geode geometry dash download, geode geometry dash mobile, geode geometry dash github releases, is geode safe, geode gd best mods, best geode mods gd reddit 2026, how to install geode mods in gd, geode installer 2.208, geode geometry dash lite.Download Geode installer"
-  },
-  {
-    "repo": "devdriveLLM/polymarket-copy-trading-bot",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "polymarket copy trading bot v2 polymarket copy trading bot v2 polymarket copy trading bot v2 polymarket copy trading bot v2 polymarket copy trading bot v2 polymarket copy trading bot v2 polymarket copy trading bot v2 polymarket copy trading bot v2 polymarket copy trading bot v2"
-  },
-  {
-    "repo": "haydenbleasel/files-sdk",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "A unified storage SDK for object and blob backends. One small, honest API. Web-standards I/O."
-  },
-  {
-    "repo": "MaxiFan/TunnelX",
-    "branch": "main",
-    "language": "C#",
-    "description": "TunnelX - Windows split-tunneling VPN manager | مدیریت تونل و Split Tunneling برای ویندوز"
-  },
-  {
-    "repo": "dikurdikur/palmier-pro-windows",
-    "branch": "main",
-    "language": "C#",
-    "description": "Palmier Pro AI video editor macOS windows timeline multitrack NLE footage model context protocol MCP server agent Claude Cursor Swift SwiftUI AVFoundation storyboard audio prores metal automation rendering fx"
-  },
-  {
-    "repo": "afonsojramos/react-native-super-calendar",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Gesture-driven, virtualized month / week / day calendar and date picker for React Native and the web."
-  },
-  {
-    "repo": "Katbrink/polymarket-weather-trading-bot",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "polymarket weather bot polymarket weather trading bot weather bot polymarket weather bot polymarket weather trading bot weather bot polymarket weather bot polymarket weather trading bot weather bot polymarket weather bot polymarket weather trading bot weather bot polymarket weather bot polymarket weather trading bot weather bot"
-  },
-  {
-    "repo": "HTX-Trading-ToolKit/HTX-human-elite-copy-trading-bot",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "HTX Human Elite Copy Trading Bot HTX Human Elite Copy Trading Bot HTX Human Elite Copy Trading Bot HTX Human Elite Copy Trading Bot HTX Human Elite Copy Trading Bot HTX Human Elite Copy Trading Bot HTX Human Elite Copy Trading Bot HTX Human Elite Copy Trading Bot HTX Human Elite Copy Trading Bot HTX Human Elite Copy Trading Bot"
-  },
-  {
-    "repo": "KorroAi/drunk-claude",
-    "branch": "master",
-    "language": "TeX",
-    "description": "Drunk Claude : intensity slider (0.1 tipsy to 1.0 blackout), 5 moods, 8 creative techniques. The unfiltered genius skill for Claude Code. MIT."
-  },
-  {
-    "repo": "basketikun/infinite-canvas",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "面向AI创作的开源无限画布工作台，集成 AI 生图、参考图编辑、画布编排、对话助手、提示词库和素材管理等功能。"
-  },
-  {
-    "repo": "sii-research/tau-0-wm",
-    "branch": "main",
-    "language": "Python",
-    "description": ""
-  },
-  {
-    "repo": "QwenLM/Qwen-AgentWorld",
-    "branch": "main",
-    "language": "Python",
-    "description": "Qwen-AgentWorld: Language World Models for General Agents"
-  },
-  {
-    "repo": "ywnd1144/Gopay_plus_automatic",
-    "branch": "main",
-    "language": "Python",
-    "description": ""
-  },
-  {
-    "repo": "GordenSun/GordenPPTSkill",
-    "branch": "main",
-    "language": "Python",
-    "description": "AI-friendly PPT builder skill: 17 hand-polished Chinese PPTX templates + non-destructive text-only editing tools (python-pptx based). Pick a template, write edits.json, build a real .pptx with the layout intact. Personal/research use only."
-  },
-  {
-    "repo": "HeroicLauncher/HeroicGamesLauncher",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "heroic games launcher Download github pc heroicgameslauncher steam epic games gog amazon prime gaming nile legendary open source windows 11"
-  },
-  {
-    "repo": "zhongweiv/hermes-edu-skills",
+    "repo": "vava-nessa/free-coding-models",
     "branch": "main",
     "language": "JavaScript",
-    "description": "中文教育 Agent Skill Pack：教材同步、备考复习、拍照答疑、错题复盘、亲子陪学、阅读写作和教师工具，Hermes Agent 可直接使用，也可导出到 OpenClaw/Codex/Cursor/Claude Code。"
-  },
-  {
-    "repo": "riyagoelrs/tiktok-scraper",
-    "branch": "main",
-    "language": "Python",
     "description": ""
   },
   {
-    "repo": "Dharyen/ryujinx-emu",
-    "branch": "main",
-    "language": "C#",
-    "description": "canary ryujinx emulator tomodachi life github ryubing nintendo switch emulator download"
-  },
-  {
-    "repo": "NabilAziz99/agent-runtime",
+    "repo": "SafeBreach-Labs/CVE-2026-24061",
     "branch": "main",
     "language": "Python",
-    "description": "Python port of Claude Code's agent-runtime architecture, on LangChain"
+    "description": "Exploitation of CVE-2026-24061"
   },
   {
-    "repo": "Nightmare-Eclipse/GreenPlasma",
+    "repo": "Shopify/flash-list",
     "branch": "main",
-    "language": "C++",
-    "description": "GreenPlasma Windows CTFMON Arbitrary Section Creation Elevation of Privileges Vulnerability"
+    "language": "TypeScript",
+    "description": "A better list for React Native"
   },
   {
-    "repo": "EURICO55/download-tor-browser",
+    "repo": "nashsu/llm_wiki",
     "branch": "main",
-    "language": "C#",
-    "description": "tor browser github onion  vpn brave  official download onion routing dark web privacy anonymity security censorship circumvention tracker blocker encrypted traffic .onion sites open source firefox based windows macos linux android portable secure web browsing"
+    "language": "TypeScript",
+    "description": ""
   },
   {
-    "repo": "virgo777/buddyme",
+    "repo": "CrewSX/polymarket-esports-trading-bot",
+    "branch": "main",
+    "language": "Python",
+    "description": "Automated prediction market trading bot for Polymarket esports markets — LoL, Dota 2, CS2, Valorant, Rainbow Six, Call of Duty, Mobile Legends, StarCraft II & Overwatch."
+  },
+  {
+    "repo": "AIScientists-Dev/WorldSeed",
+    "branch": "main",
+    "language": "Python",
+    "description": "A world engine where AI agents live autonomously — physical rules, information asymmetry, any agent can plug in. Define scenarios in YAML, watch stories emerge."
+  },
+  {
+    "repo": "golang/tools",
     "branch": "master",
+    "language": "Go",
+    "description": "[mirror] Go Tools"
+  },
+  {
+    "repo": "Ta0ing/claude-code_evil",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "cc完整版，含手册，编译等"
+  },
+  {
+    "repo": "docker/cli",
+    "branch": "master",
+    "language": "Go",
+    "description": "The Docker CLI"
+  },
+  {
+    "repo": "incursi0n/BlueSAM",
+    "branch": "main",
+    "language": "C",
+    "description": "A Cobalt Strike Beacon Object File that exploits the BlueHammer vulnerability that to obtain a copy of the SAM database."
+  },
+  {
+    "repo": "pallets/werkzeug",
+    "branch": "main",
     "language": "Python",
-    "description": "Lightweight agent framework with layered personality evolution, three-tier skill loading and heartbeat memory system."
+    "description": "The comprehensive WSGI web application library."
+  },
+  {
+    "repo": "webpack/webpack-dev-server",
+    "branch": "master",
+    "language": "JavaScript",
+    "description": "Serves a webpack app. Updates the browser on changes. Documentation https://webpack.js.org/configuration/dev-server/."
+  },
+  {
+    "repo": "zats/permiso",
+    "branch": "main",
+    "language": "Swift",
+    "description": "Permission dialog for accessibility settings as seen in Codex Computer Use https://x.com/lexrus/status/2044929029334245819"
+  },
+  {
+    "repo": "PostgREST/postgrest",
+    "branch": "main",
+    "language": "Haskell",
+    "description": "REST API for any Postgres database"
+  },
+  {
+    "repo": "VexedWilosn/AetherSwap",
+    "branch": "main",
+    "language": "Python",
+    "description": "⚗️ AetherSwap：全自动、零代码配置的 Steam 低价余额助手。提供现代化可视化 Web 控制台，基于数学模型智能选品，实现从买入到全自动上架的无人值守交易。"
+  },
+  {
+    "repo": "michelleoincx/zeroclaw-grok",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "ZeroClaw — sleek web interface for Grok AI (xAI). Streaming responses, multi-session chat, model selector. Zero npm dependencies. Runs with one command."
+  },
+  {
+    "repo": "zhu1090093659/spec_driven_develop",
+    "branch": "main",
+    "language": "Shell",
+    "description": "Cross-platform AI agent skill for spec-driven development: analyze codebases, decompose large  transformations, and track long-running work."
+  },
+  {
+    "repo": "webpack-contrib/terser-webpack-plugin",
+    "branch": "master",
+    "language": "JavaScript",
+    "description": "Terser Plugin"
+  },
+  {
+    "repo": "joeseesun/lennys-podcast-newsletter",
+    "branch": "main",
+    "language": "Python",
+    "description": "Lenny Rachitsky 播客与 Newsletter 知识库。搜索、阅读、学习 Lenny 的 638 篇内容（289 播客转录 + 349 篇 Newsletter）。 涵盖产品管理、增长、设计、工程、AI、创业、领导力等 17 个主题。 触发词：Lenny、Lenny's Newslet"
+  },
+  {
+    "repo": "psf/black",
+    "branch": "main",
+    "language": "Python",
+    "description": "The uncompromising Python code formatter"
+  },
+  {
+    "repo": "cisco-ai-defense/defenseclaw",
+    "branch": "main",
+    "language": "Python",
+    "description": "Security Governance for Agentic AI"
+  },
+  {
+    "repo": "microsoft/autogen",
+    "branch": "main",
+    "language": "Python",
+    "description": "A programming framework for agentic AI"
+  },
+  {
+    "repo": "WecomTeam/wecom-cli",
+    "branch": "main",
+    "language": "Rust",
+    "description": "企业微信开放平台命令行工具 — 让人类和 AI Agent 都能在终端中操作企业微信"
   }
 ]
