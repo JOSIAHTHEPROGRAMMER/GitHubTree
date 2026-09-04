@@ -1,8 +1,8 @@
 {
-  "repo": "dreamers-laboratory/ai-evaluation-framework",
+  "repo": "pipicat613/MuToolsProject",
   "branch": "main",
-  "language": "JavaScript",
-  "description": "Accuracy, latency p95, and cost benchmarking for model-based solutions, with per-field ground-truth scoring.",
-  "stars": 116,
-  "forks": 44
+  "language": "Rust",
+  "description": "一站式 MuMu12 模拟器安装与优化工具",
+  "stars": 184,
+  "forks": 6
 }

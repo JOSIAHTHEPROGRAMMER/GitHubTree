@@ -1,146 +1,146 @@
 [
   {
-    "repo": "andy78787878/lsfg-fpsgithub",
-    "branch": "main",
-    "language": "HTML",
-    "description": "Lossless Scaling for Windows high-performance upscaling and frame generation software for PC gaming"
-  },
-  {
-    "repo": "aws/aws-cdk",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "The AWS Cloud Development Kit is a framework for defining cloud infrastructure in code"
-  },
-  {
-    "repo": "opencmit/alphora",
+    "repo": "lukasHoel/video_to_world",
     "branch": "main",
     "language": "Python",
-    "description": "A Production-Ready Framework for Building Composable AI Agents"
+    "description": "Our method reconstructs 3D worlds from video diffusion models using non-rigid alignment to resolve inherent 3D inconsistencies in the generated sequences."
   },
   {
-    "repo": "blendi-remade/sprite-sheet-creator",
-    "branch": "master",
+    "repo": "PC2005-cloud/dsh-pet",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "DSH 桌面宠物：一行命令安装现成宠物（28 个透明动画，即装即用），或内置素材链从 AI 视频自造专属宠物 | One-line install desktop pet for DeepSeek Harness + DIY asset pipeline"
+  },
+  {
+    "repo": "VAENPP/solana-trading-bot",
+    "branch": "main",
     "language": "TypeScript",
+    "description": "solana trading bot solana bot solana trading bot solana bot solana trading bot solana bot solana trading bot solana bot solana trading bot solana bot solana trading bot solana bot solana trading bot solana bot solana trading bot solana bot solana trading bot solana bot solana trading bot solana bot solana trading bot solana bot solana trading bot"
+  },
+  {
+    "repo": "tonbistudio/hermes-multi-agent-workflow",
+    "branch": "main",
+    "language": "Python",
     "description": ""
   },
   {
-    "repo": "avbiswas/fast-rlm",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Recursive Language Models (https://arxiv.org/abs/2512.24601)"
-  },
-  {
-    "repo": "OctoPrint/OctoPrint",
-    "branch": "master",
-    "language": "Python",
-    "description": "OctoPrint is the snappy web interface for your 3D printer!"
-  },
-  {
-    "repo": "sorrycc/awesome-javascript",
-    "branch": "master",
-    "language": "Other",
-    "description": "🐢 A collection of awesome browser-side  JavaScript libraries, resources and shiny things."
-  },
-  {
-    "repo": "gsd-build/gsd-2",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "A powerful meta-prompting, context engineering and spec-driven development system that enables agents to work for long periods of time autonomously without losing track of the big picture"
-  },
-  {
-    "repo": "NVlabs/cutile-rs",
-    "branch": "main",
-    "language": "Rust",
-    "description": "cuTile Rust provides a safe, tile-based kernel programming DSL for the Rust programming language. It features a safe host-side API for passing tensors to asynchronously executed kernel functions."
-  },
-  {
-    "repo": "RevylAI/greenlight",
-    "branch": "main",
-    "language": "Go",
-    "description": "Pre-submission compliance scanner for the Apple App Store"
-  },
-  {
-    "repo": "kicad/kicad",
-    "branch": "master",
-    "language": "C++",
-    "description": "This is an active mirror of the KiCad development branch, which is hosted at GitLab (updated every time something is pushed). Pull requests on GitHub are not accepted or watched."
-  },
-  {
-    "repo": "EurekaClaw/EurekaClaw",
+    "repo": "fadilr8/Bluesky_Auto-Reply___Like_Bot",
     "branch": "main",
     "language": "Python",
-    "description": "The official repo of EurekaClaw"
+    "description": "Automatically like and reply to posts on Bluesky. Boost engagement and connect with other users."
   },
   {
-    "repo": "jorgebucaran/hyperapp",
+    "repo": "SGmetro/Lossless-Scaling-Latest-Github-PC-3",
     "branch": "main",
-    "language": "JavaScript",
-    "description": "1kB-ish JavaScript framework for building hypertext applications"
+    "language": "C#",
+    "description": "⭐️ Lossless Scaling Desktop 2026 | Setup Installer v1.0 | Patch Activator Keygen | License Key Pre-Activated | Full Version Latest Build Pro | Optimize Resolution Scaling | Enhance Performance Graphics | Get Desktop App Windows 10/11 PC | Direct Genuine Original x64 | Download Install Loader Mod ⭐️"
   },
   {
-    "repo": "cisco-ai-defense/defenseclaw",
+    "repo": "triangkas/DBD-AutoGrind-Trainer-2026-Mega",
     "branch": "main",
     "language": "Python",
-    "description": "Security Governance for Agentic AI"
+    "description": "Ultimate Dead by Daylight auto-grind trainer Mega edition with Bloodpoint bot, ESP wallhack, aimbot, and full perk/skin unlocker. Dominate the Fog with our 2026 undetected external tool."
   },
   {
-    "repo": "vansh-nagar/ascii-studio",
+    "repo": "joeseesun/qiaomu-goal-meta-skill",
+    "branch": "main",
+    "language": "Python",
+    "description": "Turn vague or complex Codex tasks into strong `/goal` commands with outcome, verification, constraints, boundaries, iteration policy, completion evide"
+  },
+  {
+    "repo": "Zafer-Liu/Agent_Manager",
     "branch": "main",
     "language": "TypeScript",
-    "description": "Turn Videos into ASCII Frames - real ascii frames (character-based frames that run smoothly in sequence)"
+    "description": "A cross-platform desktop application for managing AI Agents and MCP Servers. 一款用于管理AI智能体与MCP服务器的跨平台桌面应用程序。"
   },
   {
-    "repo": "samanalalokaya/polymarket-copy-trading-bot",
-    "branch": "master",
-    "language": "JavaScript",
-    "description": "Copies trades from a target Polymarket wallet to your own. Watches the target via REST or WebSocket, then places matching orders (scaled by a multiplier) using the Polymarket CLOB. CLUE: polymarket copy trading bot polymarket copy trading bot polymarket copy trading bot polymarket copy trading bot polymarket copy trading bot polymarket copy trading"
-  },
-  {
-    "repo": "carlosazaustre/tenacitOS",
+    "repo": "build-poe2/PathOfBuilding-PoE2",
     "branch": "main",
-    "language": "TypeScript",
-    "description": "OpenClaw Mission Control Dashboard"
+    "language": "Lua",
+    "description": "path of building poe2 build 0.5 pob community fork path of exile 2 build planner dps calculator github download  portable  pobb in league starter passive tree ascendancy gems"
   },
   {
-    "repo": "prusa3d/PrusaSlicer",
-    "branch": "master",
-    "language": "C++",
-    "description": "G-code generator for 3D printers (RepRap, Makerbot, Ultimaker etc.)"
-  },
-  {
-    "repo": "ByteByteGoHq/system-design-101",
+    "repo": "vanroon/Pet-Simulator-99-Auto-Farm-Trainer-2026-Prime",
     "branch": "main",
-    "language": "Other",
-    "description": "Explain complex systems using visuals and simple terms. Help you prepare for system design interviews."
+    "language": "Python",
+    "description": "Maximize your efficiency in Pet Simulator 99 with the Prime auto trainer. From coin collection to Backrooms League rewards, everything is automated. Safe and undetectable."
   },
   {
-    "repo": "Tencent/cherry-markdown",
+    "repo": "raheelshakeel953-a11y/DBD-AutoGrind-Trainer-2026-Elite",
     "branch": "main",
-    "language": "JavaScript",
-    "description": "✨ A Markdown Editor"
+    "language": "Python",
+    "description": "Ultimate Dead by Daylight auto-grind trainer Elite edition with Bloodpoint bot, ESP wallhack, aimbot, and full perk/skin unlocker. Dominate the Fog with our 2026 undetected external tool."
   },
   {
-    "repo": "gordonmurray/firnflow",
+    "repo": "chubbyguan/chubbyskills",
     "branch": "main",
-    "language": "Rust",
-    "description": "The cost efficiency of S3 with the speed of local RAM. A multi-tenant vector and full-text search engine featuring a tiered RAM → NVMe → S3 architecture for microsecond latency on   top of object storage"
+    "language": "Python",
+    "description": "chubby 自用知识库实用skill集合 - AI驱动的自动化工作流工具，可以帮助你从各个渠道获取信息，搭建自己的知识库"
   },
   {
-    "repo": "opf/openproject",
-    "branch": "dev",
-    "language": "Ruby",
-    "description": "OpenProject is the leading open source project management software."
-  },
-  {
-    "repo": "qemu/qemu",
-    "branch": "master",
-    "language": "C",
-    "description": "Official QEMU mirror. Please see https://www.qemu.org/contribute/ for how to submit changes to QEMU. Pull Requests are ignored. Please only use release tarballs from the QEMU website."
-  },
-  {
-    "repo": "Mouseww/anything-analyzer",
+    "repo": "htooayelwinict/Agentic-AI-Book",
     "branch": "main",
-    "language": "TypeScript",
-    "description": "利用 browser + CDP capture + AI analysis  傻瓜式生成 注册机 | 2API | 其他浏览器行为 的协议分析文档"
+    "language": "Python",
+    "description": ""
+  },
+  {
+    "repo": "triangkas/DBD-AutoGrind-Trainer-2026-Extreme",
+    "branch": "main",
+    "language": "Python",
+    "description": "Ultimate Dead by Daylight auto-grind trainer Extreme edition with Bloodpoint bot, ESP wallhack, aimbot, and full perk/skin unlocker. Dominate the Fog with our 2026 undetected external tool."
+  },
+  {
+    "repo": "VAST-AI-Research/TripoSplat",
+    "branch": "main",
+    "language": "Python",
+    "description": "TripoSplat converts a single 2D image into high-quality and variable number of 3D Gaussians, developed by TripoAI."
+  },
+  {
+    "repo": "Ymsniper/KTO",
+    "branch": "main",
+    "language": "Python",
+    "description": "WiFi deauthentication tool that kicks every device off a target network - except the ones you whitelist by MAC address. It continuously scans for non‑whitelisted devices and deauths them the moment they appear or try to reconnect."
+  },
+  {
+    "repo": "alexantaluo0/ACoT-VLA-WM",
+    "branch": "main",
+    "language": "Python",
+    "description": ""
+  },
+  {
+    "repo": "2417467487-hub/Trend2Video-Pro",
+    "branch": "main",
+    "language": "Python",
+    "description": "The open-source Trend-to-Video Agent Framework for content creators"
+  },
+  {
+    "repo": "K07VN/capcut-tts-api",
+    "branch": "main",
+    "language": "Python",
+    "description": "capcut api tts & stt"
+  },
+  {
+    "repo": "PlummersSoftwareLLC/TinyRetroPad",
+    "branch": "main",
+    "language": "Assembly",
+    "description": ""
+  },
+  {
+    "repo": "NabilAziz99/agent-runtime",
+    "branch": "main",
+    "language": "Python",
+    "description": "Python port of Claude Code's agent-runtime architecture, on LangChain"
+  },
+  {
+    "repo": "vanroon/Pet-Simulator-99-Auto-Farm-Trainer-2026-Elite",
+    "branch": "main",
+    "language": "Python",
+    "description": "Boost your Pet Simulator 99 progress with the Elite trainer. Auto-farm, auto-hatch, instant break, and League auto-grind – all in one sleek GUI. Works with the June 2026 update."
+  },
+  {
+    "repo": "tdeverx/contained-app",
+    "branch": "nightly",
+    "language": "Swift",
+    "description": "A native macOS app for Apple's Container CLI"
   }
 ]
