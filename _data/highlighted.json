@@ -1,8 +1,8 @@
 {
-  "repo": "zordhalo/runs-on.dev",
+  "repo": "coleam00/ai-software-factory",
   "branch": "main",
-  "language": "JavaScript",
-  "description": "Grab your own cool'runs-on.dev' subdomain to use for free forever.",
-  "stars": 103,
-  "forks": 33
+  "language": "Python",
+  "description": "A repository that ships without anyone reading the diff: GitHub issues in, merged pull requests out, with the gates that make that defensible.",
+  "stars": 135,
+  "forks": 22
 }

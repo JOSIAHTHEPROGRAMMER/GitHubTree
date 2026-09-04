@@ -1,146 +1,146 @@
 [
   {
-    "repo": "ApodexAI/AgentHarness",
+    "repo": "x4gKing/Marzban-Node",
     "branch": "main",
-    "language": "Python",
-    "description": "Evaluation harness for Apodex-1.0 on public deep-research benchmarks."
-  },
-  {
-    "repo": "vava-nessa/free-coding-models",
-    "branch": "main",
-    "language": "JavaScript",
+    "language": "Dockerfile",
     "description": ""
   },
   {
-    "repo": "SafeBreach-Labs/CVE-2026-24061",
+    "repo": "runesleo/x-reader",
     "branch": "main",
     "language": "Python",
-    "description": "Exploitation of CVE-2026-24061"
+    "description": "Universal content reader — fetch, normalize, and digest content from 7+ platforms (WeChat, Telegram, X, YouTube, Bilibili, Xiaohongshu, RSS)"
   },
   {
-    "repo": "Shopify/flash-list",
+    "repo": "iad1tya/EchoTube",
     "branch": "main",
-    "language": "TypeScript",
-    "description": "A better list for React Native"
+    "language": "Kotlin",
+    "description": "Open-source YouTube client - enjoy an ad-free experience in a lightweight app, no account required."
   },
   {
-    "repo": "nashsu/llm_wiki",
+    "repo": "Atrix256/Thirteen",
     "branch": "main",
-    "language": "TypeScript",
-    "description": ""
+    "language": "C++",
+    "description": "Header only minimalist interface to graphics, inspired by the olden days of mode 13h"
   },
   {
-    "repo": "CrewSX/polymarket-esports-trading-bot",
-    "branch": "main",
-    "language": "Python",
-    "description": "Automated prediction market trading bot for Polymarket esports markets — LoL, Dota 2, CS2, Valorant, Rainbow Six, Call of Duty, Mobile Legends, StarCraft II & Overwatch."
-  },
-  {
-    "repo": "AIScientists-Dev/WorldSeed",
+    "repo": "kyutai-labs/hibiki-zero",
     "branch": "main",
     "language": "Python",
-    "description": "A world engine where AI agents live autonomously — physical rules, information asymmetry, any agent can plug in. Define scenarios in YAML, watch stories emerge."
+    "description": "A real-time and multilingual speech translation model"
   },
   {
-    "repo": "golang/tools",
-    "branch": "master",
-    "language": "Go",
-    "description": "[mirror] Go Tools"
-  },
-  {
-    "repo": "Ta0ing/claude-code_evil",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "cc完整版，含手册，编译等"
-  },
-  {
-    "repo": "docker/cli",
-    "branch": "master",
-    "language": "Go",
-    "description": "The Docker CLI"
-  },
-  {
-    "repo": "incursi0n/BlueSAM",
-    "branch": "main",
-    "language": "C",
-    "description": "A Cobalt Strike Beacon Object File that exploits the BlueHammer vulnerability that to obtain a copy of the SAM database."
-  },
-  {
-    "repo": "pallets/werkzeug",
-    "branch": "main",
-    "language": "Python",
-    "description": "The comprehensive WSGI web application library."
-  },
-  {
-    "repo": "webpack/webpack-dev-server",
-    "branch": "master",
-    "language": "JavaScript",
-    "description": "Serves a webpack app. Updates the browser on changes. Documentation https://webpack.js.org/configuration/dev-server/."
-  },
-  {
-    "repo": "zats/permiso",
-    "branch": "main",
-    "language": "Swift",
-    "description": "Permission dialog for accessibility settings as seen in Codex Computer Use https://x.com/lexrus/status/2044929029334245819"
-  },
-  {
-    "repo": "PostgREST/postgrest",
-    "branch": "main",
-    "language": "Haskell",
-    "description": "REST API for any Postgres database"
-  },
-  {
-    "repo": "VexedWilosn/AetherSwap",
-    "branch": "main",
-    "language": "Python",
-    "description": "⚗️ AetherSwap：全自动、零代码配置的 Steam 低价余额助手。提供现代化可视化 Web 控制台，基于数学模型智能选品，实现从买入到全自动上架的无人值守交易。"
-  },
-  {
-    "repo": "michelleoincx/zeroclaw-grok",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "ZeroClaw — sleek web interface for Grok AI (xAI). Streaming responses, multi-session chat, model selector. Zero npm dependencies. Runs with one command."
-  },
-  {
-    "repo": "zhu1090093659/spec_driven_develop",
+    "repo": "Ganso/refugiOS",
     "branch": "main",
     "language": "Shell",
-    "description": "Cross-platform AI agent skill for spec-driven development: analyze codebases, decompose large  transformations, and track long-running work."
+    "description": ""
   },
   {
-    "repo": "webpack-contrib/terser-webpack-plugin",
-    "branch": "master",
+    "repo": "xiaolajiaoyyds/regplatformm",
+    "branch": "main",
+    "language": "Go",
+    "description": ""
+  },
+  {
+    "repo": "diffusionstudio/slug-webgpu",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "WebGPU implementation of Eric Lengyel's Slug algorithm for resolution-independent vector text rendering on the GPU"
+  },
+  {
+    "repo": "Infatoshi/x-cli",
+    "branch": "main",
+    "language": "Python",
+    "description": "CLI for X/Twitter API v2 -- post, search, like, bookmark from your terminal"
+  },
+  {
+    "repo": "louisho5/picobot",
+    "branch": "main",
+    "language": "Go",
+    "description": "A lightweight self-hosted bot in a single binary, written in Go."
+  },
+  {
+    "repo": "HKUDS/MoChat",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "MoChat: Reconnecting the World through AI Agents (OpenClaw & nanobot & ClaudeCode) https://mochat.io"
+  },
+  {
+    "repo": "antirez/qwen-asr",
+    "branch": "main",
+    "language": "C",
+    "description": "C inference for Qwen3-ASR 0.6b and 1.7b transcriptions models"
+  },
+  {
+    "repo": "chatgptprojects/clear-code",
+    "branch": "main",
+    "language": "Shell",
+    "description": "See your claude code logs in clear details in your dashboard"
+  },
+  {
+    "repo": "adamlyttleapps/notchy",
+    "branch": "main",
+    "language": "Swift",
+    "description": ""
+  },
+  {
+    "repo": "oneclaw/oneclaw",
+    "branch": "main",
     "language": "JavaScript",
-    "description": "Terser Plugin"
+    "description": "OneClaw"
   },
   {
-    "repo": "joeseesun/lennys-podcast-newsletter",
-    "branch": "main",
+    "repo": "NoobyGains/claude-pulse",
+    "branch": "master",
     "language": "Python",
-    "description": "Lenny Rachitsky 播客与 Newsletter 知识库。搜索、阅读、学习 Lenny 的 638 篇内容（289 播客转录 + 349 篇 Newsletter）。 涵盖产品管理、增长、设计、工程、AI、创业、领导力等 17 个主题。 触发词：Lenny、Lenny's Newslet"
+    "description": "Real-time usage monitor for Claude Code — session limits, weekly limits, and plan tier with colour-coded progress bars"
   },
   {
-    "repo": "psf/black",
+    "repo": "tanviet12/chat-quality-agent",
     "branch": "main",
-    "language": "Python",
-    "description": "The uncompromising Python code formatter"
+    "language": "Go",
+    "description": ""
   },
   {
-    "repo": "cisco-ai-defense/defenseclaw",
+    "repo": "owengretzinger/constellagent",
     "branch": "main",
-    "language": "Python",
-    "description": "Security Governance for Agentic AI"
+    "language": "TypeScript",
+    "description": "Desktop app for running multiple AI agents in parallel. Each agent gets its own terminal, editor, and git worktree, all in one window."
   },
   {
-    "repo": "microsoft/autogen",
-    "branch": "main",
-    "language": "Python",
-    "description": "A programming framework for agentic AI"
-  },
-  {
-    "repo": "WecomTeam/wecom-cli",
-    "branch": "main",
+    "repo": "taf2/mdvi",
+    "branch": "master",
     "language": "Rust",
-    "description": "企业微信开放平台命令行工具 — 让人类和 AI Agent 都能在终端中操作企业微信"
+    "description": "cli based Markdown viewer"
+  },
+  {
+    "repo": "AnkitNayak-eth/EpsteinFiles-RAG",
+    "branch": "main",
+    "language": "Python",
+    "description": "A RAG pipeline implementation built on the 'Epstein Files 20K' dataset from Hugging Face (Teyler)."
+  },
+  {
+    "repo": "Gitlawb/openclaude",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Claude Code opened to any LLM — OpenAI, Gemini, DeepSeek, Ollama, and 200+ models via OpenAI-compatible API shim"
+  },
+  {
+    "repo": "tomascupr/sandstorm",
+    "branch": "main",
+    "language": "Python",
+    "description": "One API call. Full Claude agent. Completely sandboxed."
+  },
+  {
+    "repo": "langwatch/kanban-code",
+    "branch": "main",
+    "language": "Swift",
+    "description": ""
+  },
+  {
+    "repo": "Kaleighc793/freqtrade-bot",
+    "branch": "main",
+    "language": "Python",
+    "description": "Freqtrade — Configuration and management tool for the Freqtrade open-source crypto trading bot with strategy backtesting, live/dry-run modes, 10+ exchange support (Binance, Kraken, OKX), hyperparameter optimization, FreqUI dashboard, and Rich terminal menu interface"
   }
 ]
