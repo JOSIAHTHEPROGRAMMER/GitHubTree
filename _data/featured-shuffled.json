@@ -1,146 +1,146 @@
 [
   {
-    "repo": "x4gKing/Marzban-Node",
+    "repo": "andy78787878/lsfg-fpsgithub",
     "branch": "main",
-    "language": "Dockerfile",
+    "language": "HTML",
+    "description": "Lossless Scaling for Windows high-performance upscaling and frame generation software for PC gaming"
+  },
+  {
+    "repo": "aws/aws-cdk",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "The AWS Cloud Development Kit is a framework for defining cloud infrastructure in code"
+  },
+  {
+    "repo": "opencmit/alphora",
+    "branch": "main",
+    "language": "Python",
+    "description": "A Production-Ready Framework for Building Composable AI Agents"
+  },
+  {
+    "repo": "blendi-remade/sprite-sheet-creator",
+    "branch": "master",
+    "language": "TypeScript",
     "description": ""
   },
   {
-    "repo": "runesleo/x-reader",
+    "repo": "avbiswas/fast-rlm",
     "branch": "main",
+    "language": "TypeScript",
+    "description": "Recursive Language Models (https://arxiv.org/abs/2512.24601)"
+  },
+  {
+    "repo": "OctoPrint/OctoPrint",
+    "branch": "master",
     "language": "Python",
-    "description": "Universal content reader — fetch, normalize, and digest content from 7+ platforms (WeChat, Telegram, X, YouTube, Bilibili, Xiaohongshu, RSS)"
+    "description": "OctoPrint is the snappy web interface for your 3D printer!"
   },
   {
-    "repo": "iad1tya/EchoTube",
-    "branch": "main",
-    "language": "Kotlin",
-    "description": "Open-source YouTube client - enjoy an ad-free experience in a lightweight app, no account required."
+    "repo": "sorrycc/awesome-javascript",
+    "branch": "master",
+    "language": "Other",
+    "description": "🐢 A collection of awesome browser-side  JavaScript libraries, resources and shiny things."
   },
   {
-    "repo": "Atrix256/Thirteen",
+    "repo": "gsd-build/gsd-2",
     "branch": "main",
+    "language": "TypeScript",
+    "description": "A powerful meta-prompting, context engineering and spec-driven development system that enables agents to work for long periods of time autonomously without losing track of the big picture"
+  },
+  {
+    "repo": "NVlabs/cutile-rs",
+    "branch": "main",
+    "language": "Rust",
+    "description": "cuTile Rust provides a safe, tile-based kernel programming DSL for the Rust programming language. It features a safe host-side API for passing tensors to asynchronously executed kernel functions."
+  },
+  {
+    "repo": "RevylAI/greenlight",
+    "branch": "main",
+    "language": "Go",
+    "description": "Pre-submission compliance scanner for the Apple App Store"
+  },
+  {
+    "repo": "kicad/kicad",
+    "branch": "master",
     "language": "C++",
-    "description": "Header only minimalist interface to graphics, inspired by the olden days of mode 13h"
+    "description": "This is an active mirror of the KiCad development branch, which is hosted at GitLab (updated every time something is pushed). Pull requests on GitHub are not accepted or watched."
   },
   {
-    "repo": "kyutai-labs/hibiki-zero",
+    "repo": "EurekaClaw/EurekaClaw",
     "branch": "main",
     "language": "Python",
-    "description": "A real-time and multilingual speech translation model"
+    "description": "The official repo of EurekaClaw"
   },
   {
-    "repo": "Ganso/refugiOS",
-    "branch": "main",
-    "language": "Shell",
-    "description": ""
-  },
-  {
-    "repo": "xiaolajiaoyyds/regplatformm",
-    "branch": "main",
-    "language": "Go",
-    "description": ""
-  },
-  {
-    "repo": "diffusionstudio/slug-webgpu",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "WebGPU implementation of Eric Lengyel's Slug algorithm for resolution-independent vector text rendering on the GPU"
-  },
-  {
-    "repo": "Infatoshi/x-cli",
-    "branch": "main",
-    "language": "Python",
-    "description": "CLI for X/Twitter API v2 -- post, search, like, bookmark from your terminal"
-  },
-  {
-    "repo": "louisho5/picobot",
-    "branch": "main",
-    "language": "Go",
-    "description": "A lightweight self-hosted bot in a single binary, written in Go."
-  },
-  {
-    "repo": "HKUDS/MoChat",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "MoChat: Reconnecting the World through AI Agents (OpenClaw & nanobot & ClaudeCode) https://mochat.io"
-  },
-  {
-    "repo": "antirez/qwen-asr",
-    "branch": "main",
-    "language": "C",
-    "description": "C inference for Qwen3-ASR 0.6b and 1.7b transcriptions models"
-  },
-  {
-    "repo": "chatgptprojects/clear-code",
-    "branch": "main",
-    "language": "Shell",
-    "description": "See your claude code logs in clear details in your dashboard"
-  },
-  {
-    "repo": "adamlyttleapps/notchy",
-    "branch": "main",
-    "language": "Swift",
-    "description": ""
-  },
-  {
-    "repo": "oneclaw/oneclaw",
+    "repo": "jorgebucaran/hyperapp",
     "branch": "main",
     "language": "JavaScript",
-    "description": "OneClaw"
+    "description": "1kB-ish JavaScript framework for building hypertext applications"
   },
   {
-    "repo": "NoobyGains/claude-pulse",
-    "branch": "master",
-    "language": "Python",
-    "description": "Real-time usage monitor for Claude Code — session limits, weekly limits, and plan tier with colour-coded progress bars"
-  },
-  {
-    "repo": "tanviet12/chat-quality-agent",
+    "repo": "cisco-ai-defense/defenseclaw",
     "branch": "main",
-    "language": "Go",
-    "description": ""
+    "language": "Python",
+    "description": "Security Governance for Agentic AI"
   },
   {
-    "repo": "owengretzinger/constellagent",
+    "repo": "vansh-nagar/ascii-studio",
     "branch": "main",
     "language": "TypeScript",
-    "description": "Desktop app for running multiple AI agents in parallel. Each agent gets its own terminal, editor, and git worktree, all in one window."
+    "description": "Turn Videos into ASCII Frames - real ascii frames (character-based frames that run smoothly in sequence)"
   },
   {
-    "repo": "taf2/mdvi",
+    "repo": "samanalalokaya/polymarket-copy-trading-bot",
     "branch": "master",
+    "language": "JavaScript",
+    "description": "Copies trades from a target Polymarket wallet to your own. Watches the target via REST or WebSocket, then places matching orders (scaled by a multiplier) using the Polymarket CLOB. CLUE: polymarket copy trading bot polymarket copy trading bot polymarket copy trading bot polymarket copy trading bot polymarket copy trading bot polymarket copy trading"
+  },
+  {
+    "repo": "carlosazaustre/tenacitOS",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "OpenClaw Mission Control Dashboard"
+  },
+  {
+    "repo": "prusa3d/PrusaSlicer",
+    "branch": "master",
+    "language": "C++",
+    "description": "G-code generator for 3D printers (RepRap, Makerbot, Ultimaker etc.)"
+  },
+  {
+    "repo": "ByteByteGoHq/system-design-101",
+    "branch": "main",
+    "language": "Other",
+    "description": "Explain complex systems using visuals and simple terms. Help you prepare for system design interviews."
+  },
+  {
+    "repo": "Tencent/cherry-markdown",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "✨ A Markdown Editor"
+  },
+  {
+    "repo": "gordonmurray/firnflow",
+    "branch": "main",
     "language": "Rust",
-    "description": "cli based Markdown viewer"
+    "description": "The cost efficiency of S3 with the speed of local RAM. A multi-tenant vector and full-text search engine featuring a tiered RAM → NVMe → S3 architecture for microsecond latency on   top of object storage"
   },
   {
-    "repo": "AnkitNayak-eth/EpsteinFiles-RAG",
-    "branch": "main",
-    "language": "Python",
-    "description": "A RAG pipeline implementation built on the 'Epstein Files 20K' dataset from Hugging Face (Teyler)."
+    "repo": "opf/openproject",
+    "branch": "dev",
+    "language": "Ruby",
+    "description": "OpenProject is the leading open source project management software."
   },
   {
-    "repo": "Gitlawb/openclaude",
+    "repo": "qemu/qemu",
+    "branch": "master",
+    "language": "C",
+    "description": "Official QEMU mirror. Please see https://www.qemu.org/contribute/ for how to submit changes to QEMU. Pull Requests are ignored. Please only use release tarballs from the QEMU website."
+  },
+  {
+    "repo": "Mouseww/anything-analyzer",
     "branch": "main",
     "language": "TypeScript",
-    "description": "Claude Code opened to any LLM — OpenAI, Gemini, DeepSeek, Ollama, and 200+ models via OpenAI-compatible API shim"
-  },
-  {
-    "repo": "tomascupr/sandstorm",
-    "branch": "main",
-    "language": "Python",
-    "description": "One API call. Full Claude agent. Completely sandboxed."
-  },
-  {
-    "repo": "langwatch/kanban-code",
-    "branch": "main",
-    "language": "Swift",
-    "description": ""
-  },
-  {
-    "repo": "Kaleighc793/freqtrade-bot",
-    "branch": "main",
-    "language": "Python",
-    "description": "Freqtrade — Configuration and management tool for the Freqtrade open-source crypto trading bot with strategy backtesting, live/dry-run modes, 10+ exchange support (Binance, Kraken, OKX), hyperparameter optimization, FreqUI dashboard, and Rich terminal menu interface"
+    "description": "利用 browser + CDP capture + AI analysis  傻瓜式生成 注册机 | 2API | 其他浏览器行为 的协议分析文档"
   }
 ]
