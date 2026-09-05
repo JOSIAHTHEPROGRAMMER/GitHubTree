@@ -1,146 +1,146 @@
 [
   {
-    "repo": "liliMozi/openhanako",
+    "repo": "MemNixFS/MemNixFS",
     "branch": "main",
-    "language": "JavaScript",
-    "description": "A personal AI agent with memory, personality, and autonomy — built on Electron."
+    "language": "C++",
+    "description": "Linux Memory Forensics Framework That Transforms Memory Dumps Into a Navigable Filesystem"
   },
   {
-    "repo": "MddIdd/mdd-sim-gateway",
-    "branch": "main",
-    "language": "Python",
-    "description": "Self-hosted multi-SIM communication gateway with public-edition safeguards"
+    "repo": "guzzle/guzzle",
+    "branch": "master",
+    "language": "PHP",
+    "description": "Guzzle, an extensible PHP HTTP client"
   },
   {
-    "repo": "LeoYeAI/openclaw-auto-dream",
-    "branch": "main",
-    "language": "HTML",
-    "description": "Automatic memory consolidation for OpenClaw agents — like sleep for your AI. Powered by MyClaw.ai"
-  },
-  {
-    "repo": "777genius/claude-code-source-code-full",
+    "repo": "Backtthefuture/huangshu",
     "branch": "main",
     "language": "TypeScript",
-    "description": "Full source repository for Claude Code source code"
+    "description": "黄叔开源的Skill集合"
   },
   {
-    "repo": "vkhanhqui/figma-mcp-go",
+    "repo": "SethGammon/Citadel",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "Agent orchestration harness for Claude Code. Four-tier routing (/do), campaign persistence across sessions, parallel agents in isolated worktrees, discovery relay between waves, lifecycle hooks, circuit breaker, and 6 production-quality skills. From solo developer to institutional scale."
+  },
+  {
+    "repo": "FireRedTeam/FireRedVAD",
+    "branch": "main",
+    "language": "Python",
+    "description": "A SOTA Industrial-Grade Voice Activity Detection & Audio Event Detection, supporting 100+ languages, outperforming Silero-VAD, TEN-VAD, FunASR-VAD and WebRTC-VAD"
+  },
+  {
+    "repo": "Sir-Scuzza/gluetun-webui",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": ""
+  },
+  {
+    "repo": "rebane2001/x86CSS",
+    "branch": "mane",
+    "language": "HTML",
+    "description": "x86CSS is a working CSS-only x86 CPU/emulator/computer. No JavaScript required."
+  },
+  {
+    "repo": "iflytek/astronclaw-tutorial",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "从零到工作流，掌握 AstronClaw（云端）与 Loomy（桌面）的 AI 助手实战教程 | A complete tutorial to master AstronClaw (cloud AI) & Loomy (desktop AI)"
+  },
+  {
+    "repo": "lukasHoel/video_to_world",
+    "branch": "main",
+    "language": "Python",
+    "description": "Our method reconstructs 3D worlds from video diffusion models using non-rigid alignment to resolve inherent 3D inconsistencies in the generated sequences."
+  },
+  {
+    "repo": "DovAmir/awesome-design-patterns",
+    "branch": "master",
+    "language": "Other",
+    "description": "A curated list of software and architecture related design patterns."
+  },
+  {
+    "repo": "shareAI-lab/claw0",
+    "branch": "main",
+    "language": "Python",
+    "description": "0 - 1 learn OpenClaw: sections to build an claw-AI agent from scratch"
+  },
+  {
+    "repo": "ShunsukeHayashi/agent-skill-bus",
+    "branch": "master",
+    "language": "JavaScript",
+    "description": "The missing runtime for Agent Skills — health monitoring, self-improvement, and dependency management for any AI agent framework. Zero dependencies."
+  },
+  {
+    "repo": "EurekaClaw/EurekaClaw",
+    "branch": "main",
+    "language": "Python",
+    "description": "The official repo of EurekaClaw"
+  },
+  {
+    "repo": "triggerdotdev/trigger.dev",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Trigger.dev – build and deploy fully‑managed AI agents and workflows"
+  },
+  {
+    "repo": "expo/expo",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "An open-source framework for making universal native apps with React. Expo runs on Android, iOS, and the web."
+  },
+  {
+    "repo": "aquasecurity/kube-bench",
     "branch": "main",
     "language": "Go",
-    "description": "Figma MCP for free users — no rate limits, full read/write, text to designs, designs to code"
+    "description": "Checks whether Kubernetes is deployed according to security best practices as defined in the CIS Kubernetes Benchmark"
   },
   {
-    "repo": "KeyID-AI/sdk-js",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Free email for AI agents. No signup, no human needed. Install → provision → send and receive. Ed25519 keypair auth."
-  },
-  {
-    "repo": "sgInnora/alipay-deeplink-research",
-    "branch": "main",
-    "language": "HTML",
-    "description": "Alipay DeepLink + JSBridge Security Research - 17 Verified Vulnerabilities | 支付宝DeepLink安全研究 | Full Report: innora.ai/zfb"
-  },
-  {
-    "repo": "manuelschipper/nah",
-    "branch": "main",
-    "language": "Python",
-    "description": "Context-aware safety guard for Claude Code. A permission system you control."
-  },
-  {
-    "repo": "friendlymatthew/gabagool",
+    "repo": "3-JonWallis1993/HyperLiquid-Claw",
     "branch": "main",
     "language": "Rust",
-    "description": "Snapshotable WebAssembly interpreter from scratch"
-  },
-  {
-    "repo": "longnghiemduc6-art/ob12api",
-    "branch": "master",
-    "language": "Python",
     "description": ""
   },
   {
-    "repo": "nicepkg/ctxport",
+    "repo": "wenqingyu/ralphy-openspec",
     "branch": "main",
     "language": "TypeScript",
-    "description": "Copy AI conversations as clean Markdown Context Bundles — one click from ChatGPT, Claude, Gemini, DeepSeek, Grok & GitHub. Copy from sidebar without opening. Zero upload, 100% local, open source."
+    "description": "Ralph loop + OpenSpec integration for Cursor, OpenCode and ClaudeCode heavy lifting."
   },
   {
-    "repo": "keanucz/detour",
+    "repo": "NomicFoundation/hardhat",
     "branch": "master",
     "language": "TypeScript",
-    "description": "On-board AI agents autonomously saving satellites from orbital debris @ treehacks 2026"
+    "description": "Hardhat is a development environment to compile, deploy, test, and debug your Ethereum software."
   },
   {
-    "repo": "win4r/memory-lancedb-pro",
+    "repo": "jupyter/notebook",
     "branch": "main",
-    "language": "TypeScript",
-    "description": "Enhanced LanceDB memory plugin for OpenClaw — Hybrid Retrieval (Vector + BM25), Cross-Encoder Rerank, Multi-Scope Isolation, Management CLI"
+    "language": "Jupyter Notebook",
+    "description": "Jupyter Interactive Notebook"
   },
   {
-    "repo": "wquguru/harness-books",
-    "branch": "main",
-    "language": "Python",
-    "description": ""
-  },
-  {
-    "repo": "ForLoopCodes/contextplus",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Semantic Intelligence for Large-Scale Engineering. Context+ is an MCP server designed for developers who demand 99% accuracy. By combining Tree-sitter AST parsing, Spectral Clustering, and Obsidian-style linking, Context+ turns a massive codebase into a searchable, hierarchical feature graph."
-  },
-  {
-    "repo": "chu2bard/pinion-os",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Client SDK, Claude plugin and skill framework for the Pinion protocol. x402 micropayments on Base."
-  },
-  {
-    "repo": "shuyicc/MathLens",
+    "repo": "eooce/python-ws",
     "branch": "main",
     "language": "Python",
-    "description": "MathLens 是一个专注于数学题目视频讲解的 Agent Skill。你只需粘贴一道数学题（图片或文字），它就能自动完成从题目分析、可视化讲解、配音脚本到 Manim 动画视频的全流程制作。单条视频1-10 分钟，成本 0.2-1 元以内。"
+    "description": "build vless / trojan /shadowsocks  proxies on python server,no need core"
   },
   {
-    "repo": "Significant-Gravitas/AutoGPT",
-    "branch": "master",
-    "language": "Python",
-    "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters."
-  },
-  {
-    "repo": "moment/moment",
-    "branch": "develop",
-    "language": "JavaScript",
-    "description": "Parse, validate, manipulate, and display dates in javascript."
-  },
-  {
-    "repo": "angel10x/Crash-Frontend",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "About Crash game - frontend"
-  },
-  {
-    "repo": "opa334/darksword-kexploit",
-    "branch": "main",
-    "language": "Objective-C",
-    "description": "iOS <=26.0.1 DarkSword Kernel Exploit reimplemented in Objective-C"
-  },
-  {
-    "repo": "Shpigford/chops",
-    "branch": "main",
-    "language": "Swift",
-    "description": "Your AI agent skills, finally organized. A macOS app to browse, edit, and manage skills across Claude Code, Cursor, Codex, Windsurf, and Amp."
-  },
-  {
-    "repo": "obdev/littlesnitch-linux",
-    "branch": "main",
-    "language": "Rust",
-    "description": "Open Source components of Little Snitch for Linux"
-  },
-  {
-    "repo": "Euphonique/iCloudPhotoSync",
+    "repo": "qlabs-eng/slowrun",
     "branch": "main",
     "language": "Python",
-    "description": "Sync Apple iCloud Photos with Synology Diskstation"
+    "description": "100M tokens, no time limit, best val loss wins!"
+  },
+  {
+    "repo": "bjarneo/cliamp",
+    "branch": "main",
+    "language": "Go",
+    "description": "Terminal Winamp"
+  },
+  {
+    "repo": "nicedreamzapp/claude-code-local",
+    "branch": "main",
+    "language": "Python",
+    "description": "Run Claude Code with local AI on Apple Silicon. 122B model at 41 tok/s with Google TurboQuant. No cloud, no API fees."
   }
 ]
