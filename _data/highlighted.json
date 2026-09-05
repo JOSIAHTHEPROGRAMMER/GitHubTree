@@ -1,8 +1,8 @@
 {
-  "repo": "BoardUI/boardui",
+  "repo": "Saganaki22/ComfyUI-VDN-H3",
   "branch": "main",
-  "language": "TypeScript",
-  "description": "React design system for agentic interfaces. Every free BoardUI component as source, with a working AI chat app on your own model key as the homepage.",
-  "stars": 127,
-  "forks": 27
+  "language": "Python",
+  "description": "Video Delta Net hybrid attention for MiniMax-H3 as a native ComfyUI node. ",
+  "stars": 123,
+  "forks": 5
 }

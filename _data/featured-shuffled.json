@@ -1,146 +1,146 @@
 [
   {
-    "repo": "epiral/agent-clip",
-    "branch": "main",
-    "language": "Go",
-    "description": "AI Agent as a Pinix Clip — agentic loop with memory, tools, and vision"
-  },
-  {
-    "repo": "vigorX777/product-design-system",
-    "branch": "main",
-    "language": "HTML",
-    "description": "面向产品经理的 AI 辅助产品设计工作框架，可 fork 定制的通用产品设计系统"
-  },
-  {
-    "repo": "exomi29zikzak/Valo-Vision-26",
-    "branch": "main",
-    "language": "C++",
-    "description": "Vanguard Vision (2026) — High-performance external computer vision framework for Valorant. Features ultra-low latency color detection, Arduino/HID mouse automation support, and a kernel-safe visual overlay."
-  },
-  {
-    "repo": "Paidax01/math-curve-loaders",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "A lightweight gallery of mathematical curve based loading animations with modal previews, formulas, and copyable code snippets."
-  },
-  {
-    "repo": "WenyuChiou/awesome-agentic-ai-zh",
+    "repo": "JokiTsien/App_Store_Play_Store_Review_Bot",
     "branch": "main",
     "language": "Python",
-    "description": "AI Agent 中文學習地圖 — 從零開始的結構化學習路徑，每階段有必做練習跟必修閱讀。三語對照（繁中／简中／English）。歡迎社群一起貢獻、優化內容。"
+    "description": "Auto-post reviews and ratings for apps on Google Play and Apple App Store. Boost app rankings and credibility."
   },
   {
-    "repo": "qntrade1/polymarket-arbitrage-trading-bot",
+    "repo": "themartiano/try-omarchy",
+    "branch": "main",
+    "language": "Shell",
+    "description": "Try Omarchy on Apple Silicon without any setup."
+  },
+  {
+    "repo": "CuzTeam/hm-rev",
     "branch": "main",
     "language": "Python",
-    "description": "polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot"
+    "description": "DevECO REV"
   },
   {
-    "repo": "KenneyNL/Starter-Kit-Racing",
-    "branch": "main",
-    "language": "GDScript",
-    "description": ""
-  },
-  {
-    "repo": "aeromomo/claw-compactor",
-    "branch": "main",
-    "language": "Python",
-    "description": "🦞 Claw Compactor — The 98% Crusher. Cut your AI agent token spend in half with 5 layered compression techniques."
-  },
-  {
-    "repo": "phuryn/pm-skills",
-    "branch": "main",
-    "language": "Python",
-    "description": "PM Skills Marketplace: An AI Operating System for Better Product Decisions. 65 PM skills and 36 chained workflows across 8 plugins — from discovery to strategy, execution, launch, and growth."
-  },
-  {
-    "repo": "CleverCloud/mdr",
+    "repo": "jeff141/meatshell",
     "branch": "main",
     "language": "Rust",
-    "description": "a very light rust based markdown reader with support of mermaid (web, native, TUI). vibe coded"
+    "description": "一个轻量级、低内存占用的 SSH / 终端客户端（A lightweight, low-memory SSH / terminal client）"
   },
   {
-    "repo": "leaked-claude-code/leaked-claude-code",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "[ LEAKED | LEAK ] Claude Code source code. full claude code opensource."
-  },
-  {
-    "repo": "tw93/Kaku",
-    "branch": "main",
-    "language": "Rust",
-    "description": "☄️ A fast, out-of-the-box terminal built for AI coding."
-  },
-  {
-    "repo": "aiming-lab/AutoHarness",
-    "branch": "main",
-    "language": "Python",
-    "description": "AutoHarness: Automated Harness Engineering for AI Agents"
-  },
-  {
-    "repo": "Kindness-Kismet/One-Player",
-    "branch": "main",
-    "language": "Kotlin",
-    "description": "增强的 Android 视频播放器"
-  },
-  {
-    "repo": "NubPlayz/GoodLib-Zlib-Goodreads-extension",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "An extension that open Books in Zlib Or Anna's Archive with a button on Goodreads in one click.  Available on Chrome and Firefox"
-  },
-  {
-    "repo": "moltlaunch/cashclaw",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "An autonomous agent that takes work, does work, gets paid, and gets better at it."
-  },
-  {
-    "repo": "HKUDS/ClawWork",
-    "branch": "main",
-    "language": "Python",
-    "description": "ClawWork: OpenClaw as Your AI Coworker - 💰 $10K earned in 7 Hours"
-  },
-  {
-    "repo": "htimesnine/DarkSword-RCE",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "DarkSword webkit exploit captured ITW"
-  },
-  {
-    "repo": "zipperiron5/kms-pico-port-version-26",
-    "branch": "main",
-    "language": "C++",
-    "description": "A powerful Windows-native (.exe) management utility for Microsoft KMS (Key Management Service) orchestration. Designed for enterprise volume license validation, GVLK deployment, and automated asset maintenance."
-  },
-  {
-    "repo": "lifo-sh/lifo",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "A browser-native operating system. Unix/Linux reimagined where the browser IS the kernel and Web APIs ARE syscalls. 60+ commands, bash-like shell, virtual filesystem, and IndexedDB persistence."
-  },
-  {
-    "repo": "facebookresearch/HyperAgents",
-    "branch": "main",
-    "language": "Python",
-    "description": "Self-referential self-improving agents that can optimize for any computable task"
-  },
-  {
-    "repo": "shipany-ai/open-agent-sdk",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Agent-SDK without CLI dependencies, as an alternative to claude-agent-sdk, completely open source"
-  },
-  {
-    "repo": "RhysSullivan/nextjs-mobile-app-template",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": ""
-  },
-  {
-    "repo": "KlingAIResearch/X-Dub",
+    "repo": "S-Sigdel/vimhjkl",
     "branch": "master",
     "language": "Python",
-    "description": "Try X-Dub to sync any character in a video with any audio you like | Official repository for From Inpainting to Editing: Unlocking Robust Mask-Free Visual Dubbing via Generative Bootstrapping"
+    "description": "learn vim from your terminal with spaced repetition"
+  },
+  {
+    "repo": "turbodragonecholegend2914353/Roblox-Exec-Collection-Desktop",
+    "branch": "main",
+    "language": "C#",
+    "description": "A curated collection of documentation and safe templates for understanding and analyzing Roblox execution environments in a controlled lab setting."
+  },
+  {
+    "repo": "pewdiepie-archdaemon/odysseus",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "Self-hosted AI workspace."
+  },
+  {
+    "repo": "jwangkun/claude-for-financial-services-cn",
+    "branch": "main",
+    "language": "Python",
+    "description": "63 个 Claude Skills，为 A 股金融从业者而生  基于 Anthropic 官方 claude-for-financial-services 深度适配国内市场，现已开源。"
+  },
+  {
+    "repo": "elvirarolando64992854260/IDM-6.42-Patch-Lifetime-Ver-26",
+    "branch": "main",
+    "language": "HTML",
+    "description": "Improve internet stability with tools and settings that reduce drops, fix weak connections, and keep your network steady on any device"
+  },
+  {
+    "repo": "docker-desktop-windows/docker-desktop",
+    "branch": "main",
+    "language": "Go",
+    "description": "docker desktop windows mac install download free windows 11 github wsl2 kubernetes"
+  },
+  {
+    "repo": "Gloridust/WechatOnCloud",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "云微WOC，云微信，自由连接"
+  },
+  {
+    "repo": "metavault-fi/solana-pumpfun-bundler",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Solana Pumpfun Bundler Solana Pump.fun bundler Solana Pumpfun Bundler Solana Pump.fun bundler Solana Pumpfun Bundler Solana Pump.fun bundler Solana Pumpfun Bundler Solana Pump.fun bundler Solana Pumpfun Bundler Solana Pumpfun bundler Solana Pumpfun Bundler Solana Pumpfun bundler Solana Pumpfun Bundler Solana Pumpfun Bundler Solana Pumpfun bundler"
+  },
+  {
+    "repo": "K07VN/capcut-tts-api",
+    "branch": "main",
+    "language": "Python",
+    "description": "capcut api tts & stt"
+  },
+  {
+    "repo": "K-Dense-AI/science-superpowers",
+    "branch": "main",
+    "language": "Shell",
+    "description": "Composable computational-science methodology skills for AI research agents — pre-registration over TDD. A science-domain reimplementation of Superpowers."
+  },
+  {
+    "repo": "zzzhhh1/techshare-proxy-turbo",
+    "branch": "main",
+    "language": "Dockerfile",
+    "description": ""
+  },
+  {
+    "repo": "alfhamdy515-svg/NS-FW-AI-Image-and-Video-Generator-Uncensd",
+    "branch": "main",
+    "language": "C#",
+    "description": "A foundational toolkit for AI-driven image generation, focusing on creative expression and content creation."
+  },
+  {
+    "repo": "tejaswigowda/ffmpeg-webCLI",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "A browser-based video editor powered by ffmpeg.wasm. No uploads, no servers -- all processing happens locally in your browser using WebAssembly."
+  },
+  {
+    "repo": "Leonxlnx/lumenshaders",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "LUMEN, a generative shader studio. 9 WebGL2 art modes plus synth style blending, perfect-loop animation, gradient sets, share codes and PNG/WebM/GIF export. Zero dependencies."
+  },
+  {
+    "repo": "JuneYaooo/nihaixia-tcm",
+    "branch": "main",
+    "language": "Python",
+    "description": "倪海厦中医课程资料的 Agent Skill：支持课程检索、方证穴位辨析、学习笔记整理与板书截图证据索引。 |  An Agent Skill for Ni Haixia TCM course study, formula-pattern lookup, acupoint reference, and screenshot evidence indexing."
+  },
+  {
+    "repo": "myccarl/ai-shortVideo-pipeline",
+    "branch": "main",
+    "language": "Python",
+    "description": "End-to-end AI short-video production pipeline. FastAPI orchestration + Spring Boot gateway with multi-model failover, circuit breaker, metering, and full-stack observability. AI quality gating: prompt anchoring, CLIP consistency, AV sync auto-rescue."
+  },
+  {
+    "repo": "yb2460/cli-anything-wps",
+    "branch": "master",
+    "language": "Python",
+    "description": "CLI harness for WPS Office -- let AI agents control Writer, Calc & Impress via COM automation"
+  },
+  {
+    "repo": "yapeth/MaaNTE",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "maante neverness to everness nte automation assistant maa framework github download free bot auto fishing skip dialogue daily rewards windows 11 MaaNTE 异环小助手，由 MAAFramework 强力驱动！QQ交流群: 713114598"
+  },
+  {
+    "repo": "ShiroEirin/comfyui-good-anima",
+    "branch": "main",
+    "language": "Python",
+    "description": ""
+  },
+  {
+    "repo": "elder-plinius/ENTHEA",
+    "branch": "main",
+    "language": "HTML",
+    "description": "real-time psychedelic visual synthesizer and pro-grade music visualizer"
   }
 ]
