@@ -1,8 +1,8 @@
 {
-  "repo": "hi-nikola/hand-drawn-explainer-video-nikola",
+  "repo": "BoardUI/boardui",
   "branch": "main",
-  "language": "Python",
-  "description": "中文手绘知识讲解视频 Codex Skill：逐笔故事、双语义岛、让怪诞小黑动起来与程序动画",
-  "stars": 102,
-  "forks": 13
+  "language": "TypeScript",
+  "description": "React design system for agentic interfaces. Every free BoardUI component as source, with a working AI chat app on your own model key as the homepage.",
+  "stars": 127,
+  "forks": 27
 }

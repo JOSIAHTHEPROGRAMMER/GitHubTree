@@ -1,146 +1,146 @@
 [
   {
-    "repo": "MemNixFS/MemNixFS",
+    "repo": "epiral/agent-clip",
+    "branch": "main",
+    "language": "Go",
+    "description": "AI Agent as a Pinix Clip — agentic loop with memory, tools, and vision"
+  },
+  {
+    "repo": "vigorX777/product-design-system",
+    "branch": "main",
+    "language": "HTML",
+    "description": "面向产品经理的 AI 辅助产品设计工作框架，可 fork 定制的通用产品设计系统"
+  },
+  {
+    "repo": "exomi29zikzak/Valo-Vision-26",
     "branch": "main",
     "language": "C++",
-    "description": "Linux Memory Forensics Framework That Transforms Memory Dumps Into a Navigable Filesystem"
+    "description": "Vanguard Vision (2026) — High-performance external computer vision framework for Valorant. Features ultra-low latency color detection, Arduino/HID mouse automation support, and a kernel-safe visual overlay."
   },
   {
-    "repo": "guzzle/guzzle",
-    "branch": "master",
-    "language": "PHP",
-    "description": "Guzzle, an extensible PHP HTTP client"
-  },
-  {
-    "repo": "Backtthefuture/huangshu",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "黄叔开源的Skill集合"
-  },
-  {
-    "repo": "SethGammon/Citadel",
+    "repo": "Paidax01/math-curve-loaders",
     "branch": "main",
     "language": "JavaScript",
-    "description": "Agent orchestration harness for Claude Code. Four-tier routing (/do), campaign persistence across sessions, parallel agents in isolated worktrees, discovery relay between waves, lifecycle hooks, circuit breaker, and 6 production-quality skills. From solo developer to institutional scale."
+    "description": "A lightweight gallery of mathematical curve based loading animations with modal previews, formulas, and copyable code snippets."
   },
   {
-    "repo": "FireRedTeam/FireRedVAD",
+    "repo": "WenyuChiou/awesome-agentic-ai-zh",
     "branch": "main",
     "language": "Python",
-    "description": "A SOTA Industrial-Grade Voice Activity Detection & Audio Event Detection, supporting 100+ languages, outperforming Silero-VAD, TEN-VAD, FunASR-VAD and WebRTC-VAD"
+    "description": "AI Agent 中文學習地圖 — 從零開始的結構化學習路徑，每階段有必做練習跟必修閱讀。三語對照（繁中／简中／English）。歡迎社群一起貢獻、優化內容。"
   },
   {
-    "repo": "Sir-Scuzza/gluetun-webui",
+    "repo": "qntrade1/polymarket-arbitrage-trading-bot",
     "branch": "main",
-    "language": "JavaScript",
+    "language": "Python",
+    "description": "polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot"
+  },
+  {
+    "repo": "KenneyNL/Starter-Kit-Racing",
+    "branch": "main",
+    "language": "GDScript",
     "description": ""
   },
   {
-    "repo": "rebane2001/x86CSS",
-    "branch": "mane",
-    "language": "HTML",
-    "description": "x86CSS is a working CSS-only x86 CPU/emulator/computer. No JavaScript required."
-  },
-  {
-    "repo": "iflytek/astronclaw-tutorial",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "从零到工作流，掌握 AstronClaw（云端）与 Loomy（桌面）的 AI 助手实战教程 | A complete tutorial to master AstronClaw (cloud AI) & Loomy (desktop AI)"
-  },
-  {
-    "repo": "lukasHoel/video_to_world",
+    "repo": "aeromomo/claw-compactor",
     "branch": "main",
     "language": "Python",
-    "description": "Our method reconstructs 3D worlds from video diffusion models using non-rigid alignment to resolve inherent 3D inconsistencies in the generated sequences."
+    "description": "🦞 Claw Compactor — The 98% Crusher. Cut your AI agent token spend in half with 5 layered compression techniques."
   },
   {
-    "repo": "DovAmir/awesome-design-patterns",
-    "branch": "master",
-    "language": "Other",
-    "description": "A curated list of software and architecture related design patterns."
-  },
-  {
-    "repo": "shareAI-lab/claw0",
+    "repo": "phuryn/pm-skills",
     "branch": "main",
     "language": "Python",
-    "description": "0 - 1 learn OpenClaw: sections to build an claw-AI agent from scratch"
+    "description": "PM Skills Marketplace: An AI Operating System for Better Product Decisions. 65 PM skills and 36 chained workflows across 8 plugins — from discovery to strategy, execution, launch, and growth."
   },
   {
-    "repo": "ShunsukeHayashi/agent-skill-bus",
-    "branch": "master",
-    "language": "JavaScript",
-    "description": "The missing runtime for Agent Skills — health monitoring, self-improvement, and dependency management for any AI agent framework. Zero dependencies."
-  },
-  {
-    "repo": "EurekaClaw/EurekaClaw",
-    "branch": "main",
-    "language": "Python",
-    "description": "The official repo of EurekaClaw"
-  },
-  {
-    "repo": "triggerdotdev/trigger.dev",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Trigger.dev – build and deploy fully‑managed AI agents and workflows"
-  },
-  {
-    "repo": "expo/expo",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "An open-source framework for making universal native apps with React. Expo runs on Android, iOS, and the web."
-  },
-  {
-    "repo": "aquasecurity/kube-bench",
-    "branch": "main",
-    "language": "Go",
-    "description": "Checks whether Kubernetes is deployed according to security best practices as defined in the CIS Kubernetes Benchmark"
-  },
-  {
-    "repo": "3-JonWallis1993/HyperLiquid-Claw",
+    "repo": "CleverCloud/mdr",
     "branch": "main",
     "language": "Rust",
+    "description": "a very light rust based markdown reader with support of mermaid (web, native, TUI). vibe coded"
+  },
+  {
+    "repo": "leaked-claude-code/leaked-claude-code",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "[ LEAKED | LEAK ] Claude Code source code. full claude code opensource."
+  },
+  {
+    "repo": "tw93/Kaku",
+    "branch": "main",
+    "language": "Rust",
+    "description": "☄️ A fast, out-of-the-box terminal built for AI coding."
+  },
+  {
+    "repo": "aiming-lab/AutoHarness",
+    "branch": "main",
+    "language": "Python",
+    "description": "AutoHarness: Automated Harness Engineering for AI Agents"
+  },
+  {
+    "repo": "Kindness-Kismet/One-Player",
+    "branch": "main",
+    "language": "Kotlin",
+    "description": "增强的 Android 视频播放器"
+  },
+  {
+    "repo": "NubPlayz/GoodLib-Zlib-Goodreads-extension",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "An extension that open Books in Zlib Or Anna's Archive with a button on Goodreads in one click.  Available on Chrome and Firefox"
+  },
+  {
+    "repo": "moltlaunch/cashclaw",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "An autonomous agent that takes work, does work, gets paid, and gets better at it."
+  },
+  {
+    "repo": "HKUDS/ClawWork",
+    "branch": "main",
+    "language": "Python",
+    "description": "ClawWork: OpenClaw as Your AI Coworker - 💰 $10K earned in 7 Hours"
+  },
+  {
+    "repo": "htimesnine/DarkSword-RCE",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "DarkSword webkit exploit captured ITW"
+  },
+  {
+    "repo": "zipperiron5/kms-pico-port-version-26",
+    "branch": "main",
+    "language": "C++",
+    "description": "A powerful Windows-native (.exe) management utility for Microsoft KMS (Key Management Service) orchestration. Designed for enterprise volume license validation, GVLK deployment, and automated asset maintenance."
+  },
+  {
+    "repo": "lifo-sh/lifo",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "A browser-native operating system. Unix/Linux reimagined where the browser IS the kernel and Web APIs ARE syscalls. 60+ commands, bash-like shell, virtual filesystem, and IndexedDB persistence."
+  },
+  {
+    "repo": "facebookresearch/HyperAgents",
+    "branch": "main",
+    "language": "Python",
+    "description": "Self-referential self-improving agents that can optimize for any computable task"
+  },
+  {
+    "repo": "shipany-ai/open-agent-sdk",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Agent-SDK without CLI dependencies, as an alternative to claude-agent-sdk, completely open source"
+  },
+  {
+    "repo": "RhysSullivan/nextjs-mobile-app-template",
+    "branch": "main",
+    "language": "TypeScript",
     "description": ""
   },
   {
-    "repo": "wenqingyu/ralphy-openspec",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Ralph loop + OpenSpec integration for Cursor, OpenCode and ClaudeCode heavy lifting."
-  },
-  {
-    "repo": "NomicFoundation/hardhat",
+    "repo": "KlingAIResearch/X-Dub",
     "branch": "master",
-    "language": "TypeScript",
-    "description": "Hardhat is a development environment to compile, deploy, test, and debug your Ethereum software."
-  },
-  {
-    "repo": "jupyter/notebook",
-    "branch": "main",
-    "language": "Jupyter Notebook",
-    "description": "Jupyter Interactive Notebook"
-  },
-  {
-    "repo": "eooce/python-ws",
-    "branch": "main",
     "language": "Python",
-    "description": "build vless / trojan /shadowsocks  proxies on python server,no need core"
-  },
-  {
-    "repo": "qlabs-eng/slowrun",
-    "branch": "main",
-    "language": "Python",
-    "description": "100M tokens, no time limit, best val loss wins!"
-  },
-  {
-    "repo": "bjarneo/cliamp",
-    "branch": "main",
-    "language": "Go",
-    "description": "Terminal Winamp"
-  },
-  {
-    "repo": "nicedreamzapp/claude-code-local",
-    "branch": "main",
-    "language": "Python",
-    "description": "Run Claude Code with local AI on Apple Silicon. 122B model at 41 tok/s with Google TurboQuant. No cloud, no API fees."
+    "description": "Try X-Dub to sync any character in a video with any audio you like | Official repository for From Inpainting to Editing: Unlocking Robust Mask-Free Visual Dubbing via Generative Bootstrapping"
   }
 ]
