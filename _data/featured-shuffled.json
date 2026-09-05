@@ -1,146 +1,146 @@
 [
   {
-    "repo": "lukasHoel/video_to_world",
-    "branch": "main",
-    "language": "Python",
-    "description": "Our method reconstructs 3D worlds from video diffusion models using non-rigid alignment to resolve inherent 3D inconsistencies in the generated sequences."
-  },
-  {
-    "repo": "PC2005-cloud/dsh-pet",
+    "repo": "liliMozi/openhanako",
     "branch": "main",
     "language": "JavaScript",
-    "description": "DSH 桌面宠物：一行命令安装现成宠物（28 个透明动画，即装即用），或内置素材链从 AI 视频自造专属宠物 | One-line install desktop pet for DeepSeek Harness + DIY asset pipeline"
+    "description": "A personal AI agent with memory, personality, and autonomy — built on Electron."
   },
   {
-    "repo": "VAENPP/solana-trading-bot",
+    "repo": "MddIdd/mdd-sim-gateway",
+    "branch": "main",
+    "language": "Python",
+    "description": "Self-hosted multi-SIM communication gateway with public-edition safeguards"
+  },
+  {
+    "repo": "LeoYeAI/openclaw-auto-dream",
+    "branch": "main",
+    "language": "HTML",
+    "description": "Automatic memory consolidation for OpenClaw agents — like sleep for your AI. Powered by MyClaw.ai"
+  },
+  {
+    "repo": "777genius/claude-code-source-code-full",
     "branch": "main",
     "language": "TypeScript",
-    "description": "solana trading bot solana bot solana trading bot solana bot solana trading bot solana bot solana trading bot solana bot solana trading bot solana bot solana trading bot solana bot solana trading bot solana bot solana trading bot solana bot solana trading bot solana bot solana trading bot solana bot solana trading bot solana bot solana trading bot"
+    "description": "Full source repository for Claude Code source code"
   },
   {
-    "repo": "tonbistudio/hermes-multi-agent-workflow",
+    "repo": "vkhanhqui/figma-mcp-go",
     "branch": "main",
-    "language": "Python",
-    "description": ""
+    "language": "Go",
+    "description": "Figma MCP for free users — no rate limits, full read/write, text to designs, designs to code"
   },
   {
-    "repo": "fadilr8/Bluesky_Auto-Reply___Like_Bot",
-    "branch": "main",
-    "language": "Python",
-    "description": "Automatically like and reply to posts on Bluesky. Boost engagement and connect with other users."
-  },
-  {
-    "repo": "SGmetro/Lossless-Scaling-Latest-Github-PC-3",
-    "branch": "main",
-    "language": "C#",
-    "description": "⭐️ Lossless Scaling Desktop 2026 | Setup Installer v1.0 | Patch Activator Keygen | License Key Pre-Activated | Full Version Latest Build Pro | Optimize Resolution Scaling | Enhance Performance Graphics | Get Desktop App Windows 10/11 PC | Direct Genuine Original x64 | Download Install Loader Mod ⭐️"
-  },
-  {
-    "repo": "triangkas/DBD-AutoGrind-Trainer-2026-Mega",
-    "branch": "main",
-    "language": "Python",
-    "description": "Ultimate Dead by Daylight auto-grind trainer Mega edition with Bloodpoint bot, ESP wallhack, aimbot, and full perk/skin unlocker. Dominate the Fog with our 2026 undetected external tool."
-  },
-  {
-    "repo": "joeseesun/qiaomu-goal-meta-skill",
-    "branch": "main",
-    "language": "Python",
-    "description": "Turn vague or complex Codex tasks into strong `/goal` commands with outcome, verification, constraints, boundaries, iteration policy, completion evide"
-  },
-  {
-    "repo": "Zafer-Liu/Agent_Manager",
+    "repo": "KeyID-AI/sdk-js",
     "branch": "main",
     "language": "TypeScript",
-    "description": "A cross-platform desktop application for managing AI Agents and MCP Servers. 一款用于管理AI智能体与MCP服务器的跨平台桌面应用程序。"
+    "description": "Free email for AI agents. No signup, no human needed. Install → provision → send and receive. Ed25519 keypair auth."
   },
   {
-    "repo": "build-poe2/PathOfBuilding-PoE2",
+    "repo": "sgInnora/alipay-deeplink-research",
     "branch": "main",
-    "language": "Lua",
-    "description": "path of building poe2 build 0.5 pob community fork path of exile 2 build planner dps calculator github download  portable  pobb in league starter passive tree ascendancy gems"
+    "language": "HTML",
+    "description": "Alipay DeepLink + JSBridge Security Research - 17 Verified Vulnerabilities | 支付宝DeepLink安全研究 | Full Report: innora.ai/zfb"
   },
   {
-    "repo": "vanroon/Pet-Simulator-99-Auto-Farm-Trainer-2026-Prime",
-    "branch": "main",
-    "language": "Python",
-    "description": "Maximize your efficiency in Pet Simulator 99 with the Prime auto trainer. From coin collection to Backrooms League rewards, everything is automated. Safe and undetectable."
-  },
-  {
-    "repo": "raheelshakeel953-a11y/DBD-AutoGrind-Trainer-2026-Elite",
+    "repo": "manuelschipper/nah",
     "branch": "main",
     "language": "Python",
-    "description": "Ultimate Dead by Daylight auto-grind trainer Elite edition with Bloodpoint bot, ESP wallhack, aimbot, and full perk/skin unlocker. Dominate the Fog with our 2026 undetected external tool."
+    "description": "Context-aware safety guard for Claude Code. A permission system you control."
   },
   {
-    "repo": "chubbyguan/chubbyskills",
+    "repo": "friendlymatthew/gabagool",
     "branch": "main",
-    "language": "Python",
-    "description": "chubby 自用知识库实用skill集合 - AI驱动的自动化工作流工具，可以帮助你从各个渠道获取信息，搭建自己的知识库"
+    "language": "Rust",
+    "description": "Snapshotable WebAssembly interpreter from scratch"
   },
   {
-    "repo": "htooayelwinict/Agentic-AI-Book",
+    "repo": "longnghiemduc6-art/ob12api",
+    "branch": "master",
+    "language": "Python",
+    "description": ""
+  },
+  {
+    "repo": "nicepkg/ctxport",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Copy AI conversations as clean Markdown Context Bundles — one click from ChatGPT, Claude, Gemini, DeepSeek, Grok & GitHub. Copy from sidebar without opening. Zero upload, 100% local, open source."
+  },
+  {
+    "repo": "keanucz/detour",
+    "branch": "master",
+    "language": "TypeScript",
+    "description": "On-board AI agents autonomously saving satellites from orbital debris @ treehacks 2026"
+  },
+  {
+    "repo": "win4r/memory-lancedb-pro",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Enhanced LanceDB memory plugin for OpenClaw — Hybrid Retrieval (Vector + BM25), Cross-Encoder Rerank, Multi-Scope Isolation, Management CLI"
+  },
+  {
+    "repo": "wquguru/harness-books",
     "branch": "main",
     "language": "Python",
     "description": ""
   },
   {
-    "repo": "triangkas/DBD-AutoGrind-Trainer-2026-Extreme",
+    "repo": "ForLoopCodes/contextplus",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Semantic Intelligence for Large-Scale Engineering. Context+ is an MCP server designed for developers who demand 99% accuracy. By combining Tree-sitter AST parsing, Spectral Clustering, and Obsidian-style linking, Context+ turns a massive codebase into a searchable, hierarchical feature graph."
+  },
+  {
+    "repo": "chu2bard/pinion-os",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Client SDK, Claude plugin and skill framework for the Pinion protocol. x402 micropayments on Base."
+  },
+  {
+    "repo": "shuyicc/MathLens",
     "branch": "main",
     "language": "Python",
-    "description": "Ultimate Dead by Daylight auto-grind trainer Extreme edition with Bloodpoint bot, ESP wallhack, aimbot, and full perk/skin unlocker. Dominate the Fog with our 2026 undetected external tool."
+    "description": "MathLens 是一个专注于数学题目视频讲解的 Agent Skill。你只需粘贴一道数学题（图片或文字），它就能自动完成从题目分析、可视化讲解、配音脚本到 Manim 动画视频的全流程制作。单条视频1-10 分钟，成本 0.2-1 元以内。"
   },
   {
-    "repo": "VAST-AI-Research/TripoSplat",
-    "branch": "main",
+    "repo": "Significant-Gravitas/AutoGPT",
+    "branch": "master",
     "language": "Python",
-    "description": "TripoSplat converts a single 2D image into high-quality and variable number of 3D Gaussians, developed by TripoAI."
+    "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters."
   },
   {
-    "repo": "Ymsniper/KTO",
+    "repo": "moment/moment",
+    "branch": "develop",
+    "language": "JavaScript",
+    "description": "Parse, validate, manipulate, and display dates in javascript."
+  },
+  {
+    "repo": "angel10x/Crash-Frontend",
     "branch": "main",
-    "language": "Python",
-    "description": "WiFi deauthentication tool that kicks every device off a target network - except the ones you whitelist by MAC address. It continuously scans for non‑whitelisted devices and deauths them the moment they appear or try to reconnect."
+    "language": "TypeScript",
+    "description": "About Crash game - frontend"
   },
   {
-    "repo": "alexantaluo0/ACoT-VLA-WM",
+    "repo": "opa334/darksword-kexploit",
     "branch": "main",
-    "language": "Python",
-    "description": ""
+    "language": "Objective-C",
+    "description": "iOS <=26.0.1 DarkSword Kernel Exploit reimplemented in Objective-C"
   },
   {
-    "repo": "2417467487-hub/Trend2Video-Pro",
+    "repo": "Shpigford/chops",
     "branch": "main",
-    "language": "Python",
-    "description": "The open-source Trend-to-Video Agent Framework for content creators"
-  },
-  {
-    "repo": "K07VN/capcut-tts-api",
-    "branch": "main",
-    "language": "Python",
-    "description": "capcut api tts & stt"
-  },
-  {
-    "repo": "PlummersSoftwareLLC/TinyRetroPad",
-    "branch": "main",
-    "language": "Assembly",
-    "description": ""
-  },
-  {
-    "repo": "NabilAziz99/agent-runtime",
-    "branch": "main",
-    "language": "Python",
-    "description": "Python port of Claude Code's agent-runtime architecture, on LangChain"
-  },
-  {
-    "repo": "vanroon/Pet-Simulator-99-Auto-Farm-Trainer-2026-Elite",
-    "branch": "main",
-    "language": "Python",
-    "description": "Boost your Pet Simulator 99 progress with the Elite trainer. Auto-farm, auto-hatch, instant break, and League auto-grind – all in one sleek GUI. Works with the June 2026 update."
-  },
-  {
-    "repo": "tdeverx/contained-app",
-    "branch": "nightly",
     "language": "Swift",
-    "description": "A native macOS app for Apple's Container CLI"
+    "description": "Your AI agent skills, finally organized. A macOS app to browse, edit, and manage skills across Claude Code, Cursor, Codex, Windsurf, and Amp."
+  },
+  {
+    "repo": "obdev/littlesnitch-linux",
+    "branch": "main",
+    "language": "Rust",
+    "description": "Open Source components of Little Snitch for Linux"
+  },
+  {
+    "repo": "Euphonique/iCloudPhotoSync",
+    "branch": "main",
+    "language": "Python",
+    "description": "Sync Apple iCloud Photos with Synology Diskstation"
   }
 ]

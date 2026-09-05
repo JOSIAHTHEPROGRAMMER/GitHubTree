@@ -1,8 +1,8 @@
 {
-  "repo": "pipicat613/MuToolsProject",
+  "repo": "openai/PrimeGaps186",
   "branch": "main",
-  "language": "Rust",
-  "description": "一站式 MuMu12 模拟器安装与优化工具",
-  "stars": 184,
+  "language": "Lean",
+  "description": "Conditional Lean formalization and numerical certificate for prime gaps at most 186.",
+  "stars": 125,
   "forks": 6
 }
