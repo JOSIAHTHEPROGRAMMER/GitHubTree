@@ -1,8 +1,8 @@
 {
-  "repo": "Saganaki22/ComfyUI-VDN-H3",
+  "repo": "34306/vphone-web",
   "branch": "main",
-  "language": "Python",
-  "description": "Video Delta Net hybrid attention for MiniMax-H3 as a native ComfyUI node. ",
-  "stars": 123,
-  "forks": 5
+  "language": "HTML",
+  "description": "vphone-cli but you can use your mac as a host and control it over the web",
+  "stars": 178,
+  "forks": 18
 }

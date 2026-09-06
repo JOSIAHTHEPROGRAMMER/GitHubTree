@@ -1,146 +1,146 @@
 [
   {
-    "repo": "JokiTsien/App_Store_Play_Store_Review_Bot",
+    "repo": "AlgoInfraTech/Hyperliquid-copy-trading-bot",
     "branch": "main",
-    "language": "Python",
-    "description": "Auto-post reviews and ratings for apps on Google Play and Apple App Store. Boost app rankings and credibility."
+    "language": "TypeScript",
+    "description": "hyperliquid copy trading bot, hyperliquid trading bot, hyperliquid trading bot, hyperliquid trading bot, hyperliquid trading bot, hyperliquid trading bot, hyperliquid trading bot, hyperliquid trading bot, hyperliquid trading bot, hyperliquid trading bot, hyperliquid trading bot, hyperliquid trading bot, hyperliquid trading bot, hyperliquid trading"
   },
   {
-    "repo": "themartiano/try-omarchy",
-    "branch": "main",
-    "language": "Shell",
-    "description": "Try Omarchy on Apple Silicon without any setup."
-  },
-  {
-    "repo": "CuzTeam/hm-rev",
-    "branch": "main",
-    "language": "Python",
-    "description": "DevECO REV"
-  },
-  {
-    "repo": "jeff141/meatshell",
-    "branch": "main",
-    "language": "Rust",
-    "description": "一个轻量级、低内存占用的 SSH / 终端客户端（A lightweight, low-memory SSH / terminal client）"
-  },
-  {
-    "repo": "S-Sigdel/vimhjkl",
+    "repo": "mqudsi/monospace-ocr",
     "branch": "master",
     "language": "Python",
-    "description": "learn vim from your terminal with spaced repetition"
+    "description": ""
   },
   {
-    "repo": "turbodragonecholegend2914353/Roblox-Exec-Collection-Desktop",
+    "repo": "TylerBoni/headless-airplay-screen-mirror",
     "branch": "main",
-    "language": "C#",
-    "description": "A curated collection of documentation and safe templates for understanding and analyzing Roblox execution environments in a controlled lab setting."
+    "language": "Shell",
+    "description": ""
   },
   {
-    "repo": "pewdiepie-archdaemon/odysseus",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "Self-hosted AI workspace."
-  },
-  {
-    "repo": "jwangkun/claude-for-financial-services-cn",
+    "repo": "Rangizingo/cc-cache-fix",
     "branch": "main",
     "language": "Python",
-    "description": "63 个 Claude Skills，为 A 股金融从业者而生  基于 Anthropic 官方 claude-for-financial-services 深度适配国内市场，现已开源。"
+    "description": ""
   },
   {
-    "repo": "elvirarolando64992854260/IDM-6.42-Patch-Lifetime-Ver-26",
+    "repo": "wbh604/UZI-Skill",
     "branch": "main",
-    "language": "HTML",
-    "description": "Improve internet stability with tools and settings that reduce drops, fix weak connections, and keep your network steady on any device"
+    "language": "Python",
+    "description": "冰冷的钱就这样流进我的口袋-游资（UZI）Skills — 51位投资大佬帮你看盘 · 22维数据 × 180条量化规则 × 17种机构分析方法 · A股/港股/美股"
   },
   {
-    "repo": "docker-desktop-windows/docker-desktop",
+    "repo": "microsoft/AI",
+    "branch": "master",
+    "language": "Python",
+    "description": "Microsoft AI"
+  },
+  {
+    "repo": "webpack/webpack-dev-server",
+    "branch": "master",
+    "language": "JavaScript",
+    "description": "Serves a webpack app. Updates the browser on changes. Documentation https://webpack.js.org/configuration/dev-server/."
+  },
+  {
+    "repo": "Sortesylvia25678/Polymarket-Arbitrage-Bot",
+    "branch": "main",
+    "language": "Python",
+    "description": "Automated arbitrage and copy-trading bot for Polymarket prediction markets with real-time odds monitoring, Kelly criterion sizing, and comprehensive P&L tracking"
+  },
+  {
+    "repo": "NatiCha/bunwv",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": ""
+  },
+  {
+    "repo": "airbnb/knowledge-repo",
+    "branch": "master",
+    "language": "Python",
+    "description": "A next-generation curated knowledge sharing platform for data scientists and other technical professions."
+  },
+  {
+    "repo": "dwzhu-pku/PaperBanana",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "PaperBanana: Automating Academic Illustration For AI Scientists"
+  },
+  {
+    "repo": "microsoft/winget-pkgs",
+    "branch": "master",
+    "language": "PowerShell",
+    "description": "The Microsoft community Windows Package Manager manifest repository"
+  },
+  {
+    "repo": "tensorflow/probability",
+    "branch": "main",
+    "language": "Jupyter Notebook",
+    "description": "Probabilistic reasoning and statistical analysis in TensorFlow"
+  },
+  {
+    "repo": "OranAi-Ltd/oransim",
+    "branch": "main",
+    "language": "Python",
+    "description": "Causal Digital Twin for Marketing at Scale · Predict any marketing decision before you spend a dollar."
+  },
+  {
+    "repo": "iad1tya/EchoTube",
+    "branch": "main",
+    "language": "Kotlin",
+    "description": "Open-source YouTube client - enjoy an ad-free experience in a lightweight app, no account required."
+  },
+  {
+    "repo": "larksuite/cli",
     "branch": "main",
     "language": "Go",
-    "description": "docker desktop windows mac install download free windows 11 github wsl2 kubernetes"
+    "description": "A command-line tool for Lark/Feishu Open Platform — built for humans and AI Agents. Covers core business domains including Messenger, Docs, Base, Sheets, Calendar, Mail, Tasks, Meetings, and more, with 200+ commands and 19 AI Agent Skills."
   },
   {
-    "repo": "Gloridust/WechatOnCloud",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "云微WOC，云微信，自由连接"
-  },
-  {
-    "repo": "metavault-fi/solana-pumpfun-bundler",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Solana Pumpfun Bundler Solana Pump.fun bundler Solana Pumpfun Bundler Solana Pump.fun bundler Solana Pumpfun Bundler Solana Pump.fun bundler Solana Pumpfun Bundler Solana Pump.fun bundler Solana Pumpfun Bundler Solana Pumpfun bundler Solana Pumpfun Bundler Solana Pumpfun bundler Solana Pumpfun Bundler Solana Pumpfun Bundler Solana Pumpfun bundler"
-  },
-  {
-    "repo": "K07VN/capcut-tts-api",
+    "repo": "huxiuhan/civ-finish-quotes",
     "branch": "main",
     "language": "Python",
-    "description": "capcut api tts & stt"
+    "description": "A skilll for agent to add a Civilization-style ceremonial quote when a substantial multi-step task is truly complete."
   },
   {
-    "repo": "K-Dense-AI/science-superpowers",
-    "branch": "main",
-    "language": "Shell",
-    "description": "Composable computational-science methodology skills for AI research agents — pre-registration over TDD. A science-domain reimplementation of Superpowers."
-  },
-  {
-    "repo": "zzzhhh1/techshare-proxy-turbo",
-    "branch": "main",
-    "language": "Dockerfile",
-    "description": ""
-  },
-  {
-    "repo": "alfhamdy515-svg/NS-FW-AI-Image-and-Video-Generator-Uncensd",
-    "branch": "main",
-    "language": "C#",
-    "description": "A foundational toolkit for AI-driven image generation, focusing on creative expression and content creation."
-  },
-  {
-    "repo": "tejaswigowda/ffmpeg-webCLI",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "A browser-based video editor powered by ffmpeg.wasm. No uploads, no servers -- all processing happens locally in your browser using WebAssembly."
-  },
-  {
-    "repo": "Leonxlnx/lumenshaders",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "LUMEN, a generative shader studio. 9 WebGL2 art modes plus synth style blending, perfect-loop animation, gradient sets, share codes and PNG/WebM/GIF export. Zero dependencies."
-  },
-  {
-    "repo": "JuneYaooo/nihaixia-tcm",
-    "branch": "main",
-    "language": "Python",
-    "description": "倪海厦中医课程资料的 Agent Skill：支持课程检索、方证穴位辨析、学习笔记整理与板书截图证据索引。 |  An Agent Skill for Ni Haixia TCM course study, formula-pattern lookup, acupoint reference, and screenshot evidence indexing."
-  },
-  {
-    "repo": "myccarl/ai-shortVideo-pipeline",
-    "branch": "main",
-    "language": "Python",
-    "description": "End-to-end AI short-video production pipeline. FastAPI orchestration + Spring Boot gateway with multi-model failover, circuit breaker, metering, and full-stack observability. AI quality gating: prompt anchoring, CLIP consistency, AV sync auto-rescue."
-  },
-  {
-    "repo": "yb2460/cli-anything-wps",
+    "repo": "JakeWharton/butterknife",
     "branch": "master",
-    "language": "Python",
-    "description": "CLI harness for WPS Office -- let AI agents control Writer, Calc & Impress via COM automation"
+    "language": "Java",
+    "description": "Bind Android views and callbacks to fields and methods."
   },
   {
-    "repo": "yapeth/MaaNTE",
+    "repo": "Leaflet/Leaflet",
     "branch": "main",
-    "language": "TypeScript",
-    "description": "maante neverness to everness nte automation assistant maa framework github download free bot auto fishing skip dialogue daily rewards windows 11 MaaNTE 异环小助手，由 MAAFramework 强力驱动！QQ交流群: 713114598"
+    "language": "JavaScript",
+    "description": "🍃 JavaScript library for mobile-friendly interactive maps 🇺🇦"
   },
   {
-    "repo": "ShiroEirin/comfyui-good-anima",
+    "repo": "shivampkumar/trellis-mac",
     "branch": "main",
     "language": "Python",
     "description": ""
   },
   {
-    "repo": "elder-plinius/ENTHEA",
+    "repo": "kzhrknt/awesome-design-md-jp",
     "branch": "main",
     "language": "HTML",
-    "description": "real-time psychedelic visual synthesizer and pro-grade music visualizer"
+    "description": "日本語UIをAIエージェントに正しくつくらせるためのDESIGN.md集。Japanese DESIGN.md collection for AI agents — extending Google Stitch format with CJK typography."
+  },
+  {
+    "repo": "yvgude/lean-ctx",
+    "branch": "main",
+    "language": "Rust",
+    "description": "Hybrid Context Optimizer — Shell Hook + MCP Server. Reduces LLM token consumption by 89-99%. Single Rust binary, zero dependencies."
+  },
+  {
+    "repo": "0xSero/turboquant",
+    "branch": "main",
+    "language": "Python",
+    "description": "TurboQuant: Near-optimal KV cache quantization for LLM inference (3-bit keys, 2-bit values) with Triton kernels + vLLM integration"
+  },
+  {
+    "repo": "spring-projects/spring-boot",
+    "branch": "main",
+    "language": "Java",
+    "description": "Spring Boot helps you to create Spring-powered, production-grade applications and services with absolute minimum fuss."
   }
 ]
