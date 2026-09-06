@@ -1,146 +1,146 @@
 [
   {
-    "repo": "SigmaTradeLabs/aster-bot",
+    "repo": "Appllama/liquid-glass-screens",
     "branch": "main",
     "language": "TypeScript",
-    "description": "asterDEX trading bot, perp trading, asterDEX auto trading bot, asterDEX trading bot, perp trading, asterDEX auto trading bot, asterDEX trading bot, perp trading, asterDEX auto trading bot, asterDEX trading bot, perp trading, asterDEX auto trading bot, asterDEX trading bot, perp trading, asterDEX auto trading bot,"
+    "description": "Explore liquid-glass welcome screens with floating stickers and interactive swipe animations."
   },
   {
-    "repo": "requests/requests",
+    "repo": "hacktivist123/agent-session-resume",
     "branch": "main",
     "language": "Python",
-    "description": "A simple, yet elegant, HTTP library."
+    "description": "Cross-agent session resume skill for Claude Code, Codex, Antigravity, and OpenCode."
   },
   {
-    "repo": "doocs/advanced-java",
+    "repo": "kui123456789/cdk-redeem-only-extension",
     "branch": "main",
-    "language": "Java",
-    "description": "😮 Core Interview Questions & Answers For Experienced Java(Backend) Developers | 互联网 Java 工程师进阶知识完全扫盲：涵盖高并发、分布式、高可用、微服务、海量数据处理等领域知识"
+    "language": "JavaScript",
+    "description": "UPI redeem only extension"
   },
   {
-    "repo": "LeoYeAI/openclaw-backup",
+    "repo": "flaviodesa/polymarket-copy-trading-bot",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "polymarket trading bot,polymarket copy trading bot,polymarket trading bot,polymarket copy trading bot,polymarket trading bot,polymarket copy trading bot,polymarket trading bot,polymarket copy trading bot,polymarket trading bot,polymarket copy trading bot,polymarket trading bot,polymarket copy trading bot,"
+  },
+  {
+    "repo": "triangkas/DBD-AutoGrind-Trainer-2026-Pro",
+    "branch": "main",
+    "language": "Python",
+    "description": "Ultimate Dead by Daylight auto-grind trainer Pro edition with Bloodpoint bot, ESP wallhack, aimbot, and full perk/skin unlocker. Dominate the Fog with our 2026 undetected external tool."
+  },
+  {
+    "repo": "GHOST-227/Auto-2026-Desktop",
+    "branch": "main",
+    "language": "C++",
+    "description": "Resource is a professional suite for advanced 2D/3D drafting. It features optimized toolsets, AI-assisted design, and high-performance libraries. Designed for engineers and architects, it ensures precision and seamless workflow integration for modern industrial projects in 2026."
+  },
+  {
+    "repo": "viitor-ai/viitor-voice-nar",
+    "branch": "main",
+    "language": "Python",
+    "description": ""
+  },
+  {
+    "repo": "dimartarmizi/OmniCloud",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "OmniCloud is a full-stack cloud drive aggregation platform that presents multiple storage providers through a single, consistent workspace."
+  },
+  {
+    "repo": "DanOps-1/gpt-pp-team",
+    "branch": "main",
+    "language": "Python",
+    "description": "ChatGPT Team 订阅协议端到端重放工具集 · hCaptcha 视觉求解器 · 反欺诈机制实证研究 / End-to-end protocol replay toolkit for ChatGPT Team subscription with from-scratch hCaptcha solver and empirical anti-fraud research"
+  },
+  {
+    "repo": "charlie947/social-media-skills",
     "branch": "main",
     "language": "Shell",
-    "description": "One-click backup & restore for OpenClaw instances — workspace, credentials, skills, agent history. Powered by MyClaw.ai"
+    "description": ""
   },
   {
-    "repo": "junegunn/fzf",
-    "branch": "master",
-    "language": "Go",
-    "description": ":cherry_blossom: A command-line fuzzy finder"
-  },
-  {
-    "repo": "ossu/computer-science",
-    "branch": "master",
-    "language": "HTML",
-    "description": "🎓 Path to a free self-taught education in Computer Science!"
-  },
-  {
-    "repo": "arduino/Arduino",
-    "branch": "master",
-    "language": "Java",
-    "description": "Arduino IDE 1.x"
-  },
-  {
-    "repo": "jnsahaj/gazectl",
+    "repo": "jasonkneen/openclicky",
     "branch": "main",
     "language": "Swift",
-    "description": "Head tracking display focus switcher for macOS"
+    "description": "openclicky -- the open source version of clicky"
   },
   {
-    "repo": "Veirt/weathr",
+    "repo": "kiwifs/kiwifs",
     "branch": "main",
-    "language": "Rust",
-    "description": "a terminal weather app with ascii animation"
+    "language": "Go",
+    "description": "The knowledge server — PocketBase for knowledge. One Go binary, zero config."
   },
   {
-    "repo": "GreenSheep01201/claw-empire",
+    "repo": "sweriko/ai4anim-webgpu",
     "branch": "main",
     "language": "TypeScript",
-    "description": "Command Your AI Agent Empire from the CEO Desk — A local-first AI agent office simulator that orchestrates CLI, OAuth, and API-connected agents (Claude Code, Codex CLI, Gemini CLI, OpenCode, and more) as a virtual autonomous company."
-  },
-  {
-    "repo": "KKKKhazix/Khazix-Skills",
-    "branch": "main",
-    "language": "Python",
     "description": ""
   },
   {
-    "repo": "vigorX777/ai-daily-digest",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "从 Andrej Karpathy 推荐的 90 顶级技术博客中抓取最新文章，AI 多维评分筛选，生成一份每日精选日报。更多可见公众号：懂点儿AI"
+    "repo": "itsinseong/value-for-fable",
+    "branch": "master",
+    "language": "Python",
+    "description": "Opus에 근접한 품질을 Sonnet 단가에 — 가성비 AI 운영 모델을 직접 구축한 Claude Code 프로젝트"
   },
   {
-    "repo": "sb-ocr/cmdeck",
+    "repo": "gykim80/perfectpixel-studio",
+    "branch": "main",
+    "language": "Go",
+    "description": "AI-powered animation sprite studio — generate character sprite sheets with 8 directions and 100+ actions from a single text prompt (Wails + Go + React)"
+  },
+  {
+    "repo": "triangkas/DBD-AutoGrind-Trainer-2026",
+    "branch": "main",
+    "language": "Python",
+    "description": "Ultimate Dead by Daylight auto-grind trainer with Bloodpoint bot, ESP wallhack, aimbot, and full perk/skin unlocker. Dominate the Fog with our 2026 undetected external tool."
+  },
+  {
+    "repo": "stainlu/hermes-labyrinth",
     "branch": "main",
     "language": "HTML",
     "description": ""
   },
   {
-    "repo": "ReactiveX/RxKotlin",
-    "branch": "3.x",
-    "language": "Kotlin",
-    "description": "RxJava bindings for Kotlin"
-  },
-  {
-    "repo": "pretyflaco/meetscribe",
-    "branch": "main",
-    "language": "Python",
-    "description": "Fully local meeting transcription with speaker diarization, AI summaries, and PDF output"
-  },
-  {
-    "repo": "animate-css/animate.css",
-    "branch": "main",
-    "language": "CSS",
-    "description": "🍿 A cross-browser library of CSS animations. As easy to use as an easy thing."
-  },
-  {
-    "repo": "ok-oldking/ok-end-field",
-    "branch": "master",
-    "language": "Python",
-    "description": "终末地 End Field Automation 基于ok-script开发的自动化"
-  },
-  {
-    "repo": "ComposioHQ/secure-openclaw",
-    "branch": "master",
-    "language": "JavaScript",
-    "description": "A personal 24x7 AI assistant like OpenClaw that runs on your messaging platforms. Send a message on WhatsApp, Telegram, Signal, or iMessage and get responses from Claude with full tool access, persistent memory, scheduled reminders, and integrations with 500+ apps."
-  },
-  {
-    "repo": "foru17/clash-master",
+    "repo": "AlgoInfraTech/Hyperliquid-copy-trading-bot",
     "branch": "main",
     "language": "TypeScript",
-    "description": "A modern and elegant dashboard for visualizing and managing Clash network traffic."
+    "description": "hyperliquid copy trading bot, hyperliquid trading bot, hyperliquid trading bot, hyperliquid trading bot, hyperliquid trading bot, hyperliquid trading bot, hyperliquid trading bot, hyperliquid trading bot, hyperliquid trading bot, hyperliquid trading bot, hyperliquid trading bot, hyperliquid trading bot, hyperliquid trading bot, hyperliquid trading"
   },
   {
-    "repo": "joeseesun/qiaomu-mondo-poster-design",
-    "branch": "master",
-    "language": "Python",
-    "description": "一句话生成大师级海报、书籍封面、专辑封面和各类设计作品。无需懂PS、配色或艺术史，AI自动选择最佳风格（基于20位传奇海报设计师）。支持电影海报、读书笔记、公众号封面、小红书配图等。默认9:16竖版，完美适配社交媒体。包含AI提示词优化、风格对比、图生图转换功能。触发词：Mondo风格、书籍封"
-  },
-  {
-    "repo": "PaddlePaddle/PaddleDetection",
-    "branch": "develop",
-    "language": "Python",
-    "description": "Object Detection toolkit based on PaddlePaddle. It supports object detection, instance segmentation, multiple object tracking and real-time multi-person keypoint detection."
-  },
-  {
-    "repo": "igamez-gamble/sportsbook-sports-betting-crypto",
+    "repo": "lukeed/comptime",
     "branch": "main",
     "language": "TypeScript",
-    "description": "sportsbook sports betting, crypto sportsbook, crypto sports betting, top ranked sportsbook project, world cup, nba, soccor, cricket, esports, crypto sports betting platform, crypto sportsbook project, sportsbook platform, sports betting platform, crypto project, crypto betting"
+    "description": "A Zig-inspired build-time evaluation primitive, exposed as Vite and Rolldown plugins"
   },
   {
-    "repo": "Doriandarko/webmcp-starter",
+    "repo": "vercel-labs/zero-native",
     "branch": "main",
-    "language": "HTML",
-    "description": "WebMCP starter demo — a DoorDash-style food delivery app with 9 AI agent tools (imperative + declarative)"
+    "language": "Zig",
+    "description": "Build native desktop + mobile apps with web UI and Zig"
   },
   {
-    "repo": "rome/tools",
+    "repo": "loc567/loc567",
     "branch": "main",
-    "language": "Rust",
-    "description": "Unified developer tools for JavaScript, TypeScript, and the web"
+    "language": "C",
+    "description": "loc567 是一款完全开源免费的纯网页端iOS模拟定位工具。在线体验地址：https://loc567.com"
+  },
+  {
+    "repo": "crafter-station/petdex",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Public gallery of animated Codex pets"
+  },
+  {
+    "repo": "origamidottech/hyperliquid-trading-bot",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Hyperliquid/Perps copy trading bot copy trading bot, Hip-3 trading bot, perp trading bot, hyperliquid trading bot, Hyperliquid/Perps copy trading bot copy trading bot, Hip-4 trading bot, perp trading bot, hyperliquid trading bot, Hyperliquid/Perps copy trading bot copy trading bot, Hip-3/4 trading bot, perp trading bot, hyperliquid trading bot"
+  },
+  {
+    "repo": "Sac-tharan/The_Elder_Scrolls_Online_Auto-Farm",
+    "branch": "main",
+    "language": "Python",
+    "description": "Auto-farm, gathering, and quest bot for ESO. Farm gold, materials, and complete daily quests automatically. Perfect for grinding."
   }
 ]

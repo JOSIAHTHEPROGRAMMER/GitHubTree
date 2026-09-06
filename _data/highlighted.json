@@ -1,8 +1,8 @@
 {
-  "repo": "edoardolunardi/kugiri",
+  "repo": "fitchmultz/pi-posthorse",
   "branch": "main",
   "language": "TypeScript",
-  "description": "Splits text into lines, words and characters exactly where the browser already broke it.",
-  "stars": 127,
-  "forks": 1
+  "description": "Posthorse: fresh context, same journey. Native no-summary context windows for the fitchmultz/pi fork of the Pi coding agent, with rollover tools, durable notes, and history recovery.",
+  "stars": 213,
+  "forks": 4
 }
