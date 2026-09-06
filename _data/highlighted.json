@@ -1,8 +1,8 @@
 {
-  "repo": "fitchmultz/pi-posthorse",
+  "repo": "MiaAI-Lab/Qwen3.8-Flash-Next-Single-DGX-Spark",
   "branch": "main",
-  "language": "TypeScript",
-  "description": "Posthorse: fresh context, same journey. Native no-summary context windows for the fitchmultz/pi fork of the Pi coding agent, with rollover tools, durable notes, and history recovery.",
-  "stars": 213,
-  "forks": 4
+  "language": "Python",
+  "description": "Qwen3.8-Flash-Next on ONE DGX Spark (TP=1)",
+  "stars": 211,
+  "forks": 21
 }

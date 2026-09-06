@@ -1,146 +1,146 @@
 [
   {
-    "repo": "Appllama/liquid-glass-screens",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Explore liquid-glass welcome screens with floating stickers and interactive swipe animations."
-  },
-  {
-    "repo": "hacktivist123/agent-session-resume",
-    "branch": "main",
-    "language": "Python",
-    "description": "Cross-agent session resume skill for Claude Code, Codex, Antigravity, and OpenCode."
-  },
-  {
-    "repo": "kui123456789/cdk-redeem-only-extension",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "UPI redeem only extension"
-  },
-  {
-    "repo": "flaviodesa/polymarket-copy-trading-bot",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "polymarket trading bot,polymarket copy trading bot,polymarket trading bot,polymarket copy trading bot,polymarket trading bot,polymarket copy trading bot,polymarket trading bot,polymarket copy trading bot,polymarket trading bot,polymarket copy trading bot,polymarket trading bot,polymarket copy trading bot,"
-  },
-  {
-    "repo": "triangkas/DBD-AutoGrind-Trainer-2026-Pro",
-    "branch": "main",
-    "language": "Python",
-    "description": "Ultimate Dead by Daylight auto-grind trainer Pro edition with Bloodpoint bot, ESP wallhack, aimbot, and full perk/skin unlocker. Dominate the Fog with our 2026 undetected external tool."
-  },
-  {
-    "repo": "GHOST-227/Auto-2026-Desktop",
+    "repo": "tsouth89/omakade",
     "branch": "main",
     "language": "C++",
-    "description": "Resource is a professional suite for advanced 2D/3D drafting. It features optimized toolsets, AI-assisted design, and high-performance libraries. Designed for engineers and architects, it ensures precision and seamless workflow integration for modern industrial projects in 2026."
+    "description": "A beautiful, local-first game library built for Omarchy."
   },
   {
-    "repo": "viitor-ai/viitor-voice-nar",
-    "branch": "main",
-    "language": "Python",
-    "description": ""
-  },
-  {
-    "repo": "dimartarmizi/OmniCloud",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "OmniCloud is a full-stack cloud drive aggregation platform that presents multiple storage providers through a single, consistent workspace."
-  },
-  {
-    "repo": "DanOps-1/gpt-pp-team",
-    "branch": "main",
-    "language": "Python",
-    "description": "ChatGPT Team 订阅协议端到端重放工具集 · hCaptcha 视觉求解器 · 反欺诈机制实证研究 / End-to-end protocol replay toolkit for ChatGPT Team subscription with from-scratch hCaptcha solver and empirical anti-fraud research"
-  },
-  {
-    "repo": "charlie947/social-media-skills",
-    "branch": "main",
-    "language": "Shell",
-    "description": ""
-  },
-  {
-    "repo": "jasonkneen/openclicky",
-    "branch": "main",
-    "language": "Swift",
-    "description": "openclicky -- the open source version of clicky"
-  },
-  {
-    "repo": "kiwifs/kiwifs",
-    "branch": "main",
-    "language": "Go",
-    "description": "The knowledge server — PocketBase for knowledge. One Go binary, zero config."
-  },
-  {
-    "repo": "sweriko/ai4anim-webgpu",
+    "repo": "lukilabs/beautiful-mermaid",
     "branch": "main",
     "language": "TypeScript",
     "description": ""
   },
   {
-    "repo": "itsinseong/value-for-fable",
+    "repo": "andrewjiang/palantir-for-family-trips",
+    "branch": "master",
+    "language": "JavaScript",
+    "description": "A Palantir-ish dashboard for family trip planning."
+  },
+  {
+    "repo": "uralbash/awesome-pyramid",
+    "branch": "master",
+    "language": "Other",
+    "description": "A curated list of awesome Pyramid apps, projects and resources."
+  },
+  {
+    "repo": "microsoft/generative-ai-for-beginners",
+    "branch": "main",
+    "language": "Jupyter Notebook",
+    "description": "21 Lessons, Get Started Building with Generative AI"
+  },
+  {
+    "repo": "PyGithub/PyGithub",
     "branch": "master",
     "language": "Python",
-    "description": "Opus에 근접한 품질을 Sonnet 단가에 — 가성비 AI 운영 모델을 직접 구축한 Claude Code 프로젝트"
+    "description": "Typed interactions with the GitHub API v3"
   },
   {
-    "repo": "gykim80/perfectpixel-studio",
+    "repo": "cloudflare/quiche",
+    "branch": "master",
+    "language": "Rust",
+    "description": "🥧 Savoury implementation of the QUIC transport protocol and HTTP/3"
+  },
+  {
+    "repo": "nushell/nushell",
     "branch": "main",
-    "language": "Go",
-    "description": "AI-powered animation sprite studio — generate character sprite sheets with 8 directions and 100+ actions from a single text prompt (Wails + Go + React)"
+    "language": "Rust",
+    "description": "A new type of shell"
   },
   {
-    "repo": "triangkas/DBD-AutoGrind-Trainer-2026",
+    "repo": "AnkitNayak-eth/EpsteinFiles-RAG",
     "branch": "main",
     "language": "Python",
-    "description": "Ultimate Dead by Daylight auto-grind trainer with Bloodpoint bot, ESP wallhack, aimbot, and full perk/skin unlocker. Dominate the Fog with our 2026 undetected external tool."
+    "description": "A RAG pipeline implementation built on the 'Epstein Files 20K' dataset from Hugging Face (Teyler)."
   },
   {
-    "repo": "stainlu/hermes-labyrinth",
+    "repo": "abhinavkale-dev/fynt",
+    "branch": "master",
+    "language": "TypeScript",
+    "description": "Self-hostable workflow automation platform"
+  },
+  {
+    "repo": "terausss/15min-btc-polymarket-trading-bot",
     "branch": "main",
-    "language": "HTML",
+    "language": "Python",
+    "description": "15min btc polymarket arbitrage bot-polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot"
+  },
+  {
+    "repo": "vuejs/awesome-vue",
+    "branch": "master",
+    "language": "Other",
+    "description": "🎉 A curated list of awesome things related to Vue.js"
+  },
+  {
+    "repo": "ysharma3501/LavaSR",
+    "branch": "main",
+    "language": "Python",
+    "description": "🌋LavaSR: Fast Speech restoration and enhancement"
+  },
+  {
+    "repo": "paragonie/awesome-appsec",
+    "branch": "master",
+    "language": "PHP",
+    "description": "A curated list of resources for learning about application security"
+  },
+  {
+    "repo": "liuxiaopai-ai/raphael-publish",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Raphael Publish - 公众号排版大师 | 现代 Markdown 排版引擎"
+  },
+  {
+    "repo": "less/less.js",
+    "branch": "master",
+    "language": "JavaScript",
+    "description": "Less. The dynamic stylesheet language."
+  },
+  {
+    "repo": "charonviz/text2geo",
+    "branch": "main",
+    "language": "Python",
     "description": ""
   },
   {
-    "repo": "AlgoInfraTech/Hyperliquid-copy-trading-bot",
+    "repo": "EA1FUO/AntennaSim",
     "branch": "main",
     "language": "TypeScript",
-    "description": "hyperliquid copy trading bot, hyperliquid trading bot, hyperliquid trading bot, hyperliquid trading bot, hyperliquid trading bot, hyperliquid trading bot, hyperliquid trading bot, hyperliquid trading bot, hyperliquid trading bot, hyperliquid trading bot, hyperliquid trading bot, hyperliquid trading bot, hyperliquid trading bot, hyperliquid trading"
+    "description": "Web-based antenna simulator powered by NEC2. Design, simulate, and analyze antennas with real-time 3D visualization, radiation patterns, SWR, and impedance charts."
   },
   {
-    "repo": "lukeed/comptime",
+    "repo": "javaevolved/javaevolved.github.io",
     "branch": "main",
-    "language": "TypeScript",
-    "description": "A Zig-inspired build-time evaluation primitive, exposed as Vite and Rolldown plugins"
+    "language": "HTML",
+    "description": "Java Evolved. Your Code Can Evolve Too!"
   },
   {
-    "repo": "vercel-labs/zero-native",
+    "repo": "penso/arbor",
     "branch": "main",
-    "language": "Zig",
-    "description": "Build native desktop + mobile apps with web UI and Zig"
+    "language": "Rust",
+    "description": "Desktop Git worktree manager in Rust (arbor-core + GPUI app)."
   },
   {
-    "repo": "loc567/loc567",
-    "branch": "main",
-    "language": "C",
-    "description": "loc567 是一款完全开源免费的纯网页端iOS模拟定位工具。在线体验地址：https://loc567.com"
+    "repo": "kdn251/interviews",
+    "branch": "master",
+    "language": "Java",
+    "description": "Everything you need to know to get the job."
   },
   {
-    "repo": "crafter-station/petdex",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Public gallery of animated Codex pets"
+    "repo": "juliangarnier/anime",
+    "branch": "master",
+    "language": "JavaScript",
+    "description": "JavaScript animation engine"
   },
   {
-    "repo": "origamidottech/hyperliquid-trading-bot",
+    "repo": "requestsession/IndexGPT",
     "branch": "main",
-    "language": "TypeScript",
-    "description": "Hyperliquid/Perps copy trading bot copy trading bot, Hip-3 trading bot, perp trading bot, hyperliquid trading bot, Hyperliquid/Perps copy trading bot copy trading bot, Hip-4 trading bot, perp trading bot, hyperliquid trading bot, Hyperliquid/Perps copy trading bot copy trading bot, Hip-3/4 trading bot, perp trading bot, hyperliquid trading bot"
+    "language": "JavaScript",
+    "description": "IndexGPT: 本地科研助手（RAG + SFT + LoRA）| Local research assistant for PDF parsing, retrieval QA, SFT data generation, and LoRA training."
   },
   {
-    "repo": "Sac-tharan/The_Elder_Scrolls_Online_Auto-Farm",
-    "branch": "main",
+    "repo": "openmax-server/server",
+    "branch": "master",
     "language": "Python",
-    "description": "Auto-farm, gathering, and quest bot for ESO. Farm gold, materials, and complete daily quests automatically. Perfect for grinding."
+    "description": "Открытый сервер для MAX"
   }
 ]
