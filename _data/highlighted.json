@@ -1,8 +1,8 @@
 {
-  "repo": "34306/vphone-web",
+  "repo": "edoardolunardi/kugiri",
   "branch": "main",
-  "language": "HTML",
-  "description": "vphone-cli but you can use your mac as a host and control it over the web",
-  "stars": 178,
-  "forks": 18
+  "language": "TypeScript",
+  "description": "Splits text into lines, words and characters exactly where the browser already broke it.",
+  "stars": 127,
+  "forks": 1
 }
