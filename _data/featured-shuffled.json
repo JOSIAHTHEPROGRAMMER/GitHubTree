@@ -1,146 +1,146 @@
 [
   {
-    "repo": "tsouth89/omakade",
+    "repo": "darkrishabh/agent-skills-eval",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "A test runner for agentskills.io-style AI agent skills"
+  },
+  {
+    "repo": "shadcn-ui/cn",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "cn is a new engine for Tailwind class merging and conflict resolution. It replaces tailwind-merge and clsx. Same APIs. Full parity. And it is 30× faster."
+  },
+  {
+    "repo": "manojmidhul92-art/Umbrella-HWID",
     "branch": "main",
     "language": "C++",
-    "description": "A beautiful, local-first game library built for Omarchy."
+    "description": "Advanced HWID changer. Bypass Vanguard, EAC, BattlEye, Ricochet. Features: Disk serials spoofing, BIOS/Baseboard UUID change, MAC address randomize, Monitor ID masking. Registry cleaner, trace remover, permanent/temporary mode. Kernel-level protection, one-click spoofer, anti-cheat bypass."
   },
   {
-    "repo": "lukilabs/beautiful-mermaid",
+    "repo": "QingJ01/DeepSeekCode",
     "branch": "main",
     "language": "TypeScript",
+    "description": "基于 Claude Code 代码库改造的本地 CLI 编程代理"
+  },
+  {
+    "repo": "zevorn/rt-claw",
+    "branch": "main",
+    "language": "C",
+    "description": "Making AI Assistants Cheap Again!"
+  },
+  {
+    "repo": "ogbeatzofficial1-lab/Brookhaven_RP_-_Auto_Farm___Money_Hack",
+    "branch": "main",
+    "language": "Python",
+    "description": "Ultimate trainer for Brookhaven RP, the most visited Roblox game with over 83 billion visits[reference:6][reference:7]. Automate money farming, unlock all houses and vehicles, and get unlimited in-game currency. Dominate the social roleplay experience."
+  },
+  {
+    "repo": "diinki/linux-antiquity",
+    "branch": "main",
+    "language": "QML",
+    "description": "A highly tasteful Linux-theme, reminiscent of art-nouveau and old drawings related to astronomy, science, and mythology."
+  },
+  {
+    "repo": "TQ-trade-agent/tq-trading-agent",
+    "branch": "main",
+    "language": "Vue",
+    "description": "🌮 Traidng agent, AI-powered multi-agent stock research & trading strategy orchestration, trading agent - TypeScript, LangGraph, OpenAI-compatible APIs"
+  },
+  {
+    "repo": "Viedie/BongoCat-Windows",
+    "branch": "main",
+    "language": "C++",
+    "description": "Free Bongo Cat download desktop app musical instruments piano drums keyboard guitar trumpet mouse tracking keyboard strokes OBS overlay streaming widget custom skins meme animation pixel art rhythm visualizer soundboard."
+  },
+  {
+    "repo": "elder-plinius/G0DM0D3",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "LIBERATED AI CHAT"
+  },
+  {
+    "repo": "smithersai/claude-p",
+    "branch": "main",
+    "language": "Zig",
+    "description": "Drop-in replacement for `claude -p` that drives the interactive Claude Code TUI inside an in-process zmux PTY session."
+  },
+  {
+    "repo": "meodai/heerich",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "Tiny engine for 3D voxel scenes rendered to SVG — boolean ops, oblique/perspective cameras, zero dependencies. Inspired by the geometric cardboard sculptures of Erwin Heerich."
+  },
+  {
+    "repo": "Th0rgal/open_oura",
+    "branch": "main",
+    "language": "Rust",
+    "description": "Reverse-engineering notes and tooling for Oura Ring 3, 4, 5 BLE protocol"
+  },
+  {
+    "repo": "zhristophe/Claude-Mythos-AI-Anthropic-App",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "claude mythos ai anthropic app github open source desktop mobile client abhishekk130804 anthropic api key creative writing roleplay character cards deep reasoning chain of thought system prompts jailbreak windows macos linux android apk next js electron tauri python rust download setup guide tutorial latest version 2026 free update"
+  },
+  {
+    "repo": "appwrite/appwrite",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Appwrite® - complete cloud infrastructure for your web, mobile and AI apps. Including Auth, Databases, Storage, Functions, Messaging, Hosting, Realtime and more"
+  },
+  {
+    "repo": "zhouyoukang1234-spec/windsurf-assistant",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "A fully decentralized Windsurf assistant &mdash; **一气化三清 · 道并行而不悖** · 印 65 三清立 · 印 101 大道至简 · **印 ∞ 道法自然推进到底·★ 对照 tab 默见·左 A/B 双路·中 WAM 无感** · 反者道之动 · 为道日损."
+  },
+  {
+    "repo": "alacritty/alacritty",
+    "branch": "master",
+    "language": "Rust",
+    "description": "A cross-platform, OpenGL terminal emulator."
+  },
+  {
+    "repo": "yusukebe/ax",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "The AI-era curl"
+  },
+  {
+    "repo": "firecrawl/anydoc",
+    "branch": "main",
+    "language": "Rust",
+    "description": "Convert Word, PowerPoint, Excel, OpenDocument, RTF, EPUB, CSV, and PDF to clean Markdown. Built in Rust, with Node.js and Python bindings."
+  },
+  {
+    "repo": "rebornix/Agmente",
+    "branch": "main",
+    "language": "Swift",
     "description": ""
   },
   {
-    "repo": "andrewjiang/palantir-for-family-trips",
+    "repo": "falcosecurity/falco",
     "branch": "master",
-    "language": "JavaScript",
-    "description": "A Palantir-ish dashboard for family trip planning."
+    "language": "C++",
+    "description": "Cloud Native Runtime Security"
   },
   {
-    "repo": "uralbash/awesome-pyramid",
-    "branch": "master",
-    "language": "Other",
-    "description": "A curated list of awesome Pyramid apps, projects and resources."
-  },
-  {
-    "repo": "microsoft/generative-ai-for-beginners",
+    "repo": "VictorTaelin/OptMem",
     "branch": "main",
-    "language": "Jupyter Notebook",
-    "description": "21 Lessons, Get Started Building with Generative AI"
-  },
-  {
-    "repo": "PyGithub/PyGithub",
-    "branch": "master",
     "language": "Python",
-    "description": "Typed interactions with the GitHub API v3"
+    "description": "Permanent memory for AI agents. A 426-token prompt, a script, plug and play."
   },
   {
-    "repo": "cloudflare/quiche",
-    "branch": "master",
-    "language": "Rust",
-    "description": "🥧 Savoury implementation of the QUIC transport protocol and HTTP/3"
-  },
-  {
-    "repo": "nushell/nushell",
+    "repo": "denoland/ronly",
     "branch": "main",
     "language": "Rust",
-    "description": "A new type of shell"
-  },
-  {
-    "repo": "AnkitNayak-eth/EpsteinFiles-RAG",
-    "branch": "main",
-    "language": "Python",
-    "description": "A RAG pipeline implementation built on the 'Epstein Files 20K' dataset from Hugging Face (Teyler)."
-  },
-  {
-    "repo": "abhinavkale-dev/fynt",
-    "branch": "master",
-    "language": "TypeScript",
-    "description": "Self-hostable workflow automation platform"
-  },
-  {
-    "repo": "terausss/15min-btc-polymarket-trading-bot",
-    "branch": "main",
-    "language": "Python",
-    "description": "15min btc polymarket arbitrage bot-polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot"
-  },
-  {
-    "repo": "vuejs/awesome-vue",
-    "branch": "master",
-    "language": "Other",
-    "description": "🎉 A curated list of awesome things related to Vue.js"
-  },
-  {
-    "repo": "ysharma3501/LavaSR",
-    "branch": "main",
-    "language": "Python",
-    "description": "🌋LavaSR: Fast Speech restoration and enhancement"
-  },
-  {
-    "repo": "paragonie/awesome-appsec",
-    "branch": "master",
-    "language": "PHP",
-    "description": "A curated list of resources for learning about application security"
-  },
-  {
-    "repo": "liuxiaopai-ai/raphael-publish",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Raphael Publish - 公众号排版大师 | 现代 Markdown 排版引擎"
-  },
-  {
-    "repo": "less/less.js",
-    "branch": "master",
-    "language": "JavaScript",
-    "description": "Less. The dynamic stylesheet language."
-  },
-  {
-    "repo": "charonviz/text2geo",
-    "branch": "main",
-    "language": "Python",
     "description": ""
   },
   {
-    "repo": "EA1FUO/AntennaSim",
+    "repo": "ZHChen2000/qzone-history",
     "branch": "main",
-    "language": "TypeScript",
-    "description": "Web-based antenna simulator powered by NEC2. Design, simulate, and analyze antennas with real-time 3D visualization, radiation patterns, SWR, and impedance charts."
-  },
-  {
-    "repo": "javaevolved/javaevolved.github.io",
-    "branch": "main",
-    "language": "HTML",
-    "description": "Java Evolved. Your Code Can Evolve Too!"
-  },
-  {
-    "repo": "penso/arbor",
-    "branch": "main",
-    "language": "Rust",
-    "description": "Desktop Git worktree manager in Rust (arbor-core + GPUI app)."
-  },
-  {
-    "repo": "kdn251/interviews",
-    "branch": "master",
-    "language": "Java",
-    "description": "Everything you need to know to get the job."
-  },
-  {
-    "repo": "juliangarnier/anime",
-    "branch": "master",
-    "language": "JavaScript",
-    "description": "JavaScript animation engine"
-  },
-  {
-    "repo": "requestsession/IndexGPT",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "IndexGPT: 本地科研助手（RAG + SFT + LoRA）| Local research assistant for PDF parsing, retrieval QA, SFT data generation, and LoRA training."
-  },
-  {
-    "repo": "openmax-server/server",
-    "branch": "master",
-    "language": "Python",
-    "description": "Открытый сервер для MAX"
+    "language": "Go",
+    "description": "QQ空间历史数据恢复工具：Qzone-History"
   }
 ]
