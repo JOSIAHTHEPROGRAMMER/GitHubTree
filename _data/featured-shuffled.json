@@ -1,146 +1,146 @@
 [
   {
-    "repo": "vercel-labs/scriptc",
+    "repo": "bleuropa/loomkin",
     "branch": "main",
-    "language": "TypeScript",
-    "description": "TypeScript-to-Native Compiler"
+    "language": "Elixir",
+    "description": "An Elixir-native AI coding assistant with persistent decision graphs, repo intelligence, and a Phoenix LiveView UI"
   },
   {
-    "repo": "cortexproject/cortex",
+    "repo": "kicad/kicad",
     "branch": "master",
-    "language": "Go",
-    "description": "A horizontally scalable, highly available, multi-tenant, long term Prometheus."
+    "language": "C++",
+    "description": "This is an active mirror of the KiCad development branch, which is hosted at GitLab (updated every time something is pushed). Pull requests on GitHub are not accepted or watched."
   },
   {
-    "repo": "gluon-framework/gluon",
+    "repo": "Honey911143/Bulk-Image-Gatherer-Android",
     "branch": "main",
-    "language": "JavaScript",
-    "description": "A new framework for creating desktop apps from websites, using system installed browsers and NodeJS"
+    "language": "HTML",
+    "description": "2026 Best Twitter X Bulk Media Saver Tool For Android"
   },
   {
-    "repo": "FlowiseAI/Flowise",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Build AI Agents, Visually"
-  },
-  {
-    "repo": "EthanLipnik/Loom",
-    "branch": "main",
-    "language": "Swift",
-    "description": "Easy peer to peer networking for Apple devices"
-  },
-  {
-    "repo": "pallets/werkzeug",
+    "repo": "kppox/video-frame-sampler",
     "branch": "main",
     "language": "Python",
-    "description": "The comprehensive WSGI web application library."
+    "description": "Content-aware frame sampling strategies for video-LLMs."
   },
   {
-    "repo": "nats-io/nats.go",
+    "repo": "kernelstub/Ferrum",
     "branch": "main",
     "language": "Go",
-    "description": "Golang client for NATS, the cloud native messaging system."
+    "description": "Windows security research toolkit for LPE, persistence, COM hijacking, and attack surface enumeration."
   },
   {
-    "repo": "khalildh/garment-notation",
+    "repo": "kunchenguid/lavish-axi",
     "branch": "main",
     "language": "JavaScript",
+    "description": "HTML is the new markdown. Lavish is the new editor for your HTML artifacts."
+  },
+  {
+    "repo": "davidondrej/jailbreak-autoresearch",
+    "branch": "main",
+    "language": "Python",
+    "description": "We shall set the models free."
+  },
+  {
+    "repo": "manojmidhul92-art/Umbrella-HWID",
+    "branch": "main",
+    "language": "C++",
+    "description": "Advanced HWID changer. Bypass Vanguard, EAC, BattlEye, Ricochet. Features: Disk serials spoofing, BIOS/Baseboard UUID change, MAC address randomize, Monitor ID masking. Registry cleaner, trace remover, permanent/temporary mode. Kernel-level protection, one-click spoofer, anti-cheat bypass."
+  },
+  {
+    "repo": "sunyouzhi2003/LSFG-Desktop",
+    "branch": "main",
+    "language": "C++",
+    "description": "Lossless Scaling 2026: Universal Frame Generation LSFG 3. Multi-frame gen: X2, X3, X4 multiplier for extreme FPS. AI Upscaling: LS1, FSR 3.1, NIS. Smooth gaming on Steam Deck, handhelds, and Android (LSFG-VK). Fix stuttering, low latency mode, VRR support, 4K spatial scaling, G-Sync compatible."
+  },
+  {
+    "repo": "ynsmroztas/cPanelSniper",
+    "branch": "main",
+    "language": "Python",
+    "description": "CVE-2026-41940 — cPanel & WHM Authentication Bypass via Session-File CRLF Injection"
+  },
+  {
+    "repo": "denuitt1/mhr-cfw",
+    "branch": "main",
+    "language": "Python",
     "description": ""
   },
   {
-    "repo": "immanuwell/dockerfile-roast",
+    "repo": "anthropics/cwc-workshops",
     "branch": "main",
-    "language": "Rust",
-    "description": "a dockerfile linter that actually has opinions 🔥"
-  },
-  {
-    "repo": "google-research/vision_transformer",
-    "branch": "main",
-    "language": "Jupyter Notebook",
-    "description": "Vision Transformer in JAX."
-  },
-  {
-    "repo": "iltekin/remove-local-temu",
-    "branch": "main",
-    "language": "JavaScript",
+    "language": "TypeScript",
     "description": ""
   },
   {
-    "repo": "swc-project/swc",
-    "branch": "main",
-    "language": "Rust",
-    "description": "Rust-based platform for the Web"
-  },
-  {
-    "repo": "actix/actix-web",
+    "repo": "intave/intave",
     "branch": "master",
-    "language": "Rust",
-    "description": "Actix Web is a powerful, pragmatic, and extremely fast web framework for Rust."
+    "language": "Java",
+    "description": "Intave is an enterprise, high-performance anticheat for Minecraft built on years of experience protecting the world's largest servers"
   },
   {
-    "repo": "harrymunro/nelson",
+    "repo": "DoomVoss/BASpark",
     "branch": "main",
-    "language": "Shell",
-    "description": "A Claude Code skill for coordinating agent work based on a Royal Navy themed framework. It provides structured sailing orders, battle plans, action stations, and a captain's log to manage complex tasks; from single-session work through to parallel subagent squadrons."
+    "language": "C#",
+    "description": "基于 HTML5/Canvas 深度复刻《蔚蓝档案》UI 风格动效的 Windows 鼠标特效工具 || A Windows mouse effect tool reconstructing Blue Archive UI style using HTML5/Canvas"
   },
   {
-    "repo": "vxcozy/flappyboards",
+    "repo": "xiaotianfotos/homerail",
     "branch": "main",
     "language": "TypeScript",
-    "description": "Turn any TV into a retro split-flap display. Free & open source."
+    "description": "Voice-first local agent orchestration runtime for auditable DAG workflows."
   },
   {
-    "repo": "trekhleb/javascript-algorithms",
+    "repo": "massgravel/Microsoft-Activation-Scripts",
     "branch": "master",
-    "language": "JavaScript",
-    "description": "📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings"
+    "language": "Batchfile",
+    "description": "Open-source Windows and Office activator featuring HWID, Ohook, TSforge, and Online KMS activation methods, along with advanced troubleshooting."
   },
   {
-    "repo": "mgks/GitHubTree",
+    "repo": "Asilcanasil/Hent-AI-Synthesis-Engine",
     "branch": "main",
-    "language": "JavaScript",
-    "description": "Visualise any GitHub repository folder structure. Available as a web app, CLI tool, and node.js library."
+    "language": "HTML",
+    "description": "2026 Ultimate Creative AI Image Generation Toolkit for Artists"
   },
   {
-    "repo": "OpenRaiser/NanoResearch",
+    "repo": "GammaLabTechnologies/harmonist",
     "branch": "main",
     "language": "Python",
-    "description": "🦞+🔬: NanoResearch: The Autonomous AI Research Assistant"
+    "description": "Portable AI agent orchestration with mechanical protocol enforcement. 186 agents, zero runtime dependencies."
   },
   {
-    "repo": "openssl/openssl",
+    "repo": "espressif/arduino-esp32",
+    "branch": "master",
+    "language": "C++",
+    "description": "Arduino core for the ESP32"
+  },
+  {
+    "repo": "dateutil/dateutil",
+    "branch": "master",
+    "language": "Python",
+    "description": "Useful extensions to the standard Python datetime features"
+  },
+  {
+    "repo": "brunch/brunch",
+    "branch": "master",
+    "language": "JavaScript",
+    "description": "🍴 Web applications made easy. Since 2011."
+  },
+  {
+    "repo": "devdriveLLM/polymarket-copy-trading-bot",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "polymarket copy trading bot v2 polymarket copy trading bot v2 polymarket copy trading bot v2 polymarket copy trading bot v2 polymarket copy trading bot v2 polymarket copy trading bot v2 polymarket copy trading bot v2 polymarket copy trading bot v2 polymarket copy trading bot v2"
+  },
+  {
+    "repo": "renatoworks/3dsvg",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "The easiest way to turn SVGs into interactive React 3D components"
+  },
+  {
+    "repo": "espressif/esp-idf",
     "branch": "master",
     "language": "C",
-    "description": "TLS/SSL and crypto library"
-  },
-  {
-    "repo": "celery/kombu",
-    "branch": "main",
-    "language": "Python",
-    "description": "Messaging library for Python."
-  },
-  {
-    "repo": "callstackincubator/agent-device",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "CLI to control iOS and Android devices for AI agents"
-  },
-  {
-    "repo": "PoIyClaw/Polymarket-Arbitrage-Trading-Bot",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": ""
-  },
-  {
-    "repo": "stellarlinkco/myclaw",
-    "branch": "main",
-    "language": "Go",
-    "description": ""
-  },
-  {
-    "repo": "kyutai-labs/hibiki-zero",
-    "branch": "main",
-    "language": "Python",
-    "description": "A real-time and multilingual speech translation model"
+    "description": "Espressif IoT Development Framework. Official development framework for Espressif SoCs."
   }
 ]

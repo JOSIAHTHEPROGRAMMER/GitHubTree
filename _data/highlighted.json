@@ -1,8 +1,8 @@
 {
-  "repo": "hsandhu/mobilecode",
-  "branch": "dev",
+  "repo": "Mantitup-Org/vista",
+  "branch": "main",
   "language": "TypeScript",
-  "description": "mobilecode is a fork of opencode that builds and previews iOS and Android projects",
-  "stars": 128,
-  "forks": 14
+  "description": "A featured project on GitHubTree.",
+  "stars": 353,
+  "forks": 9
 }
