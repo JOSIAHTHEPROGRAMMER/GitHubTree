@@ -1,8 +1,8 @@
 {
-  "repo": "Mantitup-Org/vista",
+  "repo": "bangtutorial/bang-motion",
   "branch": "main",
-  "language": "TypeScript",
-  "description": "A featured project on GitHubTree.",
-  "stars": 353,
-  "forks": 9
+  "language": "HTML",
+  "description": "Agent skill for browser motion graphics — openers, promos, bumpers, kinetic typography, and five explainer styles that move like video, not slides. Single index.html output. Works with Claude Code, Codex, Gemini CLI, Cursor.",
+  "stars": 108,
+  "forks": 18
 }

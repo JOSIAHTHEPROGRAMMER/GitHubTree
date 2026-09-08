@@ -1,146 +1,146 @@
 [
   {
-    "repo": "bleuropa/loomkin",
-    "branch": "main",
-    "language": "Elixir",
-    "description": "An Elixir-native AI coding assistant with persistent decision graphs, repo intelligence, and a Phoenix LiveView UI"
-  },
-  {
-    "repo": "kicad/kicad",
-    "branch": "master",
-    "language": "C++",
-    "description": "This is an active mirror of the KiCad development branch, which is hosted at GitLab (updated every time something is pushed). Pull requests on GitHub are not accepted or watched."
-  },
-  {
-    "repo": "Honey911143/Bulk-Image-Gatherer-Android",
-    "branch": "main",
-    "language": "HTML",
-    "description": "2026 Best Twitter X Bulk Media Saver Tool For Android"
-  },
-  {
-    "repo": "kppox/video-frame-sampler",
+    "repo": "networkx/networkx",
     "branch": "main",
     "language": "Python",
-    "description": "Content-aware frame sampling strategies for video-LLMs."
+    "description": "Network Analysis in Python"
   },
   {
-    "repo": "kernelstub/Ferrum",
+    "repo": "pyinvoke/invoke",
     "branch": "main",
-    "language": "Go",
-    "description": "Windows security research toolkit for LPE, persistence, COM hijacking, and attack surface enumeration."
+    "language": "Python",
+    "description": "Pythonic task management & command execution."
   },
   {
-    "repo": "kunchenguid/lavish-axi",
+    "repo": "airbnb/lottie-ios",
+    "branch": "master",
+    "language": "Swift",
+    "description": "An iOS library to natively render After Effects vector animations"
+  },
+  {
+    "repo": "udayanwalvekar/clearshot",
+    "branch": "main",
+    "language": "Shell",
+    "description": "📸 Structured screenshot intelligence for AI coding tools. Give your AI X-ray vision for UI screenshots."
+  },
+  {
+    "repo": "edgenuitybot/exodusbot",
     "branch": "main",
     "language": "JavaScript",
-    "description": "HTML is the new markdown. Lavish is the new editor for your HTML artifacts."
+    "description": "Exodus | The # 1 Edgenuity Bot for Quizes, Tests, and Exams. Includes Auto Answers, Auto delays, built in AI Answers, Auto Submit, EdgeEX support and MORE! | About: Exodus is an online course tool designed for online middle and high school classes (K-8 curriculum). Join the Discord: https://discord.gg/exodusbot"
   },
   {
-    "repo": "davidondrej/jailbreak-autoresearch",
+    "repo": "microsoft/DeepSpeed",
+    "branch": "master",
+    "language": "Python",
+    "description": "DeepSpeed is a deep learning optimization library that makes distributed training and inference easy, efficient, and effective."
+  },
+  {
+    "repo": "tailwindlabs/headlessui",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Completely unstyled, fully accessible UI components, designed to integrate beautifully with Tailwind CSS."
+  },
+  {
+    "repo": "pydantic/pydantic",
     "branch": "main",
     "language": "Python",
-    "description": "We shall set the models free."
+    "description": "Data validation using Python type hints"
   },
   {
-    "repo": "manojmidhul92-art/Umbrella-HWID",
-    "branch": "main",
-    "language": "C++",
-    "description": "Advanced HWID changer. Bypass Vanguard, EAC, BattlEye, Ricochet. Features: Disk serials spoofing, BIOS/Baseboard UUID change, MAC address randomize, Monitor ID masking. Registry cleaner, trace remover, permanent/temporary mode. Kernel-level protection, one-click spoofer, anti-cheat bypass."
-  },
-  {
-    "repo": "sunyouzhi2003/LSFG-Desktop",
-    "branch": "main",
-    "language": "C++",
-    "description": "Lossless Scaling 2026: Universal Frame Generation LSFG 3. Multi-frame gen: X2, X3, X4 multiplier for extreme FPS. AI Upscaling: LS1, FSR 3.1, NIS. Smooth gaming on Steam Deck, handhelds, and Android (LSFG-VK). Fix stuttering, low latency mode, VRR support, 4K spatial scaling, G-Sync compatible."
-  },
-  {
-    "repo": "ynsmroztas/cPanelSniper",
+    "repo": "EurekaClaw/EurekaClaw",
     "branch": "main",
     "language": "Python",
-    "description": "CVE-2026-41940 — cPanel & WHM Authentication Bypass via Session-File CRLF Injection"
+    "description": "The official repo of EurekaClaw"
   },
   {
-    "repo": "denuitt1/mhr-cfw",
+    "repo": "prettier/eslint-config-prettier",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "Turns off all rules that are unnecessary or might conflict with Prettier."
+  },
+  {
+    "repo": "langchain-ai/langchainjs",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "🦜🔗 Build context-aware reasoning applications"
+  },
+  {
+    "repo": "mwaskom/seaborn",
+    "branch": "master",
+    "language": "Python",
+    "description": "Statistical data visualization in Python"
+  },
+  {
+    "repo": "ShunsukeHayashi/agent-skill-bus",
+    "branch": "master",
+    "language": "JavaScript",
+    "description": "The missing runtime for Agent Skills — health monitoring, self-improvement, and dependency management for any AI agent framework. Zero dependencies."
+  },
+  {
+    "repo": "appwrite/appwrite",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Appwrite® - complete cloud infrastructure for your web, mobile and AI apps. Including Auth, Databases, Storage, Functions, Messaging, Hosting, Realtime and more"
+  },
+  {
+    "repo": "superpilot69/vida-open-archive",
+    "branch": "main",
+    "language": "HTML",
+    "description": "Vida Zhihu archive, distilled skill, and exhibition website source"
+  },
+  {
+    "repo": "backstage/backstage",
+    "branch": "master",
+    "language": "TypeScript",
+    "description": "Backstage is an open framework for building developer portals"
+  },
+  {
+    "repo": "sqlalchemy/alembic",
     "branch": "main",
     "language": "Python",
+    "description": "A database migrations tool for SQLAlchemy."
+  },
+  {
+    "repo": "gnekt/My-Brain-Is-Full-Crew",
+    "branch": "main",
+    "language": "Shell",
+    "description": "Built by a PhD whose memory was failing, whose diet was a mess, and whose anxiety had its own agenda. Most second brain tools ignore the fact that your brain doesn't work in isolation: your body and your mental health are part of the system too. This crew handles all three: knowledge, nutrition, and mental wellness."
+  },
+  {
+    "repo": "htimesnine/DarkSword-RCE",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "DarkSword webkit exploit captured ITW"
+  },
+  {
+    "repo": "pytube/pytube",
+    "branch": "master",
+    "language": "Python",
+    "description": "A lightweight, dependency-free Python library (and command-line utility) for downloading YouTube Videos."
+  },
+  {
+    "repo": "DylanDavis1/DSCourier",
+    "branch": "main",
+    "language": "PowerShell",
     "description": ""
   },
   {
-    "repo": "anthropics/cwc-workshops",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": ""
-  },
-  {
-    "repo": "intave/intave",
-    "branch": "master",
-    "language": "Java",
-    "description": "Intave is an enterprise, high-performance anticheat for Minecraft built on years of experience protecting the world's largest servers"
-  },
-  {
-    "repo": "DoomVoss/BASpark",
-    "branch": "main",
-    "language": "C#",
-    "description": "基于 HTML5/Canvas 深度复刻《蔚蓝档案》UI 风格动效的 Windows 鼠标特效工具 || A Windows mouse effect tool reconstructing Blue Archive UI style using HTML5/Canvas"
-  },
-  {
-    "repo": "xiaotianfotos/homerail",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Voice-first local agent orchestration runtime for auditable DAG workflows."
-  },
-  {
-    "repo": "massgravel/Microsoft-Activation-Scripts",
-    "branch": "master",
-    "language": "Batchfile",
-    "description": "Open-source Windows and Office activator featuring HWID, Ohook, TSforge, and Online KMS activation methods, along with advanced troubleshooting."
-  },
-  {
-    "repo": "Asilcanasil/Hent-AI-Synthesis-Engine",
-    "branch": "main",
-    "language": "HTML",
-    "description": "2026 Ultimate Creative AI Image Generation Toolkit for Artists"
-  },
-  {
-    "repo": "GammaLabTechnologies/harmonist",
+    "repo": "AlphaBrainGroup/AlphaBrain",
     "branch": "main",
     "language": "Python",
-    "description": "Portable AI agent orchestration with mechanical protocol enforcement. 186 agents, zero runtime dependencies."
+    "description": "The Comprehensive Toolkit for Embodied AI Models"
   },
   {
-    "repo": "espressif/arduino-esp32",
-    "branch": "master",
-    "language": "C++",
-    "description": "Arduino core for the ESP32"
-  },
-  {
-    "repo": "dateutil/dateutil",
-    "branch": "master",
+    "repo": "rohitg00/ai-engineering-from-scratch",
+    "branch": "main",
     "language": "Python",
-    "description": "Useful extensions to the standard Python datetime features"
+    "description": "Learn it. Build it. Ship it for others."
   },
   {
-    "repo": "brunch/brunch",
-    "branch": "master",
-    "language": "JavaScript",
-    "description": "🍴 Web applications made easy. Since 2011."
-  },
-  {
-    "repo": "devdriveLLM/polymarket-copy-trading-bot",
+    "repo": "pmndrs/zustand",
     "branch": "main",
     "language": "TypeScript",
-    "description": "polymarket copy trading bot v2 polymarket copy trading bot v2 polymarket copy trading bot v2 polymarket copy trading bot v2 polymarket copy trading bot v2 polymarket copy trading bot v2 polymarket copy trading bot v2 polymarket copy trading bot v2 polymarket copy trading bot v2"
-  },
-  {
-    "repo": "renatoworks/3dsvg",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "The easiest way to turn SVGs into interactive React 3D components"
-  },
-  {
-    "repo": "espressif/esp-idf",
-    "branch": "master",
-    "language": "C",
-    "description": "Espressif IoT Development Framework. Official development framework for Espressif SoCs."
+    "description": "🐻 Bear necessities for state management in React"
   }
 ]
