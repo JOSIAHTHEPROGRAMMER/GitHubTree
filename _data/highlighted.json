@@ -1,8 +1,8 @@
 {
-  "repo": "bangtutorial/bang-motion",
+  "repo": "marsbos/mador",
   "branch": "main",
-  "language": "HTML",
-  "description": "Agent skill for browser motion graphics — openers, promos, bumpers, kinetic typography, and five explainer styles that move like video, not slides. Single index.html output. Works with Claude Code, Codex, Gemini CLI, Cursor.",
-  "stars": 108,
-  "forks": 18
+  "language": "JavaScript",
+  "description": "Make Any DOM Reactive",
+  "stars": 101,
+  "forks": 3
 }

@@ -1,33 +1,111 @@
 [
   {
-    "repo": "networkx/networkx",
+    "repo": "PaddlePaddle/PaddleOCR",
     "branch": "main",
     "language": "Python",
-    "description": "Network Analysis in Python"
+    "description": "Turn any PDF or image document into structured data for your AI. A powerful, lightweight OCR toolkit that bridges the gap between images/PDFs and LLMs. Supports 100+ languages."
   },
   {
-    "repo": "pyinvoke/invoke",
-    "branch": "main",
-    "language": "Python",
-    "description": "Pythonic task management & command execution."
+    "repo": "arendst/Tasmota",
+    "branch": "development",
+    "language": "C",
+    "description": "Alternative firmware for ESP8266 and ESP32 based devices with easy configuration using webUI, OTA updates, automation using timers or rules, expandability and entirely local control over MQTT, HTTP, Serial or KNX. Full documentation at"
   },
   {
-    "repo": "airbnb/lottie-ios",
-    "branch": "master",
-    "language": "Swift",
-    "description": "An iOS library to natively render After Effects vector animations"
-  },
-  {
-    "repo": "udayanwalvekar/clearshot",
-    "branch": "main",
-    "language": "Shell",
-    "description": "📸 Structured screenshot intelligence for AI coding tools. Give your AI X-ray vision for UI screenshots."
-  },
-  {
-    "repo": "edgenuitybot/exodusbot",
+    "repo": "oneclaw/oneclaw",
     "branch": "main",
     "language": "JavaScript",
-    "description": "Exodus | The # 1 Edgenuity Bot for Quizes, Tests, and Exams. Includes Auto Answers, Auto delays, built in AI Answers, Auto Submit, EdgeEX support and MORE! | About: Exodus is an online course tool designed for online middle and high school classes (K-8 curriculum). Join the Discord: https://discord.gg/exodusbot"
+    "description": "OneClaw"
+  },
+  {
+    "repo": "material-components/material-components-android",
+    "branch": "master",
+    "language": "Java",
+    "description": "Modular and customizable Material Design UI components for Android"
+  },
+  {
+    "repo": "hjanuschka/pi-multi-pass",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Multi-subscription extension for pi -- use multiple OAuth accounts per provider (Anthropic, Codex, Copilot, Gemini, Antigravity)"
+  },
+  {
+    "repo": "resonancegnatassess/Lossless-Scaling",
+    "branch": "main",
+    "language": "Python",
+    "description": "Powerful upscaling and frame generation tool with LSFG technology for sharper visuals and higher FPS. One-command install."
+  },
+  {
+    "repo": "gcc-mirror/gcc",
+    "branch": "master",
+    "language": "C++",
+    "description": "Mirror of the GNU Compiler Collection master repository."
+  },
+  {
+    "repo": "GRVYDEV/marky",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "A lightweight easy to use markdown viewer"
+  },
+  {
+    "repo": "sujitagarwal/multigravity-cli",
+    "branch": "main",
+    "language": "Shell",
+    "description": "Run multiple Antigravity IDE profiles at the same time — each with its own accounts, settings, and extensions.  No more logging in and out. Just switch profiles instantly or use them all at once!"
+  },
+  {
+    "repo": "Follow-Gabagool22/5min-btc-polymarket-trading-bot",
+    "branch": "main",
+    "language": "Rust",
+    "description": "5min btc polymarket trading bot that is polymarket trading bot that trade in 5 btc market polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot"
+  },
+  {
+    "repo": "510myRday/Cursor-Toolbox",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": ""
+  },
+  {
+    "repo": "software-mansion/react-native-gesture-handler",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Declarative API exposing platform native touch and gesture system to React Native."
+  },
+  {
+    "repo": "sveltejs/svelte",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "web development for the rest of us"
+  },
+  {
+    "repo": "jkudish/librarium",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Multi-provider deep research CLI — fans out queries to multiple search/AI APIs in parallel"
+  },
+  {
+    "repo": "coredns/coredns",
+    "branch": "master",
+    "language": "Go",
+    "description": "CoreDNS is a DNS server that chains plugins"
+  },
+  {
+    "repo": "webpack/webpack",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "A bundler for javascript and friends. Packs many modules into a few bundled assets. Code Splitting allows for loading parts of the application on demand. Through loaders, modules can be CommonJs, AMD, ES6 modules, CSS, Images, JSON, Coffeescript, LESS, ... and your custom stuff."
+  },
+  {
+    "repo": "PaddlePaddle/PaddleDetection",
+    "branch": "develop",
+    "language": "Python",
+    "description": "Object Detection toolkit based on PaddlePaddle. It supports object detection, instance segmentation, multiple object tracking and real-time multi-person keypoint detection."
+  },
+  {
+    "repo": "Zephkek/XStoreUnlocker",
+    "branch": "main",
+    "language": "C++",
+    "description": "DLC unlocker for Microsoft Store and Xbox PC games."
   },
   {
     "repo": "microsoft/DeepSpeed",
@@ -36,111 +114,33 @@
     "description": "DeepSpeed is a deep learning optimization library that makes distributed training and inference easy, efficient, and effective."
   },
   {
-    "repo": "tailwindlabs/headlessui",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Completely unstyled, fully accessible UI components, designed to integrate beautifully with Tailwind CSS."
-  },
-  {
-    "repo": "pydantic/pydantic",
-    "branch": "main",
-    "language": "Python",
-    "description": "Data validation using Python type hints"
-  },
-  {
-    "repo": "EurekaClaw/EurekaClaw",
-    "branch": "main",
-    "language": "Python",
-    "description": "The official repo of EurekaClaw"
-  },
-  {
-    "repo": "prettier/eslint-config-prettier",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "Turns off all rules that are unnecessary or might conflict with Prettier."
-  },
-  {
-    "repo": "langchain-ai/langchainjs",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "🦜🔗 Build context-aware reasoning applications"
-  },
-  {
-    "repo": "mwaskom/seaborn",
+    "repo": "grpc-ecosystem/grpc-gateway",
     "branch": "master",
-    "language": "Python",
-    "description": "Statistical data visualization in Python"
+    "language": "Go",
+    "description": "gRPC to JSON proxy generator following the gRPC HTTP spec"
   },
   {
-    "repo": "ShunsukeHayashi/agent-skill-bus",
+    "repo": "scienceLabwork/Stable-Action",
+    "branch": "main",
+    "language": "Swift",
+    "description": "Samsung Super Steady Horizon Lock - rebuilt for iPhone."
+  },
+  {
+    "repo": "grpc/grpc-web",
     "branch": "master",
     "language": "JavaScript",
-    "description": "The missing runtime for Agent Skills — health monitoring, self-improvement, and dependency management for any AI agent framework. Zero dependencies."
+    "description": "gRPC for Web Clients"
   },
   {
-    "repo": "appwrite/appwrite",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Appwrite® - complete cloud infrastructure for your web, mobile and AI apps. Including Auth, Databases, Storage, Functions, Messaging, Hosting, Realtime and more"
-  },
-  {
-    "repo": "superpilot69/vida-open-archive",
-    "branch": "main",
-    "language": "HTML",
-    "description": "Vida Zhihu archive, distilled skill, and exhibition website source"
-  },
-  {
-    "repo": "backstage/backstage",
-    "branch": "master",
-    "language": "TypeScript",
-    "description": "Backstage is an open framework for building developer portals"
-  },
-  {
-    "repo": "sqlalchemy/alembic",
+    "repo": "wandb/wandb",
     "branch": "main",
     "language": "Python",
-    "description": "A database migrations tool for SQLAlchemy."
+    "description": "The AI developer platform. Use Weights & Biases to train and fine-tune models, and manage models from experimentation to production."
   },
   {
-    "repo": "gnekt/My-Brain-Is-Full-Crew",
-    "branch": "main",
-    "language": "Shell",
-    "description": "Built by a PhD whose memory was failing, whose diet was a mess, and whose anxiety had its own agenda. Most second brain tools ignore the fact that your brain doesn't work in isolation: your body and your mental health are part of the system too. This crew handles all three: knowledge, nutrition, and mental wellness."
-  },
-  {
-    "repo": "htimesnine/DarkSword-RCE",
-    "branch": "main",
+    "repo": "Tencent/wepy",
+    "branch": "master",
     "language": "JavaScript",
-    "description": "DarkSword webkit exploit captured ITW"
-  },
-  {
-    "repo": "pytube/pytube",
-    "branch": "master",
-    "language": "Python",
-    "description": "A lightweight, dependency-free Python library (and command-line utility) for downloading YouTube Videos."
-  },
-  {
-    "repo": "DylanDavis1/DSCourier",
-    "branch": "main",
-    "language": "PowerShell",
-    "description": ""
-  },
-  {
-    "repo": "AlphaBrainGroup/AlphaBrain",
-    "branch": "main",
-    "language": "Python",
-    "description": "The Comprehensive Toolkit for Embodied AI Models"
-  },
-  {
-    "repo": "rohitg00/ai-engineering-from-scratch",
-    "branch": "main",
-    "language": "Python",
-    "description": "Learn it. Build it. Ship it for others."
-  },
-  {
-    "repo": "pmndrs/zustand",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "🐻 Bear necessities for state management in React"
+    "description": "小程序组件化开发框架"
   }
 ]
