@@ -1,146 +1,146 @@
 [
   {
-    "repo": "ahmedemad3/arch-wiki",
+    "repo": "oxbshw/watch-skill",
     "branch": "main",
     "language": "Python",
-    "description": ""
+    "description": "Give any AI agent the ability to watch video — and to watch its own work and fix it. MCP + CLI + REST; scene-aware frames, OCR, local-first transcription, persistent index, and THE LOOP."
   },
   {
-    "repo": "ingriddaleusag-dotcom/PickTV",
-    "branch": "main",
-    "language": "Java",
-    "description": ""
-  },
-  {
-    "repo": "fernanW12350/Warframe_Auto-Farm___Infinite_Energy",
-    "branch": "main",
-    "language": "Python",
-    "description": "Auto-farm, infinite energy, and all mods for Warframe. Farm resources, level up weapons, and unlock all frames."
-  },
-  {
-    "repo": "xiongqi123123/awesome-rebuttal",
-    "branch": "main",
-    "language": "TeX",
-    "description": "a skill for rebuttal"
-  },
-  {
-    "repo": "michaelpersonal/goal-forge",
-    "branch": "main",
-    "language": "Python",
-    "description": "Codex skill: turn a rough coding idea into a SPEC.md, GOAL.md, and /goal-ready contract."
-  },
-  {
-    "repo": "AIScientists-Dev/loupe",
+    "repo": "immerjs/immer",
     "branch": "main",
     "language": "JavaScript",
-    "description": "A loupe for your proofs. An open-source AI reviewer for scientific papers."
+    "description": "Create the next immutable state by mutating the current one"
   },
   {
-    "repo": "erdwin90/crypto-bar-mac",
+    "repo": "qazbnm456/awesome-web-security",
+    "branch": "master",
+    "language": "Other",
+    "description": "🐶 A curated list of Web Security materials and resources."
+  },
+  {
+    "repo": "supabase/supabase",
+    "branch": "master",
+    "language": "TypeScript",
+    "description": "The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications."
+  },
+  {
+    "repo": "heri1845/ai-meme-trading-bot",
     "branch": "main",
-    "language": "Objective-C++",
-    "description": "CryptoBar brings real-time cryptocurrency prices to your macOS menu bar using the CoinGecko API. With built-in 24-hour charts, it lets you instantly track market trends without opening a separate app."
+    "language": "Go",
+    "description": "Automated trading system for Solana and Base meme coins with AI-powered strategy evaluation. AI trading, AI prediction, AI trading, AI predictiction"
   },
   {
-    "repo": "233i/ore-code",
+    "repo": "ansible/ansible",
+    "branch": "devel",
+    "language": "Python",
+    "description": "Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy and maintain. Automate everything from code deployment to network configuration to cloud management, in a language that approaches plain English, using SSH, with no agents to install on remote systems. https://docs.ansible.com."
+  },
+  {
+    "repo": "emdash-cms/emdash",
     "branch": "main",
     "language": "TypeScript",
-    "description": "DeepSeek-first desktop coding agent workbench"
+    "description": ""
   },
   {
-    "repo": "ps5-linux/ps5-linux-loader",
-    "branch": "main",
-    "language": "C",
-    "description": "Linux payload implementing the HV exploit and a custom bootloader"
-  },
-  {
-    "repo": "aresthehacker/Assassin-s-Creed-Black-Flag",
-    "branch": "main",
+    "repo": "godotengine/godot",
+    "branch": "master",
     "language": "C++",
-    "description": "Assassin's Creed Black Flag Resynced Collector's Edition 2026 Edward Kenway Statue PS5 Pro PSSR Ray Tracing High FPS Anvil Engine Caribbean Open World Pirate Simulator PC Download Steam Deck Performance Save Editor Gameplay Reveal July 9 Release Official Roadmap Ubisoft 2026"
+    "description": "Godot Engine – Multi-platform 2D and 3D game engine"
   },
   {
-    "repo": "limitless-org/crypto-engine",
+    "repo": "Lcharvol/MacSift",
     "branch": "main",
-    "language": "TypeScript",
-    "description": "Crypto Engine"
+    "language": "Swift",
+    "description": "Transparent macOS disk cleaner — groups files by app, moves to Trash (never permanent). SwiftUI + Liquid Glass, built for macOS Tahoe."
   },
   {
-    "repo": "NagaaSaketh/Pet-Simulator-99-Auto-Farm-Trainer-2026-Nitro",
+    "repo": "pytorch/vision",
     "branch": "main",
     "language": "Python",
-    "description": "Boost your Pet Simulator 99 progress with the Nitro trainer. Auto-farm, auto-hatch, instant break, and League auto-grind – all in one sleek GUI. Works with the June 2026 update."
+    "description": "Datasets, Transforms and Models specific to Computer Vision"
   },
   {
-    "repo": "PercolatorFinance/ProwlFinance",
+    "repo": "infinition/waveshare-watch-rs",
+    "branch": "main",
+    "language": "Rust",
+    "description": "100% Rust `no_std` smartwatch firmware for the Waveshare ESP32-S3-Touch-AMOLED-2.06"
+  },
+  {
+    "repo": "AERT-7Y/kiro-auto",
     "branch": "main",
     "language": "TypeScript",
-    "description": "Private rails for the agentic economy on Solana. 🐺 Stealth addresses + x402 payments for AI agents."
+    "description": "kiro自动注册机"
   },
   {
-    "repo": "fancydirty/mediary-scout",
+    "repo": "glommer/codemogger",
     "branch": "main",
     "language": "TypeScript",
-    "description": "Agent-driven media library for your cloud drives (115 / Quark)."
+    "description": "Codemogger is a code indexing library and MCP server for AI coding agents"
   },
   {
-    "repo": "appergb/openless",
+    "repo": "rust-lang/rustlings",
     "branch": "main",
-    "language": "HTML",
-    "description": "Hold a key, speak, release — AI-polished text appears at your cursor in any app. Open-source voice input for macOS & Windows. (按住快捷键说话，松开即得润色后的文字)"
+    "language": "Rust",
+    "description": ":crab: Small exercises to get you used to reading and writing Rust code!"
   },
   {
-    "repo": "b-nnett/codex-plusplus",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Codex++ tweak system for the Codex desktop app"
-  },
-  {
-    "repo": "Udacity-ai/pumpfun-ai-trading-bot",
+    "repo": "akazwz/hostc",
     "branch": "main",
     "language": "TypeScript",
-    "description": "OpenAI-powered Pump.fun comment automation on Solana. Thread engagement, proxy support, wallet modes, and local data.json comment bank. ISC. ai trading bot, pumpfun trading bot, trading bot, pumfun ai trading bot,ai trading bot, pumpfun trading bot, trading bot, pumfun ai trading bot,ai trading bot, pumpfun trading bot, trading bot, pumfun trading"
+    "description": "Localhost to the edge. Secure, fast, and zero-config edge tunnels powered by Cloudflare Workers."
   },
   {
-    "repo": "sii-research/tau-0-wm",
+    "repo": "zarazhangrui/youtube-to-ebook",
+    "branch": "main",
+    "language": "Python",
+    "description": "Claude skill for turning YouTube transcripts from your favorite channels into EPUB ebooks, delivered to your email inbox regularly"
+  },
+  {
+    "repo": "openperf/brief",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "AI Agent Service Agreement"
+  },
+  {
+    "repo": "cilium/cilium",
+    "branch": "main",
+    "language": "Go",
+    "description": "eBPF-based Networking, Security, and Observability"
+  },
+  {
+    "repo": "torproject/tor",
+    "branch": "main",
+    "language": "Other",
+    "description": "unofficial git repo -- report bugs/issues/pull requests on https://gitlab.torproject.org/ --"
+  },
+  {
+    "repo": "BradGroux/veritas-kanban",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "The unfiltered truth about where your project stands. Lightweight kanban built for the agentic AI era."
+  },
+  {
+    "repo": "Introspective-Diffusion/I-DLM",
     "branch": "main",
     "language": "Python",
     "description": ""
   },
   {
-    "repo": "Alkih/Nightlight-Game-Launcher",
-    "branch": "main",
-    "language": "C#",
-    "description": "Nightlight Game Launcher: NLGL download, Rockstar Social Club bypass, GTA V Epic Games launch error, RDR2 offline play, GTA IV Social Club fix. Steam account switcher, Epic Online Services bypass, EOS SDK. dll, -nobattleye, -scOfflineMode, launch options, account manager, local backup, source code GitHub, onajlikezz, open source tool."
-  },
-  {
-    "repo": "python-telegramBot/ai-auto-trading",
+    "repo": "vercel-labs/visual-json",
     "branch": "main",
     "language": "TypeScript",
-    "description": "AI trading bot crypto LLM agent quantitative trading automated trading algorithmic trading Binance Gate.io TypeScript Node.js VoltAgent crypto bot risk management multi-strategy"
+    "description": "The Visual JSON Editor. Schema-aware, embeddable, extensible."
   },
   {
-    "repo": "wwe-dog/ppt-image2-editable-rebuild",
+    "repo": "Doriandarko/webmcp-starter",
     "branch": "main",
-    "language": "Python",
-    "description": "一个基于截图/参考图重建可编辑 PPT 的 Codex skill。先用 image2/imagegen 生成单页视觉参考图，再以局部截图保留复杂插图、图标、地图等视觉资产，同时用 PPT 文本框和形状重建标题、正文、卡片、箭头、标签、结论条等可编辑元素。"
+    "language": "HTML",
+    "description": "WebMCP starter demo — a DoorDash-style food delivery app with 9 AI agent tools (imperative + declarative)"
   },
   {
-    "repo": "ByteDance-Seed/Cola-DLM",
+    "repo": "spaceraccoon/vulnerability-spoiler-alert-action",
     "branch": "main",
-    "language": "Python",
-    "description": "The codebase of Cola DLM"
-  },
-  {
-    "repo": "RoushanKhalid/File_Encryption_Tool",
-    "branch": "main",
-    "language": "Python",
-    "description": "Encrypt/decrypt files with AES-256 and password protection. Encrypt files, decrypt files, batch encrypt, and encrypt entire folders. Protect your data."
-  },
-  {
-    "repo": "QwenLM/FlashQLA",
-    "branch": "main",
-    "language": "Python",
-    "description": "high-performance linear attention kernel library built on TileLang"
+    "language": "TypeScript",
+    "description": "GitHub Action to alert on security patches before the CVE drops."
   }
 ]
