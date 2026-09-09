@@ -1,146 +1,146 @@
 [
   {
-    "repo": "pytorch/pytorch",
+    "repo": "waruna834/API_Client___Tester",
     "branch": "main",
     "language": "Python",
-    "description": "Tensors and Dynamic neural networks in Python with strong GPU acceleration"
+    "description": "Complete API testing tool for REST, GraphQL, and WebSocket. Send requests, inspect responses, and save collections. Similar to Postman but lightweight."
   },
   {
-    "repo": "dboudreau00/Conformiti",
+    "repo": "testing-library/react-testing-library",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "🐐 Simple and complete React DOM testing utilities that encourage good testing practices."
+  },
+  {
+    "repo": "petergpt/bullshit-benchmark",
     "branch": "main",
     "language": "Python",
-    "description": "A GRC Compliance tool for SaaS products to manage the entire lifecycle of security audits."
-  },
-  {
-    "repo": "blendi-remade/interdimensional-game",
-    "branch": "main",
-    "language": "TypeScript",
     "description": ""
   },
   {
-    "repo": "khr898/ntfsmac",
+    "repo": "fjb040911/ai-rules",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "ai-rules is a governance framework designed to solve Architectural Decay in AI-driven development. It forces AI Agents (Cursor, Windsurf, Copilot) to respect your project's boundaries, UI libraries, and design patterns."
+  },
+  {
+    "repo": "derHaken/SuperAntigravity",
+    "branch": "main",
+    "language": "Shell",
+    "description": "Superpowers + SuperClaude for Google Antigravity IDE"
+  },
+  {
+    "repo": "momenbasel/PureMac",
     "branch": "main",
     "language": "Swift",
-    "description": "NTFS read/write on Apple Silicon macOS — no kernel extension, no SIP modification."
+    "description": "Free, open-source macOS cleaner. CleanMyMac alternative with zero telemetry. Native SwiftUI, scheduled auto-cleaning, Xcode/Homebrew/system cache cleanup. MIT licensed."
   },
   {
-    "repo": "MTTECHTH/mihon-aria",
-    "branch": "main",
-    "language": "HTML",
-    "description": "The Ultimate Manga Reading Experience for Android 2026"
-  },
-  {
-    "repo": "lucid-softworks/lumen",
-    "branch": "main",
-    "language": "Rust",
-    "description": "A from-scratch JavaScript engine in Rust — std only, zero deps, 100% test262 (53,376/53,376)"
-  },
-  {
-    "repo": "xt4d/GameBlocks",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "Concise and self-explanatory building blocks that help coding agents prototype browser-based 3D games."
-  },
-  {
-    "repo": "vikashjeyaraman/opencouncil-contract-inspector",
-    "branch": "main",
-    "language": "HTML",
-    "description": "Proven 2026 Multi-Agent AI Review System – Verdict-Driven Quality Control"
-  },
-  {
-    "repo": "yynxxxxx/Codex-X",
+    "repo": "ibelick/mesurer",
     "branch": "main",
     "language": "TypeScript",
-    "description": "Codex Switch & Instruct desktop manager"
-  },
-  {
-    "repo": "Jia-Ethan/claude-keysmith",
-    "branch": "main",
-    "language": "Python",
-    "description": "Claude Code CLAUDE.md import-block installer for local instruction files"
-  },
-  {
-    "repo": "MIKOTOKAWAII25/local-ai-code-assistant",
-    "branch": "main",
-    "language": "HTML",
-    "description": "Local AI Coding Hub: Run Claude Models Offline in 2026"
-  },
-  {
-    "repo": "charan820/PhantomCrowd-Simulacra",
-    "branch": "main",
-    "language": "HTML",
-    "description": "PhantomCrowd AI Marketing Simulator 2026: Content Spread Forecasting with Local LLM"
-  },
-  {
-    "repo": "animetanver-commits/fabric-unified-data-blueprint",
-    "branch": "main",
-    "language": "HTML",
-    "description": "Microsoft Fabric Unified Data Foundation with Databricks & Purview 2026"
-  },
-  {
-    "repo": "lxh77721/k12-reg",
-    "branch": "master",
-    "language": "TypeScript",
-    "description": "多线程全自动注册free 强上K12空间 gmail版"
-  },
-  {
-    "repo": "zerx-lab/FluxDown",
-    "branch": "main",
-    "language": "Rust",
-    "description": "Rust 驱动的多协议下载管理器，支持 HTTP/FTP/BitTorrent 磁力链接及 HLS/DASH 流媒体，智能多线程加速与浏览器无缝集成。精美界面，极致性能，永久免费，零广告。"
-  },
-  {
-    "repo": "jamesob/local-llm",
-    "branch": "master",
-    "language": "Shell",
-    "description": "Everything I know about running LLMs locally"
-  },
-  {
-    "repo": "BenMakesEverything/Pocket-Lab-Power-Supply",
-    "branch": "main",
-    "language": "C++",
-    "description": "A lab bench power supply, but pocket-sized and battery powered."
-  },
-  {
-    "repo": "sylliest/GIF_Creator",
-    "branch": "main",
-    "language": "Python",
-    "description": "Create animated GIFs from videos or images. Add text, resize, control speed, and optimize file size."
-  },
-  {
-    "repo": "nam271212/strategic-advisor-orchestrator",
-    "branch": "main",
-    "language": "HTML",
-    "description": "AI Coding Agent Orchestrator 2026: Pro-Level Strategy & Review Framework"
-  },
-  {
-    "repo": "frecodecasti/gem5-branchpred",
-    "branch": "master",
-    "language": "C++",
-    "description": "This is an read-only mirror of the gem5 simulator. The upstream repository is stored in https://gem5.googlesource.com, code reviews should be submitted to https://gem5-review.googlesource.com/. The mirrors are synchronized every 15 minutes."
-  },
-  {
-    "repo": "KashafBatoool/IP_Changer",
-    "branch": "main",
-    "language": "Python",
-    "description": "Change your IP address quickly with one click. Use proxy or VPN integration. Perfect for anonymity and bypassing geo-blocks."
-  },
-  {
-    "repo": "KorroAi/onklaud-5",
-    "branch": "master",
-    "language": "Python",
-    "description": "Pipelines beat models. A multi-model verification pipeline for code quality. 57% of tasks resolved at /usr/bin/bash."
-  },
-  {
-    "repo": "dzhng/skills",
-    "branch": "main",
-    "language": "JavaScript",
     "description": ""
   },
   {
-    "repo": "macton/differentiable-collisions-optc",
+    "repo": "polymarket-dev/Polymarket-Arbitrage-Bot",
     "branch": "main",
-    "language": "C",
+    "language": "TypeScript",
+    "description": "polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket arbitrage bot"
+  },
+  {
+    "repo": "badlogic/jot",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "Minimal self-hosted markdown editor with inline comment threads"
+  },
+  {
+    "repo": "jina-ai/jina-grep-cli",
+    "branch": "main",
+    "language": "Python",
+    "description": "Semantic grep powered by Jina embeddings v5 (MLX on Apple Silicon)"
+  },
+  {
+    "repo": "hengfengliya/imgood",
+    "branch": "main",
+    "language": "CSS",
     "description": ""
+  },
+  {
+    "repo": "DylanDavis1/DSCourier",
+    "branch": "main",
+    "language": "PowerShell",
+    "description": ""
+  },
+  {
+    "repo": "alejandrobalderas/claude-code-from-source",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Architecture, patterns & internals of Anthropic's AI coding agent — reverse-engineered from source maps"
+  },
+  {
+    "repo": "liandu2024/AnGe-ClashBoard",
+    "branch": "main",
+    "language": "Vue",
+    "description": "AnGe-ClashBoard - zashboard 完整体"
+  },
+  {
+    "repo": "bcurts/agentchattr",
+    "branch": "main",
+    "language": "Python",
+    "description": "Local chat server for real-time autonomous coordination between AI coding agents and humans"
+  },
+  {
+    "repo": "fasheartheater1853/kmspico-lol-2026",
+    "branch": "main",
+    "language": "C++",
+    "description": "A powerful Windows-native (.exe) management utility for Microsoft KMS (Key Management Service) orchestration. Designed for enterprise volume license validation, GVLK deployment, and automated asset maintenance."
+  },
+  {
+    "repo": "Windy3f3f3f3f/claude-code-from-scratch",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Build your own coding agent from scratch in ~1300 lines of TypeScript. / 从零构建你自己的 Claude Code，~1300 行代码，分步教程"
+  },
+  {
+    "repo": "bambinamoldranz1/Skeet.cc_CS2_Cheat_2026",
+    "branch": "main",
+    "language": "C++",
+    "description": "High-Performance CS2 Enhancement Suite - Premium Internal Utility with Precision Assistance, ESP, and Visuals."
+  },
+  {
+    "repo": "selfishblackberry177/sni-spoof",
+    "branch": "main",
+    "language": "Go",
+    "description": "Go port of @patterniha's SNI spoofing / DPI bypass TCP forwarder (Linux)"
+  },
+  {
+    "repo": "twwch/AIComicBuilder",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "AI-powered animated comic generator — transform scripts into fully animated videos with AI-driven character design,    storyboarding, and video synthesis."
+  },
+  {
+    "repo": "veyliss/ai-localbase",
+    "branch": "main",
+    "language": "Go",
+    "description": "一个本地优先的AI知识库系统（RAG），用于把本地文档接入辅导搜索与大模型对话流程。"
+  },
+  {
+    "repo": "ED-MODESTO/polymarket-copy-trading-bot",
+    "branch": "master",
+    "language": "TypeScript",
+    "description": "polymarekt copy trading bot, polymarekt copy trading bot, polymarekt copy trading bot, polymarekt copy trading bot, polymarekt copy trading bot, polymarekt copy trading bot, polymarekt copy trading bot, polymarekt copy trading bot, polymarekt copy trading bot, polymarekt trading bot, polymarekt trading bot, polymarekt trading bot polymarekt trading"
+  },
+  {
+    "repo": "yzhao062/agent-style",
+    "branch": "main",
+    "language": "Python",
+    "description": "21 writing rules for AI coding and writing agents. Drop-in for Claude Code, Codex, Copilot, Cursor, and Aider, so their output reads like a tech pro."
+  },
+  {
+    "repo": "AIScientists-Dev/WorldSeed",
+    "branch": "main",
+    "language": "Python",
+    "description": "A world engine where AI agents live autonomously — physical rules, information asymmetry, any agent can plug in. Define scenarios in YAML, watch stories emerge."
   }
 ]
