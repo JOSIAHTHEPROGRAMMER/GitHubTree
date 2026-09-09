@@ -1,117 +1,111 @@
 [
   {
-    "repo": "oxbshw/watch-skill",
-    "branch": "main",
-    "language": "Python",
-    "description": "Give any AI agent the ability to watch video — and to watch its own work and fix it. MCP + CLI + REST; scene-aware frames, OCR, local-first transcription, persistent index, and THE LOOP."
+    "repo": "SheberDavid/v4-flash-godmode-opencode-go",
+    "branch": "master",
+    "language": "JavaScript",
+    "description": "V4 Flash 神模式 (opencode-go)：让 opencode-go 的 DeepSeek V4 Flash 从鬼模式切换到神模式的 dsh agent preset"
   },
   {
-    "repo": "immerjs/immer",
+    "repo": "eval-exec/neomacs",
+    "branch": "main",
+    "language": "Emacs Lisp",
+    "description": "🚀 NEO Emacs — A GPU-powered Emacs written in 🦀Rust with a modern display engine.     Effortlessly render tons of  🖼️4K images, 🎥4K videos, and 🌐WPEWebKit using GPU acceleration, DMA-BUF, ZERO-COPY and rich animation effects support for a super-level blazing-fast Emacs experience. 🎉"
+  },
+  {
+    "repo": "tinygo-org/tinygo",
+    "branch": "release",
+    "language": "Go",
+    "description": "Go compiler for small places. Microcontrollers, WebAssembly (WASM/WASI), and command-line tools. Based on LLVM."
+  },
+  {
+    "repo": "robinebers/openusage",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "A plugin-based menu bar app for tracking AI coding tool subscriptions like Cursor, Claude, Codex and more, all in one place with a heavy focus user experience, speed, and stability."
+  },
+  {
+    "repo": "waltstephen/ArgusBot",
+    "branch": "publish",
+    "language": "Python",
+    "description": ""
+  },
+  {
+    "repo": "MME-Benchmarks/Video-MME-v2",
+    "branch": "main",
+    "language": "Python",
+    "description": "Video-MME-v2: Towards the Next Stage in Benchmarks for Comprehensive Video Understanding"
+  },
+  {
+    "repo": "professor-lee/StoneBadge",
     "branch": "main",
     "language": "JavaScript",
-    "description": "Create the next immutable state by mutating the current one"
+    "description": "Add a Rotating Stone in your README file."
   },
   {
-    "repo": "qazbnm456/awesome-web-security",
-    "branch": "master",
-    "language": "Other",
-    "description": "🐶 A curated list of Web Security materials and resources."
-  },
-  {
-    "repo": "supabase/supabase",
-    "branch": "master",
-    "language": "TypeScript",
-    "description": "The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications."
-  },
-  {
-    "repo": "heri1845/ai-meme-trading-bot",
+    "repo": "ConardLi/web-design-skill",
     "branch": "main",
-    "language": "Go",
-    "description": "Automated trading system for Solana and Base meme coins with AI-powered strategy evaluation. AI trading, AI prediction, AI trading, AI predictiction"
+    "language": "CSS",
+    "description": "An AI agent skill that transforms AI-generated web pages from functional to stunning.(Inspired by Claude Design)"
   },
   {
-    "repo": "ansible/ansible",
-    "branch": "devel",
+    "repo": "kayba-ai/recursive-improve",
+    "branch": "main",
     "language": "Python",
-    "description": "Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy and maintain. Automate everything from code deployment to network configuration to cloud management, in a language that approaches plain English, using SSH, with no agents to install on remote systems. https://docs.ansible.com."
+    "description": "🪞 Make your agents recursively self-improve"
   },
   {
-    "repo": "emdash-cms/emdash",
+    "repo": "ultralytics/ultralytics",
+    "branch": "main",
+    "language": "Python",
+    "description": "Ultralytics YOLO 🚀"
+  },
+  {
+    "repo": "Shudesu/line-harness-oss",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Open-source LINE Official Account CRM — free alternative to paid tools. Step delivery, broadcasts, forms, rich menus, scoring, automation, and more."
+  },
+  {
+    "repo": "agno-agi/dash",
+    "branch": "main",
+    "language": "Python",
+    "description": "Self-learning data agent that grounds its answers in 6 layers of context and improves with every run. Inspired by OpenAI's in-house implementation."
+  },
+  {
+    "repo": "sightflow-dev/sightflow-desktop-agent",
     "branch": "main",
     "language": "TypeScript",
     "description": ""
   },
   {
-    "repo": "godotengine/godot",
-    "branch": "master",
-    "language": "C++",
-    "description": "Godot Engine – Multi-platform 2D and 3D game engine"
-  },
-  {
-    "repo": "Lcharvol/MacSift",
-    "branch": "main",
-    "language": "Swift",
-    "description": "Transparent macOS disk cleaner — groups files by app, moves to Trash (never permanent). SwiftUI + Liquid Glass, built for macOS Tahoe."
-  },
-  {
-    "repo": "pytorch/vision",
+    "repo": "Euphonique/iCloudPhotoSync",
     "branch": "main",
     "language": "Python",
-    "description": "Datasets, Transforms and Models specific to Computer Vision"
+    "description": "Sync Apple iCloud Photos with Synology Diskstation"
   },
   {
-    "repo": "infinition/waveshare-watch-rs",
-    "branch": "main",
-    "language": "Rust",
-    "description": "100% Rust `no_std` smartwatch firmware for the Waveshare ESP32-S3-Touch-AMOLED-2.06"
-  },
-  {
-    "repo": "AERT-7Y/kiro-auto",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "kiro自动注册机"
-  },
-  {
-    "repo": "glommer/codemogger",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Codemogger is a code indexing library and MCP server for AI coding agents"
-  },
-  {
-    "repo": "rust-lang/rustlings",
-    "branch": "main",
-    "language": "Rust",
-    "description": ":crab: Small exercises to get you used to reading and writing Rust code!"
-  },
-  {
-    "repo": "akazwz/hostc",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Localhost to the edge. Secure, fast, and zero-config edge tunnels powered by Cloudflare Workers."
-  },
-  {
-    "repo": "zarazhangrui/youtube-to-ebook",
-    "branch": "main",
+    "repo": "aws/aws-cli",
+    "branch": "v2",
     "language": "Python",
-    "description": "Claude skill for turning YouTube transcripts from your favorite channels into EPUB ebooks, delivered to your email inbox regularly"
+    "description": "Universal Command Line Interface for Amazon Web Services"
   },
   {
-    "repo": "openperf/brief",
+    "repo": "dev-protocol/polymarket-ai-trading-bot",
     "branch": "main",
     "language": "TypeScript",
-    "description": "AI Agent Service Agreement"
+    "description": "polymarket trading bot polymarket copy trading bot polymarket copy trading bot polymarket trading bot polymarket trading bot polymarket botpolymarket trading bot polymarket copy trading bot polymarket copy trading bot polymarket trading bot polymarket trading ML pipeline for Polymarket crypto 15m: predict UP token move in 5s from"
   },
   {
-    "repo": "cilium/cilium",
+    "repo": "phioranex/openclaw-docker",
     "branch": "main",
-    "language": "Go",
-    "description": "eBPF-based Networking, Security, and Observability"
+    "language": "PowerShell",
+    "description": ""
   },
   {
-    "repo": "torproject/tor",
+    "repo": "appwrite/appwrite",
     "branch": "main",
-    "language": "Other",
-    "description": "unofficial git repo -- report bugs/issues/pull requests on https://gitlab.torproject.org/ --"
+    "language": "TypeScript",
+    "description": "Appwrite® - complete cloud infrastructure for your web, mobile and AI apps. Including Auth, Databases, Storage, Functions, Messaging, Hosting, Realtime and more"
   },
   {
     "repo": "BradGroux/veritas-kanban",
@@ -120,27 +114,33 @@
     "description": "The unfiltered truth about where your project stands. Lightweight kanban built for the agentic AI era."
   },
   {
-    "repo": "Introspective-Diffusion/I-DLM",
+    "repo": "assai-id/nemesis",
     "branch": "main",
-    "language": "Python",
+    "language": "JavaScript",
     "description": ""
   },
   {
-    "repo": "vercel-labs/visual-json",
+    "repo": "lopespm/zig-minimal-kernel-x86",
     "branch": "main",
-    "language": "TypeScript",
-    "description": "The Visual JSON Editor. Schema-aware, embeddable, extensible."
+    "language": "Zig",
+    "description": "Minimal x86 Kernel - built in Zig"
   },
   {
-    "repo": "Doriandarko/webmcp-starter",
+    "repo": "AlexAnys/feishu-openclaw",
     "branch": "main",
-    "language": "HTML",
-    "description": "WebMCP starter demo — a DoorDash-style food delivery app with 9 AI agent tools (imperative + declarative)"
+    "language": "JavaScript",
+    "description": "Connect 飞书Feishu/Lark bot to openclaw (formerly Clawdbot) — no public server, no domain, no ngrok needed. 稳定免安装、共需5 分钟"
   },
   {
-    "repo": "spaceraccoon/vulnerability-spoiler-alert-action",
+    "repo": "kernullist/PseudoForge",
     "branch": "main",
-    "language": "TypeScript",
-    "description": "GitHub Action to alert on security patches before the CVE drops."
+    "language": "Python",
+    "description": "An IDA Pro / Hex-Rays plugin that turns noisy pseudocode into reviewable, kernel-aware cleanup artifacts"
+  },
+  {
+    "repo": "FrondEnt/PolymarketBTC15mAssistant",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "Real-time Polymarket BTC 15m trading assistant for every trader! created by @krajekis"
   }
 ]
