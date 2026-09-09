@@ -1,8 +1,8 @@
 {
-  "repo": "freefrank/LostOdysseyRecomp",
+  "repo": "LuckinSven/8086-xcheck-system",
   "branch": "main",
-  "language": "C++",
-  "description": "Experimental native PC port of Lost Odyssey using static recompilation. No game assets included.",
-  "stars": 105,
-  "forks": 2
+  "language": "Python",
+  "description": "XCheck IP Reputation Investigation System",
+  "stars": 101,
+  "forks": 3
 }

@@ -1,146 +1,146 @@
 [
   {
-    "repo": "waruna834/API_Client___Tester",
+    "repo": "ahmedemad3/arch-wiki",
     "branch": "main",
     "language": "Python",
-    "description": "Complete API testing tool for REST, GraphQL, and WebSocket. Send requests, inspect responses, and save collections. Similar to Postman but lightweight."
+    "description": ""
   },
   {
-    "repo": "testing-library/react-testing-library",
+    "repo": "ingriddaleusag-dotcom/PickTV",
+    "branch": "main",
+    "language": "Java",
+    "description": ""
+  },
+  {
+    "repo": "fernanW12350/Warframe_Auto-Farm___Infinite_Energy",
+    "branch": "main",
+    "language": "Python",
+    "description": "Auto-farm, infinite energy, and all mods for Warframe. Farm resources, level up weapons, and unlock all frames."
+  },
+  {
+    "repo": "xiongqi123123/awesome-rebuttal",
+    "branch": "main",
+    "language": "TeX",
+    "description": "a skill for rebuttal"
+  },
+  {
+    "repo": "michaelpersonal/goal-forge",
+    "branch": "main",
+    "language": "Python",
+    "description": "Codex skill: turn a rough coding idea into a SPEC.md, GOAL.md, and /goal-ready contract."
+  },
+  {
+    "repo": "AIScientists-Dev/loupe",
     "branch": "main",
     "language": "JavaScript",
-    "description": "🐐 Simple and complete React DOM testing utilities that encourage good testing practices."
+    "description": "A loupe for your proofs. An open-source AI reviewer for scientific papers."
   },
   {
-    "repo": "petergpt/bullshit-benchmark",
+    "repo": "erdwin90/crypto-bar-mac",
     "branch": "main",
-    "language": "Python",
-    "description": ""
+    "language": "Objective-C++",
+    "description": "CryptoBar brings real-time cryptocurrency prices to your macOS menu bar using the CoinGecko API. With built-in 24-hour charts, it lets you instantly track market trends without opening a separate app."
   },
   {
-    "repo": "fjb040911/ai-rules",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "ai-rules is a governance framework designed to solve Architectural Decay in AI-driven development. It forces AI Agents (Cursor, Windsurf, Copilot) to respect your project's boundaries, UI libraries, and design patterns."
-  },
-  {
-    "repo": "derHaken/SuperAntigravity",
-    "branch": "main",
-    "language": "Shell",
-    "description": "Superpowers + SuperClaude for Google Antigravity IDE"
-  },
-  {
-    "repo": "momenbasel/PureMac",
-    "branch": "main",
-    "language": "Swift",
-    "description": "Free, open-source macOS cleaner. CleanMyMac alternative with zero telemetry. Native SwiftUI, scheduled auto-cleaning, Xcode/Homebrew/system cache cleanup. MIT licensed."
-  },
-  {
-    "repo": "ibelick/mesurer",
+    "repo": "233i/ore-code",
     "branch": "main",
     "language": "TypeScript",
-    "description": ""
+    "description": "DeepSeek-first desktop coding agent workbench"
   },
   {
-    "repo": "polymarket-dev/Polymarket-Arbitrage-Bot",
+    "repo": "ps5-linux/ps5-linux-loader",
     "branch": "main",
-    "language": "TypeScript",
-    "description": "polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket arbitrage bot"
+    "language": "C",
+    "description": "Linux payload implementing the HV exploit and a custom bootloader"
   },
   {
-    "repo": "badlogic/jot",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "Minimal self-hosted markdown editor with inline comment threads"
-  },
-  {
-    "repo": "jina-ai/jina-grep-cli",
-    "branch": "main",
-    "language": "Python",
-    "description": "Semantic grep powered by Jina embeddings v5 (MLX on Apple Silicon)"
-  },
-  {
-    "repo": "hengfengliya/imgood",
-    "branch": "main",
-    "language": "CSS",
-    "description": ""
-  },
-  {
-    "repo": "DylanDavis1/DSCourier",
-    "branch": "main",
-    "language": "PowerShell",
-    "description": ""
-  },
-  {
-    "repo": "alejandrobalderas/claude-code-from-source",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Architecture, patterns & internals of Anthropic's AI coding agent — reverse-engineered from source maps"
-  },
-  {
-    "repo": "liandu2024/AnGe-ClashBoard",
-    "branch": "main",
-    "language": "Vue",
-    "description": "AnGe-ClashBoard - zashboard 完整体"
-  },
-  {
-    "repo": "bcurts/agentchattr",
-    "branch": "main",
-    "language": "Python",
-    "description": "Local chat server for real-time autonomous coordination between AI coding agents and humans"
-  },
-  {
-    "repo": "fasheartheater1853/kmspico-lol-2026",
+    "repo": "aresthehacker/Assassin-s-Creed-Black-Flag",
     "branch": "main",
     "language": "C++",
-    "description": "A powerful Windows-native (.exe) management utility for Microsoft KMS (Key Management Service) orchestration. Designed for enterprise volume license validation, GVLK deployment, and automated asset maintenance."
+    "description": "Assassin's Creed Black Flag Resynced Collector's Edition 2026 Edward Kenway Statue PS5 Pro PSSR Ray Tracing High FPS Anvil Engine Caribbean Open World Pirate Simulator PC Download Steam Deck Performance Save Editor Gameplay Reveal July 9 Release Official Roadmap Ubisoft 2026"
   },
   {
-    "repo": "Windy3f3f3f3f/claude-code-from-scratch",
+    "repo": "limitless-org/crypto-engine",
     "branch": "main",
     "language": "TypeScript",
-    "description": "Build your own coding agent from scratch in ~1300 lines of TypeScript. / 从零构建你自己的 Claude Code，~1300 行代码，分步教程"
+    "description": "Crypto Engine"
   },
   {
-    "repo": "bambinamoldranz1/Skeet.cc_CS2_Cheat_2026",
-    "branch": "main",
-    "language": "C++",
-    "description": "High-Performance CS2 Enhancement Suite - Premium Internal Utility with Precision Assistance, ESP, and Visuals."
-  },
-  {
-    "repo": "selfishblackberry177/sni-spoof",
-    "branch": "main",
-    "language": "Go",
-    "description": "Go port of @patterniha's SNI spoofing / DPI bypass TCP forwarder (Linux)"
-  },
-  {
-    "repo": "twwch/AIComicBuilder",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "AI-powered animated comic generator — transform scripts into fully animated videos with AI-driven character design,    storyboarding, and video synthesis."
-  },
-  {
-    "repo": "veyliss/ai-localbase",
-    "branch": "main",
-    "language": "Go",
-    "description": "一个本地优先的AI知识库系统（RAG），用于把本地文档接入辅导搜索与大模型对话流程。"
-  },
-  {
-    "repo": "ED-MODESTO/polymarket-copy-trading-bot",
-    "branch": "master",
-    "language": "TypeScript",
-    "description": "polymarekt copy trading bot, polymarekt copy trading bot, polymarekt copy trading bot, polymarekt copy trading bot, polymarekt copy trading bot, polymarekt copy trading bot, polymarekt copy trading bot, polymarekt copy trading bot, polymarekt copy trading bot, polymarekt trading bot, polymarekt trading bot, polymarekt trading bot polymarekt trading"
-  },
-  {
-    "repo": "yzhao062/agent-style",
+    "repo": "NagaaSaketh/Pet-Simulator-99-Auto-Farm-Trainer-2026-Nitro",
     "branch": "main",
     "language": "Python",
-    "description": "21 writing rules for AI coding and writing agents. Drop-in for Claude Code, Codex, Copilot, Cursor, and Aider, so their output reads like a tech pro."
+    "description": "Boost your Pet Simulator 99 progress with the Nitro trainer. Auto-farm, auto-hatch, instant break, and League auto-grind – all in one sleek GUI. Works with the June 2026 update."
   },
   {
-    "repo": "AIScientists-Dev/WorldSeed",
+    "repo": "PercolatorFinance/ProwlFinance",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Private rails for the agentic economy on Solana. 🐺 Stealth addresses + x402 payments for AI agents."
+  },
+  {
+    "repo": "fancydirty/mediary-scout",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Agent-driven media library for your cloud drives (115 / Quark)."
+  },
+  {
+    "repo": "appergb/openless",
+    "branch": "main",
+    "language": "HTML",
+    "description": "Hold a key, speak, release — AI-polished text appears at your cursor in any app. Open-source voice input for macOS & Windows. (按住快捷键说话，松开即得润色后的文字)"
+  },
+  {
+    "repo": "b-nnett/codex-plusplus",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Codex++ tweak system for the Codex desktop app"
+  },
+  {
+    "repo": "Udacity-ai/pumpfun-ai-trading-bot",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "OpenAI-powered Pump.fun comment automation on Solana. Thread engagement, proxy support, wallet modes, and local data.json comment bank. ISC. ai trading bot, pumpfun trading bot, trading bot, pumfun ai trading bot,ai trading bot, pumpfun trading bot, trading bot, pumfun ai trading bot,ai trading bot, pumpfun trading bot, trading bot, pumfun trading"
+  },
+  {
+    "repo": "sii-research/tau-0-wm",
     "branch": "main",
     "language": "Python",
-    "description": "A world engine where AI agents live autonomously — physical rules, information asymmetry, any agent can plug in. Define scenarios in YAML, watch stories emerge."
+    "description": ""
+  },
+  {
+    "repo": "Alkih/Nightlight-Game-Launcher",
+    "branch": "main",
+    "language": "C#",
+    "description": "Nightlight Game Launcher: NLGL download, Rockstar Social Club bypass, GTA V Epic Games launch error, RDR2 offline play, GTA IV Social Club fix. Steam account switcher, Epic Online Services bypass, EOS SDK. dll, -nobattleye, -scOfflineMode, launch options, account manager, local backup, source code GitHub, onajlikezz, open source tool."
+  },
+  {
+    "repo": "python-telegramBot/ai-auto-trading",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "AI trading bot crypto LLM agent quantitative trading automated trading algorithmic trading Binance Gate.io TypeScript Node.js VoltAgent crypto bot risk management multi-strategy"
+  },
+  {
+    "repo": "wwe-dog/ppt-image2-editable-rebuild",
+    "branch": "main",
+    "language": "Python",
+    "description": "一个基于截图/参考图重建可编辑 PPT 的 Codex skill。先用 image2/imagegen 生成单页视觉参考图，再以局部截图保留复杂插图、图标、地图等视觉资产，同时用 PPT 文本框和形状重建标题、正文、卡片、箭头、标签、结论条等可编辑元素。"
+  },
+  {
+    "repo": "ByteDance-Seed/Cola-DLM",
+    "branch": "main",
+    "language": "Python",
+    "description": "The codebase of Cola DLM"
+  },
+  {
+    "repo": "RoushanKhalid/File_Encryption_Tool",
+    "branch": "main",
+    "language": "Python",
+    "description": "Encrypt/decrypt files with AES-256 and password protection. Encrypt files, decrypt files, batch encrypt, and encrypt entire folders. Protect your data."
+  },
+  {
+    "repo": "QwenLM/FlashQLA",
+    "branch": "main",
+    "language": "Python",
+    "description": "high-performance linear attention kernel library built on TileLang"
   }
 ]
