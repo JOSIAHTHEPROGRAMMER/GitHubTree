@@ -1,8 +1,8 @@
 {
-  "repo": "Kablex/ComfyUI-Ref2VA-VSA",
+  "repo": "Foadsf/vintage-latex",
   "branch": "main",
-  "language": "Python",
-  "description": "A featured project on GitHubTree.",
-  "stars": 103,
-  "forks": 12
+  "language": "PowerShell",
+  "description": "Twenty LuaLaTeX and MetaPost (fiziko) examples of the old scientific-paper aesthetic: engraved plates, star charts, computed log tables, knots, telescopes",
+  "stars": 174,
+  "forks": 11
 }

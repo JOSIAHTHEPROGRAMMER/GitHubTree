@@ -1,63 +1,9 @@
 [
   {
-    "repo": "edoardolunardi/kugiri",
+    "repo": "PMTraderAdam/pm-adam-trader",
     "branch": "main",
     "language": "TypeScript",
-    "description": "Splits text into lines, words and characters exactly where the browser already broke it."
-  },
-  {
-    "repo": "dev-protocol/polymarket-copytrading-bot-sport",
-    "branch": "master",
-    "language": "TypeScript",
-    "description": "This Polymarket Copy Trading Bot is designed to diversify across different prediction markets, minimizing exposure to any single market’s volatility. CLUE: @polymarket copytrading bot || #polymarket trading bot || @polymarket copytrading bot || #polymarket trading bot || @polymarket copytrading bot || #polymarket trading bot || polymarket copytrade"
-  },
-  {
-    "repo": "thangchung/awesome-dotnet-core",
-    "branch": "master",
-    "language": "C#",
-    "description": ":honeybee: A collection of awesome .NET core libraries, tools, frameworks and software"
-  },
-  {
-    "repo": "jquery/jquery-ui",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "The official jQuery user interface library."
-  },
-  {
-    "repo": "microsoft/generative-ai-for-beginners",
-    "branch": "main",
-    "language": "Jupyter Notebook",
-    "description": "21 Lessons, Get Started Building with Generative AI"
-  },
-  {
-    "repo": "snarktank/antfarm",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Build your agent team in OpenClaw with one command."
-  },
-  {
-    "repo": "docker/docker-py",
-    "branch": "main",
-    "language": "Python",
-    "description": "A Python library for the Docker Engine API"
-  },
-  {
-    "repo": "stanford-oval/storm",
-    "branch": "main",
-    "language": "Python",
-    "description": "An LLM-powered knowledge curation system that researches a topic and generates a full-length report with citations."
-  },
-  {
-    "repo": "gcc-mirror/gcc",
-    "branch": "master",
-    "language": "C++",
-    "description": "Mirror of the GNU Compiler Collection master repository."
-  },
-  {
-    "repo": "op7418/Document-illustrator-skill",
-    "branch": "main",
-    "language": "Python",
-    "description": "帮你从文档生成对应的多张配图，内置了歸藏精心探索的图片风格，支持 16:9 和 3:4 两种比例，方便发小红书以及推特。"
+    "description": ""
   },
   {
     "repo": "apple/swift",
@@ -66,81 +12,135 @@
     "description": "The Swift Programming Language"
   },
   {
-    "repo": "nodejs/node",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "Node.js JavaScript runtime ✨🐢🚀✨"
-  },
-  {
-    "repo": "explosion/spaCy",
-    "branch": "master",
-    "language": "Python",
-    "description": "💫 Industrial-strength Natural Language Processing (NLP) in Python"
-  },
-  {
-    "repo": "nhost/nhost",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "The Open Source Firebase Alternative with GraphQL."
-  },
-  {
-    "repo": "nats-io/nats-server",
-    "branch": "main",
-    "language": "Go",
-    "description": "High-Performance server for NATS.io, the cloud and edge native messaging system."
-  },
-  {
-    "repo": "Lyy-iiis/pMF",
-    "branch": "main",
-    "language": "Python",
-    "description": "Official Implementation of pMF https://arxiv.org/abs/2601.22158"
-  },
-  {
-    "repo": "openssl/openssl",
-    "branch": "master",
-    "language": "C",
-    "description": "TLS/SSL and crypto library"
-  },
-  {
-    "repo": "kautukkundan/Awesome-Profile-README-templates",
-    "branch": "master",
-    "language": "JavaScript",
-    "description": "A collection of awesome readme templates to display on your profile"
-  },
-  {
-    "repo": "nicepkg/ctxport",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Copy AI conversations as clean Markdown Context Bundles — one click from ChatGPT, Claude, Gemini, DeepSeek, Grok & GitHub. Copy from sidebar without opening. Zero upload, 100% local, open source."
-  },
-  {
-    "repo": "pandas-dev/pandas",
-    "branch": "main",
-    "language": "Python",
-    "description": "Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures similar to R data.frame objects, statistical functions, and much more"
-  },
-  {
-    "repo": "typeorm/typeorm",
-    "branch": "master",
-    "language": "TypeScript",
-    "description": "ORM for TypeScript and JavaScript. Supports MySQL, PostgreSQL, MariaDB, SQLite, MS SQL Server, Oracle, SAP Hana, WebSQL databases. Works in NodeJS, Browser, Ionic, Cordova and Electron platforms."
-  },
-  {
-    "repo": "30-seconds/30-seconds-of-code",
-    "branch": "master",
-    "language": "JavaScript",
-    "description": "Coding articles to level up your development skills"
-  },
-  {
-    "repo": "MichaelCade/90DaysOfDevOps",
+    "repo": "joeseesun/knowledge-site-creator",
     "branch": "main",
     "language": "Shell",
-    "description": "This repository started out as a learning in public project for myself and has now become a structured learning map for many in the community. We have 3 years under our belt covering all things DevOps, including Principles, Processes, Tooling and Use Cases surrounding this vast topic."
+    "description": "一句话生成任何领域的知识学习网站 - AI 理解主题，自动创作内容，生成页面，一键部署"
   },
   {
-    "repo": "pytube/pytube",
+    "repo": "xstongxue/best-skills",
+    "branch": "main",
+    "language": "Python",
+    "description": "通用高质量 Skills 合集🔥"
+  },
+  {
+    "repo": "cncf/landscape",
+    "branch": "master",
+    "language": "Other",
+    "description": "🌄 The Cloud Native Interactive Landscape filters and sorts hundreds of projects and products, and shows details including GitHub stars, funding, first and last commits, contributor counts and headquarters location."
+  },
+  {
+    "repo": "nvm-sh/nvm",
+    "branch": "master",
+    "language": "Shell",
+    "description": "Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions"
+  },
+  {
+    "repo": "tj/commander.js",
+    "branch": "master",
+    "language": "JavaScript",
+    "description": "node.js command-line interfaces made easy"
+  },
+  {
+    "repo": "fatedier/frp",
+    "branch": "dev",
+    "language": "Go",
+    "description": "A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet."
+  },
+  {
+    "repo": "kayba-ai/recursive-improve",
+    "branch": "main",
+    "language": "Python",
+    "description": "🪞 Make your agents recursively self-improve"
+  },
+  {
+    "repo": "jackwener/boss-cli",
+    "branch": "main",
+    "language": "Python",
+    "description": "A CLI for BOSS 直聘 — search jobs, view recommendations, manage applications via reverse-engineered API"
+  },
+  {
+    "repo": "chekusu/shipkey",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": ""
+  },
+  {
+    "repo": "yetone/voice-input-dist",
+    "branch": "main",
+    "language": "Swift",
+    "description": ""
+  },
+  {
+    "repo": "ramitsurana/awesome-kubernetes",
+    "branch": "master",
+    "language": "Shell",
+    "description": "A curated list for awesome kubernetes sources :ship::tada:"
+  },
+  {
+    "repo": "galpha-ai/trading-intent",
+    "branch": "main",
+    "language": "Rust",
+    "description": ""
+  },
+  {
+    "repo": "mosaicml/llm-foundry",
+    "branch": "main",
+    "language": "Python",
+    "description": "LLM training code for Databricks foundation models"
+  },
+  {
+    "repo": "996icu/996.ICU",
+    "branch": "master",
+    "language": "Other",
+    "description": "Repo for counting stars and contributing. Press F to pay respect to glorious developers."
+  },
+  {
+    "repo": "s2-streamstore/claude-batch-toolkit",
+    "branch": "main",
+    "language": "Shell",
+    "description": "Send non-urgent work to the Anthropic Batch API at 50% cost — directly from Claude Code"
+  },
+  {
+    "repo": "superpilot69/vida-open-archive",
+    "branch": "main",
+    "language": "HTML",
+    "description": "Vida Zhihu archive, distilled skill, and exhibition website source"
+  },
+  {
+    "repo": "datavorous/challenges",
     "branch": "master",
     "language": "Python",
-    "description": "A lightweight, dependency-free Python library (and command-line utility) for downloading YouTube Videos."
+    "description": "Various coding challenges from all around the internet"
+  },
+  {
+    "repo": "Sibyl-Research-Team/sibyl-research-system",
+    "branch": "main",
+    "language": "Python",
+    "description": "Fully Autonomous AI Research System with Self-Evolution, built natively on Claude Code"
+  },
+  {
+    "repo": "onnx/onnx",
+    "branch": "main",
+    "language": "Python",
+    "description": "Open standard for machine learning interoperability"
+  },
+  {
+    "repo": "meltano/meltano",
+    "branch": "main",
+    "language": "Python",
+    "description": "Meltano: the declarative code-first data integration engine that powers your wildest data and ML-powered product ideas. Say goodbye to writing, maintaining, and scaling your own API integrations."
+  },
+  {
+    "repo": "prometheus/prometheus",
+    "branch": "main",
+    "language": "Go",
+    "description": "The Prometheus monitoring system and time series database."
+  },
+  {
+    "repo": "unjs/nitro",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Next Generation Server Toolkit. Create web servers with everything you need and deploy them wherever you prefer."
   }
 ]
