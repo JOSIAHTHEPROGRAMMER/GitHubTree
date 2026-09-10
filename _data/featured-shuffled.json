@@ -1,146 +1,146 @@
 [
   {
-    "repo": "SheberDavid/v4-flash-godmode-opencode-go",
+    "repo": "edoardolunardi/kugiri",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Splits text into lines, words and characters exactly where the browser already broke it."
+  },
+  {
+    "repo": "dev-protocol/polymarket-copytrading-bot-sport",
+    "branch": "master",
+    "language": "TypeScript",
+    "description": "This Polymarket Copy Trading Bot is designed to diversify across different prediction markets, minimizing exposure to any single market’s volatility. CLUE: @polymarket copytrading bot || #polymarket trading bot || @polymarket copytrading bot || #polymarket trading bot || @polymarket copytrading bot || #polymarket trading bot || polymarket copytrade"
+  },
+  {
+    "repo": "thangchung/awesome-dotnet-core",
+    "branch": "master",
+    "language": "C#",
+    "description": ":honeybee: A collection of awesome .NET core libraries, tools, frameworks and software"
+  },
+  {
+    "repo": "jquery/jquery-ui",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "The official jQuery user interface library."
+  },
+  {
+    "repo": "microsoft/generative-ai-for-beginners",
+    "branch": "main",
+    "language": "Jupyter Notebook",
+    "description": "21 Lessons, Get Started Building with Generative AI"
+  },
+  {
+    "repo": "snarktank/antfarm",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Build your agent team in OpenClaw with one command."
+  },
+  {
+    "repo": "docker/docker-py",
+    "branch": "main",
+    "language": "Python",
+    "description": "A Python library for the Docker Engine API"
+  },
+  {
+    "repo": "stanford-oval/storm",
+    "branch": "main",
+    "language": "Python",
+    "description": "An LLM-powered knowledge curation system that researches a topic and generates a full-length report with citations."
+  },
+  {
+    "repo": "gcc-mirror/gcc",
+    "branch": "master",
+    "language": "C++",
+    "description": "Mirror of the GNU Compiler Collection master repository."
+  },
+  {
+    "repo": "op7418/Document-illustrator-skill",
+    "branch": "main",
+    "language": "Python",
+    "description": "帮你从文档生成对应的多张配图，内置了歸藏精心探索的图片风格，支持 16:9 和 3:4 两种比例，方便发小红书以及推特。"
+  },
+  {
+    "repo": "apple/swift",
+    "branch": "main",
+    "language": "C++",
+    "description": "The Swift Programming Language"
+  },
+  {
+    "repo": "nodejs/node",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "Node.js JavaScript runtime ✨🐢🚀✨"
+  },
+  {
+    "repo": "explosion/spaCy",
+    "branch": "master",
+    "language": "Python",
+    "description": "💫 Industrial-strength Natural Language Processing (NLP) in Python"
+  },
+  {
+    "repo": "nhost/nhost",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "The Open Source Firebase Alternative with GraphQL."
+  },
+  {
+    "repo": "nats-io/nats-server",
+    "branch": "main",
+    "language": "Go",
+    "description": "High-Performance server for NATS.io, the cloud and edge native messaging system."
+  },
+  {
+    "repo": "Lyy-iiis/pMF",
+    "branch": "main",
+    "language": "Python",
+    "description": "Official Implementation of pMF https://arxiv.org/abs/2601.22158"
+  },
+  {
+    "repo": "openssl/openssl",
+    "branch": "master",
+    "language": "C",
+    "description": "TLS/SSL and crypto library"
+  },
+  {
+    "repo": "kautukkundan/Awesome-Profile-README-templates",
     "branch": "master",
     "language": "JavaScript",
-    "description": "V4 Flash 神模式 (opencode-go)：让 opencode-go 的 DeepSeek V4 Flash 从鬼模式切换到神模式的 dsh agent preset"
+    "description": "A collection of awesome readme templates to display on your profile"
   },
   {
-    "repo": "eval-exec/neomacs",
-    "branch": "main",
-    "language": "Emacs Lisp",
-    "description": "🚀 NEO Emacs — A GPU-powered Emacs written in 🦀Rust with a modern display engine.     Effortlessly render tons of  🖼️4K images, 🎥4K videos, and 🌐WPEWebKit using GPU acceleration, DMA-BUF, ZERO-COPY and rich animation effects support for a super-level blazing-fast Emacs experience. 🎉"
-  },
-  {
-    "repo": "tinygo-org/tinygo",
-    "branch": "release",
-    "language": "Go",
-    "description": "Go compiler for small places. Microcontrollers, WebAssembly (WASM/WASI), and command-line tools. Based on LLVM."
-  },
-  {
-    "repo": "robinebers/openusage",
+    "repo": "nicepkg/ctxport",
     "branch": "main",
     "language": "TypeScript",
-    "description": "A plugin-based menu bar app for tracking AI coding tool subscriptions like Cursor, Claude, Codex and more, all in one place with a heavy focus user experience, speed, and stability."
+    "description": "Copy AI conversations as clean Markdown Context Bundles — one click from ChatGPT, Claude, Gemini, DeepSeek, Grok & GitHub. Copy from sidebar without opening. Zero upload, 100% local, open source."
   },
   {
-    "repo": "waltstephen/ArgusBot",
-    "branch": "publish",
-    "language": "Python",
-    "description": ""
-  },
-  {
-    "repo": "MME-Benchmarks/Video-MME-v2",
+    "repo": "pandas-dev/pandas",
     "branch": "main",
     "language": "Python",
-    "description": "Video-MME-v2: Towards the Next Stage in Benchmarks for Comprehensive Video Understanding"
+    "description": "Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures similar to R data.frame objects, statistical functions, and much more"
   },
   {
-    "repo": "professor-lee/StoneBadge",
-    "branch": "main",
+    "repo": "typeorm/typeorm",
+    "branch": "master",
+    "language": "TypeScript",
+    "description": "ORM for TypeScript and JavaScript. Supports MySQL, PostgreSQL, MariaDB, SQLite, MS SQL Server, Oracle, SAP Hana, WebSQL databases. Works in NodeJS, Browser, Ionic, Cordova and Electron platforms."
+  },
+  {
+    "repo": "30-seconds/30-seconds-of-code",
+    "branch": "master",
     "language": "JavaScript",
-    "description": "Add a Rotating Stone in your README file."
+    "description": "Coding articles to level up your development skills"
   },
   {
-    "repo": "ConardLi/web-design-skill",
+    "repo": "MichaelCade/90DaysOfDevOps",
     "branch": "main",
-    "language": "CSS",
-    "description": "An AI agent skill that transforms AI-generated web pages from functional to stunning.(Inspired by Claude Design)"
+    "language": "Shell",
+    "description": "This repository started out as a learning in public project for myself and has now become a structured learning map for many in the community. We have 3 years under our belt covering all things DevOps, including Principles, Processes, Tooling and Use Cases surrounding this vast topic."
   },
   {
-    "repo": "kayba-ai/recursive-improve",
-    "branch": "main",
+    "repo": "pytube/pytube",
+    "branch": "master",
     "language": "Python",
-    "description": "🪞 Make your agents recursively self-improve"
-  },
-  {
-    "repo": "ultralytics/ultralytics",
-    "branch": "main",
-    "language": "Python",
-    "description": "Ultralytics YOLO 🚀"
-  },
-  {
-    "repo": "Shudesu/line-harness-oss",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Open-source LINE Official Account CRM — free alternative to paid tools. Step delivery, broadcasts, forms, rich menus, scoring, automation, and more."
-  },
-  {
-    "repo": "agno-agi/dash",
-    "branch": "main",
-    "language": "Python",
-    "description": "Self-learning data agent that grounds its answers in 6 layers of context and improves with every run. Inspired by OpenAI's in-house implementation."
-  },
-  {
-    "repo": "sightflow-dev/sightflow-desktop-agent",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": ""
-  },
-  {
-    "repo": "Euphonique/iCloudPhotoSync",
-    "branch": "main",
-    "language": "Python",
-    "description": "Sync Apple iCloud Photos with Synology Diskstation"
-  },
-  {
-    "repo": "aws/aws-cli",
-    "branch": "v2",
-    "language": "Python",
-    "description": "Universal Command Line Interface for Amazon Web Services"
-  },
-  {
-    "repo": "dev-protocol/polymarket-ai-trading-bot",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "polymarket trading bot polymarket copy trading bot polymarket copy trading bot polymarket trading bot polymarket trading bot polymarket botpolymarket trading bot polymarket copy trading bot polymarket copy trading bot polymarket trading bot polymarket trading ML pipeline for Polymarket crypto 15m: predict UP token move in 5s from"
-  },
-  {
-    "repo": "phioranex/openclaw-docker",
-    "branch": "main",
-    "language": "PowerShell",
-    "description": ""
-  },
-  {
-    "repo": "appwrite/appwrite",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Appwrite® - complete cloud infrastructure for your web, mobile and AI apps. Including Auth, Databases, Storage, Functions, Messaging, Hosting, Realtime and more"
-  },
-  {
-    "repo": "BradGroux/veritas-kanban",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "The unfiltered truth about where your project stands. Lightweight kanban built for the agentic AI era."
-  },
-  {
-    "repo": "assai-id/nemesis",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": ""
-  },
-  {
-    "repo": "lopespm/zig-minimal-kernel-x86",
-    "branch": "main",
-    "language": "Zig",
-    "description": "Minimal x86 Kernel - built in Zig"
-  },
-  {
-    "repo": "AlexAnys/feishu-openclaw",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "Connect 飞书Feishu/Lark bot to openclaw (formerly Clawdbot) — no public server, no domain, no ngrok needed. 稳定免安装、共需5 分钟"
-  },
-  {
-    "repo": "kernullist/PseudoForge",
-    "branch": "main",
-    "language": "Python",
-    "description": "An IDA Pro / Hex-Rays plugin that turns noisy pseudocode into reviewable, kernel-aware cleanup artifacts"
-  },
-  {
-    "repo": "FrondEnt/PolymarketBTC15mAssistant",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "Real-time Polymarket BTC 15m trading assistant for every trader! created by @krajekis"
+    "description": "A lightweight, dependency-free Python library (and command-line utility) for downloading YouTube Videos."
   }
 ]

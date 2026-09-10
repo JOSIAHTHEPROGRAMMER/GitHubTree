@@ -1,8 +1,8 @@
 {
-  "repo": "chigwell/Penelopa.ai",
+  "repo": "Kablex/ComfyUI-Ref2VA-VSA",
   "branch": "main",
-  "language": "JavaScript",
-  "description": "Continuous improvement for AI coding agents: Penelopa analyzes real Codex and Claude Code sessions, finds repeated workflow patterns, and turns them into reusable skills, checks, prompts, and recommendations.",
-  "stars": 113,
-  "forks": 2
+  "language": "Python",
+  "description": "A featured project on GitHubTree.",
+  "stars": 103,
+  "forks": 12
 }
