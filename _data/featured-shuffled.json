@@ -1,146 +1,146 @@
 [
   {
-    "repo": "Vheissu/hit-and-run-web",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Playable browser reconstruction of The Simpsons: Hit & Run with converted assets and Blender remaster tools."
-  },
-  {
-    "repo": "espressif/esp-idf",
-    "branch": "master",
-    "language": "C",
-    "description": "Espressif IoT Development Framework. Official development framework for Espressif SoCs."
-  },
-  {
-    "repo": "Unclecheng-li/AI-Animation-Skill",
-    "branch": "main",
-    "language": "HTML",
-    "description": "使用 AI 生成 HTML 演示动画的工具集，让视频创作者能够快速将科普文本转换为炫酷的演示动画。"
-  },
-  {
-    "repo": "spring-projects/spring-data-jpa",
-    "branch": "main",
-    "language": "Java",
-    "description": "Simplifies the development of creating a JPA-based data access layer."
-  },
-  {
-    "repo": "Veirt/weathr",
-    "branch": "main",
-    "language": "Rust",
-    "description": "a terminal weather app with ascii animation"
-  },
-  {
-    "repo": "kevinrgu/autoagent",
-    "branch": "main",
-    "language": "Python",
-    "description": "autonomous harness engineering"
-  },
-  {
-    "repo": "nestjs/nest",
-    "branch": "master",
-    "language": "TypeScript",
-    "description": "A progressive Node.js framework for building efficient, scalable, and enterprise-grade server-side applications with TypeScript/JavaScript 🚀"
-  },
-  {
-    "repo": "fastclaw-ai/weclaw",
-    "branch": "main",
-    "language": "Go",
-    "description": "Connect to any agents with WeChat ClawBot."
-  },
-  {
-    "repo": "Shudesu/line-harness-oss",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Open-source LINE Official Account CRM — free alternative to paid tools. Step delivery, broadcasts, forms, rich menus, scoring, automation, and more."
-  },
-  {
-    "repo": "liuwei283/RealWonder",
-    "branch": "main",
-    "language": "Python",
-    "description": "Real-Time Physical Action-Conditioned Video Generation"
-  },
-  {
-    "repo": "fjh1997/Linux.do-Accelerator",
-    "branch": "main",
-    "language": "Rust",
-    "description": "一个原生 Rust 的 linux.do 专属加速器，基于本地 ECH/DoH 处理，支持 CLI + 桌面 GUI。 Native Rust accelerator for linux.do with local ECH/DoH-assisted access, CLI + desktop GUI."
-  },
-  {
-    "repo": "ClawBio/ClawBio",
-    "branch": "main",
-    "language": "Python",
-    "description": "🦖 ClawBio — The first bioinformatics-native AI agent skill library. Local-first. Reproducible. Built on OpenClaw."
-  },
-  {
-    "repo": "CocoaPods/CocoaPods",
-    "branch": "master",
-    "language": "Ruby",
-    "description": "The Cocoa Dependency Manager."
-  },
-  {
-    "repo": "jackwener/rdt-cli",
-    "branch": "main",
-    "language": "Python",
-    "description": "Reddit in your terminal 📖 — Browse feeds, read posts, search, upvote, save, subscribe"
-  },
-  {
-    "repo": "ferrolho/VL53L5CX-BNO08X-viewer",
-    "branch": "main",
-    "language": "Python",
-    "description": "Turn a Time-of-Flight sensor into a 3D Scanner"
-  },
-  {
-    "repo": "github/copilot-docs",
-    "branch": "main",
-    "language": "Other",
-    "description": "Documentation for GitHub Copilot"
-  },
-  {
-    "repo": "AprilNEA/claude-code-source",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Claude Code source code recovered from source map"
-  },
-  {
-    "repo": "ringhyacinth/Star-Office-UI",
-    "branch": "master",
-    "language": "HTML",
-    "description": ""
-  },
-  {
-    "repo": "verialabs/ctf-agent",
-    "branch": "main",
-    "language": "Python",
-    "description": "Autonomous CTF solver that races multiple AI models in parallel. 1st place BSidesSF 2026."
-  },
-  {
-    "repo": "LukeRenton/explore-claude-code",
+    "repo": "frontier-harness-eval/eval",
     "branch": "main",
     "language": "JavaScript",
-    "description": "Learn Claude Code by exploring it as it was designed - interactive IDE-style docs for commands, MCP, skills, CLAUDE.md and more."
+    "description": "Public results and task definitions for FrontierHarness Eval"
   },
   {
-    "repo": "ythx-101/ask-search",
-    "branch": "master",
-    "language": "Python",
-    "description": "Self-hosted web search skill for AI agents (OpenClaw/Claude Code/Antigravity) via SearxNG"
-  },
-  {
-    "repo": "google/sentencepiece",
-    "branch": "master",
-    "language": "C++",
-    "description": "Unsupervised text tokenizer for Neural Network-based text generation."
-  },
-  {
-    "repo": "VineeTagarwaL-code/claude-code",
+    "repo": "knative/serving",
     "branch": "main",
+    "language": "Go",
+    "description": "Kubernetes-based, scale-to-zero, request-driven compute"
+  },
+  {
+    "repo": "openssl/openssl",
+    "branch": "master",
+    "language": "C",
+    "description": "TLS/SSL and crypto library"
+  },
+  {
+    "repo": "google/benchmark",
+    "branch": "main",
+    "language": "C++",
+    "description": "A microbenchmark support library"
+  },
+  {
+    "repo": "pyenv/pyenv",
+    "branch": "master",
+    "language": "Shell",
+    "description": "Simple Python version management"
+  },
+  {
+    "repo": "NVIDIA/cudnn-frontend",
+    "branch": "main",
+    "language": "C++",
+    "description": "cudnn_frontend provides a c++ wrapper for the cudnn backend API and samples on how to use it"
+  },
+  {
+    "repo": "google-deepmind/graphcast",
+    "branch": "main",
+    "language": "Python",
+    "description": "Deep learning weather model from Google DeepMind."
+  },
+  {
+    "repo": "github/hub",
+    "branch": "master",
+    "language": "Go",
+    "description": "A command-line tool that makes git easier to use with GitHub."
+  },
+  {
+    "repo": "GoogleContainerTools/jib",
+    "branch": "master",
+    "language": "Java",
+    "description": "🏗 Build container images for your Java applications."
+  },
+  {
+    "repo": "umijs/umi",
+    "branch": "master",
     "language": "TypeScript",
+    "description": "A framework in react community ✨"
+  },
+  {
+    "repo": "elementalsouls/Claude-OSINT",
+    "branch": "main",
+    "language": "Python",
     "description": ""
   },
   {
-    "repo": "microsoft/autogen",
+    "repo": "prepzone504/PUBG_Lite_ESP___Aimbot",
     "branch": "main",
     "language": "Python",
-    "description": "A programming framework for agentic AI"
+    "description": "Lightweight ESP and aimbot for PUBG Lite (low-end PC friendly). Draw boxes around enemies, auto-aim, show loot, and remove grass. Optimized for performance."
+  },
+  {
+    "repo": "dzcmemory-web/bazi-ziwei-skill",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "AI 八字 + 紫微斗数排盘与综合印证 Skill：算法精准排盘（不靠 LLM 猜），三种分析模式，一键生成水墨风 HTML 命盘海报。兼容 Claude / Codex / Cursor / Workbuddy 等 SKILL.md Agent。"
+  },
+  {
+    "repo": "keanucz/detour",
+    "branch": "master",
+    "language": "TypeScript",
+    "description": "On-board AI agents autonomously saving satellites from orbital debris @ treehacks 2026"
+  },
+  {
+    "repo": "LocoreMind/LocoTrainer",
+    "branch": "main",
+    "language": "Python",
+    "description": "MS-SWIFT domain expert agent for codebase analysis and report generation"
+  },
+  {
+    "repo": "nextcloud/server",
+    "branch": "master",
+    "language": "PHP",
+    "description": "☁️ Nextcloud server, a safe home for all your data"
+  },
+  {
+    "repo": "PinchToDebug/EverythingQuickSearch",
+    "branch": "master",
+    "language": "C#",
+    "description": ""
+  },
+  {
+    "repo": "systemd/systemd",
+    "branch": "main",
+    "language": "C",
+    "description": "The systemd System and Service Manager"
+  },
+  {
+    "repo": "sentrux/sentrux",
+    "branch": "main",
+    "language": "Rust",
+    "description": "See what your AI agent is building. Real-time architecture visualization + structural quality scoring for AI-generated code. Pure Rust."
+  },
+  {
+    "repo": "mahi64675/SpotSync-Web",
+    "branch": "main",
+    "language": "HTML",
+    "description": "MeTify 2026: Self-Hosted Music Downloader with Spotify Web UI Integration"
+  },
+  {
+    "repo": "mereses-labs/solana-pumpfun-bundler",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "🏗️solana pumpfun bundler stealth-mode, bubblemap-bypassing, real bot activity An open-source bundler for pumpfun allows you to create a token and bundle it with 25 buys.Solana bundler Pumpfun bundler  bundler · Bonkfun bundler bundler. Multi-wallet bundler for Solana to"
+  },
+  {
+    "repo": "microsoft/winget-pkgs",
+    "branch": "master",
+    "language": "PowerShell",
+    "description": "The Microsoft community Windows Package Manager manifest repository"
+  },
+  {
+    "repo": "Longbridges/polymarket-kalshi-arbitrage-bot",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "polymarket trading bot, polymarket bot, polymarket kalshi trading bot, polymarket trading bot, polymarket bot, polymarket kalshi trading bot, polymarket trading bot, polymarket bot, polymarket kalshi trading bot, polymarket trading bot, polymarket bot, polymarket kalshi trading bot, polymarket trading bot, polymarket bot"
+  },
+  {
+    "repo": "cH1LLa/Photoshop-v27.6",
+    "branch": "main",
+    "language": "C++",
+    "description": "Adobe Photoshop v27.6 Download April 2026 Release New Features AI Rotate Object Reflection Removal Tool Firefly Image 5 Gemini 3.1 Integration Generative Fill Multi Reference Images Fix Stutter Remove Distractions Tutorial 4K Upscaling Creative Cloud Update Photography Plan Best Photo Editor 2026 Free Trial Latest Build"
   }
 ]
