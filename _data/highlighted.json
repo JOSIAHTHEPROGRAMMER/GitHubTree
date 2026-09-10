@@ -1,8 +1,8 @@
 {
-  "repo": "Foadsf/vintage-latex",
+  "repo": "MartinDelophy/awesome-gpt-6-astra",
   "branch": "main",
-  "language": "PowerShell",
-  "description": "Twenty LuaLaTeX and MetaPost (fiziko) examples of the old scientific-paper aesthetic: engraved plates, star charts, computed log tables, knots, telescopes",
-  "stars": 174,
-  "forks": 11
+  "language": "JavaScript",
+  "description": "A curated collection of fun games built with GPT-6 Astra, with source code, demos, and prompts. | GPT-6 Astra 游戏精选",
+  "stars": 134,
+  "forks": 27
 }

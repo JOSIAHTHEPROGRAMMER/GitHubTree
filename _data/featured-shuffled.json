@@ -1,146 +1,146 @@
 [
   {
-    "repo": "PMTraderAdam/pm-adam-trader",
+    "repo": "Vheissu/hit-and-run-web",
     "branch": "main",
     "language": "TypeScript",
-    "description": ""
+    "description": "Playable browser reconstruction of The Simpsons: Hit & Run with converted assets and Blender remaster tools."
   },
   {
-    "repo": "apple/swift",
-    "branch": "main",
-    "language": "C++",
-    "description": "The Swift Programming Language"
-  },
-  {
-    "repo": "joeseesun/knowledge-site-creator",
-    "branch": "main",
-    "language": "Shell",
-    "description": "一句话生成任何领域的知识学习网站 - AI 理解主题，自动创作内容，生成页面，一键部署"
-  },
-  {
-    "repo": "xstongxue/best-skills",
-    "branch": "main",
-    "language": "Python",
-    "description": "通用高质量 Skills 合集🔥"
-  },
-  {
-    "repo": "cncf/landscape",
+    "repo": "espressif/esp-idf",
     "branch": "master",
-    "language": "Other",
-    "description": "🌄 The Cloud Native Interactive Landscape filters and sorts hundreds of projects and products, and shows details including GitHub stars, funding, first and last commits, contributor counts and headquarters location."
+    "language": "C",
+    "description": "Espressif IoT Development Framework. Official development framework for Espressif SoCs."
   },
   {
-    "repo": "nvm-sh/nvm",
-    "branch": "master",
-    "language": "Shell",
-    "description": "Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions"
-  },
-  {
-    "repo": "tj/commander.js",
-    "branch": "master",
-    "language": "JavaScript",
-    "description": "node.js command-line interfaces made easy"
-  },
-  {
-    "repo": "fatedier/frp",
-    "branch": "dev",
-    "language": "Go",
-    "description": "A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet."
-  },
-  {
-    "repo": "kayba-ai/recursive-improve",
-    "branch": "main",
-    "language": "Python",
-    "description": "🪞 Make your agents recursively self-improve"
-  },
-  {
-    "repo": "jackwener/boss-cli",
-    "branch": "main",
-    "language": "Python",
-    "description": "A CLI for BOSS 直聘 — search jobs, view recommendations, manage applications via reverse-engineered API"
-  },
-  {
-    "repo": "chekusu/shipkey",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": ""
-  },
-  {
-    "repo": "yetone/voice-input-dist",
-    "branch": "main",
-    "language": "Swift",
-    "description": ""
-  },
-  {
-    "repo": "ramitsurana/awesome-kubernetes",
-    "branch": "master",
-    "language": "Shell",
-    "description": "A curated list for awesome kubernetes sources :ship::tada:"
-  },
-  {
-    "repo": "galpha-ai/trading-intent",
-    "branch": "main",
-    "language": "Rust",
-    "description": ""
-  },
-  {
-    "repo": "mosaicml/llm-foundry",
-    "branch": "main",
-    "language": "Python",
-    "description": "LLM training code for Databricks foundation models"
-  },
-  {
-    "repo": "996icu/996.ICU",
-    "branch": "master",
-    "language": "Other",
-    "description": "Repo for counting stars and contributing. Press F to pay respect to glorious developers."
-  },
-  {
-    "repo": "s2-streamstore/claude-batch-toolkit",
-    "branch": "main",
-    "language": "Shell",
-    "description": "Send non-urgent work to the Anthropic Batch API at 50% cost — directly from Claude Code"
-  },
-  {
-    "repo": "superpilot69/vida-open-archive",
+    "repo": "Unclecheng-li/AI-Animation-Skill",
     "branch": "main",
     "language": "HTML",
-    "description": "Vida Zhihu archive, distilled skill, and exhibition website source"
+    "description": "使用 AI 生成 HTML 演示动画的工具集，让视频创作者能够快速将科普文本转换为炫酷的演示动画。"
   },
   {
-    "repo": "datavorous/challenges",
+    "repo": "spring-projects/spring-data-jpa",
+    "branch": "main",
+    "language": "Java",
+    "description": "Simplifies the development of creating a JPA-based data access layer."
+  },
+  {
+    "repo": "Veirt/weathr",
+    "branch": "main",
+    "language": "Rust",
+    "description": "a terminal weather app with ascii animation"
+  },
+  {
+    "repo": "kevinrgu/autoagent",
+    "branch": "main",
+    "language": "Python",
+    "description": "autonomous harness engineering"
+  },
+  {
+    "repo": "nestjs/nest",
     "branch": "master",
-    "language": "Python",
-    "description": "Various coding challenges from all around the internet"
+    "language": "TypeScript",
+    "description": "A progressive Node.js framework for building efficient, scalable, and enterprise-grade server-side applications with TypeScript/JavaScript 🚀"
   },
   {
-    "repo": "Sibyl-Research-Team/sibyl-research-system",
-    "branch": "main",
-    "language": "Python",
-    "description": "Fully Autonomous AI Research System with Self-Evolution, built natively on Claude Code"
-  },
-  {
-    "repo": "onnx/onnx",
-    "branch": "main",
-    "language": "Python",
-    "description": "Open standard for machine learning interoperability"
-  },
-  {
-    "repo": "meltano/meltano",
-    "branch": "main",
-    "language": "Python",
-    "description": "Meltano: the declarative code-first data integration engine that powers your wildest data and ML-powered product ideas. Say goodbye to writing, maintaining, and scaling your own API integrations."
-  },
-  {
-    "repo": "prometheus/prometheus",
+    "repo": "fastclaw-ai/weclaw",
     "branch": "main",
     "language": "Go",
-    "description": "The Prometheus monitoring system and time series database."
+    "description": "Connect to any agents with WeChat ClawBot."
   },
   {
-    "repo": "unjs/nitro",
+    "repo": "Shudesu/line-harness-oss",
     "branch": "main",
     "language": "TypeScript",
-    "description": "Next Generation Server Toolkit. Create web servers with everything you need and deploy them wherever you prefer."
+    "description": "Open-source LINE Official Account CRM — free alternative to paid tools. Step delivery, broadcasts, forms, rich menus, scoring, automation, and more."
+  },
+  {
+    "repo": "liuwei283/RealWonder",
+    "branch": "main",
+    "language": "Python",
+    "description": "Real-Time Physical Action-Conditioned Video Generation"
+  },
+  {
+    "repo": "fjh1997/Linux.do-Accelerator",
+    "branch": "main",
+    "language": "Rust",
+    "description": "一个原生 Rust 的 linux.do 专属加速器，基于本地 ECH/DoH 处理，支持 CLI + 桌面 GUI。 Native Rust accelerator for linux.do with local ECH/DoH-assisted access, CLI + desktop GUI."
+  },
+  {
+    "repo": "ClawBio/ClawBio",
+    "branch": "main",
+    "language": "Python",
+    "description": "🦖 ClawBio — The first bioinformatics-native AI agent skill library. Local-first. Reproducible. Built on OpenClaw."
+  },
+  {
+    "repo": "CocoaPods/CocoaPods",
+    "branch": "master",
+    "language": "Ruby",
+    "description": "The Cocoa Dependency Manager."
+  },
+  {
+    "repo": "jackwener/rdt-cli",
+    "branch": "main",
+    "language": "Python",
+    "description": "Reddit in your terminal 📖 — Browse feeds, read posts, search, upvote, save, subscribe"
+  },
+  {
+    "repo": "ferrolho/VL53L5CX-BNO08X-viewer",
+    "branch": "main",
+    "language": "Python",
+    "description": "Turn a Time-of-Flight sensor into a 3D Scanner"
+  },
+  {
+    "repo": "github/copilot-docs",
+    "branch": "main",
+    "language": "Other",
+    "description": "Documentation for GitHub Copilot"
+  },
+  {
+    "repo": "AprilNEA/claude-code-source",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Claude Code source code recovered from source map"
+  },
+  {
+    "repo": "ringhyacinth/Star-Office-UI",
+    "branch": "master",
+    "language": "HTML",
+    "description": ""
+  },
+  {
+    "repo": "verialabs/ctf-agent",
+    "branch": "main",
+    "language": "Python",
+    "description": "Autonomous CTF solver that races multiple AI models in parallel. 1st place BSidesSF 2026."
+  },
+  {
+    "repo": "LukeRenton/explore-claude-code",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "Learn Claude Code by exploring it as it was designed - interactive IDE-style docs for commands, MCP, skills, CLAUDE.md and more."
+  },
+  {
+    "repo": "ythx-101/ask-search",
+    "branch": "master",
+    "language": "Python",
+    "description": "Self-hosted web search skill for AI agents (OpenClaw/Claude Code/Antigravity) via SearxNG"
+  },
+  {
+    "repo": "google/sentencepiece",
+    "branch": "master",
+    "language": "C++",
+    "description": "Unsupervised text tokenizer for Neural Network-based text generation."
+  },
+  {
+    "repo": "VineeTagarwaL-code/claude-code",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": ""
+  },
+  {
+    "repo": "microsoft/autogen",
+    "branch": "main",
+    "language": "Python",
+    "description": "A programming framework for agentic AI"
   }
 ]
