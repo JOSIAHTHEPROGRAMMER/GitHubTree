@@ -1,27 +1,27 @@
 [
   {
-    "repo": "HVision-NKU/OraRL",
+    "repo": "github/docs",
     "branch": "main",
-    "language": "Python",
-    "description": "🎬 OraRL — Annotations as Rollouts for efficient, scalable reinforcement learning of unified video MLLMs."
+    "language": "TypeScript",
+    "description": "The open-source repo for docs.github.com"
   },
   {
-    "repo": "gelo1231/Pokemon-Pokopia-For-PC",
+    "repo": "QW-AI-Code/Aether",
     "branch": "main",
-    "language": "C++",
-    "description": "Pokemon Pokopia PC download fan game RPG Maker Essentials Pokedex battles trainers gym leaders shiny hunting mega evolution regional forms breeding evolution items legendaries starter pokemon custom sprites native port controller support save editor fullscreen widescreen windowed mode textures sprites maps quests NPC dialogs inventory box s"
+    "language": "Rust",
+    "description": ""
   },
   {
-    "repo": "Selva-rc/DBD-AutoGrind-Trainer-2026",
+    "repo": "chauncygu/collection-claude-code-source-code",
     "branch": "main",
-    "language": "Python",
-    "description": "Ultimate Dead by Daylight auto-grind trainer with Bloodpoint bot, ESP wallhack, aimbot, and full perk/skin unlocker. Dominate the Fog with our 2026 undetected external tool."
+    "language": "TypeScript",
+    "description": "🔥 A collection of the newest Claude Code open source"
   },
   {
-    "repo": "vercel-labs/zerolang",
+    "repo": "akitaonrails/ai-memory",
     "branch": "main",
-    "language": "C",
-    "description": "The programming language for agents"
+    "language": "Rust",
+    "description": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors"
   },
   {
     "repo": "Rista-student/ryujinx-emulator-latest",
@@ -30,117 +30,117 @@
     "description": "Ryujinx - Best Nintendo Switch Emulator for All Nintendo Games 2026"
   },
   {
-    "repo": "kouhxp/yapsnap",
-    "branch": "main",
-    "language": "Python",
-    "description": "Snap any video URL or audio file into plaintext. No GPU. No cloud. One command."
-  },
-  {
-    "repo": "bryanyzhu/agentic-ai-system-course",
-    "branch": "main",
-    "language": "Shell",
-    "description": "Use agent to learn agent - A skeleton course on how to design, build, and operate production AI agents"
-  },
-  {
-    "repo": "roppik/tomodachi-pc",
-    "branch": "main",
-    "language": "C++",
-    "description": "tomodachi pc port life simulator mii sharing qr codes island life citra fork panda3ds 3ds emulator github living the dream save editor transfer modding hd texture pack 60fps mod desktop utility macos linux open source community enhancement patch fan made translation gameplay simulation"
-  },
-  {
-    "repo": "redteamfortress/PhantomKiller",
-    "branch": "main",
-    "language": "C++",
-    "description": "Another BYOVD process killer. works on all EDR's. fully signed."
-  },
-  {
-    "repo": "rit3zh/expo-motion-tabs",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "⚡️ Smooth motion tabs for Expo Router"
-  },
-  {
-    "repo": "Firewalkeroffear/satisfactory-mod-manager",
-    "branch": "main",
-    "language": "C++",
-    "description": "satisfactory mod manager ficsit smm satisfactory mods github mod installer load order profile manager plugins dependencies game modding coffee stain studios desktop utility pc gaming factory simulation automation blueprint organizer clean build stable version modpack manager satisfactory calculator unreal engine modding game launcher update checker"
-  },
-  {
-    "repo": "zimingttkx/QuantumFlow",
-    "branch": "main",
-    "language": "Python",
-    "description": "QuantumFlow - Distributed LLM inference scheduling framework with multi-backend support (vLLM, TGI, SGLang), adaptive scheduling strategies, and cluster management."
-  },
-  {
-    "repo": "goehou/tabbit-toy",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "这是一个基于tabbit的研究包，可以转化成OAI格式出来，同时增加了会员认证功能和一键提取cookie的浏览器拓展，方便快速本地快速使用claude gpt等模型"
-  },
-  {
-    "repo": "Gach0ng/AgentStalker",
-    "branch": "main",
-    "language": "Python",
-    "description": "A standardized agent vulnerability benchmark, formal taint tracking proofs, and a cross-language unified AST model, integrating code auditing with sandbox reproduction into an all-in-one agent security approach.  一个标准化的 Agent 漏洞基准、形式化的污点追踪证明与跨语言的统一 AST 模型，集成代码审计到沙箱复现一体化的智能体安全范式。"
-  },
-  {
-    "repo": "Tyxy-R/codex-referral-risk-research",
-    "branch": "main",
-    "language": "Python",
-    "description": ""
-  },
-  {
-    "repo": "hanyi0000/chatgpt-plus-automation-toolkit",
-    "branch": "main",
-    "language": "Python",
-    "description": "自动化完成 ChatGPT 账号注册、GoPay/PayPal 支付、OAuth 授权与 Session 导出，含 Windows 控制面板"
-  },
-  {
-    "repo": "AIchovy/vibe-observer",
-    "branch": "main",
-    "language": "Rust",
-    "description": "Claude Code Tracer & Observer"
-  },
-  {
-    "repo": "SKL2910/limitless-trading-bot",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "limitless trading bot limitless trading bot limitless trading bot limitless trading bot limitless trading bot limitless trading bot limitless trading bot limitless trading bot limitless trading bot limitless trading bot limitless trading bot limitless trading bot limitless trading bot limitless trading bot limitless trading bot bot"
-  },
-  {
-    "repo": "mila89/polymarket-trading-bot",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot bot"
-  },
-  {
-    "repo": "gakiyukr/Codex_team_auto",
-    "branch": "main",
-    "language": "Python",
-    "description": ""
-  },
-  {
-    "repo": "Lelemon-studio/compliance-cl",
-    "branch": "main",
-    "language": "HTML",
-    "description": "🇨🇱 Skill de Claude Code: auditoría y cumplimiento Ley 21.719 (datos) + 21.595 (delitos económicos) — contra el texto oficial, nada inventado."
-  },
-  {
-    "repo": "tmchow/illo-skill",
-    "branch": "main",
-    "language": "Python",
-    "description": "illo — an AI agent skill that turns ideas and articles into original print-style editorial illustrations, starring a recurring mascot. Ten bundled looks, custom characters, OpenRouter-powered."
-  },
-  {
-    "repo": "lynote-ai/humanize-text",
-    "branch": "main",
-    "language": "Python",
-    "description": "Free open-source AI text humanizer to convert AI-generated content into undetectable, human-like writing. Bypass Turnitin, GPTZero, and all major AI detectors. No sign-up required. Try our unlimited free online tool"
-  },
-  {
-    "repo": "Johell1NS/browser-search",
+    "repo": "airbnb/lottie-web",
     "branch": "master",
     "language": "JavaScript",
-    "description": "A skill for AI agents: search the web with SearXNG, browse with Camofox, bypass protections with CloakBrowser. Self-hosted, free, unlimited."
+    "description": "Render After Effects animations natively on Web, Android and iOS, and React Native. http://airbnb.io/lottie/"
+  },
+  {
+    "repo": "antirez/qwen-asr",
+    "branch": "main",
+    "language": "C",
+    "description": "C inference for Qwen3-ASR 0.6b and 1.7b transcriptions models"
+  },
+  {
+    "repo": "vincelele/ai-fomo-skills",
+    "branch": "main",
+    "language": "Python",
+    "description": "Personal superalignment skills for turning AI information overload into reusable knowledge, signals, and digests."
+  },
+  {
+    "repo": "rotejin/tomari-guruguru",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "25方向のマウス追従と口パクに対応したトマリ用ブラウザアバター"
+  },
+  {
+    "repo": "jazzband/web3-devkit-cli",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Web3 DevKit is an open-source CLI that helps developers bootstrap dApps, generate smart contracts, test RPCs, manage wallets, deploy contracts, and monitor on-chain activity across EVM and Solana."
+  },
+  {
+    "repo": "andrewjiang/palantir-for-family-trips",
+    "branch": "master",
+    "language": "JavaScript",
+    "description": "A Palantir-ish dashboard for family trip planning."
+  },
+  {
+    "repo": "LarsenCundric/port-whisperer",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "A beautiful CLI tool to see what's running on your ports"
+  },
+  {
+    "repo": "zzzhhh1/mg-Koyeb",
+    "branch": "main",
+    "language": "Shell",
+    "description": "基于 Koyeb + Cloudflare Argo 隧道的 VLESS 安全单兵节点，详细纯小白视频教程，点击下方视频链接"
+  },
+  {
+    "repo": "kelleylenc/Seed-Generator",
+    "branch": "main",
+    "language": "Python",
+    "description": "Professional BIP-39 seed phrase generator and HD wallet toolkit with 12–24-word mnemonics, checksum validation, and BIP-44/49/84 derivation. Supports BTC, ETH, SOL, LTC, DOGE, ADA, DOT, AVAX, ATOM, XRP, TRX, and Testnet. Offline CSPRNG generation, PBKDF2-HMAC-SHA512, AES-256-GCM encryption, wallet recovery, batch export, and custom paths."
+  },
+  {
+    "repo": "guidelabs/steerling",
+    "branch": "main",
+    "language": "Python",
+    "description": "Interpretable Causal Diffusion Language Models"
+  },
+  {
+    "repo": "EurekaClaw/EurekaClaw",
+    "branch": "main",
+    "language": "Python",
+    "description": "The official repo of EurekaClaw"
+  },
+  {
+    "repo": "vercel-labs/zero",
+    "branch": "main",
+    "language": "C",
+    "description": "The programming language for agents"
+  },
+  {
+    "repo": "tw93/Kaku",
+    "branch": "main",
+    "language": "Rust",
+    "description": "☄️ A fast, out-of-the-box terminal built for AI coding."
+  },
+  {
+    "repo": "milvus-io/milvus",
+    "branch": "master",
+    "language": "Go",
+    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search"
+  },
+  {
+    "repo": "xw7872081123/wallpaper-engine-steam",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Free Wallpaper Engine Steam: download PC windows 11, steam workshop downloader bypass, high CPU RAM usage fix, android apk mobile sync. 4k anime live wallpaper, black screen crash on startup, corsair icue razer chroma integration, ui32.exe error solution, scene web wallpaper, mobile connection pin, custom playlist screensaver,"
+  },
+  {
+    "repo": "mickamy/sql-tap",
+    "branch": "main",
+    "language": "Go",
+    "description": "Watch SQL traffic in real-time with a TUI"
+  },
+  {
+    "repo": "nuxt/nuxt",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "The Full-Stack Vue Framework."
+  },
+  {
+    "repo": "v0id4real/Void-Tools",
+    "branch": "main",
+    "language": "Python",
+    "description": ""
+  },
+  {
+    "repo": "Tong89/smartNode",
+    "branch": "main",
+    "language": "Python",
+    "description": ""
   }
 ]

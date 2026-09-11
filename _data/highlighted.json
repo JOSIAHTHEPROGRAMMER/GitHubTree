@@ -1,8 +1,8 @@
 {
-  "repo": "nmatt0/mithril",
+  "repo": "nmatt0/moria",
   "branch": "master",
   "language": "C++",
-  "description": "IoT static scanner for secrets, SBOM, CVEs and more.",
-  "stars": 129,
-  "forks": 17
+  "description": "IoT firmware identification and extraction",
+  "stars": 139,
+  "forks": 18
 }
