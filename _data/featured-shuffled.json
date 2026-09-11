@@ -1,146 +1,146 @@
 [
   {
-    "repo": "github/docs",
+    "repo": "ZinkLu/Orca-Orchestration",
     "branch": "main",
     "language": "TypeScript",
-    "description": "The open-source repo for docs.github.com"
-  },
-  {
-    "repo": "QW-AI-Code/Aether",
-    "branch": "main",
-    "language": "Rust",
     "description": ""
   },
   {
-    "repo": "chauncygu/collection-claude-code-source-code",
+    "repo": "oneclaw/oneclaw",
     "branch": "main",
-    "language": "TypeScript",
-    "description": "🔥 A collection of the newest Claude Code open source"
-  },
-  {
-    "repo": "akitaonrails/ai-memory",
-    "branch": "main",
-    "language": "Rust",
-    "description": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors"
-  },
-  {
-    "repo": "Rista-student/ryujinx-emulator-latest",
-    "branch": "main",
-    "language": "HTML",
-    "description": "Ryujinx - Best Nintendo Switch Emulator for All Nintendo Games 2026"
-  },
-  {
-    "repo": "airbnb/lottie-web",
-    "branch": "master",
     "language": "JavaScript",
-    "description": "Render After Effects animations natively on Web, Android and iOS, and React Native. http://airbnb.io/lottie/"
+    "description": "OneClaw"
   },
   {
-    "repo": "antirez/qwen-asr",
-    "branch": "main",
-    "language": "C",
-    "description": "C inference for Qwen3-ASR 0.6b and 1.7b transcriptions models"
-  },
-  {
-    "repo": "vincelele/ai-fomo-skills",
+    "repo": "paramiko/paramiko",
     "branch": "main",
     "language": "Python",
-    "description": "Personal superalignment skills for turning AI information overload into reusable knowledge, signals, and digests."
+    "description": "The leading native Python SSHv2 protocol library."
   },
   {
-    "repo": "rotejin/tomari-guruguru",
+    "repo": "sigstore/cosign",
     "branch": "main",
-    "language": "JavaScript",
-    "description": "25方向のマウス追従と口パクに対応したトマリ用ブラウザアバター"
+    "language": "Go",
+    "description": "Code signing and transparency for containers and binaries"
   },
   {
-    "repo": "jazzband/web3-devkit-cli",
+    "repo": "Shopify/javy",
+    "branch": "main",
+    "language": "Rust",
+    "description": "JS to WebAssembly toolchain"
+  },
+  {
+    "repo": "XTLS/Xray-core",
+    "branch": "main",
+    "language": "Go",
+    "description": "Xray, Penetrates Everything. Also the best v2ray-core. Where the magic happens. An open platform for various uses."
+  },
+  {
+    "repo": "airbnb/knowledge-repo",
+    "branch": "master",
+    "language": "Python",
+    "description": "A next-generation curated knowledge sharing platform for data scientists and other technical professions."
+  },
+  {
+    "repo": "finvfamily/finshare",
+    "branch": "main",
+    "language": "Python",
+    "description": "专业的金融数据获取工具库 - A Professional Financial Data Fetching Toolkit for   Python"
+  },
+  {
+    "repo": "erikdarlingdata/PerformanceMonitor",
+    "branch": "main",
+    "language": "C#",
+    "description": "Free, open-source SQL Server performance monitoring. Full Edition (server-installed, 30 collectors) and Lite Edition (standalone, DuckDB). Built-in MCP server for AI integration."
+  },
+  {
+    "repo": "Mouseww/anything-analyzer",
     "branch": "main",
     "language": "TypeScript",
-    "description": "Web3 DevKit is an open-source CLI that helps developers bootstrap dApps, generate smart contracts, test RPCs, manage wallets, deploy contracts, and monitor on-chain activity across EVM and Solana."
+    "description": "利用 browser + CDP capture + AI analysis  傻瓜式生成 注册机 | 2API | 其他浏览器行为 的协议分析文档"
   },
   {
-    "repo": "andrewjiang/palantir-for-family-trips",
-    "branch": "master",
-    "language": "JavaScript",
-    "description": "A Palantir-ish dashboard for family trip planning."
-  },
-  {
-    "repo": "LarsenCundric/port-whisperer",
+    "repo": "Maoleio/CPA-Codex-Manager",
     "branch": "main",
-    "language": "JavaScript",
-    "description": "A beautiful CLI tool to see what's running on your ports"
+    "language": "Python",
+    "description": "CPA-Codex-Manager 是一款专为 OpenAI 账号池设计的高性能管理面板，集成全自动批量注册、CLIProxyAPI 平台账号池实时监控与智能维护功能"
   },
   {
-    "repo": "zzzhhh1/mg-Koyeb",
+    "repo": "win4r/memory-lancedb-pro",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Enhanced LanceDB memory plugin for OpenClaw — Hybrid Retrieval (Vector + BM25), Cross-Encoder Rerank, Multi-Scope Isolation, Management CLI"
+  },
+  {
+    "repo": "shanselman/winget-tui",
+    "branch": "main",
+    "language": "Rust",
+    "description": "A terminal UI for Windows Package Manager (winget) - search, install, upgrade, and manage packages"
+  },
+  {
+    "repo": "GoogleContainerTools/skaffold",
+    "branch": "main",
+    "language": "Go",
+    "description": "Easy and Repeatable Kubernetes Development"
+  },
+  {
+    "repo": "aidanBoi123/AutoDesk-AutoCad-2026-Desktop",
+    "branch": "main",
+    "language": "C++",
+    "description": "Free CAD 2026 PC Desktop Version is the latest optimized edition of professional CAD software. Offers powerful 2D and 3D design tools with improved performance and modern interface for Windows."
+  },
+  {
+    "repo": "nashsu/llm_wiki",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": ""
+  },
+  {
+    "repo": "rustwasm/wasm-bindgen",
+    "branch": "main",
+    "language": "Rust",
+    "description": "Facilitating high-level interactions between Wasm modules and JavaScript"
+  },
+  {
+    "repo": "openfaas/faas",
+    "branch": "master",
+    "language": "Go",
+    "description": "OpenFaaS - Serverless Functions Made Simple"
+  },
+  {
+    "repo": "PeonPing/peon-ping",
     "branch": "main",
     "language": "Shell",
-    "description": "基于 Koyeb + Cloudflare Argo 隧道的 VLESS 安全单兵节点，详细纯小白视频教程，点击下方视频链接"
+    "description": "Warcraft III Peon voice notifications for Claude Code. Stop babysitting your terminal."
   },
   {
-    "repo": "kelleylenc/Seed-Generator",
+    "repo": "alptexans/RSC-Detect-CVE-2025-55182",
     "branch": "main",
     "language": "Python",
-    "description": "Professional BIP-39 seed phrase generator and HD wallet toolkit with 12–24-word mnemonics, checksum validation, and BIP-44/49/84 derivation. Supports BTC, ETH, SOL, LTC, DOGE, ADA, DOT, AVAX, ATOM, XRP, TRX, and Testnet. Offline CSPRNG generation, PBKDF2-HMAC-SHA512, AES-256-GCM encryption, wallet recovery, batch export, and custom paths."
+    "description": "RSC Detect CVE 2025 55182"
   },
   {
-    "repo": "guidelabs/steerling",
+    "repo": "mosaicml/llm-foundry",
     "branch": "main",
     "language": "Python",
-    "description": "Interpretable Causal Diffusion Language Models"
+    "description": "LLM training code for Databricks foundation models"
   },
   {
-    "repo": "EurekaClaw/EurekaClaw",
-    "branch": "main",
-    "language": "Python",
-    "description": "The official repo of EurekaClaw"
-  },
-  {
-    "repo": "vercel-labs/zero",
-    "branch": "main",
-    "language": "C",
-    "description": "The programming language for agents"
-  },
-  {
-    "repo": "tw93/Kaku",
+    "repo": "googleworkspace/cli",
     "branch": "main",
     "language": "Rust",
-    "description": "☄️ A fast, out-of-the-box terminal built for AI coding."
+    "description": "Google Workspace CLI — one command-line tool for Drive, Gmail, Calendar, Sheets, Docs, Chat, Admin, and more. Dynamically built from Google Discovery Service. Includes AI agent skills."
   },
   {
-    "repo": "milvus-io/milvus",
+    "repo": "parcadei/ouros",
+    "branch": "main",
+    "language": "Rust",
+    "description": "A sandboxed Python runtime for AI agents, written in Rust."
+  },
+  {
+    "repo": "rustwasm/wasm-pack",
     "branch": "master",
-    "language": "Go",
-    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search"
-  },
-  {
-    "repo": "xw7872081123/wallpaper-engine-steam",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Free Wallpaper Engine Steam: download PC windows 11, steam workshop downloader bypass, high CPU RAM usage fix, android apk mobile sync. 4k anime live wallpaper, black screen crash on startup, corsair icue razer chroma integration, ui32.exe error solution, scene web wallpaper, mobile connection pin, custom playlist screensaver,"
-  },
-  {
-    "repo": "mickamy/sql-tap",
-    "branch": "main",
-    "language": "Go",
-    "description": "Watch SQL traffic in real-time with a TUI"
-  },
-  {
-    "repo": "nuxt/nuxt",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "The Full-Stack Vue Framework."
-  },
-  {
-    "repo": "v0id4real/Void-Tools",
-    "branch": "main",
-    "language": "Python",
-    "description": ""
-  },
-  {
-    "repo": "Tong89/smartNode",
-    "branch": "main",
-    "language": "Python",
-    "description": ""
+    "language": "Rust",
+    "description": "📦✨ your favorite rust -> wasm workflow tool!"
   }
 ]
