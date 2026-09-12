@@ -1,146 +1,146 @@
 [
   {
-    "repo": "ZinkLu/Orca-Orchestration",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": ""
+    "repo": "google/mediapipe",
+    "branch": "master",
+    "language": "C++",
+    "description": "Cross-platform, customizable ML solutions for live and streaming media."
   },
   {
-    "repo": "oneclaw/oneclaw",
+    "repo": "jshachm/chronoh",
+    "branch": "main",
+    "language": "Rust",
+    "description": "遵循harness原则，长时运行agent任务的框架，集成pi-rs"
+  },
+  {
+    "repo": "vignesh07/babyshark",
+    "branch": "main",
+    "language": "Rust",
+    "description": "Flows-first PCAP TUI (case files, gorgeous UX). Do do do do."
+  },
+  {
+    "repo": "hashicorp/nomad",
+    "branch": "main",
+    "language": "Go",
+    "description": "Nomad is an easy-to-use, flexible, and performant workload orchestrator that can deploy a mix of microservice, batch, containerized, and non-containerized applications. Nomad is easy to operate and scale and has native Consul and Vault integrations."
+  },
+  {
+    "repo": "babel/babel-preset-env",
     "branch": "main",
     "language": "JavaScript",
-    "description": "OneClaw"
+    "description": "PSA: this repo has been moved into babel/babel -->"
   },
   {
-    "repo": "paramiko/paramiko",
-    "branch": "main",
-    "language": "Python",
-    "description": "The leading native Python SSHv2 protocol library."
-  },
-  {
-    "repo": "sigstore/cosign",
-    "branch": "main",
-    "language": "Go",
-    "description": "Code signing and transparency for containers and binaries"
-  },
-  {
-    "repo": "Shopify/javy",
-    "branch": "main",
-    "language": "Rust",
-    "description": "JS to WebAssembly toolchain"
-  },
-  {
-    "repo": "XTLS/Xray-core",
-    "branch": "main",
-    "language": "Go",
-    "description": "Xray, Penetrates Everything. Also the best v2ray-core. Where the magic happens. An open platform for various uses."
-  },
-  {
-    "repo": "airbnb/knowledge-repo",
+    "repo": "Anduin2017/HowToCook",
     "branch": "master",
-    "language": "Python",
-    "description": "A next-generation curated knowledge sharing platform for data scientists and other technical professions."
+    "language": "Dockerfile",
+    "description": "程序员在家做饭方法指南。Programmer's guide about how to cook at home (Simplified Chinese only)."
   },
   {
-    "repo": "finvfamily/finshare",
-    "branch": "main",
-    "language": "Python",
-    "description": "专业的金融数据获取工具库 - A Professional Financial Data Fetching Toolkit for   Python"
-  },
-  {
-    "repo": "erikdarlingdata/PerformanceMonitor",
-    "branch": "main",
-    "language": "C#",
-    "description": "Free, open-source SQL Server performance monitoring. Full Edition (server-installed, 30 collectors) and Lite Edition (standalone, DuckDB). Built-in MCP server for AI integration."
-  },
-  {
-    "repo": "Mouseww/anything-analyzer",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "利用 browser + CDP capture + AI analysis  傻瓜式生成 注册机 | 2API | 其他浏览器行为 的协议分析文档"
-  },
-  {
-    "repo": "Maoleio/CPA-Codex-Manager",
-    "branch": "main",
-    "language": "Python",
-    "description": "CPA-Codex-Manager 是一款专为 OpenAI 账号池设计的高性能管理面板，集成全自动批量注册、CLIProxyAPI 平台账号池实时监控与智能维护功能"
-  },
-  {
-    "repo": "win4r/memory-lancedb-pro",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Enhanced LanceDB memory plugin for OpenClaw — Hybrid Retrieval (Vector + BM25), Cross-Encoder Rerank, Multi-Scope Isolation, Management CLI"
-  },
-  {
-    "repo": "shanselman/winget-tui",
-    "branch": "main",
-    "language": "Rust",
-    "description": "A terminal UI for Windows Package Manager (winget) - search, install, upgrade, and manage packages"
-  },
-  {
-    "repo": "GoogleContainerTools/skaffold",
-    "branch": "main",
-    "language": "Go",
-    "description": "Easy and Repeatable Kubernetes Development"
-  },
-  {
-    "repo": "aidanBoi123/AutoDesk-AutoCad-2026-Desktop",
+    "repo": "envoyproxy/envoy",
     "branch": "main",
     "language": "C++",
-    "description": "Free CAD 2026 PC Desktop Version is the latest optimized edition of professional CAD software. Offers powerful 2D and 3D design tools with improved performance and modern interface for Windows."
+    "description": "Cloud-native high-performance edge/middle/service proxy"
   },
   {
-    "repo": "nashsu/llm_wiki",
+    "repo": "accius/openhamclock",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "The original HamClock will cease to function in June 2026. OpenHamClock aims to carry on Elwood's legacy with a modern, open-source implementation that the community can maintain and improve together."
+  },
+  {
+    "repo": "BquantFinance/licitaciones-espana",
+    "branch": "main",
+    "language": "Python",
+    "description": ""
+  },
+  {
+    "repo": "Ye-Yu-Mo/FundVal-Live",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "盘中基金估值，实时估值，基金净值"
+  },
+  {
+    "repo": "SafeBreach-Labs/CVE-2026-24061",
+    "branch": "main",
+    "language": "Python",
+    "description": "Exploitation of CVE-2026-24061"
+  },
+  {
+    "repo": "starship/starship",
+    "branch": "master",
+    "language": "Rust",
+    "description": "☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!"
+  },
+  {
+    "repo": "Kirubel125/Kalshi-Claw",
     "branch": "main",
     "language": "TypeScript",
     "description": ""
   },
   {
-    "repo": "rustwasm/wasm-bindgen",
-    "branch": "main",
-    "language": "Rust",
-    "description": "Facilitating high-level interactions between Wasm modules and JavaScript"
-  },
-  {
-    "repo": "openfaas/faas",
+    "repo": "dev-protocol/polymarket-copytrading-bot-sport",
     "branch": "master",
-    "language": "Go",
-    "description": "OpenFaaS - Serverless Functions Made Simple"
+    "language": "TypeScript",
+    "description": "This Polymarket Copy Trading Bot is designed to diversify across different prediction markets, minimizing exposure to any single market’s volatility. CLUE: @polymarket copytrading bot || #polymarket trading bot || @polymarket copytrading bot || #polymarket trading bot || @polymarket copytrading bot || #polymarket trading bot || polymarket copytrade"
   },
   {
-    "repo": "PeonPing/peon-ping",
+    "repo": "expressjs/express",
+    "branch": "master",
+    "language": "JavaScript",
+    "description": "Fast, unopinionated, minimalist web framework for node."
+  },
+  {
+    "repo": "Wan-Video/Wan-Dancer",
+    "branch": "main",
+    "language": "Python",
+    "description": ""
+  },
+  {
+    "repo": "ringhyacinth/Star-Office-UI",
+    "branch": "master",
+    "language": "HTML",
+    "description": ""
+  },
+  {
+    "repo": "mo1app/pipemagic",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Visual image processing pipeline editor"
+  },
+  {
+    "repo": "ckckck/UltimateSearchSkill",
     "branch": "main",
     "language": "Shell",
-    "description": "Warcraft III Peon voice notifications for Claude Code. Stop babysitting your terminal."
+    "description": "Dual-engine web search Skill for OpenClaw/Pi: Grok AI + Tavily + FireCrawl"
   },
   {
-    "repo": "alptexans/RSC-Detect-CVE-2025-55182",
-    "branch": "main",
-    "language": "Python",
-    "description": "RSC Detect CVE 2025 55182"
-  },
-  {
-    "repo": "mosaicml/llm-foundry",
-    "branch": "main",
-    "language": "Python",
-    "description": "LLM training code for Databricks foundation models"
-  },
-  {
-    "repo": "googleworkspace/cli",
-    "branch": "main",
-    "language": "Rust",
-    "description": "Google Workspace CLI — one command-line tool for Drive, Gmail, Calendar, Sheets, Docs, Chat, Admin, and more. Dynamically built from Google Discovery Service. Includes AI agent skills."
-  },
-  {
-    "repo": "parcadei/ouros",
-    "branch": "main",
-    "language": "Rust",
-    "description": "A sandboxed Python runtime for AI agents, written in Rust."
-  },
-  {
-    "repo": "rustwasm/wasm-pack",
+    "repo": "PCRE2Project/pcre2",
     "branch": "master",
-    "language": "Rust",
-    "description": "📦✨ your favorite rust -> wasm workflow tool!"
+    "language": "C",
+    "description": "PCRE2 development is based here."
+  },
+  {
+    "repo": "kubernetes/kompose",
+    "branch": "master",
+    "language": "Go",
+    "description": "Convert Compose to Kubernetes"
+  },
+  {
+    "repo": "dimartarmizi/map-to-poster",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "MapToPoster JS is a client-side web app that turns any location into a high-resolution, customizable map poster with various themes, layouts, and export options."
+  },
+  {
+    "repo": "theforeveriris/simulated-12306-view",
+    "branch": "main",
+    "language": "HTML",
+    "description": "简易的12306购票模拟器.用于应急应付对方请求看购票截图的无理要求"
+  },
+  {
+    "repo": "idanshen/Self-Distillation",
+    "branch": "main",
+    "language": "Python",
+    "description": ""
   }
 ]

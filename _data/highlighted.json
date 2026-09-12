@@ -1,8 +1,8 @@
 {
-  "repo": "nmatt0/moria",
-  "branch": "master",
-  "language": "C++",
-  "description": "IoT firmware identification and extraction",
-  "stars": 142,
-  "forks": 18
+  "repo": "furkan-bayrak/lg-tv-blocklist",
+  "branch": "main",
+  "language": "Python",
+  "description": "Curated DNS blocklist for LG webOS TV telemetry, ads and phone-home traffic (safe + strict tiers)",
+  "stars": 132,
+  "forks": 3
 }
