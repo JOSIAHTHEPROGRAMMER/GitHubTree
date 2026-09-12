@@ -1,9 +1,75 @@
 [
   {
-    "repo": "cncf/toc",
+    "repo": "diinki/linux-antiquity",
+    "branch": "main",
+    "language": "QML",
+    "description": "A highly tasteful Linux-theme, reminiscent of art-nouveau and old drawings related to astronomy, science, and mythology."
+  },
+  {
+    "repo": "ColeMurray/background-agents",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "An open-source background agent coding system"
+  },
+  {
+    "repo": "Lab-Overflow/prompt-optimizer-lite",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": ""
+  },
+  {
+    "repo": "rivet-dev/sandbox-agent",
+    "branch": "main",
+    "language": "Rust",
+    "description": "Universal API for automatic coding agents in sandboxes. Supports Claude Code, Codex, OpenCode, and Amp."
+  },
+  {
+    "repo": "rust-analyzer/rust-analyzer",
+    "branch": "master",
+    "language": "Rust",
+    "description": "A Rust compiler front-end for IDEs"
+  },
+  {
+    "repo": "brexhq/CrabTrap",
     "branch": "main",
     "language": "Go",
-    "description": "⚖️ The CNCF Technical Oversight Committee (TOC) is the technical governing body of the CNCF Foundation."
+    "description": "An LLM-as-a-judge HTTP proxy to secure agents in production"
+  },
+  {
+    "repo": "tiimgreen/github-cheat-sheet",
+    "branch": "master",
+    "language": "Other",
+    "description": "A list of cool features of Git and GitHub."
+  },
+  {
+    "repo": "OpenDCAI/OpenPrism",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Open-source implementation of AI-powered academic writing workspace inspired by OpenAI Prism, featuring LaTeX editing, PDF preview, and intelligent AI assistance"
+  },
+  {
+    "repo": "terausss/Polymarket-Kalshi-Arbitrage-Bot",
+    "branch": "main",
+    "language": "Rust",
+    "description": "polymarket-kalshi-arbitrage-bot polymarket arbitrage bot kalshi-arbitrage bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot"
+  },
+  {
+    "repo": "samuelfaj/distill",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Distill large CLI outputs into small answers for LLMs and save tokens!"
+  },
+  {
+    "repo": "sindresorhus/awesome",
+    "branch": "main",
+    "language": "Other",
+    "description": "😎 Awesome lists about all kinds of interesting topics"
+  },
+  {
+    "repo": "h4ckf0r0day/obscura",
+    "branch": "main",
+    "language": "Rust",
+    "description": "The headless browser for AI agents and web scraping"
   },
   {
     "repo": "manuelschipper/nah",
@@ -12,135 +78,69 @@
     "description": "Context-aware safety guard for Claude Code. A permission system you control."
   },
   {
-    "repo": "explosion/spaCy",
-    "branch": "master",
-    "language": "Python",
-    "description": "💫 Industrial-strength Natural Language Processing (NLP) in Python"
-  },
-  {
-    "repo": "pytorch/ignite",
-    "branch": "master",
-    "language": "Python",
-    "description": "High-level library to help with training and evaluating neural networks in PyTorch flexibly and transparently."
-  },
-  {
-    "repo": "tauri-apps/tauri",
-    "branch": "dev",
-    "language": "Rust",
-    "description": "Build smaller, faster, and more secure desktop and mobile applications with a web frontend."
-  },
-  {
-    "repo": "google/dagger",
-    "branch": "master",
-    "language": "Java",
-    "description": "A fast dependency injector for Android and Java."
-  },
-  {
-    "repo": "YousefMahdy1/DBD-AutoGrind-Trainer-2026",
-    "branch": "main",
-    "language": "Python",
-    "description": "Ultimate Dead by Daylight auto-grind trainer with Bloodpoint bot, ESP wallhack, aimbot, and full perk/skin unlocker. Dominate the Fog with our 2026 undetected external tool."
-  },
-  {
-    "repo": "npm/cli",
-    "branch": "latest",
-    "language": "JavaScript",
-    "description": "the package manager for JavaScript"
-  },
-  {
-    "repo": "apache/hadoop",
-    "branch": "trunk",
-    "language": "Java",
-    "description": "Apache Hadoop"
-  },
-  {
-    "repo": "apache/maven",
-    "branch": "master",
-    "language": "Java",
-    "description": "Apache Maven core"
-  },
-  {
-    "repo": "mgks/GitHubTree",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "Visualise any GitHub repository folder structure. Available as a web app, CLI tool, and node.js library."
-  },
-  {
-    "repo": "NomicFoundation/hardhat",
+    "repo": "supabase/supabase",
     "branch": "master",
     "language": "TypeScript",
-    "description": "Hardhat is a development environment to compile, deploy, test, and debug your Ethereum software."
+    "description": "The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications."
   },
   {
-    "repo": "openai/whisper",
-    "branch": "main",
-    "language": "Python",
-    "description": "Robust Speech Recognition via Large-Scale Weak Supervision"
-  },
-  {
-    "repo": "audacity/audacity",
-    "branch": "master",
-    "language": "C++",
-    "description": "Audio Editor"
-  },
-  {
-    "repo": "tensorflow/datasets",
-    "branch": "master",
-    "language": "Python",
-    "description": "TFDS is a collection of datasets ready to use with TensorFlow, Jax, ..."
-  },
-  {
-    "repo": "GoogleContainerTools/kaniko",
-    "branch": "main",
-    "language": "Go",
-    "description": "Build Container Images In Kubernetes"
-  },
-  {
-    "repo": "Uniswap/v3-core",
+    "repo": "VineeTagarwaL-code/claude-code",
     "branch": "main",
     "language": "TypeScript",
-    "description": "🦄 🦄 🦄 Core smart contracts of Uniswap v3"
-  },
-  {
-    "repo": "gothinkster/realworld",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "The mother of all demo apps — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more"
-  },
-  {
-    "repo": "Lazarus-AI/clearwing",
-    "branch": "main",
-    "language": "Python",
     "description": ""
   },
   {
-    "repo": "firewalld/firewalld",
+    "repo": "Thearas/wechat-db-decrypt-macos",
     "branch": "main",
     "language": "Python",
-    "description": "Stateful zone based firewall daemon with D-Bus interface"
+    "description": "macOS arm64 微信 4.1 数据库解密，只在最新的微信 4.1.2.241 测试过，不支持4.0 以下版本"
   },
   {
-    "repo": "keanucz/detour",
+    "repo": "google/mediapipe",
+    "branch": "master",
+    "language": "C++",
+    "description": "Cross-platform, customizable ML solutions for live and streaming media."
+  },
+  {
+    "repo": "gradle/gradle",
+    "branch": "master",
+    "language": "Groovy",
+    "description": "Adaptable, fast automation for all"
+  },
+  {
+    "repo": "AAAAAAAJ/slides",
+    "branch": "main",
+    "language": "Python",
+    "description": "slides generates prompts for various expression styles"
+  },
+  {
+    "repo": "ensdomains/ens-contracts",
     "branch": "master",
     "language": "TypeScript",
-    "description": "On-board AI agents autonomously saving satellites from orbital debris @ treehacks 2026"
+    "description": "The core contracts of the ENS protocol"
   },
   {
-    "repo": "akseolabs-seo/AK-Threads-booster",
+    "repo": "HughYau/qiushi-skill",
+    "branch": "main",
+    "language": "PowerShell",
+    "description": "求是Skill——从教员思想中提炼出一条总原则和九大方法论工具，系统性地武装 AI 的大脑。"
+  },
+  {
+    "repo": "microsoft/STL",
+    "branch": "main",
+    "language": "C++",
+    "description": "MSVC's implementation of the C++ Standard Library."
+  },
+  {
+    "repo": "microsoft/cascadia-code",
     "branch": "main",
     "language": "Python",
-    "description": "AK體 · 數據驅動的 Threads 寫文決策系統。用你的歷史貼文、演算法與社媒心理學，協助選題、起草、發文前診斷、表現預估與復盤。Data-driven Threads writing advisor — topic selection, drafting, diagnosis, prediction & review based on your own post history."
+    "description": "This is a fun, new monospaced font that includes programming ligatures and is designed to enhance the modern look and feel of the Windows Terminal."
   },
   {
-    "repo": "NyxTides/ppt-image-first",
-    "branch": "master",
-    "language": "Python",
-    "description": "PPT image-first skill for Codex CLI"
-  },
-  {
-    "repo": "Runnin4ik/dpi-detector",
+    "repo": "czl9707/build-your-own-openclaw",
     "branch": "main",
     "language": "Python",
-    "description": "DPI detection tool for internet censorship testing. Identifies TLS, TCP, HTTP blocking and 16-20KB connection drops"
+    "description": "A step-by-step guide to build your own AI agent."
   }
 ]
