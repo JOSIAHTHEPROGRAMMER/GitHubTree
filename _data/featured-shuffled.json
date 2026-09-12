@@ -1,146 +1,146 @@
 [
   {
-    "repo": "google/mediapipe",
-    "branch": "master",
-    "language": "C++",
-    "description": "Cross-platform, customizable ML solutions for live and streaming media."
+    "repo": "ReactiveX/RxKotlin",
+    "branch": "3.x",
+    "language": "Kotlin",
+    "description": "RxJava bindings for Kotlin"
   },
   {
-    "repo": "jshachm/chronoh",
+    "repo": "techjarves/Uncensored-Local-AI-Multiplatform",
     "branch": "main",
-    "language": "Rust",
-    "description": "遵循harness原则，长时运行agent任务的框架，集成pi-rs"
+    "language": "Dart",
+    "description": "A cross-platform Flutter app that runs uncensored, 100% offline open-source AI models (GGUF) directly on your Android, iOS, or PC. No cloud, no filters, total privacy."
   },
   {
-    "repo": "vignesh07/babyshark",
-    "branch": "main",
-    "language": "Rust",
-    "description": "Flows-first PCAP TUI (case files, gorgeous UX). Do do do do."
-  },
-  {
-    "repo": "hashicorp/nomad",
-    "branch": "main",
-    "language": "Go",
-    "description": "Nomad is an easy-to-use, flexible, and performant workload orchestrator that can deploy a mix of microservice, batch, containerized, and non-containerized applications. Nomad is easy to operate and scale and has native Consul and Vault integrations."
-  },
-  {
-    "repo": "babel/babel-preset-env",
+    "repo": "WenXiaoWendy/cyberboss",
     "branch": "main",
     "language": "JavaScript",
-    "description": "PSA: this repo has been moved into babel/babel -->"
+    "description": ""
   },
   {
-    "repo": "Anduin2017/HowToCook",
-    "branch": "master",
-    "language": "Dockerfile",
-    "description": "程序员在家做饭方法指南。Programmer's guide about how to cook at home (Simplified Chinese only)."
-  },
-  {
-    "repo": "envoyproxy/envoy",
-    "branch": "main",
-    "language": "C++",
-    "description": "Cloud-native high-performance edge/middle/service proxy"
-  },
-  {
-    "repo": "accius/openhamclock",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "The original HamClock will cease to function in June 2026. OpenHamClock aims to carry on Elwood's legacy with a modern, open-source implementation that the community can maintain and improve together."
-  },
-  {
-    "repo": "BquantFinance/licitaciones-espana",
+    "repo": "patterniha/SNI-Spoofing",
     "branch": "main",
     "language": "Python",
-    "description": ""
+    "description": "Bypass DPI with IP/TCP-Header manipulation"
   },
   {
-    "repo": "Ye-Yu-Mo/FundVal-Live",
+    "repo": "software-mansion/react-native-reanimated",
     "branch": "main",
-    "language": "JavaScript",
-    "description": "盘中基金估值，实时估值，基金净值"
+    "language": "TypeScript",
+    "description": "React Native's Animated library reimplemented"
   },
   {
-    "repo": "SafeBreach-Labs/CVE-2026-24061",
+    "repo": "garrytan/gbrain",
+    "branch": "master",
+    "language": "TypeScript",
+    "description": "Garry's Opinionated OpenClaw Brain"
+  },
+  {
+    "repo": "sharbelxyz/x-bookmarks",
     "branch": "main",
     "language": "Python",
-    "description": "Exploitation of CVE-2026-24061"
+    "description": "OpenClaw skill: turn your X bookmarks into agent actions. Stop hoarding. Start applying."
   },
   {
-    "repo": "starship/starship",
-    "branch": "master",
-    "language": "Rust",
-    "description": "☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!"
-  },
-  {
-    "repo": "Kirubel125/Kalshi-Claw",
+    "repo": "thisishowen-spec/eatlah",
     "branch": "main",
     "language": "TypeScript",
-    "description": ""
+    "description": "Snap menu, Start QR orders. AI powered QR ordering for hawker stalls, small restaurants, and independent food businesses. 五分钟上线点餐系统"
   },
   {
-    "repo": "dev-protocol/polymarket-copytrading-bot-sport",
-    "branch": "master",
-    "language": "TypeScript",
-    "description": "This Polymarket Copy Trading Bot is designed to diversify across different prediction markets, minimizing exposure to any single market’s volatility. CLUE: @polymarket copytrading bot || #polymarket trading bot || @polymarket copytrading bot || #polymarket trading bot || @polymarket copytrading bot || #polymarket trading bot || polymarket copytrade"
-  },
-  {
-    "repo": "expressjs/express",
-    "branch": "master",
-    "language": "JavaScript",
-    "description": "Fast, unopinionated, minimalist web framework for node."
-  },
-  {
-    "repo": "Wan-Video/Wan-Dancer",
+    "repo": "LemoLev/tg-ws-proxy-ANDROID",
     "branch": "main",
     "language": "Python",
-    "description": ""
+    "description": "Flowseal/tg-ws-proxy на андроид (да и не только)"
   },
   {
-    "repo": "ringhyacinth/Star-Office-UI",
-    "branch": "master",
-    "language": "HTML",
-    "description": ""
-  },
-  {
-    "repo": "mo1app/pipemagic",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Visual image processing pipeline editor"
-  },
-  {
-    "repo": "ckckck/UltimateSearchSkill",
+    "repo": "NoizAI/skills",
     "branch": "main",
     "language": "Shell",
-    "description": "Dual-engine web search Skill for OpenClaw/Pi: Grok AI + Tavily + FireCrawl"
+    "description": "Allow your 🦞 bot to Shout, Speak, with human vibe"
   },
   {
-    "repo": "PCRE2Project/pcre2",
+    "repo": "hengfengliya/imgood",
+    "branch": "main",
+    "language": "CSS",
+    "description": ""
+  },
+  {
+    "repo": "mitjafelicijan/xdgctl",
     "branch": "master",
     "language": "C",
-    "description": "PCRE2 development is based here."
+    "description": "TUI for managing XDG default applications"
   },
   {
-    "repo": "kubernetes/kompose",
-    "branch": "master",
-    "language": "Go",
-    "description": "Convert Compose to Kubernetes"
+    "repo": "waltstephen/ArgusBot",
+    "branch": "publish",
+    "language": "Python",
+    "description": ""
   },
   {
-    "repo": "dimartarmizi/map-to-poster",
+    "repo": "newrelic/newrelic-java-agent",
     "branch": "main",
-    "language": "JavaScript",
-    "description": "MapToPoster JS is a client-side web app that turns any location into a high-resolution, customizable map poster with various themes, layouts, and export options."
+    "language": "Java",
+    "description": "The New Relic Java agent"
   },
   {
-    "repo": "theforeveriris/simulated-12306-view",
+    "repo": "github/storybook-addon-performance-panel",
     "branch": "main",
-    "language": "HTML",
-    "description": "简易的12306购票模拟器.用于应急应付对方请求看购票截图的无理要求"
+    "language": "TypeScript",
+    "description": "A Storybook Addon for tracking web performance"
   },
   {
-    "repo": "idanshen/Self-Distillation",
+    "repo": "SentiAvatar/SentiAvatar",
     "branch": "main",
     "language": "Python",
     "description": ""
+  },
+  {
+    "repo": "opentofu/opentofu",
+    "branch": "main",
+    "language": "Go",
+    "description": "OpenTofu lets you declaratively manage your cloud infrastructure."
+  },
+  {
+    "repo": "cablate/banini-tracker",
+    "branch": "master",
+    "language": "TypeScript",
+    "description": "巴逆逆（8zz）反指標追蹤器 — Facebook 抓取 + 影片轉錄 + AI 分析 + Telegram 推送"
+  },
+  {
+    "repo": "runesleo/x-reader",
+    "branch": "main",
+    "language": "Python",
+    "description": "Universal content reader — fetch, normalize, and digest content from 7+ platforms (WeChat, Telegram, X, YouTube, Bilibili, Xiaohongshu, RSS)"
+  },
+  {
+    "repo": "sachaa/openbrowserclaw",
+    "branch": "master",
+    "language": "TypeScript",
+    "description": "Browser-native personal AI assistant. Zero infrastructure, the browser is the server."
+  },
+  {
+    "repo": "Henrygd/Beszel",
+    "branch": "main",
+    "language": "Go",
+    "description": "Lightweight server monitoring hub with historical data, docker stats, and alerts."
+  },
+  {
+    "repo": "madeye/mcp-cli",
+    "branch": "main",
+    "language": "Rust",
+    "description": "save fork/exec overhead of ai code agent"
+  },
+  {
+    "repo": "dev-protocol/polymarket-arbitrage-bot",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Polymarket arbitrage bot || Dump Hedge Strategy || detect arbitrage opportunity between UP & Down token prices movement - RTDS based strategical Bot"
+  },
+  {
+    "repo": "gradle/gradle",
+    "branch": "master",
+    "language": "Groovy",
+    "description": "Adaptable, fast automation for all"
   }
 ]

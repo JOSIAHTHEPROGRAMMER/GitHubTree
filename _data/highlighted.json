@@ -1,8 +1,8 @@
 {
-  "repo": "furkan-bayrak/lg-tv-blocklist",
+  "repo": "elijah-semyonov/DuoLikeAnimation",
   "branch": "main",
-  "language": "Python",
-  "description": "Curated DNS blocklist for LG webOS TV telemetry, ads and phone-home traffic (safe + strict tiers)",
+  "language": "Swift",
+  "description": "A featured project on GitHubTree.",
   "stars": 132,
-  "forks": 3
+  "forks": 29
 }
