@@ -1,146 +1,146 @@
 [
   {
-    "repo": "ReactiveX/RxKotlin",
-    "branch": "3.x",
-    "language": "Kotlin",
-    "description": "RxJava bindings for Kotlin"
-  },
-  {
-    "repo": "techjarves/Uncensored-Local-AI-Multiplatform",
+    "repo": "cncf/toc",
     "branch": "main",
-    "language": "Dart",
-    "description": "A cross-platform Flutter app that runs uncensored, 100% offline open-source AI models (GGUF) directly on your Android, iOS, or PC. No cloud, no filters, total privacy."
+    "language": "Go",
+    "description": "⚖️ The CNCF Technical Oversight Committee (TOC) is the technical governing body of the CNCF Foundation."
   },
   {
-    "repo": "WenXiaoWendy/cyberboss",
+    "repo": "manuelschipper/nah",
+    "branch": "main",
+    "language": "Python",
+    "description": "Context-aware safety guard for Claude Code. A permission system you control."
+  },
+  {
+    "repo": "explosion/spaCy",
+    "branch": "master",
+    "language": "Python",
+    "description": "💫 Industrial-strength Natural Language Processing (NLP) in Python"
+  },
+  {
+    "repo": "pytorch/ignite",
+    "branch": "master",
+    "language": "Python",
+    "description": "High-level library to help with training and evaluating neural networks in PyTorch flexibly and transparently."
+  },
+  {
+    "repo": "tauri-apps/tauri",
+    "branch": "dev",
+    "language": "Rust",
+    "description": "Build smaller, faster, and more secure desktop and mobile applications with a web frontend."
+  },
+  {
+    "repo": "google/dagger",
+    "branch": "master",
+    "language": "Java",
+    "description": "A fast dependency injector for Android and Java."
+  },
+  {
+    "repo": "YousefMahdy1/DBD-AutoGrind-Trainer-2026",
+    "branch": "main",
+    "language": "Python",
+    "description": "Ultimate Dead by Daylight auto-grind trainer with Bloodpoint bot, ESP wallhack, aimbot, and full perk/skin unlocker. Dominate the Fog with our 2026 undetected external tool."
+  },
+  {
+    "repo": "npm/cli",
+    "branch": "latest",
+    "language": "JavaScript",
+    "description": "the package manager for JavaScript"
+  },
+  {
+    "repo": "apache/hadoop",
+    "branch": "trunk",
+    "language": "Java",
+    "description": "Apache Hadoop"
+  },
+  {
+    "repo": "apache/maven",
+    "branch": "master",
+    "language": "Java",
+    "description": "Apache Maven core"
+  },
+  {
+    "repo": "mgks/GitHubTree",
     "branch": "main",
     "language": "JavaScript",
-    "description": ""
+    "description": "Visualise any GitHub repository folder structure. Available as a web app, CLI tool, and node.js library."
   },
   {
-    "repo": "patterniha/SNI-Spoofing",
-    "branch": "main",
-    "language": "Python",
-    "description": "Bypass DPI with IP/TCP-Header manipulation"
-  },
-  {
-    "repo": "software-mansion/react-native-reanimated",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "React Native's Animated library reimplemented"
-  },
-  {
-    "repo": "garrytan/gbrain",
+    "repo": "NomicFoundation/hardhat",
     "branch": "master",
     "language": "TypeScript",
-    "description": "Garry's Opinionated OpenClaw Brain"
+    "description": "Hardhat is a development environment to compile, deploy, test, and debug your Ethereum software."
   },
   {
-    "repo": "sharbelxyz/x-bookmarks",
+    "repo": "openai/whisper",
     "branch": "main",
     "language": "Python",
-    "description": "OpenClaw skill: turn your X bookmarks into agent actions. Stop hoarding. Start applying."
+    "description": "Robust Speech Recognition via Large-Scale Weak Supervision"
   },
   {
-    "repo": "thisishowen-spec/eatlah",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Snap menu, Start QR orders. AI powered QR ordering for hawker stalls, small restaurants, and independent food businesses. 五分钟上线点餐系统"
-  },
-  {
-    "repo": "LemoLev/tg-ws-proxy-ANDROID",
-    "branch": "main",
-    "language": "Python",
-    "description": "Flowseal/tg-ws-proxy на андроид (да и не только)"
-  },
-  {
-    "repo": "NoizAI/skills",
-    "branch": "main",
-    "language": "Shell",
-    "description": "Allow your 🦞 bot to Shout, Speak, with human vibe"
-  },
-  {
-    "repo": "hengfengliya/imgood",
-    "branch": "main",
-    "language": "CSS",
-    "description": ""
-  },
-  {
-    "repo": "mitjafelicijan/xdgctl",
+    "repo": "audacity/audacity",
     "branch": "master",
-    "language": "C",
-    "description": "TUI for managing XDG default applications"
+    "language": "C++",
+    "description": "Audio Editor"
   },
   {
-    "repo": "waltstephen/ArgusBot",
-    "branch": "publish",
+    "repo": "tensorflow/datasets",
+    "branch": "master",
     "language": "Python",
-    "description": ""
+    "description": "TFDS is a collection of datasets ready to use with TensorFlow, Jax, ..."
   },
   {
-    "repo": "newrelic/newrelic-java-agent",
-    "branch": "main",
-    "language": "Java",
-    "description": "The New Relic Java agent"
-  },
-  {
-    "repo": "github/storybook-addon-performance-panel",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "A Storybook Addon for tracking web performance"
-  },
-  {
-    "repo": "SentiAvatar/SentiAvatar",
-    "branch": "main",
-    "language": "Python",
-    "description": ""
-  },
-  {
-    "repo": "opentofu/opentofu",
+    "repo": "GoogleContainerTools/kaniko",
     "branch": "main",
     "language": "Go",
-    "description": "OpenTofu lets you declaratively manage your cloud infrastructure."
+    "description": "Build Container Images In Kubernetes"
   },
   {
-    "repo": "cablate/banini-tracker",
-    "branch": "master",
+    "repo": "Uniswap/v3-core",
+    "branch": "main",
     "language": "TypeScript",
-    "description": "巴逆逆（8zz）反指標追蹤器 — Facebook 抓取 + 影片轉錄 + AI 分析 + Telegram 推送"
+    "description": "🦄 🦄 🦄 Core smart contracts of Uniswap v3"
   },
   {
-    "repo": "runesleo/x-reader",
+    "repo": "gothinkster/realworld",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "The mother of all demo apps — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more"
+  },
+  {
+    "repo": "Lazarus-AI/clearwing",
     "branch": "main",
     "language": "Python",
-    "description": "Universal content reader — fetch, normalize, and digest content from 7+ platforms (WeChat, Telegram, X, YouTube, Bilibili, Xiaohongshu, RSS)"
+    "description": ""
   },
   {
-    "repo": "sachaa/openbrowserclaw",
+    "repo": "firewalld/firewalld",
+    "branch": "main",
+    "language": "Python",
+    "description": "Stateful zone based firewall daemon with D-Bus interface"
+  },
+  {
+    "repo": "keanucz/detour",
     "branch": "master",
     "language": "TypeScript",
-    "description": "Browser-native personal AI assistant. Zero infrastructure, the browser is the server."
+    "description": "On-board AI agents autonomously saving satellites from orbital debris @ treehacks 2026"
   },
   {
-    "repo": "Henrygd/Beszel",
+    "repo": "akseolabs-seo/AK-Threads-booster",
     "branch": "main",
-    "language": "Go",
-    "description": "Lightweight server monitoring hub with historical data, docker stats, and alerts."
+    "language": "Python",
+    "description": "AK體 · 數據驅動的 Threads 寫文決策系統。用你的歷史貼文、演算法與社媒心理學，協助選題、起草、發文前診斷、表現預估與復盤。Data-driven Threads writing advisor — topic selection, drafting, diagnosis, prediction & review based on your own post history."
   },
   {
-    "repo": "madeye/mcp-cli",
-    "branch": "main",
-    "language": "Rust",
-    "description": "save fork/exec overhead of ai code agent"
-  },
-  {
-    "repo": "dev-protocol/polymarket-arbitrage-bot",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Polymarket arbitrage bot || Dump Hedge Strategy || detect arbitrage opportunity between UP & Down token prices movement - RTDS based strategical Bot"
-  },
-  {
-    "repo": "gradle/gradle",
+    "repo": "NyxTides/ppt-image-first",
     "branch": "master",
-    "language": "Groovy",
-    "description": "Adaptable, fast automation for all"
+    "language": "Python",
+    "description": "PPT image-first skill for Codex CLI"
+  },
+  {
+    "repo": "Runnin4ik/dpi-detector",
+    "branch": "main",
+    "language": "Python",
+    "description": "DPI detection tool for internet censorship testing. Identifies TLS, TCP, HTTP blocking and 16-20KB connection drops"
   }
 ]
