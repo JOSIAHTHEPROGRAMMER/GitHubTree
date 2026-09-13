@@ -1,146 +1,146 @@
 [
   {
-    "repo": "renatoworks/3dsvg",
+    "repo": "envoyproxy/envoy",
     "branch": "main",
-    "language": "TypeScript",
-    "description": "The easiest way to turn SVGs into interactive React 3D components"
+    "language": "C++",
+    "description": "Cloud-native high-performance edge/middle/service proxy"
   },
   {
-    "repo": "erenjugs/OpenGork",
+    "repo": "privacyguides/privacyguides.org",
     "branch": "main",
-    "language": "Shell",
-    "description": "🧠 Uncensored AI agent powered by xAI's Grok - no filters, no limits"
+    "language": "Markdown",
+    "description": "Protect your data against global mass surveillance programs."
   },
   {
-    "repo": "sooryathejas/METATRON",
-    "branch": "main",
-    "language": "Python",
-    "description": "AI-powered penetration testing assistant using local LLM on linux (Parrot OS)"
-  },
-  {
-    "repo": "JackChen-me/open-multi-agent",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Production-grade multi-agent orchestration framework. Model-agnostic, supports team collaboration, task scheduling, and inter-agent communication."
-  },
-  {
-    "repo": "epiral/bb-sites",
-    "branch": "main",
+    "repo": "npm/cli",
+    "branch": "latest",
     "language": "JavaScript",
-    "description": "Community fetch recipes for bb-browser — pre-built adapters for Reddit, Twitter, GitHub, and more"
+    "description": "the package manager for JavaScript"
   },
   {
-    "repo": "EricEsquivel/CobaltStrike-Linux-Beacon",
-    "branch": "main",
-    "language": "C",
-    "description": "Proof of Concept (PoC) implant for creating custom Cobalt Strike Beacons"
-  },
-  {
-    "repo": "TQ-trade/rari-stable-pool-contracts",
-    "branch": "dependabot/npm_and_yarn/ajv-6.14.0",
-    "language": "HTML",
-    "description": "Smart contracts for the Rari Stable Pool."
-  },
-  {
-    "repo": "sgInnora/alipay-deeplink-research",
-    "branch": "main",
-    "language": "HTML",
-    "description": "Alipay DeepLink + JSBridge Security Research - 17 Verified Vulnerabilities | 支付宝DeepLink安全研究 | Full Report: innora.ai/zfb"
-  },
-  {
-    "repo": "chauncygu/collection-claude-code-source-code",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "🔥 A collection of the newest Claude Code open source"
-  },
-  {
-    "repo": "AprilNEA/claude-code-source",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Claude Code source code recovered from source map"
-  },
-  {
-    "repo": "TrendTechVista/polymarket-copy-trading-bot",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "polymarket copy trading bot polymarket copy trading bot polymarket copy trading bot polymarket copy trading bot polymarket copy trading bot polymarket copy trading bot polymarket copy trading bot polymarket copy trading bot polymarket copy trading bot polymarket copy trading bot polymarket copy trading bot polymarket copy trading bot"
-  },
-  {
-    "repo": "roger2ai/Claude-Code-Compiled",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Compiled version of Leaked Claude Code"
-  },
-  {
-    "repo": "HKUDS/OpenHarness",
+    "repo": "siknet/FreePEP",
     "branch": "main",
     "language": "Python",
-    "description": "OpenHarness: Open Agent Harness"
+    "description": "人教社电子教材下载器"
   },
   {
-    "repo": "hellowind777/hello2cc",
+    "repo": "saif0200/notchprompt",
     "branch": "main",
-    "language": "JavaScript",
-    "description": "Native-first Claude Code plugin for third-party models with silent Agent model injection and output styles."
-  },
-  {
-    "repo": "skernelx/tavily-key-generator",
-    "branch": "main",
-    "language": "Python",
-    "description": "Auto batch register Tavily API Keys with pluggable email backends"
-  },
-  {
-    "repo": "LING71671/Open-ClaudeCode",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "ClaudeCode related repository"
-  },
-  {
-    "repo": "ultraworkers/claw-code-parity",
-    "branch": "main",
-    "language": "Rust",
-    "description": "claw-code Rust port parity work - it is temporary work while claw-code repo is doing migration"
-  },
-  {
-    "repo": "michelleoincx/Bunkr-Downloader-Python",
-    "branch": "main",
-    "language": "HTML",
+    "language": "Swift",
     "description": ""
   },
   {
-    "repo": "finvfamily/finshare",
-    "branch": "main",
-    "language": "Python",
-    "description": "专业的金融数据获取工具库 - A Professional Financial Data Fetching Toolkit for   Python"
+    "repo": "kubernetes-sigs/metrics-server",
+    "branch": "master",
+    "language": "Go",
+    "description": "Scalable and efficient source of container resource metrics for Kubernetes built-in autoscaling pipelines."
   },
   {
-    "repo": "liyown/marknative",
+    "repo": "babel/babel-loader",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "📦 Babel loader for webpack"
+  },
+  {
+    "repo": "indragiek/GHFS",
+    "branch": "main",
+    "language": "Swift",
+    "description": "Mount GitHub repositories as a virtual read-only macOS filesystem"
+  },
+  {
+    "repo": "requirejs/requirejs",
+    "branch": "master",
+    "language": "JavaScript",
+    "description": "A file and module loader for JavaScript"
+  },
+  {
+    "repo": "op7418/m5-paper-buddy",
+    "branch": "main",
+    "language": "C++",
+    "description": "📟 Claude Code physical companion on M5Paper V1.1 e-ink. Multi-session dashboard, hardware approval (buttons + touch), AskUserQuestion option cards, CJK, USB/BLE, installable as a Claude Code plugin. / Claude Code 实体搭档，把 M5Paper 变成 Claude Code 的多会话看板 + 硬件审批面板。"
+  },
+  {
+    "repo": "eljojo/rememory",
+    "branch": "main",
+    "language": "Go",
+    "description": "have a plan for the worst-case scenario"
+  },
+  {
+    "repo": "HzWeta/Delta-For-Roblox-PC-Edition",
+    "branch": "main",
+    "language": "C++",
+    "description": "Delta For Roblox PC Edition delivers a smooth and optimized Roblox experience on Windows. Enjoy better performance, higher FPS, widescreen support, and enhanced stability while playing your favorite Roblox games on desktop."
+  },
+  {
+    "repo": "firebase/firebase-android-sdk",
+    "branch": "master",
+    "language": "Java",
+    "description": "Firebase Android SDK"
+  },
+  {
+    "repo": "lllyasviel/Fooocus",
+    "branch": "main",
+    "language": "Python",
+    "description": "Focus on prompting and generating"
+  },
+  {
+    "repo": "apollographql/graphql-subscriptions",
     "branch": "main",
     "language": "TypeScript",
-    "description": "A Markdown rendering engine that generates paginated PNG and SVG output — no browser, no Chromium, no DOM."
+    "description": ":newspaper: A small module that implements GraphQL subscriptions for Node.js"
   },
   {
-    "repo": "Trooped/QuickBars",
-    "branch": "main",
-    "language": "Kotlin",
-    "description": "The Official QuickBars for Home Assistant Repository"
-  },
-  {
-    "repo": "sanbuphy/nanoAgent",
+    "repo": "marketingjuliancongdanh79-pixel/skill-generator",
     "branch": "main",
     "language": "Python",
-    "description": "If you can read 100 lines of Python, you understand agents."
+    "description": "Bộ công cụ tạo AI Skill từ ý tưởng — Dành cho Antigravity, Claude Code, Cursor, Windsurf. Đánh giá 100/100 S-tier."
   },
   {
-    "repo": "steveclarke/real-world-rails",
+    "repo": "coredns/coredns",
+    "branch": "master",
+    "language": "Go",
+    "description": "CoreDNS is a DNS server that chains plugins"
+  },
+  {
+    "repo": "liuwei283/RealWonder",
+    "branch": "main",
+    "language": "Python",
+    "description": "Real-Time Physical Action-Conditioned Video Generation"
+  },
+  {
+    "repo": "1Panel-dev/MaxKB",
+    "branch": "main",
+    "language": "Python",
+    "description": "🔥 MaxKB is an open-source platform for building enterprise-grade agents.  强大易用的开源企业级智能体平台。"
+  },
+  {
+    "repo": "marshmallow-code/marshmallow",
+    "branch": "dev",
+    "language": "Python",
+    "description": "A lightweight library for converting complex objects to and from simple Python datatypes."
+  },
+  {
+    "repo": "atomiks/tippyjs",
+    "branch": "v6",
+    "language": "JavaScript",
+    "description": "Tooltip, popover, dropdown, and menu library"
+  },
+  {
+    "repo": "AriPath/AriMando",
+    "branch": "main",
+    "language": "Python",
+    "description": "در این پروژه تلاش شده است روش قدرتمند SNI-Spoofing به‌صورت یک اپلیکیشن گرافیکی (GUI)، مدرن و بسیار ساده برای ویندوز پیاده‌سازی شود؛ به‌طوری‌که کاربران بتوانند بدون درگیری با محیط ترمینال، کدهای پیچیده یا قطعی‌های پی‌درپی، با پایداری صددرصد از اینترنت آزاد لذت ببرند."
+  },
+  {
+    "repo": "mohi-devhub/antivibe",
     "branch": "main",
     "language": "Shell",
-    "description": "200+ production open source Rails apps & engines in one repo. Search across real codebases with AI agents to research architectural patterns."
+    "description": "Learn what AI writes, not just accept it. A Claude Code skill that turns AI-generated code into educational deep dives."
   },
   {
-    "repo": "formulahendry/wechat-acp",
+    "repo": "Zephkek/XStoreUnlocker",
     "branch": "main",
-    "language": "TypeScript",
-    "description": "Bridge WeChat chat messages to any ACP-compatible AI agent"
+    "language": "C++",
+    "description": "DLC unlocker for Microsoft Store and Xbox PC games."
   }
 ]

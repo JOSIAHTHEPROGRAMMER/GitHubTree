@@ -1,8 +1,8 @@
 {
-  "repo": "gfhdhytghd/viewflow",
+  "repo": "fruitflydev/flycoinrh",
   "branch": "main",
-  "language": "Rust",
-  "description": "A featured project on GitHubTree.",
-  "stars": 150,
-  "forks": 2
+  "language": "Python",
+  "description": "A real fruit fly connectome, 165,122 neurons, launching tokens on Robinhood Chain",
+  "stars": 154,
+  "forks": 46
 }
