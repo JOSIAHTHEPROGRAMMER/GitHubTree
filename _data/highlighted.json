@@ -1,8 +1,8 @@
 {
-  "repo": "fruitflydev/flycoinrh",
+  "repo": "g8row/PhotosBackup",
   "branch": "main",
-  "language": "Python",
-  "description": "A real fruit fly connectome, 165,122 neurons, launching tokens on Robinhood Chain",
-  "stars": 154,
-  "forks": 46
+  "language": "Swift",
+  "description": "PhotosBackup iOS app",
+  "stars": 144,
+  "forks": 16
 }

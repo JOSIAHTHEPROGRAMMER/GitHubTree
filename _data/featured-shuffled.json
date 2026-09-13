@@ -1,146 +1,146 @@
 [
   {
-    "repo": "envoyproxy/envoy",
-    "branch": "main",
-    "language": "C++",
-    "description": "Cloud-native high-performance edge/middle/service proxy"
+    "repo": "fanhao375/microduck-replica",
+    "branch": "master",
+    "language": "Python",
+    "description": "Microduck 复刻 · 从官方 MJCF 与 Rust 源码反推出的装配图、CAD 装配体与完整电控方案 | Mechanical + electronics reconstruction of Pollen Robotics' Microduck"
   },
   {
-    "repo": "privacyguides/privacyguides.org",
-    "branch": "main",
-    "language": "Markdown",
-    "description": "Protect your data against global mass surveillance programs."
+    "repo": "luccast/crabwalk",
+    "branch": "master",
+    "language": "TypeScript",
+    "description": "🦀 Crabwalk 🦀 Real-time companion monitor for Clawdbot agents."
   },
   {
-    "repo": "npm/cli",
-    "branch": "latest",
+    "repo": "emotion-js/emotion",
+    "branch": "main",
     "language": "JavaScript",
-    "description": "the package manager for JavaScript"
+    "description": "👩‍🎤 CSS-in-JS library designed for high performance style composition"
   },
   {
-    "repo": "siknet/FreePEP",
+    "repo": "microsoft/LlamaSharp",
+    "branch": "main",
+    "language": "Other",
+    "description": ".NET library for Llama model inference."
+  },
+  {
+    "repo": "karpathy/autoresearch",
+    "branch": "master",
+    "language": "Python",
+    "description": "AI agents running research on single-GPU nanochat training automatically"
+  },
+  {
+    "repo": "HKUSTDial/Supervisor-Skills",
     "branch": "main",
     "language": "Python",
-    "description": "人教社电子教材下载器"
+    "description": "将博导十年科研经验炼化为可直接调用的 AI 技能。从 Idea 构思到论文投稿，你的 AI 科研副导师。"
   },
   {
-    "repo": "saif0200/notchprompt",
+    "repo": "h4ckf0r0day/obscura",
     "branch": "main",
-    "language": "Swift",
-    "description": ""
+    "language": "Rust",
+    "description": "The headless browser for AI agents and web scraping"
   },
   {
-    "repo": "kubernetes-sigs/metrics-server",
-    "branch": "master",
-    "language": "Go",
-    "description": "Scalable and efficient source of container resource metrics for Kubernetes built-in autoscaling pipelines."
-  },
-  {
-    "repo": "babel/babel-loader",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "📦 Babel loader for webpack"
-  },
-  {
-    "repo": "indragiek/GHFS",
-    "branch": "main",
-    "language": "Swift",
-    "description": "Mount GitHub repositories as a virtual read-only macOS filesystem"
-  },
-  {
-    "repo": "requirejs/requirejs",
-    "branch": "master",
-    "language": "JavaScript",
-    "description": "A file and module loader for JavaScript"
-  },
-  {
-    "repo": "op7418/m5-paper-buddy",
-    "branch": "main",
-    "language": "C++",
-    "description": "📟 Claude Code physical companion on M5Paper V1.1 e-ink. Multi-session dashboard, hardware approval (buttons + touch), AskUserQuestion option cards, CJK, USB/BLE, installable as a Claude Code plugin. / Claude Code 实体搭档，把 M5Paper 变成 Claude Code 的多会话看板 + 硬件审批面板。"
-  },
-  {
-    "repo": "eljojo/rememory",
-    "branch": "main",
-    "language": "Go",
-    "description": "have a plan for the worst-case scenario"
-  },
-  {
-    "repo": "HzWeta/Delta-For-Roblox-PC-Edition",
-    "branch": "main",
-    "language": "C++",
-    "description": "Delta For Roblox PC Edition delivers a smooth and optimized Roblox experience on Windows. Enjoy better performance, higher FPS, widescreen support, and enhanced stability while playing your favorite Roblox games on desktop."
-  },
-  {
-    "repo": "firebase/firebase-android-sdk",
+    "repo": "apache/commons-lang",
     "branch": "master",
     "language": "Java",
-    "description": "Firebase Android SDK"
+    "description": "Apache Commons Lang"
   },
   {
-    "repo": "lllyasviel/Fooocus",
+    "repo": "videojs/video.js",
     "branch": "main",
-    "language": "Python",
-    "description": "Focus on prompting and generating"
-  },
-  {
-    "repo": "apollographql/graphql-subscriptions",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": ":newspaper: A small module that implements GraphQL subscriptions for Node.js"
-  },
-  {
-    "repo": "marketingjuliancongdanh79-pixel/skill-generator",
-    "branch": "main",
-    "language": "Python",
-    "description": "Bộ công cụ tạo AI Skill từ ý tưởng — Dành cho Antigravity, Claude Code, Cursor, Windsurf. Đánh giá 100/100 S-tier."
-  },
-  {
-    "repo": "coredns/coredns",
-    "branch": "master",
-    "language": "Go",
-    "description": "CoreDNS is a DNS server that chains plugins"
-  },
-  {
-    "repo": "liuwei283/RealWonder",
-    "branch": "main",
-    "language": "Python",
-    "description": "Real-Time Physical Action-Conditioned Video Generation"
-  },
-  {
-    "repo": "1Panel-dev/MaxKB",
-    "branch": "main",
-    "language": "Python",
-    "description": "🔥 MaxKB is an open-source platform for building enterprise-grade agents.  强大易用的开源企业级智能体平台。"
-  },
-  {
-    "repo": "marshmallow-code/marshmallow",
-    "branch": "dev",
-    "language": "Python",
-    "description": "A lightweight library for converting complex objects to and from simple Python datatypes."
-  },
-  {
-    "repo": "atomiks/tippyjs",
-    "branch": "v6",
     "language": "JavaScript",
-    "description": "Tooltip, popover, dropdown, and menu library"
+    "description": "Video.js - open source HTML5 video player"
   },
   {
-    "repo": "AriPath/AriMando",
+    "repo": "longhorn/longhorn",
+    "branch": "master",
+    "language": "Shell",
+    "description": "Cloud-Native distributed storage built on and for Kubernetes"
+  },
+  {
+    "repo": "cncf/landscape",
+    "branch": "master",
+    "language": "Other",
+    "description": "🌄 The Cloud Native Interactive Landscape filters and sorts hundreds of projects and products, and shows details including GitHub stars, funding, first and last commits, contributor counts and headquarters location."
+  },
+  {
+    "repo": "nateherkai/token-dashboard",
     "branch": "main",
     "language": "Python",
-    "description": "در این پروژه تلاش شده است روش قدرتمند SNI-Spoofing به‌صورت یک اپلیکیشن گرافیکی (GUI)، مدرن و بسیار ساده برای ویندوز پیاده‌سازی شود؛ به‌طوری‌که کاربران بتوانند بدون درگیری با محیط ترمینال، کدهای پیچیده یا قطعی‌های پی‌درپی، با پایداری صددرصد از اینترنت آزاد لذت ببرند."
+    "description": "See where Claude Code is burning tokens - turn raw JSONL transcripts into local cost analytics, hotspot views, and session-level usage insight."
   },
   {
-    "repo": "mohi-devhub/antivibe",
+    "repo": "buildpacks/pack",
+    "branch": "main",
+    "language": "Go",
+    "description": "CLI for building apps using Cloud Native Buildpacks"
+  },
+  {
+    "repo": "Developer-Y/cs-video-courses",
+    "branch": "master",
+    "language": "Other",
+    "description": "List of Computer Science courses with video lectures."
+  },
+  {
+    "repo": "thangchung/awesome-dotnet-core",
+    "branch": "master",
+    "language": "C#",
+    "description": ":honeybee: A collection of awesome .NET core libraries, tools, frameworks and software"
+  },
+  {
+    "repo": "keithnull/TeachYourselfCS-CN",
+    "branch": "master",
+    "language": "Other",
+    "description": "TeachYourselfCS 的中文翻译 |  A Chinese translation of TeachYourselfCS"
+  },
+  {
+    "repo": "depreciating/DoodleCloud",
+    "branch": "main",
+    "language": "Python",
+    "description": "Cloud Storage using Instagram."
+  },
+  {
+    "repo": "loop-uh/yourvpndead",
+    "branch": "main",
+    "language": "Kotlin",
+    "description": "Детекция и обнаружение айпи у ВПН серверов VLESS/xray/sing-box через локальный SOCKS5 уязвимость"
+  },
+  {
+    "repo": "iBUHub/CanvasToAPI",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "A wrapper that exposes Gemini Canvas as OpenAI, Gemini, and Anthropic compatible APIs.（一个将 Gemini Canvas 封装为兼容 OpenAI / Gemini / Anthropic 风格 API 的工具）"
+  },
+  {
+    "repo": "davegoldblatt/total-recall",
     "branch": "main",
     "language": "Shell",
-    "description": "Learn what AI writes, not just accept it. A Claude Code skill that turns AI-generated code into educational deep dives."
+    "description": "Persistent memory plugin for Claude Code. Tiered memory system with write gates, correction propagation, and slash commands."
   },
   {
-    "repo": "Zephkek/XStoreUnlocker",
+    "repo": "joyehuang/Learn-Open-Harness",
     "branch": "main",
-    "language": "C++",
-    "description": "DLC unlocker for Microsoft Store and Xbox PC games."
+    "language": "TypeScript",
+    "description": "🤖 Official Interactive Tutorial for OpenHarness – Zero to Hero in 12 Chapters | Learn OpenHarness like Claude Code: Agent Loop, Tools, Memory, Multi-Agent | 面向零基础的 AI Agent 交互式教程"
+  },
+  {
+    "repo": "retlehs/quien",
+    "branch": "main",
+    "language": "Go",
+    "description": "A better WHOIS lookup tool"
+  },
+  {
+    "repo": "xaspx/hermes-control-interface",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "A self-hosted web dashboard for the Hermes AI agent stack. Provides a browser-based terminal, file explorer, session overview, cron management, system metrics, and an agent status panel — all behind a single password gate."
+  },
+  {
+    "repo": "facebookresearch/llama",
+    "branch": "main",
+    "language": "Python",
+    "description": "Inference code for Llama models"
   }
 ]
