@@ -1,146 +1,146 @@
 [
   {
-    "repo": "fanhao375/microduck-replica",
-    "branch": "master",
-    "language": "Python",
-    "description": "Microduck 复刻 · 从官方 MJCF 与 Rust 源码反推出的装配图、CAD 装配体与完整电控方案 | Mechanical + electronics reconstruction of Pollen Robotics' Microduck"
+    "repo": "zengwenliang416/ppt-agent",
+    "branch": "main",
+    "language": "HTML",
+    "description": ""
   },
   {
-    "repo": "luccast/crabwalk",
-    "branch": "master",
+    "repo": "NamKhoa-07/Voidstrap",
+    "branch": "main",
+    "language": "C#",
+    "description": "Voidstrap is a simple yet advanced fork of Bloxstrap, advanced customization and improvements."
+  },
+  {
+    "repo": "trycompai/crm",
+    "branch": "main",
     "language": "TypeScript",
-    "description": "🦀 Crabwalk 🦀 Real-time companion monitor for Clawdbot agents."
+    "description": ""
   },
   {
-    "repo": "emotion-js/emotion",
+    "repo": "BoardUI/boardui",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "React design system for agentic interfaces. Every free BoardUI component as source, with a working AI chat app on your own model key as the homepage."
+  },
+  {
+    "repo": "KorekKayu/IKONA-Security",
+    "branch": "main",
+    "language": "Python",
+    "description": "🛡️ Comprehensive Cybersecurity Arsenal, Bug Bounty Payloads & Security Audit Tools by IKONA ONI"
+  },
+  {
+    "repo": "aimen08/noty",
+    "branch": "main",
+    "language": "HTML",
+    "description": "Sticky notes that live at the edge of your screen. Native macOS, SwiftUI + AppKit, local-only with encrypted note bodies."
+  },
+  {
+    "repo": "gauthierpiarrette/highball",
+    "branch": "main",
+    "language": "Swift",
+    "description": "Run Windows games on Apple Silicon — free, open source, with an open compatibility database that tells you what actually works."
+  },
+  {
+    "repo": "SegFault42/iOS-GPS-Spoofer",
+    "branch": "main",
+    "language": "Swift",
+    "description": "Real time GPS spoofer for iOS"
+  },
+  {
+    "repo": "btsouth/omakade",
+    "branch": "main",
+    "language": "C++",
+    "description": "A beautiful, local-first game library built for Omarchy."
+  },
+  {
+    "repo": "jprx/darwin-vm",
+    "branch": "main",
+    "language": "Python",
+    "description": "Run iOS/ macOS in Qemu. Virtual iPhone 17, 16, 15, 14, 13, 12 and M5-M1 Apple Si Macs supported."
+  },
+  {
+    "repo": "aaronyi97/image-story-video-wizard",
+    "branch": "main",
+    "language": "Python",
+    "description": "A confirmation-gated Codex and WorkBuddy skill for audio-first image-story video production."
+  },
+  {
+    "repo": "dashdogy/RTX40MFG-Unlock",
+    "branch": "main",
+    "language": "C++",
+    "description": "Experimental DLSS Multi Frame Generation controls for Cyberpunk 2077 on RTX 40 series GPUs"
+  },
+  {
+    "repo": "zordhalo/runs-on.dev",
     "branch": "main",
     "language": "JavaScript",
-    "description": "👩‍🎤 CSS-in-JS library designed for high performance style composition"
+    "description": "Grab your own cool'runs-on.dev' subdomain to use for free forever."
   },
   {
-    "repo": "microsoft/LlamaSharp",
-    "branch": "main",
-    "language": "Other",
-    "description": ".NET library for Llama model inference."
-  },
-  {
-    "repo": "karpathy/autoresearch",
-    "branch": "master",
-    "language": "Python",
-    "description": "AI agents running research on single-GPU nanochat training automatically"
-  },
-  {
-    "repo": "HKUSTDial/Supervisor-Skills",
+    "repo": "op7418/guizang-yingzao-skill",
     "branch": "main",
     "language": "Python",
-    "description": "将博导十年科研经验炼化为可直接调用的 AI 技能。从 Idea 构思到论文投稿，你的 AI 科研副导师。"
+    "description": "🏯 Claude Code / Codex skill — transform Chinese architecture, cultural places & travel photos into art-directed editorial posters with GPT Image. 中国古建筑与在地文化照片 → 艺术指导海报"
   },
   {
-    "repo": "h4ckf0r0day/obscura",
+    "repo": "lxl0825/RagRank",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "RagRank utilizes real-time data ingestion and high-performance processing to modeling and anomaly detection on a scalable engine platform."
+  },
+  {
+    "repo": "LIUFelix2004/God-minmax-H3",
+    "branch": "main",
+    "language": "Shell",
+    "description": ""
+  },
+  {
+    "repo": "pgrundev/pgterm",
     "branch": "main",
     "language": "Rust",
-    "description": "The headless browser for AI agents and web scraping"
+    "description": "Postgres Terminal"
   },
   {
-    "repo": "apache/commons-lang",
-    "branch": "master",
-    "language": "Java",
-    "description": "Apache Commons Lang"
-  },
-  {
-    "repo": "videojs/video.js",
+    "repo": "kandowontu/starfox-enhanced",
     "branch": "main",
-    "language": "JavaScript",
-    "description": "Video.js - open source HTML5 video player"
+    "language": "C++",
+    "description": "A native 60 FPS PC source port built from the UltraStarFox codebase."
   },
   {
-    "repo": "longhorn/longhorn",
-    "branch": "master",
-    "language": "Shell",
-    "description": "Cloud-Native distributed storage built on and for Kubernetes"
-  },
-  {
-    "repo": "cncf/landscape",
-    "branch": "master",
-    "language": "Other",
-    "description": "🌄 The Cloud Native Interactive Landscape filters and sorts hundreds of projects and products, and shows details including GitHub stars, funding, first and last commits, contributor counts and headquarters location."
-  },
-  {
-    "repo": "nateherkai/token-dashboard",
+    "repo": "fuad403273/GradientOracle",
     "branch": "main",
     "language": "Python",
-    "description": "See where Claude Code is burning tokens - turn raw JSONL transcripts into local cost analytics, hotspot views, and session-level usage insight."
+    "description": "GradientOracle is a predictive analytics framework utilizing machine learning processing and online learning, with built-in optimizer and scheduler."
   },
   {
-    "repo": "buildpacks/pack",
-    "branch": "main",
-    "language": "Go",
-    "description": "CLI for building apps using Cloud Native Buildpacks"
-  },
-  {
-    "repo": "Developer-Y/cs-video-courses",
-    "branch": "master",
-    "language": "Other",
-    "description": "List of Computer Science courses with video lectures."
-  },
-  {
-    "repo": "thangchung/awesome-dotnet-core",
-    "branch": "master",
-    "language": "C#",
-    "description": ":honeybee: A collection of awesome .NET core libraries, tools, frameworks and software"
-  },
-  {
-    "repo": "keithnull/TeachYourselfCS-CN",
-    "branch": "master",
-    "language": "Other",
-    "description": "TeachYourselfCS 的中文翻译 |  A Chinese translation of TeachYourselfCS"
-  },
-  {
-    "repo": "depreciating/DoodleCloud",
-    "branch": "main",
-    "language": "Python",
-    "description": "Cloud Storage using Instagram."
-  },
-  {
-    "repo": "loop-uh/yourvpndead",
-    "branch": "main",
-    "language": "Kotlin",
-    "description": "Детекция и обнаружение айпи у ВПН серверов VLESS/xray/sing-box через локальный SOCKS5 уязвимость"
-  },
-  {
-    "repo": "iBUHub/CanvasToAPI",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "A wrapper that exposes Gemini Canvas as OpenAI, Gemini, and Anthropic compatible APIs.（一个将 Gemini Canvas 封装为兼容 OpenAI / Gemini / Anthropic 风格 API 的工具）"
-  },
-  {
-    "repo": "davegoldblatt/total-recall",
-    "branch": "main",
-    "language": "Shell",
-    "description": "Persistent memory plugin for Claude Code. Tiered memory system with write gates, correction propagation, and slash commands."
-  },
-  {
-    "repo": "joyehuang/Learn-Open-Harness",
+    "repo": "aizhimou/javranking-extension",
     "branch": "main",
     "language": "TypeScript",
-    "description": "🤖 Official Interactive Tutorial for OpenHarness – Zero to Hero in 12 Chapters | Learn OpenHarness like Claude Code: Agent Loop, Tools, Memory, Multi-Agent | 面向零基础的 AI Agent 交互式教程"
+    "description": "Show all JAV cover and ranking in one click."
   },
   {
-    "repo": "retlehs/quien",
+    "repo": "lij768423-svg/grok2api-egress-enhancements",
     "branch": "main",
     "language": "Go",
-    "description": "A better WHOIS lookup tool"
+    "description": "Grok2API & CPA egress quality guard with proxy recovery, quarantine, migration, and operations UI"
   },
   {
-    "repo": "xaspx/hermes-control-interface",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "A self-hosted web dashboard for the Hermes AI agent stack. Provides a browser-based terminal, file explorer, session overview, cron management, system metrics, and an agent status panel — all behind a single password gate."
-  },
-  {
-    "repo": "facebookresearch/llama",
+    "repo": "wz1119/Codex-Minecraft-Gameplay",
     "branch": "main",
     "language": "Python",
-    "description": "Inference code for Llama models"
+    "description": "A toolkit for exploring, gathering, crafting, and building in Minecraft with GPT-6 Astra computer use."
+  },
+  {
+    "repo": "hassenbrahim/WeightMempool",
+    "branch": "main",
+    "language": "Python",
+    "description": "WeightMempool: An Optimized Transaction Pool Manager and Block Verification Optimizer. focused on high-performance and practical use"
+  },
+  {
+    "repo": "lingbol088-spec/ReiPenFlow",
+    "branch": "main",
+    "language": "Python",
+    "description": "Codex skill for local sandbox, CTF, authorized pentest and reverse-engineering workflows."
   }
 ]
