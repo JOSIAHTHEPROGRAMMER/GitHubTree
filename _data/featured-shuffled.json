@@ -1,129 +1,69 @@
 [
   {
-    "repo": "SAGAR-TAMANG/ultron-by-sagar-builds",
+    "repo": "VoidSignals/Polymarket-trading-bot",
     "branch": "main",
-    "language": "TypeScript",
-    "description": "Ultron."
-  },
-  {
-    "repo": "emdash-cms/emdash",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": ""
-  },
-  {
-    "repo": "openlibrecommunity/olcrtc",
-    "branch": "master",
-    "language": "Python",
-    "description": "olc - using side channels to access web outside the whitelist"
-  },
-  {
-    "repo": "meteor/meteor",
-    "branch": "devel",
     "language": "JavaScript",
-    "description": "Meteor, the JavaScript App Platform"
+    "description": "polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot,"
   },
   {
-    "repo": "phioranex/openclaw-docker",
-    "branch": "main",
-    "language": "PowerShell",
-    "description": ""
-  },
-  {
-    "repo": "skydoves/android-skills-mcp",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "An MCP server and CLI packager for official Android skills."
-  },
-  {
-    "repo": "juliangarnier/anime",
+    "repo": "openscad/openscad",
     "branch": "master",
+    "language": "C++",
+    "description": "OpenSCAD - The Programmers Solid 3D CAD Modeller"
+  },
+  {
+    "repo": "babel/babel-preset-env",
+    "branch": "main",
     "language": "JavaScript",
-    "description": "JavaScript animation engine"
+    "description": "PSA: this repo has been moved into babel/babel -->"
   },
   {
-    "repo": "thesSmartApe/polymarket-copy-trading-bot-rust",
-    "branch": "main",
-    "language": "Rust",
-    "description": "polymarket rust copy trading bot polymarket copy trading bot polymarket copy trading bot polymarket copy trading bot polymarket copy trading bot polymarket copy trading bot polymarket copy trading bot polymarket copy trading bot polymarket copy trading bot polymarket copy trading bot"
-  },
-  {
-    "repo": "cablate/banini-tracker",
-    "branch": "master",
-    "language": "TypeScript",
-    "description": "巴逆逆（8zz）反指標追蹤器 — Facebook 抓取 + 影片轉錄 + AI 分析 + Telegram 推送"
-  },
-  {
-    "repo": "ponponon/claude_code_src",
-    "branch": "master",
-    "language": "TypeScript",
-    "description": ""
-  },
-  {
-    "repo": "Robbyant/lingbot-depth",
-    "branch": "main",
-    "language": "Python",
-    "description": ""
-  },
-  {
-    "repo": "massgravel/Microsoft-Activation-Scripts",
-    "branch": "master",
-    "language": "Batchfile",
-    "description": "Open-source Windows and Office activator featuring HWID, Ohook, TSforge, and Online KMS activation methods, along with advanced troubleshooting."
-  },
-  {
-    "repo": "alibaba/FunASR",
-    "branch": "main",
-    "language": "Python",
-    "description": "A Fundamental End-to-End Speech Recognition Toolkit and Open Source SOTA Pretrained Models, Supporting Speech Recognition, Voice Activity Detection, Text Post-processing etc."
-  },
-  {
-    "repo": "fatedier/frp",
-    "branch": "dev",
-    "language": "Go",
-    "description": "A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet."
-  },
-  {
-    "repo": "Unclecheng-li/AI_Animation",
-    "branch": "master",
-    "language": "HTML",
-    "description": "本项目整理了用于生成[炫酷 HTML 动画网页]的 AI Prompts，涵盖动画效果、3D 可视化、PPT 风格演示、UI 美化等多个类别。"
-  },
-  {
-    "repo": "Soul-AILab/SoulX-Singer",
-    "branch": "main",
-    "language": "Python",
-    "description": "Official inference code for SoulX-Singer: Towards High-Quality Zero-Shot Singing Voice Synthesis"
-  },
-  {
-    "repo": "tanbiralam/claude-code",
+    "repo": "open-telemetry/opentelemetry-js",
     "branch": "main",
     "language": "TypeScript",
-    "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands. All original source code is the property of Anthropic."
+    "description": "OpenTelemetry JavaScript Client"
   },
   {
-    "repo": "cocos/cocos-engine",
-    "branch": "v3.8",
-    "language": "C++",
-    "description": "Cocos simplifies game creation and distribution with Cocos Creator, a free, open-source, cross-platform game engine. Empowering millions of developers to create high-performance, engaging 2D/3D games and instant web entertainment."
+    "repo": "SeleniumHQ/selenium",
+    "branch": "trunk",
+    "language": "Java",
+    "description": "A browser automation framework and ecosystem."
   },
   {
-    "repo": "reinesana/Doomscroll-Skyrim-Edition",
+    "repo": "GrapheneOS/Camera",
     "branch": "main",
-    "language": "Python",
-    "description": "A CV productivity tool that plays the Skeleton Shield meme whenever you doomscroll or lose focus."
+    "language": "Java",
+    "description": "Modern camera app focused on privacy and security with QR & barcode scanning."
   },
   {
-    "repo": "saltpi/Aria.X",
-    "branch": "main",
-    "language": "C++",
-    "description": "AriaX: The Ultimate Download Manager for Apple Users"
-  },
-  {
-    "repo": "ollama/ollama",
+    "repo": "thanos-io/thanos",
     "branch": "main",
     "language": "Go",
-    "description": "Get up and running with OpenAI GLM-4.7, DeepSeek, gpt-oss, Qwen, Gemma and other models."
+    "description": "Highly available Prometheus setup with long term storage capabilities. A CNCF Incubating project."
+  },
+  {
+    "repo": "FreeCAD/FreeCAD",
+    "branch": "main",
+    "language": "C++",
+    "description": "Official source code of FreeCAD, a free and opensource multiplatform 3D parametric modeler."
+  },
+  {
+    "repo": "containerd/containerd",
+    "branch": "main",
+    "language": "Go",
+    "description": "An open and reliable container runtime"
+  },
+  {
+    "repo": "docker/buildx",
+    "branch": "master",
+    "language": "Go",
+    "description": "Docker CLI plugin for extended build capabilities with BuildKit"
+  },
+  {
+    "repo": "junit-team/junit4",
+    "branch": "main",
+    "language": "Java",
+    "description": "A programmer-oriented testing framework for Java — :warning: maintenance mode"
   },
   {
     "repo": "koreader/koreader",
@@ -132,15 +72,75 @@
     "description": "An ebook reader application supporting PDF, DjVu, EPUB, FB2 and many more formats, running on Cervantes, Kindle, Kobo, PocketBook and Android devices"
   },
   {
-    "repo": "romus204/tree-sitter-manager.nvim",
-    "branch": "main",
-    "language": "Tree-sitter Query",
-    "description": "A lightweight Tree-sitter parser manager for Neovim."
+    "repo": "Kotlin/kotlinx.serialization",
+    "branch": "master",
+    "language": "Kotlin",
+    "description": "Kotlin multiplatform / multi-format serialization"
   },
   {
-    "repo": "CocoaPods/CocoaPods",
+    "repo": "zachlatta/freeflow",
+    "branch": "main",
+    "language": "Swift",
+    "description": "Free and open source alternative to Wispr Flow / Superwhisper / Monologue / etc"
+  },
+  {
+    "repo": "xvhuan/xiaoi",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "小爱音箱语音通知工具：提供 CLI/TUI/MCP/Webhook 一键播报与控制音量，支持 PM2 常驻部署，支持docker部署。"
+  },
+  {
+    "repo": "keepassxreboot/keepassxc",
+    "branch": "develop",
+    "language": "C++",
+    "description": "KeePassXC is a cross-platform community-driven port of the Windows application “KeePass Password Safe”."
+  },
+  {
+    "repo": "GabagoolisLive/polymarket-copytrading-bot-vvvvvvvvvvvv",
+    "branch": "main",
+    "language": "Rust",
+    "description": "Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot Polymarket copy Trading Bot"
+  },
+  {
+    "repo": "marketingjuliancongdanh79-pixel/skill-generator",
+    "branch": "main",
+    "language": "Python",
+    "description": "Bộ công cụ tạo AI Skill từ ý tưởng — Dành cho Antigravity, Claude Code, Cursor, Windsurf. Đánh giá 100/100 S-tier."
+  },
+  {
+    "repo": "lenxism/dither",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Upload an image and watch it come alive as interactive dithered particles. Hover to push them, click to explode."
+  },
+  {
+    "repo": "pytorch/ignite",
     "branch": "master",
-    "language": "Ruby",
-    "description": "The Cocoa Dependency Manager."
+    "language": "Python",
+    "description": "High-level library to help with training and evaluating neural networks in PyTorch flexibly and transparently."
+  },
+  {
+    "repo": "poshan0126/dotclaude",
+    "branch": "main",
+    "language": "Shell",
+    "description": "The standard .claude/  folder structure for everyday development."
+  },
+  {
+    "repo": "whwangovo/pyre-code",
+    "branch": "main",
+    "language": "Python",
+    "description": "A self-hosted ML coding practice platform. 68 problems from ReLU to flow matching — attention, training, RLHF, diffusion, and more. Instant feedback in the browser."
+  },
+  {
+    "repo": "Pylons/pyramid",
+    "branch": "master",
+    "language": "Python",
+    "description": "Pyramid - A Python web framework"
+  },
+  {
+    "repo": "material-components/material-components-web",
+    "branch": "master",
+    "language": "TypeScript",
+    "description": "Modular and customizable Material Design UI components for the web"
   }
 ]
