@@ -1,146 +1,146 @@
 [
   {
-    "repo": "zengwenliang416/ppt-agent",
-    "branch": "main",
-    "language": "HTML",
-    "description": ""
-  },
-  {
-    "repo": "NamKhoa-07/Voidstrap",
+    "repo": "knackstedtlivia3560/Gemini-Pro-Desktop",
     "branch": "main",
     "language": "C#",
-    "description": "Voidstrap is a simple yet advanced fork of Bloxstrap, advanced customization and improvements."
+    "description": "A free, locally runnable desktop application powered by Gemini Pro for enhanced productivity."
   },
   {
-    "repo": "trycompai/crm",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": ""
+    "repo": "elixir-volt/quickbeam",
+    "branch": "master",
+    "language": "C",
+    "description": "JavaScript runtime for the BEAM — Web APIs backed by OTP, native DOM, and a built-in TypeScript toolchain."
   },
   {
-    "repo": "BoardUI/boardui",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "React design system for agentic interfaces. Every free BoardUI component as source, with a working AI chat app on your own model key as the homepage."
-  },
-  {
-    "repo": "KorekKayu/IKONA-Security",
-    "branch": "main",
+    "repo": "Ibrahim-3d/conductor-orchestrator-superpowers",
+    "branch": "master",
     "language": "Python",
-    "description": "🛡️ Comprehensive Cybersecurity Arsenal, Bug Bounty Payloads & Security Audit Tools by IKONA ONI"
+    "description": "Multi-agent orchestration system for Claude Code with parallel execution, automated quality gates, Board of Directors, and bundled Superpowers skills"
   },
   {
-    "repo": "aimen08/noty",
+    "repo": "Doriandarko/webmcp-starter",
     "branch": "main",
     "language": "HTML",
-    "description": "Sticky notes that live at the edge of your screen. Native macOS, SwiftUI + AppKit, local-only with encrypted note bodies."
+    "description": "WebMCP starter demo — a DoorDash-style food delivery app with 9 AI agent tools (imperative + declarative)"
   },
   {
-    "repo": "gauthierpiarrette/highball",
+    "repo": "Infatoshi/metal-mc-terrain",
     "branch": "main",
-    "language": "Swift",
-    "description": "Run Windows games on Apple Silicon — free, open source, with an open compatibility database that tells you what actually works."
+    "language": "Objective-C",
+    "description": "Native Metal terrain renderer for Minecraft 1.16.5 on Apple Silicon. 10x FPS by replacing macOS OpenGL with Metal."
   },
   {
-    "repo": "SegFault42/iOS-GPS-Spoofer",
-    "branch": "main",
-    "language": "Swift",
-    "description": "Real time GPS spoofer for iOS"
-  },
-  {
-    "repo": "btsouth/omakade",
+    "repo": "Atrix256/Thirteen",
     "branch": "main",
     "language": "C++",
-    "description": "A beautiful, local-first game library built for Omarchy."
+    "description": "Header only minimalist interface to graphics, inspired by the olden days of mode 13h"
   },
   {
-    "repo": "jprx/darwin-vm",
+    "repo": "erikdarlingdata/PerformanceMonitor",
     "branch": "main",
-    "language": "Python",
-    "description": "Run iOS/ macOS in Qemu. Virtual iPhone 17, 16, 15, 14, 13, 12 and M5-M1 Apple Si Macs supported."
+    "language": "C#",
+    "description": "Free, open-source SQL Server performance monitoring. Full Edition (server-installed, 30 collectors) and Lite Edition (standalone, DuckDB). Built-in MCP server for AI integration."
   },
   {
-    "repo": "aaronyi97/image-story-video-wizard",
-    "branch": "main",
-    "language": "Python",
-    "description": "A confirmation-gated Codex and WorkBuddy skill for audio-first image-story video production."
-  },
-  {
-    "repo": "dashdogy/RTX40MFG-Unlock",
-    "branch": "main",
-    "language": "C++",
-    "description": "Experimental DLSS Multi Frame Generation controls for Cyberpunk 2077 on RTX 40 series GPUs"
-  },
-  {
-    "repo": "zordhalo/runs-on.dev",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "Grab your own cool'runs-on.dev' subdomain to use for free forever."
-  },
-  {
-    "repo": "op7418/guizang-yingzao-skill",
-    "branch": "main",
-    "language": "Python",
-    "description": "🏯 Claude Code / Codex skill — transform Chinese architecture, cultural places & travel photos into art-directed editorial posters with GPT Image. 中国古建筑与在地文化照片 → 艺术指导海报"
-  },
-  {
-    "repo": "lxl0825/RagRank",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "RagRank utilizes real-time data ingestion and high-performance processing to modeling and anomaly detection on a scalable engine platform."
-  },
-  {
-    "repo": "LIUFelix2004/God-minmax-H3",
-    "branch": "main",
-    "language": "Shell",
-    "description": ""
-  },
-  {
-    "repo": "pgrundev/pgterm",
-    "branch": "main",
-    "language": "Rust",
-    "description": "Postgres Terminal"
-  },
-  {
-    "repo": "kandowontu/starfox-enhanced",
-    "branch": "main",
-    "language": "C++",
-    "description": "A native 60 FPS PC source port built from the UltraStarFox codebase."
-  },
-  {
-    "repo": "fuad403273/GradientOracle",
-    "branch": "main",
-    "language": "Python",
-    "description": "GradientOracle is a predictive analytics framework utilizing machine learning processing and online learning, with built-in optimizer and scheduler."
-  },
-  {
-    "repo": "aizhimou/javranking-extension",
+    "repo": "avihaymenahem/velo",
     "branch": "main",
     "language": "TypeScript",
-    "description": "Show all JAV cover and ranking in one click."
+    "description": "Open source desktop email client for Gmail"
   },
   {
-    "repo": "lij768423-svg/grok2api-egress-enhancements",
+    "repo": "IAmUnbounded/devctx",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Carry context across coding agents/editors/IDEs - Cursor/Windsurf/Claude Code/Antigravity"
+  },
+  {
+    "repo": "Pickle-Pixel/ApplyPilot",
+    "branch": "main",
+    "language": "Python",
+    "description": "AI agent that applies to jobs for you. Any site. Any form."
+  },
+  {
+    "repo": "ochyai/vibe-local",
+    "branch": "main",
+    "language": "Python",
+    "description": "Free AI coding environment: Ollama + Python"
+  },
+  {
+    "repo": "HackingDave/btrpa-scan",
+    "branch": "main",
+    "language": "Python",
+    "description": "Bluetooth Low Energy (BLE) scanner with Resolvable Private Address (RPA) resolution using Identity Resolving Keys (IRKs)"
+  },
+  {
+    "repo": "perkfly/ex-skill",
+    "branch": "main",
+    "language": "Python",
+    "description": "前女友 skill"
+  },
+  {
+    "repo": "dadi1921/Tomodachi-Life-Living-The-Dream-PC",
+    "branch": "main",
+    "language": "C++",
+    "description": "Tomodachi Life: Living the Dream PC Version is an optimized Windows port of the popular life simulation game. Create unique Miis, develop relationships, host concerts and events on your own island in high resolution. Features improved performance, widescreen support, smooth FPS"
+  },
+  {
+    "repo": "russelleNVy/three-man-team",
+    "branch": "main",
+    "language": "Shell",
+    "description": "A structured 3-agent AI dev team — Architect, Builder, Reviewer. Built from production use. Token-optimized. Works with Claude Code, VS Code, Cursor, and any AI that supports context files."
+  },
+  {
+    "repo": "AdeleZhu/teacher-skill",
+    "branch": "main",
+    "language": "Python",
+    "description": "蒸馏你的老师 —— 把老师的教学方式、性格特点和学科知识提取成 AI 技能文件，让 AI 像你的老师一样给你讲题。Inspired by colleague-skill（同事skill）。"
+  },
+  {
+    "repo": "xoai/sage-wiki",
     "branch": "main",
     "language": "Go",
-    "description": "Grok2API & CPA egress quality guard with proxy recovery, quarantine, migration, and operations UI"
+    "description": "An LLM-compiled personal knowledge base.  Drop in your papers, articles, and notes. sage-wiki compiles them into a structured, interlinked wiki — with concepts extracted, cross-references discovered, and everything searchable."
   },
   {
-    "repo": "wz1119/Codex-Minecraft-Gameplay",
+    "repo": "h4ckf0r0day/obscura",
     "branch": "main",
-    "language": "Python",
-    "description": "A toolkit for exploring, gathering, crafting, and building in Minecraft with GPT-6 Astra computer use."
+    "language": "Rust",
+    "description": "The headless browser for AI agents and web scraping"
   },
   {
-    "repo": "hassenbrahim/WeightMempool",
+    "repo": "ghostty-org/ghostling",
     "branch": "main",
-    "language": "Python",
-    "description": "WeightMempool: An Optimized Transaction Pool Manager and Block Verification Optimizer. focused on high-performance and practical use"
+    "language": "C",
+    "description": "A minimum viable terminal emulator built on top of the libghostty C API. Ex minimo, infinita nascuntur. 👻🐣"
   },
   {
-    "repo": "lingbol088-spec/ReiPenFlow",
+    "repo": "432539/gpt2api",
+    "branch": "main",
+    "language": "Go",
+    "description": "基于 chatgpt.com 逆向的 OpenAI 兼容 SaaS 网关 · IMG2 灰度 · 批量出图 · 多账号池 · 高并发调度 · 积分计费 · 技术交流QQ 群 382446"
+  },
+  {
+    "repo": "akeit0/okojo",
+    "branch": "main",
+    "language": "C#",
+    "description": "Okojo is an experimental low allocation managed JavaScript engine for .NET"
+  },
+  {
+    "repo": "jackwener/twitter-cli",
     "branch": "main",
     "language": "Python",
-    "description": "Codex skill for local sandbox, CTF, authorized pentest and reverse-engineering workflows."
+    "description": "A CLI for Twitter/X — feed, bookmarks, and user timeline in terminal"
+  },
+  {
+    "repo": "LukeRenton/explore-claude-code",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "Learn Claude Code by exploring it as it was designed - interactive IDE-style docs for commands, MCP, skills, CLAUDE.md and more."
+  },
+  {
+    "repo": "redai-infra/Relax",
+    "branch": "main",
+    "language": "Python",
+    "description": "An Asynchronous Reinforcement Learning Engine for Omni-Modal Post-Training at Scale"
   }
 ]
