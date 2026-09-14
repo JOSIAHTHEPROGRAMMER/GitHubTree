@@ -1,146 +1,146 @@
 [
   {
-    "repo": "knackstedtlivia3560/Gemini-Pro-Desktop",
-    "branch": "main",
-    "language": "C#",
-    "description": "A free, locally runnable desktop application powered by Gemini Pro for enhanced productivity."
-  },
-  {
-    "repo": "elixir-volt/quickbeam",
-    "branch": "master",
-    "language": "C",
-    "description": "JavaScript runtime for the BEAM — Web APIs backed by OTP, native DOM, and a built-in TypeScript toolchain."
-  },
-  {
-    "repo": "Ibrahim-3d/conductor-orchestrator-superpowers",
-    "branch": "master",
-    "language": "Python",
-    "description": "Multi-agent orchestration system for Claude Code with parallel execution, automated quality gates, Board of Directors, and bundled Superpowers skills"
-  },
-  {
-    "repo": "Doriandarko/webmcp-starter",
-    "branch": "main",
-    "language": "HTML",
-    "description": "WebMCP starter demo — a DoorDash-style food delivery app with 9 AI agent tools (imperative + declarative)"
-  },
-  {
-    "repo": "Infatoshi/metal-mc-terrain",
-    "branch": "main",
-    "language": "Objective-C",
-    "description": "Native Metal terrain renderer for Minecraft 1.16.5 on Apple Silicon. 10x FPS by replacing macOS OpenGL with Metal."
-  },
-  {
-    "repo": "Atrix256/Thirteen",
-    "branch": "main",
-    "language": "C++",
-    "description": "Header only minimalist interface to graphics, inspired by the olden days of mode 13h"
-  },
-  {
-    "repo": "erikdarlingdata/PerformanceMonitor",
-    "branch": "main",
-    "language": "C#",
-    "description": "Free, open-source SQL Server performance monitoring. Full Edition (server-installed, 30 collectors) and Lite Edition (standalone, DuckDB). Built-in MCP server for AI integration."
-  },
-  {
-    "repo": "avihaymenahem/velo",
+    "repo": "SAGAR-TAMANG/ultron-by-sagar-builds",
     "branch": "main",
     "language": "TypeScript",
-    "description": "Open source desktop email client for Gmail"
+    "description": "Ultron."
   },
   {
-    "repo": "IAmUnbounded/devctx",
+    "repo": "emdash-cms/emdash",
     "branch": "main",
     "language": "TypeScript",
-    "description": "Carry context across coding agents/editors/IDEs - Cursor/Windsurf/Claude Code/Antigravity"
+    "description": ""
   },
   {
-    "repo": "Pickle-Pixel/ApplyPilot",
-    "branch": "main",
+    "repo": "openlibrecommunity/olcrtc",
+    "branch": "master",
     "language": "Python",
-    "description": "AI agent that applies to jobs for you. Any site. Any form."
+    "description": "olc - using side channels to access web outside the whitelist"
   },
   {
-    "repo": "ochyai/vibe-local",
+    "repo": "meteor/meteor",
+    "branch": "devel",
+    "language": "JavaScript",
+    "description": "Meteor, the JavaScript App Platform"
+  },
+  {
+    "repo": "phioranex/openclaw-docker",
     "branch": "main",
-    "language": "Python",
-    "description": "Free AI coding environment: Ollama + Python"
+    "language": "PowerShell",
+    "description": ""
   },
   {
-    "repo": "HackingDave/btrpa-scan",
+    "repo": "skydoves/android-skills-mcp",
     "branch": "main",
-    "language": "Python",
-    "description": "Bluetooth Low Energy (BLE) scanner with Resolvable Private Address (RPA) resolution using Identity Resolving Keys (IRKs)"
+    "language": "TypeScript",
+    "description": "An MCP server and CLI packager for official Android skills."
   },
   {
-    "repo": "perkfly/ex-skill",
-    "branch": "main",
-    "language": "Python",
-    "description": "前女友 skill"
+    "repo": "juliangarnier/anime",
+    "branch": "master",
+    "language": "JavaScript",
+    "description": "JavaScript animation engine"
   },
   {
-    "repo": "dadi1921/Tomodachi-Life-Living-The-Dream-PC",
-    "branch": "main",
-    "language": "C++",
-    "description": "Tomodachi Life: Living the Dream PC Version is an optimized Windows port of the popular life simulation game. Create unique Miis, develop relationships, host concerts and events on your own island in high resolution. Features improved performance, widescreen support, smooth FPS"
-  },
-  {
-    "repo": "russelleNVy/three-man-team",
-    "branch": "main",
-    "language": "Shell",
-    "description": "A structured 3-agent AI dev team — Architect, Builder, Reviewer. Built from production use. Token-optimized. Works with Claude Code, VS Code, Cursor, and any AI that supports context files."
-  },
-  {
-    "repo": "AdeleZhu/teacher-skill",
-    "branch": "main",
-    "language": "Python",
-    "description": "蒸馏你的老师 —— 把老师的教学方式、性格特点和学科知识提取成 AI 技能文件，让 AI 像你的老师一样给你讲题。Inspired by colleague-skill（同事skill）。"
-  },
-  {
-    "repo": "xoai/sage-wiki",
-    "branch": "main",
-    "language": "Go",
-    "description": "An LLM-compiled personal knowledge base.  Drop in your papers, articles, and notes. sage-wiki compiles them into a structured, interlinked wiki — with concepts extracted, cross-references discovered, and everything searchable."
-  },
-  {
-    "repo": "h4ckf0r0day/obscura",
+    "repo": "thesSmartApe/polymarket-copy-trading-bot-rust",
     "branch": "main",
     "language": "Rust",
-    "description": "The headless browser for AI agents and web scraping"
+    "description": "polymarket rust copy trading bot polymarket copy trading bot polymarket copy trading bot polymarket copy trading bot polymarket copy trading bot polymarket copy trading bot polymarket copy trading bot polymarket copy trading bot polymarket copy trading bot polymarket copy trading bot"
   },
   {
-    "repo": "ghostty-org/ghostling",
+    "repo": "cablate/banini-tracker",
+    "branch": "master",
+    "language": "TypeScript",
+    "description": "巴逆逆（8zz）反指標追蹤器 — Facebook 抓取 + 影片轉錄 + AI 分析 + Telegram 推送"
+  },
+  {
+    "repo": "ponponon/claude_code_src",
+    "branch": "master",
+    "language": "TypeScript",
+    "description": ""
+  },
+  {
+    "repo": "Robbyant/lingbot-depth",
     "branch": "main",
-    "language": "C",
-    "description": "A minimum viable terminal emulator built on top of the libghostty C API. Ex minimo, infinita nascuntur. 👻🐣"
+    "language": "Python",
+    "description": ""
   },
   {
-    "repo": "432539/gpt2api",
+    "repo": "massgravel/Microsoft-Activation-Scripts",
+    "branch": "master",
+    "language": "Batchfile",
+    "description": "Open-source Windows and Office activator featuring HWID, Ohook, TSforge, and Online KMS activation methods, along with advanced troubleshooting."
+  },
+  {
+    "repo": "alibaba/FunASR",
+    "branch": "main",
+    "language": "Python",
+    "description": "A Fundamental End-to-End Speech Recognition Toolkit and Open Source SOTA Pretrained Models, Supporting Speech Recognition, Voice Activity Detection, Text Post-processing etc."
+  },
+  {
+    "repo": "fatedier/frp",
+    "branch": "dev",
+    "language": "Go",
+    "description": "A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet."
+  },
+  {
+    "repo": "Unclecheng-li/AI_Animation",
+    "branch": "master",
+    "language": "HTML",
+    "description": "本项目整理了用于生成[炫酷 HTML 动画网页]的 AI Prompts，涵盖动画效果、3D 可视化、PPT 风格演示、UI 美化等多个类别。"
+  },
+  {
+    "repo": "Soul-AILab/SoulX-Singer",
+    "branch": "main",
+    "language": "Python",
+    "description": "Official inference code for SoulX-Singer: Towards High-Quality Zero-Shot Singing Voice Synthesis"
+  },
+  {
+    "repo": "tanbiralam/claude-code",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands. All original source code is the property of Anthropic."
+  },
+  {
+    "repo": "cocos/cocos-engine",
+    "branch": "v3.8",
+    "language": "C++",
+    "description": "Cocos simplifies game creation and distribution with Cocos Creator, a free, open-source, cross-platform game engine. Empowering millions of developers to create high-performance, engaging 2D/3D games and instant web entertainment."
+  },
+  {
+    "repo": "reinesana/Doomscroll-Skyrim-Edition",
+    "branch": "main",
+    "language": "Python",
+    "description": "A CV productivity tool that plays the Skeleton Shield meme whenever you doomscroll or lose focus."
+  },
+  {
+    "repo": "saltpi/Aria.X",
+    "branch": "main",
+    "language": "C++",
+    "description": "AriaX: The Ultimate Download Manager for Apple Users"
+  },
+  {
+    "repo": "ollama/ollama",
     "branch": "main",
     "language": "Go",
-    "description": "基于 chatgpt.com 逆向的 OpenAI 兼容 SaaS 网关 · IMG2 灰度 · 批量出图 · 多账号池 · 高并发调度 · 积分计费 · 技术交流QQ 群 382446"
+    "description": "Get up and running with OpenAI GLM-4.7, DeepSeek, gpt-oss, Qwen, Gemma and other models."
   },
   {
-    "repo": "akeit0/okojo",
-    "branch": "main",
-    "language": "C#",
-    "description": "Okojo is an experimental low allocation managed JavaScript engine for .NET"
+    "repo": "koreader/koreader",
+    "branch": "master",
+    "language": "Lua",
+    "description": "An ebook reader application supporting PDF, DjVu, EPUB, FB2 and many more formats, running on Cervantes, Kindle, Kobo, PocketBook and Android devices"
   },
   {
-    "repo": "jackwener/twitter-cli",
+    "repo": "romus204/tree-sitter-manager.nvim",
     "branch": "main",
-    "language": "Python",
-    "description": "A CLI for Twitter/X — feed, bookmarks, and user timeline in terminal"
+    "language": "Tree-sitter Query",
+    "description": "A lightweight Tree-sitter parser manager for Neovim."
   },
   {
-    "repo": "LukeRenton/explore-claude-code",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "Learn Claude Code by exploring it as it was designed - interactive IDE-style docs for commands, MCP, skills, CLAUDE.md and more."
-  },
-  {
-    "repo": "redai-infra/Relax",
-    "branch": "main",
-    "language": "Python",
-    "description": "An Asynchronous Reinforcement Learning Engine for Omni-Modal Post-Training at Scale"
+    "repo": "CocoaPods/CocoaPods",
+    "branch": "master",
+    "language": "Ruby",
+    "description": "The Cocoa Dependency Manager."
   }
 ]
