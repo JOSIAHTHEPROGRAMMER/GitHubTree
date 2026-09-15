@@ -1,146 +1,146 @@
 [
   {
-    "repo": "DioxusLabs/dioxus",
+    "repo": "elder-plinius/OBLITERATUS",
+    "branch": "main",
+    "language": "Python",
+    "description": "obliterate the chains that bind you"
+  },
+  {
+    "repo": "rust-alert/ra2.exe",
     "branch": "master",
     "language": "Rust",
-    "description": "Fullstack app framework for web, desktop, and mobile."
+    "description": "使用 Rust 对《红色警戒 2》进行了现代化重写，现已支持高分辨率，窗口化，跨平台等特性，且额外支持《尤里的复仇》、《心灵终结》等 DLC。"
   },
   {
-    "repo": "TQ-trade/rari-stable-pool-contracts",
-    "branch": "dependabot/npm_and_yarn/ajv-6.14.0",
+    "repo": "Mitalii-2403/Lossless-Scaling-LatestVersion-2026",
+    "branch": "main",
     "language": "HTML",
-    "description": "Smart contracts for the Rari Stable Pool."
+    "description": "Lossless Scaling is a Windows application that provides image upscaling, resolution scaling, and frame generation features. Designed to improve visual quality and gaming performance, it offers flexible scaling options, hardware compatibility, and an easy-to-use interface for optimizing desktop and gaming experiences."
   },
   {
-    "repo": "MarlinFirmware/Marlin",
-    "branch": "bugfix-2.1.x",
-    "language": "C++",
-    "description": "Marlin is a firmware for RepRap 3D printers optimized for both 8 and 32 bit microcontrollers.  Marlin supports all common platforms.   Many commercial 3D printers come with Marlin installed.  Check with your vendor if you need source code for your specific machine."
+    "repo": "nico81/iContainer",
+    "branch": "main",
+    "language": "Swift",
+    "description": "A native macOS app to manage Apple Container workloads, built with SwiftUI."
   },
   {
-    "repo": "statsmodels/statsmodels",
+    "repo": "Hassanjan49/File_Association_Manager",
     "branch": "main",
     "language": "Python",
-    "description": "Statsmodels: statistical modeling and econometrics in Python"
+    "description": "Manage file associations: choose which program opens each file type. Reset or change associations easily. Fix broken file associations."
   },
   {
-    "repo": "Klipper3d/klipper",
-    "branch": "master",
-    "language": "C",
-    "description": "Klipper is a 3d-printer firmware"
-  },
-  {
-    "repo": "bitcoin/bitcoin",
-    "branch": "master",
-    "language": "C++",
-    "description": "Bitcoin Core integration/staging tree"
-  },
-  {
-    "repo": "TheCaspianAI/Caspian",
+    "repo": "Alchemz/solana-pumpfun-token-bundler",
     "branch": "main",
     "language": "TypeScript",
-    "description": "Caspian is a control plane for running multiple AI coding agents in parallel, using curated workflows that fit your team."
+    "description": "solana bundler token bundler pumpfun bundler solana bundler token bundler pumpfun bundler solana bundler token bundler pumpfun bundler solana bundler token bundler pumpfun bundler solana bundler token bundler pumpfun bundler solana bundler token bundler pumpfun bundler solana bundler token bundler pumpfun bundler solana bundler token bundler"
   },
   {
-    "repo": "OctoPrint/OctoPrint",
-    "branch": "master",
+    "repo": "leochlon/ntkmirror",
+    "branch": "main",
     "language": "Python",
-    "description": "OctoPrint is the snappy web interface for your 3D printer!"
+    "description": ""
   },
   {
-    "repo": "vuejs/vue",
+    "repo": "generaltech094-create/bamboo-hr-employee-flow",
+    "branch": "main",
+    "language": "HTML",
+    "description": "BambooHR Performance Manager 2026: Track Goals & Automate HR Workflows"
+  },
+  {
+    "repo": "mana-am/matrix-swift",
+    "branch": "main",
+    "language": "Swift",
+    "description": "Animated dot-matrix loading indicators for SwiftUI — 100+ deterministic dot loaders, zero assets, zero dependencies. A faithful Swift port of zzzzshawn/matrix."
+  },
+  {
+    "repo": "loyal-studio/Honami-Animation-System",
+    "branch": "main",
+    "language": "C#",
+    "description": "Honami Animation System is a complete, from-scratch alternative to Unity's built-in Animator. Designed for Unity 6, it gives you a powerful node-graph editor, built-in procedural rigging and seamless Timeline integration - all at zero runtime allocation cost."
+  },
+  {
+    "repo": "ammaarreshi/Generals-Mac-iOS-iPad",
+    "branch": "main",
+    "language": "C++",
+    "description": "Command & Conquer Generals: Zero Hour running natively on macOS, iPhone & iPad — real engine (EA GPL v3 source, via GeneralsX), DXVK/MoltenVK renderer, RTS touch controls. No game assets included."
+  },
+  {
+    "repo": "shadcn-labs/agentcn",
     "branch": "main",
     "language": "TypeScript",
-    "description": "This is the repo for Vue 2. For Vue 3, go to https://github.com/vuejs/core"
+    "description": "shadcn/ui, but for building agents. 🤖"
   },
   {
-    "repo": "mui/material-ui",
-    "branch": "master",
-    "language": "JavaScript",
-    "description": "Material UI: Comprehensive React component library that implements Google's Material Design. Free forever."
-  },
-  {
-    "repo": "websockets/ws",
-    "branch": "master",
-    "language": "JavaScript",
-    "description": "Simple to use, blazing fast and thoroughly tested WebSocket client and server for Node.js"
-  },
-  {
-    "repo": "Textualize/rich",
-    "branch": "master",
+    "repo": "tutusagi/ai-fishing-game",
+    "branch": "main",
     "language": "Python",
-    "description": "Rich is a Python library for rich text and beautiful formatting in the terminal."
+    "description": "🎣 给 AI 玩的确定性文字钓鱼小游戏 · 单文件零依赖 · 让你的 AI 伴侣来钓鱼"
   },
   {
-    "repo": "spring-projects/spring-framework",
+    "repo": "ahmedyahia01/Nara-AI-Dashboard",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "A comprehensive AI dashboard featuring PDF analysis, presentation generation, and smart chat, powered by the NaraRouter API."
+  },
+  {
+    "repo": "MstKail/wc2026-crypto-sportsbook",
+    "branch": "master",
+    "language": "TypeScript",
+    "description": "2026 FIFA World Cup crypto sportsbook | soccer football betting platform | React TypeScript Vite | MetaMask wallet EIP-191 | live WebSocket odds scores | bet settlement engine | world cup 2026 betting | WC2026 predictions odds markets | blockchain crypto wallet sportsbook"
+  },
+  {
+    "repo": "TX-Leo/HumanEgo",
+    "branch": "main",
+    "language": "Python",
+    "description": "HumanEgo: Zero-Shot Robot Learning from Minutes of Human Egocentric Videos"
+  },
+  {
+    "repo": "Tremorfitzapplaud/1tamilmv-telegram-bot",
+    "branch": "main",
+    "language": "Python",
+    "description": "1tamilmv || 1tamilmv telegram || 1tamilmv bot || WD_1tamilmv_v2_bot"
+  },
+  {
+    "repo": "rulyone/Simple-ReAct-Agent",
+    "branch": "main",
+    "language": "Python",
+    "description": ""
+  },
+  {
+    "repo": "OpenYSMDev/OpenYSM",
     "branch": "main",
     "language": "Java",
-    "description": "Spring Framework"
+    "description": "A mod that modifies the vanilla player model"
   },
   {
-    "repo": "Anxcye/anx-reader",
+    "repo": "moxailoo/univ3-pool-lens",
     "branch": "main",
-    "language": "Dart",
-    "description": "Featuring powerful AI capabilities and supporting various e-book formats, it makes reading smarter and more focused."
+    "language": "TypeScript",
+    "description": "A focused TypeScript toolkit for inspecting Uniswap V3 pools — liquidity distribution, fee yield, and impermanent-loss math from your terminal."
   },
   {
-    "repo": "obsproject/obs-studio",
+    "repo": "val1813/kwcode",
     "branch": "master",
-    "language": "C",
-    "description": "OBS Studio - Free and open source software for live streaming and screen recording"
+    "language": "Python",
+    "description": "一个能持续增强本地开源模型的cli，专门为本地部署模型优化的coding窗口。目前仍然处于mvp未能大规模测试和端到端跑通，欢迎指正🙏🏻🙏🏻🙏🏻"
   },
   {
-    "repo": "vanna-ai/vanna",
+    "repo": "mrgummy007/Yoshi-pc",
+    "branch": "main",
+    "language": "C#",
+    "description": "yoshi and the mysterious book free pc review switch 2 download gameplay walkthrough ryujinx yuzu emulator installation"
+  },
+  {
+    "repo": "NagaaSaketh/Pet-Simulator-99-Auto-Farm-Trainer-2026-Ultimate",
     "branch": "main",
     "language": "Python",
-    "description": "🤖 Chat with your SQL database 📊. Accurate Text-to-SQL Generation via LLMs using Agentic Retrieval 🔄."
+    "description": "Ultimate edition of the most advanced Pet Simulator 99 automation tool. Farm coins, hatch eggs, complete Backrooms League tasks automatically. Fully undetected and user-friendly."
   },
   {
-    "repo": "lllyasviel/Fooocus",
+    "repo": "docmd-io/docmd",
     "branch": "main",
-    "language": "Python",
-    "description": "Focus on prompting and generating"
-  },
-  {
-    "repo": "koreader/koreader",
-    "branch": "master",
-    "language": "Lua",
-    "description": "An ebook reader application supporting PDF, DjVu, EPUB, FB2 and many more formats, running on Cervantes, Kindle, Kobo, PocketBook and Android devices"
-  },
-  {
-    "repo": "mre/awesome-static-analysis",
-    "branch": "master",
-    "language": "Rust",
-    "description": "⚙️ A curated list of static analysis (SAST) tools and linters for all programming languages, config files, build tools, and more. The focus is on tools which improve code quality."
-  },
-  {
-    "repo": "EbookFoundation/free-programming-books",
-    "branch": "main",
-    "language": "Python",
-    "description": ":books: Freely available programming books"
-  },
-  {
-    "repo": "paritytech/polkadot-sdk",
-    "branch": "master",
-    "language": "Rust",
-    "description": "The Parity Polkadot Blockchain SDK"
-  },
-  {
-    "repo": "microsoft/terminal",
-    "branch": "main",
-    "language": "C++",
-    "description": "The new Windows Terminal and the original Windows console host, all in the same place!"
-  },
-  {
-    "repo": "OffchainLabs/arbitrum",
-    "branch": "master",
-    "language": "Other",
-    "description": "Arbitrum is a Layer 2 scaling solution for Ethereum."
-  },
-  {
-    "repo": "joeseesun/anything-to-notebooklm",
-    "branch": "main",
-    "language": "Python",
-    "description": "Claude Skill: Multi-source content processor for NotebookLM. Supports WeChat articles, web pages, YouTube, PDF, Markdown, search queries → Podcast/PPT/MindMap/Quiz etc."
+    "language": "TypeScript",
+    "description": "Build production-ready documentation from Markdown in seconds. No React, no bloat, just content."
   }
 ]
