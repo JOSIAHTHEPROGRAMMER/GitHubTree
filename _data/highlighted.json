@@ -1,8 +1,8 @@
 {
-  "repo": "Da7-Tech/SureForge",
+  "repo": "Abomination81/copybot",
   "branch": "main",
-  "language": "Python",
-  "description": "Agent Skill for complex work: research before asking, ask before planning, plan before building, verify before delivering, independent review before calling it done. Plain text, no runtime.",
-  "stars": 103,
-  "forks": 11
+  "language": "Rust",
+  "description": "Abomination81 Copybot — self-hosted Polymarket copy-trading execution engine.",
+  "stars": 102,
+  "forks": 52
 }

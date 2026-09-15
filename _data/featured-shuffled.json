@@ -1,146 +1,146 @@
 [
   {
-    "repo": "VoidSignals/Polymarket-trading-bot",
+    "repo": "ResearAI/AutoFigure-Edit",
     "branch": "main",
-    "language": "JavaScript",
-    "description": "polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot,"
+    "language": "Python",
+    "description": ""
   },
   {
-    "repo": "openscad/openscad",
+    "repo": "ShinMegamiBoson/OpenPlanter",
+    "branch": "main",
+    "language": "Python",
+    "description": ""
+  },
+  {
+    "repo": "ResistanceTo/MiniWatts",
     "branch": "master",
-    "language": "C++",
-    "description": "OpenSCAD - The Programmers Solid 3D CAD Modeller"
-  },
-  {
-    "repo": "babel/babel-preset-env",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "PSA: this repo has been moved into babel/babel -->"
-  },
-  {
-    "repo": "open-telemetry/opentelemetry-js",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "OpenTelemetry JavaScript Client"
-  },
-  {
-    "repo": "SeleniumHQ/selenium",
-    "branch": "trunk",
-    "language": "Java",
-    "description": "A browser automation framework and ecosystem."
-  },
-  {
-    "repo": "GrapheneOS/Camera",
-    "branch": "main",
-    "language": "Java",
-    "description": "Modern camera app focused on privacy and security with QR & barcode scanning."
-  },
-  {
-    "repo": "thanos-io/thanos",
-    "branch": "main",
-    "language": "Go",
-    "description": "Highly available Prometheus setup with long term storage capabilities. A CNCF Incubating project."
-  },
-  {
-    "repo": "FreeCAD/FreeCAD",
-    "branch": "main",
-    "language": "C++",
-    "description": "Official source code of FreeCAD, a free and opensource multiplatform 3D parametric modeler."
-  },
-  {
-    "repo": "containerd/containerd",
-    "branch": "main",
-    "language": "Go",
-    "description": "An open and reliable container runtime"
-  },
-  {
-    "repo": "docker/buildx",
-    "branch": "master",
-    "language": "Go",
-    "description": "Docker CLI plugin for extended build capabilities with BuildKit"
-  },
-  {
-    "repo": "junit-team/junit4",
-    "branch": "main",
-    "language": "Java",
-    "description": "A programmer-oriented testing framework for Java — :warning: maintenance mode"
-  },
-  {
-    "repo": "koreader/koreader",
-    "branch": "master",
-    "language": "Lua",
-    "description": "An ebook reader application supporting PDF, DjVu, EPUB, FB2 and many more formats, running on Cervantes, Kindle, Kobo, PocketBook and Android devices"
-  },
-  {
-    "repo": "Kotlin/kotlinx.serialization",
-    "branch": "master",
-    "language": "Kotlin",
-    "description": "Kotlin multiplatform / multi-format serialization"
-  },
-  {
-    "repo": "zachlatta/freeflow",
-    "branch": "main",
     "language": "Swift",
-    "description": "Free and open source alternative to Wispr Flow / Superwhisper / Monologue / etc"
+    "description": "An iPhone battery, charging and thermal instrument built on private iOS APIs — real charger watts, what actually reaches the cell, all 30 temperature sensors, and the USB-PD handshake."
   },
   {
-    "repo": "xvhuan/xiaoi",
+    "repo": "electron-userland/electron-builder",
+    "branch": "master",
+    "language": "TypeScript",
+    "description": "A complete solution to package and build a ready for distribution Electron app with “auto update” support out of the box"
+  },
+  {
+    "repo": "bazelbuild/bazel",
+    "branch": "master",
+    "language": "Java",
+    "description": "a fast, scalable, multi-language and extensible build system"
+  },
+  {
+    "repo": "nats-io/nats.go",
     "branch": "main",
-    "language": "JavaScript",
-    "description": "小爱音箱语音通知工具：提供 CLI/TUI/MCP/Webhook 一键播报与控制音量，支持 PM2 常驻部署，支持docker部署。"
+    "language": "Go",
+    "description": "Golang client for NATS, the cloud native messaging system."
   },
   {
-    "repo": "keepassxreboot/keepassxc",
+    "repo": "joeseesun/qiaomu-mondo-poster-design",
+    "branch": "master",
+    "language": "Python",
+    "description": "一句话生成大师级海报、书籍封面、专辑封面和各类设计作品。无需懂PS、配色或艺术史，AI自动选择最佳风格（基于20位传奇海报设计师）。支持电影海报、读书笔记、公众号封面、小红书配图等。默认9:16竖版，完美适配社交媒体。包含AI提示词优化、风格对比、图生图转换功能。触发词：Mondo风格、书籍封"
+  },
+  {
+    "repo": "rook/rook",
+    "branch": "master",
+    "language": "Go",
+    "description": "Storage Orchestration for Kubernetes"
+  },
+  {
+    "repo": "sigstore/cosign",
+    "branch": "main",
+    "language": "Go",
+    "description": "Code signing and transparency for containers and binaries"
+  },
+  {
+    "repo": "Gitlawb/openclaude",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Claude Code opened to any LLM — OpenAI, Gemini, DeepSeek, Ollama, and 200+ models via OpenAI-compatible API shim"
+  },
+  {
+    "repo": "portainer/portainer",
     "branch": "develop",
-    "language": "C++",
-    "description": "KeePassXC is a cross-platform community-driven port of the Windows application “KeePass Password Safe”."
+    "language": "TypeScript",
+    "description": "Making Docker and Kubernetes management easy."
   },
   {
-    "repo": "GabagoolisLive/polymarket-copytrading-bot-vvvvvvvvvvvv",
-    "branch": "main",
-    "language": "Rust",
-    "description": "Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot Polymarket copy Trading Bot"
-  },
-  {
-    "repo": "marketingjuliancongdanh79-pixel/skill-generator",
+    "repo": "softmatcha/softmatcha2",
     "branch": "main",
     "language": "Python",
-    "description": "Bộ công cụ tạo AI Skill từ ý tưởng — Dành cho Antigravity, Claude Code, Cursor, Windsurf. Đánh giá 100/100 S-tier."
+    "description": "A fast and soft pattern search for trillion-scale corpora."
   },
   {
-    "repo": "lenxism/dither",
+    "repo": "great-expectations/great_expectations",
+    "branch": "develop",
+    "language": "Python",
+    "description": "Always know what to expect from your data."
+  },
+  {
+    "repo": "quarkusio/quarkus",
+    "branch": "main",
+    "language": "Java",
+    "description": "Quarkus: Supersonic Subatomic Java."
+  },
+  {
+    "repo": "sightflow-dev/sightflow-desktop-agent",
     "branch": "main",
     "language": "TypeScript",
-    "description": "Upload an image and watch it come alive as interactive dithered particles. Hover to push them, click to explode."
+    "description": ""
   },
   {
-    "repo": "pytorch/ignite",
+    "repo": "pyg-team/pytorch_geometric",
     "branch": "master",
     "language": "Python",
-    "description": "High-level library to help with training and evaluating neural networks in PyTorch flexibly and transparently."
+    "description": "Graph Neural Network Library for PyTorch"
   },
   {
-    "repo": "poshan0126/dotclaude",
+    "repo": "cilium/hubble",
     "branch": "main",
-    "language": "Shell",
-    "description": "The standard .claude/  folder structure for everyday development."
+    "language": "Makefile",
+    "description": "Hubble - Network, Service & Security Observability for Kubernetes using eBPF"
   },
   {
-    "repo": "whwangovo/pyre-code",
+    "repo": "kubeedge/kubeedge",
+    "branch": "master",
+    "language": "Go",
+    "description": "Kubernetes Native Edge Computing Framework (project under CNCF)"
+  },
+  {
+    "repo": "suborbital/sat",
+    "branch": "main",
+    "language": "Go",
+    "description": "Tiny & fast WebAssembly edge compute server"
+  },
+  {
+    "repo": "okooo5km/Skills4U",
+    "branch": "main",
+    "language": "TeX",
+    "description": "Skills here"
+  },
+  {
+    "repo": "redmine/redmine",
+    "branch": "master",
+    "language": "Ruby",
+    "description": "Mirror of redmine code source - Official Subversion repository is at https://svn.redmine.org/redmine - contact: @vividtone or maeda (at) farend (dot) jp"
+  },
+  {
+    "repo": "xstongxue/best-skills",
     "branch": "main",
     "language": "Python",
-    "description": "A self-hosted ML coding practice platform. 68 problems from ReLU to flow matching — attention, training, RLHF, diffusion, and more. Instant feedback in the browser."
+    "description": "通用高质量 Skills 合集🔥"
   },
   {
-    "repo": "Pylons/pyramid",
-    "branch": "master",
-    "language": "Python",
-    "description": "Pyramid - A Python web framework"
+    "repo": "aquasecurity/trivy",
+    "branch": "main",
+    "language": "Go",
+    "description": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more"
   },
   {
-    "repo": "material-components/material-components-web",
+    "repo": "wader/fq",
     "branch": "master",
-    "language": "TypeScript",
-    "description": "Modular and customizable Material Design UI components for the web"
+    "language": "Go",
+    "description": "jq for binary formats - tool, language and decoders for working with binary and text formats"
   }
 ]
