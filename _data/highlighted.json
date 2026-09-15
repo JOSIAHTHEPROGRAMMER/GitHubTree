@@ -1,8 +1,8 @@
 {
-  "repo": "Abomination81/copybot",
+  "repo": "MiaAI-Lab/DeepSeek-v4.1-Flash-DGX-Sparks",
   "branch": "main",
-  "language": "Rust",
-  "description": "Abomination81 Copybot — self-hosted Polymarket copy-trading execution engine.",
-  "stars": 102,
-  "forks": 52
+  "language": "Python",
+  "description": "DeepSeek-V4.1-Flash on 3-4x NVIDIA DGX Sparks",
+  "stars": 110,
+  "forks": 17
 }

@@ -1,146 +1,146 @@
 [
   {
-    "repo": "ResearAI/AutoFigure-Edit",
+    "repo": "DioxusLabs/dioxus",
+    "branch": "master",
+    "language": "Rust",
+    "description": "Fullstack app framework for web, desktop, and mobile."
+  },
+  {
+    "repo": "TQ-trade/rari-stable-pool-contracts",
+    "branch": "dependabot/npm_and_yarn/ajv-6.14.0",
+    "language": "HTML",
+    "description": "Smart contracts for the Rari Stable Pool."
+  },
+  {
+    "repo": "MarlinFirmware/Marlin",
+    "branch": "bugfix-2.1.x",
+    "language": "C++",
+    "description": "Marlin is a firmware for RepRap 3D printers optimized for both 8 and 32 bit microcontrollers.  Marlin supports all common platforms.   Many commercial 3D printers come with Marlin installed.  Check with your vendor if you need source code for your specific machine."
+  },
+  {
+    "repo": "statsmodels/statsmodels",
     "branch": "main",
     "language": "Python",
-    "description": ""
+    "description": "Statsmodels: statistical modeling and econometrics in Python"
   },
   {
-    "repo": "ShinMegamiBoson/OpenPlanter",
-    "branch": "main",
-    "language": "Python",
-    "description": ""
-  },
-  {
-    "repo": "ResistanceTo/MiniWatts",
+    "repo": "Klipper3d/klipper",
     "branch": "master",
-    "language": "Swift",
-    "description": "An iPhone battery, charging and thermal instrument built on private iOS APIs — real charger watts, what actually reaches the cell, all 30 temperature sensors, and the USB-PD handshake."
+    "language": "C",
+    "description": "Klipper is a 3d-printer firmware"
   },
   {
-    "repo": "electron-userland/electron-builder",
+    "repo": "bitcoin/bitcoin",
     "branch": "master",
-    "language": "TypeScript",
-    "description": "A complete solution to package and build a ready for distribution Electron app with “auto update” support out of the box"
+    "language": "C++",
+    "description": "Bitcoin Core integration/staging tree"
   },
   {
-    "repo": "bazelbuild/bazel",
-    "branch": "master",
-    "language": "Java",
-    "description": "a fast, scalable, multi-language and extensible build system"
-  },
-  {
-    "repo": "nats-io/nats.go",
-    "branch": "main",
-    "language": "Go",
-    "description": "Golang client for NATS, the cloud native messaging system."
-  },
-  {
-    "repo": "joeseesun/qiaomu-mondo-poster-design",
-    "branch": "master",
-    "language": "Python",
-    "description": "一句话生成大师级海报、书籍封面、专辑封面和各类设计作品。无需懂PS、配色或艺术史，AI自动选择最佳风格（基于20位传奇海报设计师）。支持电影海报、读书笔记、公众号封面、小红书配图等。默认9:16竖版，完美适配社交媒体。包含AI提示词优化、风格对比、图生图转换功能。触发词：Mondo风格、书籍封"
-  },
-  {
-    "repo": "rook/rook",
-    "branch": "master",
-    "language": "Go",
-    "description": "Storage Orchestration for Kubernetes"
-  },
-  {
-    "repo": "sigstore/cosign",
-    "branch": "main",
-    "language": "Go",
-    "description": "Code signing and transparency for containers and binaries"
-  },
-  {
-    "repo": "Gitlawb/openclaude",
+    "repo": "TheCaspianAI/Caspian",
     "branch": "main",
     "language": "TypeScript",
-    "description": "Claude Code opened to any LLM — OpenAI, Gemini, DeepSeek, Ollama, and 200+ models via OpenAI-compatible API shim"
+    "description": "Caspian is a control plane for running multiple AI coding agents in parallel, using curated workflows that fit your team."
   },
   {
-    "repo": "portainer/portainer",
-    "branch": "develop",
-    "language": "TypeScript",
-    "description": "Making Docker and Kubernetes management easy."
+    "repo": "OctoPrint/OctoPrint",
+    "branch": "master",
+    "language": "Python",
+    "description": "OctoPrint is the snappy web interface for your 3D printer!"
   },
   {
-    "repo": "softmatcha/softmatcha2",
+    "repo": "vuejs/vue",
     "branch": "main",
-    "language": "Python",
-    "description": "A fast and soft pattern search for trillion-scale corpora."
+    "language": "TypeScript",
+    "description": "This is the repo for Vue 2. For Vue 3, go to https://github.com/vuejs/core"
   },
   {
-    "repo": "great-expectations/great_expectations",
-    "branch": "develop",
-    "language": "Python",
-    "description": "Always know what to expect from your data."
+    "repo": "mui/material-ui",
+    "branch": "master",
+    "language": "JavaScript",
+    "description": "Material UI: Comprehensive React component library that implements Google's Material Design. Free forever."
   },
   {
-    "repo": "quarkusio/quarkus",
+    "repo": "websockets/ws",
+    "branch": "master",
+    "language": "JavaScript",
+    "description": "Simple to use, blazing fast and thoroughly tested WebSocket client and server for Node.js"
+  },
+  {
+    "repo": "Textualize/rich",
+    "branch": "master",
+    "language": "Python",
+    "description": "Rich is a Python library for rich text and beautiful formatting in the terminal."
+  },
+  {
+    "repo": "spring-projects/spring-framework",
     "branch": "main",
     "language": "Java",
-    "description": "Quarkus: Supersonic Subatomic Java."
+    "description": "Spring Framework"
   },
   {
-    "repo": "sightflow-dev/sightflow-desktop-agent",
+    "repo": "Anxcye/anx-reader",
     "branch": "main",
-    "language": "TypeScript",
-    "description": ""
+    "language": "Dart",
+    "description": "Featuring powerful AI capabilities and supporting various e-book formats, it makes reading smarter and more focused."
   },
   {
-    "repo": "pyg-team/pytorch_geometric",
+    "repo": "obsproject/obs-studio",
     "branch": "master",
-    "language": "Python",
-    "description": "Graph Neural Network Library for PyTorch"
+    "language": "C",
+    "description": "OBS Studio - Free and open source software for live streaming and screen recording"
   },
   {
-    "repo": "cilium/hubble",
-    "branch": "main",
-    "language": "Makefile",
-    "description": "Hubble - Network, Service & Security Observability for Kubernetes using eBPF"
-  },
-  {
-    "repo": "kubeedge/kubeedge",
-    "branch": "master",
-    "language": "Go",
-    "description": "Kubernetes Native Edge Computing Framework (project under CNCF)"
-  },
-  {
-    "repo": "suborbital/sat",
-    "branch": "main",
-    "language": "Go",
-    "description": "Tiny & fast WebAssembly edge compute server"
-  },
-  {
-    "repo": "okooo5km/Skills4U",
-    "branch": "main",
-    "language": "TeX",
-    "description": "Skills here"
-  },
-  {
-    "repo": "redmine/redmine",
-    "branch": "master",
-    "language": "Ruby",
-    "description": "Mirror of redmine code source - Official Subversion repository is at https://svn.redmine.org/redmine - contact: @vividtone or maeda (at) farend (dot) jp"
-  },
-  {
-    "repo": "xstongxue/best-skills",
+    "repo": "vanna-ai/vanna",
     "branch": "main",
     "language": "Python",
-    "description": "通用高质量 Skills 合集🔥"
+    "description": "🤖 Chat with your SQL database 📊. Accurate Text-to-SQL Generation via LLMs using Agentic Retrieval 🔄."
   },
   {
-    "repo": "aquasecurity/trivy",
+    "repo": "lllyasviel/Fooocus",
     "branch": "main",
-    "language": "Go",
-    "description": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more"
+    "language": "Python",
+    "description": "Focus on prompting and generating"
   },
   {
-    "repo": "wader/fq",
+    "repo": "koreader/koreader",
     "branch": "master",
-    "language": "Go",
-    "description": "jq for binary formats - tool, language and decoders for working with binary and text formats"
+    "language": "Lua",
+    "description": "An ebook reader application supporting PDF, DjVu, EPUB, FB2 and many more formats, running on Cervantes, Kindle, Kobo, PocketBook and Android devices"
+  },
+  {
+    "repo": "mre/awesome-static-analysis",
+    "branch": "master",
+    "language": "Rust",
+    "description": "⚙️ A curated list of static analysis (SAST) tools and linters for all programming languages, config files, build tools, and more. The focus is on tools which improve code quality."
+  },
+  {
+    "repo": "EbookFoundation/free-programming-books",
+    "branch": "main",
+    "language": "Python",
+    "description": ":books: Freely available programming books"
+  },
+  {
+    "repo": "paritytech/polkadot-sdk",
+    "branch": "master",
+    "language": "Rust",
+    "description": "The Parity Polkadot Blockchain SDK"
+  },
+  {
+    "repo": "microsoft/terminal",
+    "branch": "main",
+    "language": "C++",
+    "description": "The new Windows Terminal and the original Windows console host, all in the same place!"
+  },
+  {
+    "repo": "OffchainLabs/arbitrum",
+    "branch": "master",
+    "language": "Other",
+    "description": "Arbitrum is a Layer 2 scaling solution for Ethereum."
+  },
+  {
+    "repo": "joeseesun/anything-to-notebooklm",
+    "branch": "main",
+    "language": "Python",
+    "description": "Claude Skill: Multi-source content processor for NotebookLM. Supports WeChat articles, web pages, YouTube, PDF, Markdown, search queries → Podcast/PPT/MindMap/Quiz etc."
   }
 ]
