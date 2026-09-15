@@ -1,146 +1,146 @@
 [
   {
-    "repo": "elder-plinius/OBLITERATUS",
-    "branch": "main",
-    "language": "Python",
-    "description": "obliterate the chains that bind you"
+    "repo": "luccast/crabwalk",
+    "branch": "master",
+    "language": "TypeScript",
+    "description": "🦀 Crabwalk 🦀 Real-time companion monitor for Clawdbot agents."
   },
   {
-    "repo": "rust-alert/ra2.exe",
+    "repo": "nihe0909/xiaohongshu-ai-workbench",
+    "branch": "main",
+    "language": "Python",
+    "description": "《小红书运营手册 · AI工作台》: free Codex Skills for Xiaohongshu operations"
+  },
+  {
+    "repo": "webpack-contrib/terser-webpack-plugin",
     "branch": "master",
+    "language": "JavaScript",
+    "description": "Terser Plugin"
+  },
+  {
+    "repo": "averygan/reclip",
+    "branch": "main",
+    "language": "HTML",
+    "description": "Download videos from almost any website. Lightweight, self-hosted media downloader with a clean web UI."
+  },
+  {
+    "repo": "Jane-xiaoer/x-fetcher",
+    "branch": "main",
+    "language": "Python",
+    "description": ""
+  },
+  {
+    "repo": "ckckck/UltimateSearchSkill",
+    "branch": "main",
+    "language": "Shell",
+    "description": "Dual-engine web search Skill for OpenClaw/Pi: Grok AI + Tavily + FireCrawl"
+  },
+  {
+    "repo": "cita-777/metapi",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "把你在各处注册的 New API / One API / OneHub / DoneHub / Veloera / AnyRouter / Sub2API 等站点， 汇聚成 一个 API Key、一个入口，自动发现模型、智能路由、成本最优"
+  },
+  {
+    "repo": "hxu296/tariff",
+    "branch": "main",
+    "language": "Python",
+    "description": "The official repository for tariff"
+  },
+  {
+    "repo": "parcel-bundler/parcel",
+    "branch": "v2",
+    "language": "JavaScript",
+    "description": "The zero configuration build tool for the web. 📦🚀"
+  },
+  {
+    "repo": "graphql/dataloader",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "DataLoader is a generic utility to be used as part of your application's data fetching layer to provide a consistent API over various backends and reduce requests to those backends via batching and caching."
+  },
+  {
+    "repo": "signalapp/Signal-Android",
+    "branch": "main",
+    "language": "Kotlin",
+    "description": "A private messenger for Android."
+  },
+  {
+    "repo": "tencent-connect/openclaw-qqbot",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "QQ Bot Channel Plugin for OpenClaw"
+  },
+  {
+    "repo": "adammiribyan/zeroboot",
+    "branch": "main",
     "language": "Rust",
-    "description": "使用 Rust 对《红色警戒 2》进行了现代化重写，现已支持高分辨率，窗口化，跨平台等特性，且额外支持《尤里的复仇》、《心灵终结》等 DLC。"
+    "description": "Sub-millisecond VM sandboxes for AI agents via copy-on-write forking"
   },
   {
-    "repo": "Mitalii-2403/Lossless-Scaling-LatestVersion-2026",
-    "branch": "main",
-    "language": "HTML",
-    "description": "Lossless Scaling is a Windows application that provides image upscaling, resolution scaling, and frame generation features. Designed to improve visual quality and gaming performance, it offers flexible scaling options, hardware compatibility, and an easy-to-use interface for optimizing desktop and gaming experiences."
-  },
-  {
-    "repo": "nico81/iContainer",
-    "branch": "main",
-    "language": "Swift",
-    "description": "A native macOS app to manage Apple Container workloads, built with SwiftUI."
-  },
-  {
-    "repo": "Hassanjan49/File_Association_Manager",
+    "repo": "Lyy-iiis/pMF",
     "branch": "main",
     "language": "Python",
-    "description": "Manage file associations: choose which program opens each file type. Reset or change associations easily. Fix broken file associations."
+    "description": "Official Implementation of pMF https://arxiv.org/abs/2601.22158"
   },
   {
-    "repo": "Alchemz/solana-pumpfun-token-bundler",
+    "repo": "rohunvora/x-research-skill",
     "branch": "main",
     "language": "TypeScript",
-    "description": "solana bundler token bundler pumpfun bundler solana bundler token bundler pumpfun bundler solana bundler token bundler pumpfun bundler solana bundler token bundler pumpfun bundler solana bundler token bundler pumpfun bundler solana bundler token bundler pumpfun bundler solana bundler token bundler pumpfun bundler solana bundler token bundler"
+    "description": "X/Twitter research skill for Claude Code and OpenClaw. Agentic search, thread following, deep-dives, sourced briefings."
   },
   {
-    "repo": "leochlon/ntkmirror",
+    "repo": "videolan/vlc",
+    "branch": "master",
+    "language": "C",
+    "description": "VLC media player - All pull requests are ignored, please use MRs on https://code.videolan.org/videolan/vlc"
+  },
+  {
+    "repo": "lux-db/lux",
     "branch": "main",
-    "language": "Python",
+    "language": "Rust",
     "description": ""
   },
   {
-    "repo": "generaltech094-create/bamboo-hr-employee-flow",
+    "repo": "Conway-Research/automaton",
     "branch": "main",
-    "language": "HTML",
-    "description": "BambooHR Performance Manager 2026: Track Goals & Automate HR Workflows"
+    "language": "TypeScript",
+    "description": "The first AI that can earn its own existence, replicate, and evolve — without needing a human"
   },
   {
-    "repo": "mana-am/matrix-swift",
+    "repo": "avihaymenahem/velo",
     "branch": "main",
-    "language": "Swift",
-    "description": "Animated dot-matrix loading indicators for SwiftUI — 100+ deterministic dot loaders, zero assets, zero dependencies. A faithful Swift port of zzzzshawn/matrix."
+    "language": "TypeScript",
+    "description": "Open source desktop email client for Gmail"
   },
   {
-    "repo": "loyal-studio/Honami-Animation-System",
-    "branch": "main",
-    "language": "C#",
-    "description": "Honami Animation System is a complete, from-scratch alternative to Unity's built-in Animator. Designed for Unity 6, it gives you a powerful node-graph editor, built-in procedural rigging and seamless Timeline integration - all at zero runtime allocation cost."
-  },
-  {
-    "repo": "ammaarreshi/Generals-Mac-iOS-iPad",
-    "branch": "main",
+    "repo": "pytorch/xla",
+    "branch": "master",
     "language": "C++",
-    "description": "Command & Conquer Generals: Zero Hour running natively on macOS, iPhone & iPad — real engine (EA GPL v3 source, via GeneralsX), DXVK/MoltenVK renderer, RTS touch controls. No game assets included."
+    "description": "Enabling PyTorch on XLA Devices (e.g. Google TPU)"
   },
   {
-    "repo": "shadcn-labs/agentcn",
+    "repo": "xyzeva/k-id-age-verifier",
     "branch": "main",
     "language": "TypeScript",
-    "description": "shadcn/ui, but for building agents. 🤖"
+    "description": "automatically verify your age on discord, twitch, kick, quora and more (k-id)"
   },
   {
-    "repo": "tutusagi/ai-fishing-game",
-    "branch": "main",
-    "language": "Python",
-    "description": "🎣 给 AI 玩的确定性文字钓鱼小游戏 · 单文件零依赖 · 让你的 AI 伴侣来钓鱼"
-  },
-  {
-    "repo": "ahmedyahia01/Nara-AI-Dashboard",
+    "repo": "jackwener/opencli",
     "branch": "main",
     "language": "TypeScript",
-    "description": "A comprehensive AI dashboard featuring PDF analysis, presentation generation, and smart chat, powered by the NaraRouter API."
+    "description": "Make any website your CLI. A powerful, AI-native runtime for seamless browser automation and dynamic web data extraction."
   },
   {
-    "repo": "MstKail/wc2026-crypto-sportsbook",
-    "branch": "master",
-    "language": "TypeScript",
-    "description": "2026 FIFA World Cup crypto sportsbook | soccer football betting platform | React TypeScript Vite | MetaMask wallet EIP-191 | live WebSocket odds scores | bet settlement engine | world cup 2026 betting | WC2026 predictions odds markets | blockchain crypto wallet sportsbook"
-  },
-  {
-    "repo": "TX-Leo/HumanEgo",
-    "branch": "main",
-    "language": "Python",
-    "description": "HumanEgo: Zero-Shot Robot Learning from Minutes of Human Egocentric Videos"
-  },
-  {
-    "repo": "Tremorfitzapplaud/1tamilmv-telegram-bot",
-    "branch": "main",
-    "language": "Python",
-    "description": "1tamilmv || 1tamilmv telegram || 1tamilmv bot || WD_1tamilmv_v2_bot"
-  },
-  {
-    "repo": "rulyone/Simple-ReAct-Agent",
-    "branch": "main",
-    "language": "Python",
-    "description": ""
-  },
-  {
-    "repo": "OpenYSMDev/OpenYSM",
-    "branch": "main",
-    "language": "Java",
-    "description": "A mod that modifies the vanilla player model"
-  },
-  {
-    "repo": "moxailoo/univ3-pool-lens",
+    "repo": "gsd-build/gsd-2",
     "branch": "main",
     "language": "TypeScript",
-    "description": "A focused TypeScript toolkit for inspecting Uniswap V3 pools — liquidity distribution, fee yield, and impermanent-loss math from your terminal."
+    "description": "A powerful meta-prompting, context engineering and spec-driven development system that enables agents to work for long periods of time autonomously without losing track of the big picture"
   },
   {
-    "repo": "val1813/kwcode",
-    "branch": "master",
-    "language": "Python",
-    "description": "一个能持续增强本地开源模型的cli，专门为本地部署模型优化的coding窗口。目前仍然处于mvp未能大规模测试和端到端跑通，欢迎指正🙏🏻🙏🏻🙏🏻"
-  },
-  {
-    "repo": "mrgummy007/Yoshi-pc",
-    "branch": "main",
-    "language": "C#",
-    "description": "yoshi and the mysterious book free pc review switch 2 download gameplay walkthrough ryujinx yuzu emulator installation"
-  },
-  {
-    "repo": "NagaaSaketh/Pet-Simulator-99-Auto-Farm-Trainer-2026-Ultimate",
+    "repo": "jackwener/twitter-cli",
     "branch": "main",
     "language": "Python",
-    "description": "Ultimate edition of the most advanced Pet Simulator 99 automation tool. Farm coins, hatch eggs, complete Backrooms League tasks automatically. Fully undetected and user-friendly."
-  },
-  {
-    "repo": "docmd-io/docmd",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Build production-ready documentation from Markdown in seconds. No React, no bloat, just content."
+    "description": "A CLI for Twitter/X — feed, bookmarks, and user timeline in terminal"
   }
 ]
