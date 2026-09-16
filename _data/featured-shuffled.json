@@ -1,146 +1,146 @@
 [
   {
-    "repo": "terry4369mika0464/CCLean-Latest-2026",
-    "branch": "main",
-    "language": "C#",
-    "description": "A professional-grade system optimization and maintenance toolkit designed for automated workspace cleanup and performance orchestration."
-  },
-  {
-    "repo": "earthly/earthly",
-    "branch": "main",
-    "language": "Go",
-    "description": "Super simple build framework with fast, repeatable builds and an instantly familiar syntax – like Dockerfile and Makefile had a baby."
-  },
-  {
-    "repo": "KlingAIResearch/X-Dub",
-    "branch": "master",
-    "language": "Python",
-    "description": "Try X-Dub to sync any character in a video with any audio you like | Official repository for From Inpainting to Editing: Unlocking Robust Mask-Free Visual Dubbing via Generative Bootstrapping"
-  },
-  {
-    "repo": "doocs/leetcode",
-    "branch": "main",
-    "language": "Java",
-    "description": "🔥LeetCode solutions in any programming language | 多种编程语言实现 LeetCode、《剑指 Offer（第 2 版）》、《程序员面试金典（第 6 版）》题解"
-  },
-  {
-    "repo": "benjitaylor/liveline",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Real-time animated line chart for React."
-  },
-  {
-    "repo": "rancher/k3d",
-    "branch": "main",
-    "language": "Go",
-    "description": "Little helper to run CNCF's k3s in Docker"
-  },
-  {
-    "repo": "donnemartin/system-design-primer",
-    "branch": "master",
-    "language": "Python",
-    "description": "Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards."
-  },
-  {
-    "repo": "xjtulyc/MedgeClaw",
+    "repo": "FeSens/auto-arch-tournament",
     "branch": "main",
     "language": "HTML",
-    "description": "Medge AI X OpenClaw"
+    "description": ""
   },
   {
-    "repo": "antonmedv/fx",
-    "branch": "master",
-    "language": "Go",
-    "description": "Terminal JSON viewer & processor"
-  },
-  {
-    "repo": "dotnet/runtime",
-    "branch": "main",
-    "language": "C#",
-    "description": ".NET is a cross-platform runtime for cloud, mobile, desktop, and IoT apps."
-  },
-  {
-    "repo": "balancer/balancer-v2-monorepo",
-    "branch": "master",
-    "language": "TypeScript",
-    "description": "Balancer V2 Monorepo"
-  },
-  {
-    "repo": "Web3CZ/Web3Hermes",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "【Hermes WebUI】Hermes-Agent 中文版 WebUI，便于中国用户使用"
-  },
-  {
-    "repo": "jackwener/boss-cli",
+    "repo": "RuizeLyu/paper-dl",
     "branch": "main",
     "language": "Python",
-    "description": "A CLI for BOSS 直聘 — search jobs, view recommendations, manage applications via reverse-engineered API"
+    "description": "Download arxiv PDFs from PaSa search results for local AI-powered literature analysis."
   },
   {
-    "repo": "DylanDavis1/DSCourier",
+    "repo": "better-auth/better-hub",
     "branch": "main",
-    "language": "PowerShell",
+    "language": "TypeScript",
+    "description": "Re-imagining code collaboration for humans and agents"
+  },
+  {
+    "repo": "beita6969/ScienceClaw",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "🔬🦞 A self-evolving AI research colleague for scientists. 285 skills, zero hallucination, persistent memory."
+  },
+  {
+    "repo": "traderwillhu/market_dashboard",
+    "branch": "main",
+    "language": "HTML",
     "description": ""
   },
   {
-    "repo": "scienceLabwork/Stable-Action",
+    "repo": "NateBJones-Projects/OB1",
     "branch": "main",
-    "language": "Swift",
-    "description": "Samsung Super Steady Horizon Lock - rebuilt for iPhone."
+    "language": "TypeScript",
+    "description": "Open Brain — The infrastructure layer for your thinking. One database, one AI gateway, one chat channel — any AI plugs in. No middleware, no SaaS."
   },
   {
-    "repo": "langwatch/kanban-code",
+    "repo": "Michaelliv/pi-generative-ui",
     "branch": "main",
-    "language": "Swift",
-    "description": ""
+    "language": "TypeScript",
+    "description": "Claude.ai's generative UI — reverse-engineered, rebuilt for pi. Interactive HTML/SVG widgets in native macOS windows."
   },
   {
-    "repo": "frank890417/taiwan-md",
+    "repo": "randallscott25-star/epstein-forensic-finance",
     "branch": "main",
-    "language": "Astro",
-    "description": "🇹🇼 讓全世界完整認識台灣 | An open-source, AI-friendly knowledge base about Taiwan"
+    "language": "HTML",
+    "description": "Epstein Financial Forensics Automated forensic financial reconstruction from 1.48 million DOJ EFTA documents + 503K cataloged media items"
   },
   {
-    "repo": "mathiaschu/meta-ads-analyzer",
+    "repo": "vercel-labs/visual-json",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "The Visual JSON Editor. Schema-aware, embeddable, extensible."
+  },
+  {
+    "repo": "RightNow-AI/picolm",
+    "branch": "main",
+    "language": "C",
+    "description": "Run a 1-billion parameter LLM on a $10 board with 256MB RAM"
+  },
+  {
+    "repo": "openscad/openscad",
+    "branch": "master",
+    "language": "C++",
+    "description": "OpenSCAD - The Programmers Solid 3D CAD Modeller"
+  },
+  {
+    "repo": "herrbischoff/awesome-macos-command-line",
+    "branch": "master",
+    "language": "Other",
+    "description": "Use your macOS terminal shell to do awesome things."
+  },
+  {
+    "repo": "github/storybook-addon-performance-panel",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "A Storybook Addon for tracking web performance"
+  },
+  {
+    "repo": "agenticnotetaking/arscontexta",
     "branch": "main",
     "language": "Shell",
-    "description": "Meta Ads Analyzer skill + MCP server for Claude Code. Breakdown Effect, Learning Phase, and expert-level campaign diagnosis."
+    "description": "Claude Code plugin that generates individualized knowledge systems from conversation. You describe how you think and work, have a conversation and get a complete second brain as markdown files you own."
   },
   {
-    "repo": "grimmory-tools/grimmory",
-    "branch": "main",
-    "language": "Java",
-    "description": "Grimmory is the successor of booklore."
-  },
-  {
-    "repo": "math-inc/OpenGauss",
+    "repo": "Robbyant/lingbot-vla",
     "branch": "main",
     "language": "Python",
+    "description": "A Pragmatic VLA Foundation Model"
+  },
+  {
+    "repo": "libuv/libuv",
+    "branch": "v1.x",
+    "language": "C",
+    "description": "Cross-platform asynchronous I/O"
+  },
+  {
+    "repo": "molefrog/skills",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "❈ Claude skill for generating high-quality PDFs using react-pdf"
+  },
+  {
+    "repo": "whatwg/html",
+    "branch": "main",
+    "language": "HTML",
+    "description": "HTML Standard"
+  },
+  {
+    "repo": "Crestdrasnip/Claude-Zeroclaw",
+    "branch": "main",
+    "language": "TypeScript",
     "description": ""
   },
   {
-    "repo": "ninja-build/ninja",
-    "branch": "master",
-    "language": "C++",
-    "description": "a small build system with a focus on speed"
+    "repo": "great-expectations/great_expectations",
+    "branch": "develop",
+    "language": "Python",
+    "description": "Always know what to expect from your data."
   },
   {
-    "repo": "Nightmare-Eclipse/RedSun",
-    "branch": "main",
-    "language": "C++",
-    "description": "The Red Sun vulnerability repository"
-  },
-  {
-    "repo": "Einsia/OpenChronicle",
+    "repo": "AgriciDaniel/claude-seo",
     "branch": "main",
     "language": "Python",
-    "description": ""
+    "description": "Universal SEO skill for Claude Code. Comprehensive SEO analysis for any website or business type."
   },
   {
-    "repo": "LightTable/LightTable",
+    "repo": "PatrikFehrenbach/h1-brain",
+    "branch": "main",
+    "language": "Python",
+    "description": "MCP server that connects AI assistants to HackerOne for bug bounty hunting"
+  },
+  {
+    "repo": "JuliaLang/julia",
     "branch": "master",
-    "language": "Clojure",
-    "description": "The Light Table IDE ⛺"
+    "language": "Julia",
+    "description": "The Julia Programming Language"
+  },
+  {
+    "repo": "markets/awesome-ruby",
+    "branch": "master",
+    "language": "Other",
+    "description": "💎 A collection of awesome Ruby libraries, tools, frameworks and software"
   }
 ]

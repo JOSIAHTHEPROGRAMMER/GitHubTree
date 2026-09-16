@@ -1,8 +1,8 @@
 {
-  "repo": "danielroe/airspace",
+  "repo": "jakesgoodapps/DuoLauncher",
   "branch": "main",
-  "language": "TypeScript",
-  "description": "The database you already have.",
-  "stars": 130,
-  "forks": 4
+  "language": "Kotlin",
+  "description": "An experimental Android launcher for foldables, with a right-side dock, native widgets, and overlapping unfolded Home pages.",
+  "stars": 119,
+  "forks": 13
 }
