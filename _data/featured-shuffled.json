@@ -1,146 +1,146 @@
 [
   {
-    "repo": "typst/typst",
+    "repo": "buildsbyShlok/Berry_Avenue_RP_-_Auto-Farm___Money_Hack",
+    "branch": "main",
+    "language": "Python",
+    "description": "Auto-farm and money hack for Berry Avenue RP, the popular roleplay game. Farm money, unlock all houses and vehicles, and dominate the social experience."
+  },
+  {
+    "repo": "TrendTechVista/polymarket-sports-bot",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "polymarket sports bot polymarket sports bot polymarket sports bot polymarket sports bot polymarket sports bot polymarket sports bot polymarket sports bot polymarket sports bot polymarket sports bot polymarket sports bot polymarket sports bot polymarket sports bot polymarket sports bot polymarket sports bot polymarket sports bot polymarket spots"
+  },
+  {
+    "repo": "mo1app/pipemagic",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Visual image processing pipeline editor"
+  },
+  {
+    "repo": "evanklem/evanflow",
+    "branch": "main",
+    "language": "Shell",
+    "description": "A TDD-driven iterative feedback loop for software development. 16 cohesive Claude Code skills walk an idea from brainstorm → plan → execute → iterate, with checkpoints throughout."
+  },
+  {
+    "repo": "harshkedia177/axon",
+    "branch": "main",
+    "language": "Python",
+    "description": "Graph-powered code intelligence engine — indexes codebases into a knowledge graph, exposed via MCP tools for AI agents and a CLI for developers."
+  },
+  {
+    "repo": "sharkdp/bat",
+    "branch": "master",
+    "language": "Rust",
+    "description": "A cat(1) clone with wings."
+  },
+  {
+    "repo": "WecomTeam/wecom-cli",
     "branch": "main",
     "language": "Rust",
-    "description": "A markup-based typesetting system that is powerful and easy to learn."
+    "description": "企业微信开放平台命令行工具 — 让人类和 AI Agent 都能在终端中操作企业微信"
   },
   {
-    "repo": "summer1238/dsh-remote-web-gateway",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "手机平板远程 DeepSeek Harness：扫码即可继续使用电脑上的 DSH，无需远程桌面 / SSH / 公网 IP，支持一次性配对、Github授权加密登录，独立设备授权与随时撤销，实现远程连接很简单，但安全才是我们所想要的。"
-  },
-  {
-    "repo": "Housetan218/claude-code-haha",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "claude-code-hahahhhhhhhhhhhhh"
-  },
-  {
-    "repo": "mikewang817/MacBar",
-    "branch": "master",
-    "language": "Swift",
-    "description": "A lightweight macOS menu bar clipboard manager with OCR, file support, and global hotkey"
-  },
-  {
-    "repo": "supermemoryai/clawdbot-supermemory",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Supermemory allows Clawdbot / Molt bot to have PERFECT memory and recall for their own personal agent."
-  },
-  {
-    "repo": "cs109/2015",
+    "repo": "sdmg15/Best-websites-a-programmer-should-visit",
     "branch": "master",
     "language": "Other",
-    "description": "Public material for CS109"
+    "description": ":link: Some useful websites for programmers."
   },
   {
-    "repo": "loyalpartner/selfsync",
+    "repo": "Pythagora-io/gpt-pilot",
+    "branch": "main",
+    "language": "Python",
+    "description": "The first real AI developer"
+  },
+  {
+    "repo": "hashicorp/terraform",
+    "branch": "main",
+    "language": "Go",
+    "description": "Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned."
+  },
+  {
+    "repo": "dotnet/aspnetcore",
+    "branch": "main",
+    "language": "C#",
+    "description": "ASP.NET Core is a cross-platform .NET framework for building modern cloud-based web applications on Windows, Mac, or Linux."
+  },
+  {
+    "repo": "openlibrecommunity/olcrtc",
     "branch": "master",
-    "language": "Rust",
-    "description": "Self-hosted Chrome Sync server. 自托管 Chrome 同步服务器 — 书签、密码、偏好等浏览器数据留在本地，不经过 Google"
+    "language": "Python",
+    "description": "olc - using side channels to access web outside the whitelist"
   },
   {
-    "repo": "sindresorhus/type-fest",
+    "repo": "airbnb/lottie-web",
+    "branch": "master",
+    "language": "JavaScript",
+    "description": "Render After Effects animations natively on Web, Android and iOS, and React Native. http://airbnb.io/lottie/"
+  },
+  {
+    "repo": "spring-guides/gs-spring-boot",
     "branch": "main",
-    "language": "TypeScript",
-    "description": "A collection of essential TypeScript types"
+    "language": "Java",
+    "description": "Building an Application with Spring Boot :: Learn how to build an application with minimal configuration."
   },
   {
-    "repo": "Fox-Fig/phoenix",
-    "branch": "main",
-    "language": "Go",
-    "description": "Phoenix is a high-performance, resilient tunneling tool designed to bypass DPI and severe network censorship using HTTP/2 (h2/h2c) multiplexing."
-  },
-  {
-    "repo": "amneziawg-mikrotik/awg-proxy",
-    "branch": "main",
-    "language": "Go",
-    "description": ""
-  },
-  {
-    "repo": "ecto/vcad",
-    "branch": "main",
-    "language": "Rust",
-    "description": "Parametric CAD in Rust — CSG modeling with multi-format export"
-  },
-  {
-    "repo": "unjs/h3",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "⚡️ Minimal H(TTP) framework built for high performance and portability"
-  },
-  {
-    "repo": "adysec/CForum",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "CForum — A modern, serverless forum built on Cloudflare Workers + Pages + D1 + R2, featuring posts, threaded comments, image uploads, 2FA authentication, and a hybrid deployment architecture optimized through smart edge routing."
-  },
-  {
-    "repo": "YeQing17-2026/OmniAgent",
+    "repo": "psf/black",
     "branch": "main",
     "language": "Python",
-    "description": "An agent capable of self-evolving and dynamically hardening security"
+    "description": "The uncompromising Python code formatter"
   },
   {
-    "repo": "listyantidewi1/your-everyday-tools",
+    "repo": "go-gorm/gorm",
+    "branch": "master",
+    "language": "Go",
+    "description": "The fantastic ORM library for Golang, aims to be developer friendly"
+  },
+  {
+    "repo": "junit-team/junit4",
     "branch": "main",
-    "language": "HTML",
-    "description": ""
+    "language": "Java",
+    "description": "A programmer-oriented testing framework for Java — :warning: maintenance mode"
   },
   {
-    "repo": "drwetter/testssl.sh",
-    "branch": "3.2",
-    "language": "Shell",
-    "description": "Testing TLS/SSL encryption anywhere on any port"
-  },
-  {
-    "repo": "ChinaSiro/claude-code-sourcemap",
+    "repo": "openai/codex-plugin-cc",
     "branch": "main",
-    "language": "TypeScript",
-    "description": ""
+    "language": "JavaScript",
+    "description": "Use Codex from Claude Code to review code or delegate tasks."
   },
   {
-    "repo": "lqs/retrotick",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "💾 Run classic Windows & DOS executables in the browser — an x86 emulator + Win32/Win16/DOS API layer built from scratch in TypeScript"
-  },
-  {
-    "repo": "pypa/setuptools",
+    "repo": "dreddnafious/thereisnospoon",
     "branch": "main",
     "language": "Python",
-    "description": "Official project repository for the Setuptools build system"
+    "description": "A machine learning primer built from first principles. For engineers who want to reason about ML systems the way they reason about software systems."
   },
   {
-    "repo": "v1ewp0rt/BAREBLOOD",
+    "repo": "Follow-Gabagool22/5min-btc-polymarket-trading-bot",
     "branch": "main",
-    "language": "QML",
-    "description": "Gothic maximalist linux theme for KDE plasma 6.5"
+    "language": "Rust",
+    "description": "5min btc polymarket trading bot that is polymarket trading bot that trade in 5 btc market polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot"
   },
   {
-    "repo": "confluentinc/kafka-rest",
+    "repo": "firebase/firebase-ios-sdk",
+    "branch": "master",
+    "language": "C++",
+    "description": "Firebase SDK for Apple App Development"
+  },
+  {
+    "repo": "google/guava",
     "branch": "master",
     "language": "Java",
-    "description": "Confluent REST Proxy for Kafka"
+    "description": "Google core libraries for Java"
   },
   {
-    "repo": "cft0808/edict",
-    "branch": "main",
-    "language": "HTML",
-    "description": "🏛️ 三省六部制 · OpenClaw Multi-Agent Orchestration System — 9 specialized AI agents with real-time dashboard, model config, and full audit trails"
-  },
-  {
-    "repo": "epoko77-ai/im-not-ai",
+    "repo": "ericosiu/ai-marketing-skills",
     "branch": "main",
     "language": "Python",
-    "description": "AI가 쓴 글이 아닌 것처럼 윤문해주는 스킬"
+    "description": "Open-source AI marketing skills for Claude Code — growth experiments, sales pipeline, content ops, outbound, SEO, and finance automation"
   },
   {
-    "repo": "Zackriya-Solutions/meeting-minutes",
+    "repo": "wesbos/JSON-Alexander",
     "branch": "main",
-    "language": "Rust",
-    "description": "Privacy first, AI meeting assistant with 4x faster Parakeet/Whisper live transcription, speaker diarization, and Ollama summarization built on Rust. 100% local processing. no cloud required. Meetily (Meetly Ai - https://meetily.ai) is the #1 Self-hosted,  Open-source Ai meeting note taker for macOS & Windows."
+    "language": "TypeScript",
+    "description": "A really good JSON viewer browser Extension"
   }
 ]
