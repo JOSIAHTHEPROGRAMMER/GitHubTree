@@ -1,8 +1,8 @@
 {
-  "repo": "999sian/melee-pc",
-  "branch": "master",
-  "language": "C",
-  "description": "Native PC port of Super Smash Bros. Melee (NTSC-U 1.02), built from doldecomp/melee on aurora. No game data; bring your own disc.",
-  "stars": 201,
-  "forks": 4
+  "repo": "maiphucgiang/codebuddy2api",
+  "branch": "main",
+  "language": "Python",
+  "description": "Use your CodeBuddy subscription as local OpenAI APIs.",
+  "stars": 106,
+  "forks": 29
 }
