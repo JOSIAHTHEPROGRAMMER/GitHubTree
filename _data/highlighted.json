@@ -1,8 +1,8 @@
 {
-  "repo": "jakesgoodapps/DuoLauncher",
+  "repo": "ithtelab/workbuddy-manager",
   "branch": "main",
-  "language": "Kotlin",
-  "description": "An experimental Android launcher for foldables, with a right-side dock, native widgets, and overlapping unfolded Home pages.",
-  "stars": 119,
-  "forks": 13
+  "language": "Python",
+  "description": "腾讯 CodeBuddy 账号池管理控制台 + OpenAI 兼容反代网关。扫码纳管账号、自动签到、多密钥分发、IP 管控、调用日志与用量统计。UI 对标 linux-do/cdk。",
+  "stars": 153,
+  "forks": 34
 }

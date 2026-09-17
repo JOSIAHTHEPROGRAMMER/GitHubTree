@@ -1,146 +1,146 @@
 [
   {
-    "repo": "FeSens/auto-arch-tournament",
+    "repo": "dagger/dagger",
     "branch": "main",
-    "language": "HTML",
-    "description": ""
+    "language": "Go",
+    "description": "Automation engine to build, test and ship any codebase. Runs locally, in CI, or directly in the cloud"
   },
   {
-    "repo": "RuizeLyu/paper-dl",
+    "repo": "openclaw/clawpatch",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Review code. Patch bugs. Land PRs."
+  },
+  {
+    "repo": "Danu-Nur/Resident-Evil-Requiem-Ultimate-Trainer-2026_v_2",
     "branch": "main",
     "language": "Python",
-    "description": "Download arxiv PDFs from PaSa search results for local AI-powered literature analysis."
+    "description": "Ultimate trainer for Resident Evil Requiem (RE9) – 42+ features including God Mode, Infinite Ammo, CP Editor, FOV fix, and more."
   },
   {
-    "repo": "better-auth/better-hub",
+    "repo": "HKUDS/OpenOPC",
     "branch": "main",
-    "language": "TypeScript",
-    "description": "Re-imagining code collaboration for humans and agents"
+    "language": "Python",
+    "description": "OpenOPC: Build Your Personal AI-Native Company — Self-Built, Self-Run, Self-Grown"
   },
   {
-    "repo": "beita6969/ScienceClaw",
+    "repo": "iamzulx/crypto-rag",
+    "branch": "master",
+    "language": "Python",
+    "description": "Asisten crypto berbahasa Indonesia: RAG pengetahuan 267 topik + data pasar realtime (6 bursa, WebSocket, derivatif, on-chain, TVL, DeFi) + tool-calling agent + LLM synthesis"
+  },
+  {
+    "repo": "uzairansaruzi/hermex",
+    "branch": "master",
+    "language": "Swift",
+    "description": "Native iPhone app for your Hermes agent"
+  },
+  {
+    "repo": "XFaltixX/DBD-AutoGrind-Trainer-2026-Extreme",
     "branch": "main",
-    "language": "TypeScript",
-    "description": "🔬🦞 A self-evolving AI research colleague for scientists. 285 skills, zero hallucination, persistent memory."
+    "language": "Python",
+    "description": "Ultimate Dead by Daylight auto-grind trainer Extreme edition with Bloodpoint bot, ESP wallhack, aimbot, and full perk/skin unlocker. Dominate the Fog with our 2026 undetected external tool."
   },
   {
-    "repo": "traderwillhu/market_dashboard",
+    "repo": "AgustiPuigserver/opus-prompt-architect",
     "branch": "main",
     "language": "HTML",
+    "description": "Best Prompt Engineering Tools for 2026 AI Workflow Optimization"
+  },
+  {
+    "repo": "Leron-X/leronx",
+    "branch": "main",
+    "language": "Python",
+    "description": "LeronX — AI Image & Video Generation Platform"
+  },
+  {
+    "repo": "Sarmadk20/Call_of_Duty__Warzone_Wallhack___Aimbot",
+    "branch": "main",
+    "language": "Python",
+    "description": "ESP, aimbot, and loot filter for Warzone 2.0. See enemies through walls, auto-aim, and highlight rare loot. Dominate Al Mazrah."
+  },
+  {
+    "repo": "perglervitek/Blox-Fruits-Dragon-Update-Auto-Farm-Script-2026-Elite",
+    "branch": "main",
+    "language": "Python",
+    "description": "Auto farm, ESP, and raid script for Blox Fruits Dragon Update 2026 – Elite edition. Level up, farm bosses, and dominate PvP with this undetected trainer."
+  },
+  {
+    "repo": "dimasarestuprasmanto/Blox-Fruits-Dragon-Update-Auto-Farm-Script-2026-Advanced",
+    "branch": "main",
+    "language": "Python",
+    "description": "All‑in‑one Blox Fruits script for Dragon Update 2026. Advanced edition comes with extra optimizations for faster farming."
+  },
+  {
+    "repo": "pocket-stack/pocketjs",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "High-performance JSX UI outside the browser, with hardware rendering, standard Vue Vapor and Solid support, a Tailwind design system, and 60 FPS animation under an 8 MB memory budget."
+  },
+  {
+    "repo": "anonimosptzs-sys/God_of_War__2018__Unlimited_Rage___Health",
+    "branch": "main",
+    "language": "Python",
+    "description": "Unlimited health, rage, and all runic attacks for God of War (2018). God mode, infinite Spartan Rage, and unlock all upgrades."
+  },
+  {
+    "repo": "origamidottech/hyperliquid-trading-bot",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Hyperliquid/Perps copy trading bot copy trading bot, Hip-3 trading bot, perp trading bot, hyperliquid trading bot, Hyperliquid/Perps copy trading bot copy trading bot, Hip-4 trading bot, perp trading bot, hyperliquid trading bot, Hyperliquid/Perps copy trading bot copy trading bot, Hip-3/4 trading bot, perp trading bot, hyperliquid trading bot"
+  },
+  {
+    "repo": "usamafaheemAhmed/Palworld_Buddy_Bot",
+    "branch": "main",
+    "language": "Python",
+    "description": "Auto-capture, infinite pal spheres, and instant breeding for Palworld. Throw spheres automatically, unlimited spheres, breed pals instantly, and collect resources."
+  },
+  {
+    "repo": "baairon/torlink",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "A sleek, zero-setup torrent finder and downloader that lives right in your terminal."
+  },
+  {
+    "repo": "tryOpenRAM/OpenRAM",
+    "branch": "main",
+    "language": "Vue",
     "description": ""
   },
   {
-    "repo": "NateBJones-Projects/OB1",
+    "repo": "perglervitek/Pet-Simulator-99-Auto-Farm-Trainer-2026-Premium",
     "branch": "main",
-    "language": "TypeScript",
-    "description": "Open Brain — The infrastructure layer for your thinking. One database, one AI gateway, one chat channel — any AI plugs in. No middleware, no SaaS."
+    "language": "Python",
+    "description": "Premium edition of the most advanced Pet Simulator 99 automation tool. Farm coins, hatch eggs, complete Backrooms League tasks automatically. Fully undetected and user-friendly."
   },
   {
-    "repo": "Michaelliv/pi-generative-ui",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Claude.ai's generative UI — reverse-engineered, rebuilt for pi. Interactive HTML/SVG widgets in native macOS windows."
-  },
-  {
-    "repo": "randallscott25-star/epstein-forensic-finance",
+    "repo": "jtr21300/MAGIX-Music-Maker-Quickstart",
     "branch": "main",
     "language": "HTML",
-    "description": "Epstein Financial Forensics Automated forensic financial reconstruction from 1.48 million DOJ EFTA documents + 503K cataloged media items"
+    "description": "Best MAGIX Music Maker Premium Setup 2026 AI Music Production Suite"
   },
   {
-    "repo": "vercel-labs/visual-json",
+    "repo": "SrSCK/Virtual_Machine_Manager",
     "branch": "main",
-    "language": "TypeScript",
-    "description": "The Visual JSON Editor. Schema-aware, embeddable, extensible."
+    "language": "Python",
+    "description": "Run and manage virtual machines with ease. Supports VMware, VirtualBox, and Hyper-V. Create, start, and stop VMs."
   },
   {
-    "repo": "RightNow-AI/picolm",
+    "repo": "skerry699/agent-symphony",
     "branch": "main",
-    "language": "C",
-    "description": "Run a 1-billion parameter LLM on a $10 board with 256MB RAM"
+    "language": "HTML",
+    "description": "Multi-Agent AI Task Orchestrator 2026"
   },
   {
-    "repo": "openscad/openscad",
-    "branch": "master",
+    "repo": "Senabayu08989/Stable-Diffusion-AI-Free",
+    "branch": "main",
     "language": "C++",
-    "description": "OpenSCAD - The Programmers Solid 3D CAD Modeller"
+    "description": "Stable Diffusion Free AI Image Generator Flux 2 Local Deployment Real-time Video Character Consistency Identity Anchoring SDXL Turbo LoRA Training ControlNet Open Source Art Studio Hyperrealistic Cinematic Styles Prompt Engineering Python Pytorch Forge ComfyUI 2026 Release High Resolution Desktop Tool"
   },
   {
-    "repo": "herrbischoff/awesome-macos-command-line",
-    "branch": "master",
-    "language": "Other",
-    "description": "Use your macOS terminal shell to do awesome things."
-  },
-  {
-    "repo": "github/storybook-addon-performance-panel",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "A Storybook Addon for tracking web performance"
-  },
-  {
-    "repo": "agenticnotetaking/arscontexta",
-    "branch": "main",
-    "language": "Shell",
-    "description": "Claude Code plugin that generates individualized knowledge systems from conversation. You describe how you think and work, have a conversation and get a complete second brain as markdown files you own."
-  },
-  {
-    "repo": "Robbyant/lingbot-vla",
+    "repo": "perglervitek/Blox-Fruits-Dragon-Update-Auto-Farm-Script-2026-Pro",
     "branch": "main",
     "language": "Python",
-    "description": "A Pragmatic VLA Foundation Model"
-  },
-  {
-    "repo": "libuv/libuv",
-    "branch": "v1.x",
-    "language": "C",
-    "description": "Cross-platform asynchronous I/O"
-  },
-  {
-    "repo": "molefrog/skills",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "❈ Claude skill for generating high-quality PDFs using react-pdf"
-  },
-  {
-    "repo": "whatwg/html",
-    "branch": "main",
-    "language": "HTML",
-    "description": "HTML Standard"
-  },
-  {
-    "repo": "Crestdrasnip/Claude-Zeroclaw",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": ""
-  },
-  {
-    "repo": "great-expectations/great_expectations",
-    "branch": "develop",
-    "language": "Python",
-    "description": "Always know what to expect from your data."
-  },
-  {
-    "repo": "AgriciDaniel/claude-seo",
-    "branch": "main",
-    "language": "Python",
-    "description": "Universal SEO skill for Claude Code. Comprehensive SEO analysis for any website or business type."
-  },
-  {
-    "repo": "PatrikFehrenbach/h1-brain",
-    "branch": "main",
-    "language": "Python",
-    "description": "MCP server that connects AI assistants to HackerOne for bug bounty hunting"
-  },
-  {
-    "repo": "JuliaLang/julia",
-    "branch": "master",
-    "language": "Julia",
-    "description": "The Julia Programming Language"
-  },
-  {
-    "repo": "markets/awesome-ruby",
-    "branch": "master",
-    "language": "Other",
-    "description": "💎 A collection of awesome Ruby libraries, tools, frameworks and software"
+    "description": "Maximize your progress in Blox Fruits with this Pro trainer – auto farm, ESP, raid, and anti‑ban included."
   }
 ]
