@@ -1,146 +1,146 @@
 [
   {
-    "repo": "vibe-music/vibe-music-web",
+    "repo": "mysghiii/Email_Extractor",
     "branch": "main",
-    "language": "JavaScript",
-    "description": "Open-source cloud music player with a bring-your-own-music model. Local control, optional sync, zero platform dependency."
+    "language": "Python",
+    "description": "Extract email addresses from websites, social media, and text files. Find leads for marketing campaigns."
   },
   {
-    "repo": "SAGAR-TAMANG/ultron-by-sagar-builds",
+    "repo": "eggricesoy/filmkit",
+    "branch": "master",
+    "language": "TypeScript",
+    "description": "Create and manage Fujifilm camera profiles, with ease and speed. Connect your camera and you are good to go!"
+  },
+  {
+    "repo": "fabricjs/fabric.js",
+    "branch": "master",
+    "language": "TypeScript",
+    "description": "Javascript Canvas Library, SVG-to-Canvas (& canvas-to-SVG) Parser"
+  },
+  {
+    "repo": "jina-ai/jina-grep-cli",
+    "branch": "main",
+    "language": "Python",
+    "description": "Semantic grep powered by Jina embeddings v5 (MLX on Apple Silicon)"
+  },
+  {
+    "repo": "MangoLion/stretchystudio",
+    "branch": "master",
+    "language": "JavaScript",
+    "description": "FOSS 2D animation tool for turning static illustrations into mesh-deformable characters"
+  },
+  {
+    "repo": "codetrybe/polymarket-arbitrage-bot",
     "branch": "main",
     "language": "TypeScript",
-    "description": "Ultron."
+    "description": "polymarket arbitrage bot polymarket arbitrage bot"
   },
   {
-    "repo": "Shubhamsaboo/awesome-llm-apps",
+    "repo": "Pika-Labs/Pika-Skills",
     "branch": "main",
     "language": "Python",
-    "description": "Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models."
+    "description": ""
   },
   {
-    "repo": "mgks/GitHubTree",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "Visualise any GitHub repository folder structure. Available as a web app, CLI tool, and node.js library."
-  },
-  {
-    "repo": "hitmux/HitCC",
-    "branch": "main",
-    "language": "Python",
-    "description": "Complete reverse-engineering documentation of the full logic of Claude Code CLI Node.js version v2.1.84"
-  },
-  {
-    "repo": "openilink/openilink-hub",
-    "branch": "main",
-    "language": "Go",
-    "description": "开源微信 Bot 管理平台 | Self-hosted WeChat Bot Management & Message Relay | WebSocket + Webhook + AI Auto-reply | Passkey Login | 7 Language SDKs"
-  },
-  {
-    "repo": "sigp/lighthouse",
-    "branch": "stable",
-    "language": "Rust",
-    "description": "Ethereum consensus client in Rust"
-  },
-  {
-    "repo": "dbt-labs/dbt-core",
-    "branch": "main",
-    "language": "Python",
-    "description": "dbt enables data analysts and engineers to transform their data using the same practices that software engineers use to build applications."
-  },
-  {
-    "repo": "juntoku9/claude_immigration_attorney",
+    "repo": "worldwonderer/oh-story-claudecode",
     "branch": "main",
     "language": "Shell",
-    "description": "Claude code environment for laywers"
+    "description": "网文写作 skill 包，覆盖长篇与短篇网络小说的扫榜、拆文、写作、去AI味全流程"
   },
   {
-    "repo": "EvolutionAPI/evolution-go",
+    "repo": "deepmind/mujoco",
     "branch": "main",
-    "language": "Go",
-    "description": "Evolution API / Evolution Go is an open-source WhatsApp integration API"
+    "language": "C++",
+    "description": "Multi-Joint dynamics with Contact. A general purpose physics simulator."
   },
   {
-    "repo": "alibaba/ice",
-    "branch": "master",
-    "language": "TypeScript",
-    "description": "🚀 ice.js: The Progressive App Framework Based On React（基于 React 的渐进式应用框架）"
-  },
-  {
-    "repo": "doctrine/orm",
-    "branch": "3.2.x",
-    "language": "PHP",
-    "description": "Doctrine Object Relational Mapper (ORM)"
-  },
-  {
-    "repo": "microsoft/playwright",
+    "repo": "CoreGuideLab/polymarket-arbitrage-trading-bot",
     "branch": "main",
     "language": "TypeScript",
-    "description": "Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API."
+    "description": "Polymarket arbitrage trading bot: Polymarket arbitrage trading bot Polymarket arbitrage bot Polymarket trading bot Polymarket trading bot Polymarket trading bot Polymarket trading bot Polymarket trading bot Polymarket trading bot Polymarket trading bot Polymarket trading bot Polymarket trading bot Polymarket trading bot Polymarket tradingbot"
   },
   {
-    "repo": "emotion-js/emotion",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "👩‍🎤 CSS-in-JS library designed for high performance style composition"
-  },
-  {
-    "repo": "tianxingleo/ACGTI",
+    "repo": "nashsu/llm_wiki",
     "branch": "main",
     "language": "TypeScript",
-    "description": "ACG Type Indicator - MBTI inspired anime persona quiz"
+    "description": ""
   },
   {
-    "repo": "optuna/optuna",
-    "branch": "master",
-    "language": "Python",
-    "description": "A hyperparameter optimization framework"
-  },
-  {
-    "repo": "getify/You-Dont-Know-JS",
+    "repo": "herrbischoff/awesome-macos-command-line",
     "branch": "master",
     "language": "Other",
-    "description": "A book series (2 published editions) on the JS language."
+    "description": "Use your macOS terminal shell to do awesome things."
   },
   {
-    "repo": "machinarii/hypervibe",
-    "branch": "main",
-    "language": "Swift",
-    "description": "One-handed vibe coding using Apple TV Remote, customizable buttons and gestures."
-  },
-  {
-    "repo": "PowerShell/PowerShell",
-    "branch": "master",
-    "language": "C#",
-    "description": "PowerShell for every system!"
-  },
-  {
-    "repo": "win4r/lossless-claw-enhanced",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Fork of Martian-Engineering/lossless-claw with CJK-aware token estimation"
-  },
-  {
-    "repo": "jsdom/jsdom",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "A JavaScript implementation of various web standards, for use with Node.js"
-  },
-  {
-    "repo": "jasonkneen/openclicky",
-    "branch": "main",
-    "language": "Swift",
-    "description": "openclicky -- the open source version of clicky"
-  },
-  {
-    "repo": "jd-opensource/JoyAI-Echo",
+    "repo": "Russell-cell/PPT-Design-Prompt",
     "branch": "main",
     "language": "Python",
-    "description": "JoyAI-Echo: Pushing the Frontier of Long Audio-Visual Generation"
+    "description": ""
   },
   {
-    "repo": "NuvioMedia/NuvioDesktop",
-    "branch": "Dev",
-    "language": "Kotlin",
-    "description": ""
+    "repo": "orchetron/storm",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "A compositor-based terminal UI framework. Fast. Layered. Unstoppable."
+  },
+  {
+    "repo": "timhartmann7/omnyssh",
+    "branch": "main",
+    "language": "Rust",
+    "description": "A fast, keyboard-driven TUI for managing SSH connections, written in Rust"
+  },
+  {
+    "repo": "browser-use/browser-harness-js",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Self-healing browser harness that enables LLMs to complete any task"
+  },
+  {
+    "repo": "EvoLinkAI/awesome-gpt-image-2-prompts",
+    "branch": "main",
+    "language": "Python",
+    "description": "Curated GPT-Image-2 prompts and image examples across portraits, posters, UI mockups, character sheets, and community experiments."
+  },
+  {
+    "repo": "material-components/material-components-web",
+    "branch": "master",
+    "language": "TypeScript",
+    "description": "Modular and customizable Material Design UI components for the web"
+  },
+  {
+    "repo": "huggingface/datasets",
+    "branch": "main",
+    "language": "Python",
+    "description": "🤗 The largest hub of ready-to-use datasets for AI models with fast, easy-to-use and efficient data manipulation tools"
+  },
+  {
+    "repo": "browser-use/bux",
+    "branch": "main",
+    "language": "Python",
+    "description": "A 24/7 Claude Code agent with Browser Harness, on any box you own."
+  },
+  {
+    "repo": "AERT-7Y/kiro-auto",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "kiro自动注册机"
+  },
+  {
+    "repo": "30-seconds/30-seconds-of-code",
+    "branch": "master",
+    "language": "JavaScript",
+    "description": "Coding articles to level up your development skills"
+  },
+  {
+    "repo": "mukul975/cve-mcp-server",
+    "branch": "main",
+    "language": "Python",
+    "description": "Production-grade MCP server giving Claude 27 security intelligence tools across 21 APIs — CVE lookup, EPSS scoring, CISA KEV, MITRE ATT&CK, Shodan, VirusTotal, and more."
+  },
+  {
+    "repo": "IyadhKhalfallah/clauditor",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Stop Claude Code from burning through your quota in 20 minutes. Auto-rotates oversized sessions and preserves context."
   }
 ]
