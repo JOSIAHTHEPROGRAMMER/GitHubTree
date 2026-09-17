@@ -1,8 +1,8 @@
 {
-  "repo": "ithtelab/workbuddy-manager",
-  "branch": "main",
-  "language": "Python",
-  "description": "腾讯 CodeBuddy 账号池管理控制台 + OpenAI 兼容反代网关。扫码纳管账号、自动签到、多密钥分发、IP 管控、调用日志与用量统计。UI 对标 linux-do/cdk。",
-  "stars": 153,
-  "forks": 34
+  "repo": "alchaincyf/3d-vibe-coding-handbook",
+  "branch": "master",
+  "language": "HTML",
+  "description": "《3D Vibe Coding 手册》配套仓库：书的 HTML 版、demo 源码、工具脚本与资源包索引",
+  "stars": 206,
+  "forks": 30
 }

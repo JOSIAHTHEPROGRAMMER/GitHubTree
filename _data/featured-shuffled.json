@@ -1,146 +1,146 @@
 [
   {
-    "repo": "dagger/dagger",
-    "branch": "main",
-    "language": "Go",
-    "description": "Automation engine to build, test and ship any codebase. Runs locally, in CI, or directly in the cloud"
-  },
-  {
-    "repo": "openclaw/clawpatch",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Review code. Patch bugs. Land PRs."
-  },
-  {
-    "repo": "Danu-Nur/Resident-Evil-Requiem-Ultimate-Trainer-2026_v_2",
-    "branch": "main",
-    "language": "Python",
-    "description": "Ultimate trainer for Resident Evil Requiem (RE9) – 42+ features including God Mode, Infinite Ammo, CP Editor, FOV fix, and more."
-  },
-  {
-    "repo": "HKUDS/OpenOPC",
-    "branch": "main",
-    "language": "Python",
-    "description": "OpenOPC: Build Your Personal AI-Native Company — Self-Built, Self-Run, Self-Grown"
-  },
-  {
-    "repo": "iamzulx/crypto-rag",
-    "branch": "master",
-    "language": "Python",
-    "description": "Asisten crypto berbahasa Indonesia: RAG pengetahuan 267 topik + data pasar realtime (6 bursa, WebSocket, derivatif, on-chain, TVL, DeFi) + tool-calling agent + LLM synthesis"
-  },
-  {
-    "repo": "uzairansaruzi/hermex",
-    "branch": "master",
-    "language": "Swift",
-    "description": "Native iPhone app for your Hermes agent"
-  },
-  {
-    "repo": "XFaltixX/DBD-AutoGrind-Trainer-2026-Extreme",
-    "branch": "main",
-    "language": "Python",
-    "description": "Ultimate Dead by Daylight auto-grind trainer Extreme edition with Bloodpoint bot, ESP wallhack, aimbot, and full perk/skin unlocker. Dominate the Fog with our 2026 undetected external tool."
-  },
-  {
-    "repo": "AgustiPuigserver/opus-prompt-architect",
+    "repo": "cclank/x-algorithm-wiki",
     "branch": "main",
     "language": "HTML",
-    "description": "Best Prompt Engineering Tools for 2026 AI Workflow Optimization"
+    "description": "Architecture wiki for the open-sourced X For You recommendation algorithm (xai-org/x-algorithm) — 21 source-anchored pages"
   },
   {
-    "repo": "Leron-X/leronx",
+    "repo": "zengxiao-he/triton-llm-kernel-lab",
     "branch": "main",
     "language": "Python",
-    "description": "LeronX — AI Image & Video Generation Platform"
-  },
-  {
-    "repo": "Sarmadk20/Call_of_Duty__Warzone_Wallhack___Aimbot",
-    "branch": "main",
-    "language": "Python",
-    "description": "ESP, aimbot, and loot filter for Warzone 2.0. See enemies through walls, auto-aim, and highlight rare loot. Dominate Al Mazrah."
-  },
-  {
-    "repo": "perglervitek/Blox-Fruits-Dragon-Update-Auto-Farm-Script-2026-Elite",
-    "branch": "main",
-    "language": "Python",
-    "description": "Auto farm, ESP, and raid script for Blox Fruits Dragon Update 2026 – Elite edition. Level up, farm bosses, and dominate PvP with this undetected trainer."
-  },
-  {
-    "repo": "dimasarestuprasmanto/Blox-Fruits-Dragon-Update-Auto-Farm-Script-2026-Advanced",
-    "branch": "main",
-    "language": "Python",
-    "description": "All‑in‑one Blox Fruits script for Dragon Update 2026. Advanced edition comes with extra optimizations for faster farming."
-  },
-  {
-    "repo": "pocket-stack/pocketjs",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "High-performance JSX UI outside the browser, with hardware rendering, standard Vue Vapor and Solid support, a Tailwind design system, and 60 FPS animation under an 8 MB memory budget."
-  },
-  {
-    "repo": "anonimosptzs-sys/God_of_War__2018__Unlimited_Rage___Health",
-    "branch": "main",
-    "language": "Python",
-    "description": "Unlimited health, rage, and all runic attacks for God of War (2018). God mode, infinite Spartan Rage, and unlock all upgrades."
-  },
-  {
-    "repo": "origamidottech/hyperliquid-trading-bot",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Hyperliquid/Perps copy trading bot copy trading bot, Hip-3 trading bot, perp trading bot, hyperliquid trading bot, Hyperliquid/Perps copy trading bot copy trading bot, Hip-4 trading bot, perp trading bot, hyperliquid trading bot, Hyperliquid/Perps copy trading bot copy trading bot, Hip-3/4 trading bot, perp trading bot, hyperliquid trading bot"
-  },
-  {
-    "repo": "usamafaheemAhmed/Palworld_Buddy_Bot",
-    "branch": "main",
-    "language": "Python",
-    "description": "Auto-capture, infinite pal spheres, and instant breeding for Palworld. Throw spheres automatically, unlimited spheres, breed pals instantly, and collect resources."
-  },
-  {
-    "repo": "baairon/torlink",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "A sleek, zero-setup torrent finder and downloader that lives right in your terminal."
-  },
-  {
-    "repo": "tryOpenRAM/OpenRAM",
-    "branch": "main",
-    "language": "Vue",
     "description": ""
   },
   {
-    "repo": "perglervitek/Pet-Simulator-99-Auto-Farm-Trainer-2026-Premium",
+    "repo": "stanuwu/Sunrise",
+    "branch": "master",
+    "language": "C++",
+    "description": "Destiny 2 Offline Exploration Mod"
+  },
+  {
+    "repo": "aayan555/DS4Windows",
+    "branch": "main",
+    "language": "C#",
+    "description": "ds4windows ps4 ps5 download pc windows 11 xbox controller mapper forza horizon 6 dualshock 4 dualsense ps5 ps4 xbox 360 emulation bluetooth low latency inputmapper profile config driver vigem ryochan7 free"
+  },
+  {
+    "repo": "Snaplii-Inc/agent-to-merchant-payments",
     "branch": "main",
     "language": "Python",
-    "description": "Premium edition of the most advanced Pet Simulator 99 automation tool. Farm coins, hatch eggs, complete Backrooms League tasks automatically. Fully undetected and user-friendly."
+    "description": "Payments are broken for AI agents.  Snaplii unlocks real-world commerce with a safe, tokenized payment layer — powered by 500+ merchant gift cards — and is the only one that actually saves you money (up to 10% per transaction), on top of any existing deals or promotions."
   },
   {
-    "repo": "jtr21300/MAGIX-Music-Maker-Quickstart",
+    "repo": "ory/oathkeeper",
+    "branch": "master",
+    "language": "Go",
+    "description": "A cloud native Identity & Access Proxy / API (IAP) and Access Control Decision API that authenticates, authorizes, and mutates incoming HTTP(s) requests. Inspired by the BeyondCorp / Zero Trust white paper. Written in Go."
+  },
+  {
+    "repo": "moxailoo/univ3-pool-lens",
     "branch": "main",
-    "language": "HTML",
-    "description": "Best MAGIX Music Maker Premium Setup 2026 AI Music Production Suite"
+    "language": "TypeScript",
+    "description": "A focused TypeScript toolkit for inspecting Uniswap V3 pools — liquidity distribution, fee yield, and impermanent-loss math from your terminal."
   },
   {
-    "repo": "SrSCK/Virtual_Machine_Manager",
+    "repo": "alefinvest/polymarket-copy-bot",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "polymarket copy trading bot polymarket copy bot polymarket trading bot polymarket copy trading bot polymarket copy bot polymarket trading bot polymarket copy trading bot polymarket copy bot polymarket trading bot polymarket copy trading bot polymarket copy bot polymarket trading bot polymarket copy trading bot polymarket copy bot polymarket trading"
+  },
+  {
+    "repo": "6551Team/claude-code-design-guide",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": ""
+  },
+  {
+    "repo": "mkbula/HideMyData",
+    "branch": "master",
+    "language": "Swift",
+    "description": "Native macOS PII removal software with on device Vision OCR and OpenAI privacy filter model"
+  },
+  {
+    "repo": "Klotzkette/claude-fuer-deutsches-recht",
     "branch": "main",
     "language": "Python",
-    "description": "Run and manage virtual machines with ease. Supports VMware, VirtualBox, and Hyper-V. Create, start, and stop VMs."
+    "description": "⚠️ Experimentelle Skill-Sammlung für deutsches Recht (Arbeits-, Gesellschafts-, Insolvenz-, Datenschutz-, Prozessrecht u.a.) – inzwischen verbessert und im Alltag getestet, aber weiterhin Experiment. Bitte selber ausprobieren, Issues/PRs willkommen! Keine Rechtsberatung. Mandatsgeheimnis (§§ 203/204 StGB, § 43e BRAO), DSGVO, US-Transfer, KI-VO & Co"
   },
   {
-    "repo": "skerry699/agent-symphony",
+    "repo": "texsellix/polymarket-trading-bot",
     "branch": "main",
-    "language": "HTML",
-    "description": "Multi-Agent AI Task Orchestrator 2026"
+    "language": "TypeScript",
+    "description": "Polymarket from your terminal. Copy whales, run autonomous strategies, place orders with one command. CLI-only, no dashboard, no setup."
   },
   {
-    "repo": "Senabayu08989/Stable-Diffusion-AI-Free",
+    "repo": "Jasionf/smart-home-button",
     "branch": "main",
     "language": "C++",
-    "description": "Stable Diffusion Free AI Image Generator Flux 2 Local Deployment Real-time Video Character Consistency Identity Anchoring SDXL Turbo LoRA Training ControlNet Open Source Art Studio Hyperrealistic Cinematic Styles Prompt Engineering Python Pytorch Forge ComfyUI 2026 Release High Resolution Desktop Tool"
+    "description": ""
   },
   {
-    "repo": "perglervitek/Blox-Fruits-Dragon-Update-Auto-Farm-Script-2026-Pro",
+    "repo": "zenhosta/9drive",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "9Drive is a storage gateway web app for connecting multiple Google Drive accounts into one virtual storage dashboard. Users can connect Google Drive accounts, track quota, upload files, organize files with virtual folders, preview files, and let the backend route uploads to the Drive account with enough free space."
+  },
+  {
+    "repo": "AMAP-ML/SkillClaw",
     "branch": "main",
     "language": "Python",
-    "description": "Maximize your progress in Blox Fruits with this Pro trainer – auto farm, ESP, raid, and anti‑ban included."
+    "description": "Let Skills Evolve Collectively with Agentic Evolver"
+  },
+  {
+    "repo": "openyuanrong-project/yuanrong",
+    "branch": "master",
+    "language": "Go",
+    "description": "openyuanrong project"
+  },
+  {
+    "repo": "abdosorour7/git-commands-cheatsheet",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "The ultimate Git Commands Cheatsheet: searchable, copy-ready, and organized for real-world developer workflows."
+  },
+  {
+    "repo": "tachikomared/character-animation-creator-skill",
+    "branch": "main",
+    "language": "Python",
+    "description": "Character Animation Creator Skill for Codex and GPT Web Agent — generates game-ready animations and sprites from reference images or text prompts"
+  },
+  {
+    "repo": "amrdoh/ClockMaster",
+    "branch": "master",
+    "language": "Kotlin",
+    "description": "Material Expressive clock app for android 🕛⏰"
+  },
+  {
+    "repo": "99xAgency/GodModeSkill",
+    "branch": "main",
+    "language": "Shell",
+    "description": "Multi-LLM cross-review workflow for Claude Code. /work orchestrates plan/implement/bug-fix with 3 different model families voting on every gate."
+  },
+  {
+    "repo": "0xKarl-dev/claw-codes",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Fastest repo on my GitHub to hit 50⭐ in under 2 hours. Building tools that get real things done. Now rewriting in Rust."
+  },
+  {
+    "repo": "anthnykr/codex-voice",
+    "branch": "main",
+    "language": "Swift",
+    "description": ""
+  },
+  {
+    "repo": "openyak/desktop",
+    "branch": "main",
+    "language": "Python",
+    "description": "Yak is all you need"
+  },
+  {
+    "repo": "SamNet-dev/dnstm-setup",
+    "branch": "master",
+    "language": "Shell",
+    "description": "Interactive setup wizard for dnstm — automated DNS-based network configuration"
   }
 ]
