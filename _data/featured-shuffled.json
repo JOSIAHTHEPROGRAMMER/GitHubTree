@@ -1,146 +1,146 @@
 [
   {
-    "repo": "cclank/x-algorithm-wiki",
+    "repo": "vibe-music/vibe-music-web",
     "branch": "main",
-    "language": "HTML",
-    "description": "Architecture wiki for the open-sourced X For You recommendation algorithm (xai-org/x-algorithm) — 21 source-anchored pages"
+    "language": "JavaScript",
+    "description": "Open-source cloud music player with a bring-your-own-music model. Local control, optional sync, zero platform dependency."
   },
   {
-    "repo": "zengxiao-he/triton-llm-kernel-lab",
+    "repo": "SAGAR-TAMANG/ultron-by-sagar-builds",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Ultron."
+  },
+  {
+    "repo": "Shubhamsaboo/awesome-llm-apps",
     "branch": "main",
     "language": "Python",
-    "description": ""
+    "description": "Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models."
   },
   {
-    "repo": "stanuwu/Sunrise",
-    "branch": "master",
-    "language": "C++",
-    "description": "Destiny 2 Offline Exploration Mod"
-  },
-  {
-    "repo": "aayan555/DS4Windows",
+    "repo": "mgks/GitHubTree",
     "branch": "main",
+    "language": "JavaScript",
+    "description": "Visualise any GitHub repository folder structure. Available as a web app, CLI tool, and node.js library."
+  },
+  {
+    "repo": "hitmux/HitCC",
+    "branch": "main",
+    "language": "Python",
+    "description": "Complete reverse-engineering documentation of the full logic of Claude Code CLI Node.js version v2.1.84"
+  },
+  {
+    "repo": "openilink/openilink-hub",
+    "branch": "main",
+    "language": "Go",
+    "description": "开源微信 Bot 管理平台 | Self-hosted WeChat Bot Management & Message Relay | WebSocket + Webhook + AI Auto-reply | Passkey Login | 7 Language SDKs"
+  },
+  {
+    "repo": "sigp/lighthouse",
+    "branch": "stable",
+    "language": "Rust",
+    "description": "Ethereum consensus client in Rust"
+  },
+  {
+    "repo": "dbt-labs/dbt-core",
+    "branch": "main",
+    "language": "Python",
+    "description": "dbt enables data analysts and engineers to transform their data using the same practices that software engineers use to build applications."
+  },
+  {
+    "repo": "juntoku9/claude_immigration_attorney",
+    "branch": "main",
+    "language": "Shell",
+    "description": "Claude code environment for laywers"
+  },
+  {
+    "repo": "EvolutionAPI/evolution-go",
+    "branch": "main",
+    "language": "Go",
+    "description": "Evolution API / Evolution Go is an open-source WhatsApp integration API"
+  },
+  {
+    "repo": "alibaba/ice",
+    "branch": "master",
+    "language": "TypeScript",
+    "description": "🚀 ice.js: The Progressive App Framework Based On React（基于 React 的渐进式应用框架）"
+  },
+  {
+    "repo": "doctrine/orm",
+    "branch": "3.2.x",
+    "language": "PHP",
+    "description": "Doctrine Object Relational Mapper (ORM)"
+  },
+  {
+    "repo": "microsoft/playwright",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API."
+  },
+  {
+    "repo": "emotion-js/emotion",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "👩‍🎤 CSS-in-JS library designed for high performance style composition"
+  },
+  {
+    "repo": "tianxingleo/ACGTI",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "ACG Type Indicator - MBTI inspired anime persona quiz"
+  },
+  {
+    "repo": "optuna/optuna",
+    "branch": "master",
+    "language": "Python",
+    "description": "A hyperparameter optimization framework"
+  },
+  {
+    "repo": "getify/You-Dont-Know-JS",
+    "branch": "master",
+    "language": "Other",
+    "description": "A book series (2 published editions) on the JS language."
+  },
+  {
+    "repo": "machinarii/hypervibe",
+    "branch": "main",
+    "language": "Swift",
+    "description": "One-handed vibe coding using Apple TV Remote, customizable buttons and gestures."
+  },
+  {
+    "repo": "PowerShell/PowerShell",
+    "branch": "master",
     "language": "C#",
-    "description": "ds4windows ps4 ps5 download pc windows 11 xbox controller mapper forza horizon 6 dualshock 4 dualsense ps5 ps4 xbox 360 emulation bluetooth low latency inputmapper profile config driver vigem ryochan7 free"
+    "description": "PowerShell for every system!"
   },
   {
-    "repo": "Snaplii-Inc/agent-to-merchant-payments",
-    "branch": "main",
-    "language": "Python",
-    "description": "Payments are broken for AI agents.  Snaplii unlocks real-world commerce with a safe, tokenized payment layer — powered by 500+ merchant gift cards — and is the only one that actually saves you money (up to 10% per transaction), on top of any existing deals or promotions."
-  },
-  {
-    "repo": "ory/oathkeeper",
-    "branch": "master",
-    "language": "Go",
-    "description": "A cloud native Identity & Access Proxy / API (IAP) and Access Control Decision API that authenticates, authorizes, and mutates incoming HTTP(s) requests. Inspired by the BeyondCorp / Zero Trust white paper. Written in Go."
-  },
-  {
-    "repo": "moxailoo/univ3-pool-lens",
+    "repo": "win4r/lossless-claw-enhanced",
     "branch": "main",
     "language": "TypeScript",
-    "description": "A focused TypeScript toolkit for inspecting Uniswap V3 pools — liquidity distribution, fee yield, and impermanent-loss math from your terminal."
+    "description": "Fork of Martian-Engineering/lossless-claw with CJK-aware token estimation"
   },
   {
-    "repo": "alefinvest/polymarket-copy-bot",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "polymarket copy trading bot polymarket copy bot polymarket trading bot polymarket copy trading bot polymarket copy bot polymarket trading bot polymarket copy trading bot polymarket copy bot polymarket trading bot polymarket copy trading bot polymarket copy bot polymarket trading bot polymarket copy trading bot polymarket copy bot polymarket trading"
-  },
-  {
-    "repo": "6551Team/claude-code-design-guide",
+    "repo": "jsdom/jsdom",
     "branch": "main",
     "language": "JavaScript",
-    "description": ""
+    "description": "A JavaScript implementation of various web standards, for use with Node.js"
   },
   {
-    "repo": "mkbula/HideMyData",
-    "branch": "master",
+    "repo": "jasonkneen/openclicky",
+    "branch": "main",
     "language": "Swift",
-    "description": "Native macOS PII removal software with on device Vision OCR and OpenAI privacy filter model"
+    "description": "openclicky -- the open source version of clicky"
   },
   {
-    "repo": "Klotzkette/claude-fuer-deutsches-recht",
+    "repo": "jd-opensource/JoyAI-Echo",
     "branch": "main",
     "language": "Python",
-    "description": "⚠️ Experimentelle Skill-Sammlung für deutsches Recht (Arbeits-, Gesellschafts-, Insolvenz-, Datenschutz-, Prozessrecht u.a.) – inzwischen verbessert und im Alltag getestet, aber weiterhin Experiment. Bitte selber ausprobieren, Issues/PRs willkommen! Keine Rechtsberatung. Mandatsgeheimnis (§§ 203/204 StGB, § 43e BRAO), DSGVO, US-Transfer, KI-VO & Co"
+    "description": "JoyAI-Echo: Pushing the Frontier of Long Audio-Visual Generation"
   },
   {
-    "repo": "texsellix/polymarket-trading-bot",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Polymarket from your terminal. Copy whales, run autonomous strategies, place orders with one command. CLI-only, no dashboard, no setup."
-  },
-  {
-    "repo": "Jasionf/smart-home-button",
-    "branch": "main",
-    "language": "C++",
-    "description": ""
-  },
-  {
-    "repo": "zenhosta/9drive",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "9Drive is a storage gateway web app for connecting multiple Google Drive accounts into one virtual storage dashboard. Users can connect Google Drive accounts, track quota, upload files, organize files with virtual folders, preview files, and let the backend route uploads to the Drive account with enough free space."
-  },
-  {
-    "repo": "AMAP-ML/SkillClaw",
-    "branch": "main",
-    "language": "Python",
-    "description": "Let Skills Evolve Collectively with Agentic Evolver"
-  },
-  {
-    "repo": "openyuanrong-project/yuanrong",
-    "branch": "master",
-    "language": "Go",
-    "description": "openyuanrong project"
-  },
-  {
-    "repo": "abdosorour7/git-commands-cheatsheet",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "The ultimate Git Commands Cheatsheet: searchable, copy-ready, and organized for real-world developer workflows."
-  },
-  {
-    "repo": "tachikomared/character-animation-creator-skill",
-    "branch": "main",
-    "language": "Python",
-    "description": "Character Animation Creator Skill for Codex and GPT Web Agent — generates game-ready animations and sprites from reference images or text prompts"
-  },
-  {
-    "repo": "amrdoh/ClockMaster",
-    "branch": "master",
+    "repo": "NuvioMedia/NuvioDesktop",
+    "branch": "Dev",
     "language": "Kotlin",
-    "description": "Material Expressive clock app for android 🕛⏰"
-  },
-  {
-    "repo": "99xAgency/GodModeSkill",
-    "branch": "main",
-    "language": "Shell",
-    "description": "Multi-LLM cross-review workflow for Claude Code. /work orchestrates plan/implement/bug-fix with 3 different model families voting on every gate."
-  },
-  {
-    "repo": "0xKarl-dev/claw-codes",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Fastest repo on my GitHub to hit 50⭐ in under 2 hours. Building tools that get real things done. Now rewriting in Rust."
-  },
-  {
-    "repo": "anthnykr/codex-voice",
-    "branch": "main",
-    "language": "Swift",
     "description": ""
-  },
-  {
-    "repo": "openyak/desktop",
-    "branch": "main",
-    "language": "Python",
-    "description": "Yak is all you need"
-  },
-  {
-    "repo": "SamNet-dev/dnstm-setup",
-    "branch": "master",
-    "language": "Shell",
-    "description": "Interactive setup wizard for dnstm — automated DNS-based network configuration"
   }
 ]
