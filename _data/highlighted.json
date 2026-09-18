@@ -1,8 +1,8 @@
 {
-  "repo": "suversal/WrapPin",
+  "repo": "zihenghe04/AIBro",
   "branch": "main",
-  "language": "Swift",
-  "description": "iOS 27+ 本机虚拟定位与步行路线测试工具",
-  "stars": 114,
-  "forks": 30
+  "language": "JavaScript",
+  "description": "AI Bro — a local-first workspace for AI conversations, source-linked knowledge, and tasks.",
+  "stars": 148,
+  "forks": 21
 }
