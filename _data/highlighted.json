@@ -1,8 +1,8 @@
 {
-  "repo": "xepes0/wloc",
+  "repo": "p1ass/textlint-rule-preset-ai-words-ja",
   "branch": "main",
-  "language": "JavaScript",
-  "description": "WLOC 社区维护版：基于 Yu9191/wloc 恢复，保留原作者历史与许可证，支持 Apple 网络定位测试及自部署。",
-  "stars": 120,
-  "forks": 100
+  "language": "TypeScript",
+  "description": "AI が書いた日本語に出てきやすい単語と言い回しを見つける textlint のプリセット",
+  "stars": 109,
+  "forks": 0
 }

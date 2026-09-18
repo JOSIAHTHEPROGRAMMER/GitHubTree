@@ -1,146 +1,146 @@
 [
   {
-    "repo": "mysghiii/Email_Extractor",
-    "branch": "main",
-    "language": "Python",
-    "description": "Extract email addresses from websites, social media, and text files. Find leads for marketing campaigns."
-  },
-  {
-    "repo": "eggricesoy/filmkit",
-    "branch": "master",
-    "language": "TypeScript",
-    "description": "Create and manage Fujifilm camera profiles, with ease and speed. Connect your camera and you are good to go!"
-  },
-  {
-    "repo": "fabricjs/fabric.js",
-    "branch": "master",
-    "language": "TypeScript",
-    "description": "Javascript Canvas Library, SVG-to-Canvas (& canvas-to-SVG) Parser"
-  },
-  {
-    "repo": "jina-ai/jina-grep-cli",
-    "branch": "main",
-    "language": "Python",
-    "description": "Semantic grep powered by Jina embeddings v5 (MLX on Apple Silicon)"
-  },
-  {
-    "repo": "MangoLion/stretchystudio",
-    "branch": "master",
-    "language": "JavaScript",
-    "description": "FOSS 2D animation tool for turning static illustrations into mesh-deformable characters"
-  },
-  {
-    "repo": "codetrybe/polymarket-arbitrage-bot",
+    "repo": "ForLoopCodes/contextplus",
     "branch": "main",
     "language": "TypeScript",
-    "description": "polymarket arbitrage bot polymarket arbitrage bot"
+    "description": "Semantic Intelligence for Large-Scale Engineering. Context+ is an MCP server designed for developers who demand 99% accuracy. By combining Tree-sitter AST parsing, Spectral Clustering, and Obsidian-style linking, Context+ turns a massive codebase into a searchable, hierarchical feature graph."
   },
   {
-    "repo": "Pika-Labs/Pika-Skills",
+    "repo": "erikdarlingdata/PerformanceMonitor",
+    "branch": "main",
+    "language": "C#",
+    "description": "Free, open-source SQL Server performance monitoring. Full Edition (server-installed, 30 collectors) and Lite Edition (standalone, DuckDB). Built-in MCP server for AI integration."
+  },
+  {
+    "repo": "CompVis/stable-diffusion",
+    "branch": "main",
+    "language": "Jupyter Notebook",
+    "description": "A latent text-to-image diffusion model"
+  },
+  {
+    "repo": "dazzyddos/ClickOnceBlobber",
     "branch": "main",
     "language": "Python",
     "description": ""
   },
   {
-    "repo": "worldwonderer/oh-story-claudecode",
+    "repo": "gradle/gradle",
+    "branch": "master",
+    "language": "Groovy",
+    "description": "Adaptable, fast automation for all"
+  },
+  {
+    "repo": "owenlejeune/ArrMatey",
     "branch": "main",
+    "language": "Kotlin",
+    "description": ""
+  },
+  {
+    "repo": "SamNet-dev/dnstm-setup",
+    "branch": "master",
     "language": "Shell",
-    "description": "网文写作 skill 包，覆盖长篇与短篇网络小说的扫榜、拆文、写作、去AI味全流程"
+    "description": "Interactive setup wizard for dnstm — automated DNS-based network configuration"
   },
   {
-    "repo": "deepmind/mujoco",
+    "repo": "pytest-dev/pytest",
     "branch": "main",
-    "language": "C++",
-    "description": "Multi-Joint dynamics with Contact. A general purpose physics simulator."
+    "language": "Python",
+    "description": "The pytest framework makes it easy to write small tests, yet scales to support complex functional testing"
   },
   {
-    "repo": "CoreGuideLab/polymarket-arbitrage-trading-bot",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Polymarket arbitrage trading bot: Polymarket arbitrage trading bot Polymarket arbitrage bot Polymarket trading bot Polymarket trading bot Polymarket trading bot Polymarket trading bot Polymarket trading bot Polymarket trading bot Polymarket trading bot Polymarket trading bot Polymarket trading bot Polymarket trading bot Polymarket tradingbot"
-  },
-  {
-    "repo": "nashsu/llm_wiki",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": ""
-  },
-  {
-    "repo": "herrbischoff/awesome-macos-command-line",
-    "branch": "master",
-    "language": "Other",
-    "description": "Use your macOS terminal shell to do awesome things."
-  },
-  {
-    "repo": "Russell-cell/PPT-Design-Prompt",
+    "repo": "Panniantong/Agent-Reach",
     "branch": "main",
     "language": "Python",
     "description": ""
   },
   {
-    "repo": "orchetron/storm",
+    "repo": "serenity-bdd/serenity-core",
     "branch": "main",
-    "language": "TypeScript",
-    "description": "A compositor-based terminal UI framework. Fast. Layered. Unstoppable."
+    "language": "HTML",
+    "description": "Serenity BDD is a test automation library designed to make writing automated acceptance tests easier, and more fun."
   },
   {
-    "repo": "timhartmann7/omnyssh",
-    "branch": "main",
-    "language": "Rust",
-    "description": "A fast, keyboard-driven TUI for managing SSH connections, written in Rust"
-  },
-  {
-    "repo": "browser-use/browser-harness-js",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Self-healing browser harness that enables LLMs to complete any task"
-  },
-  {
-    "repo": "EvoLinkAI/awesome-gpt-image-2-prompts",
-    "branch": "main",
-    "language": "Python",
-    "description": "Curated GPT-Image-2 prompts and image examples across portraits, posters, UI mockups, character sheets, and community experiments."
-  },
-  {
-    "repo": "material-components/material-components-web",
+    "repo": "Tencent/omi",
     "branch": "master",
     "language": "TypeScript",
-    "description": "Modular and customizable Material Design UI components for the web"
+    "description": "Web Components Framework - Web组件框架"
   },
   {
-    "repo": "huggingface/datasets",
+    "repo": "microsoft/Web-Dev-For-Beginners",
     "branch": "main",
-    "language": "Python",
-    "description": "🤗 The largest hub of ready-to-use datasets for AI models with fast, easy-to-use and efficient data manipulation tools"
-  },
-  {
-    "repo": "browser-use/bux",
-    "branch": "main",
-    "language": "Python",
-    "description": "A 24/7 Claude Code agent with Browser Harness, on any box you own."
-  },
-  {
-    "repo": "AERT-7Y/kiro-auto",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "kiro自动注册机"
-  },
-  {
-    "repo": "30-seconds/30-seconds-of-code",
-    "branch": "master",
     "language": "JavaScript",
-    "description": "Coding articles to level up your development skills"
+    "description": "24 Lessons, 12 Weeks, Get Started as a Web Developer"
   },
   {
-    "repo": "mukul975/cve-mcp-server",
-    "branch": "main",
-    "language": "Python",
-    "description": "Production-grade MCP server giving Claude 27 security intelligence tools across 21 APIs — CVE lookup, EPSS scoring, CISA KEV, MITRE ATT&CK, Shodan, VirusTotal, and more."
+    "repo": "postgres/postgres",
+    "branch": "master",
+    "language": "C",
+    "description": "Mirror of the official PostgreSQL GIT repository. Note that this is just a *mirror* - we don't work with pull requests on github. To contribute, please see https://wiki.postgresql.org/wiki/Submitting_a_Patch"
   },
   {
-    "repo": "IyadhKhalfallah/clauditor",
+    "repo": "midudev/alg0.dev",
     "branch": "main",
     "language": "TypeScript",
-    "description": "Stop Claude Code from burning through your quota in 20 minutes. Auto-rotates oversized sessions and preserves context."
+    "description": "alg0.dev is an interactive algorithm visualizer where classic algorithms come to life through step by step animations, controls to pause or advance, and access to the underlying code."
+  },
+  {
+    "repo": "SethGammon/Citadel",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "Agent orchestration harness for Claude Code. Four-tier routing (/do), campaign persistence across sessions, parallel agents in isolated worktrees, discovery relay between waves, lifecycle hooks, circuit breaker, and 6 production-quality skills. From solo developer to institutional scale."
+  },
+  {
+    "repo": "ant-design/ant-design-pro",
+    "branch": "master",
+    "language": "TypeScript",
+    "description": "👨🏻‍💻👩🏻‍💻 Use Ant Design like a Pro!"
+  },
+  {
+    "repo": "go-sql-driver/mysql",
+    "branch": "master",
+    "language": "Go",
+    "description": "Go MySQL Driver is a MySQL driver for Go's (golang) database/sql package"
+  },
+  {
+    "repo": "kubernetes/client-go",
+    "branch": "master",
+    "language": "Go",
+    "description": "Go client for Kubernetes."
+  },
+  {
+    "repo": "tendermint/tendermint",
+    "branch": "main",
+    "language": "Go",
+    "description": "⟁ Tendermint Core (BFT Consensus) in Go"
+  },
+  {
+    "repo": "brendanhogan/hermitclaw",
+    "branch": "main",
+    "language": "Python",
+    "description": ""
+  },
+  {
+    "repo": "hengfengliya/imgood",
+    "branch": "main",
+    "language": "CSS",
+    "description": ""
+  },
+  {
+    "repo": "daltoniam/Starscream",
+    "branch": "master",
+    "language": "Swift",
+    "description": "Websockets in swift for iOS and OSX"
+  },
+  {
+    "repo": "radix-ui/primitives",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Radix Primitives is an open-source UI component library for building high-quality, accessible design systems and web apps. Maintained by @workos."
+  },
+  {
+    "repo": "lapce/lapce",
+    "branch": "master",
+    "language": "Rust",
+    "description": "Lightning-fast and Powerful Code Editor written in Rust"
   }
 ]
