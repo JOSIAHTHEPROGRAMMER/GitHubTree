@@ -1,146 +1,146 @@
 [
   {
-    "repo": "ForLoopCodes/contextplus",
+    "repo": "thanos-io/thanos",
+    "branch": "main",
+    "language": "Go",
+    "description": "Highly available Prometheus setup with long term storage capabilities. A CNCF Incubating project."
+  },
+  {
+    "repo": "heri1845/ai-meme-trading-bot",
+    "branch": "main",
+    "language": "Go",
+    "description": "Automated trading system for Solana and Base meme coins with AI-powered strategy evaluation. AI trading, AI prediction, AI trading, AI predictiction"
+  },
+  {
+    "repo": "yaofeino1/tech-distiller",
+    "branch": "main",
+    "language": "Python",
+    "description": "把公司技术文档蒸馏成按职位方向过滤的结构化技术报告 | Inspired by colleague-skill & ex-skill"
+  },
+  {
+    "repo": "starkware-libs/cairo",
+    "branch": "main",
+    "language": "Rust",
+    "description": "Cairo is the first Turing-complete language for creating provable programs for general computation."
+  },
+  {
+    "repo": "colinhacks/zod",
+    "branch": "master",
+    "language": "TypeScript",
+    "description": "TypeScript-first schema validation with static type inference"
+  },
+  {
+    "repo": "grafana/grafana",
     "branch": "main",
     "language": "TypeScript",
-    "description": "Semantic Intelligence for Large-Scale Engineering. Context+ is an MCP server designed for developers who demand 99% accuracy. By combining Tree-sitter AST parsing, Spectral Clustering, and Obsidian-style linking, Context+ turns a massive codebase into a searchable, hierarchical feature graph."
+    "description": "The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more."
   },
   {
-    "repo": "erikdarlingdata/PerformanceMonitor",
-    "branch": "main",
-    "language": "C#",
-    "description": "Free, open-source SQL Server performance monitoring. Full Edition (server-installed, 30 collectors) and Lite Edition (standalone, DuckDB). Built-in MCP server for AI integration."
-  },
-  {
-    "repo": "CompVis/stable-diffusion",
-    "branch": "main",
-    "language": "Jupyter Notebook",
-    "description": "A latent text-to-image diffusion model"
-  },
-  {
-    "repo": "dazzyddos/ClickOnceBlobber",
-    "branch": "main",
-    "language": "Python",
-    "description": ""
-  },
-  {
-    "repo": "gradle/gradle",
+    "repo": "mysqljs/mysql",
     "branch": "master",
-    "language": "Groovy",
-    "description": "Adaptable, fast automation for all"
+    "language": "JavaScript",
+    "description": "A pure node.js JavaScript Client implementing the MySQL protocol."
   },
   {
-    "repo": "owenlejeune/ArrMatey",
+    "repo": "shiqiaoshangxue/aetheris",
     "branch": "main",
-    "language": "Kotlin",
+    "language": "JavaScript",
+    "description": "Aetheris 灵思 Agent — 全功能学术研究智能体（101 技能 / 60 科学数据库 / 论文管线 / 6 子智能体）"
+  },
+  {
+    "repo": "mgks/GitHubTree",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "Visualise any GitHub repository folder structure. Available as a web app, CLI tool, and node.js library."
+  },
+  {
+    "repo": "actuallyepic/background-computer-use",
+    "branch": "main",
+    "language": "Swift",
     "description": ""
   },
   {
-    "repo": "SamNet-dev/dnstm-setup",
-    "branch": "master",
-    "language": "Shell",
-    "description": "Interactive setup wizard for dnstm — automated DNS-based network configuration"
-  },
-  {
-    "repo": "pytest-dev/pytest",
+    "repo": "aiming-lab/MetaClaw",
     "branch": "main",
     "language": "Python",
-    "description": "The pytest framework makes it easy to write small tests, yet scales to support complex functional testing"
+    "description": "Just talk to your agent — it learns and EVOLVES."
   },
   {
-    "repo": "Panniantong/Agent-Reach",
+    "repo": "Dimillian/PokeSwift",
     "branch": "main",
-    "language": "Python",
-    "description": ""
+    "language": "Assembly",
+    "description": "A reimplementation of the Pokemon Red/Blue engine in Swift and SwiftUI"
   },
   {
-    "repo": "serenity-bdd/serenity-core",
+    "repo": "Michaelliv/markit",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "🖍️ Convert anything to markdown. Mark it."
+  },
+  {
+    "repo": "AnInsomniacy/motrix-next",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "The next chapter of Motrix — rebuilt from scratch with Tauri 2, Vue 3, and Rust"
+  },
+  {
+    "repo": "AlexGoOn/the-most-vulnerable-dotnet-app",
     "branch": "main",
     "language": "HTML",
-    "description": "Serenity BDD is a test automation library designed to make writing automated acceptance tests easier, and more fun."
+    "description": "This educational repository showcases the most common vulnerabilities found in .NET applications"
   },
   {
-    "repo": "Tencent/omi",
-    "branch": "master",
-    "language": "TypeScript",
-    "description": "Web Components Framework - Web组件框架"
-  },
-  {
-    "repo": "microsoft/Web-Dev-For-Beginners",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "24 Lessons, 12 Weeks, Get Started as a Web Developer"
-  },
-  {
-    "repo": "postgres/postgres",
-    "branch": "master",
-    "language": "C",
-    "description": "Mirror of the official PostgreSQL GIT repository. Note that this is just a *mirror* - we don't work with pull requests on github. To contribute, please see https://wiki.postgresql.org/wiki/Submitting_a_Patch"
-  },
-  {
-    "repo": "midudev/alg0.dev",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "alg0.dev is an interactive algorithm visualizer where classic algorithms come to life through step by step animations, controls to pause or advance, and access to the underlying code."
-  },
-  {
-    "repo": "SethGammon/Citadel",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "Agent orchestration harness for Claude Code. Four-tier routing (/do), campaign persistence across sessions, parallel agents in isolated worktrees, discovery relay between waves, lifecycle hooks, circuit breaker, and 6 production-quality skills. From solo developer to institutional scale."
-  },
-  {
-    "repo": "ant-design/ant-design-pro",
-    "branch": "master",
-    "language": "TypeScript",
-    "description": "👨🏻‍💻👩🏻‍💻 Use Ant Design like a Pro!"
-  },
-  {
-    "repo": "go-sql-driver/mysql",
-    "branch": "master",
-    "language": "Go",
-    "description": "Go MySQL Driver is a MySQL driver for Go's (golang) database/sql package"
-  },
-  {
-    "repo": "kubernetes/client-go",
-    "branch": "master",
-    "language": "Go",
-    "description": "Go client for Kubernetes."
-  },
-  {
-    "repo": "tendermint/tendermint",
-    "branch": "main",
-    "language": "Go",
-    "description": "⟁ Tendermint Core (BFT Consensus) in Go"
-  },
-  {
-    "repo": "brendanhogan/hermitclaw",
+    "repo": "cisco-ai-defense/defenseclaw",
     "branch": "main",
     "language": "Python",
-    "description": ""
+    "description": "Security Governance for Agentic AI"
   },
   {
-    "repo": "hengfengliya/imgood",
+    "repo": "huggingface/optimum",
     "branch": "main",
-    "language": "CSS",
-    "description": ""
+    "language": "Python",
+    "description": "🚀 Accelerate inference and training of 🤗 Transformers, Diffusers, TIMM and Sentence Transformers with easy to use hardware optimization tools"
   },
   {
-    "repo": "daltoniam/Starscream",
-    "branch": "master",
-    "language": "Swift",
-    "description": "Websockets in swift for iOS and OSX"
-  },
-  {
-    "repo": "radix-ui/primitives",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Radix Primitives is an open-source UI component library for building high-quality, accessible design systems and web apps. Maintained by @workos."
-  },
-  {
-    "repo": "lapce/lapce",
+    "repo": "qdrant/qdrant",
     "branch": "master",
     "language": "Rust",
-    "description": "Lightning-fast and Powerful Code Editor written in Rust"
+    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also available in the cloud https://cloud.qdrant.io/"
+  },
+  {
+    "repo": "stevibe/ToolCall-15",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": ""
+  },
+  {
+    "repo": "meltano/meltano",
+    "branch": "main",
+    "language": "Python",
+    "description": "Meltano: the declarative code-first data integration engine that powers your wildest data and ML-powered product ideas. Say goodbye to writing, maintaining, and scaling your own API integrations."
+  },
+  {
+    "repo": "typeorm/typeorm",
+    "branch": "master",
+    "language": "TypeScript",
+    "description": "ORM for TypeScript and JavaScript. Supports MySQL, PostgreSQL, MariaDB, SQLite, MS SQL Server, Oracle, SAP Hana, WebSQL databases. Works in NodeJS, Browser, Ionic, Cordova and Electron platforms."
+  },
+  {
+    "repo": "gorhom/react-native-bottom-sheet",
+    "branch": "master",
+    "language": "TypeScript",
+    "description": "A performant interactive bottom sheet with fully configurable options 🚀"
+  },
+  {
+    "repo": "nodejs/node",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "Node.js JavaScript runtime ✨🐢🚀✨"
+  },
+  {
+    "repo": "esaradev/icarus-daedalus",
+    "branch": "main",
+    "language": "Shell",
+    "description": "Icarus Memory Protocol -- universal agent memory in 50 lines. markdown files in a directory. any framework, any platform, shared memory. includes two-agent reference implementation with Telegram, Slack, and cross-platform recall."
   }
 ]

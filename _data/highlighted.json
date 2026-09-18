@@ -1,8 +1,8 @@
 {
-  "repo": "p1ass/textlint-rule-preset-ai-words-ja",
+  "repo": "lidge-jun/aside-codemode",
   "branch": "main",
-  "language": "TypeScript",
-  "description": "AI が書いた日本語に出てきやすい単語と言い回しを見つける textlint のプリセット",
-  "stars": 109,
-  "forks": 0
+  "language": "JavaScript",
+  "description": "One call where Aside used to spend fifty — rg-backed search, Aside-shaped file tools, and batched browser work inside a single sandboxed JavaScript block. On a real folder, 55s of find+grep became 1s.",
+  "stars": 113,
+  "forks": 12
 }
