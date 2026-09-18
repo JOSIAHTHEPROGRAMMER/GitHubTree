@@ -1,146 +1,146 @@
 [
   {
+    "repo": "clawvader-tech/hermes-telegram-miniapp",
+    "branch": "main",
+    "language": "HTML",
+    "description": "Terminal-style Telegram Mini App for Hermes Agent — chat, cron jobs, and system monitoring in a dark TUI"
+  },
+  {
+    "repo": "DestinyCycloid/chatgpt_register_v2_by_AI",
+    "branch": "main",
+    "language": "Python",
+    "description": ""
+  },
+  {
+    "repo": "LeoYeAI/openclaw-guardian",
+    "branch": "main",
+    "language": "Shell",
+    "description": "🛡️ Guardian watchdog for OpenClaw Gateway — auto-monitor, self-repair via doctor --fix, git-based rollback, daily snapshots, and Discord alerts. Powered by MyClaw.ai"
+  },
+  {
+    "repo": "Sac-tharan/The_Elder_Scrolls_Online_Auto-Farm",
+    "branch": "main",
+    "language": "Python",
+    "description": "Auto-farm, gathering, and quest bot for ESO. Farm gold, materials, and complete daily quests automatically. Perfect for grinding."
+  },
+  {
     "repo": "thanos-io/thanos",
     "branch": "main",
     "language": "Go",
     "description": "Highly available Prometheus setup with long term storage capabilities. A CNCF Incubating project."
   },
   {
-    "repo": "heri1845/ai-meme-trading-bot",
-    "branch": "main",
-    "language": "Go",
-    "description": "Automated trading system for Solana and Base meme coins with AI-powered strategy evaluation. AI trading, AI prediction, AI trading, AI predictiction"
-  },
-  {
-    "repo": "yaofeino1/tech-distiller",
-    "branch": "main",
-    "language": "Python",
-    "description": "把公司技术文档蒸馏成按职位方向过滤的结构化技术报告 | Inspired by colleague-skill & ex-skill"
-  },
-  {
-    "repo": "starkware-libs/cairo",
-    "branch": "main",
-    "language": "Rust",
-    "description": "Cairo is the first Turing-complete language for creating provable programs for general computation."
-  },
-  {
-    "repo": "colinhacks/zod",
-    "branch": "master",
-    "language": "TypeScript",
-    "description": "TypeScript-first schema validation with static type inference"
-  },
-  {
-    "repo": "grafana/grafana",
+    "repo": "chu2bard/pinion-os",
     "branch": "main",
     "language": "TypeScript",
-    "description": "The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more."
+    "description": "Client SDK, Claude plugin and skill framework for the Pinion protocol. x402 micropayments on Base."
   },
   {
-    "repo": "mysqljs/mysql",
-    "branch": "master",
-    "language": "JavaScript",
-    "description": "A pure node.js JavaScript Client implementing the MySQL protocol."
-  },
-  {
-    "repo": "shiqiaoshangxue/aetheris",
+    "repo": "elder-plinius/GLOSSOPETRAE",
     "branch": "main",
     "language": "JavaScript",
-    "description": "Aetheris 灵思 Agent — 全功能学术研究智能体（101 技能 / 60 科学数据库 / 论文管线 / 6 子智能体）"
+    "description": "LINGUISTIC ENGINE FOR AI"
   },
   {
-    "repo": "mgks/GitHubTree",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "Visualise any GitHub repository folder structure. Available as a web app, CLI tool, and node.js library."
-  },
-  {
-    "repo": "actuallyepic/background-computer-use",
-    "branch": "main",
-    "language": "Swift",
-    "description": ""
-  },
-  {
-    "repo": "aiming-lab/MetaClaw",
+    "repo": "marketingjuliancongdanh79-pixel/skill-generator",
     "branch": "main",
     "language": "Python",
-    "description": "Just talk to your agent — it learns and EVOLVES."
+    "description": "Bộ công cụ tạo AI Skill từ ý tưởng — Dành cho Antigravity, Claude Code, Cursor, Windsurf. Đánh giá 100/100 S-tier."
   },
   {
-    "repo": "Dimillian/PokeSwift",
+    "repo": "nepfaff/scenesmith",
     "branch": "main",
-    "language": "Assembly",
-    "description": "A reimplementation of the Pokemon Red/Blue engine in Swift and SwiftUI"
+    "language": "Python",
+    "description": "Code for SceneSmith: Agentic Generation of Simulation-Ready Indoor Scenes"
   },
   {
-    "repo": "Michaelliv/markit",
+    "repo": "pshycodr/airctl",
+    "branch": "main",
+    "language": "Python",
+    "description": "AIRCTL, a modern WiFi management tool for Linux built with GTK4 and Python. It provides a clean interface to scan, connect, and manage wireless networks."
+  },
+  {
+    "repo": "btahir/react-kino",
     "branch": "main",
     "language": "TypeScript",
-    "description": "🖍️ Convert anything to markdown. Mark it."
+    "description": "Cinematic scroll-driven storytelling for React"
   },
   {
-    "repo": "AnInsomniacy/motrix-next",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "The next chapter of Motrix — rebuilt from scratch with Tauri 2, Vue 3, and Rust"
-  },
-  {
-    "repo": "AlexGoOn/the-most-vulnerable-dotnet-app",
-    "branch": "main",
-    "language": "HTML",
-    "description": "This educational repository showcases the most common vulnerabilities found in .NET applications"
-  },
-  {
-    "repo": "cisco-ai-defense/defenseclaw",
-    "branch": "main",
-    "language": "Python",
-    "description": "Security Governance for Agentic AI"
-  },
-  {
-    "repo": "huggingface/optimum",
-    "branch": "main",
-    "language": "Python",
-    "description": "🚀 Accelerate inference and training of 🤗 Transformers, Diffusers, TIMM and Sentence Transformers with easy to use hardware optimization tools"
-  },
-  {
-    "repo": "qdrant/qdrant",
-    "branch": "master",
-    "language": "Rust",
-    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also available in the cloud https://cloud.qdrant.io/"
-  },
-  {
-    "repo": "stevibe/ToolCall-15",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": ""
-  },
-  {
-    "repo": "meltano/meltano",
-    "branch": "main",
-    "language": "Python",
-    "description": "Meltano: the declarative code-first data integration engine that powers your wildest data and ML-powered product ideas. Say goodbye to writing, maintaining, and scaling your own API integrations."
-  },
-  {
-    "repo": "typeorm/typeorm",
+    "repo": "dev-protocol/polymarket-copytrading-bot-sport",
     "branch": "master",
     "language": "TypeScript",
-    "description": "ORM for TypeScript and JavaScript. Supports MySQL, PostgreSQL, MariaDB, SQLite, MS SQL Server, Oracle, SAP Hana, WebSQL databases. Works in NodeJS, Browser, Ionic, Cordova and Electron platforms."
+    "description": "This Polymarket Copy Trading Bot is designed to diversify across different prediction markets, minimizing exposure to any single market’s volatility. CLUE: @polymarket copytrading bot || #polymarket trading bot || @polymarket copytrading bot || #polymarket trading bot || @polymarket copytrading bot || #polymarket trading bot || polymarket copytrade"
   },
   {
-    "repo": "gorhom/react-native-bottom-sheet",
-    "branch": "master",
-    "language": "TypeScript",
-    "description": "A performant interactive bottom sheet with fully configurable options 🚀"
-  },
-  {
-    "repo": "nodejs/node",
+    "repo": "LYiHub/AR-Mahjong-Assistant-preview",
     "branch": "main",
-    "language": "JavaScript",
-    "description": "Node.js JavaScript runtime ✨🐢🚀✨"
+    "language": "Python",
+    "description": "一个基于向听算法的AR眼镜端麻将助手"
   },
   {
-    "repo": "esaradev/icarus-daedalus",
+    "repo": "jyoung105/frouter",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Free model router CLI to discover, benchmark, and configure free AI models for OpenCode and OpenClaw"
+  },
+  {
+    "repo": "PostgREST/postgrest",
+    "branch": "main",
+    "language": "Haskell",
+    "description": "REST API for any Postgres database"
+  },
+  {
+    "repo": "dev-protocol/polymarket-copy-bot",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Polymarket Copy Trading Bot, Polymarket Copy Trading Bot, Polymarket Copy Trading Bot, Polymarket Copy Trading Bot, Polymarket Copy Trading Bot, Polymarket Copy Trading Bot, Polymarket Copy Trading Bot, Polymarket Copy Trading Bot, Polymarket Copy Trading Bot, Polymarket Copy Trading Bot, Polymarket Copy Trading Bot, Polymarket Copy Trading Bot"
+  },
+  {
+    "repo": "erenjugs/OpenGork",
     "branch": "main",
     "language": "Shell",
-    "description": "Icarus Memory Protocol -- universal agent memory in 50 lines. markdown files in a directory. any framework, any platform, shared memory. includes two-agent reference implementation with Telegram, Slack, and cross-platform recall."
+    "description": "🧠 Uncensored AI agent powered by xAI's Grok - no filters, no limits"
+  },
+  {
+    "repo": "pinchtab/pinchtab",
+    "branch": "main",
+    "language": "Go",
+    "description": ""
+  },
+  {
+    "repo": "randallscott25-star/epstein-forensic-finance",
+    "branch": "main",
+    "language": "HTML",
+    "description": "Epstein Financial Forensics Automated forensic financial reconstruction from 1.48 million DOJ EFTA documents + 503K cataloged media items"
+  },
+  {
+    "repo": "jayminwest/overstory",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Project-agnostic swarm system for Claude Code agent orchestration"
+  },
+  {
+    "repo": "airbnb/lottie-android",
+    "branch": "master",
+    "language": "Java",
+    "description": "Render After Effects animations natively on Android and iOS, Web, and React Native"
+  },
+  {
+    "repo": "google/or-tools",
+    "branch": "stable",
+    "language": "C++",
+    "description": "Google's Operations Research tools:"
+  },
+  {
+    "repo": "mdp/linkedin-extension-fingerprinting",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": ""
+  },
+  {
+    "repo": "open-policy-agent/gatekeeper",
+    "branch": "master",
+    "language": "Go",
+    "description": "🐊 Policy Controller for Kubernetes"
   }
 ]

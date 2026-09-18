@@ -1,8 +1,8 @@
 {
-  "repo": "lidge-jun/aside-codemode",
+  "repo": "suversal/WrapPin",
   "branch": "main",
-  "language": "JavaScript",
-  "description": "One call where Aside used to spend fifty — rg-backed search, Aside-shaped file tools, and batched browser work inside a single sandboxed JavaScript block. On a real folder, 55s of find+grep became 1s.",
-  "stars": 113,
-  "forks": 12
+  "language": "Swift",
+  "description": "iOS 27+ 本机虚拟定位与步行路线测试工具",
+  "stars": 114,
+  "forks": 30
 }
