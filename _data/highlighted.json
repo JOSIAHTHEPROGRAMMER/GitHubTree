@@ -1,8 +1,8 @@
 {
-  "repo": "adonis-singh/re4",
-  "branch": "master",
-  "language": "C++",
-  "description": "Resident Evil 4 (GameCube, G4BE08 debug build) — complete byte-identical decompilation to C/C++",
-  "stars": 127,
-  "forks": 11
+  "repo": "Work-Fisher/AIFISHER",
+  "branch": "main",
+  "language": "TypeScript",
+  "description": "AIFISHER 画布 · 2.0 起源：连接 AI 模型、ComfyUI 与 RunningHub 的本地创作画布。源码公开，仅限非商业用途，禁止接单与倒卖。",
+  "stars": 120,
+  "forks": 24
 }

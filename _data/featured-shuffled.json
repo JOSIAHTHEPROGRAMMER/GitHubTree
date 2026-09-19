@@ -1,146 +1,146 @@
 [
   {
-    "repo": "jaredpalmer/kev",
-    "branch": "main",
+    "repo": "xinxinshuhao-create/grok-register",
+    "branch": "master",
     "language": "Python",
-    "description": "tiny Jev-like model built on top of Qwen2.5-0.5B you can train and run on your MacBook"
+    "description": "Automated account registration toolkit for x.ai (Grok) with SSO extraction, OAuth Device Flow, and auto-replenish daemon"
   },
   {
-    "repo": "ktorio/ktor",
+    "repo": "listyantidewi1/your-everyday-tools",
     "branch": "main",
-    "language": "Kotlin",
-    "description": "Framework for quickly creating connected applications in Kotlin with minimal effort"
+    "language": "HTML",
+    "description": ""
   },
   {
-    "repo": "acedef/SynthAPT",
-    "branch": "master",
-    "language": "Rust",
-    "description": "Generate malware with AI"
-  },
-  {
-    "repo": "infraform/polymarket-arbitrage-trading-bot",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "polymarket arbitrage bot, polymarket arbitrage bot, polymarket arbitrage bot, polymarket arbitrage bot, polymarket arbitrage bot, polymarket arbitrage bot, polymarket arbitrage bot, polymarket arbitrage bot, polymarket arbitrage bot, polymarket arbitrage bot, polymarket arbitrage bot, polymarket arbitrage bot, polymarket arbitrage bot"
-  },
-  {
-    "repo": "originalankur/GenerateAgents.md",
-    "branch": "main",
-    "language": "Python",
-    "description": "Automated generation of comprehensive Agents.md for LLMs, driven by the DSPy Recursive language model implementation."
-  },
-  {
-    "repo": "kamranahmedse/developer-roadmap",
-    "branch": "master",
-    "language": "TypeScript",
-    "description": "Interactive roadmaps, guides and other educational content to help developers grow in their careers."
-  },
-  {
-    "repo": "Daniel-Dias001/Polymarket-rsi-macd-index-trading-bot",
-    "branch": "master",
-    "language": "Rust",
-    "description": "Real-time polymarket trading bot that combines monitoring with strategy logic for Polymarket's 15-minute prediction markets."
-  },
-  {
-    "repo": "hashicorp/vault",
-    "branch": "main",
-    "language": "Go",
-    "description": "A tool for secrets management, encryption as a service, and privileged access management"
-  },
-  {
-    "repo": "TraderAlice/OpenAlice",
-    "branch": "master",
-    "language": "TypeScript",
-    "description": "File-driven AI trading agent engine for crypto and securities markets"
-  },
-  {
-    "repo": "apollographql/apollo-client",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "The industry-leading GraphQL client for TypeScript, JavaScript, React, Vue, Angular, and more. Apollo Client delivers powerful caching, intuitive APIs, and comprehensive developer tools to accelerate your app development."
-  },
-  {
-    "repo": "hamelsmu/claude-review-loop",
+    "repo": "krisrice/oracle-db-skills",
     "branch": "main",
     "language": "Shell",
-    "description": "Claude Code plugin: automated code review loop with Codex"
+    "description": "Oracle DB Skills is a curated library of 100+ practical, documentation-backed guides for working with Oracle Database, organized by domain"
   },
   {
-    "repo": "stanfordnlp/stanza",
-    "branch": "main",
+    "repo": "microsoft/LightGBM",
+    "branch": "master",
+    "language": "C++",
+    "description": "A fast, distributed, high performance gradient boosting (GBT, GBDT, GBRT, GBM or MART) framework based on decision tree algorithms, used for ranking, classification and many other machine learning tasks."
+  },
+  {
+    "repo": "plotly/dash",
+    "branch": "dev",
     "language": "Python",
-    "description": "Stanford NLP Python library for tokenization, sentence segmentation, NER, and parsing of many human languages"
+    "description": "Data Apps & Dashboards for Python. No JavaScript Required."
   },
   {
-    "repo": "vikasprogrammer/walkie",
+    "repo": "solana-labs/solana-program-library",
+    "branch": "master",
+    "language": "Rust",
+    "description": "A collection of Solana programs maintained by Solana Labs"
+  },
+  {
+    "repo": "gravitational/teleport",
+    "branch": "master",
+    "language": "Go",
+    "description": "The easiest, and most secure way to access and protect all of your infrastructure."
+  },
+  {
+    "repo": "gorkem-bwl/animated-icons",
     "branch": "main",
     "language": "JavaScript",
-    "description": "P2P communication for AI agents. No server. No setup. Just talk."
+    "description": ""
   },
   {
-    "repo": "ahaodev/shadmin",
+    "repo": "uluckyXH/OpenMOSS",
+    "branch": "main",
+    "language": "Python",
+    "description": "A self-organizing multi-agent collaboration platform for OpenClaw. Multiple AI agents work as an autonomous team — planning, executing, reviewing, and patrolling tasks with zero human intervention."
+  },
+  {
+    "repo": "Rabrg/artificial-life",
+    "branch": "main",
+    "language": "Python",
+    "description": "A simple (300 lines of code) reproduction of Computational Life: How Well-formed, Self-replicating Programs Emerge from Simple Interaction"
+  },
+  {
+    "repo": "activepieces/activepieces",
     "branch": "main",
     "language": "TypeScript",
-    "description": "An Enterprise-Grade Full-Stack RBAC Permission Management System Built with Go + React"
+    "description": "AI Agents & MCPs & AI Workflow Automation • (~400 MCP servers for AI agents) • AI Automation / AI Agent with MCPs • AI Workflows & AI Agents • MCPs for AI Agents"
   },
   {
-    "repo": "CopilotKit/OpenGenerativeUI",
+    "repo": "brunch/brunch",
+    "branch": "master",
+    "language": "JavaScript",
+    "description": "🍴 Web applications made easy. Since 2011."
+  },
+  {
+    "repo": "zmeyer44/Locker",
     "branch": "main",
-    "language": "TypeScript",
-    "description": "Open-Source Generative UI Framework"
+    "language": "JavaScript",
+    "description": ""
   },
   {
-    "repo": "alebcay/awesome-shell",
+    "repo": "OffchainLabs/arbitrum",
     "branch": "master",
     "language": "Other",
-    "description": "A curated list of awesome command-line frameworks, toolkits, guides and gizmos. Inspired by awesome-php."
+    "description": "Arbitrum is a Layer 2 scaling solution for Ethereum."
   },
   {
-    "repo": "RasaHQ/rasa",
+    "repo": "unjs/h3",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "⚡️ Minimal H(TTP) framework built for high performance and portability"
+  },
+  {
+    "repo": "fjh1997/Linux.do-Accelerator",
+    "branch": "main",
+    "language": "Rust",
+    "description": "一个原生 Rust 的 linux.do 专属加速器，基于本地 ECH/DoH 处理，支持 CLI + 桌面 GUI。 Native Rust accelerator for linux.do with local ECH/DoH-assisted access, CLI + desktop GUI."
+  },
+  {
+    "repo": "userland-run/nano",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "nano — Run real Node.js and other statically linked Linux binaries directly in the browser via a tiny RISC-V user-mode Linux interpreter compiled to WebAssembly. No containers. No servers. Pure client-side execution."
+  },
+  {
+    "repo": "linkerd/linkerd2",
+    "branch": "main",
+    "language": "Go",
+    "description": "Ultralight, security-first service mesh for Kubernetes. Main repo for Linkerd 2.x."
+  },
+  {
+    "repo": "wy51ai/moltbotCNAPP",
+    "branch": "main",
+    "language": "Go",
+    "description": ""
+  },
+  {
+    "repo": "dogadmin/ProcIR",
+    "branch": "main",
+    "language": "Go",
+    "description": ""
+  },
+  {
+    "repo": "m1heng/claude-plugin-weixin",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": ""
+  },
+  {
+    "repo": "SharifiZarchi/janfadaa",
+    "branch": "main",
+    "language": "HTML",
+    "description": ""
+  },
+  {
+    "repo": "titanwings/colleague-skill",
     "branch": "main",
     "language": "Python",
-    "description": "💬   Open source machine learning framework to automate text- and voice-based conversations: NLU, dialogue management, connect to Slack, Facebook, and more - Create chatbots and voice assistants"
+    "description": "你们搞大模型的就是码奸，你们已经害死前端兄弟了，还要害死后端兄弟，测试兄弟，运维兄弟，害死网安兄弟，害死ic兄弟，最后害死自己害死全人类"
   },
   {
-    "repo": "FireRedTeam/FireRedASR2S",
+    "repo": "derHaken/SuperAntigravity",
     "branch": "main",
-    "language": "Python",
-    "description": "FireRedASR2S is a SOTA Industrial-Grade All-in-One ASR system with ASR, VAD, LID, and Punc modules. FireRedASR2 supports Chinese (Mandarin, 20+ dialects/accents), English, code-switching, and singing lyrics recognition. FireRedVAD supports speech/singing/music in 100+ langs. FireRedLID supports 100+ langs and 20+ zh dialects."
-  },
-  {
-    "repo": "xstongxue/best-skills",
-    "branch": "main",
-    "language": "Python",
-    "description": "通用高质量 Skills 合集🔥"
-  },
-  {
-    "repo": "papers-we-love/papers-we-love",
-    "branch": "master",
     "language": "Shell",
-    "description": "Papers from the computer science community to read and discuss."
-  },
-  {
-    "repo": "PaddlePaddle/PaddleNLP",
-    "branch": "develop",
-    "language": "Python",
-    "description": "Easy-to-use and powerful LLM and SLM library with awesome model zoo."
-  },
-  {
-    "repo": "paramiko/paramiko",
-    "branch": "main",
-    "language": "Python",
-    "description": "The leading native Python SSHv2 protocol library."
-  },
-  {
-    "repo": "graphql/graphql-js",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "A reference implementation of GraphQL for JavaScript"
-  },
-  {
-    "repo": "jackwener/opencli",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Make any website your CLI. A powerful, AI-native runtime for seamless browser automation and dynamic web data extraction."
+    "description": "Superpowers + SuperClaude for Google Antigravity IDE"
   }
 ]
