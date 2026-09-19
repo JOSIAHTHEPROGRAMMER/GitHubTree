@@ -1,146 +1,146 @@
 [
   {
-    "repo": "apache/airflow",
+    "repo": "jaredpalmer/kev",
     "branch": "main",
     "language": "Python",
-    "description": "Apache Airflow - A platform to programmatically author, schedule, and monitor workflows"
+    "description": "tiny Jev-like model built on top of Qwen2.5-0.5B you can train and run on your MacBook"
   },
   {
-    "repo": "smileyprathu/Color_Picker",
+    "repo": "ktorio/ktor",
     "branch": "main",
-    "language": "Python",
-    "description": "Pick colors from anywhere on screen, get hex/RGB values, and build color palettes. Perfect for designers."
+    "language": "Kotlin",
+    "description": "Framework for quickly creating connected applications in Kotlin with minimal effort"
   },
   {
-    "repo": "ggerganov/llama.cpp",
+    "repo": "acedef/SynthAPT",
     "branch": "master",
-    "language": "C++",
-    "description": "LLM inference in C/C++"
-  },
-  {
-    "repo": "theori-io/copy-fail-CVE-2026-31431",
-    "branch": "main",
-    "language": "Python",
-    "description": ""
-  },
-  {
-    "repo": "sveltejs/svelte",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "web development for the rest of us"
-  },
-  {
-    "repo": "penso/arbor",
-    "branch": "main",
     "language": "Rust",
-    "description": "Desktop Git worktree manager in Rust (arbor-core + GPUI app)."
+    "description": "Generate malware with AI"
   },
   {
-    "repo": "TheAlgorithms/Python",
-    "branch": "master",
-    "language": "Python",
-    "description": "All Algorithms implemented in Python"
-  },
-  {
-    "repo": "iamzifei/bookmark-is-learned",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "收藏到就是学到，解决光收藏不看的问题。收藏的当下立刻学习或者丢弃"
-  },
-  {
-    "repo": "xywml/PaperGrid",
+    "repo": "infraform/polymarket-arbitrage-trading-bot",
     "branch": "main",
     "language": "TypeScript",
-    "description": "执笔为剑  - 一款基于NEXT.js的轻量化博客"
+    "description": "polymarket arbitrage bot, polymarket arbitrage bot, polymarket arbitrage bot, polymarket arbitrage bot, polymarket arbitrage bot, polymarket arbitrage bot, polymarket arbitrage bot, polymarket arbitrage bot, polymarket arbitrage bot, polymarket arbitrage bot, polymarket arbitrage bot, polymarket arbitrage bot, polymarket arbitrage bot"
   },
   {
-    "repo": "ConardLi/rag-skill",
+    "repo": "originalankur/GenerateAgents.md",
     "branch": "main",
     "language": "Python",
-    "description": "A Skill dedicated to local knowledge base retrieval"
+    "description": "Automated generation of comprehensive Agents.md for LLMs, driven by the DSPy Recursive language model implementation."
   },
   {
-    "repo": "cloudwego/hertz",
+    "repo": "kamranahmedse/developer-roadmap",
+    "branch": "master",
+    "language": "TypeScript",
+    "description": "Interactive roadmaps, guides and other educational content to help developers grow in their careers."
+  },
+  {
+    "repo": "Daniel-Dias001/Polymarket-rsi-macd-index-trading-bot",
+    "branch": "master",
+    "language": "Rust",
+    "description": "Real-time polymarket trading bot that combines monitoring with strategy logic for Polymarket's 15-minute prediction markets."
+  },
+  {
+    "repo": "hashicorp/vault",
     "branch": "main",
     "language": "Go",
-    "description": "Go HTTP framework with high-performance and strong-extensibility for building micro-services."
+    "description": "A tool for secrets management, encryption as a service, and privileged access management"
   },
   {
-    "repo": "lllyasviel/Fooocus",
-    "branch": "main",
-    "language": "Python",
-    "description": "Focus on prompting and generating"
-  },
-  {
-    "repo": "dogadmin/ProcIR",
-    "branch": "main",
-    "language": "Go",
-    "description": ""
-  },
-  {
-    "repo": "tldev/posturr",
-    "branch": "main",
-    "language": "Swift",
-    "description": "A macOS app that blurs your screen when you slouch. Uses Vision framework for real-time posture detection."
-  },
-  {
-    "repo": "beeware/briefcase",
-    "branch": "main",
-    "language": "Python",
-    "description": "Tools to support converting a Python project into a standalone native application."
-  },
-  {
-    "repo": "rohitg00/awesome-claude-code-toolkit",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "The most comprehensive toolkit for Claude Code -- 135 agents, 35 curated skills (+15,000 via SkillKit), 42 commands, 120 plugins, 19 hooks, 15 rules, 7 templates, 6 MCP configs, and more."
-  },
-  {
-    "repo": "Solido/awesome-flutter",
-    "branch": "master",
-    "language": "Dart",
-    "description": "An awesome list that curates the best Flutter libraries, tools, tutorials, articles and more."
-  },
-  {
-    "repo": "amadeusprotocol/polymarket-trading-bot",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": ""
-  },
-  {
-    "repo": "uedk9p/sora2-watermark-remover",
-    "branch": "main",
-    "language": "Python",
-    "description": "sora2 watermark remover"
-  },
-  {
-    "repo": "friendlymatthew/gabagool",
-    "branch": "main",
-    "language": "Rust",
-    "description": "Snapshotable WebAssembly interpreter from scratch"
-  },
-  {
-    "repo": "jarodise/pdf2epub-paddle",
-    "branch": "main",
-    "language": "Python",
-    "description": ""
-  },
-  {
-    "repo": "lucasastorian/llmwiki",
+    "repo": "TraderAlice/OpenAlice",
     "branch": "master",
     "language": "TypeScript",
-    "description": "Open Source Implementation of Karpathy's LLM Wiki. Upload documents, connect your Claude account via MCP, and have it write your wiki !"
+    "description": "File-driven AI trading agent engine for crypto and securities markets"
   },
   {
-    "repo": "michelleoincx/zeroclaw-grok",
+    "repo": "apollographql/apollo-client",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "The industry-leading GraphQL client for TypeScript, JavaScript, React, Vue, Angular, and more. Apollo Client delivers powerful caching, intuitive APIs, and comprehensive developer tools to accelerate your app development."
+  },
+  {
+    "repo": "hamelsmu/claude-review-loop",
+    "branch": "main",
+    "language": "Shell",
+    "description": "Claude Code plugin: automated code review loop with Codex"
+  },
+  {
+    "repo": "stanfordnlp/stanza",
+    "branch": "main",
+    "language": "Python",
+    "description": "Stanford NLP Python library for tokenization, sentence segmentation, NER, and parsing of many human languages"
+  },
+  {
+    "repo": "vikasprogrammer/walkie",
     "branch": "main",
     "language": "JavaScript",
-    "description": "ZeroClaw — sleek web interface for Grok AI (xAI). Streaming responses, multi-session chat, model selector. Zero npm dependencies. Runs with one command."
+    "description": "P2P communication for AI agents. No server. No setup. Just talk."
   },
   {
-    "repo": "codejunkie99/agentic-stack",
+    "repo": "ahaodev/shadmin",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "An Enterprise-Grade Full-Stack RBAC Permission Management System Built with Go + React"
+  },
+  {
+    "repo": "CopilotKit/OpenGenerativeUI",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Open-Source Generative UI Framework"
+  },
+  {
+    "repo": "alebcay/awesome-shell",
     "branch": "master",
+    "language": "Other",
+    "description": "A curated list of awesome command-line frameworks, toolkits, guides and gizmos. Inspired by awesome-php."
+  },
+  {
+    "repo": "RasaHQ/rasa",
+    "branch": "main",
     "language": "Python",
-    "description": "One brain, many harnesses. Portable .agent/ folder (memory + skills + protocols) that plugs into Claude Code, Cursor, Windsurf, OpenCode, OpenClaw, Hermes, or DIY Python — and keeps its knowledge when you switch."
+    "description": "💬   Open source machine learning framework to automate text- and voice-based conversations: NLU, dialogue management, connect to Slack, Facebook, and more - Create chatbots and voice assistants"
+  },
+  {
+    "repo": "FireRedTeam/FireRedASR2S",
+    "branch": "main",
+    "language": "Python",
+    "description": "FireRedASR2S is a SOTA Industrial-Grade All-in-One ASR system with ASR, VAD, LID, and Punc modules. FireRedASR2 supports Chinese (Mandarin, 20+ dialects/accents), English, code-switching, and singing lyrics recognition. FireRedVAD supports speech/singing/music in 100+ langs. FireRedLID supports 100+ langs and 20+ zh dialects."
+  },
+  {
+    "repo": "xstongxue/best-skills",
+    "branch": "main",
+    "language": "Python",
+    "description": "通用高质量 Skills 合集🔥"
+  },
+  {
+    "repo": "papers-we-love/papers-we-love",
+    "branch": "master",
+    "language": "Shell",
+    "description": "Papers from the computer science community to read and discuss."
+  },
+  {
+    "repo": "PaddlePaddle/PaddleNLP",
+    "branch": "develop",
+    "language": "Python",
+    "description": "Easy-to-use and powerful LLM and SLM library with awesome model zoo."
+  },
+  {
+    "repo": "paramiko/paramiko",
+    "branch": "main",
+    "language": "Python",
+    "description": "The leading native Python SSHv2 protocol library."
+  },
+  {
+    "repo": "graphql/graphql-js",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "A reference implementation of GraphQL for JavaScript"
+  },
+  {
+    "repo": "jackwener/opencli",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Make any website your CLI. A powerful, AI-native runtime for seamless browser automation and dynamic web data extraction."
   }
 ]

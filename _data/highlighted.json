@@ -1,8 +1,8 @@
 {
-  "repo": "NiazMorshed2007/jev-review",
-  "branch": "main",
-  "language": "TypeScript",
-  "description": "Local-first MCP plugin for continuous software-quality review by AI coding agents, powered by Jev.",
-  "stars": 134,
-  "forks": 12
+  "repo": "adonis-singh/re4",
+  "branch": "master",
+  "language": "C++",
+  "description": "Resident Evil 4 (GameCube, G4BE08 debug build) — complete byte-identical decompilation to C/C++",
+  "stars": 127,
+  "forks": 11
 }
