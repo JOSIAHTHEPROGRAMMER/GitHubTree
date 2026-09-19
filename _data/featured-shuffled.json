@@ -1,63 +1,45 @@
 [
   {
-    "repo": "kautukkundan/Awesome-Profile-README-templates",
-    "branch": "master",
-    "language": "JavaScript",
-    "description": "A collection of awesome readme templates to display on your profile"
-  },
-  {
-    "repo": "valkor-ai/loom",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "An open delivery harness that turns Claude Code, Codex, OpenCode, and other coding agents into repeatable software delivery systems."
-  },
-  {
-    "repo": "leonyx007/Polymarket-Trading-Bot-Rust",
-    "branch": "main",
-    "language": "Rust",
-    "description": "polymarket bot polymarket trading bot polymarket arbitrage bot polymarket trading bot polymarket rust trading bot polymarket trading bot v2 polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket arb trading bot polymarket 5min trading bot 15min btc trading bot"
-  },
-  {
-    "repo": "xinyitang3/cfnb",
+    "repo": "apache/airflow",
     "branch": "main",
     "language": "Python",
-    "description": "这是一个全自动的 Cloudflare CDN 节点优选工具。它通过 TCP 延迟筛选 + IP 可用性二次检测 + 真实带宽测速 + IP 纯净度过滤 四重机制，从海量公开节点中筛选出当前网络环境下速度最快、可用性最高、滥用评分最低的 Cloudflare IP，并支持自动更新至 Cloudflare DNS 以及同步至 GitHub 仓库，同时支持微信实时通知。"
+    "description": "Apache Airflow - A platform to programmatically author, schedule, and monitor workflows"
   },
   {
-    "repo": "tianxingleo/ACGTI",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "ACG Type Indicator - MBTI inspired anime persona quiz"
-  },
-  {
-    "repo": "steipete/birdclaw",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Stores all your tweets nicely claw-able for agents."
-  },
-  {
-    "repo": "MoonshotAI/FlashKDA",
-    "branch": "master",
-    "language": "Cuda",
-    "description": "FlashKDA: high-performance Kimi Delta Attention kernels"
-  },
-  {
-    "repo": "pypa/pipx",
+    "repo": "smileyprathu/Color_Picker",
     "branch": "main",
     "language": "Python",
-    "description": "Install and Run Python Applications in Isolated Environments"
+    "description": "Pick colors from anywhere on screen, get hex/RGB values, and build color palettes. Perfect for designers."
   },
   {
-    "repo": "diesel-rs/diesel",
+    "repo": "ggerganov/llama.cpp",
     "branch": "master",
-    "language": "Rust",
-    "description": "A safe, extensible ORM and Query Builder for Rust"
+    "language": "C++",
+    "description": "LLM inference in C/C++"
   },
   {
-    "repo": "jashkenas/backbone",
-    "branch": "master",
+    "repo": "theori-io/copy-fail-CVE-2026-31431",
+    "branch": "main",
+    "language": "Python",
+    "description": ""
+  },
+  {
+    "repo": "sveltejs/svelte",
+    "branch": "main",
     "language": "JavaScript",
-    "description": "Give your JS App some Backbone with Models, Views, Collections, and Events"
+    "description": "web development for the rest of us"
+  },
+  {
+    "repo": "penso/arbor",
+    "branch": "main",
+    "language": "Rust",
+    "description": "Desktop Git worktree manager in Rust (arbor-core + GPUI app)."
+  },
+  {
+    "repo": "TheAlgorithms/Python",
+    "branch": "master",
+    "language": "Python",
+    "description": "All Algorithms implemented in Python"
   },
   {
     "repo": "iamzifei/bookmark-is-learned",
@@ -66,81 +48,99 @@
     "description": "收藏到就是学到，解决光收藏不看的问题。收藏的当下立刻学习或者丢弃"
   },
   {
-    "repo": "endless-sky-team/ai-trading-agent",
-    "branch": "master",
-    "language": "TypeScript",
-    "description": "llm trading bot ai agent crypto bitcoin ethereum perpetuals openrouter lighter algorithmic automated quant typescript react postgres bun fintech defi machine-learning open-source crypto-bot signals"
-  },
-  {
-    "repo": "LadybirdBrowser/ladybird",
-    "branch": "master",
-    "language": "C++",
-    "description": "Truly independent web browser"
-  },
-  {
-    "repo": "sonpiaz/evox",
+    "repo": "xywml/PaperGrid",
     "branch": "main",
     "language": "TypeScript",
-    "description": ""
+    "description": "执笔为剑  - 一款基于NEXT.js的轻量化博客"
   },
   {
-    "repo": "leon-ai/leon",
-    "branch": "develop",
-    "language": "TypeScript",
-    "description": "🧠 Leon is your open-source personal assistant."
-  },
-  {
-    "repo": "maderix/ANE",
-    "branch": "main",
-    "language": "Objective-C",
-    "description": "Training neural networks on Apple Neural Engine via reverse-engineered private APIs"
-  },
-  {
-    "repo": "SamNet-dev/paqctl",
-    "branch": "main",
-    "language": "Shell",
-    "description": "Unified proxy manager for bypassing firewalls - supports Paqet (KCP/raw socket) and GFW-Knocker (violated TCP/QUIC) with dual-backend simultaneous operation"
-  },
-  {
-    "repo": "D1a0y1bb/CloverSec-CTF-Build-Dockerizer-skill",
+    "repo": "ConardLi/rag-skill",
     "branch": "main",
     "language": "Python",
-    "description": "四叶草安全-创研中心竞赛专用题目容器构建Skills，面向 CTF Jeopardy 的容器交付引擎：自动探测栈、生成合规题目镜像构建文件、执行规则校验并给出可修复建议，实现标准化工作流程的质量对齐。"
+    "description": "A Skill dedicated to local knowledge base retrieval"
   },
   {
-    "repo": "codetrybe/polymarket-copy-trading-bot",
+    "repo": "cloudwego/hertz",
     "branch": "main",
-    "language": "TypeScript",
-    "description": "polymarket copy trading bot polymarket copytrading bot"
+    "language": "Go",
+    "description": "Go HTTP framework with high-performance and strong-extensibility for building micro-services."
   },
   {
-    "repo": "fuma-nama/fumadocs",
+    "repo": "lllyasviel/Fooocus",
     "branch": "main",
-    "language": "TypeScript",
-    "description": "The beautiful & flexible React.js docs framework."
+    "language": "Python",
+    "description": "Focus on prompting and generating"
   },
   {
-    "repo": "snoglobe/helios",
+    "repo": "dogadmin/ProcIR",
+    "branch": "main",
+    "language": "Go",
+    "description": ""
+  },
+  {
+    "repo": "tldev/posturr",
+    "branch": "main",
+    "language": "Swift",
+    "description": "A macOS app that blurs your screen when you slouch. Uses Vision framework for real-time posture detection."
+  },
+  {
+    "repo": "beeware/briefcase",
+    "branch": "main",
+    "language": "Python",
+    "description": "Tools to support converting a Python project into a standalone native application."
+  },
+  {
+    "repo": "rohitg00/awesome-claude-code-toolkit",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "The most comprehensive toolkit for Claude Code -- 135 agents, 35 curated skills (+15,000 via SkillKit), 42 commands, 120 plugins, 19 hooks, 15 rules, 7 templates, 6 MCP configs, and more."
+  },
+  {
+    "repo": "Solido/awesome-flutter",
+    "branch": "master",
+    "language": "Dart",
+    "description": "An awesome list that curates the best Flutter libraries, tools, tutorials, articles and more."
+  },
+  {
+    "repo": "amadeusprotocol/polymarket-trading-bot",
     "branch": "main",
     "language": "TypeScript",
     "description": ""
   },
   {
-    "repo": "samanalalokaya/polymarket-copy-trading-bot",
-    "branch": "master",
-    "language": "JavaScript",
-    "description": "Copies trades from a target Polymarket wallet to your own. Watches the target via REST or WebSocket, then places matching orders (scaled by a multiplier) using the Polymarket CLOB. CLUE: polymarket copy trading bot polymarket copy trading bot polymarket copy trading bot polymarket copy trading bot polymarket copy trading bot polymarket copy trading"
+    "repo": "uedk9p/sora2-watermark-remover",
+    "branch": "main",
+    "language": "Python",
+    "description": "sora2 watermark remover"
   },
   {
-    "repo": "labuladong/fucking-algorithm",
-    "branch": "master",
-    "language": "Markdown",
-    "description": "刷算法全靠套路，认准 labuladong 就够了！English version supported! Crack LeetCode, not only how, but also why."
+    "repo": "friendlymatthew/gabagool",
+    "branch": "main",
+    "language": "Rust",
+    "description": "Snapshotable WebAssembly interpreter from scratch"
   },
   {
-    "repo": "vkehfdl1/slides-grab",
+    "repo": "jarodise/pdf2epub-paddle",
+    "branch": "main",
+    "language": "Python",
+    "description": ""
+  },
+  {
+    "repo": "lucasastorian/llmwiki",
+    "branch": "master",
+    "language": "TypeScript",
+    "description": "Open Source Implementation of Karpathy's LLM Wiki. Upload documents, connect your Claude account via MCP, and have it write your wiki !"
+  },
+  {
+    "repo": "michelleoincx/zeroclaw-grok",
     "branch": "main",
     "language": "JavaScript",
-    "description": "Select context for agents directly from AI-generated HTML slides"
+    "description": "ZeroClaw — sleek web interface for Grok AI (xAI). Streaming responses, multi-session chat, model selector. Zero npm dependencies. Runs with one command."
+  },
+  {
+    "repo": "codejunkie99/agentic-stack",
+    "branch": "master",
+    "language": "Python",
+    "description": "One brain, many harnesses. Portable .agent/ folder (memory + skills + protocols) that plugs into Claude Code, Cursor, Windsurf, OpenCode, OpenClaw, Hermes, or DIY Python — and keeps its knowledge when you switch."
   }
 ]

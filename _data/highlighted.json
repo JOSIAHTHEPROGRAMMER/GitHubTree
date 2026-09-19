@@ -1,8 +1,8 @@
 {
-  "repo": "XGEN-Labs/XGEN-JING",
+  "repo": "NiazMorshed2007/jev-review",
   "branch": "main",
-  "language": "Python",
-  "description": "A featured project on GitHubTree.",
-  "stars": 121,
-  "forks": 11
+  "language": "TypeScript",
+  "description": "Local-first MCP plugin for continuous software-quality review by AI coding agents, powered by Jev.",
+  "stars": 134,
+  "forks": 12
 }
