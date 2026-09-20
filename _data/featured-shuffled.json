@@ -1,146 +1,146 @@
 [
   {
-    "repo": "texel-org/windfoil",
+    "repo": "alfhamdy515-svg/NS-FW-AI-Image-and-Video-Generator-Uncensd",
     "branch": "main",
-    "language": "JavaScript",
-    "description": "an algorithm for computing winding & anti-aliasing of 2D vector shapes"
+    "language": "C#",
+    "description": "A foundational toolkit for AI-driven image generation, focusing on creative expression and content creation."
   },
   {
-    "repo": "furukola/Create-Aeronautics-Minecraft-Mod-ALL-Versions",
+    "repo": "sartoopjj/vpn-over-github",
     "branch": "main",
-    "language": "C++",
-    "description": "Create Aeronautics is an advanced aviation expansion for the Create Mod. It introduces real-world physics and aerodynamics to Minecraft. Build functional airships and planes with realistic lift and mechanical integration. Experience the ultimate engineering challenge in the skies of 2026."
+    "language": "Go",
+    "description": "Tunnels TCP connections through GitHub. Supports gist and git transports ( Too slow. Not usable.)"
   },
   {
-    "repo": "bregman-arie/devops-exercises",
-    "branch": "master",
-    "language": "Python",
-    "description": "Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions"
-  },
-  {
-    "repo": "paragonie/awesome-appsec",
-    "branch": "master",
-    "language": "PHP",
-    "description": "A curated list of resources for learning about application security"
-  },
-  {
-    "repo": "apechurch/polymarket-arbitrage-trading-bot",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "polymarket arbitrage bot, polymarket arbitrage bot, polymarket arbitrage bot, polymarket arbitrage bot, polymarket arbitrage bot, polymarket arbitrage bot, polymarket arbitrage bot, polymarket arbitrage bot, polymarket arbitrage bot, polymarket arbitrage bot, polymarket arbitrage bot, polymarket arbitrage bot, polymarket arbitrage bot"
-  },
-  {
-    "repo": "dev-protocol/polymarket-arbitrage-bot",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Polymarket arbitrage bot || Dump Hedge Strategy || detect arbitrage opportunity between UP & Down token prices movement - RTDS based strategical Bot"
-  },
-  {
-    "repo": "ory/kratos",
+    "repo": "cockroachdb/cockroach",
     "branch": "master",
     "language": "Go",
-    "description": "Headless cloud-native authentication and identity management written in Go. Scales to a billion+ users. Replace Homegrown, Auth0, Okta, Firebase with better UX and DX. Passkeys, Social Sign In, OIDC, Magic Link, Multi-Factor Auth, SMS, SAML, TOTP, and more. Runs everywhere, runs best on Ory Network."
+    "description": "CockroachDB — the cloud native, distributed SQL database designed for high availability, effortless scale, and control over data placement."
   },
   {
-    "repo": "heygen-com/hyperframes-launch-video",
+    "repo": "mastodon/mastodon",
     "branch": "main",
-    "language": "HTML",
+    "language": "Ruby",
+    "description": "Your self-hosted, globally interconnected microblogging community"
+  },
+  {
+    "repo": "delbaoliveira/learn-claude-code",
+    "branch": "main",
+    "language": "JavaScript",
     "description": ""
   },
   {
-    "repo": "datasciencemasters/go",
+    "repo": "RevylAI/greenlight",
+    "branch": "main",
+    "language": "Go",
+    "description": "Pre-submission compliance scanner for the Apple App Store"
+  },
+  {
+    "repo": "rancher/k3d",
+    "branch": "main",
+    "language": "Go",
+    "description": "Little helper to run CNCF's k3s in Docker"
+  },
+  {
+    "repo": "ByteByteGoHq/system-design-101",
+    "branch": "main",
+    "language": "Other",
+    "description": "Explain complex systems using visuals and simple terms. Help you prepare for system design interviews."
+  },
+  {
+    "repo": "sbilly/awesome-security",
     "branch": "master",
     "language": "Other",
-    "description": "The Open Source Data Science Masters"
+    "description": "A collection of awesome software, libraries, documents, books, resources and cools stuffs about security."
   },
   {
-    "repo": "Synthetixio/synthetix",
-    "branch": "develop",
-    "language": "JavaScript",
-    "description": "Synthetix Solidity smart contracts"
+    "repo": "HBAI-Ltd/Toonflow-app",
+    "branch": "master",
+    "language": "HTML",
+    "description": "Toonflow 是一款 AI 短剧漫剧工具，能够利用 AI 技术将小说自动转化为剧本，并结合 AI 生成的图片和视频，实现高效的短剧创作。借助 Toonflow，可以轻松完成从文字到影像的全流程，让短剧制作变得更加智能与便捷。"
   },
   {
-    "repo": "supermemoryai/openclaw-supermemory",
+    "repo": "getsentry/sentry",
+    "branch": "master",
+    "language": "Python",
+    "description": "Developer-first error tracking and performance monitoring"
+  },
+  {
+    "repo": "vueuse/vueuse",
     "branch": "main",
     "language": "TypeScript",
-    "description": "Supermemory allows Clawdbot / Molt bot to have PERFECT memory and recall for their own personal agent."
+    "description": "Collection of essential Vue Composition Utilities for Vue 3"
   },
   {
-    "repo": "comeonzhj/AutoContents",
+    "repo": "Uniswap/interface",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "🦄 Open source interfaces for the Uniswap protocol"
+  },
+  {
+    "repo": "rust-lang/book",
+    "branch": "main",
+    "language": "Rust",
+    "description": "The Rust Programming Language"
+  },
+  {
+    "repo": "mfornos/awesome-microservices",
+    "branch": "master",
+    "language": "Other",
+    "description": "A curated list of Microservice Architecture related principles and technologies."
+  },
+  {
+    "repo": "gluon-framework/gluon",
     "branch": "main",
     "language": "JavaScript",
-    "description": "基于 RSS 的 AI 资讯聚合、内容创作与 Agent 自动化工具"
+    "description": "A new framework for creating desktop apps from websites, using system installed browsers and NodeJS"
   },
   {
-    "repo": "hengfengliya/imgood",
+    "repo": "metric-anything/metric-anything",
     "branch": "main",
-    "language": "CSS",
-    "description": ""
-  },
-  {
-    "repo": "waltstephen/ArgusBot",
-    "branch": "publish",
     "language": "Python",
     "description": ""
   },
   {
-    "repo": "TianyiDataScience/openclaw-control-center",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": ""
-  },
-  {
-    "repo": "Rivflyyy/HappyTorch",
+    "repo": "microsoft/Data-Science-For-Beginners",
     "branch": "main",
     "language": "Jupyter Notebook",
-    "description": "A PyTorch coding practice platform — covering LLM, Diffusion, PEFT, and more  A friendly environment to help you deeply understand deep learning components through hands-on practice.  Like LeetCode, but for tensors. Self-hosted. Supports both Jupyter and Web interfaces."
+    "description": "10 Weeks, 20 Lessons, Data Science for All!"
   },
   {
-    "repo": "twwch/AIComicBuilder",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "AI-powered animated comic generator — transform scripts into fully animated videos with AI-driven character design,    storyboarding, and video synthesis."
-  },
-  {
-    "repo": "EthanLipnik/Loom",
-    "branch": "main",
-    "language": "Swift",
-    "description": "Easy peer to peer networking for Apple devices"
-  },
-  {
-    "repo": "f/agentlytics",
+    "repo": "kautukkundan/Awesome-Profile-README-templates",
     "branch": "master",
     "language": "JavaScript",
-    "description": "Comprehensive analytics dashboard for AI coding agents — Cursor, Windsurf, Claude Code, VS Code Copilot, Zed, Antigravity, OpenCode, Command Code"
+    "description": "A collection of awesome readme templates to display on your profile"
   },
   {
-    "repo": "uhub/awesome-cpp",
+    "repo": "Galaxy-Dawn/claude-scholar",
+    "branch": "main",
+    "language": "TeX",
+    "description": "A comprehensive Claude Code configuration for data science, AI research, and academic writing. Streamline the complete research workflow—from idea to publication."
+  },
+  {
+    "repo": "nomic-ai/gpt4all",
+    "branch": "main",
+    "language": "C++",
+    "description": "GPT4All: Run Local LLMs on Any Device. Open-source and available for commercial use."
+  },
+  {
+    "repo": "Uniswap/v2-core",
     "branch": "master",
-    "language": "Other",
-    "description": "A curated list of awesome C++ frameworks, libraries and software."
+    "language": "TypeScript",
+    "description": "🦄 🦄  Core smart contracts of Uniswap V2"
   },
   {
-    "repo": "yzhao062/agent-style",
+    "repo": "networkx/networkx",
     "branch": "main",
     "language": "Python",
-    "description": "21 writing rules for AI coding and writing agents. Drop-in for Claude Code, Codex, Copilot, Cursor, and Aider, so their output reads like a tech pro."
+    "description": "Network Analysis in Python"
   },
   {
-    "repo": "jmuncor/sherlock",
-    "branch": "main",
-    "language": "Python",
-    "description": "Intercept LLM API traffic and visualize token usage in a real-time terminal dashboard. Track costs,       debug prompts, and monitor context window usage across your AI development sessions."
-  },
-  {
-    "repo": "aiming-lab/MetaClaw",
-    "branch": "main",
-    "language": "Python",
-    "description": "Just talk to your agent — it learns and EVOLVES."
-  },
-  {
-    "repo": "Zcy233035/rl-explainer",
-    "branch": "main",
-    "language": "Svelte",
-    "description": "rl-explainer"
+    "repo": "requirejs/requirejs",
+    "branch": "master",
+    "language": "JavaScript",
+    "description": "A file and module loader for JavaScript"
   }
 ]

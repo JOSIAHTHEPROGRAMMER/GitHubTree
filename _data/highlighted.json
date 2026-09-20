@@ -1,8 +1,8 @@
 {
-  "repo": "sutro-sh/jev-align",
-  "branch": "main",
-  "language": "Python",
-  "description": "Build calibrated AI classifiers from human feedback using Jev and GEPA.",
-  "stars": 153,
-  "forks": 11
+  "repo": "coldteadotai/abide",
+  "branch": "master",
+  "language": "TypeScript",
+  "description": "Make your coding agent abide by all your project rules ",
+  "stars": 174,
+  "forks": 9
 }
