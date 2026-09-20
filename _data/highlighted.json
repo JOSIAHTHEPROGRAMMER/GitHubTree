@@ -1,8 +1,8 @@
 {
-  "repo": "Work-Fisher/AIFISHER",
+  "repo": "sutro-sh/jev-align",
   "branch": "main",
-  "language": "TypeScript",
-  "description": "AIFISHER 画布 · 2.0 起源：连接 AI 模型、ComfyUI 与 RunningHub 的本地创作画布。源码公开，仅限非商业用途，禁止接单与倒卖。",
-  "stars": 120,
-  "forks": 24
+  "language": "Python",
+  "description": "Build calibrated AI classifiers from human feedback using Jev and GEPA.",
+  "stars": 153,
+  "forks": 11
 }
