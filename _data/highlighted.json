@@ -1,8 +1,8 @@
 {
-  "repo": "coldteadotai/abide",
-  "branch": "master",
-  "language": "TypeScript",
-  "description": "Make your coding agent abide by all your project rules ",
-  "stars": 189,
-  "forks": 10
+  "repo": "lakeday-org/perch",
+  "branch": "main",
+  "language": "JavaScript",
+  "description": "Semantic code linting with Jev",
+  "stars": 164,
+  "forks": 12
 }

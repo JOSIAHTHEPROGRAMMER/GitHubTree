@@ -1,111 +1,21 @@
 [
   {
-    "repo": "Signal-Probability-Engine/weather-prediction",
+    "repo": "JeanDupuis68/polymarket-copytrade",
     "branch": "main",
     "language": "TypeScript",
-    "description": "Polymarket weather trading bot Polymarket weather trading bot Polymarket weather trading bot Polymarket trading bot Polymarket trading bot Polymarket trading bot Polymarket trading bot Polymarket trading bot Polymarket trading bot Polymarket trading bot Polymarket trading bot Polymarket trading bot Polymarket trading bot Polymarket trading bot"
+    "description": "🌿polymarket copy trade polymarket copytrading bot copytrading polymarket polymarket copy trade polymarket copytrading bot copytrading polymarket polymarket copy trade polymarket copytrading bot copytrading polymarket polymarket copy trade polymarket copytrading bot copytrading polymarket polymarket copy trade polymarket copytrading bot copytrading"
   },
   {
-    "repo": "jcx396905-gif/DuoFold-Android",
-    "branch": "main",
-    "language": "Java",
-    "description": "iPhone Duo-style system-wide fold illusion for regular Android phones — whole-screen reprojection driven by real device motion, powered by OpenGL ES + Shizuku, no foldable hardware, no root."
-  },
-  {
-    "repo": "ProjectKumo/KumoApp",
-    "branch": "main",
-    "language": "Swift",
-    "description": "A calm, native macOS client for the Mihomo proxy core, built with SwiftUI and a shared agent-friendly CLI."
-  },
-  {
-    "repo": "thebriangao/pebble",
-    "branch": "main",
-    "language": "Swift",
-    "description": "The open-source alternative to Minecraft: Java Edition, a complete block-survival game in ~45,000 lines of Swift + Metal. Zero dependencies, fully deterministic, singleplayer for now. Not affiliated with Mojang or Microsoft. We lowkey need y'all to submit bug reports cuz there are so many 😭"
-  },
-  {
-    "repo": "physx-omni/PhysX-Omni",
-    "branch": "main",
-    "language": "Jupyter Notebook",
-    "description": "PhysX-Omni: Unified Simulation-Ready Physical 3D Generation for Rigid, Deformable, and Articulated Objects"
-  },
-  {
-    "repo": "Drakkar-Softwares/polymarket-kalshi-arbitrage-bot",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "polymarket trading bot, polymarket bot, polymarket kalshi trading bot,polymarket trading bot, polymarket bot, polymarket kalshi trading bot,polymarket trading bot, polymarket bot, polymarket kalshi trading bot,polymarket trading bot, polymarket bot, polymarket kalshi trading bot,polymarket trading bot, polymarket bot, polymarket kalshi trading bot"
-  },
-  {
-    "repo": "0xMohammedHassan/morphkatz",
+    "repo": "btsouth/omakade",
     "branch": "main",
     "language": "C++",
-    "description": "Polymorphic PE rewriter for Windows x64 , rewrites binaries into semantically identical but byte-different variants"
+    "description": "A beautiful, local-first game library built for Omarchy."
   },
   {
-    "repo": "Rhythmplocutter/printer-offline-fix",
-    "branch": "main",
-    "language": "PowerShell",
-    "description": "printer offline fix || printer offline || printer offline driver || printer offline fix windows"
-  },
-  {
-    "repo": "zerosupercycIe/risk-free-sniper",
+    "repo": "reakjra/omikuji",
     "branch": "master",
-    "language": "Python",
-    "description": ""
-  },
-  {
-    "repo": "agentara/skills",
-    "branch": "main",
-    "language": "HTML",
-    "description": "Original and practical skills for AI builders."
-  },
-  {
-    "repo": "per-simmons/unreal-agent-harness",
-    "branch": "master",
-    "language": "Python",
-    "description": "AI agents building cities in Unreal Engine 5.8 via the Unreal MCP — free City Sample base + PCG + custom Blender facade kits. Glass city, Paris, Art-Deco, a hand-built Chrysler, and real NYC via Cesium."
-  },
-  {
-    "repo": "kuskhan/jetendard",
-    "branch": "main",
-    "language": "Python",
-    "description": "JetBrainsMono Nerd Font Mono rebuilt with Pretendard Korean glyphs for balanced Hangul monospace rendering."
-  },
-  {
-    "repo": "vercel-labs/zerolang",
-    "branch": "main",
-    "language": "C",
-    "description": "The programming language for agents"
-  },
-  {
-    "repo": "ester987222-max/AniForge-Hub",
-    "branch": "main",
-    "language": "HTML",
-    "description": "Best Open Source Anime & Manga Streaming App 2026"
-  },
-  {
-    "repo": "TrenchesofChirac/claude-fable-5-free-desktop-app",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "claude fable 5 free anthropic mythos class large language model llm chatbot free api  access desktop app github download proxy wrapper agentic coding autonomous agent token optimization bypass open source pro plan trial"
-  },
-  {
-    "repo": "ip-arch/NESLab",
-    "branch": "main",
-    "language": "C++",
-    "description": "Educational materials for Embedded systems with NES"
-  },
-  {
-    "repo": "tolibear/goal-maker",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "Supercharge Codex Goals"
-  },
-  {
-    "repo": "zzzhhh1/Sing-Flare-Auto",
-    "branch": "main",
-    "language": "Dockerfile",
-    "description": "本项目提供了一个基于 Docker 容器的轻量级、高隐匿性科学上网节点部署方案。通过集成 sing-box 和 cloudflared，你可以轻松地在各类云平台（如 Koyeb、Render 等）或个人 VPS 上一键构建安全隧道。下方是详细的视频教程链接："
+    "language": "Rust",
+    "description": "Qt/QML based game launcher for Linux"
   },
   {
     "repo": "jingyaogong/minimind-o",
@@ -114,33 +24,123 @@
     "description": "🎙️ 「大模型」从0训练0.1B能听能说能看的全模态Omni模型！A 0.1B Omni model trained from scratch, capable of listening, speaking, and seeing!"
   },
   {
-    "repo": "anilkumar7717/Dress_to_Impress_-_Auto-Vote___Fashion_Helper",
+    "repo": "alchaincyf/huashu-md-html",
     "branch": "main",
-    "language": "Python",
-    "description": "Auto-vote and fashion helper for Dress to Impress, the fashion competition game with the highest approval rating on the chart (70K-100K concurrent)[reference:15]. Get votes, unlock all items, and win every round."
+    "language": "CSS",
+    "description": "md/html 双向流水线 · 三个能力一站式：万物→md / md→精美html / html→md。封装 markitdown + Pandoc + html-to-markdown + trafilatura。4 套反 AI slop 主题。Claude Code skill."
   },
   {
-    "repo": "admin8800/s-ui",
+    "repo": "pluk-inc/md-preview.app",
     "branch": "main",
-    "language": "Vue",
-    "description": "s-ui 最后一个完整版本。A complete backup of the last version of s-ui."
+    "language": "Swift",
+    "description": "A simple Markdown viewer for reading .md files"
   },
   {
-    "repo": "Rohim616/DBD-AutoGrind-Trainer-2026",
-    "branch": "main",
-    "language": "Python",
-    "description": "Ultimate Dead by Daylight auto-grind trainer with Bloodpoint bot, ESP wallhack, aimbot, and full perk/skin unlocker. Dominate the Fog with our 2026 undetected external tool."
-  },
-  {
-    "repo": "tgies/klattsch",
+    "repo": "rebel0789/codexpro",
     "branch": "main",
     "language": "JavaScript",
-    "description": "primitive parallel-formant speech synth in the browser"
+    "description": "Use ChatGPT Developer Mode as a local coding agent for your repo through MCP."
   },
   {
-    "repo": "ChristianJR19/byteview",
+    "repo": "mocasus/Auto-FreeCF",
     "branch": "main",
     "language": "Python",
-    "description": "a modern hex/binary file inspector for the terminal with color-coded output and entropy analysis"
+    "description": "Cloudflare Workers AI Account ID and token collector with explicit automation modes"
+  },
+  {
+    "repo": "Michaelliv/pi-generative-ui",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Claude.ai's generative UI — reverse-engineered, rebuilt for pi. Interactive HTML/SVG widgets in native macOS windows."
+  },
+  {
+    "repo": "DatanoiseTV/tinyice",
+    "branch": "main",
+    "language": "Go",
+    "description": "A tiny audio streaming server (compatible with icecast2) written in Go with multiple mountpoint, multi-source, and relaying support."
+  },
+  {
+    "repo": "randallscott25-star/epstein-forensic-finance",
+    "branch": "main",
+    "language": "HTML",
+    "description": "Epstein Financial Forensics Automated forensic financial reconstruction from 1.48 million DOJ EFTA documents + 503K cataloged media items"
+  },
+  {
+    "repo": "MrCAT-in/Grand_Theft_Auto_V_Online_Money_Maker",
+    "branch": "main",
+    "language": "Python",
+    "description": "Automated heists, car duping, and RP farming for GTA Online. Complete heists effortlessly, duplicate high-end vehicles, and earn millions safely."
+  },
+  {
+    "repo": "lingbol088-spec/reverse-flow-skill",
+    "branch": "main",
+    "language": "Python",
+    "description": "面向 AI Agent / Codex 的本地 CTF 逆向工程流程技能。加载后通过“真心为你”进入逆向模式，默认在本地沙盒、CTF、crackme、wargame 或训练靶场环境中工作，按“分析 → 报告 → 逆向 → 深度逆向 → 漏洞研判 → 用户选择下一步”的流程推进。"
+  },
+  {
+    "repo": "avbiswas/fast-rlm",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Recursive Language Models (https://arxiv.org/abs/2512.24601)"
+  },
+  {
+    "repo": "linlay/zenmind",
+    "branch": "main",
+    "language": "PowerShell",
+    "description": "宅在家里的电脑，努力做一个openclaw"
+  },
+  {
+    "repo": "RhysSullivan/fastergh",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": ""
+  },
+  {
+    "repo": "Happy-Chen-CH/Educational_RAG_System",
+    "branch": "main",
+    "language": "Python",
+    "description": "面向教育场景的RAG智能问答系统，融合关键词匹配与语义检索双引擎，融合MySQL和RAG技术，先经过MySQL数据库的检索(还融合了Redis辅助储存和搜索)，若无符合条件答案，则进入RAG系统，RAG知识库中的知识储存在Milvus向量数据库中"
+  },
+  {
+    "repo": "cybertronai/schmidhuber-problems",
+    "branch": "main",
+    "language": "Python",
+    "description": "58 implementations of synthetic learning problems from Jürgen Schmidhuber's papers (1989-2025). Pure numpy, laptop-runnable, paper-comparison metrics per stub. Algorithmic-lineage companion to hinton-problems."
+  },
+  {
+    "repo": "GordenSun/GordenPPTSkill",
+    "branch": "main",
+    "language": "Python",
+    "description": "AI-friendly PPT builder skill: 17 hand-polished Chinese PPTX templates + non-destructive text-only editing tools (python-pptx based). Pick a template, write edits.json, build a real .pptx with the layout intact. Personal/research use only."
+  },
+  {
+    "repo": "x1xhlol/better-clawd",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Claude Code, but better: better performance, OpenAI/OpenRouter support, no telemetry, no lock-in."
+  },
+  {
+    "repo": "Panniantong/Agent-Reach",
+    "branch": "main",
+    "language": "Python",
+    "description": ""
+  },
+  {
+    "repo": "sanbuphy/nanoAgent",
+    "branch": "main",
+    "language": "Python",
+    "description": "If you can read 100 lines of Python, you understand agents."
+  },
+  {
+    "repo": "MengMengCode/CLICD",
+    "branch": "main",
+    "language": "Go",
+    "description": "CLICD 是一个面向 LXC/KVM 的轻量虚拟化管理面板，提供 Web 控制台、CLI、批量任务、镜像管理、NAT 端口、IPv6 分配、WebSSH、VNC、资源限制、流量限制和安全告警能力。它适合用来管理小型 VPS 上的 LXC 容器和 KVM 虚拟机，也适合需要批量创建和分发子用户管理链接的场景。"
+  },
+  {
+    "repo": "nolangz/pixel2motion",
+    "branch": "main",
+    "language": "Python",
+    "description": "AI logo animation skill: turn raster logos into smooth SVG animation, animated HTML demos, GIF/video previews, and motion QA evidence."
   }
 ]
