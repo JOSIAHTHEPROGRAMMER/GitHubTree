@@ -1,146 +1,146 @@
 [
   {
-    "repo": "alfhamdy515-svg/NS-FW-AI-Image-and-Video-Generator-Uncensd",
-    "branch": "main",
-    "language": "C#",
-    "description": "A foundational toolkit for AI-driven image generation, focusing on creative expression and content creation."
-  },
-  {
-    "repo": "sartoopjj/vpn-over-github",
-    "branch": "main",
-    "language": "Go",
-    "description": "Tunnels TCP connections through GitHub. Supports gist and git transports ( Too slow. Not usable.)"
-  },
-  {
-    "repo": "cockroachdb/cockroach",
-    "branch": "master",
-    "language": "Go",
-    "description": "CockroachDB — the cloud native, distributed SQL database designed for high availability, effortless scale, and control over data placement."
-  },
-  {
-    "repo": "mastodon/mastodon",
-    "branch": "main",
-    "language": "Ruby",
-    "description": "Your self-hosted, globally interconnected microblogging community"
-  },
-  {
-    "repo": "delbaoliveira/learn-claude-code",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": ""
-  },
-  {
-    "repo": "RevylAI/greenlight",
-    "branch": "main",
-    "language": "Go",
-    "description": "Pre-submission compliance scanner for the Apple App Store"
-  },
-  {
-    "repo": "rancher/k3d",
-    "branch": "main",
-    "language": "Go",
-    "description": "Little helper to run CNCF's k3s in Docker"
-  },
-  {
-    "repo": "ByteByteGoHq/system-design-101",
-    "branch": "main",
-    "language": "Other",
-    "description": "Explain complex systems using visuals and simple terms. Help you prepare for system design interviews."
-  },
-  {
-    "repo": "sbilly/awesome-security",
-    "branch": "master",
-    "language": "Other",
-    "description": "A collection of awesome software, libraries, documents, books, resources and cools stuffs about security."
-  },
-  {
-    "repo": "HBAI-Ltd/Toonflow-app",
-    "branch": "master",
-    "language": "HTML",
-    "description": "Toonflow 是一款 AI 短剧漫剧工具，能够利用 AI 技术将小说自动转化为剧本，并结合 AI 生成的图片和视频，实现高效的短剧创作。借助 Toonflow，可以轻松完成从文字到影像的全流程，让短剧制作变得更加智能与便捷。"
-  },
-  {
-    "repo": "getsentry/sentry",
-    "branch": "master",
-    "language": "Python",
-    "description": "Developer-first error tracking and performance monitoring"
-  },
-  {
-    "repo": "vueuse/vueuse",
+    "repo": "Signal-Probability-Engine/weather-prediction",
     "branch": "main",
     "language": "TypeScript",
-    "description": "Collection of essential Vue Composition Utilities for Vue 3"
+    "description": "Polymarket weather trading bot Polymarket weather trading bot Polymarket weather trading bot Polymarket trading bot Polymarket trading bot Polymarket trading bot Polymarket trading bot Polymarket trading bot Polymarket trading bot Polymarket trading bot Polymarket trading bot Polymarket trading bot Polymarket trading bot Polymarket trading bot"
   },
   {
-    "repo": "Uniswap/interface",
+    "repo": "jcx396905-gif/DuoFold-Android",
     "branch": "main",
-    "language": "TypeScript",
-    "description": "🦄 Open source interfaces for the Uniswap protocol"
+    "language": "Java",
+    "description": "iPhone Duo-style system-wide fold illusion for regular Android phones — whole-screen reprojection driven by real device motion, powered by OpenGL ES + Shizuku, no foldable hardware, no root."
   },
   {
-    "repo": "rust-lang/book",
+    "repo": "ProjectKumo/KumoApp",
     "branch": "main",
-    "language": "Rust",
-    "description": "The Rust Programming Language"
+    "language": "Swift",
+    "description": "A calm, native macOS client for the Mihomo proxy core, built with SwiftUI and a shared agent-friendly CLI."
   },
   {
-    "repo": "mfornos/awesome-microservices",
-    "branch": "master",
-    "language": "Other",
-    "description": "A curated list of Microservice Architecture related principles and technologies."
-  },
-  {
-    "repo": "gluon-framework/gluon",
+    "repo": "thebriangao/pebble",
     "branch": "main",
-    "language": "JavaScript",
-    "description": "A new framework for creating desktop apps from websites, using system installed browsers and NodeJS"
+    "language": "Swift",
+    "description": "The open-source alternative to Minecraft: Java Edition, a complete block-survival game in ~45,000 lines of Swift + Metal. Zero dependencies, fully deterministic, singleplayer for now. Not affiliated with Mojang or Microsoft. We lowkey need y'all to submit bug reports cuz there are so many 😭"
   },
   {
-    "repo": "metric-anything/metric-anything",
-    "branch": "main",
-    "language": "Python",
-    "description": ""
-  },
-  {
-    "repo": "microsoft/Data-Science-For-Beginners",
+    "repo": "physx-omni/PhysX-Omni",
     "branch": "main",
     "language": "Jupyter Notebook",
-    "description": "10 Weeks, 20 Lessons, Data Science for All!"
+    "description": "PhysX-Omni: Unified Simulation-Ready Physical 3D Generation for Rigid, Deformable, and Articulated Objects"
   },
   {
-    "repo": "kautukkundan/Awesome-Profile-README-templates",
-    "branch": "master",
-    "language": "JavaScript",
-    "description": "A collection of awesome readme templates to display on your profile"
-  },
-  {
-    "repo": "Galaxy-Dawn/claude-scholar",
+    "repo": "Drakkar-Softwares/polymarket-kalshi-arbitrage-bot",
     "branch": "main",
-    "language": "TeX",
-    "description": "A comprehensive Claude Code configuration for data science, AI research, and academic writing. Streamline the complete research workflow—from idea to publication."
+    "language": "TypeScript",
+    "description": "polymarket trading bot, polymarket bot, polymarket kalshi trading bot,polymarket trading bot, polymarket bot, polymarket kalshi trading bot,polymarket trading bot, polymarket bot, polymarket kalshi trading bot,polymarket trading bot, polymarket bot, polymarket kalshi trading bot,polymarket trading bot, polymarket bot, polymarket kalshi trading bot"
   },
   {
-    "repo": "nomic-ai/gpt4all",
+    "repo": "0xMohammedHassan/morphkatz",
     "branch": "main",
     "language": "C++",
-    "description": "GPT4All: Run Local LLMs on Any Device. Open-source and available for commercial use."
+    "description": "Polymorphic PE rewriter for Windows x64 , rewrites binaries into semantically identical but byte-different variants"
   },
   {
-    "repo": "Uniswap/v2-core",
+    "repo": "Rhythmplocutter/printer-offline-fix",
+    "branch": "main",
+    "language": "PowerShell",
+    "description": "printer offline fix || printer offline || printer offline driver || printer offline fix windows"
+  },
+  {
+    "repo": "zerosupercycIe/risk-free-sniper",
     "branch": "master",
-    "language": "TypeScript",
-    "description": "🦄 🦄  Core smart contracts of Uniswap V2"
+    "language": "Python",
+    "description": ""
   },
   {
-    "repo": "networkx/networkx",
+    "repo": "agentara/skills",
+    "branch": "main",
+    "language": "HTML",
+    "description": "Original and practical skills for AI builders."
+  },
+  {
+    "repo": "per-simmons/unreal-agent-harness",
+    "branch": "master",
+    "language": "Python",
+    "description": "AI agents building cities in Unreal Engine 5.8 via the Unreal MCP — free City Sample base + PCG + custom Blender facade kits. Glass city, Paris, Art-Deco, a hand-built Chrysler, and real NYC via Cesium."
+  },
+  {
+    "repo": "kuskhan/jetendard",
     "branch": "main",
     "language": "Python",
-    "description": "Network Analysis in Python"
+    "description": "JetBrainsMono Nerd Font Mono rebuilt with Pretendard Korean glyphs for balanced Hangul monospace rendering."
   },
   {
-    "repo": "requirejs/requirejs",
-    "branch": "master",
+    "repo": "vercel-labs/zerolang",
+    "branch": "main",
+    "language": "C",
+    "description": "The programming language for agents"
+  },
+  {
+    "repo": "ester987222-max/AniForge-Hub",
+    "branch": "main",
+    "language": "HTML",
+    "description": "Best Open Source Anime & Manga Streaming App 2026"
+  },
+  {
+    "repo": "TrenchesofChirac/claude-fable-5-free-desktop-app",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "claude fable 5 free anthropic mythos class large language model llm chatbot free api  access desktop app github download proxy wrapper agentic coding autonomous agent token optimization bypass open source pro plan trial"
+  },
+  {
+    "repo": "ip-arch/NESLab",
+    "branch": "main",
+    "language": "C++",
+    "description": "Educational materials for Embedded systems with NES"
+  },
+  {
+    "repo": "tolibear/goal-maker",
+    "branch": "main",
     "language": "JavaScript",
-    "description": "A file and module loader for JavaScript"
+    "description": "Supercharge Codex Goals"
+  },
+  {
+    "repo": "zzzhhh1/Sing-Flare-Auto",
+    "branch": "main",
+    "language": "Dockerfile",
+    "description": "本项目提供了一个基于 Docker 容器的轻量级、高隐匿性科学上网节点部署方案。通过集成 sing-box 和 cloudflared，你可以轻松地在各类云平台（如 Koyeb、Render 等）或个人 VPS 上一键构建安全隧道。下方是详细的视频教程链接："
+  },
+  {
+    "repo": "jingyaogong/minimind-o",
+    "branch": "master",
+    "language": "Python",
+    "description": "🎙️ 「大模型」从0训练0.1B能听能说能看的全模态Omni模型！A 0.1B Omni model trained from scratch, capable of listening, speaking, and seeing!"
+  },
+  {
+    "repo": "anilkumar7717/Dress_to_Impress_-_Auto-Vote___Fashion_Helper",
+    "branch": "main",
+    "language": "Python",
+    "description": "Auto-vote and fashion helper for Dress to Impress, the fashion competition game with the highest approval rating on the chart (70K-100K concurrent)[reference:15]. Get votes, unlock all items, and win every round."
+  },
+  {
+    "repo": "admin8800/s-ui",
+    "branch": "main",
+    "language": "Vue",
+    "description": "s-ui 最后一个完整版本。A complete backup of the last version of s-ui."
+  },
+  {
+    "repo": "Rohim616/DBD-AutoGrind-Trainer-2026",
+    "branch": "main",
+    "language": "Python",
+    "description": "Ultimate Dead by Daylight auto-grind trainer with Bloodpoint bot, ESP wallhack, aimbot, and full perk/skin unlocker. Dominate the Fog with our 2026 undetected external tool."
+  },
+  {
+    "repo": "tgies/klattsch",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "primitive parallel-formant speech synth in the browser"
+  },
+  {
+    "repo": "ChristianJR19/byteview",
+    "branch": "main",
+    "language": "Python",
+    "description": "a modern hex/binary file inspector for the terminal with color-coded output and entropy analysis"
   }
 ]
