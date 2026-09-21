@@ -1,146 +1,146 @@
 [
   {
-    "repo": "DaveMoudy/SalesforceDocGen",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "This package contains all the parts and moving pieces needed to run the DocGen app in Salesforce."
-  },
-  {
-    "repo": "KeyAI/calculusmadeeasy-zh",
+    "repo": "agentara/skills",
     "branch": "main",
     "language": "HTML",
-    "description": "Calculus Made Easy 非官方简体中文翻译"
+    "description": "Original and practical skills for AI builders."
   },
   {
-    "repo": "emdash-cms/emdash",
+    "repo": "goreleaser/goreleaser",
     "branch": "main",
-    "language": "TypeScript",
-    "description": ""
+    "language": "Go",
+    "description": "Release engineering, simplified"
   },
   {
-    "repo": "kdeldycke/awesome-falsehood",
+    "repo": "rest-assured/rest-assured",
     "branch": "master",
-    "language": "Other",
-    "description": "😱 Falsehoods Programmers Believe in"
-  },
-  {
-    "repo": "Norman-bury/articlewriting-skill",
-    "branch": "main",
-    "language": "Python",
-    "description": "科研写作助手 (Research Writing Assistant)"
-  },
-  {
-    "repo": "supermalparit/Towns",
-    "branch": "main",
     "language": "Java",
-    "description": "Repository for the Towns game"
+    "description": "Java DSL for easy testing of REST services"
   },
   {
-    "repo": "LearnPrompt/cc-harness-skills",
+    "repo": "facebookresearch/segment-anything",
+    "branch": "main",
+    "language": "Jupyter Notebook",
+    "description": "The repository provides code for running inference with the SegmentAnything Model (SAM), links for downloading the trained model checkpoints, and example notebooks that show how to use the model."
+  },
+  {
+    "repo": "shareAI-lab/claw0",
     "branch": "main",
     "language": "Python",
-    "description": "Portable CC-inspired skills for memory, verification, multi-agent coordination, context compression, and proactive coding-agent workflows."
+    "description": "0 - 1 learn OpenClaw: sections to build an claw-AI agent from scratch"
   },
   {
-    "repo": "alptexans/RSC-Detect-CVE-2025-55182",
-    "branch": "main",
-    "language": "Python",
-    "description": "RSC Detect CVE 2025 55182"
-  },
-  {
-    "repo": "andyhuo520/rf-detr-detection",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "基于 RF-DETR 的浏览器端实时目标检测应用"
-  },
-  {
-    "repo": "kossisoroyce/timber",
-    "branch": "main",
-    "language": "Python",
-    "description": "Ollama for classical ML models. AOT compiler that turns XGBoost, LightGBM, scikit-learn, CatBoost & ONNX models into native C99 inference code. One command to load, one command to serve. 336x faster than Python inference."
-  },
-  {
-    "repo": "massgravel/Microsoft-Activation-Scripts",
+    "repo": "ray-project/ray",
     "branch": "master",
-    "language": "Batchfile",
-    "description": "Open-source Windows and Office activator featuring HWID, Ohook, TSforge, and Online KMS activation methods, along with advanced troubleshooting."
+    "language": "Python",
+    "description": "Ray is an AI compute engine. Ray consists of a core distributed runtime and a set of AI Libraries for accelerating ML workloads."
   },
   {
-    "repo": "dapr/dapr",
+    "repo": "minio/minio",
     "branch": "master",
     "language": "Go",
-    "description": "Dapr is a portable runtime for building distributed applications across cloud and edge, combining event-driven architecture with workflow orchestration."
+    "description": "MinIO is a high-performance, S3 compatible object store, open sourced under GNU AGPLv3 license."
   },
   {
-    "repo": "Work-Fisher/openclaw-ai-assistant-framework",
+    "repo": "xinyitang3/cfnb",
     "branch": "main",
     "language": "Python",
-    "description": "OpenClaw AI助手完整框架 - 7步深度使用法 + 回溯清理机制"
+    "description": "这是一个全自动的 Cloudflare CDN 节点优选工具。它通过 TCP 延迟筛选 + IP 可用性二次检测 + 真实带宽测速 + IP 纯净度过滤 四重机制，从海量公开节点中筛选出当前网络环境下速度最快、可用性最高、滥用评分最低的 Cloudflare IP，并支持自动更新至 Cloudflare DNS 以及同步至 GitHub 仓库，同时支持微信实时通知。"
   },
   {
-    "repo": "epoko77-ai/im-not-ai",
-    "branch": "main",
-    "language": "Python",
-    "description": "AI가 쓴 글이 아닌 것처럼 윤문해주는 스킬"
-  },
-  {
-    "repo": "davegoldblatt/total-recall",
-    "branch": "main",
-    "language": "Shell",
-    "description": "Persistent memory plugin for Claude Code. Tiered memory system with write gates, correction propagation, and slash commands."
-  },
-  {
-    "repo": "jashkenas/backbone",
-    "branch": "master",
-    "language": "JavaScript",
-    "description": "Give your JS App some Backbone with Models, Views, Collections, and Events"
-  },
-  {
-    "repo": "serde-rs/serde",
+    "repo": "helix-editor/helix",
     "branch": "master",
     "language": "Rust",
-    "description": "Serialization framework for Rust"
+    "description": "A post-modern modal text editor."
   },
   {
-    "repo": "mverschu/adwsdomaindump",
+    "repo": "FreedomIntelligence/OpenClaw-Medical-Skills",
     "branch": "main",
     "language": "Python",
-    "description": "Active Directory information dumper via ADWS for evasion purposes."
+    "description": "The largest open-source medical AI skills library for OpenClaw🦞."
   },
   {
-    "repo": "microsoft/LlamaSharp",
-    "branch": "main",
-    "language": "Other",
-    "description": ".NET library for Llama model inference."
-  },
-  {
-    "repo": "llvm/llvm-project",
-    "branch": "main",
-    "language": "LLVM",
-    "description": "The LLVM Project is a collection of modular and reusable compiler and toolchain technologies."
-  },
-  {
-    "repo": "tokio-rs/tokio",
-    "branch": "master",
-    "language": "Rust",
-    "description": "A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ..."
-  },
-  {
-    "repo": "kautukkundan/Awesome-Profile-README-templates",
-    "branch": "master",
-    "language": "JavaScript",
-    "description": "A collection of awesome readme templates to display on your profile"
-  },
-  {
-    "repo": "appwrite/appwrite",
+    "repo": "zggf-zggf/openviktor",
     "branch": "main",
     "language": "TypeScript",
-    "description": "Appwrite® - complete cloud infrastructure for your web, mobile and AI apps. Including Auth, Databases, Storage, Functions, Messaging, Hosting, Realtime and more"
+    "description": "Your AI employee for Slack — open source, self-hosted, MIT licensed"
   },
   {
-    "repo": "Zcy233035/rl-explainer",
+    "repo": "ARMSX2/ARMSX1",
     "branch": "main",
-    "language": "Svelte",
-    "description": "rl-explainer"
+    "language": "C",
+    "description": "New PS1 Emulator from the Founders of ARMSX2"
+  },
+  {
+    "repo": "wagmi-dev/wagmi",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Reactive primitives for Ethereum apps"
+  },
+  {
+    "repo": "iad1tya/EchoTube",
+    "branch": "main",
+    "language": "Kotlin",
+    "description": "Open-source YouTube client - enjoy an ad-free experience in a lightweight app, no account required."
+  },
+  {
+    "repo": "openai/shap-e",
+    "branch": "main",
+    "language": "Python",
+    "description": "Generate 3D objects conditioned on text or images"
+  },
+  {
+    "repo": "VAST-AI-Research/TripoSplat",
+    "branch": "main",
+    "language": "Python",
+    "description": "TripoSplat converts a single 2D image into high-quality and variable number of 3D Gaussians, developed by TripoAI."
+  },
+  {
+    "repo": "CoderLuii/HolyClaude",
+    "branch": "master",
+    "language": "Dockerfile",
+    "description": "AI coding workstation: Claude Code + web UI + 5 AI CLIs + headless browser + 50+ tools"
+  },
+  {
+    "repo": "react-native-webview/react-native-webview",
+    "branch": "master",
+    "language": "TypeScript",
+    "description": "React Native Cross-Platform WebView"
+  },
+  {
+    "repo": "rs/zerolog",
+    "branch": "master",
+    "language": "Go",
+    "description": "Zero Allocation JSON Logger"
+  },
+  {
+    "repo": "charan820/PhantomCrowd-Simulacra",
+    "branch": "main",
+    "language": "HTML",
+    "description": "PhantomCrowd AI Marketing Simulator 2026: Content Spread Forecasting with Local LLM"
+  },
+  {
+    "repo": "go-kit/kit",
+    "branch": "master",
+    "language": "Go",
+    "description": "A standard library for microservices."
+  },
+  {
+    "repo": "programmersd21/flow",
+    "branch": "main",
+    "language": "Go",
+    "description": "🌊 see your network breathe"
+  },
+  {
+    "repo": "codeaashu/claude-code",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands."
+  },
+  {
+    "repo": "rolekkona/Polymarket-Arbitrage-Trading-Bot",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "polymarket arbitragy trading Bot | | polymarket arbitragy trading Bot | | polymarket arbitragy trading Bot | | polymarket arbitragy trading Bot | |"
   }
 ]

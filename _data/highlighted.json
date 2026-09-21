@@ -1,8 +1,8 @@
 {
-  "repo": "wfzyx/von",
-  "branch": "master",
+  "repo": "razorback16/openjev",
+  "branch": "main",
   "language": "Python",
-  "description": "The open-source System One decision model. Sub-15ms, non-autoregressive, local drop-in alternative to TypeSafe Jev.",
-  "stars": 310,
-  "forks": 22
+  "description": "Open, Jev-compatible System One decision server on DiffusionGemma",
+  "stars": 271,
+  "forks": 23
 }
