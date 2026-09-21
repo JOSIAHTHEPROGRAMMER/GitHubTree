@@ -1,146 +1,146 @@
 [
   {
-    "repo": "earendil-works/pi-tutorial",
+    "repo": "DaveMoudy/SalesforceDocGen",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "This package contains all the parts and moving pieces needed to run the DocGen app in Salesforce."
+  },
+  {
+    "repo": "KeyAI/calculusmadeeasy-zh",
+    "branch": "main",
+    "language": "HTML",
+    "description": "Calculus Made Easy 非官方简体中文翻译"
+  },
+  {
+    "repo": "emdash-cms/emdash",
     "branch": "main",
     "language": "TypeScript",
-    "description": "An experimental tutorial mode for Pi"
+    "description": ""
   },
   {
-    "repo": "openai/point-e",
-    "branch": "main",
-    "language": "Python",
-    "description": "Point cloud diffusion for 3D model synthesis"
-  },
-  {
-    "repo": "cortexproject/cortex",
-    "branch": "master",
-    "language": "Go",
-    "description": "A horizontally scalable, highly available, multi-tenant, long term Prometheus."
-  },
-  {
-    "repo": "veggiemonk/awesome-docker",
+    "repo": "kdeldycke/awesome-falsehood",
     "branch": "master",
     "language": "Other",
-    "description": ":whale: A curated list of Docker resources and projects"
+    "description": "😱 Falsehoods Programmers Believe in"
   },
   {
-    "repo": "nostrband/ServiceGraph",
+    "repo": "Norman-bury/articlewriting-skill",
+    "branch": "main",
+    "language": "Python",
+    "description": "科研写作助手 (Research Writing Assistant)"
+  },
+  {
+    "repo": "supermalparit/Towns",
+    "branch": "main",
+    "language": "Java",
+    "description": "Repository for the Towns game"
+  },
+  {
+    "repo": "LearnPrompt/cc-harness-skills",
+    "branch": "main",
+    "language": "Python",
+    "description": "Portable CC-inspired skills for memory, verification, multi-agent coordination, context compression, and proactive coding-agent workflows."
+  },
+  {
+    "repo": "alptexans/RSC-Detect-CVE-2025-55182",
+    "branch": "main",
+    "language": "Python",
+    "description": "RSC Detect CVE 2025 55182"
+  },
+  {
+    "repo": "andyhuo520/rf-detr-detection",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "基于 RF-DETR 的浏览器端实时目标检测应用"
+  },
+  {
+    "repo": "kossisoroyce/timber",
+    "branch": "main",
+    "language": "Python",
+    "description": "Ollama for classical ML models. AOT compiler that turns XGBoost, LightGBM, scikit-learn, CatBoost & ONNX models into native C99 inference code. One command to load, one command to serve. 336x faster than Python inference."
+  },
+  {
+    "repo": "massgravel/Microsoft-Activation-Scripts",
+    "branch": "master",
+    "language": "Batchfile",
+    "description": "Open-source Windows and Office activator featuring HWID, Ohook, TSforge, and Online KMS activation methods, along with advanced troubleshooting."
+  },
+  {
+    "repo": "dapr/dapr",
+    "branch": "master",
+    "language": "Go",
+    "description": "Dapr is a portable runtime for building distributed applications across cloud and edge, combining event-driven architecture with workflow orchestration."
+  },
+  {
+    "repo": "Work-Fisher/openclaw-ai-assistant-framework",
+    "branch": "main",
+    "language": "Python",
+    "description": "OpenClaw AI助手完整框架 - 7步深度使用法 + 回溯清理机制"
+  },
+  {
+    "repo": "epoko77-ai/im-not-ai",
+    "branch": "main",
+    "language": "Python",
+    "description": "AI가 쓴 글이 아닌 것처럼 윤문해주는 스킬"
+  },
+  {
+    "repo": "davegoldblatt/total-recall",
     "branch": "main",
     "language": "Shell",
-    "description": "AI Agent skills for a structured catalog of 100k+ US professional-services firms"
+    "description": "Persistent memory plugin for Claude Code. Tiered memory system with write gates, correction propagation, and slash commands."
   },
   {
-    "repo": "huggingface/tokenizers",
-    "branch": "main",
-    "language": "Rust",
-    "description": "💥 Fast State-of-the-Art Tokenizers optimized for Research and Production"
-  },
-  {
-    "repo": "scikit-learn/scikit-learn",
-    "branch": "main",
-    "language": "Python",
-    "description": "scikit-learn: machine learning in Python"
-  },
-  {
-    "repo": "select2/select2",
-    "branch": "develop",
-    "language": "JavaScript",
-    "description": "Select2 is a jQuery based replacement for select boxes. It supports searching, remote data sets, and infinite scrolling of results."
-  },
-  {
-    "repo": "datasciencemasters/go",
+    "repo": "jashkenas/backbone",
     "branch": "master",
-    "language": "Other",
-    "description": "The Open Source Data Science Masters"
+    "language": "JavaScript",
+    "description": "Give your JS App some Backbone with Models, Views, Collections, and Events"
   },
   {
-    "repo": "requests/requests",
+    "repo": "serde-rs/serde",
+    "branch": "master",
+    "language": "Rust",
+    "description": "Serialization framework for Rust"
+  },
+  {
+    "repo": "mverschu/adwsdomaindump",
     "branch": "main",
     "language": "Python",
-    "description": "A simple, yet elegant, HTTP library."
+    "description": "Active Directory information dumper via ADWS for evasion purposes."
   },
   {
-    "repo": "electron/electron",
+    "repo": "microsoft/LlamaSharp",
     "branch": "main",
-    "language": "C++",
-    "description": ":electron: Build cross-platform desktop apps with JavaScript, HTML, and CSS"
+    "language": "Other",
+    "description": ".NET library for Llama model inference."
   },
   {
-    "repo": "babel/babel",
+    "repo": "llvm/llvm-project",
+    "branch": "main",
+    "language": "LLVM",
+    "description": "The LLVM Project is a collection of modular and reusable compiler and toolchain technologies."
+  },
+  {
+    "repo": "tokio-rs/tokio",
+    "branch": "master",
+    "language": "Rust",
+    "description": "A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ..."
+  },
+  {
+    "repo": "kautukkundan/Awesome-Profile-README-templates",
+    "branch": "master",
+    "language": "JavaScript",
+    "description": "A collection of awesome readme templates to display on your profile"
+  },
+  {
+    "repo": "appwrite/appwrite",
     "branch": "main",
     "language": "TypeScript",
-    "description": "🐠 Babel is a compiler for writing next generation JavaScript."
+    "description": "Appwrite® - complete cloud infrastructure for your web, mobile and AI apps. Including Auth, Databases, Storage, Functions, Messaging, Hosting, Realtime and more"
   },
   {
-    "repo": "beeware/toga",
+    "repo": "Zcy233035/rl-explainer",
     "branch": "main",
-    "language": "Python",
-    "description": "A Python native, OS native GUI toolkit."
-  },
-  {
-    "repo": "gradio-app/gradio",
-    "branch": "main",
-    "language": "Python",
-    "description": "Build and share delightful machine learning apps, all in Python. 🌟 Star to support our work!"
-  },
-  {
-    "repo": "nepfaff/scenesmith",
-    "branch": "main",
-    "language": "Python",
-    "description": "Code for SceneSmith: Agentic Generation of Simulation-Ready Indoor Scenes"
-  },
-  {
-    "repo": "stretchr/testify",
-    "branch": "master",
-    "language": "Go",
-    "description": "A toolkit with common assertions and mocks that plays nicely with the standard library"
-  },
-  {
-    "repo": "tw93/Kaku",
-    "branch": "main",
-    "language": "Rust",
-    "description": "☄️ A fast, out-of-the-box terminal built for AI coding."
-  },
-  {
-    "repo": "go-delve/delve",
-    "branch": "master",
-    "language": "Go",
-    "description": "Delve is a debugger for the Go programming language."
-  },
-  {
-    "repo": "gvisor/gvisor",
-    "branch": "master",
-    "language": "Other",
-    "description": "Application Kernel for Containers."
-  },
-  {
-    "repo": "op7418/CodePilot",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "A native desktop GUI for Claude Code — chat, code, and manage projects visually. Built with Electron + Next.js."
-  },
-  {
-    "repo": "CompVis/latent-diffusion",
-    "branch": "main",
-    "language": "Jupyter Notebook",
-    "description": "High-Resolution Image Synthesis with Latent Diffusion Models"
-  },
-  {
-    "repo": "GoogleCloudPlatform/golang-samples",
-    "branch": "main",
-    "language": "Go",
-    "description": "Sample apps and code written for Google Cloud in the Go programming language."
-  },
-  {
-    "repo": "jquery/jquery",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "jQuery JavaScript Library"
-  },
-  {
-    "repo": "celery/celery",
-    "branch": "master",
-    "language": "Python",
-    "description": "Distributed Task Queue (development branch)"
+    "language": "Svelte",
+    "description": "rl-explainer"
   }
 ]
