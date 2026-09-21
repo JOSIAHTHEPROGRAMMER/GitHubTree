@@ -1,8 +1,8 @@
 {
-  "repo": "lakeday-org/perch",
+  "repo": "VDERR/echocat-skill-panel",
   "branch": "main",
   "language": "JavaScript",
-  "description": "Semantic code linting with Jev",
-  "stars": 164,
-  "forks": 12
+  "description": "DSH 技能调用审计 + 应用内 skill 管理器",
+  "stars": 201,
+  "forks": 6
 }
