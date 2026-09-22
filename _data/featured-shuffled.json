@@ -1,146 +1,146 @@
 [
   {
-    "repo": "ddperso/Password_Generator",
-    "branch": "main",
-    "language": "Python",
-    "description": "Generate strong, random passwords with custom length and character sets. Create secure passwords for all your accounts."
-  },
-  {
-    "repo": "cri-o/cri-o",
-    "branch": "main",
-    "language": "Go",
-    "description": "Open Container Initiative-based implementation of Kubernetes Container Runtime Interface"
-  },
-  {
-    "repo": "ZJU-REAL/SkillZero",
-    "branch": "main",
-    "language": "Python",
-    "description": "Official code for SKILL0: In-Context Agentic Reinforcement Learning for Skill Internalization"
-  },
-  {
-    "repo": "glommer/pgmicro",
+    "repo": "kellyclaudeai/openclaw-deck",
     "branch": "master",
-    "language": "Rust",
-    "description": "An in-process reimplementation of PostgreSQL, backed by a SQLite-compatible storage engine"
-  },
-  {
-    "repo": "karpathy/autoresearch",
-    "branch": "master",
-    "language": "Python",
-    "description": "AI agents running research on single-GPU nanochat training automatically"
-  },
-  {
-    "repo": "rust-embedded/discovery",
-    "branch": "master",
-    "language": "Rust",
-    "description": "Discover the world of microcontrollers through Rust!"
-  },
-  {
-    "repo": "tanishqkumar/ssd",
-    "branch": "main",
-    "language": "Python",
-    "description": "A lightweight inference engine supporting speculative speculative decoding (SSD)."
-  },
-  {
-    "repo": "CapeAga/bai-it",
-    "branch": "main",
     "language": "TypeScript",
-    "description": "掰it — Chrome extension for English reading comprehension. Break long sentences into chunks, learn vocabulary in context."
+    "description": "Multi-column chat interface for OpenClaw agents"
   },
   {
-    "repo": "ephraimduncan/opencode-cursor",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Use your cursor subscription in opencode"
-  },
-  {
-    "repo": "portainer/portainer",
-    "branch": "develop",
-    "language": "TypeScript",
-    "description": "Making Docker and Kubernetes management easy."
-  },
-  {
-    "repo": "lukilabs/beautiful-mermaid-swift",
-    "branch": "main",
-    "language": "Swift",
-    "description": "Native Mermaid diagram renderer for Swift"
-  },
-  {
-    "repo": "DarioFT/ComfyUI-Qwen3-TTS",
+    "repo": "jackwener/wechat-article-to-markdown",
     "branch": "main",
     "language": "Python",
-    "description": "A ComfyUI custom node suite for Qwen3-TTS, supporting 1.7B and 0.6B models, Custom Voice, Voice Design, Voice Cloning and Fine-Tuning."
+    "description": "微信公众号文章抓取 & Markdown 转换工具 (cheerio + axios + turndown)"
   },
   {
-    "repo": "ecto/vcad",
-    "branch": "main",
-    "language": "Rust",
-    "description": "Parametric CAD in Rust — CSG modeling with multi-format export"
-  },
-  {
-    "repo": "peters/horizon",
-    "branch": "main",
-    "language": "Rust",
-    "description": "GPU-accelerated spatial terminal observatory — manage terminals, AI agents, and dev tools on an infinite canvas"
-  },
-  {
-    "repo": "thedaviddias/Front-End-Checklist",
-    "branch": "master",
-    "language": "Other",
-    "description": "🗂 The perfect Front-End Checklist for modern websites and meticulous developers"
-  },
-  {
-    "repo": "vercel-labs/portless",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Replace port numbers with stable, named .localhost URLs. For humans and agents."
-  },
-  {
-    "repo": "sorrycc/awesome-javascript",
-    "branch": "master",
-    "language": "Other",
-    "description": "🐢 A collection of awesome browser-side  JavaScript libraries, resources and shiny things."
-  },
-  {
-    "repo": "elder-plinius/OBLITERATUS",
+    "repo": "browser-use/bux",
     "branch": "main",
     "language": "Python",
-    "description": "obliterate the chains that bind you"
+    "description": "A 24/7 Claude Code agent with Browser Harness, on any box you own."
   },
   {
-    "repo": "iflytek/astronclaw-tutorial",
+    "repo": "androidx/androidx",
+    "branch": "androidx-main",
+    "language": "Kotlin",
+    "description": "Development environment for Android Jetpack extension libraries under the androidx namespace. Synchronized with Android Jetpack's primary development branch on AOSP."
+  },
+  {
+    "repo": "Libo-on17/Forsaken_-_Auto-Survive___ESP",
+    "branch": "main",
+    "language": "Python",
+    "description": "Auto-survive and ESP for Forsaken, the horror survival game[reference:38]. See all threats through walls, auto-heal, and survive every round."
+  },
+  {
+    "repo": "prettier/eslint-plugin-prettier",
     "branch": "main",
     "language": "JavaScript",
-    "description": "从零到工作流，掌握 AstronClaw（云端）与 Loomy（桌面）的 AI 助手实战教程 | A complete tutorial to master AstronClaw (cloud AI) & Loomy (desktop AI)"
+    "description": "ESLint plugin for Prettier formatting"
   },
   {
-    "repo": "ColeMurray/background-agents",
+    "repo": "Cranot/agi-in-md",
+    "branch": "master",
+    "language": "Python",
+    "description": "System prompts as cognitive lenses. 13 compression levels, 650+ experiments. Haiku + a 332-word prompt beats Opus vanilla on structural code analysis at 5x less cost. Includes Prism: a lens-powered CLI tool."
+  },
+  {
+    "repo": "LazyVim/LazyVim",
+    "branch": "main",
+    "language": "Lua",
+    "description": "Neovim config for the lazy"
+  },
+  {
+    "repo": "Robbyant/lingbot-world",
+    "branch": "main",
+    "language": "Python",
+    "description": "Advancing Open-source World Models"
+  },
+  {
+    "repo": "arturoabreuhd/pinescript-ai",
     "branch": "main",
     "language": "TypeScript",
-    "description": "An open-source background agent coding system"
+    "description": ""
   },
   {
-    "repo": "larksuite/cli",
+    "repo": "Shubhamsaboo/awesome-llm-apps",
     "branch": "main",
-    "language": "Go",
-    "description": "A command-line tool for Lark/Feishu Open Platform — built for humans and AI Agents. Covers core business domains including Messenger, Docs, Base, Sheets, Calendar, Mail, Tasks, Meetings, and more, with 200+ commands and 19 AI Agent Skills."
+    "language": "Python",
+    "description": "Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models."
   },
   {
-    "repo": "kzhrknt/awesome-design-md-jp",
+    "repo": "cosmiciron/vmprint",
     "branch": "main",
-    "language": "HTML",
-    "description": "日本語UIをAIエージェントに正しくつくらせるためのDESIGN.md集。Japanese DESIGN.md collection for AI agents — extending Google Stitch format with CJK typography."
+    "language": "TypeScript",
+    "description": "A pure-JS, zero-dependency typesetting engine that yields bit-perfect PDF output across any runtime—from Cloudflare Workers to the browser. Stop using Headless Chrome to print text."
   },
   {
-    "repo": "vibe-music/vibe-music-web",
+    "repo": "trumpet-noek/sora2-free-watermark-remover",
+    "branch": "main",
+    "language": "Python",
+    "description": "sora2 free watermark remover"
+  },
+  {
+    "repo": "newrelic/newrelic-java-agent",
+    "branch": "main",
+    "language": "Java",
+    "description": "The New Relic Java agent"
+  },
+  {
+    "repo": "kossisoroyce/timber",
+    "branch": "main",
+    "language": "Python",
+    "description": "Ollama for classical ML models. AOT compiler that turns XGBoost, LightGBM, scikit-learn, CatBoost & ONNX models into native C99 inference code. One command to load, one command to serve. 336x faster than Python inference."
+  },
+  {
+    "repo": "Syngnat/GoNavi",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "现代化、原生体验的数据库管理工具，支持 MySQL、PostgreSQL、SQLite 等数据库，采用 Go 后端 + Wails + React 前端构建，启动快、体积小、性能强。"
+  },
+  {
+    "repo": "LaurieWired/tailslayer",
+    "branch": "main",
+    "language": "C++",
+    "description": "Library for reducing tail latency in RAM reads"
+  },
+  {
+    "repo": "apple/python-apple-fm-sdk",
+    "branch": "main",
+    "language": "Python",
+    "description": "Python bindings for access to the on-device model at the core of Apple Intelligence through the Foundation Models framework"
+  },
+  {
+    "repo": "coleam00/excalidraw-diagram-skill",
+    "branch": "main",
+    "language": "Python",
+    "description": "Skill to give Claude Code (and any coding agent) the ability to generate beautiful and practical Excalidraw diagrams."
+  },
+  {
+    "repo": "Garume/Manifold",
+    "branch": "main",
+    "language": "C#",
+    "description": "Operation-first .NET foundation for generating fast CLI and MCP surfaces from a single definition."
+  },
+  {
+    "repo": "prettier/eslint-config-prettier",
     "branch": "main",
     "language": "JavaScript",
-    "description": "Open-source cloud music player with a bring-your-own-music model. Local control, optional sync, zero platform dependency."
+    "description": "Turns off all rules that are unnecessary or might conflict with Prettier."
   },
   {
-    "repo": "FuelLabs/fuels-ts",
-    "branch": "master",
+    "repo": "MistKailorg/polymarket-copytrading-bot-newlogic",
+    "branch": "main",
     "language": "TypeScript",
-    "description": "Fuel Network Typescript SDK"
+    "description": "polymarket trading bot | polymarket trading bot | polymarket trading bot | polymarket trading bot | polymarket trading bot | polymarket trading bot | polymarket trading bot | polymarket trading bot | polymarket copy trading bot | polymarket copy trading bot | polymarket copy trading bot | polymarket copy trading bot | polymarket copy trading bot |"
+  },
+  {
+    "repo": "homebridge/homebridge",
+    "branch": "latest",
+    "language": "TypeScript",
+    "description": "HomeKit support for the impatient."
+  },
+  {
+    "repo": "moltlaunch/cashclaw",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "An autonomous agent that takes work, does work, gets paid, and gets better at it."
   }
 ]

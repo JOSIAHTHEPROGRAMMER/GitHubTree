@@ -1,8 +1,8 @@
 {
-  "repo": "jkudish/jev-mcp",
+  "repo": "jerryjliu/docjev",
   "branch": "main",
-  "language": "JavaScript",
-  "description": "Fast, cheap, typed judgments from TypeSafe's Jev model, as MCP tools.",
-  "stars": 278,
-  "forks": 30
+  "language": "Python",
+  "description": "A very fast document classifier/splitter using Jev ",
+  "stars": 250,
+  "forks": 19
 }
