@@ -1,146 +1,146 @@
 [
   {
-    "repo": "rit3zh/expo-morphing-menu",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "🗂️ A morphing, keyboard-aware composer + picker menu."
-  },
-  {
-    "repo": "bleuropa/loomkin",
-    "branch": "main",
-    "language": "Elixir",
-    "description": "An Elixir-native AI coding assistant with persistent decision graphs, repo intelligence, and a Phoenix LiveView UI"
-  },
-  {
-    "repo": "googleapis/google-cloud-python",
-    "branch": "main",
-    "language": "Python",
-    "description": "Google Cloud Client Library for Python"
-  },
-  {
-    "repo": "wzj52501/awesome-competitive-olympiad-algorithms",
+    "repo": "gar212/VoidStrap-Roblox",
     "branch": "main",
     "language": "C++",
-    "description": "Original algorithmic contest problems and lecture notes — NOIP to NOI & ACM-ICPC level"
+    "description": "VoidStrap Roblox download bootstrapper launcher custom client optimization tools FPS unlocker utility scripts framework desktop app update manager setup installer repository."
   },
   {
-    "repo": "MarshallBear1/react-native-system-thumbnails",
+    "repo": "Plingvivin/Ableton-Live-12-Windows",
     "branch": "main",
-    "language": "Kotlin",
-    "description": "Native iOS and Android system thumbnails for React Native, with caching, cancellation, and icon fallbacks."
+    "language": "C++",
+    "description": "Ableton Live Free 12 Windows 2026 – Professional Digital Audio Workstation (DAW) for music production, live performance and sound design. Includes powerful MIDI & Audio tools, Session View, Arrangement View, Max for Live, new AI features, advanced warping and mixing tools. Full unlocked Suite edition with all plugins and sound packs."
   },
   {
-    "repo": "bazelbuild/bazel",
+    "repo": "L42ARO/Mercury-Transforming-Drone",
+    "branch": "main",
+    "language": "Python",
+    "description": "Mercury is a transforming drone anyone can build that can be adapted for many use cases thanks to it's versatile mobility, wide range of sensors, and cargo bay area"
+  },
+  {
+    "repo": "vercel-labs/portless",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Replace port numbers with stable, named .localhost URLs. For humans and agents."
+  },
+  {
+    "repo": "millionco/react-doctor",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Let coding agents diagnose and fix your React code"
+  },
+  {
+    "repo": "tomascupr/sandstorm",
+    "branch": "main",
+    "language": "Python",
+    "description": "One API call. Full Claude agent. Completely sandboxed."
+  },
+  {
+    "repo": "figure-markets/polymarket-arbitrage-bot",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "polymarket arbitrage bot polymarket arbitrage bot polymarket arbitrage bot polymarket arbitrage bot polymarket arbitrage bot polymarket arbitrage bot polymarket arbitrage bot polymarket arbitrage bot polymarket arbitrage bot polymarket arbitrage bot polymarket arbitrage bot polymarket arbitrage bot polymarket arbitrage bot polymarket arbitrage bot"
+  },
+  {
+    "repo": "AgriciDaniel/claude-ads",
+    "branch": "main",
+    "language": "Python",
+    "description": "Comprehensive paid advertising audit & optimization skill for Claude Code. 186 checks across Google, Meta, YouTube, LinkedIn, TikTok & Microsoft Ads with weighted scoring, parallel agents, and industry templates."
+  },
+  {
+    "repo": "SuperCmdLabs/SuperCmd",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "What Apple Intelligence should have been"
+  },
+  {
+    "repo": "mrT4ntr4/NtWarden",
     "branch": "master",
-    "language": "Java",
-    "description": "a fast, scalable, multi-language and extensible build system"
+    "language": "C++",
+    "description": "Windows Analysis and Research Toolkit"
   },
   {
-    "repo": "Sateezg/codex-bridge",
+    "repo": "DIYgod/cloudflare-edge-tts",
     "branch": "main",
-    "language": "Shell",
-    "description": "Image generation (gpt-image-2) and GPT-5 subagents for Claude Code — through the Codex CLI login you already have. No OpenAI API key."
+    "language": "TypeScript",
+    "description": ""
   },
   {
-    "repo": "x4gKing/Free-Panel",
+    "repo": "TheCSir/TerminalStart",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Chromium Extension for Tech Bros"
+  },
+  {
+    "repo": "simoncirstoiu/alice",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "Analyse · Learn · Ingest · Curate · Export — AI-powered YOLO dataset management toolkit"
+  },
+  {
+    "repo": "homielab/giapha-os",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Đây là mã nguồn mở cho ứng dụng quản lý gia phả dòng họ, cung cấp giao diện trực quan để xem sơ đồ phả hệ, quản lý thành viên, tìm kiếm và lọc danh sách thành viên."
+  },
+  {
+    "repo": "taigrr/spank",
+    "branch": "master",
+    "language": "Go",
+    "description": "Slap your MacBook, it yells back. Uses Apple Silicon accelerometer via IOKit HID."
+  },
+  {
+    "repo": "yaojingang/GEOFlow",
+    "branch": "main",
+    "language": "PHP",
+    "description": "Open-source GEO content production system with AI tasks, review workflow, and publishing."
+  },
+  {
+    "repo": "avbiswas/fast-rlm",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Recursive Language Models (https://arxiv.org/abs/2512.24601)"
+  },
+  {
+    "repo": "cloudflare/vinext",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Vite plugin that reimplements the Next.js API surface — deploy anywhere"
+  },
+  {
+    "repo": "serenakeyitan/sbti-wiki",
     "branch": "main",
     "language": "HTML",
-    "description": ""
+    "description": "SBTI 人格测试完整结果图鉴 · 27 种结局的中文 Wiki（25 标准人格 + HHHH 兜底 + DRUNK 隐藏）·  https://sbti-wiki.pages.dev"
   },
   {
-    "repo": "google/ExoPlayer",
-    "branch": "release-v2",
-    "language": "Java",
-    "description": "This project is deprecated and stale. The latest ExoPlayer code is available in https://github.com/androidx/media"
-  },
-  {
-    "repo": "OpenSparX/MasterAgent",
-    "branch": "main",
-    "language": "C++",
-    "description": "Build AI agents that run 100% on-device. Sub-100ms latency on Qualcomm NPU. Zero cloud dependency."
-  },
-  {
-    "repo": "JayJokerr/arknights-pixel-autofill",
-    "branch": "main",
-    "language": "Python",
-    "description": "明日方舟 24×24 像素画转换、手动编辑与自动填色工具"
-  },
-  {
-    "repo": "prettier/prettier",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "Prettier is an opinionated code formatter."
-  },
-  {
-    "repo": "T8mars/comfyui-minimax-h3-audio-T8",
-    "branch": "main",
-    "language": "Python",
-    "description": ""
-  },
-  {
-    "repo": "zunmax/osnm-z",
+    "repo": "3DCF-Labs/safepilot",
     "branch": "main",
     "language": "Rust",
-    "description": "OpenSea NFT Minter by Zun : a single as well as multi-wallet Rust CLI for minting NFTs on Opensea"
+    "description": "AI assistant that executes real work, safely."
   },
   {
-    "repo": "apollographql/apollo-server",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "🌍  Spec-compliant and production ready JavaScript GraphQL server that lets you develop in a schema-first way. Built for Express, Connect, Hapi, Koa, and more."
-  },
-  {
-    "repo": "haoran-zha/Awesome-Spiking-Neural-Networks-Hub",
-    "branch": "main",
-    "language": "Python",
-    "description": "The comprehensive bilingual (EN/中文) hub for Spiking Neural Networks — 340+ papers, models, neuromorphic hardware, datasets, tools & research groups."
-  },
-  {
-    "repo": "ReactiveX/RxSwift",
-    "branch": "main",
-    "language": "Swift",
-    "description": "Reactive Programming in Swift"
-  },
-  {
-    "repo": "Extraltodeus/J-Wash",
+    "repo": "Jyy1529/claude-desktop_win-zh_cn",
     "branch": "master",
     "language": "Python",
-    "description": "Jacobian-Brainwash : A framework built on Anthropic's Jacobian Lens for analyzing and customizing LLM internal representations with exportable results."
+    "description": "Claude Desktop Windows 中文补丁 (zh-CN) - 12700+ keys 翻译 + JS chunk UI 标签汉化"
   },
   {
-    "repo": "Nagi-ovo/dsh-ads",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "是兄弟就来蹬我！DSH Web UI 广告：2005 年中文站点风格的侧栏广告 / 对话内信息流 / 角落弹窗 + 一个真实热区比视觉小得多的关闭叉。素材全虚构，域名打码。"
-  },
-  {
-    "repo": "apache/mxnet",
+    "repo": "binhanchen25-arch/agent_plus",
     "branch": "master",
-    "language": "C++",
-    "description": "Lightweight, Portable, Flexible Distributed/Mobile Deep Learning with Dynamic, Mutation-aware Dataflow Dep Scheduler; for Python, R, Julia, Scala, Go, Javascript and more"
-  },
-  {
-    "repo": "zhulin025/Codex-QQ-Skin",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "一款内置复古 QQ 风格外观的 Codex 皮肤生成器。"
-  },
-  {
-    "repo": "disler/fusion-harness",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": ""
-  },
-  {
-    "repo": "ryanzhou/deepseek-v4-flash-mi300x",
-    "branch": "main",
     "language": "Python",
     "description": ""
   },
   {
-    "repo": "sindresorhus/awesome-nodejs",
+    "repo": "jwangkun/hermes-agent-guide",
     "branch": "main",
-    "language": "Other",
-    "description": ":zap: Delightful Node.js packages and resources"
+    "language": "Python",
+    "description": "Hermes Agent 是目前开源社区最具潜力的 AI Agent 框架之一。它继承了 OpenClaw 的优秀基因，在架构设计、记忆系统、技能生态和自动化能力上实现全面升级。但 Hermes 的文档分散在多个仓库和平台，缺乏一本系统性的中文指南。  本书填补的正是这个空白。全书 16 册、30 万+ 字，覆盖从安装部署到高阶开发、从个人玩赚到企业服务、从单 Agent 操控到多 Agent 编排的完整知识图谱。"
+  },
+  {
+    "repo": "joyehuang/Learn-Open-Harness",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "🤖 Official Interactive Tutorial for OpenHarness – Zero to Hero in 12 Chapters | Learn OpenHarness like Claude Code: Agent Loop, Tools, Memory, Multi-Agent | 面向零基础的 AI Agent 交互式教程"
   }
 ]
