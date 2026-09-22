@@ -1,146 +1,146 @@
 [
   {
-    "repo": "agentara/skills",
-    "branch": "main",
-    "language": "HTML",
-    "description": "Original and practical skills for AI builders."
-  },
-  {
-    "repo": "goreleaser/goreleaser",
-    "branch": "main",
-    "language": "Go",
-    "description": "Release engineering, simplified"
-  },
-  {
-    "repo": "rest-assured/rest-assured",
-    "branch": "master",
-    "language": "Java",
-    "description": "Java DSL for easy testing of REST services"
-  },
-  {
-    "repo": "facebookresearch/segment-anything",
-    "branch": "main",
-    "language": "Jupyter Notebook",
-    "description": "The repository provides code for running inference with the SegmentAnything Model (SAM), links for downloading the trained model checkpoints, and example notebooks that show how to use the model."
-  },
-  {
-    "repo": "shareAI-lab/claw0",
-    "branch": "main",
-    "language": "Python",
-    "description": "0 - 1 learn OpenClaw: sections to build an claw-AI agent from scratch"
-  },
-  {
-    "repo": "ray-project/ray",
-    "branch": "master",
-    "language": "Python",
-    "description": "Ray is an AI compute engine. Ray consists of a core distributed runtime and a set of AI Libraries for accelerating ML workloads."
-  },
-  {
-    "repo": "minio/minio",
-    "branch": "master",
-    "language": "Go",
-    "description": "MinIO is a high-performance, S3 compatible object store, open sourced under GNU AGPLv3 license."
-  },
-  {
-    "repo": "xinyitang3/cfnb",
-    "branch": "main",
-    "language": "Python",
-    "description": "这是一个全自动的 Cloudflare CDN 节点优选工具。它通过 TCP 延迟筛选 + IP 可用性二次检测 + 真实带宽测速 + IP 纯净度过滤 四重机制，从海量公开节点中筛选出当前网络环境下速度最快、可用性最高、滥用评分最低的 Cloudflare IP，并支持自动更新至 Cloudflare DNS 以及同步至 GitHub 仓库，同时支持微信实时通知。"
-  },
-  {
-    "repo": "helix-editor/helix",
-    "branch": "master",
-    "language": "Rust",
-    "description": "A post-modern modal text editor."
-  },
-  {
-    "repo": "FreedomIntelligence/OpenClaw-Medical-Skills",
-    "branch": "main",
-    "language": "Python",
-    "description": "The largest open-source medical AI skills library for OpenClaw🦞."
-  },
-  {
-    "repo": "zggf-zggf/openviktor",
+    "repo": "rit3zh/expo-morphing-menu",
     "branch": "main",
     "language": "TypeScript",
-    "description": "Your AI employee for Slack — open source, self-hosted, MIT licensed"
+    "description": "🗂️ A morphing, keyboard-aware composer + picker menu."
   },
   {
-    "repo": "ARMSX2/ARMSX1",
+    "repo": "bleuropa/loomkin",
     "branch": "main",
-    "language": "C",
-    "description": "New PS1 Emulator from the Founders of ARMSX2"
+    "language": "Elixir",
+    "description": "An Elixir-native AI coding assistant with persistent decision graphs, repo intelligence, and a Phoenix LiveView UI"
   },
   {
-    "repo": "wagmi-dev/wagmi",
+    "repo": "googleapis/google-cloud-python",
     "branch": "main",
-    "language": "TypeScript",
-    "description": "Reactive primitives for Ethereum apps"
+    "language": "Python",
+    "description": "Google Cloud Client Library for Python"
   },
   {
-    "repo": "iad1tya/EchoTube",
+    "repo": "wzj52501/awesome-competitive-olympiad-algorithms",
+    "branch": "main",
+    "language": "C++",
+    "description": "Original algorithmic contest problems and lecture notes — NOIP to NOI & ACM-ICPC level"
+  },
+  {
+    "repo": "MarshallBear1/react-native-system-thumbnails",
     "branch": "main",
     "language": "Kotlin",
-    "description": "Open-source YouTube client - enjoy an ad-free experience in a lightweight app, no account required."
+    "description": "Native iOS and Android system thumbnails for React Native, with caching, cancellation, and icon fallbacks."
   },
   {
-    "repo": "openai/shap-e",
+    "repo": "bazelbuild/bazel",
+    "branch": "master",
+    "language": "Java",
+    "description": "a fast, scalable, multi-language and extensible build system"
+  },
+  {
+    "repo": "Sateezg/codex-bridge",
     "branch": "main",
-    "language": "Python",
-    "description": "Generate 3D objects conditioned on text or images"
+    "language": "Shell",
+    "description": "Image generation (gpt-image-2) and GPT-5 subagents for Claude Code — through the Codex CLI login you already have. No OpenAI API key."
   },
   {
-    "repo": "VAST-AI-Research/TripoSplat",
-    "branch": "main",
-    "language": "Python",
-    "description": "TripoSplat converts a single 2D image into high-quality and variable number of 3D Gaussians, developed by TripoAI."
-  },
-  {
-    "repo": "CoderLuii/HolyClaude",
-    "branch": "master",
-    "language": "Dockerfile",
-    "description": "AI coding workstation: Claude Code + web UI + 5 AI CLIs + headless browser + 50+ tools"
-  },
-  {
-    "repo": "react-native-webview/react-native-webview",
-    "branch": "master",
-    "language": "TypeScript",
-    "description": "React Native Cross-Platform WebView"
-  },
-  {
-    "repo": "rs/zerolog",
-    "branch": "master",
-    "language": "Go",
-    "description": "Zero Allocation JSON Logger"
-  },
-  {
-    "repo": "charan820/PhantomCrowd-Simulacra",
+    "repo": "x4gKing/Free-Panel",
     "branch": "main",
     "language": "HTML",
-    "description": "PhantomCrowd AI Marketing Simulator 2026: Content Spread Forecasting with Local LLM"
+    "description": ""
   },
   {
-    "repo": "go-kit/kit",
+    "repo": "google/ExoPlayer",
+    "branch": "release-v2",
+    "language": "Java",
+    "description": "This project is deprecated and stale. The latest ExoPlayer code is available in https://github.com/androidx/media"
+  },
+  {
+    "repo": "OpenSparX/MasterAgent",
+    "branch": "main",
+    "language": "C++",
+    "description": "Build AI agents that run 100% on-device. Sub-100ms latency on Qualcomm NPU. Zero cloud dependency."
+  },
+  {
+    "repo": "JayJokerr/arknights-pixel-autofill",
+    "branch": "main",
+    "language": "Python",
+    "description": "明日方舟 24×24 像素画转换、手动编辑与自动填色工具"
+  },
+  {
+    "repo": "prettier/prettier",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "Prettier is an opinionated code formatter."
+  },
+  {
+    "repo": "T8mars/comfyui-minimax-h3-audio-T8",
+    "branch": "main",
+    "language": "Python",
+    "description": ""
+  },
+  {
+    "repo": "zunmax/osnm-z",
+    "branch": "main",
+    "language": "Rust",
+    "description": "OpenSea NFT Minter by Zun : a single as well as multi-wallet Rust CLI for minting NFTs on Opensea"
+  },
+  {
+    "repo": "apollographql/apollo-server",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "🌍  Spec-compliant and production ready JavaScript GraphQL server that lets you develop in a schema-first way. Built for Express, Connect, Hapi, Koa, and more."
+  },
+  {
+    "repo": "haoran-zha/Awesome-Spiking-Neural-Networks-Hub",
+    "branch": "main",
+    "language": "Python",
+    "description": "The comprehensive bilingual (EN/中文) hub for Spiking Neural Networks — 340+ papers, models, neuromorphic hardware, datasets, tools & research groups."
+  },
+  {
+    "repo": "ReactiveX/RxSwift",
+    "branch": "main",
+    "language": "Swift",
+    "description": "Reactive Programming in Swift"
+  },
+  {
+    "repo": "Extraltodeus/J-Wash",
     "branch": "master",
-    "language": "Go",
-    "description": "A standard library for microservices."
+    "language": "Python",
+    "description": "Jacobian-Brainwash : A framework built on Anthropic's Jacobian Lens for analyzing and customizing LLM internal representations with exportable results."
   },
   {
-    "repo": "programmersd21/flow",
-    "branch": "main",
-    "language": "Go",
-    "description": "🌊 see your network breathe"
-  },
-  {
-    "repo": "codeaashu/claude-code",
+    "repo": "Nagi-ovo/dsh-ads",
     "branch": "main",
     "language": "TypeScript",
-    "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands."
+    "description": "是兄弟就来蹬我！DSH Web UI 广告：2005 年中文站点风格的侧栏广告 / 对话内信息流 / 角落弹窗 + 一个真实热区比视觉小得多的关闭叉。素材全虚构，域名打码。"
   },
   {
-    "repo": "rolekkona/Polymarket-Arbitrage-Trading-Bot",
+    "repo": "apache/mxnet",
+    "branch": "master",
+    "language": "C++",
+    "description": "Lightweight, Portable, Flexible Distributed/Mobile Deep Learning with Dynamic, Mutation-aware Dataflow Dep Scheduler; for Python, R, Julia, Scala, Go, Javascript and more"
+  },
+  {
+    "repo": "zhulin025/Codex-QQ-Skin",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "一款内置复古 QQ 风格外观的 Codex 皮肤生成器。"
+  },
+  {
+    "repo": "disler/fusion-harness",
     "branch": "main",
     "language": "TypeScript",
-    "description": "polymarket arbitragy trading Bot | | polymarket arbitragy trading Bot | | polymarket arbitragy trading Bot | | polymarket arbitragy trading Bot | |"
+    "description": ""
+  },
+  {
+    "repo": "ryanzhou/deepseek-v4-flash-mi300x",
+    "branch": "main",
+    "language": "Python",
+    "description": ""
+  },
+  {
+    "repo": "sindresorhus/awesome-nodejs",
+    "branch": "main",
+    "language": "Other",
+    "description": ":zap: Delightful Node.js packages and resources"
   }
 ]
