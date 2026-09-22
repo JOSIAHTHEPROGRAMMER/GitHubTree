@@ -1,8 +1,8 @@
 {
-  "repo": "Rizzo-AI-Academy/rizzo-flow",
+  "repo": "jkudish/jev-mcp",
   "branch": "main",
-  "language": "Python",
-  "description": "The open, local take on Jev: typed decisions from an LLM, without generating a single token",
-  "stars": 302,
-  "forks": 13
+  "language": "JavaScript",
+  "description": "Fast, cheap, typed judgments from TypeSafe's Jev model, as MCP tools.",
+  "stars": 278,
+  "forks": 30
 }
