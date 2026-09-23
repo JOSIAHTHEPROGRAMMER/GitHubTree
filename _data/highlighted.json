@@ -1,8 +1,8 @@
 {
-  "repo": "jerryjliu/docjev",
+  "repo": "OmniJev/awesome-jev-gallery",
   "branch": "main",
-  "language": "Python",
-  "description": "A very fast document classifier/splitter using Jev ",
-  "stars": 250,
-  "forks": 19
+  "language": "JavaScript",
+  "description": "🔥🔥 Papers, open reproductions and independent evaluations behind System One models and Jev.",
+  "stars": 211,
+  "forks": 14
 }

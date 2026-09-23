@@ -1,146 +1,146 @@
 [
   {
-    "repo": "kellyclaudeai/openclaw-deck",
-    "branch": "master",
-    "language": "TypeScript",
-    "description": "Multi-column chat interface for OpenClaw agents"
-  },
-  {
-    "repo": "jackwener/wechat-article-to-markdown",
-    "branch": "main",
-    "language": "Python",
-    "description": "微信公众号文章抓取 & Markdown 转换工具 (cheerio + axios + turndown)"
-  },
-  {
-    "repo": "browser-use/bux",
-    "branch": "main",
-    "language": "Python",
-    "description": "A 24/7 Claude Code agent with Browser Harness, on any box you own."
-  },
-  {
-    "repo": "androidx/androidx",
-    "branch": "androidx-main",
-    "language": "Kotlin",
-    "description": "Development environment for Android Jetpack extension libraries under the androidx namespace. Synchronized with Android Jetpack's primary development branch on AOSP."
-  },
-  {
-    "repo": "Libo-on17/Forsaken_-_Auto-Survive___ESP",
-    "branch": "main",
-    "language": "Python",
-    "description": "Auto-survive and ESP for Forsaken, the horror survival game[reference:38]. See all threats through walls, auto-heal, and survive every round."
-  },
-  {
-    "repo": "prettier/eslint-plugin-prettier",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "ESLint plugin for Prettier formatting"
-  },
-  {
-    "repo": "Cranot/agi-in-md",
-    "branch": "master",
-    "language": "Python",
-    "description": "System prompts as cognitive lenses. 13 compression levels, 650+ experiments. Haiku + a 332-word prompt beats Opus vanilla on structural code analysis at 5x less cost. Includes Prism: a lens-powered CLI tool."
-  },
-  {
-    "repo": "LazyVim/LazyVim",
-    "branch": "main",
-    "language": "Lua",
-    "description": "Neovim config for the lazy"
-  },
-  {
-    "repo": "Robbyant/lingbot-world",
-    "branch": "main",
-    "language": "Python",
-    "description": "Advancing Open-source World Models"
-  },
-  {
-    "repo": "arturoabreuhd/pinescript-ai",
+    "repo": "alexngdev99/rork-medieval-3d-chess",
     "branch": "main",
     "language": "TypeScript",
+    "description": "Created by Rork"
+  },
+  {
+    "repo": "chekusu/wanman",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "wanman is an open-source agent matrix runtime inspired by Japanese one-man trains. It lets human users step back into an observer role while local agent runtimes coordinate autonomous multi-agent workflows, task execution, and artifacts."
+  },
+  {
+    "repo": "googleapis/python-storage",
+    "branch": "main",
+    "language": "Python",
+    "description": "Python SDK for GCS (Google Cloud Storage)"
+  },
+  {
+    "repo": "baidu/ERNIE-Image",
+    "branch": "main",
+    "language": "Python",
+    "description": "ERNIE-Image is an open text-to-image generation model developed by the ERNIE-Image team at Baidu. It is built on a single-stream Diffusion Transformer (DiT), with only 8B DiT parameters, it reaches state-of-the-art performance among open-weight text-to-image models."
+  },
+  {
+    "repo": "apache/maven",
+    "branch": "master",
+    "language": "Java",
+    "description": "Apache Maven core"
+  },
+  {
+    "repo": "PyGithub/PyGithub",
+    "branch": "master",
+    "language": "Python",
+    "description": "Typed interactions with the GitHub API v3"
+  },
+  {
+    "repo": "giusmarci/openwhisp",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Voice to text, entirely on your machine. Hold Fn, speak, release — transcribed, polished, and pasted. No cloud, no account, no latency."
+  },
+  {
+    "repo": "Aidenybai/React-Scan",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Scan for React performance issues and eliminate slow renders in your app"
+  },
+  {
+    "repo": "listyantidewi1/your-everyday-tools",
+    "branch": "main",
+    "language": "HTML",
     "description": ""
   },
   {
-    "repo": "Shubhamsaboo/awesome-llm-apps",
-    "branch": "main",
-    "language": "Python",
-    "description": "Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models."
-  },
-  {
-    "repo": "cosmiciron/vmprint",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "A pure-JS, zero-dependency typesetting engine that yields bit-perfect PDF output across any runtime—from Cloudflare Workers to the browser. Stop using Headless Chrome to print text."
-  },
-  {
-    "repo": "trumpet-noek/sora2-free-watermark-remover",
-    "branch": "main",
-    "language": "Python",
-    "description": "sora2 free watermark remover"
-  },
-  {
-    "repo": "newrelic/newrelic-java-agent",
-    "branch": "main",
-    "language": "Java",
-    "description": "The New Relic Java agent"
-  },
-  {
-    "repo": "kossisoroyce/timber",
-    "branch": "main",
-    "language": "Python",
-    "description": "Ollama for classical ML models. AOT compiler that turns XGBoost, LightGBM, scikit-learn, CatBoost & ONNX models into native C99 inference code. One command to load, one command to serve. 336x faster than Python inference."
-  },
-  {
-    "repo": "Syngnat/GoNavi",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "现代化、原生体验的数据库管理工具，支持 MySQL、PostgreSQL、SQLite 等数据库，采用 Go 后端 + Wails + React 前端构建，启动快、体积小、性能强。"
-  },
-  {
-    "repo": "LaurieWired/tailslayer",
+    "repo": "akanksh13/Crimson-Desert-RenoDX-Desktop",
     "branch": "main",
     "language": "C++",
-    "description": "Library for reducing tail latency in RAM reads"
+    "description": "Crimson Desert RenoDX PC Edition delivers enhanced graphics, improved performance, and modern rendering for Crimson Desert on Windows. Better lighting, textures, draw distance and optimized visuals for a more immersive desert adventure."
   },
   {
-    "repo": "apple/python-apple-fm-sdk",
+    "repo": "strapi/strapi",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "🚀 Strapi is the leading open-source headless CMS. It’s 100% JavaScript/TypeScript, fully customizable, and developer-first."
+  },
+  {
+    "repo": "newrelic/newrelic-python-agent",
     "branch": "main",
     "language": "Python",
-    "description": "Python bindings for access to the on-device model at the core of Apple Intelligence through the Foundation Models framework"
+    "description": "New Relic Python Agent"
   },
   {
-    "repo": "coleam00/excalidraw-diagram-skill",
+    "repo": "mduongvandinh/llm-wiki",
     "branch": "main",
-    "language": "Python",
-    "description": "Skill to give Claude Code (and any coding agent) the ability to generate beautiful and practical Excalidraw diagrams."
+    "language": "HTML",
+    "description": "Hệ thống knowledge base cá nhân hoàn toàn tự động, vận hành bởi LLM. Dựa trên pattern LLM Wiki của Andrej Karpathy."
   },
   {
-    "repo": "Garume/Manifold",
-    "branch": "main",
-    "language": "C#",
-    "description": "Operation-first .NET foundation for generating fast CLI and MCP surfaces from a single definition."
-  },
-  {
-    "repo": "prettier/eslint-config-prettier",
+    "repo": "mgks/GitHubTree",
     "branch": "main",
     "language": "JavaScript",
-    "description": "Turns off all rules that are unnecessary or might conflict with Prettier."
+    "description": "Visualise any GitHub repository folder structure. Available as a web app, CLI tool, and node.js library."
   },
   {
-    "repo": "MistKailorg/polymarket-copytrading-bot-newlogic",
+    "repo": "agenmod/immortal-skill",
+    "branch": "main",
+    "language": "Python",
+    "description": "♾️ 开源数字永生框架 — 从聊天记录蒸馏任何人的七维数字分身。支持微信/飞书/iMessage/Telegram等12+平台，7种角色模板，对齐 OpenClaw Soul Spec 标准。一行指令让你的AI学会蒸馏。"
+  },
+  {
+    "repo": "kautukkundan/Awesome-Profile-README-templates",
+    "branch": "master",
+    "language": "JavaScript",
+    "description": "A collection of awesome readme templates to display on your profile"
+  },
+  {
+    "repo": "adanto/EtwTiViewer",
+    "branch": "main",
+    "language": "C++",
+    "description": "Live ETW-TI event viewer for Windows kernel threat-intelligence telemetry. Research tool for exploring the same signals commercial EDRs rely on."
+  },
+  {
+    "repo": "etcd-io/etcd",
+    "branch": "main",
+    "language": "Go",
+    "description": "Distributed reliable key-value store for the most critical data of a distributed system"
+  },
+  {
+    "repo": "shanselman/PeekDesktop",
+    "branch": "main",
+    "language": "C#",
+    "description": "Click your desktop to peek at it - just like macOS Sonoma."
+  },
+  {
+    "repo": "aws/aws-cli",
+    "branch": "v2",
+    "language": "Python",
+    "description": "Universal Command Line Interface for Amazon Web Services"
+  },
+  {
+    "repo": "Textualize/rich",
+    "branch": "master",
+    "language": "Python",
+    "description": "Rich is a Python library for rich text and beautiful formatting in the terminal."
+  },
+  {
+    "repo": "nsqio/nsq",
+    "branch": "master",
+    "language": "Go",
+    "description": "A realtime distributed messaging platform"
+  },
+  {
+    "repo": "deepmind/mujoco",
+    "branch": "main",
+    "language": "C++",
+    "description": "Multi-Joint dynamics with Contact. A general purpose physics simulator."
+  },
+  {
+    "repo": "dashkit-protocol/polymarket-arbitrage-bot",
     "branch": "main",
     "language": "TypeScript",
-    "description": "polymarket trading bot | polymarket trading bot | polymarket trading bot | polymarket trading bot | polymarket trading bot | polymarket trading bot | polymarket trading bot | polymarket trading bot | polymarket copy trading bot | polymarket copy trading bot | polymarket copy trading bot | polymarket copy trading bot | polymarket copy trading bot |"
-  },
-  {
-    "repo": "homebridge/homebridge",
-    "branch": "latest",
-    "language": "TypeScript",
-    "description": "HomeKit support for the impatient."
-  },
-  {
-    "repo": "moltlaunch/cashclaw",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "An autonomous agent that takes work, does work, gets paid, and gets better at it."
+    "description": "polymarket arbitrage bot, polymarket arbitrage bot, polymarket arbitrage bot, polymarket arbitrage bot, polymarket arbitrage bot, polymarket arbitrage bot, polymarket arbitrage bot, polymarket arbitrage bot, polymarket arbitrage bot, polymarket arbitrage bot, polymarket arbitrage bot, polymarket arbitrage bot, polymarket arbitrage bot"
   }
 ]
