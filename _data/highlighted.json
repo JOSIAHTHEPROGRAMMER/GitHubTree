@@ -1,8 +1,8 @@
 {
-  "repo": "wangyunjeff/sub2api-state-kit",
+  "repo": "haplollc/ThinkingOrbs",
   "branch": "main",
-  "language": "Go",
-  "description": "Sub2API 账号级 STATE 扩展：Pro/Team 选择、固定代理复验与 312 异常动态守护（实验版）",
-  "stars": 201,
-  "forks": 59
+  "language": "Swift",
+  "description": "Dotted, honestly-3D loading indicators for AI and agent interfaces in SwiftUI. Nine hand-tuned designs, two tuned sizes.",
+  "stars": 190,
+  "forks": 16
 }

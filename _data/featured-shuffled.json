@@ -1,146 +1,146 @@
 [
   {
-    "repo": "Mathifygaming/OpenGOAL-Jak-PC-Port",
-    "branch": "main",
-    "language": "C++",
-    "description": "Jak 3 PC Port download OpenGOAL native port Jak Daxter Wasteland Haven City Precursor Light Dark Eco vehicles desert combat missions platformer."
-  },
-  {
-    "repo": "ArielMartinezz/Character-Creator-Female-Crimson-Desert-Mod",
-    "branch": "main",
-    "language": "C++",
-    "description": "Download Character Creator Female mod for Crimson Desert. Expanded customization with new hairstyles, faces, body morphs, outfits, and accessories. Create more beautiful and diverse female characters with high-quality textures and presets."
-  },
-  {
-    "repo": "iFurySt/open-codex-computer-use",
-    "branch": "main",
-    "language": "Swift",
-    "description": "👾 Open Computer Use – Open-Source Alternative to Codex Computer Use"
-  },
-  {
-    "repo": "akitaonrails/FrankSherlock",
+    "repo": "clockworklabs/SpacetimeDB",
     "branch": "master",
     "language": "Rust",
-    "description": "Intelligent File Searcher that can search for descriptions in media files like photos, for example receipt from market of $42.00 using AI based classification"
+    "description": "Multiplayer at the speed of light"
   },
   {
-    "repo": "thellimist/clihub",
+    "repo": "cloudflare/pingora",
     "branch": "main",
-    "language": "Go",
+    "language": "Rust",
+    "description": "A library for building fast, reliable and evolvable network services."
+  },
+  {
+    "repo": "StreisandEffect/streisand",
+    "branch": "master",
+    "language": "Shell",
+    "description": "Streisand sets up a new server running your choice of WireGuard, OpenConnect, OpenSSH, OpenVPN, Shadowsocks, sslh, Stunnel, or a Tor bridge. It also generates custom instructions for all of these services. At the end of the run you are given an HTML file with instructions that can be shared with friends, family members, and fellow activists."
+  },
+  {
+    "repo": "theori-io/copy-fail-CVE-2026-31431",
+    "branch": "main",
+    "language": "Python",
     "description": ""
   },
   {
-    "repo": "SimplifyJobs/Summer2025-Internships",
-    "branch": "main",
-    "language": "Python",
-    "description": "Collection of Summer 2026 tech internships!"
+    "repo": "ory/kratos",
+    "branch": "master",
+    "language": "Go",
+    "description": "Headless cloud-native authentication and identity management written in Go. Scales to a billion+ users. Replace Homegrown, Auth0, Okta, Firebase with better UX and DX. Passkeys, Social Sign In, OIDC, Magic Link, Multi-Factor Auth, SMS, SAML, TOTP, and more. Runs everywhere, runs best on Ory Network."
   },
   {
-    "repo": "altair-viz/altair",
-    "branch": "main",
-    "language": "Python",
-    "description": "Declarative visualization library for Python"
+    "repo": "Anemll/flash-moe",
+    "branch": "m5-nax",
+    "language": "Objective-C",
+    "description": ""
   },
   {
-    "repo": "jasmine/jasmine",
+    "repo": "prisma/graphql-yoga",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "🧘 Rewrite of a fully-featured GraphQL Server with focus on easy setup, performance & great developer experience.  The core of Yoga implements WHATWG Fetch API and can run/deploy on any JS environment."
+  },
+  {
+    "repo": "chrisberg-code1992s6/Meccha-Auto-Painter",
+    "branch": "main",
+    "language": "C++",
+    "description": "Meccha Chameleon Auto Paint Tool - free utility for auto painting."
+  },
+  {
+    "repo": "StanGibson/polymarket-copy-trading-bot",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "polymarket trading bot,polymarket copy trading bot,polymarket trading bot,polymarket copy trading bot,polymarket trading bot,polymarket copy trading bot,polymarket trading bot,polymarket copy trading bot,polymarket trading bot,polymarket copy trading bot,polymarket trading bot,polymarket copy trading bot,"
+  },
+  {
+    "repo": "tangxu1995/DBD-AutoGrind-Trainer-2026-Elite",
+    "branch": "main",
+    "language": "Python",
+    "description": "Ultimate Dead by Daylight auto-grind trainer Elite edition with Bloodpoint bot, ESP wallhack, aimbot, and full perk/skin unlocker. Dominate the Fog with our 2026 undetected external tool."
+  },
+  {
+    "repo": "0xSero/codex-shim",
+    "branch": "main",
+    "language": "Python",
+    "description": "Local Responses-API shim that exposes Factory BYOK models (and optional ChatGPT GPT-5.5 passthrough) to Codex Desktop."
+  },
+  {
+    "repo": "pulkitxm/claude-directory",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Experimentation projects with Anthropic's new Claude models (Fable 5 / Mythos)"
+  },
+  {
+    "repo": "RayceAnderson/tomodachi-pc",
+    "branch": "main",
+    "language": "C#",
+    "description": "tomodachi life pc living  the dream windows  free patch notes update ryujinx emulator rom nsp xci mii creator life simulator 60fps mod graphics config save file setup guide fix crash"
+  },
+  {
+    "repo": "Sayhi-bzb/AIEden",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "an LLM-native world and civilization"
+  },
+  {
+    "repo": "DEEIX-AI/DEEIX-Chat",
+    "branch": "dev",
+    "language": "Go",
+    "description": "An enterprise AI workspace for model routing, multimodal chat, files, tools, billing, identity, and operations."
+  },
+  {
+    "repo": "perglervitek/Blox-Fruits-Dragon-Update-Auto-Farm-Script-2026-Pro",
+    "branch": "main",
+    "language": "Python",
+    "description": "Maximize your progress in Blox Fruits with this Pro trainer – auto farm, ESP, raid, and anti‑ban included."
+  },
+  {
+    "repo": "ChristianJR19/GoblinOS",
+    "branch": "main",
+    "language": "Python",
+    "description": "a Hermes Agent personality layer that replaces the default agent identity with a persistent, mood-driven goblin persona"
+  },
+  {
+    "repo": "real-Elysia886/Todo-Tree-Next",
     "branch": "main",
     "language": "JavaScript",
-    "description": "Simple JavaScript testing framework for browsers and node.js"
+    "description": "Modern rewrite of Todo Tree — TypeScript + Rust architecture for blazing-fast TODO scanning in VS Code"
   },
   {
-    "repo": "1-dr-eam/RecommenderSystem",
-    "branch": "RecommenderSystem",
+    "repo": "tanekaverd64170803960/Lossless-Scaling-Util-V3.0",
+    "branch": "main",
+    "language": "C#",
+    "description": "A standalone utility to configure, optimize, and unlock lossless frame generation and scaling features for any 3D application or game."
+  },
+  {
+    "repo": "arnabbagxd/Brand-building-skills",
+    "branch": "main",
+    "language": "Shell",
+    "description": "Brand building skills for Claude Code and AI agents. strategy, naming, identity, voice, positioning, messaging, auditing, and launch"
+  },
+  {
+    "repo": "vinayaklatthe/microsoft-security-skills",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "Curated Microsoft Security skills for AI agents - Defender, Sentinel, Entra, Purview, Intune, Security Copilot"
+  },
+  {
+    "repo": "yande0/Hades-II-Trainer-Pro",
+    "branch": "main",
     "language": "Python",
-    "description": "本项目复现了工业界常用的且有效的推荐系统各模块，将其进行全链路整合，并提供外部调用API"
+    "description": "Hades II Trainer 2026 – the most powerful cheat collection. Get unlimited everything, one-hit kills, no cooldowns and more."
   },
   {
-    "repo": "actix/actix-web",
+    "repo": "duggasco/bc250-40cu-unlock",
+    "branch": "main",
+    "language": "Shell",
+    "description": "Re-enable all 40 CUs on the AMD BC-250 (gfx1013 / Cyan Skillfish). Kernel patch + build script. 1.61x compute scaling verified."
+  },
+  {
+    "repo": "tensorflow/tensorboard",
     "branch": "master",
-    "language": "Rust",
-    "description": "Actix Web is a powerful, pragmatic, and extremely fast web framework for Rust."
-  },
-  {
-    "repo": "EvolutionAPI/evo-nexus",
-    "branch": "main",
     "language": "TypeScript",
-    "description": "The open source operating system for AI-powered businesses — built on Claude Code"
-  },
-  {
-    "repo": "freeCodeCamp/freeCodeCamp",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free."
-  },
-  {
-    "repo": "Doriandarko/webmcp-starter",
-    "branch": "main",
-    "language": "HTML",
-    "description": "WebMCP starter demo — a DoorDash-style food delivery app with 9 AI agent tools (imperative + declarative)"
-  },
-  {
-    "repo": "RhysSullivan/fastergh",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": ""
-  },
-  {
-    "repo": "socketio/socket.io",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Realtime application framework (Node.JS server)"
-  },
-  {
-    "repo": "pi0/skillman",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "🤹 Manage project skills and lock them in skills.json"
-  },
-  {
-    "repo": "serde-rs/serde",
-    "branch": "master",
-    "language": "Rust",
-    "description": "Serialization framework for Rust"
-  },
-  {
-    "repo": "certbot/certbot",
-    "branch": "main",
-    "language": "Python",
-    "description": "Certbot is EFF's tool to obtain certs from Let's Encrypt and (optionally) auto-enable HTTPS on your server.  It can also act as a client for any other CA that uses the ACME protocol."
-  },
-  {
-    "repo": "kellyvv/PhoneClaw",
-    "branch": "main",
-    "language": "Swift",
-    "description": "PhoneClaw: On-device AI Agent for Phone powered by Gemma 4"
-  },
-  {
-    "repo": "vuejs/vue",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "This is the repo for Vue 2. For Vue 3, go to https://github.com/vuejs/core"
-  },
-  {
-    "repo": "GoAdminGroup/go-admin",
-    "branch": "master",
-    "language": "Go",
-    "description": "A golang framework helps gopher to build a data visualization and admin panel in ten minutes"
-  },
-  {
-    "repo": "lllyasviel/VCC",
-    "branch": "main",
-    "language": "Python",
-    "description": "Compile agent conversations!"
-  },
-  {
-    "repo": "django/django",
-    "branch": "main",
-    "language": "Python",
-    "description": "The Web framework for perfectionists with deadlines."
-  },
-  {
-    "repo": "google/benchmark",
-    "branch": "main",
-    "language": "C++",
-    "description": "A microbenchmark support library"
+    "description": "TensorFlow's Visualization Toolkit"
   }
 ]
