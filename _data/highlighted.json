@@ -1,8 +1,8 @@
 {
-  "repo": "0xNatoshi/jev-codex-router",
+  "repo": "wangyunjeff/sub2api-state-kit",
   "branch": "main",
-  "language": "JavaScript",
-  "description": "Per-turn model & reasoning routing for Codex, driven by Jev (TypeSafe System One): picks the model, thinking depth and speed mode for every turn.",
-  "stars": 242,
-  "forks": 28
+  "language": "Go",
+  "description": "Sub2API 账号级 STATE 扩展：Pro/Team 选择、固定代理复验与 312 异常动态守护（实验版）",
+  "stars": 201,
+  "forks": 59
 }

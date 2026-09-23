@@ -1,146 +1,146 @@
 [
   {
-    "repo": "NxcoreAI/NxMem",
+    "repo": "Mathifygaming/OpenGOAL-Jak-PC-Port",
+    "branch": "main",
+    "language": "C++",
+    "description": "Jak 3 PC Port download OpenGOAL native port Jak Daxter Wasteland Haven City Precursor Light Dark Eco vehicles desert combat missions platformer."
+  },
+  {
+    "repo": "ArielMartinezz/Character-Creator-Female-Crimson-Desert-Mod",
+    "branch": "main",
+    "language": "C++",
+    "description": "Download Character Creator Female mod for Crimson Desert. Expanded customization with new hairstyles, faces, body morphs, outfits, and accessories. Create more beautiful and diverse female characters with high-quality textures and presets."
+  },
+  {
+    "repo": "iFurySt/open-codex-computer-use",
+    "branch": "main",
+    "language": "Swift",
+    "description": "👾 Open Computer Use – Open-Source Alternative to Codex Computer Use"
+  },
+  {
+    "repo": "akitaonrails/FrankSherlock",
+    "branch": "master",
+    "language": "Rust",
+    "description": "Intelligent File Searcher that can search for descriptions in media files like photos, for example receipt from market of $42.00 using AI based classification"
+  },
+  {
+    "repo": "thellimist/clihub",
+    "branch": "main",
+    "language": "Go",
+    "description": ""
+  },
+  {
+    "repo": "SimplifyJobs/Summer2025-Internships",
+    "branch": "main",
+    "language": "Python",
+    "description": "Collection of Summer 2026 tech internships!"
+  },
+  {
+    "repo": "altair-viz/altair",
+    "branch": "main",
+    "language": "Python",
+    "description": "Declarative visualization library for Python"
+  },
+  {
+    "repo": "jasmine/jasmine",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "Simple JavaScript testing framework for browsers and node.js"
+  },
+  {
+    "repo": "1-dr-eam/RecommenderSystem",
+    "branch": "RecommenderSystem",
+    "language": "Python",
+    "description": "本项目复现了工业界常用的且有效的推荐系统各模块，将其进行全链路整合，并提供外部调用API"
+  },
+  {
+    "repo": "actix/actix-web",
+    "branch": "master",
+    "language": "Rust",
+    "description": "Actix Web is a powerful, pragmatic, and extremely fast web framework for Rust."
+  },
+  {
+    "repo": "EvolutionAPI/evo-nexus",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "The open source operating system for AI-powered businesses — built on Claude Code"
+  },
+  {
+    "repo": "freeCodeCamp/freeCodeCamp",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free."
+  },
+  {
+    "repo": "Doriandarko/webmcp-starter",
+    "branch": "main",
+    "language": "HTML",
+    "description": "WebMCP starter demo — a DoorDash-style food delivery app with 9 AI agent tools (imperative + declarative)"
+  },
+  {
+    "repo": "RhysSullivan/fastergh",
     "branch": "main",
     "language": "TypeScript",
     "description": ""
   },
   {
-    "repo": "apple/swift-nio",
+    "repo": "socketio/socket.io",
     "branch": "main",
-    "language": "Swift",
-    "description": "Event-driven network application framework for high performance protocol servers & clients, non-blocking."
+    "language": "TypeScript",
+    "description": "Realtime application framework (Node.JS server)"
   },
   {
-    "repo": "Significant-Gravitas/AutoGPT",
-    "branch": "master",
-    "language": "Python",
-    "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters."
+    "repo": "pi0/skillman",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "🤹 Manage project skills and lock them in skills.json"
   },
   {
-    "repo": "actix/actix",
+    "repo": "serde-rs/serde",
     "branch": "master",
     "language": "Rust",
-    "description": "Actor framework for Rust."
+    "description": "Serialization framework for Rust"
   },
   {
-    "repo": "pedronaldocr07/Solana-Meteora-Alpha-Vault",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "meteora alpha vault to create large marketcap, execute deposit, claim, withdraw across unlimited wallets"
-  },
-  {
-    "repo": "mrphrazer/binary-ninja-headless-mcp",
+    "repo": "certbot/certbot",
     "branch": "main",
     "language": "Python",
-    "description": "Headless Binary Ninja MCP server — giving AI agents deep reverse-engineering capabilities via 180 tools."
+    "description": "Certbot is EFF's tool to obtain certs from Let's Encrypt and (optionally) auto-enable HTTPS on your server.  It can also act as a client for any other CA that uses the ACME protocol."
   },
   {
-    "repo": "pretyflaco/meetscribe",
-    "branch": "main",
-    "language": "Python",
-    "description": "Fully local meeting transcription with speaker diarization, AI summaries, and PDF output"
-  },
-  {
-    "repo": "linlay/zenmind",
-    "branch": "main",
-    "language": "PowerShell",
-    "description": "宅在家里的电脑，努力做一个openclaw"
-  },
-  {
-    "repo": "bambinamoldranz1/Skeet.cc_CS2_Cheat_2026",
-    "branch": "main",
-    "language": "C++",
-    "description": "High-Performance CS2 Enhancement Suite - Premium Internal Utility with Precision Assistance, ESP, and Visuals."
-  },
-  {
-    "repo": "meteor/meteor",
-    "branch": "devel",
-    "language": "JavaScript",
-    "description": "Meteor, the JavaScript App Platform"
-  },
-  {
-    "repo": "Infatoshi/x-cli",
-    "branch": "main",
-    "language": "Python",
-    "description": "CLI for X/Twitter API v2 -- post, search, like, bookmark from your terminal"
-  },
-  {
-    "repo": "nikopueringer/CorridorKey",
-    "branch": "main",
-    "language": "Python",
-    "description": "Perfect Green Screen Keys"
-  },
-  {
-    "repo": "patoles/agent-flow",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Real-time visualization of Claude Code agent orchestration — see your agents think, branch, and coordinate as they work."
-  },
-  {
-    "repo": "quilljs/quill",
-    "branch": "develop",
-    "language": "TypeScript",
-    "description": "Quill is a modern WYSIWYG editor built for compatibility and extensibility"
-  },
-  {
-    "repo": "samanalalokaya/polymarket-copy-trading-bot",
-    "branch": "master",
-    "language": "JavaScript",
-    "description": "Copies trades from a target Polymarket wallet to your own. Watches the target via REST or WebSocket, then places matching orders (scaled by a multiplier) using the Polymarket CLOB. CLUE: polymarket copy trading bot polymarket copy trading bot polymarket copy trading bot polymarket copy trading bot polymarket copy trading bot polymarket copy trading"
-  },
-  {
-    "repo": "Fishaudio/Fish-Speech",
-    "branch": "main",
-    "language": "Python",
-    "description": "SOTA Open Source TTS"
-  },
-  {
-    "repo": "flutter/flutter",
-    "branch": "master",
-    "language": "Dart",
-    "description": "Flutter makes it easy and fast to build beautiful apps for mobile and beyond"
-  },
-  {
-    "repo": "MeisnerDan/mission-control",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Open-source task management for the agentic era. The command center for solo entrepreneurs who delegate work to AI agents."
-  },
-  {
-    "repo": "operator-framework/operator-sdk",
-    "branch": "master",
-    "language": "Go",
-    "description": "SDK for building Kubernetes applications. Provides high level APIs, useful abstractions, and project scaffolding."
-  },
-  {
-    "repo": "xiaotianfotos/skills",
-    "branch": "main",
-    "language": "Python",
-    "description": "视频中分享的方法论代码参考"
-  },
-  {
-    "repo": "shobhit99/claude-watch",
+    "repo": "kellyvv/PhoneClaw",
     "branch": "main",
     "language": "Swift",
-    "description": "Control your claude code from your apple watch"
+    "description": "PhoneClaw: On-device AI Agent for Phone powered by Gemma 4"
   },
   {
-    "repo": "vercel/ai",
+    "repo": "vuejs/vue",
     "branch": "main",
     "language": "TypeScript",
-    "description": "The AI Toolkit for TypeScript. From the creators of Next.js, the AI SDK is a free open-source library for building AI-powered applications and agents"
+    "description": "This is the repo for Vue 2. For Vue 3, go to https://github.com/vuejs/core"
   },
   {
-    "repo": "matteorigodanza/cryto-trading-ai-assistant",
+    "repo": "GoAdminGroup/go-admin",
+    "branch": "master",
+    "language": "Go",
+    "description": "A golang framework helps gopher to build a data visualization and admin panel in ten minutes"
+  },
+  {
+    "repo": "lllyasviel/VCC",
     "branch": "main",
     "language": "Python",
-    "description": "AI guardian for manual crypto traders — risk monitoring, strategy validation & emotional trading detection. No trade execution."
+    "description": "Compile agent conversations!"
   },
   {
-    "repo": "dateutil/dateutil",
-    "branch": "master",
+    "repo": "django/django",
+    "branch": "main",
     "language": "Python",
-    "description": "Useful extensions to the standard Python datetime features"
+    "description": "The Web framework for perfectionists with deadlines."
+  },
+  {
+    "repo": "google/benchmark",
+    "branch": "main",
+    "language": "C++",
+    "description": "A microbenchmark support library"
   }
 ]
