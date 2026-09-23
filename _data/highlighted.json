@@ -1,8 +1,8 @@
 {
-  "repo": "OmniJev/awesome-jev-gallery",
+  "repo": "0xNatoshi/jev-codex-router",
   "branch": "main",
   "language": "JavaScript",
-  "description": "🔥🔥 Papers, open reproductions and independent evaluations behind System One models and Jev.",
-  "stars": 211,
-  "forks": 14
+  "description": "Per-turn model & reasoning routing for Codex, driven by Jev (TypeSafe System One): picks the model, thinking depth and speed mode for every turn.",
+  "stars": 242,
+  "forks": 28
 }

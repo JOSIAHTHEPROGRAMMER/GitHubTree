@@ -1,146 +1,146 @@
 [
   {
-    "repo": "alexngdev99/rork-medieval-3d-chess",
+    "repo": "NxcoreAI/NxMem",
     "branch": "main",
     "language": "TypeScript",
-    "description": "Created by Rork"
-  },
-  {
-    "repo": "chekusu/wanman",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "wanman is an open-source agent matrix runtime inspired by Japanese one-man trains. It lets human users step back into an observer role while local agent runtimes coordinate autonomous multi-agent workflows, task execution, and artifacts."
-  },
-  {
-    "repo": "googleapis/python-storage",
-    "branch": "main",
-    "language": "Python",
-    "description": "Python SDK for GCS (Google Cloud Storage)"
-  },
-  {
-    "repo": "baidu/ERNIE-Image",
-    "branch": "main",
-    "language": "Python",
-    "description": "ERNIE-Image is an open text-to-image generation model developed by the ERNIE-Image team at Baidu. It is built on a single-stream Diffusion Transformer (DiT), with only 8B DiT parameters, it reaches state-of-the-art performance among open-weight text-to-image models."
-  },
-  {
-    "repo": "apache/maven",
-    "branch": "master",
-    "language": "Java",
-    "description": "Apache Maven core"
-  },
-  {
-    "repo": "PyGithub/PyGithub",
-    "branch": "master",
-    "language": "Python",
-    "description": "Typed interactions with the GitHub API v3"
-  },
-  {
-    "repo": "giusmarci/openwhisp",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Voice to text, entirely on your machine. Hold Fn, speak, release — transcribed, polished, and pasted. No cloud, no account, no latency."
-  },
-  {
-    "repo": "Aidenybai/React-Scan",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Scan for React performance issues and eliminate slow renders in your app"
-  },
-  {
-    "repo": "listyantidewi1/your-everyday-tools",
-    "branch": "main",
-    "language": "HTML",
     "description": ""
   },
   {
-    "repo": "akanksh13/Crimson-Desert-RenoDX-Desktop",
+    "repo": "apple/swift-nio",
     "branch": "main",
-    "language": "C++",
-    "description": "Crimson Desert RenoDX PC Edition delivers enhanced graphics, improved performance, and modern rendering for Crimson Desert on Windows. Better lighting, textures, draw distance and optimized visuals for a more immersive desert adventure."
+    "language": "Swift",
+    "description": "Event-driven network application framework for high performance protocol servers & clients, non-blocking."
   },
   {
-    "repo": "strapi/strapi",
+    "repo": "Significant-Gravitas/AutoGPT",
+    "branch": "master",
+    "language": "Python",
+    "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters."
+  },
+  {
+    "repo": "actix/actix",
+    "branch": "master",
+    "language": "Rust",
+    "description": "Actor framework for Rust."
+  },
+  {
+    "repo": "pedronaldocr07/Solana-Meteora-Alpha-Vault",
     "branch": "main",
     "language": "TypeScript",
-    "description": "🚀 Strapi is the leading open-source headless CMS. It’s 100% JavaScript/TypeScript, fully customizable, and developer-first."
+    "description": "meteora alpha vault to create large marketcap, execute deposit, claim, withdraw across unlimited wallets"
   },
   {
-    "repo": "newrelic/newrelic-python-agent",
+    "repo": "mrphrazer/binary-ninja-headless-mcp",
     "branch": "main",
     "language": "Python",
-    "description": "New Relic Python Agent"
+    "description": "Headless Binary Ninja MCP server — giving AI agents deep reverse-engineering capabilities via 180 tools."
   },
   {
-    "repo": "mduongvandinh/llm-wiki",
-    "branch": "main",
-    "language": "HTML",
-    "description": "Hệ thống knowledge base cá nhân hoàn toàn tự động, vận hành bởi LLM. Dựa trên pattern LLM Wiki của Andrej Karpathy."
-  },
-  {
-    "repo": "mgks/GitHubTree",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "Visualise any GitHub repository folder structure. Available as a web app, CLI tool, and node.js library."
-  },
-  {
-    "repo": "agenmod/immortal-skill",
+    "repo": "pretyflaco/meetscribe",
     "branch": "main",
     "language": "Python",
-    "description": "♾️ 开源数字永生框架 — 从聊天记录蒸馏任何人的七维数字分身。支持微信/飞书/iMessage/Telegram等12+平台，7种角色模板，对齐 OpenClaw Soul Spec 标准。一行指令让你的AI学会蒸馏。"
+    "description": "Fully local meeting transcription with speaker diarization, AI summaries, and PDF output"
   },
   {
-    "repo": "kautukkundan/Awesome-Profile-README-templates",
-    "branch": "master",
-    "language": "JavaScript",
-    "description": "A collection of awesome readme templates to display on your profile"
+    "repo": "linlay/zenmind",
+    "branch": "main",
+    "language": "PowerShell",
+    "description": "宅在家里的电脑，努力做一个openclaw"
   },
   {
-    "repo": "adanto/EtwTiViewer",
+    "repo": "bambinamoldranz1/Skeet.cc_CS2_Cheat_2026",
     "branch": "main",
     "language": "C++",
-    "description": "Live ETW-TI event viewer for Windows kernel threat-intelligence telemetry. Research tool for exploring the same signals commercial EDRs rely on."
+    "description": "High-Performance CS2 Enhancement Suite - Premium Internal Utility with Precision Assistance, ESP, and Visuals."
   },
   {
-    "repo": "etcd-io/etcd",
+    "repo": "meteor/meteor",
+    "branch": "devel",
+    "language": "JavaScript",
+    "description": "Meteor, the JavaScript App Platform"
+  },
+  {
+    "repo": "Infatoshi/x-cli",
     "branch": "main",
-    "language": "Go",
-    "description": "Distributed reliable key-value store for the most critical data of a distributed system"
-  },
-  {
-    "repo": "shanselman/PeekDesktop",
-    "branch": "main",
-    "language": "C#",
-    "description": "Click your desktop to peek at it - just like macOS Sonoma."
-  },
-  {
-    "repo": "aws/aws-cli",
-    "branch": "v2",
     "language": "Python",
-    "description": "Universal Command Line Interface for Amazon Web Services"
+    "description": "CLI for X/Twitter API v2 -- post, search, like, bookmark from your terminal"
   },
   {
-    "repo": "Textualize/rich",
-    "branch": "master",
-    "language": "Python",
-    "description": "Rich is a Python library for rich text and beautiful formatting in the terminal."
-  },
-  {
-    "repo": "nsqio/nsq",
-    "branch": "master",
-    "language": "Go",
-    "description": "A realtime distributed messaging platform"
-  },
-  {
-    "repo": "deepmind/mujoco",
+    "repo": "nikopueringer/CorridorKey",
     "branch": "main",
-    "language": "C++",
-    "description": "Multi-Joint dynamics with Contact. A general purpose physics simulator."
+    "language": "Python",
+    "description": "Perfect Green Screen Keys"
   },
   {
-    "repo": "dashkit-protocol/polymarket-arbitrage-bot",
+    "repo": "patoles/agent-flow",
     "branch": "main",
     "language": "TypeScript",
-    "description": "polymarket arbitrage bot, polymarket arbitrage bot, polymarket arbitrage bot, polymarket arbitrage bot, polymarket arbitrage bot, polymarket arbitrage bot, polymarket arbitrage bot, polymarket arbitrage bot, polymarket arbitrage bot, polymarket arbitrage bot, polymarket arbitrage bot, polymarket arbitrage bot, polymarket arbitrage bot"
+    "description": "Real-time visualization of Claude Code agent orchestration — see your agents think, branch, and coordinate as they work."
+  },
+  {
+    "repo": "quilljs/quill",
+    "branch": "develop",
+    "language": "TypeScript",
+    "description": "Quill is a modern WYSIWYG editor built for compatibility and extensibility"
+  },
+  {
+    "repo": "samanalalokaya/polymarket-copy-trading-bot",
+    "branch": "master",
+    "language": "JavaScript",
+    "description": "Copies trades from a target Polymarket wallet to your own. Watches the target via REST or WebSocket, then places matching orders (scaled by a multiplier) using the Polymarket CLOB. CLUE: polymarket copy trading bot polymarket copy trading bot polymarket copy trading bot polymarket copy trading bot polymarket copy trading bot polymarket copy trading"
+  },
+  {
+    "repo": "Fishaudio/Fish-Speech",
+    "branch": "main",
+    "language": "Python",
+    "description": "SOTA Open Source TTS"
+  },
+  {
+    "repo": "flutter/flutter",
+    "branch": "master",
+    "language": "Dart",
+    "description": "Flutter makes it easy and fast to build beautiful apps for mobile and beyond"
+  },
+  {
+    "repo": "MeisnerDan/mission-control",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Open-source task management for the agentic era. The command center for solo entrepreneurs who delegate work to AI agents."
+  },
+  {
+    "repo": "operator-framework/operator-sdk",
+    "branch": "master",
+    "language": "Go",
+    "description": "SDK for building Kubernetes applications. Provides high level APIs, useful abstractions, and project scaffolding."
+  },
+  {
+    "repo": "xiaotianfotos/skills",
+    "branch": "main",
+    "language": "Python",
+    "description": "视频中分享的方法论代码参考"
+  },
+  {
+    "repo": "shobhit99/claude-watch",
+    "branch": "main",
+    "language": "Swift",
+    "description": "Control your claude code from your apple watch"
+  },
+  {
+    "repo": "vercel/ai",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "The AI Toolkit for TypeScript. From the creators of Next.js, the AI SDK is a free open-source library for building AI-powered applications and agents"
+  },
+  {
+    "repo": "matteorigodanza/cryto-trading-ai-assistant",
+    "branch": "main",
+    "language": "Python",
+    "description": "AI guardian for manual crypto traders — risk monitoring, strategy validation & emotional trading detection. No trade execution."
+  },
+  {
+    "repo": "dateutil/dateutil",
+    "branch": "master",
+    "language": "Python",
+    "description": "Useful extensions to the standard Python datetime features"
   }
 ]
