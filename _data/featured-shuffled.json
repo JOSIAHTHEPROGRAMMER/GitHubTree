@@ -1,146 +1,146 @@
 [
   {
-    "repo": "clockworklabs/SpacetimeDB",
-    "branch": "master",
-    "language": "Rust",
-    "description": "Multiplayer at the speed of light"
-  },
-  {
-    "repo": "cloudflare/pingora",
-    "branch": "main",
-    "language": "Rust",
-    "description": "A library for building fast, reliable and evolvable network services."
-  },
-  {
-    "repo": "StreisandEffect/streisand",
-    "branch": "master",
-    "language": "Shell",
-    "description": "Streisand sets up a new server running your choice of WireGuard, OpenConnect, OpenSSH, OpenVPN, Shadowsocks, sslh, Stunnel, or a Tor bridge. It also generates custom instructions for all of these services. At the end of the run you are given an HTML file with instructions that can be shared with friends, family members, and fellow activists."
-  },
-  {
-    "repo": "theori-io/copy-fail-CVE-2026-31431",
+    "repo": "SpikeCalls/FlyDrones",
     "branch": "main",
     "language": "Python",
+    "description": "A fruit fly connectome as a drone pilot. Camera -> fly eyes -> spiking brain -> descending neurons -> drone. Live 3D demo in your browser."
+  },
+  {
+    "repo": "shuyicc/MathLens",
+    "branch": "main",
+    "language": "Python",
+    "description": "MathLens 是一个专注于数学题目视频讲解的 Agent Skill。你只需粘贴一道数学题（图片或文字），它就能自动完成从题目分析、可视化讲解、配音脚本到 Manim 动画视频的全流程制作。单条视频1-10 分钟，成本 0.2-1 元以内。"
+  },
+  {
+    "repo": "SharifiZarchi/janfadaa",
+    "branch": "main",
+    "language": "HTML",
     "description": ""
   },
   {
-    "repo": "ory/kratos",
+    "repo": "machinarii/hypervibe",
+    "branch": "main",
+    "language": "Swift",
+    "description": "One-handed vibe coding using Apple TV Remote, customizable buttons and gestures."
+  },
+  {
+    "repo": "0Voice/Expert_Readed_Books",
     "branch": "master",
-    "language": "Go",
-    "description": "Headless cloud-native authentication and identity management written in Go. Scales to a billion+ users. Replace Homegrown, Auth0, Okta, Firebase with better UX and DX. Passkeys, Social Sign In, OIDC, Magic Link, Multi-Factor Auth, SMS, SAML, TOTP, and more. Runs everywhere, runs best on Ory Network."
+    "language": "Other",
+    "description": "2021年最新总结，推荐工程师合适读本，计算机科学，软件技术，创业，思想类，数学类，人物传记书籍"
   },
   {
-    "repo": "Anemll/flash-moe",
-    "branch": "m5-nax",
-    "language": "Objective-C",
-    "description": ""
+    "repo": "huggingface/diffusers",
+    "branch": "main",
+    "language": "Python",
+    "description": "🤗 Diffusers: State-of-the-art diffusion models for image, video, and audio generation in PyTorch."
   },
   {
-    "repo": "prisma/graphql-yoga",
+    "repo": "ziadoz/awesome-php",
+    "branch": "master",
+    "language": "Other",
+    "description": "A curated list of amazingly awesome PHP libraries, resources and shiny things."
+  },
+  {
+    "repo": "quasarframework/quasar",
+    "branch": "dev",
+    "language": "JavaScript",
+    "description": "Quasar Framework - Build high-performance VueJS user interfaces in record time"
+  },
+  {
+    "repo": "emotion-js/emotion",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "👩‍🎤 CSS-in-JS library designed for high performance style composition"
+  },
+  {
+    "repo": "sass/sass",
     "branch": "main",
     "language": "TypeScript",
-    "description": "🧘 Rewrite of a fully-featured GraphQL Server with focus on easy setup, performance & great developer experience.  The core of Yoga implements WHATWG Fetch API and can run/deploy on any JS environment."
+    "description": "Sass makes CSS fun!"
   },
   {
-    "repo": "chrisberg-code1992s6/Meccha-Auto-Painter",
+    "repo": "endless-sky-team/ai-trading-agent",
+    "branch": "master",
+    "language": "TypeScript",
+    "description": "llm trading bot ai agent crypto bitcoin ethereum perpetuals openrouter lighter algorithmic automated quant typescript react postgres bun fintech defi machine-learning open-source crypto-bot signals"
+  },
+  {
+    "repo": "kapishdima/soundcn",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "700+ curated UI sound effects for modern web apps. Browse, preview, and install sounds with a single command. Free and open source"
+  },
+  {
+    "repo": "spring-projects/spring-data-jpa",
+    "branch": "main",
+    "language": "Java",
+    "description": "Simplifies the development of creating a JPA-based data access layer."
+  },
+  {
+    "repo": "YuJunZhiXue/github-skill-forge",
+    "branch": "main",
+    "language": "Python",
+    "description": "一个制造技能的技能。这个工具自动化了将任意 GitHub 仓库转换为标准化技能的全过程，是扩展 AI Agent 能力的核心工具。"
+  },
+  {
+    "repo": "lodash/lodash",
+    "branch": "master",
+    "language": "JavaScript",
+    "description": "A modern JavaScript utility library delivering modularity, performance, & extras."
+  },
+  {
+    "repo": "ossu/computer-science",
+    "branch": "master",
+    "language": "HTML",
+    "description": "🎓 Path to a free self-taught education in Computer Science!"
+  },
+  {
+    "repo": "aframevr/aframe",
+    "branch": "master",
+    "language": "JavaScript",
+    "description": ":a: Web framework for building virtual reality experiences."
+  },
+  {
+    "repo": "infixity24/Extreme-Injector-v3.7.3-Dll-Injector",
     "branch": "main",
     "language": "C++",
-    "description": "Meccha Chameleon Auto Paint Tool - free utility for auto painting."
+    "description": "Extreme Injector v3.7.3 is a powerful and easy-to-use DLL injector for Windows. Supports Manual Map, Stealth mode, Auto-Inject, and multiple injection methods. Ideal for developers and single-player game modding."
   },
   {
-    "repo": "StanGibson/polymarket-copy-trading-bot",
-    "branch": "main",
+    "repo": "nativefier/nativefier",
+    "branch": "development",
     "language": "TypeScript",
-    "description": "polymarket trading bot,polymarket copy trading bot,polymarket trading bot,polymarket copy trading bot,polymarket trading bot,polymarket copy trading bot,polymarket trading bot,polymarket copy trading bot,polymarket trading bot,polymarket copy trading bot,polymarket trading bot,polymarket copy trading bot,"
+    "description": "Make any web page a desktop application"
   },
   {
-    "repo": "tangxu1995/DBD-AutoGrind-Trainer-2026-Elite",
+    "repo": "facebook/react-native",
     "branch": "main",
-    "language": "Python",
-    "description": "Ultimate Dead by Daylight auto-grind trainer Elite edition with Bloodpoint bot, ESP wallhack, aimbot, and full perk/skin unlocker. Dominate the Fog with our 2026 undetected external tool."
+    "language": "C++",
+    "description": "A framework for building native applications using React"
   },
   {
-    "repo": "0xSero/codex-shim",
-    "branch": "main",
-    "language": "Python",
-    "description": "Local Responses-API shim that exposes Factory BYOK models (and optional ChatGPT GPT-5.5 passthrough) to Codex Desktop."
-  },
-  {
-    "repo": "pulkitxm/claude-directory",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Experimentation projects with Anthropic's new Claude models (Fable 5 / Mythos)"
-  },
-  {
-    "repo": "RayceAnderson/tomodachi-pc",
-    "branch": "main",
-    "language": "C#",
-    "description": "tomodachi life pc living  the dream windows  free patch notes update ryujinx emulator rom nsp xci mii creator life simulator 60fps mod graphics config save file setup guide fix crash"
-  },
-  {
-    "repo": "Sayhi-bzb/AIEden",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "an LLM-native world and civilization"
-  },
-  {
-    "repo": "DEEIX-AI/DEEIX-Chat",
-    "branch": "dev",
-    "language": "Go",
-    "description": "An enterprise AI workspace for model routing, multimodal chat, files, tools, billing, identity, and operations."
-  },
-  {
-    "repo": "perglervitek/Blox-Fruits-Dragon-Update-Auto-Farm-Script-2026-Pro",
-    "branch": "main",
-    "language": "Python",
-    "description": "Maximize your progress in Blox Fruits with this Pro trainer – auto farm, ESP, raid, and anti‑ban included."
-  },
-  {
-    "repo": "ChristianJR19/GoblinOS",
-    "branch": "main",
-    "language": "Python",
-    "description": "a Hermes Agent personality layer that replaces the default agent identity with a persistent, mood-driven goblin persona"
-  },
-  {
-    "repo": "real-Elysia886/Todo-Tree-Next",
+    "repo": "fimbox/html-in-canvas",
     "branch": "main",
     "language": "JavaScript",
-    "description": "Modern rewrite of Todo Tree — TypeScript + Rust architecture for blazing-fast TODO scanning in VS Code"
+    "description": "HTML in Canvas — arrival.space"
   },
   {
-    "repo": "tanekaverd64170803960/Lossless-Scaling-Util-V3.0",
-    "branch": "main",
-    "language": "C#",
-    "description": "A standalone utility to configure, optimize, and unlock lossless frame generation and scaling features for any 3D application or game."
-  },
-  {
-    "repo": "arnabbagxd/Brand-building-skills",
-    "branch": "main",
-    "language": "Shell",
-    "description": "Brand building skills for Claude Code and AI agents. strategy, naming, identity, voice, positioning, messaging, auditing, and launch"
-  },
-  {
-    "repo": "vinayaklatthe/microsoft-security-skills",
+    "repo": "gluon-framework/gluon",
     "branch": "main",
     "language": "JavaScript",
-    "description": "Curated Microsoft Security skills for AI agents - Defender, Sentinel, Entra, Purview, Intune, Security Copilot"
+    "description": "A new framework for creating desktop apps from websites, using system installed browsers and NodeJS"
   },
   {
-    "repo": "yande0/Hades-II-Trainer-Pro",
+    "repo": "alefinvest/polymarket-copy-bot",
     "branch": "main",
-    "language": "Python",
-    "description": "Hades II Trainer 2026 – the most powerful cheat collection. Get unlimited everything, one-hit kills, no cooldowns and more."
+    "language": "TypeScript",
+    "description": "polymarket copy trading bot polymarket copy bot polymarket trading bot polymarket copy trading bot polymarket copy bot polymarket trading bot polymarket copy trading bot polymarket copy bot polymarket trading bot polymarket copy trading bot polymarket copy bot polymarket trading bot polymarket copy trading bot polymarket copy bot polymarket trading"
   },
   {
-    "repo": "duggasco/bc250-40cu-unlock",
-    "branch": "main",
-    "language": "Shell",
-    "description": "Re-enable all 40 CUs on the AMD BC-250 (gfx1013 / Cyan Skillfish). Kernel patch + build script. 1.61x compute scaling verified."
-  },
-  {
-    "repo": "tensorflow/tensorboard",
+    "repo": "nakagami/grdpwasm",
     "branch": "master",
-    "language": "TypeScript",
-    "description": "TensorFlow's Visualization Toolkit"
+    "language": "Go",
+    "description": ""
   }
 ]

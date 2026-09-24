@@ -1,8 +1,8 @@
 {
-  "repo": "haplollc/ThinkingOrbs",
+  "repo": "CassowaryDevelop/HelixEdit",
   "branch": "main",
-  "language": "Swift",
-  "description": "Dotted, honestly-3D loading indicators for AI and agent interfaces in SwiftUI. Nine hand-tuned designs, two tuned sizes.",
-  "stars": 190,
-  "forks": 16
+  "language": "Rust",
+  "description": "Modal code editor with LSP support written in Rust",
+  "stars": 221,
+  "forks": 47
 }
