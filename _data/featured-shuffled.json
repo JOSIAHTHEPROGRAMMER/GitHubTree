@@ -1,146 +1,146 @@
 [
   {
-    "repo": "infometa/workbuddyskills",
+    "repo": "wavyrai/tmux-ide",
     "branch": "main",
     "language": "JavaScript",
-    "description": "WorkBuddy skills / connectors / experts archive for offline study"
+    "description": "Turn any project into a tmux-powered terminal IDE with a simple ide.yml"
   },
   {
-    "repo": "knowsuchagency/mcp2cli",
-    "branch": "main",
-    "language": "Python",
-    "description": "Turn any MCP server or OpenAPI spec into a CLI — at runtime, with zero codegen"
+    "repo": "espressif/esp-idf",
+    "branch": "master",
+    "language": "C",
+    "description": "Espressif IoT Development Framework. Official development framework for Espressif SoCs."
   },
   {
-    "repo": "nathaniel329/polymarket-trading-bot",
-    "branch": "main",
-    "language": "Python",
-    "description": "polymarket trading bot"
+    "repo": "status-im/nimbus-eth2",
+    "branch": "stable",
+    "language": "Nim",
+    "description": "Nim implementation of the Ethereum Beacon Chain"
   },
   {
-    "repo": "imxv/Pretty-mermaid-skills",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "To provide AI with Mermaid chart rendering capability, supporting both SVG and ASCII output formats"
+    "repo": "tinygo-org/tinygo",
+    "branch": "release",
+    "language": "Go",
+    "description": "Go compiler for small places. Microcontrollers, WebAssembly (WASM/WASI), and command-line tools. Based on LLVM."
   },
   {
-    "repo": "Anetedith12807/Ethereum-MEV-Bot",
-    "branch": "main",
-    "language": "Python",
-    "description": "Advanced MEV (Maximal Extractable Value) bot for Ethereum mainnet with Flashbots integration, sandwich attacks, front-running, back-running, and cross-DEX arbitrage."
-  },
-  {
-    "repo": "cnlimiter/codex-manager-v3",
+    "repo": "mqudsi/monospace-ocr",
     "branch": "master",
     "language": "Python",
     "description": ""
   },
   {
-    "repo": "openabdev/openab",
+    "repo": "wagmi-dev/viem",
     "branch": "main",
-    "language": "Rust",
-    "description": "A lightweight, secure, cloud-native ACP harness that bridges Discord and any ACP-compatible coding CLI."
+    "language": "TypeScript",
+    "description": "TypeScript Interface for Ethereum"
   },
   {
-    "repo": "numpy/numpy",
+    "repo": "unjs/nitro",
     "branch": "main",
-    "language": "Python",
-    "description": "The fundamental package for scientific computing with Python."
+    "language": "TypeScript",
+    "description": "Next Generation Server Toolkit. Create web servers with everything you need and deploy them wherever you prefer."
   },
   {
-    "repo": "zipperiron5/kms-pico-port-version-26",
-    "branch": "main",
-    "language": "C++",
-    "description": "A powerful Windows-native (.exe) management utility for Microsoft KMS (Key Management Service) orchestration. Designed for enterprise volume license validation, GVLK deployment, and automated asset maintenance."
-  },
-  {
-    "repo": "charlax/professional-programming",
+    "repo": "edgedb/edgedb",
     "branch": "master",
     "language": "Python",
-    "description": "A collection of learning resources for curious software engineers"
+    "description": "Gel supercharges Postgres with a modern data model, graph queries, Auth & AI solutions, and much more."
   },
   {
-    "repo": "metallb/metallb",
+    "repo": "sonpiaz/evox",
     "branch": "main",
-    "language": "Go",
-    "description": "A network load-balancer implementation for Kubernetes using standard routing protocols"
-  },
-  {
-    "repo": "grayashh/buddy-reroll",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "Reroll your Claude Code /buddy companion to any species, rarity, eye, hat, and shiny combo"
-  },
-  {
-    "repo": "Brunofancy/polymarket-copy-trading-bot-agent",
-    "branch": "main",
-    "language": "Rust",
+    "language": "TypeScript",
     "description": ""
   },
   {
-    "repo": "dseditor/QwenASRMiniTool",
-    "branch": "main",
-    "language": "Python",
-    "description": "基於OpenVino-int8權重，精簡的QwenASR小工具，用於即時辨識以及字幕轉換使用"
-  },
-  {
-    "repo": "dev-protocoI/polymarket-copytrading-bot-sport",
-    "branch": "master",
-    "language": "TypeScript",
-    "description": "🥇Polymarket Copytrading Bot Sport🥇Polymarket copy trading bot Polymarket copytrading bot Polymarket copy trading bot Polymarket copytrading bot Polymarket copy trading bot Polymarket copytrading bot Polymarket copy trading bot Polymarket copytrading bot Polymarket copy trading bot Polymarket copytrading bot Polymarket copy trading bot Polymarket"
-  },
-  {
-    "repo": "meilisearch/meilisearch",
+    "repo": "dandavison/delta",
     "branch": "main",
     "language": "Rust",
-    "description": "A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications."
+    "description": "A syntax-highlighting pager for git, diff, grep, and blame output"
   },
   {
-    "repo": "CopilotKit/OpenGenerativeUI",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Open-Source Generative UI Framework"
-  },
-  {
-    "repo": "chenhg5/cc-connect",
-    "branch": "main",
-    "language": "Go",
-    "description": "Bridge local AI coding agents (Claude Code, Cursor, Gemini CLI, Codex) to messaging platforms (Feishu/Lark, DingTalk, Slack, Telegram, Discord, LINE, WeChat Work). Chat with your AI dev assistant from anywhere — no public IP required for most platforms."
-  },
-  {
-    "repo": "brunch/brunch",
+    "repo": "cert-manager/cert-manager",
     "branch": "master",
-    "language": "JavaScript",
-    "description": "🍴 Web applications made easy. Since 2011."
+    "language": "Go",
+    "description": "Automatically provision and manage TLS certificates in Kubernetes"
   },
   {
-    "repo": "freqtrade/freqtrade",
-    "branch": "develop",
-    "language": "Python",
-    "description": "Free, open source crypto trading bot"
-  },
-  {
-    "repo": "cpaczek/any-buddy",
-    "branch": "main",
+    "repo": "balancer/balancer-v2-monorepo",
+    "branch": "master",
     "language": "TypeScript",
-    "description": "Hack Claude Code to get any buddy you want"
+    "description": "Balancer V2 Monorepo"
   },
   {
-    "repo": "geoffreymcgill/react-native-collapsible",
+    "repo": "Galaxy-Dawn/claude-scholar",
+    "branch": "main",
+    "language": "TeX",
+    "description": "A comprehensive Claude Code configuration for data science, AI research, and academic writing. Streamline the complete research workflow—from idea to publication."
+  },
+  {
+    "repo": "MunGell/awesome-for-beginners",
     "branch": "master",
     "language": "Other",
-    "description": "Animated collapsible component for React Native, good for accordions, toggles etc"
+    "description": "A list of awesome beginners-friendly projects."
   },
   {
-    "repo": "comeonzhj/AutoContents",
+    "repo": "soimy/openclaw-channel-dingtalk",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "A dingtalk bot channel plugin for clawdbot"
+  },
+  {
+    "repo": "web3-storage/web3.storage",
     "branch": "main",
     "language": "JavaScript",
-    "description": "基于 RSS 的 AI 资讯聚合、内容创作与 Agent 自动化工具"
+    "description": "DEPRECATED ⁂ The simple file storage service for IPFS & Filecoin"
   },
   {
-    "repo": "taigrr/spank",
+    "repo": "openai/openai-cookbook",
+    "branch": "main",
+    "language": "Jupyter Notebook",
+    "description": "Examples and guides for using the OpenAI API"
+  },
+  {
+    "repo": "keithnull/TeachYourselfCS-CN",
+    "branch": "master",
+    "language": "Other",
+    "description": "TeachYourselfCS 的中文翻译 |  A Chinese translation of TeachYourselfCS"
+  },
+  {
+    "repo": "facebook/folly",
+    "branch": "main",
+    "language": "C++",
+    "description": "An open-source C++ library developed and used at Facebook."
+  },
+  {
+    "repo": "ant-design/ant-design-mobile",
+    "branch": "master",
+    "language": "TypeScript",
+    "description": "Essential UI blocks for building mobile web apps."
+  },
+  {
+    "repo": "actions/runner-images",
+    "branch": "main",
+    "language": "PowerShell",
+    "description": "GitHub Actions runner images"
+  },
+  {
+    "repo": "deepfakes/faceswap",
+    "branch": "master",
+    "language": "Python",
+    "description": "Deepfakes Software For All"
+  },
+  {
+    "repo": "zoontek/react-native-permissions",
+    "branch": "master",
+    "language": "Objective-C++",
+    "description": "An unified permissions API for React Native on iOS, Android and Windows."
+  },
+  {
+    "repo": "gin-gonic/gin",
     "branch": "master",
     "language": "Go",
-    "description": "Slap your MacBook, it yells back. Uses Apple Silicon accelerometer via IOKit HID."
+    "description": "Gin is a high-performance HTTP web framework written in Go. It provides a Martini-like API but with significantly better performance—up to 40 times faster—thanks to httprouter. Gin is designed for building REST APIs, web applications, and microservices."
   }
 ]
