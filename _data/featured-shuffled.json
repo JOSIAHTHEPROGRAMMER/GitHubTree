@@ -1,146 +1,146 @@
 [
   {
-    "repo": "SpikeCalls/FlyDrones",
-    "branch": "main",
-    "language": "Python",
-    "description": "A fruit fly connectome as a drone pilot. Camera -> fly eyes -> spiking brain -> descending neurons -> drone. Live 3D demo in your browser."
+    "repo": "airbnb/javascript",
+    "branch": "master",
+    "language": "JavaScript",
+    "description": "JavaScript Style Guide"
   },
   {
-    "repo": "shuyicc/MathLens",
+    "repo": "nexu-io/auto-github-contributor",
     "branch": "main",
-    "language": "Python",
-    "description": "MathLens 是一个专注于数学题目视频讲解的 Agent Skill。你只需粘贴一道数学题（图片或文字），它就能自动完成从题目分析、可视化讲解、配音脚本到 Manim 动画视频的全流程制作。单条视频1-10 分钟，成本 0.2-1 元以内。"
-  },
-  {
-    "repo": "SharifiZarchi/janfadaa",
-    "branch": "main",
-    "language": "HTML",
+    "language": "Shell",
     "description": ""
   },
   {
-    "repo": "machinarii/hypervibe",
-    "branch": "main",
-    "language": "Swift",
-    "description": "One-handed vibe coding using Apple TV Remote, customizable buttons and gestures."
-  },
-  {
-    "repo": "0Voice/Expert_Readed_Books",
-    "branch": "master",
-    "language": "Other",
-    "description": "2021年最新总结，推荐工程师合适读本，计算机科学，软件技术，创业，思想类，数学类，人物传记书籍"
-  },
-  {
-    "repo": "huggingface/diffusers",
+    "repo": "donghuixin/AI-Vibe-Writing-Skills",
     "branch": "main",
     "language": "Python",
-    "description": "🤗 Diffusers: State-of-the-art diffusion models for image, video, and audio generation in PyTorch."
+    "description": "Using AI for high quality writing"
   },
   {
-    "repo": "ziadoz/awesome-php",
+    "repo": "hammerjs/hammer.js",
     "branch": "master",
-    "language": "Other",
-    "description": "A curated list of amazingly awesome PHP libraries, resources and shiny things."
-  },
-  {
-    "repo": "quasarframework/quasar",
-    "branch": "dev",
     "language": "JavaScript",
-    "description": "Quasar Framework - Build high-performance VueJS user interfaces in record time"
+    "description": "A javascript library for multi-touch gestures :// You can touch this"
   },
   {
-    "repo": "emotion-js/emotion",
+    "repo": "akeit0/okojo",
     "branch": "main",
-    "language": "JavaScript",
-    "description": "👩‍🎤 CSS-in-JS library designed for high performance style composition"
+    "language": "C#",
+    "description": "Okojo is an experimental low allocation managed JavaScript engine for .NET"
   },
   {
-    "repo": "sass/sass",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Sass makes CSS fun!"
-  },
-  {
-    "repo": "endless-sky-team/ai-trading-agent",
-    "branch": "master",
-    "language": "TypeScript",
-    "description": "llm trading bot ai agent crypto bitcoin ethereum perpetuals openrouter lighter algorithmic automated quant typescript react postgres bun fintech defi machine-learning open-source crypto-bot signals"
-  },
-  {
-    "repo": "kapishdima/soundcn",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "700+ curated UI sound effects for modern web apps. Browse, preview, and install sounds with a single command. Free and open source"
-  },
-  {
-    "repo": "spring-projects/spring-data-jpa",
-    "branch": "main",
-    "language": "Java",
-    "description": "Simplifies the development of creating a JPA-based data access layer."
-  },
-  {
-    "repo": "YuJunZhiXue/github-skill-forge",
+    "repo": "inclusionAI/cuLA",
     "branch": "main",
     "language": "Python",
-    "description": "一个制造技能的技能。这个工具自动化了将任意 GitHub 仓库转换为标准化技能的全过程，是扩展 AI Agent 能力的核心工具。"
+    "description": "CUDA kernels for linear attention variants, written in CuTe DSL and CUTLASS C++."
   },
   {
-    "repo": "lodash/lodash",
-    "branch": "master",
-    "language": "JavaScript",
-    "description": "A modern JavaScript utility library delivering modularity, performance, & extras."
-  },
-  {
-    "repo": "ossu/computer-science",
-    "branch": "master",
-    "language": "HTML",
-    "description": "🎓 Path to a free self-taught education in Computer Science!"
-  },
-  {
-    "repo": "aframevr/aframe",
-    "branch": "master",
-    "language": "JavaScript",
-    "description": ":a: Web framework for building virtual reality experiences."
-  },
-  {
-    "repo": "infixity24/Extreme-Injector-v3.7.3-Dll-Injector",
+    "repo": "kepengxu/PRISM-VL",
     "branch": "main",
-    "language": "C++",
-    "description": "Extreme Injector v3.7.3 is a powerful and easy-to-use DLL injector for Windows. Supports Manual Map, Stealth mode, Auto-Inject, and multiple injection methods. Ideal for developers and single-player game modding."
+    "language": "Python",
+    "description": "PRISM-VL studies measurement-grounded VLM learning with RAW-derived Meas.-XYZ inputs, camera-conditioned grounding, and exposure-bracketed supervision transfer."
   },
   {
-    "repo": "nativefier/nativefier",
-    "branch": "development",
-    "language": "TypeScript",
-    "description": "Make any web page a desktop application"
-  },
-  {
-    "repo": "facebook/react-native",
-    "branch": "main",
-    "language": "C++",
-    "description": "A framework for building native applications using React"
-  },
-  {
-    "repo": "fimbox/html-in-canvas",
+    "repo": "sveltejs/svelte",
     "branch": "main",
     "language": "JavaScript",
-    "description": "HTML in Canvas — arrival.space"
+    "description": "web development for the rest of us"
   },
   {
-    "repo": "gluon-framework/gluon",
+    "repo": "ghostty-org/ghostling",
     "branch": "main",
-    "language": "JavaScript",
-    "description": "A new framework for creating desktop apps from websites, using system installed browsers and NodeJS"
+    "language": "C",
+    "description": "A minimum viable terminal emulator built on top of the libghostty C API. Ex minimo, infinita nascuntur. 👻🐣"
   },
   {
-    "repo": "alefinvest/polymarket-copy-bot",
+    "repo": "rachartier/tiny-cmdline.nvim",
     "branch": "main",
-    "language": "TypeScript",
-    "description": "polymarket copy trading bot polymarket copy bot polymarket trading bot polymarket copy trading bot polymarket copy bot polymarket trading bot polymarket copy trading bot polymarket copy bot polymarket trading bot polymarket copy trading bot polymarket copy bot polymarket trading bot polymarket copy trading bot polymarket copy bot polymarket trading"
+    "language": "Lua",
+    "description": "A Neovim plugin that repositions the cmdline as a centered floating window, powered by Neovim's native ui2 system."
   },
   {
-    "repo": "nakagami/grdpwasm",
+    "repo": "micropython/micropython",
     "branch": "master",
+    "language": "C",
+    "description": "MicroPython - a lean and efficient Python implementation for microcontrollers and constrained systems"
+  },
+  {
+    "repo": "swc-project/swc",
+    "branch": "main",
+    "language": "Rust",
+    "description": "Rust-based platform for the Web"
+  },
+  {
+    "repo": "DataDog/datadog-agent",
+    "branch": "main",
     "language": "Go",
-    "description": ""
+    "description": "Main repository for Datadog Agent"
+  },
+  {
+    "repo": "redai-infra/Relax",
+    "branch": "main",
+    "language": "Python",
+    "description": "An Asynchronous Reinforcement Learning Engine for Omni-Modal Post-Training at Scale"
+  },
+  {
+    "repo": "astro/astro",
+    "branch": "main",
+    "language": "Other",
+    "description": "The web framework that scales with you, with server-first rendering and an all-in-one build flow."
+  },
+  {
+    "repo": "pallets/click",
+    "branch": "main",
+    "language": "Python",
+    "description": "Python composable command line interface toolkit"
+  },
+  {
+    "repo": "borkdude/cream",
+    "branch": "main",
+    "language": "Clojure",
+    "description": "Fast starting Clojure runtime built with GraalVM native-image + Crema"
+  },
+  {
+    "repo": "ylytdeng/wechat-decrypt",
+    "branch": "main",
+    "language": "Python",
+    "description": "WeChat 4.0 database decryptor - extract keys from memory, decrypt SQLCipher 4 databases, real-time message monitor"
+  },
+  {
+    "repo": "bstnxbt/dflash-mlx",
+    "branch": "main",
+    "language": "Python",
+    "description": "Lossless DFlash speculative decoding for MLX on Apple Silicon"
+  },
+  {
+    "repo": "pydantic/pydantic",
+    "branch": "main",
+    "language": "Python",
+    "description": "Data validation using Python type hints"
+  },
+  {
+    "repo": "ochyai/vibe-local",
+    "branch": "main",
+    "language": "Python",
+    "description": "Free AI coding environment: Ollama + Python"
+  },
+  {
+    "repo": "ZeroZ-lab/cc-design",
+    "branch": "master",
+    "language": "JavaScript",
+    "description": "High-fidelity HTML design and prototype guidance skill for AI agents"
+  },
+  {
+    "repo": "adobe/react-spectrum",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "A collection of libraries and tools that help you build adaptive, accessible, and robust user experiences."
+  },
+  {
+    "repo": "nocodb/nocodb",
+    "branch": "develop",
+    "language": "TypeScript",
+    "description": "🔥 🔥 🔥 A Free & Self-hostable Airtable Alternative"
   }
 ]
