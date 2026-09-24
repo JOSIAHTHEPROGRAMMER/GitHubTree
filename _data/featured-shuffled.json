@@ -1,146 +1,146 @@
 [
   {
-    "repo": "airbnb/javascript",
-    "branch": "master",
+    "repo": "infometa/workbuddyskills",
+    "branch": "main",
     "language": "JavaScript",
-    "description": "JavaScript Style Guide"
+    "description": "WorkBuddy skills / connectors / experts archive for offline study"
   },
   {
-    "repo": "nexu-io/auto-github-contributor",
+    "repo": "knowsuchagency/mcp2cli",
     "branch": "main",
-    "language": "Shell",
+    "language": "Python",
+    "description": "Turn any MCP server or OpenAPI spec into a CLI — at runtime, with zero codegen"
+  },
+  {
+    "repo": "nathaniel329/polymarket-trading-bot",
+    "branch": "main",
+    "language": "Python",
+    "description": "polymarket trading bot"
+  },
+  {
+    "repo": "imxv/Pretty-mermaid-skills",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "To provide AI with Mermaid chart rendering capability, supporting both SVG and ASCII output formats"
+  },
+  {
+    "repo": "Anetedith12807/Ethereum-MEV-Bot",
+    "branch": "main",
+    "language": "Python",
+    "description": "Advanced MEV (Maximal Extractable Value) bot for Ethereum mainnet with Flashbots integration, sandwich attacks, front-running, back-running, and cross-DEX arbitrage."
+  },
+  {
+    "repo": "cnlimiter/codex-manager-v3",
+    "branch": "master",
+    "language": "Python",
     "description": ""
   },
   {
-    "repo": "donghuixin/AI-Vibe-Writing-Skills",
-    "branch": "main",
-    "language": "Python",
-    "description": "Using AI for high quality writing"
-  },
-  {
-    "repo": "hammerjs/hammer.js",
-    "branch": "master",
-    "language": "JavaScript",
-    "description": "A javascript library for multi-touch gestures :// You can touch this"
-  },
-  {
-    "repo": "akeit0/okojo",
-    "branch": "main",
-    "language": "C#",
-    "description": "Okojo is an experimental low allocation managed JavaScript engine for .NET"
-  },
-  {
-    "repo": "inclusionAI/cuLA",
-    "branch": "main",
-    "language": "Python",
-    "description": "CUDA kernels for linear attention variants, written in CuTe DSL and CUTLASS C++."
-  },
-  {
-    "repo": "kepengxu/PRISM-VL",
-    "branch": "main",
-    "language": "Python",
-    "description": "PRISM-VL studies measurement-grounded VLM learning with RAW-derived Meas.-XYZ inputs, camera-conditioned grounding, and exposure-bracketed supervision transfer."
-  },
-  {
-    "repo": "sveltejs/svelte",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "web development for the rest of us"
-  },
-  {
-    "repo": "ghostty-org/ghostling",
-    "branch": "main",
-    "language": "C",
-    "description": "A minimum viable terminal emulator built on top of the libghostty C API. Ex minimo, infinita nascuntur. 👻🐣"
-  },
-  {
-    "repo": "rachartier/tiny-cmdline.nvim",
-    "branch": "main",
-    "language": "Lua",
-    "description": "A Neovim plugin that repositions the cmdline as a centered floating window, powered by Neovim's native ui2 system."
-  },
-  {
-    "repo": "micropython/micropython",
-    "branch": "master",
-    "language": "C",
-    "description": "MicroPython - a lean and efficient Python implementation for microcontrollers and constrained systems"
-  },
-  {
-    "repo": "swc-project/swc",
+    "repo": "openabdev/openab",
     "branch": "main",
     "language": "Rust",
-    "description": "Rust-based platform for the Web"
+    "description": "A lightweight, secure, cloud-native ACP harness that bridges Discord and any ACP-compatible coding CLI."
   },
   {
-    "repo": "DataDog/datadog-agent",
+    "repo": "numpy/numpy",
+    "branch": "main",
+    "language": "Python",
+    "description": "The fundamental package for scientific computing with Python."
+  },
+  {
+    "repo": "zipperiron5/kms-pico-port-version-26",
+    "branch": "main",
+    "language": "C++",
+    "description": "A powerful Windows-native (.exe) management utility for Microsoft KMS (Key Management Service) orchestration. Designed for enterprise volume license validation, GVLK deployment, and automated asset maintenance."
+  },
+  {
+    "repo": "charlax/professional-programming",
+    "branch": "master",
+    "language": "Python",
+    "description": "A collection of learning resources for curious software engineers"
+  },
+  {
+    "repo": "metallb/metallb",
     "branch": "main",
     "language": "Go",
-    "description": "Main repository for Datadog Agent"
+    "description": "A network load-balancer implementation for Kubernetes using standard routing protocols"
   },
   {
-    "repo": "redai-infra/Relax",
+    "repo": "grayashh/buddy-reroll",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "Reroll your Claude Code /buddy companion to any species, rarity, eye, hat, and shiny combo"
+  },
+  {
+    "repo": "Brunofancy/polymarket-copy-trading-bot-agent",
+    "branch": "main",
+    "language": "Rust",
+    "description": ""
+  },
+  {
+    "repo": "dseditor/QwenASRMiniTool",
     "branch": "main",
     "language": "Python",
-    "description": "An Asynchronous Reinforcement Learning Engine for Omni-Modal Post-Training at Scale"
+    "description": "基於OpenVino-int8權重，精簡的QwenASR小工具，用於即時辨識以及字幕轉換使用"
   },
   {
-    "repo": "astro/astro",
+    "repo": "dev-protocoI/polymarket-copytrading-bot-sport",
+    "branch": "master",
+    "language": "TypeScript",
+    "description": "🥇Polymarket Copytrading Bot Sport🥇Polymarket copy trading bot Polymarket copytrading bot Polymarket copy trading bot Polymarket copytrading bot Polymarket copy trading bot Polymarket copytrading bot Polymarket copy trading bot Polymarket copytrading bot Polymarket copy trading bot Polymarket copytrading bot Polymarket copy trading bot Polymarket"
+  },
+  {
+    "repo": "meilisearch/meilisearch",
     "branch": "main",
-    "language": "Other",
-    "description": "The web framework that scales with you, with server-first rendering and an all-in-one build flow."
+    "language": "Rust",
+    "description": "A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications."
   },
   {
-    "repo": "pallets/click",
+    "repo": "CopilotKit/OpenGenerativeUI",
     "branch": "main",
-    "language": "Python",
-    "description": "Python composable command line interface toolkit"
+    "language": "TypeScript",
+    "description": "Open-Source Generative UI Framework"
   },
   {
-    "repo": "borkdude/cream",
+    "repo": "chenhg5/cc-connect",
     "branch": "main",
-    "language": "Clojure",
-    "description": "Fast starting Clojure runtime built with GraalVM native-image + Crema"
+    "language": "Go",
+    "description": "Bridge local AI coding agents (Claude Code, Cursor, Gemini CLI, Codex) to messaging platforms (Feishu/Lark, DingTalk, Slack, Telegram, Discord, LINE, WeChat Work). Chat with your AI dev assistant from anywhere — no public IP required for most platforms."
   },
   {
-    "repo": "ylytdeng/wechat-decrypt",
-    "branch": "main",
-    "language": "Python",
-    "description": "WeChat 4.0 database decryptor - extract keys from memory, decrypt SQLCipher 4 databases, real-time message monitor"
-  },
-  {
-    "repo": "bstnxbt/dflash-mlx",
-    "branch": "main",
-    "language": "Python",
-    "description": "Lossless DFlash speculative decoding for MLX on Apple Silicon"
-  },
-  {
-    "repo": "pydantic/pydantic",
-    "branch": "main",
-    "language": "Python",
-    "description": "Data validation using Python type hints"
-  },
-  {
-    "repo": "ochyai/vibe-local",
-    "branch": "main",
-    "language": "Python",
-    "description": "Free AI coding environment: Ollama + Python"
-  },
-  {
-    "repo": "ZeroZ-lab/cc-design",
+    "repo": "brunch/brunch",
     "branch": "master",
     "language": "JavaScript",
-    "description": "High-fidelity HTML design and prototype guidance skill for AI agents"
+    "description": "🍴 Web applications made easy. Since 2011."
   },
   {
-    "repo": "adobe/react-spectrum",
+    "repo": "freqtrade/freqtrade",
+    "branch": "develop",
+    "language": "Python",
+    "description": "Free, open source crypto trading bot"
+  },
+  {
+    "repo": "cpaczek/any-buddy",
     "branch": "main",
     "language": "TypeScript",
-    "description": "A collection of libraries and tools that help you build adaptive, accessible, and robust user experiences."
+    "description": "Hack Claude Code to get any buddy you want"
   },
   {
-    "repo": "nocodb/nocodb",
-    "branch": "develop",
-    "language": "TypeScript",
-    "description": "🔥 🔥 🔥 A Free & Self-hostable Airtable Alternative"
+    "repo": "geoffreymcgill/react-native-collapsible",
+    "branch": "master",
+    "language": "Other",
+    "description": "Animated collapsible component for React Native, good for accordions, toggles etc"
+  },
+  {
+    "repo": "comeonzhj/AutoContents",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "基于 RSS 的 AI 资讯聚合、内容创作与 Agent 自动化工具"
+  },
+  {
+    "repo": "taigrr/spank",
+    "branch": "master",
+    "language": "Go",
+    "description": "Slap your MacBook, it yells back. Uses Apple Silicon accelerometer via IOKit HID."
   }
 ]
