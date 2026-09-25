@@ -1,146 +1,146 @@
 [
   {
-    "repo": "Rohim616/DBD-AutoGrind-Trainer-2026-Plus",
+    "repo": "AlexCheema/talos-vs-macbook",
     "branch": "main",
     "language": "Python",
-    "description": "Ultimate Dead by Daylight auto-grind trainer Plus edition with Bloodpoint bot, ESP wallhack, aimbot, and full perk/skin unlocker. Dominate the Fog with our 2026 undetected external tool."
+    "description": "microGPT benchmarks: a single M4 Max MacBook Pro P-core in C runs Karpathy's 4192-parameter transformer at ~71x the throughput of TALOS-V2's FPGA implementation."
   },
   {
-    "repo": "jackwener/twitter-cli",
+    "repo": "MarshallBear1/react-native-system-thumbnails",
     "branch": "main",
-    "language": "Python",
-    "description": "A CLI for Twitter/X — feed, bookmarks, and user timeline in terminal"
+    "language": "Kotlin",
+    "description": "Native iOS and Android system thumbnails for React Native, with caching, cancellation, and icon fallbacks."
   },
   {
-    "repo": "django/django",
-    "branch": "main",
-    "language": "Python",
-    "description": "The Web framework for perfectionists with deadlines."
+    "repo": "rebane2001/x86CSS",
+    "branch": "mane",
+    "language": "HTML",
+    "description": "x86CSS is a working CSS-only x86 CPU/emulator/computer. No JavaScript required."
   },
   {
-    "repo": "PrathamLearnsToCode/paper2code",
-    "branch": "main",
-    "language": "Python",
-    "description": "Agent skill to turn any arxiv paper into a working implementation"
-  },
-  {
-    "repo": "epiral/bb-sites",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "Community fetch recipes for bb-browser — pre-built adapters for Reddit, Twitter, GitHub, and more"
-  },
-  {
-    "repo": "NVlabs/Sana",
-    "branch": "main",
-    "language": "Python",
-    "description": "SANA: Efficient High-Resolution Image Synthesis with Linear Diffusion Transformer"
-  },
-  {
-    "repo": "sorrycc/awesome-javascript",
-    "branch": "master",
-    "language": "Other",
-    "description": "🐢 A collection of awesome browser-side  JavaScript libraries, resources and shiny things."
-  },
-  {
-    "repo": "30-seconds/30-seconds-of-code",
-    "branch": "master",
-    "language": "JavaScript",
-    "description": "Coding articles to level up your development skills"
-  },
-  {
-    "repo": "prometheus/client_python",
-    "branch": "master",
-    "language": "Python",
-    "description": "Prometheus instrumentation library for Python applications"
-  },
-  {
-    "repo": "robertorobotics/Nextis-AIRA-3D",
-    "branch": "main",
-    "language": "Python",
-    "description": "Open-source 7DoF 3D-printable robotic arm with LeRobot integration."
-  },
-  {
-    "repo": "MoonshotAI/Kimi-VL",
-    "branch": "main",
-    "language": "Other",
-    "description": "Kimi-VL: Mixture-of-Experts Vision-Language Model for Multimodal Reasoning, Long-Context Understanding, and Strong Agent Capabilities"
-  },
-  {
-    "repo": "onevcat/Kingfisher",
-    "branch": "master",
-    "language": "Swift",
-    "description": "A lightweight, pure-Swift library for downloading and caching images from the web."
-  },
-  {
-    "repo": "TheTom/turboquant_plus",
+    "repo": "dazzyddos/ClickOnceBlobber",
     "branch": "main",
     "language": "Python",
     "description": ""
   },
   {
-    "repo": "jaywcjlove/awesome-mac",
-    "branch": "master",
-    "language": "JavaScript",
-    "description": " Now we have become very big, Different from the original idea. Collect premium software in various categories."
-  },
-  {
-    "repo": "epiral/weixin-bot",
+    "repo": "NVlabs/cutile-rs",
     "branch": "main",
-    "language": "Python",
-    "description": "WeChat iLink Bot SDK for Node.js and Python — zero-config agent integration"
+    "language": "Rust",
+    "description": "cuTile Rust provides a safe, tile-based kernel programming DSL for the Rust programming language. It features a safe host-side API for passing tensors to asynchronously executed kernel functions."
   },
   {
-    "repo": "google/leveldb",
-    "branch": "main",
-    "language": "C++",
-    "description": "LevelDB is a fast key-value storage library written at Google that provides an ordered mapping from string keys to string values."
-  },
-  {
-    "repo": "donghuixin/AI-Vibe-Writing-Skills",
-    "branch": "main",
-    "language": "Python",
-    "description": "Using AI for high quality writing"
-  },
-  {
-    "repo": "pydantic/FastUI",
-    "branch": "main",
-    "language": "Python",
-    "description": "Build better UIs faster."
-  },
-  {
-    "repo": "grafana/tempo",
-    "branch": "main",
-    "language": "Go",
-    "description": "Grafana Tempo is a high volume, minimal dependency distributed tracing backend."
-  },
-  {
-    "repo": "go-gitea/gitea",
-    "branch": "main",
-    "language": "Go",
-    "description": "Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD"
-  },
-  {
-    "repo": "griffinmartin/opencode-claude-auth",
+    "repo": "ahaodev/shadmin",
     "branch": "main",
     "language": "TypeScript",
-    "description": "OpenCode plugin that uses your existing Claude Code credentials — no separate login needed"
+    "description": "An Enterprise-Grade Full-Stack RBAC Permission Management System Built with Go + React"
   },
   {
-    "repo": "timescale/timescaledb",
+    "repo": "tradesdontlie/tradingview-mcp",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "AI-assisted TradingView chart analysis — connect Claude Code to your TradingView Desktop for personal workflow automation"
+  },
+  {
+    "repo": "okooo5km/Skills4U",
+    "branch": "main",
+    "language": "TeX",
+    "description": "Skills here"
+  },
+  {
+    "repo": "Morgensonne/EditDeck",
+    "branch": "main",
+    "language": "Python",
+    "description": ""
+  },
+  {
+    "repo": "jshachm/chronoh",
+    "branch": "main",
+    "language": "Rust",
+    "description": "遵循harness原则，长时运行agent任务的框架，集成pi-rs"
+  },
+  {
+    "repo": "Flowseal/tg-ws-proxy",
+    "branch": "main",
+    "language": "Python",
+    "description": "Local SOCKS5 proxy server for partial bypassing of Telegram loading"
+  },
+  {
+    "repo": "heri1845/ai-meme-trading-bot",
+    "branch": "main",
+    "language": "Go",
+    "description": "Automated trading system for Solana and Base meme coins with AI-powered strategy evaluation. AI trading, AI prediction, AI trading, AI predictiction"
+  },
+  {
+    "repo": "AprilNEA/claude-code-source",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Claude Code source code recovered from source map"
+  },
+  {
+    "repo": "tianxingleo/ACGTI",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "ACG Type Indicator - MBTI inspired anime persona quiz"
+  },
+  {
+    "repo": "tnm/zclaw",
     "branch": "main",
     "language": "C",
-    "description": "A time-series database for high-performance real-time analytics packaged as a Postgres extension"
+    "description": "Your personal AI assistant in under 888 KB, running on an ESP32"
   },
   {
-    "repo": "TheGreatGildo/nerv-ui",
+    "repo": "liuup/claude-code-analysis",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "The analysis of Claude Code"
+  },
+  {
+    "repo": "ParthJadhav/ios-marketing-capture",
+    "branch": "main",
+    "language": "Shell",
+    "description": "Automate Multi-Locale asset creation for your iOS app."
+  },
+  {
+    "repo": "vercel-labs/webreel",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Record scripted browser demos as video"
+  },
+  {
+    "repo": "sgInnora/alipay-deeplink-research",
     "branch": "main",
     "language": "HTML",
-    "description": "NERV Operations Console aesthetic for web interfaces — Evangelion-inspired instrumentation UI skill for Claude Code / OpenClaw"
+    "description": "Alipay DeepLink + JSBridge Security Research - 17 Verified Vulnerabilities | 支付宝DeepLink安全研究 | Full Report: innora.ai/zfb"
   },
   {
-    "repo": "owncloud/core",
+    "repo": "midudev/alg0.dev",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "alg0.dev is an interactive algorithm visualizer where classic algorithms come to life through step by step animations, controls to pause or advance, and access to the underlying code."
+  },
+  {
+    "repo": "lopespm/zig-minimal-kernel-x86",
+    "branch": "main",
+    "language": "Zig",
+    "description": "Minimal x86 Kernel - built in Zig"
+  },
+  {
+    "repo": "sachaa/openbrowserclaw",
     "branch": "master",
-    "language": "PHP",
-    "description": ":cloud: ownCloud web server core (Files, DAV, etc.)"
+    "language": "TypeScript",
+    "description": "Browser-native personal AI assistant. Zero infrastructure, the browser is the server."
+  },
+  {
+    "repo": "mattmireles/gemma-tuner-multimodal",
+    "branch": "main",
+    "language": "Python",
+    "description": "Fine-tune Gemma 4 and 3n with audio, images and text on Apple Silicon, using PyTorch and Metal Performance Shaders."
+  },
+  {
+    "repo": "0xpoIygon/polymarket-trading-bot-example",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Polymarket Bot - TypeScript bot for Polymarket 15-minute BTC up/down markets: Gamma market discovery, CLOB quotes, weighted signal fusion, risk checks, and optional live orders via @polymarket/clob-client. Clue: Polymarket Bot, Polymarket Trading Bot, Polymarket Copy Trading Bot, Polymarket Arbitrage Trading Bot, Polymarket Copytrading Bot"
   }
 ]
