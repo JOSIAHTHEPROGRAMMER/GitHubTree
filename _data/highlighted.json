@@ -1,8 +1,8 @@
 {
-  "repo": "ipenywis/laya-ultrafast",
+  "repo": "yifanzhang-pro/KLPO",
   "branch": "main",
   "language": "Python",
-  "description": "Same as jev-ultrafast but using Laya",
-  "stars": 186,
-  "forks": 26
+  "description": "Official Project Page for KL-Regularized Policy Optimization for Agentic Reinforcement Learning (KLPO)",
+  "stars": 180,
+  "forks": 16
 }
