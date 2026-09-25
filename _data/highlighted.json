@@ -1,8 +1,8 @@
 {
-  "repo": "Shelpid/SETS",
+  "repo": "ipenywis/laya-ultrafast",
   "branch": "main",
-  "language": "JavaScript",
-  "description": "Self Improving Trading Machine",
-  "stars": 210,
-  "forks": 63
+  "language": "Python",
+  "description": "Same as jev-ultrafast but using Laya",
+  "stars": 175,
+  "forks": 25
 }

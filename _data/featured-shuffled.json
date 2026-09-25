@@ -1,146 +1,146 @@
 [
   {
-    "repo": "wavyrai/tmux-ide",
+    "repo": "pengchujin/tower",
     "branch": "main",
-    "language": "JavaScript",
-    "description": "Turn any project into a tmux-powered terminal IDE with a simple ide.yml"
+    "language": "Swift",
+    "description": "塔台 — 原生 SwiftUI iOS App，在本机管理机场订阅与自有节点，生成 Surge / Clash / Shadowrocket / Loon / Quantumult X 配置"
   },
   {
-    "repo": "espressif/esp-idf",
-    "branch": "master",
-    "language": "C",
-    "description": "Espressif IoT Development Framework. Official development framework for Espressif SoCs."
-  },
-  {
-    "repo": "status-im/nimbus-eth2",
-    "branch": "stable",
-    "language": "Nim",
-    "description": "Nim implementation of the Ethereum Beacon Chain"
-  },
-  {
-    "repo": "tinygo-org/tinygo",
-    "branch": "release",
-    "language": "Go",
-    "description": "Go compiler for small places. Microcontrollers, WebAssembly (WASM/WASI), and command-line tools. Based on LLVM."
-  },
-  {
-    "repo": "mqudsi/monospace-ocr",
-    "branch": "master",
+    "repo": "altair-viz/altair",
+    "branch": "main",
     "language": "Python",
-    "description": ""
+    "description": "Declarative visualization library for Python"
   },
   {
-    "repo": "wagmi-dev/viem",
+    "repo": "pointfreeco/swift-composable-architecture",
     "branch": "main",
-    "language": "TypeScript",
-    "description": "TypeScript Interface for Ethereum"
+    "language": "Swift",
+    "description": "A library for building applications in a consistent and understandable way, with composition, testing, and ergonomics in mind."
   },
   {
-    "repo": "unjs/nitro",
+    "repo": "liorwn/claudetop",
     "branch": "main",
-    "language": "TypeScript",
-    "description": "Next Generation Server Toolkit. Create web servers with everything you need and deploy them wherever you prefer."
+    "language": "Shell",
+    "description": "htop for your Claude Code sessions — real-time cost, cache efficiency, model comparison, and smart alerts"
   },
   {
-    "repo": "edgedb/edgedb",
-    "branch": "master",
+    "repo": "realm/SwiftLint",
+    "branch": "main",
+    "language": "Swift",
+    "description": "A tool to enforce Swift style and conventions."
+  },
+  {
+    "repo": "Flowseal/tg-ws-proxy",
+    "branch": "main",
     "language": "Python",
-    "description": "Gel supercharges Postgres with a modern data model, graph queries, Auth & AI solutions, and much more."
+    "description": "Local SOCKS5 proxy server for partial bypassing of Telegram loading"
   },
   {
-    "repo": "sonpiaz/evox",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": ""
-  },
-  {
-    "repo": "dandavison/delta",
-    "branch": "main",
-    "language": "Rust",
-    "description": "A syntax-highlighting pager for git, diff, grep, and blame output"
-  },
-  {
-    "repo": "cert-manager/cert-manager",
-    "branch": "master",
-    "language": "Go",
-    "description": "Automatically provision and manage TLS certificates in Kubernetes"
-  },
-  {
-    "repo": "balancer/balancer-v2-monorepo",
-    "branch": "master",
-    "language": "TypeScript",
-    "description": "Balancer V2 Monorepo"
-  },
-  {
-    "repo": "Galaxy-Dawn/claude-scholar",
-    "branch": "main",
-    "language": "TeX",
-    "description": "A comprehensive Claude Code configuration for data science, AI research, and academic writing. Streamline the complete research workflow—from idea to publication."
-  },
-  {
-    "repo": "MunGell/awesome-for-beginners",
-    "branch": "master",
-    "language": "Other",
-    "description": "A list of awesome beginners-friendly projects."
-  },
-  {
-    "repo": "soimy/openclaw-channel-dingtalk",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "A dingtalk bot channel plugin for clawdbot"
-  },
-  {
-    "repo": "web3-storage/web3.storage",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "DEPRECATED ⁂ The simple file storage service for IPFS & Filecoin"
-  },
-  {
-    "repo": "openai/openai-cookbook",
-    "branch": "main",
-    "language": "Jupyter Notebook",
-    "description": "Examples and guides for using the OpenAI API"
-  },
-  {
-    "repo": "keithnull/TeachYourselfCS-CN",
-    "branch": "master",
-    "language": "Other",
-    "description": "TeachYourselfCS 的中文翻译 |  A Chinese translation of TeachYourselfCS"
-  },
-  {
-    "repo": "facebook/folly",
-    "branch": "main",
-    "language": "C++",
-    "description": "An open-source C++ library developed and used at Facebook."
-  },
-  {
-    "repo": "ant-design/ant-design-mobile",
-    "branch": "master",
-    "language": "TypeScript",
-    "description": "Essential UI blocks for building mobile web apps."
-  },
-  {
-    "repo": "actions/runner-images",
+    "repo": "linlay/zenmind",
     "branch": "main",
     "language": "PowerShell",
-    "description": "GitHub Actions runner images"
+    "description": "宅在家里的电脑，努力做一个openclaw"
   },
   {
-    "repo": "deepfakes/faceswap",
+    "repo": "tianxingleo/ACGTI",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "ACG Type Indicator - MBTI inspired anime persona quiz"
+  },
+  {
+    "repo": "johannesjo/parallel-code",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Run Claude Code, Codex, and Gemini side by side — each in      its own git worktree"
+  },
+  {
+    "repo": "outcomeops/context-engineering",
+    "branch": "main",
+    "language": "Python",
+    "description": ""
+  },
+  {
+    "repo": "rq/rq",
     "branch": "master",
     "language": "Python",
-    "description": "Deepfakes Software For All"
+    "description": "Simple job queues for Python"
   },
   {
-    "repo": "zoontek/react-native-permissions",
-    "branch": "master",
-    "language": "Objective-C++",
-    "description": "An unified permissions API for React Native on iOS, Android and Windows."
+    "repo": "hashicorp/nomad",
+    "branch": "main",
+    "language": "Go",
+    "description": "Nomad is an easy-to-use, flexible, and performant workload orchestrator that can deploy a mix of microservice, batch, containerized, and non-containerized applications. Nomad is easy to operate and scale and has native Consul and Vault integrations."
   },
   {
-    "repo": "gin-gonic/gin",
+    "repo": "barrosyan/PINNeAPPle",
+    "branch": "main",
+    "language": "Python",
+    "description": "Pinneaple is an open-source Physics AI toolkit for Physics-Informed Neural Networks (PINNs), scientific ML, geometry processing, solvers, and reproducible training pipelines."
+  },
+  {
+    "repo": "metallb/metallb",
+    "branch": "main",
+    "language": "Go",
+    "description": "A network load-balancer implementation for Kubernetes using standard routing protocols"
+  },
+  {
+    "repo": "SahilH4ck4you/iOS-SSL-pinning-bypass-without-jalibreak",
+    "branch": "main",
+    "language": "Shell",
+    "description": "SSL pinning bypass setup for iOS (No Jailbreak) using OpenVPN + iptables traffic redirection to proxy (Burp Suite / mitmproxy)"
+  },
+  {
+    "repo": "Panniantong/Agent-Reach",
+    "branch": "main",
+    "language": "Python",
+    "description": ""
+  },
+  {
+    "repo": "KKKKhazix/Khazix-Skills",
+    "branch": "main",
+    "language": "Python",
+    "description": ""
+  },
+  {
+    "repo": "pallets/jinja",
+    "branch": "main",
+    "language": "Python",
+    "description": "A very fast and expressive template engine."
+  },
+  {
+    "repo": "rancher/k3d",
+    "branch": "main",
+    "language": "Go",
+    "description": "Little helper to run CNCF's k3s in Docker"
+  },
+  {
+    "repo": "projectdiscovery/nuclei",
     "branch": "master",
     "language": "Go",
-    "description": "Gin is a high-performance HTTP web framework written in Go. It provides a Martini-like API but with significantly better performance—up to 40 times faster—thanks to httprouter. Gin is designed for building REST APIs, web applications, and microservices."
+    "description": "Nuclei is a fast, customizable vulnerability scanner powered by the global security community and built on a simple YAML-based DSL, enabling collaboration to tackle trending vulnerabilities on the internet. It helps you find vulnerabilities in your applications, APIs, networks, DNS, and cloud configurations."
+  },
+  {
+    "repo": "jure/webphysics",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "WebGPU physics engine based on the AVBD solver"
+  },
+  {
+    "repo": "quarkusio/quarkus",
+    "branch": "main",
+    "language": "Java",
+    "description": "Quarkus: Supersonic Subatomic Java."
+  },
+  {
+    "repo": "react-native-maps/react-native-maps",
+    "branch": "master",
+    "language": "TypeScript",
+    "description": "React Native Mapview component for iOS + Android"
+  },
+  {
+    "repo": "t8y2/dbx",
+    "branch": "main",
+    "language": "Vue",
+    "description": "Open-source, lightweight, cross-platform database client. Supports MySQL, PostgreSQL, SQLite, Redis, MongoDB, DuckDB, ClickHouse, SQL Server."
   }
 ]
