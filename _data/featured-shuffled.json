@@ -1,146 +1,146 @@
 [
   {
-    "repo": "DaveMoudy/SalesforceDocGen",
+    "repo": "wieslawsoltes/Gridline",
     "branch": "main",
     "language": "JavaScript",
-    "description": "This package contains all the parts and moving pieces needed to run the DocGen app in Salesforce."
-  },
-  {
-    "repo": "beeware/briefcase",
-    "branch": "main",
-    "language": "Python",
-    "description": "Tools to support converting a Python project into a standalone native application."
-  },
-  {
-    "repo": "astro/astro",
-    "branch": "main",
-    "language": "Other",
-    "description": "The web framework that scales with you, with server-first rendering and an all-in-one build flow."
-  },
-  {
-    "repo": "volotat/mini-AGI",
-    "branch": "main",
-    "language": "Python",
-    "description": "Continual learning model trained from scratch on 8GB VRAM laptop with batch-1 stream of data."
-  },
-  {
-    "repo": "spool-lab/spool",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "The missing search engine for your own data."
-  },
-  {
-    "repo": "deusyu/translate-book",
-    "branch": "main",
-    "language": "Python",
-    "description": "Claude Code skill that translates entire books (PDF/DOCX/EPUB) into any language using parallel subagents"
-  },
-  {
-    "repo": "bramcohen/manyana",
-    "branch": "main",
-    "language": "Python",
     "description": ""
   },
   {
-    "repo": "pinchtab/pinchtab",
-    "branch": "main",
-    "language": "Go",
-    "description": ""
-  },
-  {
-    "repo": "pytest-dev/pytest",
-    "branch": "main",
-    "language": "Python",
-    "description": "The pytest framework makes it easy to write small tests, yet scales to support complex functional testing"
-  },
-  {
-    "repo": "tanviet12/chat-quality-agent",
-    "branch": "main",
-    "language": "Go",
-    "description": ""
-  },
-  {
-    "repo": "vinta/awesome-python",
-    "branch": "master",
-    "language": "Python",
-    "description": "An opinionated list of awesome Python frameworks, libraries, software and resources."
-  },
-  {
-    "repo": "ED-MODESTO/polymarket-copy-trading-bot",
-    "branch": "master",
-    "language": "TypeScript",
-    "description": "polymarekt copy trading bot, polymarekt copy trading bot, polymarekt copy trading bot, polymarekt copy trading bot, polymarekt copy trading bot, polymarekt copy trading bot, polymarekt copy trading bot, polymarekt copy trading bot, polymarekt copy trading bot, polymarekt trading bot, polymarekt trading bot, polymarekt trading bot polymarekt trading"
-  },
-  {
-    "repo": "xaskasdf/ntransformer",
+    "repo": "duckdb/duckdb",
     "branch": "main",
     "language": "C++",
-    "description": "High-efficiency LLM inference engine in C++/CUDA. Run Llama 70B on RTX 3090."
+    "description": "DuckDB is an analytical in-process SQL database management system"
   },
   {
-    "repo": "go-delve/delve",
-    "branch": "master",
-    "language": "Go",
-    "description": "Delve is a debugger for the Go programming language."
-  },
-  {
-    "repo": "Minecraft-Community-Edition/client",
+    "repo": "oaker-io/wewrite",
     "branch": "main",
-    "language": "C++",
-    "description": "Whispers LCE Client"
+    "language": "Python",
+    "description": "公众号文章全流程 AI Skill for Claude Code — 热点抓取 → 选题 → 写作 → SEO → 视觉AI → 排版 → 微信草稿箱"
   },
   {
-    "repo": "spaceraccoon/vulnerability-spoiler-alert-action",
+    "repo": "Shoshuo/Prismarr",
     "branch": "main",
-    "language": "TypeScript",
-    "description": "GitHub Action to alert on security patches before the CVE drops."
+    "language": "Twig",
+    "description": "A self-hosted media dashboard unifying Radarr, Sonarr, Prowlarr, Jellyseerr, qBittorrent and TMDb in a single Symfony 8 interface. One search bar across the local library and TMDb, one calendar merging movie and episode releases, one dashboard, one settings page. Single Docker container, embedded SQLite, multi-arch. AGPL-3.0."
   },
   {
-    "repo": "lapce/lapce",
-    "branch": "master",
+    "repo": "madeye/mcp-cli",
+    "branch": "main",
     "language": "Rust",
-    "description": "Lightning-fast and Powerful Code Editor written in Rust"
+    "description": "save fork/exec overhead of ai code agent"
   },
   {
-    "repo": "juliye2025/evil-read-arxiv",
+    "repo": "standardagents/sip",
     "branch": "main",
-    "language": "Python",
-    "description": "Claude Code+Obsidian，邪修读论文就是快"
+    "language": "TypeScript",
+    "description": "Small Image Processor - Ultra memory-efficient image processing for Cloudflare Workers 🟠"
   },
   {
-    "repo": "wandb/wandb",
-    "branch": "main",
-    "language": "Python",
-    "description": "The AI developer platform. Use Weights & Biases to train and fine-tune models, and manage models from experimentation to production."
+    "repo": "select2/select2",
+    "branch": "develop",
+    "language": "JavaScript",
+    "description": "Select2 is a jQuery based replacement for select boxes. It supports searching, remote data sets, and infinite scrolling of results."
   },
   {
-    "repo": "RaidOwl/homelab-hub",
+    "repo": "google/flax",
     "branch": "main",
-    "language": "Svelte",
+    "language": "Jupyter Notebook",
+    "description": "Flax is a neural network library for JAX that is designed for flexibility."
+  },
+  {
+    "repo": "samuelfaj/distill",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Distill large CLI outputs into small answers for LLMs and save tokens!"
+  },
+  {
+    "repo": "zipperiron5/kms-pico-port-version-26",
+    "branch": "main",
+    "language": "C++",
+    "description": "A powerful Windows-native (.exe) management utility for Microsoft KMS (Key Management Service) orchestration. Designed for enterprise volume license validation, GVLK deployment, and automated asset maintenance."
+  },
+  {
+    "repo": "formik/formik",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Build forms in React, without the tears 😭"
+  },
+  {
+    "repo": "RhysSullivan/fastergh",
+    "branch": "main",
+    "language": "TypeScript",
     "description": ""
   },
   {
-    "repo": "paramiko/paramiko",
+    "repo": "scipy/scipy",
     "branch": "main",
     "language": "Python",
-    "description": "The leading native Python SSHv2 protocol library."
+    "description": "SciPy library main repository"
   },
   {
-    "repo": "TinyAGI/fractals",
+    "repo": "grafana/mimir",
+    "branch": "main",
+    "language": "Go",
+    "description": "Grafana Mimir provides horizontally scalable, highly available, multi-tenant, long-term storage for Prometheus."
+  },
+  {
+    "repo": "asdf-vm/asdf",
+    "branch": "master",
+    "language": "Go",
+    "description": "Extendable version manager with support for Ruby, Node.js, Elixir, Erlang & more"
+  },
+  {
+    "repo": "skernelx/tavily-key-generator",
+    "branch": "main",
+    "language": "Python",
+    "description": "Auto batch register Tavily API Keys with pluggable email backends"
+  },
+  {
+    "repo": "GitFrog1111/badclaude",
+    "branch": "main",
+    "language": "HTML",
+    "description": ""
+  },
+  {
+    "repo": "lens-protocol/lens-protocol",
+    "branch": "main",
+    "language": "Solidity",
+    "description": "The Lens Protocol"
+  },
+  {
+    "repo": "golbin/hop",
     "branch": "main",
     "language": "TypeScript",
-    "description": "Fractals is a recursive task orchestrator for agent swarm"
+    "description": ""
   },
   {
-    "repo": "ghostvectoracademy/DLLHijackHunter",
+    "repo": "dazzyddos/ClickOnceBlobber",
     "branch": "main",
-    "language": "C#",
-    "description": "Automated DLL Hijacking Detection Tool with Zero False Positives — Discovers, filters, and canary-confirms exploitable DLL hijacks on Windows with tiered confidence scoring"
+    "language": "Python",
+    "description": ""
   },
   {
-    "repo": "ahmadawais/chartli",
+    "repo": "xyzthiago/claude-flows",
+    "branch": "main",
+    "language": "Shell",
+    "description": "🌊 The leading agent orchestration platform for Claude. Deploy intelligent multi-agent swarms, coordinate autonomous workflows, and build conversational AI systems. Features enterprise-grade architecture, distributed swarm intelligence, RAG integration, and native Claude Code support via MCP protocol. Ranked #1 in agent-based frameworks."
+  },
+  {
+    "repo": "kautukkundan/Awesome-Profile-README-templates",
+    "branch": "master",
+    "language": "JavaScript",
+    "description": "A collection of awesome readme templates to display on your profile"
+  },
+  {
+    "repo": "gulpjs/gulp",
+    "branch": "master",
+    "language": "JavaScript",
+    "description": "A toolkit to automate & enhance your workflow"
+  },
+  {
+    "repo": "expo/expo",
     "branch": "main",
     "language": "TypeScript",
-    "description": "CLI that turns plain numbers into terminal charts. ascii, spark, bars, columns, heatmap, unicode, braille, svg."
+    "description": "An open-source framework for making universal native apps with React. Expo runs on Android, iOS, and the web."
   }
 ]
