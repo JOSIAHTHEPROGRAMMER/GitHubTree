@@ -1,129 +1,99 @@
 [
   {
-    "repo": "wieslawsoltes/Gridline",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": ""
-  },
-  {
-    "repo": "duckdb/duckdb",
-    "branch": "main",
-    "language": "C++",
-    "description": "DuckDB is an analytical in-process SQL database management system"
-  },
-  {
-    "repo": "oaker-io/wewrite",
+    "repo": "Kaleighc793/freqtrade-bot",
     "branch": "main",
     "language": "Python",
-    "description": "公众号文章全流程 AI Skill for Claude Code — 热点抓取 → 选题 → 写作 → SEO → 视觉AI → 排版 → 微信草稿箱"
+    "description": "Freqtrade — Configuration and management tool for the Freqtrade open-source crypto trading bot with strategy backtesting, live/dry-run modes, 10+ exchange support (Binance, Kraken, OKX), hyperparameter optimization, FreqUI dashboard, and Rich terminal menu interface"
   },
   {
-    "repo": "Shoshuo/Prismarr",
+    "repo": "OmniJev/awesome-jev-gallery",
     "branch": "main",
-    "language": "Twig",
-    "description": "A self-hosted media dashboard unifying Radarr, Sonarr, Prowlarr, Jellyseerr, qBittorrent and TMDb in a single Symfony 8 interface. One search bar across the local library and TMDb, one calendar merging movie and episode releases, one dashboard, one settings page. Single Docker container, embedded SQLite, multi-arch. AGPL-3.0."
-  },
-  {
-    "repo": "madeye/mcp-cli",
-    "branch": "main",
-    "language": "Rust",
-    "description": "save fork/exec overhead of ai code agent"
-  },
-  {
-    "repo": "standardagents/sip",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Small Image Processor - Ultra memory-efficient image processing for Cloudflare Workers 🟠"
-  },
-  {
-    "repo": "select2/select2",
-    "branch": "develop",
     "language": "JavaScript",
-    "description": "Select2 is a jQuery based replacement for select boxes. It supports searching, remote data sets, and infinite scrolling of results."
+    "description": "🔥🔥 Papers, open reproductions and independent evaluations behind System One models and Jev."
   },
   {
-    "repo": "google/flax",
+    "repo": "Creators-of-Aeronautics/Simulated-Project",
     "branch": "main",
-    "language": "Jupyter Notebook",
-    "description": "Flax is a neural network library for JAX that is designed for flexibility."
+    "language": "Java",
+    "description": "Build anything from airships to planes and cars!"
   },
   {
-    "repo": "samuelfaj/distill",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Distill large CLI outputs into small answers for LLMs and save tokens!"
-  },
-  {
-    "repo": "zipperiron5/kms-pico-port-version-26",
-    "branch": "main",
-    "language": "C++",
-    "description": "A powerful Windows-native (.exe) management utility for Microsoft KMS (Key Management Service) orchestration. Designed for enterprise volume license validation, GVLK deployment, and automated asset maintenance."
-  },
-  {
-    "repo": "formik/formik",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Build forms in React, without the tears 😭"
-  },
-  {
-    "repo": "RhysSullivan/fastergh",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": ""
-  },
-  {
-    "repo": "scipy/scipy",
-    "branch": "main",
-    "language": "Python",
-    "description": "SciPy library main repository"
-  },
-  {
-    "repo": "grafana/mimir",
-    "branch": "main",
-    "language": "Go",
-    "description": "Grafana Mimir provides horizontally scalable, highly available, multi-tenant, long-term storage for Prometheus."
-  },
-  {
-    "repo": "asdf-vm/asdf",
+    "repo": "rclone/rclone",
     "branch": "master",
     "language": "Go",
-    "description": "Extendable version manager with support for Ruby, Node.js, Elixir, Erlang & more"
+    "description": "rsync for cloud storage - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Azure Blob, Azure Files, Yandex Files"
   },
   {
-    "repo": "skernelx/tavily-key-generator",
-    "branch": "main",
-    "language": "Python",
-    "description": "Auto batch register Tavily API Keys with pluggable email backends"
-  },
-  {
-    "repo": "GitFrog1111/badclaude",
-    "branch": "main",
-    "language": "HTML",
-    "description": ""
-  },
-  {
-    "repo": "lens-protocol/lens-protocol",
-    "branch": "main",
-    "language": "Solidity",
-    "description": "The Lens Protocol"
-  },
-  {
-    "repo": "golbin/hop",
+    "repo": "win4r/free-code",
     "branch": "main",
     "language": "TypeScript",
-    "description": ""
+    "description": "Published from https://github.com/paoloanzn/free-code; independent public mirror due GitHub fork-network limits."
   },
   {
-    "repo": "dazzyddos/ClickOnceBlobber",
+    "repo": "BabylonJS/Babylon.js",
+    "branch": "master",
+    "language": "TypeScript",
+    "description": "Babylon.js is a powerful, beautiful, simple, and open game and rendering engine packed into a friendly JavaScript framework."
+  },
+  {
+    "repo": "confluentinc/ksql",
+    "branch": "master",
+    "language": "Java",
+    "description": "The database purpose-built for stream processing applications."
+  },
+  {
+    "repo": "xr843/Master-skill",
     "branch": "main",
     "language": "Python",
-    "description": ""
+    "description": "Chinese Buddhist Master-skill powered by FoJin — 基于佛教经典文献的汉传祖师大德教学角色生成器"
   },
   {
-    "repo": "xyzthiago/claude-flows",
+    "repo": "dair-ai/Prompt-Engineering-Guide",
     "branch": "main",
-    "language": "Shell",
-    "description": "🌊 The leading agent orchestration platform for Claude. Deploy intelligent multi-agent swarms, coordinate autonomous workflows, and build conversational AI systems. Features enterprise-grade architecture, distributed swarm intelligence, RAG integration, and native Claude Code support via MCP protocol. Ranked #1 in agent-based frameworks."
+    "language": "MDX",
+    "description": "🐙 Guides, papers, lessons, notebooks and resources for prompt engineering, context engineering, RAG, and AI Agents."
+  },
+  {
+    "repo": "OpenMOSS/MOSS-VL",
+    "branch": "main",
+    "language": "Python",
+    "description": "MOSS-VL is the core multimodal model series within the OpenMOSS ecosystem, dedicated to visual understanding."
+  },
+  {
+    "repo": "cncf/toc",
+    "branch": "main",
+    "language": "Go",
+    "description": "⚖️ The CNCF Technical Oversight Committee (TOC) is the technical governing body of the CNCF Foundation."
+  },
+  {
+    "repo": "cookiecutter/cookiecutter",
+    "branch": "master",
+    "language": "Python",
+    "description": "A cross-platform command-line utility that creates projects from cookiecutters (project templates), e.g. Python package projects, C projects."
+  },
+  {
+    "repo": "dimartarmizi/map-to-poster",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "MapToPoster JS is a client-side web app that turns any location into a high-resolution, customizable map poster with various themes, layouts, and export options."
+  },
+  {
+    "repo": "mliu98/awesome-human-distillation",
+    "branch": "main",
+    "language": "Python",
+    "description": "A curated catalog of human distillliation agent skills"
+  },
+  {
+    "repo": "helm/helm-www",
+    "branch": "main",
+    "language": "MDX",
+    "description": "The Helm website for docs, blog and project info."
+  },
+  {
+    "repo": "apache/camel",
+    "branch": "main",
+    "language": "Java",
+    "description": "Apache Camel is an open source integration framework that empowers you to quickly and easily integrate various systems consuming or producing data."
   },
   {
     "repo": "kautukkundan/Awesome-Profile-README-templates",
@@ -132,15 +102,45 @@
     "description": "A collection of awesome readme templates to display on your profile"
   },
   {
-    "repo": "gulpjs/gulp",
+    "repo": "kubernetes/dashboard",
     "branch": "master",
-    "language": "JavaScript",
-    "description": "A toolkit to automate & enhance your workflow"
+    "language": "Go",
+    "description": "General-purpose web UI for Kubernetes clusters"
   },
   {
-    "repo": "expo/expo",
+    "repo": "diesel-rs/diesel",
+    "branch": "master",
+    "language": "Rust",
+    "description": "A safe, extensible ORM and Query Builder for Rust"
+  },
+  {
+    "repo": "google-research/vision_transformer",
     "branch": "main",
-    "language": "TypeScript",
-    "description": "An open-source framework for making universal native apps with React. Expo runs on Android, iOS, and the web."
+    "language": "Jupyter Notebook",
+    "description": "Vision Transformer in JAX."
+  },
+  {
+    "repo": "dask/dask",
+    "branch": "main",
+    "language": "Python",
+    "description": "Parallel computing with task scheduling"
+  },
+  {
+    "repo": "minio/minio",
+    "branch": "master",
+    "language": "Go",
+    "description": "MinIO is a high-performance, S3 compatible object store, open sourced under GNU AGPLv3 license."
+  },
+  {
+    "repo": "tendermint/tendermint",
+    "branch": "main",
+    "language": "Go",
+    "description": "⟁ Tendermint Core (BFT Consensus) in Go"
+  },
+  {
+    "repo": "ckckck/UltimateSearchSkill",
+    "branch": "main",
+    "language": "Shell",
+    "description": "Dual-engine web search Skill for OpenClaw/Pi: Grok AI + Tavily + FireCrawl"
   }
 ]

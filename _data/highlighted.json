@@ -1,8 +1,8 @@
 {
-  "repo": "shhivv/arc-cua",
-  "branch": "master",
-  "language": "Python",
-  "description": "Superfast action layer for computer-use agents",
-  "stars": 141,
-  "forks": 14
+  "repo": "wquguru/dasheng",
+  "branch": "main",
+  "language": "JavaScript",
+  "description": "大声读 — R2T2 流式 ASR 听，Jev 逐词判，英文朗读评分",
+  "stars": 139,
+  "forks": 19
 }
