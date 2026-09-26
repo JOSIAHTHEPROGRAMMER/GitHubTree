@@ -1,8 +1,8 @@
 {
-  "repo": "wquguru/dasheng",
+  "repo": "CTNicholas/jev-workflow-builder",
   "branch": "main",
-  "language": "JavaScript",
-  "description": "大声读 — R2T2 流式 ASR 听，Jev 逐词判，英文朗读评分",
-  "stars": 139,
+  "language": "TypeScript",
+  "description": "A featured project on GitHubTree.",
+  "stars": 147,
   "forks": 19
 }
