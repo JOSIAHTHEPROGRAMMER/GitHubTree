@@ -1,8 +1,8 @@
 {
-  "repo": "XiaoPuOuO/openchatx-mcp",
+  "repo": "angel291592/Intent-Router",
   "branch": "main",
-  "language": "TypeScript",
-  "description": "Turn ChatGPT into a local agent runtime. Operate your computer, use local tools, discover MCP servers, and delegate work to your own models through one MCP connection.",
-  "stars": 142,
-  "forks": 10
+  "language": "Python",
+  "description": "Intent compiler for AI agents — converges vague requests into typed IntentSpec contracts (probe, ask, or halt before routing), the input layer for routers and typed-decision models like Jev & Laya",
+  "stars": 164,
+  "forks": 17
 }

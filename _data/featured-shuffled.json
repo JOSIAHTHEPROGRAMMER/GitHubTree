@@ -1,146 +1,146 @@
 [
   {
-    "repo": "cv-cat/XHS_ALL_IN_ONE",
-    "branch": "master",
-    "language": "JavaScript",
-    "description": "XHS_ALL_IN_ONE 小红书全域运营"
+    "repo": "Danilaa1/slot-text",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Dependency-free text roll animation for vanilla JS, React, and Vue."
   },
   {
-    "repo": "reactor-team/infinite-livestream",
+    "repo": "sweetalert2/sweetalert2",
     "branch": "main",
+    "language": "JavaScript",
+    "description": "✨ A beautiful, responsive, highly customizable and accessible (WAI-ARIA) replacement for JavaScript's popup boxes. Zero dependencies. 🇺🇦🇪🇺"
+  },
+  {
+    "repo": "joyehuang/Learn-Open-Harness",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "🤖 Official Interactive Tutorial for OpenHarness – Zero to Hero in 12 Chapters | Learn OpenHarness like Claude Code: Agent Loop, Tools, Memory, Multi-Agent | 面向零基础的 AI Agent 交互式教程"
+  },
+  {
+    "repo": "rohunvora/x-research-skill",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "X/Twitter research skill for Claude Code and OpenClaw. Agentic search, thread following, deep-dives, sourced briefings."
+  },
+  {
+    "repo": "Anuken/Mindustry",
+    "branch": "master",
+    "language": "Java",
+    "description": "The automation tower defense RTS"
+  },
+  {
+    "repo": "tendermint/tendermint",
+    "branch": "main",
+    "language": "Go",
+    "description": "⟁ Tendermint Core (BFT Consensus) in Go"
+  },
+  {
+    "repo": "htimesnine/DarkSword-RCE",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "DarkSword webkit exploit captured ITW"
+  },
+  {
+    "repo": "getsentry/sentry-javascript",
+    "branch": "develop",
+    "language": "TypeScript",
+    "description": "Official Sentry SDKs for JavaScript"
+  },
+  {
+    "repo": "louislva/claude-peers-mcp",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Allow all your Claude Codes to message each other ad-hoc!"
+  },
+  {
+    "repo": "H-EmbodVis/VEGA-3D",
+    "branch": "main",
+    "language": "Python",
+    "description": "Official code of Generation Models Know Space: Unleashing Implicit 3D Priors for Scene Understanding"
+  },
+  {
+    "repo": "kewonit/aeris",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Aeris is a real-time 3D flight radar for the web"
+  },
+  {
+    "repo": "Fixie-ai/Ultravox",
+    "branch": "main",
+    "language": "Python",
+    "description": "A fast multimodal LLM for real-time voice"
+  },
+  {
+    "repo": "afumu/openlink",
+    "branch": "main",
+    "language": "Go",
+    "description": "OpenLink让网页版 AI直接访问你的本地文件系统和执行命令。"
+  },
+  {
+    "repo": "cnlimiter/codex-manager",
+    "branch": "master",
     "language": "Python",
     "description": ""
   },
   {
-    "repo": "DEsu2111/File_Diff___Merge_Tool",
-    "branch": "main",
-    "language": "Python",
-    "description": "Compare two files or folders and merge differences. See side-by-side diff, highlight changes, and merge selectively. Useful for code reviews and sync."
-  },
-  {
-    "repo": "simplifaisoul/osiris",
-    "branch": "master",
-    "language": "TypeScript",
-    "description": "Open Source Global Intelligence Platform - Real-Time OSINT Dashboard - A Palantir Alternative"
-  },
-  {
-    "repo": "DEEIX-AI/DEEIX-Chat",
-    "branch": "dev",
-    "language": "Go",
-    "description": "An enterprise AI workspace for model routing, multimodal chat, files, tools, billing, identity, and operations."
-  },
-  {
-    "repo": "RayceAnderson/tomodachi-pc",
+    "repo": "ghostvectoracademy/DLLHijackHunter",
     "branch": "main",
     "language": "C#",
-    "description": "tomodachi life pc living  the dream windows  free patch notes update ryujinx emulator rom nsp xci mii creator life simulator 60fps mod graphics config save file setup guide fix crash"
+    "description": "Automated DLL Hijacking Detection Tool with Zero False Positives — Discovers, filters, and canary-confirms exploitable DLL hijacks on Windows with tiered confidence scoring"
   },
   {
-    "repo": "amet2901/asterdex-trading-bot",
+    "repo": "NoizAI/skills",
     "branch": "main",
-    "language": "TypeScript",
-    "description": "Automated Crypto Trading Bot on Aster DEX"
+    "language": "Shell",
+    "description": "Allow your 🦞 bot to Shout, Speak, with human vibe"
   },
   {
-    "repo": "NoobyGains/claude-pulse",
-    "branch": "master",
-    "language": "Python",
-    "description": "Real-time usage monitor for Claude Code — session limits, weekly limits, and plan tier with colour-coded progress bars"
-  },
-  {
-    "repo": "raskolnikov90/Beatrice.py",
-    "branch": "main",
-    "language": "Python",
-    "description": "Modify machine code in binaries with alternative x64 assembly opcodes for AV evasion"
-  },
-  {
-    "repo": "graphql-rust/juniper",
-    "branch": "master",
-    "language": "Rust",
-    "description": "GraphQL server library for Rust"
-  },
-  {
-    "repo": "avacocloud/XHTTP-Installer",
-    "branch": "main",
-    "language": "HTML",
-    "description": "VLESS+XHTTP+TLS Auto-Installer for Ubuntu — Vercel / Netlify relay"
-  },
-  {
-    "repo": "Mathifygaming/OpenGOAL-Jak-PC-Port",
-    "branch": "main",
-    "language": "C++",
-    "description": "Jak 3 PC Port download OpenGOAL native port Jak Daxter Wasteland Haven City Precursor Light Dark Eco vehicles desert combat missions platformer."
-  },
-  {
-    "repo": "trailofbits/algo",
-    "branch": "master",
-    "language": "Python",
-    "description": "Set up a personal VPN in the cloud"
-  },
-  {
-    "repo": "evilsocket/audit",
-    "branch": "main",
-    "language": "Python",
-    "description": "An 8-stage vulnerability-discovery agent."
-  },
-  {
-    "repo": "SageClub/hyperliquid-trading-bot",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "hyperliquid trading bot, hyperliquid trading bot, hyperliquid trading bot, hyperliquid trading bot, hyperliquid trading bot, hyperliquid trading bot, hyperliquid trading bot, hyperliquid trading bot, hyperliquid trading bot, hyperliquid trading bot, hyperliquid trading bot, hyperliquid trading bot,"
-  },
-  {
-    "repo": "CostaliyA/Flow-OPD",
-    "branch": "main",
-    "language": "Python",
-    "description": "Official Repo of Flow-OPD: On-Policy Distillation for Flow Matching Models"
-  },
-  {
-    "repo": "geekjourneyx/jina-cli",
-    "branch": "main",
-    "language": "Go",
-    "description": "A lightweight CLI tool wrapping Jina AI Reader API for AI Agents. Fetch and parse any URL into LLM-friendly   formats (Markdown/Text/HTML). Perfect for reading X(Twitter), blogs, and news sites."
-  },
-  {
-    "repo": "sander110419/lightroom-cc-on-linux",
-    "branch": "main",
-    "language": "C",
-    "description": "Reproducible recipe for running Adobe Lightroom CC on Linux via Wine 11.8 staging. Researched and verified end-to-end by Claude Opus 4.7."
-  },
-  {
-    "repo": "PrimeOrder-Labs/polymarket-copy-trading-bot",
+    "repo": "eslint/eslint",
     "branch": "main",
     "language": "JavaScript",
-    "description": "polymarket trading bot,polymarket copy trading bot,polymarket trading bot,polymarket copy trading bot,polymarket trading bot,polymarket copy trading bot,polymarket trading bot,polymarket copy trading bot,polymarket trading bot,polymarket copy trading bot,polymarket trading bot,polymarket copy trading bot,"
+    "description": "Find and fix problems in your JavaScript code."
   },
   {
-    "repo": "NirDiamant/Agent_Memory_Techniques",
+    "repo": "asonglin/crypto-liquidity-ai-trading-bot",
     "branch": "main",
-    "language": "Jupyter Notebook",
-    "description": "Agent memory for LLMs: 30 runnable Jupyter notebooks covering conversation buffers, vector stores, knowledge graphs, episodic and semantic memory, MemGPT, Mem0, Letta, Zep, Graphiti, LoCoMo benchmarks, and production patterns."
+    "language": "JavaScript",
+    "description": "Crypto liquidity detection & algorithmic trading bot. Order book analysis, stop-loss clusters, liquidity sweeps. Multi-exchange (Binance, Bybit, Kraken, OKX). Trading signals, quant research, market microstructure."
   },
   {
-    "repo": "trading-2028/polymarket-ai-trading",
+    "repo": "jquery/jquery-ui",
     "branch": "main",
-    "language": "HTML",
-    "description": "Polymarket Polymarket AI trading AI trading prediction markets prediction markets paper trading paper trading OpenAI OpenAI Node.js Node.js Express Express Docker Docker CLOB CLOB mean reversion mean reversion dashboard dashboard crypto bot crypto bot SQLite SQLite automated trading automated trading API API research trading research trading"
+    "language": "JavaScript",
+    "description": "The official jQuery user interface library."
   },
   {
-    "repo": "bytedance/Lance",
+    "repo": "apache/mxnet",
+    "branch": "master",
+    "language": "C++",
+    "description": "Lightweight, Portable, Flexible Distributed/Mobile Deep Learning with Dynamic, Mutation-aware Dataflow Dep Scheduler; for Python, R, Julia, Scala, Go, Javascript and more"
+  },
+  {
+    "repo": "nightwatchjs/nightwatch",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "Integrated end-to-end testing framework written in Node.js and using W3C Webdriver API. Developed at @browserstack"
+  },
+  {
+    "repo": "michelleoincx/zeroclaw-grok",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "ZeroClaw — sleek web interface for Grok AI (xAI). Streaming responses, multi-session chat, model selector. Zero npm dependencies. Runs with one command."
+  },
+  {
+    "repo": "ythx-101/x-tweet-fetcher",
     "branch": "main",
     "language": "Python",
-    "description": "A 3B-active-parameter native unified multimodal model for image and video understanding, generation, and editing."
+    "description": "🦞 Fetch tweets and replies from X/Twitter without login or API keys. OpenClaw skill."
   },
   {
-    "repo": "MariCarmen1971/solana-pumpfun-raydium-bundler",
+    "repo": "facebook/folly",
     "branch": "main",
-    "language": "TypeScript",
-    "description": "open-source bundler for Pump.Fun. Solana pumpfun bundler stealth-mode, bubblemap-bypassing, real bot activity"
-  },
-  {
-    "repo": "NamKhoa-07/wallet-recovery-seed",
-    "branch": "main",
-    "language": "Python",
-    "description": "ethereum wallet recovery password multithread tool, baked from pyethrecover and pyethereum, for using keystore v3 json file to help recover your lost password if you know some phrases using both brute and wordlist technique, start + end words, whole ascii or just numbers"
+    "language": "C++",
+    "description": "An open-source C++ library developed and used at Facebook."
   }
 ]
