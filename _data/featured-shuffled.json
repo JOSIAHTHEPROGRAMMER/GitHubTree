@@ -1,93 +1,57 @@
 [
   {
-    "repo": "daltoniam/Starscream",
-    "branch": "master",
-    "language": "Swift",
-    "description": "Websockets in swift for iOS and OSX"
-  },
-  {
-    "repo": "Simpl3x3/ESEILANE",
-    "branch": "main",
-    "language": "Ruby",
-    "description": "High-performance Knowledge Graph engine for AI, LLMs, and GraphRAG — built for the next generation of intelligent applications."
-  },
-  {
-    "repo": "lobehub/lobe-chat",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "🤯 LobeHub - an open-source, modern design AI Agent Workspace. Supports multiple AI providers, Knowledge Base (file upload / RAG ), one click install MCP Marketplace and Artifacts / Thinking. One-click FREE deployment of your private AI Agent application."
-  },
-  {
-    "repo": "pytorch/serve",
-    "branch": "master",
-    "language": "Java",
-    "description": "Serve, optimize and scale PyTorch models in production"
-  },
-  {
-    "repo": "OpenMOSS/MOSS-VL",
-    "branch": "main",
-    "language": "Python",
-    "description": "MOSS-VL is the core multimodal model series within the OpenMOSS ecosystem, dedicated to visual understanding."
-  },
-  {
-    "repo": "docker/compose",
+    "repo": "compozy/compozy",
     "branch": "main",
     "language": "Go",
-    "description": "Define and run multi-container applications with Docker"
+    "description": "Drive the full lifecycle of AI-assisted development — from idea to shipped code."
   },
   {
-    "repo": "browser-use/browser-harness",
-    "branch": "main",
-    "language": "Python",
-    "description": "Self-healing browser harness that enables LLMs to complete any task."
-  },
-  {
-    "repo": "xiaomi-research/dmail",
-    "branch": "master",
-    "language": "Python",
-    "description": ""
-  },
-  {
-    "repo": "ant-design/ant-design",
-    "branch": "master",
-    "language": "TypeScript",
-    "description": "An enterprise-class UI design language and React UI library"
-  },
-  {
-    "repo": "dsclca12/auto_reg",
-    "branch": "main",
-    "language": "Python",
-    "description": "codex全自动注册机"
-  },
-  {
-    "repo": "extism/extism",
-    "branch": "main",
-    "language": "Rust",
-    "description": "The framework for building with WebAssembly (wasm). Easily & securely load wasm modules, move data, call functions, and build extensible apps."
-  },
-  {
-    "repo": "fasheartheater1853/kmspico-lol-2026",
+    "repo": "ip-arch/NESLab",
     "branch": "main",
     "language": "C++",
-    "description": "A powerful Windows-native (.exe) management utility for Microsoft KMS (Key Management Service) orchestration. Designed for enterprise volume license validation, GVLK deployment, and automated asset maintenance."
+    "description": "Educational materials for Embedded systems with NES"
   },
   {
-    "repo": "Backtthefuture/huangshu",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "黄叔开源的Skill集合"
-  },
-  {
-    "repo": "vkehfdl1/slides-grab",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "Select context for agents directly from AI-generated HTML slides"
-  },
-  {
-    "repo": "kayba-ai/recursive-improve",
+    "repo": "certbot/certbot",
     "branch": "main",
     "language": "Python",
-    "description": "🪞 Make your agents recursively self-improve"
+    "description": "Certbot is EFF's tool to obtain certs from Let's Encrypt and (optionally) auto-enable HTTPS on your server.  It can also act as a client for any other CA that uses the ACME protocol."
+  },
+  {
+    "repo": "pypa/setuptools",
+    "branch": "main",
+    "language": "Python",
+    "description": "Official project repository for the Setuptools build system"
+  },
+  {
+    "repo": "moby/moby",
+    "branch": "master",
+    "language": "Go",
+    "description": "The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems"
+  },
+  {
+    "repo": "npmx-dev/npmx.dev",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "a fast, modern browser for the npm registry"
+  },
+  {
+    "repo": "labuladong/fucking-algorithm",
+    "branch": "master",
+    "language": "Markdown",
+    "description": "刷算法全靠套路，认准 labuladong 就够了！English version supported! Crack LeetCode, not only how, but also why."
+  },
+  {
+    "repo": "vercel/hyper",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "A terminal built on web technologies"
+  },
+  {
+    "repo": "antonmedv/fx",
+    "branch": "master",
+    "language": "Go",
+    "description": "Terminal JSON viewer & processor"
   },
   {
     "repo": "tensorflow/agents",
@@ -96,51 +60,87 @@
     "description": "TF-Agents: A reliable, scalable and easy to use TensorFlow library for Contextual Bandits and Reinforcement Learning."
   },
   {
-    "repo": "openai/glide-text2im",
-    "branch": "main",
-    "language": "Python",
-    "description": "GLIDE: a diffusion-based text-conditional image synthesis model"
-  },
-  {
-    "repo": "aiming-lab/AutoResearchClaw",
-    "branch": "main",
-    "language": "Python",
-    "description": "Fully autonomous research from idea to paper. Chat an Idea. Get a Paper. Fully Autonomous. 🦞"
-  },
-  {
-    "repo": "PIPIKAI/auto-painter-win",
-    "branch": "main",
-    "language": "Python",
-    "description": "Supports multiple sketch styles and automated mouse-controlled painting."
-  },
-  {
-    "repo": "Infatoshi/OpenSquirrel",
-    "branch": "main",
-    "language": "Rust",
-    "description": "For people who get distracted by agents. A native Rust/GPUI control plane for running Claude Code, Codex, Cursor, and OpenCode side by side — because if you're going to be squirrely, you might as well optimize for it."
-  },
-  {
-    "repo": "vxcozy/flappyboards",
+    "repo": "appwrite/appwrite",
     "branch": "main",
     "language": "TypeScript",
-    "description": "Turn any TV into a retro split-flap display. Free & open source."
+    "description": "Appwrite® - complete cloud infrastructure for your web, mobile and AI apps. Including Auth, Databases, Storage, Functions, Messaging, Hosting, Realtime and more"
   },
   {
-    "repo": "mediastormDev/dream-to-video-skill",
+    "repo": "emscripten-core/emscripten",
+    "branch": "main",
+    "language": "C++",
+    "description": "Emscripten: An LLVM-to-WebAssembly Compiler"
+  },
+  {
+    "repo": "xullexer/PYDNS-Scanner",
     "branch": "main",
     "language": "Python",
-    "description": "AI agent skill that transforms dream descriptions into cinematic videos — auto-generates prompts, submits to Jimeng via browser automation, and downloads finished videos with post-processing effects."
+    "description": "A modern, high-performance DNS scanner with a beautiful Terminal User Interface (TUI) built with Textual. This tool can scan millions of IP addresses to find working DNS servers with optional Slipstream proxy testing and automatic multi-platform client download."
   },
   {
-    "repo": "unslop-xyz/noodles",
+    "repo": "tektoncd/pipeline",
+    "branch": "main",
+    "language": "Go",
+    "description": "A cloud-native Pipeline resource."
+  },
+  {
+    "repo": "slackhq/nebula",
+    "branch": "master",
+    "language": "Go",
+    "description": "A scalable overlay networking tool with a focus on performance, simplicity and security"
+  },
+  {
+    "repo": "cert-manager/cert-manager",
+    "branch": "master",
+    "language": "Go",
+    "description": "Automatically provision and manage TLS certificates in Kubernetes"
+  },
+  {
+    "repo": "openai/whisper",
     "branch": "main",
     "language": "Python",
-    "description": "Your codebase was probably AI-generated. Get a better handle on it. Noodles creates interactive diagrams that visualize how your code actually works, so you can understand what the AI built without reading every line."
+    "description": "Robust Speech Recognition via Large-Scale Weak Supervision"
   },
   {
-    "repo": "WalletConnect/walletconnect-monorepo",
-    "branch": "v2.0",
-    "language": "TypeScript",
-    "description": "WalletConnect Monorepo"
+    "repo": "OpenMOSS/MOSS-TTS",
+    "branch": "main",
+    "language": "Python",
+    "description": "MOSS‑TTS Family is an open‑source speech and sound generation model family from MOSI.AI and the OpenMOSS team. It is designed for high‑fidelity, high‑expressiveness, and complex real‑world scenarios, covering stable long‑form speech, multi‑speaker dialogue, voice/character design, environmental sound effects, and real‑time streaming TTS."
+  },
+  {
+    "repo": "open-webui/open-webui",
+    "branch": "main",
+    "language": "Python",
+    "description": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)"
+  },
+  {
+    "repo": "alpinejs/alpine",
+    "branch": "main",
+    "language": "HTML",
+    "description": "A rugged, minimal framework for composing JavaScript behavior in your markup."
+  },
+  {
+    "repo": "Developer-Y/cs-video-courses",
+    "branch": "master",
+    "language": "Other",
+    "description": "List of Computer Science courses with video lectures."
+  },
+  {
+    "repo": "Fishaudio/Fish-Speech",
+    "branch": "main",
+    "language": "Python",
+    "description": "SOTA Open Source TTS"
+  },
+  {
+    "repo": "mgks/GitHubTree",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "Visualise any GitHub repository folder structure. Available as a web app, CLI tool, and node.js library."
+  },
+  {
+    "repo": "doocs/advanced-java",
+    "branch": "main",
+    "language": "Java",
+    "description": "😮 Core Interview Questions & Answers For Experienced Java(Backend) Developers | 互联网 Java 工程师进阶知识完全扫盲：涵盖高并发、分布式、高可用、微服务、海量数据处理等领域知识"
   }
 ]
