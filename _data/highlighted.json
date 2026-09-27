@@ -3,6 +3,6 @@
   "branch": "main",
   "language": "TypeScript",
   "description": "Turn ChatGPT into a local agent runtime. Operate your computer, use local tools, discover MCP servers, and delegate work to your own models through one MCP connection.",
-  "stars": 135,
+  "stars": 142,
   "forks": 10
 }

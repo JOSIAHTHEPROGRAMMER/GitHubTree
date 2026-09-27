@@ -1,146 +1,146 @@
 [
   {
-    "repo": "cozytab/fable5-mode",
-    "branch": "main",
-    "language": "Python",
-    "description": "Fable 5-grade work discipline for any Claude model — a Claude Code skill + guard hooks (plan gate, model ceiling, per-task enforcement) that make Opus 4.8 or any non-frontier model plan, self-verify, and route sub-agents like Fable 5, without Fable 5."
-  },
-  {
-    "repo": "amosblomqvist/learn",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "My AI learning system."
-  },
-  {
-    "repo": "OOOO00000000OOOO/OOOO00000000OOOO",
-    "branch": "⠀",
-    "language": "Wolfram Language",
-    "description": "​                                      𔗢᯽𔗢 𔗢᯽𔗢                                      ​"
-  },
-  {
-    "repo": "thillygooth/questboard",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "A gamified family chore tracker built with React, FastAPI, and Docker. Family members claim daily and weekly chores to earn points, then redeem them for real-world rewards. Features per-player profiles, age-appropriate chore filtering, auto daily/weekly resets, and a shared backend for real-time sync across devices."
-  },
-  {
-    "repo": "JimLiu/baoyu-design",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "Run Claude Design locally as an Agent Skill — Cursor, Claude Code & more. Produce polished UI mockups, prototypes, decks & wireframes as self-contained HTML, without claude.ai/design. Best with Opus 4.8."
-  },
-  {
-    "repo": "strukto-ai/mirage",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "A Unified Virtual Filesystem For AI Agents"
-  },
-  {
-    "repo": "NuvioMedia/NuvioDesktop",
-    "branch": "Dev",
-    "language": "Kotlin",
-    "description": ""
-  },
-  {
-    "repo": "fivetaku/fablize",
-    "branch": "main",
-    "language": "Shell",
-    "description": "A Claude Code plugin that makes Opus behave like Fable — completion, evidence, and verification enforced as procedure. Ships only what a Fable-vs-Opus comparison proved transferable."
-  },
-  {
-    "repo": "nexu-io/html-anything",
-    "branch": "main",
-    "language": "HTML",
-    "description": "✨ The agentic HTML editor — your local AI agent writes the HTML, you ship it. 🚀 75 Skills × 9 Surfaces (magazine · deck · poster · XHS / tweet · prototype · data report · Hyperframes) 🛡️ Sandboxed preview · 📤 1-click to WeChat / X / Zhihu / HTML / PNG 🔑 Zero API key — Claude Code / Cursor / Codex / Gemini / Copilot / OpenCode / Qwen / Aider."
-  },
-  {
-    "repo": "reakjra/omikuji",
+    "repo": "cv-cat/XHS_ALL_IN_ONE",
     "branch": "master",
-    "language": "Rust",
-    "description": "Qt/QML based game launcher for Linux"
+    "language": "JavaScript",
+    "description": "XHS_ALL_IN_ONE 小红书全域运营"
   },
   {
-    "repo": "qiuqiubuchongle-cloud/chokepoint-atlas",
+    "repo": "reactor-team/infinite-livestream",
     "branch": "main",
     "language": "Python",
     "description": ""
   },
   {
-    "repo": "nader0913/ocpp-rag",
+    "repo": "DEsu2111/File_Diff___Merge_Tool",
     "branch": "main",
     "language": "Python",
-    "description": "MCP server with RAG knowledge base for OCPP 1.6, OCPP 2.0.1, and EV charging standards"
+    "description": "Compare two files or folders and merge differences. See side-by-side diff, highlight changes, and merge selectively. Useful for code reviews and sync."
   },
   {
-    "repo": "SalhaNabil/CloakBrowser",
-    "branch": "main",
+    "repo": "simplifaisoul/osiris",
+    "branch": "master",
     "language": "TypeScript",
-    "description": "CloakBrowser Github: anti-detect browser download, source-level chromium patches, browser fingerprinting spoofing, multi-accounting tool, canvas webgl modification, proxy manager http socks5, cookie isolation, session import export, user-agent switcher, puppeteer playwright automation api, profile sharing, web scraping free, github"
+    "description": "Open Source Global Intelligence Platform - Real-Time OSINT Dashboard - A Palantir Alternative"
   },
   {
-    "repo": "cdanielc293/Jenny-Mod-All-Versions",
+    "repo": "DEEIX-AI/DEEIX-Chat",
+    "branch": "dev",
+    "language": "Go",
+    "description": "An enterprise AI workspace for model routing, multimodal chat, files, tools, billing, identity, and operations."
+  },
+  {
+    "repo": "RayceAnderson/tomodachi-pc",
     "branch": "main",
     "language": "C#",
-    "description": "Jenny Mod: Minecraft 1.12.2 Java download, Bedrock addon, Pocket Edition PE mcpack, Android APK. SchnuriTV original, Ellie companion, Slime Girl. Forge loader setup, Fabric port, custom animations, interactive skins. Installation guide, dependency files, .jar download, crash fix, portable."
+    "description": "tomodachi life pc living  the dream windows  free patch notes update ryujinx emulator rom nsp xci mii creator life simulator 60fps mod graphics config save file setup guide fix crash"
   },
   {
-    "repo": "tolibear/goalbuddy",
+    "repo": "amet2901/asterdex-trading-bot",
     "branch": "main",
-    "language": "JavaScript",
-    "description": "Supercharge Codex Goals"
+    "language": "TypeScript",
+    "description": "Automated Crypto Trading Bot on Aster DEX"
   },
   {
-    "repo": "rstagit/rstaspoof",
+    "repo": "NoobyGains/claude-pulse",
+    "branch": "master",
+    "language": "Python",
+    "description": "Real-time usage monitor for Claude Code — session limits, weekly limits, and plan tier with colour-coded progress bars"
+  },
+  {
+    "repo": "raskolnikov90/Beatrice.py",
+    "branch": "main",
+    "language": "Python",
+    "description": "Modify machine code in binaries with alternative x64 assembly opcodes for AV evasion"
+  },
+  {
+    "repo": "graphql-rust/juniper",
+    "branch": "master",
+    "language": "Rust",
+    "description": "GraphQL server library for Rust"
+  },
+  {
+    "repo": "avacocloud/XHTTP-Installer",
+    "branch": "main",
+    "language": "HTML",
+    "description": "VLESS+XHTTP+TLS Auto-Installer for Ubuntu — Vercel / Netlify relay"
+  },
+  {
+    "repo": "Mathifygaming/OpenGOAL-Jak-PC-Port",
+    "branch": "main",
+    "language": "C++",
+    "description": "Jak 3 PC Port download OpenGOAL native port Jak Daxter Wasteland Haven City Precursor Light Dark Eco vehicles desert combat missions platformer."
+  },
+  {
+    "repo": "trailofbits/algo",
+    "branch": "master",
+    "language": "Python",
+    "description": "Set up a personal VPN in the cloud"
+  },
+  {
+    "repo": "evilsocket/audit",
+    "branch": "main",
+    "language": "Python",
+    "description": "An 8-stage vulnerability-discovery agent."
+  },
+  {
+    "repo": "SageClub/hyperliquid-trading-bot",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "hyperliquid trading bot, hyperliquid trading bot, hyperliquid trading bot, hyperliquid trading bot, hyperliquid trading bot, hyperliquid trading bot, hyperliquid trading bot, hyperliquid trading bot, hyperliquid trading bot, hyperliquid trading bot, hyperliquid trading bot, hyperliquid trading bot,"
+  },
+  {
+    "repo": "CostaliyA/Flow-OPD",
+    "branch": "main",
+    "language": "Python",
+    "description": "Official Repo of Flow-OPD: On-Policy Distillation for Flow Matching Models"
+  },
+  {
+    "repo": "geekjourneyx/jina-cli",
     "branch": "main",
     "language": "Go",
-    "description": "ابزار دور زدن DPI با جعل SNI — پشتیبانی از Termux/Android/Linux"
+    "description": "A lightweight CLI tool wrapping Jina AI Reader API for AI Agents. Fetch and parse any URL into LLM-friendly   formats (Markdown/Text/HTML). Perfect for reading X(Twitter), blogs, and news sites."
   },
   {
-    "repo": "modelstudioai/cli",
+    "repo": "sander110419/lightroom-cc-on-linux",
     "branch": "main",
-    "language": "TypeScript",
-    "description": "Official Model Studio CLI（阿里云百炼 CLI）built for AI Agent frameworks, exposing models, search, multimodal, and workflow capabilities as structured tool calls."
+    "language": "C",
+    "description": "Reproducible recipe for running Adobe Lightroom CC on Linux via Wine 11.8 staging. Researched and verified end-to-end by Claude Opus 4.7."
   },
   {
-    "repo": "python-telegramBot/ai-auto-trading",
+    "repo": "PrimeOrder-Labs/polymarket-copy-trading-bot",
     "branch": "main",
-    "language": "TypeScript",
-    "description": "AI trading bot crypto LLM agent quantitative trading automated trading algorithmic trading Binance Gate.io TypeScript Node.js VoltAgent crypto bot risk management multi-strategy"
+    "language": "JavaScript",
+    "description": "polymarket trading bot,polymarket copy trading bot,polymarket trading bot,polymarket copy trading bot,polymarket trading bot,polymarket copy trading bot,polymarket trading bot,polymarket copy trading bot,polymarket trading bot,polymarket copy trading bot,polymarket trading bot,polymarket copy trading bot,"
   },
   {
-    "repo": "khrisat/text-humanizer",
+    "repo": "NirDiamant/Agent_Memory_Techniques",
     "branch": "main",
-    "language": "Python",
-    "description": "Advanced open-source AI humanizer designed to make AI-generated text undetectable by Turnitin, GPTZero, and other AI detection services."
+    "language": "Jupyter Notebook",
+    "description": "Agent memory for LLMs: 30 runnable Jupyter notebooks covering conversation buffers, vector stores, knowledge graphs, episodic and semantic memory, MemGPT, Mem0, Letta, Zep, Graphiti, LoCoMo benchmarks, and production patterns."
   },
   {
-    "repo": "Moh4696/websites-100-audit",
-    "branch": "master",
-    "language": "Shell",
-    "description": ""
+    "repo": "trading-2028/polymarket-ai-trading",
+    "branch": "main",
+    "language": "HTML",
+    "description": "Polymarket Polymarket AI trading AI trading prediction markets prediction markets paper trading paper trading OpenAI OpenAI Node.js Node.js Express Express Docker Docker CLOB CLOB mean reversion mean reversion dashboard dashboard crypto bot crypto bot SQLite SQLite automated trading automated trading API API research trading research trading"
   },
   {
-    "repo": "marekkowalczyk/breathe-cli",
-    "branch": "master",
-    "language": "Python",
-    "description": "Paced resonance breathing in your terminal"
-  },
-  {
-    "repo": "InsiderX-Pro/LogicCut",
+    "repo": "bytedance/Lance",
     "branch": "main",
     "language": "Python",
-    "description": ""
+    "description": "A 3B-active-parameter native unified multimodal model for image and video understanding, generation, and editing."
   },
   {
-    "repo": "LucaRatiu/hyperliquid-trading-bot",
+    "repo": "MariCarmen1971/solana-pumpfun-raydium-bundler",
     "branch": "main",
     "language": "TypeScript",
-    "description": "hyperliquid trading bot hyperliquid bot hyperliquid copytrading bot hyperliquid trading bot hyperliquid bot hyperliquid copytrading bot hyperliquid trading bot hyperliquid bot hyperliquid copytrading bot hyperliquid trading bot hyperliquid bot hyperliquid copytrading bot hyperliquid trading bot hyperliquid bot hyperliquid copytrading bot"
+    "description": "open-source bundler for Pump.Fun. Solana pumpfun bundler stealth-mode, bubblemap-bypassing, real bot activity"
   },
   {
-    "repo": "OpenYSM/OpenYSM",
+    "repo": "NamKhoa-07/wallet-recovery-seed",
     "branch": "main",
-    "language": "Java",
-    "description": "Yes-Steve-Model idea ready."
+    "language": "Python",
+    "description": "ethereum wallet recovery password multithread tool, baked from pyethrecover and pyethereum, for using keystore v3 json file to help recover your lost password if you know some phrases using both brute and wordlist technique, start + end words, whole ascii or just numbers"
   }
 ]
