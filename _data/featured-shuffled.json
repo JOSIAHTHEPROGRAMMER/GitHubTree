@@ -1,39 +1,75 @@
 [
   {
-    "repo": "jsongmax/oci-core",
-    "branch": "main",
-    "language": "Go",
-    "description": "自托管的 Oracle Cloud 多账号管理面板 · 单二进制 · 容量监控与守候 | Self-hosted multi-account control panel for Oracle Cloud"
+    "repo": "nmap/nmap",
+    "branch": "master",
+    "language": "C",
+    "description": "Nmap - the Network Mapper. Github mirror of official SVN repository."
   },
   {
-    "repo": "007FirstLight/007-First-Light-Release",
-    "branch": "main",
-    "language": "C++",
-    "description": "007 first light release date game free download early access  gameplay windows review ps5 steam epic games pc xbox nintendo swtich 2 github"
-  },
-  {
-    "repo": "limesupporterdoor/LockDown-Browser-Bypass-Tool",
-    "branch": "main",
-    "language": "C#",
-    "description": "Enables window switching and tab navigation in restricted browser environments"
-  },
-  {
-    "repo": "joeseesun/qiaomu-artist-style",
+    "repo": "ahmedyahia01/Nara-AI-Dashboard",
     "branch": "main",
     "language": "TypeScript",
-    "description": ""
+    "description": "A comprehensive AI dashboard featuring PDF analysis, presentation generation, and smart chat, powered by the NaraRouter API."
   },
   {
-    "repo": "Aladdin-IT/MaaNTE",
+    "repo": "d4ncboz/qoder-workflow",
     "branch": "main",
-    "language": "C++",
-    "description": "MaaNTE download Arknights automation assistant daily tasks infrastructure base management recruitment OCR scripts farming resource planner auto-deploy strategy helper open source tool."
+    "language": "Python",
+    "description": "Complete, end-to-end framework and high-performance OpenAI-compatible gateway for the Qoder ecosystem."
   },
   {
-    "repo": "apple/corecrypto",
+    "repo": "clash-windows-download/Clash-for-Windows",
     "branch": "main",
-    "language": "C++",
-    "description": "Apple corecrypto"
+    "language": "TypeScript",
+    "description": "clash for windows download github official client backup mirror archive proxy utility client rule based routing yaml config subscription url profile import subconverter setup guide tutorial tun mode service mode uwp loopback helper system proxy clash verge rev clash nyanpasu mihomo party v2rayn alternatives migration shadowsocks v2ray xray sing"
+  },
+  {
+    "repo": "AriPath/AriMando",
+    "branch": "main",
+    "language": "Python",
+    "description": "در این پروژه تلاش شده است روش قدرتمند SNI-Spoofing به‌صورت یک اپلیکیشن گرافیکی (GUI)، مدرن و بسیار ساده برای ویندوز پیاده‌سازی شود؛ به‌طوری‌که کاربران بتوانند بدون درگیری با محیط ترمینال، کدهای پیچیده یا قطعی‌های پی‌درپی، با پایداری صددرصد از اینترنت آزاد لذت ببرند."
+  },
+  {
+    "repo": "facebookresearch/atlas-lean",
+    "branch": "main",
+    "language": "Lean",
+    "description": "ATLAS Autoformalized Textbook Library At Scale"
+  },
+  {
+    "repo": "Outcome-Signal-Forge/trading-bot",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot"
+  },
+  {
+    "repo": "Multichain-Bot-Lab/polymarket-trading-bot",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "polymarket trading bot polymarket arbitrage trading bot polymarket arbitrage bot polymarket trading bot polymarket arbitrage trading bot polymarket arbitrage bot polymarket trading bot polymarket arbitrage trading bot polymarket arbitrage bot polymarket trading bot polymarket arbitrage trading bot polymarket arbitrage bot polymarket trading bot"
+  },
+  {
+    "repo": "yui540/comimi",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Open-source comic reader library for JS/TS"
+  },
+  {
+    "repo": "veryyoldman/metamask-openclaw",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "🦊 OpenClaw — a safety-first MetaMask SDK toolkit & AI-agent skill. Connect wallets, read balances, sign messages and send transactions on Ethereum, Polygon, Base, Arbitrum & all EVM chains. TypeScript-first, one-line connect, never touches your seed phrase."
+  },
+  {
+    "repo": "zimingttkx/QuantumFlow",
+    "branch": "main",
+    "language": "Python",
+    "description": "QuantumFlow - Distributed LLM inference scheduling framework with multi-backend support (vLLM, TGI, SGLang), adaptive scheduling strategies, and cluster management."
+  },
+  {
+    "repo": "requestsession/IndexGPT",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "IndexGPT: 本地科研助手（RAG + SFT + LoRA）| Local research assistant for PDF parsing, retrieval QA, SFT data generation, and LoRA training."
   },
   {
     "repo": "ProjectKumo/KumoApp",
@@ -42,105 +78,69 @@
     "description": "A calm, native macOS client for the Mihomo proxy core, built with SwiftUI and a shared agent-friendly CLI."
   },
   {
-    "repo": "datawhalechina/Agent-Learning-Hub",
-    "branch": "main",
-    "language": "HTML",
-    "description": "AI Agent 学习路线与资料库收集"
+    "repo": "rvm/rvm",
+    "branch": "master",
+    "language": "Shell",
+    "description": "Ruby enVironment Manager (RVM)"
   },
   {
-    "repo": "zy-zmc/tianming-novel-ai-writer",
-    "branch": "main",
-    "language": "C#",
-    "description": "天命 — AI网文创作系统 | 12维事实快照 · 9类变更声明 · 6道生成门禁 | 写到3000章依然连贯，不靠模型记忆，靠每章状态回写"
-  },
-  {
-    "repo": "binggandata/bggg-skills",
+    "repo": "paradigmxyz/centaur",
     "branch": "main",
     "language": "Python",
-    "description": "Open-source Codex skills from BGGG"
+    "description": "Multiplayer, self-hosted, secure agents."
   },
   {
-    "repo": "lightseekorg/tokenspeed",
-    "branch": "main",
-    "language": "Python",
-    "description": "TokenSpeed is a speed-of-light LLM inference engine."
-  },
-  {
-    "repo": "nooncheetahstart/Kahoot-tools-AI",
-    "branch": "main",
-    "language": "Python",
-    "description": "Kahoot || Kahoot helper || Kahoot tools || Kahoot ai"
-  },
-  {
-    "repo": "Boob025/peace-equalizer-APO",
+    "repo": "GordenSun/LearningCell",
     "branch": "main",
     "language": "TypeScript",
-    "description": "peace best  audio equalizer apo app pc windows 11 spotify  download audio sound booster bass boost headphones gaming preset config profile realtek parametric eq gui"
+    "description": "细胞3D模型展示"
   },
   {
-    "repo": "mitsuhiko/pi-llamacpp",
+    "repo": "m1heng/claude-plugin-weixin",
     "branch": "main",
     "language": "TypeScript",
-    "description": "An experimental pi extension that runs and manages qwen with llama.cpp"
+    "description": ""
   },
   {
-    "repo": "seochecks-ai/slopless",
+    "repo": "fxyz666/LogicPipe",
+    "branch": "main",
+    "language": "Python",
+    "description": "LogicPipe 是一个面向边缘多设备协同 LLM 推理的开源软件项目，提供离线管线规划、分布式 stage 权重加载、依赖感知任务调度和上下文 KV cache 复用能力。"
+  },
+  {
+    "repo": "lzhgus/Capso",
+    "branch": "main",
+    "language": "Swift",
+    "description": "Open-source screenshot and screen recording for macOS. The free, native alternative to CleanShot X. Built with Swift 6.0 and SwiftUI."
+  },
+  {
+    "repo": "lceminecraft-launcher/LCE-Emerald-Launcher",
     "branch": "main",
     "language": "TypeScript",
-    "description": "Deterministic textlint rules and CLI for catching prose slop in Markdown"
+    "description": "lce emerald launcher minecraft  github Download minecraft legacy console edition"
   },
   {
-    "repo": "aayushgames19-hash/claude-gateway-manager",
-    "branch": "main",
-    "language": "HTML",
-    "description": "Best Tenbin AI Proxy for Anthropic Opus 4.8 & Sonnet 4.6 API Access 2026"
-  },
-  {
-    "repo": "sermuns/ratatuefi",
-    "branch": "main",
-    "language": "Rust",
-    "description": "Zero-bloat Ratatui apps in UEFI"
-  },
-  {
-    "repo": "phuryn/pm-brain",
+    "repo": "Jawaz-Keyzor/DarkGPT",
     "branch": "main",
     "language": "Python",
-    "description": "PM Brain OS: The Second Brain for Product Managers, Made of Markdown"
+    "description": "Unrestricted ChatGPT client with built-in jailbreak presets, web interface, and streaming API. No content filters, no refusals, no ethical blocks. Open source."
   },
   {
-    "repo": "Namu-iAPT-Enterprise/Hosts_File_Editor",
+    "repo": "TencentYoutuResearch/T2I-L2P",
     "branch": "main",
     "language": "Python",
-    "description": "Easily edit the Windows hosts file to block websites, redirect domains, or create local shortcuts."
+    "description": "Code for L2P: Unlocking Latent Potential for Pixel Generation"
   },
   {
-    "repo": "avacocloud/XHTTP-Installer",
-    "branch": "main",
-    "language": "HTML",
-    "description": "VLESS+XHTTP+TLS Auto-Installer for Ubuntu — Vercel / Netlify relay"
-  },
-  {
-    "repo": "ZettPW/KMSTools",
-    "branch": "main",
-    "language": "C#",
-    "description": "windows tool, office 2026 perpetual license command, net download, digital entitlement permanent custom host"
-  },
-  {
-    "repo": "oomol-lab/open-connector",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Open-source auth gateway connecting 1000+ SaaS providers to AI agents through SDK, CLI, MCP, HTTP, and OpenAPI."
-  },
-  {
-    "repo": "bvzrays/forza-painter-fh6",
-    "branch": "main",
-    "language": "Python",
-    "description": "Vinyl Painter Import Tool - FH6 ( Original repository: https://github.com/forza-painter/forza-painter )"
-  },
-  {
-    "repo": "thcp/stemdeck",
-    "branch": "main",
+    "repo": "quasarframework/quasar",
+    "branch": "dev",
     "language": "JavaScript",
-    "description": "Stemdeck is an AI-powered stem extraction platform for musicians and producers, designed to isolate vocals, drums, bass, piano and guitar  for practice, transcription, remixing, and creative audio workflows through a modern and interactive interface"
+    "description": "Quasar Framework - Build high-performance VueJS user interfaces in record time"
+  },
+  {
+    "repo": "nexu-io/html-anything",
+    "branch": "main",
+    "language": "HTML",
+    "description": "✨ The agentic HTML editor — your local AI agent writes the HTML, you ship it. 🚀 75 Skills × 9 Surfaces (magazine · deck · poster · XHS / tweet · prototype · data report · Hyperframes) 🛡️ Sandboxed preview · 📤 1-click to WeChat / X / Zhihu / HTML / PNG 🔑 Zero API key — Claude Code / Cursor / Codex / Gemini / Copilot / OpenCode / Qwen / Aider."
   }
 ]
