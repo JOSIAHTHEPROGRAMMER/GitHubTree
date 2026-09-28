@@ -1,146 +1,146 @@
 [
   {
-    "repo": "Danilaa1/slot-text",
+    "repo": "khwarij/DBD-AutoGrind-Trainer-2026",
     "branch": "main",
-    "language": "TypeScript",
-    "description": "Dependency-free text roll animation for vanilla JS, React, and Vue."
+    "language": "Python",
+    "description": "Ultimate Dead by Daylight auto-grind trainer with Bloodpoint bot, ESP wallhack, aimbot, and full perk/skin unlocker. Dominate the Fog with our 2026 undetected external tool."
   },
   {
-    "repo": "sweetalert2/sweetalert2",
+    "repo": "openai/openai-python",
     "branch": "main",
-    "language": "JavaScript",
-    "description": "✨ A beautiful, responsive, highly customizable and accessible (WAI-ARIA) replacement for JavaScript's popup boxes. Zero dependencies. 🇺🇦🇪🇺"
+    "language": "Python",
+    "description": "The official Python library for the OpenAI API"
   },
   {
-    "repo": "joyehuang/Learn-Open-Harness",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "🤖 Official Interactive Tutorial for OpenHarness – Zero to Hero in 12 Chapters | Learn OpenHarness like Claude Code: Agent Loop, Tools, Memory, Multi-Agent | 面向零基础的 AI Agent 交互式教程"
-  },
-  {
-    "repo": "rohunvora/x-research-skill",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "X/Twitter research skill for Claude Code and OpenClaw. Agentic search, thread following, deep-dives, sourced briefings."
-  },
-  {
-    "repo": "Anuken/Mindustry",
-    "branch": "master",
-    "language": "Java",
-    "description": "The automation tower defense RTS"
-  },
-  {
-    "repo": "tendermint/tendermint",
+    "repo": "hashicorp/packer",
     "branch": "main",
     "language": "Go",
-    "description": "⟁ Tendermint Core (BFT Consensus) in Go"
+    "description": "Packer is a tool for creating identical machine images for multiple platforms from a single source configuration."
   },
   {
-    "repo": "htimesnine/DarkSword-RCE",
+    "repo": "996icu/996.ICU",
+    "branch": "master",
+    "language": "Other",
+    "description": "Repo for counting stars and contributing. Press F to pay respect to glorious developers."
+  },
+  {
+    "repo": "facebookresearch/fairseq",
     "branch": "main",
+    "language": "Python",
+    "description": "Facebook AI Research Sequence-to-Sequence Toolkit written in Python."
+  },
+  {
+    "repo": "NVIDIA/NeMo",
+    "branch": "main",
+    "language": "Python",
+    "description": "A scalable generative AI framework built for researchers and developers working on Large Language Models, Multimodal, and Speech AI (Automatic Speech Recognition and Text-to-Speech)"
+  },
+  {
+    "repo": "iterative/dvc",
+    "branch": "main",
+    "language": "Python",
+    "description": "🦉 Data Versioning and ML Experiments"
+  },
+  {
+    "repo": "react-hook-form/react-hook-form",
+    "branch": "master",
+    "language": "TypeScript",
+    "description": "📋 React Hooks for form state management and validation (Web + React Native)"
+  },
+  {
+    "repo": "Neighbor-Z/SwiftMTP",
+    "branch": "main",
+    "language": "Swift",
+    "description": "A modern MTP device management tool for macOS."
+  },
+  {
+    "repo": "statsmodels/statsmodels",
+    "branch": "main",
+    "language": "Python",
+    "description": "Statsmodels: statistical modeling and econometrics in Python"
+  },
+  {
+    "repo": "dbt-labs/dbt-core",
+    "branch": "main",
+    "language": "Python",
+    "description": "dbt enables data analysts and engineers to transform their data using the same practices that software engineers use to build applications."
+  },
+  {
+    "repo": "validatorjs/validator.js",
+    "branch": "master",
     "language": "JavaScript",
-    "description": "DarkSword webkit exploit captured ITW"
+    "description": "String validation"
   },
   {
-    "repo": "getsentry/sentry-javascript",
-    "branch": "develop",
-    "language": "TypeScript",
-    "description": "Official Sentry SDKs for JavaScript"
-  },
-  {
-    "repo": "louislva/claude-peers-mcp",
+    "repo": "leaked-claude-code/leaked-claude-code",
     "branch": "main",
     "language": "TypeScript",
-    "description": "Allow all your Claude Codes to message each other ad-hoc!"
+    "description": "[ LEAKED | LEAK ] Claude Code source code. full claude code opensource."
   },
   {
-    "repo": "H-EmbodVis/VEGA-3D",
+    "repo": "scrya-com/rotorquant",
     "branch": "main",
     "language": "Python",
-    "description": "Official code of Generation Models Know Space: Unleashing Implicit 3D Priors for Scene Understanding"
+    "description": "RotorQuant: Clifford algebra vector quantization for LLM KV cache compression. 10-19x faster than TurboQuant, 44x fewer parameters."
   },
   {
-    "repo": "kewonit/aeris",
+    "repo": "mysql/mysql-server",
+    "branch": "8.0",
+    "language": "C++",
+    "description": "MySQL Server, the world's most popular open source database, and MySQL Cluster, a real-time, open source transactional database."
+  },
+  {
+    "repo": "apollographql/graphql-subscriptions",
     "branch": "main",
     "language": "TypeScript",
-    "description": "Aeris is a real-time 3D flight radar for the web"
+    "description": ":newspaper: A small module that implements GraphQL subscriptions for Node.js"
   },
   {
-    "repo": "Fixie-ai/Ultravox",
+    "repo": "hamzerbug-wq/Animal-Crossing-New-Horizons-PC",
     "branch": "main",
-    "language": "Python",
-    "description": "A fast multimodal LLM for real-time voice"
+    "language": "C++",
+    "description": "Animal Crossing New Horizons PC Download April 2026 Version 3.0.2 Patch Notes Switch 2 Edition Resort Hotel Bulk Crafting Update Free High Performance 4K 60FPS Shader Fix Horizon Zero Texture Pack Mii Maker 25th Anniversary Event Guide NookLink Bridge Tutorial Stable Build Latest Emulator Eden Ryujinx"
   },
   {
-    "repo": "afumu/openlink",
-    "branch": "main",
+    "repo": "nsqio/nsq",
+    "branch": "master",
     "language": "Go",
-    "description": "OpenLink让网页版 AI直接访问你的本地文件系统和执行命令。"
+    "description": "A realtime distributed messaging platform"
   },
   {
-    "repo": "cnlimiter/codex-manager",
+    "repo": "frank-vpl/IRBox",
+    "branch": "master",
+    "language": "Rust",
+    "description": "A versatile proxy client supporting multiple protocols including VLESS, VMess, Shadowsocks, Trojan, Hysteria2, and TUIC with advanced management features, subscription support, routing rules, and system proxy/TUN modes"
+  },
+  {
+    "repo": "pnpm/pnpm",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Fast, disk space efficient package manager"
+  },
+  {
+    "repo": "rq/rq",
     "branch": "master",
     "language": "Python",
-    "description": ""
+    "description": "Simple job queues for Python"
   },
   {
-    "repo": "ghostvectoracademy/DLLHijackHunter",
+    "repo": "bergside/design-md-chrome",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "Chrome extension to extract styles from any website and generate DESIGN.md files and design skills for AI based on TypeUI"
+  },
+  {
+    "repo": "mockk/mockk",
+    "branch": "master",
+    "language": "Kotlin",
+    "description": "mocking library for Kotlin"
+  },
+  {
+    "repo": "shanselman/PeekDesktop",
     "branch": "main",
     "language": "C#",
-    "description": "Automated DLL Hijacking Detection Tool with Zero False Positives — Discovers, filters, and canary-confirms exploitable DLL hijacks on Windows with tiered confidence scoring"
-  },
-  {
-    "repo": "NoizAI/skills",
-    "branch": "main",
-    "language": "Shell",
-    "description": "Allow your 🦞 bot to Shout, Speak, with human vibe"
-  },
-  {
-    "repo": "eslint/eslint",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "Find and fix problems in your JavaScript code."
-  },
-  {
-    "repo": "asonglin/crypto-liquidity-ai-trading-bot",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "Crypto liquidity detection & algorithmic trading bot. Order book analysis, stop-loss clusters, liquidity sweeps. Multi-exchange (Binance, Bybit, Kraken, OKX). Trading signals, quant research, market microstructure."
-  },
-  {
-    "repo": "jquery/jquery-ui",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "The official jQuery user interface library."
-  },
-  {
-    "repo": "apache/mxnet",
-    "branch": "master",
-    "language": "C++",
-    "description": "Lightweight, Portable, Flexible Distributed/Mobile Deep Learning with Dynamic, Mutation-aware Dataflow Dep Scheduler; for Python, R, Julia, Scala, Go, Javascript and more"
-  },
-  {
-    "repo": "nightwatchjs/nightwatch",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "Integrated end-to-end testing framework written in Node.js and using W3C Webdriver API. Developed at @browserstack"
-  },
-  {
-    "repo": "michelleoincx/zeroclaw-grok",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "ZeroClaw — sleek web interface for Grok AI (xAI). Streaming responses, multi-session chat, model selector. Zero npm dependencies. Runs with one command."
-  },
-  {
-    "repo": "ythx-101/x-tweet-fetcher",
-    "branch": "main",
-    "language": "Python",
-    "description": "🦞 Fetch tweets and replies from X/Twitter without login or API keys. OpenClaw skill."
-  },
-  {
-    "repo": "facebook/folly",
-    "branch": "main",
-    "language": "C++",
-    "description": "An open-source C++ library developed and used at Facebook."
+    "description": "Click your desktop to peek at it - just like macOS Sonoma."
   }
 ]
