@@ -1,8 +1,8 @@
 {
-  "repo": "sciaschi/CBFD-Recompiled",
-  "branch": "master",
-  "language": "C",
-  "description": "Conker's Bad Fur Day Recompiled",
-  "stars": 124,
-  "forks": 8
+  "repo": "ThinkFlowLab/system1-agents",
+  "branch": "main",
+  "language": "Python",
+  "description": "System 1 decision models (Jev, Laya, Cua-S1) as brain for agents: Browser use, computer use, games and robotics",
+  "stars": 134,
+  "forks": 16
 }

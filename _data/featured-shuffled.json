@@ -1,146 +1,146 @@
 [
   {
-    "repo": "khwarij/DBD-AutoGrind-Trainer-2026",
-    "branch": "main",
-    "language": "Python",
-    "description": "Ultimate Dead by Daylight auto-grind trainer with Bloodpoint bot, ESP wallhack, aimbot, and full perk/skin unlocker. Dominate the Fog with our 2026 undetected external tool."
-  },
-  {
-    "repo": "openai/openai-python",
-    "branch": "main",
-    "language": "Python",
-    "description": "The official Python library for the OpenAI API"
-  },
-  {
-    "repo": "hashicorp/packer",
+    "repo": "jsongmax/oci-core",
     "branch": "main",
     "language": "Go",
-    "description": "Packer is a tool for creating identical machine images for multiple platforms from a single source configuration."
+    "description": "自托管的 Oracle Cloud 多账号管理面板 · 单二进制 · 容量监控与守候 | Self-hosted multi-account control panel for Oracle Cloud"
   },
   {
-    "repo": "996icu/996.ICU",
-    "branch": "master",
-    "language": "Other",
-    "description": "Repo for counting stars and contributing. Press F to pay respect to glorious developers."
-  },
-  {
-    "repo": "facebookresearch/fairseq",
-    "branch": "main",
-    "language": "Python",
-    "description": "Facebook AI Research Sequence-to-Sequence Toolkit written in Python."
-  },
-  {
-    "repo": "NVIDIA/NeMo",
-    "branch": "main",
-    "language": "Python",
-    "description": "A scalable generative AI framework built for researchers and developers working on Large Language Models, Multimodal, and Speech AI (Automatic Speech Recognition and Text-to-Speech)"
-  },
-  {
-    "repo": "iterative/dvc",
-    "branch": "main",
-    "language": "Python",
-    "description": "🦉 Data Versioning and ML Experiments"
-  },
-  {
-    "repo": "react-hook-form/react-hook-form",
-    "branch": "master",
-    "language": "TypeScript",
-    "description": "📋 React Hooks for form state management and validation (Web + React Native)"
-  },
-  {
-    "repo": "Neighbor-Z/SwiftMTP",
-    "branch": "main",
-    "language": "Swift",
-    "description": "A modern MTP device management tool for macOS."
-  },
-  {
-    "repo": "statsmodels/statsmodels",
-    "branch": "main",
-    "language": "Python",
-    "description": "Statsmodels: statistical modeling and econometrics in Python"
-  },
-  {
-    "repo": "dbt-labs/dbt-core",
-    "branch": "main",
-    "language": "Python",
-    "description": "dbt enables data analysts and engineers to transform their data using the same practices that software engineers use to build applications."
-  },
-  {
-    "repo": "validatorjs/validator.js",
-    "branch": "master",
-    "language": "JavaScript",
-    "description": "String validation"
-  },
-  {
-    "repo": "leaked-claude-code/leaked-claude-code",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "[ LEAKED | LEAK ] Claude Code source code. full claude code opensource."
-  },
-  {
-    "repo": "scrya-com/rotorquant",
-    "branch": "main",
-    "language": "Python",
-    "description": "RotorQuant: Clifford algebra vector quantization for LLM KV cache compression. 10-19x faster than TurboQuant, 44x fewer parameters."
-  },
-  {
-    "repo": "mysql/mysql-server",
-    "branch": "8.0",
-    "language": "C++",
-    "description": "MySQL Server, the world's most popular open source database, and MySQL Cluster, a real-time, open source transactional database."
-  },
-  {
-    "repo": "apollographql/graphql-subscriptions",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": ":newspaper: A small module that implements GraphQL subscriptions for Node.js"
-  },
-  {
-    "repo": "hamzerbug-wq/Animal-Crossing-New-Horizons-PC",
+    "repo": "007FirstLight/007-First-Light-Release",
     "branch": "main",
     "language": "C++",
-    "description": "Animal Crossing New Horizons PC Download April 2026 Version 3.0.2 Patch Notes Switch 2 Edition Resort Hotel Bulk Crafting Update Free High Performance 4K 60FPS Shader Fix Horizon Zero Texture Pack Mii Maker 25th Anniversary Event Guide NookLink Bridge Tutorial Stable Build Latest Emulator Eden Ryujinx"
+    "description": "007 first light release date game free download early access  gameplay windows review ps5 steam epic games pc xbox nintendo swtich 2 github"
   },
   {
-    "repo": "nsqio/nsq",
-    "branch": "master",
-    "language": "Go",
-    "description": "A realtime distributed messaging platform"
-  },
-  {
-    "repo": "frank-vpl/IRBox",
-    "branch": "master",
-    "language": "Rust",
-    "description": "A versatile proxy client supporting multiple protocols including VLESS, VMess, Shadowsocks, Trojan, Hysteria2, and TUIC with advanced management features, subscription support, routing rules, and system proxy/TUN modes"
-  },
-  {
-    "repo": "pnpm/pnpm",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Fast, disk space efficient package manager"
-  },
-  {
-    "repo": "rq/rq",
-    "branch": "master",
-    "language": "Python",
-    "description": "Simple job queues for Python"
-  },
-  {
-    "repo": "bergside/design-md-chrome",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "Chrome extension to extract styles from any website and generate DESIGN.md files and design skills for AI based on TypeUI"
-  },
-  {
-    "repo": "mockk/mockk",
-    "branch": "master",
-    "language": "Kotlin",
-    "description": "mocking library for Kotlin"
-  },
-  {
-    "repo": "shanselman/PeekDesktop",
+    "repo": "limesupporterdoor/LockDown-Browser-Bypass-Tool",
     "branch": "main",
     "language": "C#",
-    "description": "Click your desktop to peek at it - just like macOS Sonoma."
+    "description": "Enables window switching and tab navigation in restricted browser environments"
+  },
+  {
+    "repo": "joeseesun/qiaomu-artist-style",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": ""
+  },
+  {
+    "repo": "Aladdin-IT/MaaNTE",
+    "branch": "main",
+    "language": "C++",
+    "description": "MaaNTE download Arknights automation assistant daily tasks infrastructure base management recruitment OCR scripts farming resource planner auto-deploy strategy helper open source tool."
+  },
+  {
+    "repo": "apple/corecrypto",
+    "branch": "main",
+    "language": "C++",
+    "description": "Apple corecrypto"
+  },
+  {
+    "repo": "ProjectKumo/KumoApp",
+    "branch": "main",
+    "language": "Swift",
+    "description": "A calm, native macOS client for the Mihomo proxy core, built with SwiftUI and a shared agent-friendly CLI."
+  },
+  {
+    "repo": "datawhalechina/Agent-Learning-Hub",
+    "branch": "main",
+    "language": "HTML",
+    "description": "AI Agent 学习路线与资料库收集"
+  },
+  {
+    "repo": "zy-zmc/tianming-novel-ai-writer",
+    "branch": "main",
+    "language": "C#",
+    "description": "天命 — AI网文创作系统 | 12维事实快照 · 9类变更声明 · 6道生成门禁 | 写到3000章依然连贯，不靠模型记忆，靠每章状态回写"
+  },
+  {
+    "repo": "binggandata/bggg-skills",
+    "branch": "main",
+    "language": "Python",
+    "description": "Open-source Codex skills from BGGG"
+  },
+  {
+    "repo": "lightseekorg/tokenspeed",
+    "branch": "main",
+    "language": "Python",
+    "description": "TokenSpeed is a speed-of-light LLM inference engine."
+  },
+  {
+    "repo": "nooncheetahstart/Kahoot-tools-AI",
+    "branch": "main",
+    "language": "Python",
+    "description": "Kahoot || Kahoot helper || Kahoot tools || Kahoot ai"
+  },
+  {
+    "repo": "Boob025/peace-equalizer-APO",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "peace best  audio equalizer apo app pc windows 11 spotify  download audio sound booster bass boost headphones gaming preset config profile realtek parametric eq gui"
+  },
+  {
+    "repo": "mitsuhiko/pi-llamacpp",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "An experimental pi extension that runs and manages qwen with llama.cpp"
+  },
+  {
+    "repo": "seochecks-ai/slopless",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Deterministic textlint rules and CLI for catching prose slop in Markdown"
+  },
+  {
+    "repo": "aayushgames19-hash/claude-gateway-manager",
+    "branch": "main",
+    "language": "HTML",
+    "description": "Best Tenbin AI Proxy for Anthropic Opus 4.8 & Sonnet 4.6 API Access 2026"
+  },
+  {
+    "repo": "sermuns/ratatuefi",
+    "branch": "main",
+    "language": "Rust",
+    "description": "Zero-bloat Ratatui apps in UEFI"
+  },
+  {
+    "repo": "phuryn/pm-brain",
+    "branch": "main",
+    "language": "Python",
+    "description": "PM Brain OS: The Second Brain for Product Managers, Made of Markdown"
+  },
+  {
+    "repo": "Namu-iAPT-Enterprise/Hosts_File_Editor",
+    "branch": "main",
+    "language": "Python",
+    "description": "Easily edit the Windows hosts file to block websites, redirect domains, or create local shortcuts."
+  },
+  {
+    "repo": "avacocloud/XHTTP-Installer",
+    "branch": "main",
+    "language": "HTML",
+    "description": "VLESS+XHTTP+TLS Auto-Installer for Ubuntu — Vercel / Netlify relay"
+  },
+  {
+    "repo": "ZettPW/KMSTools",
+    "branch": "main",
+    "language": "C#",
+    "description": "windows tool, office 2026 perpetual license command, net download, digital entitlement permanent custom host"
+  },
+  {
+    "repo": "oomol-lab/open-connector",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Open-source auth gateway connecting 1000+ SaaS providers to AI agents through SDK, CLI, MCP, HTTP, and OpenAPI."
+  },
+  {
+    "repo": "bvzrays/forza-painter-fh6",
+    "branch": "main",
+    "language": "Python",
+    "description": "Vinyl Painter Import Tool - FH6 ( Original repository: https://github.com/forza-painter/forza-painter )"
+  },
+  {
+    "repo": "thcp/stemdeck",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "Stemdeck is an AI-powered stem extraction platform for musicians and producers, designed to isolate vocals, drums, bass, piano and guitar  for practice, transcription, remixing, and creative audio workflows through a modern and interactive interface"
   }
 ]
