@@ -3,6 +3,6 @@
   "branch": "main",
   "language": "Rust",
   "description": "Free Lightroom alternative for Linux and macOS (possibly Windows too - not tested)",
-  "stars": 142,
-  "forks": 2
+  "stars": 150,
+  "forks": 3
 }

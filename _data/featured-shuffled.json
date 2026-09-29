@@ -1,146 +1,146 @@
 [
   {
-    "repo": "sunflower-of-parchman/codex-hygiene",
+    "repo": "ecto/vcad",
     "branch": "main",
-    "language": "Shell",
-    "description": "Codex skill for auditing and tuning Codex Desktop context/tool surfaces"
-  },
-  {
-    "repo": "ant-design/ant-design-mobile",
-    "branch": "master",
-    "language": "TypeScript",
-    "description": "Essential UI blocks for building mobile web apps."
-  },
-  {
-    "repo": "espressif/arduino-esp32",
-    "branch": "master",
-    "language": "C++",
-    "description": "Arduino core for the ESP32"
-  },
-  {
-    "repo": "videolan/vlc",
-    "branch": "master",
-    "language": "C",
-    "description": "VLC media player - All pull requests are ignored, please use MRs on https://code.videolan.org/videolan/vlc"
-  },
-  {
-    "repo": "icebear0828/clio",
-    "branch": "master",
-    "language": "TypeScript",
-    "description": "A Claude Code clone CLI - agentic coding assistant in your terminal"
-  },
-  {
-    "repo": "lsd-rs/lsd",
-    "branch": "master",
     "language": "Rust",
-    "description": "The next gen ls command"
+    "description": "Parametric CAD in Rust — CSG modeling with multi-format export"
   },
   {
-    "repo": "NousResearch/hermes-agent-self-evolution",
+    "repo": "0xABCD01/CVE-2026-41089",
     "branch": "main",
     "language": "Python",
-    "description": "⚒ Evolutionary self-improvement for Hermes Agent — optimize skills, prompts, and code using DSPy + GEPA"
+    "description": "CVE-2026-41089 PoC — Netlogon CLDAP stack buffer overflow (CVSS 9.8 CRITICAL)"
   },
   {
-    "repo": "0xSero/moe-compress",
+    "repo": "UNDERdecoded/Gen2Recomped",
     "branch": "main",
-    "language": "Python",
-    "description": "Model-agnostic MoE compression automation: build calibration bundles, run REAP/quantization/benchmark/publish stages, and render auditable reports."
+    "language": "C",
+    "description": "Generation 2 Pokemon Recomp forked from Gen1Recomp and modified"
   },
   {
-    "repo": "actions/download-artifact",
+    "repo": "neural-maze/production-ocr-course",
     "branch": "main",
-    "language": "TypeScript",
-    "description": "Download artifacts from your build"
+    "language": "Rust",
+    "description": "Build, deploy, and scale a production-grade OCR pipeline using Rust, vLLM, Redis, KEDA, and Kubernetes."
   },
   {
-    "repo": "AlgoInfraTech/polymarket-sports-betting-bot",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Polymarket sports copy trading bot: polymarket sports trading bot polymarket copy trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket copytrading bot"
-  },
-  {
-    "repo": "OpenZeppelin/openzeppelin-contracts",
+    "repo": "loop-js/loop.js",
     "branch": "master",
-    "language": "Solidity",
-    "description": "OpenZeppelin Contracts is a library for secure smart contract development."
+    "language": "TypeScript",
+    "description": "A loop engineering framework — state a Goal; Rounds run until a skeptical, read-only Verify agent settles it."
   },
   {
-    "repo": "allenai/allennlp",
+    "repo": "PipeNetwork/kimi-k3-mlx",
     "branch": "main",
     "language": "Python",
-    "description": "An open-source NLP research library, built on PyTorch."
+    "description": "MLX port of moonshotai/Kimi-K3 (2.78T multimodal MoE): streaming converter, REAP expert pruning, and per-language expert-overlap analysis"
   },
   {
-    "repo": "alainnothere/llm-circuit-finder",
-    "branch": "main",
-    "language": "Python",
-    "description": "I replicated Ng's RYS method and found that duplicating 3 specific layers in Qwen2.5-32B boosts reasoning by 17% and duplicating layers 12-14 in Devstral-24B improves logical deduction from 0.22→0.76 on BBH — no training, no weight changes, just routing hidden states through the same circuit twice. Tools included. Two AMD GPUs, one evening."
-  },
-  {
-    "repo": "Doryoku1223/lunwen-skill",
-    "branch": "main",
-    "language": "Python",
-    "description": "面向本科计科学生的一键论文初稿 Skill，支持样文/开题报告/模板驱动生成，并补全流程图、ER 图和项目截图"
-  },
-  {
-    "repo": "facebook/hermes",
+    "repo": "sv-number/mcp-server",
     "branch": "main",
     "language": "JavaScript",
-    "description": "A JavaScript engine optimized for running React Native."
+    "description": "MCP server for AI agents that need a phone number: order a private number in any country, read the SMS verification code, hand it back."
   },
   {
-    "repo": "Ansub/wiki-os",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Open-source web app for search, browsing, graphs, and local knowledge exploration."
-  },
-  {
-    "repo": "bahdotsh/mdterm",
-    "branch": "main",
-    "language": "Rust",
-    "description": "A terminal-based Markdown browser."
-  },
-  {
-    "repo": "kubernetes/minikube",
-    "branch": "master",
-    "language": "Go",
-    "description": "Run Kubernetes locally"
-  },
-  {
-    "repo": "kevinrgu/autoagent",
+    "repo": "brayonpi/hexstellar",
     "branch": "main",
     "language": "Python",
-    "description": "autonomous harness engineering"
+    "description": "Turn any AI agent into a computational researcher. HexStellar Cortex delivers software-accelerated optimization, quantum computing, scientific computing, decision intelligence, and verifiable execution through a Python CLI and API—with certainty labels, verification receipts, examples, and a free sandbox. Start instantly: pip install hexstellar"
   },
   {
-    "repo": "millionco/react-doctor",
+    "repo": "gabriel-azara/hyperliquid-tracker",
     "branch": "main",
     "language": "TypeScript",
-    "description": "Let coding agents diagnose and fix your React code"
+    "description": "Get notified when big trades happen on Hyperliquid."
   },
   {
-    "repo": "wxtsky/CodeIsland",
+    "repo": "mshumer/Claude-of-Duty",
     "branch": "main",
-    "language": "Swift",
+    "language": "JavaScript",
+    "description": "A Call of Duty-quality FPS in Three.js, built from a single prompt."
+  },
+  {
+    "repo": "openTrinity/mycontext",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "MyContext is a local-first desktop app for everyday communication and knowledge work"
+  },
+  {
+    "repo": "EchoMusicApp/Echo-Music",
+    "branch": "main",
+    "language": "HTML",
+    "description": "An YT Music Client — ads included, but never in your way."
+  },
+  {
+    "repo": "0xSero/deepseek-v4-flash-0731-spark-sparkinfer",
+    "branch": "main",
+    "language": "Python",
+    "description": "Pinned one-DGX-Spark Docker recipe for DeepSeek V4 Flash with EXL3, SparkInfer, and 262K NVFP4 MLA KV cache"
+  },
+  {
+    "repo": "amitshekhariitbhu/llm-inference-engineering",
+    "branch": "main",
+    "language": "Markdown",
+    "description": "Learn LLM Inference Engineering step by step - from KV cache, PagedAttention, and continuous batching to vLLM, SGLang, and GPUs."
+  },
+  {
+    "repo": "sequilade/tokentab",
+    "branch": "main",
+    "language": "Python",
+    "description": "A CLI that reads Claude Code, Codex, and Gemini CLI session logs and works out how much they cost, by model, project, and day."
+  },
+  {
+    "repo": "5ec1cff/FuseFixer",
+    "branch": "master",
+    "language": "C",
     "description": ""
   },
   {
-    "repo": "facebookresearch/dino",
+    "repo": "floflo777/open-crypto-puzzles",
     "branch": "main",
     "language": "Python",
-    "description": "PyTorch code for Vision Transformers training with the Self-Supervised learning method DINO"
+    "description": "Unsolved crypto puzzles worth ~10 BTC, ~12 ETH and ~1,900 AR still on-chain: escrow addresses, author clues, and my research on each. A few solved, with payout proofs."
   },
   {
-    "repo": "iterative/dvc",
+    "repo": "newideas99/open-dungeon",
     "branch": "main",
-    "language": "Python",
-    "description": "🦉 Data Versioning and ML Experiments"
-  },
-  {
-    "repo": "skibidiskib/ai-codex",
-    "branch": "master",
     "language": "TypeScript",
-    "description": "Generate a compact codebase index for AI assistants — saves 50K+ tokens per conversation"
+    "description": "Open Dungeon — the first easy-to-use, fully local AI roleplay app. Story and inline scene images generated 100% on your machine (Gemma 4 QAT via Ollama(and others) + FLUX). No accounts, no API keys, no cloud."
+  },
+  {
+    "repo": "FrondEnt/PolymarketBTC15mAssistant",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "Real-time Polymarket BTC 15m trading assistant for every trader! created by @krajekis"
+  },
+  {
+    "repo": "aref-vc/tufte-claude-skill",
+    "branch": "main",
+    "language": "HTML",
+    "description": "Claude Code skill that turns 'make me a chart' into a Tufte-compliant chart. Distilled from Edward Tufte's three foundational books."
+  },
+  {
+    "repo": "tanaer/WindowsClear",
+    "branch": "main",
+    "language": "Rust",
+    "description": "Windows C盘清理工具/C盘瘦身工具，还你Appdata的大量硬盘空间 | Windows System disk cleanup, returning a large amount of hard drive space from your Appdata"
+  },
+  {
+    "repo": "prisma/prisma",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server, SQLite, MongoDB and CockroachDB"
+  },
+  {
+    "repo": "payloadcms/payload",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Payload is the open-source, fullstack Next.js framework, giving you instant backend superpowers. Get a full TypeScript backend and admin panel instantly. Use Payload as a headless CMS or for building powerful applications."
+  },
+  {
+    "repo": "InterviewReady/system-design-resources",
+    "branch": "main",
+    "language": "Other",
+    "description": "These are the best resources for System Design on the Internet"
   }
 ]
