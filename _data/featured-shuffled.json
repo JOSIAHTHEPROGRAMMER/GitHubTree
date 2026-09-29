@@ -1,146 +1,146 @@
 [
   {
-    "repo": "ecto/vcad",
-    "branch": "main",
-    "language": "Rust",
-    "description": "Parametric CAD in Rust — CSG modeling with multi-format export"
-  },
-  {
-    "repo": "0xABCD01/CVE-2026-41089",
-    "branch": "main",
-    "language": "Python",
-    "description": "CVE-2026-41089 PoC — Netlogon CLDAP stack buffer overflow (CVSS 9.8 CRITICAL)"
-  },
-  {
-    "repo": "UNDERdecoded/Gen2Recomped",
-    "branch": "main",
-    "language": "C",
-    "description": "Generation 2 Pokemon Recomp forked from Gen1Recomp and modified"
-  },
-  {
-    "repo": "neural-maze/production-ocr-course",
-    "branch": "main",
-    "language": "Rust",
-    "description": "Build, deploy, and scale a production-grade OCR pipeline using Rust, vLLM, Redis, KEDA, and Kubernetes."
-  },
-  {
-    "repo": "loop-js/loop.js",
+    "repo": "libgdx/libgdx",
     "branch": "master",
-    "language": "TypeScript",
-    "description": "A loop engineering framework — state a Goal; Rounds run until a skeptical, read-only Verify agent settles it."
+    "language": "Java",
+    "description": "Desktop/Android/HTML5/iOS Java game development framework"
   },
   {
-    "repo": "PipeNetwork/kimi-k3-mlx",
-    "branch": "main",
-    "language": "Python",
-    "description": "MLX port of moonshotai/Kimi-K3 (2.78T multimodal MoE): streaming converter, REAP expert pruning, and per-language expert-overlap analysis"
-  },
-  {
-    "repo": "sv-number/mcp-server",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "MCP server for AI agents that need a phone number: order a private number in any country, read the SMS verification code, hand it back."
-  },
-  {
-    "repo": "brayonpi/hexstellar",
-    "branch": "main",
-    "language": "Python",
-    "description": "Turn any AI agent into a computational researcher. HexStellar Cortex delivers software-accelerated optimization, quantum computing, scientific computing, decision intelligence, and verifiable execution through a Python CLI and API—with certainty labels, verification receipts, examples, and a free sandbox. Start instantly: pip install hexstellar"
-  },
-  {
-    "repo": "gabriel-azara/hyperliquid-tracker",
+    "repo": "davidmokos/expo-glass-tabs",
     "branch": "main",
     "language": "TypeScript",
-    "description": "Get notified when big trades happen on Hyperliquid."
+    "description": "Floating liquid-glass tab bar for Expo Router — minimize-on-scroll, sliding highlight, finger scrubbing with haptics, progressive edge blur"
   },
   {
-    "repo": "mshumer/Claude-of-Duty",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "A Call of Duty-quality FPS in Three.js, built from a single prompt."
-  },
-  {
-    "repo": "openTrinity/mycontext",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "MyContext is a local-first desktop app for everyday communication and knowledge work"
-  },
-  {
-    "repo": "EchoMusicApp/Echo-Music",
-    "branch": "main",
-    "language": "HTML",
-    "description": "An YT Music Client — ads included, but never in your way."
-  },
-  {
-    "repo": "0xSero/deepseek-v4-flash-0731-spark-sparkinfer",
+    "repo": "orchestration-agent/AgentOrchestration",
     "branch": "main",
     "language": "Python",
-    "description": "Pinned one-DGX-Spark Docker recipe for DeepSeek V4 Flash with EXL3, SparkInfer, and 262K NVFP4 MLA KV cache"
-  },
-  {
-    "repo": "amitshekhariitbhu/llm-inference-engineering",
-    "branch": "main",
-    "language": "Markdown",
-    "description": "Learn LLM Inference Engineering step by step - from KV cache, PagedAttention, and continuous batching to vLLM, SGLang, and GPUs."
-  },
-  {
-    "repo": "sequilade/tokentab",
-    "branch": "main",
-    "language": "Python",
-    "description": "A CLI that reads Claude Code, Codex, and Gemini CLI session logs and works out how much they cost, by model, project, and day."
-  },
-  {
-    "repo": "5ec1cff/FuseFixer",
-    "branch": "master",
-    "language": "C",
     "description": ""
   },
   {
-    "repo": "floflo777/open-crypto-puzzles",
+    "repo": "Drakkar-Softwares/polymarket-kalshi-arbitrage-bot",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "polymarket trading bot, polymarket bot, polymarket kalshi trading bot,polymarket trading bot, polymarket bot, polymarket kalshi trading bot,polymarket trading bot, polymarket bot, polymarket kalshi trading bot,polymarket trading bot, polymarket bot, polymarket kalshi trading bot,polymarket trading bot, polymarket bot, polymarket kalshi trading bot"
+  },
+  {
+    "repo": "grandeurcoredecoder/f95zone",
+    "branch": "main",
+    "language": "PowerShell",
+    "description": "Unofficial Game Updater for the F95Zone platform"
+  },
+  {
+    "repo": "wechat-miniprogram/ai-mode-demo",
+    "branch": "master",
+    "language": "JavaScript",
+    "description": ""
+  },
+  {
+    "repo": "pulkitxm/claude-directory",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Experimentation projects with Anthropic's new Claude models (Fable 5 / Mythos)"
+  },
+  {
+    "repo": "aaviasulin123-design/kms-pico-latest-m6",
+    "branch": "main",
+    "language": "C#",
+    "description": "A secure, educational toolkit for understanding KMS activation, designed for lab environments."
+  },
+  {
+    "repo": "zqbxdev/webchat2api",
     "branch": "main",
     "language": "Python",
-    "description": "Unsolved crypto puzzles worth ~10 BTC, ~12 ETH and ~1,900 AR still on-chain: escrow addresses, author clues, and my research on each. A few solved, with payout proofs."
+    "description": "OpenAI-compatible Web Chat API proxy with GPT/Grok account management"
   },
   {
-    "repo": "newideas99/open-dungeon",
+    "repo": "Jabo1209/CC-Gen-Checker",
     "branch": "main",
-    "language": "TypeScript",
-    "description": "Open Dungeon — the first easy-to-use, fully local AI roleplay app. Story and inline scene images generated 100% on your machine (Gemma 4 QAT via Ollama(and others) + FLUX). No accounts, no API keys, no cloud."
+    "language": "C#",
+    "description": "A safe and educational tool for generating and validating credit card number formats."
   },
   {
-    "repo": "FrondEnt/PolymarketBTC15mAssistant",
+    "repo": "nagisanzenin/engram",
     "branch": "main",
-    "language": "JavaScript",
-    "description": "Real-time Polymarket BTC 15m trading assistant for every trader! created by @krajekis"
+    "language": "Python",
+    "description": "Evidence-based learning engine for Claude Code — first-principles curricula, free-recall verification with receipts, FSRS-scheduled memory, and explorable artifacts. Learn anything; keep it."
   },
   {
-    "repo": "aref-vc/tufte-claude-skill",
+    "repo": "fajarakpdev/Hades-II-Trainer-Z",
+    "branch": "main",
+    "language": "Python",
+    "description": "Free Hades II Trainer with God Mode, Unlimited Health, Max Gold, One-Hit Kill and more. No survey, instant download."
+  },
+  {
+    "repo": "Brenonunesx/agent-pilot",
     "branch": "main",
     "language": "HTML",
-    "description": "Claude Code skill that turns 'make me a chart' into a Tufte-compliant chart. Distilled from Edward Tufte's three foundational books."
+    "description": "AI Agent Toolkit 2026: Smart Device Control for iOS & Android"
   },
   {
-    "repo": "tanaer/WindowsClear",
+    "repo": "Nick-Baumann/Gobby",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "GRRRBLEHHH!"
+  },
+  {
+    "repo": "PHjont/Wallpaper-Engine-Live-wallpaper-engine",
+    "branch": "main",
+    "language": "C++",
+    "description": "Wallpaper Engine Steam: Live wallpaper engine. Features: 3D interactive scenes, audio visualizer, clock widgets. Android sync, mobile companion, playlist scheduler. Performance optimization, low CPU usage, LED hardware lighting, Razer Chroma, Corsair iCUE, Steam Workshop integration, SceneScript."
+  },
+  {
+    "repo": "Sahir619/fable-method",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "The Fable Workflow: how Claude Fable 5 worked, distilled into skills any model can run, with the eval that keeps it honest. Think / act / prove."
+  },
+  {
+    "repo": "tonbo-io/ursula",
     "branch": "main",
     "language": "Rust",
-    "description": "Windows C盘清理工具/C盘瘦身工具，还你Appdata的大量硬盘空间 | Windows System disk cleanup, returning a large amount of hard drive space from your Appdata"
+    "description": "Distributed event stream server over HTTP, backed by S3."
   },
   {
-    "repo": "prisma/prisma",
+    "repo": "Subhan-code/Amicro--Micro-transitions-",
     "branch": "main",
     "language": "TypeScript",
-    "description": "Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server, SQLite, MongoDB and CockroachDB"
+    "description": ""
   },
   {
-    "repo": "payloadcms/payload",
+    "repo": "pocket-stack/pocketjs",
     "branch": "main",
     "language": "TypeScript",
-    "description": "Payload is the open-source, fullstack Next.js framework, giving you instant backend superpowers. Get a full TypeScript backend and admin panel instantly. Use Payload as a headless CMS or for building powerful applications."
+    "description": "High-performance JSX UI outside the browser, with hardware rendering, standard Vue Vapor and Solid support, a Tailwind design system, and 60 FPS animation under an 8 MB memory budget."
   },
   {
-    "repo": "InterviewReady/system-design-resources",
+    "repo": "DEsu2111/File_Diff___Merge_Tool",
     "branch": "main",
-    "language": "Other",
-    "description": "These are the best resources for System Design on the Internet"
+    "language": "Python",
+    "description": "Compare two files or folders and merge differences. See side-by-side diff, highlight changes, and merge selectively. Useful for code reviews and sync."
+  },
+  {
+    "repo": "incursio003/Blox-Fruits-Dragon-Update-Auto-Farm-Script-2026-Plus",
+    "branch": "main",
+    "language": "Python",
+    "description": "Maximize your progress in Blox Fruits with this Plus trainer – auto farm, ESP, raid, and anti‑ban included."
+  },
+  {
+    "repo": "mykolaharmash/notelet",
+    "branch": "main",
+    "language": "Swift",
+    "description": "SwiftUI component for displaying rich release notes inside an app"
+  },
+  {
+    "repo": "CEOHarvey242/cheat-engine-7.5",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "cheat engine 7.5  github  tables download pc windows 11 cheat tables forza horizon 6  elden ring  ct file memory scanner speedhack trainer maker"
+  },
+  {
+    "repo": "mofouly/Hades-II-Trainer-Max",
+    "branch": "main",
+    "language": "Python",
+    "description": "Hades II Trainer 2026 – the most powerful cheat collection. Get unlimited everything, one-hit kills, no cooldowns and more."
   }
 ]

@@ -1,8 +1,8 @@
 {
-  "repo": "pch/rawmakase",
+  "repo": "czg86389-hub/muse2api",
   "branch": "main",
-  "language": "Rust",
-  "description": "Free Lightroom alternative for Linux and macOS (possibly Windows too - not tested)",
-  "stars": 150,
-  "forks": 3
+  "language": "Python",
+  "description": "把 Muse(muse.ai) 逆向封装为 OpenAI 兼容接口，支持对话、文生图、文生视频/图生视频、多账号池轮转与 48h 自动续期。OpenAI-compatible API for Muse.ai with Chat, Image & Video generation.",
+  "stars": 168,
+  "forks": 42
 }
