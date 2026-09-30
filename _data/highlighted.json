@@ -1,8 +1,8 @@
 {
-  "repo": "tornikegomareli/omarchy-spaces",
+  "repo": "theNetworkChuck/paperclip-guide",
   "branch": "main",
-  "language": "QML",
-  "description": "See what runs on every workspace. An Omarchy bar widget that shows the apps open on each workspace.",
-  "stars": 134,
-  "forks": 11
+  "language": "TypeScript",
+  "description": "Companion guide for the NetworkChuck Paperclip video: install Paperclip and build an AI IT department. Every step tested on Paperclip 2026.916.1.",
+  "stars": 130,
+  "forks": 18
 }

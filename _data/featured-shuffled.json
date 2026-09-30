@@ -1,146 +1,146 @@
 [
   {
-    "repo": "mikehasa/golive-skill",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Take your agent-built product live: hosting, database, domain, email, payments — on your own accounts. Open-source Agent Skill + zero-dependency Node CLI: detect → plan → approve → apply → verify. No GoLive account, backend or telemetry."
-  },
-  {
-    "repo": "openai/sora-prompt-engineering-guide",
-    "branch": "main",
-    "language": "Other",
-    "description": "Guide for prompt engineering for video generation with Sora."
-  },
-  {
-    "repo": "invertase/react-native-firebase",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "🔥 A well-tested feature-rich modular Firebase implementation for React Native. Supports both iOS & Android platforms for all Firebase services."
-  },
-  {
-    "repo": "tensorflow/models",
-    "branch": "master",
-    "language": "Python",
-    "description": "Models and examples built with TensorFlow"
-  },
-  {
-    "repo": "nestjs/nest",
-    "branch": "master",
-    "language": "TypeScript",
-    "description": "A progressive Node.js framework for building efficient, scalable, and enterprise-grade server-side applications with TypeScript/JavaScript 🚀"
-  },
-  {
-    "repo": "NyxFoundation/speca",
+    "repo": "majidmanzarpour/threejs-game-skills",
     "branch": "main",
     "language": "Python",
-    "description": "SPECA: Specification-to-Checklist Agentic Auditing Framework"
+    "description": "Agent skills for building playable, polished Three.js browser games with gameplay, AAA-style graphics, UI, QA, and optional AI-generated 3D, image, and audio assets."
   },
   {
-    "repo": "miuda-ai/lele",
-    "branch": "main",
-    "language": "Rust",
-    "description": "Bare-Metal Rust Audio AI Framework"
-  },
-  {
-    "repo": "calesthio/Crucix",
-    "branch": "master",
-    "language": "JavaScript",
-    "description": "Your personal intelligence agent. Watches the world from 26 data sources and pings you when something changes."
-  },
-  {
-    "repo": "astro/astro",
-    "branch": "main",
-    "language": "Other",
-    "description": "The web framework that scales with you, with server-first rendering and an all-in-one build flow."
-  },
-  {
-    "repo": "nashsu/llm_wiki",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": ""
-  },
-  {
-    "repo": "web3/web3.js",
-    "branch": "1.x",
-    "language": "TypeScript",
-    "description": "Collection of comprehensive TypeScript libraries for Interaction with the Ethereum JSON RPC API and utility functions."
-  },
-  {
-    "repo": "plotly/plotly.py",
-    "branch": "master",
-    "language": "Python",
-    "description": "The interactive graphing library for Python :sparkles:"
-  },
-  {
-    "repo": "mrconter1/rustc-php",
-    "branch": "main",
-    "language": "PHP",
-    "description": "A Rust compiler with ownership checking, written in PHP"
-  },
-  {
-    "repo": "open-telemetry/opentelemetry-js",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "OpenTelemetry JavaScript Client"
-  },
-  {
-    "repo": "apkclaw-team/ApkClaw",
-    "branch": "main",
-    "language": "Kotlin",
-    "description": ""
-  },
-  {
-    "repo": "joyehuang/Learn-Open-Harness",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "🤖 Official Interactive Tutorial for OpenHarness – Zero to Hero in 12 Chapters | Learn OpenHarness like Claude Code: Agent Loop, Tools, Memory, Multi-Agent | 面向零基础的 AI Agent 交互式教程"
-  },
-  {
-    "repo": "dair-ai/ML-Papers-Explained",
-    "branch": "gh-pages",
-    "language": "Other",
-    "description": "Explanation to key concepts in ML"
-  },
-  {
-    "repo": "KotlinBy/awesome-kotlin",
-    "branch": "master",
-    "language": "Kotlin",
-    "description": "A curated list of awesome Kotlin related stuff Inspired by awesome-java."
-  },
-  {
-    "repo": "anvie/evonic",
-    "branch": "main",
-    "language": "Python",
-    "description": "Open Agentic AI Platform - The home your agents deserve"
-  },
-  {
-    "repo": "0xsouravm/oxichrome",
-    "branch": "main",
-    "language": "Rust",
-    "description": "Framework to build Chrome extensions entirely in Rust with proc macros, type-safe Chrome API bindings, and Leptos for reactive UI. Compiles to WebAssembly with zero hand-written JavaScript."
-  },
-  {
-    "repo": "JubaKitiashvili/expo-pretext",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Predict React Native text heights before rendering. Native TextKit/TextPaint measurement + ~0.0002ms JS layout. FlashList, streaming AI chat, typewriter, pinch-to-zoom, obstacle reflow, Dynamic Type, Expo Web. 386 tests. MIT."
-  },
-  {
-    "repo": "grafana/loki",
-    "branch": "main",
-    "language": "Go",
-    "description": "Like Prometheus, but for logs."
-  },
-  {
-    "repo": "wangyingqi-x/workflow-showcase-platform",
+    "repo": "elastic/logstash",
     "branch": "main",
     "language": "Java",
-    "description": ""
+    "description": "Logstash - transport and process your logs, events, or other data"
   },
   {
-    "repo": "pallets/werkzeug",
+    "repo": "angular/angular",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Deliver web apps with confidence 🚀"
+  },
+  {
+    "repo": "freeCodeCamp/freeCodeCamp",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free."
+  },
+  {
+    "repo": "prof-oguzergin/bilgisayar-mimarisi",
+    "branch": "main",
+    "language": "TeX",
+    "description": "Bilgisayar Mimarisi: RISC-V Tabanlı Yaklaşım — Açık kaynak Türkçe ders kitabı (CC BY-NC-ND 4.0)"
+  },
+  {
+    "repo": "bigcode-project/starcoder",
     "branch": "main",
     "language": "Python",
-    "description": "The comprehensive WSGI web application library."
+    "description": "Home of StarCoder: fine-tuning & inference!"
+  },
+  {
+    "repo": "faker-js/faker",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Generate massive amounts of fake data in the browser and node.js"
+  },
+  {
+    "repo": "github/gitignore",
+    "branch": "main",
+    "language": "Other",
+    "description": "A collection of useful .gitignore templates"
+  },
+  {
+    "repo": "alebcay/awesome-shell",
+    "branch": "master",
+    "language": "Other",
+    "description": "A curated list of awesome command-line frameworks, toolkits, guides and gizmos. Inspired by awesome-php."
+  },
+  {
+    "repo": "zaproxy/zaproxy",
+    "branch": "main",
+    "language": "Java",
+    "description": "The ZAP by Checkmarx Core project"
+  },
+  {
+    "repo": "total-typescript/ts-reset",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "A 'CSS reset' for TypeScript, improving types for common JavaScript API's"
+  },
+  {
+    "repo": "pytube/pytube",
+    "branch": "master",
+    "language": "Python",
+    "description": "A lightweight, dependency-free Python library (and command-line utility) for downloading YouTube Videos."
+  },
+  {
+    "repo": "TanStack/table",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "🤖 Headless UI for building powerful tables & datagrids for TS/JS -  React-Table, Vue-Table, Solid-Table, Svelte-Table"
+  },
+  {
+    "repo": "projectdiscovery/nuclei",
+    "branch": "master",
+    "language": "Go",
+    "description": "Nuclei is a fast, customizable vulnerability scanner powered by the global security community and built on a simple YAML-based DSL, enabling collaboration to tackle trending vulnerabilities on the internet. It helps you find vulnerabilities in your applications, APIs, networks, DNS, and cloud configurations."
+  },
+  {
+    "repo": "millionco/react-doctor",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Let coding agents diagnose and fix your React code"
+  },
+  {
+    "repo": "radix-ui/primitives",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Radix Primitives is an open-source UI component library for building high-quality, accessible design systems and web apps. Maintained by @workos."
+  },
+  {
+    "repo": "weaviate/weaviate",
+    "branch": "master",
+    "language": "Go",
+    "description": "Weaviate is an open-source vector database that stores both objects and vectors, allowing for the combination of vector search with structured filtering with the fault tolerance and scalability of a cloud-native database​."
+  },
+  {
+    "repo": "ahmetb/kubectx",
+    "branch": "master",
+    "language": "Go",
+    "description": "Faster way to switch between clusters and namespaces in kubectl"
+  },
+  {
+    "repo": "thedaviddias/Front-End-Checklist",
+    "branch": "master",
+    "language": "Other",
+    "description": "🗂 The perfect Front-End Checklist for modern websites and meticulous developers"
+  },
+  {
+    "repo": "unicodeveloper/globalthreatmap",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Global threat map. Learn wars, conflicts, military bases and history of nations."
+  },
+  {
+    "repo": "sigstore/cosign",
+    "branch": "main",
+    "language": "Go",
+    "description": "Code signing and transparency for containers and binaries"
+  },
+  {
+    "repo": "Dataherald/dataherald",
+    "branch": "main",
+    "language": "Python",
+    "description": "Interact with your SQL database, Natural Language to SQL using LLMs"
+  },
+  {
+    "repo": "torvalds/linux",
+    "branch": "master",
+    "language": "C",
+    "description": "Linux kernel source tree"
+  },
+  {
+    "repo": "dandavison/delta",
+    "branch": "main",
+    "language": "Rust",
+    "description": "A syntax-highlighting pager for git, diff, grep, and blame output"
   }
 ]
