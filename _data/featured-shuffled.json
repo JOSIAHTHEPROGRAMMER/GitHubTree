@@ -1,146 +1,146 @@
 [
   {
-    "repo": "libgdx/libgdx",
+    "repo": "mikehasa/golive-skill",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Take your agent-built product live: hosting, database, domain, email, payments — on your own accounts. Open-source Agent Skill + zero-dependency Node CLI: detect → plan → approve → apply → verify. No GoLive account, backend or telemetry."
+  },
+  {
+    "repo": "openai/sora-prompt-engineering-guide",
+    "branch": "main",
+    "language": "Other",
+    "description": "Guide for prompt engineering for video generation with Sora."
+  },
+  {
+    "repo": "invertase/react-native-firebase",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "🔥 A well-tested feature-rich modular Firebase implementation for React Native. Supports both iOS & Android platforms for all Firebase services."
+  },
+  {
+    "repo": "tensorflow/models",
     "branch": "master",
-    "language": "Java",
-    "description": "Desktop/Android/HTML5/iOS Java game development framework"
-  },
-  {
-    "repo": "davidmokos/expo-glass-tabs",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Floating liquid-glass tab bar for Expo Router — minimize-on-scroll, sliding highlight, finger scrubbing with haptics, progressive edge blur"
-  },
-  {
-    "repo": "orchestration-agent/AgentOrchestration",
-    "branch": "main",
     "language": "Python",
-    "description": ""
+    "description": "Models and examples built with TensorFlow"
   },
   {
-    "repo": "Drakkar-Softwares/polymarket-kalshi-arbitrage-bot",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "polymarket trading bot, polymarket bot, polymarket kalshi trading bot,polymarket trading bot, polymarket bot, polymarket kalshi trading bot,polymarket trading bot, polymarket bot, polymarket kalshi trading bot,polymarket trading bot, polymarket bot, polymarket kalshi trading bot,polymarket trading bot, polymarket bot, polymarket kalshi trading bot"
-  },
-  {
-    "repo": "grandeurcoredecoder/f95zone",
-    "branch": "main",
-    "language": "PowerShell",
-    "description": "Unofficial Game Updater for the F95Zone platform"
-  },
-  {
-    "repo": "wechat-miniprogram/ai-mode-demo",
+    "repo": "nestjs/nest",
     "branch": "master",
-    "language": "JavaScript",
-    "description": ""
-  },
-  {
-    "repo": "pulkitxm/claude-directory",
-    "branch": "main",
     "language": "TypeScript",
-    "description": "Experimentation projects with Anthropic's new Claude models (Fable 5 / Mythos)"
+    "description": "A progressive Node.js framework for building efficient, scalable, and enterprise-grade server-side applications with TypeScript/JavaScript 🚀"
   },
   {
-    "repo": "aaviasulin123-design/kms-pico-latest-m6",
-    "branch": "main",
-    "language": "C#",
-    "description": "A secure, educational toolkit for understanding KMS activation, designed for lab environments."
-  },
-  {
-    "repo": "zqbxdev/webchat2api",
+    "repo": "NyxFoundation/speca",
     "branch": "main",
     "language": "Python",
-    "description": "OpenAI-compatible Web Chat API proxy with GPT/Grok account management"
+    "description": "SPECA: Specification-to-Checklist Agentic Auditing Framework"
   },
   {
-    "repo": "Jabo1209/CC-Gen-Checker",
-    "branch": "main",
-    "language": "C#",
-    "description": "A safe and educational tool for generating and validating credit card number formats."
-  },
-  {
-    "repo": "nagisanzenin/engram",
-    "branch": "main",
-    "language": "Python",
-    "description": "Evidence-based learning engine for Claude Code — first-principles curricula, free-recall verification with receipts, FSRS-scheduled memory, and explorable artifacts. Learn anything; keep it."
-  },
-  {
-    "repo": "fajarakpdev/Hades-II-Trainer-Z",
-    "branch": "main",
-    "language": "Python",
-    "description": "Free Hades II Trainer with God Mode, Unlimited Health, Max Gold, One-Hit Kill and more. No survey, instant download."
-  },
-  {
-    "repo": "Brenonunesx/agent-pilot",
-    "branch": "main",
-    "language": "HTML",
-    "description": "AI Agent Toolkit 2026: Smart Device Control for iOS & Android"
-  },
-  {
-    "repo": "Nick-Baumann/Gobby",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "GRRRBLEHHH!"
-  },
-  {
-    "repo": "PHjont/Wallpaper-Engine-Live-wallpaper-engine",
-    "branch": "main",
-    "language": "C++",
-    "description": "Wallpaper Engine Steam: Live wallpaper engine. Features: 3D interactive scenes, audio visualizer, clock widgets. Android sync, mobile companion, playlist scheduler. Performance optimization, low CPU usage, LED hardware lighting, Razer Chroma, Corsair iCUE, Steam Workshop integration, SceneScript."
-  },
-  {
-    "repo": "Sahir619/fable-method",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "The Fable Workflow: how Claude Fable 5 worked, distilled into skills any model can run, with the eval that keeps it honest. Think / act / prove."
-  },
-  {
-    "repo": "tonbo-io/ursula",
+    "repo": "miuda-ai/lele",
     "branch": "main",
     "language": "Rust",
-    "description": "Distributed event stream server over HTTP, backed by S3."
+    "description": "Bare-Metal Rust Audio AI Framework"
   },
   {
-    "repo": "Subhan-code/Amicro--Micro-transitions-",
+    "repo": "calesthio/Crucix",
+    "branch": "master",
+    "language": "JavaScript",
+    "description": "Your personal intelligence agent. Watches the world from 26 data sources and pings you when something changes."
+  },
+  {
+    "repo": "astro/astro",
+    "branch": "main",
+    "language": "Other",
+    "description": "The web framework that scales with you, with server-first rendering and an all-in-one build flow."
+  },
+  {
+    "repo": "nashsu/llm_wiki",
     "branch": "main",
     "language": "TypeScript",
     "description": ""
   },
   {
-    "repo": "pocket-stack/pocketjs",
+    "repo": "web3/web3.js",
+    "branch": "1.x",
+    "language": "TypeScript",
+    "description": "Collection of comprehensive TypeScript libraries for Interaction with the Ethereum JSON RPC API and utility functions."
+  },
+  {
+    "repo": "plotly/plotly.py",
+    "branch": "master",
+    "language": "Python",
+    "description": "The interactive graphing library for Python :sparkles:"
+  },
+  {
+    "repo": "mrconter1/rustc-php",
+    "branch": "main",
+    "language": "PHP",
+    "description": "A Rust compiler with ownership checking, written in PHP"
+  },
+  {
+    "repo": "open-telemetry/opentelemetry-js",
     "branch": "main",
     "language": "TypeScript",
-    "description": "High-performance JSX UI outside the browser, with hardware rendering, standard Vue Vapor and Solid support, a Tailwind design system, and 60 FPS animation under an 8 MB memory budget."
+    "description": "OpenTelemetry JavaScript Client"
   },
   {
-    "repo": "DEsu2111/File_Diff___Merge_Tool",
+    "repo": "apkclaw-team/ApkClaw",
     "branch": "main",
-    "language": "Python",
-    "description": "Compare two files or folders and merge differences. See side-by-side diff, highlight changes, and merge selectively. Useful for code reviews and sync."
+    "language": "Kotlin",
+    "description": ""
   },
   {
-    "repo": "incursio003/Blox-Fruits-Dragon-Update-Auto-Farm-Script-2026-Plus",
-    "branch": "main",
-    "language": "Python",
-    "description": "Maximize your progress in Blox Fruits with this Plus trainer – auto farm, ESP, raid, and anti‑ban included."
-  },
-  {
-    "repo": "mykolaharmash/notelet",
-    "branch": "main",
-    "language": "Swift",
-    "description": "SwiftUI component for displaying rich release notes inside an app"
-  },
-  {
-    "repo": "CEOHarvey242/cheat-engine-7.5",
+    "repo": "joyehuang/Learn-Open-Harness",
     "branch": "main",
     "language": "TypeScript",
-    "description": "cheat engine 7.5  github  tables download pc windows 11 cheat tables forza horizon 6  elden ring  ct file memory scanner speedhack trainer maker"
+    "description": "🤖 Official Interactive Tutorial for OpenHarness – Zero to Hero in 12 Chapters | Learn OpenHarness like Claude Code: Agent Loop, Tools, Memory, Multi-Agent | 面向零基础的 AI Agent 交互式教程"
   },
   {
-    "repo": "mofouly/Hades-II-Trainer-Max",
+    "repo": "dair-ai/ML-Papers-Explained",
+    "branch": "gh-pages",
+    "language": "Other",
+    "description": "Explanation to key concepts in ML"
+  },
+  {
+    "repo": "KotlinBy/awesome-kotlin",
+    "branch": "master",
+    "language": "Kotlin",
+    "description": "A curated list of awesome Kotlin related stuff Inspired by awesome-java."
+  },
+  {
+    "repo": "anvie/evonic",
     "branch": "main",
     "language": "Python",
-    "description": "Hades II Trainer 2026 – the most powerful cheat collection. Get unlimited everything, one-hit kills, no cooldowns and more."
+    "description": "Open Agentic AI Platform - The home your agents deserve"
+  },
+  {
+    "repo": "0xsouravm/oxichrome",
+    "branch": "main",
+    "language": "Rust",
+    "description": "Framework to build Chrome extensions entirely in Rust with proc macros, type-safe Chrome API bindings, and Leptos for reactive UI. Compiles to WebAssembly with zero hand-written JavaScript."
+  },
+  {
+    "repo": "JubaKitiashvili/expo-pretext",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Predict React Native text heights before rendering. Native TextKit/TextPaint measurement + ~0.0002ms JS layout. FlashList, streaming AI chat, typewriter, pinch-to-zoom, obstacle reflow, Dynamic Type, Expo Web. 386 tests. MIT."
+  },
+  {
+    "repo": "grafana/loki",
+    "branch": "main",
+    "language": "Go",
+    "description": "Like Prometheus, but for logs."
+  },
+  {
+    "repo": "wangyingqi-x/workflow-showcase-platform",
+    "branch": "main",
+    "language": "Java",
+    "description": ""
+  },
+  {
+    "repo": "pallets/werkzeug",
+    "branch": "main",
+    "language": "Python",
+    "description": "The comprehensive WSGI web application library."
   }
 ]
