@@ -1,8 +1,8 @@
 {
-  "repo": "alpcanaydin/tusk",
+  "repo": "ANDRETRIPOL/OpenGhost",
   "branch": "main",
-  "language": "Rust",
-  "description": "A fast, native, keyboard-driven database client for macOS. 20 databases, an AI assistant that shows its work, free and open source.",
-  "stars": 156,
-  "forks": 9
+  "language": "JavaScript",
+  "description": "Open desktop agent for Windows, macOS and Linux",
+  "stars": 134,
+  "forks": 13
 }

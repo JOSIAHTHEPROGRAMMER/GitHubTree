@@ -1,146 +1,146 @@
 [
   {
-    "repo": "eternityspring/reelbench-skills",
+    "repo": "karpathy/autoresearch",
+    "branch": "master",
+    "language": "Python",
+    "description": "AI agents running research on single-GPU nanochat training automatically"
+  },
+  {
+    "repo": "vanroon/Pet-Simulator-99-Auto-Farm-Trainer-2026-Prime",
+    "branch": "main",
+    "language": "Python",
+    "description": "Maximize your efficiency in Pet Simulator 99 with the Prime auto trainer. From coin collection to Backrooms League rewards, everything is automated. Safe and undetectable."
+  },
+  {
+    "repo": "qinwf/awesome-R",
+    "branch": "master",
+    "language": "R",
+    "description": "A curated list of awesome R packages, frameworks and software."
+  },
+  {
+    "repo": "pypa/setuptools",
+    "branch": "main",
+    "language": "Python",
+    "description": "Official project repository for the Setuptools build system"
+  },
+  {
+    "repo": "coyvalyss1/model-matchmaker",
+    "branch": "main",
+    "language": "Shell",
+    "description": "Local hook for Cursor and Claude Code that routes prompts to the right model tier. Stop paying Opus prices to rename files."
+  },
+  {
+    "repo": "nateherkai/hyperframes-student-kit",
     "branch": "main",
     "language": "HTML",
-    "description": "Learning notes and tooling skills for AI video - AI 视频相关的学习与工具 skill"
+    "description": "HTML-native motion-graphics video workspace — 12 finished projects built on Hyperframes + GSAP. A teaching kit for students learning to build motion-graphics video pipelines end-to-end."
   },
   {
-    "repo": "opengram-server/opengram",
-    "branch": "main",
-    "language": "C#",
-    "description": ""
-  },
-  {
-    "repo": "3641397194-wq/gpt5.6-claude-grok4.6-deepseekv4pro",
-    "branch": "main",
-    "language": "Python",
-    "description": "冷咖啡 ColdBrew 四合一破甲正式版 — GPT-5.6 / Claude / Grok 4.6 / DeepSeek v4 Pro 一键部署 · 启动 · 恢复 · 打包发布 | QQ 群 1057540028 / 1077074552"
-  },
-  {
-    "repo": "duolahypercho/codex-router",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "External-model router for Codex with guided Kimi OAuth/API, DeepSeek, safe migration, and rollback."
-  },
-  {
-    "repo": "Iwanian/Iwana-Proxy",
-    "branch": "main",
-    "language": "Kotlin",
-    "description": "for telegram"
-  },
-  {
-    "repo": "lapce/lapce",
+    "repo": "mayfer/electrobun-macos-native-blur",
     "branch": "master",
-    "language": "Rust",
-    "description": "Lightning-fast and Powerful Code Editor written in Rust"
-  },
-  {
-    "repo": "fuma-nama/fumadocs",
-    "branch": "main",
     "language": "TypeScript",
-    "description": "The beautiful & flexible React.js docs framework."
+    "description": "Enable background blur like a native app in Electrobun"
   },
   {
-    "repo": "pallets/flask",
-    "branch": "main",
-    "language": "Python",
-    "description": "The Python micro framework for building web applications."
-  },
-  {
-    "repo": "0xwilliamortiz/ponytail-improved",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote."
-  },
-  {
-    "repo": "NVIDIA/cuda-python",
-    "branch": "main",
-    "language": "Cython",
-    "description": "CUDA Python: Performance meets Productivity"
-  },
-  {
-    "repo": "alikon-art/DeterminFlow",
-    "branch": "main",
-    "language": "Python",
-    "description": "A production-oriented AI workflow runtime for building, validating, recovering, and shipping complex AI workflows as dependable services. 面向生产的 AI 工作流运行时：快速开发、验证和恢复复杂 AI 工作流，并将其稳定交付为服务。"
-  },
-  {
-    "repo": "Zouuup/landrun",
-    "branch": "main",
-    "language": "Go",
-    "description": "Run any Linux process in a secure, unprivileged sandbox using Landlock. Think firejail, but lightweight, user-friendly, and baked into the kernel."
-  },
-  {
-    "repo": "StarKnightt/jungle-trail",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "A fully procedural first-person jungle in Three.js. Zero external art assets - every texture, mesh and sound generated in code."
-  },
-  {
-    "repo": "jesselau76/cigen",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "Interactive root/affix vocabulary memory web app"
-  },
-  {
-    "repo": "MagicSlayerRoute/zapret-discord-youtube",
-    "branch": "main",
-    "language": "PowerShell",
-    "description": ""
-  },
-  {
-    "repo": "claude-mythos5/Claude-Mythos5-AI-Free-desktop",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Claude Mythos 5 AI free desktop app - what is Claude Mythos? Anthropic's restricted AI model released June 9, 2026 for US government Project Glasswing. Claude Fable 5 vs Mythos 5 vs Opus 5 vs GPT 5.6 Sol comparison: same weights, Mythos has cybersecurity capabilities. Download Claude desktop app free, includes Fable 5."
-  },
-  {
-    "repo": "golang/mock",
-    "branch": "master",
-    "language": "Go",
-    "description": "GoMock is a mocking framework for the Go programming language."
-  },
-  {
-    "repo": "agentic-commerce-lab/pawl",
-    "branch": "main",
-    "language": "Python",
-    "description": "Registry-as-ground-truth verification & autonomous research framework for agent-driven development."
-  },
-  {
-    "repo": "swc-project/swc",
+    "repo": "esp-rs/esp-idf-hal",
     "branch": "main",
     "language": "Rust",
-    "description": "Rust-based platform for the Web"
+    "description": "embedded-hal implementation for Rust on ESP32 and ESP-IDF"
   },
   {
-    "repo": "ronaldo-avalos/Maya",
-    "branch": "main",
-    "language": "Swift",
-    "description": "🖥️ 📱 ▶️ Wrap your iPhone screen recordings in a beautiful device frame, add cinematic zoom moments, and export ready-to-share videos."
-  },
-  {
-    "repo": "tor-browsers/tor-browser",
-    "branch": "main",
-    "language": "C#",
-    "description": "tor browser download official onion dark web privacy security anonymous vpn unblock windows 11 android apk latest version 2026 free setup guide fix"
-  },
-  {
-    "repo": "Houseofmvps/codesight",
+    "repo": "vercel-labs/webreel",
     "branch": "main",
     "language": "TypeScript",
-    "description": "Universal AI context generator. Saves thousands of tokens per conversation in Claude Code, Cursor, Copilot, Codex, and more."
+    "description": "Record scripted browser demos as video"
   },
   {
-    "repo": "scrapy/scrapy",
-    "branch": "master",
-    "language": "Python",
-    "description": "Scrapy, a fast high-level web crawling & scraping framework for Python."
+    "repo": "ethanjyx/OpenBrand",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Extract brand assets (logos, colors, backdrops) from any website; open source alternative to Brand.dev"
   },
   {
-    "repo": "AOROM/paperreading",
+    "repo": "timhartmann7/omnyssh",
+    "branch": "main",
+    "language": "Rust",
+    "description": "A fast, keyboard-driven TUI for managing SSH connections, written in Rust"
+  },
+  {
+    "repo": "keephq/keep",
     "branch": "main",
     "language": "Python",
-    "description": "Evidence-grounded AI research workflow for traceable claims, explicit uncertainty, causal-language checks, and reviewable JSON, Markdown, and Excel exports."
+    "description": "The open-source AIOps and alert management platform"
+  },
+  {
+    "repo": "HELPMEEADICE/doge-code",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Claude Code 的一个 Fork。不是官方正史，而是平行世界番外篇；不是萌豚整活仓库，而是“认真修、顺手发癫一点点”的工程分支。"
+  },
+  {
+    "repo": "Zyora-Dev/zse",
+    "branch": "main",
+    "language": "Python",
+    "description": "Zyora Server Inference Engine for LLM ."
+  },
+  {
+    "repo": "oaker-io/wewrite",
+    "branch": "main",
+    "language": "Python",
+    "description": "公众号文章全流程 AI Skill for Claude Code — 热点抓取 → 选题 → 写作 → SEO → 视觉AI → 排版 → 微信草稿箱"
+  },
+  {
+    "repo": "hexiecs/talk-normal",
+    "branch": "main",
+    "language": "Shell",
+    "description": "Make any LLM talk like a normal person. A system prompt that removes AI slop."
+  },
+  {
+    "repo": "avaco-cloud/Vercel-XHTTP",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "XHTTP relay for Xray/V2Ray on Vercel Edge — Complete Persian setup guide. Hide your origin server IP behind *.vercel.app"
+  },
+  {
+    "repo": "great-expectations/great_expectations",
+    "branch": "develop",
+    "language": "Python",
+    "description": "Always know what to expect from your data."
+  },
+  {
+    "repo": "dsd2077/CyberVerse",
+    "branch": "main",
+    "language": "Python",
+    "description": "CyberVerse is an open-source digital human agent platform with real-time video calling. Create an AI agent you can see and talk to, face to face, just like a video call."
+  },
+  {
+    "repo": "vuciv/artblock",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "Every ad on the internet, replaced with fine art from public museum and NASA collections."
+  },
+  {
+    "repo": "excalidraw/excalidraw",
+    "branch": "master",
+    "language": "TypeScript",
+    "description": "Virtual whiteboard for sketching hand-drawn like diagrams"
+  },
+  {
+    "repo": "tamagui/tamagui",
+    "branch": "master",
+    "language": "TypeScript",
+    "description": "Style React fast with 100% parity on React Native, an optional UI kit, and optimizing compiler."
+  },
+  {
+    "repo": "est-labs/polymarket-arbitrage-bot",
+    "branch": "master",
+    "language": "TypeScript",
+    "description": "polymarket arbitrage trading bot polymarket arbitrage trading bot polymarket arbitrage trading bot polymarket arbitrage trading bot polymarket arbitrage trading bot polymarket arbitrage trading bot polymarket arbitrage trading bot polymarket arbitrage trading bot polymarket arbitrage trading bot polymarket arbitrage trading bot polymarket arbitrage"
+  },
+  {
+    "repo": "m-schuetz/CuRast",
+    "branch": "main",
+    "language": "C++",
+    "description": "Cuda-Based Software Rasterization for Billions of Triangles"
   }
 ]
