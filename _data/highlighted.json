@@ -1,8 +1,8 @@
 {
-  "repo": "ANDRETRIPOL/OpenGhost",
+  "repo": "disler/ten-levels-of-jev",
   "branch": "main",
-  "language": "JavaScript",
-  "description": "Open desktop agent for Windows, macOS and Linux",
-  "stars": 134,
-  "forks": 13
+  "language": "TypeScript",
+  "description": "Ten levels of Jev, from one smart if statement to a coding agent that reaches for Jev on its own",
+  "stars": 140,
+  "forks": 44
 }
