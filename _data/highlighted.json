@@ -1,8 +1,8 @@
 {
-  "repo": "theNetworkChuck/paperclip-guide",
+  "repo": "alpcanaydin/tusk",
   "branch": "main",
-  "language": "TypeScript",
-  "description": "Companion guide for the NetworkChuck Paperclip video: install Paperclip and build an AI IT department. Every step tested on Paperclip 2026.916.1.",
-  "stars": 130,
-  "forks": 18
+  "language": "Rust",
+  "description": "A fast, native, keyboard-driven database client for macOS. 20 databases, an AI assistant that shows its work, free and open source.",
+  "stars": 156,
+  "forks": 9
 }

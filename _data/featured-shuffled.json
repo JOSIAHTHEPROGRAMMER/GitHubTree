@@ -1,146 +1,146 @@
 [
   {
-    "repo": "majidmanzarpour/threejs-game-skills",
+    "repo": "eternityspring/reelbench-skills",
+    "branch": "main",
+    "language": "HTML",
+    "description": "Learning notes and tooling skills for AI video - AI 视频相关的学习与工具 skill"
+  },
+  {
+    "repo": "opengram-server/opengram",
+    "branch": "main",
+    "language": "C#",
+    "description": ""
+  },
+  {
+    "repo": "3641397194-wq/gpt5.6-claude-grok4.6-deepseekv4pro",
     "branch": "main",
     "language": "Python",
-    "description": "Agent skills for building playable, polished Three.js browser games with gameplay, AAA-style graphics, UI, QA, and optional AI-generated 3D, image, and audio assets."
+    "description": "冷咖啡 ColdBrew 四合一破甲正式版 — GPT-5.6 / Claude / Grok 4.6 / DeepSeek v4 Pro 一键部署 · 启动 · 恢复 · 打包发布 | QQ 群 1057540028 / 1077074552"
   },
   {
-    "repo": "elastic/logstash",
+    "repo": "duolahypercho/codex-router",
     "branch": "main",
-    "language": "Java",
-    "description": "Logstash - transport and process your logs, events, or other data"
+    "language": "JavaScript",
+    "description": "External-model router for Codex with guided Kimi OAuth/API, DeepSeek, safe migration, and rollback."
   },
   {
-    "repo": "angular/angular",
+    "repo": "Iwanian/Iwana-Proxy",
+    "branch": "main",
+    "language": "Kotlin",
+    "description": "for telegram"
+  },
+  {
+    "repo": "lapce/lapce",
+    "branch": "master",
+    "language": "Rust",
+    "description": "Lightning-fast and Powerful Code Editor written in Rust"
+  },
+  {
+    "repo": "fuma-nama/fumadocs",
     "branch": "main",
     "language": "TypeScript",
-    "description": "Deliver web apps with confidence 🚀"
+    "description": "The beautiful & flexible React.js docs framework."
   },
   {
-    "repo": "freeCodeCamp/freeCodeCamp",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free."
-  },
-  {
-    "repo": "prof-oguzergin/bilgisayar-mimarisi",
-    "branch": "main",
-    "language": "TeX",
-    "description": "Bilgisayar Mimarisi: RISC-V Tabanlı Yaklaşım — Açık kaynak Türkçe ders kitabı (CC BY-NC-ND 4.0)"
-  },
-  {
-    "repo": "bigcode-project/starcoder",
+    "repo": "pallets/flask",
     "branch": "main",
     "language": "Python",
-    "description": "Home of StarCoder: fine-tuning & inference!"
+    "description": "The Python micro framework for building web applications."
   },
   {
-    "repo": "faker-js/faker",
+    "repo": "0xwilliamortiz/ponytail-improved",
     "branch": "main",
-    "language": "TypeScript",
-    "description": "Generate massive amounts of fake data in the browser and node.js"
+    "language": "JavaScript",
+    "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote."
   },
   {
-    "repo": "github/gitignore",
+    "repo": "NVIDIA/cuda-python",
     "branch": "main",
-    "language": "Other",
-    "description": "A collection of useful .gitignore templates"
+    "language": "Cython",
+    "description": "CUDA Python: Performance meets Productivity"
   },
   {
-    "repo": "alebcay/awesome-shell",
-    "branch": "master",
-    "language": "Other",
-    "description": "A curated list of awesome command-line frameworks, toolkits, guides and gizmos. Inspired by awesome-php."
-  },
-  {
-    "repo": "zaproxy/zaproxy",
-    "branch": "main",
-    "language": "Java",
-    "description": "The ZAP by Checkmarx Core project"
-  },
-  {
-    "repo": "total-typescript/ts-reset",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "A 'CSS reset' for TypeScript, improving types for common JavaScript API's"
-  },
-  {
-    "repo": "pytube/pytube",
-    "branch": "master",
-    "language": "Python",
-    "description": "A lightweight, dependency-free Python library (and command-line utility) for downloading YouTube Videos."
-  },
-  {
-    "repo": "TanStack/table",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "🤖 Headless UI for building powerful tables & datagrids for TS/JS -  React-Table, Vue-Table, Solid-Table, Svelte-Table"
-  },
-  {
-    "repo": "projectdiscovery/nuclei",
-    "branch": "master",
-    "language": "Go",
-    "description": "Nuclei is a fast, customizable vulnerability scanner powered by the global security community and built on a simple YAML-based DSL, enabling collaboration to tackle trending vulnerabilities on the internet. It helps you find vulnerabilities in your applications, APIs, networks, DNS, and cloud configurations."
-  },
-  {
-    "repo": "millionco/react-doctor",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Let coding agents diagnose and fix your React code"
-  },
-  {
-    "repo": "radix-ui/primitives",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Radix Primitives is an open-source UI component library for building high-quality, accessible design systems and web apps. Maintained by @workos."
-  },
-  {
-    "repo": "weaviate/weaviate",
-    "branch": "master",
-    "language": "Go",
-    "description": "Weaviate is an open-source vector database that stores both objects and vectors, allowing for the combination of vector search with structured filtering with the fault tolerance and scalability of a cloud-native database​."
-  },
-  {
-    "repo": "ahmetb/kubectx",
-    "branch": "master",
-    "language": "Go",
-    "description": "Faster way to switch between clusters and namespaces in kubectl"
-  },
-  {
-    "repo": "thedaviddias/Front-End-Checklist",
-    "branch": "master",
-    "language": "Other",
-    "description": "🗂 The perfect Front-End Checklist for modern websites and meticulous developers"
-  },
-  {
-    "repo": "unicodeveloper/globalthreatmap",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Global threat map. Learn wars, conflicts, military bases and history of nations."
-  },
-  {
-    "repo": "sigstore/cosign",
-    "branch": "main",
-    "language": "Go",
-    "description": "Code signing and transparency for containers and binaries"
-  },
-  {
-    "repo": "Dataherald/dataherald",
+    "repo": "alikon-art/DeterminFlow",
     "branch": "main",
     "language": "Python",
-    "description": "Interact with your SQL database, Natural Language to SQL using LLMs"
+    "description": "A production-oriented AI workflow runtime for building, validating, recovering, and shipping complex AI workflows as dependable services. 面向生产的 AI 工作流运行时：快速开发、验证和恢复复杂 AI 工作流，并将其稳定交付为服务。"
   },
   {
-    "repo": "torvalds/linux",
+    "repo": "Zouuup/landrun",
+    "branch": "main",
+    "language": "Go",
+    "description": "Run any Linux process in a secure, unprivileged sandbox using Landlock. Think firejail, but lightweight, user-friendly, and baked into the kernel."
+  },
+  {
+    "repo": "StarKnightt/jungle-trail",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "A fully procedural first-person jungle in Three.js. Zero external art assets - every texture, mesh and sound generated in code."
+  },
+  {
+    "repo": "jesselau76/cigen",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "Interactive root/affix vocabulary memory web app"
+  },
+  {
+    "repo": "MagicSlayerRoute/zapret-discord-youtube",
+    "branch": "main",
+    "language": "PowerShell",
+    "description": ""
+  },
+  {
+    "repo": "claude-mythos5/Claude-Mythos5-AI-Free-desktop",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Claude Mythos 5 AI free desktop app - what is Claude Mythos? Anthropic's restricted AI model released June 9, 2026 for US government Project Glasswing. Claude Fable 5 vs Mythos 5 vs Opus 5 vs GPT 5.6 Sol comparison: same weights, Mythos has cybersecurity capabilities. Download Claude desktop app free, includes Fable 5."
+  },
+  {
+    "repo": "golang/mock",
     "branch": "master",
-    "language": "C",
-    "description": "Linux kernel source tree"
+    "language": "Go",
+    "description": "GoMock is a mocking framework for the Go programming language."
   },
   {
-    "repo": "dandavison/delta",
+    "repo": "agentic-commerce-lab/pawl",
+    "branch": "main",
+    "language": "Python",
+    "description": "Registry-as-ground-truth verification & autonomous research framework for agent-driven development."
+  },
+  {
+    "repo": "swc-project/swc",
     "branch": "main",
     "language": "Rust",
-    "description": "A syntax-highlighting pager for git, diff, grep, and blame output"
+    "description": "Rust-based platform for the Web"
+  },
+  {
+    "repo": "ronaldo-avalos/Maya",
+    "branch": "main",
+    "language": "Swift",
+    "description": "🖥️ 📱 ▶️ Wrap your iPhone screen recordings in a beautiful device frame, add cinematic zoom moments, and export ready-to-share videos."
+  },
+  {
+    "repo": "tor-browsers/tor-browser",
+    "branch": "main",
+    "language": "C#",
+    "description": "tor browser download official onion dark web privacy security anonymous vpn unblock windows 11 android apk latest version 2026 free setup guide fix"
+  },
+  {
+    "repo": "Houseofmvps/codesight",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Universal AI context generator. Saves thousands of tokens per conversation in Claude Code, Cursor, Copilot, Codex, and more."
+  },
+  {
+    "repo": "scrapy/scrapy",
+    "branch": "master",
+    "language": "Python",
+    "description": "Scrapy, a fast high-level web crawling & scraping framework for Python."
+  },
+  {
+    "repo": "AOROM/paperreading",
+    "branch": "main",
+    "language": "Python",
+    "description": "Evidence-grounded AI research workflow for traceable claims, explicit uncertainty, causal-language checks, and reviewable JSON, Markdown, and Excel exports."
   }
 ]
