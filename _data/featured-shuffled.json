@@ -1,146 +1,146 @@
 [
   {
-    "repo": "JoinArtisanVent/x-scraper-no-api",
+    "repo": "Orange2019220/ReluPruner",
     "branch": "main",
+    "language": "Python",
+    "description": ""
+  },
+  {
+    "repo": "radix-ui/primitives",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Radix Primitives is an open-source UI component library for building high-quality, accessible design systems and web apps. Maintained by @workos."
+  },
+  {
+    "repo": "zolotukhin/zinc",
+    "branch": "main",
+    "language": "Zig",
+    "description": "Zig INferenCe Engine — LLM inference for AMD RDNA3/RDNA4 GPUs via Vulkan"
+  },
+  {
+    "repo": "gorilla/mux",
+    "branch": "main",
+    "language": "Go",
+    "description": "Package gorilla/mux is a powerful HTTP router and URL matcher for building Go web servers with 🦍"
+  },
+  {
+    "repo": "NatiCha/bunwv",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": ""
+  },
+  {
+    "repo": "TheSashaDev/girl-agent",
+    "branch": "master",
+    "language": "TypeScript",
+    "description": "ИИ-девушка с человеческим поведением: сон, настроение, расписание, память, стадии отношений и конфликты. Userbot mode через MTProto — реагирует, печатает, ставит реакции. Anti-AI промпт убирает ChatGPT-повадки. Не чат-бот — персонаж с состоянием."
+  },
+  {
+    "repo": "hakimel/reveal.js",
+    "branch": "master",
     "language": "JavaScript",
-    "description": "Free, self-hosted X (Twitter) scraper no API key, no credits. Uses your own browser session via Playwright. Export tweets, search results & timelines as LLM-ready JSON/CSV/Markdown. Ships an AI agent Skill for OpenClaw & Hermes."
+    "description": "The HTML Presentation Framework"
   },
   {
-    "repo": "google/or-tools",
-    "branch": "stable",
+    "repo": "yasasbanukaofficial/claude-code",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "🚀 Open source Claude Code CLI source code. Advanced AI Agent for developers. Includes TypeScript codebase for LLM tool-calling, agentic workflows, and terminal UI. Remember this is just the skeleton not the brain itself. Found by Chaofan Shou."
+  },
+  {
+    "repo": "34306/FilzaJailedDS",
+    "branch": "main",
+    "language": "Objective-C",
+    "description": "Filza Jailed Darksword, support iOS 17.0-26.0.1. This repo open source the tweak inject into the Filza iPA (4.0.0 and back, 4.0.2 seems crash something)"
+  },
+  {
+    "repo": "shorwood/slopc",
+    "branch": "main",
+    "language": "Rust",
+    "description": "A proc macro that uses an hallucination machine to write your function bodies at compile time."
+  },
+  {
+    "repo": "JaredStewart/coderlm",
+    "branch": "main",
+    "language": "Rust",
+    "description": "Tree-sitter-powered code indexing server that gives LLM agents precise, on-demand access to symbols, implementations, callers, tests, and grep across multi-language projects - so they explore codebases through targeted queries instead of loading everything into context."
+  },
+  {
+    "repo": "Jafta-September/Diablo-IV-Lord-of-Hatred-PC",
+    "branch": "main",
     "language": "C++",
-    "description": "Google's Operations Research tools:"
+    "description": "Diablo IV Lord of Hatred PC Download April 28 2026 Release Date Warlock Class Build Guide Season of Slaughter Be The Butcher Overwatch 2 Collab Skins Diablo 4 Expansion Early Access US Release Warlock Shadowform Eviscerate Hex Skill Tree Tower Mode Tile Sets Fix Diablo 4 4K 144FPS Windows 11 24H2 Optimization Battle.net Login Error Fix Free"
   },
   {
-    "repo": "cs109/2015",
+    "repo": "aave/aave-v2",
     "branch": "master",
     "language": "Other",
-    "description": "Public material for CS109"
+    "description": "Aave Protocol V2"
   },
   {
-    "repo": "tw93/Kaku",
-    "branch": "main",
-    "language": "Rust",
-    "description": "☄️ A fast, out-of-the-box terminal built for AI coding."
+    "repo": "go-pg/pg",
+    "branch": "master",
+    "language": "Go",
+    "description": "Golang ORM with focus on PostgreSQL features and performance"
   },
   {
-    "repo": "sharbelxyz/x-bookmarks",
+    "repo": "tomascupr/sandstorm",
     "branch": "main",
     "language": "Python",
-    "description": "OpenClaw skill: turn your X bookmarks into agent actions. Stop hoarding. Start applying."
+    "description": "One API call. Full Claude agent. Completely sandboxed."
   },
   {
-    "repo": "CMU-Perceptual-Computing-Lab/openpose",
-    "branch": "master",
-    "language": "C++",
-    "description": "OpenPose: Real-time multi-person keypoint detection library for body, face, hands, and foot estimation"
+    "repo": "ewindmer/polymarket-arbitrage-trading-bot",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "polymarket arbitrage trading bot"
   },
   {
-    "repo": "stepfun-ai/Step-3.5-Flash",
+    "repo": "AIScientists-Dev/loupe",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "A loupe for your proofs. An open-source AI reviewer for scientific papers."
+  },
+  {
+    "repo": "romerzzz/Tomodachi-Life-Living-in-the-Dream-PC-Version",
     "branch": "main",
     "language": "C++",
-    "description": "Fast, Sharp & Reliable Agentic Intelligence"
+    "description": "Tomodachi Life Living in the Dream PC is the  Windows version of the popular life simulation game. Create your own Mii characters, build your dream island, interact with quirky residents, fall in love, solve problems, and enjoy endless daily events"
   },
   {
-    "repo": "lllyasviel/Fooocus",
+    "repo": "LYL1015/JarvisX-Cowork",
     "branch": "main",
     "language": "Python",
-    "description": "Focus on prompting and generating"
+    "description": "JarvisX-Cowork: Your First Personal AI Creative Assistant for Everyone!"
   },
   {
-    "repo": "DaveMoudy/SalesforceDocGen",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "This package contains all the parts and moving pieces needed to run the DocGen app in Salesforce."
-  },
-  {
-    "repo": "SumeLabs/clawra",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Clawra - Openclaw as your girlfriend"
-  },
-  {
-    "repo": "whwh1233/StepFlow-Duck",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "cpa+duck结合体"
-  },
-  {
-    "repo": "microsoft/generative-ai-for-beginners",
-    "branch": "main",
-    "language": "Jupyter Notebook",
-    "description": "21 Lessons, Get Started Building with Generative AI"
-  },
-  {
-    "repo": "openai/triton",
-    "branch": "main",
-    "language": "MLIR",
-    "description": "Development repository for the Triton language and compiler"
-  },
-  {
-    "repo": "vim/vim",
+    "repo": "OpenZeppelin/openzeppelin-contracts",
     "branch": "master",
-    "language": "Vim Script",
-    "description": "The official Vim repository"
+    "language": "Solidity",
+    "description": "OpenZeppelin Contracts is a library for secure smart contract development."
   },
   {
-    "repo": "lcoutodemos/clui-cc",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Clui CC — Command Line User Interface for Claude Code"
-  },
-  {
-    "repo": "fastclaw-ai/weclaw",
-    "branch": "main",
-    "language": "Go",
-    "description": "Connect to any agents with WeChat ClawBot."
-  },
-  {
-    "repo": "marswaveai/TypeNo",
-    "branch": "main",
-    "language": "Swift",
-    "description": "A free, open source, privacy-first voice input app for macOS."
-  },
-  {
-    "repo": "samuelfaj/distill",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Distill large CLI outputs into small answers for LLMs and save tokens!"
-  },
-  {
-    "repo": "facebook/docusaurus",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Easy to maintain open source documentation websites."
-  },
-  {
-    "repo": "prometheus-operator/prometheus-operator",
-    "branch": "main",
-    "language": "Go",
-    "description": "Prometheus Operator creates/configures/manages Prometheus clusters atop Kubernetes"
-  },
-  {
-    "repo": "Y-Peng-Dev/Watchdog",
+    "repo": "tmux/tmux",
     "branch": "master",
-    "language": "C#",
-    "description": "Watchdog for Grasshopper Prevent Rhino & Grasshopper from freezing due to accidental massive computations or cascading calculation chains."
+    "language": "C",
+    "description": "tmux source code"
   },
   {
-    "repo": "vsouza/awesome-ios",
-    "branch": "master",
-    "language": "Swift",
-    "description": "A curated list of awesome iOS ecosystem, including Objective-C and Swift Projects"
-  },
-  {
-    "repo": "yologdev/yoyo-evolve",
-    "branch": "main",
-    "language": "Rust",
-    "description": "A coding agent that evolves itself. One commit per day."
-  },
-  {
-    "repo": "btahir/react-kino",
+    "repo": "zhangbo2008/claude_code_annotated",
     "branch": "main",
     "language": "TypeScript",
-    "description": "Cinematic scroll-driven storytelling for React"
+    "description": "claudecode泄露部分的代码解析"
+  },
+  {
+    "repo": "WeianMao/triattention",
+    "branch": "main",
+    "language": "Python",
+    "description": "TriAttention — Efficient long reasoning with trigonometric KV cache compression. Enables OpenClaw local deployment on memory-constrained GPUs."
+  },
+  {
+    "repo": "CodMughees/envradar",
+    "branch": "main",
+    "language": "Python",
+    "description": "Catch undocumented, unused, and drifting environment variables in your repo"
   }
 ]

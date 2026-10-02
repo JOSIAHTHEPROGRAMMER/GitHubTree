@@ -1,8 +1,8 @@
 {
-  "repo": "disler/ten-levels-of-jev",
+  "repo": "Gild-org/gild-contract",
   "branch": "main",
-  "language": "TypeScript",
-  "description": "Ten levels of Jev, from one smart if statement to a coding agent that reaches for Jev on its own",
-  "stars": 140,
-  "forks": 44
+  "language": "Solidity",
+  "description": "A featured project on GitHubTree.",
+  "stars": 123,
+  "forks": 313
 }
