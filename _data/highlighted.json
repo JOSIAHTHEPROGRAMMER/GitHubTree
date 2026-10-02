@@ -1,8 +1,8 @@
 {
-  "repo": "jmedina21/deck-as-controller",
+  "repo": "MiaAI-Lab/Qwen3.8-Flash-Next-Single-DGX-Spark-TensorFold",
   "branch": "main",
-  "language": "Python",
-  "description": "A featured project on GitHubTree.",
-  "stars": 132,
-  "forks": 2
+  "language": "Shell",
+  "description": "Qwen3.8 Flash Next on one DGX Spark (TensorFold)",
+  "stars": 147,
+  "forks": 18
 }

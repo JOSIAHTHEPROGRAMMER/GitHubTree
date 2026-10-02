@@ -1,146 +1,146 @@
 [
   {
-    "repo": "thangchung/awesome-dotnet-core",
-    "branch": "master",
-    "language": "C#",
-    "description": ":honeybee: A collection of awesome .NET core libraries, tools, frameworks and software"
-  },
-  {
-    "repo": "Neverforgetme/DBD-AutoGrind-Trainer-2026-Elite",
+    "repo": "openai/glide-text2im",
     "branch": "main",
     "language": "Python",
-    "description": "Ultimate Dead by Daylight auto-grind trainer Elite edition with Bloodpoint bot, ESP wallhack, aimbot, and full perk/skin unlocker. Dominate the Fog with our 2026 undetected external tool."
+    "description": "GLIDE: a diffusion-based text-conditional image synthesis model"
   },
   {
-    "repo": "apache/spark",
-    "branch": "master",
-    "language": "Scala",
-    "description": "Apache Spark - A unified analytics engine for large-scale data processing"
+    "repo": "uluckyXH/OpenMOSS",
+    "branch": "main",
+    "language": "Python",
+    "description": "A self-organizing multi-agent collaboration platform for OpenClaw. Multiple AI agents work as an autonomous team — planning, executing, reviewing, and patrolling tasks with zero human intervention."
   },
   {
-    "repo": "SamNet-dev/dnstm-setup",
-    "branch": "master",
-    "language": "Shell",
-    "description": "Interactive setup wizard for dnstm — automated DNS-based network configuration"
-  },
-  {
-    "repo": "THU-MAIC/OpenMAIC",
+    "repo": "NeoVertex1/nuggets",
     "branch": "main",
     "language": "TypeScript",
-    "description": "Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning experience in just one click"
+    "description": "First AI assistant with holographic memory"
   },
   {
-    "repo": "kulikov0/whitelist-bypass",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": ""
+    "repo": "torvalds/linux",
+    "branch": "master",
+    "language": "C",
+    "description": "Linux kernel source tree"
   },
   {
-    "repo": "ReconWorldLab/godot-gaussian-splatting",
-    "branch": "main",
-    "language": "GDScript",
-    "description": "[GDGS] A real-time 3D Gaussian Splatting (3DGS) rendering plugin for the Godot Engine. Godot引擎的实时3DGS渲染插件"
-  },
-  {
-    "repo": "Lyy-iiis/pMF",
-    "branch": "main",
-    "language": "Python",
-    "description": "Official Implementation of pMF https://arxiv.org/abs/2601.22158"
-  },
-  {
-    "repo": "skills/introduction-to-github",
-    "branch": "main",
-    "language": "Other",
-    "description": "Get started using GitHub in less than an hour."
-  },
-  {
-    "repo": "vigorX777/product-design-system",
-    "branch": "main",
-    "language": "HTML",
-    "description": "面向产品经理的 AI 辅助产品设计工作框架，可 fork 定制的通用产品设计系统"
-  },
-  {
-    "repo": "babel/babel-preset-env",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "PSA: this repo has been moved into babel/babel -->"
-  },
-  {
-    "repo": "Junyi42/LoGeR",
-    "branch": "main",
-    "language": "Python",
-    "description": "Reimplementation of LoGeR: Long-Context Geometric Reconstruction with Hybrid Memory"
-  },
-  {
-    "repo": "robertorobotics/Nextis-AIRA-3D",
-    "branch": "main",
-    "language": "Python",
-    "description": "Open-source 7DoF 3D-printable robotic arm with LeRobot integration."
-  },
-  {
-    "repo": "ethers-io/ethers.js",
+    "repo": "angular/angular-cli",
     "branch": "main",
     "language": "TypeScript",
-    "description": "Complete Ethereum library and wallet implementation in JavaScript."
+    "description": "CLI tool for Angular"
   },
   {
-    "repo": "JohnRiceML/clawport-ui",
+    "repo": "carlosazaustre/tenacitOS",
     "branch": "main",
     "language": "TypeScript",
-    "description": "Open-source AI agent command center for Claude Code agent teams. Built on OpenClaw."
+    "description": "OpenClaw Mission Control Dashboard"
   },
   {
-    "repo": "deepset-ai/haystack",
+    "repo": "Tencent/tdesign-vue-next",
+    "branch": "develop",
+    "language": "TypeScript",
+    "description": "A Vue3.x UI components lib for TDesign."
+  },
+  {
+    "repo": "LeDat98/NexusRAG",
     "branch": "main",
-    "language": "MDX",
-    "description": "AI orchestration framework to build customizable, production-ready LLM applications. Connect components (models, vector DBs, file converters) to pipelines or agents that can interact with your data. With advanced retrieval methods, it's best suited for building RAG, question answering, semantic search or conversational agent chatbots."
+    "language": "Python",
+    "description": "Hybrid RAG system combining vector search, knowledge graph (LightRAG), and cross-encoder reranking — with Docling document parsing, visual intelligence (image/table captioning), agentic streaming chat, and inline citations. Powered by Gemini or local Ollama models."
   },
   {
-    "repo": "iflytek/skillhub",
+    "repo": "avbiswas/fast-rlm",
     "branch": "main",
-    "language": "Java",
-    "description": "Self-hosted, open-source agent skill registry for enterprises. Publish & version skill packages, govern with RBAC and audit logs, deploy   on-premise with Docker or Kubernetes."
+    "language": "TypeScript",
+    "description": "Recursive Language Models (https://arxiv.org/abs/2512.24601)"
   },
   {
-    "repo": "microsoft/STL",
+    "repo": "fafathops152/Pokemon-Pokopia-For-PC",
     "branch": "main",
     "language": "C++",
-    "description": "MSVC's implementation of the C++ Standard Library."
+    "description": "Pokémon Pokopia For PC 2026 is the complete Windows edition of the beloved creature-collecting adventure game. Explore the beautiful Pokopia region, catch and train unique Pokémon, battle powerful trainers, and become the ultimate Champion. Now fully playable on PC with enhanced graphics, smooth performance"
   },
   {
-    "repo": "vulhunt-re/vulhunt",
+    "repo": "marshmallow-code/marshmallow",
     "branch": "dev",
-    "language": "C++",
-    "description": "Vulnerability detection framework by Binarly's REsearch team"
+    "language": "Python",
+    "description": "A lightweight library for converting complex objects to and from simple Python datatypes."
   },
   {
-    "repo": "fjb040911/ai-rules",
+    "repo": "ReactiveX/RxSwift",
+    "branch": "main",
+    "language": "Swift",
+    "description": "Reactive Programming in Swift"
+  },
+  {
+    "repo": "scikit-learn/scikit-learn",
+    "branch": "main",
+    "language": "Python",
+    "description": "scikit-learn: machine learning in Python"
+  },
+  {
+    "repo": "celery/celery",
+    "branch": "master",
+    "language": "Python",
+    "description": "Distributed Task Queue (development branch)"
+  },
+  {
+    "repo": "mnemox-ai/idea-reality-mcp",
+    "branch": "main",
+    "language": "Python",
+    "description": "MCP server that reality-checks your AI project idea against GitHub, Hacker News, npm, PyPI & Product Hunt. Returns a 0-100 reality signal."
+  },
+  {
+    "repo": "alainnothere/llm-circuit-finder",
+    "branch": "main",
+    "language": "Python",
+    "description": "I replicated Ng's RYS method and found that duplicating 3 specific layers in Qwen2.5-32B boosts reasoning by 17% and duplicating layers 12-14 in Devstral-24B improves logical deduction from 0.22→0.76 on BBH — no training, no weight changes, just routing hidden states through the same circuit twice. Tools included. Two AMD GPUs, one evening."
+  },
+  {
+    "repo": "scipy/scipy",
+    "branch": "main",
+    "language": "Python",
+    "description": "SciPy library main repository"
+  },
+  {
+    "repo": "PCRE2Project/pcre2",
+    "branch": "master",
+    "language": "C",
+    "description": "PCRE2 development is based here."
+  },
+  {
+    "repo": "shareAI-lab/claw0",
+    "branch": "main",
+    "language": "Python",
+    "description": "0 - 1 learn OpenClaw: sections to build an claw-AI agent from scratch"
+  },
+  {
+    "repo": "Tencent/omi",
+    "branch": "master",
+    "language": "TypeScript",
+    "description": "Web Components Framework - Web组件框架"
+  },
+  {
+    "repo": "mgks/GitHubTree",
     "branch": "main",
     "language": "JavaScript",
-    "description": "ai-rules is a governance framework designed to solve Architectural Decay in AI-driven development. It forces AI Agents (Cursor, Windsurf, Copilot) to respect your project's boundaries, UI libraries, and design patterns."
+    "description": "Visualise any GitHub repository folder structure. Available as a web app, CLI tool, and node.js library."
   },
   {
-    "repo": "luckyyyyy/specc.sh",
+    "repo": "kamranahmedse/developer-roadmap",
+    "branch": "master",
+    "language": "TypeScript",
+    "description": "Interactive roadmaps, guides and other educational content to help developers grow in their careers."
+  },
+  {
+    "repo": "ewindmer/polymarket-arbitrage-trading-bot",
     "branch": "main",
     "language": "TypeScript",
-    "description": "Spec Coding beats Vibe Coding. A full-stack AI template for production-grade code."
+    "description": "polymarket arbitrage trading bot"
   },
   {
-    "repo": "jackwener/xhs-cli",
+    "repo": "jgarzik/apython",
     "branch": "main",
-    "language": "Python",
-    "description": "小红书命令行工具 — 搜索、阅读、点赞、收藏、评论，全在终端完成 | Xiaohongshu CLI"
-  },
-  {
-    "repo": "google-research/vision_transformer",
-    "branch": "main",
-    "language": "Jupyter Notebook",
-    "description": "Vision Transformer in JAX."
-  },
-  {
-    "repo": "aiming-lab/AutoResearchClaw",
-    "branch": "main",
-    "language": "Python",
-    "description": "Fully autonomous research from idea to paper. Chat an Idea. Get a Paper. Fully Autonomous. 🦞"
+    "language": "Assembly",
+    "description": "Accelerated Asm Python"
   }
 ]
