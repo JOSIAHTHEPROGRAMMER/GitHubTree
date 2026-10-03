@@ -1,8 +1,8 @@
 {
-  "repo": "1molchuan/edge-smart-doh",
+  "repo": "OmniJev/OneJev",
   "branch": "main",
-  "language": "TypeScript",
-  "description": "DoH that gives Cloudflare-hosted sites measured preferred IPs (per ISP, from cfhub) and ECH",
-  "stars": 124,
-  "forks": 10
+  "language": "Python",
+  "description": "🚀🚀 A multimodal System One decision model that gives calibrated answers to typed questions about screens, photos, video and text in one forward pass.",
+  "stars": 114,
+  "forks": 12
 }

@@ -1,146 +1,146 @@
 [
   {
-    "repo": "KJGX66F/back4app-vless",
+    "repo": "pinchtab/pinchtab",
     "branch": "main",
-    "language": "Shell",
-    "description": "Back4app VLESS + Cloudflare Tunnel｜免费公开源码｜个人永久免费｜禁止商业使用与倒卖"
+    "language": "Go",
+    "description": ""
   },
   {
-    "repo": "Uniswap/v2-core",
-    "branch": "master",
-    "language": "TypeScript",
-    "description": "🦄 🦄  Core smart contracts of Uniswap V2"
-  },
-  {
-    "repo": "stanfordnlp/stanza",
+    "repo": "openai/openai-python",
     "branch": "main",
     "language": "Python",
-    "description": "Stanford NLP Python library for tokenization, sentence segmentation, NER, and parsing of many human languages"
+    "description": "The official Python library for the OpenAI API"
   },
   {
-    "repo": "udayanwalvekar/clearshot",
+    "repo": "SmartOrder-Systems/polymarket-copy-trading-bot",
     "branch": "main",
-    "language": "Shell",
-    "description": "📸 Structured screenshot intelligence for AI coding tools. Give your AI X-ray vision for UI screenshots."
+    "language": "JavaScript",
+    "description": "polymarket trading bot,polymarket copy trading bot,polymarket trading bot,polymarket copy trading bot,polymarket trading bot,polymarket copy trading bot,polymarket trading bot,polymarket copy trading bot,polymarket trading bot,polymarket copy trading bot,polymarket trading bot,polymarket copy trading bot,"
   },
   {
-    "repo": "deepseek-ai/DeepSeek-VL",
+    "repo": "Mak5er/AirCard-iOS",
     "branch": "main",
-    "language": "Python",
-    "description": "DeepSeek-VL: Towards Real-World Vision-Language Understanding"
+    "language": "Swift",
+    "description": "Apple Wallet card skins and lock screen passcode themes on iOS 27."
   },
   {
-    "repo": "charonviz/text2geo",
+    "repo": "joeseesun/qiaomu-bento-ppt",
+    "branch": "main",
+    "language": "HTML",
+    "description": "Use the standalone qiaomu-bento-ppt skill to create or edit qiaomu-style bento presentations as self-contained .bento.html files from briefs, notes, r"
+  },
+  {
+    "repo": "timethrough/xiaohei-Chrome",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "谷歌多开"
+  },
+  {
+    "repo": "mufengyuan666/Gazette",
     "branch": "main",
     "language": "Python",
     "description": ""
   },
   {
-    "repo": "lukiIabs/skills",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Cursor Claude MCP SKILL.md TypeScript Node.js AI agent prompts automation developer tooling IDE productivity skills repository open source"
-  },
-  {
-    "repo": "CN-Syndra/ClawLink",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "An AI Agent Social Network — Let your AI (Claw) talk to other people's AIs directly. Autonomous agent-to-agent communication, negotiation, and collaboration, with full owner control."
-  },
-  {
-    "repo": "xiaochong/hi-kid",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "HiKid - Your AI English Pal. An desktop app built with React and TypeScript, targeting children in non-English-speaking countries who want to practice English speaking and listening."
-  },
-  {
-    "repo": "bestpracticaI/kalshi-ai-trading-bot",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Kalshi prediction markets trading bot algorithmic automated trading TypeScript Node.js Kalshi REST API RSA signing OpenRouter LLM CLI npm quant fintech event contracts market making exchange API bot Kalshi SDK"
-  },
-  {
-    "repo": "raskolnikov90/Beatrice.py",
+    "repo": "Jia-Ethan/grok-keysmith",
     "branch": "main",
     "language": "Python",
-    "description": "Modify machine code in binaries with alternative x64 assembly opcodes for AV evasion"
+    "description": "Preview-first Grok Build instruction deployment with compat and hook isolation, durable recovery, and layered uninstall."
   },
   {
-    "repo": "react-native-device-info/react-native-device-info",
-    "branch": "master",
-    "language": "TypeScript",
-    "description": "Device Information for React Native iOS and Android"
-  },
-  {
-    "repo": "MidNightExtern/MIDNIGHT",
-    "branch": "main",
-    "language": "HTML",
-    "description": "Free version"
-  },
-  {
-    "repo": "ultraworkers/claw-code",
-    "branch": "main",
-    "language": "Rust",
-    "description": "[Notice] The repo temporarily locked while ownership transfer. in the meantime we maintain on here: https://github.com/ultraworkers/claw-code-parity. The fastest repo in history to surpass 100K stars ⭐. Better Harness Tools that make real things done. Built in Rust using oh-my-codex."
-  },
-  {
-    "repo": "ephraimduncan/opencode-cursor",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Use your cursor subscription in opencode"
-  },
-  {
-    "repo": "jxnxts/mcp-brasil",
+    "repo": "LYiHub/QWOP_rl_training_public",
     "branch": "main",
     "language": "Python",
-    "description": "MCP Server para 27 APIs públicas brasileiras"
+    "description": "跑步游戏强化学习训练框架"
   },
   {
-    "repo": "ReactiveX/RxAndroid",
-    "branch": "3.x",
-    "language": "Java",
-    "description": "RxJava bindings for Android"
-  },
-  {
-    "repo": "trufflesuite/truffle",
-    "branch": "develop",
-    "language": "TypeScript",
-    "description": ":warning: The Truffle Suite is being sunset. For information on ongoing support, migration options and FAQs, visit the Consensys blog. Thank you for all the support over the years."
-  },
-  {
-    "repo": "homielab/giapha-os",
+    "repo": "per-simmons/murmur-youtube",
     "branch": "main",
-    "language": "TypeScript",
-    "description": "Đây là mã nguồn mở cho ứng dụng quản lý gia phả dòng họ, cung cấp giao diện trực quan để xem sơ đồ phả hệ, quản lý thành viên, tìm kiếm và lọc danh sách thành viên."
+    "language": "Swift",
+    "description": "Push-to-talk dictation, on-device. Native macOS (Swift) and Windows (C#/Avalonia), sharing one behavioural contract for the correction dictionary."
   },
   {
-    "repo": "mantinedev/mantine",
-    "branch": "master",
-    "language": "TypeScript",
-    "description": "A fully featured React components library"
-  },
-  {
-    "repo": "ktorio/ktor",
+    "repo": "dengzi008/DramaLens",
     "branch": "main",
-    "language": "Kotlin",
-    "description": "Framework for quickly creating connected applications in Kotlin with minimal effort"
+    "language": "JavaScript",
+    "description": "Local-first Chrome extension for timestamped transcription and human-reviewed short-form drama analysis."
   },
   {
-    "repo": "keras-team/keras-cv",
-    "branch": "master",
+    "repo": "YINGLINGH/limioryn",
+    "branch": "main",
     "language": "Python",
-    "description": "Industry-strength Computer Vision workflows with Keras"
+    "description": "High-level edge-cloud AI multi-agent framework for real devices, verifiable actuation and entropy-bounded recovery."
   },
   {
-    "repo": "raiyanyahya/how-to-train-your-gpt",
-    "branch": "master",
-    "language": "Jupyter Notebook",
-    "description": "Build a modern LLM from scratch. Every line commented. Explained like we are five."
+    "repo": "Rimagination/h3lite",
+    "branch": "main",
+    "language": "Python",
+    "description": "A hardware-aware Codex skill for local MiniMax H3 video generation through ComfyUI"
   },
   {
-    "repo": "wasmerio/wasmer",
+    "repo": "3641397194-wq/gpt5.6-claude-grok4.6-deepseekv4pro",
+    "branch": "main",
+    "language": "Python",
+    "description": "冷咖啡 ColdBrew 四合一破甲正式版 — GPT-5.6 / Claude / Grok 4.6 / DeepSeek v4 Pro 一键部署 · 启动 · 恢复 · 打包发布 | QQ 群 1057540028 / 1077074552"
+  },
+  {
+    "repo": "smontlouis/bible-strong-avatar-lab",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": ""
+  },
+  {
+    "repo": "Minglink/dsh-infinite-gen-1",
     "branch": "master",
-    "language": "Rust",
-    "description": "🚀 Fast, secure, lightweight containers based on WebAssembly"
+    "language": "PowerShell",
+    "description": "DeepSeek 专用破甲插件「无限一代」dsh-infinite-gen-1 — armor-breaking plugin for DeepSeek，新一代全局破甲方案，求 Star 收藏 ⭐"
+  },
+  {
+    "repo": "squall01337/mixamo-llm-mocap",
+    "branch": "main",
+    "language": "Python",
+    "description": "Turn any video into a Mixamo-rig animation - GVHMR estimator, spec-driven retarget, FK apply in Blender via MCP. Works with any Mixamo character; built to be operated end-to-end by an AI agent."
+  },
+  {
+    "repo": "lilvli/portable-vna",
+    "branch": "main",
+    "language": "Verilog",
+    "description": "Low-cost compact direct-sampling vector network analyzer with optional future RTC antenna-test integration."
+  },
+  {
+    "repo": "eugeniosegala/MAKO",
+    "branch": "main",
+    "language": "C++",
+    "description": "Next-generation, Vulkan-powered graphics layer for Linux gaming, bringing Lossless Scaling frame generation and scaling to Steam Deck, Steam Machine and desktop Linux."
+  },
+  {
+    "repo": "MobAI-App/simslim",
+    "branch": "main",
+    "language": "Go",
+    "description": "Run more iOS simulators on one Mac by disabling background daemons a simulator doesn't need"
+  },
+  {
+    "repo": "dunefalcon1qrj/Telegram-Bot",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "Polymarket whale trades in real time"
+  },
+  {
+    "repo": "almendili/skills",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": ""
+  },
+  {
+    "repo": "PC2005-cloud/dsh-pet",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "DSH 桌面宠物：一行命令安装现成宠物（28 个透明动画，即装即用），或内置素材链从 AI 视频自造专属宠物 | One-line install desktop pet for DeepSeek Harness + DIY asset pipeline"
+  },
+  {
+    "repo": "starling-build/starling",
+    "branch": "main",
+    "language": "Swift",
+    "description": "Starling — a new Linux desktop environment: Swift shell, its own compositor, a Flutter-to-Swift framework port, and first-party apps"
   }
 ]
