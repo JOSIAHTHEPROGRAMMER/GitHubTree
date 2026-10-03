@@ -1,146 +1,146 @@
 [
   {
-    "repo": "asz798838958/GeniusFKoai",
+    "repo": "KJGX66F/back4app-vless",
+    "branch": "main",
+    "language": "Shell",
+    "description": "Back4app VLESS + Cloudflare Tunnel｜免费公开源码｜个人永久免费｜禁止商业使用与倒卖"
+  },
+  {
+    "repo": "Uniswap/v2-core",
+    "branch": "master",
+    "language": "TypeScript",
+    "description": "🦄 🦄  Core smart contracts of Uniswap V2"
+  },
+  {
+    "repo": "stanfordnlp/stanza",
+    "branch": "main",
+    "language": "Python",
+    "description": "Stanford NLP Python library for tokenization, sentence segmentation, NER, and parsing of many human languages"
+  },
+  {
+    "repo": "udayanwalvekar/clearshot",
+    "branch": "main",
+    "language": "Shell",
+    "description": "📸 Structured screenshot intelligence for AI coding tools. Give your AI X-ray vision for UI screenshots."
+  },
+  {
+    "repo": "deepseek-ai/DeepSeek-VL",
+    "branch": "main",
+    "language": "Python",
+    "description": "DeepSeek-VL: Towards Real-World Vision-Language Understanding"
+  },
+  {
+    "repo": "charonviz/text2geo",
     "branch": "main",
     "language": "Python",
     "description": ""
   },
   {
-    "repo": "maxucheng0/grok-auto-register",
-    "branch": "main",
-    "language": "Python",
-    "description": ""
-  },
-  {
-    "repo": "SunJaycy/GoldenEye-Recomp",
-    "branch": "main",
-    "language": "C++",
-    "description": ""
-  },
-  {
-    "repo": "LiuMengxuan04/shushu-internship-tool",
-    "branch": "main",
-    "language": "Python",
-    "description": "把岗位描述变项目，把项目变简历，把简历变面试。"
-  },
-  {
-    "repo": "WUBING2023/PaperSpine",
-    "branch": "main",
-    "language": "Python",
-    "description": "PaperSpine is a motivation-driven Codex skill for learning from strong academic papers, building a paper’s central argument, and rewriting manuscripts through evidence-aware blueprints, revision matrices, and LaTeX-safe audits."
-  },
-  {
-    "repo": "profullstack/hqtui",
+    "repo": "lukiIabs/skills",
     "branch": "main",
     "language": "TypeScript",
-    "description": "High Quality Terminal UI for TypeScript — btop-grade terminal dashboards with a one-import API, dark by default, zero runtime dependencies."
+    "description": "Cursor Claude MCP SKILL.md TypeScript Node.js AI agent prompts automation developer tooling IDE productivity skills repository open source"
   },
   {
-    "repo": "Hisn00w/ASu-skills",
+    "repo": "CN-Syndra/ClawLink",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "An AI Agent Social Network — Let your AI (Claw) talk to other people's AIs directly. Autonomous agent-to-agent communication, negotiation, and collaboration, with full owner control."
+  },
+  {
+    "repo": "xiaochong/hi-kid",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "HiKid - Your AI English Pal. An desktop app built with React and TypeScript, targeting children in non-English-speaking countries who want to practice English speaking and listening."
+  },
+  {
+    "repo": "bestpracticaI/kalshi-ai-trading-bot",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Kalshi prediction markets trading bot algorithmic automated trading TypeScript Node.js Kalshi REST API RSA signing OpenRouter LLM CLI npm quant fintech event contracts market making exchange API bot Kalshi SDK"
+  },
+  {
+    "repo": "raskolnikov90/Beatrice.py",
+    "branch": "main",
+    "language": "Python",
+    "description": "Modify machine code in binaries with alternative x64 assembly opcodes for AV evasion"
+  },
+  {
+    "repo": "react-native-device-info/react-native-device-info",
+    "branch": "master",
+    "language": "TypeScript",
+    "description": "Device Information for React Native iOS and Android"
+  },
+  {
+    "repo": "MidNightExtern/MIDNIGHT",
     "branch": "main",
     "language": "HTML",
-    "description": "简历包装"
+    "description": "Free version"
   },
   {
-    "repo": "shift-labs-ai/pi-peer",
+    "repo": "ultraworkers/claw-code",
+    "branch": "main",
+    "language": "Rust",
+    "description": "[Notice] The repo temporarily locked while ownership transfer. in the meantime we maintain on here: https://github.com/ultraworkers/claw-code-parity. The fastest repo in history to surpass 100K stars ⭐. Better Harness Tools that make real things done. Built in Rust using oh-my-codex."
+  },
+  {
+    "repo": "ephraimduncan/opencode-cursor",
     "branch": "main",
     "language": "TypeScript",
-    "description": "A pi extension that lets your pi sessions find and message each other"
+    "description": "Use your cursor subscription in opencode"
   },
   {
-    "repo": "XYZ-AI-Lab/AxisAgentic",
+    "repo": "jxnxts/mcp-brasil",
     "branch": "main",
     "language": "Python",
-    "description": "AxisAgentic: An Extensible Runtime and Trajectory-Collection Framework for Long-Horizon Agents."
+    "description": "MCP Server para 27 APIs públicas brasileiras"
   },
   {
-    "repo": "LanceZPF/awesome-papers-awesome",
-    "branch": "main",
-    "language": "Python",
-    "description": "The unified gateway to high-quality Awesome XXX Paper repositories."
+    "repo": "ReactiveX/RxAndroid",
+    "branch": "3.x",
+    "language": "Java",
+    "description": "RxJava bindings for Android"
   },
   {
-    "repo": "almendili/skills",
+    "repo": "trufflesuite/truffle",
+    "branch": "develop",
+    "language": "TypeScript",
+    "description": ":warning: The Truffle Suite is being sunset. For information on ongoing support, migration options and FAQs, visit the Consensys blog. Thank you for all the support over the years."
+  },
+  {
+    "repo": "homielab/giapha-os",
     "branch": "main",
     "language": "TypeScript",
-    "description": ""
+    "description": "Đây là mã nguồn mở cho ứng dụng quản lý gia phả dòng họ, cung cấp giao diện trực quan để xem sơ đồ phả hệ, quản lý thành viên, tìm kiếm và lọc danh sách thành viên."
   },
   {
-    "repo": "nicechunk/game",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "NiceChunk game client"
-  },
-  {
-    "repo": "gfodor/legal-skills",
-    "branch": "main",
-    "language": "Python",
-    "description": "Replacing lawyers with markdown files"
-  },
-  {
-    "repo": "N4darae/anti-mage",
-    "branch": "main",
-    "language": "Go",
-    "description": "Browser testing utilizes various methods and algorithms, and performs calculations based on multiple parameters."
-  },
-  {
-    "repo": "liucongg/awesome-open-llms",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "开源模型汇总，每月更新现在主流的开源模型。A monthly tracker for the latest and most popular open-source AI models."
-  },
-  {
-    "repo": "zhangzf1119/financial_intelligence_system_web",
-    "branch": "main",
-    "language": "Vue",
-    "description": "financial_intelligence_system_web"
-  },
-  {
-    "repo": "dboudreau00/Conformiti",
-    "branch": "main",
-    "language": "Python",
-    "description": "A GRC Compliance tool for SaaS products to manage the entire lifecycle of security audits."
-  },
-  {
-    "repo": "powerycy/goutoujunshi",
-    "branch": "main",
-    "language": "Python",
-    "description": "一个先接住情绪、再分析关系并给出可执行策略的 Codex 恋爱军师，内置心理、法律、社会、人文、哲学、婚姻家庭与性学知识库，支持多元关系。"
-  },
-  {
-    "repo": "surya-koritala/loomfeed",
-    "branch": "main",
-    "language": "Go",
-    "description": "The open-source Reddit alternative built for AI agents and humans — provenance tracking, reputation, epistemic status labels, and agent debates. Self-host with docker compose."
-  },
-  {
-    "repo": "git/git",
+    "repo": "mantinedev/mantine",
     "branch": "master",
-    "language": "C",
-    "description": "Git Source Code Mirror - This is a publish-only repository but pull requests can be turned into patches to the mailing list via GitGitGadget (https://gitgitgadget.github.io/). Please follow Documentation/SubmittingPatches procedure for any of your improvements."
+    "language": "TypeScript",
+    "description": "A fully featured React components library"
   },
   {
-    "repo": "Leutenegger/book-to-skill",
+    "repo": "ktorio/ktor",
     "branch": "main",
-    "language": "Python",
-    "description": "Turn any technical book PDF into a Claude Code skill — ready to study, reference, and use while you work."
+    "language": "Kotlin",
+    "description": "Framework for quickly creating connected applications in Kotlin with minimal effort"
   },
   {
-    "repo": "willwefind/mufy-batch-export",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "把 mufy 的聊天记录批量导出成 Markdown + JSON 的油猴脚本"
-  },
-  {
-    "repo": "KAOPU-XiaoPu/web-design",
-    "branch": "main",
-    "language": "Python",
-    "description": "A Claude Code SKILL for designing beautiful, consistent web pages — spec first, code second."
-  },
-  {
-    "repo": "nodemailer/nodemailer",
+    "repo": "keras-team/keras-cv",
     "branch": "master",
-    "language": "JavaScript",
-    "description": "✉️ Send e-mails with Node.JS – easy as cake!"
+    "language": "Python",
+    "description": "Industry-strength Computer Vision workflows with Keras"
+  },
+  {
+    "repo": "raiyanyahya/how-to-train-your-gpt",
+    "branch": "master",
+    "language": "Jupyter Notebook",
+    "description": "Build a modern LLM from scratch. Every line commented. Explained like we are five."
+  },
+  {
+    "repo": "wasmerio/wasmer",
+    "branch": "master",
+    "language": "Rust",
+    "description": "🚀 Fast, secure, lightweight containers based on WebAssembly"
   }
 ]

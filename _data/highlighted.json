@@ -1,8 +1,8 @@
 {
-  "repo": "oil-oil/oil-ui",
+  "repo": "1molchuan/edge-smart-doh",
   "branch": "main",
-  "language": "Python",
-  "description": "把 AI 的 UI 设计能力推到极限。",
-  "stars": 194,
-  "forks": 6
+  "language": "TypeScript",
+  "description": "DoH that gives Cloudflare-hosted sites measured preferred IPs (per ISP, from cfhub) and ECH",
+  "stars": 124,
+  "forks": 10
 }
