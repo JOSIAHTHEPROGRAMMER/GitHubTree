@@ -1,39 +1,105 @@
 [
   {
-    "repo": "openai/glide-text2im",
+    "repo": "bjarneo/omarchy-workspace-layout",
     "branch": "main",
-    "language": "Python",
-    "description": "GLIDE: a diffusion-based text-conditional image synthesis model"
+    "language": "JavaScript",
+    "description": "Per-workspace tiling ratios for Hyprland, on Omarchy. Drag the dividers and your windows move — 25/50/25, master and stack, thirds, grid. Named layouts, per-workspace assignment, switchable profiles."
   },
   {
-    "repo": "uluckyXH/OpenMOSS",
-    "branch": "main",
-    "language": "Python",
-    "description": "A self-organizing multi-agent collaboration platform for OpenClaw. Multiple AI agents work as an autonomous team — planning, executing, reviewing, and patrolling tasks with zero human intervention."
-  },
-  {
-    "repo": "NeoVertex1/nuggets",
+    "repo": "Shopify/react-native-skia",
     "branch": "main",
     "language": "TypeScript",
-    "description": "First AI assistant with holographic memory"
+    "description": "High-performance React Native Graphics using Skia"
   },
   {
-    "repo": "torvalds/linux",
+    "repo": "rustwasm/wasm-pack",
+    "branch": "master",
+    "language": "Rust",
+    "description": "📦✨ your favorite rust -> wasm workflow tool!"
+  },
+  {
+    "repo": "gluon-framework/gluon",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "A new framework for creating desktop apps from websites, using system installed browsers and NodeJS"
+  },
+  {
+    "repo": "fluent/fluent-bit",
     "branch": "master",
     "language": "C",
-    "description": "Linux kernel source tree"
+    "description": "Fast and Lightweight Logs, Metrics and Traces processor for Linux, BSD, OSX and Windows"
   },
   {
-    "repo": "angular/angular-cli",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "CLI tool for Angular"
+    "repo": "deepchem/deepchem",
+    "branch": "master",
+    "language": "Python",
+    "description": "Democratizing Deep-Learning for Drug Discovery, Quantum Chemistry, Materials Science and Biology"
   },
   {
-    "repo": "carlosazaustre/tenacitOS",
+    "repo": "antonpk1/excalidraw-mcp-app",
     "branch": "main",
     "language": "TypeScript",
-    "description": "OpenClaw Mission Control Dashboard"
+    "description": "Excalidraw MCP App Server — hand-drawn diagrams for Claude"
+  },
+  {
+    "repo": "statsmodels/statsmodels",
+    "branch": "main",
+    "language": "Python",
+    "description": "Statsmodels: statistical modeling and econometrics in Python"
+  },
+  {
+    "repo": "mimurchison/claude-chief-of-staff",
+    "branch": "main",
+    "language": "Shell",
+    "description": "AI Chief of Staff — Your personal AI operating system built on Claude Code"
+  },
+  {
+    "repo": "invertase/react-native-firebase",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "🔥 A well-tested feature-rich modular Firebase implementation for React Native. Supports both iOS & Android platforms for all Firebase services."
+  },
+  {
+    "repo": "grpc/grpc-go",
+    "branch": "master",
+    "language": "Go",
+    "description": "The Go language implementation of gRPC. HTTP/2 based RPC"
+  },
+  {
+    "repo": "sachaa/openbrowserclaw",
+    "branch": "master",
+    "language": "TypeScript",
+    "description": "Browser-native personal AI assistant. Zero infrastructure, the browser is the server."
+  },
+  {
+    "repo": "keras-team/keras-nlp",
+    "branch": "master",
+    "language": "Python",
+    "description": "Pretrained model hub for Keras 3."
+  },
+  {
+    "repo": "erikdarlingdata/PerformanceMonitor",
+    "branch": "main",
+    "language": "C#",
+    "description": "Free, open-source SQL Server performance monitoring. Full Edition (server-installed, 30 collectors) and Lite Edition (standalone, DuckDB). Built-in MCP server for AI integration."
+  },
+  {
+    "repo": "NativeScript/NativeScript",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "⚡ Write Native with TypeScript ✨ Best of all worlds (TypeScript, Swift, Objective C, Kotlin, Java, Dart). Use what you love ❤️ Angular, React, Solid, Svelte, Vue with: iOS (UIKit, SwiftUI), Android (View, Jetpack Compose), Flutter and you name it compatible."
+  },
+  {
+    "repo": "devicekit/DeviceKit",
+    "branch": "master",
+    "language": "Swift",
+    "description": "DeviceKit is a value-type replacement of UIDevice."
+  },
+  {
+    "repo": "nuxt/ui",
+    "branch": "dev",
+    "language": "Vue",
+    "description": "The Intuitive Vue UI Library powered by Reka UI & Tailwind CSS."
   },
   {
     "repo": "Tencent/tdesign-vue-next",
@@ -42,105 +108,39 @@
     "description": "A Vue3.x UI components lib for TDesign."
   },
   {
-    "repo": "LeDat98/NexusRAG",
+    "repo": "TabbyML/tabby",
     "branch": "main",
-    "language": "Python",
-    "description": "Hybrid RAG system combining vector search, knowledge graph (LightRAG), and cross-encoder reranking — with Docling document parsing, visual intelligence (image/table captioning), agentic streaming chat, and inline citations. Powered by Gemini or local Ollama models."
+    "language": "Rust",
+    "description": "Self-hosted AI coding assistant"
   },
   {
-    "repo": "avbiswas/fast-rlm",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Recursive Language Models (https://arxiv.org/abs/2512.24601)"
+    "repo": "ory/kratos",
+    "branch": "master",
+    "language": "Go",
+    "description": "Headless cloud-native authentication and identity management written in Go. Scales to a billion+ users. Replace Homegrown, Auth0, Okta, Firebase with better UX and DX. Passkeys, Social Sign In, OIDC, Magic Link, Multi-Factor Auth, SMS, SAML, TOTP, and more. Runs everywhere, runs best on Ory Network."
   },
   {
-    "repo": "fafathops152/Pokemon-Pokopia-For-PC",
+    "repo": "fermyon/spin",
     "branch": "main",
+    "language": "Rust",
+    "description": "Spin is the open source developer tool for building and running serverless applications powered by WebAssembly."
+  },
+  {
+    "repo": "esp-rs/esp-idf-hal",
+    "branch": "main",
+    "language": "Rust",
+    "description": "embedded-hal implementation for Rust on ESP32 and ESP-IDF"
+  },
+  {
+    "repo": "react-native-video/react-native-video",
+    "branch": "master",
+    "language": "Kotlin",
+    "description": "A <Video /> component for react-native"
+  },
+  {
+    "repo": "firebase/firebase-ios-sdk",
+    "branch": "master",
     "language": "C++",
-    "description": "Pokémon Pokopia For PC 2026 is the complete Windows edition of the beloved creature-collecting adventure game. Explore the beautiful Pokopia region, catch and train unique Pokémon, battle powerful trainers, and become the ultimate Champion. Now fully playable on PC with enhanced graphics, smooth performance"
-  },
-  {
-    "repo": "marshmallow-code/marshmallow",
-    "branch": "dev",
-    "language": "Python",
-    "description": "A lightweight library for converting complex objects to and from simple Python datatypes."
-  },
-  {
-    "repo": "ReactiveX/RxSwift",
-    "branch": "main",
-    "language": "Swift",
-    "description": "Reactive Programming in Swift"
-  },
-  {
-    "repo": "scikit-learn/scikit-learn",
-    "branch": "main",
-    "language": "Python",
-    "description": "scikit-learn: machine learning in Python"
-  },
-  {
-    "repo": "celery/celery",
-    "branch": "master",
-    "language": "Python",
-    "description": "Distributed Task Queue (development branch)"
-  },
-  {
-    "repo": "mnemox-ai/idea-reality-mcp",
-    "branch": "main",
-    "language": "Python",
-    "description": "MCP server that reality-checks your AI project idea against GitHub, Hacker News, npm, PyPI & Product Hunt. Returns a 0-100 reality signal."
-  },
-  {
-    "repo": "alainnothere/llm-circuit-finder",
-    "branch": "main",
-    "language": "Python",
-    "description": "I replicated Ng's RYS method and found that duplicating 3 specific layers in Qwen2.5-32B boosts reasoning by 17% and duplicating layers 12-14 in Devstral-24B improves logical deduction from 0.22→0.76 on BBH — no training, no weight changes, just routing hidden states through the same circuit twice. Tools included. Two AMD GPUs, one evening."
-  },
-  {
-    "repo": "scipy/scipy",
-    "branch": "main",
-    "language": "Python",
-    "description": "SciPy library main repository"
-  },
-  {
-    "repo": "PCRE2Project/pcre2",
-    "branch": "master",
-    "language": "C",
-    "description": "PCRE2 development is based here."
-  },
-  {
-    "repo": "shareAI-lab/claw0",
-    "branch": "main",
-    "language": "Python",
-    "description": "0 - 1 learn OpenClaw: sections to build an claw-AI agent from scratch"
-  },
-  {
-    "repo": "Tencent/omi",
-    "branch": "master",
-    "language": "TypeScript",
-    "description": "Web Components Framework - Web组件框架"
-  },
-  {
-    "repo": "mgks/GitHubTree",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "Visualise any GitHub repository folder structure. Available as a web app, CLI tool, and node.js library."
-  },
-  {
-    "repo": "kamranahmedse/developer-roadmap",
-    "branch": "master",
-    "language": "TypeScript",
-    "description": "Interactive roadmaps, guides and other educational content to help developers grow in their careers."
-  },
-  {
-    "repo": "ewindmer/polymarket-arbitrage-trading-bot",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "polymarket arbitrage trading bot"
-  },
-  {
-    "repo": "jgarzik/apython",
-    "branch": "main",
-    "language": "Assembly",
-    "description": "Accelerated Asm Python"
+    "description": "Firebase SDK for Apple App Development"
   }
 ]
