@@ -1,8 +1,8 @@
 {
-  "repo": "audiocn/ui",
+  "repo": "oil-oil/oil-ui",
   "branch": "main",
-  "language": "TypeScript",
-  "description": "Audio UI components for React, built the shadcn way.",
-  "stars": 105,
+  "language": "Python",
+  "description": "把 AI 的 UI 设计能力推到极限。",
+  "stars": 194,
   "forks": 6
 }

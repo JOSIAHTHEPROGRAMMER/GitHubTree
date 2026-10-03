@@ -1,146 +1,146 @@
 [
   {
-    "repo": "bjarneo/omarchy-workspace-layout",
+    "repo": "asz798838958/GeniusFKoai",
     "branch": "main",
-    "language": "JavaScript",
-    "description": "Per-workspace tiling ratios for Hyprland, on Omarchy. Drag the dividers and your windows move — 25/50/25, master and stack, thirds, grid. Named layouts, per-workspace assignment, switchable profiles."
+    "language": "Python",
+    "description": ""
   },
   {
-    "repo": "Shopify/react-native-skia",
+    "repo": "maxucheng0/grok-auto-register",
+    "branch": "main",
+    "language": "Python",
+    "description": ""
+  },
+  {
+    "repo": "SunJaycy/GoldenEye-Recomp",
+    "branch": "main",
+    "language": "C++",
+    "description": ""
+  },
+  {
+    "repo": "LiuMengxuan04/shushu-internship-tool",
+    "branch": "main",
+    "language": "Python",
+    "description": "把岗位描述变项目，把项目变简历，把简历变面试。"
+  },
+  {
+    "repo": "WUBING2023/PaperSpine",
+    "branch": "main",
+    "language": "Python",
+    "description": "PaperSpine is a motivation-driven Codex skill for learning from strong academic papers, building a paper’s central argument, and rewriting manuscripts through evidence-aware blueprints, revision matrices, and LaTeX-safe audits."
+  },
+  {
+    "repo": "profullstack/hqtui",
     "branch": "main",
     "language": "TypeScript",
-    "description": "High-performance React Native Graphics using Skia"
+    "description": "High Quality Terminal UI for TypeScript — btop-grade terminal dashboards with a one-import API, dark by default, zero runtime dependencies."
   },
   {
-    "repo": "rustwasm/wasm-pack",
-    "branch": "master",
-    "language": "Rust",
-    "description": "📦✨ your favorite rust -> wasm workflow tool!"
+    "repo": "Hisn00w/ASu-skills",
+    "branch": "main",
+    "language": "HTML",
+    "description": "简历包装"
   },
   {
-    "repo": "gluon-framework/gluon",
+    "repo": "shift-labs-ai/pi-peer",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "A pi extension that lets your pi sessions find and message each other"
+  },
+  {
+    "repo": "XYZ-AI-Lab/AxisAgentic",
+    "branch": "main",
+    "language": "Python",
+    "description": "AxisAgentic: An Extensible Runtime and Trajectory-Collection Framework for Long-Horizon Agents."
+  },
+  {
+    "repo": "LanceZPF/awesome-papers-awesome",
+    "branch": "main",
+    "language": "Python",
+    "description": "The unified gateway to high-quality Awesome XXX Paper repositories."
+  },
+  {
+    "repo": "almendili/skills",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": ""
+  },
+  {
+    "repo": "nicechunk/game",
     "branch": "main",
     "language": "JavaScript",
-    "description": "A new framework for creating desktop apps from websites, using system installed browsers and NodeJS"
+    "description": "NiceChunk game client"
   },
   {
-    "repo": "fluent/fluent-bit",
+    "repo": "gfodor/legal-skills",
+    "branch": "main",
+    "language": "Python",
+    "description": "Replacing lawyers with markdown files"
+  },
+  {
+    "repo": "N4darae/anti-mage",
+    "branch": "main",
+    "language": "Go",
+    "description": "Browser testing utilizes various methods and algorithms, and performs calculations based on multiple parameters."
+  },
+  {
+    "repo": "liucongg/awesome-open-llms",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "开源模型汇总，每月更新现在主流的开源模型。A monthly tracker for the latest and most popular open-source AI models."
+  },
+  {
+    "repo": "zhangzf1119/financial_intelligence_system_web",
+    "branch": "main",
+    "language": "Vue",
+    "description": "financial_intelligence_system_web"
+  },
+  {
+    "repo": "dboudreau00/Conformiti",
+    "branch": "main",
+    "language": "Python",
+    "description": "A GRC Compliance tool for SaaS products to manage the entire lifecycle of security audits."
+  },
+  {
+    "repo": "powerycy/goutoujunshi",
+    "branch": "main",
+    "language": "Python",
+    "description": "一个先接住情绪、再分析关系并给出可执行策略的 Codex 恋爱军师，内置心理、法律、社会、人文、哲学、婚姻家庭与性学知识库，支持多元关系。"
+  },
+  {
+    "repo": "surya-koritala/loomfeed",
+    "branch": "main",
+    "language": "Go",
+    "description": "The open-source Reddit alternative built for AI agents and humans — provenance tracking, reputation, epistemic status labels, and agent debates. Self-host with docker compose."
+  },
+  {
+    "repo": "git/git",
     "branch": "master",
     "language": "C",
-    "description": "Fast and Lightweight Logs, Metrics and Traces processor for Linux, BSD, OSX and Windows"
+    "description": "Git Source Code Mirror - This is a publish-only repository but pull requests can be turned into patches to the mailing list via GitGitGadget (https://gitgitgadget.github.io/). Please follow Documentation/SubmittingPatches procedure for any of your improvements."
   },
   {
-    "repo": "deepchem/deepchem",
-    "branch": "master",
-    "language": "Python",
-    "description": "Democratizing Deep-Learning for Drug Discovery, Quantum Chemistry, Materials Science and Biology"
-  },
-  {
-    "repo": "antonpk1/excalidraw-mcp-app",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Excalidraw MCP App Server — hand-drawn diagrams for Claude"
-  },
-  {
-    "repo": "statsmodels/statsmodels",
+    "repo": "Leutenegger/book-to-skill",
     "branch": "main",
     "language": "Python",
-    "description": "Statsmodels: statistical modeling and econometrics in Python"
+    "description": "Turn any technical book PDF into a Claude Code skill — ready to study, reference, and use while you work."
   },
   {
-    "repo": "mimurchison/claude-chief-of-staff",
+    "repo": "willwefind/mufy-batch-export",
     "branch": "main",
-    "language": "Shell",
-    "description": "AI Chief of Staff — Your personal AI operating system built on Claude Code"
+    "language": "JavaScript",
+    "description": "把 mufy 的聊天记录批量导出成 Markdown + JSON 的油猴脚本"
   },
   {
-    "repo": "invertase/react-native-firebase",
+    "repo": "KAOPU-XiaoPu/web-design",
     "branch": "main",
-    "language": "TypeScript",
-    "description": "🔥 A well-tested feature-rich modular Firebase implementation for React Native. Supports both iOS & Android platforms for all Firebase services."
-  },
-  {
-    "repo": "grpc/grpc-go",
-    "branch": "master",
-    "language": "Go",
-    "description": "The Go language implementation of gRPC. HTTP/2 based RPC"
-  },
-  {
-    "repo": "sachaa/openbrowserclaw",
-    "branch": "master",
-    "language": "TypeScript",
-    "description": "Browser-native personal AI assistant. Zero infrastructure, the browser is the server."
-  },
-  {
-    "repo": "keras-team/keras-nlp",
-    "branch": "master",
     "language": "Python",
-    "description": "Pretrained model hub for Keras 3."
+    "description": "A Claude Code SKILL for designing beautiful, consistent web pages — spec first, code second."
   },
   {
-    "repo": "erikdarlingdata/PerformanceMonitor",
-    "branch": "main",
-    "language": "C#",
-    "description": "Free, open-source SQL Server performance monitoring. Full Edition (server-installed, 30 collectors) and Lite Edition (standalone, DuckDB). Built-in MCP server for AI integration."
-  },
-  {
-    "repo": "NativeScript/NativeScript",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "⚡ Write Native with TypeScript ✨ Best of all worlds (TypeScript, Swift, Objective C, Kotlin, Java, Dart). Use what you love ❤️ Angular, React, Solid, Svelte, Vue with: iOS (UIKit, SwiftUI), Android (View, Jetpack Compose), Flutter and you name it compatible."
-  },
-  {
-    "repo": "devicekit/DeviceKit",
+    "repo": "nodemailer/nodemailer",
     "branch": "master",
-    "language": "Swift",
-    "description": "DeviceKit is a value-type replacement of UIDevice."
-  },
-  {
-    "repo": "nuxt/ui",
-    "branch": "dev",
-    "language": "Vue",
-    "description": "The Intuitive Vue UI Library powered by Reka UI & Tailwind CSS."
-  },
-  {
-    "repo": "Tencent/tdesign-vue-next",
-    "branch": "develop",
-    "language": "TypeScript",
-    "description": "A Vue3.x UI components lib for TDesign."
-  },
-  {
-    "repo": "TabbyML/tabby",
-    "branch": "main",
-    "language": "Rust",
-    "description": "Self-hosted AI coding assistant"
-  },
-  {
-    "repo": "ory/kratos",
-    "branch": "master",
-    "language": "Go",
-    "description": "Headless cloud-native authentication and identity management written in Go. Scales to a billion+ users. Replace Homegrown, Auth0, Okta, Firebase with better UX and DX. Passkeys, Social Sign In, OIDC, Magic Link, Multi-Factor Auth, SMS, SAML, TOTP, and more. Runs everywhere, runs best on Ory Network."
-  },
-  {
-    "repo": "fermyon/spin",
-    "branch": "main",
-    "language": "Rust",
-    "description": "Spin is the open source developer tool for building and running serverless applications powered by WebAssembly."
-  },
-  {
-    "repo": "esp-rs/esp-idf-hal",
-    "branch": "main",
-    "language": "Rust",
-    "description": "embedded-hal implementation for Rust on ESP32 and ESP-IDF"
-  },
-  {
-    "repo": "react-native-video/react-native-video",
-    "branch": "master",
-    "language": "Kotlin",
-    "description": "A <Video /> component for react-native"
-  },
-  {
-    "repo": "firebase/firebase-ios-sdk",
-    "branch": "master",
-    "language": "C++",
-    "description": "Firebase SDK for Apple App Development"
+    "language": "JavaScript",
+    "description": "✉️ Send e-mails with Node.JS – easy as cake!"
   }
 ]
