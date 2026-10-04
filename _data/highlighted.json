@@ -1,8 +1,8 @@
 {
-  "repo": "chrissotraidis/bluewake",
+  "repo": "mini-yifan/dsh-orb-cordis",
   "branch": "main",
-  "language": "C",
-  "description": "The Legend of Zelda: The Wind Waker Recompiled. Native for iOS and Windows.",
-  "stars": 114,
-  "forks": 10
+  "language": "TypeScript",
+  "description": "Deepseek Harness悬浮球插件。",
+  "stars": 123,
+  "forks": 12
 }

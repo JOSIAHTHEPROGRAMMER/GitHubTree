@@ -1,146 +1,146 @@
 [
   {
-    "repo": "vulhunt-re/vulhunt",
-    "branch": "dev",
+    "repo": "pedronauck/skills",
+    "branch": "main",
+    "language": "Python",
+    "description": "My personal favorite skills"
+  },
+  {
+    "repo": "maile456/qq-farm-bot",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "基于 Node.js + Vue 3 构建的 QQ 农场自动化工具，支持多账号同时管理，提供 Web 可视化面板，实现种植、收获、偷菜、任务领取、仓库出售等全流程自动化。"
+  },
+  {
+    "repo": "Ryze-AI-Adgent/open-seo-mcp-skills",
+    "branch": "main",
+    "language": "Shell",
+    "description": "Open-source SEO + GEO skills for Claude — keyword research, rank tracking, site audits, backlinks, competitor gaps, AI visibility. Runs on your real Search Console / GA4 / ads data via MCP, with DataForSEO built in. Free, MIT."
+  },
+  {
+    "repo": "yuhuangerdi/InduSecAgent",
+    "branch": "main",
+    "language": "Vue",
+    "description": ""
+  },
+  {
+    "repo": "NulightJens/humanizer-stack",
+    "branch": "main",
+    "language": "Python",
+    "description": "Two-pass pipeline for removing AI writing tells from outward-facing text: a surface pass plus a structural pass grounded in the StoryScope study. Packaged as Claude Code Skills.      Free community: skool.com/jens-ai-community-1306"
+  },
+  {
+    "repo": "mikiarlo3/awesome-growth-hacking-skills",
+    "branch": "main",
+    "language": "Shell",
+    "description": "Find agentic growth hacking skills for Claude, ChatGPT, Manus | by enso.bot"
+  },
+  {
+    "repo": "dimmas893/monorepo-nest-next-starter",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": ""
+  },
+  {
+    "repo": "helloaiden0305/odm_AIDataPlatform_demo",
+    "branch": "main",
+    "language": "Python",
+    "description": "精简版数据中台demo，仅用于个人技术学习分享，不涉及任何商用数据，已处理脱敏。欢迎各位同事交流学习，点点✨。"
+  },
+  {
+    "repo": "TriangleSector/Simple_Checker_2026_new",
+    "branch": "main",
     "language": "C++",
-    "description": "Vulnerability detection framework by Binarly's REsearch team"
+    "description": "Simple Checker - All-in-One Data Validation Tool for Steam, Epic Games, Netflix, and 50+ Services."
   },
   {
-    "repo": "AeternaLabsHQ/pullmd",
+    "repo": "criptogus/HermesOffice",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "HermesOffice — AI-native office suite forked from GenOffice (Apache-2.0), with native Hermes Agent AI"
+  },
+  {
+    "repo": "LB623/no-negative-echo",
+    "branch": "main",
+    "language": "Python",
+    "description": "让 Codex 根据最终结果生成标题、注释、commit 和 PR，减少被否决方案在交付中的残留。"
+  },
+  {
+    "repo": "HezaoHezao/poirot",
+    "branch": "master",
+    "language": "Python",
+    "description": "Poirot is a deep research agent kernel built for those who care about how agents are architected."
+  },
+  {
+    "repo": "imsai-sh/zhuzhiliao",
+    "branch": "main",
+    "language": "HTML",
+    "description": "竹知了 —— 一转就哇哇叫的传统玩具，Web 模拟版。零依赖单文件，真实录音采样，移动端优先。"
+  },
+  {
+    "repo": "HELPMEEADICE/TE-Speed-MiniMaxH3-OSS",
+    "branch": "main",
+    "language": "Python",
+    "description": "MiniMax-H3超级缓存加速插件"
+  },
+  {
+    "repo": "bytec-ai/book-video-factory",
+    "branch": "main",
+    "language": "Python",
+    "description": "通用、可移植的多账号图书短视频生产 Skill"
+  },
+  {
+    "repo": "KKKKhazix/human-writing",
+    "branch": "main",
+    "language": "Python",
+    "description": "让 AI 写的中文读起来像一个具体的人在说话。通用创作与改稿 Skill，开箱即用。"
+  },
+  {
+    "repo": "Packets/Vanta",
+    "branch": "main",
+    "language": "Solidity",
+    "description": "A two-faction battle royale. Own what you earn. The $VANTA war begins 2026."
+  },
+  {
+    "repo": "xoreaxeaxeax/asm-hall-of-shame",
+    "branch": "main",
+    "language": "C",
+    "description": "Racing to the bottom of CPU performance"
+  },
+  {
+    "repo": "Liuziyu77/AnythingAtlas",
+    "branch": "main",
+    "language": "Python",
+    "description": "Map the best way into any topic. 规划任何主题的最佳学习路径。"
+  },
+  {
+    "repo": "xisanpi/zuonaar-cinema-simulator",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "按城市和真实座位视角体验 IMAX、杜比及精选巨幕影厅"
+  },
+  {
+    "repo": "ShadowAqueduct/watermark-remover",
+    "branch": "main",
+    "language": "Python",
+    "description": "Purge multi-vendor AI watermarks: clean Unicode text, apply statistical rewrite hooks, and clear C2PA plus metadata from PNG, JPEG, SVG, PDF, DOCX, HTML, and MD."
+  },
+  {
+    "repo": "Devin-AXIS/deepseek-design",
     "branch": "main",
     "language": "JavaScript",
-    "description": "Self-hosted URL-to-Markdown service for humans and AI agents. PWA + REST + MCP + Claude Code skill, with Reddit support and refreshable share links."
+    "description": "DeepSeek Harness 可编辑设计系统：AI 生成、可视化编辑、模板市场与 PPT｜Native Design & PPT Studio for DeepSeek Harness."
   },
   {
-    "repo": "steipete/discrawl",
+    "repo": "bennjordan/Wavest",
     "branch": "main",
-    "language": "Go",
-    "description": "cli for discord with sqlite backend"
-  },
-  {
-    "repo": "tqmane/gunshot",
-    "branch": "main",
-    "language": "Objective-C",
-    "description": "Google Photo tweak"
-  },
-  {
-    "repo": "dateutil/dateutil",
-    "branch": "master",
-    "language": "Python",
-    "description": "Useful extensions to the standard Python datetime features"
-  },
-  {
-    "repo": "facebookresearch/fairseq",
-    "branch": "main",
-    "language": "Python",
-    "description": "Facebook AI Research Sequence-to-Sequence Toolkit written in Python."
-  },
-  {
-    "repo": "jackwener/xhs-cli",
-    "branch": "main",
-    "language": "Python",
-    "description": "小红书命令行工具 — 搜索、阅读、点赞、收藏、评论，全在终端完成 | Xiaohongshu CLI"
-  },
-  {
-    "repo": "webpack-contrib/css-loader",
-    "branch": "master",
     "language": "JavaScript",
-    "description": "CSS Loader"
+    "description": "A mobile-friendly web-based ultrasonic communicator that supports callsigns and encryption."
   },
   {
-    "repo": "cli/cli",
-    "branch": "trunk",
-    "language": "Go",
-    "description": "GitHub’s official command line tool"
-  },
-  {
-    "repo": "google/guava",
-    "branch": "master",
-    "language": "Java",
-    "description": "Google core libraries for Java"
-  },
-  {
-    "repo": "istio/istio",
-    "branch": "master",
-    "language": "Go",
-    "description": "Connect, secure, control, and observe services."
-  },
-  {
-    "repo": "Windy3f3f3f3f/claude-code-from-scratch",
+    "repo": "iamlukethedev/Hermes3D",
     "branch": "main",
     "language": "TypeScript",
-    "description": "Build your own coding agent from scratch in ~1300 lines of TypeScript. / 从零构建你自己的 Claude Code，~1300 行代码，分步教程"
-  },
-  {
-    "repo": "dev-protocol/polymarket-arbitrage-bot",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Polymarket arbitrage bot || Dump Hedge Strategy || detect arbitrage opportunity between UP & Down token prices movement - RTDS based strategical Bot"
-  },
-  {
-    "repo": "FortAwesome/Font-Awesome",
-    "branch": "6.x",
-    "language": "JavaScript",
-    "description": "The iconic SVG, font, and CSS toolkit"
-  },
-  {
-    "repo": "github/docs",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "The open-source repo for docs.github.com"
-  },
-  {
-    "repo": "Lab-Overflow/prompt-optimizer-lite",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": ""
-  },
-  {
-    "repo": "dashkit-protocol/polymarket-arbitrage-bot",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "polymarket arbitrage bot, polymarket arbitrage bot, polymarket arbitrage bot, polymarket arbitrage bot, polymarket arbitrage bot, polymarket arbitrage bot, polymarket arbitrage bot, polymarket arbitrage bot, polymarket arbitrage bot, polymarket arbitrage bot, polymarket arbitrage bot, polymarket arbitrage bot, polymarket arbitrage bot"
-  },
-  {
-    "repo": "adamlyttleapps/notchy",
-    "branch": "main",
-    "language": "Swift",
-    "description": ""
-  },
-  {
-    "repo": "milla-jovovich/mempalace",
-    "branch": "main",
-    "language": "Python",
-    "description": "The highest-scoring AI memory system ever benchmarked. And it's free."
-  },
-  {
-    "repo": "trailofbits/CoBRA",
-    "branch": "master",
-    "language": "C++",
-    "description": "Coefficient-Based Reconstruction of Arithmetic — a Mixed Boolean-Arithmetic (MBA) expression simplifier for deobfuscation"
-  },
-  {
-    "repo": "nclamvn/Viet-ERP",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "VietERP Platform — Open-source ERP for Vietnamese enterprises"
-  },
-  {
-    "repo": "google-research/google-research",
-    "branch": "master",
-    "language": "Jupyter Notebook",
-    "description": "Google Research"
-  },
-  {
-    "repo": "fish-shell/fish-shell",
-    "branch": "master",
-    "language": "Rust",
-    "description": "The user-friendly command line shell."
-  },
-  {
-    "repo": "dogadmin/ProcIR",
-    "branch": "main",
-    "language": "Go",
-    "description": ""
+    "description": "Hermes3D is an open source 3D engine built on Hermes Agents for creating games, simulations, and high-performance 3D applications."
   }
 ]
