@@ -1,146 +1,146 @@
 [
   {
-    "repo": "pedronauck/skills",
+    "repo": "quarqlabs/agent-oss",
     "branch": "main",
     "language": "Python",
-    "description": "My personal favorite skills"
+    "description": "A recursive evidence-gated cognitive runtime for memory-native AI agents, combining hybrid retrieval, temporal reasoning, async learning, and plug-and-play tools."
   },
   {
-    "repo": "maile456/qq-farm-bot",
+    "repo": "spring-projects/spring-framework",
     "branch": "main",
-    "language": "JavaScript",
-    "description": "基于 Node.js + Vue 3 构建的 QQ 农场自动化工具，支持多账号同时管理，提供 Web 可视化面板，实现种植、收获、偷菜、任务领取、仓库出售等全流程自动化。"
+    "language": "Java",
+    "description": "Spring Framework"
   },
   {
-    "repo": "Ryze-AI-Adgent/open-seo-mcp-skills",
+    "repo": "mosaxiv/picoclaw",
     "branch": "main",
-    "language": "Shell",
-    "description": "Open-source SEO + GEO skills for Claude — keyword research, rank tracking, site audits, backlinks, competitor gaps, AI visibility. Runs on your real Search Console / GA4 / ads data via MCP, with DataForSEO built in. Free, MIT."
+    "language": "Go",
+    "description": "Lightweight Personal AI Assistant (Single Binary, Simple Setup)"
   },
   {
-    "repo": "yuhuangerdi/InduSecAgent",
+    "repo": "kubeedge/kubeedge",
+    "branch": "master",
+    "language": "Go",
+    "description": "Kubernetes Native Edge Computing Framework (project under CNCF)"
+  },
+  {
+    "repo": "amirmushichge/tribeV2_ViralAnalyser",
     "branch": "main",
-    "language": "Vue",
+    "language": "Python",
     "description": ""
   },
   {
-    "repo": "NulightJens/humanizer-stack",
-    "branch": "main",
-    "language": "Python",
-    "description": "Two-pass pipeline for removing AI writing tells from outward-facing text: a surface pass plus a structural pass grounded in the StoryScope study. Packaged as Claude Code Skills.      Free community: skool.com/jens-ai-community-1306"
+    "repo": "taf2/mdvi",
+    "branch": "master",
+    "language": "Rust",
+    "description": "cli based Markdown viewer"
   },
   {
-    "repo": "mikiarlo3/awesome-growth-hacking-skills",
-    "branch": "main",
-    "language": "Shell",
-    "description": "Find agentic growth hacking skills for Claude, ChatGPT, Manus | by enso.bot"
-  },
-  {
-    "repo": "dimmas893/monorepo-nest-next-starter",
+    "repo": "cita-777/metapi",
     "branch": "main",
     "language": "TypeScript",
+    "description": "把你在各处注册的 New API / One API / OneHub / DoneHub / Veloera / AnyRouter / Sub2API 等站点， 汇聚成 一个 API Key、一个入口，自动发现模型、智能路由、成本最优"
+  },
+  {
+    "repo": "keithnull/TeachYourselfCS-CN",
+    "branch": "master",
+    "language": "Other",
+    "description": "TeachYourselfCS 的中文翻译 |  A Chinese translation of TeachYourselfCS"
+  },
+  {
+    "repo": "jarodise/pdf2epub-paddle",
+    "branch": "main",
+    "language": "Python",
     "description": ""
   },
   {
-    "repo": "helloaiden0305/odm_AIDataPlatform_demo",
+    "repo": "NomaDamas/k-skill",
     "branch": "main",
-    "language": "Python",
-    "description": "精简版数据中台demo，仅用于个人技术学习分享，不涉及任何商用数据，已处理脱敏。欢迎各位同事交流学习，点点✨。"
+    "language": "JavaScript",
+    "description": "한국인을 위한 스킬 모음집 - SRT, KTX, KBO, 카카오톡, 쿠팡, 다나와, 네이버 스토어, 당근, 한글과 컴퓨터 등등..."
   },
   {
-    "repo": "TriangleSector/Simple_Checker_2026_new",
+    "repo": "omnimind-ai/OmniInfer",
     "branch": "main",
     "language": "C++",
-    "description": "Simple Checker - All-in-One Data Validation Tool for Steam, Epic Games, Netflix, and 50+ Services."
+    "description": "Cross-platform LLM inference framework for efficient edge deployment"
   },
   {
-    "repo": "criptogus/HermesOffice",
+    "repo": "AlmogBaku/debug-skill",
+    "branch": "master",
+    "language": "Go",
+    "description": ""
+  },
+  {
+    "repo": "CapeAga/bai-it",
     "branch": "main",
     "language": "TypeScript",
-    "description": "HermesOffice — AI-native office suite forked from GenOffice (Apache-2.0), with native Hermes Agent AI"
+    "description": "掰it — Chrome extension for English reading comprehension. Break long sentences into chunks, learn vocabulary in context."
   },
   {
-    "repo": "LB623/no-negative-echo",
+    "repo": "MoyangLi00/DROID-W",
     "branch": "main",
     "language": "Python",
-    "description": "让 Codex 根据最终结果生成标题、注释、commit 和 PR，减少被否决方案在交付中的残留。"
+    "description": "[CVPR 2026] DROID-SLAM in the Wild"
   },
   {
-    "repo": "HezaoHezao/poirot",
-    "branch": "master",
-    "language": "Python",
-    "description": "Poirot is a deep research agent kernel built for those who care about how agents are architected."
-  },
-  {
-    "repo": "imsai-sh/zhuzhiliao",
+    "repo": "NOBB2333/ClipCascade_go",
     "branch": "main",
-    "language": "HTML",
-    "description": "竹知了 —— 一转就哇哇叫的传统玩具，Web 模拟版。零依赖单文件，真实录音采样，移动端优先。"
+    "language": "Go",
+    "description": "ClipCascade go语言重制版"
   },
   {
-    "repo": "HELPMEEADICE/TE-Speed-MiniMaxH3-OSS",
+    "repo": "rainzz-512/Mewgenics-Chinese-Translation",
     "branch": "main",
     "language": "Python",
-    "description": "MiniMax-H3超级缓存加速插件"
+    "description": ""
   },
   {
-    "repo": "bytec-ai/book-video-factory",
-    "branch": "main",
-    "language": "Python",
-    "description": "通用、可移植的多账号图书短视频生产 Skill"
-  },
-  {
-    "repo": "KKKKhazix/human-writing",
-    "branch": "main",
-    "language": "Python",
-    "description": "让 AI 写的中文读起来像一个具体的人在说话。通用创作与改稿 Skill，开箱即用。"
-  },
-  {
-    "repo": "Packets/Vanta",
-    "branch": "main",
-    "language": "Solidity",
-    "description": "A two-faction battle royale. Own what you earn. The $VANTA war begins 2026."
-  },
-  {
-    "repo": "xoreaxeaxeax/asm-hall-of-shame",
+    "repo": "hicode002/qualcomm_gbl_exploit_poc",
     "branch": "main",
     "language": "C",
-    "description": "Racing to the bottom of CPU performance"
+    "description": "Unlocking qualcomm bootloader via gbl exploit."
   },
   {
-    "repo": "Liuziyu77/AnythingAtlas",
+    "repo": "adamlyttleapps/notchy",
+    "branch": "main",
+    "language": "Swift",
+    "description": ""
+  },
+  {
+    "repo": "coleam00/excalidraw-diagram-skill",
     "branch": "main",
     "language": "Python",
-    "description": "Map the best way into any topic. 规划任何主题的最佳学习路径。"
+    "description": "Skill to give Claude Code (and any coding agent) the ability to generate beautiful and practical Excalidraw diagrams."
   },
   {
-    "repo": "xisanpi/zuonaar-cinema-simulator",
+    "repo": "nashsu/opencli-rs",
+    "branch": "main",
+    "language": "Rust",
+    "description": "Opencli-rs is a  Blazing fast, memory-safe command-line tool — Fetch information from any website with a single command. Covers Twitter/X, Reddit, YouTube, HackerNews, Bilibili, Zhihu, Xiaohongshu, and 55+ sites, with support for controlling Electron desktop apps, integrating local CLI tools (gh, docker, kubectl)"
+  },
+  {
+    "repo": "Joyi-code/DeepSeekMonitorWindows",
+    "branch": "master",
+    "language": "TypeScript",
+    "description": "Windows desktop monitor for DeepSeek balance and usage, built with Tauri, React and Rust."
+  },
+  {
+    "repo": "fullcalendar/fullcalendar",
     "branch": "main",
     "language": "TypeScript",
-    "description": "按城市和真实座位视角体验 IMAX、杜比及精选巨幕影厅"
+    "description": "Full-sized drag & drop event calendar in JavaScript"
   },
   {
-    "repo": "ShadowAqueduct/watermark-remover",
+    "repo": "sutro-sh/jev-align",
     "branch": "main",
     "language": "Python",
-    "description": "Purge multi-vendor AI watermarks: clean Unicode text, apply statistical rewrite hooks, and clear C2PA plus metadata from PNG, JPEG, SVG, PDF, DOCX, HTML, and MD."
+    "description": "Build calibrated AI classifiers from human feedback using Jev and GEPA."
   },
   {
-    "repo": "Devin-AXIS/deepseek-design",
+    "repo": "DotNetRussell/BloodBash",
     "branch": "main",
-    "language": "JavaScript",
-    "description": "DeepSeek Harness 可编辑设计系统：AI 生成、可视化编辑、模板市场与 PPT｜Native Design & PPT Studio for DeepSeek Harness."
-  },
-  {
-    "repo": "bennjordan/Wavest",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "A mobile-friendly web-based ultrasonic communicator that supports callsigns and encryption."
-  },
-  {
-    "repo": "iamlukethedev/Hermes3D",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Hermes3D is an open source 3D engine built on Hermes Agents for creating games, simulations, and high-performance 3D applications."
+    "language": "Python",
+    "description": "A Bloodhound alternative. BloodBash will ingest the same files bloodhound does but no server is required to use this tool. It's great for quick AD enumeration."
   }
 ]

@@ -1,8 +1,8 @@
 {
-  "repo": "mini-yifan/dsh-orb-cordis",
+  "repo": "Zhangweihui666/silver-tourism-digital-twin",
   "branch": "main",
-  "language": "TypeScript",
-  "description": "Deepseek Harness悬浮球插件。",
-  "stars": 123,
-  "forks": 12
+  "language": "JavaScript",
+  "description": "Semantic digital twin and 500-agent simulation laboratory for age-friendly research in historic districts.",
+  "stars": 135,
+  "forks": 0
 }
