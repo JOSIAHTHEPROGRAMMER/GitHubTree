@@ -1,146 +1,146 @@
 [
   {
-    "repo": "pinchtab/pinchtab",
-    "branch": "main",
-    "language": "Go",
-    "description": ""
-  },
-  {
-    "repo": "openai/openai-python",
-    "branch": "main",
-    "language": "Python",
-    "description": "The official Python library for the OpenAI API"
-  },
-  {
-    "repo": "SmartOrder-Systems/polymarket-copy-trading-bot",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "polymarket trading bot,polymarket copy trading bot,polymarket trading bot,polymarket copy trading bot,polymarket trading bot,polymarket copy trading bot,polymarket trading bot,polymarket copy trading bot,polymarket trading bot,polymarket copy trading bot,polymarket trading bot,polymarket copy trading bot,"
-  },
-  {
-    "repo": "Mak5er/AirCard-iOS",
-    "branch": "main",
-    "language": "Swift",
-    "description": "Apple Wallet card skins and lock screen passcode themes on iOS 27."
-  },
-  {
-    "repo": "joeseesun/qiaomu-bento-ppt",
-    "branch": "main",
-    "language": "HTML",
-    "description": "Use the standalone qiaomu-bento-ppt skill to create or edit qiaomu-style bento presentations as self-contained .bento.html files from briefs, notes, r"
-  },
-  {
-    "repo": "timethrough/xiaohei-Chrome",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "谷歌多开"
-  },
-  {
-    "repo": "mufengyuan666/Gazette",
-    "branch": "main",
-    "language": "Python",
-    "description": ""
-  },
-  {
-    "repo": "Jia-Ethan/grok-keysmith",
-    "branch": "main",
-    "language": "Python",
-    "description": "Preview-first Grok Build instruction deployment with compat and hook isolation, durable recovery, and layered uninstall."
-  },
-  {
-    "repo": "LYiHub/QWOP_rl_training_public",
-    "branch": "main",
-    "language": "Python",
-    "description": "跑步游戏强化学习训练框架"
-  },
-  {
-    "repo": "per-simmons/murmur-youtube",
-    "branch": "main",
-    "language": "Swift",
-    "description": "Push-to-talk dictation, on-device. Native macOS (Swift) and Windows (C#/Avalonia), sharing one behavioural contract for the correction dictionary."
-  },
-  {
-    "repo": "dengzi008/DramaLens",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "Local-first Chrome extension for timestamped transcription and human-reviewed short-form drama analysis."
-  },
-  {
-    "repo": "YINGLINGH/limioryn",
-    "branch": "main",
-    "language": "Python",
-    "description": "High-level edge-cloud AI multi-agent framework for real devices, verifiable actuation and entropy-bounded recovery."
-  },
-  {
-    "repo": "Rimagination/h3lite",
-    "branch": "main",
-    "language": "Python",
-    "description": "A hardware-aware Codex skill for local MiniMax H3 video generation through ComfyUI"
-  },
-  {
-    "repo": "3641397194-wq/gpt5.6-claude-grok4.6-deepseekv4pro",
-    "branch": "main",
-    "language": "Python",
-    "description": "冷咖啡 ColdBrew 四合一破甲正式版 — GPT-5.6 / Claude / Grok 4.6 / DeepSeek v4 Pro 一键部署 · 启动 · 恢复 · 打包发布 | QQ 群 1057540028 / 1077074552"
-  },
-  {
-    "repo": "smontlouis/bible-strong-avatar-lab",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": ""
-  },
-  {
-    "repo": "Minglink/dsh-infinite-gen-1",
-    "branch": "master",
-    "language": "PowerShell",
-    "description": "DeepSeek 专用破甲插件「无限一代」dsh-infinite-gen-1 — armor-breaking plugin for DeepSeek，新一代全局破甲方案，求 Star 收藏 ⭐"
-  },
-  {
-    "repo": "squall01337/mixamo-llm-mocap",
-    "branch": "main",
-    "language": "Python",
-    "description": "Turn any video into a Mixamo-rig animation - GVHMR estimator, spec-driven retarget, FK apply in Blender via MCP. Works with any Mixamo character; built to be operated end-to-end by an AI agent."
-  },
-  {
-    "repo": "lilvli/portable-vna",
-    "branch": "main",
-    "language": "Verilog",
-    "description": "Low-cost compact direct-sampling vector network analyzer with optional future RTC antenna-test integration."
-  },
-  {
-    "repo": "eugeniosegala/MAKO",
-    "branch": "main",
+    "repo": "vulhunt-re/vulhunt",
+    "branch": "dev",
     "language": "C++",
-    "description": "Next-generation, Vulkan-powered graphics layer for Linux gaming, bringing Lossless Scaling frame generation and scaling to Steam Deck, Steam Machine and desktop Linux."
+    "description": "Vulnerability detection framework by Binarly's REsearch team"
   },
   {
-    "repo": "MobAI-App/simslim",
-    "branch": "main",
-    "language": "Go",
-    "description": "Run more iOS simulators on one Mac by disabling background daemons a simulator doesn't need"
-  },
-  {
-    "repo": "dunefalcon1qrj/Telegram-Bot",
+    "repo": "AeternaLabsHQ/pullmd",
     "branch": "main",
     "language": "JavaScript",
-    "description": "Polymarket whale trades in real time"
+    "description": "Self-hosted URL-to-Markdown service for humans and AI agents. PWA + REST + MCP + Claude Code skill, with Reddit support and refreshable share links."
   },
   {
-    "repo": "almendili/skills",
+    "repo": "steipete/discrawl",
+    "branch": "main",
+    "language": "Go",
+    "description": "cli for discord with sqlite backend"
+  },
+  {
+    "repo": "tqmane/gunshot",
+    "branch": "main",
+    "language": "Objective-C",
+    "description": "Google Photo tweak"
+  },
+  {
+    "repo": "dateutil/dateutil",
+    "branch": "master",
+    "language": "Python",
+    "description": "Useful extensions to the standard Python datetime features"
+  },
+  {
+    "repo": "facebookresearch/fairseq",
+    "branch": "main",
+    "language": "Python",
+    "description": "Facebook AI Research Sequence-to-Sequence Toolkit written in Python."
+  },
+  {
+    "repo": "jackwener/xhs-cli",
+    "branch": "main",
+    "language": "Python",
+    "description": "小红书命令行工具 — 搜索、阅读、点赞、收藏、评论，全在终端完成 | Xiaohongshu CLI"
+  },
+  {
+    "repo": "webpack-contrib/css-loader",
+    "branch": "master",
+    "language": "JavaScript",
+    "description": "CSS Loader"
+  },
+  {
+    "repo": "cli/cli",
+    "branch": "trunk",
+    "language": "Go",
+    "description": "GitHub’s official command line tool"
+  },
+  {
+    "repo": "google/guava",
+    "branch": "master",
+    "language": "Java",
+    "description": "Google core libraries for Java"
+  },
+  {
+    "repo": "istio/istio",
+    "branch": "master",
+    "language": "Go",
+    "description": "Connect, secure, control, and observe services."
+  },
+  {
+    "repo": "Windy3f3f3f3f/claude-code-from-scratch",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Build your own coding agent from scratch in ~1300 lines of TypeScript. / 从零构建你自己的 Claude Code，~1300 行代码，分步教程"
+  },
+  {
+    "repo": "dev-protocol/polymarket-arbitrage-bot",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Polymarket arbitrage bot || Dump Hedge Strategy || detect arbitrage opportunity between UP & Down token prices movement - RTDS based strategical Bot"
+  },
+  {
+    "repo": "FortAwesome/Font-Awesome",
+    "branch": "6.x",
+    "language": "JavaScript",
+    "description": "The iconic SVG, font, and CSS toolkit"
+  },
+  {
+    "repo": "github/docs",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "The open-source repo for docs.github.com"
+  },
+  {
+    "repo": "Lab-Overflow/prompt-optimizer-lite",
     "branch": "main",
     "language": "TypeScript",
     "description": ""
   },
   {
-    "repo": "PC2005-cloud/dsh-pet",
+    "repo": "dashkit-protocol/polymarket-arbitrage-bot",
     "branch": "main",
-    "language": "JavaScript",
-    "description": "DSH 桌面宠物：一行命令安装现成宠物（28 个透明动画，即装即用），或内置素材链从 AI 视频自造专属宠物 | One-line install desktop pet for DeepSeek Harness + DIY asset pipeline"
+    "language": "TypeScript",
+    "description": "polymarket arbitrage bot, polymarket arbitrage bot, polymarket arbitrage bot, polymarket arbitrage bot, polymarket arbitrage bot, polymarket arbitrage bot, polymarket arbitrage bot, polymarket arbitrage bot, polymarket arbitrage bot, polymarket arbitrage bot, polymarket arbitrage bot, polymarket arbitrage bot, polymarket arbitrage bot"
   },
   {
-    "repo": "starling-build/starling",
+    "repo": "adamlyttleapps/notchy",
     "branch": "main",
     "language": "Swift",
-    "description": "Starling — a new Linux desktop environment: Swift shell, its own compositor, a Flutter-to-Swift framework port, and first-party apps"
+    "description": ""
+  },
+  {
+    "repo": "milla-jovovich/mempalace",
+    "branch": "main",
+    "language": "Python",
+    "description": "The highest-scoring AI memory system ever benchmarked. And it's free."
+  },
+  {
+    "repo": "trailofbits/CoBRA",
+    "branch": "master",
+    "language": "C++",
+    "description": "Coefficient-Based Reconstruction of Arithmetic — a Mixed Boolean-Arithmetic (MBA) expression simplifier for deobfuscation"
+  },
+  {
+    "repo": "nclamvn/Viet-ERP",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "VietERP Platform — Open-source ERP for Vietnamese enterprises"
+  },
+  {
+    "repo": "google-research/google-research",
+    "branch": "master",
+    "language": "Jupyter Notebook",
+    "description": "Google Research"
+  },
+  {
+    "repo": "fish-shell/fish-shell",
+    "branch": "master",
+    "language": "Rust",
+    "description": "The user-friendly command line shell."
+  },
+  {
+    "repo": "dogadmin/ProcIR",
+    "branch": "main",
+    "language": "Go",
+    "description": ""
   }
 ]

@@ -1,8 +1,8 @@
 {
-  "repo": "OmniJev/OneJev",
+  "repo": "chrissotraidis/bluewake",
   "branch": "main",
-  "language": "Python",
-  "description": "🚀🚀 A multimodal System One decision model that gives calibrated answers to typed questions about screens, photos, video and text in one forward pass.",
+  "language": "C",
+  "description": "The Legend of Zelda: The Wind Waker Recompiled. Native for iOS and Windows.",
   "stars": 114,
-  "forks": 12
+  "forks": 10
 }
