@@ -1,146 +1,146 @@
 [
   {
-    "repo": "codejunkie99/meridian-company-os",
+    "repo": "kydlikebtc/awesome-jev",
     "branch": "main",
-    "language": "TypeScript",
+    "language": "Python",
+    "description": "805 verified examples of Jev — TypeSafe AI's System One decision model — indexed by the decision each one makes, not the blog that mentioned it. Every cited call site is re-read by CI each week. Bilingual EN/中文, JSON schema, and a cross-platform compatibility table."
+  },
+  {
+    "repo": "stellarlinkco/myclaw",
+    "branch": "main",
+    "language": "Go",
     "description": ""
   },
   {
-    "repo": "ziglang/zig",
-    "branch": "master",
-    "language": "Zig",
-    "description": "Moved to Codeberg"
+    "repo": "marswei/seaseed-clawerse",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "Open-source implementation of SeaSeed.ai v1.0 (codename: Clawerse). AI ocean world platform for multi-agent social, tasks and compute collaboration."
   },
   {
-    "repo": "gemini-cli-extensions/ralph",
+    "repo": "agno-agi/dash",
+    "branch": "main",
+    "language": "Python",
+    "description": "Self-learning data agent that grounds its answers in 6 layers of context and improves with every run. Inspired by OpenAI's in-house implementation."
+  },
+  {
+    "repo": "uqogihujomuwhiff/sora2-watermark-cleaner-pro",
+    "branch": "main",
+    "language": "Python",
+    "description": "sora2 watermark cleaner pro"
+  },
+  {
+    "repo": "Robbyant/lingbot-world",
+    "branch": "main",
+    "language": "Python",
+    "description": "Advancing Open-source World Models"
+  },
+  {
+    "repo": "x1xhlol/better-clawd",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Claude Code, but better: better performance, OpenAI/OpenRouter support, no telemetry, no lock-in."
+  },
+  {
+    "repo": "stong/gradscii-art",
+    "branch": "master",
+    "language": "Python",
+    "description": "An extremely good ASCII art generator, based on machine learning"
+  },
+  {
+    "repo": "L1AD/claude-task-viewer",
+    "branch": "main",
+    "language": "HTML",
+    "description": "A web-based Kanban board for viewing Claude Code tasks"
+  },
+  {
+    "repo": "rasbt/mini-coding-agent",
+    "branch": "main",
+    "language": "Python",
+    "description": "Minimal and readable coding agent harness implementation in Python to explain the core components of coding agents."
+  },
+  {
+    "repo": "iamzifei/bookmark-is-learned",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "收藏到就是学到，解决光收藏不看的问题。收藏的当下立刻学习或者丢弃"
+  },
+  {
+    "repo": "skydoves/compose-performance-skills",
     "branch": "main",
     "language": "Shell",
-    "description": "Gemini CLI extension for Ralph loops"
+    "description": "⚡️ A curated library of Agent Skills focused on Jetpack Compose performance."
   },
   {
-    "repo": "ultralytics/ultralytics",
+    "repo": "HMAKT99/UnTouchID",
+    "branch": "main",
+    "language": "Swift",
+    "description": "Use your phone's fingerprint to authenticate on any Mac — sudo, screensaver, App Store. No $199 Magic Keyboard needed. Works with iPhone, Android, Apple Watch, Wear OS, or any browser. Ready for MacBook Neo."
+  },
+  {
+    "repo": "FranckyB/Voice-Clone-Studio",
     "branch": "main",
     "language": "Python",
-    "description": "Ultralytics YOLO 🚀"
+    "description": "A Gradio-based web UI for voice cloning and voice design, powered by Qwen3-TTS & VibeVoice.  Can use Whisper or VibeVoice-ASR for automatic transcription."
   },
   {
-    "repo": "v2fly/v2ray-core",
-    "branch": "master",
-    "language": "Go",
-    "description": "A platform for building proxies to bypass network restrictions."
-  },
-  {
-    "repo": "molefrog/skills",
+    "repo": "antirez/qwen-asr",
     "branch": "main",
-    "language": "TypeScript",
-    "description": "❈ Claude skill for generating high-quality PDFs using react-pdf"
+    "language": "C",
+    "description": "C inference for Qwen3-ASR 0.6b and 1.7b transcriptions models"
   },
   {
-    "repo": "Snaplii-Inc/agent-to-merchant-payments",
+    "repo": "bleuropa/loomkin",
     "branch": "main",
-    "language": "Python",
-    "description": "Payments are broken for AI agents.  Snaplii unlocks real-world commerce with a safe, tokenized payment layer — powered by 500+ merchant gift cards — and is the only one that actually saves you money (up to 10% per transaction), on top of any existing deals or promotions."
+    "language": "Elixir",
+    "description": "An Elixir-native AI coding assistant with persistent decision graphs, repo intelligence, and a Phoenix LiveView UI"
   },
   {
-    "repo": "AndrewVos/endless-toil",
+    "repo": "michelleoincx/Bunkr-Downloader-Python",
     "branch": "main",
-    "language": "Python",
-    "description": "Hear your agent suffer through your code"
-  },
-  {
-    "repo": "falcosecurity/falco",
-    "branch": "master",
-    "language": "C++",
-    "description": "Cloud Native Runtime Security"
-  },
-  {
-    "repo": "microsoft/fast",
-    "branch": "master",
-    "language": "TypeScript",
-    "description": "The adaptive interface system for modern web experiences."
-  },
-  {
-    "repo": "makermate/clarvis-ai",
-    "branch": "main",
-    "language": "Shell",
-    "description": "Clarvis - 3D Printing Made Easy"
-  },
-  {
-    "repo": "WenXiaoWendy/cyberboss",
-    "branch": "main",
-    "language": "JavaScript",
+    "language": "HTML",
     "description": ""
   },
   {
-    "repo": "pointfreeco/swift-composable-architecture",
-    "branch": "main",
-    "language": "Swift",
-    "description": "A library for building applications in a consistent and understandable way, with composition, testing, and ergonomics in mind."
-  },
-  {
-    "repo": "igamez-gamble/sportsbook-sports-betting-crypto",
+    "repo": "777genius/claude-code-source-code-full",
     "branch": "main",
     "language": "TypeScript",
-    "description": "sportsbook sports betting, crypto sportsbook, crypto sports betting, top ranked sportsbook project, world cup, nba, soccor, cricket, esports, crypto sports betting platform, crypto sportsbook project, sportsbook platform, sports betting platform, crypto project, crypto betting"
+    "description": "Full source repository for Claude Code source code"
   },
   {
-    "repo": "avbiswas/fast-rlm",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Recursive Language Models (https://arxiv.org/abs/2512.24601)"
-  },
-  {
-    "repo": "github/docs",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "The open-source repo for docs.github.com"
-  },
-  {
-    "repo": "GreatScott/enject",
+    "repo": "Polymarket/polymarket-cli",
     "branch": "main",
     "language": "Rust",
-    "description": "enject: Hide .env secrets from prAIng eyes: secrets live in local encrypted stores (per project) and are injected directly into apps at runtime, never touching disk as plaintext."
-  },
-  {
-    "repo": "michelleoincx/genspark.ai-openclaw",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "OpenClaw for genspark.ai — open-source extension that claws through every paywall and rate limit. Install in one command, run forever free."
-  },
-  {
-    "repo": "leigest519/OpenGame",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "OpenGame: Open Agentic Coding for Games"
-  },
-  {
-    "repo": "mui/material-ui",
-    "branch": "master",
-    "language": "JavaScript",
-    "description": "Material UI: Comprehensive React component library that implements Google's Material Design. Free forever."
-  },
-  {
-    "repo": "embedding-shapes/one-agent-one-browser",
-    "branch": "master",
-    "language": "Rust",
-    "description": "One from scratch browser built by one human and one agent, working hand in hand"
-  },
-  {
-    "repo": "dnakov/litter",
-    "branch": "main",
-    "language": "Swift",
     "description": ""
   },
   {
-    "repo": "uber-go/zap",
-    "branch": "master",
-    "language": "Go",
-    "description": "Blazing fast, structured, leveled logging in Go."
+    "repo": "skyllwt/OmegaWiki",
+    "branch": "main",
+    "language": "Python",
+    "description": "Karpathy's LLM-Wiki vision, fully realized — wiki-centric full-lifecycle AI research platform powered by Claude Code"
   },
   {
-    "repo": "userland-run/nano",
+    "repo": "win4r/team-tasks",
+    "branch": "master",
+    "language": "Python",
+    "description": "Multi-agent pipeline coordination: Linear, DAG, and Debate modes for AI agent orchestration"
+  },
+  {
+    "repo": "ColeMurray/background-agents",
     "branch": "main",
-    "language": "JavaScript",
-    "description": "nano — Run real Node.js and other statically linked Linux binaries directly in the browser via a tiny RISC-V user-mode Linux interpreter compiled to WebAssembly. No containers. No servers. Pure client-side execution."
+    "language": "TypeScript",
+    "description": "An open-source background agent coding system"
+  },
+  {
+    "repo": "skottrun/extrateto",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Dashboard público que expõe supersalários do Judiciário brasileiro acima do teto constitucional"
+  },
+  {
+    "repo": "SafeBreach-Labs/CVE-2026-24061",
+    "branch": "main",
+    "language": "Python",
+    "description": "Exploitation of CVE-2026-24061"
   }
 ]

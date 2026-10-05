@@ -1,8 +1,8 @@
 {
-  "repo": "BlueHeisenberg/SCSKiller",
+  "repo": "kargulstudio/sales-crm",
   "branch": "main",
-  "language": "C#",
-  "description": "Kill shader compilation stutter before you play. Compiles your games' shaders into the GPU driver's cache ahead of time. Windows, NVIDIA and AMD.",
-  "stars": 598,
-  "forks": 8
+  "language": "TypeScript",
+  "description": "A featured project on GitHubTree.",
+  "stars": 1446,
+  "forks": 299
 }
