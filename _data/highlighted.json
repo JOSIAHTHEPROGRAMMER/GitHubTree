@@ -1,8 +1,8 @@
 {
-  "repo": "allenv0/SCM",
+  "repo": "BlueHeisenberg/SCSKiller",
   "branch": "main",
-  "language": "JavaScript",
-  "description": "Deep AI search for every photo and every frame of video in any folder on macOS",
-  "stars": 289,
-  "forks": 14
+  "language": "C#",
+  "description": "Kill shader compilation stutter before you play. Compiles your games' shaders into the GPU driver's cache ahead of time. Windows, NVIDIA and AMD.",
+  "stars": 598,
+  "forks": 8
 }
