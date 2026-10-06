@@ -1,146 +1,146 @@
 [
   {
-    "repo": "kydlikebtc/awesome-jev",
+    "repo": "alberto4442/ComputePool",
     "branch": "main",
-    "language": "Python",
-    "description": "805 verified examples of Jev — TypeSafe AI's System One decision model — indexed by the decision each one makes, not the blog that mentioned it. Every cited call site is re-read by CI each week. Bilingual EN/中文, JSON schema, and a cross-platform compatibility table."
+    "language": "JavaScript",
+    "description": "A simple ComputePool Platform for Resource optimization."
   },
   {
-    "repo": "stellarlinkco/myclaw",
+    "repo": "frederikemmer/MediaLyze",
+    "branch": "main",
+    "language": "Python",
+    "description": "Self-hosted media library analysis for large video collections"
+  },
+  {
+    "repo": "open-webui/open-webui",
+    "branch": "main",
+    "language": "Python",
+    "description": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)"
+  },
+  {
+    "repo": "934050259/BrowserCluster",
+    "branch": "main",
+    "language": "Python",
+    "description": "Browser Cluster 是一个高性能、分布式的浏览器自动化集群系统，基于 Playwright 和 FastAPI 构建。它支持大规模并发网页抓取、截图、PDF 生成及自动化操作，具备完善的任务调度、结果缓存和节点管理功能。"
+  },
+  {
+    "repo": "certbot/certbot",
+    "branch": "main",
+    "language": "Python",
+    "description": "Certbot is EFF's tool to obtain certs from Let's Encrypt and (optionally) auto-enable HTTPS on your server.  It can also act as a client for any other CA that uses the ACME protocol."
+  },
+  {
+    "repo": "appium/appium",
+    "branch": "master",
+    "language": "JavaScript",
+    "description": "Cross-platform automation framework for all kinds of apps, built on top of the W3C WebDriver protocol"
+  },
+  {
+    "repo": "alibaba/ice",
+    "branch": "master",
+    "language": "TypeScript",
+    "description": "🚀 ice.js: The Progressive App Framework Based On React（基于 React 的渐进式应用框架）"
+  },
+  {
+    "repo": "cloudflare/quiche",
+    "branch": "master",
+    "language": "Rust",
+    "description": "🥧 Savoury implementation of the QUIC transport protocol and HTTP/3"
+  },
+  {
+    "repo": "ant-design/ant-design-mobile",
+    "branch": "master",
+    "language": "TypeScript",
+    "description": "Essential UI blocks for building mobile web apps."
+  },
+  {
+    "repo": "BuilderIO/mitosis",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Write components once, run everywhere. Compiles to React, Vue, Qwik, Solid, Angular, Svelte, and more."
+  },
+  {
+    "repo": "PenglongHuang/chinese-novelist-skill",
+    "branch": "master",
+    "language": "Python",
+    "description": "让 AI 为你写一部完整的中文小说 - AI 驱动的中文小说创作助手 - 超过20章的小说，几分钟全稿完成    Claude Code Skill：自动创作分章节中文小说，每章悬念钩子"
+  },
+  {
+    "repo": "encode/django-rest-framework",
+    "branch": "master",
+    "language": "Python",
+    "description": "Web APIs for Django. 🎸"
+  },
+  {
+    "repo": "PowerShell/vscode-powershell",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Provides PowerShell language and debugging support for Visual Studio Code"
+  },
+  {
+    "repo": "pytube/pytube",
+    "branch": "master",
+    "language": "Python",
+    "description": "A lightweight, dependency-free Python library (and command-line utility) for downloading YouTube Videos."
+  },
+  {
+    "repo": "jupyterlab/jupyterlab",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "JupyterLab computational environment."
+  },
+  {
+    "repo": "rook/rook",
+    "branch": "master",
+    "language": "Go",
+    "description": "Storage Orchestration for Kubernetes"
+  },
+  {
+    "repo": "google/googletest",
+    "branch": "main",
+    "language": "C++",
+    "description": "GoogleTest - Google Testing and Mocking Framework"
+  },
+  {
+    "repo": "DataDog/datadog-agent",
     "branch": "main",
     "language": "Go",
-    "description": ""
+    "description": "Main repository for Datadog Agent"
   },
   {
-    "repo": "marswei/seaseed-clawerse",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "Open-source implementation of SeaSeed.ai v1.0 (codename: Clawerse). AI ocean world platform for multi-agent social, tasks and compute collaboration."
-  },
-  {
-    "repo": "agno-agi/dash",
-    "branch": "main",
-    "language": "Python",
-    "description": "Self-learning data agent that grounds its answers in 6 layers of context and improves with every run. Inspired by OpenAI's in-house implementation."
-  },
-  {
-    "repo": "uqogihujomuwhiff/sora2-watermark-cleaner-pro",
-    "branch": "main",
-    "language": "Python",
-    "description": "sora2 watermark cleaner pro"
-  },
-  {
-    "repo": "Robbyant/lingbot-world",
-    "branch": "main",
-    "language": "Python",
-    "description": "Advancing Open-source World Models"
-  },
-  {
-    "repo": "x1xhlol/better-clawd",
+    "repo": "antfu/skills",
     "branch": "main",
     "language": "TypeScript",
-    "description": "Claude Code, but better: better performance, OpenAI/OpenRouter support, no telemetry, no lock-in."
+    "description": "Anthony Fu's curated collection of agent skills."
   },
   {
-    "repo": "stong/gradscii-art",
+    "repo": "Supervisor/supervisor",
     "branch": "master",
     "language": "Python",
-    "description": "An extremely good ASCII art generator, based on machine learning"
+    "description": "Supervisor process control system for Unix (supervisord)"
   },
   {
-    "repo": "L1AD/claude-task-viewer",
-    "branch": "main",
-    "language": "HTML",
-    "description": "A web-based Kanban board for viewing Claude Code tasks"
-  },
-  {
-    "repo": "rasbt/mini-coding-agent",
+    "repo": "matplotlib/matplotlib",
     "branch": "main",
     "language": "Python",
-    "description": "Minimal and readable coding agent harness implementation in Python to explain the core components of coding agents."
+    "description": "matplotlib: plotting with Python"
   },
   {
-    "repo": "iamzifei/bookmark-is-learned",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "收藏到就是学到，解决光收藏不看的问题。收藏的当下立刻学习或者丢弃"
-  },
-  {
-    "repo": "skydoves/compose-performance-skills",
-    "branch": "main",
-    "language": "Shell",
-    "description": "⚡️ A curated library of Agent Skills focused on Jetpack Compose performance."
-  },
-  {
-    "repo": "HMAKT99/UnTouchID",
-    "branch": "main",
-    "language": "Swift",
-    "description": "Use your phone's fingerprint to authenticate on any Mac — sudo, screensaver, App Store. No $199 Magic Keyboard needed. Works with iPhone, Android, Apple Watch, Wear OS, or any browser. Ready for MacBook Neo."
-  },
-  {
-    "repo": "FranckyB/Voice-Clone-Studio",
+    "repo": "googleapis/google-api-python-client",
     "branch": "main",
     "language": "Python",
-    "description": "A Gradio-based web UI for voice cloning and voice design, powered by Qwen3-TTS & VibeVoice.  Can use Whisper or VibeVoice-ASR for automatic transcription."
+    "description": "🐍 The official Python client library for Google's discovery based APIs."
   },
   {
-    "repo": "antirez/qwen-asr",
-    "branch": "main",
-    "language": "C",
-    "description": "C inference for Qwen3-ASR 0.6b and 1.7b transcriptions models"
-  },
-  {
-    "repo": "bleuropa/loomkin",
-    "branch": "main",
-    "language": "Elixir",
-    "description": "An Elixir-native AI coding assistant with persistent decision graphs, repo intelligence, and a Phoenix LiveView UI"
-  },
-  {
-    "repo": "michelleoincx/Bunkr-Downloader-Python",
-    "branch": "main",
-    "language": "HTML",
-    "description": ""
-  },
-  {
-    "repo": "777genius/claude-code-source-code-full",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Full source repository for Claude Code source code"
-  },
-  {
-    "repo": "Polymarket/polymarket-cli",
-    "branch": "main",
-    "language": "Rust",
-    "description": ""
-  },
-  {
-    "repo": "skyllwt/OmegaWiki",
-    "branch": "main",
-    "language": "Python",
-    "description": "Karpathy's LLM-Wiki vision, fully realized — wiki-centric full-lifecycle AI research platform powered by Claude Code"
-  },
-  {
-    "repo": "win4r/team-tasks",
+    "repo": "hammerjs/hammer.js",
     "branch": "master",
-    "language": "Python",
-    "description": "Multi-agent pipeline coordination: Linear, DAG, and Debate modes for AI agent orchestration"
+    "language": "JavaScript",
+    "description": "A javascript library for multi-touch gestures :// You can touch this"
   },
   {
-    "repo": "ColeMurray/background-agents",
+    "repo": "microsoft/vscode",
     "branch": "main",
     "language": "TypeScript",
-    "description": "An open-source background agent coding system"
-  },
-  {
-    "repo": "skottrun/extrateto",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Dashboard público que expõe supersalários do Judiciário brasileiro acima do teto constitucional"
-  },
-  {
-    "repo": "SafeBreach-Labs/CVE-2026-24061",
-    "branch": "main",
-    "language": "Python",
-    "description": "Exploitation of CVE-2026-24061"
+    "description": "Visual Studio Code"
   }
 ]
