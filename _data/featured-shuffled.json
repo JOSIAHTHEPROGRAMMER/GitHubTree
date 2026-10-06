@@ -1,146 +1,146 @@
 [
   {
-    "repo": "NubPlayz/GoodLib-Zlib-Goodreads-extension",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "An extension that open Books in Zlib Or Anna's Archive with a button on Goodreads in one click.  Available on Chrome and Firefox"
-  },
-  {
-    "repo": "TheCaspianAI/Caspian",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Caspian is a control plane for running multiple AI coding agents in parallel, using curated workflows that fit your team."
-  },
-  {
-    "repo": "elastic/elasticsearch",
-    "branch": "main",
-    "language": "Java",
-    "description": "Free and Open Source, Distributed, RESTful Search Engine"
-  },
-  {
-    "repo": "mui/mui-x",
-    "branch": "master",
-    "language": "TypeScript",
-    "description": "MUI X: Build complex and data-rich applications using a growing list of advanced React components, like the Data Grid, Date and Time Pickers, Charts, and more!"
-  },
-  {
-    "repo": "spool-lab/spool",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "The missing search engine for your own data."
-  },
-  {
-    "repo": "tonbistudio/turboquant-pytorch",
-    "branch": "master",
-    "language": "Python",
-    "description": "From-scratch PyTorch implementation of Google's TurboQuant (ICLR 2026) for LLM KV cache compression. 5x compression at 3-bit with 99.5% attention fidelity."
-  },
-  {
-    "repo": "LuckinSven/8086-xcheck-system",
+    "repo": "mbflabs/Steam_Auto-Buy_Bot",
     "branch": "main",
     "language": "Python",
-    "description": "XCheck IP Reputation Investigation System"
+    "description": "Automated purchasing of limited items, market sniping, and wallet top-up. Purchase items instantly, buy underpriced items, add funds automatically, and manage inventory. Best for Steam traders."
   },
   {
-    "repo": "terausss/Polymarket-Kalshi-Arbitrage-Bot",
+    "repo": "RevylAI/app-explorer",
     "branch": "main",
-    "language": "Rust",
-    "description": "polymarket-kalshi-arbitrage-bot polymarket arbitrage bot kalshi-arbitrage bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot"
+    "language": "TypeScript",
+    "description": "Map every screen and user path in a mobile app — interactive navigation maps with screenshots"
   },
   {
-    "repo": "TraderAlice/Auto-Quant",
+    "repo": "innoqiu/newsieai",
     "branch": "master",
     "language": "Python",
     "description": ""
   },
   {
-    "repo": "cherepavel/VPN-Detector",
+    "repo": "Doryoku1223/lunwen-skill",
+    "branch": "main",
+    "language": "Python",
+    "description": "面向本科计科学生的一键论文初稿 Skill，支持样文/开题报告/模板驱动生成，并补全流程图、ER 图和项目截图"
+  },
+  {
+    "repo": "kulikov0/whitelist-bypass",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": ""
+  },
+  {
+    "repo": "DadsMmoLab/dads-mmo-lab",
+    "branch": "main",
+    "language": "Shell",
+    "description": "Offline MMO private servers on Steam Deck. Free guides, Docker scripts & shell installers for classic MMOs. No subscription. No internet. Forever. Visibility:       ✅ Public"
+  },
+  {
+    "repo": "sandroandric/clime",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "One CLI to find every CLI"
+  },
+  {
+    "repo": "CamTheBun/KMS-Auto-Tool",
+    "branch": "main",
+    "language": "C++",
+    "description": "Tool KMSAuto Net Tutorial Permanent License HWID Gen VL Converter Retail to Volume Fix Error 0xc004f074 System Administration Utility 2026 Build"
+  },
+  {
+    "repo": "earendil-works/pi-review",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "A review extension for Pi"
+  },
+  {
+    "repo": "whisperbit-labs/zemzeme-android",
     "branch": "main",
     "language": "Kotlin",
-    "description": "Android app for detecting VPN usage and network tunneling signals."
+    "description": "Private, serverless messaging for Android - offline Bluetooth mesh, peer-to-peer, and Nostr relay. No accounts, no internet required."
   },
   {
-    "repo": "unjs/h3",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "⚡️ Minimal H(TTP) framework built for high performance and portability"
-  },
-  {
-    "repo": "ylytdeng/wechat-decrypt",
-    "branch": "main",
-    "language": "Python",
-    "description": "WeChat 4.0 database decryptor - extract keys from memory, decrypt SQLCipher 4 databases, real-time message monitor"
-  },
-  {
-    "repo": "HzWeta/Delta-For-Roblox-PC-Edition",
+    "repo": "Julpygo/Claude-Code-AI-Design",
     "branch": "main",
     "language": "C++",
-    "description": "Delta For Roblox PC Edition delivers a smooth and optimized Roblox experience on Windows. Enjoy better performance, higher FPS, widescreen support, and enhanced stability while playing your favorite Roblox games on desktop."
+    "description": "Claude Design Anthropic Tool Download April 2026 Figma to Code AI Agent Research Preview Claude Code CLI Integration React 19 Tailwind v4 Support Model Context Protocol MCP Server Setup Design Systems Automation UI UX Prototyping Next.js Component Generation Best Developer Tools 2026 Free Tutorial"
   },
   {
-    "repo": "gvisor/gvisor",
-    "branch": "master",
-    "language": "Other",
-    "description": "Application Kernel for Containers."
+    "repo": "warpdot-dev/composio",
+    "branch": "next",
+    "language": "TypeScript",
+    "description": "typescript python sdk ai-agents anthropic openapi langchain openai-agents llamaindex mastra vercel-ai mcp oauth saas llm integrations agent-tools automation cloudflare google-gemini tooling rag multi-provider developer-sdk composable-actions webhook-triggers"
   },
   {
-    "repo": "stanfordnlp/stanza",
+    "repo": "ProjectBarks/gopher-code",
     "branch": "main",
-    "language": "Python",
-    "description": "Stanford NLP Python library for tokenization, sentence segmentation, NER, and parsing of many human languages"
+    "language": "Go",
+    "description": "Claude Code, rewritten from scratch in Go. Zero Node.js. Zero Electron. One binary."
   },
   {
-    "repo": "shobhit99/claude-watch",
+    "repo": "hpennington/agentswift",
     "branch": "main",
     "language": "Swift",
-    "description": "Control your claude code from your apple watch"
-  },
-  {
-    "repo": "kessler/gemma-gem",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Gemma Gem runs Google's Gemma 4 model entirely on-device via WebGPU — no API keys, no cloud, no data leaving your machine."
-  },
-  {
-    "repo": "V-IOLE-T/hotmail-register-extension",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "基于Outlook Email的Chrome扩展：支持OpenAI OAuth古法注册与账号标签管理"
-  },
-  {
-    "repo": "FireRedTeam/FireRedVAD",
-    "branch": "main",
-    "language": "Python",
-    "description": "A SOTA Industrial-Grade Voice Activity Detection & Audio Event Detection, supporting 100+ languages, outperforming Silero-VAD, TEN-VAD, FunASR-VAD and WebRTC-VAD"
-  },
-  {
-    "repo": "dk8827/ra-port",
-    "branch": "main",
-    "language": "C++",
-    "description": "Unofficial working port of Command & Conquer: Red Alert running natively on macOS and Android. SDL2 video/audio/input. No game data included."
-  },
-  {
-    "repo": "diepvantien/Tiktok-Pro-Tools",
-    "branch": "main",
-    "language": "JavaScript",
     "description": ""
   },
   {
-    "repo": "pmndrs/react-three-fiber",
+    "repo": "jlabon2/PsUi",
+    "branch": "main",
+    "language": "PowerShell",
+    "description": "For building UIs in PowerShell without the misery."
+  },
+  {
+    "repo": "pixelxzen/phantom-motion",
+    "branch": "main",
+    "language": "HTML",
+    "description": "Phantom-Motion is an incredibly powerful, epic interactive dynamic visual storytelling generator. Its capabilities are limited only by the bounds of your imagination! 它是一个极其硬核的史诗级交互式动态视觉叙事生成器。它的实力只取决于你的想象力高低！"
+  },
+  {
+    "repo": "parcadei/ouros",
+    "branch": "main",
+    "language": "Rust",
+    "description": "A sandboxed Python runtime for AI agents, written in Rust."
+  },
+  {
+    "repo": "dev-protocol/polymarket-copytrading-bot-sport",
     "branch": "master",
     "language": "TypeScript",
-    "description": "🇨🇭 A React renderer for Three.js"
+    "description": "This Polymarket Copy Trading Bot is designed to diversify across different prediction markets, minimizing exposure to any single market’s volatility. CLUE: @polymarket copytrading bot || #polymarket trading bot || @polymarket copytrading bot || #polymarket trading bot || @polymarket copytrading bot || #polymarket trading bot || polymarket copytrade"
   },
   {
-    "repo": "haiguo123/Agentic-AI-Project-Find-Deal-Opportunities",
+    "repo": "lardissone/ansi-saver",
     "branch": "main",
-    "language": "Jupyter Notebook",
+    "language": "Swift",
+    "description": "ANSI art screensaver for macOS — streams art from 16colo.rs BBS archive packs"
+  },
+  {
+    "repo": "Fox-Fig/phoenix",
+    "branch": "main",
+    "language": "Go",
+    "description": "Phoenix is a high-performance, resilient tunneling tool designed to bypass DPI and severe network censorship using HTTP/2 (h2/h2c) multiplexing."
+  },
+  {
+    "repo": "rasbt/mini-coding-agent",
+    "branch": "main",
+    "language": "Python",
+    "description": "Minimal and readable coding agent harness implementation in Python to explain the core components of coding agents."
+  },
+  {
+    "repo": "LichAmnesia/lich-skills",
+    "branch": "main",
+    "language": "Python",
     "description": ""
   },
   {
-    "repo": "glommer/codemogger",
+    "repo": "caddyserver/caddy",
+    "branch": "master",
+    "language": "Go",
+    "description": "Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS"
+  },
+  {
+    "repo": "AMAP-ML/SpatialGenEval",
     "branch": "main",
-    "language": "TypeScript",
-    "description": "Codemogger is a code indexing library and MCP server for AI coding agents"
+    "language": "Python",
+    "description": ""
   }
 ]
