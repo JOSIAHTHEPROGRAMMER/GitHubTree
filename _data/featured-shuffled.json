@@ -1,146 +1,146 @@
 [
   {
-    "repo": "alberto4442/ComputePool",
+    "repo": "NubPlayz/GoodLib-Zlib-Goodreads-extension",
     "branch": "main",
-    "language": "JavaScript",
-    "description": "A simple ComputePool Platform for Resource optimization."
+    "language": "TypeScript",
+    "description": "An extension that open Books in Zlib Or Anna's Archive with a button on Goodreads in one click.  Available on Chrome and Firefox"
   },
   {
-    "repo": "frederikemmer/MediaLyze",
+    "repo": "TheCaspianAI/Caspian",
     "branch": "main",
-    "language": "Python",
-    "description": "Self-hosted media library analysis for large video collections"
+    "language": "TypeScript",
+    "description": "Caspian is a control plane for running multiple AI coding agents in parallel, using curated workflows that fit your team."
   },
   {
-    "repo": "open-webui/open-webui",
+    "repo": "elastic/elasticsearch",
     "branch": "main",
-    "language": "Python",
-    "description": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)"
+    "language": "Java",
+    "description": "Free and Open Source, Distributed, RESTful Search Engine"
   },
   {
-    "repo": "934050259/BrowserCluster",
-    "branch": "main",
-    "language": "Python",
-    "description": "Browser Cluster 是一个高性能、分布式的浏览器自动化集群系统，基于 Playwright 和 FastAPI 构建。它支持大规模并发网页抓取、截图、PDF 生成及自动化操作，具备完善的任务调度、结果缓存和节点管理功能。"
-  },
-  {
-    "repo": "certbot/certbot",
-    "branch": "main",
-    "language": "Python",
-    "description": "Certbot is EFF's tool to obtain certs from Let's Encrypt and (optionally) auto-enable HTTPS on your server.  It can also act as a client for any other CA that uses the ACME protocol."
-  },
-  {
-    "repo": "appium/appium",
-    "branch": "master",
-    "language": "JavaScript",
-    "description": "Cross-platform automation framework for all kinds of apps, built on top of the W3C WebDriver protocol"
-  },
-  {
-    "repo": "alibaba/ice",
+    "repo": "mui/mui-x",
     "branch": "master",
     "language": "TypeScript",
-    "description": "🚀 ice.js: The Progressive App Framework Based On React（基于 React 的渐进式应用框架）"
+    "description": "MUI X: Build complex and data-rich applications using a growing list of advanced React components, like the Data Grid, Date and Time Pickers, Charts, and more!"
   },
   {
-    "repo": "cloudflare/quiche",
+    "repo": "spool-lab/spool",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "The missing search engine for your own data."
+  },
+  {
+    "repo": "tonbistudio/turboquant-pytorch",
     "branch": "master",
+    "language": "Python",
+    "description": "From-scratch PyTorch implementation of Google's TurboQuant (ICLR 2026) for LLM KV cache compression. 5x compression at 3-bit with 99.5% attention fidelity."
+  },
+  {
+    "repo": "LuckinSven/8086-xcheck-system",
+    "branch": "main",
+    "language": "Python",
+    "description": "XCheck IP Reputation Investigation System"
+  },
+  {
+    "repo": "terausss/Polymarket-Kalshi-Arbitrage-Bot",
+    "branch": "main",
     "language": "Rust",
-    "description": "🥧 Savoury implementation of the QUIC transport protocol and HTTP/3"
+    "description": "polymarket-kalshi-arbitrage-bot polymarket arbitrage bot kalshi-arbitrage bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot"
   },
   {
-    "repo": "ant-design/ant-design-mobile",
-    "branch": "master",
-    "language": "TypeScript",
-    "description": "Essential UI blocks for building mobile web apps."
-  },
-  {
-    "repo": "BuilderIO/mitosis",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Write components once, run everywhere. Compiles to React, Vue, Qwik, Solid, Angular, Svelte, and more."
-  },
-  {
-    "repo": "PenglongHuang/chinese-novelist-skill",
+    "repo": "TraderAlice/Auto-Quant",
     "branch": "master",
     "language": "Python",
-    "description": "让 AI 为你写一部完整的中文小说 - AI 驱动的中文小说创作助手 - 超过20章的小说，几分钟全稿完成    Claude Code Skill：自动创作分章节中文小说，每章悬念钩子"
+    "description": ""
   },
   {
-    "repo": "encode/django-rest-framework",
-    "branch": "master",
-    "language": "Python",
-    "description": "Web APIs for Django. 🎸"
+    "repo": "cherepavel/VPN-Detector",
+    "branch": "main",
+    "language": "Kotlin",
+    "description": "Android app for detecting VPN usage and network tunneling signals."
   },
   {
-    "repo": "PowerShell/vscode-powershell",
+    "repo": "unjs/h3",
     "branch": "main",
     "language": "TypeScript",
-    "description": "Provides PowerShell language and debugging support for Visual Studio Code"
+    "description": "⚡️ Minimal H(TTP) framework built for high performance and portability"
   },
   {
-    "repo": "pytube/pytube",
-    "branch": "master",
-    "language": "Python",
-    "description": "A lightweight, dependency-free Python library (and command-line utility) for downloading YouTube Videos."
-  },
-  {
-    "repo": "jupyterlab/jupyterlab",
+    "repo": "ylytdeng/wechat-decrypt",
     "branch": "main",
-    "language": "TypeScript",
-    "description": "JupyterLab computational environment."
+    "language": "Python",
+    "description": "WeChat 4.0 database decryptor - extract keys from memory, decrypt SQLCipher 4 databases, real-time message monitor"
   },
   {
-    "repo": "rook/rook",
-    "branch": "master",
-    "language": "Go",
-    "description": "Storage Orchestration for Kubernetes"
-  },
-  {
-    "repo": "google/googletest",
+    "repo": "HzWeta/Delta-For-Roblox-PC-Edition",
     "branch": "main",
     "language": "C++",
-    "description": "GoogleTest - Google Testing and Mocking Framework"
+    "description": "Delta For Roblox PC Edition delivers a smooth and optimized Roblox experience on Windows. Enjoy better performance, higher FPS, widescreen support, and enhanced stability while playing your favorite Roblox games on desktop."
   },
   {
-    "repo": "DataDog/datadog-agent",
+    "repo": "gvisor/gvisor",
+    "branch": "master",
+    "language": "Other",
+    "description": "Application Kernel for Containers."
+  },
+  {
+    "repo": "stanfordnlp/stanza",
     "branch": "main",
-    "language": "Go",
-    "description": "Main repository for Datadog Agent"
+    "language": "Python",
+    "description": "Stanford NLP Python library for tokenization, sentence segmentation, NER, and parsing of many human languages"
   },
   {
-    "repo": "antfu/skills",
+    "repo": "shobhit99/claude-watch",
+    "branch": "main",
+    "language": "Swift",
+    "description": "Control your claude code from your apple watch"
+  },
+  {
+    "repo": "kessler/gemma-gem",
     "branch": "main",
     "language": "TypeScript",
-    "description": "Anthony Fu's curated collection of agent skills."
+    "description": "Gemma Gem runs Google's Gemma 4 model entirely on-device via WebGPU — no API keys, no cloud, no data leaving your machine."
   },
   {
-    "repo": "Supervisor/supervisor",
-    "branch": "master",
-    "language": "Python",
-    "description": "Supervisor process control system for Unix (supervisord)"
-  },
-  {
-    "repo": "matplotlib/matplotlib",
+    "repo": "V-IOLE-T/hotmail-register-extension",
     "branch": "main",
-    "language": "Python",
-    "description": "matplotlib: plotting with Python"
-  },
-  {
-    "repo": "googleapis/google-api-python-client",
-    "branch": "main",
-    "language": "Python",
-    "description": "🐍 The official Python client library for Google's discovery based APIs."
-  },
-  {
-    "repo": "hammerjs/hammer.js",
-    "branch": "master",
     "language": "JavaScript",
-    "description": "A javascript library for multi-touch gestures :// You can touch this"
+    "description": "基于Outlook Email的Chrome扩展：支持OpenAI OAuth古法注册与账号标签管理"
   },
   {
-    "repo": "microsoft/vscode",
+    "repo": "FireRedTeam/FireRedVAD",
+    "branch": "main",
+    "language": "Python",
+    "description": "A SOTA Industrial-Grade Voice Activity Detection & Audio Event Detection, supporting 100+ languages, outperforming Silero-VAD, TEN-VAD, FunASR-VAD and WebRTC-VAD"
+  },
+  {
+    "repo": "dk8827/ra-port",
+    "branch": "main",
+    "language": "C++",
+    "description": "Unofficial working port of Command & Conquer: Red Alert running natively on macOS and Android. SDL2 video/audio/input. No game data included."
+  },
+  {
+    "repo": "diepvantien/Tiktok-Pro-Tools",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": ""
+  },
+  {
+    "repo": "pmndrs/react-three-fiber",
+    "branch": "master",
+    "language": "TypeScript",
+    "description": "🇨🇭 A React renderer for Three.js"
+  },
+  {
+    "repo": "haiguo123/Agentic-AI-Project-Find-Deal-Opportunities",
+    "branch": "main",
+    "language": "Jupyter Notebook",
+    "description": ""
+  },
+  {
+    "repo": "glommer/codemogger",
     "branch": "main",
     "language": "TypeScript",
-    "description": "Visual Studio Code"
+    "description": "Codemogger is a code indexing library and MCP server for AI coding agents"
   }
 ]
