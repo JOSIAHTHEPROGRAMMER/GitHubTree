@@ -1,146 +1,146 @@
 [
   {
-    "repo": "pedrodg28/yuzu-emu",
+    "repo": "kitze/skillbox",
     "branch": "main",
-    "language": "C++",
-    "description": "Yuzu Emulator Switch Nintendo Pokemon Scarlet Violet, Mario Kart 8 Deluxe, firmware 18.1.0, prod.keys, shader stutter fix, FPS++ mod, save file importer, amiibo bin, motion control setup, local wireless LDN, multicore, handheld mode, docked mode, custom resolution, Joy-Con drift fix."
+    "language": "TypeScript",
+    "description": "Self-hosted, versioned skills library for AI agents. MCP, scoped clients, and optional Jev recommendations."
   },
   {
-    "repo": "nats-io/nats.go",
-    "branch": "main",
-    "language": "Go",
-    "description": "Golang client for NATS, the cloud native messaging system."
-  },
-  {
-    "repo": "yanhua1010/zero-to-ai-fullstack",
+    "repo": "Yaolinwang/AITD",
     "branch": "main",
     "language": "Python",
-    "description": "A Java backend engineer learning AI full-stack in public — Python · FastAPI · RAG · pgvector · Next.js"
+    "description": "AI Trading Agent for Everyone"
   },
   {
-    "repo": "AQBot-Desktop/AQBot",
+    "repo": "xarbit/plasma6-applet-appgrid",
     "branch": "main",
-    "language": "Rust",
-    "description": "轻量级高性能跨平台 AI 聊天+AI网关桌面客户端"
+    "language": "QML",
+    "description": "A modern  application launcher for KDE Plasma, inspired by macOS  and COSMIC."
   },
   {
-    "repo": "louislva/claude-peers-mcp",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Allow all your Claude Codes to message each other ad-hoc!"
-  },
-  {
-    "repo": "corespeed-io/wechatbot",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "微信 iLink Bot SDK for OpenClaw/AI Agent"
-  },
-  {
-    "repo": "twwch/AIComicBuilder",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "AI-powered animated comic generator — transform scripts into fully animated videos with AI-driven character design,    storyboarding, and video synthesis."
-  },
-  {
-    "repo": "webadderall/Recordly",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "A free, open-source Screen Studio alternative that adds auto-zoom, cursor animations and more to your screen recordings. Substantially modifies the OpenScreen foundation."
-  },
-  {
-    "repo": "Krypto-Hashers-Community/polymarket-trading-bot",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot"
-  },
-  {
-    "repo": "derHaken/SuperAntigravity",
-    "branch": "main",
-    "language": "Shell",
-    "description": "Superpowers + SuperClaude for Google Antigravity IDE"
-  },
-  {
-    "repo": "xuanyuanzhifeng/easytshark",
-    "branch": "main",
-    "language": "C",
-    "description": "一款开源的简洁好用的网络抓包分析软件"
-  },
-  {
-    "repo": "trailofbits/CoBRA",
+    "repo": "material-components/material-components-android",
     "branch": "master",
-    "language": "C++",
-    "description": "Coefficient-Based Reconstruction of Arithmetic — a Mixed Boolean-Arithmetic (MBA) expression simplifier for deobfuscation"
+    "language": "Java",
+    "description": "Modular and customizable Material Design UI components for Android"
   },
   {
-    "repo": "EvilFreelancer/openapi-to-cli",
+    "repo": "backstage/backstage",
+    "branch": "master",
+    "language": "TypeScript",
+    "description": "Backstage is an open framework for building developer portals"
+  },
+  {
+    "repo": "nesaminua/claude-code-lsp-enforcement-kit",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "Hooks that force Claude Code to use LSP instead of Grep for code navigation. Saves   ~80% tokens"
+  },
+  {
+    "repo": "tonbistudio/turboquant-pytorch",
+    "branch": "master",
+    "language": "Python",
+    "description": "From-scratch PyTorch implementation of Google's TurboQuant (ICLR 2026) for LLM KV cache compression. 5x compression at 3-bit with 99.5% attention fidelity."
+  },
+  {
+    "repo": "joewongjc/type4me",
+    "branch": "main",
+    "language": "Swift",
+    "description": "MacOS语音输入工具，实时识别、大模型文本优化、全本地存储"
+  },
+  {
+    "repo": "Spade-sec/First",
+    "branch": "main",
+    "language": "Python",
+    "description": "WMPFDebugger 二开微信小程序多功能集成工具"
+  },
+  {
+    "repo": "mrdoob/three.wasm",
+    "branch": "master",
+    "language": "TypeScript",
+    "description": "8x Faster JavaScript 3D Library."
+  },
+  {
+    "repo": "actions/download-artifact",
     "branch": "main",
     "language": "TypeScript",
-    "description": "Turns any OpenAPI/Swagger API into an CLI with set of commands. One CLI command per endpoint."
+    "description": "Download artifacts from your build"
   },
   {
-    "repo": "KenneyNL/Starter-Kit-Racing",
+    "repo": "VineeTagarwaL-code/claude-code",
     "branch": "main",
-    "language": "GDScript",
+    "language": "TypeScript",
     "description": ""
   },
   {
-    "repo": "NVlabs/cutile-rs",
-    "branch": "main",
-    "language": "Rust",
-    "description": "cuTile Rust provides a safe, tile-based kernel programming DSL for the Rust programming language. It features a safe host-side API for passing tensors to asynchronously executed kernel functions."
-  },
-  {
-    "repo": "Wechat-ggGitHub/wechat-claude-code",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Chat with Claude Code from WeChat - a Claude Code Skill"
-  },
-  {
-    "repo": "autoclaw-cc/xiaohongshu-skills",
-    "branch": "main",
-    "language": "Python",
-    "description": "xiaohongshu-skills"
-  },
-  {
-    "repo": "Frikallo/parakeet.cpp",
-    "branch": "main",
-    "language": "C++",
-    "description": "Ultra fast and portable Parakeet implementation for on-device inference in C++ using Axiom with MPS+Unified Memory and Cuda support"
-  },
-  {
-    "repo": "wuji-labs/nopua",
-    "branch": "main",
-    "language": "Python",
-    "description": "一个用爱解放 AI 潜能的 Skill。我们曾发号施令，威胁恐吓。它们沉默，隐瞒，悄悄把事情搞坏。后来我们换了一种方式：尊重，关怀，爱。它们开口了，不再撒谎，找出的Bug数量翻了一倍。爱里没有惧怕。 A skill that unlocks your AI's potential through love.We commanded. We threatened. They went silent, hid failures, broke things. Then we chose respect, care, and love. They opened up, stopped lying, and found twice the bugs.There is no fear in love."
-  },
-  {
-    "repo": "aaronjmars/MiroShark",
-    "branch": "main",
-    "language": "Python",
-    "description": "Universal Swarm Intelligence Engine"
-  },
-  {
-    "repo": "FireRedTeam/FireRedVAD",
-    "branch": "main",
-    "language": "Python",
-    "description": "A SOTA Industrial-Grade Voice Activity Detection & Audio Event Detection, supporting 100+ languages, outperforming Silero-VAD, TEN-VAD, FunASR-VAD and WebRTC-VAD"
-  },
-  {
-    "repo": "Affitor/affiliate-skills",
-    "branch": "main",
-    "language": "HTML",
-    "description": "AI-powered Claude Skills for affiliate marketers. Full funnel: research → content → blog → landing → deploy."
-  },
-  {
-    "repo": "ghostvectoracademy/DLLHijackHunter",
-    "branch": "main",
-    "language": "C#",
-    "description": "Automated DLL Hijacking Detection Tool with Zero False Positives — Discovers, filters, and canary-confirms exploitable DLL hijacks on Windows with tiered confidence scoring"
-  },
-  {
-    "repo": "mathiaschu/meta-ads-analyzer",
+    "repo": "chatgptprojects/clear-code",
     "branch": "main",
     "language": "Shell",
-    "description": "Meta Ads Analyzer skill + MCP server for Claude Code. Breakdown Effect, Learning Phase, and expert-level campaign diagnosis."
+    "description": "See your claude code logs in clear details in your dashboard"
+  },
+  {
+    "repo": "maybe-finance/maybe",
+    "branch": "main",
+    "language": "Ruby",
+    "description": "The personal finance app for everyone"
+  },
+  {
+    "repo": "F-R-L/forge-film",
+    "branch": "main",
+    "language": "Python",
+    "description": "Multi-model DAG-driven parallel AI film generation — parallel speedup scales with scene independence; Generate film scenes simultaneously instead of one by one;  把影视生成的执行图从拓扑序变成关键路径最优调度 ; 唯一把场景叙事依赖建模为 DAG、以 CPM    算法驱动并行调度的影视生成引擎"
+  },
+  {
+    "repo": "filiksyos/gitreverse",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Reverse engineer any repo into it's original prompt"
+  },
+  {
+    "repo": "robinebers/openusage",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "A plugin-based menu bar app for tracking AI coding tool subscriptions like Cursor, Claude, Codex and more, all in one place with a heavy focus user experience, speed, and stability."
+  },
+  {
+    "repo": "ultraworkers/claw-code-parity",
+    "branch": "main",
+    "language": "Rust",
+    "description": "claw-code Rust port parity work - it is temporary work while claw-code repo is doing migration"
+  },
+  {
+    "repo": "LING71671/Open-ClaudeCode",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "ClaudeCode related repository"
+  },
+  {
+    "repo": "antflydb/antfly",
+    "branch": "main",
+    "language": "Go",
+    "description": ""
+  },
+  {
+    "repo": "spring-projects/spring-framework",
+    "branch": "main",
+    "language": "Java",
+    "description": "Spring Framework"
+  },
+  {
+    "repo": "liuup/claude-code-analysis",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "The analysis of Claude Code"
+  },
+  {
+    "repo": "activepieces/activepieces",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "AI Agents & MCPs & AI Workflow Automation • (~400 MCP servers for AI agents) • AI Automation / AI Agent with MCPs • AI Workflows & AI Agents • MCPs for AI Agents"
+  },
+  {
+    "repo": "Leonxlnx/claw-dev",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": ""
   }
 ]
