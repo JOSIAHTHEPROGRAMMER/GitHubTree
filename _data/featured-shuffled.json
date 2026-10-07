@@ -1,146 +1,146 @@
 [
   {
-    "repo": "docker/compose",
-    "branch": "main",
-    "language": "Go",
-    "description": "Define and run multi-container applications with Docker"
-  },
-  {
-    "repo": "TriangleSector/Simple_Checker_2026_new",
+    "repo": "pedrodg28/yuzu-emu",
     "branch": "main",
     "language": "C++",
-    "description": "Simple Checker - All-in-One Data Validation Tool for Steam, Epic Games, Netflix, and 50+ Services."
+    "description": "Yuzu Emulator Switch Nintendo Pokemon Scarlet Violet, Mario Kart 8 Deluxe, firmware 18.1.0, prod.keys, shader stutter fix, FPS++ mod, save file importer, amiibo bin, motion control setup, local wireless LDN, multicore, handheld mode, docked mode, custom resolution, Joy-Con drift fix."
   },
   {
-    "repo": "IO-ZetZor/Visor-BootManager",
+    "repo": "nats-io/nats.go",
+    "branch": "main",
+    "language": "Go",
+    "description": "Golang client for NATS, the cloud native messaging system."
+  },
+  {
+    "repo": "yanhua1010/zero-to-ai-fullstack",
+    "branch": "main",
+    "language": "Python",
+    "description": "A Java backend engineer learning AI full-stack in public — Python · FastAPI · RAG · pgvector · Next.js"
+  },
+  {
+    "repo": "AQBot-Desktop/AQBot",
+    "branch": "main",
+    "language": "Rust",
+    "description": "轻量级高性能跨平台 AI 聊天+AI网关桌面客户端"
+  },
+  {
+    "repo": "louislva/claude-peers-mcp",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Allow all your Claude Codes to message each other ad-hoc!"
+  },
+  {
+    "repo": "corespeed-io/wechatbot",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "微信 iLink Bot SDK for OpenClaw/AI Agent"
+  },
+  {
+    "repo": "twwch/AIComicBuilder",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "AI-powered animated comic generator — transform scripts into fully animated videos with AI-driven character design,    storyboarding, and video synthesis."
+  },
+  {
+    "repo": "webadderall/Recordly",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "A free, open-source Screen Studio alternative that adds auto-zoom, cursor animations and more to your screen recordings. Substantially modifies the OpenScreen foundation."
+  },
+  {
+    "repo": "Krypto-Hashers-Community/polymarket-trading-bot",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot"
+  },
+  {
+    "repo": "derHaken/SuperAntigravity",
+    "branch": "main",
+    "language": "Shell",
+    "description": "Superpowers + SuperClaude for Google Antigravity IDE"
+  },
+  {
+    "repo": "xuanyuanzhifeng/easytshark",
     "branch": "main",
     "language": "C",
-    "description": "A minimal, fast, graphical UEFI boot manager written in C. no external dependencies — just a config file :)"
+    "description": "一款开源的简洁好用的网络抓包分析软件"
   },
   {
-    "repo": "SzeDaSa/Tomodachi-Share-Mii",
+    "repo": "trailofbits/CoBRA",
+    "branch": "master",
+    "language": "C++",
+    "description": "Coefficient-Based Reconstruction of Arithmetic — a Mixed Boolean-Arithmetic (MBA) expression simplifier for deobfuscation"
+  },
+  {
+    "repo": "EvilFreelancer/openapi-to-cli",
     "branch": "main",
     "language": "TypeScript",
-    "description": "Tomodachi Share: Mii community hub. Share QR codes, export characters, import island data. Social multiplayer features, StreetPass relay, furniture swap, friendship statistics. Photo gallery, item gifting, save transfer, SpotPass online, Miiverse revival, collective island news, Mii library."
+    "description": "Turns any OpenAPI/Swagger API into an CLI with set of commands. One CLI command per endpoint."
   },
   {
-    "repo": "ziplab/TriSplat",
+    "repo": "KenneyNL/Starter-Kit-Racing",
     "branch": "main",
-    "language": "Python",
-    "description": "TriSplat: Simulation-Ready Feed-Forward 3D Scene Reconstruction"
-  },
-  {
-    "repo": "shaharyar522/Icon_Changer",
-    "branch": "main",
-    "language": "Python",
-    "description": "Change folder and application icons on Windows. Customize with any image or built-in icon packs."
-  },
-  {
-    "repo": "Spotui/Spotui",
-    "branch": "main",
-    "language": "Kotlin",
-    "description": "Spotify clone with deep integration"
-  },
-  {
-    "repo": "CEOHarvey242/cheat-engine-7.5",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "cheat engine 7.5  github  tables download pc windows 11 cheat tables forza horizon 6  elden ring  ct file memory scanner speedhack trainer maker"
-  },
-  {
-    "repo": "Sunislazi/rbxfpsunlocker-boost-More-240FPS",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "rbxfpsunlocker Roblox FPS BOOST: Roblox FPS unlocker download free More 240 FPS, uncap 60 FPS limit, axst GitHub source code, high refresh rate monitor, Roblox client lag fix, Byfron Hyperion anti-cheat compatibility, safe to use ban status, settings.ini configuration, rfu.exe not working error, ClientAppSettings json,bloxtstrap fps unlocke"
-  },
-  {
-    "repo": "pro-deploy/aegil",
-    "branch": "main",
-    "language": "Python",
+    "language": "GDScript",
     "description": ""
   },
   {
-    "repo": "gemtoast/solana-trading-bot",
-    "branch": "devel",
-    "language": "TypeScript",
-    "description": "Solana trading bot pumpfun pumpdotfun trading/copy-trading bot, pumpswap and raydium trading bot sniper bot, copy trading bot, trading bot, Solana trading bot pumpfun pumpdotfun trading/copy-trading bot, pumpswap and raydium trading bot sniper bot, copy trading bot, trading bot, Solana trading bot pumpfun pumpdotfun trading/copy-trading bot"
+    "repo": "NVlabs/cutile-rs",
+    "branch": "main",
+    "language": "Rust",
+    "description": "cuTile Rust provides a safe, tile-based kernel programming DSL for the Rust programming language. It features a safe host-side API for passing tensors to asynchronously executed kernel functions."
   },
   {
-    "repo": "rit3zh/expo-motion-tabs",
+    "repo": "Wechat-ggGitHub/wechat-claude-code",
     "branch": "main",
     "language": "TypeScript",
-    "description": "⚡️ Smooth motion tabs for Expo Router"
+    "description": "Chat with Claude Code from WeChat - a Claude Code Skill"
   },
   {
-    "repo": "Leonard-Anike/Catalog_Avatar_Creator_-_Unlimited_Robux___Items",
+    "repo": "autoclaw-cc/xiaohongshu-skills",
     "branch": "main",
     "language": "Python",
-    "description": "Unlimited Robux and items for Catalog Avatar Creator, the avatar customization game with 7 billion visits[reference:27]. Unlock all clothing, accessories, and create the perfect avatar."
+    "description": "xiaohongshu-skills"
   },
   {
-    "repo": "Jane-xiaoer/paper-collage-ad-codex",
+    "repo": "Frikallo/parakeet.cpp",
     "branch": "main",
-    "language": "JavaScript",
-    "description": "Codex skill for complete paper-cut collage ad production, local IndexTTS-2 voice cloning, animation, audio and MP4 QC"
+    "language": "C++",
+    "description": "Ultra fast and portable Parakeet implementation for on-device inference in C++ using Axiom with MPS+Unified Memory and Cuda support"
   },
   {
-    "repo": "patchfighterway90/cs2-external-overlay",
-    "branch": "main",
-    "language": "Python",
-    "description": "The cs2 external helper tool is a software utility designed for gamers and developers. It provides a set of features to enhance the gaming experience, including a customizable overlay. The tool is particularly useful for users who want to access additional information during gameplay."
-  },
-  {
-    "repo": "chiennv2000/orthrus",
+    "repo": "wuji-labs/nopua",
     "branch": "main",
     "language": "Python",
-    "description": "Fast, lossless LLM inference via dual-view diffusion decoding."
+    "description": "一个用爱解放 AI 潜能的 Skill。我们曾发号施令，威胁恐吓。它们沉默，隐瞒，悄悄把事情搞坏。后来我们换了一种方式：尊重，关怀，爱。它们开口了，不再撒谎，找出的Bug数量翻了一倍。爱里没有惧怕。 A skill that unlocks your AI's potential through love.We commanded. We threatened. They went silent, hid failures, broke things. Then we chose respect, care, and love. They opened up, stopped lying, and found twice the bugs.There is no fear in love."
   },
   {
-    "repo": "0xhype/hyperliquid-tracker",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Get notified when big trades happen on Hyperliquid."
-  },
-  {
-    "repo": "open-gsd/gsd-pi",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "A powerful meta-prompting, context engineering and spec-driven development system that enables agents to work for long periods of time autonomously without losing track of the big picture"
-  },
-  {
-    "repo": "v12-security/pocs",
-    "branch": "main",
-    "language": "C",
-    "description": "poc it like it's hot"
-  },
-  {
-    "repo": "Intuition-Lab/personal-model",
+    "repo": "aaronjmars/MiroShark",
     "branch": "main",
     "language": "Python",
-    "description": "Build your HUMAN.md."
+    "description": "Universal Swarm Intelligence Engine"
   },
   {
-    "repo": "XFaltixX/DBD-AutoGrind-Trainer-2026-Plus",
+    "repo": "FireRedTeam/FireRedVAD",
     "branch": "main",
     "language": "Python",
-    "description": "Ultimate Dead by Daylight auto-grind trainer Plus edition with Bloodpoint bot, ESP wallhack, aimbot, and full perk/skin unlocker. Dominate the Fog with our 2026 undetected external tool."
+    "description": "A SOTA Industrial-Grade Voice Activity Detection & Audio Event Detection, supporting 100+ languages, outperforming Silero-VAD, TEN-VAD, FunASR-VAD and WebRTC-VAD"
   },
   {
-    "repo": "AnonymousDev1494/System_Information_Viewer",
+    "repo": "Affitor/affiliate-skills",
     "branch": "main",
-    "language": "Python",
-    "description": "Show detailed hardware and software info. Show processor details, memory usage, graphics card info, and Windows version. Get full system specs."
+    "language": "HTML",
+    "description": "AI-powered Claude Skills for affiliate marketers. Full funnel: research → content → blog → landing → deploy."
   },
   {
-    "repo": "facebookresearch/vggt-omega",
+    "repo": "ghostvectoracademy/DLLHijackHunter",
     "branch": "main",
-    "language": "Python",
-    "description": "[CVPR 2026 Oral] VGGT Omega"
+    "language": "C#",
+    "description": "Automated DLL Hijacking Detection Tool with Zero False Positives — Discovers, filters, and canary-confirms exploitable DLL hijacks on Windows with tiered confidence scoring"
   },
   {
-    "repo": "RevylAI/app-explorer",
+    "repo": "mathiaschu/meta-ads-analyzer",
     "branch": "main",
-    "language": "TypeScript",
-    "description": "Map every screen and user path in a mobile app — interactive navigation maps with screenshots"
+    "language": "Shell",
+    "description": "Meta Ads Analyzer skill + MCP server for Claude Code. Breakdown Effect, Learning Phase, and expert-level campaign diagnosis."
   }
 ]
