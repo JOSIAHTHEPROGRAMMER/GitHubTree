@@ -1,146 +1,146 @@
 [
   {
-    "repo": "mbflabs/Steam_Auto-Buy_Bot",
+    "repo": "docker/compose",
+    "branch": "main",
+    "language": "Go",
+    "description": "Define and run multi-container applications with Docker"
+  },
+  {
+    "repo": "TriangleSector/Simple_Checker_2026_new",
+    "branch": "main",
+    "language": "C++",
+    "description": "Simple Checker - All-in-One Data Validation Tool for Steam, Epic Games, Netflix, and 50+ Services."
+  },
+  {
+    "repo": "IO-ZetZor/Visor-BootManager",
+    "branch": "main",
+    "language": "C",
+    "description": "A minimal, fast, graphical UEFI boot manager written in C. no external dependencies — just a config file :)"
+  },
+  {
+    "repo": "SzeDaSa/Tomodachi-Share-Mii",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Tomodachi Share: Mii community hub. Share QR codes, export characters, import island data. Social multiplayer features, StreetPass relay, furniture swap, friendship statistics. Photo gallery, item gifting, save transfer, SpotPass online, Miiverse revival, collective island news, Mii library."
+  },
+  {
+    "repo": "ziplab/TriSplat",
     "branch": "main",
     "language": "Python",
-    "description": "Automated purchasing of limited items, market sniping, and wallet top-up. Purchase items instantly, buy underpriced items, add funds automatically, and manage inventory. Best for Steam traders."
+    "description": "TriSplat: Simulation-Ready Feed-Forward 3D Scene Reconstruction"
+  },
+  {
+    "repo": "shaharyar522/Icon_Changer",
+    "branch": "main",
+    "language": "Python",
+    "description": "Change folder and application icons on Windows. Customize with any image or built-in icon packs."
+  },
+  {
+    "repo": "Spotui/Spotui",
+    "branch": "main",
+    "language": "Kotlin",
+    "description": "Spotify clone with deep integration"
+  },
+  {
+    "repo": "CEOHarvey242/cheat-engine-7.5",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "cheat engine 7.5  github  tables download pc windows 11 cheat tables forza horizon 6  elden ring  ct file memory scanner speedhack trainer maker"
+  },
+  {
+    "repo": "Sunislazi/rbxfpsunlocker-boost-More-240FPS",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "rbxfpsunlocker Roblox FPS BOOST: Roblox FPS unlocker download free More 240 FPS, uncap 60 FPS limit, axst GitHub source code, high refresh rate monitor, Roblox client lag fix, Byfron Hyperion anti-cheat compatibility, safe to use ban status, settings.ini configuration, rfu.exe not working error, ClientAppSettings json,bloxtstrap fps unlocke"
+  },
+  {
+    "repo": "pro-deploy/aegil",
+    "branch": "main",
+    "language": "Python",
+    "description": ""
+  },
+  {
+    "repo": "gemtoast/solana-trading-bot",
+    "branch": "devel",
+    "language": "TypeScript",
+    "description": "Solana trading bot pumpfun pumpdotfun trading/copy-trading bot, pumpswap and raydium trading bot sniper bot, copy trading bot, trading bot, Solana trading bot pumpfun pumpdotfun trading/copy-trading bot, pumpswap and raydium trading bot sniper bot, copy trading bot, trading bot, Solana trading bot pumpfun pumpdotfun trading/copy-trading bot"
+  },
+  {
+    "repo": "rit3zh/expo-motion-tabs",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "⚡️ Smooth motion tabs for Expo Router"
+  },
+  {
+    "repo": "Leonard-Anike/Catalog_Avatar_Creator_-_Unlimited_Robux___Items",
+    "branch": "main",
+    "language": "Python",
+    "description": "Unlimited Robux and items for Catalog Avatar Creator, the avatar customization game with 7 billion visits[reference:27]. Unlock all clothing, accessories, and create the perfect avatar."
+  },
+  {
+    "repo": "Jane-xiaoer/paper-collage-ad-codex",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "Codex skill for complete paper-cut collage ad production, local IndexTTS-2 voice cloning, animation, audio and MP4 QC"
+  },
+  {
+    "repo": "patchfighterway90/cs2-external-overlay",
+    "branch": "main",
+    "language": "Python",
+    "description": "The cs2 external helper tool is a software utility designed for gamers and developers. It provides a set of features to enhance the gaming experience, including a customizable overlay. The tool is particularly useful for users who want to access additional information during gameplay."
+  },
+  {
+    "repo": "chiennv2000/orthrus",
+    "branch": "main",
+    "language": "Python",
+    "description": "Fast, lossless LLM inference via dual-view diffusion decoding."
+  },
+  {
+    "repo": "0xhype/hyperliquid-tracker",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Get notified when big trades happen on Hyperliquid."
+  },
+  {
+    "repo": "open-gsd/gsd-pi",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "A powerful meta-prompting, context engineering and spec-driven development system that enables agents to work for long periods of time autonomously without losing track of the big picture"
+  },
+  {
+    "repo": "v12-security/pocs",
+    "branch": "main",
+    "language": "C",
+    "description": "poc it like it's hot"
+  },
+  {
+    "repo": "Intuition-Lab/personal-model",
+    "branch": "main",
+    "language": "Python",
+    "description": "Build your HUMAN.md."
+  },
+  {
+    "repo": "XFaltixX/DBD-AutoGrind-Trainer-2026-Plus",
+    "branch": "main",
+    "language": "Python",
+    "description": "Ultimate Dead by Daylight auto-grind trainer Plus edition with Bloodpoint bot, ESP wallhack, aimbot, and full perk/skin unlocker. Dominate the Fog with our 2026 undetected external tool."
+  },
+  {
+    "repo": "AnonymousDev1494/System_Information_Viewer",
+    "branch": "main",
+    "language": "Python",
+    "description": "Show detailed hardware and software info. Show processor details, memory usage, graphics card info, and Windows version. Get full system specs."
+  },
+  {
+    "repo": "facebookresearch/vggt-omega",
+    "branch": "main",
+    "language": "Python",
+    "description": "[CVPR 2026 Oral] VGGT Omega"
   },
   {
     "repo": "RevylAI/app-explorer",
     "branch": "main",
     "language": "TypeScript",
     "description": "Map every screen and user path in a mobile app — interactive navigation maps with screenshots"
-  },
-  {
-    "repo": "innoqiu/newsieai",
-    "branch": "master",
-    "language": "Python",
-    "description": ""
-  },
-  {
-    "repo": "Doryoku1223/lunwen-skill",
-    "branch": "main",
-    "language": "Python",
-    "description": "面向本科计科学生的一键论文初稿 Skill，支持样文/开题报告/模板驱动生成，并补全流程图、ER 图和项目截图"
-  },
-  {
-    "repo": "kulikov0/whitelist-bypass",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": ""
-  },
-  {
-    "repo": "DadsMmoLab/dads-mmo-lab",
-    "branch": "main",
-    "language": "Shell",
-    "description": "Offline MMO private servers on Steam Deck. Free guides, Docker scripts & shell installers for classic MMOs. No subscription. No internet. Forever. Visibility:       ✅ Public"
-  },
-  {
-    "repo": "sandroandric/clime",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "One CLI to find every CLI"
-  },
-  {
-    "repo": "CamTheBun/KMS-Auto-Tool",
-    "branch": "main",
-    "language": "C++",
-    "description": "Tool KMSAuto Net Tutorial Permanent License HWID Gen VL Converter Retail to Volume Fix Error 0xc004f074 System Administration Utility 2026 Build"
-  },
-  {
-    "repo": "earendil-works/pi-review",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "A review extension for Pi"
-  },
-  {
-    "repo": "whisperbit-labs/zemzeme-android",
-    "branch": "main",
-    "language": "Kotlin",
-    "description": "Private, serverless messaging for Android - offline Bluetooth mesh, peer-to-peer, and Nostr relay. No accounts, no internet required."
-  },
-  {
-    "repo": "Julpygo/Claude-Code-AI-Design",
-    "branch": "main",
-    "language": "C++",
-    "description": "Claude Design Anthropic Tool Download April 2026 Figma to Code AI Agent Research Preview Claude Code CLI Integration React 19 Tailwind v4 Support Model Context Protocol MCP Server Setup Design Systems Automation UI UX Prototyping Next.js Component Generation Best Developer Tools 2026 Free Tutorial"
-  },
-  {
-    "repo": "warpdot-dev/composio",
-    "branch": "next",
-    "language": "TypeScript",
-    "description": "typescript python sdk ai-agents anthropic openapi langchain openai-agents llamaindex mastra vercel-ai mcp oauth saas llm integrations agent-tools automation cloudflare google-gemini tooling rag multi-provider developer-sdk composable-actions webhook-triggers"
-  },
-  {
-    "repo": "ProjectBarks/gopher-code",
-    "branch": "main",
-    "language": "Go",
-    "description": "Claude Code, rewritten from scratch in Go. Zero Node.js. Zero Electron. One binary."
-  },
-  {
-    "repo": "hpennington/agentswift",
-    "branch": "main",
-    "language": "Swift",
-    "description": ""
-  },
-  {
-    "repo": "jlabon2/PsUi",
-    "branch": "main",
-    "language": "PowerShell",
-    "description": "For building UIs in PowerShell without the misery."
-  },
-  {
-    "repo": "pixelxzen/phantom-motion",
-    "branch": "main",
-    "language": "HTML",
-    "description": "Phantom-Motion is an incredibly powerful, epic interactive dynamic visual storytelling generator. Its capabilities are limited only by the bounds of your imagination! 它是一个极其硬核的史诗级交互式动态视觉叙事生成器。它的实力只取决于你的想象力高低！"
-  },
-  {
-    "repo": "parcadei/ouros",
-    "branch": "main",
-    "language": "Rust",
-    "description": "A sandboxed Python runtime for AI agents, written in Rust."
-  },
-  {
-    "repo": "dev-protocol/polymarket-copytrading-bot-sport",
-    "branch": "master",
-    "language": "TypeScript",
-    "description": "This Polymarket Copy Trading Bot is designed to diversify across different prediction markets, minimizing exposure to any single market’s volatility. CLUE: @polymarket copytrading bot || #polymarket trading bot || @polymarket copytrading bot || #polymarket trading bot || @polymarket copytrading bot || #polymarket trading bot || polymarket copytrade"
-  },
-  {
-    "repo": "lardissone/ansi-saver",
-    "branch": "main",
-    "language": "Swift",
-    "description": "ANSI art screensaver for macOS — streams art from 16colo.rs BBS archive packs"
-  },
-  {
-    "repo": "Fox-Fig/phoenix",
-    "branch": "main",
-    "language": "Go",
-    "description": "Phoenix is a high-performance, resilient tunneling tool designed to bypass DPI and severe network censorship using HTTP/2 (h2/h2c) multiplexing."
-  },
-  {
-    "repo": "rasbt/mini-coding-agent",
-    "branch": "main",
-    "language": "Python",
-    "description": "Minimal and readable coding agent harness implementation in Python to explain the core components of coding agents."
-  },
-  {
-    "repo": "LichAmnesia/lich-skills",
-    "branch": "main",
-    "language": "Python",
-    "description": ""
-  },
-  {
-    "repo": "caddyserver/caddy",
-    "branch": "master",
-    "language": "Go",
-    "description": "Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS"
-  },
-  {
-    "repo": "AMAP-ML/SpatialGenEval",
-    "branch": "main",
-    "language": "Python",
-    "description": ""
   }
 ]
