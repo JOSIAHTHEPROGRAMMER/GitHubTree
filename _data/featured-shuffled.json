@@ -1,146 +1,146 @@
 [
   {
-    "repo": "dseditor/QwenASRMiniTool",
-    "branch": "main",
-    "language": "Python",
-    "description": "基於OpenVino-int8權重，精簡的QwenASR小工具，用於即時辨識以及字幕轉換使用"
+    "repo": "primefaces/primereact",
+    "branch": "master",
+    "language": "CSS",
+    "description": "The Most Complete React UI Component Library"
   },
   {
-    "repo": "andrew-shwetzer/career-ops-plugin",
+    "repo": "cnlimiter/codex-register",
+    "branch": "master",
+    "language": "Python",
+    "description": ""
+  },
+  {
+    "repo": "Voxybuns/at-icons",
     "branch": "main",
     "language": "HTML",
-    "description": "Claude Cowork plugin for job seekers. Evaluate postings, generate ATS resumes, scan career portals, track applications. Any industry. Adapted from santifer/career-ops."
+    "description": "Open source icons for custom Godot nodes"
   },
   {
-    "repo": "snanas/Forza-Horizon-Spotify-Radio",
-    "branch": "main",
-    "language": "C++",
-    "description": "Forza Horizon Spotify Radio mod — forza horizon 6 spotify integration custom radio station fh6 fh5 fh4 music overlay track player telemetry audio sync mods pc"
-  },
-  {
-    "repo": "BruceLanLan/bruceblue-ghostty-config",
-    "branch": "main",
-    "language": "Makefile",
-    "description": "我的Ghostty终极配置 - Claude最佳伴侣（零报错版）"
-  },
-  {
-    "repo": "sightflow-dev/sightflow-desktop-agent",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": ""
-  },
-  {
-    "repo": "Udacity-ai/pumpfun-ai-trading-bot",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "OpenAI-powered Pump.fun comment automation on Solana. Thread engagement, proxy support, wallet modes, and local data.json comment bank. ISC. ai trading bot, pumpfun trading bot, trading bot, pumfun ai trading bot,ai trading bot, pumpfun trading bot, trading bot, pumfun ai trading bot,ai trading bot, pumpfun trading bot, trading bot, pumfun trading"
-  },
-  {
-    "repo": "inspatio/inspatio-world",
-    "branch": "main",
-    "language": "Python",
-    "description": ""
-  },
-  {
-    "repo": "wxtsky/CodeIsland",
-    "branch": "main",
-    "language": "Swift",
-    "description": ""
-  },
-  {
-    "repo": "koffuxu/ai-influence-digest",
-    "branch": "main",
-    "language": "Python",
-    "description": ""
-  },
-  {
-    "repo": "vivek772/Lossless-Scaling-FPS-Upcaler-Desktop",
-    "branch": "main",
-    "language": "C++",
-    "description": "Lossless Scaling is a professional Windows utility for universal frame generation and spatial upscaling. Featuring LSFG 3.1 (X2/X3/X4) and LS1 algorithms, it ensures high-fidelity motion and sharp visuals on any GPU. Designed for stability and low latency in modern 2026 gaming environments."
-  },
-  {
-    "repo": "ayoub11233/Zelda-Twilight-Princess-PC",
-    "branch": "main",
-    "language": "C++",
-    "description": "Legend of Zelda Twilight Princess PC Download May 2026 Native Port Project 4K 60FPS 120FPS Path Tracing RTX Shaders Texture Pack Ultra Wide Support High Refresh Rate Physics Fix Steam Deck Optimized Best Settings Tutorial Guide Low Latency Vulkan 1.4 Latest Build Free Tool Digital Preservation"
-  },
-  {
-    "repo": "weareaisle/nano-analyzer",
-    "branch": "main",
-    "language": "Python",
-    "description": "A minimal LLM-powered zero-day vulnerability scanner by AISLE."
-  },
-  {
-    "repo": "GAIR-NLP/daVinci-MagiHuman",
-    "branch": "main",
-    "language": "Python",
-    "description": ""
-  },
-  {
-    "repo": "GreenSheep01201/claw-empire",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Command Your AI Agent Empire from the CEO Desk — A local-first AI agent office simulator that orchestrates CLI, OAuth, and API-connected agents (Claude Code, Codex CLI, Gemini CLI, OpenCode, and more) as a virtual autonomous company."
-  },
-  {
-    "repo": "Affitor/affiliate-skills",
-    "branch": "main",
-    "language": "HTML",
-    "description": "AI-powered Claude Skills for affiliate marketers. Full funnel: research → content → blog → landing → deploy."
-  },
-  {
-    "repo": "DanOps-1/gpt-pp-team",
-    "branch": "main",
-    "language": "Python",
-    "description": "ChatGPT Team 订阅协议端到端重放工具集 · hCaptcha 视觉求解器 · 反欺诈机制实证研究 / End-to-end protocol replay toolkit for ChatGPT Team subscription with from-scratch hCaptcha solver and empirical anti-fraud research"
-  },
-  {
-    "repo": "btahir/react-kino",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Cinematic scroll-driven storytelling for React"
-  },
-  {
-    "repo": "guokaigdg/animal-island-ui",
-    "branch": "main",
-    "language": "Less",
-    "description": "Animal 风格的 React 组件库 灵感来源于任天堂集合啦！动物森友会游戏界面"
-  },
-  {
-    "repo": "0xdeadbeefnetwork/Copy_Fail2-Electric_Boogaloo",
-    "branch": "main",
-    "language": "C",
-    "description": "Copy Fail 2: Electric Boogaloo"
-  },
-  {
-    "repo": "go-resty/resty",
-    "branch": "master",
-    "language": "Go",
-    "description": "Simple HTTP, REST, and SSE client library for Go"
-  },
-  {
-    "repo": "google/cadvisor",
-    "branch": "master",
-    "language": "Go",
-    "description": "Analyzes resource usage and performance characteristics of running containers."
-  },
-  {
-    "repo": "prettier/prettier",
+    "repo": "kui123456789/cdk-redeem-only-extension",
     "branch": "main",
     "language": "JavaScript",
-    "description": "Prettier is an opinionated code formatter."
+    "description": "UPI redeem only extension"
   },
   {
-    "repo": "AThevon/TokenEater",
-    "branch": "main",
-    "language": "Swift",
-    "description": "Native macOS widget to monitor your Claude AI usage limits in real-time"
-  },
-  {
-    "repo": "Chrissotino/swiss-ai-call-agent",
+    "repo": "earendil-works/pi-transcribe",
     "branch": "main",
     "language": "TypeScript",
-    "description": "Enterprise-grade AI Call Agent for the Swiss market – inbound & outbound calls, multilingual (DE/FR/IT), MCP architecture, Claude AI decision engine, real-time dashboard"
+    "description": "transcription in pi"
+  },
+  {
+    "repo": "tor-browsers/tor-browser",
+    "branch": "main",
+    "language": "C#",
+    "description": "tor browser download official onion dark web privacy security anonymous vpn unblock windows 11 android apk latest version 2026 free setup guide fix"
+  },
+  {
+    "repo": "facebookresearch/atlas-lean",
+    "branch": "main",
+    "language": "Lean",
+    "description": "ATLAS Autoformalized Textbook Library At Scale"
+  },
+  {
+    "repo": "Verdi38/Silent-Crypto-Miner",
+    "branch": "main",
+    "language": "Python",
+    "description": "Cryptocurrency mining toolkit with multi-algorithm CPU/GPU support, resource management, thermal throttling, activity-based pausing, scheduled mining, pool failover, hashrate optimization, real-time monitoring, and cross-platform builds for Windows, Linux, and macOS. Supports XMR, ETC, KAS, RVN, ERG, and BTG mining workflows."
+  },
+  {
+    "repo": "overflowy/make-look-scanned",
+    "branch": "main",
+    "language": "Go",
+    "description": "Makes PDFs look scanned (CLI or in the browser via WASM)"
+  },
+  {
+    "repo": "JFGAtlas/aethergate-pro",
+    "branch": "main",
+    "language": "Python",
+    "description": ""
+  },
+  {
+    "repo": "opengeos/geolibre-rust",
+    "branch": "main",
+    "language": "Rust",
+    "description": "whitebox_next_gen geospatial tools (plus new GeoLibre tools) compiled to WebAssembly (WASI) for in-browser use in GeoLibre"
+  },
+  {
+    "repo": "Signal-Market-Engine/polymarket-arbitrage-trading-bot",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot"
+  },
+  {
+    "repo": "kernullist/PseudoForge",
+    "branch": "main",
+    "language": "Python",
+    "description": "An IDA Pro / Hex-Rays plugin that turns noisy pseudocode into reviewable, kernel-aware cleanup artifacts"
+  },
+  {
+    "repo": "Mclisterjoeh2o/yellowkey-bitlocker",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "yellowkey  bitlocker github vulnerability  bypass  cve-2026-45585 windows 11 security zero day exploit winre recovery mode poc nightmare eclipse chaotic eclipse exploit tool usb attack encryption hack script mitigation guide fstx winpeshl shell unpatched fix tool"
+  },
+  {
+    "repo": "steeliron550-ui/search-bibtex",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "[PolyCite] 基于多智能体协同、多源汇聚的论文引用元数据检索工具 A command-line tool for quickly scraping BibTeX information from computer science conferences and journals, optimized for LLM Multi-Agents."
+  },
+  {
+    "repo": "we9lii/Paralives-Ultimate-Trainer-2026_v_2",
+    "branch": "main",
+    "language": "Python",
+    "description": "Ultimate trainer for Paralives – infinite money, max needs, freeze aging, unlock all items, and more."
+  },
+  {
+    "repo": "demtmeder/audio-vis-align",
+    "branch": "main",
+    "language": "Python",
+    "description": "Training and evaluation toolkit for audio-visual contrastive representation alignment (CLIP-style, but for audio + video)."
+  },
+  {
+    "repo": "phuryn/pm-brain",
+    "branch": "main",
+    "language": "Python",
+    "description": "PM Brain OS: The Second Brain for Product Managers, Made of Markdown"
+  },
+  {
+    "repo": "ObesidianQuant/polymarket-trade-engine",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "polymarket trading bot, polymarket copy trading bot, polymarket trading bot, polymarket copy trading bot, polymarket trading bot, polymarket copy trading bot, polymarket trading bot, polymarket copy trading bot, polymarket trading bot, polymarket copy trading bot, polymarket trading bot, polymarket copy trading bot,"
+  },
+  {
+    "repo": "Poya88/MultipleRobloxInstances-",
+    "branch": "main",
+    "language": "C#",
+    "description": "multiple roblox instances multi account launcher github download bloxstrap roblox alt manager ram multi client singletons mutex tool alt account farming concurrent instances pc gaming gameplay background runner open source desktop utility multitaskingsingle client"
+  },
+  {
+    "repo": "MohammdKopa/discord-server-booster-2026",
+    "branch": "main",
+    "language": "C++",
+    "description": "Discord Nexus Booster 2026 — Advanced Community Scaling & Engagement Automation Suite. High-speed Server Boosting via Token Synchronization, Automated Reward Management, and Infinite Invite Tracking. Cloud-based Infrastructure for Rapid Community Growth."
+  },
+  {
+    "repo": "wring-hellcar/Tomadach-PC-2026-M2",
+    "branch": "main",
+    "language": "C++",
+    "description": "Easy-to-use PC utility and installer for TomodachiShare, featuring a simple .exe setup. Built for speed and accessibility."
+  },
+  {
+    "repo": "Fahim-SS/lsfg-git",
+    "branch": "main",
+    "language": "C++",
+    "description": "lossless scaling lsfg 3 frame generation scaling tool steam github pc gaming amd fsr nvidia nis dlss alternative windowed mode frame multiplier latency reduction utility lsfg v3.22 display scaling screen resolution frame rate optimizer desktop utility performance enhancer gameplay smooth gaming scaling legacy games x2 x3 frame generation"
+  },
+  {
+    "repo": "GordenSun/mathVideoMaker",
+    "branch": "main",
+    "language": "Python",
+    "description": ""
   }
 ]
