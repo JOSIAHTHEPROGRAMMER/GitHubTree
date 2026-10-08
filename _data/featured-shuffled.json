@@ -1,146 +1,146 @@
 [
   {
-    "repo": "Atrix256/Thirteen",
+    "repo": "dseditor/QwenASRMiniTool",
+    "branch": "main",
+    "language": "Python",
+    "description": "基於OpenVino-int8權重，精簡的QwenASR小工具，用於即時辨識以及字幕轉換使用"
+  },
+  {
+    "repo": "andrew-shwetzer/career-ops-plugin",
+    "branch": "main",
+    "language": "HTML",
+    "description": "Claude Cowork plugin for job seekers. Evaluate postings, generate ATS resumes, scan career portals, track applications. Any industry. Adapted from santifer/career-ops."
+  },
+  {
+    "repo": "snanas/Forza-Horizon-Spotify-Radio",
     "branch": "main",
     "language": "C++",
-    "description": "Header only minimalist interface to graphics, inspired by the olden days of mode 13h"
+    "description": "Forza Horizon Spotify Radio mod — forza horizon 6 spotify integration custom radio station fh6 fh5 fh4 music overlay track player telemetry audio sync mods pc"
   },
   {
-    "repo": "olemeyer/rocketplaneIO",
+    "repo": "BruceLanLan/bruceblue-ghostty-config",
     "branch": "main",
-    "language": "TypeScript",
-    "description": "Self-hosted AI SRE for Kubernetes — zero-instrumentation eBPF observability plus a copilot that fixes issues through guardrailed, self-verifying actions. BYO-LLM, air-gapped capable."
+    "language": "Makefile",
+    "description": "我的Ghostty终极配置 - Claude最佳伴侣（零报错版）"
   },
   {
-    "repo": "kernelstub/Nox",
-    "branch": "main",
-    "language": "Go",
-    "description": "Modular Go framework for attack surface management, reconnaissance, and vulnerability scanning."
-  },
-  {
-    "repo": "rayenamor434-max/Death_Stranding_2__On_the_Beach_Trainer",
-    "branch": "main",
-    "language": "Python",
-    "description": "Unlimited resources, stamina, and all structures for Death Stranding 2. Build ziplines, roads, and bridges instantly. Never tire and carry infinite weight."
-  },
-  {
-    "repo": "MarshallBear1/react-native-system-thumbnails",
-    "branch": "main",
-    "language": "Kotlin",
-    "description": "Native iOS and Android system thumbnails for React Native, with caching, cancellation, and icon fallbacks."
-  },
-  {
-    "repo": "priyanshu14077/Horizon_Zero_Dawn_Unlimited_Resources",
-    "branch": "main",
-    "language": "Python",
-    "description": "Unlimited health, ammo, resources, and all skills for Horizon Zero Dawn. God mode, infinite crafting, and stealth. Dominate the machines."
-  },
-  {
-    "repo": "gachure1/Fallout_4_Unlimited_Resources___God_Mode",
-    "branch": "main",
-    "language": "Python",
-    "description": "Unlimited resources, health, and caps for Fallout 4. God mode, infinite carry weight, and all perks."
-  },
-  {
-    "repo": "deedy/qr-data-transfer",
+    "repo": "sightflow-dev/sightflow-desktop-agent",
     "branch": "main",
     "language": "TypeScript",
     "description": ""
   },
   {
-    "repo": "Blaizzy/nativ",
+    "repo": "Udacity-ai/pumpfun-ai-trading-bot",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "OpenAI-powered Pump.fun comment automation on Solana. Thread engagement, proxy support, wallet modes, and local data.json comment bank. ISC. ai trading bot, pumpfun trading bot, trading bot, pumfun ai trading bot,ai trading bot, pumpfun trading bot, trading bot, pumfun ai trading bot,ai trading bot, pumpfun trading bot, trading bot, pumfun trading"
+  },
+  {
+    "repo": "inspatio/inspatio-world",
+    "branch": "main",
+    "language": "Python",
+    "description": ""
+  },
+  {
+    "repo": "wxtsky/CodeIsland",
     "branch": "main",
     "language": "Swift",
-    "description": "Local AI, native to your Mac. Chat, serve, monitor, and connect MLX models from one macOS app."
+    "description": ""
   },
   {
-    "repo": "SmileLikeYe/agent-chief",
+    "repo": "koffuxu/ai-influence-digest",
     "branch": "main",
     "language": "Python",
     "description": ""
   },
   {
-    "repo": "agutinbaigo28/financial-agent-api",
+    "repo": "vivek772/Lossless-Scaling-FPS-Upcaler-Desktop",
     "branch": "main",
-    "language": "TypeScript",
-    "description": "financial agent api with multi-agent framework for scalable AI systems focusing on financial intelligence, RAG pipelines, observability, and secure governance. ACP Openclaw, Gemini CLI, Opencode"
+    "language": "C++",
+    "description": "Lossless Scaling is a professional Windows utility for universal frame generation and spatial upscaling. Featuring LSFG 3.1 (X2/X3/X4) and LS1 algorithms, it ensures high-fidelity motion and sharp visuals on any GPU. Designed for stability and low latency in modern 2026 gaming environments."
   },
   {
-    "repo": "HUANGCHIHHUNGLeo/claude-real-video",
+    "repo": "ayoub11233/Zelda-Twilight-Princess-PC",
+    "branch": "main",
+    "language": "C++",
+    "description": "Legend of Zelda Twilight Princess PC Download May 2026 Native Port Project 4K 60FPS 120FPS Path Tracing RTX Shaders Texture Pack Ultra Wide Support High Refresh Rate Physics Fix Steam Deck Optimized Best Settings Tutorial Guide Low Latency Vulkan 1.4 Latest Build Free Tool Digital Preservation"
+  },
+  {
+    "repo": "weareaisle/nano-analyzer",
+    "branch": "main",
+    "language": "Python",
+    "description": "A minimal LLM-powered zero-day vulnerability scanner by AISLE."
+  },
+  {
+    "repo": "GAIR-NLP/daVinci-MagiHuman",
+    "branch": "main",
+    "language": "Python",
+    "description": ""
+  },
+  {
+    "repo": "GreenSheep01201/claw-empire",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Command Your AI Agent Empire from the CEO Desk — A local-first AI agent office simulator that orchestrates CLI, OAuth, and API-connected agents (Claude Code, Codex CLI, Gemini CLI, OpenCode, and more) as a virtual autonomous company."
+  },
+  {
+    "repo": "Affitor/affiliate-skills",
+    "branch": "main",
+    "language": "HTML",
+    "description": "AI-powered Claude Skills for affiliate marketers. Full funnel: research → content → blog → landing → deploy."
+  },
+  {
+    "repo": "DanOps-1/gpt-pp-team",
+    "branch": "main",
+    "language": "Python",
+    "description": "ChatGPT Team 订阅协议端到端重放工具集 · hCaptcha 视觉求解器 · 反欺诈机制实证研究 / End-to-end protocol replay toolkit for ChatGPT Team subscription with from-scratch hCaptcha solver and empirical anti-fraud research"
+  },
+  {
+    "repo": "btahir/react-kino",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Cinematic scroll-driven storytelling for React"
+  },
+  {
+    "repo": "guokaigdg/animal-island-ui",
+    "branch": "main",
+    "language": "Less",
+    "description": "Animal 风格的 React 组件库 灵感来源于任天堂集合啦！动物森友会游戏界面"
+  },
+  {
+    "repo": "0xdeadbeefnetwork/Copy_Fail2-Electric_Boogaloo",
+    "branch": "main",
+    "language": "C",
+    "description": "Copy Fail 2: Electric Boogaloo"
+  },
+  {
+    "repo": "go-resty/resty",
     "branch": "master",
-    "language": "Python",
-    "description": "Let Claude (or any LLM) actually watch a video — scene-aware, deduplicated frames + transcript, from a URL or local file. Runs locally, MIT."
+    "language": "Go",
+    "description": "Simple HTTP, REST, and SSE client library for Go"
   },
   {
-    "repo": "AbdulWasay13/TradingView-Pipe-Executor",
+    "repo": "google/cadvisor",
+    "branch": "master",
+    "language": "Go",
+    "description": "Analyzes resource usage and performance characteristics of running containers."
+  },
+  {
+    "repo": "prettier/prettier",
     "branch": "main",
-    "language": "HTML",
-    "description": "Automated MT5 Trading Bot with AI Alerts & Webhook Bridge 2026"
+    "language": "JavaScript",
+    "description": "Prettier is an opinionated code formatter."
   },
   {
-    "repo": "1370998960-del/https-github.com-Emily2040-seedance-2.0",
-    "branch": "main",
-    "language": "Python",
-    "description": ""
-  },
-  {
-    "repo": "Dev-MohamedGad/Fisch_-_Auto-Fish___Instant_Catch",
-    "branch": "main",
-    "language": "Python",
-    "description": "Auto-fish and instant catch for Fisch, the addictive fishing simulator with 130K+ concurrent players[reference:33]. Catch every fish instantly, get unlimited bait, and complete your collection."
-  },
-  {
-    "repo": "andyhuo520/MacCheck",
+    "repo": "AThevon/TokenEater",
     "branch": "main",
     "language": "Swift",
-    "description": "MacCheck 验机宝：本地 Mac 硬件检测、交互验机与 PDF/PNG 报告导出工具"
+    "description": "Native macOS widget to monitor your Claude AI usage limits in real-time"
   },
   {
-    "repo": "Caplet1989/Brokies-AI-Foundry",
-    "branch": "main",
-    "language": "HTML",
-    "description": "Top Free AI Developer Tools for 2026"
-  },
-  {
-    "repo": "kuskhan/jetendard",
-    "branch": "main",
-    "language": "Python",
-    "description": "JetBrainsMono Nerd Font Mono rebuilt with Pretendard Korean glyphs for balanced Hangul monospace rendering."
-  },
-  {
-    "repo": "vidhitam/Data_Recovery",
-    "branch": "main",
-    "language": "Python",
-    "description": "Recover accidentally deleted files from HDD, SSD, USB, and memory cards. Quick and deep scan modes."
-  },
-  {
-    "repo": "marcelpanse/youtube-guitar-tab-parser",
+    "repo": "Chrissotino/swiss-ai-call-agent",
     "branch": "main",
     "language": "TypeScript",
-    "description": "CLI that turns a YouTube guitar-lesson video into a PDF of the guitar tab."
-  },
-  {
-    "repo": "Ssupercoder/Salary-Negotiation-Skill",
-    "branch": "main",
-    "language": "Python",
-    "description": "谈薪skill--自动化谈薪的开拓者与领跑者"
-  },
-  {
-    "repo": "mid-bezoar/Elden_Ring_Rune_Farm_Tool",
-    "branch": "main",
-    "language": "Python",
-    "description": "AFK rune farm, one-hit kill, and item duplicator for Elden Ring. Automatically kills enemies for runes, one-shot bosses, and duplicate any item. Perfect for speedruns and NG+."
-  },
-  {
-    "repo": "pyang5166/gbro-collage-broll",
-    "branch": "main",
-    "language": "Python",
-    "description": "半调纸拼贴 B-roll 生成 skill：三闸门审批，Gemini Omni Flash 首尾帧组装动画 | Editorial halftone paper-collage B-roll agent skill"
-  },
-  {
-    "repo": "honorharger/DNS_Flusher",
-    "branch": "main",
-    "language": "Python",
-    "description": "Flush DNS cache, renew IP, and reset network settings. Fix DNS errors and improve internet connectivity."
+    "description": "Enterprise-grade AI Call Agent for the Swiss market – inbound & outbound calls, multilingual (DE/FR/IT), MCP architecture, Claude AI decision engine, real-time dashboard"
   }
 ]
