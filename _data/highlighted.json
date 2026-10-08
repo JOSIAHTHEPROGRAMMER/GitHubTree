@@ -1,8 +1,8 @@
 {
-  "repo": "Zhou-Yujing114514/deepseek-harness-linux",
-  "branch": "master",
-  "language": "TypeScript",
-  "description": "First-class Linux packaging for DeepSeek Harness desktop — AppImage, .deb, .tar.gz for x64/arm64, built by native CI.",
-  "stars": 117,
-  "forks": 13
+  "repo": "liouhai/plot-is-all-you-need",
+  "branch": "main",
+  "language": "Python",
+  "description": "A featured project on GitHubTree.",
+  "stars": 161,
+  "forks": 3
 }

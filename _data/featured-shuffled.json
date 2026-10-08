@@ -1,146 +1,146 @@
 [
   {
-    "repo": "kitze/skillbox",
+    "repo": "Atrix256/Thirteen",
+    "branch": "main",
+    "language": "C++",
+    "description": "Header only minimalist interface to graphics, inspired by the olden days of mode 13h"
+  },
+  {
+    "repo": "olemeyer/rocketplaneIO",
     "branch": "main",
     "language": "TypeScript",
-    "description": "Self-hosted, versioned skills library for AI agents. MCP, scoped clients, and optional Jev recommendations."
+    "description": "Self-hosted AI SRE for Kubernetes — zero-instrumentation eBPF observability plus a copilot that fixes issues through guardrailed, self-verifying actions. BYO-LLM, air-gapped capable."
   },
   {
-    "repo": "Yaolinwang/AITD",
-    "branch": "main",
-    "language": "Python",
-    "description": "AI Trading Agent for Everyone"
-  },
-  {
-    "repo": "xarbit/plasma6-applet-appgrid",
-    "branch": "main",
-    "language": "QML",
-    "description": "A modern  application launcher for KDE Plasma, inspired by macOS  and COSMIC."
-  },
-  {
-    "repo": "material-components/material-components-android",
-    "branch": "master",
-    "language": "Java",
-    "description": "Modular and customizable Material Design UI components for Android"
-  },
-  {
-    "repo": "backstage/backstage",
-    "branch": "master",
-    "language": "TypeScript",
-    "description": "Backstage is an open framework for building developer portals"
-  },
-  {
-    "repo": "nesaminua/claude-code-lsp-enforcement-kit",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "Hooks that force Claude Code to use LSP instead of Grep for code navigation. Saves   ~80% tokens"
-  },
-  {
-    "repo": "tonbistudio/turboquant-pytorch",
-    "branch": "master",
-    "language": "Python",
-    "description": "From-scratch PyTorch implementation of Google's TurboQuant (ICLR 2026) for LLM KV cache compression. 5x compression at 3-bit with 99.5% attention fidelity."
-  },
-  {
-    "repo": "joewongjc/type4me",
-    "branch": "main",
-    "language": "Swift",
-    "description": "MacOS语音输入工具，实时识别、大模型文本优化、全本地存储"
-  },
-  {
-    "repo": "Spade-sec/First",
-    "branch": "main",
-    "language": "Python",
-    "description": "WMPFDebugger 二开微信小程序多功能集成工具"
-  },
-  {
-    "repo": "mrdoob/three.wasm",
-    "branch": "master",
-    "language": "TypeScript",
-    "description": "8x Faster JavaScript 3D Library."
-  },
-  {
-    "repo": "actions/download-artifact",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Download artifacts from your build"
-  },
-  {
-    "repo": "VineeTagarwaL-code/claude-code",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": ""
-  },
-  {
-    "repo": "chatgptprojects/clear-code",
-    "branch": "main",
-    "language": "Shell",
-    "description": "See your claude code logs in clear details in your dashboard"
-  },
-  {
-    "repo": "maybe-finance/maybe",
-    "branch": "main",
-    "language": "Ruby",
-    "description": "The personal finance app for everyone"
-  },
-  {
-    "repo": "F-R-L/forge-film",
-    "branch": "main",
-    "language": "Python",
-    "description": "Multi-model DAG-driven parallel AI film generation — parallel speedup scales with scene independence; Generate film scenes simultaneously instead of one by one;  把影视生成的执行图从拓扑序变成关键路径最优调度 ; 唯一把场景叙事依赖建模为 DAG、以 CPM    算法驱动并行调度的影视生成引擎"
-  },
-  {
-    "repo": "filiksyos/gitreverse",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Reverse engineer any repo into it's original prompt"
-  },
-  {
-    "repo": "robinebers/openusage",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "A plugin-based menu bar app for tracking AI coding tool subscriptions like Cursor, Claude, Codex and more, all in one place with a heavy focus user experience, speed, and stability."
-  },
-  {
-    "repo": "ultraworkers/claw-code-parity",
-    "branch": "main",
-    "language": "Rust",
-    "description": "claw-code Rust port parity work - it is temporary work while claw-code repo is doing migration"
-  },
-  {
-    "repo": "LING71671/Open-ClaudeCode",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "ClaudeCode related repository"
-  },
-  {
-    "repo": "antflydb/antfly",
+    "repo": "kernelstub/Nox",
     "branch": "main",
     "language": "Go",
+    "description": "Modular Go framework for attack surface management, reconnaissance, and vulnerability scanning."
+  },
+  {
+    "repo": "rayenamor434-max/Death_Stranding_2__On_the_Beach_Trainer",
+    "branch": "main",
+    "language": "Python",
+    "description": "Unlimited resources, stamina, and all structures for Death Stranding 2. Build ziplines, roads, and bridges instantly. Never tire and carry infinite weight."
+  },
+  {
+    "repo": "MarshallBear1/react-native-system-thumbnails",
+    "branch": "main",
+    "language": "Kotlin",
+    "description": "Native iOS and Android system thumbnails for React Native, with caching, cancellation, and icon fallbacks."
+  },
+  {
+    "repo": "priyanshu14077/Horizon_Zero_Dawn_Unlimited_Resources",
+    "branch": "main",
+    "language": "Python",
+    "description": "Unlimited health, ammo, resources, and all skills for Horizon Zero Dawn. God mode, infinite crafting, and stealth. Dominate the machines."
+  },
+  {
+    "repo": "gachure1/Fallout_4_Unlimited_Resources___God_Mode",
+    "branch": "main",
+    "language": "Python",
+    "description": "Unlimited resources, health, and caps for Fallout 4. God mode, infinite carry weight, and all perks."
+  },
+  {
+    "repo": "deedy/qr-data-transfer",
+    "branch": "main",
+    "language": "TypeScript",
     "description": ""
   },
   {
-    "repo": "spring-projects/spring-framework",
+    "repo": "Blaizzy/nativ",
     "branch": "main",
-    "language": "Java",
-    "description": "Spring Framework"
+    "language": "Swift",
+    "description": "Local AI, native to your Mac. Chat, serve, monitor, and connect MLX models from one macOS app."
   },
   {
-    "repo": "liuup/claude-code-analysis",
+    "repo": "SmileLikeYe/agent-chief",
     "branch": "main",
-    "language": "TypeScript",
-    "description": "The analysis of Claude Code"
-  },
-  {
-    "repo": "activepieces/activepieces",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "AI Agents & MCPs & AI Workflow Automation • (~400 MCP servers for AI agents) • AI Automation / AI Agent with MCPs • AI Workflows & AI Agents • MCPs for AI Agents"
-  },
-  {
-    "repo": "Leonxlnx/claw-dev",
-    "branch": "main",
-    "language": "TypeScript",
+    "language": "Python",
     "description": ""
+  },
+  {
+    "repo": "agutinbaigo28/financial-agent-api",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "financial agent api with multi-agent framework for scalable AI systems focusing on financial intelligence, RAG pipelines, observability, and secure governance. ACP Openclaw, Gemini CLI, Opencode"
+  },
+  {
+    "repo": "HUANGCHIHHUNGLeo/claude-real-video",
+    "branch": "master",
+    "language": "Python",
+    "description": "Let Claude (or any LLM) actually watch a video — scene-aware, deduplicated frames + transcript, from a URL or local file. Runs locally, MIT."
+  },
+  {
+    "repo": "AbdulWasay13/TradingView-Pipe-Executor",
+    "branch": "main",
+    "language": "HTML",
+    "description": "Automated MT5 Trading Bot with AI Alerts & Webhook Bridge 2026"
+  },
+  {
+    "repo": "1370998960-del/https-github.com-Emily2040-seedance-2.0",
+    "branch": "main",
+    "language": "Python",
+    "description": ""
+  },
+  {
+    "repo": "Dev-MohamedGad/Fisch_-_Auto-Fish___Instant_Catch",
+    "branch": "main",
+    "language": "Python",
+    "description": "Auto-fish and instant catch for Fisch, the addictive fishing simulator with 130K+ concurrent players[reference:33]. Catch every fish instantly, get unlimited bait, and complete your collection."
+  },
+  {
+    "repo": "andyhuo520/MacCheck",
+    "branch": "main",
+    "language": "Swift",
+    "description": "MacCheck 验机宝：本地 Mac 硬件检测、交互验机与 PDF/PNG 报告导出工具"
+  },
+  {
+    "repo": "Caplet1989/Brokies-AI-Foundry",
+    "branch": "main",
+    "language": "HTML",
+    "description": "Top Free AI Developer Tools for 2026"
+  },
+  {
+    "repo": "kuskhan/jetendard",
+    "branch": "main",
+    "language": "Python",
+    "description": "JetBrainsMono Nerd Font Mono rebuilt with Pretendard Korean glyphs for balanced Hangul monospace rendering."
+  },
+  {
+    "repo": "vidhitam/Data_Recovery",
+    "branch": "main",
+    "language": "Python",
+    "description": "Recover accidentally deleted files from HDD, SSD, USB, and memory cards. Quick and deep scan modes."
+  },
+  {
+    "repo": "marcelpanse/youtube-guitar-tab-parser",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "CLI that turns a YouTube guitar-lesson video into a PDF of the guitar tab."
+  },
+  {
+    "repo": "Ssupercoder/Salary-Negotiation-Skill",
+    "branch": "main",
+    "language": "Python",
+    "description": "谈薪skill--自动化谈薪的开拓者与领跑者"
+  },
+  {
+    "repo": "mid-bezoar/Elden_Ring_Rune_Farm_Tool",
+    "branch": "main",
+    "language": "Python",
+    "description": "AFK rune farm, one-hit kill, and item duplicator for Elden Ring. Automatically kills enemies for runes, one-shot bosses, and duplicate any item. Perfect for speedruns and NG+."
+  },
+  {
+    "repo": "pyang5166/gbro-collage-broll",
+    "branch": "main",
+    "language": "Python",
+    "description": "半调纸拼贴 B-roll 生成 skill：三闸门审批，Gemini Omni Flash 首尾帧组装动画 | Editorial halftone paper-collage B-roll agent skill"
+  },
+  {
+    "repo": "honorharger/DNS_Flusher",
+    "branch": "main",
+    "language": "Python",
+    "description": "Flush DNS cache, renew IP, and reset network settings. Fix DNS errors and improve internet connectivity."
   }
 ]
