@@ -1,146 +1,146 @@
 [
   {
-    "repo": "mikehasa/golive-skill",
+    "repo": "ObesidianQuant/polymarket-trade-engine",
     "branch": "main",
     "language": "TypeScript",
-    "description": "Take your agent-built product live: hosting, database, domain, email, payments — on your own accounts. Open-source Agent Skill + zero-dependency Node CLI: detect → plan → approve → apply → verify. No GoLive account, backend or telemetry."
+    "description": "polymarket trading bot, polymarket copy trading bot, polymarket trading bot, polymarket copy trading bot, polymarket trading bot, polymarket copy trading bot, polymarket trading bot, polymarket copy trading bot, polymarket trading bot, polymarket copy trading bot, polymarket trading bot, polymarket copy trading bot,"
   },
   {
-    "repo": "Bartates/lunar-client-minecraft",
-    "branch": "main",
-    "language": "PowerShell",
-    "description": "lunar client minecraft download launcher fps boost pvp mods sodium optifine cosmetics windows 11 latest version 2026 free setup guide fix"
-  },
-  {
-    "repo": "frankchiu-dev/claude-codex-usage-dashboard",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "A local Windows dashboard for Claude Code and Codex usage limits."
-  },
-  {
-    "repo": "afumu/openteam",
+    "repo": "codetrybe/polymarket-arbitrage-bot",
     "branch": "main",
     "language": "TypeScript",
-    "description": "A Chrome extension for orchestrating local AI-agent team workflows across web AI services."
+    "description": "polymarket arbitrage bot polymarket arbitrage bot"
   },
   {
-    "repo": "wring-hellcar/Tomadach-PC-2026-M2",
+    "repo": "Dav777000/Create-Aeronautics-Minecraft-Mod",
     "branch": "main",
     "language": "C++",
-    "description": "Easy-to-use PC utility and installer for TomodachiShare, featuring a simple .exe setup. Built for speed and accessibility."
+    "description": "Create Aeronautics Minecraft Mod Download April 2026 Release  Physics Engine NeoForge 1.21.1 Airship Build Guide Propeller Bearings Survival SMP Modrinth CurseForge Tutorial Gameplay Trailer Reddit Hype Bug Fix Optimization Crafting Vehicles Fly Machines Hot Air Balloons Fabric Version Latest Update High Performance Mechanics"
   },
   {
-    "repo": "buynao/aipath",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "Interactive AI General Education Course — 30 Lessons, Zero Math"
-  },
-  {
-    "repo": "brulagi731069/Warzone-2026-DMA-Version",
-    "branch": "main",
-    "language": "C#",
-    "description": "Professional performance optimization, telemetry overlays, and tactical awareness framework for competitive Warzone environments in 2026."
-  },
-  {
-    "repo": "thebriangao/pebble",
-    "branch": "main",
+    "repo": "mikewang817/MacBar",
+    "branch": "master",
     "language": "Swift",
-    "description": "The open-source alternative to Minecraft: Java Edition, a complete block-survival game in ~45,000 lines of Swift + Metal. Zero dependencies, fully deterministic, singleplayer for now. Not affiliated with Mojang or Microsoft. We lowkey need y'all to submit bug reports cuz there are so many 😭"
+    "description": "A lightweight macOS menu bar clipboard manager with OCR, file support, and global hotkey"
   },
   {
-    "repo": "MatinSenPai/SenPaiScanner",
+    "repo": "0xsouravm/oxichrome",
     "branch": "main",
-    "language": "Go",
-    "description": "A light-weight scanner for Cloudflare IPs, written in Golang"
+    "language": "Rust",
+    "description": "Framework to build Chrome extensions entirely in Rust with proc macros, type-safe Chrome API bindings, and Leptos for reactive UI. Compiles to WebAssembly with zero hand-written JavaScript."
   },
   {
-    "repo": "fajarakpdev/Blox-Fruits-Dragon-Update-Auto-Farm-Script-2026-Diamond",
+    "repo": "ncvgl/slawk",
     "branch": "main",
-    "language": "Python",
-    "description": "Blox Fruits Dragon Update 2026 trainer with auto farm, ESP, auto raid, and more. The Diamond version offers enhanced performance and reliability."
+    "language": "TypeScript",
+    "description": "A 14 day experiment to clone Slack with Claude Code"
   },
   {
-    "repo": "dohoangtungduong24/Redline-Vidar-NJRat-Raccoon-C2-Panel",
+    "repo": "AlexGoOn/the-most-vulnerable-dotnet-app",
     "branch": "main",
     "language": "HTML",
-    "description": "Advanced Malware Panel Redline Lumma Vidar NJRat DCrat Raccoon 2026"
+    "description": "This educational repository showcases the most common vulnerabilities found in .NET applications"
   },
   {
-    "repo": "honorharger/DNS_Flusher",
+    "repo": "parcel-bundler/parcel",
+    "branch": "v2",
+    "language": "JavaScript",
+    "description": "The zero configuration build tool for the web. 📦🚀"
+  },
+  {
+    "repo": "wsargent/docker-cheat-sheet",
+    "branch": "master",
+    "language": "Other",
+    "description": "Docker Cheat Sheet"
+  },
+  {
+    "repo": "WhiskeyCoder/Qwen3-Audiobook-Converter",
     "branch": "main",
     "language": "Python",
-    "description": "Flush DNS cache, renew IP, and reset network settings. Fix DNS errors and improve internet connectivity."
+    "description": "Convert PDFs, EPUBs, DOCX, DOC, and TXT files into high-quality audiobooks using **Qwen3 TTS Voice Model** - an open-source voice synthesis system that excels at natural speech generation and voice cloning."
   },
   {
-    "repo": "fajarakpdev/Blox-Fruits-Dragon-Update-Auto-Farm-Script-2026-Ultra",
-    "branch": "main",
-    "language": "Python",
-    "description": "Blox Fruits Dragon Update 2026 trainer with auto farm, ESP, auto raid, and more. The Ultra version offers enhanced performance and reliability."
-  },
-  {
-    "repo": "2latemc/JustAnotherMusicClient",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "A desktop music client that integrates with YouTube Music for Windows and MacOS. Independent and not affiliated with, endorsed by, or sponsored by YouTube or Google."
-  },
-  {
-    "repo": "Tyxy-R/codex-referral-risk-research",
-    "branch": "main",
-    "language": "Python",
-    "description": ""
-  },
-  {
-    "repo": "huey1in/WindsurfX",
-    "branch": "main",
-    "language": "Python",
-    "description": "Windsurf 协议注册机 | Windsurf (windsurf.com) 批量自动注册工具"
-  },
-  {
-    "repo": "pro-deploy/aegil",
-    "branch": "main",
-    "language": "Python",
-    "description": ""
-  },
-  {
-    "repo": "nader0913/ocpp-rag",
-    "branch": "main",
-    "language": "Python",
-    "description": "MCP server with RAG knowledge base for OCPP 1.6, OCPP 2.0.1, and EV charging standards"
-  },
-  {
-    "repo": "AITabby/opencodex",
+    "repo": "SMNETSTUDIO/WeChat-AI",
     "branch": "master",
     "language": "TypeScript",
-    "description": "Local gateway for Codex Desktop — custom API, web dashboard, Vision Bridge"
-  },
-  {
-    "repo": "giorgigelashvili12/DBD-AutoGrind-Trainer-2026-Max",
-    "branch": "main",
-    "language": "Python",
-    "description": "Ultimate Dead by Daylight auto-grind trainer Max edition with Bloodpoint bot, ESP wallhack, aimbot, and full perk/skin unlocker. Dominate the Fog with our 2026 undetected external tool."
-  },
-  {
-    "repo": "DexCrancer/pm-ninesoulx",
-    "branch": "main",
-    "language": "Python",
     "description": ""
   },
   {
-    "repo": "LewdM3at/PC-Cartridge-System",
-    "branch": "main",
-    "language": "PowerShell",
-    "description": "Physical game cartridges with 2.5 SSDs for your Steam library"
-  },
-  {
-    "repo": "TrenchesofChirac/claude-fable-5-free-desktop-app",
+    "repo": "cloudflare/vinext",
     "branch": "main",
     "language": "TypeScript",
-    "description": "claude fable 5 free anthropic mythos class large language model llm chatbot free api  access desktop app github download proxy wrapper agentic coding autonomous agent token optimization bypass open source pro plan trial"
+    "description": "Vite plugin that reimplements the Next.js API surface — deploy anywhere"
   },
   {
-    "repo": "dimasarestuprasmanto/Pet-Simulator-99-Auto-Farm-Trainer-2026-Gold",
+    "repo": "vshulcz/deja-vu",
+    "branch": "main",
+    "language": "Go",
+    "description": "Memory layer for coding agents: search, MCP recall, auto-context, secret redaction, stats, share and sync over the session logs Claude Code, Codex and opencode already write. One zero-dep binary."
+  },
+  {
+    "repo": "Charles-0509/Grok-Register",
+    "branch": "main",
+    "language": "Go",
+    "description": "Grok free-register CLI: register → OAuth → CPA JSON (Go)"
+  },
+  {
+    "repo": "loop-js/loop.js",
+    "branch": "master",
+    "language": "TypeScript",
+    "description": "A loop engineering framework — state a Goal; Rounds run until a skeptical, read-only Verify agent settles it."
+  },
+  {
+    "repo": "electron-userland/electron-builder",
+    "branch": "master",
+    "language": "TypeScript",
+    "description": "A complete solution to package and build a ready for distribution Electron app with “auto update” support out of the box"
+  },
+  {
+    "repo": "Leo1998-Lu/ai-paper2slide-skill",
     "branch": "main",
     "language": "Python",
-    "description": "Maximize your efficiency in Pet Simulator 99 with the Gold auto trainer. From coin collection to Backrooms League rewards, everything is automated. Safe and undetectable."
+    "description": "Conference-Grade Paper-to-Slide Generation for AI Research."
+  },
+  {
+    "repo": "wh1te4ever/super-tart-vphone-writeup",
+    "branch": "main",
+    "language": "Swift",
+    "description": ""
+  },
+  {
+    "repo": "cosmtrek/mindwalk",
+    "branch": "master",
+    "language": "Go",
+    "description": "A visualization tool that replays coding-agent sessions on a 3D map of your codebase."
+  },
+  {
+    "repo": "caddyserver/caddy",
+    "branch": "master",
+    "language": "Go",
+    "description": "Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS"
+  },
+  {
+    "repo": "GOROman/famicom-rf-hackrf-decoder",
+    "branch": "main",
+    "language": "C++",
+    "description": ""
+  },
+  {
+    "repo": "kunchenguid/dotfiles",
+    "branch": "main",
+    "language": "Nix",
+    "description": "Kun's dotfiles for agentic engineering"
+  },
+  {
+    "repo": "oso95/scroll-world",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "Claude Code skill/plugin: immersive scroll-scrubbed 'fly through the world' landing pages generated with Higgsfield (Emons-style diorama flights, seamless connectors, portable scrub engine)."
+  },
+  {
+    "repo": "mira-wm/mira",
+    "branch": "main",
+    "language": "Python",
+    "description": "Code for MIRA: Multiplayer Interactive World Models with Representation Autoencoders"
   }
 ]
