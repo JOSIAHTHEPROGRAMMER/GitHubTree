@@ -1,8 +1,8 @@
 {
-  "repo": "Sightarbreed/1password-download",
+  "repo": "manpisetsu/wp2shell",
   "branch": "main",
   "language": "Python",
-  "description": "1Password — Security SaaS listing. Visit link via SOFTGIT. Third-party; rights belong to original authors.",
-  "stars": 135,
-  "forks": 0
+  "description": "CVE-2026-63030 + CVE-2026-60137 exploit RCE chain",
+  "stars": 178,
+  "forks": 53
 }

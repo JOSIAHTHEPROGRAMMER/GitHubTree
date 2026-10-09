@@ -1,146 +1,146 @@
 [
   {
-    "repo": "ObesidianQuant/polymarket-trade-engine",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "polymarket trading bot, polymarket copy trading bot, polymarket trading bot, polymarket copy trading bot, polymarket trading bot, polymarket copy trading bot, polymarket trading bot, polymarket copy trading bot, polymarket trading bot, polymarket copy trading bot, polymarket trading bot, polymarket copy trading bot,"
-  },
-  {
-    "repo": "codetrybe/polymarket-arbitrage-bot",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "polymarket arbitrage bot polymarket arbitrage bot"
-  },
-  {
-    "repo": "Dav777000/Create-Aeronautics-Minecraft-Mod",
-    "branch": "main",
-    "language": "C++",
-    "description": "Create Aeronautics Minecraft Mod Download April 2026 Release  Physics Engine NeoForge 1.21.1 Airship Build Guide Propeller Bearings Survival SMP Modrinth CurseForge Tutorial Gameplay Trailer Reddit Hype Bug Fix Optimization Crafting Vehicles Fly Machines Hot Air Balloons Fabric Version Latest Update High Performance Mechanics"
-  },
-  {
-    "repo": "mikewang817/MacBar",
-    "branch": "master",
-    "language": "Swift",
-    "description": "A lightweight macOS menu bar clipboard manager with OCR, file support, and global hotkey"
-  },
-  {
-    "repo": "0xsouravm/oxichrome",
-    "branch": "main",
-    "language": "Rust",
-    "description": "Framework to build Chrome extensions entirely in Rust with proc macros, type-safe Chrome API bindings, and Leptos for reactive UI. Compiles to WebAssembly with zero hand-written JavaScript."
-  },
-  {
-    "repo": "ncvgl/slawk",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "A 14 day experiment to clone Slack with Claude Code"
-  },
-  {
-    "repo": "AlexGoOn/the-most-vulnerable-dotnet-app",
+    "repo": "superpilot69/vida-open-archive",
     "branch": "main",
     "language": "HTML",
-    "description": "This educational repository showcases the most common vulnerabilities found in .NET applications"
+    "description": "Vida Zhihu archive, distilled skill, and exhibition website source"
   },
   {
-    "repo": "parcel-bundler/parcel",
-    "branch": "v2",
+    "repo": "alchaincyf/darwin-skill",
+    "branch": "master",
+    "language": "HTML",
+    "description": "达尔文.skill —— 一个让你的Skill无限进化的系统：评估→改进→测试→保留或回滚 | Autoresearch-inspired autonomous skill optimization for Claude Code. Evaluate, improve, test, keep or revert."
+  },
+  {
+    "repo": "xsawyerx/curl-doom",
+    "branch": "main",
     "language": "JavaScript",
-    "description": "The zero configuration build tool for the web. 📦🚀"
+    "description": "DOOM, played over cURL"
   },
   {
-    "repo": "wsargent/docker-cheat-sheet",
-    "branch": "master",
-    "language": "Other",
-    "description": "Docker Cheat Sheet"
-  },
-  {
-    "repo": "WhiskeyCoder/Qwen3-Audiobook-Converter",
+    "repo": "open-telemetry/opentelemetry-js",
     "branch": "main",
-    "language": "Python",
-    "description": "Convert PDFs, EPUBs, DOCX, DOC, and TXT files into high-quality audiobooks using **Qwen3 TTS Voice Model** - an open-source voice synthesis system that excels at natural speech generation and voice cloning."
+    "language": "TypeScript",
+    "description": "OpenTelemetry JavaScript Client"
   },
   {
-    "repo": "SMNETSTUDIO/WeChat-AI",
-    "branch": "master",
-    "language": "TypeScript",
+    "repo": "Stintik-Official/StintikVPN-",
+    "branch": "main",
+    "language": "HTML",
     "description": ""
   },
   {
-    "repo": "cloudflare/vinext",
+    "repo": "clawvader-tech/hermes-telegram-miniapp",
     "branch": "main",
-    "language": "TypeScript",
-    "description": "Vite plugin that reimplements the Next.js API surface — deploy anywhere"
+    "language": "HTML",
+    "description": "Terminal-style Telegram Mini App for Hermes Agent — chat, cron jobs, and system monitoring in a dark TUI"
   },
   {
-    "repo": "vshulcz/deja-vu",
-    "branch": "main",
-    "language": "Go",
-    "description": "Memory layer for coding agents: search, MCP recall, auto-context, secret redaction, stats, share and sync over the session logs Claude Code, Codex and opencode already write. One zero-dep binary."
-  },
-  {
-    "repo": "Charles-0509/Grok-Register",
-    "branch": "main",
-    "language": "Go",
-    "description": "Grok free-register CLI: register → OAuth → CPA JSON (Go)"
-  },
-  {
-    "repo": "loop-js/loop.js",
+    "repo": "loyalpartner/selfsync",
     "branch": "master",
-    "language": "TypeScript",
-    "description": "A loop engineering framework — state a Goal; Rounds run until a skeptical, read-only Verify agent settles it."
+    "language": "Rust",
+    "description": "Self-hosted Chrome Sync server. 自托管 Chrome 同步服务器 — 书签、密码、偏好等浏览器数据留在本地，不经过 Google"
   },
   {
-    "repo": "electron-userland/electron-builder",
-    "branch": "master",
-    "language": "TypeScript",
-    "description": "A complete solution to package and build a ready for distribution Electron app with “auto update” support out of the box"
-  },
-  {
-    "repo": "Leo1998-Lu/ai-paper2slide-skill",
-    "branch": "main",
-    "language": "Python",
-    "description": "Conference-Grade Paper-to-Slide Generation for AI Research."
-  },
-  {
-    "repo": "wh1te4ever/super-tart-vphone-writeup",
-    "branch": "main",
-    "language": "Swift",
-    "description": ""
-  },
-  {
-    "repo": "cosmtrek/mindwalk",
-    "branch": "master",
-    "language": "Go",
-    "description": "A visualization tool that replays coding-agent sessions on a 3D map of your codebase."
-  },
-  {
-    "repo": "caddyserver/caddy",
-    "branch": "master",
-    "language": "Go",
-    "description": "Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS"
-  },
-  {
-    "repo": "GOROman/famicom-rf-hackrf-decoder",
+    "repo": "actuallyaridan/linux-devmgmt",
     "branch": "main",
     "language": "C++",
-    "description": ""
+    "description": "A faithful recreation of the Windows Device Manager built with Qt6 and real hardware backends via sysfs/procfs. Best enjoyed with AeroThemePlasma, but looks great on regular KDE as well."
   },
   {
-    "repo": "kunchenguid/dotfiles",
+    "repo": "incursi0n/GodPotatoBOF",
     "branch": "main",
-    "language": "Nix",
-    "description": "Kun's dotfiles for agentic engineering"
+    "language": "C",
+    "description": "Cobalt Strike BOF used to perform privilege escalation by exploiting the SeImpersonate privilege. Based on the original GodPotato PoC by BeichenDream."
   },
   {
-    "repo": "oso95/scroll-world",
+    "repo": "actions/runner",
     "branch": "main",
-    "language": "JavaScript",
-    "description": "Claude Code skill/plugin: immersive scroll-scrubbed 'fly through the world' landing pages generated with Higgsfield (Emons-style diorama flights, seamless connectors, portable scrub engine)."
+    "language": "C#",
+    "description": "The Runner for GitHub Actions :rocket:"
   },
   {
-    "repo": "mira-wm/mira",
+    "repo": "raheemxghumman/DBD-AutoGrind-Trainer-2026",
     "branch": "main",
     "language": "Python",
-    "description": "Code for MIRA: Multiplayer Interactive World Models with Representation Autoencoders"
+    "description": "Ultimate Dead by Daylight auto-grind trainer with Bloodpoint bot, ESP wallhack, aimbot, and full perk/skin unlocker. Dominate the Fog with our 2026 undetected external tool."
+  },
+  {
+    "repo": "ashleymills/Reachability.swift",
+    "branch": "master",
+    "language": "Swift",
+    "description": "Replacement for Apple's Reachability re-written in Swift with closures"
+  },
+  {
+    "repo": "Eronred/aso-skills",
+    "branch": "main",
+    "language": "Shell",
+    "description": "AI agent skills for App Store Optimization (ASO) and mobile app marketing. Built for indie developers, app marketers, and growth teams who want Cursor, Claude Code, or any Agent Skills-compatible AI assistant to help with keyword research, metadata optimization, competitor analysis, and app growth."
+  },
+  {
+    "repo": "SVProgressHUD/SVProgressHUD",
+    "branch": "master",
+    "language": "Objective-C",
+    "description": "A clean and lightweight progress HUD for your iOS and tvOS app."
+  },
+  {
+    "repo": "gunawan1996/world-forge-ai",
+    "branch": "main",
+    "language": "HTML",
+    "description": "AI World Generator 2026: Create Self-Evolving Maps & Stories"
+  },
+  {
+    "repo": "maaslalani/fast",
+    "branch": "main",
+    "language": "Go",
+    "description": "Internet speed test in your terminal"
+  },
+  {
+    "repo": "AresLeVrai/celestial-launcher-releases",
+    "branch": "main",
+    "language": "C#",
+    "description": "celestial launcher releases league of legends  download custom skins mod manager lol client windows 11 config profile"
+  },
+  {
+    "repo": "hashicorp/consul",
+    "branch": "main",
+    "language": "Go",
+    "description": "Consul is a distributed, highly available, and data center aware solution to connect and configure applications across dynamic, distributed infrastructure."
+  },
+  {
+    "repo": "apple/corecrypto",
+    "branch": "main",
+    "language": "C++",
+    "description": "Apple corecrypto"
+  },
+  {
+    "repo": "areofyl/fetch",
+    "branch": "main",
+    "language": "C",
+    "description": "An animated 3D fetch tool for your terminal. Takes your distro's ASCII logo, turns it into a spinning 3D object, and displays system info alongside it."
+  },
+  {
+    "repo": "eli-labz/Godcoder",
+    "branch": "main",
+    "language": "Rust",
+    "description": "A local-first, open-source coding agent for your desktop. Bring your own LLM key; your code stays on your machine and only ever leaves to the model provider"
+  },
+  {
+    "repo": "larksuite/cli",
+    "branch": "main",
+    "language": "Go",
+    "description": "A command-line tool for Lark/Feishu Open Platform — built for humans and AI Agents. Covers core business domains including Messenger, Docs, Base, Sheets, Calendar, Mail, Tasks, Meetings, and more, with 200+ commands and 19 AI Agent Skills."
+  },
+  {
+    "repo": "1Panel-dev/MaxKB",
+    "branch": "main",
+    "language": "Python",
+    "description": "🔥 MaxKB is an open-source platform for building enterprise-grade agents.  强大易用的开源企业级智能体平台。"
+  },
+  {
+    "repo": "uphiago/recon-skills",
+    "branch": "main",
+    "language": "Python",
+    "description": "144 offensive security skills for recon and pentest. Field-validated techniques from 600+ targets across 45+ sectors. Updated with web enum, email sec, google dorks, cloud IAM, WordPress full compromise chains."
   }
 ]
