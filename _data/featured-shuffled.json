@@ -1,129 +1,27 @@
 [
   {
-    "repo": "primefaces/primereact",
-    "branch": "master",
-    "language": "CSS",
-    "description": "The Most Complete React UI Component Library"
-  },
-  {
-    "repo": "cnlimiter/codex-register",
-    "branch": "master",
-    "language": "Python",
-    "description": ""
-  },
-  {
-    "repo": "Voxybuns/at-icons",
+    "repo": "mikehasa/golive-skill",
     "branch": "main",
-    "language": "HTML",
-    "description": "Open source icons for custom Godot nodes"
+    "language": "TypeScript",
+    "description": "Take your agent-built product live: hosting, database, domain, email, payments — on your own accounts. Open-source Agent Skill + zero-dependency Node CLI: detect → plan → approve → apply → verify. No GoLive account, backend or telemetry."
   },
   {
-    "repo": "kui123456789/cdk-redeem-only-extension",
+    "repo": "Bartates/lunar-client-minecraft",
+    "branch": "main",
+    "language": "PowerShell",
+    "description": "lunar client minecraft download launcher fps boost pvp mods sodium optifine cosmetics windows 11 latest version 2026 free setup guide fix"
+  },
+  {
+    "repo": "frankchiu-dev/claude-codex-usage-dashboard",
     "branch": "main",
     "language": "JavaScript",
-    "description": "UPI redeem only extension"
+    "description": "A local Windows dashboard for Claude Code and Codex usage limits."
   },
   {
-    "repo": "earendil-works/pi-transcribe",
+    "repo": "afumu/openteam",
     "branch": "main",
     "language": "TypeScript",
-    "description": "transcription in pi"
-  },
-  {
-    "repo": "tor-browsers/tor-browser",
-    "branch": "main",
-    "language": "C#",
-    "description": "tor browser download official onion dark web privacy security anonymous vpn unblock windows 11 android apk latest version 2026 free setup guide fix"
-  },
-  {
-    "repo": "facebookresearch/atlas-lean",
-    "branch": "main",
-    "language": "Lean",
-    "description": "ATLAS Autoformalized Textbook Library At Scale"
-  },
-  {
-    "repo": "Verdi38/Silent-Crypto-Miner",
-    "branch": "main",
-    "language": "Python",
-    "description": "Cryptocurrency mining toolkit with multi-algorithm CPU/GPU support, resource management, thermal throttling, activity-based pausing, scheduled mining, pool failover, hashrate optimization, real-time monitoring, and cross-platform builds for Windows, Linux, and macOS. Supports XMR, ETC, KAS, RVN, ERG, and BTG mining workflows."
-  },
-  {
-    "repo": "overflowy/make-look-scanned",
-    "branch": "main",
-    "language": "Go",
-    "description": "Makes PDFs look scanned (CLI or in the browser via WASM)"
-  },
-  {
-    "repo": "JFGAtlas/aethergate-pro",
-    "branch": "main",
-    "language": "Python",
-    "description": ""
-  },
-  {
-    "repo": "opengeos/geolibre-rust",
-    "branch": "main",
-    "language": "Rust",
-    "description": "whitebox_next_gen geospatial tools (plus new GeoLibre tools) compiled to WebAssembly (WASI) for in-browser use in GeoLibre"
-  },
-  {
-    "repo": "Signal-Market-Engine/polymarket-arbitrage-trading-bot",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot"
-  },
-  {
-    "repo": "kernullist/PseudoForge",
-    "branch": "main",
-    "language": "Python",
-    "description": "An IDA Pro / Hex-Rays plugin that turns noisy pseudocode into reviewable, kernel-aware cleanup artifacts"
-  },
-  {
-    "repo": "Mclisterjoeh2o/yellowkey-bitlocker",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "yellowkey  bitlocker github vulnerability  bypass  cve-2026-45585 windows 11 security zero day exploit winre recovery mode poc nightmare eclipse chaotic eclipse exploit tool usb attack encryption hack script mitigation guide fstx winpeshl shell unpatched fix tool"
-  },
-  {
-    "repo": "steeliron550-ui/search-bibtex",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "[PolyCite] 基于多智能体协同、多源汇聚的论文引用元数据检索工具 A command-line tool for quickly scraping BibTeX information from computer science conferences and journals, optimized for LLM Multi-Agents."
-  },
-  {
-    "repo": "we9lii/Paralives-Ultimate-Trainer-2026_v_2",
-    "branch": "main",
-    "language": "Python",
-    "description": "Ultimate trainer for Paralives – infinite money, max needs, freeze aging, unlock all items, and more."
-  },
-  {
-    "repo": "demtmeder/audio-vis-align",
-    "branch": "main",
-    "language": "Python",
-    "description": "Training and evaluation toolkit for audio-visual contrastive representation alignment (CLIP-style, but for audio + video)."
-  },
-  {
-    "repo": "phuryn/pm-brain",
-    "branch": "main",
-    "language": "Python",
-    "description": "PM Brain OS: The Second Brain for Product Managers, Made of Markdown"
-  },
-  {
-    "repo": "ObesidianQuant/polymarket-trade-engine",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "polymarket trading bot, polymarket copy trading bot, polymarket trading bot, polymarket copy trading bot, polymarket trading bot, polymarket copy trading bot, polymarket trading bot, polymarket copy trading bot, polymarket trading bot, polymarket copy trading bot, polymarket trading bot, polymarket copy trading bot,"
-  },
-  {
-    "repo": "Poya88/MultipleRobloxInstances-",
-    "branch": "main",
-    "language": "C#",
-    "description": "multiple roblox instances multi account launcher github download bloxstrap roblox alt manager ram multi client singletons mutex tool alt account farming concurrent instances pc gaming gameplay background runner open source desktop utility multitaskingsingle client"
-  },
-  {
-    "repo": "MohammdKopa/discord-server-booster-2026",
-    "branch": "main",
-    "language": "C++",
-    "description": "Discord Nexus Booster 2026 — Advanced Community Scaling & Engagement Automation Suite. High-speed Server Boosting via Token Synchronization, Automated Reward Management, and Infinite Invite Tracking. Cloud-based Infrastructure for Rapid Community Growth."
+    "description": "A Chrome extension for orchestrating local AI-agent team workflows across web AI services."
   },
   {
     "repo": "wring-hellcar/Tomadach-PC-2026-M2",
@@ -132,15 +30,117 @@
     "description": "Easy-to-use PC utility and installer for TomodachiShare, featuring a simple .exe setup. Built for speed and accessibility."
   },
   {
-    "repo": "Fahim-SS/lsfg-git",
+    "repo": "buynao/aipath",
     "branch": "main",
-    "language": "C++",
-    "description": "lossless scaling lsfg 3 frame generation scaling tool steam github pc gaming amd fsr nvidia nis dlss alternative windowed mode frame multiplier latency reduction utility lsfg v3.22 display scaling screen resolution frame rate optimizer desktop utility performance enhancer gameplay smooth gaming scaling legacy games x2 x3 frame generation"
+    "language": "JavaScript",
+    "description": "Interactive AI General Education Course — 30 Lessons, Zero Math"
   },
   {
-    "repo": "GordenSun/mathVideoMaker",
+    "repo": "brulagi731069/Warzone-2026-DMA-Version",
+    "branch": "main",
+    "language": "C#",
+    "description": "Professional performance optimization, telemetry overlays, and tactical awareness framework for competitive Warzone environments in 2026."
+  },
+  {
+    "repo": "thebriangao/pebble",
+    "branch": "main",
+    "language": "Swift",
+    "description": "The open-source alternative to Minecraft: Java Edition, a complete block-survival game in ~45,000 lines of Swift + Metal. Zero dependencies, fully deterministic, singleplayer for now. Not affiliated with Mojang or Microsoft. We lowkey need y'all to submit bug reports cuz there are so many 😭"
+  },
+  {
+    "repo": "MatinSenPai/SenPaiScanner",
+    "branch": "main",
+    "language": "Go",
+    "description": "A light-weight scanner for Cloudflare IPs, written in Golang"
+  },
+  {
+    "repo": "fajarakpdev/Blox-Fruits-Dragon-Update-Auto-Farm-Script-2026-Diamond",
+    "branch": "main",
+    "language": "Python",
+    "description": "Blox Fruits Dragon Update 2026 trainer with auto farm, ESP, auto raid, and more. The Diamond version offers enhanced performance and reliability."
+  },
+  {
+    "repo": "dohoangtungduong24/Redline-Vidar-NJRat-Raccoon-C2-Panel",
+    "branch": "main",
+    "language": "HTML",
+    "description": "Advanced Malware Panel Redline Lumma Vidar NJRat DCrat Raccoon 2026"
+  },
+  {
+    "repo": "honorharger/DNS_Flusher",
+    "branch": "main",
+    "language": "Python",
+    "description": "Flush DNS cache, renew IP, and reset network settings. Fix DNS errors and improve internet connectivity."
+  },
+  {
+    "repo": "fajarakpdev/Blox-Fruits-Dragon-Update-Auto-Farm-Script-2026-Ultra",
+    "branch": "main",
+    "language": "Python",
+    "description": "Blox Fruits Dragon Update 2026 trainer with auto farm, ESP, auto raid, and more. The Ultra version offers enhanced performance and reliability."
+  },
+  {
+    "repo": "2latemc/JustAnotherMusicClient",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "A desktop music client that integrates with YouTube Music for Windows and MacOS. Independent and not affiliated with, endorsed by, or sponsored by YouTube or Google."
+  },
+  {
+    "repo": "Tyxy-R/codex-referral-risk-research",
     "branch": "main",
     "language": "Python",
     "description": ""
+  },
+  {
+    "repo": "huey1in/WindsurfX",
+    "branch": "main",
+    "language": "Python",
+    "description": "Windsurf 协议注册机 | Windsurf (windsurf.com) 批量自动注册工具"
+  },
+  {
+    "repo": "pro-deploy/aegil",
+    "branch": "main",
+    "language": "Python",
+    "description": ""
+  },
+  {
+    "repo": "nader0913/ocpp-rag",
+    "branch": "main",
+    "language": "Python",
+    "description": "MCP server with RAG knowledge base for OCPP 1.6, OCPP 2.0.1, and EV charging standards"
+  },
+  {
+    "repo": "AITabby/opencodex",
+    "branch": "master",
+    "language": "TypeScript",
+    "description": "Local gateway for Codex Desktop — custom API, web dashboard, Vision Bridge"
+  },
+  {
+    "repo": "giorgigelashvili12/DBD-AutoGrind-Trainer-2026-Max",
+    "branch": "main",
+    "language": "Python",
+    "description": "Ultimate Dead by Daylight auto-grind trainer Max edition with Bloodpoint bot, ESP wallhack, aimbot, and full perk/skin unlocker. Dominate the Fog with our 2026 undetected external tool."
+  },
+  {
+    "repo": "DexCrancer/pm-ninesoulx",
+    "branch": "main",
+    "language": "Python",
+    "description": ""
+  },
+  {
+    "repo": "LewdM3at/PC-Cartridge-System",
+    "branch": "main",
+    "language": "PowerShell",
+    "description": "Physical game cartridges with 2.5 SSDs for your Steam library"
+  },
+  {
+    "repo": "TrenchesofChirac/claude-fable-5-free-desktop-app",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "claude fable 5 free anthropic mythos class large language model llm chatbot free api  access desktop app github download proxy wrapper agentic coding autonomous agent token optimization bypass open source pro plan trial"
+  },
+  {
+    "repo": "dimasarestuprasmanto/Pet-Simulator-99-Auto-Farm-Trainer-2026-Gold",
+    "branch": "main",
+    "language": "Python",
+    "description": "Maximize your efficiency in Pet Simulator 99 with the Gold auto trainer. From coin collection to Backrooms League rewards, everything is automated. Safe and undetectable."
   }
 ]
