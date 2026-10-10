@@ -1,8 +1,8 @@
 {
-  "repo": "wesbos/photo-frame-dashboard",
+  "repo": "HelixDB/helix-foundry",
   "branch": "main",
-  "language": "JavaScript",
-  "description": "Getting ADB, root, backups and custom apps onto locked-down Android photo frames (Skylight Calendar, BIUFRAME)",
-  "stars": 416,
-  "forks": 24
+  "language": "TypeScript",
+  "description": "Your company's data, connected into one ontology, on your own computer. A local-first data workspace built on HelixDB and DuckDB.",
+  "stars": 939,
+  "forks": 133
 }

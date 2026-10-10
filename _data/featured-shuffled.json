@@ -1,146 +1,146 @@
 [
   {
-    "repo": "mostafamo123/Pragmata-Reframework",
-    "branch": "main",
-    "language": "C++",
-    "description": "Pragmata REFramework/RenoDX/Optiscaler Download April 2026 Nightly Build Pragmata FOV Fix Ultrawide Black Bars Solution Pragmata D3D Device Removed Error Fix Optiscaler DXGI.DLL Pragmata VR Mod Status Diana Amiibo PC Rewards Pragmata Steam Deck Performance Guide NVIDIA Reflex Stutter Fix RTX 5090 HDR Tonemapping RenoDX Pragmata Trainer"
-  },
-  {
-    "repo": "mpv-player/mpv",
+    "repo": "kamranahmedse/developer-roadmap",
     "branch": "master",
-    "language": "C",
-    "description": "🎥 Command line media player"
-  },
-  {
-    "repo": "davebcn87/pi-autoresearch",
-    "branch": "main",
     "language": "TypeScript",
-    "description": "Autonomous experiment loop extension for pi"
+    "description": "Interactive roadmaps, guides and other educational content to help developers grow in their careers."
   },
   {
-    "repo": "techwithtim/Flask-Web-App-Tutorial",
-    "branch": "main",
-    "language": "HTML",
-    "description": "Code for the note storing flask web app made during a YouTube video."
-  },
-  {
-    "repo": "micropython/micropython",
-    "branch": "master",
-    "language": "C",
-    "description": "MicroPython - a lean and efficient Python implementation for microcontrollers and constrained systems"
-  },
-  {
-    "repo": "mkdocs/mkdocs",
-    "branch": "master",
-    "language": "Python",
-    "description": "Project documentation with Markdown."
-  },
-  {
-    "repo": "Zackriya-Solutions/meeting-minutes",
+    "repo": "Follow-Gabagool22/5min-btc-polymarket-trading-bot",
     "branch": "main",
     "language": "Rust",
-    "description": "Privacy first, AI meeting assistant with 4x faster Parakeet/Whisper live transcription, speaker diarization, and Ollama summarization built on Rust. 100% local processing. no cloud required. Meetily (Meetly Ai - https://meetily.ai) is the #1 Self-hosted,  Open-source Ai meeting note taker for macOS & Windows."
+    "description": "5min btc polymarket trading bot that is polymarket trading bot that trade in 5 btc market polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot"
   },
   {
-    "repo": "InstaPy/InstaPy",
+    "repo": "PipeNetwork/kimi-k3-mlx",
+    "branch": "main",
+    "language": "Python",
+    "description": "MLX port of moonshotai/Kimi-K3 (2.78T multimodal MoE): streaming converter, REAP expert pruning, and per-language expert-overlap analysis"
+  },
+  {
+    "repo": "date-fns/date-fns",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "⏳ Modern JavaScript date utility library ⌛️"
+  },
+  {
+    "repo": "go-pg/pg",
     "branch": "master",
-    "language": "Python",
-    "description": "📷 Instagram Bot - Tool for automated Instagram interactions"
+    "language": "Go",
+    "description": "Golang ORM with focus on PostgreSQL features and performance"
   },
   {
-    "repo": "avacocloud/netlify-XHHTP",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": ""
-  },
-  {
-    "repo": "FreeCAD/FreeCAD",
-    "branch": "main",
-    "language": "C++",
-    "description": "Official source code of FreeCAD, a free and opensource multiplatform 3D parametric modeler."
-  },
-  {
-    "repo": "CraftyGeezer/Kalshi-Polymarket-Ai-bot",
+    "repo": "scipy/scipy",
     "branch": "main",
     "language": "Python",
-    "description": ""
+    "description": "SciPy library main repository"
   },
   {
-    "repo": "apple/ml-ssd",
+    "repo": "AgriciDaniel/claude-ads",
     "branch": "main",
     "language": "Python",
-    "description": ""
+    "description": "Comprehensive paid advertising audit & optimization skill for Claude Code. 186 checks across Google, Meta, YouTube, LinkedIn, TikTok & Microsoft Ads with weighted scoring, parallel agents, and industry templates."
   },
   {
-    "repo": "ahmadawais/terminui",
+    "repo": "adobe/react-spectrum",
     "branch": "main",
     "language": "TypeScript",
-    "description": "Super fast double buffered toolkit for building terminal UIs."
+    "description": "A collection of libraries and tools that help you build adaptive, accessible, and robust user experiences."
   },
   {
-    "repo": "sass/sass",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Sass makes CSS fun!"
-  },
-  {
-    "repo": "mode-io/vllm-jev",
-    "branch": "main",
-    "language": "Python",
-    "description": "Native vLLM serving for Jev decision models"
-  },
-  {
-    "repo": "erikdarlingdata/PerformanceMonitor",
-    "branch": "main",
-    "language": "C#",
-    "description": "Free, open-source SQL Server performance monitoring. Full Edition (server-installed, 30 collectors) and Lite Edition (standalone, DuckDB). Built-in MCP server for AI integration."
-  },
-  {
-    "repo": "OpenBMB/ChatDev",
-    "branch": "main",
-    "language": "Python",
-    "description": "ChatDev 2.0: Dev All through LLM-powered Multi-Agent Collaboration"
-  },
-  {
-    "repo": "sigstore/cosign",
+    "repo": "opencontainers/image-spec",
     "branch": "main",
     "language": "Go",
-    "description": "Code signing and transparency for containers and binaries"
+    "description": "OCI Image Format"
   },
   {
-    "repo": "HzWeta/Delta-For-Roblox-PC-Edition",
+    "repo": "apache/iceberg",
     "branch": "main",
-    "language": "C++",
-    "description": "Delta For Roblox PC Edition delivers a smooth and optimized Roblox experience on Windows. Enjoy better performance, higher FPS, widescreen support, and enhanced stability while playing your favorite Roblox games on desktop."
+    "language": "Java",
+    "description": "Apache Iceberg"
   },
   {
-    "repo": "Backtthefuture/huangshu",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "黄叔开源的Skill集合"
+    "repo": "brackets-cont/brackets",
+    "branch": "master",
+    "language": "JavaScript",
+    "description": "An open source code editor for the web, written in JavaScript, HTML and CSS."
   },
   {
-    "repo": "ToolSeRF/TaHa-Direct-Reverse-Tunnel-Runner",
-    "branch": "main",
-    "language": "Shell",
-    "description": "راه اندازی و مدیریت تانل مستقیم و معکوس(ریورس) با بیش از 150 پروتو برای عبور از فیلترینگ و پاسخگو برای سرورهایی با محدودیت بسیار شدید، راه اندازی بین یک یا چند سرور، به یاد طاها هوشیار کودک 12 ساله جان فدای میهن"
-  },
-  {
-    "repo": "originalankur/GenerateAgents.md",
+    "repo": "stanford-oval/storm",
     "branch": "main",
     "language": "Python",
-    "description": "Automated generation of comprehensive Agents.md for LLMs, driven by the DSPy Recursive language model implementation."
+    "description": "An LLM-powered knowledge curation system that researches a topic and generates a full-length report with citations."
   },
   {
-    "repo": "ForecastForge/binance-trading-bot",
+    "repo": "preactjs/preact",
     "branch": "main",
-    "language": "TypeScript",
-    "description": "binance trading bot · binance bot · binance AI trading bot · binance automated trading bot · binance auto trading bot · binance crypto trading bot · binance futures trading bot · binance spot trading bot · binance grid trading bot · binance bot strategy"
+    "language": "JavaScript",
+    "description": "⚛️ Fast 3kB React alternative with the same modern API. Components & Virtual DOM."
   },
   {
-    "repo": "m1heng/claude-plugin-weixin",
+    "repo": "Aircoookie/WLED",
     "branch": "main",
-    "language": "TypeScript",
-    "description": ""
+    "language": "C++",
+    "description": "Control WS2812B and many more types of digital RGB LEDs with an ESP32 over WiFi!"
+  },
+  {
+    "repo": "microsoft/Data-Science-For-Beginners",
+    "branch": "main",
+    "language": "Jupyter Notebook",
+    "description": "10 Weeks, 20 Lessons, Data Science for All!"
+  },
+  {
+    "repo": "Infatoshi/metal-mc-terrain",
+    "branch": "main",
+    "language": "Objective-C",
+    "description": "Native Metal terrain renderer for Minecraft 1.16.5 on Apple Silicon. 10x FPS by replacing macOS OpenGL with Metal."
+  },
+  {
+    "repo": "goharbor/harbor",
+    "branch": "main",
+    "language": "Go",
+    "description": "An open source trusted cloud native registry project that stores, signs, and scans content."
+  },
+  {
+    "repo": "spf13/viper",
+    "branch": "master",
+    "language": "Go",
+    "description": "Go configuration with fangs"
+  },
+  {
+    "repo": "PaddlePaddle/PaddleDetection",
+    "branch": "develop",
+    "language": "Python",
+    "description": "Object Detection toolkit based on PaddlePaddle. It supports object detection, instance segmentation, multiple object tracking and real-time multi-person keypoint detection."
+  },
+  {
+    "repo": "honnibal/claude-skills",
+    "branch": "main",
+    "language": "Python",
+    "description": "Claude skills I'm experimenting with. Please review carefully before use."
+  },
+  {
+    "repo": "pypa/hatch",
+    "branch": "master",
+    "language": "Python",
+    "description": "Modern, extensible Python project management"
+  },
+  {
+    "repo": "nolimits4web/swiper",
+    "branch": "master",
+    "language": "JavaScript",
+    "description": "Most modern mobile touch slider with hardware accelerated transitions"
+  },
+  {
+    "repo": "hakimel/reveal.js",
+    "branch": "master",
+    "language": "JavaScript",
+    "description": "The HTML Presentation Framework"
+  },
+  {
+    "repo": "nltk/nltk",
+    "branch": "develop",
+    "language": "Python",
+    "description": "NLTK Source"
   }
 ]
