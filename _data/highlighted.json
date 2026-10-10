@@ -1,8 +1,8 @@
 {
-  "repo": "manpisetsu/wp2shell",
+  "repo": "chengyi-ai/cy-carousel-skill",
   "branch": "main",
   "language": "Python",
-  "description": "CVE-2026-63030 + CVE-2026-60137 exploit RCE chain",
-  "stars": 178,
-  "forks": 53
+  "description": "图文轮播 Skill（cy-carousel）：给一个选题，查证、找素材、排版、检查、打包，交付封面＋10 页",
+  "stars": 281,
+  "forks": 37
 }

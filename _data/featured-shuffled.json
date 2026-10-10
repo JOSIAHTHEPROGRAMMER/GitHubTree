@@ -1,146 +1,146 @@
 [
   {
-    "repo": "superpilot69/vida-open-archive",
+    "repo": "MDX-Tom/gpt-5.6-instruct",
     "branch": "main",
-    "language": "HTML",
-    "description": "Vida Zhihu archive, distilled skill, and exhibition website source"
+    "language": "Python",
+    "description": "A Codex CLI jailbreak prompt and test pack for gpt-5.6-sol. 针对 gpt-5.6 系列的 Codex CLI 破甲提示词与测试包。"
   },
   {
-    "repo": "alchaincyf/darwin-skill",
-    "branch": "master",
-    "language": "HTML",
-    "description": "达尔文.skill —— 一个让你的Skill无限进化的系统：评估→改进→测试→保留或回滚 | Autoresearch-inspired autonomous skill optimization for Claude Code. Evaluate, improve, test, keep or revert."
-  },
-  {
-    "repo": "xsawyerx/curl-doom",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "DOOM, played over cURL"
-  },
-  {
-    "repo": "open-telemetry/opentelemetry-js",
+    "repo": "styled-components/styled-components",
     "branch": "main",
     "language": "TypeScript",
-    "description": "OpenTelemetry JavaScript Client"
+    "description": "Visual primitives for the component age. Use the best bits of ES6 and CSS to style your apps without stress 💅"
   },
   {
-    "repo": "Stintik-Official/StintikVPN-",
+    "repo": "SharifiZarchi/janfadaa",
     "branch": "main",
     "language": "HTML",
     "description": ""
   },
   {
-    "repo": "clawvader-tech/hermes-telegram-miniapp",
-    "branch": "main",
-    "language": "HTML",
-    "description": "Terminal-style Telegram Mini App for Hermes Agent — chat, cron jobs, and system monitoring in a dark TUI"
-  },
-  {
-    "repo": "loyalpartner/selfsync",
-    "branch": "master",
-    "language": "Rust",
-    "description": "Self-hosted Chrome Sync server. 自托管 Chrome 同步服务器 — 书签、密码、偏好等浏览器数据留在本地，不经过 Google"
-  },
-  {
-    "repo": "actuallyaridan/linux-devmgmt",
-    "branch": "main",
-    "language": "C++",
-    "description": "A faithful recreation of the Windows Device Manager built with Qt6 and real hardware backends via sysfs/procfs. Best enjoyed with AeroThemePlasma, but looks great on regular KDE as well."
-  },
-  {
-    "repo": "incursi0n/GodPotatoBOF",
-    "branch": "main",
-    "language": "C",
-    "description": "Cobalt Strike BOF used to perform privilege escalation by exploiting the SeImpersonate privilege. Based on the original GodPotato PoC by BeichenDream."
-  },
-  {
-    "repo": "actions/runner",
-    "branch": "main",
-    "language": "C#",
-    "description": "The Runner for GitHub Actions :rocket:"
-  },
-  {
-    "repo": "raheemxghumman/DBD-AutoGrind-Trainer-2026",
+    "repo": "uqogihujomuwhiff/sora2-watermark-cleaner-pro",
     "branch": "main",
     "language": "Python",
-    "description": "Ultimate Dead by Daylight auto-grind trainer with Bloodpoint bot, ESP wallhack, aimbot, and full perk/skin unlocker. Dominate the Fog with our 2026 undetected external tool."
+    "description": "sora2 watermark cleaner pro"
   },
   {
-    "repo": "ashleymills/Reachability.swift",
+    "repo": "gitleaks/gitleaks",
     "branch": "master",
-    "language": "Swift",
-    "description": "Replacement for Apple's Reachability re-written in Swift with closures"
+    "language": "Go",
+    "description": "Find secrets with Gitleaks 🔑"
   },
   {
-    "repo": "Eronred/aso-skills",
+    "repo": "j3h4ck/PoisonKiller",
+    "branch": "main",
+    "language": "C++",
+    "description": "Another BYOVD process killer. works on CrowdStrike. fully signed."
+  },
+  {
+    "repo": "LilanOvO/Auto-Resubmit",
+    "branch": "main",
+    "language": "Python",
+    "description": "🚀 Automated & lossless LaTeX paper migration tool. Instantly convert your Overleaf source between top-tier AI conference templates (NeurIPS, ICLR, ACL等). 一键无损转换顶会论文格式！解决转投时的排版折磨，完美保留公式、图表与引用，让科研人员专注研究而非排版。"
+  },
+  {
+    "repo": "elkimek/honcho-self-hosted",
     "branch": "main",
     "language": "Shell",
-    "description": "AI agent skills for App Store Optimization (ASO) and mobile app marketing. Built for indie developers, app marketers, and growth teams who want Cursor, Claude Code, or any Agent Skills-compatible AI assistant to help with keyword research, metadata optimization, competitor analysis, and app growth."
+    "description": "Self-host Honcho memory layer for Hermes Agent — OpenRouter + Venice, no code changes"
   },
   {
-    "repo": "SVProgressHUD/SVProgressHUD",
+    "repo": "babar-mpire/polymarket-trading-bot",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot"
+  },
+  {
+    "repo": "projectdiscovery/nuclei",
     "branch": "master",
-    "language": "Objective-C",
-    "description": "A clean and lightweight progress HUD for your iOS and tvOS app."
-  },
-  {
-    "repo": "gunawan1996/world-forge-ai",
-    "branch": "main",
-    "language": "HTML",
-    "description": "AI World Generator 2026: Create Self-Evolving Maps & Stories"
-  },
-  {
-    "repo": "maaslalani/fast",
-    "branch": "main",
     "language": "Go",
-    "description": "Internet speed test in your terminal"
+    "description": "Nuclei is a fast, customizable vulnerability scanner powered by the global security community and built on a simple YAML-based DSL, enabling collaboration to tackle trending vulnerabilities on the internet. It helps you find vulnerabilities in your applications, APIs, networks, DNS, and cloud configurations."
   },
   {
-    "repo": "AresLeVrai/celestial-launcher-releases",
+    "repo": "vava-nessa/free-coding-models",
     "branch": "main",
-    "language": "C#",
-    "description": "celestial launcher releases league of legends  download custom skins mod manager lol client windows 11 config profile"
+    "language": "JavaScript",
+    "description": ""
   },
   {
-    "repo": "hashicorp/consul",
+    "repo": "he-yufeng/CoreCoder",
     "branch": "main",
-    "language": "Go",
-    "description": "Consul is a distributed, highly available, and data center aware solution to connect and configure applications across dynamic, distributed infrastructure."
+    "language": "Python",
+    "description": "Minimal AI coding agent (~950 LoC Python) inspired by Claude Code. Works with any LLM. Think NanoGPT for coding agent. Formerly NanoCoder."
   },
   {
-    "repo": "apple/corecrypto",
+    "repo": "AgriciDaniel/claude-obsidian",
+    "branch": "main",
+    "language": "Shell",
+    "description": "Claude + Obsidian knowledge companion. Persistent, compounding wiki vault based on Karpathy's LLM Wiki pattern. /wiki /save /autoresearch"
+  },
+  {
+    "repo": "math-ai-org/mathcode",
+    "branch": "main",
+    "language": "Python",
+    "description": "MathCode: A Frontier Mathematical Coding Agent"
+  },
+  {
+    "repo": "reinesana/Doomscroll-Skyrim-Edition",
+    "branch": "main",
+    "language": "Python",
+    "description": "A CV productivity tool that plays the Skeleton Shield meme whenever you doomscroll or lose focus."
+  },
+  {
+    "repo": "Mathifygaming/OpenGOAL-Jak-PC-Port",
     "branch": "main",
     "language": "C++",
-    "description": "Apple corecrypto"
+    "description": "Jak 3 PC Port download OpenGOAL native port Jak Daxter Wasteland Haven City Precursor Light Dark Eco vehicles desert combat missions platformer."
   },
   {
-    "repo": "areofyl/fetch",
+    "repo": "glommer/cachebro",
     "branch": "main",
-    "language": "C",
-    "description": "An animated 3D fetch tool for your terminal. Takes your distro's ASCII logo, turns it into a spinning 3D object, and displays system info alongside it."
+    "language": "TypeScript",
+    "description": "File cache with diff tracking for AI coding agents. Drop-in MCP server that cuts token usage by 26%."
   },
   {
-    "repo": "eli-labz/Godcoder",
+    "repo": "galpha-ai/trading-intent",
     "branch": "main",
     "language": "Rust",
-    "description": "A local-first, open-source coding agent for your desktop. Bring your own LLM key; your code stays on your machine and only ever leaves to the model provider"
+    "description": ""
   },
   {
-    "repo": "larksuite/cli",
+    "repo": "AgriciDaniel/claude-ads",
+    "branch": "main",
+    "language": "Python",
+    "description": "Comprehensive paid advertising audit & optimization skill for Claude Code. 186 checks across Google, Meta, YouTube, LinkedIn, TikTok & Microsoft Ads with weighted scoring, parallel agents, and industry templates."
+  },
+  {
+    "repo": "AlexAnys/feishu-openclaw",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "Connect 飞书Feishu/Lark bot to openclaw (formerly Clawdbot) — no public server, no domain, no ngrok needed. 稳定免安装、共需5 分钟"
+  },
+  {
+    "repo": "XTLS/Xray-core",
     "branch": "main",
     "language": "Go",
-    "description": "A command-line tool for Lark/Feishu Open Platform — built for humans and AI Agents. Covers core business domains including Messenger, Docs, Base, Sheets, Calendar, Mail, Tasks, Meetings, and more, with 200+ commands and 19 AI Agent Skills."
+    "description": "Xray, Penetrates Everything. Also the best v2ray-core. Where the magic happens. An open platform for various uses."
   },
   {
-    "repo": "1Panel-dev/MaxKB",
+    "repo": "HKUDS/ClawWork",
     "branch": "main",
     "language": "Python",
-    "description": "🔥 MaxKB is an open-source platform for building enterprise-grade agents.  强大易用的开源企业级智能体平台。"
+    "description": "ClawWork: OpenClaw as Your AI Coworker - 💰 $10K earned in 7 Hours"
   },
   {
-    "repo": "uphiago/recon-skills",
+    "repo": "fafathops152/Pokemon-Pokopia-For-PC",
     "branch": "main",
-    "language": "Python",
-    "description": "144 offensive security skills for recon and pentest. Field-validated techniques from 600+ targets across 45+ sectors. Updated with web enum, email sec, google dorks, cloud IAM, WordPress full compromise chains."
+    "language": "C++",
+    "description": "Pokémon Pokopia For PC 2026 is the complete Windows edition of the beloved creature-collecting adventure game. Explore the beautiful Pokopia region, catch and train unique Pokémon, battle powerful trainers, and become the ultimate Champion. Now fully playable on PC with enhanced graphics, smooth performance"
+  },
+  {
+    "repo": "cortexproject/cortex",
+    "branch": "master",
+    "language": "Go",
+    "description": "A horizontally scalable, highly available, multi-tenant, long term Prometheus."
   }
 ]
