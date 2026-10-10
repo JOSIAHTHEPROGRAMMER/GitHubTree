@@ -1,146 +1,146 @@
 [
   {
-    "repo": "MDX-Tom/gpt-5.6-instruct",
+    "repo": "mostafamo123/Pragmata-Reframework",
     "branch": "main",
-    "language": "Python",
-    "description": "A Codex CLI jailbreak prompt and test pack for gpt-5.6-sol. 针对 gpt-5.6 系列的 Codex CLI 破甲提示词与测试包。"
+    "language": "C++",
+    "description": "Pragmata REFramework/RenoDX/Optiscaler Download April 2026 Nightly Build Pragmata FOV Fix Ultrawide Black Bars Solution Pragmata D3D Device Removed Error Fix Optiscaler DXGI.DLL Pragmata VR Mod Status Diana Amiibo PC Rewards Pragmata Steam Deck Performance Guide NVIDIA Reflex Stutter Fix RTX 5090 HDR Tonemapping RenoDX Pragmata Trainer"
   },
   {
-    "repo": "styled-components/styled-components",
+    "repo": "mpv-player/mpv",
+    "branch": "master",
+    "language": "C",
+    "description": "🎥 Command line media player"
+  },
+  {
+    "repo": "davebcn87/pi-autoresearch",
     "branch": "main",
     "language": "TypeScript",
-    "description": "Visual primitives for the component age. Use the best bits of ES6 and CSS to style your apps without stress 💅"
+    "description": "Autonomous experiment loop extension for pi"
   },
   {
-    "repo": "SharifiZarchi/janfadaa",
+    "repo": "techwithtim/Flask-Web-App-Tutorial",
     "branch": "main",
     "language": "HTML",
-    "description": ""
+    "description": "Code for the note storing flask web app made during a YouTube video."
   },
   {
-    "repo": "uqogihujomuwhiff/sora2-watermark-cleaner-pro",
-    "branch": "main",
-    "language": "Python",
-    "description": "sora2 watermark cleaner pro"
-  },
-  {
-    "repo": "gitleaks/gitleaks",
+    "repo": "micropython/micropython",
     "branch": "master",
-    "language": "Go",
-    "description": "Find secrets with Gitleaks 🔑"
+    "language": "C",
+    "description": "MicroPython - a lean and efficient Python implementation for microcontrollers and constrained systems"
   },
   {
-    "repo": "j3h4ck/PoisonKiller",
-    "branch": "main",
-    "language": "C++",
-    "description": "Another BYOVD process killer. works on CrowdStrike. fully signed."
-  },
-  {
-    "repo": "LilanOvO/Auto-Resubmit",
-    "branch": "main",
-    "language": "Python",
-    "description": "🚀 Automated & lossless LaTeX paper migration tool. Instantly convert your Overleaf source between top-tier AI conference templates (NeurIPS, ICLR, ACL等). 一键无损转换顶会论文格式！解决转投时的排版折磨，完美保留公式、图表与引用，让科研人员专注研究而非排版。"
-  },
-  {
-    "repo": "elkimek/honcho-self-hosted",
-    "branch": "main",
-    "language": "Shell",
-    "description": "Self-host Honcho memory layer for Hermes Agent — OpenRouter + Venice, no code changes"
-  },
-  {
-    "repo": "babar-mpire/polymarket-trading-bot",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot"
-  },
-  {
-    "repo": "projectdiscovery/nuclei",
+    "repo": "mkdocs/mkdocs",
     "branch": "master",
-    "language": "Go",
-    "description": "Nuclei is a fast, customizable vulnerability scanner powered by the global security community and built on a simple YAML-based DSL, enabling collaboration to tackle trending vulnerabilities on the internet. It helps you find vulnerabilities in your applications, APIs, networks, DNS, and cloud configurations."
-  },
-  {
-    "repo": "vava-nessa/free-coding-models",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": ""
-  },
-  {
-    "repo": "he-yufeng/CoreCoder",
-    "branch": "main",
     "language": "Python",
-    "description": "Minimal AI coding agent (~950 LoC Python) inspired by Claude Code. Works with any LLM. Think NanoGPT for coding agent. Formerly NanoCoder."
+    "description": "Project documentation with Markdown."
   },
   {
-    "repo": "AgriciDaniel/claude-obsidian",
-    "branch": "main",
-    "language": "Shell",
-    "description": "Claude + Obsidian knowledge companion. Persistent, compounding wiki vault based on Karpathy's LLM Wiki pattern. /wiki /save /autoresearch"
-  },
-  {
-    "repo": "math-ai-org/mathcode",
-    "branch": "main",
-    "language": "Python",
-    "description": "MathCode: A Frontier Mathematical Coding Agent"
-  },
-  {
-    "repo": "reinesana/Doomscroll-Skyrim-Edition",
-    "branch": "main",
-    "language": "Python",
-    "description": "A CV productivity tool that plays the Skeleton Shield meme whenever you doomscroll or lose focus."
-  },
-  {
-    "repo": "Mathifygaming/OpenGOAL-Jak-PC-Port",
-    "branch": "main",
-    "language": "C++",
-    "description": "Jak 3 PC Port download OpenGOAL native port Jak Daxter Wasteland Haven City Precursor Light Dark Eco vehicles desert combat missions platformer."
-  },
-  {
-    "repo": "glommer/cachebro",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "File cache with diff tracking for AI coding agents. Drop-in MCP server that cuts token usage by 26%."
-  },
-  {
-    "repo": "galpha-ai/trading-intent",
+    "repo": "Zackriya-Solutions/meeting-minutes",
     "branch": "main",
     "language": "Rust",
+    "description": "Privacy first, AI meeting assistant with 4x faster Parakeet/Whisper live transcription, speaker diarization, and Ollama summarization built on Rust. 100% local processing. no cloud required. Meetily (Meetly Ai - https://meetily.ai) is the #1 Self-hosted,  Open-source Ai meeting note taker for macOS & Windows."
+  },
+  {
+    "repo": "InstaPy/InstaPy",
+    "branch": "master",
+    "language": "Python",
+    "description": "📷 Instagram Bot - Tool for automated Instagram interactions"
+  },
+  {
+    "repo": "avacocloud/netlify-XHHTP",
+    "branch": "main",
+    "language": "JavaScript",
     "description": ""
   },
   {
-    "repo": "AgriciDaniel/claude-ads",
-    "branch": "main",
-    "language": "Python",
-    "description": "Comprehensive paid advertising audit & optimization skill for Claude Code. 186 checks across Google, Meta, YouTube, LinkedIn, TikTok & Microsoft Ads with weighted scoring, parallel agents, and industry templates."
-  },
-  {
-    "repo": "AlexAnys/feishu-openclaw",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "Connect 飞书Feishu/Lark bot to openclaw (formerly Clawdbot) — no public server, no domain, no ngrok needed. 稳定免安装、共需5 分钟"
-  },
-  {
-    "repo": "XTLS/Xray-core",
-    "branch": "main",
-    "language": "Go",
-    "description": "Xray, Penetrates Everything. Also the best v2ray-core. Where the magic happens. An open platform for various uses."
-  },
-  {
-    "repo": "HKUDS/ClawWork",
-    "branch": "main",
-    "language": "Python",
-    "description": "ClawWork: OpenClaw as Your AI Coworker - 💰 $10K earned in 7 Hours"
-  },
-  {
-    "repo": "fafathops152/Pokemon-Pokopia-For-PC",
+    "repo": "FreeCAD/FreeCAD",
     "branch": "main",
     "language": "C++",
-    "description": "Pokémon Pokopia For PC 2026 is the complete Windows edition of the beloved creature-collecting adventure game. Explore the beautiful Pokopia region, catch and train unique Pokémon, battle powerful trainers, and become the ultimate Champion. Now fully playable on PC with enhanced graphics, smooth performance"
+    "description": "Official source code of FreeCAD, a free and opensource multiplatform 3D parametric modeler."
   },
   {
-    "repo": "cortexproject/cortex",
-    "branch": "master",
+    "repo": "CraftyGeezer/Kalshi-Polymarket-Ai-bot",
+    "branch": "main",
+    "language": "Python",
+    "description": ""
+  },
+  {
+    "repo": "apple/ml-ssd",
+    "branch": "main",
+    "language": "Python",
+    "description": ""
+  },
+  {
+    "repo": "ahmadawais/terminui",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Super fast double buffered toolkit for building terminal UIs."
+  },
+  {
+    "repo": "sass/sass",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Sass makes CSS fun!"
+  },
+  {
+    "repo": "mode-io/vllm-jev",
+    "branch": "main",
+    "language": "Python",
+    "description": "Native vLLM serving for Jev decision models"
+  },
+  {
+    "repo": "erikdarlingdata/PerformanceMonitor",
+    "branch": "main",
+    "language": "C#",
+    "description": "Free, open-source SQL Server performance monitoring. Full Edition (server-installed, 30 collectors) and Lite Edition (standalone, DuckDB). Built-in MCP server for AI integration."
+  },
+  {
+    "repo": "OpenBMB/ChatDev",
+    "branch": "main",
+    "language": "Python",
+    "description": "ChatDev 2.0: Dev All through LLM-powered Multi-Agent Collaboration"
+  },
+  {
+    "repo": "sigstore/cosign",
+    "branch": "main",
     "language": "Go",
-    "description": "A horizontally scalable, highly available, multi-tenant, long term Prometheus."
+    "description": "Code signing and transparency for containers and binaries"
+  },
+  {
+    "repo": "HzWeta/Delta-For-Roblox-PC-Edition",
+    "branch": "main",
+    "language": "C++",
+    "description": "Delta For Roblox PC Edition delivers a smooth and optimized Roblox experience on Windows. Enjoy better performance, higher FPS, widescreen support, and enhanced stability while playing your favorite Roblox games on desktop."
+  },
+  {
+    "repo": "Backtthefuture/huangshu",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "黄叔开源的Skill集合"
+  },
+  {
+    "repo": "ToolSeRF/TaHa-Direct-Reverse-Tunnel-Runner",
+    "branch": "main",
+    "language": "Shell",
+    "description": "راه اندازی و مدیریت تانل مستقیم و معکوس(ریورس) با بیش از 150 پروتو برای عبور از فیلترینگ و پاسخگو برای سرورهایی با محدودیت بسیار شدید، راه اندازی بین یک یا چند سرور، به یاد طاها هوشیار کودک 12 ساله جان فدای میهن"
+  },
+  {
+    "repo": "originalankur/GenerateAgents.md",
+    "branch": "main",
+    "language": "Python",
+    "description": "Automated generation of comprehensive Agents.md for LLMs, driven by the DSPy Recursive language model implementation."
+  },
+  {
+    "repo": "ForecastForge/binance-trading-bot",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "binance trading bot · binance bot · binance AI trading bot · binance automated trading bot · binance auto trading bot · binance crypto trading bot · binance futures trading bot · binance spot trading bot · binance grid trading bot · binance bot strategy"
+  },
+  {
+    "repo": "m1heng/claude-plugin-weixin",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": ""
   }
 ]

@@ -1,8 +1,8 @@
 {
-  "repo": "chengyi-ai/cy-carousel-skill",
+  "repo": "wesbos/photo-frame-dashboard",
   "branch": "main",
-  "language": "Python",
-  "description": "图文轮播 Skill（cy-carousel）：给一个选题，查证、找素材、排版、检查、打包，交付封面＋10 页",
-  "stars": 281,
-  "forks": 37
+  "language": "JavaScript",
+  "description": "Getting ADB, root, backups and custom apps onto locked-down Android photo frames (Skylight Calendar, BIUFRAME)",
+  "stars": 416,
+  "forks": 24
 }
