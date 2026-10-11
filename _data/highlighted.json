@@ -1,8 +1,8 @@
 {
-  "repo": "zhouwei713/luobo-ppt",
+  "repo": "wheresryan22/anatomy",
   "branch": "main",
-  "language": "Python",
-  "description": "生成和美化可编辑原生 PPT 的 Agent Skill",
-  "stars": 208,
-  "forks": 45
+  "language": "JavaScript",
+  "description": "A Claude Code skill that turns a technical idea into a detailed, interactive isometric figure of a real machine. It makes SVG with optional WebGL shaders and 3D, for docs, articles and landing pages.",
+  "stars": 1164,
+  "forks": 97
 }

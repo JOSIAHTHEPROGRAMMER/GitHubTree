@@ -1,146 +1,146 @@
 [
   {
-    "repo": "ltyzen/KMSAutoTool",
+    "repo": "CATCHINGL/O.status",
     "branch": "main",
-    "language": "C++",
-    "description": "System license utility Windows product key manager Office license assistant Volume Licensing tool HWID management system deployment utility desktop OS setup enterprise license emulator digital license helper software repository installer package system verification tool."
+    "language": "Kotlin",
+    "description": "A clean and minimal Android status indicator for cellular, Wi-Fi and battery status."
   },
   {
-    "repo": "sqlite/sqlite",
-    "branch": "master",
-    "language": "C",
-    "description": "Official Git mirror of the SQLite source tree"
-  },
-  {
-    "repo": "dou-jiang/codex-console",
+    "repo": "apache/airflow",
     "branch": "main",
     "language": "Python",
-    "description": "codex-console 是一个集成化控制台项目，支持任务管理、批量处理、数据导出、自动上传、日志查看与打包支持。"
+    "description": "Apache Airflow - A platform to programmatically author, schedule, and monitor workflows"
   },
   {
-    "repo": "tanviet12/chat-quality-agent",
+    "repo": "watchtowrlabs/watchTowr-vs-cPanel-WHM-AuthBypass-to-RCE.py",
     "branch": "main",
-    "language": "Go",
+    "language": "Python",
     "description": ""
   },
   {
-    "repo": "prometheus-operator/prometheus-operator",
-    "branch": "main",
-    "language": "Go",
-    "description": "Prometheus Operator creates/configures/manages Prometheus clusters atop Kubernetes"
-  },
-  {
-    "repo": "ethanjyx/OpenBrand",
+    "repo": "AppAndFlow/react-native-ease",
     "branch": "main",
     "language": "TypeScript",
-    "description": "Extract brand assets (logos, colors, backdrops) from any website; open source alternative to Brand.dev"
+    "description": "🍃 Lightweight declarative animations powered by platform APIs"
   },
   {
-    "repo": "argoproj/argo-workflows",
+    "repo": "harshkedia177/axon",
+    "branch": "main",
+    "language": "Python",
+    "description": "Graph-powered code intelligence engine — indexes codebases into a knowledge graph, exposed via MCP tools for AI agents and a CLI for developers."
+  },
+  {
+    "repo": "markets/awesome-ruby",
     "branch": "master",
-    "language": "Go",
-    "description": "Workflow Engine for Kubernetes"
+    "language": "Other",
+    "description": "💎 A collection of awesome Ruby libraries, tools, frameworks and software"
   },
   {
-    "repo": "thanos-io/thanos",
+    "repo": "openai/openai-cookbook",
     "branch": "main",
-    "language": "Go",
-    "description": "Highly available Prometheus setup with long term storage capabilities. A CNCF Incubating project."
+    "language": "Jupyter Notebook",
+    "description": "Examples and guides for using the OpenAI API"
   },
   {
-    "repo": "elder-plinius/GLOSSOPETRAE",
+    "repo": "wesm/agentsview",
     "branch": "main",
+    "language": "Go",
+    "description": "Fast local coding agent session viewer for Claude, Codex, Gemini, with analytics dashboard and full text search"
+  },
+  {
+    "repo": "duoan/TorchCode",
+    "branch": "master",
+    "language": "Jupyter Notebook",
+    "description": "🔥 LeetCode for PyTorch — practice implementing softmax, attention, GPT-2 and more from scratch with instant auto-grading. Jupyter-based, self-hosted or try online."
+  },
+  {
+    "repo": "Dimillian/PokeSwift",
+    "branch": "main",
+    "language": "Assembly",
+    "description": "A reimplementation of the Pokemon Red/Blue engine in Swift and SwiftUI"
+  },
+  {
+    "repo": "trekhleb/javascript-algorithms",
+    "branch": "master",
     "language": "JavaScript",
-    "description": "LINGUISTIC ENGINE FOR AI"
+    "description": "📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings"
   },
   {
-    "repo": "jshachm/pi-rs",
-    "branch": "main",
-    "language": "Rust",
-    "description": "基于pi-mono，rust轻量化版本"
-  },
-  {
-    "repo": "MistKailorg/Polymarket-trading-bot",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Polymarket trading bot | Polymarket trading bot | Polymarket trading bot | Polymarket trading bot | Polymarket trading bot | Polymarket trading bot | Polymarket trading bot | Polymarket trading bot | Polymarket trading bot | Polymarket copy trading bot | Polymarket copy trading bot | Polymarket copy trading bot | Polymarket copy trading bot"
-  },
-  {
-    "repo": "zengwenliang416/ppt-agent",
-    "branch": "main",
-    "language": "HTML",
-    "description": ""
-  },
-  {
-    "repo": "nickustinov/itsypad-macos",
+    "repo": "lardissone/ansi-saver",
     "branch": "main",
     "language": "Swift",
-    "description": "A tiny, fast scratchpad and clipboard manager for Mac"
+    "description": "ANSI art screensaver for macOS — streams art from 16colo.rs BBS archive packs"
   },
   {
-    "repo": "Perkins729/OmniXtreme",
+    "repo": "FireRedTeam/FireRedVAD",
     "branch": "main",
     "language": "Python",
-    "description": ""
+    "description": "A SOTA Industrial-Grade Voice Activity Detection & Audio Event Detection, supporting 100+ languages, outperforming Silero-VAD, TEN-VAD, FunASR-VAD and WebRTC-VAD"
   },
   {
-    "repo": "camilleroux/genart-skill",
+    "repo": "alainnothere/llm-circuit-finder",
     "branch": "main",
-    "language": "JavaScript",
-    "description": "Generative art skill for Claude Code — deterministic, hash-seeded, onchain-ready"
+    "language": "Python",
+    "description": "I replicated Ng's RYS method and found that duplicating 3 specific layers in Qwen2.5-32B boosts reasoning by 17% and duplicating layers 12-14 in Devstral-24B improves logical deduction from 0.22→0.76 on BBH — no training, no weight changes, just routing hidden states through the same circuit twice. Tools included. Two AMD GPUs, one evening."
   },
   {
-    "repo": "xuanyuanzhifeng/easytshark",
-    "branch": "main",
-    "language": "C",
-    "description": "一款开源的简洁好用的网络抓包分析软件"
-  },
-  {
-    "repo": "jobrunr/JavaClaw",
-    "branch": "main",
-    "language": "Java",
-    "description": "JavaClaw, a Java version of OpenClaw built on Spring Boot, Spring AI and JobRunr"
-  },
-  {
-    "repo": "open-policy-agent/gatekeeper",
+    "repo": "ory/oathkeeper",
     "branch": "master",
     "language": "Go",
-    "description": "🐊 Policy Controller for Kubernetes"
+    "description": "A cloud native Identity & Access Proxy / API (IAP) and Access Control Decision API that authenticates, authorizes, and mutates incoming HTTP(s) requests. Inspired by the BeyondCorp / Zero Trust white paper. Written in Go."
   },
   {
-    "repo": "mgks/GitHubTree",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "Visualise any GitHub repository folder structure. Available as a web app, CLI tool, and node.js library."
-  },
-  {
-    "repo": "hashicorp/nomad",
-    "branch": "main",
-    "language": "Go",
-    "description": "Nomad is an easy-to-use, flexible, and performant workload orchestrator that can deploy a mix of microservice, batch, containerized, and non-containerized applications. Nomad is easy to operate and scale and has native Consul and Vault integrations."
-  },
-  {
-    "repo": "Guovin/IPTV-API",
-    "branch": "main",
-    "language": "Python",
-    "description": "⚡️IPTV直播源自动更新平台『🤖全自动采集、筛选、测速、生成🚀』：自定义获取频道；IPv4/IPv6；接口验效；推流；多平台支持；工作流、Docker、命令行、GUI多端部署 | IPTV live streaming source automatic update platform"
-  },
-  {
-    "repo": "polymarket-dev/Polymarket-Arbitrage-Bot",
+    "repo": "ionic-team/capacitor",
     "branch": "main",
     "language": "TypeScript",
-    "description": "polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket arbitrage bot"
+    "description": "Build cross-platform Native Progressive Web Apps for iOS, Android, and the Web ⚡️"
   },
   {
-    "repo": "htimesnine/DarkSword-RCE",
+    "repo": "LCEMP/LCEMP",
+    "branch": "main",
+    "language": "C++",
+    "description": "A fork of minecraft LCE with LAN multiplayer support and other fixes."
+  },
+  {
+    "repo": "immerjs/immer",
     "branch": "main",
     "language": "JavaScript",
-    "description": "DarkSword webkit exploit captured ITW"
+    "description": "Create the next immutable state by mutating the current one"
   },
   {
-    "repo": "bramcohen/manyana",
+    "repo": "Flowseal/tg-ws-proxy",
     "branch": "main",
     "language": "Python",
+    "description": "Local SOCKS5 proxy server for partial bypassing of Telegram loading"
+  },
+  {
+    "repo": "LeoYeAI/openclaw-guardian",
+    "branch": "main",
+    "language": "Shell",
+    "description": "🛡️ Guardian watchdog for OpenClaw Gateway — auto-monitor, self-repair via doctor --fix, git-based rollback, daily snapshots, and Discord alerts. Powered by MyClaw.ai"
+  },
+  {
+    "repo": "vercel/next.js",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "The React Framework"
+  },
+  {
+    "repo": "LeoYeAI/openclaw-master-skills",
+    "branch": "main",
+    "language": "Python",
+    "description": "🧠 Curated collection of 127+ best OpenClaw skills — weekly updated from skills.sh, GitHub & ClaWHub. Powered by MyClaw.ai"
+  },
+  {
+    "repo": "3-JonWallis1993/HyperLiquid-Claw",
+    "branch": "main",
+    "language": "Rust",
     "description": ""
+  },
+  {
+    "repo": "mui/mui-x",
+    "branch": "master",
+    "language": "TypeScript",
+    "description": "MUI X: Build complex and data-rich applications using a growing list of advanced React components, like the Data Grid, Date and Time Pickers, Charts, and more!"
   }
 ]
