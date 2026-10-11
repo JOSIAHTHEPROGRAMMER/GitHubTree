@@ -1,8 +1,8 @@
 {
-  "repo": "HelixDB/helix-foundry",
+  "repo": "zhouwei713/luobo-ppt",
   "branch": "main",
-  "language": "TypeScript",
-  "description": "Your company's data, connected into one ontology, on your own computer. A local-first data workspace built on HelixDB and DuckDB.",
-  "stars": 939,
-  "forks": 133
+  "language": "Python",
+  "description": "生成和美化可编辑原生 PPT 的 Agent Skill",
+  "stars": 208,
+  "forks": 45
 }
