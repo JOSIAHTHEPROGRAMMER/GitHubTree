@@ -1,8 +1,8 @@
 {
-  "repo": "wheresryan22/anatomy",
-  "branch": "main",
-  "language": "JavaScript",
-  "description": "A Claude Code skill that turns a technical idea into a detailed, interactive isometric figure of a real machine. It makes SVG with optional WebGL shaders and 3D, for docs, articles and landing pages.",
-  "stars": 1164,
-  "forks": 97
+  "repo": "mrsarac/ff-tracking",
+  "branch": "master",
+  "language": "Rust",
+  "description": "A virtual camera films an AI agent's screen while a tracker locks onto every glyph. Two fframes passes, one SkSL shader, all sound synthesized.",
+  "stars": 287,
+  "forks": 19
 }

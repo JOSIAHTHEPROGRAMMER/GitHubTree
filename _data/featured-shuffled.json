@@ -1,146 +1,146 @@
 [
   {
-    "repo": "CATCHINGL/O.status",
+    "repo": "techcomet122583/Polymarket-Telegram-Bot",
     "branch": "main",
-    "language": "Kotlin",
-    "description": "A clean and minimal Android status indicator for cellular, Wi-Fi and battery status."
-  },
-  {
-    "repo": "apache/airflow",
-    "branch": "main",
-    "language": "Python",
-    "description": "Apache Airflow - A platform to programmatically author, schedule, and monitor workflows"
-  },
-  {
-    "repo": "watchtowrlabs/watchTowr-vs-cPanel-WHM-AuthBypass-to-RCE.py",
-    "branch": "main",
-    "language": "Python",
+    "language": "JavaScript",
     "description": ""
   },
   {
-    "repo": "AppAndFlow/react-native-ease",
+    "repo": "hangsman/claude-code-source",
     "branch": "main",
     "language": "TypeScript",
-    "description": "🍃 Lightweight declarative animations powered by platform APIs"
+    "description": "claude code source map v2.1.88"
   },
   {
-    "repo": "harshkedia177/axon",
-    "branch": "main",
-    "language": "Python",
-    "description": "Graph-powered code intelligence engine — indexes codebases into a knowledge graph, exposed via MCP tools for AI agents and a CLI for developers."
-  },
-  {
-    "repo": "markets/awesome-ruby",
-    "branch": "master",
-    "language": "Other",
-    "description": "💎 A collection of awesome Ruby libraries, tools, frameworks and software"
-  },
-  {
-    "repo": "openai/openai-cookbook",
-    "branch": "main",
-    "language": "Jupyter Notebook",
-    "description": "Examples and guides for using the OpenAI API"
-  },
-  {
-    "repo": "wesm/agentsview",
-    "branch": "main",
-    "language": "Go",
-    "description": "Fast local coding agent session viewer for Claude, Codex, Gemini, with analytics dashboard and full text search"
-  },
-  {
-    "repo": "duoan/TorchCode",
-    "branch": "master",
-    "language": "Jupyter Notebook",
-    "description": "🔥 LeetCode for PyTorch — practice implementing softmax, attention, GPT-2 and more from scratch with instant auto-grading. Jupyter-based, self-hosted or try online."
-  },
-  {
-    "repo": "Dimillian/PokeSwift",
-    "branch": "main",
-    "language": "Assembly",
-    "description": "A reimplementation of the Pokemon Red/Blue engine in Swift and SwiftUI"
-  },
-  {
-    "repo": "trekhleb/javascript-algorithms",
+    "repo": "QLHazyCoder/codex-oauth-automation-extension",
     "branch": "master",
     "language": "JavaScript",
-    "description": "📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings"
+    "description": "Chrome扩展：支持OpenAI OAuth注册、验证码获取、CPA回调验证与自动恢复"
   },
   {
-    "repo": "lardissone/ansi-saver",
-    "branch": "main",
-    "language": "Swift",
-    "description": "ANSI art screensaver for macOS — streams art from 16colo.rs BBS archive packs"
-  },
-  {
-    "repo": "FireRedTeam/FireRedVAD",
-    "branch": "main",
-    "language": "Python",
-    "description": "A SOTA Industrial-Grade Voice Activity Detection & Audio Event Detection, supporting 100+ languages, outperforming Silero-VAD, TEN-VAD, FunASR-VAD and WebRTC-VAD"
-  },
-  {
-    "repo": "alainnothere/llm-circuit-finder",
-    "branch": "main",
-    "language": "Python",
-    "description": "I replicated Ng's RYS method and found that duplicating 3 specific layers in Qwen2.5-32B boosts reasoning by 17% and duplicating layers 12-14 in Devstral-24B improves logical deduction from 0.22→0.76 on BBH — no training, no weight changes, just routing hidden states through the same circuit twice. Tools included. Two AMD GPUs, one evening."
-  },
-  {
-    "repo": "ory/oathkeeper",
-    "branch": "master",
-    "language": "Go",
-    "description": "A cloud native Identity & Access Proxy / API (IAP) and Access Control Decision API that authenticates, authorizes, and mutates incoming HTTP(s) requests. Inspired by the BeyondCorp / Zero Trust white paper. Written in Go."
-  },
-  {
-    "repo": "ionic-team/capacitor",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Build cross-platform Native Progressive Web Apps for iOS, Android, and the Web ⚡️"
-  },
-  {
-    "repo": "LCEMP/LCEMP",
+    "repo": "Senabayu08989/Stable-Diffusion-AI-Free",
     "branch": "main",
     "language": "C++",
-    "description": "A fork of minecraft LCE with LAN multiplayer support and other fixes."
+    "description": "Stable Diffusion Free AI Image Generator Flux 2 Local Deployment Real-time Video Character Consistency Identity Anchoring SDXL Turbo LoRA Training ControlNet Open Source Art Studio Hyperrealistic Cinematic Styles Prompt Engineering Python Pytorch Forge ComfyUI 2026 Release High Resolution Desktop Tool"
   },
   {
-    "repo": "immerjs/immer",
+    "repo": "lifedever/TaskTick",
     "branch": "main",
-    "language": "JavaScript",
-    "description": "Create the next immutable state by mutating the current one"
+    "language": "Swift",
+    "description": "A native macOS app for managing scheduled tasks. Built with SwiftUI + SwiftData. Menu bar resident, cron expressions, script execution, and more."
   },
   {
-    "repo": "Flowseal/tg-ws-proxy",
+    "repo": "evanphi7/lighthouse-router",
     "branch": "main",
-    "language": "Python",
-    "description": "Local SOCKS5 proxy server for partial bypassing of Telegram loading"
+    "language": "Rust",
+    "description": "Off-chain DEX route discovery on Solana — pool decoders, multi-hop quoting, and arbitrage cycle detection"
   },
   {
-    "repo": "LeoYeAI/openclaw-guardian",
+    "repo": "kimlawtech/korean-privacy-terms",
     "branch": "main",
-    "language": "Shell",
-    "description": "🛡️ Guardian watchdog for OpenClaw Gateway — auto-monitor, self-repair via doctor --fix, git-based rollback, daily snapshots, and Discord alerts. Powered by MyClaw.ai"
+    "language": "Go Template",
+    "description": "한국 법령 기반 개인정보처리방침·이용약관 자동 생성 Claude Code 스킬. 2025.4.21 작성지침 및 2026.3 개정 법령 반영."
   },
   {
-    "repo": "vercel/next.js",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "The React Framework"
-  },
-  {
-    "repo": "LeoYeAI/openclaw-master-skills",
-    "branch": "main",
-    "language": "Python",
-    "description": "🧠 Curated collection of 127+ best OpenClaw skills — weekly updated from skills.sh, GitHub & ClaWHub. Powered by MyClaw.ai"
-  },
-  {
-    "repo": "3-JonWallis1993/HyperLiquid-Claw",
+    "repo": "deborahikssv/Antigravity-claw",
     "branch": "main",
     "language": "Rust",
     "description": ""
   },
   {
-    "repo": "mui/mui-x",
-    "branch": "master",
+    "repo": "Kaleighc793/freqtrade-bot",
+    "branch": "main",
+    "language": "Python",
+    "description": "Freqtrade — Configuration and management tool for the Freqtrade open-source crypto trading bot with strategy backtesting, live/dry-run modes, 10+ exchange support (Binance, Kraken, OKX), hyperparameter optimization, FreqUI dashboard, and Rich terminal menu interface"
+  },
+  {
+    "repo": "nikmcfly/MiroFish-Offline",
+    "branch": "main",
+    "language": "Python",
+    "description": "Offline multi-agent simulation & prediction engine. English fork of MiroFish with Neo4j + Ollama local stack."
+  },
+  {
+    "repo": "OasAIStudio/symphony-ts",
+    "branch": "main",
     "language": "TypeScript",
-    "description": "MUI X: Build complex and data-rich applications using a growing list of advanced React components, like the Data Grid, Date and Time Pickers, Charts, and more!"
+    "description": "Typecript version of https://github.com/openai/symphony"
+  },
+  {
+    "repo": "wuyoscar/gpt_image_2_skill",
+    "branch": "main",
+    "language": "Python",
+    "description": "Curated T2I prompts and skill/CLI wrappers for GPT Image 2"
+  },
+  {
+    "repo": "MartinGalway/C64_music",
+    "branch": "main",
+    "language": "Assembly",
+    "description": "Music source files from 1980's Commodore 64 games"
+  },
+  {
+    "repo": "cosmic-market/polymarket-copy-trading-bot",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "polymarket copy trading Bot polymarket copy trading Bot polymarket copy trading Bot polymarket copy trading Bot polymarket copy trading Bot polymarket copy trading Bot polymarket copytrading bot polymarket copytrading bot polymarket copytrading bot polymarket copytrading bot polymarket copytrading bot polymarket copytrading bot polymarket copytrade"
+  },
+  {
+    "repo": "TrendTechVista/polymarket-copy-trading-bot",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "polymarket copy trading bot polymarket copy trading bot polymarket copy trading bot polymarket copy trading bot polymarket copy trading bot polymarket copy trading bot polymarket copy trading bot polymarket copy trading bot polymarket copy trading bot polymarket copy trading bot polymarket copy trading bot polymarket copy trading bot"
+  },
+  {
+    "repo": "J-Pster/Psters_AI_Workflow",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "An anti-vibe-coding, agentic AI workflow that improves results with engineering rigor in any project, language, and framework."
+  },
+  {
+    "repo": "sandeco/reversa",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "Transform legacy systems into executable specifications for AI coding agents"
+  },
+  {
+    "repo": "bramcohen/manyana",
+    "branch": "main",
+    "language": "Python",
+    "description": ""
+  },
+  {
+    "repo": "Heartflabrace/Doubao-Claw",
+    "branch": "main",
+    "language": "Rust",
+    "description": ""
+  },
+  {
+    "repo": "pulsemindcover/Polymarket-AI-Trading-Bot",
+    "branch": "main",
+    "language": "Python",
+    "description": "AI-powered macOS trading script for Polymarket. Automatically analyzes markets, generates intelligent trade decisions, and executes orders using configurable risk management and strategy parameters. One-command installation, lightweight setup, and optimized performance for automated prediction market trading."
+  },
+  {
+    "repo": "thClaws/thClaws",
+    "branch": "main",
+    "language": "Rust",
+    "description": ""
+  },
+  {
+    "repo": "pagel-s/termcraft",
+    "branch": "main",
+    "language": "Rust",
+    "description": "Terminal-only 2D sandbox survival in Rust."
+  },
+  {
+    "repo": "epiral/agent-clip",
+    "branch": "main",
+    "language": "Go",
+    "description": "AI Agent as a Pinix Clip — agentic loop with memory, tools, and vision"
+  },
+  {
+    "repo": "intave/intave",
+    "branch": "master",
+    "language": "Java",
+    "description": "Intave is an enterprise, high-performance anticheat for Minecraft built on years of experience protecting the world's largest servers"
   }
 ]
