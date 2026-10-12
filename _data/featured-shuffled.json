@@ -1,146 +1,146 @@
 [
   {
-    "repo": "techcomet122583/Polymarket-Telegram-Bot",
+    "repo": "petergyang/fuck-cancer",
     "branch": "main",
-    "language": "JavaScript",
-    "description": ""
+    "language": "Python",
+    "description": "Create and update a practical brief to help patients and caregivers advocate for themselves."
   },
   {
-    "repo": "hangsman/claude-code-source",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "claude code source map v2.1.88"
-  },
-  {
-    "repo": "QLHazyCoder/codex-oauth-automation-extension",
+    "repo": "yarnpkg/yarn",
     "branch": "master",
     "language": "JavaScript",
-    "description": "Chrome扩展：支持OpenAI OAuth注册、验证码获取、CPA回调验证与自动恢复"
+    "description": "The 1.x line is frozen - features and bugfixes now happen on https://github.com/yarnpkg/berry"
   },
   {
-    "repo": "Senabayu08989/Stable-Diffusion-AI-Free",
+    "repo": "Nightmare-Eclipse/UnDefend",
     "branch": "main",
     "language": "C++",
-    "description": "Stable Diffusion Free AI Image Generator Flux 2 Local Deployment Real-time Video Character Consistency Identity Anchoring SDXL Turbo LoRA Training ControlNet Open Source Art Studio Hyperrealistic Cinematic Styles Prompt Engineering Python Pytorch Forge ComfyUI 2026 Release High Resolution Desktop Tool"
+    "description": "Repository hosting windows defender DOS tool"
   },
   {
-    "repo": "lifedever/TaskTick",
-    "branch": "main",
-    "language": "Swift",
-    "description": "A native macOS app for managing scheduled tasks. Built with SwiftUI + SwiftData. Menu bar resident, cron expressions, script execution, and more."
-  },
-  {
-    "repo": "evanphi7/lighthouse-router",
-    "branch": "main",
-    "language": "Rust",
-    "description": "Off-chain DEX route discovery on Solana — pool decoders, multi-hop quoting, and arbitrage cycle detection"
-  },
-  {
-    "repo": "kimlawtech/korean-privacy-terms",
-    "branch": "main",
-    "language": "Go Template",
-    "description": "한국 법령 기반 개인정보처리방침·이용약관 자동 생성 Claude Code 스킬. 2025.4.21 작성지침 및 2026.3 개정 법령 반영."
-  },
-  {
-    "repo": "deborahikssv/Antigravity-claw",
-    "branch": "main",
-    "language": "Rust",
+    "repo": "ringhyacinth/Star-Office-UI",
+    "branch": "master",
+    "language": "HTML",
     "description": ""
   },
   {
-    "repo": "Kaleighc793/freqtrade-bot",
+    "repo": "pytest-dev/pytest-cov",
+    "branch": "master",
+    "language": "Python",
+    "description": "Coverage plugin for pytest."
+  },
+  {
+    "repo": "aave/aave-v3-core",
+    "branch": "master",
+    "language": "TypeScript",
+    "description": "This repository contains the core smart contracts of the Aave V3 protocol."
+  },
+  {
+    "repo": "erenjugs/OpenGork",
+    "branch": "main",
+    "language": "Shell",
+    "description": "🧠 Uncensored AI agent powered by xAI's Grok - no filters, no limits"
+  },
+  {
+    "repo": "stepfun-ai/Step-3.5-Flash",
+    "branch": "main",
+    "language": "C++",
+    "description": "Fast, Sharp & Reliable Agentic Intelligence"
+  },
+  {
+    "repo": "openai/whisper",
     "branch": "main",
     "language": "Python",
-    "description": "Freqtrade — Configuration and management tool for the Freqtrade open-source crypto trading bot with strategy backtesting, live/dry-run modes, 10+ exchange support (Binance, Kraken, OKX), hyperparameter optimization, FreqUI dashboard, and Rich terminal menu interface"
+    "description": "Robust Speech Recognition via Large-Scale Weak Supervision"
   },
   {
-    "repo": "nikmcfly/MiroFish-Offline",
+    "repo": "DioxusLabs/dioxus",
+    "branch": "master",
+    "language": "Rust",
+    "description": "Fullstack app framework for web, desktop, and mobile."
+  },
+  {
+    "repo": "finvfamily/finshare",
     "branch": "main",
     "language": "Python",
-    "description": "Offline multi-agent simulation & prediction engine. English fork of MiroFish with Neo4j + Ollama local stack."
+    "description": "专业的金融数据获取工具库 - A Professional Financial Data Fetching Toolkit for   Python"
   },
   {
-    "repo": "OasAIStudio/symphony-ts",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Typecript version of https://github.com/openai/symphony"
-  },
-  {
-    "repo": "wuyoscar/gpt_image_2_skill",
-    "branch": "main",
-    "language": "Python",
-    "description": "Curated T2I prompts and skill/CLI wrappers for GPT Image 2"
-  },
-  {
-    "repo": "MartinGalway/C64_music",
-    "branch": "main",
-    "language": "Assembly",
-    "description": "Music source files from 1980's Commodore 64 games"
-  },
-  {
-    "repo": "cosmic-market/polymarket-copy-trading-bot",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "polymarket copy trading Bot polymarket copy trading Bot polymarket copy trading Bot polymarket copy trading Bot polymarket copy trading Bot polymarket copy trading Bot polymarket copytrading bot polymarket copytrading bot polymarket copytrading bot polymarket copytrading bot polymarket copytrading bot polymarket copytrading bot polymarket copytrade"
-  },
-  {
-    "repo": "TrendTechVista/polymarket-copy-trading-bot",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "polymarket copy trading bot polymarket copy trading bot polymarket copy trading bot polymarket copy trading bot polymarket copy trading bot polymarket copy trading bot polymarket copy trading bot polymarket copy trading bot polymarket copy trading bot polymarket copy trading bot polymarket copy trading bot polymarket copy trading bot"
-  },
-  {
-    "repo": "J-Pster/Psters_AI_Workflow",
+    "repo": "tonyqinatcmu/SlideBot-AI",
     "branch": "main",
     "language": "JavaScript",
-    "description": "An anti-vibe-coding, agentic AI workflow that improves results with engineering rigor in any project, language, and framework."
+    "description": "🎨 SlideBot AI - AI-Powered Presentation Generator"
   },
   {
-    "repo": "sandeco/reversa",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "Transform legacy systems into executable specifications for AI coding agents"
-  },
-  {
-    "repo": "bramcohen/manyana",
+    "repo": "cdppcorp/KESE-KIT",
     "branch": "main",
     "language": "Python",
-    "description": ""
+    "description": "KISA 주요정보통신기반시설 기술적 취약점 분석 평가방법 상세가이드 기반 Skills"
   },
   {
-    "repo": "Heartflabrace/Doubao-Claw",
+    "repo": "0xpoIygon/polymarket-trading-bot-example",
     "branch": "main",
-    "language": "Rust",
-    "description": ""
+    "language": "TypeScript",
+    "description": "Polymarket Bot - TypeScript bot for Polymarket 15-minute BTC up/down markets: Gamma market discovery, CLOB quotes, weighted signal fusion, risk checks, and optional live orders via @polymarket/clob-client. Clue: Polymarket Bot, Polymarket Trading Bot, Polymarket Copy Trading Bot, Polymarket Arbitrage Trading Bot, Polymarket Copytrading Bot"
   },
   {
-    "repo": "pulsemindcover/Polymarket-AI-Trading-Bot",
+    "repo": "poshan0126/dotclaude",
     "branch": "main",
-    "language": "Python",
-    "description": "AI-powered macOS trading script for Polymarket. Automatically analyzes markets, generates intelligent trade decisions, and executes orders using configurable risk management and strategy parameters. One-command installation, lightweight setup, and optimized performance for automated prediction market trading."
+    "language": "Shell",
+    "description": "The standard .claude/  folder structure for everyday development."
   },
   {
-    "repo": "thClaws/thClaws",
-    "branch": "main",
-    "language": "Rust",
-    "description": ""
-  },
-  {
-    "repo": "pagel-s/termcraft",
-    "branch": "main",
-    "language": "Rust",
-    "description": "Terminal-only 2D sandbox survival in Rust."
-  },
-  {
-    "repo": "epiral/agent-clip",
-    "branch": "main",
-    "language": "Go",
-    "description": "AI Agent as a Pinix Clip — agentic loop with memory, tools, and vision"
-  },
-  {
-    "repo": "intave/intave",
+    "repo": "karatelabs/karate",
     "branch": "master",
     "language": "Java",
-    "description": "Intave is an enterprise, high-performance anticheat for Minecraft built on years of experience protecting the world's largest servers"
+    "description": "Test Automation Made Simple"
+  },
+  {
+    "repo": "wader/fq",
+    "branch": "master",
+    "language": "Go",
+    "description": "jq for binary formats - tool, language and decoders for working with binary and text formats"
+  },
+  {
+    "repo": "dgreenheck/webgpu-claude-skill",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "A Claude skill for developing WebGPU applications with Three.js"
+  },
+  {
+    "repo": "vuejs/vue",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "This is the repo for Vue 2. For Vue 3, go to https://github.com/vuejs/core"
+  },
+  {
+    "repo": "react-native-device-info/react-native-device-info",
+    "branch": "master",
+    "language": "TypeScript",
+    "description": "Device Information for React Native iOS and Android"
+  },
+  {
+    "repo": "kubernetes-sigs/kustomize",
+    "branch": "master",
+    "language": "Go",
+    "description": "Customization of kubernetes YAML configurations"
+  },
+  {
+    "repo": "karpathy/autoresearch",
+    "branch": "master",
+    "language": "Python",
+    "description": "AI agents running research on single-GPU nanochat training automatically"
+  },
+  {
+    "repo": "go-delve/delve",
+    "branch": "master",
+    "language": "Go",
+    "description": "Delve is a debugger for the Go programming language."
+  },
+  {
+    "repo": "coleam00/second-brain-skills",
+    "branch": "main",
+    "language": "Python",
+    "description": "A collection of Claude Skills to turn Claude Code into a Second Brain"
   }
 ]
