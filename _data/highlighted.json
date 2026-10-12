@@ -1,8 +1,8 @@
 {
-  "repo": "a-funk/open-appleremote",
+  "repo": "AIPMAndy/how-to-survive-unemployment",
   "branch": "main",
-  "language": "Python",
-  "description": "Use the first-gen Apple Siri Remote (A1513/A1962) on Linux: unlock it, decode touch and buttons, tvOS-style gestures, a virtual keyboard. Pure-stdlib Python.",
-  "stars": 218,
-  "forks": 10
+  "language": "HTML",
+  "description": "失业自救开源手册：N/N+1/2N、失业金、医保、社保、公积金、求职与现金流。50项行动任务、6份实操SOP，附北京上海政策原文。",
+  "stars": 265,
+  "forks": 16
 }

@@ -1,146 +1,146 @@
 [
   {
-    "repo": "petergyang/fuck-cancer",
+    "repo": "xinwithyu/dwell-on-something",
     "branch": "main",
-    "language": "Python",
-    "description": "Create and update a practical brief to help patients and caregivers advocate for themselves."
-  },
-  {
-    "repo": "yarnpkg/yarn",
-    "branch": "master",
-    "language": "JavaScript",
-    "description": "The 1.x line is frozen - features and bugfixes now happen on https://github.com/yarnpkg/berry"
-  },
-  {
-    "repo": "Nightmare-Eclipse/UnDefend",
-    "branch": "main",
-    "language": "C++",
-    "description": "Repository hosting windows defender DOS tool"
-  },
-  {
-    "repo": "ringhyacinth/Star-Office-UI",
-    "branch": "master",
     "language": "HTML",
     "description": ""
   },
   {
-    "repo": "pytest-dev/pytest-cov",
+    "repo": "BuluBulugege/Free-BAI",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": ""
+  },
+  {
+    "repo": "facebook/hermes",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "A JavaScript engine optimized for running React Native."
+  },
+  {
+    "repo": "triggerdotdev/trigger.dev",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Trigger.dev – build and deploy fully‑managed AI agents and workflows"
+  },
+  {
+    "repo": "antonpk1/excalidraw-mcp-app",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Excalidraw MCP App Server — hand-drawn diagrams for Claude"
+  },
+  {
+    "repo": "uedk9p/sora2-watermark-remover",
+    "branch": "main",
+    "language": "Python",
+    "description": "sora2 watermark remover"
+  },
+  {
+    "repo": "Ye-Yu-Mo/FundVal-Live",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "盘中基金估值，实时估值，基金净值"
+  },
+  {
+    "repo": "oven-sh/bun",
+    "branch": "main",
+    "language": "Zig",
+    "description": "Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one"
+  },
+  {
+    "repo": "containerd/containerd",
+    "branch": "main",
+    "language": "Go",
+    "description": "An open and reliable container runtime"
+  },
+  {
+    "repo": "bevyengine/bevy",
+    "branch": "main",
+    "language": "Rust",
+    "description": "A refreshingly simple data-driven game engine built in Rust"
+  },
+  {
+    "repo": "microsoft/semantic-kernel",
+    "branch": "main",
+    "language": "C#",
+    "description": "Integrate cutting-edge LLM technology quickly and easily into your apps"
+  },
+  {
+    "repo": "uqogihujomuwhiff/sora2-watermark-cleaner-pro",
+    "branch": "main",
+    "language": "Python",
+    "description": "sora2 watermark cleaner pro"
+  },
+  {
+    "repo": "kubernetes-sigs/kind",
+    "branch": "main",
+    "language": "Go",
+    "description": "Kubernetes IN Docker - local clusters for testing Kubernetes"
+  },
+  {
+    "repo": "yt-dlp/yt-dlp",
     "branch": "master",
     "language": "Python",
-    "description": "Coverage plugin for pytest."
+    "description": "A feature-rich command-line audio/video downloader"
   },
   {
-    "repo": "aave/aave-v3-core",
-    "branch": "master",
-    "language": "TypeScript",
-    "description": "This repository contains the core smart contracts of the Aave V3 protocol."
-  },
-  {
-    "repo": "erenjugs/OpenGork",
+    "repo": "rohitg00/awesome-claude-code-toolkit",
     "branch": "main",
-    "language": "Shell",
-    "description": "🧠 Uncensored AI agent powered by xAI's Grok - no filters, no limits"
+    "language": "JavaScript",
+    "description": "The most comprehensive toolkit for Claude Code -- 135 agents, 35 curated skills (+15,000 via SkillKit), 42 commands, 120 plugins, 19 hooks, 15 rules, 7 templates, 6 MCP configs, and more."
   },
   {
-    "repo": "stepfun-ai/Step-3.5-Flash",
+    "repo": "thu-ml/Causal-Forcing",
+    "branch": "main",
+    "language": "Python",
+    "description": "Official codebase for Causal Forcing: Autoregressive Diffusion Distillation Done Right for High-Quality Real-Time Interactive Video Generation"
+  },
+  {
+    "repo": "kicad/kicad",
+    "branch": "master",
+    "language": "C++",
+    "description": "This is an active mirror of the KiCad development branch, which is hosted at GitLab (updated every time something is pushed). Pull requests on GitHub are not accepted or watched."
+  },
+  {
+    "repo": "google/benchmark",
     "branch": "main",
     "language": "C++",
-    "description": "Fast, Sharp & Reliable Agentic Intelligence"
+    "description": "A microbenchmark support library"
   },
   {
-    "repo": "openai/whisper",
+    "repo": "cloudflare/pingora",
     "branch": "main",
-    "language": "Python",
-    "description": "Robust Speech Recognition via Large-Scale Weak Supervision"
-  },
-  {
-    "repo": "DioxusLabs/dioxus",
-    "branch": "master",
     "language": "Rust",
-    "description": "Fullstack app framework for web, desktop, and mobile."
+    "description": "A library for building fast, reliable and evolvable network services."
   },
   {
-    "repo": "finvfamily/finshare",
+    "repo": "letta-ai/lettabot",
     "branch": "main",
-    "language": "Python",
-    "description": "专业的金融数据获取工具库 - A Professional Financial Data Fetching Toolkit for   Python"
+    "language": "TypeScript",
+    "description": "Your personal AI assistant that remembers everything across Telegram, Slack, WhatsApp, and Signal"
   },
   {
-    "repo": "tonyqinatcmu/SlideBot-AI",
+    "repo": "ethereum/go-ethereum",
+    "branch": "master",
+    "language": "Go",
+    "description": "Go implementation of the Ethereum protocol"
+  },
+  {
+    "repo": "jarodise/XQuery",
+    "branch": "master",
+    "language": "TypeScript",
+    "description": ""
+  },
+  {
+    "repo": "excalidraw/excalidraw",
+    "branch": "master",
+    "language": "TypeScript",
+    "description": "Virtual whiteboard for sketching hand-drawn like diagrams"
+  },
+  {
+    "repo": "testing-library/react-testing-library",
     "branch": "main",
     "language": "JavaScript",
-    "description": "🎨 SlideBot AI - AI-Powered Presentation Generator"
-  },
-  {
-    "repo": "cdppcorp/KESE-KIT",
-    "branch": "main",
-    "language": "Python",
-    "description": "KISA 주요정보통신기반시설 기술적 취약점 분석 평가방법 상세가이드 기반 Skills"
-  },
-  {
-    "repo": "0xpoIygon/polymarket-trading-bot-example",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Polymarket Bot - TypeScript bot for Polymarket 15-minute BTC up/down markets: Gamma market discovery, CLOB quotes, weighted signal fusion, risk checks, and optional live orders via @polymarket/clob-client. Clue: Polymarket Bot, Polymarket Trading Bot, Polymarket Copy Trading Bot, Polymarket Arbitrage Trading Bot, Polymarket Copytrading Bot"
-  },
-  {
-    "repo": "poshan0126/dotclaude",
-    "branch": "main",
-    "language": "Shell",
-    "description": "The standard .claude/  folder structure for everyday development."
-  },
-  {
-    "repo": "karatelabs/karate",
-    "branch": "master",
-    "language": "Java",
-    "description": "Test Automation Made Simple"
-  },
-  {
-    "repo": "wader/fq",
-    "branch": "master",
-    "language": "Go",
-    "description": "jq for binary formats - tool, language and decoders for working with binary and text formats"
-  },
-  {
-    "repo": "dgreenheck/webgpu-claude-skill",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "A Claude skill for developing WebGPU applications with Three.js"
-  },
-  {
-    "repo": "vuejs/vue",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "This is the repo for Vue 2. For Vue 3, go to https://github.com/vuejs/core"
-  },
-  {
-    "repo": "react-native-device-info/react-native-device-info",
-    "branch": "master",
-    "language": "TypeScript",
-    "description": "Device Information for React Native iOS and Android"
-  },
-  {
-    "repo": "kubernetes-sigs/kustomize",
-    "branch": "master",
-    "language": "Go",
-    "description": "Customization of kubernetes YAML configurations"
-  },
-  {
-    "repo": "karpathy/autoresearch",
-    "branch": "master",
-    "language": "Python",
-    "description": "AI agents running research on single-GPU nanochat training automatically"
-  },
-  {
-    "repo": "go-delve/delve",
-    "branch": "master",
-    "language": "Go",
-    "description": "Delve is a debugger for the Go programming language."
-  },
-  {
-    "repo": "coleam00/second-brain-skills",
-    "branch": "main",
-    "language": "Python",
-    "description": "A collection of Claude Skills to turn Claude Code into a Second Brain"
+    "description": "🐐 Simple and complete React DOM testing utilities that encourage good testing practices."
   }
 ]
