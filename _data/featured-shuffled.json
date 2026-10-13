@@ -1,146 +1,146 @@
 [
   {
-    "repo": "xinwithyu/dwell-on-something",
-    "branch": "main",
-    "language": "HTML",
-    "description": ""
-  },
-  {
-    "repo": "BuluBulugege/Free-BAI",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": ""
-  },
-  {
-    "repo": "facebook/hermes",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "A JavaScript engine optimized for running React Native."
-  },
-  {
-    "repo": "triggerdotdev/trigger.dev",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Trigger.dev – build and deploy fully‑managed AI agents and workflows"
-  },
-  {
-    "repo": "antonpk1/excalidraw-mcp-app",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Excalidraw MCP App Server — hand-drawn diagrams for Claude"
-  },
-  {
-    "repo": "uedk9p/sora2-watermark-remover",
+    "repo": "reflex-dev/reflex",
     "branch": "main",
     "language": "Python",
-    "description": "sora2 watermark remover"
+    "description": "🕸️ Web apps in pure Python 🐍"
   },
   {
-    "repo": "Ye-Yu-Mo/FundVal-Live",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "盘中基金估值，实时估值，基金净值"
-  },
-  {
-    "repo": "oven-sh/bun",
-    "branch": "main",
-    "language": "Zig",
-    "description": "Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one"
-  },
-  {
-    "repo": "containerd/containerd",
-    "branch": "main",
-    "language": "Go",
-    "description": "An open and reliable container runtime"
-  },
-  {
-    "repo": "bevyengine/bevy",
-    "branch": "main",
-    "language": "Rust",
-    "description": "A refreshingly simple data-driven game engine built in Rust"
-  },
-  {
-    "repo": "microsoft/semantic-kernel",
-    "branch": "main",
-    "language": "C#",
-    "description": "Integrate cutting-edge LLM technology quickly and easily into your apps"
-  },
-  {
-    "repo": "uqogihujomuwhiff/sora2-watermark-cleaner-pro",
+    "repo": "fhshaik/typesafe-mario",
     "branch": "main",
     "language": "Python",
-    "description": "sora2 watermark cleaner pro"
+    "description": "A TypeSafe/Jev agent that plays Super Mario Bros. from structured emulator state."
   },
   {
-    "repo": "kubernetes-sigs/kind",
-    "branch": "main",
-    "language": "Go",
-    "description": "Kubernetes IN Docker - local clusters for testing Kubernetes"
-  },
-  {
-    "repo": "yt-dlp/yt-dlp",
+    "repo": "BabylonJS/Babylon.js",
     "branch": "master",
-    "language": "Python",
-    "description": "A feature-rich command-line audio/video downloader"
+    "language": "TypeScript",
+    "description": "Babylon.js is a powerful, beautiful, simple, and open game and rendering engine packed into a friendly JavaScript framework."
   },
   {
-    "repo": "rohitg00/awesome-claude-code-toolkit",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "The most comprehensive toolkit for Claude Code -- 135 agents, 35 curated skills (+15,000 via SkillKit), 42 commands, 120 plugins, 19 hooks, 15 rules, 7 templates, 6 MCP configs, and more."
-  },
-  {
-    "repo": "thu-ml/Causal-Forcing",
-    "branch": "main",
-    "language": "Python",
-    "description": "Official codebase for Causal Forcing: Autoregressive Diffusion Distillation Done Right for High-Quality Real-Time Interactive Video Generation"
-  },
-  {
-    "repo": "kicad/kicad",
+    "repo": "sqlite/sqlite",
     "branch": "master",
-    "language": "C++",
-    "description": "This is an active mirror of the KiCad development branch, which is hosted at GitLab (updated every time something is pushed). Pull requests on GitHub are not accepted or watched."
+    "language": "C",
+    "description": "Official Git mirror of the SQLite source tree"
   },
   {
-    "repo": "google/benchmark",
+    "repo": "statsmodels/statsmodels",
+    "branch": "main",
+    "language": "Python",
+    "description": "Statsmodels: statistical modeling and econometrics in Python"
+  },
+  {
+    "repo": "chartjs/Chart.js",
+    "branch": "master",
+    "language": "JavaScript",
+    "description": "Simple HTML5 Charts using the <canvas> tag"
+  },
+  {
+    "repo": "scipy/scipy",
+    "branch": "main",
+    "language": "Python",
+    "description": "SciPy library main repository"
+  },
+  {
+    "repo": "Alamofire/Alamofire",
+    "branch": "master",
+    "language": "Swift",
+    "description": "Elegant HTTP Networking in Swift"
+  },
+  {
+    "repo": "pytest-dev/pytest",
+    "branch": "main",
+    "language": "Python",
+    "description": "The pytest framework makes it easy to write small tests, yet scales to support complex functional testing"
+  },
+  {
+    "repo": "redis/redis",
+    "branch": "unstable",
+    "language": "C",
+    "description": "For developers, who are building real-time data-driven applications, Redis is the preferred, fastest, and most feature-rich cache, data structure server, and document and vector query engine."
+  },
+  {
+    "repo": "pytorch/pytorch",
+    "branch": "main",
+    "language": "Python",
+    "description": "Tensors and Dynamic neural networks in Python with strong GPU acceleration"
+  },
+  {
+    "repo": "facebook/docusaurus",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Easy to maintain open source documentation websites."
+  },
+  {
+    "repo": "tailwindlabs/heroicons",
+    "branch": "master",
+    "language": "JavaScript",
+    "description": "A set of free MIT-licensed high-quality SVG icons for UI development."
+  },
+  {
+    "repo": "jupyterlab/jupyterlab",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "JupyterLab computational environment."
+  },
+  {
+    "repo": "airbnb/lottie-android",
+    "branch": "master",
+    "language": "Java",
+    "description": "Render After Effects animations natively on Android and iOS, Web, and React Native"
+  },
+  {
+    "repo": "ciroxcode/Tomodachi-Life-Living-in-the-Dream-PC-Edition",
     "branch": "main",
     "language": "C++",
-    "description": "A microbenchmark support library"
+    "description": "Tomodachi Life Living in the Dream PC Edition brings the popular life simulation game to Windows. Create Miis, build friendships and relationships, and enjoy funny everyday moments on your own island. Optimized for modern PCs with widescreen support, smooth performance and relaxing gameplay."
   },
   {
-    "repo": "cloudflare/pingora",
+    "repo": "deepmind/mujoco",
     "branch": "main",
-    "language": "Rust",
-    "description": "A library for building fast, reliable and evolvable network services."
+    "language": "C++",
+    "description": "Multi-Joint dynamics with Contact. A general purpose physics simulator."
   },
   {
-    "repo": "letta-ai/lettabot",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Your personal AI assistant that remembers everything across Telegram, Slack, WhatsApp, and Signal"
-  },
-  {
-    "repo": "ethereum/go-ethereum",
-    "branch": "master",
-    "language": "Go",
-    "description": "Go implementation of the Ethereum protocol"
-  },
-  {
-    "repo": "jarodise/XQuery",
+    "repo": "supabase/supabase",
     "branch": "master",
     "language": "TypeScript",
-    "description": ""
+    "description": "The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications."
   },
   {
-    "repo": "excalidraw/excalidraw",
+    "repo": "mongodb/mongo",
     "branch": "master",
-    "language": "TypeScript",
-    "description": "Virtual whiteboard for sketching hand-drawn like diagrams"
+    "language": "C++",
+    "description": "The MongoDB Database"
   },
   {
-    "repo": "testing-library/react-testing-library",
+    "repo": "h5bp/html5-boilerplate",
     "branch": "main",
     "language": "JavaScript",
-    "description": "🐐 Simple and complete React DOM testing utilities that encourage good testing practices."
+    "description": "A professional front-end template for building fast, robust, and adaptable web apps or sites."
+  },
+  {
+    "repo": "ionic-team/ionic-framework",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "A powerful cross-platform UI toolkit for building native-quality iOS, Android, and Progressive Web Apps with HTML, CSS, and JavaScript."
+  },
+  {
+    "repo": "ant-design/ant-design",
+    "branch": "master",
+    "language": "TypeScript",
+    "description": "An enterprise-class UI design language and React UI library"
+  },
+  {
+    "repo": "fastify/fastify",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "Fast and low overhead web framework, for Node.js"
+  },
+  {
+    "repo": "tiangolo/fastapi",
+    "branch": "master",
+    "language": "Python",
+    "description": "FastAPI framework, high performance, easy to learn, fast to code, ready for production"
   }
 ]
