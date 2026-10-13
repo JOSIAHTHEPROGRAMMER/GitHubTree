@@ -1,146 +1,146 @@
 [
   {
-    "repo": "reflex-dev/reflex",
+    "repo": "pierrenade/short-video-generator-AI",
     "branch": "main",
     "language": "Python",
-    "description": "🕸️ Web apps in pure Python 🐍"
+    "description": "Free open-source project designed for turning youtube-viedos into viral short videos. Highlight detection, subtitles, translation, voiceover, all in one for your content."
   },
   {
-    "repo": "fhshaik/typesafe-mario",
-    "branch": "main",
-    "language": "Python",
-    "description": "A TypeSafe/Jev agent that plays Super Mario Bros. from structured emulator state."
-  },
-  {
-    "repo": "BabylonJS/Babylon.js",
+    "repo": "alvinunreal/claude-pets",
     "branch": "master",
     "language": "TypeScript",
-    "description": "Babylon.js is a powerful, beautiful, simple, and open game and rendering engine packed into a friendly JavaScript framework."
+    "description": "Claude Code integration for OpenPets: automatic desktop pet status updates with one-command setup."
   },
   {
-    "repo": "sqlite/sqlite",
-    "branch": "master",
-    "language": "C",
-    "description": "Official Git mirror of the SQLite source tree"
-  },
-  {
-    "repo": "statsmodels/statsmodels",
+    "repo": "SethGammon/Citadel",
     "branch": "main",
-    "language": "Python",
-    "description": "Statsmodels: statistical modeling and econometrics in Python"
-  },
-  {
-    "repo": "chartjs/Chart.js",
-    "branch": "master",
     "language": "JavaScript",
-    "description": "Simple HTML5 Charts using the <canvas> tag"
+    "description": "Agent orchestration harness for Claude Code. Four-tier routing (/do), campaign persistence across sessions, parallel agents in isolated worktrees, discovery relay between waves, lifecycle hooks, circuit breaker, and 6 production-quality skills. From solo developer to institutional scale."
   },
   {
-    "repo": "scipy/scipy",
+    "repo": "phuryn/claude-usage",
     "branch": "main",
     "language": "Python",
-    "description": "SciPy library main repository"
+    "description": "A local dashboard for tracking your Claude Code token usage, costs, and session history. Pro and Max subscribers get a progress bar. This gives you the full picture."
   },
   {
-    "repo": "Alamofire/Alamofire",
+    "repo": "knowsuchagency/mcp2cli",
+    "branch": "main",
+    "language": "Python",
+    "description": "Turn any MCP server or OpenAPI spec into a CLI — at runtime, with zero codegen"
+  },
+  {
+    "repo": "cilium/hubble",
+    "branch": "main",
+    "language": "Makefile",
+    "description": "Hubble - Network, Service & Security Observability for Kubernetes using eBPF"
+  },
+  {
+    "repo": "SnapKit/SnapKit",
+    "branch": "develop",
+    "language": "Swift",
+    "description": "A Swift Autolayout DSL for iOS & OS X"
+  },
+  {
+    "repo": "DangJin/pdf2video",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Transform PDF documents into engaging video presentations with smooth animations."
+  },
+  {
+    "repo": "THUDM/CodeGeeX",
+    "branch": "main",
+    "language": "Python",
+    "description": "CodeGeeX: An Open Multilingual Code Generation Model (KDD 2023)"
+  },
+  {
+    "repo": "kicad/kicad",
+    "branch": "master",
+    "language": "C++",
+    "description": "This is an active mirror of the KiCad development branch, which is hosted at GitLab (updated every time something is pushed). Pull requests on GitHub are not accepted or watched."
+  },
+  {
+    "repo": "we9lii/Paralives-Ultimate-Trainer-2026_v_2",
+    "branch": "main",
+    "language": "Python",
+    "description": "Ultimate trainer for Paralives – infinite money, max needs, freeze aging, unlock all items, and more."
+  },
+  {
+    "repo": "100yenadmin/fable-token-saving-skills-orchestrator",
+    "branch": "main",
+    "language": "Python",
+    "description": "🧚 Fable-first Claude orchestration kit for token-saving lane routing, dense turns, and cache-preserving wait discipline."
+  },
+  {
+    "repo": "yuwen-cool/yuwen-publish-precheck",
+    "branch": "master",
+    "language": "Python",
+    "description": "发布前审｜发抖音/小红书/视频号前先让 AI 审一遍：哪句踩线、依据哪条官方规则、给能直接用的改法。38 篇真实样本校准判定尺度，72 条官方原文引文可查证，你踩过的坑沉淀成本地规则库越用越准。不承诺过审，不教绕审。"
+  },
+  {
+    "repo": "Tencent-Hunyuan/HY-Embodied",
+    "branch": "master",
+    "language": "Python",
+    "description": ""
+  },
+  {
+    "repo": "contatomegasign/finance-account-tool",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "financial account tool designed to help organizations evaluate controls, accounting discipline, and compliance maturity"
+  },
+  {
+    "repo": "gatelynch/llm-knowledge-base",
+    "branch": "main",
+    "language": "Python",
+    "description": "參考自Andrej Kapathy的llm-wiki概念，把原始素材、LLM 編譯後的知識、   探索中的思考，以及最終作品明確分層管理   的個人知識庫系統。"
+  },
+  {
+    "repo": "daltoniam/Starscream",
     "branch": "master",
     "language": "Swift",
-    "description": "Elegant HTTP Networking in Swift"
+    "description": "Websockets in swift for iOS and OSX"
   },
   {
-    "repo": "pytest-dev/pytest",
+    "repo": "Perkins729/OmniXtreme",
     "branch": "main",
     "language": "Python",
-    "description": "The pytest framework makes it easy to write small tests, yet scales to support complex functional testing"
+    "description": ""
   },
   {
-    "repo": "redis/redis",
-    "branch": "unstable",
-    "language": "C",
-    "description": "For developers, who are building real-time data-driven applications, Redis is the preferred, fastest, and most feature-rich cache, data structure server, and document and vector query engine."
-  },
-  {
-    "repo": "pytorch/pytorch",
+    "repo": "tonbistudio/hermes-multi-agent-workflow",
     "branch": "main",
     "language": "Python",
-    "description": "Tensors and Dynamic neural networks in Python with strong GPU acceleration"
+    "description": ""
   },
   {
-    "repo": "facebook/docusaurus",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Easy to maintain open source documentation websites."
-  },
-  {
-    "repo": "tailwindlabs/heroicons",
+    "repo": "uber-go/fx",
     "branch": "master",
-    "language": "JavaScript",
-    "description": "A set of free MIT-licensed high-quality SVG icons for UI development."
+    "language": "Go",
+    "description": "A dependency injection based application framework for Go."
   },
   {
-    "repo": "jupyterlab/jupyterlab",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "JupyterLab computational environment."
-  },
-  {
-    "repo": "airbnb/lottie-android",
+    "repo": "mockk/mockk",
     "branch": "master",
-    "language": "Java",
-    "description": "Render After Effects animations natively on Android and iOS, Web, and React Native"
+    "language": "Kotlin",
+    "description": "mocking library for Kotlin"
   },
   {
-    "repo": "ciroxcode/Tomodachi-Life-Living-in-the-Dream-PC-Edition",
+    "repo": "GordenSun/GordenPPTSkill",
     "branch": "main",
-    "language": "C++",
-    "description": "Tomodachi Life Living in the Dream PC Edition brings the popular life simulation game to Windows. Create Miis, build friendships and relationships, and enjoy funny everyday moments on your own island. Optimized for modern PCs with widescreen support, smooth performance and relaxing gameplay."
-  },
-  {
-    "repo": "deepmind/mujoco",
-    "branch": "main",
-    "language": "C++",
-    "description": "Multi-Joint dynamics with Contact. A general purpose physics simulator."
-  },
-  {
-    "repo": "supabase/supabase",
-    "branch": "master",
-    "language": "TypeScript",
-    "description": "The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications."
-  },
-  {
-    "repo": "mongodb/mongo",
-    "branch": "master",
-    "language": "C++",
-    "description": "The MongoDB Database"
-  },
-  {
-    "repo": "h5bp/html5-boilerplate",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "A professional front-end template for building fast, robust, and adaptable web apps or sites."
-  },
-  {
-    "repo": "ionic-team/ionic-framework",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "A powerful cross-platform UI toolkit for building native-quality iOS, Android, and Progressive Web Apps with HTML, CSS, and JavaScript."
-  },
-  {
-    "repo": "ant-design/ant-design",
-    "branch": "master",
-    "language": "TypeScript",
-    "description": "An enterprise-class UI design language and React UI library"
-  },
-  {
-    "repo": "fastify/fastify",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "Fast and low overhead web framework, for Node.js"
-  },
-  {
-    "repo": "tiangolo/fastapi",
-    "branch": "master",
     "language": "Python",
-    "description": "FastAPI framework, high performance, easy to learn, fast to code, ready for production"
+    "description": "AI-friendly PPT builder skill: 17 hand-polished Chinese PPTX templates + non-destructive text-only editing tools (python-pptx based). Pick a template, write edits.json, build a real .pptx with the layout intact. Personal/research use only."
+  },
+  {
+    "repo": "cdppcorp/KESE-KIT",
+    "branch": "main",
+    "language": "Python",
+    "description": "KISA 주요정보통신기반시설 기술적 취약점 분석 평가방법 상세가이드 기반 Skills"
+  },
+  {
+    "repo": "krispuckett/SwiftUIShaders",
+    "branch": "main",
+    "language": "Metal",
+    "description": "41 hand-curated drop-in SwiftUI Metal shader effects — holographic foil, kaleidoscope, magnetic fields, glitch, neon edges and more. Typed View modifiers, agent-friendly docs."
   }
 ]

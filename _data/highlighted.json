@@ -1,8 +1,8 @@
 {
-  "repo": "chenwei810/Semiconductor_Manufacturing_Introduction",
-  "branch": "master",
-  "language": "Python",
-  "description": "Introduction to Semiconductor Manufacturing",
-  "stars": 445,
-  "forks": 45
+  "repo": "opengeos/RustGIS",
+  "branch": "main",
+  "language": "Rust",
+  "description": "A fast, free and open-source GIS in pure Rust.",
+  "stars": 586,
+  "forks": 76
 }
