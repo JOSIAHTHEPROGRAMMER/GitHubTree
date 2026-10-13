@@ -1,146 +1,146 @@
 [
   {
-    "repo": "pierrenade/short-video-generator-AI",
+    "repo": "Longbridges/polymarket-kalshi-arbitrage-bot",
     "branch": "main",
-    "language": "Python",
-    "description": "Free open-source project designed for turning youtube-viedos into viral short videos. Highlight detection, subtitles, translation, voiceover, all in one for your content."
-  },
-  {
-    "repo": "alvinunreal/claude-pets",
-    "branch": "master",
     "language": "TypeScript",
-    "description": "Claude Code integration for OpenPets: automatic desktop pet status updates with one-command setup."
+    "description": "polymarket trading bot, polymarket bot, polymarket kalshi trading bot, polymarket trading bot, polymarket bot, polymarket kalshi trading bot, polymarket trading bot, polymarket bot, polymarket kalshi trading bot, polymarket trading bot, polymarket bot, polymarket kalshi trading bot, polymarket trading bot, polymarket bot"
   },
   {
-    "repo": "SethGammon/Citadel",
+    "repo": "TeamStuQ/skill-map",
+    "branch": "master",
+    "language": "HTML",
+    "description": "程序员技能图谱"
+  },
+  {
+    "repo": "TitanFlow-Systems/polymarket-trading-bot-v2",
     "branch": "main",
     "language": "JavaScript",
-    "description": "Agent orchestration harness for Claude Code. Four-tier routing (/do), campaign persistence across sessions, parallel agents in isolated worktrees, discovery relay between waves, lifecycle hooks, circuit breaker, and 6 production-quality skills. From solo developer to institutional scale."
+    "description": "polymarket polygon USDC ethereum CLOB prediction-markets crypto trading-bot arbitrage copy-trading automated-trading javascript nodejs websocket DeFi blockchain quant algorithmic-trading API risk-management market-making conditional-tokens BTC merge redeem polymarket-api ethers crypto-bot liquidity systematic-trading maker-taker depth spread gas w"
   },
   {
-    "repo": "phuryn/claude-usage",
+    "repo": "bhope/hedge",
     "branch": "main",
-    "language": "Python",
-    "description": "A local dashboard for tracking your Claude Code token usage, costs, and session history. Pro and Max subscribers get a progress bar. This gives you the full picture."
-  },
-  {
-    "repo": "knowsuchagency/mcp2cli",
-    "branch": "main",
-    "language": "Python",
-    "description": "Turn any MCP server or OpenAPI spec into a CLI — at runtime, with zero codegen"
-  },
-  {
-    "repo": "cilium/hubble",
-    "branch": "main",
-    "language": "Makefile",
-    "description": "Hubble - Network, Service & Security Observability for Kubernetes using eBPF"
-  },
-  {
-    "repo": "SnapKit/SnapKit",
-    "branch": "develop",
-    "language": "Swift",
-    "description": "A Swift Autolayout DSL for iOS & OS X"
-  },
-  {
-    "repo": "DangJin/pdf2video",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Transform PDF documents into engaging video presentations with smooth animations."
-  },
-  {
-    "repo": "THUDM/CodeGeeX",
-    "branch": "main",
-    "language": "Python",
-    "description": "CodeGeeX: An Open Multilingual Code Generation Model (KDD 2023)"
-  },
-  {
-    "repo": "kicad/kicad",
-    "branch": "master",
-    "language": "C++",
-    "description": "This is an active mirror of the KiCad development branch, which is hosted at GitLab (updated every time something is pushed). Pull requests on GitHub are not accepted or watched."
-  },
-  {
-    "repo": "we9lii/Paralives-Ultimate-Trainer-2026_v_2",
-    "branch": "main",
-    "language": "Python",
-    "description": "Ultimate trainer for Paralives – infinite money, max needs, freeze aging, unlock all items, and more."
-  },
-  {
-    "repo": "100yenadmin/fable-token-saving-skills-orchestrator",
-    "branch": "main",
-    "language": "Python",
-    "description": "🧚 Fable-first Claude orchestration kit for token-saving lane routing, dense turns, and cache-preserving wait discipline."
-  },
-  {
-    "repo": "yuwen-cool/yuwen-publish-precheck",
-    "branch": "master",
-    "language": "Python",
-    "description": "发布前审｜发抖音/小红书/视频号前先让 AI 审一遍：哪句踩线、依据哪条官方规则、给能直接用的改法。38 篇真实样本校准判定尺度，72 条官方原文引文可查证，你踩过的坑沉淀成本地规则库越用越准。不承诺过审，不教绕审。"
-  },
-  {
-    "repo": "Tencent-Hunyuan/HY-Embodied",
-    "branch": "master",
-    "language": "Python",
-    "description": ""
-  },
-  {
-    "repo": "contatomegasign/finance-account-tool",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "financial account tool designed to help organizations evaluate controls, accounting discipline, and compliance maturity"
-  },
-  {
-    "repo": "gatelynch/llm-knowledge-base",
-    "branch": "main",
-    "language": "Python",
-    "description": "參考自Andrej Kapathy的llm-wiki概念，把原始素材、LLM 編譯後的知識、   探索中的思考，以及最終作品明確分層管理   的個人知識庫系統。"
-  },
-  {
-    "repo": "daltoniam/Starscream",
-    "branch": "master",
-    "language": "Swift",
-    "description": "Websockets in swift for iOS and OSX"
-  },
-  {
-    "repo": "Perkins729/OmniXtreme",
-    "branch": "main",
-    "language": "Python",
-    "description": ""
-  },
-  {
-    "repo": "tonbistudio/hermes-multi-agent-workflow",
-    "branch": "main",
-    "language": "Python",
-    "description": ""
-  },
-  {
-    "repo": "uber-go/fx",
-    "branch": "master",
     "language": "Go",
-    "description": "A dependency injection based application framework for Go."
+    "description": "Adaptive hedged requests for Go. Cut your p99 latency with zero configuration. Based on Google's The Tail at Scale paper."
   },
   {
-    "repo": "mockk/mockk",
+    "repo": "remix-run/remix",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Build Better Websites. Create modern, resilient user experiences with web fundamentals."
+  },
+  {
+    "repo": "immerjs/immer",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "Create the next immutable state by mutating the current one"
+  },
+  {
+    "repo": "square/picasso",
     "branch": "master",
     "language": "Kotlin",
-    "description": "mocking library for Kotlin"
+    "description": "A powerful image downloading and caching library for Android"
   },
   {
-    "repo": "GordenSun/GordenPPTSkill",
+    "repo": "lnkiai/m3e-canvas",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Sketch Material 3 Expressive screens in the browser and turn them into vibe-coding prompts."
+  },
+  {
+    "repo": "docker/compose",
+    "branch": "main",
+    "language": "Go",
+    "description": "Define and run multi-container applications with Docker"
+  },
+  {
+    "repo": "poteto/brainmaxxing",
     "branch": "main",
     "language": "Python",
-    "description": "AI-friendly PPT builder skill: 17 hand-polished Chinese PPTX templates + non-destructive text-only editing tools (python-pptx based). Pick a template, write edits.json, build a real .pptx with the layout intact. Personal/research use only."
+    "description": "stupid simple persistent memory and skill improvement"
   },
   {
-    "repo": "cdppcorp/KESE-KIT",
+    "repo": "gin-gonic/gin",
+    "branch": "master",
+    "language": "Go",
+    "description": "Gin is a high-performance HTTP web framework written in Go. It provides a Martini-like API but with significantly better performance—up to 40 times faster—thanks to httprouter. Gin is designed for building REST APIs, web applications, and microservices."
+  },
+  {
+    "repo": "BurntSushi/ripgrep",
+    "branch": "master",
+    "language": "Rust",
+    "description": "ripgrep recursively searches directories for a regex pattern while respecting your gitignore"
+  },
+  {
+    "repo": "google-gemini/generative-ai-swift",
+    "branch": "main",
+    "language": "Swift",
+    "description": "This SDK is now deprecated, use the unified Firebase SDK."
+  },
+  {
+    "repo": "openssl/openssl",
+    "branch": "master",
+    "language": "C",
+    "description": "TLS/SSL and crypto library"
+  },
+  {
+    "repo": "mgks/GitHubTree",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "Visualise any GitHub repository folder structure. Available as a web app, CLI tool, and node.js library."
+  },
+  {
+    "repo": "vigorX777/product-design-system",
+    "branch": "main",
+    "language": "HTML",
+    "description": "面向产品经理的 AI 辅助产品设计工作框架，可 fork 定制的通用产品设计系统"
+  },
+  {
+    "repo": "psf/requests-html",
+    "branch": "master",
+    "language": "Python",
+    "description": "Pythonic HTML Parsing for Humans™"
+  },
+  {
+    "repo": "jakobfriedl/tgt-monitor-bof",
+    "branch": "main",
+    "language": "C",
+    "description": "Async BOF implementation of 'Rubeus monitor' to detect and automatically extract Kerberos TGTs as they appear on a target system."
+  },
+  {
+    "repo": "J-Pster/Psters_AI_Workflow",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "An anti-vibe-coding, agentic AI workflow that improves results with engineering rigor in any project, language, and framework."
+  },
+  {
+    "repo": "altair-viz/altair",
     "branch": "main",
     "language": "Python",
-    "description": "KISA 주요정보통신기반시설 기술적 취약점 분석 평가방법 상세가이드 기반 Skills"
+    "description": "Declarative visualization library for Python"
   },
   {
-    "repo": "krispuckett/SwiftUIShaders",
+    "repo": "boto/boto3",
+    "branch": "develop",
+    "language": "Python",
+    "description": "Boto3, an AWS SDK for Python"
+  },
+  {
+    "repo": "VoctorX/All-the-Mods-11-Minecraft",
     "branch": "main",
-    "language": "Metal",
-    "description": "41 hand-curated drop-in SwiftUI Metal shader effects — holographic foil, kaleidoscope, magnetic fields, glitch, neon edges and more. Typed View modifiers, agent-friendly docs."
+    "language": "C++",
+    "description": "All the Mods 11 Download Minecraft 1.21 Release ATM11 GregTech Modern Questing Server Pack Performance Optimization Productive Bees Ad Astra Allthemodium Guide Multiplayer Gameplay Tutorial CurseForge Modrinth Latest Update Stable Build"
+  },
+  {
+    "repo": "sinanata/unity-ui-document-design-system",
+    "branch": "main",
+    "language": "C#",
+    "description": "A drop-in design system for Unity 6 UI Toolkit (UIDocument + UXML + USS). Tokens, components, icons, mobile responsiveness, and a runtime helper — all themed dark, all keyboard-and-touch-ready, all editable from one stylesheet."
+  },
+  {
+    "repo": "matplotlib/matplotlib",
+    "branch": "main",
+    "language": "Python",
+    "description": "matplotlib: plotting with Python"
   }
 ]

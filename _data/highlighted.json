@@ -1,8 +1,8 @@
 {
-  "repo": "opengeos/RustGIS",
+  "repo": "snuri00/ps2-web-recomp",
   "branch": "main",
-  "language": "Rust",
-  "description": "A fast, free and open-source GIS in pure Rust.",
-  "stars": 586,
-  "forks": 76
+  "language": "C++",
+  "description": "PS2 games in the browser: static recompilation to WebAssembly with a native runtime",
+  "stars": 688,
+  "forks": 59
 }
