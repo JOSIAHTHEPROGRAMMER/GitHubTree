@@ -1,146 +1,146 @@
 [
   {
-    "repo": "millennium-steam/Millennium-Steam",
-    "branch": "main",
-    "language": "C#",
-    "description": "steam millennium steambrew steam skins client modification open source github repository download link custom themes plugins framework css injection javascript patcher user interface customization user experience windows 11 windows 10 linux steam deck setup configuration guide installation tutorial troubleshooting desktop utility gaming"
-  },
-  {
-    "repo": "kubernetes/kompose",
-    "branch": "master",
-    "language": "Go",
-    "description": "Convert Compose to Kubernetes"
-  },
-  {
-    "repo": "ncvgl/slawk",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "A 14 day experiment to clone Slack with Claude Code"
-  },
-  {
-    "repo": "AQBot-Desktop/AQBot",
-    "branch": "main",
-    "language": "Rust",
-    "description": "轻量级高性能跨平台 AI 聊天+AI网关桌面客户端"
-  },
-  {
-    "repo": "corvofeng/atv-core",
-    "branch": "main",
-    "language": "Rust",
-    "description": ""
-  },
-  {
-    "repo": "aimen08/noty",
-    "branch": "main",
-    "language": "HTML",
-    "description": "Sticky notes that live at the edge of your screen. Native macOS, SwiftUI + AppKit, local-only with encrypted note bodies."
-  },
-  {
-    "repo": "raxx21/rajesh-portfolio",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": ""
-  },
-  {
-    "repo": "deepseek-ai/deepseek-harness",
-    "branch": "master",
-    "language": "TypeScript",
-    "description": "DeepSeek Harness: Everything is a Plugin."
-  },
-  {
-    "repo": "LearnPrompt/cc-harness-skills",
-    "branch": "main",
-    "language": "Python",
-    "description": "Portable CC-inspired skills for memory, verification, multi-agent coordination, context compression, and proactive coding-agent workflows."
-  },
-  {
-    "repo": "sean-brydon/devl.dev",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": ""
-  },
-  {
-    "repo": "ConardLi/easy-agent",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Fully recreating Claude Code from scratch, so anyone can learn how it works."
-  },
-  {
-    "repo": "Flaminis/Dalaran",
-    "branch": "main",
-    "language": "Rust",
-    "description": "Dalaran — Apache-2.0, robotics-first visualization and data infrastructure for multimodal time-series. ROS 2 native, reads existing .rrd recordings. A hard fork of Rerun."
-  },
-  {
-    "repo": "dair-ai/Prompt-Engineering-Guide",
-    "branch": "main",
-    "language": "MDX",
-    "description": "🐙 Guides, papers, lessons, notebooks and resources for prompt engineering, context engineering, RAG, and AI Agents."
-  },
-  {
-    "repo": "tradesdontlie/tradingview-mcp",
+    "repo": "oalanicolas/claude-design-premium",
     "branch": "main",
     "language": "JavaScript",
-    "description": "AI-assisted TradingView chart analysis — connect Claude Code to your TradingView Desktop for personal workflow automation"
+    "description": "Claude Design starter kit for premium design systems"
   },
   {
-    "repo": "vignesh07/babyshark",
-    "branch": "main",
-    "language": "Rust",
-    "description": "Flows-first PCAP TUI (case files, gorgeous UX). Do do do do."
-  },
-  {
-    "repo": "fish-shell/fish-shell",
-    "branch": "master",
-    "language": "Rust",
-    "description": "The user-friendly command line shell."
-  },
-  {
-    "repo": "alexan0618/zkky",
-    "branch": "main",
-    "language": "Python",
-    "description": "直卡开源"
-  },
-  {
-    "repo": "vercel-labs/visual-json",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "The Visual JSON Editor. Schema-aware, embeddable, extensible."
-  },
-  {
-    "repo": "Kianzzz/book-sales-video",
-    "branch": "main",
-    "language": "Python",
-    "description": "中文图书带货视频 Agent Skill：飞书取稿、书籍核验、配音、配图、双语字幕与 OpenChatCut 自动剪辑"
-  },
-  {
-    "repo": "Deesama22/FiveM-Steam-Edition",
+    "repo": "blender/blender",
     "branch": "main",
     "language": "C++",
-    "description": "FiveM download GTA 5 RP roleplay scripts ESX QB-Core client launcher MLO EUP custom cars maps mods servers assets resources multiplayer gameplay."
+    "description": "Official mirror of Blender"
   },
   {
-    "repo": "MiaAI-Lab/Qwen3.8-27B-SGLang-DGX-Spark",
+    "repo": "RadianceToadAmend/ARC-Raiders-External-Tool",
+    "branch": "main",
+    "language": "C++",
+    "description": "External overlay tool for ARC Raiders. UE5 memory reader, entity , radar, performance monitor. D3D11 render, no injection. For offline training purposes only."
+  },
+  {
+    "repo": "PlamenTSV/plamen",
     "branch": "main",
     "language": "Python",
-    "description": "Qwen3.8 27B on SGLang for DGX Spark"
+    "description": "Autonomous Web3 security audit agent for Claude Code"
   },
   {
-    "repo": "emotion-js/emotion",
+    "repo": "tonyqinatcmu/SlideBot-AI",
     "branch": "main",
     "language": "JavaScript",
-    "description": "👩‍🎤 CSS-in-JS library designed for high performance style composition"
+    "description": "🎨 SlideBot AI - AI-Powered Presentation Generator"
   },
   {
-    "repo": "snarktank/compound-product",
+    "repo": "chu2bard/pinion-os",
     "branch": "main",
-    "language": "Shell",
-    "description": "A self-improving product system that reads reports, identifies priorities, and autonomously implements fixes"
+    "language": "TypeScript",
+    "description": "Client SDK, Claude plugin and skill framework for the Pinion protocol. x402 micropayments on Base."
   },
   {
-    "repo": "VaderChen/YourDesk",
+    "repo": "KXJ-WQL/PortalWebsiteSystem",
+    "branch": "master",
+    "language": "Java",
+    "description": "☃企业门户系统，基于Springboot和Thymeleaf🎪，使用layui前后端分离"
+  },
+  {
+    "repo": "DatanoiseTV/tinyice",
     "branch": "main",
     "language": "Go",
-    "description": "YourDesk 跨平台遠端桌面：支援 macOS 與 Windows、硬體加速、多螢幕，以及文字、圖片、檔案與資料夾剪貼簿傳輸。"
+    "description": "A tiny audio streaming server (compatible with icecast2) written in Go with multiple mountpoint, multi-source, and relaying support."
+  },
+  {
+    "repo": "titanwings/ex-skill",
+    "branch": "master",
+    "language": "Python",
+    "description": "致你忘不掉的那个TA，你们干大模型都是码圣 It's giving rebirth era. Welcome to Digital Life 1.0. 🫶"
+  },
+  {
+    "repo": "hengfengliya/imgood",
+    "branch": "main",
+    "language": "CSS",
+    "description": ""
+  },
+  {
+    "repo": "pallets/jinja",
+    "branch": "main",
+    "language": "Python",
+    "description": "A very fast and expressive template engine."
+  },
+  {
+    "repo": "Gitlawb/openclaude",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Claude Code opened to any LLM — OpenAI, Gemini, DeepSeek, Ollama, and 200+ models via OpenAI-compatible API shim"
+  },
+  {
+    "repo": "taigrr/spank",
+    "branch": "master",
+    "language": "Go",
+    "description": "Slap your MacBook, it yells back. Uses Apple Silicon accelerometer via IOKit HID."
+  },
+  {
+    "repo": "originalankur/GenerateAgents.md",
+    "branch": "main",
+    "language": "Python",
+    "description": "Automated generation of comprehensive Agents.md for LLMs, driven by the DSPy Recursive language model implementation."
+  },
+  {
+    "repo": "iflytek/skillhub",
+    "branch": "main",
+    "language": "Java",
+    "description": "Self-hosted, open-source agent skill registry for enterprises. Publish & version skill packages, govern with RBAC and audit logs, deploy   on-premise with Docker or Kubernetes."
+  },
+  {
+    "repo": "J2TEAM/vibe.j2team.org",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "Sẽ thế nào nếu cả nhóm J2TEAM Community vibe code cùng nhau?"
+  },
+  {
+    "repo": "go-sql-driver/mysql",
+    "branch": "master",
+    "language": "Go",
+    "description": "Go MySQL Driver is a MySQL driver for Go's (golang) database/sql package"
+  },
+  {
+    "repo": "m0at/rvllm",
+    "branch": "main",
+    "language": "Rust",
+    "description": "rvLLM: High-performance LLM inference in Rust. Drop-in vLLM replacement."
+  },
+  {
+    "repo": "status-im/nimbus-eth2",
+    "branch": "stable",
+    "language": "Nim",
+    "description": "Nim implementation of the Ethereum Beacon Chain"
+  },
+  {
+    "repo": "icebear0828/clio",
+    "branch": "master",
+    "language": "TypeScript",
+    "description": "A Claude Code clone CLI - agentic coding assistant in your terminal"
+  },
+  {
+    "repo": "facebookresearch/xformers",
+    "branch": "main",
+    "language": "Python",
+    "description": "Hackable and optimized Transformers building blocks, supporting a composable construction."
+  },
+  {
+    "repo": "madewithai/pancakeswap-prediction-bot",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "PancakeSwap prediction bot · Automated Bull/Bear betting on BSC (Binance Smart Chain). Momentum + streak-reversal strategy, configurable risk, private key. BNB ETH BTC prediction market, Node.js, viem, TypeScript."
+  },
+  {
+    "repo": "lenxism/dither",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Upload an image and watch it come alive as interactive dithered particles. Hover to push them, click to explode."
+  },
+  {
+    "repo": "libp2p/go-libp2p",
+    "branch": "master",
+    "language": "Go",
+    "description": "libp2p implementation in Go"
   }
 ]
