@@ -1,146 +1,146 @@
 [
   {
-    "repo": "Longbridges/polymarket-kalshi-arbitrage-bot",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "polymarket trading bot, polymarket bot, polymarket kalshi trading bot, polymarket trading bot, polymarket bot, polymarket kalshi trading bot, polymarket trading bot, polymarket bot, polymarket kalshi trading bot, polymarket trading bot, polymarket bot, polymarket kalshi trading bot, polymarket trading bot, polymarket bot"
-  },
-  {
-    "repo": "TeamStuQ/skill-map",
-    "branch": "master",
-    "language": "HTML",
-    "description": "程序员技能图谱"
-  },
-  {
-    "repo": "TitanFlow-Systems/polymarket-trading-bot-v2",
+    "repo": "yizhiyanhua-ai/fireworks-open-eli5",
     "branch": "main",
     "language": "JavaScript",
-    "description": "polymarket polygon USDC ethereum CLOB prediction-markets crypto trading-bot arbitrage copy-trading automated-trading javascript nodejs websocket DeFi blockchain quant algorithmic-trading API risk-management market-making conditional-tokens BTC merge redeem polymarket-api ethers crypto-bot liquidity systematic-trading maker-taker depth spread gas w"
+    "description": "Evidence-aware interactive visual explainers for Codex and Claude Code."
   },
   {
-    "repo": "bhope/hedge",
-    "branch": "main",
-    "language": "Go",
-    "description": "Adaptive hedged requests for Go. Cut your p99 latency with zero configuration. Based on Google's The Tail at Scale paper."
-  },
-  {
-    "repo": "remix-run/remix",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Build Better Websites. Create modern, resilient user experiences with web fundamentals."
-  },
-  {
-    "repo": "immerjs/immer",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "Create the next immutable state by mutating the current one"
-  },
-  {
-    "repo": "square/picasso",
-    "branch": "master",
-    "language": "Kotlin",
-    "description": "A powerful image downloading and caching library for Android"
-  },
-  {
-    "repo": "lnkiai/m3e-canvas",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Sketch Material 3 Expressive screens in the browser and turn them into vibe-coding prompts."
-  },
-  {
-    "repo": "docker/compose",
-    "branch": "main",
-    "language": "Go",
-    "description": "Define and run multi-container applications with Docker"
-  },
-  {
-    "repo": "poteto/brainmaxxing",
+    "repo": "KiaBush/Persian-IPA-to-Speech-F5",
     "branch": "main",
     "language": "Python",
-    "description": "stupid simple persistent memory and skill improvement"
+    "description": "Simple Python API for Persian IPA-to-speech with F5-TTS"
   },
   {
-    "repo": "gin-gonic/gin",
-    "branch": "master",
-    "language": "Go",
-    "description": "Gin is a high-performance HTTP web framework written in Go. It provides a Martini-like API but with significantly better performance—up to 40 times faster—thanks to httprouter. Gin is designed for building REST APIs, web applications, and microservices."
+    "repo": "nateherkai/snagtime",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Free, self-hostable scheduling app with booking links, Google Calendar sync, SMTP notifications, and Stripe test payments."
   },
   {
-    "repo": "BurntSushi/ripgrep",
-    "branch": "master",
+    "repo": "icesixgod/codex-trajectory",
+    "branch": "main",
+    "language": "Python",
+    "description": "Privacy-aware trajectory viewer for local Codex task logs"
+  },
+  {
+    "repo": "MirroS-Lab/S-Space",
+    "branch": "main",
+    "language": "Python",
+    "description": "S-Space: Exploring Spatial Workspace in Multimodal Models"
+  },
+  {
+    "repo": "ethanfel/ComfyUI-MiniMax-H3-Guide",
+    "branch": "main",
+    "language": "Python",
+    "description": "Guided MiniMax H3 prompt preparation node for ComfyUI"
+  },
+  {
+    "repo": "dreamers-laboratory/ai-evaluation-framework",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "Accuracy, latency p95, and cost benchmarking for model-based solutions, with per-field ground-truth scoring."
+  },
+  {
+    "repo": "jchultarsky/mirador",
+    "branch": "main",
     "language": "Rust",
-    "description": "ripgrep recursively searches directories for a regex pattern while respecting your gitignore"
+    "description": "An opinionated personal dashboard for your terminal — world clocks, calendar and agenda, weather, tasks, notes, markets and live system metrics in a tab you leave open all day. Rust + ratatui."
   },
   {
-    "repo": "google-gemini/generative-ai-swift",
+    "repo": "AMAP-ML/DreamX-Creator",
+    "branch": "main",
+    "language": "Python",
+    "description": "Democratizing Native Audio-Video Generation at 2K Resolution"
+  },
+  {
+    "repo": "asdafgs419/Extreme-FPS-Boost",
+    "branch": "main",
+    "language": "HTML",
+    "description": "Extreme FPS Boost is a lightweight Windows 10/11 gaming optimizer designed to improve FPS stability, reduce input lag, and enhance overall system performance."
+  },
+  {
+    "repo": "Appllama/liquid-glass-screens",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Explore liquid-glass welcome screens with floating stickers and interactive swipe animations."
+  },
+  {
+    "repo": "YINGLINGH/limioryn",
+    "branch": "main",
+    "language": "Python",
+    "description": "High-level edge-cloud AI multi-agent framework for real devices, verifiable actuation and entropy-bounded recovery."
+  },
+  {
+    "repo": "Noniv/snowflow_demo",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "A real-time procedural snow rendering demo built with WebGPU, Babylon.js and hand-written WGSL. Features GPU-generated terrain, snow deformation, procedural characters, cloth, surf wakes, water spells, atmosphere and post-processing—without textures, meshes, HDRIs or animation assets."
+  },
+  {
+    "repo": "JohnKinyanjui/sprite-maker",
+    "branch": "main",
+    "language": "Rust",
+    "description": "An open source ai sprite maker"
+  },
+  {
+    "repo": "Mr-funny/hbg-classical-poem-silk-video",
+    "branch": "main",
+    "language": "Shell",
+    "description": "Agent Skill for turning Chinese classical poems into vertical Chinese-art videos with ImageGen stills, Docker I2V, calligraphy captions, retained ambience, BGM and final MP4 QA."
+  },
+  {
+    "repo": "lxl0825/ComputeMempool",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "ComputeMempool: A Distributed Compute Manager leveraging real-time processing and auto-scaling for adaptive workload optimization."
+  },
+  {
+    "repo": "Vyom-26/Wave-Racer",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": ""
+  },
+  {
+    "repo": "HELPMEEADICE/TE-Speed-MiniMaxH3-OSS",
+    "branch": "main",
+    "language": "Python",
+    "description": "MiniMax-H3超级缓存加速插件"
+  },
+  {
+    "repo": "ryanlab/bivor",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Bivor — a macOS desktop workbench for the pi coding agent"
+  },
+  {
+    "repo": "MiaAI-Lab/Qwen3.8-27B-SGLang-DGX-Spark",
+    "branch": "main",
+    "language": "Python",
+    "description": "Qwen3.8 27B on SGLang for DGX Spark"
+  },
+  {
+    "repo": "dcatanzaro/aoweb",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": ""
+  },
+  {
+    "repo": "x4gKing/bot-telegram",
+    "branch": "main",
+    "language": "Python",
+    "description": ""
+  },
+  {
+    "repo": "jailbreakdotparty/Erosion",
     "branch": "main",
     "language": "Swift",
-    "description": "This SDK is now deprecated, use the unified Firebase SDK."
+    "description": "iOS customization toolbox using the bad_query sandbox escape. Supports iOS 26.0 - iOS 26.6.1 & iOS 27.0db1-db4."
   },
   {
-    "repo": "openssl/openssl",
-    "branch": "master",
-    "language": "C",
-    "description": "TLS/SSL and crypto library"
-  },
-  {
-    "repo": "mgks/GitHubTree",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "Visualise any GitHub repository folder structure. Available as a web app, CLI tool, and node.js library."
-  },
-  {
-    "repo": "vigorX777/product-design-system",
-    "branch": "main",
-    "language": "HTML",
-    "description": "面向产品经理的 AI 辅助产品设计工作框架，可 fork 定制的通用产品设计系统"
-  },
-  {
-    "repo": "psf/requests-html",
-    "branch": "master",
-    "language": "Python",
-    "description": "Pythonic HTML Parsing for Humans™"
-  },
-  {
-    "repo": "jakobfriedl/tgt-monitor-bof",
-    "branch": "main",
-    "language": "C",
-    "description": "Async BOF implementation of 'Rubeus monitor' to detect and automatically extract Kerberos TGTs as they appear on a target system."
-  },
-  {
-    "repo": "J-Pster/Psters_AI_Workflow",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "An anti-vibe-coding, agentic AI workflow that improves results with engineering rigor in any project, language, and framework."
-  },
-  {
-    "repo": "altair-viz/altair",
-    "branch": "main",
-    "language": "Python",
-    "description": "Declarative visualization library for Python"
-  },
-  {
-    "repo": "boto/boto3",
-    "branch": "develop",
-    "language": "Python",
-    "description": "Boto3, an AWS SDK for Python"
-  },
-  {
-    "repo": "VoctorX/All-the-Mods-11-Minecraft",
-    "branch": "main",
-    "language": "C++",
-    "description": "All the Mods 11 Download Minecraft 1.21 Release ATM11 GregTech Modern Questing Server Pack Performance Optimization Productive Bees Ad Astra Allthemodium Guide Multiplayer Gameplay Tutorial CurseForge Modrinth Latest Update Stable Build"
-  },
-  {
-    "repo": "sinanata/unity-ui-document-design-system",
+    "repo": "thunderstoremods/Thunderstore-Mod-Manager",
     "branch": "main",
     "language": "C#",
-    "description": "A drop-in design system for Unity 6 UI Toolkit (UIDocument + UXML + USS). Tokens, components, icons, mobile responsiveness, and a runtime helper — all themed dark, all keyboard-and-touch-ready, all editable from one stylesheet."
-  },
-  {
-    "repo": "matplotlib/matplotlib",
-    "branch": "main",
-    "language": "Python",
-    "description": "matplotlib: plotting with Python"
+    "description": "Thunderstore Mod Manager free for Windows, macOS and Linux. Best mod manager for Lethal Company, Risk of Rain 2, Valheim, Deep Rock Galactic and Cyberpunk 2077. Thunderstore mod manager download, standalone, not working fix, vs Overwolf, vs Nexus Mod Manager. BepInEx and MelonLoader support. Download Thunderstore Mod Manager free 2026."
   }
 ]

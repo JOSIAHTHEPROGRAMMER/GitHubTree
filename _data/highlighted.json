@@ -1,8 +1,8 @@
 {
-  "repo": "snuri00/ps2-web-recomp",
+  "repo": "swiftvm-app/swiftvm",
   "branch": "main",
-  "language": "C++",
-  "description": "PS2 games in the browser: static recompilation to WebAssembly with a native runtime",
-  "stars": 688,
-  "forks": 59
+  "language": "Swift",
+  "description": "Native macOS app for running virtual machines",
+  "stars": 167,
+  "forks": 7
 }
