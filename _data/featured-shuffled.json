@@ -1,146 +1,146 @@
 [
   {
-    "repo": "oalanicolas/claude-design-premium",
+    "repo": "Licoy/StrokeMouse",
+    "branch": "main",
+    "language": "Swift",
+    "description": "macOS 鼠标手势自定义工具。按住该手势的触发键（默认右键，也可中键 / 侧键）绘制轨迹，匹配后执行快捷键、打开应用、窗口操作、媒体键、Shell / AppleScript 等 ｜ A macOS mouse gesture customization tool. Hold down the trigger key to execute shortcuts, open applications, shell/AppleScript, etc. after matching."
+  },
+  {
+    "repo": "requestsession/IndexGPT",
     "branch": "main",
     "language": "JavaScript",
-    "description": "Claude Design starter kit for premium design systems"
+    "description": "IndexGPT: 本地科研助手（RAG + SFT + LoRA）| Local research assistant for PDF parsing, retrieval QA, SFT data generation, and LoRA training."
   },
   {
-    "repo": "blender/blender",
-    "branch": "main",
-    "language": "C++",
-    "description": "Official mirror of Blender"
-  },
-  {
-    "repo": "RadianceToadAmend/ARC-Raiders-External-Tool",
-    "branch": "main",
-    "language": "C++",
-    "description": "External overlay tool for ARC Raiders. UE5 memory reader, entity , radar, performance monitor. D3D11 render, no injection. For offline training purposes only."
-  },
-  {
-    "repo": "PlamenTSV/plamen",
-    "branch": "main",
-    "language": "Python",
-    "description": "Autonomous Web3 security audit agent for Claude Code"
-  },
-  {
-    "repo": "tonyqinatcmu/SlideBot-AI",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "🎨 SlideBot AI - AI-Powered Presentation Generator"
-  },
-  {
-    "repo": "chu2bard/pinion-os",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Client SDK, Claude plugin and skill framework for the Pinion protocol. x402 micropayments on Base."
-  },
-  {
-    "repo": "KXJ-WQL/PortalWebsiteSystem",
+    "repo": "apache/maven",
     "branch": "master",
     "language": "Java",
-    "description": "☃企业门户系统，基于Springboot和Thymeleaf🎪，使用layui前后端分离"
+    "description": "Apache Maven core"
   },
   {
-    "repo": "DatanoiseTV/tinyice",
+    "repo": "rainzz-512/Mewgenics-Chinese-Translation",
     "branch": "main",
-    "language": "Go",
-    "description": "A tiny audio streaming server (compatible with icecast2) written in Go with multiple mountpoint, multi-source, and relaying support."
-  },
-  {
-    "repo": "titanwings/ex-skill",
-    "branch": "master",
     "language": "Python",
-    "description": "致你忘不掉的那个TA，你们干大模型都是码圣 It's giving rebirth era. Welcome to Digital Life 1.0. 🫶"
-  },
-  {
-    "repo": "hengfengliya/imgood",
-    "branch": "main",
-    "language": "CSS",
     "description": ""
   },
   {
-    "repo": "pallets/jinja",
-    "branch": "main",
-    "language": "Python",
-    "description": "A very fast and expressive template engine."
+    "repo": "sorrycc/awesome-javascript",
+    "branch": "master",
+    "language": "Other",
+    "description": "🐢 A collection of awesome browser-side  JavaScript libraries, resources and shiny things."
   },
   {
-    "repo": "Gitlawb/openclaude",
+    "repo": "timescale/timescaledb",
+    "branch": "main",
+    "language": "C",
+    "description": "A time-series database for high-performance real-time analytics packaged as a Postgres extension"
+  },
+  {
+    "repo": "vim/vim",
+    "branch": "master",
+    "language": "Vim Script",
+    "description": "The official Vim repository"
+  },
+  {
+    "repo": "kdn251/interviews",
+    "branch": "master",
+    "language": "Java",
+    "description": "Everything you need to know to get the job."
+  },
+  {
+    "repo": "spaceraccoon/vulnerability-spoiler-alert-action",
     "branch": "main",
     "language": "TypeScript",
-    "description": "Claude Code opened to any LLM — OpenAI, Gemini, DeepSeek, Ollama, and 200+ models via OpenAI-compatible API shim"
+    "description": "GitHub Action to alert on security patches before the CVE drops."
   },
   {
-    "repo": "taigrr/spank",
+    "repo": "ant-design/ant-design",
     "branch": "master",
-    "language": "Go",
-    "description": "Slap your MacBook, it yells back. Uses Apple Silicon accelerometer via IOKit HID."
+    "language": "TypeScript",
+    "description": "An enterprise-class UI design language and React UI library"
   },
   {
-    "repo": "originalankur/GenerateAgents.md",
+    "repo": "cs50victor/claude-code-teams-mcp",
     "branch": "main",
     "language": "Python",
-    "description": "Automated generation of comprehensive Agents.md for LLMs, driven by the DSPy Recursive language model implementation."
+    "description": "use claude code's agent teams orchestraction with any harness"
   },
   {
-    "repo": "iflytek/skillhub",
-    "branch": "main",
-    "language": "Java",
-    "description": "Self-hosted, open-source agent skill registry for enterprises. Publish & version skill packages, govern with RBAC and audit logs, deploy   on-premise with Docker or Kubernetes."
-  },
-  {
-    "repo": "J2TEAM/vibe.j2team.org",
+    "repo": "mgks/GitHubTree",
     "branch": "main",
     "language": "JavaScript",
-    "description": "Sẽ thế nào nếu cả nhóm J2TEAM Community vibe code cùng nhau?"
+    "description": "Visualise any GitHub repository folder structure. Available as a web app, CLI tool, and node.js library."
   },
   {
-    "repo": "go-sql-driver/mysql",
-    "branch": "master",
-    "language": "Go",
-    "description": "Go MySQL Driver is a MySQL driver for Go's (golang) database/sql package"
-  },
-  {
-    "repo": "m0at/rvllm",
+    "repo": "garagon/nanostack",
     "branch": "main",
-    "language": "Rust",
-    "description": "rvLLM: High-performance LLM inference in Rust. Drop-in vLLM replacement."
+    "language": "Shell",
+    "description": "Minimal AI coding agent team skills for the full engineering workflow."
   },
   {
-    "repo": "status-im/nimbus-eth2",
-    "branch": "stable",
-    "language": "Nim",
-    "description": "Nim implementation of the Ethereum Beacon Chain"
-  },
-  {
-    "repo": "icebear0828/clio",
+    "repo": "freestylefly/openclaw-wechat",
     "branch": "master",
     "language": "TypeScript",
-    "description": "A Claude Code clone CLI - agentic coding assistant in your terminal"
+    "description": "让 OpenClaw稳定的连上你的个人微信"
   },
   {
-    "repo": "facebookresearch/xformers",
+    "repo": "V4bel/dirtyfrag",
+    "branch": "master",
+    "language": "C",
+    "description": ""
+  },
+  {
+    "repo": "apple/swift",
+    "branch": "main",
+    "language": "C++",
+    "description": "The Swift Programming Language"
+  },
+  {
+    "repo": "figure-markets/polymarket-arbitrage-bot",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "polymarket arbitrage bot polymarket arbitrage bot polymarket arbitrage bot polymarket arbitrage bot polymarket arbitrage bot polymarket arbitrage bot polymarket arbitrage bot polymarket arbitrage bot polymarket arbitrage bot polymarket arbitrage bot polymarket arbitrage bot polymarket arbitrage bot polymarket arbitrage bot polymarket arbitrage bot"
+  },
+  {
+    "repo": "qlabs-eng/slowrun",
     "branch": "main",
     "language": "Python",
-    "description": "Hackable and optimized Transformers building blocks, supporting a composable construction."
+    "description": "100M tokens, no time limit, best val loss wins!"
   },
   {
-    "repo": "madewithai/pancakeswap-prediction-bot",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "PancakeSwap prediction bot · Automated Bull/Bear betting on BSC (Binance Smart Chain). Momentum + streak-reversal strategy, configurable risk, private key. BNB ETH BTC prediction market, Node.js, viem, TypeScript."
-  },
-  {
-    "repo": "lenxism/dither",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Upload an image and watch it come alive as interactive dithered particles. Hover to push them, click to explode."
-  },
-  {
-    "repo": "libp2p/go-libp2p",
+    "repo": "nakagami/grdpwasm",
     "branch": "master",
     "language": "Go",
-    "description": "libp2p implementation in Go"
+    "description": ""
+  },
+  {
+    "repo": "dashersw/gea",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": ""
+  },
+  {
+    "repo": "BurntSushi/xsv",
+    "branch": "master",
+    "language": "Rust",
+    "description": "A fast CSV command line toolkit written in Rust."
+  },
+  {
+    "repo": "Unclecheng-li/AI_Animation",
+    "branch": "master",
+    "language": "HTML",
+    "description": "本项目整理了用于生成[炫酷 HTML 动画网页]的 AI Prompts，涵盖动画效果、3D 可视化、PPT 风格演示、UI 美化等多个类别。"
+  },
+  {
+    "repo": "tauri-apps/tauri",
+    "branch": "dev",
+    "language": "Rust",
+    "description": "Build smaller, faster, and more secure desktop and mobile applications with a web frontend."
+  },
+  {
+    "repo": "dashrobotco/robot-components",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": ""
   }
 ]

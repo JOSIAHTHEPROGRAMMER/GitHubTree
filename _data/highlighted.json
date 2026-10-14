@@ -1,8 +1,8 @@
 {
-  "repo": "swiftvm-app/swiftvm",
+  "repo": "iremcnar/loveYou",
   "branch": "main",
-  "language": "Swift",
-  "description": "Native macOS app for running virtual machines",
-  "stars": 170,
-  "forks": 7
+  "language": "Python",
+  "description": "A featured project on GitHubTree.",
+  "stars": 171,
+  "forks": 34
 }
