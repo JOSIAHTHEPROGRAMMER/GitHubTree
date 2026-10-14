@@ -1,8 +1,8 @@
 {
-  "repo": "swiftvm-app/swiftvm",
+  "repo": "carreypro/ict-trading-model",
   "branch": "main",
-  "language": "Swift",
-  "description": "Native macOS app for running virtual machines",
-  "stars": 167,
-  "forks": 7
+  "language": "Python",
+  "description": "ICT and SMC market-structure validation skill with deterministic OHLCV scanning",
+  "stars": 196,
+  "forks": 2
 }
