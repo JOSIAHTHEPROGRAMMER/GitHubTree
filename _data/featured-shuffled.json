@@ -1,146 +1,146 @@
 [
   {
-    "repo": "Robbyant/lingbot-world-v2",
+    "repo": "canwhite/MicroRAG",
     "branch": "main",
     "language": "Python",
-    "description": "Infinite Worlds with Versatile Interactions"
+    "description": "The minimal implementation of rag"
   },
   {
-    "repo": "pfwjrfp5hh-byte/WorkMesh",
+    "repo": "dashkit-protocol/polymarket-arbitrage-bot",
     "branch": "main",
     "language": "TypeScript",
-    "description": ""
+    "description": "polymarket arbitrage bot, polymarket arbitrage bot, polymarket arbitrage bot, polymarket arbitrage bot, polymarket arbitrage bot, polymarket arbitrage bot, polymarket arbitrage bot, polymarket arbitrage bot, polymarket arbitrage bot, polymarket arbitrage bot, polymarket arbitrage bot, polymarket arbitrage bot, polymarket arbitrage bot"
   },
   {
-    "repo": "openaiotlab/CUHK-X",
+    "repo": "Resinat/Resin",
+    "branch": "master",
+    "language": "Go",
+    "description": "A high-performance proxy pool gateway. Turn massive proxy subscriptions into a stable, smart, and observable network with sticky sessions."
+  },
+  {
+    "repo": "NikolayS/pgque",
     "branch": "main",
-    "language": "Python",
-    "description": "[MobiSys 2026] A large-scale, multimodal dataset and benchmark for Human Action Recognition, Understanding and Reasoning"
+    "language": "PLpgSQL",
+    "description": "PgQue – Zero-bloat Postgres queue. One SQL file to install, pg_cron to tick."
   },
   {
-    "repo": "tidwall/btype",
+    "repo": "nhevers/MoltBrain",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Long-term memory layer for OpenClaw & MoltBook agents that learns and recalls your project context automatically."
+  },
+  {
+    "repo": "crossplane/crossplane",
+    "branch": "master",
+    "language": "Go",
+    "description": "The Cloud Native Control Plane"
+  },
+  {
+    "repo": "kubernetes-sigs/kind",
     "branch": "main",
     "language": "Go",
-    "description": "B-tree based collection types for Go"
+    "description": "Kubernetes IN Docker - local clusters for testing Kubernetes"
   },
   {
-    "repo": "iart-ai/motion-skills",
+    "repo": "PinchToDebug/EverythingQuickSearch",
     "branch": "master",
-    "language": "HTML",
-    "description": "50 open-source skills that teach your AI coding agent to make motion graphics, animation & video — kinetic typography, data-viz, explainers, TikTok/Reels, WebGL, Manim. 14 installable packs. By iart.ai, the AI motion agent."
-  },
-  {
-    "repo": "VILA-Lab/FigMirror",
-    "branch": "main",
-    "language": "Python",
-    "description": "An Automated AI Agent Tool for Plotting Your Data in Any Paper's Figure Style."
-  },
-  {
-    "repo": "Kappaemme-git/codex-complexity-optimizer",
-    "branch": "main",
-    "language": "Python",
-    "description": "Codex skill for safe codebase complexity analysis and performance optimization reports"
-  },
-  {
-    "repo": "RastProxy88/Vivid-R6-Cracked-2026",
-    "branch": "main",
-    "language": "C++",
-    "description": "External memory analysis framework for Rainbow Six Siege. Features ESP, aimbot, skeleton rendering via DirectX 11 overlay. Read-only operation with direct syscall stubs. Supports Y8S4 — Y9S2. C++17, x64, MIT license."
-  },
-  {
-    "repo": "manyougz/velotype",
-    "branch": "main",
-    "language": "Rust",
-    "description": "Write at the speed of thought – Velotype is a high-performance native Markdown editor built with Rust and GPUI.⚡"
-  },
-  {
-    "repo": "eli-labz/Godcoder",
-    "branch": "main",
-    "language": "Rust",
-    "description": "A local-first, open-source coding agent for your desktop. Bring your own LLM key; your code stays on your machine and only ever leaves to the model provider"
-  },
-  {
-    "repo": "nader0913/ocpp-rag",
-    "branch": "main",
-    "language": "Python",
-    "description": "MCP server with RAG knowledge base for OCPP 1.6, OCPP 2.0.1, and EV charging standards"
-  },
-  {
-    "repo": "flaviodesa/polymarket-copy-trading-bot",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "polymarket trading bot,polymarket copy trading bot,polymarket trading bot,polymarket copy trading bot,polymarket trading bot,polymarket copy trading bot,polymarket trading bot,polymarket copy trading bot,polymarket trading bot,polymarket copy trading bot,polymarket trading bot,polymarket copy trading bot,"
-  },
-  {
-    "repo": "Soul-AILab/SoulX-Transcriber",
-    "branch": "main",
-    "language": "Python",
-    "description": "An end-to-end framework for multi-speaker transcription that jointly models who spoke, when, and what."
-  },
-  {
-    "repo": "wwe-dog/ppt-image2-editable-rebuild",
-    "branch": "main",
-    "language": "Python",
-    "description": "一个基于截图/参考图重建可编辑 PPT 的 Codex skill。先用 image2/imagegen 生成单页视觉参考图，再以局部截图保留复杂插图、图标、地图等视觉资产，同时用 PPT 文本框和形状重建标题、正文、卡片、箭头、标签、结论条等可编辑元素。"
-  },
-  {
-    "repo": "windowsMarketLab/polymarket-arbitrage-bot-v2",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "polymarket arbitrage bot V2 to interact with CLOB V2 polymarket arbitrage bot polymarket arbitrage bot polymarket arbitrage bot polymarket arbitrage bot polymarket arbitrage bot polymarket arbitrage bot polymarket arbitrage bot polymarket arbitrage bot polymarket arbitrage bot polymarket arbitrage bot polymarket arbitrage bot"
-  },
-  {
-    "repo": "chefkannofriend-source/mbbb-baker-agent",
-    "branch": "main",
-    "language": "Python",
-    "description": "Claude Code subagent for pastry recipe lookup and Baker's Percentage calculation"
-  },
-  {
-    "repo": "c0deJedi/nbd-vram",
-    "branch": "main",
-    "language": "C",
-    "description": "Use your NVIDIA GPU's VRAM as swap space on Linux. Built for laptops with soldered memory and no upgrade path. If you have an RTX card sitting there with 8GB of VRAM and you're getting swapped to SSD, this puts that VRAM to work"
-  },
-  {
-    "repo": "avacocloud/XHTTP-Installer",
-    "branch": "main",
-    "language": "HTML",
-    "description": "VLESS+XHTTP+TLS Auto-Installer for Ubuntu — Vercel / Netlify relay"
-  },
-  {
-    "repo": "ma7mod7/007-First-Light-Trainer-And-Optimizer_v_2",
-    "branch": "main",
-    "language": "Python",
-    "description": "Advanced trainer and performance utility for 007 First Light. Features God Mode, stealth mechanics, instant gadget/outfit unlocks, map intel reveal, and deep FPS/stutter optimization."
-  },
-  {
-    "repo": "wy51ai/edulab",
-    "branch": "master",
-    "language": "HTML",
+    "language": "C#",
     "description": ""
   },
   {
-    "repo": "aleishawei1983/Seed-Generator",
+    "repo": "e10nMa2k/cc-mini",
     "branch": "main",
     "language": "Python",
-    "description": "Professional BIP-39 Seed & HD Wallet Toolkit with 12–24 word mnemonics, checksum validation, BIP-44/49/84 derivation, and multi-chain support (BTC, ETH, SOL, LTC, DOGE, ADA, DOT, AVAX, ATOM, XRP, TRX). Features offline CSPRNG, PBKDF2-HMAC-SHA512, AES-256-GCM encryption, wallet recovery, CSV/JSON export, and custom derivation paths."
+    "description": "mini version of claude code"
   },
   {
-    "repo": "odinsalazar964150/Gemini-Pro-Desktop-2026",
-    "branch": "main",
-    "language": "C#",
-    "description": "A free, locally runnable desktop application powered by Gemini Pro for enhanced productivity."
+    "repo": "primefaces/primereact",
+    "branch": "master",
+    "language": "CSS",
+    "description": "The Most Complete React UI Component Library"
   },
   {
-    "repo": "Fullive-AI/Anima",
+    "repo": "NVIDIA/NeMo",
     "branch": "main",
     "language": "Python",
-    "description": "Make Every Hardware Intelligent — an open-source Agent OS for hardware intelligence"
+    "description": "A scalable generative AI framework built for researchers and developers working on Large Language Models, Multimodal, and Speech AI (Automatic Speech Recognition and Text-to-Speech)"
   },
   {
-    "repo": "dikurdikur/palmier-pro-windows",
+    "repo": "primefaces/primeng",
+    "branch": "master",
+    "language": "TypeScript",
+    "description": "The Most Complete Angular UI Component Library"
+  },
+  {
+    "repo": "refinedev/refine",
+    "branch": "master",
+    "language": "TypeScript",
+    "description": "A React Framework for building  internal tools, admin panels, dashboards & B2B apps with unmatched flexibility."
+  },
+  {
+    "repo": "shareAI-lab/claw0",
     "branch": "main",
-    "language": "C#",
-    "description": "Palmier Pro AI video editor macOS windows timeline multitrack NLE footage model context protocol MCP server agent Claude Cursor Swift SwiftUI AVFoundation storyboard audio prores metal automation rendering fx"
+    "language": "Python",
+    "description": "0 - 1 learn OpenClaw: sections to build an claw-AI agent from scratch"
+  },
+  {
+    "repo": "cosmos/cosmos-sdk",
+    "branch": "main",
+    "language": "Go",
+    "description": ":chains: A Framework for Building High Value Public Blockchains :sparkles:"
+  },
+  {
+    "repo": "mukul975/cve-mcp-server",
+    "branch": "main",
+    "language": "Python",
+    "description": "Production-grade MCP server giving Claude 27 security intelligence tools across 21 APIs — CVE lookup, EPSS scoring, CISA KEV, MITRE ATT&CK, Shodan, VirusTotal, and more."
+  },
+  {
+    "repo": "chakra-ui/chakra-ui",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Chakra UI is a component system for building SaaS products with speed ⚡️"
+  },
+  {
+    "repo": "PaperGuru-AI/PaperGuru-Benchmark",
+    "branch": "main",
+    "language": "TeX",
+    "description": "Lifecycle-Aware Memory for long-horizon LLM agents — 66.05% on PaperBench, 94.66% on SurveyBench, 10 peer-reviewed acceptances at FSE/ICML/TOSEM/AEI/ICoGB"
+  },
+  {
+    "repo": "roboflow/rf-detr",
+    "branch": "main",
+    "language": "Python",
+    "description": "RF-DETR is a real-time object detection and segmentation model architecture developed by Roboflow, SOTA on COCO and designed for fine-tuning."
+  },
+  {
+    "repo": "MoonshotAI/FlashKDA",
+    "branch": "master",
+    "language": "Cuda",
+    "description": "FlashKDA: high-performance Kimi Delta Attention kernels"
+  },
+  {
+    "repo": "gar212/VoidStrap-Roblox",
+    "branch": "main",
+    "language": "C++",
+    "description": "VoidStrap Roblox download bootstrapper launcher custom client optimization tools FPS unlocker utility scripts framework desktop app update manager setup installer repository."
+  },
+  {
+    "repo": "ChainSafe/lodestar",
+    "branch": "stable",
+    "language": "TypeScript",
+    "description": "🌟 Ethereum Consensus client for the Zig and TypeScript ecosystem"
+  },
+  {
+    "repo": "restic/restic",
+    "branch": "master",
+    "language": "Go",
+    "description": "Fast, secure, efficient backup program"
+  },
+  {
+    "repo": "lens-protocol/lens-protocol",
+    "branch": "main",
+    "language": "Solidity",
+    "description": "The Lens Protocol"
   }
 ]
