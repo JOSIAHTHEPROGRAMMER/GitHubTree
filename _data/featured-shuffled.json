@@ -1,146 +1,146 @@
 [
   {
-    "repo": "Licoy/StrokeMouse",
+    "repo": "d4ncboz/museai",
     "branch": "main",
-    "language": "Swift",
-    "description": "macOS 鼠标手势自定义工具。按住该手势的触发键（默认右键，也可中键 / 侧键）绘制轨迹，匹配后执行快捷键、打开应用、窗口操作、媒体键、Shell / AppleScript 等 ｜ A macOS mouse gesture customization tool. Hold down the trigger key to execute shortcuts, open applications, shell/AppleScript, etc. after matching."
+    "language": "Python",
+    "description": "High-performance OpenAI-compatible API gateway and bridge for muse.ai personal AI agents, ready for 9Router multi-model integration."
   },
   {
-    "repo": "requestsession/IndexGPT",
+    "repo": "dzhng/skills",
     "branch": "main",
     "language": "JavaScript",
-    "description": "IndexGPT: 本地科研助手（RAG + SFT + LoRA）| Local research assistant for PDF parsing, retrieval QA, SFT data generation, and LoRA training."
-  },
-  {
-    "repo": "apache/maven",
-    "branch": "master",
-    "language": "Java",
-    "description": "Apache Maven core"
-  },
-  {
-    "repo": "rainzz-512/Mewgenics-Chinese-Translation",
-    "branch": "main",
-    "language": "Python",
     "description": ""
   },
   {
-    "repo": "sorrycc/awesome-javascript",
-    "branch": "master",
-    "language": "Other",
-    "description": "🐢 A collection of awesome browser-side  JavaScript libraries, resources and shiny things."
-  },
-  {
-    "repo": "timescale/timescaledb",
-    "branch": "main",
-    "language": "C",
-    "description": "A time-series database for high-performance real-time analytics packaged as a Postgres extension"
-  },
-  {
-    "repo": "vim/vim",
-    "branch": "master",
-    "language": "Vim Script",
-    "description": "The official Vim repository"
-  },
-  {
-    "repo": "kdn251/interviews",
-    "branch": "master",
-    "language": "Java",
-    "description": "Everything you need to know to get the job."
-  },
-  {
-    "repo": "spaceraccoon/vulnerability-spoiler-alert-action",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "GitHub Action to alert on security patches before the CVE drops."
-  },
-  {
-    "repo": "ant-design/ant-design",
-    "branch": "master",
-    "language": "TypeScript",
-    "description": "An enterprise-class UI design language and React UI library"
-  },
-  {
-    "repo": "cs50victor/claude-code-teams-mcp",
-    "branch": "main",
-    "language": "Python",
-    "description": "use claude code's agent teams orchestraction with any harness"
-  },
-  {
-    "repo": "mgks/GitHubTree",
+    "repo": "Dgeloe4-yb/market-pilot",
     "branch": "main",
     "language": "JavaScript",
-    "description": "Visualise any GitHub repository folder structure. Available as a web app, CLI tool, and node.js library."
+    "description": "Evidence-grounded market research prototype with traceable AI workflows."
   },
   {
-    "repo": "garagon/nanostack",
-    "branch": "main",
-    "language": "Shell",
-    "description": "Minimal AI coding agent team skills for the full engineering workflow."
-  },
-  {
-    "repo": "freestylefly/openclaw-wechat",
-    "branch": "master",
-    "language": "TypeScript",
-    "description": "让 OpenClaw稳定的连上你的个人微信"
-  },
-  {
-    "repo": "V4bel/dirtyfrag",
-    "branch": "master",
-    "language": "C",
-    "description": ""
-  },
-  {
-    "repo": "apple/swift",
-    "branch": "main",
-    "language": "C++",
-    "description": "The Swift Programming Language"
-  },
-  {
-    "repo": "figure-markets/polymarket-arbitrage-bot",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "polymarket arbitrage bot polymarket arbitrage bot polymarket arbitrage bot polymarket arbitrage bot polymarket arbitrage bot polymarket arbitrage bot polymarket arbitrage bot polymarket arbitrage bot polymarket arbitrage bot polymarket arbitrage bot polymarket arbitrage bot polymarket arbitrage bot polymarket arbitrage bot polymarket arbitrage bot"
-  },
-  {
-    "repo": "qlabs-eng/slowrun",
+    "repo": "snehachaturvedi17/Firewall_Rules_Editor",
     "branch": "main",
     "language": "Python",
-    "description": "100M tokens, no time limit, best val loss wins!"
+    "description": "Edit and manage Windows Firewall rules with a user-friendly GUI. Create inbound/outbound rules, block specific apps, and organize by profiles."
   },
   {
-    "repo": "nakagami/grdpwasm",
-    "branch": "master",
-    "language": "Go",
-    "description": ""
+    "repo": "sequilade/tokentab",
+    "branch": "main",
+    "language": "Python",
+    "description": "A CLI that reads Claude Code, Codex, and Gemini CLI session logs and works out how much they cost, by model, project, and day."
   },
   {
-    "repo": "dashersw/gea",
+    "repo": "Cjbuilds/Codex-Orchestration",
+    "branch": "main",
+    "language": "Python",
+    "description": "Bring any model to Codex, assign them any role, use them in /goal or any workflow."
+  },
+  {
+    "repo": "pablostanley/yoinks",
     "branch": "main",
     "language": "TypeScript",
-    "description": ""
+    "description": "yoink any video from your terminal. no shady ads."
   },
   {
-    "repo": "BurntSushi/xsv",
-    "branch": "master",
-    "language": "Rust",
-    "description": "A fast CSV command line toolkit written in Rust."
+    "repo": "Hassanjan49/File_Association_Manager",
+    "branch": "main",
+    "language": "Python",
+    "description": "Manage file associations: choose which program opens each file type. Reset or change associations easily. Fix broken file associations."
   },
   {
-    "repo": "Unclecheng-li/AI_Animation",
-    "branch": "master",
+    "repo": "SAGAR-TAMANG/ultron-by-sagar-builds",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Ultron."
+  },
+  {
+    "repo": "FuelMagistrateLead/photoshop-ai-smart-enhance",
+    "branch": "main",
     "language": "HTML",
-    "description": "本项目整理了用于生成[炫酷 HTML 动画网页]的 AI Prompts，涵盖动画效果、3D 可视化、PPT 风格演示、UI 美化等多个类别。"
+    "description": "AI-powered image enhancement extension for Adobe Photoshop CC 2024+. Intelligent exposure correction, adaptive color adjustment, contrast optimization, and noise reduction. Machine learning algorithms for photographers and designers. Real-time preview, batch processing, non-destructive smart objects."
   },
   {
-    "repo": "tauri-apps/tauri",
-    "branch": "dev",
-    "language": "Rust",
-    "description": "Build smaller, faster, and more secure desktop and mobile applications with a web frontend."
+    "repo": "jevispourmoi/Hearts_of_Iron_IV_Unlimited_Resources",
+    "branch": "main",
+    "language": "Python",
+    "description": "Unlimited resources, instant research, and god mode for Hearts of Iron IV. Never run out of oil, steel, or rubber. Win WWII instantly."
   },
   {
-    "repo": "dashrobotco/robot-components",
+    "repo": "andrewyng/openworker",
+    "branch": "main",
+    "language": "Python",
+    "description": ""
+  },
+  {
+    "repo": "gnipbao/story-to-handdrawn-video",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "Agent skill: convert Chinese story copy or ordered images into a hand-drawn diary-comic animation (silent MP4 picture track)."
+  },
+  {
+    "repo": "johndev-robo/Color_Picker_with_Palette_Builder",
+    "branch": "main",
+    "language": "Python",
+    "description": "Pick colors from anywhere on screen, get Hex, RGB, HSL, and CMYK values. Build, save, and export color palettes for design projects."
+  },
+  {
+    "repo": "triangkas/DBD-AutoGrind-Trainer-2026-Mega",
+    "branch": "main",
+    "language": "Python",
+    "description": "Ultimate Dead by Daylight auto-grind trainer Mega edition with Bloodpoint bot, ESP wallhack, aimbot, and full perk/skin unlocker. Dominate the Fog with our 2026 undetected external tool."
+  },
+  {
+    "repo": "gabriel-azara/hyperliquid-tracker",
     "branch": "main",
     "language": "TypeScript",
-    "description": ""
+    "description": "Get notified when big trades happen on Hyperliquid."
+  },
+  {
+    "repo": "ucsandman/marketing-studio",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "Agent-driven marketing studio for Claude Code: one /marketing command renders your product's full launch asset suite (logo reveal, demo, launch video, social clips, OG assets)"
+  },
+  {
+    "repo": "raheemxghumman/DBD-AutoGrind-Trainer-2026",
+    "branch": "main",
+    "language": "Python",
+    "description": "Ultimate Dead by Daylight auto-grind trainer with Bloodpoint bot, ESP wallhack, aimbot, and full perk/skin unlocker. Dominate the Fog with our 2026 undetected external tool."
+  },
+  {
+    "repo": "lightningnull/Discord_Auto-Reaction___Moderation_Bot",
+    "branch": "main",
+    "language": "Python",
+    "description": "Automatically add reactions to messages and perform basic moderation (delete spam, warn users) on Discord servers."
+  },
+  {
+    "repo": "shivaansh0610-LUFFY/Group_Policy_Editor__GUI_",
+    "branch": "main",
+    "language": "Python",
+    "description": "Graphical interface for Windows Group Policy settings. Easily enable/disable policies without digging through the registry. Great for system admins."
+  },
+  {
+    "repo": "TonyGuo30/PDF_Editor_Suite",
+    "branch": "main",
+    "language": "Python",
+    "description": "Merge, split, compress, and watermark PDF files. Combine PDFs, split pages, reduce file size, add text/image watermark. Complete PDF solution."
+  },
+  {
+    "repo": "AdilMir1433/DBD-AutoGrind-Trainer-2026-Plus",
+    "branch": "main",
+    "language": "Python",
+    "description": "Ultimate Dead by Daylight auto-grind trainer Plus edition with Bloodpoint bot, ESP wallhack, aimbot, and full perk/skin unlocker. Dominate the Fog with our 2026 undetected external tool."
+  },
+  {
+    "repo": "brunch/brunch",
+    "branch": "master",
+    "language": "JavaScript",
+    "description": "🍴 Web applications made easy. Since 2011."
+  },
+  {
+    "repo": "offchainthoughts/Amber",
+    "branch": "main",
+    "language": "Python",
+    "description": "Bank the expensive compute once, then carry it offline as a single file that can prove it is what it claims to be."
   }
 ]

@@ -1,8 +1,8 @@
 {
-  "repo": "iremcnar/loveYou",
+  "repo": "Gentleman-Programming/gentle-dot",
   "branch": "main",
-  "language": "Python",
-  "description": "A featured project on GitHubTree.",
-  "stars": 171,
-  "forks": 34
+  "language": "TypeScript",
+  "description": "A personal assistant that lives on your desktop, remembers what matters, and can use your Mac for you.",
+  "stars": 168,
+  "forks": 31
 }
