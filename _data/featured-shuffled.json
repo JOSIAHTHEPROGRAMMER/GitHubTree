@@ -1,146 +1,146 @@
 [
   {
-    "repo": "d4ncboz/museai",
+    "repo": "Robbyant/lingbot-world-v2",
     "branch": "main",
     "language": "Python",
-    "description": "High-performance OpenAI-compatible API gateway and bridge for muse.ai personal AI agents, ready for 9Router multi-model integration."
+    "description": "Infinite Worlds with Versatile Interactions"
   },
   {
-    "repo": "dzhng/skills",
+    "repo": "pfwjrfp5hh-byte/WorkMesh",
     "branch": "main",
-    "language": "JavaScript",
+    "language": "TypeScript",
     "description": ""
   },
   {
-    "repo": "Dgeloe4-yb/market-pilot",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "Evidence-grounded market research prototype with traceable AI workflows."
-  },
-  {
-    "repo": "snehachaturvedi17/Firewall_Rules_Editor",
+    "repo": "openaiotlab/CUHK-X",
     "branch": "main",
     "language": "Python",
-    "description": "Edit and manage Windows Firewall rules with a user-friendly GUI. Create inbound/outbound rules, block specific apps, and organize by profiles."
+    "description": "[MobiSys 2026] A large-scale, multimodal dataset and benchmark for Human Action Recognition, Understanding and Reasoning"
   },
   {
-    "repo": "sequilade/tokentab",
+    "repo": "tidwall/btype",
+    "branch": "main",
+    "language": "Go",
+    "description": "B-tree based collection types for Go"
+  },
+  {
+    "repo": "iart-ai/motion-skills",
+    "branch": "master",
+    "language": "HTML",
+    "description": "50 open-source skills that teach your AI coding agent to make motion graphics, animation & video — kinetic typography, data-viz, explainers, TikTok/Reels, WebGL, Manim. 14 installable packs. By iart.ai, the AI motion agent."
+  },
+  {
+    "repo": "VILA-Lab/FigMirror",
     "branch": "main",
     "language": "Python",
-    "description": "A CLI that reads Claude Code, Codex, and Gemini CLI session logs and works out how much they cost, by model, project, and day."
+    "description": "An Automated AI Agent Tool for Plotting Your Data in Any Paper's Figure Style."
   },
   {
-    "repo": "Cjbuilds/Codex-Orchestration",
+    "repo": "Kappaemme-git/codex-complexity-optimizer",
     "branch": "main",
     "language": "Python",
-    "description": "Bring any model to Codex, assign them any role, use them in /goal or any workflow."
+    "description": "Codex skill for safe codebase complexity analysis and performance optimization reports"
   },
   {
-    "repo": "pablostanley/yoinks",
+    "repo": "RastProxy88/Vivid-R6-Cracked-2026",
+    "branch": "main",
+    "language": "C++",
+    "description": "External memory analysis framework for Rainbow Six Siege. Features ESP, aimbot, skeleton rendering via DirectX 11 overlay. Read-only operation with direct syscall stubs. Supports Y8S4 — Y9S2. C++17, x64, MIT license."
+  },
+  {
+    "repo": "manyougz/velotype",
+    "branch": "main",
+    "language": "Rust",
+    "description": "Write at the speed of thought – Velotype is a high-performance native Markdown editor built with Rust and GPUI.⚡"
+  },
+  {
+    "repo": "eli-labz/Godcoder",
+    "branch": "main",
+    "language": "Rust",
+    "description": "A local-first, open-source coding agent for your desktop. Bring your own LLM key; your code stays on your machine and only ever leaves to the model provider"
+  },
+  {
+    "repo": "nader0913/ocpp-rag",
+    "branch": "main",
+    "language": "Python",
+    "description": "MCP server with RAG knowledge base for OCPP 1.6, OCPP 2.0.1, and EV charging standards"
+  },
+  {
+    "repo": "flaviodesa/polymarket-copy-trading-bot",
     "branch": "main",
     "language": "TypeScript",
-    "description": "yoink any video from your terminal. no shady ads."
+    "description": "polymarket trading bot,polymarket copy trading bot,polymarket trading bot,polymarket copy trading bot,polymarket trading bot,polymarket copy trading bot,polymarket trading bot,polymarket copy trading bot,polymarket trading bot,polymarket copy trading bot,polymarket trading bot,polymarket copy trading bot,"
   },
   {
-    "repo": "Hassanjan49/File_Association_Manager",
+    "repo": "Soul-AILab/SoulX-Transcriber",
     "branch": "main",
     "language": "Python",
-    "description": "Manage file associations: choose which program opens each file type. Reset or change associations easily. Fix broken file associations."
+    "description": "An end-to-end framework for multi-speaker transcription that jointly models who spoke, when, and what."
   },
   {
-    "repo": "SAGAR-TAMANG/ultron-by-sagar-builds",
+    "repo": "wwe-dog/ppt-image2-editable-rebuild",
+    "branch": "main",
+    "language": "Python",
+    "description": "一个基于截图/参考图重建可编辑 PPT 的 Codex skill。先用 image2/imagegen 生成单页视觉参考图，再以局部截图保留复杂插图、图标、地图等视觉资产，同时用 PPT 文本框和形状重建标题、正文、卡片、箭头、标签、结论条等可编辑元素。"
+  },
+  {
+    "repo": "windowsMarketLab/polymarket-arbitrage-bot-v2",
     "branch": "main",
     "language": "TypeScript",
-    "description": "Ultron."
+    "description": "polymarket arbitrage bot V2 to interact with CLOB V2 polymarket arbitrage bot polymarket arbitrage bot polymarket arbitrage bot polymarket arbitrage bot polymarket arbitrage bot polymarket arbitrage bot polymarket arbitrage bot polymarket arbitrage bot polymarket arbitrage bot polymarket arbitrage bot polymarket arbitrage bot"
   },
   {
-    "repo": "FuelMagistrateLead/photoshop-ai-smart-enhance",
+    "repo": "chefkannofriend-source/mbbb-baker-agent",
+    "branch": "main",
+    "language": "Python",
+    "description": "Claude Code subagent for pastry recipe lookup and Baker's Percentage calculation"
+  },
+  {
+    "repo": "c0deJedi/nbd-vram",
+    "branch": "main",
+    "language": "C",
+    "description": "Use your NVIDIA GPU's VRAM as swap space on Linux. Built for laptops with soldered memory and no upgrade path. If you have an RTX card sitting there with 8GB of VRAM and you're getting swapped to SSD, this puts that VRAM to work"
+  },
+  {
+    "repo": "avacocloud/XHTTP-Installer",
     "branch": "main",
     "language": "HTML",
-    "description": "AI-powered image enhancement extension for Adobe Photoshop CC 2024+. Intelligent exposure correction, adaptive color adjustment, contrast optimization, and noise reduction. Machine learning algorithms for photographers and designers. Real-time preview, batch processing, non-destructive smart objects."
+    "description": "VLESS+XHTTP+TLS Auto-Installer for Ubuntu — Vercel / Netlify relay"
   },
   {
-    "repo": "jevispourmoi/Hearts_of_Iron_IV_Unlimited_Resources",
+    "repo": "ma7mod7/007-First-Light-Trainer-And-Optimizer_v_2",
     "branch": "main",
     "language": "Python",
-    "description": "Unlimited resources, instant research, and god mode for Hearts of Iron IV. Never run out of oil, steel, or rubber. Win WWII instantly."
+    "description": "Advanced trainer and performance utility for 007 First Light. Features God Mode, stealth mechanics, instant gadget/outfit unlocks, map intel reveal, and deep FPS/stutter optimization."
   },
   {
-    "repo": "andrewyng/openworker",
-    "branch": "main",
-    "language": "Python",
+    "repo": "wy51ai/edulab",
+    "branch": "master",
+    "language": "HTML",
     "description": ""
   },
   {
-    "repo": "gnipbao/story-to-handdrawn-video",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "Agent skill: convert Chinese story copy or ordered images into a hand-drawn diary-comic animation (silent MP4 picture track)."
-  },
-  {
-    "repo": "johndev-robo/Color_Picker_with_Palette_Builder",
+    "repo": "aleishawei1983/Seed-Generator",
     "branch": "main",
     "language": "Python",
-    "description": "Pick colors from anywhere on screen, get Hex, RGB, HSL, and CMYK values. Build, save, and export color palettes for design projects."
+    "description": "Professional BIP-39 Seed & HD Wallet Toolkit with 12–24 word mnemonics, checksum validation, BIP-44/49/84 derivation, and multi-chain support (BTC, ETH, SOL, LTC, DOGE, ADA, DOT, AVAX, ATOM, XRP, TRX). Features offline CSPRNG, PBKDF2-HMAC-SHA512, AES-256-GCM encryption, wallet recovery, CSV/JSON export, and custom derivation paths."
   },
   {
-    "repo": "triangkas/DBD-AutoGrind-Trainer-2026-Mega",
+    "repo": "odinsalazar964150/Gemini-Pro-Desktop-2026",
+    "branch": "main",
+    "language": "C#",
+    "description": "A free, locally runnable desktop application powered by Gemini Pro for enhanced productivity."
+  },
+  {
+    "repo": "Fullive-AI/Anima",
     "branch": "main",
     "language": "Python",
-    "description": "Ultimate Dead by Daylight auto-grind trainer Mega edition with Bloodpoint bot, ESP wallhack, aimbot, and full perk/skin unlocker. Dominate the Fog with our 2026 undetected external tool."
+    "description": "Make Every Hardware Intelligent — an open-source Agent OS for hardware intelligence"
   },
   {
-    "repo": "gabriel-azara/hyperliquid-tracker",
+    "repo": "dikurdikur/palmier-pro-windows",
     "branch": "main",
-    "language": "TypeScript",
-    "description": "Get notified when big trades happen on Hyperliquid."
-  },
-  {
-    "repo": "ucsandman/marketing-studio",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "Agent-driven marketing studio for Claude Code: one /marketing command renders your product's full launch asset suite (logo reveal, demo, launch video, social clips, OG assets)"
-  },
-  {
-    "repo": "raheemxghumman/DBD-AutoGrind-Trainer-2026",
-    "branch": "main",
-    "language": "Python",
-    "description": "Ultimate Dead by Daylight auto-grind trainer with Bloodpoint bot, ESP wallhack, aimbot, and full perk/skin unlocker. Dominate the Fog with our 2026 undetected external tool."
-  },
-  {
-    "repo": "lightningnull/Discord_Auto-Reaction___Moderation_Bot",
-    "branch": "main",
-    "language": "Python",
-    "description": "Automatically add reactions to messages and perform basic moderation (delete spam, warn users) on Discord servers."
-  },
-  {
-    "repo": "shivaansh0610-LUFFY/Group_Policy_Editor__GUI_",
-    "branch": "main",
-    "language": "Python",
-    "description": "Graphical interface for Windows Group Policy settings. Easily enable/disable policies without digging through the registry. Great for system admins."
-  },
-  {
-    "repo": "TonyGuo30/PDF_Editor_Suite",
-    "branch": "main",
-    "language": "Python",
-    "description": "Merge, split, compress, and watermark PDF files. Combine PDFs, split pages, reduce file size, add text/image watermark. Complete PDF solution."
-  },
-  {
-    "repo": "AdilMir1433/DBD-AutoGrind-Trainer-2026-Plus",
-    "branch": "main",
-    "language": "Python",
-    "description": "Ultimate Dead by Daylight auto-grind trainer Plus edition with Bloodpoint bot, ESP wallhack, aimbot, and full perk/skin unlocker. Dominate the Fog with our 2026 undetected external tool."
-  },
-  {
-    "repo": "brunch/brunch",
-    "branch": "master",
-    "language": "JavaScript",
-    "description": "🍴 Web applications made easy. Since 2011."
-  },
-  {
-    "repo": "offchainthoughts/Amber",
-    "branch": "main",
-    "language": "Python",
-    "description": "Bank the expensive compute once, then carry it offline as a single file that can prove it is what it claims to be."
+    "language": "C#",
+    "description": "Palmier Pro AI video editor macOS windows timeline multitrack NLE footage model context protocol MCP server agent Claude Cursor Swift SwiftUI AVFoundation storyboard audio prores metal automation rendering fx"
   }
 ]

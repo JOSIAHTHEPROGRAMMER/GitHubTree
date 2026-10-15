@@ -1,8 +1,8 @@
 {
-  "repo": "Gentleman-Programming/gentle-dot",
+  "repo": "savinglighting/dsh-sd-bridge-guard",
   "branch": "main",
-  "language": "TypeScript",
-  "description": "A personal assistant that lives on your desktop, remembers what matters, and can use your Mac for you.",
-  "stars": 168,
-  "forks": 31
+  "language": "JavaScript",
+  "description": "dsh-sd-bridge-guard插件已发布，可以帮你完善提示词，提高图片质量，并做到dsh无限制生图",
+  "stars": 167,
+  "forks": 13
 }
