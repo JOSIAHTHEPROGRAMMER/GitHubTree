@@ -1,8 +1,8 @@
 {
-  "repo": "BaruqueRodrigues/llm-legislativo",
+  "repo": "jonwheatley/pixel-path",
   "branch": "main",
-  "language": "Python",
-  "description": "Corpus legislativo brasileiro em larga escala e modelo Transformer causal treinado do zero em PyTorch puro.",
-  "stars": 204,
-  "forks": 23
+  "language": "JavaScript",
+  "description": "Turn any two places into a pixel-art fly-through of the real road. A Claude Code skill.",
+  "stars": 194,
+  "forks": 12
 }

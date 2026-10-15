@@ -1,146 +1,146 @@
 [
   {
-    "repo": "canwhite/MicroRAG",
+    "repo": "moltlaunch/cashclaw",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "An autonomous agent that takes work, does work, gets paid, and gets better at it."
+  },
+  {
+    "repo": "danilo-znamerovszkij/draw-your-font",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "Turn a photo of your handwriting into a real font (TTF/WOFF/WOFF2) - free, open source, no uploads. Node CLI + Claude Code skill."
+  },
+  {
+    "repo": "symfony/symfony",
+    "branch": "7.1",
+    "language": "PHP",
+    "description": "The Symfony PHP framework"
+  },
+  {
+    "repo": "vercel/pkg",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "Package your Node.js project into an executable"
+  },
+  {
+    "repo": "material-components/material-components-web",
+    "branch": "master",
+    "language": "TypeScript",
+    "description": "Modular and customizable Material Design UI components for the web"
+  },
+  {
+    "repo": "androidx/androidx",
+    "branch": "androidx-main",
+    "language": "Kotlin",
+    "description": "Development environment for Android Jetpack extension libraries under the androidx namespace. Synchronized with Android Jetpack's primary development branch on AOSP."
+  },
+  {
+    "repo": "rancher/rancher",
+    "branch": "master",
+    "language": "Go",
+    "description": "Complete container management platform"
+  },
+  {
+    "repo": "k3s-io/k3s",
+    "branch": "master",
+    "language": "Go",
+    "description": "Lightweight Kubernetes"
+  },
+  {
+    "repo": "actions/upload-artifact",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Upload artifacts from your workflow"
+  },
+  {
+    "repo": "elastic/kibana",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Your window into all of your data"
+  },
+  {
+    "repo": "pinterest/ktlint",
+    "branch": "master",
+    "language": "Kotlin",
+    "description": "An anti-bikeshedding Kotlin linter with built-in formatter"
+  },
+  {
+    "repo": "ClickHouse/ClickHouse",
+    "branch": "master",
+    "language": "C++",
+    "description": "ClickHouse® is a real-time analytics database management system"
+  },
+  {
+    "repo": "vuejs/vue",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "This is the repo for Vue 2. For Vue 3, go to https://github.com/vuejs/core"
+  },
+  {
+    "repo": "pandas-dev/pandas",
     "branch": "main",
     "language": "Python",
-    "description": "The minimal implementation of rag"
+    "description": "Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures similar to R data.frame objects, statistical functions, and much more"
   },
   {
-    "repo": "dashkit-protocol/polymarket-arbitrage-bot",
+    "repo": "pnpm/pnpm",
     "branch": "main",
     "language": "TypeScript",
-    "description": "polymarket arbitrage bot, polymarket arbitrage bot, polymarket arbitrage bot, polymarket arbitrage bot, polymarket arbitrage bot, polymarket arbitrage bot, polymarket arbitrage bot, polymarket arbitrage bot, polymarket arbitrage bot, polymarket arbitrage bot, polymarket arbitrage bot, polymarket arbitrage bot, polymarket arbitrage bot"
+    "description": "Fast, disk space efficient package manager"
   },
   {
-    "repo": "Resinat/Resin",
-    "branch": "master",
-    "language": "Go",
-    "description": "A high-performance proxy pool gateway. Turn massive proxy subscriptions into a stable, smart, and observable network with sticky sessions."
-  },
-  {
-    "repo": "NikolayS/pgque",
+    "repo": "Norman-bury/articlewriting-skill",
     "branch": "main",
-    "language": "PLpgSQL",
-    "description": "PgQue – Zero-bloat Postgres queue. One SQL file to install, pg_cron to tick."
+    "language": "Python",
+    "description": "科研写作助手 (Research Writing Assistant)"
   },
   {
-    "repo": "nhevers/MoltBrain",
+    "repo": "TriangleMagistrate/lovable-openclaw",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "lovable-openclaw — a macOS bootstrap CLI for Lovable. Installs, configures, and verifies a complete development environment in one command."
+  },
+  {
+    "repo": "terausss/Polymarket-Kalshi-Arbitrage-Bot",
+    "branch": "main",
+    "language": "Rust",
+    "description": "polymarket-kalshi-arbitrage-bot polymarket arbitrage bot kalshi-arbitrage bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot"
+  },
+  {
+    "repo": "jupyterlab/jupyterlab",
     "branch": "main",
     "language": "TypeScript",
-    "description": "Long-term memory layer for OpenClaw & MoltBook agents that learns and recalls your project context automatically."
+    "description": "JupyterLab computational environment."
   },
   {
-    "repo": "crossplane/crossplane",
-    "branch": "master",
-    "language": "Go",
-    "description": "The Cloud Native Control Plane"
+    "repo": "WenyuChiou/awesome-agentic-ai-zh",
+    "branch": "main",
+    "language": "Python",
+    "description": "AI Agent 中文學習地圖 — 從零開始的結構化學習路徑，每階段有必做練習跟必修閱讀。三語對照（繁中／简中／English）。歡迎社群一起貢獻、優化內容。"
   },
   {
-    "repo": "kubernetes-sigs/kind",
+    "repo": "hashicorp/nomad",
     "branch": "main",
     "language": "Go",
-    "description": "Kubernetes IN Docker - local clusters for testing Kubernetes"
+    "description": "Nomad is an easy-to-use, flexible, and performant workload orchestrator that can deploy a mix of microservice, batch, containerized, and non-containerized applications. Nomad is easy to operate and scale and has native Consul and Vault integrations."
   },
   {
-    "repo": "PinchToDebug/EverythingQuickSearch",
-    "branch": "master",
-    "language": "C#",
+    "repo": "EvoLinkAI/awesome-gpt-image-2-prompts",
+    "branch": "main",
+    "language": "Python",
+    "description": "Curated GPT-Image-2 prompts and image examples across portraits, posters, UI mockups, character sheets, and community experiments."
+  },
+  {
+    "repo": "PiNetwork/SmartContracts",
+    "branch": "main",
+    "language": "Rust",
     "description": ""
   },
   {
-    "repo": "e10nMa2k/cc-mini",
+    "repo": "KKKKhazix/Khazix-Skills",
     "branch": "main",
     "language": "Python",
-    "description": "mini version of claude code"
-  },
-  {
-    "repo": "primefaces/primereact",
-    "branch": "master",
-    "language": "CSS",
-    "description": "The Most Complete React UI Component Library"
-  },
-  {
-    "repo": "NVIDIA/NeMo",
-    "branch": "main",
-    "language": "Python",
-    "description": "A scalable generative AI framework built for researchers and developers working on Large Language Models, Multimodal, and Speech AI (Automatic Speech Recognition and Text-to-Speech)"
-  },
-  {
-    "repo": "primefaces/primeng",
-    "branch": "master",
-    "language": "TypeScript",
-    "description": "The Most Complete Angular UI Component Library"
-  },
-  {
-    "repo": "refinedev/refine",
-    "branch": "master",
-    "language": "TypeScript",
-    "description": "A React Framework for building  internal tools, admin panels, dashboards & B2B apps with unmatched flexibility."
-  },
-  {
-    "repo": "shareAI-lab/claw0",
-    "branch": "main",
-    "language": "Python",
-    "description": "0 - 1 learn OpenClaw: sections to build an claw-AI agent from scratch"
-  },
-  {
-    "repo": "cosmos/cosmos-sdk",
-    "branch": "main",
-    "language": "Go",
-    "description": ":chains: A Framework for Building High Value Public Blockchains :sparkles:"
-  },
-  {
-    "repo": "mukul975/cve-mcp-server",
-    "branch": "main",
-    "language": "Python",
-    "description": "Production-grade MCP server giving Claude 27 security intelligence tools across 21 APIs — CVE lookup, EPSS scoring, CISA KEV, MITRE ATT&CK, Shodan, VirusTotal, and more."
-  },
-  {
-    "repo": "chakra-ui/chakra-ui",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Chakra UI is a component system for building SaaS products with speed ⚡️"
-  },
-  {
-    "repo": "PaperGuru-AI/PaperGuru-Benchmark",
-    "branch": "main",
-    "language": "TeX",
-    "description": "Lifecycle-Aware Memory for long-horizon LLM agents — 66.05% on PaperBench, 94.66% on SurveyBench, 10 peer-reviewed acceptances at FSE/ICML/TOSEM/AEI/ICoGB"
-  },
-  {
-    "repo": "roboflow/rf-detr",
-    "branch": "main",
-    "language": "Python",
-    "description": "RF-DETR is a real-time object detection and segmentation model architecture developed by Roboflow, SOTA on COCO and designed for fine-tuning."
-  },
-  {
-    "repo": "MoonshotAI/FlashKDA",
-    "branch": "master",
-    "language": "Cuda",
-    "description": "FlashKDA: high-performance Kimi Delta Attention kernels"
-  },
-  {
-    "repo": "gar212/VoidStrap-Roblox",
-    "branch": "main",
-    "language": "C++",
-    "description": "VoidStrap Roblox download bootstrapper launcher custom client optimization tools FPS unlocker utility scripts framework desktop app update manager setup installer repository."
-  },
-  {
-    "repo": "ChainSafe/lodestar",
-    "branch": "stable",
-    "language": "TypeScript",
-    "description": "🌟 Ethereum Consensus client for the Zig and TypeScript ecosystem"
-  },
-  {
-    "repo": "restic/restic",
-    "branch": "master",
-    "language": "Go",
-    "description": "Fast, secure, efficient backup program"
-  },
-  {
-    "repo": "lens-protocol/lens-protocol",
-    "branch": "main",
-    "language": "Solidity",
-    "description": "The Lens Protocol"
+    "description": ""
   }
 ]
