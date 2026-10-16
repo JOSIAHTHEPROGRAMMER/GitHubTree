@@ -1,8 +1,8 @@
 {
-  "repo": "zehraakar424-lgtm/wallet-core-web",
+  "repo": "MiniBandit/MKW-3DS",
   "branch": "main",
-  "language": "JavaScript",
-  "description": "A featured project on GitHubTree.",
-  "stars": 213,
-  "forks": 1
+  "language": "C++",
+  "description": "Mario Kart Wii for 3DS: a native port continued from dudewhat's original. Builds a CIA from your own disc (Mac & Windows).",
+  "stars": 185,
+  "forks": 11
 }

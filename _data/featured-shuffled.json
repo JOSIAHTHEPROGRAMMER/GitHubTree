@@ -1,15 +1,39 @@
 [
   {
-    "repo": "deepseek-ai/DeepSeek-Math",
+    "repo": "hehehai/voxt",
     "branch": "main",
-    "language": "Python",
-    "description": "DeepSeekMath: Pushing the Limits of Mathematical Reasoning in Open Language Models"
+    "language": "Swift",
+    "description": "[Beta] Voice input and translation app for macOS. Press to talk, release to paste."
   },
   {
-    "repo": "bubblesslayyer-cmd/Awesome-GPT-Image-2-OpenAi",
+    "repo": "egmalt/house-planner",
     "branch": "main",
     "language": "TypeScript",
-    "description": "The Definitive GPT Image 2 Prompt Vault — Master OpenAI's next-gen model with curated prompts for pixel-perfect text, consistent characters, and professional-grade assets. Optimized for creators and developers."
+    "description": "Self-hosted house planner: true-scale 2D floor plan, 3D, satellite map overlay, sewer, electrical, water and underfloor heating with calculations, priced bill of materials. React + PHP, no database. By the team behind homedesignsai.pro"
+  },
+  {
+    "repo": "brendanhogan/hermitclaw",
+    "branch": "main",
+    "language": "Python",
+    "description": ""
+  },
+  {
+    "repo": "node-fetch/node-fetch",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "A light-weight module that brings the Fetch API to Node.js"
+  },
+  {
+    "repo": "webpack/webpack",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "A bundler for javascript and friends. Packs many modules into a few bundled assets. Code Splitting allows for loading parts of the application on demand. Through loaders, modules can be CommonJs, AMD, ES6 modules, CSS, Images, JSON, Coffeescript, LESS, ... and your custom stuff."
+  },
+  {
+    "repo": "flairNLP/flair",
+    "branch": "master",
+    "language": "Python",
+    "description": "A very simple framework for state-of-the-art Natural Language Processing (NLP)"
   },
   {
     "repo": "statsmodels/statsmodels",
@@ -18,129 +42,105 @@
     "description": "Statsmodels: statistical modeling and econometrics in Python"
   },
   {
-    "repo": "longhorn/longhorn",
+    "repo": "ethereumjs/ethereumjs-monorepo",
     "branch": "master",
-    "language": "Shell",
-    "description": "Cloud-Native distributed storage built on and for Kubernetes"
+    "language": "TypeScript",
+    "description": "Ethereum L1 Protocol Stack and EVM in TypeScript"
   },
   {
-    "repo": "fabro-sh/fabro",
+    "repo": "rabbitmq/rabbitmq-server",
     "branch": "main",
+    "language": "JavaScript",
+    "description": "Open source RabbitMQ: core server and tier 1 (built-in) plugins"
+  },
+  {
+    "repo": "huggingface/peft",
+    "branch": "main",
+    "language": "Python",
+    "description": "🤗 PEFT: State-of-the-art Parameter-Efficient Fine-Tuning."
+  },
+  {
+    "repo": "ngrx/platform",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Reactive State for Angular"
+  },
+  {
+    "repo": "google/guava",
+    "branch": "master",
+    "language": "Java",
+    "description": "Google core libraries for Java"
+  },
+  {
+    "repo": "rustdesk/rustdesk",
+    "branch": "master",
     "language": "Rust",
-    "description": "⚒️ The open source dark software factory for expert engineers."
+    "description": "An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer."
   },
   {
-    "repo": "chenhg5/cc-connect",
+    "repo": "elastic/elasticsearch",
     "branch": "main",
-    "language": "Go",
-    "description": "Bridge local AI coding agents (Claude Code, Cursor, Gemini CLI, Codex) to messaging platforms (Feishu/Lark, DingTalk, Slack, Telegram, Discord, LINE, WeChat Work). Chat with your AI dev assistant from anywhere — no public IP required for most platforms."
+    "language": "Java",
+    "description": "Free and Open Source, Distributed, RESTful Search Engine"
   },
   {
-    "repo": "stanford-oval/storm",
-    "branch": "main",
-    "language": "Python",
-    "description": "An LLM-powered knowledge curation system that researches a topic and generates a full-length report with citations."
+    "repo": "doctrine/orm",
+    "branch": "3.2.x",
+    "language": "PHP",
+    "description": "Doctrine Object Relational Mapper (ORM)"
   },
   {
-    "repo": "arenaasd/DBD-AutoGrind-Trainer-2026",
-    "branch": "main",
-    "language": "Python",
-    "description": "Ultimate Dead by Daylight auto-grind trainer with Bloodpoint bot, ESP wallhack, aimbot, and full perk/skin unlocker. Dominate the Fog with our 2026 undetected external tool."
-  },
-  {
-    "repo": "peteromallet/dataclaw",
-    "branch": "main",
-    "language": "Python",
-    "description": ""
-  },
-  {
-    "repo": "jaegertracing/jaeger",
-    "branch": "main",
-    "language": "Go",
-    "description": "CNCF Jaeger, a Distributed Tracing Platform"
-  },
-  {
-    "repo": "tensorflow/agents",
-    "branch": "master",
-    "language": "Python",
-    "description": "TF-Agents: A reliable, scalable and easy to use TensorFlow library for Contextual Bandits and Reinforcement Learning."
-  },
-  {
-    "repo": "codeaashu/claude-code",
+    "repo": "microsoft/playwright",
     "branch": "main",
     "language": "TypeScript",
-    "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands."
+    "description": "Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API."
   },
   {
-    "repo": "formik/formik",
+    "repo": "pytorch/vision",
     "branch": "main",
-    "language": "TypeScript",
-    "description": "Build forms in React, without the tears 😭"
-  },
-  {
-    "repo": "lovisdotio/falsprite",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "Generate animated sprite sheets from a text prompt. Powered by Nano-banana-2, BRIA & OpenRouter on fal.ai, one API key."
-  },
-  {
-    "repo": "prometheus/client_python",
-    "branch": "master",
     "language": "Python",
-    "description": "Prometheus instrumentation library for Python applications"
+    "description": "Datasets, Transforms and Models specific to Computer Vision"
   },
   {
-    "repo": "open-telemetry/opentelemetry-collector",
+    "repo": "pandas-dev/pandas",
     "branch": "main",
-    "language": "Go",
-    "description": "OpenTelemetry Collector"
+    "language": "Python",
+    "description": "Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures similar to R data.frame objects, statistical functions, and much more"
   },
   {
-    "repo": "rollup/rollup",
+    "repo": "mmazzarolo/react-native-modal-datetime-picker",
     "branch": "master",
     "language": "JavaScript",
-    "description": "Next-generation ES module bundler"
+    "description": "A React-Native datetime-picker for Android and iOS"
   },
   {
-    "repo": "elastic/kibana",
+    "repo": "software-mansion/react-native-screens",
     "branch": "main",
     "language": "TypeScript",
-    "description": "Your window into all of your data"
+    "description": "Native navigation primitives for your React Native app."
   },
   {
-    "repo": "adamveld12/ghost",
-    "branch": "main",
-    "language": "Shell",
-    "description": "Git is the coding agent"
-  },
-  {
-    "repo": "teamchong/turboquant-wasm",
-    "branch": "main",
-    "language": "Zig",
-    "description": "TurboQuant WASM SIMD vector compression — 3 bits/dim with fast dot product. Requires relaxed SIMD (Chrome 114+, Firefox 128+, Safari 18+, Node 20+)"
-  },
-  {
-    "repo": "vmware-tanzu/velero",
-    "branch": "main",
+    "repo": "nsqio/nsq",
+    "branch": "master",
     "language": "Go",
-    "description": "Backup and migrate Kubernetes applications and their persistent volumes"
+    "description": "A realtime distributed messaging platform"
   },
   {
-    "repo": "OmniSVG/OmniSVG",
+    "repo": "gradio-app/gradio",
     "branch": "main",
     "language": "Python",
-    "description": "[NeurIPS 2025] OmniSVG is the first family of end-to-end multimodal SVG generators that leverage pre-trained Vision-Language Models (VLMs), capable of generating complex and detailed SVGs, from simple icons to intricate anime characters."
+    "description": "Build and share delightful machine learning apps, all in Python. 🌟 Star to support our work!"
   },
   {
-    "repo": "Lakr233/vphone-cli",
-    "branch": "main",
+    "repo": "plotly/plotly.py",
+    "branch": "master",
     "language": "Python",
-    "description": ""
+    "description": "The interactive graphing library for Python :sparkles:"
   },
   {
-    "repo": "skottrun/extrateto",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Dashboard público que expõe supersalários do Judiciário brasileiro acima do teto constitucional"
+    "repo": "deepfakes/faceswap",
+    "branch": "master",
+    "language": "Python",
+    "description": "Deepfakes Software For All"
   }
 ]
