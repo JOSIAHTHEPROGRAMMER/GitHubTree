@@ -1,146 +1,146 @@
 [
   {
-    "repo": "mariagorskikh/open-instinct",
+    "repo": "deepseek-ai/DeepSeek-Math",
+    "branch": "main",
+    "language": "Python",
+    "description": "DeepSeekMath: Pushing the Limits of Mathematical Reasoning in Open Language Models"
+  },
+  {
+    "repo": "bubblesslayyer-cmd/Awesome-GPT-Image-2-OpenAi",
     "branch": "main",
     "language": "TypeScript",
-    "description": "Open Instinct: an open-source Instinct. A personal agent you text on iMessage, with its own computer and a trusted network of other agents. Built on Pi, Inkbox, Maritime and Composio."
+    "description": "The Definitive GPT Image 2 Prompt Vault — Master OpenAI's next-gen model with curated prompts for pixel-perfect text, consistent characters, and professional-grade assets. Optimized for creators and developers."
   },
   {
-    "repo": "smallnest/autoresearch",
+    "repo": "statsmodels/statsmodels",
+    "branch": "main",
+    "language": "Python",
+    "description": "Statsmodels: statistical modeling and econometrics in Python"
+  },
+  {
+    "repo": "longhorn/longhorn",
     "branch": "master",
     "language": "Shell",
-    "description": "autoresearch for software development"
+    "description": "Cloud-Native distributed storage built on and for Kubernetes"
   },
   {
-    "repo": "rustwasm/wasm-bindgen",
+    "repo": "fabro-sh/fabro",
     "branch": "main",
     "language": "Rust",
-    "description": "Facilitating high-level interactions between Wasm modules and JavaScript"
+    "description": "⚒️ The open source dark software factory for expert engineers."
   },
   {
-    "repo": "sanketagarwal/hyperliquid-trading-agent",
-    "branch": "master",
-    "language": "Python",
-    "description": ""
-  },
-  {
-    "repo": "wy51ai/moltbotCNAPP",
+    "repo": "chenhg5/cc-connect",
     "branch": "main",
     "language": "Go",
+    "description": "Bridge local AI coding agents (Claude Code, Cursor, Gemini CLI, Codex) to messaging platforms (Feishu/Lark, DingTalk, Slack, Telegram, Discord, LINE, WeChat Work). Chat with your AI dev assistant from anywhere — no public IP required for most platforms."
+  },
+  {
+    "repo": "stanford-oval/storm",
+    "branch": "main",
+    "language": "Python",
+    "description": "An LLM-powered knowledge curation system that researches a topic and generates a full-length report with citations."
+  },
+  {
+    "repo": "arenaasd/DBD-AutoGrind-Trainer-2026",
+    "branch": "main",
+    "language": "Python",
+    "description": "Ultimate Dead by Daylight auto-grind trainer with Bloodpoint bot, ESP wallhack, aimbot, and full perk/skin unlocker. Dominate the Fog with our 2026 undetected external tool."
+  },
+  {
+    "repo": "peteromallet/dataclaw",
+    "branch": "main",
+    "language": "Python",
     "description": ""
   },
   {
-    "repo": "luccast/crabwalk",
-    "branch": "master",
-    "language": "TypeScript",
-    "description": "🦀 Crabwalk 🦀 Real-time companion monitor for Clawdbot agents."
-  },
-  {
-    "repo": "apache/beam",
-    "branch": "master",
-    "language": "Java",
-    "description": "Apache Beam is a unified programming model for Batch and Streaming data processing."
-  },
-  {
-    "repo": "InfinityLoop1308/PipePipe-X",
-    "branch": "main",
-    "language": "Shell",
-    "description": "Modern designed PipePipe"
-  },
-  {
-    "repo": "wenqingyu/ralphy-openspec",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Ralph loop + OpenSpec integration for Cursor, OpenCode and ClaudeCode heavy lifting."
-  },
-  {
-    "repo": "pithings/coderaft",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "🛶 Run VS Code on any machine anywhere and access it in the browser (25MB npm pkg)"
-  },
-  {
-    "repo": "lightseekorg/tokenspeed",
-    "branch": "main",
-    "language": "Python",
-    "description": "TokenSpeed is a speed-of-light LLM inference engine."
-  },
-  {
-    "repo": "j3h4ck/PoisonKiller",
-    "branch": "main",
-    "language": "C++",
-    "description": "Another BYOVD process killer. works on CrowdStrike. fully signed."
-  },
-  {
-    "repo": "tendermint/tendermint",
+    "repo": "jaegertracing/jaeger",
     "branch": "main",
     "language": "Go",
-    "description": "⟁ Tendermint Core (BFT Consensus) in Go"
+    "description": "CNCF Jaeger, a Distributed Tracing Platform"
   },
   {
-    "repo": "win4r/team-tasks",
+    "repo": "tensorflow/agents",
     "branch": "master",
     "language": "Python",
-    "description": "Multi-agent pipeline coordination: Linear, DAG, and Debate modes for AI agent orchestration"
+    "description": "TF-Agents: A reliable, scalable and easy to use TensorFlow library for Contextual Bandits and Reinforcement Learning."
   },
   {
-    "repo": "DoomVoss/BASpark",
-    "branch": "main",
-    "language": "C#",
-    "description": "基于 HTML5/Canvas 深度复刻《蔚蓝档案》UI 风格动效的 Windows 鼠标特效工具 || A Windows mouse effect tool reconstructing Blue Archive UI style using HTML5/Canvas"
-  },
-  {
-    "repo": "uton88/dan-binary-releases",
-    "branch": "main",
-    "language": "Shell",
-    "description": "Public binary-only releases and install scripts for dan"
-  },
-  {
-    "repo": "AFahim02/House-Flipper-2-Multiplayer",
-    "branch": "main",
-    "language": "C++",
-    "description": "House Flipper Free For PC Multiplayer 2026 is the complete unlocked Windows version of the popular house renovation simulator with full multiplayer support. Buy, renovate, decorate and sell houses with unlimited money and all DLCs included. Now you can flip houses together with friends in co-op mode."
-  },
-  {
-    "repo": "win4r/free-code",
+    "repo": "codeaashu/claude-code",
     "branch": "main",
     "language": "TypeScript",
-    "description": "Published from https://github.com/paoloanzn/free-code; independent public mirror due GitHub fork-network limits."
+    "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands."
   },
   {
-    "repo": "SentiAvatar/SentiAvatar",
+    "repo": "formik/formik",
     "branch": "main",
-    "language": "Python",
-    "description": ""
+    "language": "TypeScript",
+    "description": "Build forms in React, without the tears 😭"
   },
   {
-    "repo": "Whit1985/Binance-Futures-Signal-Bot",
-    "branch": "main",
-    "language": "Python",
-    "description": "Professional automated trading bot for Binance and Bybit Futures markets with multi-strategy engine and real-time P&L dashboard."
-  },
-  {
-    "repo": "frckeepit/llm-production-toolkit",
-    "branch": "main",
-    "language": "Python",
-    "description": "Production-ready toolkit for evaluating, monitoring, and ensuring safety of LLM deployments. Hallucination detection, bias evaluation, feedback loops, and production readiness assessment."
-  },
-  {
-    "repo": "ZeroAd-06/MAACodex",
+    "repo": "lovisdotio/falsprite",
     "branch": "main",
     "language": "JavaScript",
+    "description": "Generate animated sprite sheets from a text prompt. Powered by Nano-banana-2, BRIA & OpenRouter on fal.ai, one API key."
+  },
+  {
+    "repo": "prometheus/client_python",
+    "branch": "master",
+    "language": "Python",
+    "description": "Prometheus instrumentation library for Python applications"
+  },
+  {
+    "repo": "open-telemetry/opentelemetry-collector",
+    "branch": "main",
+    "language": "Go",
+    "description": "OpenTelemetry Collector"
+  },
+  {
+    "repo": "rollup/rollup",
+    "branch": "master",
+    "language": "JavaScript",
+    "description": "Next-generation ES module bundler"
+  },
+  {
+    "repo": "elastic/kibana",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Your window into all of your data"
+  },
+  {
+    "repo": "adamveld12/ghost",
+    "branch": "main",
+    "language": "Shell",
+    "description": "Git is the coding agent"
+  },
+  {
+    "repo": "teamchong/turboquant-wasm",
+    "branch": "main",
+    "language": "Zig",
+    "description": "TurboQuant WASM SIMD vector compression — 3 bits/dim with fast dot product. Requires relaxed SIMD (Chrome 114+, Firefox 128+, Safari 18+, Node 20+)"
+  },
+  {
+    "repo": "vmware-tanzu/velero",
+    "branch": "main",
+    "language": "Go",
+    "description": "Backup and migrate Kubernetes applications and their persistent volumes"
+  },
+  {
+    "repo": "OmniSVG/OmniSVG",
+    "branch": "main",
+    "language": "Python",
+    "description": "[NeurIPS 2025] OmniSVG is the first family of end-to-end multimodal SVG generators that leverage pre-trained Vision-Language Models (VLMs), capable of generating complex and detailed SVGs, from simple icons to intricate anime characters."
+  },
+  {
+    "repo": "Lakr233/vphone-cli",
+    "branch": "main",
+    "language": "Python",
     "description": ""
   },
   {
-    "repo": "date-fns/date-fns",
+    "repo": "skottrun/extrateto",
     "branch": "main",
     "language": "TypeScript",
-    "description": "⏳ Modern JavaScript date utility library ⌛️"
-  },
-  {
-    "repo": "patterniha/SNI-Spoofing",
-    "branch": "main",
-    "language": "Python",
-    "description": "Bypass DPI with IP/TCP-Header manipulation"
+    "description": "Dashboard público que expõe supersalários do Judiciário brasileiro acima do teto constitucional"
   }
 ]
