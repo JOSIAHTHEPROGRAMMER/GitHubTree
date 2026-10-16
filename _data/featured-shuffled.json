@@ -1,75 +1,15 @@
 [
   {
-    "repo": "moltlaunch/cashclaw",
+    "repo": "sunny-glow/Auto-BenchMax",
+    "branch": "main",
+    "language": "Python",
+    "description": ""
+  },
+  {
+    "repo": "CopilotKit/OpenGenerativeUI",
     "branch": "main",
     "language": "TypeScript",
-    "description": "An autonomous agent that takes work, does work, gets paid, and gets better at it."
-  },
-  {
-    "repo": "danilo-znamerovszkij/draw-your-font",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "Turn a photo of your handwriting into a real font (TTF/WOFF/WOFF2) - free, open source, no uploads. Node CLI + Claude Code skill."
-  },
-  {
-    "repo": "symfony/symfony",
-    "branch": "7.1",
-    "language": "PHP",
-    "description": "The Symfony PHP framework"
-  },
-  {
-    "repo": "vercel/pkg",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "Package your Node.js project into an executable"
-  },
-  {
-    "repo": "material-components/material-components-web",
-    "branch": "master",
-    "language": "TypeScript",
-    "description": "Modular and customizable Material Design UI components for the web"
-  },
-  {
-    "repo": "androidx/androidx",
-    "branch": "androidx-main",
-    "language": "Kotlin",
-    "description": "Development environment for Android Jetpack extension libraries under the androidx namespace. Synchronized with Android Jetpack's primary development branch on AOSP."
-  },
-  {
-    "repo": "rancher/rancher",
-    "branch": "master",
-    "language": "Go",
-    "description": "Complete container management platform"
-  },
-  {
-    "repo": "k3s-io/k3s",
-    "branch": "master",
-    "language": "Go",
-    "description": "Lightweight Kubernetes"
-  },
-  {
-    "repo": "actions/upload-artifact",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Upload artifacts from your workflow"
-  },
-  {
-    "repo": "elastic/kibana",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Your window into all of your data"
-  },
-  {
-    "repo": "pinterest/ktlint",
-    "branch": "master",
-    "language": "Kotlin",
-    "description": "An anti-bikeshedding Kotlin linter with built-in formatter"
-  },
-  {
-    "repo": "ClickHouse/ClickHouse",
-    "branch": "master",
-    "language": "C++",
-    "description": "ClickHouse® is a real-time analytics database management system"
+    "description": "Open-Source Generative UI Framework"
   },
   {
     "repo": "vuejs/vue",
@@ -78,69 +18,129 @@
     "description": "This is the repo for Vue 2. For Vue 3, go to https://github.com/vuejs/core"
   },
   {
-    "repo": "pandas-dev/pandas",
-    "branch": "main",
-    "language": "Python",
-    "description": "Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures similar to R data.frame objects, statistical functions, and much more"
-  },
-  {
-    "repo": "pnpm/pnpm",
+    "repo": "kewonit/aeris",
     "branch": "main",
     "language": "TypeScript",
-    "description": "Fast, disk space efficient package manager"
+    "description": "Aeris is a real-time 3D flight radar for the web"
   },
   {
-    "repo": "Norman-bury/articlewriting-skill",
+    "repo": "sdkman/sdkman-cli",
+    "branch": "master",
+    "language": "Gherkin",
+    "description": "The SDKMAN! Command Line Interface"
+  },
+  {
+    "repo": "dotnet/efcore",
+    "branch": "main",
+    "language": "C#",
+    "description": "EF Core is a modern object-database mapper for .NET. It supports LINQ queries, change tracking, updates, and schema migrations."
+  },
+  {
+    "repo": "daltoniam/Starscream",
+    "branch": "master",
+    "language": "Swift",
+    "description": "Websockets in swift for iOS and OSX"
+  },
+  {
+    "repo": "open-telemetry/opentelemetry-python",
     "branch": "main",
     "language": "Python",
-    "description": "科研写作助手 (Research Writing Assistant)"
+    "description": "OpenTelemetry Python API and SDK"
   },
   {
-    "repo": "TriangleMagistrate/lovable-openclaw",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "lovable-openclaw — a macOS bootstrap CLI for Lovable. Installs, configures, and verifies a complete development environment in one command."
-  },
-  {
-    "repo": "terausss/Polymarket-Kalshi-Arbitrage-Bot",
-    "branch": "main",
-    "language": "Rust",
-    "description": "polymarket-kalshi-arbitrage-bot polymarket arbitrage bot kalshi-arbitrage bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot"
-  },
-  {
-    "repo": "jupyterlab/jupyterlab",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "JupyterLab computational environment."
-  },
-  {
-    "repo": "WenyuChiou/awesome-agentic-ai-zh",
-    "branch": "main",
-    "language": "Python",
-    "description": "AI Agent 中文學習地圖 — 從零開始的結構化學習路徑，每階段有必做練習跟必修閱讀。三語對照（繁中／简中／English）。歡迎社群一起貢獻、優化內容。"
-  },
-  {
-    "repo": "hashicorp/nomad",
+    "repo": "kubernetes-sigs/kind",
     "branch": "main",
     "language": "Go",
-    "description": "Nomad is an easy-to-use, flexible, and performant workload orchestrator that can deploy a mix of microservice, batch, containerized, and non-containerized applications. Nomad is easy to operate and scale and has native Consul and Vault integrations."
+    "description": "Kubernetes IN Docker - local clusters for testing Kubernetes"
   },
   {
-    "repo": "EvoLinkAI/awesome-gpt-image-2-prompts",
+    "repo": "mosaxiv/clawlet",
     "branch": "main",
+    "language": "Go",
+    "description": "Lightweight Personal AI Assistant"
+  },
+  {
+    "repo": "prometheus/client_python",
+    "branch": "master",
     "language": "Python",
-    "description": "Curated GPT-Image-2 prompts and image examples across portraits, posters, UI mockups, character sheets, and community experiments."
+    "description": "Prometheus instrumentation library for Python applications"
   },
   {
-    "repo": "PiNetwork/SmartContracts",
+    "repo": "rancher/rancher",
+    "branch": "master",
+    "language": "Go",
+    "description": "Complete container management platform"
+  },
+  {
+    "repo": "iamzifei/bookmark-is-learned",
     "branch": "main",
-    "language": "Rust",
+    "language": "JavaScript",
+    "description": "收藏到就是学到，解决光收藏不看的问题。收藏的当下立刻学习或者丢弃"
+  },
+  {
+    "repo": "argoproj/argo-cd",
+    "branch": "master",
+    "language": "Go",
+    "description": "Declarative Continuous Deployment for Kubernetes"
+  },
+  {
+    "repo": "docker/buildx",
+    "branch": "master",
+    "language": "Go",
+    "description": "Docker CLI plugin for extended build capabilities with BuildKit"
+  },
+  {
+    "repo": "antirez/qwen-asr",
+    "branch": "main",
+    "language": "C",
+    "description": "C inference for Qwen3-ASR 0.6b and 1.7b transcriptions models"
+  },
+  {
+    "repo": "apache/beam",
+    "branch": "master",
+    "language": "Java",
+    "description": "Apache Beam is a unified programming model for Batch and Streaming data processing."
+  },
+  {
+    "repo": "vakovalskii/codedash",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "Termius-style browser dashboard for Claude Code & Codex sessions. View, search, resume, tag, and manage all your AI coding sessions."
+  },
+  {
+    "repo": "Zouuup/landrun",
+    "branch": "main",
+    "language": "Go",
+    "description": "Run any Linux process in a secure, unprivileged sandbox using Landlock. Think firejail, but lightweight, user-friendly, and baked into the kernel."
+  },
+  {
+    "repo": "yohey-w/multi-agent-shogun",
+    "branch": "main",
+    "language": "Shell",
     "description": ""
   },
   {
-    "repo": "KKKKhazix/Khazix-Skills",
+    "repo": "apkclaw-team/ApkClaw",
+    "branch": "main",
+    "language": "Kotlin",
+    "description": ""
+  },
+  {
+    "repo": "agentscope-ai/CoPaw",
     "branch": "main",
     "language": "Python",
-    "description": ""
+    "description": "Your Personal AI Assistant; easy to install, deploy on your own machine or on the cloud; supports multiple chat apps with easily extensible capabilities."
+  },
+  {
+    "repo": "FlowTrader-Labs/polymarket-trading-bot",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "polymarket trading bot polymarket copy trading bot polymarket trading bot polymarket copy trading bot polymarket trading bot polymarket copy trading bot polymarket trading bot polymarket copy trading bot polymarket trading bot polymarket copy trading bot polymarket trading bot polymarket copy trading bot"
+  },
+  {
+    "repo": "cathrynlavery/diagram-design",
+    "branch": "main",
+    "language": "HTML",
+    "description": "Thirteen editorial diagram types for Claude Code. Self-contained HTML + SVG. No shadows, no Mermaid-slop."
   }
 ]
