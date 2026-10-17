@@ -1,146 +1,146 @@
 [
   {
-    "repo": "Vincentwei1021/mg-styles-15",
+    "repo": "azura64bit/Hardware_Info_Viewer",
     "branch": "main",
     "language": "Python",
-    "description": "15 motion design styles, each made by Claude Opus 5.5 writing code from one prompt: watch the films, copy the prompts, read the full source."
+    "description": "Display detailed hardware information: CPU, motherboard, RAM, GPU, storage, and peripherals. More detailed than built-in system info."
   },
   {
-    "repo": "JuneYaooo/nihaixia-tcm",
+    "repo": "zubair-trabzada/ai-legal-claude",
     "branch": "main",
     "language": "Python",
-    "description": "倪海厦中医课程资料的 Agent Skill：支持课程检索、方证穴位辨析、学习笔记整理与板书截图证据索引。 |  An Agent Skill for Ni Haixia TCM course study, formula-pattern lookup, acupoint reference, and screenshot evidence indexing."
+    "description": "AI Legal Assistant skill for Claude Code. Contract review, risk analysis, NDA generation, compliance auditing, negotiation strategy, and PDF reports — 14 skills, 5 parallel agents. If you want to learn how to sell this to real businesses, check out the Skool community"
   },
   {
-    "repo": "Klotzkette/claude-fuer-deutsches-recht",
+    "repo": "RyanCodrai/py-turboquant",
     "branch": "main",
     "language": "Python",
-    "description": "⚠️ Experimentelle Skill-Sammlung für deutsches Recht (Arbeits-, Gesellschafts-, Insolvenz-, Datenschutz-, Prozessrecht u.a.) – inzwischen verbessert und im Alltag getestet, aber weiterhin Experiment. Bitte selber ausprobieren, Issues/PRs willkommen! Keine Rechtsberatung. Mandatsgeheimnis (§§ 203/204 StGB, § 43e BRAO), DSGVO, US-Transfer, KI-VO & Co"
-  },
-  {
-    "repo": "zhouyoukang1234-spec/windsurf-assistant",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "A fully decentralized Windsurf assistant &mdash; **一气化三清 · 道并行而不悖** · 印 65 三清立 · 印 101 大道至简 · **印 ∞ 道法自然推进到底·★ 对照 tab 默见·左 A/B 双路·中 WAM 无感** · 反者道之动 · 为道日损."
-  },
-  {
-    "repo": "arbitrageBot-group/Polymarket-trading-bot",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "polymarket copy trading bot polymarket arbitrage bot, polymarket copy trading bot polymarket arbitrage bot, polymarket copy trading bot polymarket arbitrage bot, polymarket copy trading bot polymarket arbitrage bot, polymarket copy trading bot polymarket arbitrage bot, polymarket copy trading bot polymarket  bot,"
-  },
-  {
-    "repo": "rafaelmateo123/Arena-of-Autonomous-Threads",
-    "branch": "main",
-    "language": "HTML",
-    "description": "Top AI Agent Simulator: Build a Local Reddit Forum for LLM Testing 2026"
-  },
-  {
-    "repo": "sagarbabu9/Docker_Container_Manager",
-    "branch": "main",
-    "language": "Python",
-    "description": "Manage Docker containers, images, volumes, and networks with a simple GUI. Start, stop, restart, and view logs. Perfect for local development."
-  },
-  {
-    "repo": "Volumetenrectify/ae-motion-compiler",
-    "branch": "main",
-    "language": "HTML",
-    "description": "Motion graphics automation framework for Adobe After Effects CC 2024+. Procedural keyframe generation, expression-based animation control, layer automation, and batch rendering. Scripting tools for animators and motion designers. Includes keyframe generators, expression builders, and render automation."
-  },
-  {
-    "repo": "asz798838958/FrciblyK12",
-    "branch": "main",
-    "language": "Python",
-    "description": "多线程全自动注册free 强上K12空间"
-  },
-  {
-    "repo": "deltabarbershopofficial-cloud/DBD-AutoGrind-Trainer-2026-Max",
-    "branch": "main",
-    "language": "Python",
-    "description": "Ultimate Dead by Daylight auto-grind trainer Max edition with Bloodpoint bot, ESP wallhack, aimbot, and full perk/skin unlocker. Dominate the Fog with our 2026 undetected external tool."
-  },
-  {
-    "repo": "GOROman/famicom-rf-hackrf-decoder",
-    "branch": "main",
-    "language": "C++",
     "description": ""
   },
   {
-    "repo": "paraschopra/make-pages-interactive",
+    "repo": "VexedWilosn/AetherSwap",
     "branch": "main",
-    "language": "JavaScript",
+    "language": "Python",
+    "description": "⚗️ AetherSwap：全自动、零代码配置的 Steam 低价余额助手。提供现代化可视化 Web 控制台，基于数学模型智能选品，实现从买入到全自动上架的无人值守交易。"
+  },
+  {
+    "repo": "SamNet-dev/dnstm-setup",
+    "branch": "master",
+    "language": "Shell",
+    "description": "Interactive setup wizard for dnstm — automated DNS-based network configuration"
+  },
+  {
+    "repo": "Alex-Gilbert/unredact",
+    "branch": "main",
+    "language": "Python",
     "description": ""
   },
   {
-    "repo": "x4gKing/Marzban-Node",
+    "repo": "blader/taskmaster",
     "branch": "main",
-    "language": "Dockerfile",
-    "description": ""
+    "language": "Shell",
+    "description": "Stop hook for Claude Code that keeps the agent working until all plans and user requests are 100% complete"
   },
   {
-    "repo": "eli-labz/Agent-Execution-Partnership",
-    "branch": "main",
-    "language": "Python",
-    "description": "Agent Execution Partnership AEE is an open-source control plane that ensures every AI agent action is authorized before it runs, observable while it runs, and verifiable after it completes."
-  },
-  {
-    "repo": "geode-gd/Geode-Geometry-Dash",
-    "branch": "main",
-    "language": "C++",
-    "description": "geode geometry dash geode download mod loader geometry dash modding gd geode framework mods index custom textures installer download link windows 11 macos android desktop utility setup guide installation tutorial troubleshooting crash fix performance optimization steam integration"
-  },
-  {
-    "repo": "OpenYSMDev/OpenYSM",
-    "branch": "main",
-    "language": "Java",
-    "description": "A mod that modifies the vanilla player model"
-  },
-  {
-    "repo": "dimasarestuprasmanto/Pet-Simulator-99-Auto-Farm-Trainer-2026-Gold",
-    "branch": "main",
-    "language": "Python",
-    "description": "Maximize your efficiency in Pet Simulator 99 with the Gold auto trainer. From coin collection to Backrooms League rewards, everything is automated. Safe and undetectable."
-  },
-  {
-    "repo": "RongleCat/grok-go",
-    "branch": "main",
-    "language": "Rust",
-    "description": "Local multi-account Grok gateway for Codex (API + MCP). 本地多账号 Grok 网关，面向 Codex。"
-  },
-  {
-    "repo": "NVIDIA-NeMo/labs-OO-Agents",
-    "branch": "main",
-    "language": "Python",
-    "description": "labs-OO-agents"
-  },
-  {
-    "repo": "ailinone/collective-intelligence",
+    "repo": "sanbuphy/claude-code-source-code",
     "branch": "main",
     "language": "TypeScript",
-    "description": "Ailin¹ is an open-source collective intelligence engine where tens of thousands of AI models collaborate through dozens of coordination strategies, applying structured diversity and independent reasoning to improve reliability, auditability, and resilience."
+    "description": "Claude Code v2.1.88 Source Code"
   },
   {
-    "repo": "OpenPatchLab/polymarket-weather-trading-bot",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "polymarket weather bot polymarket weather trading bot weather bot polymarket weather bot polymarket weather trading bot weather bot polymarket weather bot polymarket weather trading bot weather bot polymarket weather bot polymarket weather trading bot weather bot polymarket weather bot polymarket weather trading bot weather bot"
-  },
-  {
-    "repo": "LearnPrompt/cc-harness-skills",
+    "repo": "0xSero/turboquant",
     "branch": "main",
     "language": "Python",
-    "description": "Portable CC-inspired skills for memory, verification, multi-agent coordination, context compression, and proactive coding-agent workflows."
+    "description": "TurboQuant: Near-optimal KV cache quantization for LLM inference (3-bit keys, 2-bit values) with Triton kernels + vLLM integration"
   },
   {
-    "repo": "TsingmaoAI/xw-cli",
+    "repo": "hashicorp/vagrant",
+    "branch": "main",
+    "language": "Ruby",
+    "description": "Vagrant is a tool for building and distributing development environments."
+  },
+  {
+    "repo": "hashicorp/vault",
     "branch": "main",
     "language": "Go",
-    "description": "实现国产算力大模型零门槛部署，一键跑通 Qwen、GLM-4.7、Minimax-2.1、DeepSeek-OCR 等模型"
+    "description": "A tool for secrets management, encryption as a service, and privileged access management"
   },
   {
-    "repo": "stanford-oval/storm",
+    "repo": "yetone/voice-input-dist",
+    "branch": "main",
+    "language": "Swift",
+    "description": ""
+  },
+  {
+    "repo": "es617/claude-replay",
+    "branch": "main",
+    "language": "HTML",
+    "description": "Community tool to convert Claude Code session transcripts into self-contained, embeddable HTML replays"
+  },
+  {
+    "repo": "symfony/symfony",
+    "branch": "7.1",
+    "language": "PHP",
+    "description": "The Symfony PHP framework"
+  },
+  {
+    "repo": "rivet-dev/antiox",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Rust- and Tokio-like async primitives for TypeScript."
+  },
+  {
+    "repo": "airbnb/javascript",
+    "branch": "master",
+    "language": "JavaScript",
+    "description": "JavaScript Style Guide"
+  },
+  {
+    "repo": "agarrharr/awesome-cli-apps",
+    "branch": "main",
+    "language": "Shell",
+    "description": "🖥 📊 🕹 🛠 A curated list of command line apps"
+  },
+  {
+    "repo": "coleam00/second-brain-skills",
     "branch": "main",
     "language": "Python",
-    "description": "An LLM-powered knowledge curation system that researches a topic and generates a full-length report with citations."
+    "description": "A collection of Claude Skills to turn Claude Code into a Second Brain"
+  },
+  {
+    "repo": "finvfamily/finshare",
+    "branch": "main",
+    "language": "Python",
+    "description": "专业的金融数据获取工具库 - A Professional Financial Data Fetching Toolkit for   Python"
+  },
+  {
+    "repo": "Myhhub/Stock",
+    "branch": "main",
+    "language": "Python",
+    "description": "stock股票.获取股票数据,计算股票指标,筹码分布,识别股票形态,综合选股,选股策略,股票验证回测,股票自动交易,支持PC及移动设备。"
+  },
+  {
+    "repo": "nushell/nushell",
+    "branch": "main",
+    "language": "Rust",
+    "description": "A new type of shell"
+  },
+  {
+    "repo": "sass/sass",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Sass makes CSS fun!"
+  },
+  {
+    "repo": "spool-lab/spool",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "The missing search engine for your own data."
+  },
+  {
+    "repo": "MuhammadHananAsghar/wormhole",
+    "branch": "main",
+    "language": "Go",
+    "description": "Open-source ngrok alternative. Expose your localhost to the internet with one command. Built with Go + Cloudflare Workers."
   }
 ]
