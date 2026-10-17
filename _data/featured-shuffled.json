@@ -1,146 +1,146 @@
 [
   {
-    "repo": "yutat23/lsoff",
-    "branch": "main",
-    "language": "Go",
-    "description": "CLI / TUI that lists listening TCP/UDP ports"
-  },
-  {
-    "repo": "Jia-Ethan/claude-keysmith",
+    "repo": "Vincentwei1021/mg-styles-15",
     "branch": "main",
     "language": "Python",
-    "description": "Claude Code CLAUDE.md import-block installer for local instruction files"
+    "description": "15 motion design styles, each made by Claude Opus 5.5 writing code from one prompt: watch the films, copy the prompts, read the full source."
   },
   {
-    "repo": "KorroAi/drunk-claude",
-    "branch": "master",
-    "language": "TeX",
-    "description": "Drunk Claude : intensity slider (0.1 tipsy to 1.0 blackout), 5 moods, 8 creative techniques. The unfiltered genius skill for Claude Code. MIT."
-  },
-  {
-    "repo": "daimon3332/OutlookManage",
+    "repo": "JuneYaooo/nihaixia-tcm",
     "branch": "main",
     "language": "Python",
-    "description": "Outlook/Hotmail local account management WebUI supports batch account import, status detection (alive/banned), token refresh and synchronization.Outlook / Hotmail 本地账号管理 WebUI，支持账号批量导入、状态检测（存活/封禁）、令牌刷新与同步。"
+    "description": "倪海厦中医课程资料的 Agent Skill：支持课程检索、方证穴位辨析、学习笔记整理与板书截图证据索引。 |  An Agent Skill for Ni Haixia TCM course study, formula-pattern lookup, acupoint reference, and screenshot evidence indexing."
   },
   {
-    "repo": "ma7mod7/Honkai_Star_Rail_Auto-Farm",
+    "repo": "Klotzkette/claude-fuer-deutsches-recht",
     "branch": "main",
     "language": "Python",
-    "description": "Auto-farm, auto-battle, and relic farming for Honkai Star Rail. Farm materials, level up characters, and complete simulated universe."
+    "description": "⚠️ Experimentelle Skill-Sammlung für deutsches Recht (Arbeits-, Gesellschafts-, Insolvenz-, Datenschutz-, Prozessrecht u.a.) – inzwischen verbessert und im Alltag getestet, aber weiterhin Experiment. Bitte selber ausprobieren, Issues/PRs willkommen! Keine Rechtsberatung. Mandatsgeheimnis (§§ 203/204 StGB, § 43e BRAO), DSGVO, US-Transfer, KI-VO & Co"
   },
   {
-    "repo": "r51536391/nhentai-enhanced",
-    "branch": "main",
-    "language": "HTML",
-    "description": "The Best nhentai Unofficial Frontend & Companion Tool 2026"
-  },
-  {
-    "repo": "generaltech094-create/bamboo-hr-employee-flow",
-    "branch": "main",
-    "language": "HTML",
-    "description": "BambooHR Performance Manager 2026: Track Goals & Automate HR Workflows"
-  },
-  {
-    "repo": "LUPUL64348/NTE-cheat",
-    "branch": "main",
-    "language": "C#",
-    "description": "nte Neverness To Everness cheat download pc auto fish ray tracing bot teleport esp speedhack  macro script unlocker config windows 11"
-  },
-  {
-    "repo": "ignatobarez/Jailbreak_-_Auto-Robbery___Teleport",
-    "branch": "main",
-    "language": "Python",
-    "description": "Auto-robbery and teleport for Jailbreak, the classic prison escape game with 7.9 billion visits[reference:25]. Automatically rob stores, escape prison, and earn millions."
-  },
-  {
-    "repo": "aayushgames19-hash/claude-gateway-manager",
-    "branch": "main",
-    "language": "HTML",
-    "description": "Best Tenbin AI Proxy for Anthropic Opus 4.8 & Sonnet 4.6 API Access 2026"
-  },
-  {
-    "repo": "optiscalerclient/optiscaler-client",
-    "branch": "main",
-    "language": "C#",
-    "description": "optiscaler client fsr4  github download 007 first light optiscaler  dlss enabler forza horizon 6 optiscaler  lossless scaling manager upscaling tool dlss fsr xess frame generation nukemfg fakenvapi steam mod installation guide tutorial linux"
-  },
-  {
-    "repo": "MrCAT-in/Grand_Theft_Auto_V_Online_Money_Maker",
-    "branch": "main",
-    "language": "Python",
-    "description": "Automated heists, car duping, and RP farming for GTA Online. Complete heists effortlessly, duplicate high-end vehicles, and earn millions safely."
-  },
-  {
-    "repo": "dockur/proxmox",
-    "branch": "master",
-    "language": "Shell",
-    "description": "Proxmox inside a Docker container."
-  },
-  {
-    "repo": "suyancc/openai-plus-vxt",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "一个基于 WXT 的浏览器插件，用于辅助 ChatGPT 注册、Checkout 链接提取、随机地址资料生成，以及 OpenAI/PayPal 支付页资料自动填写。"
-  },
-  {
-    "repo": "thillygooth/questboard",
+    "repo": "zhouyoukang1234-spec/windsurf-assistant",
     "branch": "main",
     "language": "JavaScript",
-    "description": "A gamified family chore tracker built with React, FastAPI, and Docker. Family members claim daily and weekly chores to earn points, then redeem them for real-world rewards. Features per-player profiles, age-appropriate chore filtering, auto daily/weekly resets, and a shared backend for real-time sync across devices."
+    "description": "A fully decentralized Windsurf assistant &mdash; **一气化三清 · 道并行而不悖** · 印 65 三清立 · 印 101 大道至简 · **印 ∞ 道法自然推进到底·★ 对照 tab 默见·左 A/B 双路·中 WAM 无感** · 反者道之动 · 为道日损."
   },
   {
-    "repo": "Brenonunesx/agent-pilot",
+    "repo": "arbitrageBot-group/Polymarket-trading-bot",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "polymarket copy trading bot polymarket arbitrage bot, polymarket copy trading bot polymarket arbitrage bot, polymarket copy trading bot polymarket arbitrage bot, polymarket copy trading bot polymarket arbitrage bot, polymarket copy trading bot polymarket arbitrage bot, polymarket copy trading bot polymarket  bot,"
+  },
+  {
+    "repo": "rafaelmateo123/Arena-of-Autonomous-Threads",
     "branch": "main",
     "language": "HTML",
-    "description": "AI Agent Toolkit 2026: Smart Device Control for iOS & Android"
+    "description": "Top AI Agent Simulator: Build a Local Reddit Forum for LLM Testing 2026"
   },
   {
-    "repo": "Polymarket-Trading-kit/crypto-trading-bot",
+    "repo": "sagarbabu9/Docker_Container_Manager",
+    "branch": "main",
+    "language": "Python",
+    "description": "Manage Docker containers, images, volumes, and networks with a simple GUI. Start, stop, restart, and view logs. Perfect for local development."
+  },
+  {
+    "repo": "Volumetenrectify/ae-motion-compiler",
+    "branch": "main",
+    "language": "HTML",
+    "description": "Motion graphics automation framework for Adobe After Effects CC 2024+. Procedural keyframe generation, expression-based animation control, layer automation, and batch rendering. Scripting tools for animators and motion designers. Includes keyframe generators, expression builders, and render automation."
+  },
+  {
+    "repo": "asz798838958/FrciblyK12",
+    "branch": "main",
+    "language": "Python",
+    "description": "多线程全自动注册free 强上K12空间"
+  },
+  {
+    "repo": "deltabarbershopofficial-cloud/DBD-AutoGrind-Trainer-2026-Max",
+    "branch": "main",
+    "language": "Python",
+    "description": "Ultimate Dead by Daylight auto-grind trainer Max edition with Bloodpoint bot, ESP wallhack, aimbot, and full perk/skin unlocker. Dominate the Fog with our 2026 undetected external tool."
+  },
+  {
+    "repo": "GOROman/famicom-rf-hackrf-decoder",
+    "branch": "main",
+    "language": "C++",
+    "description": ""
+  },
+  {
+    "repo": "paraschopra/make-pages-interactive",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": ""
+  },
+  {
+    "repo": "x4gKing/Marzban-Node",
+    "branch": "main",
+    "language": "Dockerfile",
+    "description": ""
+  },
+  {
+    "repo": "eli-labz/Agent-Execution-Partnership",
+    "branch": "main",
+    "language": "Python",
+    "description": "Agent Execution Partnership AEE is an open-source control plane that ensures every AI agent action is authorized before it runs, observable while it runs, and verifiable after it completes."
+  },
+  {
+    "repo": "geode-gd/Geode-Geometry-Dash",
+    "branch": "main",
+    "language": "C++",
+    "description": "geode geometry dash geode download mod loader geometry dash modding gd geode framework mods index custom textures installer download link windows 11 macos android desktop utility setup guide installation tutorial troubleshooting crash fix performance optimization steam integration"
+  },
+  {
+    "repo": "OpenYSMDev/OpenYSM",
+    "branch": "main",
+    "language": "Java",
+    "description": "A mod that modifies the vanilla player model"
+  },
+  {
+    "repo": "dimasarestuprasmanto/Pet-Simulator-99-Auto-Farm-Trainer-2026-Gold",
+    "branch": "main",
+    "language": "Python",
+    "description": "Maximize your efficiency in Pet Simulator 99 with the Gold auto trainer. From coin collection to Backrooms League rewards, everything is automated. Safe and undetectable."
+  },
+  {
+    "repo": "RongleCat/grok-go",
+    "branch": "main",
+    "language": "Rust",
+    "description": "Local multi-account Grok gateway for Codex (API + MCP). 本地多账号 Grok 网关，面向 Codex。"
+  },
+  {
+    "repo": "NVIDIA-NeMo/labs-OO-Agents",
+    "branch": "main",
+    "language": "Python",
+    "description": "labs-OO-agents"
+  },
+  {
+    "repo": "ailinone/collective-intelligence",
     "branch": "main",
     "language": "TypeScript",
-    "description": "crypto trading bot crypto trading bot crypto trading bot crypto trading bot crypto trading bot crypto trading bot crypto trading bot crypto trading bot crypto trading bot crypto trading bot crypto trading bot crypto trading bot crypto trading bot crypto trading bot crypto trading bot crypto trading bot crypto trading bot crypto trading bot crypto"
+    "description": "Ailin¹ is an open-source collective intelligence engine where tens of thousands of AI models collaborate through dozens of coordination strategies, applying structured diversity and independent reasoning to improve reliability, auditability, and resilience."
   },
   {
-    "repo": "PayalJakharRft/GitHub_Stars_Booster",
+    "repo": "OpenPatchLab/polymarket-weather-trading-bot",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "polymarket weather bot polymarket weather trading bot weather bot polymarket weather bot polymarket weather trading bot weather bot polymarket weather bot polymarket weather trading bot weather bot polymarket weather bot polymarket weather trading bot weather bot polymarket weather bot polymarket weather trading bot weather bot"
+  },
+  {
+    "repo": "LearnPrompt/cc-harness-skills",
     "branch": "main",
     "language": "Python",
-    "description": "Boost GitHub repository stars, watches, and forks. Improve project visibility and attract contributors."
+    "description": "Portable CC-inspired skills for memory, verification, multi-agent coordination, context compression, and proactive coding-agent workflows."
   },
   {
-    "repo": "iigxdehuli/Network_Speed_Test___Monitor",
+    "repo": "TsingmaoAI/xw-cli",
+    "branch": "main",
+    "language": "Go",
+    "description": "实现国产算力大模型零门槛部署，一键跑通 Qwen、GLM-4.7、Minimax-2.1、DeepSeek-OCR 等模型"
+  },
+  {
+    "repo": "stanford-oval/storm",
     "branch": "main",
     "language": "Python",
-    "description": "Monitor internet speed, ping, and packet loss in real-time. Test download/upload, monitor latency, detect packet loss, and save results. Troubleshoot your network."
-  },
-  {
-    "repo": "MIKOTOKAWAII25/local-ai-code-assistant",
-    "branch": "main",
-    "language": "HTML",
-    "description": "Local AI Coding Hub: Run Claude Models Offline in 2026"
-  },
-  {
-    "repo": "WUBING2023/PaperSpine",
-    "branch": "main",
-    "language": "Python",
-    "description": "PaperSpine is a motivation-driven Codex skill for learning from strong academic papers, building a paper’s central argument, and rewriting manuscripts through evidence-aware blueprints, revision matrices, and LaTeX-safe audits."
-  },
-  {
-    "repo": "Guess-eng/cli-sonic-harvester",
-    "branch": "main",
-    "language": "HTML",
-    "description": "2026 Spotify to MP3 Converter CLI – High-Speed Terminal Metadata Saver"
-  },
-  {
-    "repo": "dbgucci1017/MT5-Equity-Guardian-Trailing-Pro",
-    "branch": "main",
-    "language": "HTML",
-    "description": "MQL5 Advanced Risk Manager EA 2026 – Breakeven, Trailing Stop & Partial Close"
-  },
-  {
-    "repo": "TonyGuo30/PDF_Editor_Suite",
-    "branch": "main",
-    "language": "Python",
-    "description": "Merge, split, compress, and watermark PDF files. Combine PDFs, split pages, reduce file size, add text/image watermark. Complete PDF solution."
+    "description": "An LLM-powered knowledge curation system that researches a topic and generates a full-length report with citations."
   }
 ]
