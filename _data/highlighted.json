@@ -1,8 +1,8 @@
 {
-  "repo": "OutThisLife/azeroth-survivors-re",
+  "repo": "Denkishi/ssbu-recomp",
   "branch": "main",
-  "language": "Rust",
-  "description": "A survivors roguelite running on a from-scratch World of Warcraft 1.12.1 client engine (Rust + Bevy).",
-  "stars": 190,
-  "forks": 83
+  "language": "C",
+  "description": "Static recompilation of Super Smash Bros. Ultimate 13.0.4 to a native Windows program: tools and runtime only, bring your own dump",
+  "stars": 189,
+  "forks": 26
 }

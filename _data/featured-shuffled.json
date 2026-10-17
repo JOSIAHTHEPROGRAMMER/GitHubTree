@@ -1,146 +1,146 @@
 [
   {
-    "repo": "azura64bit/Hardware_Info_Viewer",
-    "branch": "main",
-    "language": "Python",
-    "description": "Display detailed hardware information: CPU, motherboard, RAM, GPU, storage, and peripherals. More detailed than built-in system info."
-  },
-  {
-    "repo": "zubair-trabzada/ai-legal-claude",
-    "branch": "main",
-    "language": "Python",
-    "description": "AI Legal Assistant skill for Claude Code. Contract review, risk analysis, NDA generation, compliance auditing, negotiation strategy, and PDF reports — 14 skills, 5 parallel agents. If you want to learn how to sell this to real businesses, check out the Skool community"
-  },
-  {
-    "repo": "RyanCodrai/py-turboquant",
-    "branch": "main",
-    "language": "Python",
-    "description": ""
-  },
-  {
-    "repo": "VexedWilosn/AetherSwap",
-    "branch": "main",
-    "language": "Python",
-    "description": "⚗️ AetherSwap：全自动、零代码配置的 Steam 低价余额助手。提供现代化可视化 Web 控制台，基于数学模型智能选品，实现从买入到全自动上架的无人值守交易。"
-  },
-  {
-    "repo": "SamNet-dev/dnstm-setup",
+    "repo": "JexTradesLab/scaling-octo-engine",
     "branch": "master",
-    "language": "Shell",
-    "description": "Interactive setup wizard for dnstm — automated DNS-based network configuration"
+    "language": "TypeScript",
+    "description": ""
   },
   {
-    "repo": "Alex-Gilbert/unredact",
+    "repo": "rainzz-512/Mewgenics-Chinese-Translation",
     "branch": "main",
     "language": "Python",
     "description": ""
   },
   {
-    "repo": "blader/taskmaster",
+    "repo": "sweetalert2/sweetalert2",
     "branch": "main",
-    "language": "Shell",
-    "description": "Stop hook for Claude Code that keeps the agent working until all plans and user requests are 100% complete"
+    "language": "JavaScript",
+    "description": "✨ A beautiful, responsive, highly customizable and accessible (WAI-ARIA) replacement for JavaScript's popup boxes. Zero dependencies. 🇺🇦🇪🇺"
   },
   {
-    "repo": "sanbuphy/claude-code-source-code",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Claude Code v2.1.88 Source Code"
-  },
-  {
-    "repo": "0xSero/turboquant",
-    "branch": "main",
-    "language": "Python",
-    "description": "TurboQuant: Near-optimal KV cache quantization for LLM inference (3-bit keys, 2-bit values) with Triton kernels + vLLM integration"
-  },
-  {
-    "repo": "hashicorp/vagrant",
-    "branch": "main",
-    "language": "Ruby",
-    "description": "Vagrant is a tool for building and distributing development environments."
-  },
-  {
-    "repo": "hashicorp/vault",
-    "branch": "main",
-    "language": "Go",
-    "description": "A tool for secrets management, encryption as a service, and privileged access management"
-  },
-  {
-    "repo": "yetone/voice-input-dist",
-    "branch": "main",
-    "language": "Swift",
-    "description": ""
-  },
-  {
-    "repo": "es617/claude-replay",
-    "branch": "main",
-    "language": "HTML",
-    "description": "Community tool to convert Claude Code session transcripts into self-contained, embeddable HTML replays"
-  },
-  {
-    "repo": "symfony/symfony",
-    "branch": "7.1",
-    "language": "PHP",
-    "description": "The Symfony PHP framework"
-  },
-  {
-    "repo": "rivet-dev/antiox",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Rust- and Tokio-like async primitives for TypeScript."
-  },
-  {
-    "repo": "airbnb/javascript",
+    "repo": "SortableJS/Sortable",
     "branch": "master",
     "language": "JavaScript",
-    "description": "JavaScript Style Guide"
+    "description": "Reorderable drag-and-drop lists for modern browsers and touch devices. No jQuery or framework required."
   },
   {
-    "repo": "agarrharr/awesome-cli-apps",
+    "repo": "golang/tools",
+    "branch": "master",
+    "language": "Go",
+    "description": "[mirror] Go Tools"
+  },
+  {
+    "repo": "wh0amitz/TailVNC",
+    "branch": "master",
+    "language": "Go",
+    "description": "Tailscale-based Windows VNC persistence tool with Session 0 isolation bypass, embedding a full WireGuard peer and RFB server into a single drop-in binary."
+  },
+  {
+    "repo": "Creators-of-Aeronautics/Simulated-Project",
+    "branch": "main",
+    "language": "Java",
+    "description": "Build anything from airships to planes and cars!"
+  },
+  {
+    "repo": "codetrybe/polymarket-kalshi-arbitrage-bot",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "polymarket kalshi arbitrage bot kalshi arbitrage bot kalshi trading bot"
+  },
+  {
+    "repo": "skills/introduction-to-github",
+    "branch": "main",
+    "language": "Other",
+    "description": "Get started using GitHub in less than an hour."
+  },
+  {
+    "repo": "facebook/hermes",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "A JavaScript engine optimized for running React Native."
+  },
+  {
+    "repo": "LaurieWired/tailslayer",
+    "branch": "main",
+    "language": "C++",
+    "description": "Library for reducing tail latency in RAM reads"
+  },
+  {
+    "repo": "JinGuYuan/jinguyuan-dumpling-skill",
+    "branch": "main",
+    "language": "Python",
+    "description": "金谷园饺子馆 AI Skill - 北邮边上的饺子馆"
+  },
+  {
+    "repo": "LeoYeAI/openclaw-backup",
     "branch": "main",
     "language": "Shell",
-    "description": "🖥 📊 🕹 🛠 A curated list of command line apps"
+    "description": "One-click backup & restore for OpenClaw instances — workspace, credentials, skills, agent history. Powered by MyClaw.ai"
   },
   {
-    "repo": "coleam00/second-brain-skills",
+    "repo": "vuejs/awesome-vue",
+    "branch": "master",
+    "language": "Other",
+    "description": "🎉 A curated list of awesome things related to Vue.js"
+  },
+  {
+    "repo": "DovAmir/awesome-design-patterns",
+    "branch": "master",
+    "language": "Other",
+    "description": "A curated list of software and architecture related design patterns."
+  },
+  {
+    "repo": "SAGAR-TAMANG/friday-tony-stark-demo",
     "branch": "main",
     "language": "Python",
-    "description": "A collection of Claude Skills to turn Claude Code into a Second Brain"
+    "description": "Demo of tools of capabilities of Tony Stark."
   },
   {
-    "repo": "finvfamily/finshare",
+    "repo": "agentara/skills",
+    "branch": "main",
+    "language": "HTML",
+    "description": "Original and practical skills for AI builders."
+  },
+  {
+    "repo": "googleapis/google-api-python-client",
     "branch": "main",
     "language": "Python",
-    "description": "专业的金融数据获取工具库 - A Professional Financial Data Fetching Toolkit for   Python"
+    "description": "🐍 The official Python client library for Google's discovery based APIs."
   },
   {
-    "repo": "Myhhub/Stock",
-    "branch": "main",
-    "language": "Python",
-    "description": "stock股票.获取股票数据,计算股票指标,筹码分布,识别股票形态,综合选股,选股策略,股票验证回测,股票自动交易,支持PC及移动设备。"
-  },
-  {
-    "repo": "nushell/nushell",
-    "branch": "main",
-    "language": "Rust",
-    "description": "A new type of shell"
-  },
-  {
-    "repo": "sass/sass",
-    "branch": "main",
+    "repo": "tailwindcss/tailwindcss",
+    "branch": "master",
     "language": "TypeScript",
-    "description": "Sass makes CSS fun!"
+    "description": "A utility-first CSS framework for rapid UI development."
   },
   {
-    "repo": "spool-lab/spool",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "The missing search engine for your own data."
+    "repo": "kubernetes-sigs/kubespray",
+    "branch": "master",
+    "language": "Jinja",
+    "description": "Deploy a Production Ready Kubernetes Cluster"
   },
   {
-    "repo": "MuhammadHananAsghar/wormhole",
+    "repo": "ZRainbow1275/AutoTeam-F",
     "branch": "main",
-    "language": "Go",
-    "description": "Open-source ngrok alternative. Expose your localhost to the internet with one command. Built with Go + Cloudflare Workers."
+    "language": "Python",
+    "description": "参照上游 cnitlrt/AutoTeam 的改善版,重点在于实现免费号批量获得以及改善操作体验 (Fix + Free)"
+  },
+  {
+    "repo": "ircfspace/teleMirror",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "A simple desktop client for viewing Telegram channels, specifically designed for complex filtering environments like Iran"
+  },
+  {
+    "repo": "mshumer/unslop",
+    "branch": "main",
+    "language": "Python",
+    "description": ""
+  },
+  {
+    "repo": "nikzad-avasam/downloader",
+    "branch": "main",
+    "language": "HTML",
+    "description": "for 🇮🇷 🪄 download files + 🌐 browse websites"
   }
 ]
