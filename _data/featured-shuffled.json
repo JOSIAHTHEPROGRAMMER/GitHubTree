@@ -1,146 +1,146 @@
 [
   {
-    "repo": "hehehai/voxt",
+    "repo": "yutat23/lsoff",
     "branch": "main",
-    "language": "Swift",
-    "description": "[Beta] Voice input and translation app for macOS. Press to talk, release to paste."
-  },
-  {
-    "repo": "egmalt/house-planner",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Self-hosted house planner: true-scale 2D floor plan, 3D, satellite map overlay, sewer, electrical, water and underfloor heating with calculations, priced bill of materials. React + PHP, no database. By the team behind homedesignsai.pro"
-  },
-  {
-    "repo": "brendanhogan/hermitclaw",
-    "branch": "main",
-    "language": "Python",
-    "description": ""
-  },
-  {
-    "repo": "node-fetch/node-fetch",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "A light-weight module that brings the Fetch API to Node.js"
-  },
-  {
-    "repo": "webpack/webpack",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "A bundler for javascript and friends. Packs many modules into a few bundled assets. Code Splitting allows for loading parts of the application on demand. Through loaders, modules can be CommonJs, AMD, ES6 modules, CSS, Images, JSON, Coffeescript, LESS, ... and your custom stuff."
-  },
-  {
-    "repo": "flairNLP/flair",
-    "branch": "master",
-    "language": "Python",
-    "description": "A very simple framework for state-of-the-art Natural Language Processing (NLP)"
-  },
-  {
-    "repo": "statsmodels/statsmodels",
-    "branch": "main",
-    "language": "Python",
-    "description": "Statsmodels: statistical modeling and econometrics in Python"
-  },
-  {
-    "repo": "ethereumjs/ethereumjs-monorepo",
-    "branch": "master",
-    "language": "TypeScript",
-    "description": "Ethereum L1 Protocol Stack and EVM in TypeScript"
-  },
-  {
-    "repo": "rabbitmq/rabbitmq-server",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "Open source RabbitMQ: core server and tier 1 (built-in) plugins"
-  },
-  {
-    "repo": "huggingface/peft",
-    "branch": "main",
-    "language": "Python",
-    "description": "🤗 PEFT: State-of-the-art Parameter-Efficient Fine-Tuning."
-  },
-  {
-    "repo": "ngrx/platform",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Reactive State for Angular"
-  },
-  {
-    "repo": "google/guava",
-    "branch": "master",
-    "language": "Java",
-    "description": "Google core libraries for Java"
-  },
-  {
-    "repo": "rustdesk/rustdesk",
-    "branch": "master",
-    "language": "Rust",
-    "description": "An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer."
-  },
-  {
-    "repo": "elastic/elasticsearch",
-    "branch": "main",
-    "language": "Java",
-    "description": "Free and Open Source, Distributed, RESTful Search Engine"
-  },
-  {
-    "repo": "doctrine/orm",
-    "branch": "3.2.x",
-    "language": "PHP",
-    "description": "Doctrine Object Relational Mapper (ORM)"
-  },
-  {
-    "repo": "microsoft/playwright",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API."
-  },
-  {
-    "repo": "pytorch/vision",
-    "branch": "main",
-    "language": "Python",
-    "description": "Datasets, Transforms and Models specific to Computer Vision"
-  },
-  {
-    "repo": "pandas-dev/pandas",
-    "branch": "main",
-    "language": "Python",
-    "description": "Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures similar to R data.frame objects, statistical functions, and much more"
-  },
-  {
-    "repo": "mmazzarolo/react-native-modal-datetime-picker",
-    "branch": "master",
-    "language": "JavaScript",
-    "description": "A React-Native datetime-picker for Android and iOS"
-  },
-  {
-    "repo": "software-mansion/react-native-screens",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Native navigation primitives for your React Native app."
-  },
-  {
-    "repo": "nsqio/nsq",
-    "branch": "master",
     "language": "Go",
-    "description": "A realtime distributed messaging platform"
+    "description": "CLI / TUI that lists listening TCP/UDP ports"
   },
   {
-    "repo": "gradio-app/gradio",
+    "repo": "Jia-Ethan/claude-keysmith",
     "branch": "main",
     "language": "Python",
-    "description": "Build and share delightful machine learning apps, all in Python. 🌟 Star to support our work!"
+    "description": "Claude Code CLAUDE.md import-block installer for local instruction files"
   },
   {
-    "repo": "plotly/plotly.py",
+    "repo": "KorroAi/drunk-claude",
     "branch": "master",
-    "language": "Python",
-    "description": "The interactive graphing library for Python :sparkles:"
+    "language": "TeX",
+    "description": "Drunk Claude : intensity slider (0.1 tipsy to 1.0 blackout), 5 moods, 8 creative techniques. The unfiltered genius skill for Claude Code. MIT."
   },
   {
-    "repo": "deepfakes/faceswap",
-    "branch": "master",
+    "repo": "daimon3332/OutlookManage",
+    "branch": "main",
     "language": "Python",
-    "description": "Deepfakes Software For All"
+    "description": "Outlook/Hotmail local account management WebUI supports batch account import, status detection (alive/banned), token refresh and synchronization.Outlook / Hotmail 本地账号管理 WebUI，支持账号批量导入、状态检测（存活/封禁）、令牌刷新与同步。"
+  },
+  {
+    "repo": "ma7mod7/Honkai_Star_Rail_Auto-Farm",
+    "branch": "main",
+    "language": "Python",
+    "description": "Auto-farm, auto-battle, and relic farming for Honkai Star Rail. Farm materials, level up characters, and complete simulated universe."
+  },
+  {
+    "repo": "r51536391/nhentai-enhanced",
+    "branch": "main",
+    "language": "HTML",
+    "description": "The Best nhentai Unofficial Frontend & Companion Tool 2026"
+  },
+  {
+    "repo": "generaltech094-create/bamboo-hr-employee-flow",
+    "branch": "main",
+    "language": "HTML",
+    "description": "BambooHR Performance Manager 2026: Track Goals & Automate HR Workflows"
+  },
+  {
+    "repo": "LUPUL64348/NTE-cheat",
+    "branch": "main",
+    "language": "C#",
+    "description": "nte Neverness To Everness cheat download pc auto fish ray tracing bot teleport esp speedhack  macro script unlocker config windows 11"
+  },
+  {
+    "repo": "ignatobarez/Jailbreak_-_Auto-Robbery___Teleport",
+    "branch": "main",
+    "language": "Python",
+    "description": "Auto-robbery and teleport for Jailbreak, the classic prison escape game with 7.9 billion visits[reference:25]. Automatically rob stores, escape prison, and earn millions."
+  },
+  {
+    "repo": "aayushgames19-hash/claude-gateway-manager",
+    "branch": "main",
+    "language": "HTML",
+    "description": "Best Tenbin AI Proxy for Anthropic Opus 4.8 & Sonnet 4.6 API Access 2026"
+  },
+  {
+    "repo": "optiscalerclient/optiscaler-client",
+    "branch": "main",
+    "language": "C#",
+    "description": "optiscaler client fsr4  github download 007 first light optiscaler  dlss enabler forza horizon 6 optiscaler  lossless scaling manager upscaling tool dlss fsr xess frame generation nukemfg fakenvapi steam mod installation guide tutorial linux"
+  },
+  {
+    "repo": "MrCAT-in/Grand_Theft_Auto_V_Online_Money_Maker",
+    "branch": "main",
+    "language": "Python",
+    "description": "Automated heists, car duping, and RP farming for GTA Online. Complete heists effortlessly, duplicate high-end vehicles, and earn millions safely."
+  },
+  {
+    "repo": "dockur/proxmox",
+    "branch": "master",
+    "language": "Shell",
+    "description": "Proxmox inside a Docker container."
+  },
+  {
+    "repo": "suyancc/openai-plus-vxt",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "一个基于 WXT 的浏览器插件，用于辅助 ChatGPT 注册、Checkout 链接提取、随机地址资料生成，以及 OpenAI/PayPal 支付页资料自动填写。"
+  },
+  {
+    "repo": "thillygooth/questboard",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "A gamified family chore tracker built with React, FastAPI, and Docker. Family members claim daily and weekly chores to earn points, then redeem them for real-world rewards. Features per-player profiles, age-appropriate chore filtering, auto daily/weekly resets, and a shared backend for real-time sync across devices."
+  },
+  {
+    "repo": "Brenonunesx/agent-pilot",
+    "branch": "main",
+    "language": "HTML",
+    "description": "AI Agent Toolkit 2026: Smart Device Control for iOS & Android"
+  },
+  {
+    "repo": "Polymarket-Trading-kit/crypto-trading-bot",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "crypto trading bot crypto trading bot crypto trading bot crypto trading bot crypto trading bot crypto trading bot crypto trading bot crypto trading bot crypto trading bot crypto trading bot crypto trading bot crypto trading bot crypto trading bot crypto trading bot crypto trading bot crypto trading bot crypto trading bot crypto trading bot crypto"
+  },
+  {
+    "repo": "PayalJakharRft/GitHub_Stars_Booster",
+    "branch": "main",
+    "language": "Python",
+    "description": "Boost GitHub repository stars, watches, and forks. Improve project visibility and attract contributors."
+  },
+  {
+    "repo": "iigxdehuli/Network_Speed_Test___Monitor",
+    "branch": "main",
+    "language": "Python",
+    "description": "Monitor internet speed, ping, and packet loss in real-time. Test download/upload, monitor latency, detect packet loss, and save results. Troubleshoot your network."
+  },
+  {
+    "repo": "MIKOTOKAWAII25/local-ai-code-assistant",
+    "branch": "main",
+    "language": "HTML",
+    "description": "Local AI Coding Hub: Run Claude Models Offline in 2026"
+  },
+  {
+    "repo": "WUBING2023/PaperSpine",
+    "branch": "main",
+    "language": "Python",
+    "description": "PaperSpine is a motivation-driven Codex skill for learning from strong academic papers, building a paper’s central argument, and rewriting manuscripts through evidence-aware blueprints, revision matrices, and LaTeX-safe audits."
+  },
+  {
+    "repo": "Guess-eng/cli-sonic-harvester",
+    "branch": "main",
+    "language": "HTML",
+    "description": "2026 Spotify to MP3 Converter CLI – High-Speed Terminal Metadata Saver"
+  },
+  {
+    "repo": "dbgucci1017/MT5-Equity-Guardian-Trailing-Pro",
+    "branch": "main",
+    "language": "HTML",
+    "description": "MQL5 Advanced Risk Manager EA 2026 – Breakeven, Trailing Stop & Partial Close"
+  },
+  {
+    "repo": "TonyGuo30/PDF_Editor_Suite",
+    "branch": "main",
+    "language": "Python",
+    "description": "Merge, split, compress, and watermark PDF files. Combine PDFs, split pages, reduce file size, add text/image watermark. Complete PDF solution."
   }
 ]

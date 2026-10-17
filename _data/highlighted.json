@@ -1,8 +1,8 @@
 {
-  "repo": "MiniBandit/MKW-3DS",
+  "repo": "MaryCache/imozuru",
   "branch": "main",
-  "language": "C++",
-  "description": "Mario Kart Wii for 3DS: a native port continued from dudewhat's original. Builds a CIA from your own disc (Mac & Windows).",
-  "stars": 185,
-  "forks": 11
+  "language": "Python",
+  "description": "知らない分野を、原文にたどりつくまで芋づる式に掘る Claude Code のスキル",
+  "stars": 175,
+  "forks": 7
 }
