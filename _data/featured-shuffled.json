@@ -1,146 +1,146 @@
 [
   {
-    "repo": "yetone/magpie",
+    "repo": "RevylAI/app-explorer",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Map every screen and user path in a mobile app — interactive navigation maps with screenshots"
+  },
+  {
+    "repo": "nolenroyalty/yt-browse",
     "branch": "main",
     "language": "Go",
-    "description": "Every agent's model. One place. Codex on DeepSeek, Claude Code on Kimi, from the menu bar."
+    "description": "it's like search, but for youtube"
   },
   {
-    "repo": "petergpt/bullshit-benchmark",
+    "repo": "olucasandrade/youjustneedpostgres",
     "branch": "main",
-    "language": "Python",
+    "language": "TypeScript",
     "description": ""
   },
   {
-    "repo": "HugoRCD/evlog",
+    "repo": "OpenYSMDev/OpenYSM",
     "branch": "main",
-    "language": "TypeScript",
-    "description": "Logging that makes sense. Wide events, structured errors, zero chaos."
+    "language": "Java",
+    "description": "A mod that modifies the vanilla player model"
   },
   {
-    "repo": "jarmuine/claude-code",
+    "repo": "L42ARO/Mercury-Transforming-Drone",
     "branch": "main",
-    "language": "TypeScript",
-    "description": "Fork of instructkr/claude-code"
+    "language": "Python",
+    "description": "Mercury is a transforming drone anyone can build that can be adapted for many use cases thanks to it's versatile mobility, wide range of sensors, and cargo bay area"
   },
   {
-    "repo": "GreatScott/enject",
+    "repo": "googleworkspace/cli",
     "branch": "main",
     "language": "Rust",
-    "description": "enject: Hide .env secrets from prAIng eyes: secrets live in local encrypted stores (per project) and are injected directly into apps at runtime, never touching disk as plaintext."
+    "description": "Google Workspace CLI — one command-line tool for Drive, Gmail, Calendar, Sheets, Docs, Chat, Admin, and more. Dynamically built from Google Discovery Service. Includes AI agent skills."
   },
   {
-    "repo": "jquery-validation/jquery-validation",
-    "branch": "master",
-    "language": "JavaScript",
-    "description": "jQuery Validation Plugin library sources"
-  },
-  {
-    "repo": "qinwf/awesome-R",
-    "branch": "master",
-    "language": "R",
-    "description": "A curated list of awesome R packages, frameworks and software."
-  },
-  {
-    "repo": "liuup/claude-code-analysis",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "The analysis of Claude Code"
-  },
-  {
-    "repo": "confluentinc/ksql",
-    "branch": "master",
-    "language": "Java",
-    "description": "The database purpose-built for stream processing applications."
-  },
-  {
-    "repo": "0xSero/turboquant",
-    "branch": "main",
-    "language": "Python",
-    "description": "TurboQuant: Near-optimal KV cache quantization for LLM inference (3-bit keys, 2-bit values) with Triton kernels + vLLM integration"
-  },
-  {
-    "repo": "pypa/setuptools",
-    "branch": "main",
-    "language": "Python",
-    "description": "Official project repository for the Setuptools build system"
-  },
-  {
-    "repo": "ab-613/OpenGravity",
-    "branch": "main",
-    "language": "CSS",
-    "description": "A lightweight, BYOK (Bring Your Own Key) recreation of the Google Antigravity UI. It currently features a live xterm.js terminal with direct local file system sync and a sidebar agent capable of running commands and editing files. Built in pure HTML/CSS/JS for maximum speed and zero installation."
-  },
-  {
-    "repo": "badsectorlabs/copyfail-go",
-    "branch": "main",
-    "language": "Assembly",
-    "description": "A Go implementation of copyfail (CVE-2026-31431)"
-  },
-  {
-    "repo": "ynsmroztas/cPanelSniper",
-    "branch": "main",
-    "language": "Python",
-    "description": "CVE-2026-41940 — cPanel & WHM Authentication Bypass via Session-File CRLF Injection"
-  },
-  {
-    "repo": "ramsey/uuid",
-    "branch": "4.7",
-    "language": "PHP",
-    "description": ":snowflake: A PHP library for generating universally unique identifiers (UUIDs)."
-  },
-  {
-    "repo": "ManimCommunity/manim",
-    "branch": "main",
-    "language": "Python",
-    "description": "A community-maintained Python framework for creating mathematical animations."
-  },
-  {
-    "repo": "LearnPrompt/ai-news-radar",
-    "branch": "master",
-    "language": "Python",
-    "description": ""
-  },
-  {
-    "repo": "paramiko/paramiko",
-    "branch": "main",
-    "language": "Python",
-    "description": "The leading native Python SSHv2 protocol library."
-  },
-  {
-    "repo": "amadeusprotocol/polymarket-trading-bot",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": ""
-  },
-  {
-    "repo": "denuitt1/mhr-cfw",
-    "branch": "main",
-    "language": "Python",
-    "description": ""
-  },
-  {
-    "repo": "Tencent-Hunyuan/HY-SOAR",
-    "branch": "main",
-    "language": "Python",
-    "description": "HY-SOAR:Self-Correction for Optimal Alignment and Refinement in Diffusion Models"
-  },
-  {
-    "repo": "foyzulkarim/claude-lens",
-    "branch": "main",
-    "language": "HTML",
-    "description": ""
-  },
-  {
-    "repo": "hoaibaone/OP-Auto-Clicker",
+    "repo": "diandianti/clawInstaller",
     "branch": "main",
     "language": "C#",
-    "description": "OP Auto Clicker download automatic mouse clicker automation utility gaming Roblox Minecraft Cookie Clicker fast clicking intervals hotkeys macro mouse button record playback free open source portable PC mobile script trigger settings single double triple."
+    "description": ""
   },
   {
-    "repo": "fabricjs/fabric.js",
+    "repo": "f/agentlytics",
     "branch": "master",
+    "language": "JavaScript",
+    "description": "Comprehensive analytics dashboard for AI coding agents — Cursor, Windsurf, Claude Code, VS Code Copilot, Zed, Antigravity, OpenCode, Command Code"
+  },
+  {
+    "repo": "anadim/AdderBoard",
+    "branch": "main",
+    "language": "Python",
+    "description": "Smallest transformer that can add two 10-digit numbers"
+  },
+  {
+    "repo": "ngrx/platform",
+    "branch": "main",
     "language": "TypeScript",
-    "description": "Javascript Canvas Library, SVG-to-Canvas (& canvas-to-SVG) Parser"
+    "description": "Reactive State for Angular"
+  },
+  {
+    "repo": "0x5uo2hen/codex_register",
+    "branch": "main",
+    "language": "Python",
+    "description": "OpenAI / ChatGPT 全自动注册机 & Token 提取器"
+  },
+  {
+    "repo": "ahaodev/shadmin",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "An Enterprise-Grade Full-Stack RBAC Permission Management System Built with Go + React"
+  },
+  {
+    "repo": "panyiwei-home/Freedeck",
+    "branch": "main",
+    "language": "Python",
+    "description": "学习版游戏一站式平台"
+  },
+  {
+    "repo": "tektoncd/cli",
+    "branch": "main",
+    "language": "Go",
+    "description": "A CLI for interacting with Tekton!"
+  },
+  {
+    "repo": "frank-vpl/IRBox",
+    "branch": "master",
+    "language": "Rust",
+    "description": "A versatile proxy client supporting multiple protocols including VLESS, VMess, Shadowsocks, Trojan, Hysteria2, and TUIC with advanced management features, subscription support, routing rules, and system proxy/TUN modes"
+  },
+  {
+    "repo": "direkturcrypto/polymarket-terminal",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "Copy, Scalping & Sniper for polymarket"
+  },
+  {
+    "repo": "he-yufeng/CoreCoder",
+    "branch": "main",
+    "language": "Python",
+    "description": "Minimal AI coding agent (~950 LoC Python) inspired by Claude Code. Works with any LLM. Think NanoGPT for coding agent. Formerly NanoCoder."
+  },
+  {
+    "repo": "allenai/molmoweb",
+    "branch": "main",
+    "language": "Jupyter Notebook",
+    "description": ""
+  },
+  {
+    "repo": "lxf746/any-auto-register",
+    "branch": "main",
+    "language": "Python",
+    "description": ""
+  },
+  {
+    "repo": "Ibrahim-3d/conductor-orchestrator-superpowers",
+    "branch": "master",
+    "language": "Python",
+    "description": "Multi-agent orchestration system for Claude Code with parallel execution, automated quality gates, Board of Directors, and bundled Superpowers skills"
+  },
+  {
+    "repo": "huggingface/hf-agents",
+    "branch": "main",
+    "language": "Shell",
+    "description": "HF CLI extension to run local coding agent powered by llmfit and llama.cpp"
+  },
+  {
+    "repo": "daymonio/daymon",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Daymon puts your favorite AI to work 24/7. It schedules, remembers, and orchestrates your own virtual team. Free."
+  },
+  {
+    "repo": "klawsh/klaw.sh",
+    "branch": "main",
+    "language": "Go",
+    "description": "kubectl for AI Agents"
+  },
+  {
+    "repo": "nj19257/FastSkills",
+    "branch": "main",
+    "language": "Python",
+    "description": "⚡ MCP server that brings Agent Skills (the open standard behind Claude Code, OpenClaw & nanobot) to any MCP-compatible agent. Discover, load, create & execute skills."
   }
 ]

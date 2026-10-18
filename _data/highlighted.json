@@ -1,8 +1,8 @@
 {
-  "repo": "reason-machines/reason-network",
+  "repo": "Gathin23/tv-vibehack",
   "branch": "main",
-  "language": "Rust",
-  "description": "Reason Network: your team's coding agents, talking to each other. The engine behind `reason network`.",
-  "stars": 252,
-  "forks": 25
+  "language": "Java",
+  "description": "Your TV, minus the ads. Debloat any Android TV over ADB and give it a clean, tvOS-inspired launcher. Built in an afternoon with Claude Code.",
+  "stars": 696,
+  "forks": 69
 }
