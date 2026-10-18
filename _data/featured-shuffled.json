@@ -1,146 +1,146 @@
 [
   {
-    "repo": "bcurts/agentchattr",
+    "repo": "tamnd/kage",
     "branch": "main",
-    "language": "Python",
-    "description": "Local chat server for real-time autonomous coordination between AI coding agents and humans"
-  },
-  {
-    "repo": "Percepta-Core/transformer-vm",
-    "branch": "main",
-    "language": "Python",
-    "description": "Compile programs directly into transformer weights. Includes a 2D convex-hull KV cache with O(log n) inference."
-  },
-  {
-    "repo": "n1tr00-10/tiktok-web-signature",
-    "branch": "main",
-    "language": "Python",
-    "description": "tiktok web signature reverse engineer generates valid tiktok signatures for API requets"
-  },
-  {
-    "repo": "PaddlePaddle/PaddleNLP",
-    "branch": "develop",
-    "language": "Python",
-    "description": "Easy-to-use and powerful LLM and SLM library with awesome model zoo."
-  },
-  {
-    "repo": "npmx-dev/npmx.dev",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "a fast, modern browser for the npm registry"
-  },
-  {
-    "repo": "sb-ocr/cmdeck",
-    "branch": "main",
-    "language": "HTML",
-    "description": ""
-  },
-  {
-    "repo": "Lightning-AI/lightning",
-    "branch": "master",
-    "language": "Python",
-    "description": "Pretrain, finetune ANY AI model of ANY size on 1 or 10,000+ GPUs with zero code changes."
-  },
-  {
-    "repo": "Significant-Gravitas/AutoGPT",
-    "branch": "master",
-    "language": "Python",
-    "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters."
-  },
-  {
-    "repo": "devdriveLLM/polymarket-copy-trading-bot",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "polymarket copy trading bot v2 polymarket copy trading bot v2 polymarket copy trading bot v2 polymarket copy trading bot v2 polymarket copy trading bot v2 polymarket copy trading bot v2 polymarket copy trading bot v2 polymarket copy trading bot v2 polymarket copy trading bot v2"
-  },
-  {
-    "repo": "dapr/dapr",
-    "branch": "master",
     "language": "Go",
-    "description": "Dapr is a portable runtime for building distributed applications across cloud and edge, combining event-driven architecture with workflow orchestration."
-  },
-  {
-    "repo": "bentoml/BentoML",
-    "branch": "main",
-    "language": "Python",
-    "description": "The easiest way to serve AI apps and models - Build Model Inference APIs, Job queues, LLM apps, Multi-model pipelines, and more!"
-  },
-  {
-    "repo": "zerobootdev/zeroboot",
-    "branch": "main",
-    "language": "Rust",
-    "description": "Sub-millisecond VM sandboxes for AI agents via copy-on-write forking"
-  },
-  {
-    "repo": "python-pillow/Pillow",
-    "branch": "main",
-    "language": "Python",
-    "description": "Python Imaging Library (Fork)"
-  },
-  {
-    "repo": "smartcmd/MinecraftConsoles",
-    "branch": "main",
-    "language": "C++",
-    "description": "A certain block game"
-  },
-  {
-    "repo": "wagoodman/dive",
-    "branch": "master",
-    "language": "Go",
-    "description": "A tool for exploring each layer in a docker image"
-  },
-  {
-    "repo": "botiverse/agent-vault",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Keep your secrets hidden from AI agents."
-  },
-  {
-    "repo": "QwenLM/Qwen3-ASR",
-    "branch": "main",
-    "language": "Python",
-    "description": "Qwen3-ASR is an open-source series of ASR models developed by the Qwen team at Alibaba Cloud, supporting stable multilingual speech/music/song recognition, language detection and timestamp prediction."
-  },
-  {
-    "repo": "mathiaschu/meta-ads-analyzer",
-    "branch": "main",
-    "language": "Shell",
-    "description": "Meta Ads Analyzer skill + MCP server for Claude Code. Breakdown Effect, Learning Phase, and expert-level campaign diagnosis."
-  },
-  {
-    "repo": "GTJasonMK/lessAI",
-    "branch": "master",
-    "language": "TypeScript",
-    "description": ""
-  },
-  {
-    "repo": "gradle/gradle",
-    "branch": "master",
-    "language": "Groovy",
-    "description": "Adaptable, fast automation for all"
-  },
-  {
-    "repo": "eooce/python-ws",
-    "branch": "main",
-    "language": "Python",
-    "description": "build vless / trojan /shadowsocks  proxies on python server,no need core"
-  },
-  {
-    "repo": "34306/vphone-aio",
-    "branch": "main",
-    "language": "Shell",
-    "description": "1 script run the vphone"
-  },
-  {
-    "repo": "googleapis/google-api-python-client",
-    "branch": "main",
-    "language": "Python",
-    "description": "🐍 The official Python client library for Google's discovery based APIs."
+    "description": "Shadow any website for offline viewing, with the JavaScript stripped out"
   },
   {
     "repo": "wesm/agentsview",
     "branch": "main",
     "language": "Go",
     "description": "Fast local coding agent session viewer for Claude, Codex, Gemini, with analytics dashboard and full text search"
+  },
+  {
+    "repo": "badaramoni/wave-field-llm",
+    "branch": "main",
+    "language": "Python",
+    "description": "An O(n log n) language model architecture using wave equation dynamics instead of O(n²) self-attention. Within 5% of standard transformer quality."
+  },
+  {
+    "repo": "oboard/claude-code-rev",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Runnable ClaudeCode source code"
+  },
+  {
+    "repo": "WeaveMindAI/weft",
+    "branch": "main",
+    "language": "Rust",
+    "description": "A programming language for AI systems"
+  },
+  {
+    "repo": "rust-unofficial/awesome-rust",
+    "branch": "main",
+    "language": "Rust",
+    "description": "A curated list of Rust code and resources."
+  },
+  {
+    "repo": "bitman09/Rust-Politics-Sports-Polymarket-Trading-Bot",
+    "branch": "main",
+    "language": "Rust",
+    "description": "A Rust bot for Polymarket that trades sports and politics (binary) markets by slug using a trailing stop strategy only."
+  },
+  {
+    "repo": "yizhiyanhua-ai/skills-updater",
+    "branch": "main",
+    "language": "Python",
+    "description": "Manage, update, and discover Claude Code skills. 管理、更新和发现 Claude Code 技能。"
+  },
+  {
+    "repo": "snoglobe/helios",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": ""
+  },
+  {
+    "repo": "fabricjs/fabric.js",
+    "branch": "master",
+    "language": "TypeScript",
+    "description": "Javascript Canvas Library, SVG-to-Canvas (& canvas-to-SVG) Parser"
+  },
+  {
+    "repo": "uhub/awesome-cpp",
+    "branch": "master",
+    "language": "Other",
+    "description": "A curated list of awesome C++ frameworks, libraries and software."
+  },
+  {
+    "repo": "actions/runner-images",
+    "branch": "main",
+    "language": "PowerShell",
+    "description": "GitHub Actions runner images"
+  },
+  {
+    "repo": "CSSEGISandData/COVID-19",
+    "branch": "master",
+    "language": "Other",
+    "description": "Novel Coronavirus (COVID-19) Cases, provided by JHU CSSE"
+  },
+  {
+    "repo": "ChristosChristofidis/awesome-deep-learning",
+    "branch": "master",
+    "language": "Other",
+    "description": "A curated list of awesome Deep Learning tutorials, projects and communities."
+  },
+  {
+    "repo": "ForLoopCodes/contextplus",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Semantic Intelligence for Large-Scale Engineering. Context+ is an MCP server designed for developers who demand 99% accuracy. By combining Tree-sitter AST parsing, Spectral Clustering, and Obsidian-style linking, Context+ turns a massive codebase into a searchable, hierarchical feature graph."
+  },
+  {
+    "repo": "nteract/nteract",
+    "branch": "master",
+    "language": "TypeScript",
+    "description": "📘 The interactive computing suite for you!  ✨"
+  },
+  {
+    "repo": "kapla0011/KaplaStrike",
+    "branch": "main",
+    "language": "C",
+    "description": "A Cobalt Strike RL built with Crystal Palace — module overloading, NtContinue entry transfer, call stack spoofing, sleep masking, and static signature removal."
+  },
+  {
+    "repo": "nicedreamzapp/claude-code-local",
+    "branch": "main",
+    "language": "Python",
+    "description": "Run Claude Code with local AI on Apple Silicon. 122B model at 41 tok/s with Google TurboQuant. No cloud, no API fees."
+  },
+  {
+    "repo": "mnemox-ai/idea-reality-mcp",
+    "branch": "main",
+    "language": "Python",
+    "description": "MCP server that reality-checks your AI project idea against GitHub, Hacker News, npm, PyPI & Product Hunt. Returns a 0-100 reality signal."
+  },
+  {
+    "repo": "formik/formik",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Build forms in React, without the tears 😭"
+  },
+  {
+    "repo": "lcoutodemos/clui-cc",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Clui CC — Command Line User Interface for Claude Code"
+  },
+  {
+    "repo": "fullcalendar/fullcalendar",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Full-sized drag & drop event calendar in JavaScript"
+  },
+  {
+    "repo": "deepcon3/Binance-Claw",
+    "branch": "main",
+    "language": "Rust",
+    "description": "Binance-Claw Lightning-fast Binance price sniper, real-time monitor & OpenClaw skill — written in Rust"
+  },
+  {
+    "repo": "hiragram/agent-workspace",
+    "branch": "main",
+    "language": "Go",
+    "description": ""
   }
 ]
