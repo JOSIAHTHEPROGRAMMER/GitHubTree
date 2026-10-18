@@ -1,146 +1,146 @@
 [
   {
-    "repo": "RevylAI/app-explorer",
+    "repo": "bcurts/agentchattr",
     "branch": "main",
-    "language": "TypeScript",
-    "description": "Map every screen and user path in a mobile app — interactive navigation maps with screenshots"
+    "language": "Python",
+    "description": "Local chat server for real-time autonomous coordination between AI coding agents and humans"
   },
   {
-    "repo": "nolenroyalty/yt-browse",
+    "repo": "Percepta-Core/transformer-vm",
     "branch": "main",
-    "language": "Go",
-    "description": "it's like search, but for youtube"
+    "language": "Python",
+    "description": "Compile programs directly into transformer weights. Includes a 2D convex-hull KV cache with O(log n) inference."
   },
   {
-    "repo": "olucasandrade/youjustneedpostgres",
+    "repo": "n1tr00-10/tiktok-web-signature",
+    "branch": "main",
+    "language": "Python",
+    "description": "tiktok web signature reverse engineer generates valid tiktok signatures for API requets"
+  },
+  {
+    "repo": "PaddlePaddle/PaddleNLP",
+    "branch": "develop",
+    "language": "Python",
+    "description": "Easy-to-use and powerful LLM and SLM library with awesome model zoo."
+  },
+  {
+    "repo": "npmx-dev/npmx.dev",
     "branch": "main",
     "language": "TypeScript",
+    "description": "a fast, modern browser for the npm registry"
+  },
+  {
+    "repo": "sb-ocr/cmdeck",
+    "branch": "main",
+    "language": "HTML",
     "description": ""
   },
   {
-    "repo": "OpenYSMDev/OpenYSM",
-    "branch": "main",
-    "language": "Java",
-    "description": "A mod that modifies the vanilla player model"
+    "repo": "Lightning-AI/lightning",
+    "branch": "master",
+    "language": "Python",
+    "description": "Pretrain, finetune ANY AI model of ANY size on 1 or 10,000+ GPUs with zero code changes."
   },
   {
-    "repo": "L42ARO/Mercury-Transforming-Drone",
+    "repo": "Significant-Gravitas/AutoGPT",
+    "branch": "master",
+    "language": "Python",
+    "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters."
+  },
+  {
+    "repo": "devdriveLLM/polymarket-copy-trading-bot",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "polymarket copy trading bot v2 polymarket copy trading bot v2 polymarket copy trading bot v2 polymarket copy trading bot v2 polymarket copy trading bot v2 polymarket copy trading bot v2 polymarket copy trading bot v2 polymarket copy trading bot v2 polymarket copy trading bot v2"
+  },
+  {
+    "repo": "dapr/dapr",
+    "branch": "master",
+    "language": "Go",
+    "description": "Dapr is a portable runtime for building distributed applications across cloud and edge, combining event-driven architecture with workflow orchestration."
+  },
+  {
+    "repo": "bentoml/BentoML",
     "branch": "main",
     "language": "Python",
-    "description": "Mercury is a transforming drone anyone can build that can be adapted for many use cases thanks to it's versatile mobility, wide range of sensors, and cargo bay area"
+    "description": "The easiest way to serve AI apps and models - Build Model Inference APIs, Job queues, LLM apps, Multi-model pipelines, and more!"
   },
   {
-    "repo": "googleworkspace/cli",
+    "repo": "zerobootdev/zeroboot",
     "branch": "main",
     "language": "Rust",
-    "description": "Google Workspace CLI — one command-line tool for Drive, Gmail, Calendar, Sheets, Docs, Chat, Admin, and more. Dynamically built from Google Discovery Service. Includes AI agent skills."
+    "description": "Sub-millisecond VM sandboxes for AI agents via copy-on-write forking"
   },
   {
-    "repo": "diandianti/clawInstaller",
+    "repo": "python-pillow/Pillow",
     "branch": "main",
-    "language": "C#",
-    "description": ""
+    "language": "Python",
+    "description": "Python Imaging Library (Fork)"
   },
   {
-    "repo": "f/agentlytics",
+    "repo": "smartcmd/MinecraftConsoles",
+    "branch": "main",
+    "language": "C++",
+    "description": "A certain block game"
+  },
+  {
+    "repo": "wagoodman/dive",
     "branch": "master",
-    "language": "JavaScript",
-    "description": "Comprehensive analytics dashboard for AI coding agents — Cursor, Windsurf, Claude Code, VS Code Copilot, Zed, Antigravity, OpenCode, Command Code"
-  },
-  {
-    "repo": "anadim/AdderBoard",
-    "branch": "main",
-    "language": "Python",
-    "description": "Smallest transformer that can add two 10-digit numbers"
-  },
-  {
-    "repo": "ngrx/platform",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Reactive State for Angular"
-  },
-  {
-    "repo": "0x5uo2hen/codex_register",
-    "branch": "main",
-    "language": "Python",
-    "description": "OpenAI / ChatGPT 全自动注册机 & Token 提取器"
-  },
-  {
-    "repo": "ahaodev/shadmin",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "An Enterprise-Grade Full-Stack RBAC Permission Management System Built with Go + React"
-  },
-  {
-    "repo": "panyiwei-home/Freedeck",
-    "branch": "main",
-    "language": "Python",
-    "description": "学习版游戏一站式平台"
-  },
-  {
-    "repo": "tektoncd/cli",
-    "branch": "main",
     "language": "Go",
-    "description": "A CLI for interacting with Tekton!"
+    "description": "A tool for exploring each layer in a docker image"
   },
   {
-    "repo": "frank-vpl/IRBox",
-    "branch": "master",
-    "language": "Rust",
-    "description": "A versatile proxy client supporting multiple protocols including VLESS, VMess, Shadowsocks, Trojan, Hysteria2, and TUIC with advanced management features, subscription support, routing rules, and system proxy/TUN modes"
-  },
-  {
-    "repo": "direkturcrypto/polymarket-terminal",
+    "repo": "botiverse/agent-vault",
     "branch": "main",
-    "language": "JavaScript",
-    "description": "Copy, Scalping & Sniper for polymarket"
+    "language": "TypeScript",
+    "description": "Keep your secrets hidden from AI agents."
   },
   {
-    "repo": "he-yufeng/CoreCoder",
+    "repo": "QwenLM/Qwen3-ASR",
     "branch": "main",
     "language": "Python",
-    "description": "Minimal AI coding agent (~950 LoC Python) inspired by Claude Code. Works with any LLM. Think NanoGPT for coding agent. Formerly NanoCoder."
+    "description": "Qwen3-ASR is an open-source series of ASR models developed by the Qwen team at Alibaba Cloud, supporting stable multilingual speech/music/song recognition, language detection and timestamp prediction."
   },
   {
-    "repo": "allenai/molmoweb",
-    "branch": "main",
-    "language": "Jupyter Notebook",
-    "description": ""
-  },
-  {
-    "repo": "lxf746/any-auto-register",
-    "branch": "main",
-    "language": "Python",
-    "description": ""
-  },
-  {
-    "repo": "Ibrahim-3d/conductor-orchestrator-superpowers",
-    "branch": "master",
-    "language": "Python",
-    "description": "Multi-agent orchestration system for Claude Code with parallel execution, automated quality gates, Board of Directors, and bundled Superpowers skills"
-  },
-  {
-    "repo": "huggingface/hf-agents",
+    "repo": "mathiaschu/meta-ads-analyzer",
     "branch": "main",
     "language": "Shell",
-    "description": "HF CLI extension to run local coding agent powered by llmfit and llama.cpp"
+    "description": "Meta Ads Analyzer skill + MCP server for Claude Code. Breakdown Effect, Learning Phase, and expert-level campaign diagnosis."
   },
   {
-    "repo": "daymonio/daymon",
-    "branch": "main",
+    "repo": "GTJasonMK/lessAI",
+    "branch": "master",
     "language": "TypeScript",
-    "description": "Daymon puts your favorite AI to work 24/7. It schedules, remembers, and orchestrates your own virtual team. Free."
+    "description": ""
   },
   {
-    "repo": "klawsh/klaw.sh",
-    "branch": "main",
-    "language": "Go",
-    "description": "kubectl for AI Agents"
+    "repo": "gradle/gradle",
+    "branch": "master",
+    "language": "Groovy",
+    "description": "Adaptable, fast automation for all"
   },
   {
-    "repo": "nj19257/FastSkills",
+    "repo": "eooce/python-ws",
     "branch": "main",
     "language": "Python",
-    "description": "⚡ MCP server that brings Agent Skills (the open standard behind Claude Code, OpenClaw & nanobot) to any MCP-compatible agent. Discover, load, create & execute skills."
+    "description": "build vless / trojan /shadowsocks  proxies on python server,no need core"
+  },
+  {
+    "repo": "34306/vphone-aio",
+    "branch": "main",
+    "language": "Shell",
+    "description": "1 script run the vphone"
+  },
+  {
+    "repo": "googleapis/google-api-python-client",
+    "branch": "main",
+    "language": "Python",
+    "description": "🐍 The official Python client library for Google's discovery based APIs."
+  },
+  {
+    "repo": "wesm/agentsview",
+    "branch": "main",
+    "language": "Go",
+    "description": "Fast local coding agent session viewer for Claude, Codex, Gemini, with analytics dashboard and full text search"
   }
 ]

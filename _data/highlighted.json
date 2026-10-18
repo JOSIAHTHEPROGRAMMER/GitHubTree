@@ -1,8 +1,8 @@
 {
-  "repo": "Gathin23/tv-vibehack",
+  "repo": "anujasid/blender-ai-mcp-addon",
   "branch": "main",
-  "language": "Java",
-  "description": "Your TV, minus the ads. Debloat any Android TV over ADB and give it a clean, tvOS-inspired launcher. Built in an afternoon with Claude Code.",
-  "stars": 696,
-  "forks": 69
+  "language": "Python",
+  "description": "AI assistant and MCP server for Blender: visual chat, scene tools, multi-agent workflows. Works with OpenAI, ChatGPT, Claude, Gemini, Ollama, OpenCode. Blender AI addon and plugin, copilot for 3D, bpy Python scripting, MCP integration.",
+  "stars": 748,
+  "forks": 356
 }
