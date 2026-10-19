@@ -1,8 +1,8 @@
 {
-  "repo": "BelmanteGu/SuperMarioWonderRecomp",
+  "repo": "TonF1917/claude-desktop-multiple-windows-different-api",
   "branch": "main",
-  "language": "C++",
-  "description": "Super Mario Bros. Wonder static recompilation (NVN on Vulkan/MoltenVK), macOS, Android and Windows. No game assets.",
-  "stars": 276,
-  "forks": 32
+  "language": "PowerShell",
+  "description": "Multiple windows for Claude Desktop with different APIs at the same time: keep your official Claude subscription in one window and run other windows on custom / third-party APIs (cc-switch). Windows. 多开 Claude Desktop,多个窗口同时使用不同 API(官方订阅 + 第三方 API 同时工作)。",
+  "stars": 194,
+  "forks": 7
 }

@@ -1,146 +1,146 @@
 [
   {
-    "repo": "tamnd/kage",
-    "branch": "main",
-    "language": "Go",
-    "description": "Shadow any website for offline viewing, with the JavaScript stripped out"
-  },
-  {
-    "repo": "wesm/agentsview",
-    "branch": "main",
-    "language": "Go",
-    "description": "Fast local coding agent session viewer for Claude, Codex, Gemini, with analytics dashboard and full text search"
-  },
-  {
-    "repo": "badaramoni/wave-field-llm",
+    "repo": "onehumanbeing/esp32-iphone-agent",
     "branch": "main",
     "language": "Python",
-    "description": "An O(n log n) language model architecture using wave equation dynamics instead of O(n²) self-attention. Within 5% of standard transformer quality."
+    "description": "Let an AI model use a real iPhone with a $7 ESP32: AirPlay eyes, USB HID hands, any OpenAI-compatible vision model. No Mac, no developer account, no jailbreak."
   },
   {
-    "repo": "oboard/claude-code-rev",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Runnable ClaudeCode source code"
-  },
-  {
-    "repo": "WeaveMindAI/weft",
+    "repo": "RongleCat/grok-go",
     "branch": "main",
     "language": "Rust",
-    "description": "A programming language for AI systems"
+    "description": "Local multi-account Grok gateway for Codex (API + MCP). 本地多账号 Grok 网关，面向 Codex。"
   },
   {
-    "repo": "rust-unofficial/awesome-rust",
-    "branch": "main",
-    "language": "Rust",
-    "description": "A curated list of Rust code and resources."
-  },
-  {
-    "repo": "bitman09/Rust-Politics-Sports-Polymarket-Trading-Bot",
-    "branch": "main",
-    "language": "Rust",
-    "description": "A Rust bot for Polymarket that trades sports and politics (binary) markets by slug using a trailing stop strategy only."
-  },
-  {
-    "repo": "yizhiyanhua-ai/skills-updater",
+    "repo": "eli-labz/Agent-Execution-Partnership",
     "branch": "main",
     "language": "Python",
-    "description": "Manage, update, and discover Claude Code skills. 管理、更新和发现 Claude Code 技能。"
+    "description": "Agent Execution Partnership AEE is an open-source control plane that ensures every AI agent action is authorized before it runs, observable while it runs, and verifiable after it completes."
   },
   {
-    "repo": "snoglobe/helios",
+    "repo": "hallieongibson4690/R6S-D-M-A-2026",
     "branch": "main",
-    "language": "TypeScript",
+    "language": "C#",
+    "description": "A comprehensive open-source framework for analyzing Rainbow Six Siege game mechanics, operator interactions, and developing advanced defensive strategies."
+  },
+  {
+    "repo": "primitive-bench/benchpublic",
+    "branch": "main",
+    "language": "Python",
     "description": ""
   },
   {
-    "repo": "fabricjs/fabric.js",
-    "branch": "master",
-    "language": "TypeScript",
-    "description": "Javascript Canvas Library, SVG-to-Canvas (& canvas-to-SVG) Parser"
-  },
-  {
-    "repo": "uhub/awesome-cpp",
-    "branch": "master",
-    "language": "Other",
-    "description": "A curated list of awesome C++ frameworks, libraries and software."
-  },
-  {
-    "repo": "actions/runner-images",
+    "repo": "wouterdebie/davit",
     "branch": "main",
-    "language": "PowerShell",
-    "description": "GitHub Actions runner images"
+    "language": "Swift",
+    "description": "A native macOS UI for Apple's platform"
   },
   {
-    "repo": "CSSEGISandData/COVID-19",
-    "branch": "master",
-    "language": "Other",
-    "description": "Novel Coronavirus (COVID-19) Cases, provided by JHU CSSE"
-  },
-  {
-    "repo": "ChristosChristofidis/awesome-deep-learning",
-    "branch": "master",
-    "language": "Other",
-    "description": "A curated list of awesome Deep Learning tutorials, projects and communities."
-  },
-  {
-    "repo": "ForLoopCodes/contextplus",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Semantic Intelligence for Large-Scale Engineering. Context+ is an MCP server designed for developers who demand 99% accuracy. By combining Tree-sitter AST parsing, Spectral Clustering, and Obsidian-style linking, Context+ turns a massive codebase into a searchable, hierarchical feature graph."
-  },
-  {
-    "repo": "nteract/nteract",
-    "branch": "master",
-    "language": "TypeScript",
-    "description": "📘 The interactive computing suite for you!  ✨"
-  },
-  {
-    "repo": "kapla0011/KaplaStrike",
-    "branch": "main",
-    "language": "C",
-    "description": "A Cobalt Strike RL built with Crystal Palace — module overloading, NtContinue entry transfer, call stack spoofing, sleep masking, and static signature removal."
-  },
-  {
-    "repo": "nicedreamzapp/claude-code-local",
-    "branch": "main",
-    "language": "Python",
-    "description": "Run Claude Code with local AI on Apple Silicon. 122B model at 41 tok/s with Google TurboQuant. No cloud, no API fees."
-  },
-  {
-    "repo": "mnemox-ai/idea-reality-mcp",
-    "branch": "main",
-    "language": "Python",
-    "description": "MCP server that reality-checks your AI project idea against GitHub, Hacker News, npm, PyPI & Product Hunt. Returns a 0-100 reality signal."
-  },
-  {
-    "repo": "formik/formik",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Build forms in React, without the tears 😭"
-  },
-  {
-    "repo": "lcoutodemos/clui-cc",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Clui CC — Command Line User Interface for Claude Code"
-  },
-  {
-    "repo": "fullcalendar/fullcalendar",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Full-sized drag & drop event calendar in JavaScript"
-  },
-  {
-    "repo": "deepcon3/Binance-Claw",
+    "repo": "xqnode/codex-helper",
     "branch": "main",
     "language": "Rust",
-    "description": "Binance-Claw Lightning-fast Binance price sniper, real-time monitor & OpenClaw skill — written in Rust"
+    "description": "轻量 Windows 托盘代理，让 Codex CLI 一键切换 DeepSeek、通义千问等国产大模型"
   },
   {
-    "repo": "hiragram/agent-workspace",
+    "repo": "humation-labs/humation",
     "branch": "main",
-    "language": "Go",
-    "description": ""
+    "language": "TypeScript",
+    "description": "Hand-drawn kawaii avatar engine for your app. No AI, no API calls."
+  },
+  {
+    "repo": "ogbeatzofficial1-lab/Brookhaven_RP_-_Auto_Farm___Money_Hack",
+    "branch": "main",
+    "language": "Python",
+    "description": "Ultimate trainer for Brookhaven RP, the most visited Roblox game with over 83 billion visits[reference:6][reference:7]. Automate money farming, unlock all houses and vehicles, and get unlimited in-game currency. Dominate the social roleplay experience."
+  },
+  {
+    "repo": "modelstudioai/cli",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Official Model Studio CLI（阿里云百炼 CLI）built for AI Agent frameworks, exposing models, search, multimodal, and workflow capabilities as structured tool calls."
+  },
+  {
+    "repo": "ignatobarez/Jailbreak_-_Auto-Robbery___Teleport",
+    "branch": "main",
+    "language": "Python",
+    "description": "Auto-robbery and teleport for Jailbreak, the classic prison escape game with 7.9 billion visits[reference:25]. Automatically rob stores, escape prison, and earn millions."
+  },
+  {
+    "repo": "realchendahuang/sub-store-cloudflare",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "一个部署在 Cloudflare Workers 上的订阅聚合与规则配置工具。它把订阅源、节点处理、组合订阅和分流规则模板放在云端，客户端只需要订阅最终生成的链接。"
+  },
+  {
+    "repo": "ajayprabhuraj/institutional-orderflow-mt5",
+    "branch": "main",
+    "language": "HTML",
+    "description": "2026 SMC Trading Toolkit: Real-Time Order Blocks & Fair Value Gaps for MT5"
+  },
+  {
+    "repo": "nekocode/filetree-skill",
+    "branch": "main",
+    "language": "Python",
+    "description": "A Claude Code plugin that maintains `FILETREE.md`."
+  },
+  {
+    "repo": "marcj/papernews",
+    "branch": "main",
+    "language": "Python",
+    "description": "news and articles nicely rendered as calm pdf for readers"
+  },
+  {
+    "repo": "vinhhien112/Three.js-Object-Sculptor-Codex-Plugin",
+    "branch": "main",
+    "language": "Python",
+    "description": "Codex plugin that turns attached object images into code-only, animation-ready procedural Three.js models."
+  },
+  {
+    "repo": "FerroxLabs/wayland",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Wayland - The AI Agent That Perceives. Reasons. Acts. Evolves."
+  },
+  {
+    "repo": "dongguatanglinux/grok-build-auth",
+    "branch": "main",
+    "language": "Python",
+    "description": "Protocol research client: x.ai signup → SSO → Grok Build OAuth → CLIProxyAPI auth export (authorized use only)"
+  },
+  {
+    "repo": "Matchameleon/moneyclaw",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "openclaw agents for prepaid wallet, virtual card, OTP inbox, public docs, and skill"
+  },
+  {
+    "repo": "alexafinode/claude-arbitrage-bot",
+    "branch": "main",
+    "language": "Solidity",
+    "description": "Arbitrage bot for Ethereum-compatible networks with built-in Python automation"
+  },
+  {
+    "repo": "Chozzc/Lujie-Careerkit",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "An AI-powered career workspace from resume editing to offer acceptance, covering resume editing, JD matching, application tracking, mock interviews, and interview review."
+  },
+  {
+    "repo": "XBuilderLAB/cheat-on-money",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "AI 时代靠谱兼职发现 + 反诈验证 skill：需求信号反推 + 实时时效核查 + 反诈 rubric + 个性化校准环"
+  },
+  {
+    "repo": "openfi-dao/kalshi-trading-bot",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "kalshi trading bot kalshi trading bot kalshi trading bot kalshi trading bot kalshi trading bot kalshi trading bot kalshi trading bot kalshi trading bot kalshi trading bot kalshi trading bot kalshi trading bot kalshi trading bot kalshi trading bot kalshi trading bot kalshi trading bot kalshi trading bot kalshi trading bot"
+  },
+  {
+    "repo": "frecodecasti/gem5-branchpred",
+    "branch": "master",
+    "language": "C++",
+    "description": "This is an read-only mirror of the gem5 simulator. The upstream repository is stored in https://gem5.googlesource.com, code reviews should be submitted to https://gem5-review.googlesource.com/. The mirrors are synchronized every 15 minutes."
   }
 ]
