@@ -1,8 +1,8 @@
 {
-  "repo": "TonF1917/claude-desktop-multiple-windows-different-api",
+  "repo": "longbridge/nsh",
   "branch": "main",
-  "language": "PowerShell",
-  "description": "Multiple windows for Claude Desktop with different APIs at the same time: keep your official Claude subscription in one window and run other windows on custom / third-party APIs (cc-switch). Windows. 多开 Claude Desktop,多个窗口同时使用不同 API(官方订阅 + 第三方 API 同时工作)。",
-  "stars": 194,
-  "forks": 7
+  "language": "Rust",
+  "description": "NSH runs modules written in TSX — natively on iOS, Android, macOS, Windows, Linux, GPUI and the web",
+  "stars": 332,
+  "forks": 22
 }

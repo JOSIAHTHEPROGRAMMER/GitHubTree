@@ -1,146 +1,146 @@
 [
   {
-    "repo": "onehumanbeing/esp32-iphone-agent",
+    "repo": "Xiangyue-Zhang/auto-deep-researcher-24x7",
     "branch": "main",
     "language": "Python",
-    "description": "Let an AI model use a real iPhone with a $7 ESP32: AirPlay eyes, USB HID hands, any OpenAI-compatible vision model. No Mac, no developer account, no jailbreak."
+    "description": "🔥 An autonomous AI agent that runs your deep learning experiments 24/7 while you sleep. Zero-cost monitoring, Leader-Worker architecture, constant-size memory."
   },
   {
-    "repo": "RongleCat/grok-go",
-    "branch": "main",
-    "language": "Rust",
-    "description": "Local multi-account Grok gateway for Codex (API + MCP). 本地多账号 Grok 网关，面向 Codex。"
-  },
-  {
-    "repo": "eli-labz/Agent-Execution-Partnership",
+    "repo": "Soul-AILab/SoulX-Transcriber",
     "branch": "main",
     "language": "Python",
-    "description": "Agent Execution Partnership AEE is an open-source control plane that ensures every AI agent action is authorized before it runs, observable while it runs, and verifiable after it completes."
+    "description": "An end-to-end framework for multi-speaker transcription that jointly models who spoke, when, and what."
   },
   {
-    "repo": "hallieongibson4690/R6S-D-M-A-2026",
+    "repo": "PHjont/Wallpaper-Engine-Live-wallpaper-engine",
     "branch": "main",
-    "language": "C#",
-    "description": "A comprehensive open-source framework for analyzing Rainbow Six Siege game mechanics, operator interactions, and developing advanced defensive strategies."
+    "language": "C++",
+    "description": "Wallpaper Engine Steam: Live wallpaper engine. Features: 3D interactive scenes, audio visualizer, clock widgets. Android sync, mobile companion, playlist scheduler. Performance optimization, low CPU usage, LED hardware lighting, Razer Chroma, Corsair iCUE, Steam Workshop integration, SceneScript."
   },
   {
-    "repo": "primitive-bench/benchpublic",
-    "branch": "main",
-    "language": "Python",
-    "description": ""
-  },
-  {
-    "repo": "wouterdebie/davit",
+    "repo": "Lcharvol/MacSift",
     "branch": "main",
     "language": "Swift",
-    "description": "A native macOS UI for Apple's platform"
+    "description": "Transparent macOS disk cleaner — groups files by app, moves to Trash (never permanent). SwiftUI + Liquid Glass, built for macOS Tahoe."
   },
   {
-    "repo": "xqnode/codex-helper",
-    "branch": "main",
-    "language": "Rust",
-    "description": "轻量 Windows 托盘代理，让 Codex CLI 一键切换 DeepSeek、通义千问等国产大模型"
-  },
-  {
-    "repo": "humation-labs/humation",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Hand-drawn kawaii avatar engine for your app. No AI, no API calls."
-  },
-  {
-    "repo": "ogbeatzofficial1-lab/Brookhaven_RP_-_Auto_Farm___Money_Hack",
+    "repo": "pytorch/examples",
     "branch": "main",
     "language": "Python",
-    "description": "Ultimate trainer for Brookhaven RP, the most visited Roblox game with over 83 billion visits[reference:6][reference:7]. Automate money farming, unlock all houses and vehicles, and get unlimited in-game currency. Dominate the social roleplay experience."
+    "description": "A set of examples around pytorch in Vision, Text, Reinforcement Learning, etc."
   },
   {
-    "repo": "modelstudioai/cli",
+    "repo": "eddyson-B/AI-Pumpfun-Copy-Trading-Bot",
     "branch": "main",
     "language": "TypeScript",
-    "description": "Official Model Studio CLI（阿里云百炼 CLI）built for AI Agent frameworks, exposing models, search, multimodal, and workflow capabilities as structured tool calls."
+    "description": "A simulation and execution script for tracking top wallet trades on PumpFun and analyzing profit opportunities with AI modeling."
   },
   {
-    "repo": "ignatobarez/Jailbreak_-_Auto-Robbery___Teleport",
-    "branch": "main",
-    "language": "Python",
-    "description": "Auto-robbery and teleport for Jailbreak, the classic prison escape game with 7.9 billion visits[reference:25]. Automatically rob stores, escape prison, and earn millions."
-  },
-  {
-    "repo": "realchendahuang/sub-store-cloudflare",
-    "branch": "main",
+    "repo": "luccast/crabwalk",
+    "branch": "master",
     "language": "TypeScript",
-    "description": "一个部署在 Cloudflare Workers 上的订阅聚合与规则配置工具。它把订阅源、节点处理、组合订阅和分流规则模板放在云端，客户端只需要订阅最终生成的链接。"
+    "description": "🦀 Crabwalk 🦀 Real-time companion monitor for Clawdbot agents."
   },
   {
-    "repo": "ajayprabhuraj/institutional-orderflow-mt5",
+    "repo": "GordenSun/CuiMao",
     "branch": "main",
     "language": "HTML",
-    "description": "2026 SMC Trading Toolkit: Real-Time Order Blocks & Fair Value Gaps for MT5"
+    "description": "眼睛跟着鼠标旋转。"
   },
   {
-    "repo": "nekocode/filetree-skill",
+    "repo": "DoomVoss/BASpark",
     "branch": "main",
-    "language": "Python",
-    "description": "A Claude Code plugin that maintains `FILETREE.md`."
+    "language": "C#",
+    "description": "基于 HTML5/Canvas 深度复刻《蔚蓝档案》UI 风格动效的 Windows 鼠标特效工具 || A Windows mouse effect tool reconstructing Blue Archive UI style using HTML5/Canvas"
   },
   {
-    "repo": "marcj/papernews",
+    "repo": "xoai/sage-wiki",
     "branch": "main",
-    "language": "Python",
-    "description": "news and articles nicely rendered as calm pdf for readers"
+    "language": "Go",
+    "description": "An LLM-compiled personal knowledge base.  Drop in your papers, articles, and notes. sage-wiki compiles them into a structured, interlinked wiki — with concepts extracted, cross-references discovered, and everything searchable."
   },
   {
-    "repo": "vinhhien112/Three.js-Object-Sculptor-Codex-Plugin",
-    "branch": "main",
-    "language": "Python",
-    "description": "Codex plugin that turns attached object images into code-only, animation-ready procedural Three.js models."
-  },
-  {
-    "repo": "FerroxLabs/wayland",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Wayland - The AI Agent That Perceives. Reasons. Acts. Evolves."
-  },
-  {
-    "repo": "dongguatanglinux/grok-build-auth",
-    "branch": "main",
-    "language": "Python",
-    "description": "Protocol research client: x.ai signup → SSO → Grok Build OAuth → CLIProxyAPI auth export (authorized use only)"
-  },
-  {
-    "repo": "Matchameleon/moneyclaw",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "openclaw agents for prepaid wallet, virtual card, OTP inbox, public docs, and skill"
-  },
-  {
-    "repo": "alexafinode/claude-arbitrage-bot",
-    "branch": "main",
-    "language": "Solidity",
-    "description": "Arbitrage bot for Ethereum-compatible networks with built-in Python automation"
-  },
-  {
-    "repo": "Chozzc/Lujie-Careerkit",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "An AI-powered career workspace from resume editing to offer acceptance, covering resume editing, JD matching, application tracking, mock interviews, and interview review."
-  },
-  {
-    "repo": "XBuilderLAB/cheat-on-money",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "AI 时代靠谱兼职发现 + 反诈验证 skill：需求信号反推 + 实时时效核查 + 反诈 rubric + 个性化校准环"
-  },
-  {
-    "repo": "openfi-dao/kalshi-trading-bot",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "kalshi trading bot kalshi trading bot kalshi trading bot kalshi trading bot kalshi trading bot kalshi trading bot kalshi trading bot kalshi trading bot kalshi trading bot kalshi trading bot kalshi trading bot kalshi trading bot kalshi trading bot kalshi trading bot kalshi trading bot kalshi trading bot kalshi trading bot"
-  },
-  {
-    "repo": "frecodecasti/gem5-branchpred",
+    "repo": "mitjafelicijan/xdgctl",
     "branch": "master",
-    "language": "C++",
-    "description": "This is an read-only mirror of the gem5 simulator. The upstream repository is stored in https://gem5.googlesource.com, code reviews should be submitted to https://gem5-review.googlesource.com/. The mirrors are synchronized every 15 minutes."
+    "language": "C",
+    "description": "TUI for managing XDG default applications"
+  },
+  {
+    "repo": "AlexAnys/feishu-openclaw",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "Connect 飞书Feishu/Lark bot to openclaw (formerly Clawdbot) — no public server, no domain, no ngrok needed. 稳定免安装、共需5 分钟"
+  },
+  {
+    "repo": "HKUDS/MoChat",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "MoChat: Reconnecting the World through AI Agents (OpenClaw & nanobot & ClaudeCode) https://mochat.io"
+  },
+  {
+    "repo": "figure-markets/polymarket-copy-trading-bot",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "polymarket copytrading bot polymarket copytrading bot polymarket copytrading bot polymarket copytrading bot polymarket copytrading bot polymarket copytrading bot polymarket copytrading bot polymarket copytrading bot polymarket copytrading bot polymarket copytrading bot polymarket copytrading bot polymarket copytrading bot polymarket copytrading bot"
+  },
+  {
+    "repo": "jackwener/wx-cli",
+    "branch": "main",
+    "language": "Rust",
+    "description": "WeChat local data CLI with daemon architecture"
+  },
+  {
+    "repo": "kyutai-labs/hibiki-zero",
+    "branch": "main",
+    "language": "Python",
+    "description": "A real-time and multilingual speech translation model"
+  },
+  {
+    "repo": "JeanDupuis68/polymarket-arbitrage",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "💊Polymarket arbitrage trading bot Polymarket arbitrage bot polymarket bot Polymarket arbitrage trading bot Polymarket arbitrage bot polymarket bot Polymarket arbitrage trading bot Polymarket arbitrage bot polymarket bot Polymarket arbitrage trading bot Polymarket arbitrage bot polymarket bot Polymarket arbitrage trading bot Polymarket arbitrage bo"
+  },
+  {
+    "repo": "glommer/cachebro",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "File cache with diff tracking for AI coding agents. Drop-in MCP server that cuts token usage by 26%."
+  },
+  {
+    "repo": "mikeyobrien/rho",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "An AI agent that stays running, remembers across sessions, and checks in on its own. macOS, Linux, Android. Built on Pi."
+  },
+  {
+    "repo": "brunch/brunch",
+    "branch": "master",
+    "language": "JavaScript",
+    "description": "🍴 Web applications made easy. Since 2011."
+  },
+  {
+    "repo": "GoogleContainerTools/skaffold",
+    "branch": "main",
+    "language": "Go",
+    "description": "Easy and Repeatable Kubernetes Development"
+  },
+  {
+    "repo": "Myhhub/Stock",
+    "branch": "main",
+    "language": "Python",
+    "description": "stock股票.获取股票数据,计算股票指标,筹码分布,识别股票形态,综合选股,选股策略,股票验证回测,股票自动交易,支持PC及移动设备。"
+  },
+  {
+    "repo": "mgks/GitHubTree",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "Visualise any GitHub repository folder structure. Available as a web app, CLI tool, and node.js library."
+  },
+  {
+    "repo": "dagger/dagger",
+    "branch": "main",
+    "language": "Go",
+    "description": "Automation engine to build, test and ship any codebase. Runs locally, in CI, or directly in the cloud"
   }
 ]
