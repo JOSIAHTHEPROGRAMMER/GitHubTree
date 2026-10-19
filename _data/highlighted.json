@@ -1,8 +1,8 @@
 {
-  "repo": "longbridge/nsh",
+  "repo": "OverkillLabs3/driveclub-recomp",
   "branch": "main",
-  "language": "Rust",
-  "description": "NSH runs modules written in TSX — natively on iOS, Android, macOS, Windows, Linux, GPUI and the web",
-  "stars": 332,
-  "forks": 22
+  "language": "C++",
+  "description": "DriveClub (PS4, version 1.28) running natively on Windows",
+  "stars": 370,
+  "forks": 17
 }

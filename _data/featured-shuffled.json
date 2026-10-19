@@ -1,146 +1,146 @@
 [
   {
-    "repo": "Xiangyue-Zhang/auto-deep-researcher-24x7",
+    "repo": "pshycodr/airctl",
     "branch": "main",
     "language": "Python",
-    "description": "🔥 An autonomous AI agent that runs your deep learning experiments 24/7 while you sleep. Zero-cost monitoring, Leader-Worker architecture, constant-size memory."
+    "description": "AIRCTL, a modern WiFi management tool for Linux built with GTK4 and Python. It provides a clean interface to scan, connect, and manage wireless networks."
   },
   {
-    "repo": "Soul-AILab/SoulX-Transcriber",
+    "repo": "pixel-point/aval",
     "branch": "main",
-    "language": "Python",
-    "description": "An end-to-end framework for multi-speaker transcription that jointly models who spoke, when, and what."
+    "language": "TypeScript",
+    "description": "A new open-source format for interactive video on the web, with a built-in state machine, frame-accurate transitions, and packed-alpha transparency."
   },
   {
-    "repo": "PHjont/Wallpaper-Engine-Live-wallpaper-engine",
+    "repo": "johnBuffer/StableIndexVector",
     "branch": "main",
     "language": "C++",
-    "description": "Wallpaper Engine Steam: Live wallpaper engine. Features: 3D interactive scenes, audio visualizer, clock widgets. Android sync, mobile companion, playlist scheduler. Performance optimization, low CPU usage, LED hardware lighting, Razer Chroma, Corsair iCUE, Steam Workshop integration, SceneScript."
+    "description": ""
   },
   {
-    "repo": "Lcharvol/MacSift",
-    "branch": "main",
-    "language": "Swift",
-    "description": "Transparent macOS disk cleaner — groups files by app, moves to Trash (never permanent). SwiftUI + Liquid Glass, built for macOS Tahoe."
-  },
-  {
-    "repo": "pytorch/examples",
-    "branch": "main",
-    "language": "Python",
-    "description": "A set of examples around pytorch in Vision, Text, Reinforcement Learning, etc."
-  },
-  {
-    "repo": "eddyson-B/AI-Pumpfun-Copy-Trading-Bot",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "A simulation and execution script for tracking top wallet trades on PumpFun and analyzing profit opportunities with AI modeling."
-  },
-  {
-    "repo": "luccast/crabwalk",
-    "branch": "master",
-    "language": "TypeScript",
-    "description": "🦀 Crabwalk 🦀 Real-time companion monitor for Clawdbot agents."
-  },
-  {
-    "repo": "GordenSun/CuiMao",
+    "repo": "techjarves/OpenClaude-Portable",
     "branch": "main",
     "language": "HTML",
-    "description": "眼睛跟着鼠标旋转。"
+    "description": "Run Claude Code from a USB drive on any PC — no installation required."
   },
   {
-    "repo": "DoomVoss/BASpark",
-    "branch": "main",
-    "language": "C#",
-    "description": "基于 HTML5/Canvas 深度复刻《蔚蓝档案》UI 风格动效的 Windows 鼠标特效工具 || A Windows mouse effect tool reconstructing Blue Archive UI style using HTML5/Canvas"
-  },
-  {
-    "repo": "xoai/sage-wiki",
-    "branch": "main",
-    "language": "Go",
-    "description": "An LLM-compiled personal knowledge base.  Drop in your papers, articles, and notes. sage-wiki compiles them into a structured, interlinked wiki — with concepts extracted, cross-references discovered, and everything searchable."
-  },
-  {
-    "repo": "mitjafelicijan/xdgctl",
+    "repo": "humiaozuzu/awesome-flask",
     "branch": "master",
-    "language": "C",
-    "description": "TUI for managing XDG default applications"
+    "language": "Other",
+    "description": "A curated list of awesome Flask resources and plugins"
   },
   {
-    "repo": "AlexAnys/feishu-openclaw",
+    "repo": "mykolaharmash/notelet",
     "branch": "main",
-    "language": "JavaScript",
-    "description": "Connect 飞书Feishu/Lark bot to openclaw (formerly Clawdbot) — no public server, no domain, no ngrok needed. 稳定免安装、共需5 分钟"
+    "language": "Swift",
+    "description": "SwiftUI component for displaying rich release notes inside an app"
   },
   {
-    "repo": "HKUDS/MoChat",
+    "repo": "Ashlixy17/PCB_lightgraph_Portable",
     "branch": "main",
-    "language": "TypeScript",
-    "description": "MoChat: Reconnecting the World through AI Agents (OpenClaw & nanobot & ClaudeCode) https://mochat.io"
+    "language": "HTML",
+    "description": "此项目是与 PCB_lightgraph 功能完全相同点击即用的Web网页便捷版，无需下载安装。"
   },
   {
-    "repo": "figure-markets/polymarket-copy-trading-bot",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "polymarket copytrading bot polymarket copytrading bot polymarket copytrading bot polymarket copytrading bot polymarket copytrading bot polymarket copytrading bot polymarket copytrading bot polymarket copytrading bot polymarket copytrading bot polymarket copytrading bot polymarket copytrading bot polymarket copytrading bot polymarket copytrading bot"
-  },
-  {
-    "repo": "jackwener/wx-cli",
-    "branch": "main",
-    "language": "Rust",
-    "description": "WeChat local data CLI with daemon architecture"
-  },
-  {
-    "repo": "kyutai-labs/hibiki-zero",
+    "repo": "lemma-work/lemma-platform",
     "branch": "main",
     "language": "Python",
-    "description": "A real-time and multilingual speech translation model"
+    "description": "The open-source workspace where humans and AI agents work as one team."
   },
   {
-    "repo": "JeanDupuis68/polymarket-arbitrage",
+    "repo": "Sunislazi/rbxfpsunlocker-boost-More-240FPS",
     "branch": "main",
     "language": "TypeScript",
-    "description": "💊Polymarket arbitrage trading bot Polymarket arbitrage bot polymarket bot Polymarket arbitrage trading bot Polymarket arbitrage bot polymarket bot Polymarket arbitrage trading bot Polymarket arbitrage bot polymarket bot Polymarket arbitrage trading bot Polymarket arbitrage bot polymarket bot Polymarket arbitrage trading bot Polymarket arbitrage bo"
+    "description": "rbxfpsunlocker Roblox FPS BOOST: Roblox FPS unlocker download free More 240 FPS, uncap 60 FPS limit, axst GitHub source code, high refresh rate monitor, Roblox client lag fix, Byfron Hyperion anti-cheat compatibility, safe to use ban status, settings.ini configuration, rfu.exe not working error, ClientAppSettings json,bloxtstrap fps unlocke"
   },
   {
-    "repo": "glommer/cachebro",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "File cache with diff tracking for AI coding agents. Drop-in MCP server that cuts token usage by 26%."
-  },
-  {
-    "repo": "mikeyobrien/rho",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "An AI agent that stays running, remembers across sessions, and checks in on its own. macOS, Linux, Android. Built on Pi."
-  },
-  {
-    "repo": "brunch/brunch",
-    "branch": "master",
-    "language": "JavaScript",
-    "description": "🍴 Web applications made easy. Since 2011."
-  },
-  {
-    "repo": "GoogleContainerTools/skaffold",
-    "branch": "main",
-    "language": "Go",
-    "description": "Easy and Repeatable Kubernetes Development"
-  },
-  {
-    "repo": "Myhhub/Stock",
+    "repo": "MasterAlanLab/Register",
     "branch": "main",
     "language": "Python",
-    "description": "stock股票.获取股票数据,计算股票指标,筹码分布,识别股票形态,综合选股,选股策略,股票验证回测,股票自动交易,支持PC及移动设备。"
+    "description": ""
   },
   {
-    "repo": "mgks/GitHubTree",
+    "repo": "JUk1-GH/gpt-promo-scanner",
     "branch": "main",
-    "language": "JavaScript",
-    "description": "Visualise any GitHub repository folder structure. Available as a web app, CLI tool, and node.js library."
+    "language": "Python",
+    "description": "ChatGPT Team(Business) 促销码自动扫描工具 — 批量发现/验证/价格收集，支持 17 国 34 个码，最高折扣 71% | ChatGPT Business promo code scanner — batch discovery, validation, price collection, 34 codes across 17 countries, up to 71% off"
   },
   {
-    "repo": "dagger/dagger",
+    "repo": "dazzyddos/ClickOnceBlobber",
+    "branch": "main",
+    "language": "Python",
+    "description": ""
+  },
+  {
+    "repo": "ryanhcode/sable",
+    "branch": "main",
+    "language": "Java",
+    "description": "Interactive physics moving block structures!"
+  },
+  {
+    "repo": "PabloLopezParada/RACCOIN-Coin-Pusher-Roguelike-Desktop",
+    "branch": "main",
+    "language": "C++",
+    "description": "RACCOIN: Coin Pusher Roguelike Full Version 2026 is an addictive blend of classic coin pusher machines and roguelike gameplay. Push coins, collect epic rewards, upgrade your raccoon, unlock powerful relics and new machines across endless runs. Deep progression, high replayability, and satisfying coin mechanics. 🦝"
+  },
+  {
+    "repo": "tidwall/btype",
     "branch": "main",
     "language": "Go",
-    "description": "Automation engine to build, test and ship any codebase. Runs locally, in CI, or directly in the cloud"
+    "description": "B-tree based collection types for Go"
+  },
+  {
+    "repo": "adamlyttleapps/notchy",
+    "branch": "main",
+    "language": "Swift",
+    "description": ""
+  },
+  {
+    "repo": "saadansha/tts-prosody-probe",
+    "branch": "main",
+    "language": "Python",
+    "description": "Probe and compare the prosody (pitch / energy / duration) of TTS outputs."
+  },
+  {
+    "repo": "Multichain-Bot-Lab/polymarket-copy-trading-bot",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": ""
+  },
+  {
+    "repo": "shannhk/hermes-agent-control-room",
+    "branch": "main",
+    "language": "Shell",
+    "description": "Control Room-first template for managing Hermes agents from one VPS agent to specialist teams and orchestrated workflows"
+  },
+  {
+    "repo": "craigsc/cmux",
+    "branch": "main",
+    "language": "Shell",
+    "description": "cmux: tmux for Claude Code"
+  },
+  {
+    "repo": "strukto-ai/mirage",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "A Unified Virtual Filesystem For AI Agents"
+  },
+  {
+    "repo": "bernardohcrocha/persistia-for-claude-code",
+    "branch": "main",
+    "language": "HTML",
+    "description": "Give Claude Code the persistent memory it was missing and turn it into your operational co-pilot."
+  },
+  {
+    "repo": "patchfighterway90/cs2-external-overlay",
+    "branch": "main",
+    "language": "Python",
+    "description": "The cs2 external helper tool is a software utility designed for gamers and developers. It provides a set of features to enhance the gaming experience, including a customizable overlay. The tool is particularly useful for users who want to access additional information during gameplay."
+  },
+  {
+    "repo": "alchaincyf/codex-orange-book",
+    "branch": "main",
+    "language": "HTML",
+    "description": "OpenAI Codex: The Complete Guide · 橙皮书系列 · GPT-5.5 时代的 AI 编程实战手册"
   }
 ]
