@@ -1,8 +1,8 @@
 {
-  "repo": "OverkillLabs3/driveclub-recomp",
+  "repo": "llamaboi55/DragShift",
   "branch": "main",
-  "language": "C++",
-  "description": "DriveClub (PS4, version 1.28) running natively on Windows",
-  "stars": 370,
-  "forks": 17
+  "language": "Python",
+  "description": "Convert and edit files with a liquid-glass radial menu: start dragging a file, press Shift, drop it on a slice. Windows, Mac and Linux.",
+  "stars": 228,
+  "forks": 20
 }

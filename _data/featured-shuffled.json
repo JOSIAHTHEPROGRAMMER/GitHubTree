@@ -1,146 +1,146 @@
 [
   {
-    "repo": "pshycodr/airctl",
+    "repo": "3DCF-Labs/safepilot",
     "branch": "main",
-    "language": "Python",
-    "description": "AIRCTL, a modern WiFi management tool for Linux built with GTK4 and Python. It provides a clean interface to scan, connect, and manage wireless networks."
+    "language": "Rust",
+    "description": "AI assistant that executes real work, safely."
   },
   {
-    "repo": "pixel-point/aval",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "A new open-source format for interactive video on the web, with a built-in state machine, frame-accurate transitions, and packed-alpha transparency."
-  },
-  {
-    "repo": "johnBuffer/StableIndexVector",
-    "branch": "main",
-    "language": "C++",
-    "description": ""
-  },
-  {
-    "repo": "techjarves/OpenClaude-Portable",
-    "branch": "main",
-    "language": "HTML",
-    "description": "Run Claude Code from a USB drive on any PC — no installation required."
-  },
-  {
-    "repo": "humiaozuzu/awesome-flask",
+    "repo": "nsqio/nsq",
     "branch": "master",
-    "language": "Other",
-    "description": "A curated list of awesome Flask resources and plugins"
+    "language": "Go",
+    "description": "A realtime distributed messaging platform"
   },
   {
-    "repo": "mykolaharmash/notelet",
+    "repo": "rayenamor434-max/Death_Stranding_2__On_the_Beach_Trainer",
     "branch": "main",
-    "language": "Swift",
-    "description": "SwiftUI component for displaying rich release notes inside an app"
+    "language": "Python",
+    "description": "Unlimited resources, stamina, and all structures for Death Stranding 2. Build ziplines, roads, and bridges instantly. Never tire and carry infinite weight."
   },
   {
-    "repo": "Ashlixy17/PCB_lightgraph_Portable",
+    "repo": "Maxll51/EZVenera-Lite",
     "branch": "main",
     "language": "HTML",
-    "description": "此项目是与 PCB_lightgraph 功能完全相同点击即用的Web网页便捷版，无需下载安装。"
+    "description": "EZVenera 2026 Edition: Lightweight Venera Rewrite with Streamlined Plugin Runtime for Windows & Android"
   },
   {
-    "repo": "lemma-work/lemma-platform",
-    "branch": "main",
-    "language": "Python",
-    "description": "The open-source workspace where humans and AI agents work as one team."
-  },
-  {
-    "repo": "Sunislazi/rbxfpsunlocker-boost-More-240FPS",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "rbxfpsunlocker Roblox FPS BOOST: Roblox FPS unlocker download free More 240 FPS, uncap 60 FPS limit, axst GitHub source code, high refresh rate monitor, Roblox client lag fix, Byfron Hyperion anti-cheat compatibility, safe to use ban status, settings.ini configuration, rfu.exe not working error, ClientAppSettings json,bloxtstrap fps unlocke"
-  },
-  {
-    "repo": "MasterAlanLab/Register",
-    "branch": "main",
-    "language": "Python",
-    "description": ""
-  },
-  {
-    "repo": "JUk1-GH/gpt-promo-scanner",
-    "branch": "main",
-    "language": "Python",
-    "description": "ChatGPT Team(Business) 促销码自动扫描工具 — 批量发现/验证/价格收集，支持 17 国 34 个码，最高折扣 71% | ChatGPT Business promo code scanner — batch discovery, validation, price collection, 34 codes across 17 countries, up to 71% off"
-  },
-  {
-    "repo": "dazzyddos/ClickOnceBlobber",
-    "branch": "main",
-    "language": "Python",
-    "description": ""
-  },
-  {
-    "repo": "ryanhcode/sable",
-    "branch": "main",
-    "language": "Java",
-    "description": "Interactive physics moving block structures!"
-  },
-  {
-    "repo": "PabloLopezParada/RACCOIN-Coin-Pusher-Roguelike-Desktop",
+    "repo": "tony-cote/walletgen",
     "branch": "main",
     "language": "C++",
-    "description": "RACCOIN: Coin Pusher Roguelike Full Version 2026 is an addictive blend of classic coin pusher machines and roguelike gameplay. Push coins, collect epic rewards, upgrade your raccoon, unlock powerful relics and new machines across endless runs. Deep progression, high replayability, and satisfying coin mechanics. 🦝"
+    "description": "WalletGen - Seed phrase generator and finder for Bitcoin, EVM (Ethereum) wallets. Recovery your lost BTC or ETH wallet via private key / seed phrase generation."
   },
   {
-    "repo": "tidwall/btype",
-    "branch": "main",
-    "language": "Go",
-    "description": "B-tree based collection types for Go"
-  },
-  {
-    "repo": "adamlyttleapps/notchy",
+    "repo": "didriksg/Crisp",
     "branch": "main",
     "language": "Swift",
+    "description": "A free, open-source alternative to BetterDisplay and Lunar. Every display control macOS hides in one menu bar panel: external monitor brightness (DDC or software), HiDPI scaling, XDR presets, virtual displays, color, and arrangement. Feels like it shipped with your Mac."
+  },
+  {
+    "repo": "gsgpkazqyx/zapret-vpn-russia",
+    "branch": "main",
+    "language": "Rust",
+    "description": "Лучший бесплатный VPN для Windows 10/11 на русском языке! Скачать ВПН без регистрации для разблокировки YouTube, Telegram, Instagram в России 2026. Высокая скорость 100+ Мбит/с, простая установка за 30 секунд. Работает с Ростелеком, МТС, Билайн."
+  },
+  {
+    "repo": "bandyah/uni-mm-trainer",
+    "branch": "main",
+    "language": "Python",
+    "description": "A small library for training multimodal LLMs combining text, vision, and audio"
+  },
+  {
+    "repo": "MSNightmare/LegacyHive",
+    "branch": "main",
+    "language": "C++",
+    "description": "N/A"
+  },
+  {
+    "repo": "0xwilliamortiz/humanizer-cli",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "33 ways to spot AI-written text, right in your terminal. Before/after examples, draft checker, zero dependencies."
+  },
+  {
+    "repo": "mana-am/matrix-swift",
+    "branch": "main",
+    "language": "Swift",
+    "description": "Animated dot-matrix loading indicators for SwiftUI — 100+ deterministic dot loaders, zero assets, zero dependencies. A faithful Swift port of zzzzshawn/matrix."
+  },
+  {
+    "repo": "antigravity-cli-google/antigravity-cli",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "google antigravity cli ide github agentic development platform gemini 3.5 flash terminal ai agent automatic coding workspace installation guide tutorial windows mac linux"
+  },
+  {
+    "repo": "bozhouDev/14days-build-claude-code-cli",
+    "branch": "main",
+    "language": "MDX",
+    "description": "网页版教程，看起来会舒服一点"
+  },
+  {
+    "repo": "buynao/aipath",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "Interactive AI General Education Course — 30 Lessons, Zero Math"
+  },
+  {
+    "repo": "paid-tw/einvoice",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "台灣電子發票統一 SDK：一套與供應商無關的介面，支援 Amego、ECPay 綠界、ezPay 藍新與財政部平台。Unified e-invoice (電子發票) SDK for Taiwan — one interface, multiple providers."
+  },
+  {
+    "repo": "rbrown101010/rilable",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "An iPhone app that builds apps — prompt to live web + iOS apps. SwiftUI + Convex + Claude + Daytona + Chorus."
+  },
+  {
+    "repo": "redux-saga/redux-saga",
+    "branch": "master",
+    "language": "JavaScript",
+    "description": "An alternative side effect model for Redux apps"
+  },
+  {
+    "repo": "triangkas/Deltarune-Chapter5-Trainer-Toolkit",
+    "branch": "main",
+    "language": "Python",
+    "description": "Advanced Deltarune Chapter 5 trainer featuring infinite HP, max stats, unlimited items, and speed control. Undetected external tool for single-player exploration."
+  },
+  {
+    "repo": "appergb/openless",
+    "branch": "main",
+    "language": "HTML",
+    "description": "Hold a key, speak, release — AI-polished text appears at your cursor in any app. Open-source voice input for macOS & Windows. (按住快捷键说话，松开即得润色后的文字)"
+  },
+  {
+    "repo": "lyngocphat2031-png/Anime-Nexus-Library",
+    "branch": "main",
+    "language": "HTML",
+    "description": "Ultimate Anime Downloader & Manager Tool 2026 — No Ads, No Limits"
+  },
+  {
+    "repo": "denuitt1/mhr-cfw",
+    "branch": "main",
+    "language": "Python",
     "description": ""
   },
   {
-    "repo": "saadansha/tts-prosody-probe",
+    "repo": "carbonengine/trinity",
     "branch": "main",
-    "language": "Python",
-    "description": "Probe and compare the prosody (pitch / energy / duration) of TTS outputs."
+    "language": "C++",
+    "description": "Rendering engine for the Carbon Game Engine"
   },
   {
-    "repo": "Multichain-Bot-Lab/polymarket-copy-trading-bot",
+    "repo": "HeroicLauncher/HeroicGamesLauncher",
     "branch": "main",
     "language": "TypeScript",
-    "description": ""
+    "description": "heroic games launcher Download github pc heroicgameslauncher steam epic games gog amazon prime gaming nile legendary open source windows 11"
   },
   {
-    "repo": "shannhk/hermes-agent-control-room",
-    "branch": "main",
-    "language": "Shell",
-    "description": "Control Room-first template for managing Hermes agents from one VPS agent to specialist teams and orchestrated workflows"
-  },
-  {
-    "repo": "craigsc/cmux",
-    "branch": "main",
-    "language": "Shell",
-    "description": "cmux: tmux for Claude Code"
-  },
-  {
-    "repo": "strukto-ai/mirage",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "A Unified Virtual Filesystem For AI Agents"
-  },
-  {
-    "repo": "bernardohcrocha/persistia-for-claude-code",
-    "branch": "main",
-    "language": "HTML",
-    "description": "Give Claude Code the persistent memory it was missing and turn it into your operational co-pilot."
-  },
-  {
-    "repo": "patchfighterway90/cs2-external-overlay",
+    "repo": "jackwener/xhs-cli",
     "branch": "main",
     "language": "Python",
-    "description": "The cs2 external helper tool is a software utility designed for gamers and developers. It provides a set of features to enhance the gaming experience, including a customizable overlay. The tool is particularly useful for users who want to access additional information during gameplay."
-  },
-  {
-    "repo": "alchaincyf/codex-orange-book",
-    "branch": "main",
-    "language": "HTML",
-    "description": "OpenAI Codex: The Complete Guide · 橙皮书系列 · GPT-5.5 时代的 AI 编程实战手册"
+    "description": "小红书命令行工具 — 搜索、阅读、点赞、收藏、评论，全在终端完成 | Xiaohongshu CLI"
   }
 ]
