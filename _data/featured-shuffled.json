@@ -1,146 +1,146 @@
 [
   {
-    "repo": "miaoxworld/OpenClawInstaller",
-    "branch": "main",
-    "language": "Shell",
-    "description": "ClawdBot 一键部署工具"
-  },
-  {
-    "repo": "pynecone-io/pynecone",
-    "branch": "main",
-    "language": "Python",
-    "description": "🕸️ Web apps in pure Python 🐍"
-  },
-  {
-    "repo": "Tencent/wepy",
-    "branch": "master",
-    "language": "JavaScript",
-    "description": "小程序组件化开发框架"
-  },
-  {
-    "repo": "ZethRise/Aethery",
-    "branch": "master",
-    "language": "Rust",
-    "description": "One-click mobile GUI for the Aether censorship-circumvention tunnel — Kotlin & Rust"
-  },
-  {
-    "repo": "hiteshchoudhary/gitbackup",
+    "repo": "blendi-remade/interdimensional-game",
     "branch": "main",
     "language": "TypeScript",
-    "description": "It was personal script but now it is a complete desktop application to take backup of your github account"
+    "description": ""
   },
   {
-    "repo": "corespeed-io/wechatbot",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "微信 iLink Bot SDK for OpenClaw/AI Agent"
-  },
-  {
-    "repo": "golbin/agent-skills",
-    "branch": "main",
-    "language": "Shell",
-    "description": "Reusable agent skills for Codex and compatible tools"
-  },
-  {
-    "repo": "coleam00/excalidraw-diagram-skill",
-    "branch": "main",
-    "language": "Python",
-    "description": "Skill to give Claude Code (and any coding agent) the ability to generate beautiful and practical Excalidraw diagrams."
-  },
-  {
-    "repo": "kristelTech/make_me_a_meme",
-    "branch": "main",
-    "language": "Python",
-    "description": "This repository detects your facial expressions and matches you with a famous meme."
-  },
-  {
-    "repo": "grpc/grpc",
-    "branch": "master",
-    "language": "C++",
-    "description": "C++ based gRPC (C++, Python, Ruby, Objective-C, PHP, C#)"
-  },
-  {
-    "repo": "golang-migrate/migrate",
-    "branch": "master",
-    "language": "Go",
-    "description": "Database migrations. CLI and Golang library."
-  },
-  {
-    "repo": "nizarlbogos/Windrose-Game-Server-Docker",
-    "branch": "main",
-    "language": "C++",
-    "description": "Docker container for running a Windrose dedicated server. Easy self-hosting solution with Wine and SteamCMD for the pirate survival game Windrose."
-  },
-  {
-    "repo": "WeaveMindAI/weft",
-    "branch": "main",
-    "language": "Rust",
-    "description": "A programming language for AI systems"
-  },
-  {
-    "repo": "prometheus/prometheus",
+    "repo": "earthly/earthly",
     "branch": "main",
     "language": "Go",
-    "description": "The Prometheus monitoring system and time series database."
+    "description": "Super simple build framework with fast, repeatable builds and an instantly familiar syntax – like Dockerfile and Makefile had a baby."
   },
   {
-    "repo": "BytePioneer-AI/moltbot-china",
+    "repo": "frckeepit/llm-production-toolkit",
+    "branch": "main",
+    "language": "Python",
+    "description": "Production-ready toolkit for evaluating, monitoring, and ensuring safety of LLM deployments. Hallucination detection, bias evaluation, feedback loops, and production readiness assessment."
+  },
+  {
+    "repo": "vueuse/skills",
     "branch": "main",
     "language": "TypeScript",
-    "description": "Clawdbot/OpenClaw中国插件：支持飞书，钉钉，QQ，企业微信"
+    "description": "Agent Skills for VueUse"
   },
   {
-    "repo": "nesaminua/claude-code-lsp-enforcement-kit",
+    "repo": "hashicorp/vault",
+    "branch": "main",
+    "language": "Go",
+    "description": "A tool for secrets management, encryption as a service, and privileged access management"
+  },
+  {
+    "repo": "TheOdinProject/css-exercises",
+    "branch": "main",
+    "language": "HTML",
+    "description": "A repository for practicing CSS concepts."
+  },
+  {
+    "repo": "spacedriveapp/spacedrive",
+    "branch": "main",
+    "language": "Rust",
+    "description": "Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust."
+  },
+  {
+    "repo": "rook/rook",
+    "branch": "master",
+    "language": "Go",
+    "description": "Storage Orchestration for Kubernetes"
+  },
+  {
+    "repo": "RocketChat/Rocket.Chat",
+    "branch": "develop",
+    "language": "TypeScript",
+    "description": "The Secure CommsOS™ for mission-critical operations"
+  },
+  {
+    "repo": "jackwener/wx-cli",
+    "branch": "main",
+    "language": "Rust",
+    "description": "WeChat local data CLI with daemon architecture"
+  },
+  {
+    "repo": "hellowind777/hello2cc",
     "branch": "main",
     "language": "JavaScript",
-    "description": "Hooks that force Claude Code to use LSP instead of Grep for code navigation. Saves   ~80% tokens"
+    "description": "Native-first Claude Code plugin for third-party models with silent Agent model injection and output styles."
   },
   {
-    "repo": "Introspective-Diffusion/I-DLM",
+    "repo": "URLab-Sim/UnrealRoboticsLab",
+    "branch": "main",
+    "language": "C++",
+    "description": "A high-fidelity, open-source robotics simulator integrating Unreal Engine's photorealistic rendering with MuJoCo's precision physics."
+  },
+  {
+    "repo": "CodeSeven/toastr",
+    "branch": "master",
+    "language": "JavaScript",
+    "description": "Simple javascript toast notifications"
+  },
+  {
+    "repo": "cloudflare/pingora",
+    "branch": "main",
+    "language": "Rust",
+    "description": "A library for building fast, reliable and evolvable network services."
+  },
+  {
+    "repo": "doocs/advanced-java",
+    "branch": "main",
+    "language": "Java",
+    "description": "😮 Core Interview Questions & Answers For Experienced Java(Backend) Developers | 互联网 Java 工程师进阶知识完全扫盲：涵盖高并发、分布式、高可用、微服务、海量数据处理等领域知识"
+  },
+  {
+    "repo": "userland-run/nano",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "nano — Run real Node.js and other statically linked Linux binaries directly in the browser via a tiny RISC-V user-mode Linux interpreter compiled to WebAssembly. No containers. No servers. Pure client-side execution."
+  },
+  {
+    "repo": "compozy/compozy",
+    "branch": "main",
+    "language": "Go",
+    "description": "Drive the full lifecycle of AI-assisted development — from idea to shipped code."
+  },
+  {
+    "repo": "invertase/react-native-firebase",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "🔥 A well-tested feature-rich modular Firebase implementation for React Native. Supports both iOS & Android platforms for all Firebase services."
+  },
+  {
+    "repo": "async-rs/async-std",
+    "branch": "master",
+    "language": "Rust",
+    "description": "Async version of the Rust standard library"
+  },
+  {
+    "repo": "kitft/natural_language_autoencoders",
     "branch": "main",
     "language": "Python",
     "description": ""
   },
   {
-    "repo": "pixijs/pixijs",
-    "branch": "dev",
+    "repo": "freshyman1/ChatGPT-5.5-OpenAI-Unlimited-Desktop",
+    "branch": "main",
     "language": "TypeScript",
-    "description": "The HTML5 Creation Engine: Create beautiful digital content with the fastest, most flexible 2D WebGL renderer."
+    "description": "Free ChatGPT 5.5 OpenAI Unlimited is a professional AI suite for advanced reasoning and automation. It features expanded context windows, multimodal support, and high-speed execution. Designed for power users, it ensures seamless AI integration and performance for complex 2026 workflows. Codex"
   },
   {
-    "repo": "stanford-iris-lab/meta-harness",
+    "repo": "remotion-dev/html-in-canvas",
     "branch": "main",
-    "language": "Python",
-    "description": "Reference code for the Meta-Harness paper."
-  },
-  {
-    "repo": "microsoft/terminal",
-    "branch": "main",
-    "language": "C++",
-    "description": "The new Windows Terminal and the original Windows console host, all in the same place!"
-  },
-  {
-    "repo": "Zephkek/XStoreUnlocker",
-    "branch": "main",
-    "language": "C++",
-    "description": "DLC unlocker for Microsoft Store and Xbox PC games."
-  },
-  {
-    "repo": "helenigtxu/blooket",
-    "branch": "main",
-    "language": "Rust",
+    "language": "TypeScript",
     "description": ""
   },
   {
-    "repo": "blader/taskmaster",
+    "repo": "vmware-tanzu/velero",
     "branch": "main",
-    "language": "Shell",
-    "description": "Stop hook for Claude Code that keeps the agent working until all plans and user requests are 100% complete"
+    "language": "Go",
+    "description": "Backup and migrate Kubernetes applications and their persistent volumes"
   },
   {
-    "repo": "colinhacks/zod",
+    "repo": "apache/mxnet",
     "branch": "master",
-    "language": "TypeScript",
-    "description": "TypeScript-first schema validation with static type inference"
+    "language": "C++",
+    "description": "Lightweight, Portable, Flexible Distributed/Mobile Deep Learning with Dynamic, Mutation-aware Dataflow Dep Scheduler; for Python, R, Julia, Scala, Go, Javascript and more"
   }
 ]
