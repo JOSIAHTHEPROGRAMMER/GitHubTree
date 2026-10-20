@@ -1,146 +1,146 @@
 [
   {
-    "repo": "3DCF-Labs/safepilot",
+    "repo": "pewdiepie-archdaemon/odysseus",
     "branch": "main",
-    "language": "Rust",
-    "description": "AI assistant that executes real work, safely."
+    "language": "JavaScript",
+    "description": "Self-hosted AI workspace."
   },
   {
-    "repo": "nsqio/nsq",
-    "branch": "master",
+    "repo": "awlevin/typesafe-computer-use",
+    "branch": "main",
+    "language": "Python",
+    "description": "Computer use for about $0.0002 a step: OCR the screen, classify the next action with TypeSafe, click. macOS."
+  },
+  {
+    "repo": "VtrAha/bybit-trading-bot",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Bybit trading bot, perpetual trading bot, Bybit automated futures bot, USDT linear perp cryptocurrency trading bot Bybit V5 crypto bot automated, Bybit trading bot, perpetual trading bot, Bybit automated futures bot, USDT linear perp cryptocurrency trading bot Bybit V5 crypto bot automated,"
+  },
+  {
+    "repo": "NabilAziz99/agent-runtime",
+    "branch": "main",
+    "language": "Python",
+    "description": "Python port of Claude Code's agent-runtime architecture, on LangChain"
+  },
+  {
+    "repo": "YangWang92/open-open-reasoning",
+    "branch": "main",
+    "language": "HTML",
+    "description": ""
+  },
+  {
+    "repo": "squadassurancevoid/fl-studio-premium-release",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "FL Studio 2026 Premium Release: Official Desktop Installer for Windows - Full Version. Experience studio-quality sound production."
+  },
+  {
+    "repo": "c0deJedi/nbd-vram",
+    "branch": "main",
+    "language": "C",
+    "description": "Use your NVIDIA GPU's VRAM as swap space on Linux. Built for laptops with soldered memory and no upgrade path. If you have an RTX card sitting there with 8GB of VRAM and you're getting swapped to SSD, this puts that VRAM to work"
+  },
+  {
+    "repo": "xzf-thu/Mega-ASR",
+    "branch": "main",
+    "language": "Python",
+    "description": "First foundation ASR built for the real world - 7 atomic acoustic conditions, 54 compound scenarios, 2.6M samples, and up to ~30% gains over SOTA where every other model falls apart. **You'll come back to MEGA-ASR, after the rest fail in the wild. ⭐**"
+  },
+  {
+    "repo": "codermyxiaoc/sub2api-guardian",
+    "branch": "main",
     "language": "Go",
-    "description": "A realtime distributed messaging platform"
+    "description": "sub2api-guardian"
   },
   {
-    "repo": "rayenamor434-max/Death_Stranding_2__On_the_Beach_Trainer",
+    "repo": "BJTUpupil/AscendFHE",
+    "branch": "main",
+    "language": "C++",
+    "description": ""
+  },
+  {
+    "repo": "MohammdKopa/discord-server-booster-2026",
+    "branch": "main",
+    "language": "C++",
+    "description": "Discord Nexus Booster 2026 — Advanced Community Scaling & Engagement Automation Suite. High-speed Server Boosting via Token Synchronization, Automated Reward Management, and Infinite Invite Tracking. Cloud-based Infrastructure for Rapid Community Growth."
+  },
+  {
+    "repo": "theartistscut1-uig/Metro_Last_Light_Unlimited_Ammo___Filters",
     "branch": "main",
     "language": "Python",
-    "description": "Unlimited resources, stamina, and all structures for Death Stranding 2. Build ziplines, roads, and bridges instantly. Never tire and carry infinite weight."
+    "description": "Unlimited ammo, filters, and health for Metro Last Light. Never run out of oxygen, infinite military-grade rounds, and god mode."
   },
   {
-    "repo": "Maxll51/EZVenera-Lite",
+    "repo": "duggasco/bc250-40cu-unlock",
+    "branch": "main",
+    "language": "Shell",
+    "description": "Re-enable all 40 CUs on the AMD BC-250 (gfx1013 / Cyan Skillfish). Kernel patch + build script. 1.61x compute scaling verified."
+  },
+  {
+    "repo": "opengeos/GeoLibre",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Lightweight, cloud-native desktop GIS built with Tauri v2, React, TypeScript, and MapLibre GL JS."
+  },
+  {
+    "repo": "MIKOTOKAWAII25/local-ai-code-assistant",
     "branch": "main",
     "language": "HTML",
-    "description": "EZVenera 2026 Edition: Lightweight Venera Rewrite with Streamlined Plugin Runtime for Windows & Android"
+    "description": "Local AI Coding Hub: Run Claude Models Offline in 2026"
   },
   {
-    "repo": "tony-cote/walletgen",
+    "repo": "Sophomoresty/bpc-fetch",
     "branch": "main",
-    "language": "C++",
-    "description": "WalletGen - Seed phrase generator and finder for Bitcoin, EVM (Ethereum) wallets. Recovery your lost BTC or ETH wallet via private key / seed phrase generation."
+    "language": "JavaScript",
+    "description": "Bypass paywall sites — search, discover, and batch fetch articles as Markdown. 936 sites supported."
   },
   {
-    "repo": "didriksg/Crisp",
+    "repo": "ZettPW/KMSTools",
     "branch": "main",
-    "language": "Swift",
-    "description": "A free, open-source alternative to BetterDisplay and Lunar. Every display control macOS hides in one menu bar panel: external monitor brightness (DDC or software), HiDPI scaling, XDR presets, virtual displays, color, and arrangement. Feels like it shipped with your Mac."
+    "language": "C#",
+    "description": "windows tool, office 2026 perpetual license command, net download, digital entitlement permanent custom host"
   },
   {
-    "repo": "gsgpkazqyx/zapret-vpn-russia",
-    "branch": "main",
-    "language": "Rust",
-    "description": "Лучший бесплатный VPN для Windows 10/11 на русском языке! Скачать ВПН без регистрации для разблокировки YouTube, Telegram, Instagram в России 2026. Высокая скорость 100+ Мбит/с, простая установка за 30 секунд. Работает с Ростелеком, МТС, Билайн."
-  },
-  {
-    "repo": "bandyah/uni-mm-trainer",
+    "repo": "Parth-Rana-333/Spider-Man_Remastered_Unlimited_Gadgets",
     "branch": "main",
     "language": "Python",
-    "description": "A small library for training multimodal LLMs combining text, vision, and audio"
+    "description": "Unlimited gadgets, skill points, and all suits for Spider-Man Remastered. God mode, infinite web swing, and instant takedowns."
   },
   {
-    "repo": "MSNightmare/LegacyHive",
-    "branch": "main",
-    "language": "C++",
-    "description": "N/A"
-  },
-  {
-    "repo": "0xwilliamortiz/humanizer-cli",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "33 ways to spot AI-written text, right in your terminal. Before/after examples, draft checker, zero dependencies."
-  },
-  {
-    "repo": "mana-am/matrix-swift",
-    "branch": "main",
-    "language": "Swift",
-    "description": "Animated dot-matrix loading indicators for SwiftUI — 100+ deterministic dot loaders, zero assets, zero dependencies. A faithful Swift port of zzzzshawn/matrix."
-  },
-  {
-    "repo": "antigravity-cli-google/antigravity-cli",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "google antigravity cli ide github agentic development platform gemini 3.5 flash terminal ai agent automatic coding workspace installation guide tutorial windows mac linux"
-  },
-  {
-    "repo": "bozhouDev/14days-build-claude-code-cli",
-    "branch": "main",
-    "language": "MDX",
-    "description": "网页版教程，看起来会舒服一点"
-  },
-  {
-    "repo": "buynao/aipath",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "Interactive AI General Education Course — 30 Lessons, Zero Math"
-  },
-  {
-    "repo": "paid-tw/einvoice",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "台灣電子發票統一 SDK：一套與供應商無關的介面，支援 Amego、ECPay 綠界、ezPay 藍新與財政部平台。Unified e-invoice (電子發票) SDK for Taiwan — one interface, multiple providers."
-  },
-  {
-    "repo": "rbrown101010/rilable",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "An iPhone app that builds apps — prompt to live web + iOS apps. SwiftUI + Convex + Claude + Daytona + Chorus."
-  },
-  {
-    "repo": "redux-saga/redux-saga",
+    "repo": "Evokoa/pgContext",
     "branch": "master",
-    "language": "JavaScript",
-    "description": "An alternative side effect model for Redux apps"
+    "language": "Rust",
+    "description": "A full AI search engine, built into Postgres."
   },
   {
-    "repo": "triangkas/Deltarune-Chapter5-Trainer-Toolkit",
+    "repo": "MobAI-App/simslim",
     "branch": "main",
-    "language": "Python",
-    "description": "Advanced Deltarune Chapter 5 trainer featuring infinite HP, max stats, unlimited items, and speed control. Undetected external tool for single-player exploration."
+    "language": "Go",
+    "description": "Run more iOS simulators on one Mac by disabling background daemons a simulator doesn't need"
   },
   {
-    "repo": "appergb/openless",
-    "branch": "main",
-    "language": "HTML",
-    "description": "Hold a key, speak, release — AI-polished text appears at your cursor in any app. Open-source voice input for macOS & Windows. (按住快捷键说话，松开即得润色后的文字)"
-  },
-  {
-    "repo": "lyngocphat2031-png/Anime-Nexus-Library",
-    "branch": "main",
-    "language": "HTML",
-    "description": "Ultimate Anime Downloader & Manager Tool 2026 — No Ads, No Limits"
-  },
-  {
-    "repo": "denuitt1/mhr-cfw",
+    "repo": "GordenSun/mathVideoMaker",
     "branch": "main",
     "language": "Python",
     "description": ""
   },
   {
-    "repo": "carbonengine/trinity",
-    "branch": "main",
-    "language": "C++",
-    "description": "Rendering engine for the Carbon Game Engine"
-  },
-  {
-    "repo": "HeroicLauncher/HeroicGamesLauncher",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "heroic games launcher Download github pc heroicgameslauncher steam epic games gog amazon prime gaming nile legendary open source windows 11"
-  },
-  {
-    "repo": "jackwener/xhs-cli",
+    "repo": "zq779/yuhutong",
     "branch": "main",
     "language": "Python",
-    "description": "小红书命令行工具 — 搜索、阅读、点赞、收藏、评论，全在终端完成 | Xiaohongshu CLI"
+    "description": ""
+  },
+  {
+    "repo": "japp-fi/polymarket-mcp-server",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "polymarket mcp server market discovery and analysis via public APIs; optional authenticated trading and portfolio tools when your wallet derives (or supplies) CLOB L2 credentials polymarket mcp server market discovery and analysis via public APIs; optional authenticated trading and portfolio tools when your wallet derives (or supplies) CLOB L2"
+  },
+  {
+    "repo": "yynxxxxx/Codex-5.5-codex-instruct-5.5",
+    "branch": "main",
+    "language": "Python",
+    "description": ""
   }
 ]
