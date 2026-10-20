@@ -1,8 +1,8 @@
 {
-  "repo": "Blapples/SekaiPop",
-  "branch": "main",
-  "language": "QML",
-  "description": "a project sekai inspired quickshell rice",
-  "stars": 289,
-  "forks": 15
+  "repo": "ZigZagBoi1/PS5-14.10-Research",
+  "branch": "master",
+  "language": "Assembly",
+  "description": "Open PS5 firmware 14.10 research: Lua userland experiments, syscall and attack-surface analysis. Kernel read/write and a complete exploit are not demonstrated.",
+  "stars": 245,
+  "forks": 18
 }

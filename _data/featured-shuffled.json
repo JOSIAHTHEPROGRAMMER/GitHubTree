@@ -1,146 +1,146 @@
 [
   {
-    "repo": "pewdiepie-archdaemon/odysseus",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "Self-hosted AI workspace."
-  },
-  {
-    "repo": "awlevin/typesafe-computer-use",
-    "branch": "main",
-    "language": "Python",
-    "description": "Computer use for about $0.0002 a step: OCR the screen, classify the next action with TypeSafe, click. macOS."
-  },
-  {
-    "repo": "VtrAha/bybit-trading-bot",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Bybit trading bot, perpetual trading bot, Bybit automated futures bot, USDT linear perp cryptocurrency trading bot Bybit V5 crypto bot automated, Bybit trading bot, perpetual trading bot, Bybit automated futures bot, USDT linear perp cryptocurrency trading bot Bybit V5 crypto bot automated,"
-  },
-  {
-    "repo": "NabilAziz99/agent-runtime",
-    "branch": "main",
-    "language": "Python",
-    "description": "Python port of Claude Code's agent-runtime architecture, on LangChain"
-  },
-  {
-    "repo": "YangWang92/open-open-reasoning",
-    "branch": "main",
-    "language": "HTML",
-    "description": ""
-  },
-  {
-    "repo": "squadassurancevoid/fl-studio-premium-release",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "FL Studio 2026 Premium Release: Official Desktop Installer for Windows - Full Version. Experience studio-quality sound production."
-  },
-  {
-    "repo": "c0deJedi/nbd-vram",
-    "branch": "main",
-    "language": "C",
-    "description": "Use your NVIDIA GPU's VRAM as swap space on Linux. Built for laptops with soldered memory and no upgrade path. If you have an RTX card sitting there with 8GB of VRAM and you're getting swapped to SSD, this puts that VRAM to work"
-  },
-  {
-    "repo": "xzf-thu/Mega-ASR",
-    "branch": "main",
-    "language": "Python",
-    "description": "First foundation ASR built for the real world - 7 atomic acoustic conditions, 54 compound scenarios, 2.6M samples, and up to ~30% gains over SOTA where every other model falls apart. **You'll come back to MEGA-ASR, after the rest fail in the wild. ⭐**"
-  },
-  {
-    "repo": "codermyxiaoc/sub2api-guardian",
-    "branch": "main",
-    "language": "Go",
-    "description": "sub2api-guardian"
-  },
-  {
-    "repo": "BJTUpupil/AscendFHE",
-    "branch": "main",
-    "language": "C++",
-    "description": ""
-  },
-  {
-    "repo": "MohammdKopa/discord-server-booster-2026",
-    "branch": "main",
-    "language": "C++",
-    "description": "Discord Nexus Booster 2026 — Advanced Community Scaling & Engagement Automation Suite. High-speed Server Boosting via Token Synchronization, Automated Reward Management, and Infinite Invite Tracking. Cloud-based Infrastructure for Rapid Community Growth."
-  },
-  {
-    "repo": "theartistscut1-uig/Metro_Last_Light_Unlimited_Ammo___Filters",
-    "branch": "main",
-    "language": "Python",
-    "description": "Unlimited ammo, filters, and health for Metro Last Light. Never run out of oxygen, infinite military-grade rounds, and god mode."
-  },
-  {
-    "repo": "duggasco/bc250-40cu-unlock",
+    "repo": "miaoxworld/OpenClawInstaller",
     "branch": "main",
     "language": "Shell",
-    "description": "Re-enable all 40 CUs on the AMD BC-250 (gfx1013 / Cyan Skillfish). Kernel patch + build script. 1.61x compute scaling verified."
+    "description": "ClawdBot 一键部署工具"
   },
   {
-    "repo": "opengeos/GeoLibre",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Lightweight, cloud-native desktop GIS built with Tauri v2, React, TypeScript, and MapLibre GL JS."
-  },
-  {
-    "repo": "MIKOTOKAWAII25/local-ai-code-assistant",
-    "branch": "main",
-    "language": "HTML",
-    "description": "Local AI Coding Hub: Run Claude Models Offline in 2026"
-  },
-  {
-    "repo": "Sophomoresty/bpc-fetch",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "Bypass paywall sites — search, discover, and batch fetch articles as Markdown. 936 sites supported."
-  },
-  {
-    "repo": "ZettPW/KMSTools",
-    "branch": "main",
-    "language": "C#",
-    "description": "windows tool, office 2026 perpetual license command, net download, digital entitlement permanent custom host"
-  },
-  {
-    "repo": "Parth-Rana-333/Spider-Man_Remastered_Unlimited_Gadgets",
+    "repo": "pynecone-io/pynecone",
     "branch": "main",
     "language": "Python",
-    "description": "Unlimited gadgets, skill points, and all suits for Spider-Man Remastered. God mode, infinite web swing, and instant takedowns."
+    "description": "🕸️ Web apps in pure Python 🐍"
   },
   {
-    "repo": "Evokoa/pgContext",
+    "repo": "Tencent/wepy",
+    "branch": "master",
+    "language": "JavaScript",
+    "description": "小程序组件化开发框架"
+  },
+  {
+    "repo": "ZethRise/Aethery",
     "branch": "master",
     "language": "Rust",
-    "description": "A full AI search engine, built into Postgres."
+    "description": "One-click mobile GUI for the Aether censorship-circumvention tunnel — Kotlin & Rust"
   },
   {
-    "repo": "MobAI-App/simslim",
-    "branch": "main",
-    "language": "Go",
-    "description": "Run more iOS simulators on one Mac by disabling background daemons a simulator doesn't need"
-  },
-  {
-    "repo": "GordenSun/mathVideoMaker",
-    "branch": "main",
-    "language": "Python",
-    "description": ""
-  },
-  {
-    "repo": "zq779/yuhutong",
-    "branch": "main",
-    "language": "Python",
-    "description": ""
-  },
-  {
-    "repo": "japp-fi/polymarket-mcp-server",
+    "repo": "hiteshchoudhary/gitbackup",
     "branch": "main",
     "language": "TypeScript",
-    "description": "polymarket mcp server market discovery and analysis via public APIs; optional authenticated trading and portfolio tools when your wallet derives (or supplies) CLOB L2 credentials polymarket mcp server market discovery and analysis via public APIs; optional authenticated trading and portfolio tools when your wallet derives (or supplies) CLOB L2"
+    "description": "It was personal script but now it is a complete desktop application to take backup of your github account"
   },
   {
-    "repo": "yynxxxxx/Codex-5.5-codex-instruct-5.5",
+    "repo": "corespeed-io/wechatbot",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "微信 iLink Bot SDK for OpenClaw/AI Agent"
+  },
+  {
+    "repo": "golbin/agent-skills",
+    "branch": "main",
+    "language": "Shell",
+    "description": "Reusable agent skills for Codex and compatible tools"
+  },
+  {
+    "repo": "coleam00/excalidraw-diagram-skill",
+    "branch": "main",
+    "language": "Python",
+    "description": "Skill to give Claude Code (and any coding agent) the ability to generate beautiful and practical Excalidraw diagrams."
+  },
+  {
+    "repo": "kristelTech/make_me_a_meme",
+    "branch": "main",
+    "language": "Python",
+    "description": "This repository detects your facial expressions and matches you with a famous meme."
+  },
+  {
+    "repo": "grpc/grpc",
+    "branch": "master",
+    "language": "C++",
+    "description": "C++ based gRPC (C++, Python, Ruby, Objective-C, PHP, C#)"
+  },
+  {
+    "repo": "golang-migrate/migrate",
+    "branch": "master",
+    "language": "Go",
+    "description": "Database migrations. CLI and Golang library."
+  },
+  {
+    "repo": "nizarlbogos/Windrose-Game-Server-Docker",
+    "branch": "main",
+    "language": "C++",
+    "description": "Docker container for running a Windrose dedicated server. Easy self-hosting solution with Wine and SteamCMD for the pirate survival game Windrose."
+  },
+  {
+    "repo": "WeaveMindAI/weft",
+    "branch": "main",
+    "language": "Rust",
+    "description": "A programming language for AI systems"
+  },
+  {
+    "repo": "prometheus/prometheus",
+    "branch": "main",
+    "language": "Go",
+    "description": "The Prometheus monitoring system and time series database."
+  },
+  {
+    "repo": "BytePioneer-AI/moltbot-china",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Clawdbot/OpenClaw中国插件：支持飞书，钉钉，QQ，企业微信"
+  },
+  {
+    "repo": "nesaminua/claude-code-lsp-enforcement-kit",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "Hooks that force Claude Code to use LSP instead of Grep for code navigation. Saves   ~80% tokens"
+  },
+  {
+    "repo": "Introspective-Diffusion/I-DLM",
     "branch": "main",
     "language": "Python",
     "description": ""
+  },
+  {
+    "repo": "pixijs/pixijs",
+    "branch": "dev",
+    "language": "TypeScript",
+    "description": "The HTML5 Creation Engine: Create beautiful digital content with the fastest, most flexible 2D WebGL renderer."
+  },
+  {
+    "repo": "stanford-iris-lab/meta-harness",
+    "branch": "main",
+    "language": "Python",
+    "description": "Reference code for the Meta-Harness paper."
+  },
+  {
+    "repo": "microsoft/terminal",
+    "branch": "main",
+    "language": "C++",
+    "description": "The new Windows Terminal and the original Windows console host, all in the same place!"
+  },
+  {
+    "repo": "Zephkek/XStoreUnlocker",
+    "branch": "main",
+    "language": "C++",
+    "description": "DLC unlocker for Microsoft Store and Xbox PC games."
+  },
+  {
+    "repo": "helenigtxu/blooket",
+    "branch": "main",
+    "language": "Rust",
+    "description": ""
+  },
+  {
+    "repo": "blader/taskmaster",
+    "branch": "main",
+    "language": "Shell",
+    "description": "Stop hook for Claude Code that keeps the agent working until all plans and user requests are 100% complete"
+  },
+  {
+    "repo": "colinhacks/zod",
+    "branch": "master",
+    "language": "TypeScript",
+    "description": "TypeScript-first schema validation with static type inference"
   }
 ]
