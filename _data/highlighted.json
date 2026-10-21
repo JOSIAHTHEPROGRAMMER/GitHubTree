@@ -1,8 +1,8 @@
 {
-  "repo": "llamaboi55/DragShift",
+  "repo": "ToomRamcharan/tv-vibehack",
   "branch": "main",
-  "language": "Python",
-  "description": "Convert and edit files with a liquid-glass radial menu: start dragging a file, press Shift, drop it on a slice. Windows, Mac and Linux.",
-  "stars": 276,
-  "forks": 25
+  "language": "Java",
+  "description": "Reverse-engineer any Android TV / Google TV: 100% fail-safe direct boot launcher, remote hotkey remapping, Realtek hardware passthrough & offline media player.",
+  "stars": 246,
+  "forks": 21
 }

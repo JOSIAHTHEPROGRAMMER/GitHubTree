@@ -1,146 +1,146 @@
 [
   {
-    "repo": "blendi-remade/interdimensional-game",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": ""
-  },
-  {
-    "repo": "earthly/earthly",
-    "branch": "main",
-    "language": "Go",
-    "description": "Super simple build framework with fast, repeatable builds and an instantly familiar syntax – like Dockerfile and Makefile had a baby."
-  },
-  {
-    "repo": "frckeepit/llm-production-toolkit",
+    "repo": "lllyasviel/VCC",
     "branch": "main",
     "language": "Python",
-    "description": "Production-ready toolkit for evaluating, monitoring, and ensuring safety of LLM deployments. Hallucination detection, bias evaluation, feedback loops, and production readiness assessment."
+    "description": "Compile agent conversations!"
   },
   {
-    "repo": "vueuse/skills",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Agent Skills for VueUse"
-  },
-  {
-    "repo": "hashicorp/vault",
-    "branch": "main",
-    "language": "Go",
-    "description": "A tool for secrets management, encryption as a service, and privileged access management"
-  },
-  {
-    "repo": "TheOdinProject/css-exercises",
-    "branch": "main",
-    "language": "HTML",
-    "description": "A repository for practicing CSS concepts."
-  },
-  {
-    "repo": "spacedriveapp/spacedrive",
-    "branch": "main",
-    "language": "Rust",
-    "description": "Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust."
-  },
-  {
-    "repo": "rook/rook",
-    "branch": "master",
-    "language": "Go",
-    "description": "Storage Orchestration for Kubernetes"
-  },
-  {
-    "repo": "RocketChat/Rocket.Chat",
-    "branch": "develop",
-    "language": "TypeScript",
-    "description": "The Secure CommsOS™ for mission-critical operations"
-  },
-  {
-    "repo": "jackwener/wx-cli",
-    "branch": "main",
-    "language": "Rust",
-    "description": "WeChat local data CLI with daemon architecture"
-  },
-  {
-    "repo": "hellowind777/hello2cc",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "Native-first Claude Code plugin for third-party models with silent Agent model injection and output styles."
-  },
-  {
-    "repo": "URLab-Sim/UnrealRoboticsLab",
-    "branch": "main",
-    "language": "C++",
-    "description": "A high-fidelity, open-source robotics simulator integrating Unreal Engine's photorealistic rendering with MuJoCo's precision physics."
-  },
-  {
-    "repo": "CodeSeven/toastr",
-    "branch": "master",
-    "language": "JavaScript",
-    "description": "Simple javascript toast notifications"
-  },
-  {
-    "repo": "cloudflare/pingora",
-    "branch": "main",
-    "language": "Rust",
-    "description": "A library for building fast, reliable and evolvable network services."
-  },
-  {
-    "repo": "doocs/advanced-java",
-    "branch": "main",
-    "language": "Java",
-    "description": "😮 Core Interview Questions & Answers For Experienced Java(Backend) Developers | 互联网 Java 工程师进阶知识完全扫盲：涵盖高并发、分布式、高可用、微服务、海量数据处理等领域知识"
-  },
-  {
-    "repo": "userland-run/nano",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "nano — Run real Node.js and other statically linked Linux binaries directly in the browser via a tiny RISC-V user-mode Linux interpreter compiled to WebAssembly. No containers. No servers. Pure client-side execution."
-  },
-  {
-    "repo": "compozy/compozy",
-    "branch": "main",
-    "language": "Go",
-    "description": "Drive the full lifecycle of AI-assisted development — from idea to shipped code."
-  },
-  {
-    "repo": "invertase/react-native-firebase",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "🔥 A well-tested feature-rich modular Firebase implementation for React Native. Supports both iOS & Android platforms for all Firebase services."
-  },
-  {
-    "repo": "async-rs/async-std",
-    "branch": "master",
-    "language": "Rust",
-    "description": "Async version of the Rust standard library"
-  },
-  {
-    "repo": "kitft/natural_language_autoencoders",
+    "repo": "Mbovu222/League_of_Legends_Skillshot_Dodger",
     "branch": "main",
     "language": "Python",
-    "description": ""
+    "description": "AI dodger and last-hit assistant for LoL (undetected by Vanguard). Auto-dodge skillshots, perfect CS, reveal fog, and execute combos. Works in all game modes."
   },
   {
-    "repo": "freshyman1/ChatGPT-5.5-OpenAI-Unlimited-Desktop",
+    "repo": "rolekkona/Polymarket-Arbitrage-Trading-Bot",
     "branch": "main",
     "language": "TypeScript",
-    "description": "Free ChatGPT 5.5 OpenAI Unlimited is a professional AI suite for advanced reasoning and automation. It features expanded context windows, multimodal support, and high-speed execution. Designed for power users, it ensures seamless AI integration and performance for complex 2026 workflows. Codex"
+    "description": "polymarket arbitragy trading Bot | | polymarket arbitragy trading Bot | | polymarket arbitragy trading Bot | | polymarket arbitragy trading Bot | |"
   },
   {
-    "repo": "remotion-dev/html-in-canvas",
+    "repo": "cdcailf/cjkfold",
     "branch": "main",
-    "language": "TypeScript",
-    "description": ""
+    "language": "Python",
+    "description": "Fold look-alike CJK glyphs (Kangxi radicals, CJK radical supplements) so text extracted from PDFs matches again."
   },
   {
-    "repo": "vmware-tanzu/velero",
+    "repo": "jmerelnyc/Talos",
     "branch": "main",
-    "language": "Go",
-    "description": "Backup and migrate Kubernetes applications and their persistent volumes"
+    "language": "Python",
+    "description": "GPU worker client for the Talos network. Pairs with your Talos account, serves open-model inference jobs over a WebSocket, and reports uptime for payouts."
   },
   {
-    "repo": "apache/mxnet",
-    "branch": "master",
+    "repo": "asistentededireccion-cmd/Doors_-_Auto-Survive___ESP",
+    "branch": "main",
+    "language": "Python",
+    "description": "Auto-survive and ESP for Doors, the horror game with daily runs. See all entities through walls, auto-heal, and survive every floor."
+  },
+  {
+    "repo": "ma7mod7/Honkai_Star_Rail_Auto-Farm",
+    "branch": "main",
+    "language": "Python",
+    "description": "Auto-farm, auto-battle, and relic farming for Honkai Star Rail. Farm materials, level up characters, and complete simulated universe."
+  },
+  {
+    "repo": "kishorekarthck/Discord_Server_Backup___Archive_Tool",
+    "branch": "main",
+    "language": "Python",
+    "description": "Backup entire Discord servers: save channels, messages, files, and member list. Archive your community data securely."
+  },
+  {
+    "repo": "hanyusok/Environment_Variables_Editor",
+    "branch": "main",
+    "language": "Python",
+    "description": "Easily edit system and user environment variables. Add, remove, and modify PATH, and other variables. Validate entries and avoid duplicates."
+  },
+  {
+    "repo": "FrigadeHQ/yap",
+    "branch": "main",
+    "language": "Swift",
+    "description": "Free, open source voice dictation for macOS. On-device transcription with Apple's Speech framework. No cloud, no API keys, no account."
+  },
+  {
+    "repo": "bakkesmodrocketleague/bakkesmod",
+    "branch": "main",
     "language": "C++",
-    "description": "Lightweight, Portable, Flexible Distributed/Mobile Deep Learning with Dynamic, Mutation-aware Dataflow Dep Scheduler; for Python, R, Julia, Scala, Go, Javascript and more"
+    "description": "bakkesmod rocket league  Download windows 11 plugins workshop map loader injector eac update easy anti cheat non eac mode custom training free play"
+  },
+  {
+    "repo": "thatmagicalcat/txm",
+    "branch": "main",
+    "language": "Rust",
+    "description": "Terminal Math rendering engine"
+  },
+  {
+    "repo": "onfable/onfable",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": ""
+  },
+  {
+    "repo": "baidu/Unlimited-OCR",
+    "branch": "main",
+    "language": "Python",
+    "description": "Unlimited OCR Works: Welcome the Era of One-shot Long-horizon Parsing."
+  },
+  {
+    "repo": "machinefi/trio-retina",
+    "branch": "main",
+    "language": "Python",
+    "description": "Model-agnostic state layer for world models — turn any detector (YOLO · VLM · DINO) into one standard, queryable stream of events + latent state. numpy-only, runs on CPU at the edge."
+  },
+  {
+    "repo": "tikv/tikv",
+    "branch": "master",
+    "language": "Rust",
+    "description": "Distributed transactional key-value database, originally created to complement TiDB"
+  },
+  {
+    "repo": "vitest-dev/vitest",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Next generation testing framework powered by Vite."
+  },
+  {
+    "repo": "EndymionLee/PilotBrowseMCP",
+    "branch": "master",
+    "language": "TypeScript",
+    "description": "A browser runtime that lets AI agents control your real Chrome browser via MCP. Agents can explore websites, generate operation manuals, and reuse them to save tokens.  AI操控你的真实浏览器。"
+  },
+  {
+    "repo": "flannel-io/flannel",
+    "branch": "master",
+    "language": "Go",
+    "description": "flannel is a network fabric for containers, designed for Kubernetes"
+  },
+  {
+    "repo": "PlummersSoftwareLLC/TinyRetroPad",
+    "branch": "main",
+    "language": "Assembly",
+    "description": ""
+  },
+  {
+    "repo": "meuttamsharma/RAM_Cleaner___Optimizer",
+    "branch": "main",
+    "language": "Python",
+    "description": "Free up RAM, optimize memory usage, and boost system performance. Clear cache, defragment memory, and monitor usage."
+  },
+  {
+    "repo": "shaohua-pan/StarWAM",
+    "branch": "main",
+    "language": "Python",
+    "description": "A Generalizable Codebase for World-Action Models"
+  },
+  {
+    "repo": "powerycy/goutoujunshi",
+    "branch": "main",
+    "language": "Python",
+    "description": "一个先接住情绪、再分析关系并给出可执行策略的 Codex 恋爱军师，内置心理、法律、社会、人文、哲学、婚姻家庭与性学知识库，支持多元关系。"
+  },
+  {
+    "repo": "bytedance/semi-design",
+    "branch": "main",
+    "language": "Other",
+    "description": "A modern, comprehensive, flexible design system and React UI library."
   }
 ]
