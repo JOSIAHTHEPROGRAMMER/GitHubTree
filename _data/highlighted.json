@@ -1,8 +1,8 @@
 {
-  "repo": "lesca-191204/killzone-shadowfall-pc",
+  "repo": "NeuroVision-Studio/NeuraVision",
   "branch": "main",
-  "language": "C++",
-  "description": "A featured project on GitHubTree.",
-  "stars": 220,
-  "forks": 7
+  "language": "PHP",
+  "description": "NeuraVision — AI content generation platform (PHP backend engine: auth, credits, generation, analytics)",
+  "stars": 205,
+  "forks": 0
 }

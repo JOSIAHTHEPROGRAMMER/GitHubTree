@@ -1,146 +1,146 @@
 [
   {
-    "repo": "NextWeb4/official-document-ai-assistant",
+    "repo": "AetherLabsAI/RSIAgent",
     "branch": "main",
     "language": "Python",
-    "description": "Local official-document review, formatting repair, and compliant export desktop assistant."
+    "description": "A training-free multi-agent framework for recursive self-improvement in new environments through broad-then-deep autonomous exploration and reusable memory."
   },
   {
-    "repo": "SnapKit/SnapKit",
-    "branch": "develop",
-    "language": "Swift",
-    "description": "A Swift Autolayout DSL for iOS & OS X"
+    "repo": "ReactiveX/RxJava",
+    "branch": "3.x",
+    "language": "Java",
+    "description": "RxJava – Reactive Extensions for the JVM – a library for composing asynchronous and event-based programs using observable sequences for the Java VM."
   },
   {
-    "repo": "ayoub11233/Zelda-Twilight-Princess-PC",
-    "branch": "main",
-    "language": "C++",
-    "description": "Legend of Zelda Twilight Princess PC Download May 2026 Native Port Project 4K 60FPS 120FPS Path Tracing RTX Shaders Texture Pack Ultra Wide Support High Refresh Rate Physics Fix Steam Deck Optimized Best Settings Tutorial Guide Low Latency Vulkan 1.4 Latest Build Free Tool Digital Preservation"
-  },
-  {
-    "repo": "shipany-ai/open-agent-sdk",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Agent-SDK without CLI dependencies, as an alternative to claude-agent-sdk, completely open source"
-  },
-  {
-    "repo": "WeianMao/triattention",
-    "branch": "main",
-    "language": "Python",
-    "description": "TriAttention — Efficient long reasoning with trigonometric KV cache compression. Enables OpenClaw local deployment on memory-constrained GPUs."
-  },
-  {
-    "repo": "deltatrader01/Polymarket-Trading-Bot",
-    "branch": "main",
-    "language": "Python",
-    "description": "Polymarket arbitrage trading bot that detects inefficiencies in 5-minute, 15-minute, and 1-hour markets. polymarket arbitrage trading bot polymarket arbitrage bot polymarket arbitrage bot polymarket arbitrage bot polymarket arbitrage bot polymarket arbitrage bot polymarket arbitrage bot"
-  },
-  {
-    "repo": "linuxhsj/openclaw-zero-token",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "免token使用openclaw  Use openclaw without a token"
-  },
-  {
-    "repo": "compozy/compozy",
+    "repo": "simonw/rodney",
     "branch": "main",
     "language": "Go",
-    "description": "Drive the full lifecycle of AI-assisted development — from idea to shipped code."
+    "description": "CLI tool for interacting with the web"
   },
   {
-    "repo": "es617/claude-replay",
-    "branch": "main",
-    "language": "HTML",
-    "description": "Community tool to convert Claude Code session transcripts into self-contained, embeddable HTML replays"
+    "repo": "solana-labs/solana",
+    "branch": "master",
+    "language": "Rust",
+    "description": "Web-Scale Blockchain for fast, secure, scalable, decentralized apps and marketplaces."
   },
   {
-    "repo": "Kuberwastaken/claude-code",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Claude Code's Source Code & Breakdown from a leaked map file in their NPM registry"
-  },
-  {
-    "repo": "webadderall/Recordly",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "A free, open-source Screen Studio alternative that adds auto-zoom, cursor animations and more to your screen recordings. Substantially modifies the OpenScreen foundation."
-  },
-  {
-    "repo": "T-Lab-CUHKSZ/claude-code",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Claude Code Source - Buildable Research Fork. Reverse-engineered build system, runnable with Bun."
-  },
-  {
-    "repo": "edwardsanchez/MotionEyes",
-    "branch": "main",
-    "language": "Swift",
-    "description": ""
-  },
-  {
-    "repo": "chatgptprojects/claude-code",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "https://x.com/paidev"
-  },
-  {
-    "repo": "romerzzz/Tomodachi-Life-Living-in-the-Dream-PC-Version",
-    "branch": "main",
-    "language": "C++",
-    "description": "Tomodachi Life Living in the Dream PC is the  Windows version of the popular life simulation game. Create your own Mii characters, build your dream island, interact with quirky residents, fall in love, solve problems, and enjoy endless daily events"
-  },
-  {
-    "repo": "Maoleio/CPA-Codex-Manager",
+    "repo": "softmatcha/softmatcha2",
     "branch": "main",
     "language": "Python",
-    "description": "CPA-Codex-Manager 是一款专为 OpenAI 账号池设计的高性能管理面板，集成全自动批量注册、CLIProxyAPI 平台账号池实时监控与智能维护功能"
+    "description": "A fast and soft pattern search for trillion-scale corpora."
   },
   {
-    "repo": "komunite/kalfa",
+    "repo": "nguyenduchoai/bizclaw",
+    "branch": "master",
+    "language": "Rust",
+    "description": "BizClaw là nền tảng AI Agent kiến trúc trait-driven, có thể chạy mọi nơi — từ Raspberry Pi đến cloud server. Hỗ trợ nhiều LLM provider, kênh giao tiếp, và công cụ thông qua kiến trúc thống nhất, hoán đổi được."
+  },
+  {
+    "repo": "tomascupr/sandstorm",
+    "branch": "main",
+    "language": "Python",
+    "description": "One API call. Full Claude agent. Completely sandboxed."
+  },
+  {
+    "repo": "SamuelQZQ/auto-coding-agent-demo",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "一个长达 10 小时的 AI 全自动编程实验"
+  },
+  {
+    "repo": "Atrix256/Thirteen",
+    "branch": "main",
+    "language": "C++",
+    "description": "Header only minimalist interface to graphics, inspired by the olden days of mode 13h"
+  },
+  {
+    "repo": "sharbelxyz/x-bookmarks",
+    "branch": "main",
+    "language": "Python",
+    "description": "OpenClaw skill: turn your X bookmarks into agent actions. Stop hoarding. Start applying."
+  },
+  {
+    "repo": "mgks/GitHubTree",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "Visualise any GitHub repository folder structure. Available as a web app, CLI tool, and node.js library."
+  },
+  {
+    "repo": "mark9-droid/TomodachiPC",
+    "branch": "main",
+    "language": "C++",
+    "description": "Tomodachi Life Living The Dream PC: Ultimate Mii manager and life simulator. Virtual island community, custom apartment editor, food preferences database, gift system. Mii personality maker, character interaction logs, voice synthesizer, QR code gallery, daily events tracker, dream collection, island news."
+  },
+  {
+    "repo": "ramda/ramda",
+    "branch": "master",
+    "language": "JavaScript",
+    "description": ":ram: Practical functional Javascript"
+  },
+  {
+    "repo": "PHjont/Wallpaper-Engine-Live-wallpaper-engine",
+    "branch": "main",
+    "language": "C++",
+    "description": "Wallpaper Engine Steam: Live wallpaper engine. Features: 3D interactive scenes, audio visualizer, clock widgets. Android sync, mobile companion, playlist scheduler. Performance optimization, low CPU usage, LED hardware lighting, Razer Chroma, Corsair iCUE, Steam Workshop integration, SceneScript."
+  },
+  {
+    "repo": "ToolSeRF/TaHa-Direct-Reverse-Tunnel-Runner",
     "branch": "main",
     "language": "Shell",
-    "description": "Claude Code için Türkçe profesyonel işletim sistemi — 10 uzman agent, 22 komut, 993 skill, 6 katmanlı hafıza"
+    "description": "راه اندازی و مدیریت تانل مستقیم و معکوس(ریورس) با بیش از 150 پروتو برای عبور از فیلترینگ و پاسخگو برای سرورهایی با محدودیت بسیار شدید، راه اندازی بین یک یا چند سرور، به یاد طاها هوشیار کودک 12 ساله جان فدای میهن"
   },
   {
-    "repo": "deborahikssv/Antigravity-claw",
+    "repo": "vercel-labs/mdxg",
     "branch": "main",
-    "language": "Rust",
-    "description": ""
+    "language": "TypeScript",
+    "description": "Spec for markdown presentation and interaction"
   },
   {
-    "repo": "deusyu/translate-book",
+    "repo": "rabbitmq/rabbitmq-server",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "Open source RabbitMQ: core server and tier 1 (built-in) plugins"
+  },
+  {
+    "repo": "figure-markets/polymarket-arbitrage-bot",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "polymarket arbitrage bot polymarket arbitrage bot polymarket arbitrage bot polymarket arbitrage bot polymarket arbitrage bot polymarket arbitrage bot polymarket arbitrage bot polymarket arbitrage bot polymarket arbitrage bot polymarket arbitrage bot polymarket arbitrage bot polymarket arbitrage bot polymarket arbitrage bot polymarket arbitrage bot"
+  },
+  {
+    "repo": "milanm/AutoGrad-Engine",
+    "branch": "main",
+    "language": "C#",
+    "description": "A complete GPT language model (training and inference) in pure C# with zero dependencies."
+  },
+  {
+    "repo": "owengretzinger/constellagent",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Desktop app for running multiple AI agents in parallel. Each agent gets its own terminal, editor, and git worktree, all in one window."
+  },
+  {
+    "repo": "QLHazyCoder/codex-oauth-automation-extension",
+    "branch": "master",
+    "language": "JavaScript",
+    "description": "Chrome扩展：支持OpenAI OAuth注册、验证码获取、CPA回调验证与自动恢复"
+  },
+  {
+    "repo": "symbolica-ai/arcgentica",
     "branch": "main",
     "language": "Python",
-    "description": "Claude Code skill that translates entire books (PDF/DOCX/EPUB) into any language using parallel subagents"
+    "description": "An ARC-AGI solution using Agentica from Symbolica"
   },
   {
-    "repo": "Infatoshi/OpenSquirrel",
+    "repo": "Simon-Evan/Pumpfun-16-wallet-bundler-bot",
     "branch": "main",
-    "language": "Rust",
-    "description": "For people who get distracted by agents. A native Rust/GPUI control plane for running Claude Code, Codex, Cursor, and OpenCode side by side — because if you're going to be squirrely, you might as well optimize for it."
+    "language": "TypeScript",
+    "description": "Pumpfun-16-wallet-bundler-bot Pumpfun Bundler Bot Pumpfun Bundler Bot Pumpfun Bundler Bot Pumpfun Bundler Bot Pumpfun Bundler Bot Pumpfun Bundler Bot Pumpfun Bundler Bot Pumpfun Bundler Bot Pumpfun Bundler Bot Pumpfun Bundler Bot Pumpfun Bundler Bot Pumpfun Bundler Bot Pumpfun Bundler Bot Pumpfun Bundler Bot Pumpfun Bundler Bot Pumpfun Bundler Bot"
   },
   {
-    "repo": "THU-SI/Spatial-TTT",
-    "branch": "main",
-    "language": "Python",
-    "description": "Official Implementation of Spatial-TTT: Streaming Visual-based Spatial Intelligence with Test-Time Training"
-  },
-  {
-    "repo": "FugerQingliu/SlayTheSpire2AutoDrawing",
-    "branch": "main",
-    "language": "HTML",
-    "description": "可以用来在杀戮尖塔2里面自动绘画的小工具！"
-  },
-  {
-    "repo": "ReconWorldLab/godot-gaussian-splatting",
-    "branch": "main",
-    "language": "GDScript",
-    "description": "[GDGS] A real-time 3D Gaussian Splatting (3DGS) rendering plugin for the Godot Engine. Godot引擎的实时3DGS渲染插件"
-  },
-  {
-    "repo": "sadsadsasdasadsadsadsadsa/Crimson-Desert-Optiscaler-Fsr-4",
-    "branch": "main",
+    "repo": "mrT4ntr4/NtWarden",
+    "branch": "master",
     "language": "C++",
-    "description": "Crimson Desert Optiscaler FSR 4 Full Version 2026 – Advanced Graphics Mod featuring OptiScaler + AMD FSR 4. Significantly increases FPS while improving image sharpness and reducing ghosting in Crimson Desert. Perfect for low-end and high-end PCs. Includes multiple FSR 4 presets. Best performance and upscaling solution for Crimson Desert in 2026!"
+    "description": "Windows Analysis and Research Toolkit"
   }
 ]
