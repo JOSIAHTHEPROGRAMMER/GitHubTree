@@ -1,146 +1,146 @@
 [
   {
-    "repo": "lllyasviel/VCC",
+    "repo": "doocs/advanced-java",
     "branch": "main",
-    "language": "Python",
-    "description": "Compile agent conversations!"
+    "language": "Java",
+    "description": "😮 Core Interview Questions & Answers For Experienced Java(Backend) Developers | 互联网 Java 工程师进阶知识完全扫盲：涵盖高并发、分布式、高可用、微服务、海量数据处理等领域知识"
   },
   {
-    "repo": "Mbovu222/League_of_Legends_Skillshot_Dodger",
-    "branch": "main",
-    "language": "Python",
-    "description": "AI dodger and last-hit assistant for LoL (undetected by Vanguard). Auto-dodge skillshots, perfect CS, reveal fog, and execute combos. Works in all game modes."
+    "repo": "anomalyco/rift",
+    "branch": "dev",
+    "language": "Rust",
+    "description": ""
   },
   {
-    "repo": "rolekkona/Polymarket-Arbitrage-Trading-Bot",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "polymarket arbitragy trading Bot | | polymarket arbitragy trading Bot | | polymarket arbitragy trading Bot | | polymarket arbitragy trading Bot | |"
-  },
-  {
-    "repo": "cdcailf/cjkfold",
-    "branch": "main",
-    "language": "Python",
-    "description": "Fold look-alike CJK glyphs (Kangxi radicals, CJK radical supplements) so text extracted from PDFs matches again."
-  },
-  {
-    "repo": "jmerelnyc/Talos",
-    "branch": "main",
-    "language": "Python",
-    "description": "GPU worker client for the Talos network. Pairs with your Talos account, serves open-model inference jobs over a WebSocket, and reports uptime for payouts."
-  },
-  {
-    "repo": "asistentededireccion-cmd/Doors_-_Auto-Survive___ESP",
-    "branch": "main",
-    "language": "Python",
-    "description": "Auto-survive and ESP for Doors, the horror game with daily runs. See all entities through walls, auto-heal, and survive every floor."
-  },
-  {
-    "repo": "ma7mod7/Honkai_Star_Rail_Auto-Farm",
-    "branch": "main",
-    "language": "Python",
-    "description": "Auto-farm, auto-battle, and relic farming for Honkai Star Rail. Farm materials, level up characters, and complete simulated universe."
-  },
-  {
-    "repo": "kishorekarthck/Discord_Server_Backup___Archive_Tool",
-    "branch": "main",
-    "language": "Python",
-    "description": "Backup entire Discord servers: save channels, messages, files, and member list. Archive your community data securely."
-  },
-  {
-    "repo": "hanyusok/Environment_Variables_Editor",
-    "branch": "main",
-    "language": "Python",
-    "description": "Easily edit system and user environment variables. Add, remove, and modify PATH, and other variables. Validate entries and avoid duplicates."
-  },
-  {
-    "repo": "FrigadeHQ/yap",
-    "branch": "main",
-    "language": "Swift",
-    "description": "Free, open source voice dictation for macOS. On-device transcription with Apple's Speech framework. No cloud, no API keys, no account."
-  },
-  {
-    "repo": "bakkesmodrocketleague/bakkesmod",
+    "repo": "mark9-droid/TomodachiPC",
     "branch": "main",
     "language": "C++",
-    "description": "bakkesmod rocket league  Download windows 11 plugins workshop map loader injector eac update easy anti cheat non eac mode custom training free play"
+    "description": "Tomodachi Life Living The Dream PC: Ultimate Mii manager and life simulator. Virtual island community, custom apartment editor, food preferences database, gift system. Mii personality maker, character interaction logs, voice synthesizer, QR code gallery, daily events tracker, dream collection, island news."
   },
   {
-    "repo": "thatmagicalcat/txm",
+    "repo": "R6410418/Jackrong-llm-finetuning-guide",
     "branch": "main",
-    "language": "Rust",
-    "description": "Terminal Math rendering engine"
-  },
-  {
-    "repo": "onfable/onfable",
-    "branch": "main",
-    "language": "TypeScript",
+    "language": "Jupyter Notebook",
     "description": ""
   },
   {
-    "repo": "baidu/Unlimited-OCR",
+    "repo": "pytest-dev/pytest-cov",
+    "branch": "master",
+    "language": "Python",
+    "description": "Coverage plugin for pytest."
+  },
+  {
+    "repo": "derHaken/SuperAntigravity",
+    "branch": "main",
+    "language": "Shell",
+    "description": "Superpowers + SuperClaude for Google Antigravity IDE"
+  },
+  {
+    "repo": "zsh-users/zsh-syntax-highlighting",
+    "branch": "master",
+    "language": "Shell",
+    "description": "Fish shell like syntax highlighting for Zsh."
+  },
+  {
+    "repo": "sparkyniner/DRISH-X-Satellite-powered-freight-intelligence-",
     "branch": "main",
     "language": "Python",
-    "description": "Unlimited OCR Works: Welcome the Era of One-shot Long-horizon Parsing."
+    "description": "Detect, count, and track truck traffic on any highway on Earth using nothing but free Sentinel-2 imagery and a browser."
   },
   {
-    "repo": "machinefi/trio-retina",
+    "repo": "Zcy233035/rl-explainer",
+    "branch": "main",
+    "language": "Svelte",
+    "description": "rl-explainer"
+  },
+  {
+    "repo": "microsoft/TypeScript",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "TypeScript is a superset of JavaScript that compiles to clean JavaScript output."
+  },
+  {
+    "repo": "EA1FUO/AntennaSim",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Web-based antenna simulator powered by NEC2. Design, simulate, and analyze antennas with real-time 3D visualization, radiation patterns, SWR, and impedance charts."
+  },
+  {
+    "repo": "Perkins729/OmniXtreme",
     "branch": "main",
     "language": "Python",
-    "description": "Model-agnostic state layer for world models — turn any detector (YOLO · VLM · DINO) into one standard, queryable stream of events + latent state. numpy-only, runs on CPU at the edge."
-  },
-  {
-    "repo": "tikv/tikv",
-    "branch": "master",
-    "language": "Rust",
-    "description": "Distributed transactional key-value database, originally created to complement TiDB"
-  },
-  {
-    "repo": "vitest-dev/vitest",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Next generation testing framework powered by Vite."
-  },
-  {
-    "repo": "EndymionLee/PilotBrowseMCP",
-    "branch": "master",
-    "language": "TypeScript",
-    "description": "A browser runtime that lets AI agents control your real Chrome browser via MCP. Agents can explore websites, generate operation manuals, and reuse them to save tokens.  AI操控你的真实浏览器。"
-  },
-  {
-    "repo": "flannel-io/flannel",
-    "branch": "master",
-    "language": "Go",
-    "description": "flannel is a network fabric for containers, designed for Kubernetes"
-  },
-  {
-    "repo": "PlummersSoftwareLLC/TinyRetroPad",
-    "branch": "main",
-    "language": "Assembly",
     "description": ""
   },
   {
-    "repo": "meuttamsharma/RAM_Cleaner___Optimizer",
+    "repo": "fluentlc/claude-code-java",
     "branch": "main",
-    "language": "Python",
-    "description": "Free up RAM, optimize memory usage, and boost system performance. Clear cache, defragment memory, and monitor usage."
+    "language": "Java",
+    "description": "claude-code-java 是一个可嵌入任何 Java 应用的 AI Agent 引擎。claude-code-java is an embeddable AI Agent engine for Java applications."
   },
   {
-    "repo": "shaohua-pan/StarWAM",
-    "branch": "main",
-    "language": "Python",
-    "description": "A Generalizable Codebase for World-Action Models"
+    "repo": "ensdomains/ens-contracts",
+    "branch": "master",
+    "language": "TypeScript",
+    "description": "The core contracts of the ENS protocol"
   },
   {
-    "repo": "powerycy/goutoujunshi",
+    "repo": "Viedie/BongoCat-Windows",
     "branch": "main",
-    "language": "Python",
-    "description": "一个先接住情绪、再分析关系并给出可执行策略的 Codex 恋爱军师，内置心理、法律、社会、人文、哲学、婚姻家庭与性学知识库，支持多元关系。"
+    "language": "C++",
+    "description": "Free Bongo Cat download desktop app musical instruments piano drums keyboard guitar trumpet mouse tracking keyboard strokes OBS overlay streaming widget custom skins meme animation pixel art rhythm visualizer soundboard."
   },
   {
-    "repo": "bytedance/semi-design",
+    "repo": "gradio-app/gradio",
     "branch": "main",
-    "language": "Other",
-    "description": "A modern, comprehensive, flexible design system and React UI library."
+    "language": "Python",
+    "description": "Build and share delightful machine learning apps, all in Python. 🌟 Star to support our work!"
+  },
+  {
+    "repo": "tailwindlabs/headlessui",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Completely unstyled, fully accessible UI components, designed to integrate beautifully with Tailwind CSS."
+  },
+  {
+    "repo": "h4ckf0r0day/obscura",
+    "branch": "main",
+    "language": "Rust",
+    "description": "The headless browser for AI agents and web scraping"
+  },
+  {
+    "repo": "comeonzhj/AutoContents",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "基于 RSS 的 AI 资讯聚合、内容创作与 Agent 自动化工具"
+  },
+  {
+    "repo": "yologdev/yoyo-evolve",
+    "branch": "main",
+    "language": "Rust",
+    "description": "A coding agent that evolves itself. One commit per day."
+  },
+  {
+    "repo": "Hello-Application-XH/HelloGML",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "智谱清言网页版的 Cloudflare Worker 2API层，提供 OpenAI / Claude / Gemini 三种协议兼容接口，支持流式对话、Tools调用、AI 绘图、视频生成与多账号 Token 轮询。"
+  },
+  {
+    "repo": "inspatio/worldfm",
+    "branch": "main",
+    "language": "Python",
+    "description": ""
+  },
+  {
+    "repo": "tj/commander.js",
+    "branch": "master",
+    "language": "JavaScript",
+    "description": "node.js command-line interfaces made easy"
+  },
+  {
+    "repo": "dnakov/kittyfarm",
+    "branch": "main",
+    "language": "Swift",
+    "description": ""
   }
 ]

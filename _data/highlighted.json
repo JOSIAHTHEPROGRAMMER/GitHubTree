@@ -1,8 +1,8 @@
 {
-  "repo": "ToomRamcharan/tv-vibehack",
+  "repo": "lesca-191204/killzone-shadowfall-pc",
   "branch": "main",
-  "language": "Java",
-  "description": "Reverse-engineer any Android TV / Google TV: 100% fail-safe direct boot launcher, remote hotkey remapping, Realtek hardware passthrough & offline media player.",
-  "stars": 246,
-  "forks": 21
+  "language": "C++",
+  "description": "A featured project on GitHubTree.",
+  "stars": 215,
+  "forks": 7
 }
