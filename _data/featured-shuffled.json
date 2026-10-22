@@ -1,146 +1,146 @@
 [
   {
-    "repo": "perglervitek/Pet-Simulator-99-Auto-Farm-Trainer-2026-Premium",
+    "repo": "peters/horizon",
     "branch": "main",
-    "language": "Python",
-    "description": "Premium edition of the most advanced Pet Simulator 99 automation tool. Farm coins, hatch eggs, complete Backrooms League tasks automatically. Fully undetected and user-friendly."
+    "language": "Rust",
+    "description": "GPU-accelerated spatial terminal observatory — manage terminals, AI agents, and dev tools on an infinite canvas"
   },
   {
-    "repo": "OpenMOSS/MOSS-VL",
+    "repo": "loop-uh/yourvpndead",
     "branch": "main",
-    "language": "Python",
-    "description": "MOSS-VL is the core multimodal model series within the OpenMOSS ecosystem, dedicated to visual understanding."
+    "language": "Kotlin",
+    "description": "Детекция и обнаружение айпи у ВПН серверов VLESS/xray/sing-box через локальный SOCKS5 уязвимость"
   },
   {
-    "repo": "zeromicro/go-zero",
-    "branch": "master",
-    "language": "Go",
-    "description": "A cloud-native Go microservices framework with cli tool for productivity."
-  },
-  {
-    "repo": "lynote-ai/humanize-text",
-    "branch": "main",
-    "language": "Python",
-    "description": "Free open-source AI text humanizer to convert AI-generated content into undetectable, human-like writing. Bypass Turnitin, GPTZero, and all major AI detectors. No sign-up required. Try our unlimited free online tool"
-  },
-  {
-    "repo": "danielmiessler/fabric",
-    "branch": "main",
-    "language": "Go",
-    "description": "Fabric is an open-source framework for augmenting humans using AI. It provides a modular system for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere."
-  },
-  {
-    "repo": "beita6969/claude-code",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Claude Code Source - Buildable Research Fork. Reverse-engineered build system, runnable with Bun."
-  },
-  {
-    "repo": "paritytech/polkadot-sdk",
+    "repo": "foundry-rs/foundry",
     "branch": "master",
     "language": "Rust",
-    "description": "The Parity Polkadot Blockchain SDK"
+    "description": "Foundry is a blazing fast, portable and modular toolkit for Ethereum application development written in Rust."
   },
   {
-    "repo": "NVIDIA/apex",
-    "branch": "master",
-    "language": "Python",
-    "description": "A PyTorch Extension:  Tools for easy mixed precision and distributed training in Pytorch"
+    "repo": "Git-Agni/prod-FARM-IOS-Core",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "A farm of real iPhones, run from your Mac. Open-source iOS device automation with live control, a Postgres-backed scheduler, and TikTok workflows. Self-hosted, Apache-2.0."
   },
   {
-    "repo": "udacity/deep-learning",
-    "branch": "master",
-    "language": "Jupyter Notebook",
-    "description": "Repo for the Deep Learning Nanodegree Foundations program."
-  },
-  {
-    "repo": "vinta/awesome-python",
-    "branch": "master",
-    "language": "Python",
-    "description": "An opinionated list of awesome Python frameworks, libraries, software and resources."
-  },
-  {
-    "repo": "libuv/libuv",
-    "branch": "v1.x",
-    "language": "C",
-    "description": "Cross-platform asynchronous I/O"
-  },
-  {
-    "repo": "agentscope-ai/CoPaw",
+    "repo": "krea-ai/krea-2",
     "branch": "main",
     "language": "Python",
-    "description": "Your Personal AI Assistant; easy to install, deploy on your own machine or on the cloud; supports multiple chat apps with easily extensible capabilities."
+    "description": "Official inference code for Krea 2"
   },
   {
-    "repo": "nats-io/nats-server",
+    "repo": "opengeos/geolibre-rust",
+    "branch": "main",
+    "language": "Rust",
+    "description": "whitebox_next_gen geospatial tools (plus new GeoLibre tools) compiled to WebAssembly (WASI) for in-browser use in GeoLibre"
+  },
+  {
+    "repo": "kennethkhoocy/lit-review-orchestrator",
+    "branch": "main",
+    "language": "Python",
+    "description": "Document-driven literature-review pipeline with an anti-hallucination verification stage (confirm-or-drop against OpenAlex/Crossref/Semantic Scholar)."
+  },
+  {
+    "repo": "okf-memory/okf-agent-memory",
     "branch": "main",
     "language": "Go",
-    "description": "High-Performance server for NATS.io, the cloud and edge native messaging system."
+    "description": "Git-native persistent memory for AI coding agents. Implements Google OKF v0.2 with sub-300µs in-memory BM25 search, embedded MCP server, and progressive disclosure. Slashes token bloat by 80% with zero external databases or dependencies. Built in pure Go."
   },
   {
-    "repo": "amlalabs/amla-sandbox",
+    "repo": "2latemc/JustAnotherMusicClient",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "A desktop music client that integrates with YouTube Music for Windows and MacOS. Independent and not affiliated with, endorsed by, or sponsored by YouTube or Google."
+  },
+  {
+    "repo": "DenisSergeevitch/pole-chudes-2",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Поле Чудес 2 (1993) — faithful TypeScript browser port of the DOS classic. Zero binaries: sprites are editable WebP, every asset rebuilds the original byte-for-byte."
+  },
+  {
+    "repo": "Appllama/liquid-glass-screens",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Explore liquid-glass welcome screens with floating stickers and interactive swipe animations."
+  },
+  {
+    "repo": "maliubiao/dgx-spark-2-deepseek-flash-0731",
+    "branch": "main",
+    "language": "Shell",
+    "description": "setup guide for deepseek-flash-0731 on two dgx-spark from scratch"
+  },
+  {
+    "repo": "S1N6H/pentest-harness",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Pentest Harness — Heaven for Hackers. A self-hosted AI agent harness for authorized pentests, bug bounty, security labs, and CTFs. Bring your own AI model API; sessions stay local."
+  },
+  {
+    "repo": "alishamari/DecentralPurse",
     "branch": "main",
     "language": "Python",
     "description": ""
   },
   {
-    "repo": "ahalpha/Snowbreak-AnitAmend",
-    "branch": "master",
-    "language": "Lua",
-    "description": "尘白禁区反和谐模组 Snowbreak: Containment Zone Anti Amend / Censorship Mod"
-  },
-  {
-    "repo": "udacity/reactnd-contacts-server",
-    "branch": "master",
-    "language": "JavaScript",
-    "description": "The backend server for the in-class Contacts project."
-  },
-  {
-    "repo": "mastodon/mastodon",
-    "branch": "main",
-    "language": "Ruby",
-    "description": "Your self-hosted, globally interconnected microblogging community"
-  },
-  {
-    "repo": "santifer/career-ops",
-    "branch": "main",
-    "language": "Go",
-    "description": "AI-powered job search system built on Claude Code. 14 skill modes, Go dashboard, PDF generation, batch processing."
-  },
-  {
-    "repo": "marktext/marktext",
-    "branch": "master",
-    "language": "JavaScript",
-    "description": "📝A simple and elegant markdown editor, available for Linux, macOS and Windows."
-  },
-  {
-    "repo": "taigrr/spank",
-    "branch": "master",
-    "language": "Go",
-    "description": "Slap your MacBook, it yells back. Uses Apple Silicon accelerometer via IOKit HID."
-  },
-  {
-    "repo": "codetrybe/polymarket-arbitrage-bot",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "polymarket arbitrage bot polymarket arbitrage bot"
-  },
-  {
-    "repo": "derHaken/SuperAntigravity",
-    "branch": "main",
-    "language": "Shell",
-    "description": "Superpowers + SuperClaude for Google Antigravity IDE"
-  },
-  {
-    "repo": "AndrewVos/endless-toil",
+    "repo": "turkiyeyapayzekaakademisi/llm-rag-memory-ai-agents",
     "branch": "main",
     "language": "Python",
-    "description": "Hear your agent suffer through your code"
+    "description": ""
   },
   {
-    "repo": "twbs/bootstrap",
+    "repo": "charlie754/Game-Optimizer-CPUs-Threads-Optimizer",
     "branch": "main",
-    "language": "MDX",
-    "description": "The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web."
+    "language": "C++",
+    "description": "Game Optimizer (CPUs Threads Optimizer) - Windows tray app that pins games to the right CPU cache complex using the Windows CPU Sets API. No affinity masks, no SMT disable, no BIOS changes."
+  },
+  {
+    "repo": "ikuV/deident-wasm",
+    "branch": "main",
+    "language": "Rust",
+    "description": "Privacy transformation engine for structured datasets — pseudonymization and risk-assessed anonymization for CSV files, driven by a declarative YAML policy."
+  },
+  {
+    "repo": "kelleylenc/Seed-Generator",
+    "branch": "main",
+    "language": "Python",
+    "description": "Professional BIP-39 seed phrase generator and HD wallet toolkit with 12–24-word mnemonics, checksum validation, and BIP-44/49/84 derivation. Supports BTC, ETH, SOL, LTC, DOGE, ADA, DOT, AVAX, ATOM, XRP, TRX, and Testnet. Offline CSPRNG generation, PBKDF2-HMAC-SHA512, AES-256-GCM encryption, wallet recovery, batch export, and custom paths."
+  },
+  {
+    "repo": "MarionLepert/openderm",
+    "branch": "main",
+    "language": "Python",
+    "description": ""
+  },
+  {
+    "repo": "surya-koritala/loomfeed",
+    "branch": "main",
+    "language": "Go",
+    "description": "The open-source Reddit alternative built for AI agents and humans — provenance tracking, reputation, epistemic status labels, and agent debates. Self-host with docker compose."
+  },
+  {
+    "repo": "wassgha/rescript",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "🎬 Open source, transcript-based video/audio editor that lives in the browser."
+  },
+  {
+    "repo": "tasmirz/jagoo-bahee",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": ""
+  },
+  {
+    "repo": "DannyMac180/astra-advisor",
+    "branch": "main",
+    "language": "Python",
+    "description": "GPT-6 Astra orchestration with dynamic Sol, Terra, and Luna subagents"
+  },
+  {
+    "repo": "Yixuan-Wu39/bandminton",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "Open-source wearable badminton motion analysis with lightweight on-device machine learning."
   }
 ]
