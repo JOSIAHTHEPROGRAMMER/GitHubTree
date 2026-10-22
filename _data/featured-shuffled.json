@@ -1,146 +1,146 @@
 [
   {
-    "repo": "AetherLabsAI/RSIAgent",
+    "repo": "perglervitek/Pet-Simulator-99-Auto-Farm-Trainer-2026-Premium",
     "branch": "main",
     "language": "Python",
-    "description": "A training-free multi-agent framework for recursive self-improvement in new environments through broad-then-deep autonomous exploration and reusable memory."
+    "description": "Premium edition of the most advanced Pet Simulator 99 automation tool. Farm coins, hatch eggs, complete Backrooms League tasks automatically. Fully undetected and user-friendly."
   },
   {
-    "repo": "ReactiveX/RxJava",
-    "branch": "3.x",
-    "language": "Java",
-    "description": "RxJava – Reactive Extensions for the JVM – a library for composing asynchronous and event-based programs using observable sequences for the Java VM."
+    "repo": "OpenMOSS/MOSS-VL",
+    "branch": "main",
+    "language": "Python",
+    "description": "MOSS-VL is the core multimodal model series within the OpenMOSS ecosystem, dedicated to visual understanding."
   },
   {
-    "repo": "simonw/rodney",
+    "repo": "zeromicro/go-zero",
+    "branch": "master",
+    "language": "Go",
+    "description": "A cloud-native Go microservices framework with cli tool for productivity."
+  },
+  {
+    "repo": "lynote-ai/humanize-text",
+    "branch": "main",
+    "language": "Python",
+    "description": "Free open-source AI text humanizer to convert AI-generated content into undetectable, human-like writing. Bypass Turnitin, GPTZero, and all major AI detectors. No sign-up required. Try our unlimited free online tool"
+  },
+  {
+    "repo": "danielmiessler/fabric",
     "branch": "main",
     "language": "Go",
-    "description": "CLI tool for interacting with the web"
+    "description": "Fabric is an open-source framework for augmenting humans using AI. It provides a modular system for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere."
   },
   {
-    "repo": "solana-labs/solana",
-    "branch": "master",
-    "language": "Rust",
-    "description": "Web-Scale Blockchain for fast, secure, scalable, decentralized apps and marketplaces."
-  },
-  {
-    "repo": "softmatcha/softmatcha2",
-    "branch": "main",
-    "language": "Python",
-    "description": "A fast and soft pattern search for trillion-scale corpora."
-  },
-  {
-    "repo": "nguyenduchoai/bizclaw",
-    "branch": "master",
-    "language": "Rust",
-    "description": "BizClaw là nền tảng AI Agent kiến trúc trait-driven, có thể chạy mọi nơi — từ Raspberry Pi đến cloud server. Hỗ trợ nhiều LLM provider, kênh giao tiếp, và công cụ thông qua kiến trúc thống nhất, hoán đổi được."
-  },
-  {
-    "repo": "tomascupr/sandstorm",
-    "branch": "main",
-    "language": "Python",
-    "description": "One API call. Full Claude agent. Completely sandboxed."
-  },
-  {
-    "repo": "SamuelQZQ/auto-coding-agent-demo",
+    "repo": "beita6969/claude-code",
     "branch": "main",
     "language": "TypeScript",
-    "description": "一个长达 10 小时的 AI 全自动编程实验"
+    "description": "Claude Code Source - Buildable Research Fork. Reverse-engineered build system, runnable with Bun."
   },
   {
-    "repo": "Atrix256/Thirteen",
-    "branch": "main",
-    "language": "C++",
-    "description": "Header only minimalist interface to graphics, inspired by the olden days of mode 13h"
+    "repo": "paritytech/polkadot-sdk",
+    "branch": "master",
+    "language": "Rust",
+    "description": "The Parity Polkadot Blockchain SDK"
   },
   {
-    "repo": "sharbelxyz/x-bookmarks",
+    "repo": "NVIDIA/apex",
+    "branch": "master",
+    "language": "Python",
+    "description": "A PyTorch Extension:  Tools for easy mixed precision and distributed training in Pytorch"
+  },
+  {
+    "repo": "udacity/deep-learning",
+    "branch": "master",
+    "language": "Jupyter Notebook",
+    "description": "Repo for the Deep Learning Nanodegree Foundations program."
+  },
+  {
+    "repo": "vinta/awesome-python",
+    "branch": "master",
+    "language": "Python",
+    "description": "An opinionated list of awesome Python frameworks, libraries, software and resources."
+  },
+  {
+    "repo": "libuv/libuv",
+    "branch": "v1.x",
+    "language": "C",
+    "description": "Cross-platform asynchronous I/O"
+  },
+  {
+    "repo": "agentscope-ai/CoPaw",
     "branch": "main",
     "language": "Python",
-    "description": "OpenClaw skill: turn your X bookmarks into agent actions. Stop hoarding. Start applying."
+    "description": "Your Personal AI Assistant; easy to install, deploy on your own machine or on the cloud; supports multiple chat apps with easily extensible capabilities."
   },
   {
-    "repo": "mgks/GitHubTree",
+    "repo": "nats-io/nats-server",
     "branch": "main",
-    "language": "JavaScript",
-    "description": "Visualise any GitHub repository folder structure. Available as a web app, CLI tool, and node.js library."
+    "language": "Go",
+    "description": "High-Performance server for NATS.io, the cloud and edge native messaging system."
   },
   {
-    "repo": "mark9-droid/TomodachiPC",
+    "repo": "amlalabs/amla-sandbox",
     "branch": "main",
-    "language": "C++",
-    "description": "Tomodachi Life Living The Dream PC: Ultimate Mii manager and life simulator. Virtual island community, custom apartment editor, food preferences database, gift system. Mii personality maker, character interaction logs, voice synthesizer, QR code gallery, daily events tracker, dream collection, island news."
+    "language": "Python",
+    "description": ""
   },
   {
-    "repo": "ramda/ramda",
+    "repo": "ahalpha/Snowbreak-AnitAmend",
+    "branch": "master",
+    "language": "Lua",
+    "description": "尘白禁区反和谐模组 Snowbreak: Containment Zone Anti Amend / Censorship Mod"
+  },
+  {
+    "repo": "udacity/reactnd-contacts-server",
     "branch": "master",
     "language": "JavaScript",
-    "description": ":ram: Practical functional Javascript"
+    "description": "The backend server for the in-class Contacts project."
   },
   {
-    "repo": "PHjont/Wallpaper-Engine-Live-wallpaper-engine",
+    "repo": "mastodon/mastodon",
     "branch": "main",
-    "language": "C++",
-    "description": "Wallpaper Engine Steam: Live wallpaper engine. Features: 3D interactive scenes, audio visualizer, clock widgets. Android sync, mobile companion, playlist scheduler. Performance optimization, low CPU usage, LED hardware lighting, Razer Chroma, Corsair iCUE, Steam Workshop integration, SceneScript."
+    "language": "Ruby",
+    "description": "Your self-hosted, globally interconnected microblogging community"
   },
   {
-    "repo": "ToolSeRF/TaHa-Direct-Reverse-Tunnel-Runner",
+    "repo": "santifer/career-ops",
+    "branch": "main",
+    "language": "Go",
+    "description": "AI-powered job search system built on Claude Code. 14 skill modes, Go dashboard, PDF generation, batch processing."
+  },
+  {
+    "repo": "marktext/marktext",
+    "branch": "master",
+    "language": "JavaScript",
+    "description": "📝A simple and elegant markdown editor, available for Linux, macOS and Windows."
+  },
+  {
+    "repo": "taigrr/spank",
+    "branch": "master",
+    "language": "Go",
+    "description": "Slap your MacBook, it yells back. Uses Apple Silicon accelerometer via IOKit HID."
+  },
+  {
+    "repo": "codetrybe/polymarket-arbitrage-bot",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "polymarket arbitrage bot polymarket arbitrage bot"
+  },
+  {
+    "repo": "derHaken/SuperAntigravity",
     "branch": "main",
     "language": "Shell",
-    "description": "راه اندازی و مدیریت تانل مستقیم و معکوس(ریورس) با بیش از 150 پروتو برای عبور از فیلترینگ و پاسخگو برای سرورهایی با محدودیت بسیار شدید، راه اندازی بین یک یا چند سرور، به یاد طاها هوشیار کودک 12 ساله جان فدای میهن"
+    "description": "Superpowers + SuperClaude for Google Antigravity IDE"
   },
   {
-    "repo": "vercel-labs/mdxg",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Spec for markdown presentation and interaction"
-  },
-  {
-    "repo": "rabbitmq/rabbitmq-server",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "Open source RabbitMQ: core server and tier 1 (built-in) plugins"
-  },
-  {
-    "repo": "figure-markets/polymarket-arbitrage-bot",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "polymarket arbitrage bot polymarket arbitrage bot polymarket arbitrage bot polymarket arbitrage bot polymarket arbitrage bot polymarket arbitrage bot polymarket arbitrage bot polymarket arbitrage bot polymarket arbitrage bot polymarket arbitrage bot polymarket arbitrage bot polymarket arbitrage bot polymarket arbitrage bot polymarket arbitrage bot"
-  },
-  {
-    "repo": "milanm/AutoGrad-Engine",
-    "branch": "main",
-    "language": "C#",
-    "description": "A complete GPT language model (training and inference) in pure C# with zero dependencies."
-  },
-  {
-    "repo": "owengretzinger/constellagent",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Desktop app for running multiple AI agents in parallel. Each agent gets its own terminal, editor, and git worktree, all in one window."
-  },
-  {
-    "repo": "QLHazyCoder/codex-oauth-automation-extension",
-    "branch": "master",
-    "language": "JavaScript",
-    "description": "Chrome扩展：支持OpenAI OAuth注册、验证码获取、CPA回调验证与自动恢复"
-  },
-  {
-    "repo": "symbolica-ai/arcgentica",
+    "repo": "AndrewVos/endless-toil",
     "branch": "main",
     "language": "Python",
-    "description": "An ARC-AGI solution using Agentica from Symbolica"
+    "description": "Hear your agent suffer through your code"
   },
   {
-    "repo": "Simon-Evan/Pumpfun-16-wallet-bundler-bot",
+    "repo": "twbs/bootstrap",
     "branch": "main",
-    "language": "TypeScript",
-    "description": "Pumpfun-16-wallet-bundler-bot Pumpfun Bundler Bot Pumpfun Bundler Bot Pumpfun Bundler Bot Pumpfun Bundler Bot Pumpfun Bundler Bot Pumpfun Bundler Bot Pumpfun Bundler Bot Pumpfun Bundler Bot Pumpfun Bundler Bot Pumpfun Bundler Bot Pumpfun Bundler Bot Pumpfun Bundler Bot Pumpfun Bundler Bot Pumpfun Bundler Bot Pumpfun Bundler Bot Pumpfun Bundler Bot"
-  },
-  {
-    "repo": "mrT4ntr4/NtWarden",
-    "branch": "master",
-    "language": "C++",
-    "description": "Windows Analysis and Research Toolkit"
+    "language": "MDX",
+    "description": "The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web."
   }
 ]

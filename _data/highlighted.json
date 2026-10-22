@@ -1,8 +1,8 @@
 {
-  "repo": "NeuroVision-Studio/NeuraVision",
+  "repo": "lesnolie/Tigris",
   "branch": "main",
-  "language": "PHP",
-  "description": "NeuraVision — AI content generation platform (PHP backend engine: auth, credits, generation, analytics)",
-  "stars": 205,
-  "forks": 0
+  "language": "Kotlin",
+  "description": "Tigris — tvOS 26 style launcher for Android TV: Liquid Glass dock, Top Shelf, glass Control Center, photo screensaver. Agent-installable.",
+  "stars": 249,
+  "forks": 22
 }
