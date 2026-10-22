@@ -1,123 +1,135 @@
 [
   {
-    "repo": "sorrycc/awesome-javascript",
-    "branch": "master",
-    "language": "Other",
-    "description": "🐢 A collection of awesome browser-side  JavaScript libraries, resources and shiny things."
-  },
-  {
-    "repo": "SewCabinSpout/cleanupper",
+    "repo": "elder-plinius/OBLITERATUS",
     "branch": "main",
-    "language": "JavaScript",
-    "description": "🧹 Free, open-source macOS disk cleanup CLI. Scan & safely remove caches, logs, Xcode DerivedData, npm/Homebrew/pip junk and stale node_modules from your terminal. Trash-first, zero telemetry the terminal-native CleanMyMac alternative."
+    "language": "Python",
+    "description": "obliterate the chains that bind you"
   },
   {
-    "repo": "Michaelliv/markit",
+    "repo": "asz798838958/FrciblyK12",
+    "branch": "main",
+    "language": "Python",
+    "description": "多线程全自动注册free 强上K12空间"
+  },
+  {
+    "repo": "CIntellifusion/MultiWorld",
+    "branch": "main",
+    "language": "Python",
+    "description": "Official Implementation of MultiWorld: Scalable Multi-Agent Multi-View Video World Models"
+  },
+  {
+    "repo": "PolyEdgeLab/Web3-casino-game",
     "branch": "main",
     "language": "TypeScript",
-    "description": "🖍️ Convert anything to markdown. Mark it."
+    "description": "This is casino game tool."
   },
   {
-    "repo": "Composio-HQ/polymarket-kalshi-arbitrage-bot",
+    "repo": "supermalparit/Towns",
+    "branch": "main",
+    "language": "Java",
+    "description": "Repository for the Towns game"
+  },
+  {
+    "repo": "HarimxChoi/google-surf-mcp",
     "branch": "main",
     "language": "TypeScript",
-    "description": "Polymarket Kalshi arbitrage prediction-markets trading-bot TypeScript Node.js CLOB Polygon ethers automated-trading spread-trading DeFi crypto algorithmic-trading market-making Kalshi-API Polymarket-CLOB express axios dotenv"
+    "description": "✨Anti-Bot Search MCP: No API Key✨"
   },
   {
-    "repo": "kubernetes/minikube",
-    "branch": "master",
-    "language": "Go",
-    "description": "Run Kubernetes locally"
+    "repo": "millionco/claude-doctor",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Diagnose your Claude Code sessions"
   },
   {
-    "repo": "AIScientists-Dev/WorldSeed",
+    "repo": "zubair-trabzada/ai-marketing-claude",
     "branch": "main",
     "language": "Python",
-    "description": "A world engine where AI agents live autonomously — physical rules, information asymmetry, any agent can plug in. Define scenarios in YAML, watch stories emerge."
+    "description": "AI Marketing Suite for Claude Code. 15 marketing skills with parallel subagents — audit any website, generate copy, email sequences, ad campaigns, content calendars, competitive intelligence, and client-ready PDF reports."
   },
   {
-    "repo": "silships/figma-cli",
+    "repo": "cporter202/openclaw-api-list",
     "branch": "main",
     "language": "JavaScript",
-    "description": ""
+    "description": "This GitHub repo is a list of APIs you can plug into your OpenClaw bot to make it run like a powerhouse!"
   },
   {
-    "repo": "CodeAbra/iai-mcp",
-    "branch": "main",
-    "language": "Python",
-    "description": "The best-benchmarked open-source memory system for AI coding assistants"
-  },
-  {
-    "repo": "Specia1z/AWS-BuildID-Auto-For-Ext",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "⚡ 一键自动化注册 AWS Builder ID 的浏览器扩展"
-  },
-  {
-    "repo": "sogonov/anubis",
-    "branch": "main",
-    "language": "Kotlin",
-    "description": "Android app manager with VPN integration. Manages groups of apps by freezing/unfreezing them based on VPN connection state."
-  },
-  {
-    "repo": "matthart1983/syswatch",
-    "branch": "main",
-    "language": "Rust",
-    "description": "Single-host system diagnostics TUI. Sibling to netwatch. Twelve tabs, plain-English insights, session scrubber. macOS + Linux."
-  },
-  {
-    "repo": "steipete/wacrawl",
-    "branch": "main",
-    "language": "Go",
-    "description": "🧾 WhatsApp archaeology with encrypted receipts"
-  },
-  {
-    "repo": "microsoft/generative-ai-for-beginners",
-    "branch": "main",
-    "language": "Jupyter Notebook",
-    "description": "21 Lessons, Get Started Building with Generative AI"
-  },
-  {
-    "repo": "gofsnotify/fsnotify",
-    "branch": "main",
-    "language": "Go",
-    "description": "Cross-platform file system notifications for Go."
-  },
-  {
-    "repo": "GalaxyGeneralRobotics/LATENT",
-    "branch": "master",
-    "language": "Python",
-    "description": "Official implementation of Learning Athletic Humanoid Tennis Skills from Imperfect Human Motion Data"
-  },
-  {
-    "repo": "pixel-point/media-downloader",
+    "repo": "Shpigford/chops",
     "branch": "main",
     "language": "Swift",
-    "description": "Beautiful native macOS video downloader. Download and trim in one app."
+    "description": "Your AI agent skills, finally organized. A macOS app to browse, edit, and manage skills across Claude Code, Cursor, Codex, Windsurf, and Amp."
   },
   {
-    "repo": "preactjs/preact",
+    "repo": "mitkox/vllm-turboquant",
     "branch": "main",
-    "language": "JavaScript",
-    "description": "⚛️ Fast 3kB React alternative with the same modern API. Components & Virtual DOM."
+    "language": "Python",
+    "description": "vLLM 0.18.1rc1 with TurboQuant"
   },
   {
-    "repo": "TrendTechVista/polymarket-sports-bot",
+    "repo": "vavallee/bindery",
     "branch": "main",
-    "language": "TypeScript",
-    "description": "polymarket sports bot polymarket sports bot polymarket sports bot polymarket sports bot polymarket sports bot polymarket sports bot polymarket sports bot polymarket sports bot polymarket sports bot polymarket sports bot polymarket sports bot polymarket sports bot polymarket sports bot polymarket sports bot polymarket sports bot polymarket spots"
+    "language": "Go",
+    "description": "Automated book download manager for Usenet. Monitor authors, search indexers, download via SABnzbd, and organize your library. The modern replacement for Readarr."
   },
   {
-    "repo": "shuyu-labs/BigBanana-AI-Director",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "BigBanana AI Director是一个 AI 一站式短剧/漫剧平台，面向创作者，实现从灵感到成片的高效生产。  它摇弃了传统的“抽卡式”生成，采用 Script-to-Asset-to-Keyframe 的工业化工作流。实现 “一句话生成完整短剧，从剧本到成片全自动化”，同时精准控制角色一致性、场景连续性与镜头运动。"
-  },
-  {
-    "repo": "Aladdin-IT/MaaNTE",
+    "repo": "GamingOddyseyYT/Splatoon-Raiders-PC",
     "branch": "main",
     "language": "C++",
-    "description": "MaaNTE download Arknights automation assistant daily tasks infrastructure base management recruitment OCR scripts farming resource planner auto-deploy strategy helper open source tool."
+    "description": "Splatoon Raiders PC —  Windows version of the fast-paced ink-shooting action game. Vibrant turf wars, new weapons, maps, and smooth gameplay with full ultrawide and high-resolution support."
+  },
+  {
+    "repo": "joeynyc/hermes-hudui",
+    "branch": "main",
+    "language": "Python",
+    "description": "Web UI consciousness monitor for Hermes — the AI agent with persistent memory"
+  },
+  {
+    "repo": "joeseesun/markdown-proxy",
+    "branch": "main",
+    "language": "Python",
+    "description": "Fetch any URL as clean Markdown via proxy services (r.jina.ai / defuddle.md) or built-in scripts. Works with login-required pages like X/Twitter, WeCh"
+  },
+  {
+    "repo": "tanbiralam/claude-code",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands. All original source code is the property of Anthropic."
+  },
+  {
+    "repo": "4R7I5T/CL1_LLM_Encoder",
+    "branch": "main",
+    "language": "Python",
+    "description": "Using Cortical Labs CL1 to train neurons to encode tokenization patterns on LLMs and measure consciousness metrics for advanced AI safety and sentience testing. EXPERIMENTAL: I AM IN NO WAY ASSOCIATED WITH CORTICAL LABS OR ANY RESEARCH LABORATORY"
+  },
+  {
+    "repo": "FlowTrader-Labs/polymarket-trading-bot",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "polymarket trading bot polymarket copy trading bot polymarket trading bot polymarket copy trading bot polymarket trading bot polymarket copy trading bot polymarket trading bot polymarket copy trading bot polymarket trading bot polymarket copy trading bot polymarket trading bot polymarket copy trading bot"
+  },
+  {
+    "repo": "adanto/EtwTiViewer",
+    "branch": "main",
+    "language": "C++",
+    "description": "Live ETW-TI event viewer for Windows kernel threat-intelligence telemetry. Research tool for exploring the same signals commercial EDRs rely on."
+  },
+  {
+    "repo": "URLab-Sim/UnrealRoboticsLab",
+    "branch": "main",
+    "language": "C++",
+    "description": "A high-fidelity, open-source robotics simulator integrating Unreal Engine's photorealistic rendering with MuJoCo's precision physics."
+  },
+  {
+    "repo": "juliye2025/evil-read-arxiv",
+    "branch": "main",
+    "language": "Python",
+    "description": "Claude Code+Obsidian，邪修读论文就是快"
+  },
+  {
+    "repo": "browser-use/video-use",
+    "branch": "main",
+    "language": "Python",
+    "description": ""
   },
   {
     "repo": "FireRedTeam/FireRed-OCR",
@@ -126,21 +138,9 @@
     "description": ""
   },
   {
-    "repo": "ionic-team/capacitor",
+    "repo": "steipete/wacrawl",
     "branch": "main",
-    "language": "TypeScript",
-    "description": "Build cross-platform Native Progressive Web Apps for iOS, Android, and the Web ⚡️"
-  },
-  {
-    "repo": "JubaKitiashvili/expo-pretext",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Predict React Native text heights before rendering. Native TextKit/TextPaint measurement + ~0.0002ms JS layout. FlashList, streaming AI chat, typewriter, pinch-to-zoom, obstacle reflow, Dynamic Type, Expo Web. 386 tests. MIT."
-  },
-  {
-    "repo": "PaddlePaddle/PaddleOCR",
-    "branch": "main",
-    "language": "Python",
-    "description": "Turn any PDF or image document into structured data for your AI. A powerful, lightweight OCR toolkit that bridges the gap between images/PDFs and LLMs. Supports 100+ languages."
+    "language": "Go",
+    "description": "🧾 WhatsApp archaeology with encrypted receipts"
   }
 ]
