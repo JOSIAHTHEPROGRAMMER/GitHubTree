@@ -1,8 +1,8 @@
 {
-  "repo": "nace-ai/kapitsa",
+  "repo": "lesnolie/Tigris",
   "branch": "main",
-  "language": "C++",
-  "description": "Blazing fast Apple Silicon optimized inference engine built for Qwen, Nemotron & Flint. OpenAI + Anthropic API compatible. Built by folks from nace.ai",
-  "stars": 265,
-  "forks": 37
+  "language": "Kotlin",
+  "description": "Tigris — tvOS 26 style launcher for Android TV: Liquid Glass dock, Top Shelf, glass Control Center, photo screensaver. Agent-installable.",
+  "stars": 312,
+  "forks": 26
 }
