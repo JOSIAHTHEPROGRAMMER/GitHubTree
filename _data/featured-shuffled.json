@@ -1,146 +1,146 @@
 [
   {
-    "repo": "cinderline/northcinder",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "Buyer-run, ad-neutral shopping-agent MCP software with deterministic ranking, signed purchase mandates, and a local audit trail."
-  },
-  {
-    "repo": "Belucking/ZkOracle",
-    "branch": "main",
-    "language": "Python",
-    "description": "ZkOracle is a distributed, high-performance data replication engine that enables real-time data synchronization across a scalable platform."
-  },
-  {
-    "repo": "Player-YN/PawWork_ZhuaZhua",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "Paw Work - selection-first web agent for Chrome: select on the live page, describe the outcome, take away an editable office file. BYOK, sandboxed, no server."
-  },
-  {
-    "repo": "ilkerzg/storycast",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Type a topic. Get a story."
-  },
-  {
-    "repo": "yizhi-chengzi/video-ai-talking",
-    "branch": "master",
-    "language": "TypeScript",
-    "description": "想做真人口播，又不必自己对着镜头念。上传一段真人出镜视频，写好字幕，本机配音并对口型，合成竖屏 MP4。密钥只留在浏览器里。"
-  },
-  {
-    "repo": "999sian/melee-pc",
-    "branch": "master",
-    "language": "C",
-    "description": "Native PC port of Super Smash Bros. Melee (NTSC-U 1.02), built from doldecomp/melee on aurora. No game data; bring your own disc."
-  },
-  {
-    "repo": "unstablebuild/rune",
-    "branch": "main",
-    "language": "Go",
-    "description": "the development environment for pros"
-  },
-  {
-    "repo": "dirkjanm/askWAM",
-    "branch": "main",
-    "language": "C",
-    "description": "Ask the Web Account Manager (WAM) for Entra ID tokens"
-  },
-  {
-    "repo": "blendi-remade/interdimensional-game",
+    "repo": "sjc88661/multi-agent-discuss",
     "branch": "main",
     "language": "TypeScript",
     "description": ""
   },
   {
-    "repo": "lihaoyun6/ComfyUI-H3VAE_TRT",
+    "repo": "KeyID-AI/agent-kit",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "Give Claude/Cursor email powers. 27 MCP tools — inbox, send, reply, contacts, search. Free, no signup."
+  },
+  {
+    "repo": "gorhill/uBlock",
+    "branch": "master",
+    "language": "JavaScript",
+    "description": "uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean."
+  },
+  {
+    "repo": "element-plus/element-plus",
+    "branch": "dev",
+    "language": "TypeScript",
+    "description": "🎉 A Vue.js 3 UI Library made by Element team"
+  },
+  {
+    "repo": "mit-pdos/xv6-public",
+    "branch": "master",
+    "language": "C",
+    "description": "xv6 OS"
+  },
+  {
+    "repo": "s2-streamstore/claude-batch-toolkit",
+    "branch": "main",
+    "language": "Shell",
+    "description": "Send non-urgent work to the Anthropic Batch API at 50% cost — directly from Claude Code"
+  },
+  {
+    "repo": "jquery-validation/jquery-validation",
+    "branch": "master",
+    "language": "JavaScript",
+    "description": "jQuery Validation Plugin library sources"
+  },
+  {
+    "repo": "CompVis/stable-diffusion",
+    "branch": "main",
+    "language": "Jupyter Notebook",
+    "description": "A latent text-to-image diffusion model"
+  },
+  {
+    "repo": "uralbash/awesome-pyramid",
+    "branch": "master",
+    "language": "Other",
+    "description": "A curated list of awesome Pyramid apps, projects and resources."
+  },
+  {
+    "repo": "nltk/nltk",
+    "branch": "develop",
+    "language": "Python",
+    "description": "NLTK Source"
+  },
+  {
+    "repo": "Castor6/tactus",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "The first browser AI Agent extension to support Agent Skills, enabling AI to perform complex tasks through an expandable skill system. 🌟 Star if you like it! | 首个支持 Agent Skills 的浏览器 AI Agent 扩展，让 AI 通过可扩展技能系统执行复杂任务 🌟 如果喜欢请点个 Star！"
+  },
+  {
+    "repo": "pallets/werkzeug",
     "branch": "main",
     "language": "Python",
-    "description": "Running ONNX/TRT version of the MiniMax-H3 VAE in ComfyUI, which increase speed by up to 1.7x"
+    "description": "The comprehensive WSGI web application library."
   },
   {
-    "repo": "geminidesktop/google-gemini-desktop-app",
+    "repo": "microsoft/Data-Science-For-Beginners",
     "branch": "main",
+    "language": "Jupyter Notebook",
+    "description": "10 Weeks, 20 Lessons, Data Science for All!"
+  },
+  {
+    "repo": "google/jax",
+    "branch": "main",
+    "language": "Python",
+    "description": "Composable transformations of Python+NumPy programs: differentiate, vectorize, JIT to GPU/TPU, and more"
+  },
+  {
+    "repo": "LazyVim/LazyVim",
+    "branch": "main",
+    "language": "Lua",
+    "description": "Neovim config for the lazy"
+  },
+  {
+    "repo": "pixijs/pixijs",
+    "branch": "dev",
     "language": "TypeScript",
-    "description": "google gemini desktop ai desktop-app standalone-utility pwa progressive-web-app chrome-installation edge-apps taskbar-pinning system-shortcut system-integration setup-guide tutorial windows-11 windows-10 workstation-optimization browser-extension-tradeoffs"
+    "description": "The HTML5 Creation Engine: Create beautiful digital content with the fastest, most flexible 2D WebGL renderer."
   },
   {
-    "repo": "profullstack/hqtui",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "High Quality Terminal UI for TypeScript — btop-grade terminal dashboards with a one-import API, dark by default, zero runtime dependencies."
-  },
-  {
-    "repo": "Dharyen/ryujinx-emu",
-    "branch": "main",
-    "language": "C#",
-    "description": "canary ryujinx emulator tomodachi life github ryubing nintendo switch emulator download"
-  },
-  {
-    "repo": "KillaBoi/BrokenPipe",
-    "branch": "main",
+    "repo": "MarlinFirmware/Marlin",
+    "branch": "bugfix-2.1.x",
     "language": "C++",
-    "description": "Steam Client Service Local Privilege Escalation Vulnerability"
+    "description": "Marlin is a firmware for RepRap 3D printers optimized for both 8 and 32 bit microcontrollers.  Marlin supports all common platforms.   Many commercial 3D printers come with Marlin installed.  Check with your vendor if you need source code for your specific machine."
   },
   {
-    "repo": "IuCC123/BendMac",
+    "repo": "Momciloo/fun-with-clip-path",
     "branch": "main",
-    "language": "Swift",
-    "description": "Your desktop bends as you close your MacBook. Free and open source."
-  },
-  {
-    "repo": "dmoshehun-prog/learn-from-materials",
-    "branch": "main",
-    "language": "Python",
-    "description": "Turn PDFs, books and papers into interactive learning webpages｜将复杂材料转化为可追溯、可测验、可做笔记的学习网页"
-  },
-  {
-    "repo": "crmne/fastpotify",
-    "branch": "main",
-    "language": "Rust",
-    "description": "Spotify, native and fast. One lightweight Rust app for your whole library, local playback, and Spotify Connect on Linux, macOS, and Windows."
-  },
-  {
-    "repo": "lightorigins/LightNav-0",
-    "branch": "main",
-    "language": "Python",
+    "language": "CSS",
     "description": ""
   },
   {
-    "repo": "kacperkapusciak/goldie",
+    "repo": "qemu/qemu",
+    "branch": "master",
+    "language": "C",
+    "description": "Official QEMU mirror. Please see https://www.qemu.org/contribute/ for how to submit changes to QEMU. Pull Requests are ignored. Please only use release tarballs from the QEMU website."
+  },
+  {
+    "repo": "xyzeva/k-id-age-verifier",
     "branch": "main",
     "language": "TypeScript",
-    "description": "✨ agentic app store previews and screenshots"
+    "description": "automatically verify your age on discord, twitch, kick, quora and more (k-id)"
   },
   {
-    "repo": "aleksandr-alhoff/seo-landing",
-    "branch": "main",
-    "language": "HTML",
-    "description": "SEO Landing: Give your AI coding agent the capabilities of a senior Technical SEO engineer.  An agent skill for building high-performance, technically optimized SEO landing pages. Turn an AI coding agent into a technical SEO specialist.  Build and improve landing pages with: • 🚀 100/100 Google PageSpeed target • ⚡ Core Web Vitals optimization"
-  },
-  {
-    "repo": "zq779/yuhutong",
-    "branch": "main",
-    "language": "Python",
-    "description": ""
-  },
-  {
-    "repo": "jundizhou/easy-stock",
+    "repo": "danielmiessler/fabric",
     "branch": "main",
     "language": "Go",
-    "description": ""
+    "description": "Fabric is an open-source framework for augmenting humans using AI. It provides a modular system for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere."
   },
   {
-    "repo": "tonbo-io/ursula",
-    "branch": "main",
+    "repo": "solana-labs/solana-program-library",
+    "branch": "master",
     "language": "Rust",
-    "description": "Distributed event stream server over HTTP, backed by S3."
+    "description": "A collection of Solana programs maintained by Solana Labs"
   },
   {
-    "repo": "tllovesxs/cc-switch-route",
+    "repo": "swc-project/swc",
     "branch": "main",
     "language": "Rust",
-    "description": "CC Switch 本地智能路由控制面：健康检测、倍率与延迟排序、恢复调序，无侵入、打开即用"
+    "description": "Rust-based platform for the Web"
+  },
+  {
+    "repo": "babel/babel",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "🐠 Babel is a compiler for writing next generation JavaScript."
   }
 ]

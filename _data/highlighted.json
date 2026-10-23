@@ -1,8 +1,8 @@
 {
-  "repo": "MiaAI-Lab/DeepSeek-v4.1-Flash-1017-2x-DGX-Sparks",
+  "repo": "galadran/we-have-a-problem.com",
   "branch": "main",
-  "language": "Shell",
-  "description": "DeepSeek-V4.1-Flash-1017 EXL3 on 2x DGX Sparks with TensorFold",
-  "stars": 257,
-  "forks": 40
+  "language": "HTML",
+  "description": "A featured project on GitHubTree.",
+  "stars": 303,
+  "forks": 72
 }
