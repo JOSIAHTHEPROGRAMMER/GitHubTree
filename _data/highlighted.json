@@ -1,8 +1,8 @@
 {
-  "repo": "oosexgang/hackios-xnu-userland",
+  "repo": "MiaAI-Lab/DeepSeek-v4.1-Flash-1017-2x-DGX-Sparks",
   "branch": "main",
-  "language": "C",
-  "description": "A featured project on GitHubTree.",
-  "stars": 254,
-  "forks": 86
+  "language": "Shell",
+  "description": "DeepSeek-V4.1-Flash-1017 EXL3 on 2x DGX Sparks with TensorFold",
+  "stars": 257,
+  "forks": 40
 }

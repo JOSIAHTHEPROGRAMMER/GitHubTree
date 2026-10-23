@@ -1,146 +1,146 @@
 [
   {
-    "repo": "judithsulfan/trading-bot",
+    "repo": "cinderline/northcinder",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "Buyer-run, ad-neutral shopping-agent MCP software with deterministic ranking, signed purchase mandates, and a local audit trail."
+  },
+  {
+    "repo": "Belucking/ZkOracle",
+    "branch": "main",
+    "language": "Python",
+    "description": "ZkOracle is a distributed, high-performance data replication engine that enables real-time data synchronization across a scalable platform."
+  },
+  {
+    "repo": "Player-YN/PawWork_ZhuaZhua",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "Paw Work - selection-first web agent for Chrome: select on the live page, describe the outcome, take away an editable office file. BYOK, sandboxed, no server."
+  },
+  {
+    "repo": "ilkerzg/storycast",
     "branch": "main",
     "language": "TypeScript",
-    "description": "polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot bot"
+    "description": "Type a topic. Get a story."
   },
   {
-    "repo": "raheemxghumman/DBD-AutoGrind-Trainer-2026-Pro",
-    "branch": "main",
-    "language": "Python",
-    "description": "Ultimate Dead by Daylight auto-grind trainer Pro edition with Bloodpoint bot, ESP wallhack, aimbot, and full perk/skin unlocker. Dominate the Fog with our 2026 undetected external tool."
+    "repo": "yizhi-chengzi/video-ai-talking",
+    "branch": "master",
+    "language": "TypeScript",
+    "description": "想做真人口播，又不必自己对着镜头念。上传一段真人出镜视频，写好字幕，本机配音并对口型，合成竖屏 MP4。密钥只留在浏览器里。"
   },
   {
-    "repo": "Tencent-Hunyuan/Hy3",
-    "branch": "main",
-    "language": "Python",
-    "description": "Hy3 (295B A21B), a leading reasoning and agent model in its size, with great cost efficiency."
+    "repo": "999sian/melee-pc",
+    "branch": "master",
+    "language": "C",
+    "description": "Native PC port of Super Smash Bros. Melee (NTSC-U 1.02), built from doldecomp/melee on aurora. No game data; bring your own disc."
   },
   {
-    "repo": "shibadogcap/dpgk",
+    "repo": "unstablebuild/rune",
     "branch": "main",
     "language": "Go",
-    "description": "ドーパミン中毒のガキ専用、問答無用でターミナルを虹色にするやつ"
+    "description": "the development environment for pros"
   },
   {
-    "repo": "prepzone504/PUBG_Lite_ESP___Aimbot",
+    "repo": "dirkjanm/askWAM",
     "branch": "main",
-    "language": "Python",
-    "description": "Lightweight ESP and aimbot for PUBG Lite (low-end PC friendly). Draw boxes around enemies, auto-aim, show loot, and remove grass. Optimized for performance."
+    "language": "C",
+    "description": "Ask the Web Account Manager (WAM) for Entra ID tokens"
   },
   {
-    "repo": "yudaprasetya007/routeVSCODE",
-    "branch": "master",
-    "language": "JavaScript",
-    "description": "⚡ Zero-reload dynamic AI model switcher & local proxy for VSCode Copilot Chat via 9Router"
-  },
-  {
-    "repo": "chengtx007/fuckoai",
-    "branch": "main",
-    "language": "Python",
-    "description": "Linux container registration control panel"
-  },
-  {
-    "repo": "GalaxyGeneralRobotics/Humanoid-GPT",
-    "branch": "main",
-    "language": "Python",
-    "description": "[CVPR 2026] Humanoid-GPT: Scaling Data and Structure for Zero-Shot Motion Tracking"
-  },
-  {
-    "repo": "serder8866/Universal_USB_Boot_Maker",
-    "branch": "main",
-    "language": "Python",
-    "description": "Create bootable USB drives for Windows, Linux, etc. Write ISO to USB, multiple OS on one USB, format USB drive, and verify files. Install OS easily."
-  },
-  {
-    "repo": "Hassanjan49/File_Association_Manager",
-    "branch": "main",
-    "language": "Python",
-    "description": "Manage file associations: choose which program opens each file type. Reset or change associations easily. Fix broken file associations."
-  },
-  {
-    "repo": "Caplet1989/Brokies-AI-Foundry",
-    "branch": "main",
-    "language": "HTML",
-    "description": "Top Free AI Developer Tools for 2026"
-  },
-  {
-    "repo": "FishCodeTech/muteki",
-    "branch": "main",
-    "language": "Python",
-    "description": "Project Muteki (無敵): autonomous multi-model CTF-solving AI agent swarm"
-  },
-  {
-    "repo": "Archive228/loopkit",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "33 battle-tested skills + minimal .claude harness for any coding agent (Claude Code, Cursor, Codex, Gemini CLI)."
-  },
-  {
-    "repo": "ziwang-Physics/AgentChat",
-    "branch": "master",
-    "language": "JavaScript",
-    "description": ""
-  },
-  {
-    "repo": "hanyi0000/chatgpt-plus-automation-toolkit",
-    "branch": "main",
-    "language": "Python",
-    "description": "自动化完成 ChatGPT 账号注册、GoPay/PayPal 支付、OAuth 授权与 Session 导出，含 Windows 控制面板"
-  },
-  {
-    "repo": "anonimosptzs-sys/God_of_War__2018__Unlimited_Rage___Health",
-    "branch": "main",
-    "language": "Python",
-    "description": "Unlimited health, rage, and all runic attacks for God of War (2018). God mode, infinite Spartan Rage, and unlock all upgrades."
-  },
-  {
-    "repo": "peridotfoundation/MT5-Directional-Flow-Dashboard",
-    "branch": "main",
-    "language": "HTML",
-    "description": "MT5 Live Trend Direction Signal Hub 2026 – Real-Time Forex & CFD Alerts"
-  },
-  {
-    "repo": "tony-cote/walletgen",
-    "branch": "main",
-    "language": "C++",
-    "description": "WalletGen - Seed phrase generator and finder for Bitcoin, EVM (Ethereum) wallets. Recovery your lost BTC or ETH wallet via private key / seed phrase generation."
-  },
-  {
-    "repo": "sumawan-bmkg/Vortex-Luna-2",
-    "branch": "main",
-    "language": "Python",
-    "description": "Luna-Vortex (2026) — Professional Discord Multi-Tool & Stress Tester."
-  },
-  {
-    "repo": "flebonan/WeatherMaster",
-    "branch": "main",
-    "language": "Kotlin",
-    "description": "A Weather app for android with multiple sources 🌦🌞☔"
-  },
-  {
-    "repo": "Trade-of-Economics-in-Warsaw/market-sniping-trading-bot",
+    "repo": "blendi-remade/interdimensional-game",
     "branch": "main",
     "language": "TypeScript",
     "description": ""
   },
   {
-    "repo": "generaltech094-create/bamboo-hr-employee-flow",
+    "repo": "lihaoyun6/ComfyUI-H3VAE_TRT",
+    "branch": "main",
+    "language": "Python",
+    "description": "Running ONNX/TRT version of the MiniMax-H3 VAE in ComfyUI, which increase speed by up to 1.7x"
+  },
+  {
+    "repo": "geminidesktop/google-gemini-desktop-app",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "google gemini desktop ai desktop-app standalone-utility pwa progressive-web-app chrome-installation edge-apps taskbar-pinning system-shortcut system-integration setup-guide tutorial windows-11 windows-10 workstation-optimization browser-extension-tradeoffs"
+  },
+  {
+    "repo": "profullstack/hqtui",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "High Quality Terminal UI for TypeScript — btop-grade terminal dashboards with a one-import API, dark by default, zero runtime dependencies."
+  },
+  {
+    "repo": "Dharyen/ryujinx-emu",
+    "branch": "main",
+    "language": "C#",
+    "description": "canary ryujinx emulator tomodachi life github ryubing nintendo switch emulator download"
+  },
+  {
+    "repo": "KillaBoi/BrokenPipe",
+    "branch": "main",
+    "language": "C++",
+    "description": "Steam Client Service Local Privilege Escalation Vulnerability"
+  },
+  {
+    "repo": "IuCC123/BendMac",
+    "branch": "main",
+    "language": "Swift",
+    "description": "Your desktop bends as you close your MacBook. Free and open source."
+  },
+  {
+    "repo": "dmoshehun-prog/learn-from-materials",
+    "branch": "main",
+    "language": "Python",
+    "description": "Turn PDFs, books and papers into interactive learning webpages｜将复杂材料转化为可追溯、可测验、可做笔记的学习网页"
+  },
+  {
+    "repo": "crmne/fastpotify",
+    "branch": "main",
+    "language": "Rust",
+    "description": "Spotify, native and fast. One lightweight Rust app for your whole library, local playback, and Spotify Connect on Linux, macOS, and Windows."
+  },
+  {
+    "repo": "lightorigins/LightNav-0",
+    "branch": "main",
+    "language": "Python",
+    "description": ""
+  },
+  {
+    "repo": "kacperkapusciak/goldie",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "✨ agentic app store previews and screenshots"
+  },
+  {
+    "repo": "aleksandr-alhoff/seo-landing",
     "branch": "main",
     "language": "HTML",
-    "description": "BambooHR Performance Manager 2026: Track Goals & Automate HR Workflows"
+    "description": "SEO Landing: Give your AI coding agent the capabilities of a senior Technical SEO engineer.  An agent skill for building high-performance, technically optimized SEO landing pages. Turn an AI coding agent into a technical SEO specialist.  Build and improve landing pages with: • 🚀 100/100 Google PageSpeed target • ⚡ Core Web Vitals optimization"
   },
   {
-    "repo": "Liyucheng1997/332_lab-jev-chat",
+    "repo": "zq779/yuhutong",
     "branch": "main",
-    "language": "Kotlin",
-    "description": "Jev Chat Assistant for Windows - 电脑版微信意图判断与 DeepSeek 建议回复"
+    "language": "Python",
+    "description": ""
   },
   {
-    "repo": "alishamari/BlockHub",
+    "repo": "jundizhou/easy-stock",
     "branch": "main",
-    "language": "PHP",
-    "description": "Here are six technical descriptors for BlockHub software: scalable, extensible, fault-tolerant, real-time, data-driven, and secure."
+    "language": "Go",
+    "description": ""
+  },
+  {
+    "repo": "tonbo-io/ursula",
+    "branch": "main",
+    "language": "Rust",
+    "description": "Distributed event stream server over HTTP, backed by S3."
+  },
+  {
+    "repo": "tllovesxs/cc-switch-route",
+    "branch": "main",
+    "language": "Rust",
+    "description": "CC Switch 本地智能路由控制面：健康检测、倍率与延迟排序、恢复调序，无侵入、打开即用"
   }
 ]
