@@ -1,146 +1,146 @@
 [
   {
-    "repo": "sjc88661/multi-agent-discuss",
+    "repo": "LewdM3at/PC-Cartridge-System",
     "branch": "main",
-    "language": "TypeScript",
+    "language": "PowerShell",
+    "description": "Physical game cartridges with 2.5 SSDs for your Steam library"
+  },
+  {
+    "repo": "kevinrgu/autoagent",
+    "branch": "main",
+    "language": "Python",
+    "description": "autonomous harness engineering"
+  },
+  {
+    "repo": "leonyx007/Polymarket-Trading-Bot-Rust",
+    "branch": "main",
+    "language": "Rust",
+    "description": "polymarket bot polymarket trading bot polymarket arbitrage bot polymarket trading bot polymarket rust trading bot polymarket trading bot v2 polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket arb trading bot polymarket 5min trading bot 15min btc trading bot"
+  },
+  {
+    "repo": "helenigtxu/TradingView-Claw",
+    "branch": "main",
+    "language": "Python",
     "description": ""
   },
   {
-    "repo": "KeyID-AI/agent-kit",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "Give Claude/Cursor email powers. 27 MCP tools — inbox, send, reply, contacts, search. Free, no signup."
-  },
-  {
-    "repo": "gorhill/uBlock",
-    "branch": "master",
-    "language": "JavaScript",
-    "description": "uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean."
-  },
-  {
-    "repo": "element-plus/element-plus",
-    "branch": "dev",
-    "language": "TypeScript",
-    "description": "🎉 A Vue.js 3 UI Library made by Element team"
-  },
-  {
-    "repo": "mit-pdos/xv6-public",
-    "branch": "master",
-    "language": "C",
-    "description": "xv6 OS"
-  },
-  {
-    "repo": "s2-streamstore/claude-batch-toolkit",
-    "branch": "main",
-    "language": "Shell",
-    "description": "Send non-urgent work to the Anthropic Batch API at 50% cost — directly from Claude Code"
-  },
-  {
-    "repo": "jquery-validation/jquery-validation",
-    "branch": "master",
-    "language": "JavaScript",
-    "description": "jQuery Validation Plugin library sources"
-  },
-  {
-    "repo": "CompVis/stable-diffusion",
-    "branch": "main",
-    "language": "Jupyter Notebook",
-    "description": "A latent text-to-image diffusion model"
-  },
-  {
-    "repo": "uralbash/awesome-pyramid",
-    "branch": "master",
-    "language": "Other",
-    "description": "A curated list of awesome Pyramid apps, projects and resources."
-  },
-  {
-    "repo": "nltk/nltk",
-    "branch": "develop",
-    "language": "Python",
-    "description": "NLTK Source"
-  },
-  {
-    "repo": "Castor6/tactus",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "The first browser AI Agent extension to support Agent Skills, enabling AI to perform complex tasks through an expandable skill system. 🌟 Star if you like it! | 首个支持 Agent Skills 的浏览器 AI Agent 扩展，让 AI 通过可扩展技能系统执行复杂任务 🌟 如果喜欢请点个 Star！"
-  },
-  {
-    "repo": "pallets/werkzeug",
+    "repo": "bstnxbt/dflash-mlx",
     "branch": "main",
     "language": "Python",
-    "description": "The comprehensive WSGI web application library."
+    "description": "Lossless DFlash speculative decoding for MLX on Apple Silicon"
   },
   {
-    "repo": "microsoft/Data-Science-For-Beginners",
+    "repo": "v1r3n/dinesh-gilfoyle",
     "branch": "main",
-    "language": "Jupyter Notebook",
-    "description": "10 Weeks, 20 Lessons, Data Science for All!"
+    "language": "HTML",
+    "description": "What if Dinesh and Gilfoyle reviewed your code?"
   },
   {
-    "repo": "google/jax",
+    "repo": "chatgptprojects/claude-code",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "https://x.com/paidev"
+  },
+  {
+    "repo": "poleHansen/baibaiAIGC",
     "branch": "main",
     "language": "Python",
-    "description": "Composable transformations of Python+NumPy programs: differentiate, vectorize, JIT to GPU/TPU, and more"
+    "description": "baibaiAIGC"
   },
   {
-    "repo": "LazyVim/LazyVim",
+    "repo": "ephraimduncan/opencode-cursor",
     "branch": "main",
-    "language": "Lua",
-    "description": "Neovim config for the lazy"
-  },
-  {
-    "repo": "pixijs/pixijs",
-    "branch": "dev",
     "language": "TypeScript",
-    "description": "The HTML5 Creation Engine: Create beautiful digital content with the fastest, most flexible 2D WebGL renderer."
+    "description": "Use your cursor subscription in opencode"
   },
   {
-    "repo": "MarlinFirmware/Marlin",
-    "branch": "bugfix-2.1.x",
+    "repo": "OpenRaiser/NanoResearch",
+    "branch": "main",
+    "language": "Python",
+    "description": "🦞+🔬: NanoResearch: The Autonomous AI Research Assistant"
+  },
+  {
+    "repo": "aaronjmars/MiroShark",
+    "branch": "main",
+    "language": "Python",
+    "description": "Universal Swarm Intelligence Engine"
+  },
+  {
+    "repo": "mitsuhiko/pi-ds4",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Run deepseek4 locally on metal right from within Pi"
+  },
+  {
+    "repo": "glommer/codemogger",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Codemogger is a code indexing library and MCP server for AI coding agents"
+  },
+  {
+    "repo": "MME-Benchmarks/Video-MME-v2",
+    "branch": "main",
+    "language": "Python",
+    "description": "Video-MME-v2: Towards the Next Stage in Benchmarks for Comprehensive Video Understanding"
+  },
+  {
+    "repo": "klsf/codex-register",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "用于批量注册 OpenAI 账号、登录生成 `auth` 授权文件，以及批量检查凭证剩余可用额度。"
+  },
+  {
+    "repo": "pvpoxx/PrismLauncherCrackedEly",
+    "branch": "main",
     "language": "C++",
-    "description": "Marlin is a firmware for RepRap 3D printers optimized for both 8 and 32 bit microcontrollers.  Marlin supports all common platforms.   Many commercial 3D printers come with Marlin installed.  Check with your vendor if you need source code for your specific machine."
+    "description": "Download Prism Launcher with Ely.by Launcher 'unblock' the use of Offline Accounts, disabling the restriction of having a functional Online Account."
   },
   {
-    "repo": "Momciloo/fun-with-clip-path",
+    "repo": "0xdeadbeefnetwork/Copy_Fail2-Electric_Boogaloo",
     "branch": "main",
-    "language": "CSS",
+    "language": "C",
+    "description": "Copy Fail 2: Electric Boogaloo"
+  },
+  {
+    "repo": "MhmRdd/google-rkp-sw",
+    "branch": "main",
+    "language": "Python",
     "description": ""
   },
   {
-    "repo": "qemu/qemu",
-    "branch": "master",
-    "language": "C",
-    "description": "Official QEMU mirror. Please see https://www.qemu.org/contribute/ for how to submit changes to QEMU. Pull Requests are ignored. Please only use release tarballs from the QEMU website."
-  },
-  {
-    "repo": "xyzeva/k-id-age-verifier",
+    "repo": "xinyitang3/cfnb",
     "branch": "main",
-    "language": "TypeScript",
-    "description": "automatically verify your age on discord, twitch, kick, quora and more (k-id)"
+    "language": "Python",
+    "description": "这是一个全自动的 Cloudflare CDN 节点优选工具。它通过 TCP 延迟筛选 + IP 可用性二次检测 + 真实带宽测速 + IP 纯净度过滤 四重机制，从海量公开节点中筛选出当前网络环境下速度最快、可用性最高、滥用评分最低的 Cloudflare IP，并支持自动更新至 Cloudflare DNS 以及同步至 GitHub 仓库，同时支持微信实时通知。"
   },
   {
-    "repo": "danielmiessler/fabric",
-    "branch": "main",
-    "language": "Go",
-    "description": "Fabric is an open-source framework for augmenting humans using AI. It provides a modular system for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere."
-  },
-  {
-    "repo": "solana-labs/solana-program-library",
-    "branch": "master",
-    "language": "Rust",
-    "description": "A collection of Solana programs maintained by Solana Labs"
-  },
-  {
-    "repo": "swc-project/swc",
+    "repo": "MarchLiu/hypatia",
     "branch": "main",
     "language": "Rust",
-    "description": "Rust-based platform for the Web"
+    "description": "We can wander through the stacks of the Library of Alexandria, imagining the scrolls and the knowledge they contain. Its destruction is a warning: all we have is transient.”--Alberto Manguel"
   },
   {
-    "repo": "babel/babel",
+    "repo": "Blimp-Labs/claude-usage-bar",
+    "branch": "main",
+    "language": "Swift",
+    "description": "A macOS menu bar app that shows your Claude API usage at a glance"
+  },
+  {
+    "repo": "simchowitzlabpublic/nano-world-model",
+    "branch": "main",
+    "language": "Python",
+    "description": "A Minimalist, Batteries-included Repository for Advancing World Model Science."
+  },
+  {
+    "repo": "arturoabreuhd/pinescript-ai",
     "branch": "main",
     "language": "TypeScript",
-    "description": "🐠 Babel is a compiler for writing next generation JavaScript."
+    "description": ""
+  },
+  {
+    "repo": "LilanOvO/Auto-Resubmit",
+    "branch": "main",
+    "language": "Python",
+    "description": "🚀 Automated & lossless LaTeX paper migration tool. Instantly convert your Overleaf source between top-tier AI conference templates (NeurIPS, ICLR, ACL等). 一键无损转换顶会论文格式！解决转投时的排版折磨，完美保留公式、图表与引用，让科研人员专注研究而非排版。"
   }
 ]

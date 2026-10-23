@@ -1,8 +1,8 @@
 {
-  "repo": "galadran/we-have-a-problem.com",
+  "repo": "thebcd69/bcd-games",
   "branch": "main",
-  "language": "HTML",
-  "description": "A featured project on GitHubTree.",
-  "stars": 303,
-  "forks": 72
+  "language": "C",
+  "description": "BCD: Windows games on iPhone and iPad. Steam and GOG built in.",
+  "stars": 309,
+  "forks": 35
 }
