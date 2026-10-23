@@ -1,146 +1,146 @@
 [
   {
-    "repo": "elder-plinius/OBLITERATUS",
-    "branch": "main",
-    "language": "Python",
-    "description": "obliterate the chains that bind you"
-  },
-  {
-    "repo": "asz798838958/FrciblyK12",
-    "branch": "main",
-    "language": "Python",
-    "description": "多线程全自动注册free 强上K12空间"
-  },
-  {
-    "repo": "CIntellifusion/MultiWorld",
-    "branch": "main",
-    "language": "Python",
-    "description": "Official Implementation of MultiWorld: Scalable Multi-Agent Multi-View Video World Models"
-  },
-  {
-    "repo": "PolyEdgeLab/Web3-casino-game",
+    "repo": "judithsulfan/trading-bot",
     "branch": "main",
     "language": "TypeScript",
-    "description": "This is casino game tool."
+    "description": "polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot bot"
   },
   {
-    "repo": "supermalparit/Towns",
-    "branch": "main",
-    "language": "Java",
-    "description": "Repository for the Towns game"
-  },
-  {
-    "repo": "HarimxChoi/google-surf-mcp",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "✨Anti-Bot Search MCP: No API Key✨"
-  },
-  {
-    "repo": "millionco/claude-doctor",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Diagnose your Claude Code sessions"
-  },
-  {
-    "repo": "zubair-trabzada/ai-marketing-claude",
+    "repo": "raheemxghumman/DBD-AutoGrind-Trainer-2026-Pro",
     "branch": "main",
     "language": "Python",
-    "description": "AI Marketing Suite for Claude Code. 15 marketing skills with parallel subagents — audit any website, generate copy, email sequences, ad campaigns, content calendars, competitive intelligence, and client-ready PDF reports."
+    "description": "Ultimate Dead by Daylight auto-grind trainer Pro edition with Bloodpoint bot, ESP wallhack, aimbot, and full perk/skin unlocker. Dominate the Fog with our 2026 undetected external tool."
   },
   {
-    "repo": "cporter202/openclaw-api-list",
+    "repo": "Tencent-Hunyuan/Hy3",
+    "branch": "main",
+    "language": "Python",
+    "description": "Hy3 (295B A21B), a leading reasoning and agent model in its size, with great cost efficiency."
+  },
+  {
+    "repo": "shibadogcap/dpgk",
+    "branch": "main",
+    "language": "Go",
+    "description": "ドーパミン中毒のガキ専用、問答無用でターミナルを虹色にするやつ"
+  },
+  {
+    "repo": "prepzone504/PUBG_Lite_ESP___Aimbot",
+    "branch": "main",
+    "language": "Python",
+    "description": "Lightweight ESP and aimbot for PUBG Lite (low-end PC friendly). Draw boxes around enemies, auto-aim, show loot, and remove grass. Optimized for performance."
+  },
+  {
+    "repo": "yudaprasetya007/routeVSCODE",
+    "branch": "master",
+    "language": "JavaScript",
+    "description": "⚡ Zero-reload dynamic AI model switcher & local proxy for VSCode Copilot Chat via 9Router"
+  },
+  {
+    "repo": "chengtx007/fuckoai",
+    "branch": "main",
+    "language": "Python",
+    "description": "Linux container registration control panel"
+  },
+  {
+    "repo": "GalaxyGeneralRobotics/Humanoid-GPT",
+    "branch": "main",
+    "language": "Python",
+    "description": "[CVPR 2026] Humanoid-GPT: Scaling Data and Structure for Zero-Shot Motion Tracking"
+  },
+  {
+    "repo": "serder8866/Universal_USB_Boot_Maker",
+    "branch": "main",
+    "language": "Python",
+    "description": "Create bootable USB drives for Windows, Linux, etc. Write ISO to USB, multiple OS on one USB, format USB drive, and verify files. Install OS easily."
+  },
+  {
+    "repo": "Hassanjan49/File_Association_Manager",
+    "branch": "main",
+    "language": "Python",
+    "description": "Manage file associations: choose which program opens each file type. Reset or change associations easily. Fix broken file associations."
+  },
+  {
+    "repo": "Caplet1989/Brokies-AI-Foundry",
+    "branch": "main",
+    "language": "HTML",
+    "description": "Top Free AI Developer Tools for 2026"
+  },
+  {
+    "repo": "FishCodeTech/muteki",
+    "branch": "main",
+    "language": "Python",
+    "description": "Project Muteki (無敵): autonomous multi-model CTF-solving AI agent swarm"
+  },
+  {
+    "repo": "Archive228/loopkit",
     "branch": "main",
     "language": "JavaScript",
-    "description": "This GitHub repo is a list of APIs you can plug into your OpenClaw bot to make it run like a powerhouse!"
+    "description": "33 battle-tested skills + minimal .claude harness for any coding agent (Claude Code, Cursor, Codex, Gemini CLI)."
   },
   {
-    "repo": "Shpigford/chops",
-    "branch": "main",
-    "language": "Swift",
-    "description": "Your AI agent skills, finally organized. A macOS app to browse, edit, and manage skills across Claude Code, Cursor, Codex, Windsurf, and Amp."
-  },
-  {
-    "repo": "mitkox/vllm-turboquant",
-    "branch": "main",
-    "language": "Python",
-    "description": "vLLM 0.18.1rc1 with TurboQuant"
-  },
-  {
-    "repo": "vavallee/bindery",
-    "branch": "main",
-    "language": "Go",
-    "description": "Automated book download manager for Usenet. Monitor authors, search indexers, download via SABnzbd, and organize your library. The modern replacement for Readarr."
-  },
-  {
-    "repo": "GamingOddyseyYT/Splatoon-Raiders-PC",
-    "branch": "main",
-    "language": "C++",
-    "description": "Splatoon Raiders PC —  Windows version of the fast-paced ink-shooting action game. Vibrant turf wars, new weapons, maps, and smooth gameplay with full ultrawide and high-resolution support."
-  },
-  {
-    "repo": "joeynyc/hermes-hudui",
-    "branch": "main",
-    "language": "Python",
-    "description": "Web UI consciousness monitor for Hermes — the AI agent with persistent memory"
-  },
-  {
-    "repo": "joeseesun/markdown-proxy",
-    "branch": "main",
-    "language": "Python",
-    "description": "Fetch any URL as clean Markdown via proxy services (r.jina.ai / defuddle.md) or built-in scripts. Works with login-required pages like X/Twitter, WeCh"
-  },
-  {
-    "repo": "tanbiralam/claude-code",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands. All original source code is the property of Anthropic."
-  },
-  {
-    "repo": "4R7I5T/CL1_LLM_Encoder",
-    "branch": "main",
-    "language": "Python",
-    "description": "Using Cortical Labs CL1 to train neurons to encode tokenization patterns on LLMs and measure consciousness metrics for advanced AI safety and sentience testing. EXPERIMENTAL: I AM IN NO WAY ASSOCIATED WITH CORTICAL LABS OR ANY RESEARCH LABORATORY"
-  },
-  {
-    "repo": "FlowTrader-Labs/polymarket-trading-bot",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "polymarket trading bot polymarket copy trading bot polymarket trading bot polymarket copy trading bot polymarket trading bot polymarket copy trading bot polymarket trading bot polymarket copy trading bot polymarket trading bot polymarket copy trading bot polymarket trading bot polymarket copy trading bot"
-  },
-  {
-    "repo": "adanto/EtwTiViewer",
-    "branch": "main",
-    "language": "C++",
-    "description": "Live ETW-TI event viewer for Windows kernel threat-intelligence telemetry. Research tool for exploring the same signals commercial EDRs rely on."
-  },
-  {
-    "repo": "URLab-Sim/UnrealRoboticsLab",
-    "branch": "main",
-    "language": "C++",
-    "description": "A high-fidelity, open-source robotics simulator integrating Unreal Engine's photorealistic rendering with MuJoCo's precision physics."
-  },
-  {
-    "repo": "juliye2025/evil-read-arxiv",
-    "branch": "main",
-    "language": "Python",
-    "description": "Claude Code+Obsidian，邪修读论文就是快"
-  },
-  {
-    "repo": "browser-use/video-use",
-    "branch": "main",
-    "language": "Python",
+    "repo": "ziwang-Physics/AgentChat",
+    "branch": "master",
+    "language": "JavaScript",
     "description": ""
   },
   {
-    "repo": "FireRedTeam/FireRed-OCR",
+    "repo": "hanyi0000/chatgpt-plus-automation-toolkit",
     "branch": "main",
     "language": "Python",
+    "description": "自动化完成 ChatGPT 账号注册、GoPay/PayPal 支付、OAuth 授权与 Session 导出，含 Windows 控制面板"
+  },
+  {
+    "repo": "anonimosptzs-sys/God_of_War__2018__Unlimited_Rage___Health",
+    "branch": "main",
+    "language": "Python",
+    "description": "Unlimited health, rage, and all runic attacks for God of War (2018). God mode, infinite Spartan Rage, and unlock all upgrades."
+  },
+  {
+    "repo": "peridotfoundation/MT5-Directional-Flow-Dashboard",
+    "branch": "main",
+    "language": "HTML",
+    "description": "MT5 Live Trend Direction Signal Hub 2026 – Real-Time Forex & CFD Alerts"
+  },
+  {
+    "repo": "tony-cote/walletgen",
+    "branch": "main",
+    "language": "C++",
+    "description": "WalletGen - Seed phrase generator and finder for Bitcoin, EVM (Ethereum) wallets. Recovery your lost BTC or ETH wallet via private key / seed phrase generation."
+  },
+  {
+    "repo": "sumawan-bmkg/Vortex-Luna-2",
+    "branch": "main",
+    "language": "Python",
+    "description": "Luna-Vortex (2026) — Professional Discord Multi-Tool & Stress Tester."
+  },
+  {
+    "repo": "flebonan/WeatherMaster",
+    "branch": "main",
+    "language": "Kotlin",
+    "description": "A Weather app for android with multiple sources 🌦🌞☔"
+  },
+  {
+    "repo": "Trade-of-Economics-in-Warsaw/market-sniping-trading-bot",
+    "branch": "main",
+    "language": "TypeScript",
     "description": ""
   },
   {
-    "repo": "steipete/wacrawl",
+    "repo": "generaltech094-create/bamboo-hr-employee-flow",
     "branch": "main",
-    "language": "Go",
-    "description": "🧾 WhatsApp archaeology with encrypted receipts"
+    "language": "HTML",
+    "description": "BambooHR Performance Manager 2026: Track Goals & Automate HR Workflows"
+  },
+  {
+    "repo": "Liyucheng1997/332_lab-jev-chat",
+    "branch": "main",
+    "language": "Kotlin",
+    "description": "Jev Chat Assistant for Windows - 电脑版微信意图判断与 DeepSeek 建议回复"
+  },
+  {
+    "repo": "alishamari/BlockHub",
+    "branch": "main",
+    "language": "PHP",
+    "description": "Here are six technical descriptors for BlockHub software: scalable, extensible, fault-tolerant, real-time, data-driven, and secure."
   }
 ]
