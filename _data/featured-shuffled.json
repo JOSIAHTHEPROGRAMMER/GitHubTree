@@ -1,146 +1,146 @@
 [
   {
-    "repo": "mu-zi-lee/magpie-our-free-model",
+    "repo": "evanphi7/lighthouse-router",
     "branch": "main",
-    "language": "JavaScript",
-    "description": "Our Free Model 的 Magpie 适配插件：整合免费模型池、EAC 授权与多账号渠道，支持自动服务管理及免登录的 Cloudflare 临时远程控制台。｜Magpie integration for Our Free Model with free model pools, EAC authentication, multiple account providers, automatic service management, and an accountless Cloudflare temporary remote console."
+    "language": "Rust",
+    "description": "Off-chain DEX route discovery on Solana — pool decoders, multi-hop quoting, and arbitrage cycle detection"
   },
   {
-    "repo": "dengzi008/DramaLens",
+    "repo": "PeGasUsCHAkra/mevbot",
     "branch": "main",
     "language": "JavaScript",
-    "description": "Local-first Chrome extension for timestamped transcription and human-reviewed short-form drama analysis."
+    "description": "Ethereum Bot"
   },
   {
-    "repo": "Nagi-ovo/dsh-ads",
+    "repo": "traderwillhu/market_dashboard",
+    "branch": "main",
+    "language": "HTML",
+    "description": ""
+  },
+  {
+    "repo": "yappologistic/Spun",
+    "branch": "main",
+    "language": "C++",
+    "description": "A CD-shaped music player for Linux, with local playback and Cider integration."
+  },
+  {
+    "repo": "prof-oguzergin/bilgisayar-mimarisi",
+    "branch": "main",
+    "language": "TeX",
+    "description": "Bilgisayar Mimarisi: RISC-V Tabanlı Yaklaşım — Açık kaynak Türkçe ders kitabı (CC BY-NC-ND 4.0)"
+  },
+  {
+    "repo": "chrisnch/reADHD",
     "branch": "main",
     "language": "TypeScript",
-    "description": "是兄弟就来蹬我！DSH Web UI 广告：2005 年中文站点风格的侧栏广告 / 对话内信息流 / 角落弹窗 + 一个真实热区比视觉小得多的关闭叉。素材全虚构，域名打码。"
+    "description": "为 ADHD 人群设计的 Obsidian 视觉强调阅读插件，支持中文智能分词（jieba-wasm）。基于 Boninall 的 Obsidian-Better-Reading-Mode 改进。"
   },
   {
-    "repo": "myYangyunfan/dsh_desktop",
+    "repo": "sorrycc/awesome-javascript",
+    "branch": "master",
+    "language": "Other",
+    "description": "🐢 A collection of awesome browser-side  JavaScript libraries, resources and shiny things."
+  },
+  {
+    "repo": "randallscott25-star/epstein-forensic-finance",
     "branch": "main",
-    "language": "JavaScript",
-    "description": "DeepSeek Harness (dsh) Windows desktop client - bundled Node.js + dsh CLI, one-click launch"
+    "language": "HTML",
+    "description": "Epstein Financial Forensics Automated forensic financial reconstruction from 1.48 million DOJ EFTA documents + 503K cataloged media items"
   },
   {
-    "repo": "2023782whl/Mem-kb",
+    "repo": "jbhuang0604/awesome-computer-vision",
+    "branch": "master",
+    "language": "Other",
+    "description": "A curated list of awesome computer vision resources"
+  },
+  {
+    "repo": "uralbash/awesome-pyramid",
+    "branch": "master",
+    "language": "Other",
+    "description": "A curated list of awesome Pyramid apps, projects and resources."
+  },
+  {
+    "repo": "Darkkal44/sddm-themes",
     "branch": "main",
-    "language": "TypeScript",
-    "description": "Self-Evolving Enterprise Knowledge Base"
+    "language": "QML",
+    "description": "A simple collection of all the sddm-themes I've made :D"
   },
   {
-    "repo": "adrianpunk/punk-ip-illustrations",
+    "repo": "tompftampffern/polyseed-monero",
+    "branch": "main",
+    "language": "C",
+    "description": "Polyseed Monero"
+  },
+  {
+    "repo": "zhuyansen/wx-favorites-report",
     "branch": "main",
     "language": "Python",
-    "description": "Punk personal IP article illustration Agent Skill"
+    "description": "微信收藏可视化 Claude Code Skill — 从加密 DB 到交互式 HTML 报告的端到端管线"
   },
   {
-    "repo": "sjc88661/multi-agent-discuss",
+    "repo": "qaml-ai/pi-worker",
     "branch": "main",
     "language": "TypeScript",
     "description": ""
   },
   {
-    "repo": "liujunxibaba/douyin-tiktok-story-skill-agent",
+    "repo": "instructkr/claw-code",
     "branch": "main",
     "language": "Python",
-    "description": "Local-first AI Skill and Agent for creating original Douyin and TikTok story scripts with a searchable SQLite reference database."
+    "description": "Better Harness Tools, not merely storing the archive of leaked Claude Code but also make real things done. Now rewriting in Rust."
   },
   {
-    "repo": "yang13926151198-ai/AI-Photographer-Agent-ROCm",
+    "repo": "alainnothere/llm-circuit-finder",
     "branch": "main",
     "language": "Python",
-    "description": "Private local AI Photographer Agent on AMD Radeon and ROCm"
+    "description": "I replicated Ng's RYS method and found that duplicating 3 specific layers in Qwen2.5-32B boosts reasoning by 17% and duplicating layers 12-14 in Devstral-24B improves logical deduction from 0.22→0.76 on BBH — no training, no weight changes, just routing hidden states through the same circuit twice. Tools included. Two AMD GPUs, one evening."
   },
   {
-    "repo": "Jaxton07/percho",
+    "repo": "zhu1090093659/spec_driven_develop",
+    "branch": "main",
+    "language": "Shell",
+    "description": "Cross-platform AI agent skill for spec-driven development: analyze codebases, decompose large  transformations, and track long-running work."
+  },
+  {
+    "repo": "compound-finance/compound-protocol",
+    "branch": "master",
+    "language": "TypeScript",
+    "description": "The Compound On-Chain Protocol"
+  },
+  {
+    "repo": "dievus/ADPulse",
+    "branch": "main",
+    "language": "Python",
+    "description": "Active Directory Vulnerability Scanner"
+  },
+  {
+    "repo": "sbilly/awesome-security",
+    "branch": "master",
+    "language": "Other",
+    "description": "A collection of awesome software, libraries, documents, books, resources and cools stuffs about security."
+  },
+  {
+    "repo": "supermemoryai/clawdbot-supermemory",
     "branch": "main",
     "language": "TypeScript",
-    "description": "pi-desktop Minimalist desktop GUI for the Pi coding agent — the same engine as the Pi CLI, in a clean visual interface. Multi-session chat, visual tool approvals, and custom themes."
+    "description": "Supermemory allows Clawdbot / Molt bot to have PERFECT memory and recall for their own personal agent."
   },
   {
-    "repo": "claude-mythos5/Claude-Mythos5-AI-Free-desktop",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Claude Mythos 5 AI free desktop app - what is Claude Mythos? Anthropic's restricted AI model released June 9, 2026 for US government Project Glasswing. Claude Fable 5 vs Mythos 5 vs Opus 5 vs GPT 5.6 Sol comparison: same weights, Mythos has cybersecurity capabilities. Download Claude desktop app free, includes Fable 5."
-  },
-  {
-    "repo": "liuzhengdongfortest/pi-shadow-mind",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Parallel cognitive runtime for Pi"
-  },
-  {
-    "repo": "alexzhang13/spec-ptc",
-    "branch": "main",
-    "language": "Python",
-    "description": "Speculative programmatic tool calling (sPTC) for harnesses like RLM, CodeAct, etc."
-  },
-  {
-    "repo": "wang2122/sprix-sage-router",
-    "branch": "main",
-    "language": "Python",
-    "description": "Sprix AI at 屿智同行 — state-aware SELF/COLLABORATE/HANDOFF routing for A2A agent networks."
-  },
-  {
-    "repo": "x4gpanell/3x-ui",
-    "branch": "main",
-    "language": "Dockerfile",
-    "description": ""
-  },
-  {
-    "repo": "nkxx188/ComfyUI-MiniMaxH3-Easy",
+    "repo": "elder-plinius/GLOSSOPETRAE",
     "branch": "main",
     "language": "JavaScript",
-    "description": "The easiest way to use MiniMax H3. One compact workflow for T2V, I2V, first/last-frame, and reference video generation, with a unified multi-media input, powerful @ references, and inline dialogue blocks. Less wiring. More creative control."
+    "description": "LINGUISTIC ENGINE FOR AI"
   },
   {
-    "repo": "Carasibana/ComfyUI-H3-FaceRefine",
-    "branch": "main",
-    "language": "Python",
-    "description": "Refine and improve the quality of small faces in MiniMax H3 video. Per-frame face tracking, crop, refine with H3, stitch back."
-  },
-  {
-    "repo": "i3T4AN/KADATH",
-    "branch": "main",
-    "language": "Python",
-    "description": "Evolutionary multi-agent runtime that breeds, evaluates, and improves autonomous agents across reproducible epochs to converge on optimization of a goal."
-  },
-  {
-    "repo": "lbx154/Argus",
-    "branch": "main",
-    "language": "Python",
-    "description": ""
-  },
-  {
-    "repo": "anonrig/router",
+    "repo": "jamiepine/voicebox",
     "branch": "main",
     "language": "TypeScript",
-    "description": "The TanStack Router API. Rebuilt for the hot path."
+    "description": "The open-source voice synthesis studio powered by Qwen3-TTS."
   },
   {
-    "repo": "kevinzakka/mjbatch",
+    "repo": "Zehong-Ma/PixelGen",
     "branch": "main",
     "language": "Python",
-    "description": "A Python library for running thousands of MuJoCo simulations in parallel on CPU"
-  },
-  {
-    "repo": "Qiuner/birdview",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "Stop letting AI code blind. Map the architecture before every change with Birdview."
-  },
-  {
-    "repo": "fuad403273/WeightVault",
-    "branch": "main",
-    "language": "Python",
-    "description": "WeightVault optimizes data storage and retrieval through advanced data compression, enabling real-time analytics within a robust system manager."
-  },
-  {
-    "repo": "x4gpanell/3x-ui_runonflux",
-    "branch": "main",
-    "language": "Go",
-    "description": ""
+    "description": "Official repository for “PixelGen: Pixel Diffusion Beats Latent Diffusion with Perceptual Loss”"
   }
 ]

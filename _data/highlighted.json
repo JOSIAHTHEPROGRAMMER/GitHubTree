@@ -1,8 +1,8 @@
 {
-  "repo": "indexable-inc/ra-jit",
+  "repo": "DustinYe/gesture-media-controller",
   "branch": "main",
-  "language": "Rust",
-  "description": "Incremental rust builds up to 92x faster than cargo/rustc",
-  "stars": 192,
-  "forks": 8
+  "language": "C++",
+  "description": "Infrared gesture-based BLE media controller for AtomS3R and PAJ7620U2; C++ firmware, trajectory replay, and documented v24 baseline.",
+  "stars": 204,
+  "forks": 43
 }
