@@ -1,8 +1,8 @@
 {
-  "repo": "op7418/guizang-tv",
+  "repo": "img2threejs/plugin-interior",
   "branch": "main",
-  "language": "Java",
-  "description": "归藏电视：适配国内小米电视的简洁 Android 桌面，大字列表、壁纸轮播与 HDMI 直达。",
-  "stars": 221,
-  "forks": 28
+  "language": "Python",
+  "description": "Production interior authoring and interactive Three.js delivery plugin for img2.",
+  "stars": 208,
+  "forks": 23
 }

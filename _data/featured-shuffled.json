@@ -1,51 +1,57 @@
 [
   {
-    "repo": "taylorarndt/perspective-cuts",
+    "repo": "ghostvectoracademy/DLLHijackHunter",
     "branch": "main",
-    "language": "Swift",
-    "description": "A text-based language for writing Apple Shortcuts. Experimental."
+    "language": "C#",
+    "description": "Automated DLL Hijacking Detection Tool with Zero False Positives — Discovers, filters, and canary-confirms exploitable DLL hijacks on Windows with tiered confidence scoring"
   },
   {
-    "repo": "wanonewan/wanwan",
+    "repo": "jarmuine/claude-code",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Fork of instructkr/claude-code"
+  },
+  {
+    "repo": "34306/vphone-aio",
+    "branch": "main",
+    "language": "Shell",
+    "description": "1 script run the vphone"
+  },
+  {
+    "repo": "apechurch/polymarket-arbitrage-trading-bot",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "polymarket arbitrage bot, polymarket arbitrage bot, polymarket arbitrage bot, polymarket arbitrage bot, polymarket arbitrage bot, polymarket arbitrage bot, polymarket arbitrage bot, polymarket arbitrage bot, polymarket arbitrage bot, polymarket arbitrage bot, polymarket arbitrage bot, polymarket arbitrage bot, polymarket arbitrage bot"
+  },
+  {
+    "repo": "hao-ji-xing/openclaw-weixin",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "openclaw-weixin"
+  },
+  {
+    "repo": "Sir-Scuzza/gluetun-webui",
     "branch": "main",
     "language": "JavaScript",
     "description": ""
   },
   {
-    "repo": "compound-finance/compound-protocol",
-    "branch": "master",
-    "language": "TypeScript",
-    "description": "The Compound On-Chain Protocol"
-  },
-  {
-    "repo": "pointfreeco/swift-composable-architecture",
-    "branch": "main",
-    "language": "Swift",
-    "description": "A library for building applications in a consistent and understandable way, with composition, testing, and ergonomics in mind."
-  },
-  {
-    "repo": "spring-cloud/spring-cloud-gateway",
-    "branch": "main",
-    "language": "Java",
-    "description": "An API Gateway built on Spring Framework and Spring Boot providing routing and more."
-  },
-  {
-    "repo": "tox-dev/tox",
-    "branch": "main",
-    "language": "Python",
-    "description": "Command line driven CI frontend and development task automation tool."
-  },
-  {
-    "repo": "coredns/coredns",
+    "repo": "lich0821/wcfLink",
     "branch": "master",
     "language": "Go",
-    "description": "CoreDNS is a DNS server that chains plugins"
+    "description": ""
   },
   {
-    "repo": "cpaczek/any-buddy",
+    "repo": "Cranot/agi-in-md",
+    "branch": "master",
+    "language": "Python",
+    "description": "System prompts as cognitive lenses. 13 compression levels, 650+ experiments. Haiku + a 332-word prompt beats Opus vanilla on structural code analysis at 5x less cost. Includes Prism: a lens-powered CLI tool."
+  },
+  {
+    "repo": "larksuite/cli",
     "branch": "main",
-    "language": "TypeScript",
-    "description": "Hack Claude Code to get any buddy you want"
+    "language": "Go",
+    "description": "A command-line tool for Lark/Feishu Open Platform — built for humans and AI Agents. Covers core business domains including Messenger, Docs, Base, Sheets, Calendar, Mail, Tasks, Meetings, and more, with 200+ commands and 19 AI Agent Skills."
   },
   {
     "repo": "adamlyttleapps/notchy",
@@ -54,93 +60,87 @@
     "description": ""
   },
   {
-    "repo": "alaeelhariri/iut-db-final-project",
-    "branch": "master",
-    "language": "Python",
-    "description": ""
-  },
-  {
-    "repo": "pointfreeco/swift-snapshot-testing",
-    "branch": "main",
-    "language": "Swift",
-    "description": "📸 Delightful Swift snapshot testing."
-  },
-  {
-    "repo": "0xKarl-dev/claw-codes",
+    "repo": "corespeed-io/wechatbot",
     "branch": "main",
     "language": "TypeScript",
-    "description": "Fastest repo on my GitHub to hit 50⭐ in under 2 hours. Building tools that get real things done. Now rewriting in Rust."
+    "description": "微信 iLink Bot SDK for OpenClaw/AI Agent"
   },
   {
-    "repo": "triggerdotdev/trigger.dev",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Trigger.dev – build and deploy fully‑managed AI agents and workflows"
-  },
-  {
-    "repo": "KlingAIResearch/X-Dub",
-    "branch": "master",
-    "language": "Python",
-    "description": "Try X-Dub to sync any character in a video with any audio you like | Official repository for From Inpainting to Editing: Unlocking Robust Mask-Free Visual Dubbing via Generative Bootstrapping"
-  },
-  {
-    "repo": "GAIR-NLP/daVinci-MagiHuman",
+    "repo": "DoorDreamShout/Neverlose-CS2",
     "branch": "main",
     "language": "Python",
-    "description": ""
+    "description": "🔥 Neverlose-CS2 – premium internal cheat for CS2. Features rage aimbot, anti-aim, ESP, Lua scripting, skin changer, and more. One of the most powerful tools in the HvH scene. Trusted by thousands worldwide."
   },
   {
-    "repo": "jimuzhe/tiez-clipboard",
-    "branch": "master",
-    "language": "TypeScript",
-    "description": "TieZ 是一款基于 Tauri 的跨平台剪贴板管理器 / A cross-platform clipboard manager with history, tags, sync, privacy protection, and fast daily workflows."
-  },
-  {
-    "repo": "KenneyNL/Starter-Kit-Racing",
-    "branch": "main",
-    "language": "GDScript",
-    "description": ""
-  },
-  {
-    "repo": "rook/rook",
-    "branch": "master",
-    "language": "Go",
-    "description": "Storage Orchestration for Kubernetes"
-  },
-  {
-    "repo": "vercel-labs/emulate",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Local API emulation for CI and no-network sandboxes"
-  },
-  {
-    "repo": "XyhTender/qq-farm-automation-bot",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "QQ农场全自动脚本"
-  },
-  {
-    "repo": "J2TEAM/vibe.j2team.org",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "Sẽ thế nào nếu cả nhóm J2TEAM Community vibe code cùng nhau?"
-  },
-  {
-    "repo": "byJoey/openclawctl",
+    "repo": "adamveld12/ghost",
     "branch": "main",
     "language": "Shell",
+    "description": "Git is the coding agent"
+  },
+  {
+    "repo": "spool-lab/spool",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "The missing search engine for your own data."
+  },
+  {
+    "repo": "ForLoopCodes/contextplus",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Semantic Intelligence for Large-Scale Engineering. Context+ is an MCP server designed for developers who demand 99% accuracy. By combining Tree-sitter AST parsing, Spectral Clustering, and Obsidian-style linking, Context+ turns a massive codebase into a searchable, hierarchical feature graph."
+  },
+  {
+    "repo": "MistKailorg/polymarket-copytrading-bot-newlogic",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "polymarket trading bot | polymarket trading bot | polymarket trading bot | polymarket trading bot | polymarket trading bot | polymarket trading bot | polymarket trading bot | polymarket trading bot | polymarket copy trading bot | polymarket copy trading bot | polymarket copy trading bot | polymarket copy trading bot | polymarket copy trading bot |"
+  },
+  {
+    "repo": "facebookresearch/HyperAgents",
+    "branch": "main",
+    "language": "Python",
+    "description": "Self-referential self-improving agents that can optimize for any computable task"
+  },
+  {
+    "repo": "Justineo/working-with-ai",
+    "branch": "main",
+    "language": "HTML",
+    "description": "Working with AI - presentation slides"
+  },
+  {
+    "repo": "vxcozy/flappyboards",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Turn any TV into a retro split-flap display. Free & open source."
+  },
+  {
+    "repo": "trailofbits/CoBRA",
+    "branch": "master",
+    "language": "C++",
+    "description": "Coefficient-Based Reconstruction of Arithmetic — a Mixed Boolean-Arithmetic (MBA) expression simplifier for deobfuscation"
+  },
+  {
+    "repo": "dashersw/gea",
+    "branch": "main",
+    "language": "TypeScript",
     "description": ""
   },
   {
-    "repo": "open-policy-agent/gatekeeper",
-    "branch": "master",
-    "language": "Go",
-    "description": "🐊 Policy Controller for Kubernetes"
+    "repo": "CodeAbra/iai-mcp",
+    "branch": "main",
+    "language": "Python",
+    "description": "The best-benchmarked open-source memory system for AI coding assistants"
   },
   {
-    "repo": "gohugoio/hugo",
+    "repo": "Siigari/claude-heartbeat",
     "branch": "master",
-    "language": "Go",
-    "description": "The world’s fastest framework for building websites."
+    "language": "JavaScript",
+    "description": "Keep Claude Code alive and autonomous without -p. Heartbeat hook + inbox/outbox pattern."
+  },
+  {
+    "repo": "amircloner/g2ray",
+    "branch": "main",
+    "language": "Dockerfile",
+    "description": ""
   }
 ]
