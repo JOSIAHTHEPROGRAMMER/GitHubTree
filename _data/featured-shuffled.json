@@ -1,146 +1,146 @@
 [
   {
-    "repo": "LewdM3at/PC-Cartridge-System",
-    "branch": "main",
-    "language": "PowerShell",
-    "description": "Physical game cartridges with 2.5 SSDs for your Steam library"
-  },
-  {
-    "repo": "kevinrgu/autoagent",
-    "branch": "main",
-    "language": "Python",
-    "description": "autonomous harness engineering"
-  },
-  {
-    "repo": "leonyx007/Polymarket-Trading-Bot-Rust",
-    "branch": "main",
-    "language": "Rust",
-    "description": "polymarket bot polymarket trading bot polymarket arbitrage bot polymarket trading bot polymarket rust trading bot polymarket trading bot v2 polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket arb trading bot polymarket 5min trading bot 15min btc trading bot"
-  },
-  {
-    "repo": "helenigtxu/TradingView-Claw",
-    "branch": "main",
-    "language": "Python",
-    "description": ""
-  },
-  {
-    "repo": "bstnxbt/dflash-mlx",
-    "branch": "main",
-    "language": "Python",
-    "description": "Lossless DFlash speculative decoding for MLX on Apple Silicon"
-  },
-  {
-    "repo": "v1r3n/dinesh-gilfoyle",
-    "branch": "main",
-    "language": "HTML",
-    "description": "What if Dinesh and Gilfoyle reviewed your code?"
-  },
-  {
-    "repo": "chatgptprojects/claude-code",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "https://x.com/paidev"
-  },
-  {
-    "repo": "poleHansen/baibaiAIGC",
-    "branch": "main",
-    "language": "Python",
-    "description": "baibaiAIGC"
-  },
-  {
-    "repo": "ephraimduncan/opencode-cursor",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Use your cursor subscription in opencode"
-  },
-  {
-    "repo": "OpenRaiser/NanoResearch",
-    "branch": "main",
-    "language": "Python",
-    "description": "🦞+🔬: NanoResearch: The Autonomous AI Research Assistant"
-  },
-  {
-    "repo": "aaronjmars/MiroShark",
-    "branch": "main",
-    "language": "Python",
-    "description": "Universal Swarm Intelligence Engine"
-  },
-  {
-    "repo": "mitsuhiko/pi-ds4",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Run deepseek4 locally on metal right from within Pi"
-  },
-  {
-    "repo": "glommer/codemogger",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Codemogger is a code indexing library and MCP server for AI coding agents"
-  },
-  {
-    "repo": "MME-Benchmarks/Video-MME-v2",
-    "branch": "main",
-    "language": "Python",
-    "description": "Video-MME-v2: Towards the Next Stage in Benchmarks for Comprehensive Video Understanding"
-  },
-  {
-    "repo": "klsf/codex-register",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "用于批量注册 OpenAI 账号、登录生成 `auth` 授权文件，以及批量检查凭证剩余可用额度。"
-  },
-  {
-    "repo": "pvpoxx/PrismLauncherCrackedEly",
-    "branch": "main",
-    "language": "C++",
-    "description": "Download Prism Launcher with Ely.by Launcher 'unblock' the use of Offline Accounts, disabling the restriction of having a functional Online Account."
-  },
-  {
-    "repo": "0xdeadbeefnetwork/Copy_Fail2-Electric_Boogaloo",
-    "branch": "main",
-    "language": "C",
-    "description": "Copy Fail 2: Electric Boogaloo"
-  },
-  {
-    "repo": "MhmRdd/google-rkp-sw",
-    "branch": "main",
-    "language": "Python",
-    "description": ""
-  },
-  {
-    "repo": "xinyitang3/cfnb",
-    "branch": "main",
-    "language": "Python",
-    "description": "这是一个全自动的 Cloudflare CDN 节点优选工具。它通过 TCP 延迟筛选 + IP 可用性二次检测 + 真实带宽测速 + IP 纯净度过滤 四重机制，从海量公开节点中筛选出当前网络环境下速度最快、可用性最高、滥用评分最低的 Cloudflare IP，并支持自动更新至 Cloudflare DNS 以及同步至 GitHub 仓库，同时支持微信实时通知。"
-  },
-  {
-    "repo": "MarchLiu/hypatia",
-    "branch": "main",
-    "language": "Rust",
-    "description": "We can wander through the stacks of the Library of Alexandria, imagining the scrolls and the knowledge they contain. Its destruction is a warning: all we have is transient.”--Alberto Manguel"
-  },
-  {
-    "repo": "Blimp-Labs/claude-usage-bar",
+    "repo": "taylorarndt/perspective-cuts",
     "branch": "main",
     "language": "Swift",
-    "description": "A macOS menu bar app that shows your Claude API usage at a glance"
+    "description": "A text-based language for writing Apple Shortcuts. Experimental."
   },
   {
-    "repo": "simchowitzlabpublic/nano-world-model",
+    "repo": "wanonewan/wanwan",
     "branch": "main",
-    "language": "Python",
-    "description": "A Minimalist, Batteries-included Repository for Advancing World Model Science."
-  },
-  {
-    "repo": "arturoabreuhd/pinescript-ai",
-    "branch": "main",
-    "language": "TypeScript",
+    "language": "JavaScript",
     "description": ""
   },
   {
-    "repo": "LilanOvO/Auto-Resubmit",
+    "repo": "compound-finance/compound-protocol",
+    "branch": "master",
+    "language": "TypeScript",
+    "description": "The Compound On-Chain Protocol"
+  },
+  {
+    "repo": "pointfreeco/swift-composable-architecture",
+    "branch": "main",
+    "language": "Swift",
+    "description": "A library for building applications in a consistent and understandable way, with composition, testing, and ergonomics in mind."
+  },
+  {
+    "repo": "spring-cloud/spring-cloud-gateway",
+    "branch": "main",
+    "language": "Java",
+    "description": "An API Gateway built on Spring Framework and Spring Boot providing routing and more."
+  },
+  {
+    "repo": "tox-dev/tox",
     "branch": "main",
     "language": "Python",
-    "description": "🚀 Automated & lossless LaTeX paper migration tool. Instantly convert your Overleaf source between top-tier AI conference templates (NeurIPS, ICLR, ACL等). 一键无损转换顶会论文格式！解决转投时的排版折磨，完美保留公式、图表与引用，让科研人员专注研究而非排版。"
+    "description": "Command line driven CI frontend and development task automation tool."
+  },
+  {
+    "repo": "coredns/coredns",
+    "branch": "master",
+    "language": "Go",
+    "description": "CoreDNS is a DNS server that chains plugins"
+  },
+  {
+    "repo": "cpaczek/any-buddy",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Hack Claude Code to get any buddy you want"
+  },
+  {
+    "repo": "adamlyttleapps/notchy",
+    "branch": "main",
+    "language": "Swift",
+    "description": ""
+  },
+  {
+    "repo": "alaeelhariri/iut-db-final-project",
+    "branch": "master",
+    "language": "Python",
+    "description": ""
+  },
+  {
+    "repo": "pointfreeco/swift-snapshot-testing",
+    "branch": "main",
+    "language": "Swift",
+    "description": "📸 Delightful Swift snapshot testing."
+  },
+  {
+    "repo": "0xKarl-dev/claw-codes",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Fastest repo on my GitHub to hit 50⭐ in under 2 hours. Building tools that get real things done. Now rewriting in Rust."
+  },
+  {
+    "repo": "triggerdotdev/trigger.dev",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Trigger.dev – build and deploy fully‑managed AI agents and workflows"
+  },
+  {
+    "repo": "KlingAIResearch/X-Dub",
+    "branch": "master",
+    "language": "Python",
+    "description": "Try X-Dub to sync any character in a video with any audio you like | Official repository for From Inpainting to Editing: Unlocking Robust Mask-Free Visual Dubbing via Generative Bootstrapping"
+  },
+  {
+    "repo": "GAIR-NLP/daVinci-MagiHuman",
+    "branch": "main",
+    "language": "Python",
+    "description": ""
+  },
+  {
+    "repo": "jimuzhe/tiez-clipboard",
+    "branch": "master",
+    "language": "TypeScript",
+    "description": "TieZ 是一款基于 Tauri 的跨平台剪贴板管理器 / A cross-platform clipboard manager with history, tags, sync, privacy protection, and fast daily workflows."
+  },
+  {
+    "repo": "KenneyNL/Starter-Kit-Racing",
+    "branch": "main",
+    "language": "GDScript",
+    "description": ""
+  },
+  {
+    "repo": "rook/rook",
+    "branch": "master",
+    "language": "Go",
+    "description": "Storage Orchestration for Kubernetes"
+  },
+  {
+    "repo": "vercel-labs/emulate",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Local API emulation for CI and no-network sandboxes"
+  },
+  {
+    "repo": "XyhTender/qq-farm-automation-bot",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "QQ农场全自动脚本"
+  },
+  {
+    "repo": "J2TEAM/vibe.j2team.org",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "Sẽ thế nào nếu cả nhóm J2TEAM Community vibe code cùng nhau?"
+  },
+  {
+    "repo": "byJoey/openclawctl",
+    "branch": "main",
+    "language": "Shell",
+    "description": ""
+  },
+  {
+    "repo": "open-policy-agent/gatekeeper",
+    "branch": "master",
+    "language": "Go",
+    "description": "🐊 Policy Controller for Kubernetes"
+  },
+  {
+    "repo": "gohugoio/hugo",
+    "branch": "master",
+    "language": "Go",
+    "description": "The world’s fastest framework for building websites."
   }
 ]
