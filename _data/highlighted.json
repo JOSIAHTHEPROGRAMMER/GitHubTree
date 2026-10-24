@@ -1,8 +1,8 @@
 {
-  "repo": "img2threejs/plugin-interior",
+  "repo": "indexable-inc/ra-jit",
   "branch": "main",
-  "language": "Python",
-  "description": "Production interior authoring and interactive Three.js delivery plugin for img2.",
-  "stars": 208,
-  "forks": 23
+  "language": "Rust",
+  "description": "Incremental rust builds up to 92x faster than cargo/rustc",
+  "stars": 192,
+  "forks": 8
 }

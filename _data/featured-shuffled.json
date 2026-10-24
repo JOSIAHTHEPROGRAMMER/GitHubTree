@@ -1,146 +1,146 @@
 [
   {
-    "repo": "ghostvectoracademy/DLLHijackHunter",
-    "branch": "main",
-    "language": "C#",
-    "description": "Automated DLL Hijacking Detection Tool with Zero False Positives — Discovers, filters, and canary-confirms exploitable DLL hijacks on Windows with tiered confidence scoring"
-  },
-  {
-    "repo": "jarmuine/claude-code",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Fork of instructkr/claude-code"
-  },
-  {
-    "repo": "34306/vphone-aio",
-    "branch": "main",
-    "language": "Shell",
-    "description": "1 script run the vphone"
-  },
-  {
-    "repo": "apechurch/polymarket-arbitrage-trading-bot",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "polymarket arbitrage bot, polymarket arbitrage bot, polymarket arbitrage bot, polymarket arbitrage bot, polymarket arbitrage bot, polymarket arbitrage bot, polymarket arbitrage bot, polymarket arbitrage bot, polymarket arbitrage bot, polymarket arbitrage bot, polymarket arbitrage bot, polymarket arbitrage bot, polymarket arbitrage bot"
-  },
-  {
-    "repo": "hao-ji-xing/openclaw-weixin",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "openclaw-weixin"
-  },
-  {
-    "repo": "Sir-Scuzza/gluetun-webui",
+    "repo": "mu-zi-lee/magpie-our-free-model",
     "branch": "main",
     "language": "JavaScript",
-    "description": ""
+    "description": "Our Free Model 的 Magpie 适配插件：整合免费模型池、EAC 授权与多账号渠道，支持自动服务管理及免登录的 Cloudflare 临时远程控制台。｜Magpie integration for Our Free Model with free model pools, EAC authentication, multiple account providers, automatic service management, and an accountless Cloudflare temporary remote console."
   },
   {
-    "repo": "lich0821/wcfLink",
-    "branch": "master",
-    "language": "Go",
-    "description": ""
-  },
-  {
-    "repo": "Cranot/agi-in-md",
-    "branch": "master",
-    "language": "Python",
-    "description": "System prompts as cognitive lenses. 13 compression levels, 650+ experiments. Haiku + a 332-word prompt beats Opus vanilla on structural code analysis at 5x less cost. Includes Prism: a lens-powered CLI tool."
-  },
-  {
-    "repo": "larksuite/cli",
+    "repo": "dengzi008/DramaLens",
     "branch": "main",
-    "language": "Go",
-    "description": "A command-line tool for Lark/Feishu Open Platform — built for humans and AI Agents. Covers core business domains including Messenger, Docs, Base, Sheets, Calendar, Mail, Tasks, Meetings, and more, with 200+ commands and 19 AI Agent Skills."
-  },
-  {
-    "repo": "adamlyttleapps/notchy",
-    "branch": "main",
-    "language": "Swift",
-    "description": ""
-  },
-  {
-    "repo": "corespeed-io/wechatbot",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "微信 iLink Bot SDK for OpenClaw/AI Agent"
-  },
-  {
-    "repo": "DoorDreamShout/Neverlose-CS2",
-    "branch": "main",
-    "language": "Python",
-    "description": "🔥 Neverlose-CS2 – premium internal cheat for CS2. Features rage aimbot, anti-aim, ESP, Lua scripting, skin changer, and more. One of the most powerful tools in the HvH scene. Trusted by thousands worldwide."
-  },
-  {
-    "repo": "adamveld12/ghost",
-    "branch": "main",
-    "language": "Shell",
-    "description": "Git is the coding agent"
-  },
-  {
-    "repo": "spool-lab/spool",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "The missing search engine for your own data."
-  },
-  {
-    "repo": "ForLoopCodes/contextplus",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Semantic Intelligence for Large-Scale Engineering. Context+ is an MCP server designed for developers who demand 99% accuracy. By combining Tree-sitter AST parsing, Spectral Clustering, and Obsidian-style linking, Context+ turns a massive codebase into a searchable, hierarchical feature graph."
-  },
-  {
-    "repo": "MistKailorg/polymarket-copytrading-bot-newlogic",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "polymarket trading bot | polymarket trading bot | polymarket trading bot | polymarket trading bot | polymarket trading bot | polymarket trading bot | polymarket trading bot | polymarket trading bot | polymarket copy trading bot | polymarket copy trading bot | polymarket copy trading bot | polymarket copy trading bot | polymarket copy trading bot |"
-  },
-  {
-    "repo": "facebookresearch/HyperAgents",
-    "branch": "main",
-    "language": "Python",
-    "description": "Self-referential self-improving agents that can optimize for any computable task"
-  },
-  {
-    "repo": "Justineo/working-with-ai",
-    "branch": "main",
-    "language": "HTML",
-    "description": "Working with AI - presentation slides"
-  },
-  {
-    "repo": "vxcozy/flappyboards",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Turn any TV into a retro split-flap display. Free & open source."
-  },
-  {
-    "repo": "trailofbits/CoBRA",
-    "branch": "master",
-    "language": "C++",
-    "description": "Coefficient-Based Reconstruction of Arithmetic — a Mixed Boolean-Arithmetic (MBA) expression simplifier for deobfuscation"
-  },
-  {
-    "repo": "dashersw/gea",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": ""
-  },
-  {
-    "repo": "CodeAbra/iai-mcp",
-    "branch": "main",
-    "language": "Python",
-    "description": "The best-benchmarked open-source memory system for AI coding assistants"
-  },
-  {
-    "repo": "Siigari/claude-heartbeat",
-    "branch": "master",
     "language": "JavaScript",
-    "description": "Keep Claude Code alive and autonomous without -p. Heartbeat hook + inbox/outbox pattern."
+    "description": "Local-first Chrome extension for timestamped transcription and human-reviewed short-form drama analysis."
   },
   {
-    "repo": "amircloner/g2ray",
+    "repo": "Nagi-ovo/dsh-ads",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "是兄弟就来蹬我！DSH Web UI 广告：2005 年中文站点风格的侧栏广告 / 对话内信息流 / 角落弹窗 + 一个真实热区比视觉小得多的关闭叉。素材全虚构，域名打码。"
+  },
+  {
+    "repo": "myYangyunfan/dsh_desktop",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "DeepSeek Harness (dsh) Windows desktop client - bundled Node.js + dsh CLI, one-click launch"
+  },
+  {
+    "repo": "2023782whl/Mem-kb",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Self-Evolving Enterprise Knowledge Base"
+  },
+  {
+    "repo": "adrianpunk/punk-ip-illustrations",
+    "branch": "main",
+    "language": "Python",
+    "description": "Punk personal IP article illustration Agent Skill"
+  },
+  {
+    "repo": "sjc88661/multi-agent-discuss",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": ""
+  },
+  {
+    "repo": "liujunxibaba/douyin-tiktok-story-skill-agent",
+    "branch": "main",
+    "language": "Python",
+    "description": "Local-first AI Skill and Agent for creating original Douyin and TikTok story scripts with a searchable SQLite reference database."
+  },
+  {
+    "repo": "yang13926151198-ai/AI-Photographer-Agent-ROCm",
+    "branch": "main",
+    "language": "Python",
+    "description": "Private local AI Photographer Agent on AMD Radeon and ROCm"
+  },
+  {
+    "repo": "Jaxton07/percho",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "pi-desktop Minimalist desktop GUI for the Pi coding agent — the same engine as the Pi CLI, in a clean visual interface. Multi-session chat, visual tool approvals, and custom themes."
+  },
+  {
+    "repo": "claude-mythos5/Claude-Mythos5-AI-Free-desktop",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Claude Mythos 5 AI free desktop app - what is Claude Mythos? Anthropic's restricted AI model released June 9, 2026 for US government Project Glasswing. Claude Fable 5 vs Mythos 5 vs Opus 5 vs GPT 5.6 Sol comparison: same weights, Mythos has cybersecurity capabilities. Download Claude desktop app free, includes Fable 5."
+  },
+  {
+    "repo": "liuzhengdongfortest/pi-shadow-mind",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Parallel cognitive runtime for Pi"
+  },
+  {
+    "repo": "alexzhang13/spec-ptc",
+    "branch": "main",
+    "language": "Python",
+    "description": "Speculative programmatic tool calling (sPTC) for harnesses like RLM, CodeAct, etc."
+  },
+  {
+    "repo": "wang2122/sprix-sage-router",
+    "branch": "main",
+    "language": "Python",
+    "description": "Sprix AI at 屿智同行 — state-aware SELF/COLLABORATE/HANDOFF routing for A2A agent networks."
+  },
+  {
+    "repo": "x4gpanell/3x-ui",
     "branch": "main",
     "language": "Dockerfile",
+    "description": ""
+  },
+  {
+    "repo": "nkxx188/ComfyUI-MiniMaxH3-Easy",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "The easiest way to use MiniMax H3. One compact workflow for T2V, I2V, first/last-frame, and reference video generation, with a unified multi-media input, powerful @ references, and inline dialogue blocks. Less wiring. More creative control."
+  },
+  {
+    "repo": "Carasibana/ComfyUI-H3-FaceRefine",
+    "branch": "main",
+    "language": "Python",
+    "description": "Refine and improve the quality of small faces in MiniMax H3 video. Per-frame face tracking, crop, refine with H3, stitch back."
+  },
+  {
+    "repo": "i3T4AN/KADATH",
+    "branch": "main",
+    "language": "Python",
+    "description": "Evolutionary multi-agent runtime that breeds, evaluates, and improves autonomous agents across reproducible epochs to converge on optimization of a goal."
+  },
+  {
+    "repo": "lbx154/Argus",
+    "branch": "main",
+    "language": "Python",
+    "description": ""
+  },
+  {
+    "repo": "anonrig/router",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "The TanStack Router API. Rebuilt for the hot path."
+  },
+  {
+    "repo": "kevinzakka/mjbatch",
+    "branch": "main",
+    "language": "Python",
+    "description": "A Python library for running thousands of MuJoCo simulations in parallel on CPU"
+  },
+  {
+    "repo": "Qiuner/birdview",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "Stop letting AI code blind. Map the architecture before every change with Birdview."
+  },
+  {
+    "repo": "fuad403273/WeightVault",
+    "branch": "main",
+    "language": "Python",
+    "description": "WeightVault optimizes data storage and retrieval through advanced data compression, enabling real-time analytics within a robust system manager."
+  },
+  {
+    "repo": "x4gpanell/3x-ui_runonflux",
+    "branch": "main",
+    "language": "Go",
     "description": ""
   }
 ]
