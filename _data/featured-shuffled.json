@@ -1,146 +1,146 @@
 [
   {
-    "repo": "nv-tlabs/dvlt",
+    "repo": "kulikov0/whitelist-bypass",
     "branch": "main",
-    "language": "Python",
-    "description": "Official implementation of Déjà View: Looping Transformers for Multi-View 3D Reconstruction"
-  },
-  {
-    "repo": "quailyquaily/aqua",
-    "branch": "master",
-    "language": "Go",
-    "description": "Aqua, a cli message tool for AI agents"
-  },
-  {
-    "repo": "obdev/littlesnitch-linux",
-    "branch": "main",
-    "language": "Rust",
-    "description": "Open Source components of Little Snitch for Linux"
-  },
-  {
-    "repo": "gofsnotify/fsnotify",
-    "branch": "main",
-    "language": "Go",
-    "description": "Cross-platform file system notifications for Go."
-  },
-  {
-    "repo": "val1813/kaiwu",
-    "branch": "main",
-    "language": "Go",
-    "description": "本地开源模型部署器，一键部署，支持各类系统，主流模型。"
-  },
-  {
-    "repo": "florianmattana/sass-king",
-    "branch": "main",
-    "language": "Cuda",
-    "description": "Reverse engineering NVIDIA SASS  instruction dictionary, kernel audits and pattern recognition across GPU architectures."
-  },
-  {
-    "repo": "loyalpartner/selfsync",
-    "branch": "master",
-    "language": "Rust",
-    "description": "Self-hosted Chrome Sync server. 自托管 Chrome 同步服务器 — 书签、密码、偏好等浏览器数据留在本地，不经过 Google"
-  },
-  {
-    "repo": "zhuyansen/wx-favorites-report",
-    "branch": "main",
-    "language": "Python",
-    "description": "微信收藏可视化 Claude Code Skill — 从加密 DB 到交互式 HTML 报告的端到端管线"
-  },
-  {
-    "repo": "clawvader-tech/hermes-telegram-miniapp",
-    "branch": "main",
-    "language": "HTML",
-    "description": "Terminal-style Telegram Mini App for Hermes Agent — chat, cron jobs, and system monitoring in a dark TUI"
-  },
-  {
-    "repo": "gordonmurray/firnflow",
-    "branch": "main",
-    "language": "Rust",
-    "description": "The cost efficiency of S3 with the speed of local RAM. A multi-tenant vector and full-text search engine featuring a tiered RAM → NVMe → S3 architecture for microsecond latency on   top of object storage"
-  },
-  {
-    "repo": "mohi-devhub/antivibe",
-    "branch": "main",
-    "language": "Shell",
-    "description": "Learn what AI writes, not just accept it. A Claude Code skill that turns AI-generated code into educational deep dives."
-  },
-  {
-    "repo": "jasonkneen/agent-simulator",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "An iOS simulator in a browser you can inspect"
-  },
-  {
-    "repo": "listyantidewi1/your-everyday-tools",
-    "branch": "main",
-    "language": "HTML",
+    "language": "JavaScript",
     "description": ""
   },
   {
-    "repo": "Chanchaldhiman/CANviz",
-    "branch": "main",
-    "language": "Python",
-    "description": "Open-source browser-based CAN bus analyzer. Works with low cost USB hardware."
-  },
-  {
-    "repo": "Shakir2021/Delta-for-Roblox-PC-Edition",
+    "repo": "envoyproxy/envoy",
     "branch": "main",
     "language": "C++",
-    "description": "Delta for Roblox PC Edition is a lightweight and optimized Roblox client for Windows. Enjoy higher FPS, reduced input lag, better graphics, and smoother gameplay. The best desktop edition for playing Roblox with enhanced performance and modern features."
+    "description": "Cloud-native high-performance edge/middle/service proxy"
   },
   {
-    "repo": "Jakubantalik/transitions.dev",
+    "repo": "libressl/portable",
+    "branch": "master",
+    "language": "C",
+    "description": "LibreSSL Portable itself. This includes the build scaffold and compatibility layer that builds portable LibreSSL from the OpenBSD source code. Pull requests or patches sent to tech@openbsd.org are welcome."
+  },
+  {
+    "repo": "johnbean393/KeyType",
     "branch": "main",
-    "language": "HTML",
-    "description": "Collection of the most essential transitions for web apps that you can just copy and paste into any project."
+    "language": "Swift",
+    "description": "An open-source Cotypist with macOS system wide AI autocomplete"
   },
   {
-    "repo": "skyllwt/OmegaWiki",
+    "repo": "videolan/vlc",
+    "branch": "master",
+    "language": "C",
+    "description": "VLC media player - All pull requests are ignored, please use MRs on https://code.videolan.org/videolan/vlc"
+  },
+  {
+    "repo": "xyzeva/k-id-age-verifier",
     "branch": "main",
-    "language": "Python",
-    "description": "Karpathy's LLM-Wiki vision, fully realized — wiki-centric full-lifecycle AI research platform powered by Claude Code"
+    "language": "TypeScript",
+    "description": "automatically verify your age on discord, twitch, kick, quora and more (k-id)"
   },
   {
-    "repo": "GainSec/AutoProber",
-    "branch": "main",
-    "language": "Python",
-    "description": "Hardware hacker’s flying probe automation stack for agent-driven   target discovery, microscope mapping, safety-monitored CNC motion, probe review, and   controlled pin probing."
+    "repo": "ziadoz/awesome-php",
+    "branch": "master",
+    "language": "Other",
+    "description": "A curated list of amazingly awesome PHP libraries, resources and shiny things."
   },
   {
-    "repo": "levelsio/superlevels",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "A super Chrome extension I made that's safer than installing external malware/spyware-filled extensions that form a massive security risk, this one is open source and you can read and check the source code (with AI) before you install it, and customize it to your liking!"
-  },
-  {
-    "repo": "superpilot69/pdf-trad-to-simp-preserve-layout-kit",
-    "branch": "main",
-    "language": "Python",
-    "description": "PDF traditional-to-simplified Chinese conversion kit with layout-preserving scripts, Codex skill, and example source/output PDFs."
-  },
-  {
-    "repo": "bababuyyy/unity-isometric-pixel-pipeline",
-    "branch": "main",
-    "language": "ShaderLab",
-    "description": "Pixel art isometric render pipeline for Unity 6 URP — toon shading, GPU grass, outline, sharp upscale"
-  },
-  {
-    "repo": "WenXiaoWendy/timeline-for-agent",
+    "repo": "immerjs/immer",
     "branch": "main",
     "language": "JavaScript",
-    "description": "Kill Tomato Clock"
+    "description": "Create the next immutable state by mutating the current one"
   },
   {
-    "repo": "MME-Benchmarks/Video-MME-v2",
+    "repo": "kubernetes-sigs/metrics-server",
+    "branch": "master",
+    "language": "Go",
+    "description": "Scalable and efficient source of container resource metrics for Kubernetes built-in autoscaling pipelines."
+  },
+  {
+    "repo": "valeriansaliou/sonic",
+    "branch": "master",
+    "language": "Rust",
+    "description": "🦔 Fast, lightweight & schema-less search backend. An alternative to Elasticsearch that runs on a few MBs of RAM."
+  },
+  {
+    "repo": "six2dez/burp-ai-agent",
+    "branch": "main",
+    "language": "Kotlin",
+    "description": "Burp Suite extension that adds built-in MCP tooling, AI-assisted analysis, privacy controls, passive and active scanning and more"
+  },
+  {
+    "repo": "v4nsh0x/InstaTrace",
     "branch": "main",
     "language": "Python",
-    "description": "Video-MME-v2: Towards the Next Stage in Benchmarks for Comprehensive Video Understanding"
+    "description": "Private Instagram Post URL Extractor (Research POC)"
   },
   {
-    "repo": "pion/handoff",
+    "repo": "liuxiaopai-ai/ralph-desktop",
+    "branch": "main",
+    "language": "Rust",
+    "description": "Ralph Desktop -  Start vague. Ralph Loop until perfect.  A visual controller for AI coding agents that helps you brainstorm requirements and execute tasks through persistent iteration."
+  },
+  {
+    "repo": "cosmos/cosmos-sdk",
     "branch": "main",
     "language": "Go",
-    "description": "Start WebRTC in the browser—run it somewhere else"
+    "description": ":chains: A Framework for Building High Value Public Blockchains :sparkles:"
+  },
+  {
+    "repo": "GoogleCloudPlatform/golang-samples",
+    "branch": "main",
+    "language": "Go",
+    "description": "Sample apps and code written for Google Cloud in the Go programming language."
+  },
+  {
+    "repo": "open-policy-agent/gatekeeper",
+    "branch": "master",
+    "language": "Go",
+    "description": "🐊 Policy Controller for Kubernetes"
+  },
+  {
+    "repo": "antfu/skills-npm",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Install agent skills from npm"
+  },
+  {
+    "repo": "nektos/act",
+    "branch": "master",
+    "language": "Go",
+    "description": "Run your GitHub Actions locally 🚀"
+  },
+  {
+    "repo": "stonerl/Thaw",
+    "branch": "main",
+    "language": "Swift",
+    "description": "Menu bar manager for macOS"
+  },
+  {
+    "repo": "microsoft/LlamaSharp",
+    "branch": "main",
+    "language": "Other",
+    "description": ".NET library for Llama model inference."
+  },
+  {
+    "repo": "goharbor/harbor",
+    "branch": "main",
+    "language": "Go",
+    "description": "An open source trusted cloud native registry project that stores, signs, and scans content."
+  },
+  {
+    "repo": "less/less.js",
+    "branch": "master",
+    "language": "JavaScript",
+    "description": "Less. The dynamic stylesheet language."
+  },
+  {
+    "repo": "grpc/grpc-java",
+    "branch": "master",
+    "language": "Java",
+    "description": "The Java gRPC implementation. HTTP/2 based RPC"
+  },
+  {
+    "repo": "gothinkster/realworld",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "The mother of all demo apps — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more"
   }
 ]
