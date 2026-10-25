@@ -1,8 +1,8 @@
 {
-  "repo": "DustinYe/gesture-media-controller",
+  "repo": "vladocar/Sumi.css",
   "branch": "main",
-  "language": "C++",
-  "description": "Infrared gesture-based BLE media controller for AtomS3R and PAJ7620U2; C++ firmware, trajectory replay, and documented v24 baseline.",
-  "stars": 204,
-  "forks": 43
+  "language": "HTML",
+  "description": "A minimalist, classless-first CSS framework.",
+  "stars": 189,
+  "forks": 3
 }

@@ -1,75 +1,45 @@
 [
   {
-    "repo": "evanphi7/lighthouse-router",
+    "repo": "nv-tlabs/dvlt",
+    "branch": "main",
+    "language": "Python",
+    "description": "Official implementation of Déjà View: Looping Transformers for Multi-View 3D Reconstruction"
+  },
+  {
+    "repo": "quailyquaily/aqua",
+    "branch": "master",
+    "language": "Go",
+    "description": "Aqua, a cli message tool for AI agents"
+  },
+  {
+    "repo": "obdev/littlesnitch-linux",
     "branch": "main",
     "language": "Rust",
-    "description": "Off-chain DEX route discovery on Solana — pool decoders, multi-hop quoting, and arbitrage cycle detection"
+    "description": "Open Source components of Little Snitch for Linux"
   },
   {
-    "repo": "PeGasUsCHAkra/mevbot",
+    "repo": "gofsnotify/fsnotify",
     "branch": "main",
-    "language": "JavaScript",
-    "description": "Ethereum Bot"
+    "language": "Go",
+    "description": "Cross-platform file system notifications for Go."
   },
   {
-    "repo": "traderwillhu/market_dashboard",
+    "repo": "val1813/kaiwu",
     "branch": "main",
-    "language": "HTML",
-    "description": ""
+    "language": "Go",
+    "description": "本地开源模型部署器，一键部署，支持各类系统，主流模型。"
   },
   {
-    "repo": "yappologistic/Spun",
+    "repo": "florianmattana/sass-king",
     "branch": "main",
-    "language": "C++",
-    "description": "A CD-shaped music player for Linux, with local playback and Cider integration."
+    "language": "Cuda",
+    "description": "Reverse engineering NVIDIA SASS  instruction dictionary, kernel audits and pattern recognition across GPU architectures."
   },
   {
-    "repo": "prof-oguzergin/bilgisayar-mimarisi",
-    "branch": "main",
-    "language": "TeX",
-    "description": "Bilgisayar Mimarisi: RISC-V Tabanlı Yaklaşım — Açık kaynak Türkçe ders kitabı (CC BY-NC-ND 4.0)"
-  },
-  {
-    "repo": "chrisnch/reADHD",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "为 ADHD 人群设计的 Obsidian 视觉强调阅读插件，支持中文智能分词（jieba-wasm）。基于 Boninall 的 Obsidian-Better-Reading-Mode 改进。"
-  },
-  {
-    "repo": "sorrycc/awesome-javascript",
+    "repo": "loyalpartner/selfsync",
     "branch": "master",
-    "language": "Other",
-    "description": "🐢 A collection of awesome browser-side  JavaScript libraries, resources and shiny things."
-  },
-  {
-    "repo": "randallscott25-star/epstein-forensic-finance",
-    "branch": "main",
-    "language": "HTML",
-    "description": "Epstein Financial Forensics Automated forensic financial reconstruction from 1.48 million DOJ EFTA documents + 503K cataloged media items"
-  },
-  {
-    "repo": "jbhuang0604/awesome-computer-vision",
-    "branch": "master",
-    "language": "Other",
-    "description": "A curated list of awesome computer vision resources"
-  },
-  {
-    "repo": "uralbash/awesome-pyramid",
-    "branch": "master",
-    "language": "Other",
-    "description": "A curated list of awesome Pyramid apps, projects and resources."
-  },
-  {
-    "repo": "Darkkal44/sddm-themes",
-    "branch": "main",
-    "language": "QML",
-    "description": "A simple collection of all the sddm-themes I've made :D"
-  },
-  {
-    "repo": "tompftampffern/polyseed-monero",
-    "branch": "main",
-    "language": "C",
-    "description": "Polyseed Monero"
+    "language": "Rust",
+    "description": "Self-hosted Chrome Sync server. 自托管 Chrome 同步服务器 — 书签、密码、偏好等浏览器数据留在本地，不经过 Google"
   },
   {
     "repo": "zhuyansen/wx-favorites-report",
@@ -78,69 +48,99 @@
     "description": "微信收藏可视化 Claude Code Skill — 从加密 DB 到交互式 HTML 报告的端到端管线"
   },
   {
-    "repo": "qaml-ai/pi-worker",
+    "repo": "clawvader-tech/hermes-telegram-miniapp",
+    "branch": "main",
+    "language": "HTML",
+    "description": "Terminal-style Telegram Mini App for Hermes Agent — chat, cron jobs, and system monitoring in a dark TUI"
+  },
+  {
+    "repo": "gordonmurray/firnflow",
+    "branch": "main",
+    "language": "Rust",
+    "description": "The cost efficiency of S3 with the speed of local RAM. A multi-tenant vector and full-text search engine featuring a tiered RAM → NVMe → S3 architecture for microsecond latency on   top of object storage"
+  },
+  {
+    "repo": "mohi-devhub/antivibe",
+    "branch": "main",
+    "language": "Shell",
+    "description": "Learn what AI writes, not just accept it. A Claude Code skill that turns AI-generated code into educational deep dives."
+  },
+  {
+    "repo": "jasonkneen/agent-simulator",
     "branch": "main",
     "language": "TypeScript",
+    "description": "An iOS simulator in a browser you can inspect"
+  },
+  {
+    "repo": "listyantidewi1/your-everyday-tools",
+    "branch": "main",
+    "language": "HTML",
     "description": ""
   },
   {
-    "repo": "instructkr/claw-code",
+    "repo": "Chanchaldhiman/CANviz",
     "branch": "main",
     "language": "Python",
-    "description": "Better Harness Tools, not merely storing the archive of leaked Claude Code but also make real things done. Now rewriting in Rust."
+    "description": "Open-source browser-based CAN bus analyzer. Works with low cost USB hardware."
   },
   {
-    "repo": "alainnothere/llm-circuit-finder",
+    "repo": "Shakir2021/Delta-for-Roblox-PC-Edition",
+    "branch": "main",
+    "language": "C++",
+    "description": "Delta for Roblox PC Edition is a lightweight and optimized Roblox client for Windows. Enjoy higher FPS, reduced input lag, better graphics, and smoother gameplay. The best desktop edition for playing Roblox with enhanced performance and modern features."
+  },
+  {
+    "repo": "Jakubantalik/transitions.dev",
+    "branch": "main",
+    "language": "HTML",
+    "description": "Collection of the most essential transitions for web apps that you can just copy and paste into any project."
+  },
+  {
+    "repo": "skyllwt/OmegaWiki",
     "branch": "main",
     "language": "Python",
-    "description": "I replicated Ng's RYS method and found that duplicating 3 specific layers in Qwen2.5-32B boosts reasoning by 17% and duplicating layers 12-14 in Devstral-24B improves logical deduction from 0.22→0.76 on BBH — no training, no weight changes, just routing hidden states through the same circuit twice. Tools included. Two AMD GPUs, one evening."
+    "description": "Karpathy's LLM-Wiki vision, fully realized — wiki-centric full-lifecycle AI research platform powered by Claude Code"
   },
   {
-    "repo": "zhu1090093659/spec_driven_develop",
-    "branch": "main",
-    "language": "Shell",
-    "description": "Cross-platform AI agent skill for spec-driven development: analyze codebases, decompose large  transformations, and track long-running work."
-  },
-  {
-    "repo": "compound-finance/compound-protocol",
-    "branch": "master",
-    "language": "TypeScript",
-    "description": "The Compound On-Chain Protocol"
-  },
-  {
-    "repo": "dievus/ADPulse",
+    "repo": "GainSec/AutoProber",
     "branch": "main",
     "language": "Python",
-    "description": "Active Directory Vulnerability Scanner"
+    "description": "Hardware hacker’s flying probe automation stack for agent-driven   target discovery, microscope mapping, safety-monitored CNC motion, probe review, and   controlled pin probing."
   },
   {
-    "repo": "sbilly/awesome-security",
-    "branch": "master",
-    "language": "Other",
-    "description": "A collection of awesome software, libraries, documents, books, resources and cools stuffs about security."
-  },
-  {
-    "repo": "supermemoryai/clawdbot-supermemory",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Supermemory allows Clawdbot / Molt bot to have PERFECT memory and recall for their own personal agent."
-  },
-  {
-    "repo": "elder-plinius/GLOSSOPETRAE",
+    "repo": "levelsio/superlevels",
     "branch": "main",
     "language": "JavaScript",
-    "description": "LINGUISTIC ENGINE FOR AI"
+    "description": "A super Chrome extension I made that's safer than installing external malware/spyware-filled extensions that form a massive security risk, this one is open source and you can read and check the source code (with AI) before you install it, and customize it to your liking!"
   },
   {
-    "repo": "jamiepine/voicebox",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "The open-source voice synthesis studio powered by Qwen3-TTS."
-  },
-  {
-    "repo": "Zehong-Ma/PixelGen",
+    "repo": "superpilot69/pdf-trad-to-simp-preserve-layout-kit",
     "branch": "main",
     "language": "Python",
-    "description": "Official repository for “PixelGen: Pixel Diffusion Beats Latent Diffusion with Perceptual Loss”"
+    "description": "PDF traditional-to-simplified Chinese conversion kit with layout-preserving scripts, Codex skill, and example source/output PDFs."
+  },
+  {
+    "repo": "bababuyyy/unity-isometric-pixel-pipeline",
+    "branch": "main",
+    "language": "ShaderLab",
+    "description": "Pixel art isometric render pipeline for Unity 6 URP — toon shading, GPU grass, outline, sharp upscale"
+  },
+  {
+    "repo": "WenXiaoWendy/timeline-for-agent",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "Kill Tomato Clock"
+  },
+  {
+    "repo": "MME-Benchmarks/Video-MME-v2",
+    "branch": "main",
+    "language": "Python",
+    "description": "Video-MME-v2: Towards the Next Stage in Benchmarks for Comprehensive Video Understanding"
+  },
+  {
+    "repo": "pion/handoff",
+    "branch": "main",
+    "language": "Go",
+    "description": "Start WebRTC in the browser—run it somewhere else"
   }
 ]
