@@ -1,146 +1,146 @@
 [
   {
-    "repo": "matteyeux/coruna",
+    "repo": "Vheissu/hit-and-run-web",
     "branch": "main",
-    "language": "Python",
-    "description": "deobfuscated JS and blobs from https://b27[.]icu, first attempt at using claude"
+    "language": "TypeScript",
+    "description": "Playable browser reconstruction of The Simpsons: Hit & Run with converted assets and Blender remaster tools."
   },
   {
-    "repo": "livetennisapi/livetennisapi-mcp",
-    "branch": "main",
+    "repo": "nodemailer/nodemailer",
+    "branch": "master",
     "language": "JavaScript",
-    "description": "MCP server for the Live Tennis API — give Claude, Cursor and other LLM agents real-time tennis scores, odds and model win-probability"
+    "description": "✉️ Send e-mails with Node.JS – easy as cake!"
   },
   {
-    "repo": "NVlabs/cutile-rs",
-    "branch": "main",
-    "language": "Rust",
-    "description": "cuTile Rust provides a safe, tile-based kernel programming DSL for the Rust programming language. It features a safe host-side API for passing tensors to asynchronously executed kernel functions."
-  },
-  {
-    "repo": "PyCQA/isort",
+    "repo": "huggingface/peft",
     "branch": "main",
     "language": "Python",
-    "description": "A Python utility / library to sort imports."
+    "description": "🤗 PEFT: State-of-the-art Parameter-Efficient Fine-Tuning."
   },
   {
-    "repo": "prysmaticlabs/prysm",
-    "branch": "master",
+    "repo": "tox-dev/tox",
+    "branch": "main",
+    "language": "Python",
+    "description": "Command line driven CI frontend and development task automation tool."
+  },
+  {
+    "repo": "nats-io/nats-server",
+    "branch": "main",
     "language": "Go",
-    "description": "Go implementation of Ethereum proof of stake"
+    "description": "High-Performance server for NATS.io, the cloud and edge native messaging system."
   },
   {
-    "repo": "yasasbanukaofficial/claude-code",
+    "repo": "nltk/nltk",
+    "branch": "develop",
+    "language": "Python",
+    "description": "NLTK Source"
+  },
+  {
+    "repo": "microsoft/guidance",
     "branch": "main",
-    "language": "TypeScript",
-    "description": "🚀 Open source Claude Code CLI source code. Advanced AI Agent for developers. Includes TypeScript codebase for LLM tool-calling, agentic workflows, and terminal UI. Remember this is just the skeleton not the brain itself. Found by Chaofan Shou."
+    "language": "Jupyter Notebook",
+    "description": "A guidance language for controlling large language models."
   },
   {
-    "repo": "golang-standards/project-layout",
+    "repo": "aave/aave-v3-core",
     "branch": "master",
-    "language": "Makefile",
-    "description": "Standard Go Project Layout"
+    "language": "TypeScript",
+    "description": "This repository contains the core smart contracts of the Aave V3 protocol."
   },
   {
-    "repo": "prisma/prisma",
+    "repo": "payloadcms/payload",
     "branch": "main",
     "language": "TypeScript",
-    "description": "Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server, SQLite, MongoDB and CockroachDB"
+    "description": "Payload is the open-source, fullstack Next.js framework, giving you instant backend superpowers. Get a full TypeScript backend and admin panel instantly. Use Payload as a headless CMS or for building powerful applications."
   },
   {
-    "repo": "kata-containers/kata-containers",
-    "branch": "main",
-    "language": "Rust",
-    "description": "Kata Containers is an open source project and community working to build a standard implementation of lightweight Virtual Machines (VMs) that feel and perform like containers, but provide the workload isolation and security advantages of VMs. https://katacontainers.io/"
-  },
-  {
-    "repo": "exomi29zikzak/Valo-Vision-26",
-    "branch": "main",
-    "language": "C++",
-    "description": "Vanguard Vision (2026) — High-performance external computer vision framework for Valorant. Features ultra-low latency color detection, Arduino/HID mouse automation support, and a kernel-safe visual overlay."
-  },
-  {
-    "repo": "guzzle/guzzle",
-    "branch": "master",
-    "language": "PHP",
-    "description": "Guzzle, an extensible PHP HTTP client"
-  },
-  {
-    "repo": "vthinkxie/claude-desktop-buddy-esp32-s3-touch-amoled-1.8",
-    "branch": "main",
-    "language": "C++",
-    "description": "esp32-s3-touch-amoled-1.8"
-  },
-  {
-    "repo": "charlie947/social-media-skills",
-    "branch": "main",
-    "language": "Shell",
-    "description": ""
-  },
-  {
-    "repo": "zmeyer44/Locker",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": ""
-  },
-  {
-    "repo": "kubernetes/dashboard",
-    "branch": "master",
-    "language": "Go",
-    "description": "General-purpose web UI for Kubernetes clusters"
-  },
-  {
-    "repo": "mrslimslim/gpt-image-canvas",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Local professional AI canvas built with tldraw."
-  },
-  {
-    "repo": "onesuper/tui-use",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "tui-use lets agents interact with programs that expect a human at the keyboard — REPLs, debuggers, TUI apps, and anything else bash can't reach."
-  },
-  {
-    "repo": "T-Lab-CUHKSZ/claude-code",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Claude Code Source - Buildable Research Fork. Reverse-engineered build system, runnable with Bun."
-  },
-  {
-    "repo": "dsclca12/auto_reg",
+    "repo": "pytorch/vision",
     "branch": "main",
     "language": "Python",
-    "description": "codex全自动注册机"
+    "description": "Datasets, Transforms and Models specific to Computer Vision"
   },
   {
-    "repo": "react-hook-form/react-hook-form",
+    "repo": "supabase/supabase",
     "branch": "master",
     "language": "TypeScript",
-    "description": "📋 React Hooks for form state management and validation (Web + React Native)"
+    "description": "The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications."
   },
   {
-    "repo": "lsm1103/CC",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": ""
-  },
-  {
-    "repo": "SimplifyJobs/Summer2025-Internships",
-    "branch": "main",
-    "language": "Python",
-    "description": "Collection of Summer 2026 tech internships!"
-  },
-  {
-    "repo": "logseq/logseq",
+    "repo": "LightTable/LightTable",
     "branch": "master",
     "language": "Clojure",
-    "description": "A privacy-first, open-source platform for knowledge management and collaboration. Download link:  http://github.com/logseq/logseq/releases. roadmap: https://discuss.logseq.com/t/logseq-product-roadmap/34267"
+    "description": "The Light Table IDE ⛺"
   },
   {
-    "repo": "adn8naiagent/F1ReplayTiming",
-    "branch": "dev",
+    "repo": "vuetifyjs/vuetify",
+    "branch": "master",
     "language": "TypeScript",
-    "description": "Visualisation of real-time track data and telemetry synced to F1 replays."
+    "description": "🐉 Vue Component Framework"
+  },
+  {
+    "repo": "google/dagger",
+    "branch": "master",
+    "language": "Java",
+    "description": "A fast dependency injector for Android and Java."
+  },
+  {
+    "repo": "scikit-learn/scikit-learn",
+    "branch": "main",
+    "language": "Python",
+    "description": "scikit-learn: machine learning in Python"
+  },
+  {
+    "repo": "alibaba/ice",
+    "branch": "master",
+    "language": "TypeScript",
+    "description": "🚀 ice.js: The Progressive App Framework Based On React（基于 React 的渐进式应用框架）"
+  },
+  {
+    "repo": "MrFadiAi/openclaw-manager",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "OpenClaw One Click Installer - A desktop manager for OpenClaw"
+  },
+  {
+    "repo": "yt-dlp/yt-dlp",
+    "branch": "master",
+    "language": "Python",
+    "description": "A feature-rich command-line audio/video downloader"
+  },
+  {
+    "repo": "chartjs/Chart.js",
+    "branch": "master",
+    "language": "JavaScript",
+    "description": "Simple HTML5 Charts using the <canvas> tag"
+  },
+  {
+    "repo": "opencontainers/image-spec",
+    "branch": "main",
+    "language": "Go",
+    "description": "OCI Image Format"
+  },
+  {
+    "repo": "v4nsh0x/InstaTrace",
+    "branch": "main",
+    "language": "Python",
+    "description": "Private Instagram Post URL Extractor (Research POC)"
+  },
+  {
+    "repo": "mqudsi/monospace-ocr",
+    "branch": "master",
+    "language": "Python",
+    "description": ""
+  },
+  {
+    "repo": "openai/sora-prompt-engineering-guide",
+    "branch": "main",
+    "language": "Other",
+    "description": "Guide for prompt engineering for video generation with Sora."
+  },
+  {
+    "repo": "AlexAnys/feishu-openclaw",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "Connect 飞书Feishu/Lark bot to openclaw (formerly Clawdbot) — no public server, no domain, no ngrok needed. 稳定免安装、共需5 分钟"
   }
 ]

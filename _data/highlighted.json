@@ -1,8 +1,8 @@
 {
-  "repo": "Xc1Ym/LumaDock",
+  "repo": "vladocar/Sumi.css",
   "branch": "main",
-  "language": "Python",
-  "description": "璃游 LumaDock：面向 Apple Silicon Mac 的 Switch 游戏启动器，支持自动构建、着色器诊断及未签名 IPA 导出；需自备 nxnative。Native Switch game launcher for Apple Silicon Macs with automated builds, shader diagnostics and unsigned IPA export; bring your own nxnative engine.",
-  "stars": 195,
-  "forks": 21
+  "language": "HTML",
+  "description": "A minimalist, classless-first CSS framework.",
+  "stars": 196,
+  "forks": 3
 }
