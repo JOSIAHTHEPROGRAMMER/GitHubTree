@@ -1,146 +1,146 @@
 [
   {
-    "repo": "kulikov0/whitelist-bypass",
+    "repo": "matteyeux/coruna",
+    "branch": "main",
+    "language": "Python",
+    "description": "deobfuscated JS and blobs from https://b27[.]icu, first attempt at using claude"
+  },
+  {
+    "repo": "livetennisapi/livetennisapi-mcp",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "MCP server for the Live Tennis API — give Claude, Cursor and other LLM agents real-time tennis scores, odds and model win-probability"
+  },
+  {
+    "repo": "NVlabs/cutile-rs",
+    "branch": "main",
+    "language": "Rust",
+    "description": "cuTile Rust provides a safe, tile-based kernel programming DSL for the Rust programming language. It features a safe host-side API for passing tensors to asynchronously executed kernel functions."
+  },
+  {
+    "repo": "PyCQA/isort",
+    "branch": "main",
+    "language": "Python",
+    "description": "A Python utility / library to sort imports."
+  },
+  {
+    "repo": "prysmaticlabs/prysm",
+    "branch": "master",
+    "language": "Go",
+    "description": "Go implementation of Ethereum proof of stake"
+  },
+  {
+    "repo": "yasasbanukaofficial/claude-code",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "🚀 Open source Claude Code CLI source code. Advanced AI Agent for developers. Includes TypeScript codebase for LLM tool-calling, agentic workflows, and terminal UI. Remember this is just the skeleton not the brain itself. Found by Chaofan Shou."
+  },
+  {
+    "repo": "golang-standards/project-layout",
+    "branch": "master",
+    "language": "Makefile",
+    "description": "Standard Go Project Layout"
+  },
+  {
+    "repo": "prisma/prisma",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server, SQLite, MongoDB and CockroachDB"
+  },
+  {
+    "repo": "kata-containers/kata-containers",
+    "branch": "main",
+    "language": "Rust",
+    "description": "Kata Containers is an open source project and community working to build a standard implementation of lightweight Virtual Machines (VMs) that feel and perform like containers, but provide the workload isolation and security advantages of VMs. https://katacontainers.io/"
+  },
+  {
+    "repo": "exomi29zikzak/Valo-Vision-26",
+    "branch": "main",
+    "language": "C++",
+    "description": "Vanguard Vision (2026) — High-performance external computer vision framework for Valorant. Features ultra-low latency color detection, Arduino/HID mouse automation support, and a kernel-safe visual overlay."
+  },
+  {
+    "repo": "guzzle/guzzle",
+    "branch": "master",
+    "language": "PHP",
+    "description": "Guzzle, an extensible PHP HTTP client"
+  },
+  {
+    "repo": "vthinkxie/claude-desktop-buddy-esp32-s3-touch-amoled-1.8",
+    "branch": "main",
+    "language": "C++",
+    "description": "esp32-s3-touch-amoled-1.8"
+  },
+  {
+    "repo": "charlie947/social-media-skills",
+    "branch": "main",
+    "language": "Shell",
+    "description": ""
+  },
+  {
+    "repo": "zmeyer44/Locker",
     "branch": "main",
     "language": "JavaScript",
     "description": ""
   },
   {
-    "repo": "envoyproxy/envoy",
-    "branch": "main",
-    "language": "C++",
-    "description": "Cloud-native high-performance edge/middle/service proxy"
-  },
-  {
-    "repo": "libressl/portable",
-    "branch": "master",
-    "language": "C",
-    "description": "LibreSSL Portable itself. This includes the build scaffold and compatibility layer that builds portable LibreSSL from the OpenBSD source code. Pull requests or patches sent to tech@openbsd.org are welcome."
-  },
-  {
-    "repo": "johnbean393/KeyType",
-    "branch": "main",
-    "language": "Swift",
-    "description": "An open-source Cotypist with macOS system wide AI autocomplete"
-  },
-  {
-    "repo": "videolan/vlc",
-    "branch": "master",
-    "language": "C",
-    "description": "VLC media player - All pull requests are ignored, please use MRs on https://code.videolan.org/videolan/vlc"
-  },
-  {
-    "repo": "xyzeva/k-id-age-verifier",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "automatically verify your age on discord, twitch, kick, quora and more (k-id)"
-  },
-  {
-    "repo": "ziadoz/awesome-php",
-    "branch": "master",
-    "language": "Other",
-    "description": "A curated list of amazingly awesome PHP libraries, resources and shiny things."
-  },
-  {
-    "repo": "immerjs/immer",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "Create the next immutable state by mutating the current one"
-  },
-  {
-    "repo": "kubernetes-sigs/metrics-server",
+    "repo": "kubernetes/dashboard",
     "branch": "master",
     "language": "Go",
-    "description": "Scalable and efficient source of container resource metrics for Kubernetes built-in autoscaling pipelines."
+    "description": "General-purpose web UI for Kubernetes clusters"
   },
   {
-    "repo": "valeriansaliou/sonic",
-    "branch": "master",
-    "language": "Rust",
-    "description": "🦔 Fast, lightweight & schema-less search backend. An alternative to Elasticsearch that runs on a few MBs of RAM."
-  },
-  {
-    "repo": "six2dez/burp-ai-agent",
+    "repo": "mrslimslim/gpt-image-canvas",
     "branch": "main",
-    "language": "Kotlin",
-    "description": "Burp Suite extension that adds built-in MCP tooling, AI-assisted analysis, privacy controls, passive and active scanning and more"
+    "language": "TypeScript",
+    "description": "Local professional AI canvas built with tldraw."
   },
   {
-    "repo": "v4nsh0x/InstaTrace",
+    "repo": "onesuper/tui-use",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "tui-use lets agents interact with programs that expect a human at the keyboard — REPLs, debuggers, TUI apps, and anything else bash can't reach."
+  },
+  {
+    "repo": "T-Lab-CUHKSZ/claude-code",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Claude Code Source - Buildable Research Fork. Reverse-engineered build system, runnable with Bun."
+  },
+  {
+    "repo": "dsclca12/auto_reg",
     "branch": "main",
     "language": "Python",
-    "description": "Private Instagram Post URL Extractor (Research POC)"
+    "description": "codex全自动注册机"
   },
   {
-    "repo": "liuxiaopai-ai/ralph-desktop",
-    "branch": "main",
-    "language": "Rust",
-    "description": "Ralph Desktop -  Start vague. Ralph Loop until perfect.  A visual controller for AI coding agents that helps you brainstorm requirements and execute tasks through persistent iteration."
-  },
-  {
-    "repo": "cosmos/cosmos-sdk",
-    "branch": "main",
-    "language": "Go",
-    "description": ":chains: A Framework for Building High Value Public Blockchains :sparkles:"
-  },
-  {
-    "repo": "GoogleCloudPlatform/golang-samples",
-    "branch": "main",
-    "language": "Go",
-    "description": "Sample apps and code written for Google Cloud in the Go programming language."
-  },
-  {
-    "repo": "open-policy-agent/gatekeeper",
+    "repo": "react-hook-form/react-hook-form",
     "branch": "master",
-    "language": "Go",
-    "description": "🐊 Policy Controller for Kubernetes"
+    "language": "TypeScript",
+    "description": "📋 React Hooks for form state management and validation (Web + React Native)"
   },
   {
-    "repo": "antfu/skills-npm",
+    "repo": "lsm1103/CC",
     "branch": "main",
     "language": "TypeScript",
-    "description": "Install agent skills from npm"
+    "description": ""
   },
   {
-    "repo": "nektos/act",
+    "repo": "SimplifyJobs/Summer2025-Internships",
+    "branch": "main",
+    "language": "Python",
+    "description": "Collection of Summer 2026 tech internships!"
+  },
+  {
+    "repo": "logseq/logseq",
     "branch": "master",
-    "language": "Go",
-    "description": "Run your GitHub Actions locally 🚀"
+    "language": "Clojure",
+    "description": "A privacy-first, open-source platform for knowledge management and collaboration. Download link:  http://github.com/logseq/logseq/releases. roadmap: https://discuss.logseq.com/t/logseq-product-roadmap/34267"
   },
   {
-    "repo": "stonerl/Thaw",
-    "branch": "main",
-    "language": "Swift",
-    "description": "Menu bar manager for macOS"
-  },
-  {
-    "repo": "microsoft/LlamaSharp",
-    "branch": "main",
-    "language": "Other",
-    "description": ".NET library for Llama model inference."
-  },
-  {
-    "repo": "goharbor/harbor",
-    "branch": "main",
-    "language": "Go",
-    "description": "An open source trusted cloud native registry project that stores, signs, and scans content."
-  },
-  {
-    "repo": "less/less.js",
-    "branch": "master",
-    "language": "JavaScript",
-    "description": "Less. The dynamic stylesheet language."
-  },
-  {
-    "repo": "grpc/grpc-java",
-    "branch": "master",
-    "language": "Java",
-    "description": "The Java gRPC implementation. HTTP/2 based RPC"
-  },
-  {
-    "repo": "gothinkster/realworld",
-    "branch": "main",
+    "repo": "adn8naiagent/F1ReplayTiming",
+    "branch": "dev",
     "language": "TypeScript",
-    "description": "The mother of all demo apps — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more"
+    "description": "Visualisation of real-time track data and telemetry synced to F1 replays."
   }
 ]

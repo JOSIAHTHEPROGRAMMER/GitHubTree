@@ -1,8 +1,8 @@
 {
-  "repo": "recursive-oss/rec",
+  "repo": "Xc1Ym/LumaDock",
   "branch": "main",
   "language": "Python",
-  "description": "Our lightning-fast inference engine.",
-  "stars": 194,
-  "forks": 32
+  "description": "璃游 LumaDock：面向 Apple Silicon Mac 的 Switch 游戏启动器，支持自动构建、着色器诊断及未签名 IPA 导出；需自备 nxnative。Native Switch game launcher for Apple Silicon Macs with automated builds, shader diagnostics and unsigned IPA export; bring your own nxnative engine.",
+  "stars": 195,
+  "forks": 21
 }
