@@ -1,146 +1,146 @@
 [
   {
-    "repo": "kdeldycke/awesome-falsehood",
+    "repo": "audacity/audacity",
     "branch": "master",
-    "language": "Other",
-    "description": "😱 Falsehoods Programmers Believe in"
+    "language": "C++",
+    "description": "Audio Editor"
   },
   {
-    "repo": "cft0808/edict",
-    "branch": "main",
-    "language": "HTML",
-    "description": "🏛️ 三省六部制 · OpenClaw Multi-Agent Orchestration System — 9 specialized AI agents with real-time dashboard, model config, and full audit trails"
+    "repo": "HUANGCHIHHUNGLeo/claude-real-video",
+    "branch": "master",
+    "language": "Python",
+    "description": "Let Claude (or any LLM) actually watch a video — scene-aware, deduplicated frames + transcript, from a URL or local file. Runs locally, MIT."
   },
   {
-    "repo": "luckyyyyy/specc.sh",
+    "repo": "BuluBulugege/Free-BAI",
     "branch": "main",
     "language": "TypeScript",
-    "description": "Spec Coding beats Vibe Coding. A full-stack AI template for production-grade code."
-  },
-  {
-    "repo": "reinesana/Doomscroll-Skyrim-Edition",
-    "branch": "main",
-    "language": "Python",
-    "description": "A CV productivity tool that plays the Skeleton Shield meme whenever you doomscroll or lose focus."
-  },
-  {
-    "repo": "rubygems/rubygems",
-    "branch": "master",
-    "language": "Ruby",
-    "description": "Library packaging and distribution for Ruby."
-  },
-  {
-    "repo": "Abnerla/AI_paper",
-    "branch": "main",
-    "language": "Python",
-    "description": "一站式AI学术写作辅助工具 · 支持降AIGC、查重率、润色、智能纠错等功能"
-  },
-  {
-    "repo": "electron-userland/electron-builder",
-    "branch": "master",
-    "language": "TypeScript",
-    "description": "A complete solution to package and build a ready for distribution Electron app with “auto update” support out of the box"
-  },
-  {
-    "repo": "HuiyuLi-2000/Chinese-Grant-Writer-Skills",
-    "branch": "main",
-    "language": "Python",
-    "description": "面向 NSFC、NSSFC、省部级自/社科申请书的 AI 写作技能集。从近 20 本管理口申请书中提炼写作范式，覆盖核心撰写环节。"
-  },
-  {
-    "repo": "anthropics/cwc-long-running-agents",
-    "branch": "main",
-    "language": "Shell",
     "description": ""
   },
   {
-    "repo": "apache/hadoop",
-    "branch": "trunk",
+    "repo": "daltoniam/Starscream",
+    "branch": "master",
+    "language": "Swift",
+    "description": "Websockets in swift for iOS and OSX"
+  },
+  {
+    "repo": "simular-ai/simulang",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": ""
+  },
+  {
+    "repo": "babel/babel",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "🐠 Babel is a compiler for writing next generation JavaScript."
+  },
+  {
+    "repo": "nkzw-tech/codiff",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "a fast local diff viewer"
+  },
+  {
+    "repo": "neovim/neovim",
+    "branch": "master",
+    "language": "Vim Script",
+    "description": "Vim-fork focused on extensibility and usability"
+  },
+  {
+    "repo": "microsoft/calculator",
+    "branch": "main",
+    "language": "C++",
+    "description": "Windows Calculator: A simple yet powerful calculator that ships with Windows"
+  },
+  {
+    "repo": "huangserva/3DCellForge",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "AI-powered interactive 3D cell generation and exploration studio."
+  },
+  {
+    "repo": "vercel-labs/zerolang",
+    "branch": "main",
+    "language": "C",
+    "description": "The programming language for agents"
+  },
+  {
+    "repo": "LayrKits/Sprite-Pipeline",
+    "branch": "main",
+    "language": "Python",
+    "description": "2D Sprite Sheet Creation Pipeline"
+  },
+  {
+    "repo": "realm/realm-swift",
+    "branch": "master",
+    "language": "Objective-C",
+    "description": "Realm is a mobile database: a replacement for Core Data & SQLite"
+  },
+  {
+    "repo": "golang/protobuf",
+    "branch": "master",
+    "language": "Go",
+    "description": "Go support for Google's protocol buffers"
+  },
+  {
+    "repo": "rook/rook",
+    "branch": "master",
+    "language": "Go",
+    "description": "Storage Orchestration for Kubernetes"
+  },
+  {
+    "repo": "arnabchoudhury404/hydra-launcher",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "hydralauncher: Hydra Launcher download free PC library  fontes links baixar , hydralauncher github,  trusted sources url list, steam verde download, hydralauncher github source code, no download available hydra launcher fix. Embedded bittorrent client setup, repack scraper json megathread, hydra cloud save files sync, python rpc server error"
+  },
+  {
+    "repo": "nodejs/node",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "Node.js JavaScript runtime ✨🐢🚀✨"
+  },
+  {
+    "repo": "LuisAlexisSalazar/Zelda-Minish-Cap-PC",
+    "branch": "main",
+    "language": "C++",
+    "description": "Zelda Minish Cap PC download Link Ezlo Picori Vaati Hyrule Kinstones Four Sword shrinking GBA native widescreen controller save editor rom."
+  },
+  {
+    "repo": "Mathifygaming/OpenGOAL-Jak-PC-Port",
+    "branch": "main",
+    "language": "C++",
+    "description": "Jak 3 PC Port download OpenGOAL native port Jak Daxter Wasteland Haven City Precursor Light Dark Eco vehicles desert combat missions platformer."
+  },
+  {
+    "repo": "wangyingqi-x/workflow-showcase-platform",
+    "branch": "main",
     "language": "Java",
-    "description": "Apache Hadoop"
+    "description": ""
   },
   {
-    "repo": "0xGF/boneyard",
+    "repo": "ajeetdsouza/zoxide",
     "branch": "main",
-    "language": "TypeScript",
-    "description": "Auto generated skeleton loading framework"
-  },
-  {
-    "repo": "diesel-rs/diesel",
-    "branch": "master",
     "language": "Rust",
-    "description": "A safe, extensible ORM and Query Builder for Rust"
+    "description": "A smarter cd command. Supports all major shells."
   },
   {
-    "repo": "zqbxdev/webchat2api",
+    "repo": "paid-tw/skills",
+    "branch": "main",
+    "language": "PHP",
+    "description": "台灣第三方金流 Skills for AI Agents - 藍新金流、綠界科技 ECPay、統一金流 PAYUNi"
+  },
+  {
+    "repo": "pypa/pipx",
     "branch": "main",
     "language": "Python",
-    "description": "OpenAI-compatible Web Chat API proxy with GPT/Grok account management"
+    "description": "Install and Run Python Applications in Isolated Environments"
   },
   {
-    "repo": "rootsecdev/cve_2026_31431",
+    "repo": "tgies/klattsch",
     "branch": "main",
-    "language": "Python",
-    "description": "Exploit POC for CVE_2026_31431"
-  },
-  {
-    "repo": "v2ray/v2ray-core",
-    "branch": "master",
-    "language": "Go",
-    "description": "A platform for building proxies to bypass network restrictions."
-  },
-  {
-    "repo": "deepmind/dm-haiku",
-    "branch": "main",
-    "language": "Python",
-    "description": "JAX-based neural network library"
-  },
-  {
-    "repo": "golbin/agent-skills",
-    "branch": "main",
-    "language": "Shell",
-    "description": "Reusable agent skills for Codex and compatible tools"
-  },
-  {
-    "repo": "open-pencil/open-pencil",
-    "branch": "master",
-    "language": "TypeScript",
-    "description": "AI-native design editor. Open-source Figma alternative."
-  },
-  {
-    "repo": "directus/directus",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "The flexible backend for all your projects 🐰 Turn your DB into a headless CMS, admin panels, or apps with a custom UI, instant APIs, auth & more."
-  },
-  {
-    "repo": "teorth/optimizationproblems",
-    "branch": "main",
-    "language": "HTML",
-    "description": "A collection of optimization problems in mathematics"
-  },
-  {
-    "repo": "deepinfra/deepinfra",
-    "branch": "main",
-    "language": "Other",
-    "description": "Run popular AI models like Llama-3, Mistral on DeepInfra's platform."
-  },
-  {
-    "repo": "kubernetes/kubernetes",
-    "branch": "master",
-    "language": "Go",
-    "description": "Production-Grade Container Scheduling and Management"
-  },
-  {
-    "repo": "LucidAkshay/kavach",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Tactical AI Workspace Monitor & EDR"
-  },
-  {
-    "repo": "infraform/polymarket-arbitrage-trading-bot",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "polymarket arbitrage bot, polymarket arbitrage bot, polymarket arbitrage bot, polymarket arbitrage bot, polymarket arbitrage bot, polymarket arbitrage bot, polymarket arbitrage bot, polymarket arbitrage bot, polymarket arbitrage bot, polymarket arbitrage bot, polymarket arbitrage bot, polymarket arbitrage bot, polymarket arbitrage bot"
+    "language": "JavaScript",
+    "description": "primitive parallel-formant speech synth in the browser"
   }
 ]
