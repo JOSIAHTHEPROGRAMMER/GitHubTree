@@ -1,51 +1,93 @@
 [
   {
-    "repo": "aibuildai/AI-Build-AI",
+    "repo": "kdeldycke/awesome-falsehood",
+    "branch": "master",
+    "language": "Other",
+    "description": "😱 Falsehoods Programmers Believe in"
+  },
+  {
+    "repo": "cft0808/edict",
+    "branch": "main",
+    "language": "HTML",
+    "description": "🏛️ 三省六部制 · OpenClaw Multi-Agent Orchestration System — 9 specialized AI agents with real-time dashboard, model config, and full audit trails"
+  },
+  {
+    "repo": "luckyyyyy/specc.sh",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Spec Coding beats Vibe Coding. A full-stack AI template for production-grade code."
+  },
+  {
+    "repo": "reinesana/Doomscroll-Skyrim-Edition",
     "branch": "main",
     "language": "Python",
-    "description": "AIBuildAI – An AI agent that automatically builds AI models (#1 on OpenAI MLE-Bench)"
+    "description": "A CV productivity tool that plays the Skeleton Shield meme whenever you doomscroll or lose focus."
   },
   {
-    "repo": "TrendTechVista/polymarket-copy-trading-bot",
+    "repo": "rubygems/rubygems",
+    "branch": "master",
+    "language": "Ruby",
+    "description": "Library packaging and distribution for Ruby."
+  },
+  {
+    "repo": "Abnerla/AI_paper",
     "branch": "main",
-    "language": "TypeScript",
-    "description": "polymarket copy trading bot polymarket copy trading bot polymarket copy trading bot polymarket copy trading bot polymarket copy trading bot polymarket copy trading bot polymarket copy trading bot polymarket copy trading bot polymarket copy trading bot polymarket copy trading bot polymarket copy trading bot polymarket copy trading bot"
+    "language": "Python",
+    "description": "一站式AI学术写作辅助工具 · 支持降AIGC、查重率、润色、智能纠错等功能"
   },
   {
-    "repo": "nostrband/ServiceGraph",
+    "repo": "electron-userland/electron-builder",
+    "branch": "master",
+    "language": "TypeScript",
+    "description": "A complete solution to package and build a ready for distribution Electron app with “auto update” support out of the box"
+  },
+  {
+    "repo": "HuiyuLi-2000/Chinese-Grant-Writer-Skills",
+    "branch": "main",
+    "language": "Python",
+    "description": "面向 NSFC、NSSFC、省部级自/社科申请书的 AI 写作技能集。从近 20 本管理口申请书中提炼写作范式，覆盖核心撰写环节。"
+  },
+  {
+    "repo": "anthropics/cwc-long-running-agents",
     "branch": "main",
     "language": "Shell",
-    "description": "AI Agent skills for a structured catalog of 100k+ US professional-services firms"
+    "description": ""
   },
   {
-    "repo": "tektoncd/pipeline",
+    "repo": "apache/hadoop",
+    "branch": "trunk",
+    "language": "Java",
+    "description": "Apache Hadoop"
+  },
+  {
+    "repo": "0xGF/boneyard",
     "branch": "main",
+    "language": "TypeScript",
+    "description": "Auto generated skeleton loading framework"
+  },
+  {
+    "repo": "diesel-rs/diesel",
+    "branch": "master",
+    "language": "Rust",
+    "description": "A safe, extensible ORM and Query Builder for Rust"
+  },
+  {
+    "repo": "zqbxdev/webchat2api",
+    "branch": "main",
+    "language": "Python",
+    "description": "OpenAI-compatible Web Chat API proxy with GPT/Grok account management"
+  },
+  {
+    "repo": "rootsecdev/cve_2026_31431",
+    "branch": "main",
+    "language": "Python",
+    "description": "Exploit POC for CVE_2026_31431"
+  },
+  {
+    "repo": "v2ray/v2ray-core",
+    "branch": "master",
     "language": "Go",
-    "description": "A cloud-native Pipeline resource."
-  },
-  {
-    "repo": "Y-Peng-Dev/Watchdog",
-    "branch": "master",
-    "language": "C#",
-    "description": "Watchdog for Grasshopper Prevent Rhino & Grasshopper from freezing due to accidental massive computations or cascading calculation chains."
-  },
-  {
-    "repo": "TheSashaDev/girl-agent",
-    "branch": "master",
-    "language": "TypeScript",
-    "description": "ИИ-девушка с человеческим поведением: сон, настроение, расписание, память, стадии отношений и конфликты. Userbot mode через MTProto — реагирует, печатает, ставит реакции. Anti-AI промпт убирает ChatGPT-повадки. Не чат-бот — персонаж с состоянием."
-  },
-  {
-    "repo": "craigsc/cmux",
-    "branch": "main",
-    "language": "Shell",
-    "description": "cmux: tmux for Claude Code"
-  },
-  {
-    "repo": "marswei/seaseed-clawerse",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "Open-source implementation of SeaSeed.ai v1.0 (codename: Clawerse). AI ocean world platform for multi-agent social, tasks and compute collaboration."
+    "description": "A platform for building proxies to bypass network restrictions."
   },
   {
     "repo": "deepmind/dm-haiku",
@@ -54,93 +96,51 @@
     "description": "JAX-based neural network library"
   },
   {
-    "repo": "Jakubantalik/metal-fx",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Animated WebGL liquid-metal effect for React buttons and UI components"
-  },
-  {
-    "repo": "tinygo-org/tinygo",
-    "branch": "release",
-    "language": "Go",
-    "description": "Go compiler for small places. Microcontrollers, WebAssembly (WASM/WASI), and command-line tools. Based on LLVM."
-  },
-  {
-    "repo": "TriangleMagistrate/DeepSeek-Claw",
+    "repo": "golbin/agent-skills",
     "branch": "main",
     "language": "Shell",
-    "description": ""
+    "description": "Reusable agent skills for Codex and compatible tools"
   },
   {
-    "repo": "gorkem-bwl/animated-icons",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": ""
+    "repo": "open-pencil/open-pencil",
+    "branch": "master",
+    "language": "TypeScript",
+    "description": "AI-native design editor. Open-source Figma alternative."
   },
   {
-    "repo": "YGYOOO/WorldX",
+    "repo": "directus/directus",
     "branch": "main",
     "language": "TypeScript",
-    "description": "One sentence creates an AI-driven world — generate maps, characters, and watch stories emerge on their own. 一句话生成一个AI自主驱动的世界."
+    "description": "The flexible backend for all your projects 🐰 Turn your DB into a headless CMS, admin panels, or apps with a custom UI, instant APIs, auth & more."
   },
   {
-    "repo": "tilt-dev/tilt",
-    "branch": "master",
-    "language": "Go",
-    "description": "Define your dev environment as code. For microservice apps on Kubernetes."
-  },
-  {
-    "repo": "YeQing17-2026/OmniAgent",
+    "repo": "teorth/optimizationproblems",
     "branch": "main",
-    "language": "Python",
-    "description": "An agent capable of self-evolving and dynamically hardening security"
+    "language": "HTML",
+    "description": "A collection of optimization problems in mathematics"
   },
   {
-    "repo": "opentofu/opentofu",
+    "repo": "deepinfra/deepinfra",
     "branch": "main",
-    "language": "Go",
-    "description": "OpenTofu lets you declaratively manage your cloud infrastructure."
-  },
-  {
-    "repo": "op7418/Video-Wrapper-Skills",
-    "branch": "main",
-    "language": "Python",
-    "description": "为访谈视频添加综艺风格视觉特效的 Claude Skill。AI 分析字幕内容生成建议，用户审批后自动渲染，支持 4 种视觉主题。"
-  },
-  {
-    "repo": "SawyerHood/gitclaw",
-    "branch": "main",
-    "language": "Python",
-    "description": "OpenClaw but it runs entirely on github actions"
-  },
-  {
-    "repo": "datasciencemasters/go",
-    "branch": "master",
     "language": "Other",
-    "description": "The Open Source Data Science Masters"
+    "description": "Run popular AI models like Llama-3, Mistral on DeepInfra's platform."
   },
   {
-    "repo": "l3gi0nXXXX/Metis-agent",
-    "branch": "main",
-    "language": "Cangjie",
-    "description": ""
-  },
-  {
-    "repo": "op7418/Document-illustrator-skill",
-    "branch": "main",
-    "language": "Python",
-    "description": "帮你从文档生成对应的多张配图，内置了歸藏精心探索的图片风格，支持 16:9 和 3:4 两种比例，方便发小红书以及推特。"
-  },
-  {
-    "repo": "xiaochong/hi-kid",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "HiKid - Your AI English Pal. An desktop app built with React and TypeScript, targeting children in non-English-speaking countries who want to practice English speaking and listening."
-  },
-  {
-    "repo": "luccast/crabwalk",
+    "repo": "kubernetes/kubernetes",
     "branch": "master",
+    "language": "Go",
+    "description": "Production-Grade Container Scheduling and Management"
+  },
+  {
+    "repo": "LucidAkshay/kavach",
+    "branch": "main",
     "language": "TypeScript",
-    "description": "🦀 Crabwalk 🦀 Real-time companion monitor for Clawdbot agents."
+    "description": "Tactical AI Workspace Monitor & EDR"
+  },
+  {
+    "repo": "infraform/polymarket-arbitrage-trading-bot",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "polymarket arbitrage bot, polymarket arbitrage bot, polymarket arbitrage bot, polymarket arbitrage bot, polymarket arbitrage bot, polymarket arbitrage bot, polymarket arbitrage bot, polymarket arbitrage bot, polymarket arbitrage bot, polymarket arbitrage bot, polymarket arbitrage bot, polymarket arbitrage bot, polymarket arbitrage bot"
   }
 ]
