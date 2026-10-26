@@ -1,146 +1,146 @@
 [
   {
-    "repo": "Vheissu/hit-and-run-web",
+    "repo": "aibuildai/AI-Build-AI",
+    "branch": "main",
+    "language": "Python",
+    "description": "AIBuildAI – An AI agent that automatically builds AI models (#1 on OpenAI MLE-Bench)"
+  },
+  {
+    "repo": "TrendTechVista/polymarket-copy-trading-bot",
     "branch": "main",
     "language": "TypeScript",
-    "description": "Playable browser reconstruction of The Simpsons: Hit & Run with converted assets and Blender remaster tools."
+    "description": "polymarket copy trading bot polymarket copy trading bot polymarket copy trading bot polymarket copy trading bot polymarket copy trading bot polymarket copy trading bot polymarket copy trading bot polymarket copy trading bot polymarket copy trading bot polymarket copy trading bot polymarket copy trading bot polymarket copy trading bot"
   },
   {
-    "repo": "nodemailer/nodemailer",
-    "branch": "master",
-    "language": "JavaScript",
-    "description": "✉️ Send e-mails with Node.JS – easy as cake!"
-  },
-  {
-    "repo": "huggingface/peft",
+    "repo": "nostrband/ServiceGraph",
     "branch": "main",
-    "language": "Python",
-    "description": "🤗 PEFT: State-of-the-art Parameter-Efficient Fine-Tuning."
+    "language": "Shell",
+    "description": "AI Agent skills for a structured catalog of 100k+ US professional-services firms"
   },
   {
-    "repo": "tox-dev/tox",
-    "branch": "main",
-    "language": "Python",
-    "description": "Command line driven CI frontend and development task automation tool."
-  },
-  {
-    "repo": "nats-io/nats-server",
+    "repo": "tektoncd/pipeline",
     "branch": "main",
     "language": "Go",
-    "description": "High-Performance server for NATS.io, the cloud and edge native messaging system."
+    "description": "A cloud-native Pipeline resource."
   },
   {
-    "repo": "nltk/nltk",
-    "branch": "develop",
-    "language": "Python",
-    "description": "NLTK Source"
+    "repo": "Y-Peng-Dev/Watchdog",
+    "branch": "master",
+    "language": "C#",
+    "description": "Watchdog for Grasshopper Prevent Rhino & Grasshopper from freezing due to accidental massive computations or cascading calculation chains."
   },
   {
-    "repo": "microsoft/guidance",
+    "repo": "TheSashaDev/girl-agent",
+    "branch": "master",
+    "language": "TypeScript",
+    "description": "ИИ-девушка с человеческим поведением: сон, настроение, расписание, память, стадии отношений и конфликты. Userbot mode через MTProto — реагирует, печатает, ставит реакции. Anti-AI промпт убирает ChatGPT-повадки. Не чат-бот — персонаж с состоянием."
+  },
+  {
+    "repo": "craigsc/cmux",
     "branch": "main",
-    "language": "Jupyter Notebook",
-    "description": "A guidance language for controlling large language models."
+    "language": "Shell",
+    "description": "cmux: tmux for Claude Code"
   },
   {
-    "repo": "aave/aave-v3-core",
-    "branch": "master",
-    "language": "TypeScript",
-    "description": "This repository contains the core smart contracts of the Aave V3 protocol."
-  },
-  {
-    "repo": "payloadcms/payload",
+    "repo": "marswei/seaseed-clawerse",
     "branch": "main",
-    "language": "TypeScript",
-    "description": "Payload is the open-source, fullstack Next.js framework, giving you instant backend superpowers. Get a full TypeScript backend and admin panel instantly. Use Payload as a headless CMS or for building powerful applications."
-  },
-  {
-    "repo": "pytorch/vision",
-    "branch": "main",
-    "language": "Python",
-    "description": "Datasets, Transforms and Models specific to Computer Vision"
-  },
-  {
-    "repo": "supabase/supabase",
-    "branch": "master",
-    "language": "TypeScript",
-    "description": "The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications."
-  },
-  {
-    "repo": "LightTable/LightTable",
-    "branch": "master",
-    "language": "Clojure",
-    "description": "The Light Table IDE ⛺"
-  },
-  {
-    "repo": "vuetifyjs/vuetify",
-    "branch": "master",
-    "language": "TypeScript",
-    "description": "🐉 Vue Component Framework"
-  },
-  {
-    "repo": "google/dagger",
-    "branch": "master",
-    "language": "Java",
-    "description": "A fast dependency injector for Android and Java."
-  },
-  {
-    "repo": "scikit-learn/scikit-learn",
-    "branch": "main",
-    "language": "Python",
-    "description": "scikit-learn: machine learning in Python"
-  },
-  {
-    "repo": "alibaba/ice",
-    "branch": "master",
-    "language": "TypeScript",
-    "description": "🚀 ice.js: The Progressive App Framework Based On React（基于 React 的渐进式应用框架）"
-  },
-  {
-    "repo": "MrFadiAi/openclaw-manager",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "OpenClaw One Click Installer - A desktop manager for OpenClaw"
-  },
-  {
-    "repo": "yt-dlp/yt-dlp",
-    "branch": "master",
-    "language": "Python",
-    "description": "A feature-rich command-line audio/video downloader"
-  },
-  {
-    "repo": "chartjs/Chart.js",
-    "branch": "master",
     "language": "JavaScript",
-    "description": "Simple HTML5 Charts using the <canvas> tag"
+    "description": "Open-source implementation of SeaSeed.ai v1.0 (codename: Clawerse). AI ocean world platform for multi-agent social, tasks and compute collaboration."
   },
   {
-    "repo": "opencontainers/image-spec",
+    "repo": "deepmind/dm-haiku",
     "branch": "main",
+    "language": "Python",
+    "description": "JAX-based neural network library"
+  },
+  {
+    "repo": "Jakubantalik/metal-fx",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Animated WebGL liquid-metal effect for React buttons and UI components"
+  },
+  {
+    "repo": "tinygo-org/tinygo",
+    "branch": "release",
     "language": "Go",
-    "description": "OCI Image Format"
+    "description": "Go compiler for small places. Microcontrollers, WebAssembly (WASM/WASI), and command-line tools. Based on LLVM."
   },
   {
-    "repo": "v4nsh0x/InstaTrace",
+    "repo": "TriangleMagistrate/DeepSeek-Claw",
     "branch": "main",
-    "language": "Python",
-    "description": "Private Instagram Post URL Extractor (Research POC)"
-  },
-  {
-    "repo": "mqudsi/monospace-ocr",
-    "branch": "master",
-    "language": "Python",
+    "language": "Shell",
     "description": ""
   },
   {
-    "repo": "openai/sora-prompt-engineering-guide",
-    "branch": "main",
-    "language": "Other",
-    "description": "Guide for prompt engineering for video generation with Sora."
-  },
-  {
-    "repo": "AlexAnys/feishu-openclaw",
+    "repo": "gorkem-bwl/animated-icons",
     "branch": "main",
     "language": "JavaScript",
-    "description": "Connect 飞书Feishu/Lark bot to openclaw (formerly Clawdbot) — no public server, no domain, no ngrok needed. 稳定免安装、共需5 分钟"
+    "description": ""
+  },
+  {
+    "repo": "YGYOOO/WorldX",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "One sentence creates an AI-driven world — generate maps, characters, and watch stories emerge on their own. 一句话生成一个AI自主驱动的世界."
+  },
+  {
+    "repo": "tilt-dev/tilt",
+    "branch": "master",
+    "language": "Go",
+    "description": "Define your dev environment as code. For microservice apps on Kubernetes."
+  },
+  {
+    "repo": "YeQing17-2026/OmniAgent",
+    "branch": "main",
+    "language": "Python",
+    "description": "An agent capable of self-evolving and dynamically hardening security"
+  },
+  {
+    "repo": "opentofu/opentofu",
+    "branch": "main",
+    "language": "Go",
+    "description": "OpenTofu lets you declaratively manage your cloud infrastructure."
+  },
+  {
+    "repo": "op7418/Video-Wrapper-Skills",
+    "branch": "main",
+    "language": "Python",
+    "description": "为访谈视频添加综艺风格视觉特效的 Claude Skill。AI 分析字幕内容生成建议，用户审批后自动渲染，支持 4 种视觉主题。"
+  },
+  {
+    "repo": "SawyerHood/gitclaw",
+    "branch": "main",
+    "language": "Python",
+    "description": "OpenClaw but it runs entirely on github actions"
+  },
+  {
+    "repo": "datasciencemasters/go",
+    "branch": "master",
+    "language": "Other",
+    "description": "The Open Source Data Science Masters"
+  },
+  {
+    "repo": "l3gi0nXXXX/Metis-agent",
+    "branch": "main",
+    "language": "Cangjie",
+    "description": ""
+  },
+  {
+    "repo": "op7418/Document-illustrator-skill",
+    "branch": "main",
+    "language": "Python",
+    "description": "帮你从文档生成对应的多张配图，内置了歸藏精心探索的图片风格，支持 16:9 和 3:4 两种比例，方便发小红书以及推特。"
+  },
+  {
+    "repo": "xiaochong/hi-kid",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "HiKid - Your AI English Pal. An desktop app built with React and TypeScript, targeting children in non-English-speaking countries who want to practice English speaking and listening."
+  },
+  {
+    "repo": "luccast/crabwalk",
+    "branch": "master",
+    "language": "TypeScript",
+    "description": "🦀 Crabwalk 🦀 Real-time companion monitor for Clawdbot agents."
   }
 ]

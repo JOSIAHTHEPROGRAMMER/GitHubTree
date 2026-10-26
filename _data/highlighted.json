@@ -1,8 +1,8 @@
 {
-  "repo": "vladocar/Sumi.css",
+  "repo": "llm-xiaoye/douyin-to-obsidian",
   "branch": "main",
-  "language": "HTML",
-  "description": "A minimalist, classless-first CSS framework.",
-  "stars": 196,
-  "forks": 3
+  "language": "Python",
+  "description": "A portable /dy skill for cc-connect + Claude Code: Douyin videos, image posts and collections to Obsidian, with local ASR/OCR and private configuration.",
+  "stars": 206,
+  "forks": 6
 }
