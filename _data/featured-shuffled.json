@@ -1,146 +1,146 @@
 [
   {
-    "repo": "wagoodman/dive",
-    "branch": "master",
-    "language": "Go",
-    "description": "A tool for exploring each layer in a docker image"
-  },
-  {
-    "repo": "guanxiaol/WindsurfPoolAPI",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "Multi-account pool proxy for Windsurf — 113+ models (Claude/GPT/Gemini/Grok/Kimi) via OpenAI & Anthropic APIs, image upload, Cursor & Claude Code native / 企业级 Windsurf 多账号池化 API 代理"
-  },
-  {
-    "repo": "fspecii/ace-step-ui",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "🎵 The Ultimate Open Source Suno Alternative - Professional UI for ACE-Step 1.5 AI Music Generation. Free, local, unlimited. Stop paying for Suno!"
-  },
-  {
-    "repo": "AbhishekK130804/Claude-Mythos-AI-Anthropic-App",
-    "branch": "main",
-    "language": "C#",
-    "description": "Claude pro free Mythos design Opus Cowork  Sonnet AI Anthropic App: download free PC android apk iOS, Anthropic Claude API key setup, Claude roleplay mythos client, SillyTavern Claude prompt formatting, custom system prompt jailbreak, Mythos AI creative writing app, Claude 3.5 Sonnet Opus API cost, open source LLM frontend, Claude reverse proxy"
-  },
-  {
-    "repo": "facebookresearch/detectron2",
-    "branch": "main",
-    "language": "Python",
-    "description": "Detectron2 is a platform for object detection, segmentation and other visual recognition tasks."
-  },
-  {
-    "repo": "shinshin86/mesh-avatar-studio",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Turn one illustration into an animated 2D mesh avatar with a coding agent and a local editor"
-  },
-  {
-    "repo": "Ultimaker/Cura",
-    "branch": "main",
-    "language": "Python",
-    "description": "3D printer / slicing GUI built on top of the Uranium framework"
-  },
-  {
-    "repo": "bubblesslayyer-cmd/Awesome-GPT-Image-2-OpenAi",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "The Definitive GPT Image 2 Prompt Vault — Master OpenAI's next-gen model with curated prompts for pixel-perfect text, consistent characters, and professional-grade assets. Optimized for creators and developers."
-  },
-  {
-    "repo": "AlexGoOn/the-most-vulnerable-dotnet-app",
+    "repo": "AbdelStark/awesome-typesafe-jev",
     "branch": "main",
     "language": "HTML",
-    "description": "This educational repository showcases the most common vulnerabilities found in .NET applications"
+    "description": "Awesome Jev: a source-backed field guide to TypeSafe's System One model, with SDKs, live demos, agent tools, and independent evaluations."
   },
   {
-    "repo": "agentforce314/clawcodex",
+    "repo": "ANEWCAN/ucas-grade-monitor",
     "branch": "main",
-    "language": "Python",
-    "description": "ClawCodex - A production-oriented Python rebuild of Claude Code — Supporting OpenAI, Gemini, Claude, DeepSeek, Codex, and many models via OpenAI-compatible APIs"
-  },
-  {
-    "repo": "sebastianvkl/pizero-openclaw",
-    "branch": "main",
-    "language": "Python",
-    "description": ""
-  },
-  {
-    "repo": "xvhuan/xiaoi",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "小爱音箱语音通知工具：提供 CLI/TUI/MCP/Webhook 一键播报与控制音量，支持 PM2 常驻部署，支持docker部署。"
-  },
-  {
-    "repo": "blader/taskmaster",
-    "branch": "main",
-    "language": "Shell",
-    "description": "Stop hook for Claude Code that keeps the agent working until all plans and user requests are 100% complete"
-  },
-  {
-    "repo": "vava-nessa/free-coding-models",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": ""
-  },
-  {
-    "repo": "matrix-org/matrix-js-sdk",
-    "branch": "develop",
-    "language": "TypeScript",
-    "description": "Matrix Client-Server SDK for JavaScript"
-  },
-  {
-    "repo": "limitless-org/crypto-engine",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Crypto Engine"
-  },
-  {
-    "repo": "signalapp/Signal-Desktop",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "A private messenger for Windows, macOS, and Linux."
-  },
-  {
-    "repo": "micronaut-projects/micronaut-core",
-    "branch": "4.3.x",
     "language": "Java",
-    "description": "Micronaut Application Framework"
+    "description": "Monitor the changes in your school report and notify promptly | 监控你的UCAS成绩单变化并及时推送"
   },
   {
-    "repo": "element-hq/element-android",
-    "branch": "develop",
-    "language": "Kotlin",
-    "description": "A Matrix collaboration client for Android."
+    "repo": "Leonxlnx/lumenshaders",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "LUMEN, a generative shader studio. 9 WebGL2 art modes plus synth style blending, perfect-loop animation, gradient sets, share codes and PNG/WebM/GIF export. Zero dependencies."
   },
   {
-    "repo": "codeninja/oauth-cli-coder",
+    "repo": "opengram-server/opengram",
+    "branch": "main",
+    "language": "C#",
+    "description": ""
+  },
+  {
+    "repo": "wechat-miniprogram/ai-mode-demo",
+    "branch": "master",
+    "language": "JavaScript",
+    "description": ""
+  },
+  {
+    "repo": "majidmanzarpour/threejs-game-skills",
     "branch": "main",
     "language": "Python",
-    "description": "Seamlessly interact with CLI coders (Claude, Gemini, Codex) via tmux TUI sessions."
+    "description": "Agent skills for building playable, polished Three.js browser games with gameplay, AAA-style graphics, UI, QA, and optional AI-generated 3D, image, and audio assets."
   },
   {
-    "repo": "micropython/micropython",
-    "branch": "master",
-    "language": "C",
-    "description": "MicroPython - a lean and efficient Python implementation for microcontrollers and constrained systems"
-  },
-  {
-    "repo": "mrphrazer/agentic-malware-analysis",
-    "branch": "main",
-    "language": "YARA",
-    "description": "Agentic malware analysis environment with MCP-connected disassemblers, RE tooling, and structured workflows for Claude Code and Codex CLI."
-  },
-  {
-    "repo": "antirez/llama.cpp-deepseek-v4-flash",
+    "repo": "Unicornronote/Microsoft-Office-Activated",
     "branch": "main",
     "language": "C++",
-    "description": "Experimental implementation of DeepSeek v4 flaash in llama.cpp"
+    "description": "📊 Microsoft Office Professional Edition — Complete Productivity & Document Management Suite for Windows (2026)"
   },
   {
-    "repo": "Klipper3d/klipper",
+    "repo": "CopilotKit/OpenTag",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "OpenTag"
+  },
+  {
+    "repo": "canwhite/MicroRAG",
+    "branch": "main",
+    "language": "Python",
+    "description": "The minimal implementation of rag"
+  },
+  {
+    "repo": "cha0upup/LeoAI",
+    "branch": "main",
+    "language": "Java",
+    "description": "AI 驱动的后渗透综合管理平台，深度集成 LLM Agent，开箱即用。"
+  },
+  {
+    "repo": "ksimback/looper",
+    "branch": "main",
+    "language": "Python",
+    "description": "Design visual, review-gated agent loops for Claude Code before you run them."
+  },
+  {
+    "repo": "borhen68/TokenTamer",
+    "branch": "main",
+    "language": "Python",
+    "description": "A drop-in proxy that compresses bloated code context in real-time, cutting LLM API costs by 50–80% without losing what the model actually needs to know."
+  },
+  {
+    "repo": "chengtx007/fuckoai",
+    "branch": "main",
+    "language": "Python",
+    "description": "Linux container registration control panel"
+  },
+  {
+    "repo": "hvardhan878/ghostwork",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Your personal AI worker. Watches your screen, learns your workflows, automates the repetitive parts. Built on Screenpipe. All local, no cloud, no setup. It gets better every day without you doing anything differently."
+  },
+  {
+    "repo": "DenisSergeevitch/pole-chudes-2",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Поле Чудес 2 (1993) — faithful TypeScript browser port of the DOS classic. Zero binaries: sprites are editable WebP, every asset rebuilds the original byte-for-byte."
+  },
+  {
+    "repo": "rpanigrahi222/intruth-factcheck",
     "branch": "master",
-    "language": "C",
-    "description": "Klipper is a 3d-printer firmware"
+    "language": "JavaScript",
+    "description": ""
+  },
+  {
+    "repo": "littlepeachs/NaturePanelForge",
+    "branch": "main",
+    "language": "Python",
+    "description": "NaturePanelForge is a code-first workflow for turning scientific figure images and open-access Nature-family papers into panel-level, executable plotting-code reconstruction tasks."
+  },
+  {
+    "repo": "XBuilderLAB/cheat-on-money",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "AI 时代靠谱兼职发现 + 反诈验证 skill：需求信号反推 + 实时时效核查 + 反诈 rubric + 个性化校准环"
+  },
+  {
+    "repo": "ThisIsLittleSky/WaterPaper",
+    "branch": "master",
+    "language": "Python",
+    "description": "水论文skill一句话出论文：多角度选题、真实文献采集、大纲写作、降低AIGC率、降低重复率、绘制图表、DOCX交付"
+  },
+  {
+    "repo": "TestSprite/testsprite-cli",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Official TestSprite CLI — AI-powered automated testing from your terminal"
+  },
+  {
+    "repo": "danking6/veltoc",
+    "branch": "main",
+    "language": "C++",
+    "description": "Veltoc Model 01 is a ESP32 powered, retro-inspired environmental monitor with an E-Ink display. It can monitor temperature, humidity and air pressure. Connect to wifi to also display the current time."
+  },
+  {
+    "repo": "soltia48/sdrplusplus-j-alert-plugin",
+    "branch": "main",
+    "language": "C++",
+    "description": "Out-of-tree decoder plugin for SDR++ that demodulates and decodes the J-ALERT (全国瞬時警報システム) satellite downlink."
+  },
+  {
+    "repo": "recursive-org/first-steps-toward-automated-ai-research",
+    "branch": "main",
+    "language": "Python",
+    "description": "Research artifacts from Recursive's automated AI research system"
+  },
+  {
+    "repo": "vercel/eve",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "The Framework for Building Agents"
   }
 ]

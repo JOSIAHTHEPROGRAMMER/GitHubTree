@@ -1,8 +1,8 @@
 {
-  "repo": "wcoxptzhhdbo/solana-sniper-bot",
+  "repo": "martinkeith700/ruyiJS",
   "branch": "main",
-  "language": "Python",
-  "description": "Solana sniper bot: pump.fun launch sniping, mempool/geyser monitoring, instant buy, auto sell, Jito MEV bundles",
-  "stars": 210,
-  "forks": 99
+  "language": "C++",
+  "description": "Run any site  from Python with the real mini AI headless browser , bypass any security anti-crawler , get the data and token you want",
+  "stars": 439,
+  "forks": 200
 }
