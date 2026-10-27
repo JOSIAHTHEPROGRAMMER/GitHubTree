@@ -1,146 +1,146 @@
 [
   {
-    "repo": "audacity/audacity",
-    "branch": "master",
-    "language": "C++",
-    "description": "Audio Editor"
-  },
-  {
-    "repo": "HUANGCHIHHUNGLeo/claude-real-video",
-    "branch": "master",
-    "language": "Python",
-    "description": "Let Claude (or any LLM) actually watch a video — scene-aware, deduplicated frames + transcript, from a URL or local file. Runs locally, MIT."
-  },
-  {
-    "repo": "BuluBulugege/Free-BAI",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": ""
-  },
-  {
-    "repo": "daltoniam/Starscream",
-    "branch": "master",
-    "language": "Swift",
-    "description": "Websockets in swift for iOS and OSX"
-  },
-  {
-    "repo": "simular-ai/simulang",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": ""
-  },
-  {
-    "repo": "babel/babel",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "🐠 Babel is a compiler for writing next generation JavaScript."
-  },
-  {
-    "repo": "nkzw-tech/codiff",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "a fast local diff viewer"
-  },
-  {
-    "repo": "neovim/neovim",
-    "branch": "master",
-    "language": "Vim Script",
-    "description": "Vim-fork focused on extensibility and usability"
-  },
-  {
-    "repo": "microsoft/calculator",
-    "branch": "main",
-    "language": "C++",
-    "description": "Windows Calculator: A simple yet powerful calculator that ships with Windows"
-  },
-  {
-    "repo": "huangserva/3DCellForge",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "AI-powered interactive 3D cell generation and exploration studio."
-  },
-  {
-    "repo": "vercel-labs/zerolang",
-    "branch": "main",
-    "language": "C",
-    "description": "The programming language for agents"
-  },
-  {
-    "repo": "LayrKits/Sprite-Pipeline",
+    "repo": "i12bp8/decomp.wtf",
     "branch": "main",
     "language": "Python",
-    "description": "2D Sprite Sheet Creation Pipeline"
+    "description": "What The Function: your AI agent decompiles games you own into C that compiles to the exact same bytes. Runs locally."
   },
   {
-    "repo": "realm/realm-swift",
+    "repo": "ZethRise/Aethery",
     "branch": "master",
-    "language": "Objective-C",
-    "description": "Realm is a mobile database: a replacement for Core Data & SQLite"
-  },
-  {
-    "repo": "golang/protobuf",
-    "branch": "master",
-    "language": "Go",
-    "description": "Go support for Google's protocol buffers"
-  },
-  {
-    "repo": "rook/rook",
-    "branch": "master",
-    "language": "Go",
-    "description": "Storage Orchestration for Kubernetes"
-  },
-  {
-    "repo": "arnabchoudhury404/hydra-launcher",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "hydralauncher: Hydra Launcher download free PC library  fontes links baixar , hydralauncher github,  trusted sources url list, steam verde download, hydralauncher github source code, no download available hydra launcher fix. Embedded bittorrent client setup, repack scraper json megathread, hydra cloud save files sync, python rpc server error"
-  },
-  {
-    "repo": "nodejs/node",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "Node.js JavaScript runtime ✨🐢🚀✨"
-  },
-  {
-    "repo": "LuisAlexisSalazar/Zelda-Minish-Cap-PC",
-    "branch": "main",
-    "language": "C++",
-    "description": "Zelda Minish Cap PC download Link Ezlo Picori Vaati Hyrule Kinstones Four Sword shrinking GBA native widescreen controller save editor rom."
-  },
-  {
-    "repo": "Mathifygaming/OpenGOAL-Jak-PC-Port",
-    "branch": "main",
-    "language": "C++",
-    "description": "Jak 3 PC Port download OpenGOAL native port Jak Daxter Wasteland Haven City Precursor Light Dark Eco vehicles desert combat missions platformer."
-  },
-  {
-    "repo": "wangyingqi-x/workflow-showcase-platform",
-    "branch": "main",
-    "language": "Java",
-    "description": ""
-  },
-  {
-    "repo": "ajeetdsouza/zoxide",
-    "branch": "main",
     "language": "Rust",
-    "description": "A smarter cd command. Supports all major shells."
+    "description": "One-click mobile GUI for the Aether censorship-circumvention tunnel — Kotlin & Rust"
   },
   {
-    "repo": "paid-tw/skills",
-    "branch": "main",
-    "language": "PHP",
-    "description": "台灣第三方金流 Skills for AI Agents - 藍新金流、綠界科技 ECPay、統一金流 PAYUNi"
-  },
-  {
-    "repo": "pypa/pipx",
+    "repo": "next-state/open-dreamer",
     "branch": "main",
     "language": "Python",
-    "description": "Install and Run Python Applications in Isolated Environments"
+    "description": "Open-source Dreamer world-model implementation in JAX"
   },
   {
-    "repo": "tgies/klattsch",
+    "repo": "raheemxghumman/DBD-AutoGrind-Trainer-2026-Plus",
+    "branch": "main",
+    "language": "Python",
+    "description": "Ultimate Dead by Daylight auto-grind trainer Plus edition with Bloodpoint bot, ESP wallhack, aimbot, and full perk/skin unlocker. Dominate the Fog with our 2026 undetected external tool."
+  },
+  {
+    "repo": "aigclink/geolook",
+    "branch": "main",
+    "language": "Python",
+    "description": "Open-source end-to-end GEO implementation: status analysis, diagnosis, strategy, tickets, execution, verification"
+  },
+  {
+    "repo": "beykantemel0702azfy8144/WorpGPT-Latest-2026-AllPrompts",
+    "branch": "main",
+    "language": "C#",
+    "description": "A comprehensive Red Teaming framework for testing Large Language Model (LLM) robustness against adversarial prompt engineering and jailbreak vectors."
+  },
+  {
+    "repo": "ClaudioDrews/memory-os",
+    "branch": "main",
+    "language": "Python",
+    "description": "A 7-layer memory operating system for Hermes Agent — persistent memory with Qdrant, structured facts, fabric recall, auto-curated wiki, and surgical context injection. Runs locally, any LLM provider."
+  },
+  {
+    "repo": "chrissotraidis/harkinianpad",
+    "branch": "main",
+    "language": "Shell",
+    "description": "Ocarina of Time native on iOS and iPadOS via Ship of Harkinian with Metal rendering, touch controls, controller support, and ROM-free reproducible builds."
+  },
+  {
+    "repo": "rbrown101010/rilable",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "An iPhone app that builds apps — prompt to live web + iOS apps. SwiftUI + Convex + Claude + Daytona + Chorus."
+  },
+  {
+    "repo": "wallpapers-engine/Wallpaper-Engine",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "wallpaper engine pc  free download steam windows 11 workshop live wallpaper creator dynamic animated backgrounds custom themes 4k 8k interactive desktop"
+  },
+  {
+    "repo": "AIMixer/ComfyUI_MiniMaxH3_Director",
     "branch": "main",
     "language": "JavaScript",
-    "description": "primitive parallel-formant speech synth in the browser"
+    "description": "Multi-segment MiniMax H3 Director for official ComfyUI MiniMax-H3"
+  },
+  {
+    "repo": "zilciogludirsehan69945298264/shar3x-screenZ1-V26",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "A robust, cross-platform utility to download ShareX screenshots from your clipboard. Perfect for developers, designers, and anyone who needs quick access to their ShareX screenshots."
+  },
+  {
+    "repo": "SAGAR-TAMANG/ultron-by-sagar-builds",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Ultron."
+  },
+  {
+    "repo": "MTTECHTH/mihon-aria",
+    "branch": "main",
+    "language": "HTML",
+    "description": "The Ultimate Manga Reading Experience for Android 2026"
+  },
+  {
+    "repo": "valkor-ai/loom",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "An open delivery harness that turns Claude Code, Codex, OpenCode, and other coding agents into repeatable software delivery systems."
+  },
+  {
+    "repo": "adamallcock/codex-chatgpt-control",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "Unofficial SDK for Codex agents controlling visible ChatGPT web sessions"
+  },
+  {
+    "repo": "ShenSeanChen/waku-agent",
+    "branch": "main",
+    "language": "Python",
+    "description": "Waku Waku! Waku agent is your personal AI agent, on your own laptop, in code you can read in an afternoon — harness + loop + memory + eval"
+  },
+  {
+    "repo": "LewdM3at/PC-Cartridge-System",
+    "branch": "main",
+    "language": "PowerShell",
+    "description": "Physical game cartridges with 2.5 SSDs for your Steam library"
+  },
+  {
+    "repo": "xiaohuailabs/xiaohu-video-translate",
+    "branch": "main",
+    "language": "Python",
+    "description": "对 AI 说一句话，把外语视频自动配上中文字幕 —— 下载/转写/翻译/润色/烧录一条龙，全程本地，转写零 API 费"
+  },
+  {
+    "repo": "viitor-ai/viitor-voice-nar",
+    "branch": "main",
+    "language": "Python",
+    "description": ""
+  },
+  {
+    "repo": "freddyjmp/File_Merger___Splitter",
+    "branch": "main",
+    "language": "Python",
+    "description": "Merge multiple files into one, or split a large file into smaller parts. Useful for managing large files or joining split archives."
+  },
+  {
+    "repo": "JFGAtlas/aethergate-pro",
+    "branch": "main",
+    "language": "Python",
+    "description": ""
+  },
+  {
+    "repo": "trycompai/crm",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": ""
+  },
+  {
+    "repo": "SkyBlue997/enableMacosAI",
+    "branch": "main",
+    "language": "Shell",
+    "description": "国行 Mac 一键开启完整 Apple 智能(端侧 + Private Cloud Compute 云端)· macOS 27 / Apple Silicon"
   }
 ]

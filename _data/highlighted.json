@@ -1,8 +1,8 @@
 {
-  "repo": "llm-xiaoye/douyin-to-obsidian",
+  "repo": "Tencent-Hunyuan/Hy-Nomas",
   "branch": "main",
   "language": "Python",
-  "description": "A portable /dy skill for cc-connect + Claude Code: Douyin videos, image posts and collections to Obsidian, with local ASR/OCR and private configuration.",
-  "stars": 203,
-  "forks": 5
+  "description": "Hy-Nomas: Towards Free-form Interactive World Generation",
+  "stars": 215,
+  "forks": 27
 }
