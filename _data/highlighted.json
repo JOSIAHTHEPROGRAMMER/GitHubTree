@@ -1,8 +1,8 @@
 {
-  "repo": "Tencent-Hunyuan/Hy-Nomas",
+  "repo": "wcoxptzhhdbo/solana-sniper-bot",
   "branch": "main",
   "language": "Python",
-  "description": "Hy-Nomas: Towards Free-form Interactive World Generation",
-  "stars": 215,
-  "forks": 27
+  "description": "Solana sniper bot: pump.fun launch sniping, mempool/geyser monitoring, instant buy, auto sell, Jito MEV bundles",
+  "stars": 210,
+  "forks": 99
 }

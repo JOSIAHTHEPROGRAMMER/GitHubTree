@@ -1,146 +1,146 @@
 [
   {
-    "repo": "i12bp8/decomp.wtf",
-    "branch": "main",
-    "language": "Python",
-    "description": "What The Function: your AI agent decompiles games you own into C that compiles to the exact same bytes. Runs locally."
-  },
-  {
-    "repo": "ZethRise/Aethery",
+    "repo": "wagoodman/dive",
     "branch": "master",
-    "language": "Rust",
-    "description": "One-click mobile GUI for the Aether censorship-circumvention tunnel — Kotlin & Rust"
+    "language": "Go",
+    "description": "A tool for exploring each layer in a docker image"
   },
   {
-    "repo": "next-state/open-dreamer",
+    "repo": "guanxiaol/WindsurfPoolAPI",
     "branch": "main",
-    "language": "Python",
-    "description": "Open-source Dreamer world-model implementation in JAX"
+    "language": "JavaScript",
+    "description": "Multi-account pool proxy for Windsurf — 113+ models (Claude/GPT/Gemini/Grok/Kimi) via OpenAI & Anthropic APIs, image upload, Cursor & Claude Code native / 企业级 Windsurf 多账号池化 API 代理"
   },
   {
-    "repo": "raheemxghumman/DBD-AutoGrind-Trainer-2026-Plus",
+    "repo": "fspecii/ace-step-ui",
     "branch": "main",
-    "language": "Python",
-    "description": "Ultimate Dead by Daylight auto-grind trainer Plus edition with Bloodpoint bot, ESP wallhack, aimbot, and full perk/skin unlocker. Dominate the Fog with our 2026 undetected external tool."
+    "language": "JavaScript",
+    "description": "🎵 The Ultimate Open Source Suno Alternative - Professional UI for ACE-Step 1.5 AI Music Generation. Free, local, unlimited. Stop paying for Suno!"
   },
   {
-    "repo": "aigclink/geolook",
-    "branch": "main",
-    "language": "Python",
-    "description": "Open-source end-to-end GEO implementation: status analysis, diagnosis, strategy, tickets, execution, verification"
-  },
-  {
-    "repo": "beykantemel0702azfy8144/WorpGPT-Latest-2026-AllPrompts",
+    "repo": "AbhishekK130804/Claude-Mythos-AI-Anthropic-App",
     "branch": "main",
     "language": "C#",
-    "description": "A comprehensive Red Teaming framework for testing Large Language Model (LLM) robustness against adversarial prompt engineering and jailbreak vectors."
+    "description": "Claude pro free Mythos design Opus Cowork  Sonnet AI Anthropic App: download free PC android apk iOS, Anthropic Claude API key setup, Claude roleplay mythos client, SillyTavern Claude prompt formatting, custom system prompt jailbreak, Mythos AI creative writing app, Claude 3.5 Sonnet Opus API cost, open source LLM frontend, Claude reverse proxy"
   },
   {
-    "repo": "ClaudioDrews/memory-os",
+    "repo": "facebookresearch/detectron2",
     "branch": "main",
     "language": "Python",
-    "description": "A 7-layer memory operating system for Hermes Agent — persistent memory with Qdrant, structured facts, fabric recall, auto-curated wiki, and surgical context injection. Runs locally, any LLM provider."
+    "description": "Detectron2 is a platform for object detection, segmentation and other visual recognition tasks."
   },
   {
-    "repo": "chrissotraidis/harkinianpad",
-    "branch": "main",
-    "language": "Shell",
-    "description": "Ocarina of Time native on iOS and iPadOS via Ship of Harkinian with Metal rendering, touch controls, controller support, and ROM-free reproducible builds."
-  },
-  {
-    "repo": "rbrown101010/rilable",
+    "repo": "shinshin86/mesh-avatar-studio",
     "branch": "main",
     "language": "TypeScript",
-    "description": "An iPhone app that builds apps — prompt to live web + iOS apps. SwiftUI + Convex + Claude + Daytona + Chorus."
+    "description": "Turn one illustration into an animated 2D mesh avatar with a coding agent and a local editor"
   },
   {
-    "repo": "wallpapers-engine/Wallpaper-Engine",
+    "repo": "Ultimaker/Cura",
+    "branch": "main",
+    "language": "Python",
+    "description": "3D printer / slicing GUI built on top of the Uranium framework"
+  },
+  {
+    "repo": "bubblesslayyer-cmd/Awesome-GPT-Image-2-OpenAi",
     "branch": "main",
     "language": "TypeScript",
-    "description": "wallpaper engine pc  free download steam windows 11 workshop live wallpaper creator dynamic animated backgrounds custom themes 4k 8k interactive desktop"
+    "description": "The Definitive GPT Image 2 Prompt Vault — Master OpenAI's next-gen model with curated prompts for pixel-perfect text, consistent characters, and professional-grade assets. Optimized for creators and developers."
   },
   {
-    "repo": "AIMixer/ComfyUI_MiniMaxH3_Director",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "Multi-segment MiniMax H3 Director for official ComfyUI MiniMax-H3"
-  },
-  {
-    "repo": "zilciogludirsehan69945298264/shar3x-screenZ1-V26",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "A robust, cross-platform utility to download ShareX screenshots from your clipboard. Perfect for developers, designers, and anyone who needs quick access to their ShareX screenshots."
-  },
-  {
-    "repo": "SAGAR-TAMANG/ultron-by-sagar-builds",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Ultron."
-  },
-  {
-    "repo": "MTTECHTH/mihon-aria",
+    "repo": "AlexGoOn/the-most-vulnerable-dotnet-app",
     "branch": "main",
     "language": "HTML",
-    "description": "The Ultimate Manga Reading Experience for Android 2026"
+    "description": "This educational repository showcases the most common vulnerabilities found in .NET applications"
   },
   {
-    "repo": "valkor-ai/loom",
+    "repo": "agentforce314/clawcodex",
     "branch": "main",
-    "language": "TypeScript",
-    "description": "An open delivery harness that turns Claude Code, Codex, OpenCode, and other coding agents into repeatable software delivery systems."
+    "language": "Python",
+    "description": "ClawCodex - A production-oriented Python rebuild of Claude Code — Supporting OpenAI, Gemini, Claude, DeepSeek, Codex, and many models via OpenAI-compatible APIs"
   },
   {
-    "repo": "adamallcock/codex-chatgpt-control",
+    "repo": "sebastianvkl/pizero-openclaw",
+    "branch": "main",
+    "language": "Python",
+    "description": ""
+  },
+  {
+    "repo": "xvhuan/xiaoi",
     "branch": "main",
     "language": "JavaScript",
-    "description": "Unofficial SDK for Codex agents controlling visible ChatGPT web sessions"
+    "description": "小爱音箱语音通知工具：提供 CLI/TUI/MCP/Webhook 一键播报与控制音量，支持 PM2 常驻部署，支持docker部署。"
   },
   {
-    "repo": "ShenSeanChen/waku-agent",
-    "branch": "main",
-    "language": "Python",
-    "description": "Waku Waku! Waku agent is your personal AI agent, on your own laptop, in code you can read in an afternoon — harness + loop + memory + eval"
-  },
-  {
-    "repo": "LewdM3at/PC-Cartridge-System",
-    "branch": "main",
-    "language": "PowerShell",
-    "description": "Physical game cartridges with 2.5 SSDs for your Steam library"
-  },
-  {
-    "repo": "xiaohuailabs/xiaohu-video-translate",
-    "branch": "main",
-    "language": "Python",
-    "description": "对 AI 说一句话，把外语视频自动配上中文字幕 —— 下载/转写/翻译/润色/烧录一条龙，全程本地，转写零 API 费"
-  },
-  {
-    "repo": "viitor-ai/viitor-voice-nar",
-    "branch": "main",
-    "language": "Python",
-    "description": ""
-  },
-  {
-    "repo": "freddyjmp/File_Merger___Splitter",
-    "branch": "main",
-    "language": "Python",
-    "description": "Merge multiple files into one, or split a large file into smaller parts. Useful for managing large files or joining split archives."
-  },
-  {
-    "repo": "JFGAtlas/aethergate-pro",
-    "branch": "main",
-    "language": "Python",
-    "description": ""
-  },
-  {
-    "repo": "trycompai/crm",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": ""
-  },
-  {
-    "repo": "SkyBlue997/enableMacosAI",
+    "repo": "blader/taskmaster",
     "branch": "main",
     "language": "Shell",
-    "description": "国行 Mac 一键开启完整 Apple 智能(端侧 + Private Cloud Compute 云端)· macOS 27 / Apple Silicon"
+    "description": "Stop hook for Claude Code that keeps the agent working until all plans and user requests are 100% complete"
+  },
+  {
+    "repo": "vava-nessa/free-coding-models",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": ""
+  },
+  {
+    "repo": "matrix-org/matrix-js-sdk",
+    "branch": "develop",
+    "language": "TypeScript",
+    "description": "Matrix Client-Server SDK for JavaScript"
+  },
+  {
+    "repo": "limitless-org/crypto-engine",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Crypto Engine"
+  },
+  {
+    "repo": "signalapp/Signal-Desktop",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "A private messenger for Windows, macOS, and Linux."
+  },
+  {
+    "repo": "micronaut-projects/micronaut-core",
+    "branch": "4.3.x",
+    "language": "Java",
+    "description": "Micronaut Application Framework"
+  },
+  {
+    "repo": "element-hq/element-android",
+    "branch": "develop",
+    "language": "Kotlin",
+    "description": "A Matrix collaboration client for Android."
+  },
+  {
+    "repo": "codeninja/oauth-cli-coder",
+    "branch": "main",
+    "language": "Python",
+    "description": "Seamlessly interact with CLI coders (Claude, Gemini, Codex) via tmux TUI sessions."
+  },
+  {
+    "repo": "micropython/micropython",
+    "branch": "master",
+    "language": "C",
+    "description": "MicroPython - a lean and efficient Python implementation for microcontrollers and constrained systems"
+  },
+  {
+    "repo": "mrphrazer/agentic-malware-analysis",
+    "branch": "main",
+    "language": "YARA",
+    "description": "Agentic malware analysis environment with MCP-connected disassemblers, RE tooling, and structured workflows for Claude Code and Codex CLI."
+  },
+  {
+    "repo": "antirez/llama.cpp-deepseek-v4-flash",
+    "branch": "main",
+    "language": "C++",
+    "description": "Experimental implementation of DeepSeek v4 flaash in llama.cpp"
+  },
+  {
+    "repo": "Klipper3d/klipper",
+    "branch": "master",
+    "language": "C",
+    "description": "Klipper is a 3d-printer firmware"
   }
 ]
