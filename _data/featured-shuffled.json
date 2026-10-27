@@ -1,146 +1,146 @@
 [
   {
-    "repo": "AbdelStark/awesome-typesafe-jev",
+    "repo": "websockets/ws",
+    "branch": "master",
+    "language": "JavaScript",
+    "description": "Simple to use, blazing fast and thoroughly tested WebSocket client and server for Node.js"
+  },
+  {
+    "repo": "prettier/prettier",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "Prettier is an opinionated code formatter."
+  },
+  {
+    "repo": "denny11301/veox-cortex",
     "branch": "main",
     "language": "HTML",
-    "description": "Awesome Jev: a source-backed field guide to TypeSafe's System One model, with SDKs, live demos, agent tools, and independent evaluations."
+    "description": "Rust Autonomous Cognition Engine 2026"
   },
   {
-    "repo": "ANEWCAN/ucas-grade-monitor",
-    "branch": "main",
-    "language": "Java",
-    "description": "Monitor the changes in your school report and notify promptly | 监控你的UCAS成绩单变化并及时推送"
-  },
-  {
-    "repo": "Leonxlnx/lumenshaders",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "LUMEN, a generative shader studio. 9 WebGL2 art modes plus synth style blending, perfect-loop animation, gradient sets, share codes and PNG/WebM/GIF export. Zero dependencies."
-  },
-  {
-    "repo": "opengram-server/opengram",
-    "branch": "main",
-    "language": "C#",
-    "description": ""
-  },
-  {
-    "repo": "wechat-miniprogram/ai-mode-demo",
-    "branch": "master",
-    "language": "JavaScript",
-    "description": ""
-  },
-  {
-    "repo": "majidmanzarpour/threejs-game-skills",
-    "branch": "main",
-    "language": "Python",
-    "description": "Agent skills for building playable, polished Three.js browser games with gameplay, AAA-style graphics, UI, QA, and optional AI-generated 3D, image, and audio assets."
-  },
-  {
-    "repo": "Unicornronote/Microsoft-Office-Activated",
-    "branch": "main",
-    "language": "C++",
-    "description": "📊 Microsoft Office Professional Edition — Complete Productivity & Document Management Suite for Windows (2026)"
-  },
-  {
-    "repo": "CopilotKit/OpenTag",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "OpenTag"
-  },
-  {
-    "repo": "canwhite/MicroRAG",
-    "branch": "main",
-    "language": "Python",
-    "description": "The minimal implementation of rag"
-  },
-  {
-    "repo": "cha0upup/LeoAI",
-    "branch": "main",
-    "language": "Java",
-    "description": "AI 驱动的后渗透综合管理平台，深度集成 LLM Agent，开箱即用。"
-  },
-  {
-    "repo": "ksimback/looper",
-    "branch": "main",
-    "language": "Python",
-    "description": "Design visual, review-gated agent loops for Claude Code before you run them."
-  },
-  {
-    "repo": "borhen68/TokenTamer",
-    "branch": "main",
-    "language": "Python",
-    "description": "A drop-in proxy that compresses bloated code context in real-time, cutting LLM API costs by 50–80% without losing what the model actually needs to know."
-  },
-  {
-    "repo": "chengtx007/fuckoai",
-    "branch": "main",
-    "language": "Python",
-    "description": "Linux container registration control panel"
-  },
-  {
-    "repo": "hvardhan878/ghostwork",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Your personal AI worker. Watches your screen, learns your workflows, automates the repetitive parts. Built on Screenpipe. All local, no cloud, no setup. It gets better every day without you doing anything differently."
-  },
-  {
-    "repo": "DenisSergeevitch/pole-chudes-2",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Поле Чудес 2 (1993) — faithful TypeScript browser port of the DOS classic. Zero binaries: sprites are editable WebP, every asset rebuilds the original byte-for-byte."
-  },
-  {
-    "repo": "rpanigrahi222/intruth-factcheck",
-    "branch": "master",
-    "language": "JavaScript",
-    "description": ""
-  },
-  {
-    "repo": "littlepeachs/NaturePanelForge",
-    "branch": "main",
-    "language": "Python",
-    "description": "NaturePanelForge is a code-first workflow for turning scientific figure images and open-access Nature-family papers into panel-level, executable plotting-code reconstruction tasks."
-  },
-  {
-    "repo": "XBuilderLAB/cheat-on-money",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "AI 时代靠谱兼职发现 + 反诈验证 skill：需求信号反推 + 实时时效核查 + 反诈 rubric + 个性化校准环"
-  },
-  {
-    "repo": "ThisIsLittleSky/WaterPaper",
+    "repo": "Timeverse/My-TW-Coverage",
     "branch": "master",
     "language": "Python",
-    "description": "水论文skill一句话出论文：多角度选题、真实文献采集、大纲写作、降低AIGC率、降低重复率、绘制图表、DOCX交付"
+    "description": "Equity research coverage of 1,735 Taiwan-listed companies (TWSE + OTC). Business overviews, supply chain mapping, and financial data with wikilink cross-referencing."
   },
   {
-    "repo": "TestSprite/testsprite-cli",
+    "repo": "storybookjs/storybook",
+    "branch": "next",
+    "language": "TypeScript",
+    "description": "Storybook is the industry standard workshop for building, documenting, and testing UI components in isolation"
+  },
+  {
+    "repo": "mgks/GitHubTree",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "Visualise any GitHub repository folder structure. Available as a web app, CLI tool, and node.js library."
+  },
+  {
+    "repo": "animate-css/animate.css",
+    "branch": "main",
+    "language": "CSS",
+    "description": "🍿 A cross-browser library of CSS animations. As easy to use as an easy thing."
+  },
+  {
+    "repo": "twbs/bootstrap",
+    "branch": "main",
+    "language": "MDX",
+    "description": "The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web."
+  },
+  {
+    "repo": "hjanuschka/pi-multi-pass",
     "branch": "main",
     "language": "TypeScript",
-    "description": "Official TestSprite CLI — AI-powered automated testing from your terminal"
+    "description": "Multi-subscription extension for pi -- use multiple OAuth accounts per provider (Anthropic, Codex, Copilot, Gemini, Antigravity)"
   },
   {
-    "repo": "danking6/veltoc",
+    "repo": "facebook/react-native",
     "branch": "main",
     "language": "C++",
-    "description": "Veltoc Model 01 is a ESP32 powered, retro-inspired environmental monitor with an E-Ink display. It can monitor temperature, humidity and air pressure. Connect to wifi to also display the current time."
+    "description": "A framework for building native applications using React"
   },
   {
-    "repo": "soltia48/sdrplusplus-j-alert-plugin",
+    "repo": "karpathy/jobs",
+    "branch": "master",
+    "language": "HTML",
+    "description": "A research tool for visually exploring Bureau of Labor Statistics Occupational Outlook Handbook data. This is not a report, a paper, or a serious economic publication — it is a development tool for exploring BLS data visually."
+  },
+  {
+    "repo": "m-schuetz/CuRast",
     "branch": "main",
     "language": "C++",
-    "description": "Out-of-tree decoder plugin for SDR++ that demodulates and decodes the J-ALERT (全国瞬時警報システム) satellite downlink."
+    "description": "Cuda-Based Software Rasterization for Billions of Triangles"
   },
   {
-    "repo": "recursive-org/first-steps-toward-automated-ai-research",
+    "repo": "Emanuele-web04/remodex",
+    "branch": "main",
+    "language": "Swift",
+    "description": "Remote Control for Codex. 24/7 version on the way"
+  },
+  {
+    "repo": "kamranahmedse/developer-roadmap",
+    "branch": "master",
+    "language": "TypeScript",
+    "description": "Interactive roadmaps, guides and other educational content to help developers grow in their careers."
+  },
+  {
+    "repo": "status-im/nimbus-eth2",
+    "branch": "stable",
+    "language": "Nim",
+    "description": "Nim implementation of the Ethereum Beacon Chain"
+  },
+  {
+    "repo": "software-mansion/react-native-screens",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Native navigation primitives for your React Native app."
+  },
+  {
+    "repo": "Sunislazi/rbxfpsunlocker-boost-More-240FPS",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "rbxfpsunlocker Roblox FPS BOOST: Roblox FPS unlocker download free More 240 FPS, uncap 60 FPS limit, axst GitHub source code, high refresh rate monitor, Roblox client lag fix, Byfron Hyperion anti-cheat compatibility, safe to use ban status, settings.ini configuration, rfu.exe not working error, ClientAppSettings json,bloxtstrap fps unlocke"
+  },
+  {
+    "repo": "DefinitelyTyped/DefinitelyTyped",
+    "branch": "master",
+    "language": "TypeScript",
+    "description": "The repository for high quality TypeScript type definitions."
+  },
+  {
+    "repo": "junevm/splathash",
+    "branch": "main",
+    "language": "Go",
+    "description": "compress any image to 16 bytes and reconstruct a blurry preview. Like blurhash and thumbhash, but smaller."
+  },
+  {
+    "repo": "raspberrypi/firmware",
+    "branch": "master",
+    "language": "Other",
+    "description": "This repository contains pre-compiled binaries of the current Raspberry Pi  kernel and modules, userspace libraries, and bootloader/GPU firmware."
+  },
+  {
+    "repo": "ythx-101/ask-search",
+    "branch": "master",
+    "language": "Python",
+    "description": "Self-hosted web search skill for AI agents (OpenClaw/Claude Code/Antigravity) via SearxNG"
+  },
+  {
+    "repo": "browser-use/browser-harness",
     "branch": "main",
     "language": "Python",
-    "description": "Research artifacts from Recursive's automated AI research system"
+    "description": "Self-healing browser harness that enables LLMs to complete any task."
   },
   {
-    "repo": "vercel/eve",
+    "repo": "f/textream",
+    "branch": "master",
+    "language": "Swift",
+    "description": "Textream is a free macOS teleprompter app for streamers, interviewers, and presenters. It highlights your script in real-time as you speak, displayed in a beautiful Dynamic Island overlay."
+  },
+  {
+    "repo": "NikolayS/pgque",
     "branch": "main",
-    "language": "TypeScript",
-    "description": "The Framework for Building Agents"
+    "language": "PLpgSQL",
+    "description": "PgQue – Zero-bloat Postgres queue. One SQL file to install, pg_cron to tick."
   }
 ]

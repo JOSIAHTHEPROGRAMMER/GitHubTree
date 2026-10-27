@@ -1,8 +1,8 @@
 {
-  "repo": "martinkeith700/ruyiJS",
+  "repo": "man15h/tellyscope",
   "branch": "main",
-  "language": "C++",
-  "description": "Run any site  from Python with the real mini AI headless browser , bypass any security anti-crawler , get the data and token you want",
-  "stars": 439,
-  "forks": 200
+  "language": "Kotlin",
+  "description": "Debloat your Android TV, install apps, browse and transfer files on it, all from your phone. Under 3 MB, no tracking, no root, no PC.",
+  "stars": 301,
+  "forks": 7
 }
