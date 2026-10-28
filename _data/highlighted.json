@@ -1,8 +1,8 @@
 {
-  "repo": "vaishantsah/watson-AI-osint-all-in-one",
+  "repo": "kuscholar/iDeck",
   "branch": "main",
-  "language": "TypeScript",
-  "description": "Watson — free OSINT tool for Windows: people search across 3,100+ public sites by nickname, email, phone or website. Open-source intelligence made simple: digital footprint check, username lookup, social media search. No account, no tracking. Site: watsonfind.icu",
-  "stars": 191,
-  "forks": 0
+  "language": "C",
+  "description": "iDeck brings the Steam Big Picture experience to iOS",
+  "stars": 205,
+  "forks": 6
 }

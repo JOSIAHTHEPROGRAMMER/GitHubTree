@@ -1,146 +1,146 @@
 [
   {
-    "repo": "malevrigns/agent-jev",
+    "repo": "deltabarbershopofficial-cloud/DBD-AutoGrind-Trainer-2026-Elite",
     "branch": "main",
     "language": "Python",
-    "description": "AgentJev-0.6B - a fast 'System One' decision model for AI Agents: feed it any unstructured state (diffs, traces, logs) and structured questions, get calibrated probability distributions back in one ~50ms forward pass. Zero output-token decoding."
+    "description": "Ultimate Dead by Daylight auto-grind trainer Elite edition with Bloodpoint bot, ESP wallhack, aimbot, and full perk/skin unlocker. Dominate the Fog with our 2026 undetected external tool."
   },
   {
-    "repo": "AMAP-ML/LongHorizon-Harness",
-    "branch": "main",
-    "language": "Python",
-    "description": "The long-horizon computer-use harness. Run AI agents across desktop apps and the CLI for extended periods while preserving task state and making reliable progress on complex workflows. Features fresh-context execution, durable verified state, independent auditing, recoverable progress, and native Claude Code / Codex / OpenClaw integration."
-  },
-  {
-    "repo": "triangkas/DBD-AutoGrind-Trainer-2026-Max",
-    "branch": "main",
-    "language": "Python",
-    "description": "Ultimate Dead by Daylight auto-grind trainer Max edition with Bloodpoint bot, ESP wallhack, aimbot, and full perk/skin unlocker. Dominate the Fog with our 2026 undetected external tool."
-  },
-  {
-    "repo": "pyang5166/gbro-collage-broll",
-    "branch": "main",
-    "language": "Python",
-    "description": "半调纸拼贴 B-roll 生成 skill：三闸门审批，Gemini Omni Flash 首尾帧组装动画 | Editorial halftone paper-collage B-roll agent skill"
-  },
-  {
-    "repo": "khwarij/DBD-AutoGrind-Trainer-2026",
-    "branch": "main",
-    "language": "Python",
-    "description": "Ultimate Dead by Daylight auto-grind trainer with Bloodpoint bot, ESP wallhack, aimbot, and full perk/skin unlocker. Dominate the Fog with our 2026 undetected external tool."
-  },
-  {
-    "repo": "fajarakpdev/Hades-II-Trainer-Z",
-    "branch": "main",
-    "language": "Python",
-    "description": "Free Hades II Trainer with God Mode, Unlimited Health, Max Gold, One-Hit Kill and more. No survey, instant download."
-  },
-  {
-    "repo": "we9lii/Paralives-Ultimate-Trainer-2026_v_2",
-    "branch": "main",
-    "language": "Python",
-    "description": "Ultimate trainer for Paralives – infinite money, max needs, freeze aging, unlock all items, and more."
-  },
-  {
-    "repo": "Hassanjan49/File_Association_Manager",
-    "branch": "main",
-    "language": "Python",
-    "description": "Manage file associations: choose which program opens each file type. Reset or change associations easily. Fix broken file associations."
-  },
-  {
-    "repo": "AbdulWasay13/TradingView-Pipe-Executor",
-    "branch": "main",
-    "language": "HTML",
-    "description": "Automated MT5 Trading Bot with AI Alerts & Webhook Bridge 2026"
-  },
-  {
-    "repo": "roppik/tomodachi-pc",
+    "repo": "johnmai-dev/ANE-LM",
     "branch": "main",
     "language": "C++",
-    "description": "tomodachi pc port life simulator mii sharing qr codes island life citra fork panda3ds 3ds emulator github living the dream save editor transfer modding hd texture pack 60fps mod desktop utility macos linux open source community enhancement patch fan made translation gameplay simulation"
+    "description": "LLM inference on Apple Neural Engine (ANE)"
   },
   {
-    "repo": "aresyn/codex-control-plane-mcp",
-    "branch": "main",
-    "language": "Python",
-    "description": "Durable MCP control plane for long-running Codex Desktop tasks"
+    "repo": "NomicFoundation/hardhat",
+    "branch": "master",
+    "language": "TypeScript",
+    "description": "Hardhat is a development environment to compile, deploy, test, and debug your Ethereum software."
   },
   {
-    "repo": "carbonengine/trinity",
-    "branch": "main",
-    "language": "C++",
-    "description": "Rendering engine for the Carbon Game Engine"
+    "repo": "mui/mui-x",
+    "branch": "master",
+    "language": "TypeScript",
+    "description": "MUI X: Build complex and data-rich applications using a growing list of advanced React components, like the Data Grid, Date and Time Pickers, Charts, and more!"
   },
   {
-    "repo": "HuiyuLi-2000/Chinese-Grant-Writer-Skills",
-    "branch": "main",
-    "language": "Python",
-    "description": "面向 NSFC、NSSFC、省部级自/社科申请书的 AI 写作技能集。从近 20 本管理口申请书中提炼写作范式，覆盖核心撰写环节。"
-  },
-  {
-    "repo": "maaslalani/fast",
-    "branch": "main",
-    "language": "Go",
-    "description": "Internet speed test in your terminal"
-  },
-  {
-    "repo": "dbgucci1017/MT5-Equity-Guardian-Trailing-Pro",
-    "branch": "main",
-    "language": "HTML",
-    "description": "MQL5 Advanced Risk Manager EA 2026 – Breakeven, Trailing Stop & Partial Close"
-  },
-  {
-    "repo": "yande0/Pet-Simulator-99-Auto-Farm-Trainer-2026-Platinum",
-    "branch": "main",
-    "language": "Python",
-    "description": "Platinum edition of the most advanced Pet Simulator 99 automation tool. Farm coins, hatch eggs, complete Backrooms League tasks automatically. Fully undetected and user-friendly."
-  },
-  {
-    "repo": "cha0upup/LeoAI",
-    "branch": "main",
-    "language": "Java",
-    "description": "AI 驱动的后渗透综合管理平台，深度集成 LLM Agent，开箱即用。"
-  },
-  {
-    "repo": "modelscope/Awesome-Vibe-Research",
-    "branch": "main",
-    "language": "Python",
-    "description": "An open, collaboratively-built repository for AI-assisted scientific research — collecting and curating agents, skills, workflows, tools, and best practices across the full research lifecycle. 面向 AI 辅助科研的开放共建仓库 收集和沉淀科研全流程中的 agents、skills、workflows、tools 与最佳实践"
-  },
-  {
-    "repo": "peridotfoundation/MT5-Directional-Flow-Dashboard",
-    "branch": "main",
-    "language": "HTML",
-    "description": "MT5 Live Trend Direction Signal Hub 2026 – Real-Time Forex & CFD Alerts"
-  },
-  {
-    "repo": "ahmadqalbi1991/Counter-Strike_2_TriggerBot___Glow_ESP",
-    "branch": "main",
-    "language": "Python",
-    "description": "Glow ESP, triggerbot, and aim assist for CS2. Highlight enemies through walls, auto-fire, and zero recoil. Anti-VAC bypass included."
-  },
-  {
-    "repo": "gykim80/perfectpixel-studio",
-    "branch": "main",
-    "language": "Go",
-    "description": "AI-powered animation sprite studio — generate character sprite sheets with 8 directions and 100+ actions from a single text prompt (Wails + Go + React)"
-  },
-  {
-    "repo": "vercel/eve",
+    "repo": "storybookjs/testing-react",
     "branch": "main",
     "language": "TypeScript",
-    "description": "The Framework for Building Agents"
+    "description": "Testing utilities that allow you to reuse your Storybook stories in your React unit tests!"
   },
   {
-    "repo": "NagaaSaketh/Minecraft_AutoMiner_Pro",
-    "branch": "main",
-    "language": "Python",
-    "description": "Full-featured mining bot with X-Ray, auto-farm, anti-kick and ore ESP for Minecraft 1.20+. Automates resource gathering, reveals ores through walls, and prevents AFK kicks. Perfect for survival and hardcore modes."
+    "repo": "godotengine/godot-proposals",
+    "branch": "master",
+    "language": "Other",
+    "description": "Godot Improvement Proposals (GIPs)"
   },
   {
-    "repo": "jmerelnyc/Talos",
+    "repo": "hallucinogen/agent-viewer",
+    "branch": "main",
+    "language": "HTML",
+    "description": "Kanban board for managing Claude Code agents in tmux"
+  },
+  {
+    "repo": "testcontainers/testcontainers-java",
+    "branch": "main",
+    "language": "Java",
+    "description": "Testcontainers is a Java library that supports JUnit tests, providing lightweight, throwaway instances of common databases, Selenium web browsers, or anything else that can run in a Docker container."
+  },
+  {
+    "repo": "nanostores/nanostores",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "A tiny (286 bytes) state manager for React/RN/Preact/Vue/Svelte with many atomic tree-shakable stores"
+  },
+  {
+    "repo": "getsentry/sentry",
+    "branch": "master",
+    "language": "Python",
+    "description": "Developer-first error tracking and performance monitoring"
+  },
+  {
+    "repo": "babel/babel-preset-env",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "PSA: this repo has been moved into babel/babel -->"
+  },
+  {
+    "repo": "remotion-dev/remotion",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "🎥      Make videos programmatically with React"
+  },
+  {
+    "repo": "androidx/androidx",
+    "branch": "androidx-main",
+    "language": "Kotlin",
+    "description": "Development environment for Android Jetpack extension libraries under the androidx namespace. Synchronized with Android Jetpack's primary development branch on AOSP."
+  },
+  {
+    "repo": "rustwasm/wasm-bindgen",
+    "branch": "main",
+    "language": "Rust",
+    "description": "Facilitating high-level interactions between Wasm modules and JavaScript"
+  },
+  {
+    "repo": "Stability-AI/generative-models",
     "branch": "main",
     "language": "Python",
-    "description": "GPU worker client for the Talos network. Pairs with your Talos account, serves open-model inference jobs over a WebSocket, and reports uptime for payouts."
+    "description": "Generative Models by Stability AI"
+  },
+  {
+    "repo": "pyinstaller/pyinstaller",
+    "branch": "develop",
+    "language": "Python",
+    "description": "Freeze (package) Python programs into stand-alone executables"
+  },
+  {
+    "repo": "tddworks/baguette",
+    "branch": "main",
+    "language": "Swift",
+    "description": "Headless iOS Simulator manager/farm + host-side input injection for iOS 26 — taps, swipes, multi-finger gestures, and 60 fps streaming"
+  },
+  {
+    "repo": "gainubi/note-slides",
+    "branch": "main",
+    "language": "HTML",
+    "description": "把一篇长文、一个长 PDF，转为可读的精美 Slides。"
+  },
+  {
+    "repo": "triggerdotdev/trigger.dev",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Trigger.dev – build and deploy fully‑managed AI agents and workflows"
+  },
+  {
+    "repo": "veyliss/ai-localbase",
+    "branch": "main",
+    "language": "Go",
+    "description": "一个本地优先的AI知识库系统（RAG），用于把本地文档接入辅导搜索与大模型对话流程。"
+  },
+  {
+    "repo": "tree-sitter/tree-sitter",
+    "branch": "master",
+    "language": "Rust",
+    "description": "An incremental parsing system for programming tools"
+  },
+  {
+    "repo": "Lissy93/awesome-privacy",
+    "branch": "main",
+    "language": "Astro",
+    "description": "🦄  A curated list of privacy & security-focused software and services"
+  },
+  {
+    "repo": "rancher/k3d",
+    "branch": "main",
+    "language": "Go",
+    "description": "Little helper to run CNCF's k3s in Docker"
+  },
+  {
+    "repo": "aidenybai/element-source",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Get the source file location of any DOM element. Works with React, Vue, Svelte, Solid"
   }
 ]
