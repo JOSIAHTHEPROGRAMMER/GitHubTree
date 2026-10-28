@@ -1,146 +1,146 @@
 [
   {
-    "repo": "deltabarbershopofficial-cloud/DBD-AutoGrind-Trainer-2026-Elite",
+    "repo": "noskillish/bankmcp",
     "branch": "main",
-    "language": "Python",
-    "description": "Ultimate Dead by Daylight auto-grind trainer Elite edition with Bloodpoint bot, ESP wallhack, aimbot, and full perk/skin unlocker. Dominate the Fog with our 2026 undetected external tool."
+    "language": "TypeScript",
+    "description": "BankMCP™: your AI can now read your bank. Self-hosted, read-only MCP server for your own bank accounts via open banking (Enable Banking). Standard MCP; tested with Claude and Ollama."
   },
   {
-    "repo": "johnmai-dev/ANE-LM",
+    "repo": "Zephkek/XStoreUnlocker",
     "branch": "main",
     "language": "C++",
-    "description": "LLM inference on Apple Neural Engine (ANE)"
+    "description": "DLC unlocker for Microsoft Store and Xbox PC games."
   },
   {
-    "repo": "NomicFoundation/hardhat",
-    "branch": "master",
-    "language": "TypeScript",
-    "description": "Hardhat is a development environment to compile, deploy, test, and debug your Ethereum software."
-  },
-  {
-    "repo": "mui/mui-x",
-    "branch": "master",
-    "language": "TypeScript",
-    "description": "MUI X: Build complex and data-rich applications using a growing list of advanced React components, like the Data Grid, Date and Time Pickers, Charts, and more!"
-  },
-  {
-    "repo": "storybookjs/testing-react",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Testing utilities that allow you to reuse your Storybook stories in your React unit tests!"
-  },
-  {
-    "repo": "godotengine/godot-proposals",
-    "branch": "master",
-    "language": "Other",
-    "description": "Godot Improvement Proposals (GIPs)"
-  },
-  {
-    "repo": "hallucinogen/agent-viewer",
-    "branch": "main",
-    "language": "HTML",
-    "description": "Kanban board for managing Claude Code agents in tmux"
-  },
-  {
-    "repo": "testcontainers/testcontainers-java",
-    "branch": "main",
-    "language": "Java",
-    "description": "Testcontainers is a Java library that supports JUnit tests, providing lightweight, throwaway instances of common databases, Selenium web browsers, or anything else that can run in a Docker container."
-  },
-  {
-    "repo": "nanostores/nanostores",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "A tiny (286 bytes) state manager for React/RN/Preact/Vue/Svelte with many atomic tree-shakable stores"
-  },
-  {
-    "repo": "getsentry/sentry",
-    "branch": "master",
-    "language": "Python",
-    "description": "Developer-first error tracking and performance monitoring"
-  },
-  {
-    "repo": "babel/babel-preset-env",
+    "repo": "Obsidian-Trades/polymarket-copy-trading-bot",
     "branch": "main",
     "language": "JavaScript",
-    "description": "PSA: this repo has been moved into babel/babel -->"
+    "description": "polymarket trading bot, polymarket copy trading bot, polymarket trading bot, polymarket copy trading bot, polymarket trading bot, polymarket copy trading bot, polymarket trading bot, polymarket copy trading bot, polymarket trading bot, polymarket copy trading bot, polymarket trading bot, polymarket copy trading bot,"
   },
   {
-    "repo": "remotion-dev/remotion",
+    "repo": "AERT-7Y/kiro-auto",
     "branch": "main",
     "language": "TypeScript",
-    "description": "🎥      Make videos programmatically with React"
+    "description": "kiro自动注册机"
   },
   {
-    "repo": "androidx/androidx",
-    "branch": "androidx-main",
-    "language": "Kotlin",
-    "description": "Development environment for Android Jetpack extension libraries under the androidx namespace. Synchronized with Android Jetpack's primary development branch on AOSP."
-  },
-  {
-    "repo": "rustwasm/wasm-bindgen",
-    "branch": "main",
-    "language": "Rust",
-    "description": "Facilitating high-level interactions between Wasm modules and JavaScript"
-  },
-  {
-    "repo": "Stability-AI/generative-models",
+    "repo": "lingbol088-spec/ReiPenFlow",
     "branch": "main",
     "language": "Python",
-    "description": "Generative Models by Stability AI"
+    "description": "Codex skill for local sandbox, CTF, authorized pentest and reverse-engineering workflows."
   },
   {
-    "repo": "pyinstaller/pyinstaller",
-    "branch": "develop",
+    "repo": "pytorch/serve",
+    "branch": "master",
+    "language": "Java",
+    "description": "Serve, optimize and scale PyTorch models in production"
+  },
+  {
+    "repo": "kdenlive/kdenlive",
+    "branch": "master",
+    "language": "Other",
+    "description": "Kdenlive is a free and open source video editor, available for GNU/Linux, Windows and macOS."
+  },
+  {
+    "repo": "prometheus/client_python",
+    "branch": "master",
     "language": "Python",
-    "description": "Freeze (package) Python programs into stand-alone executables"
+    "description": "Prometheus instrumentation library for Python applications"
   },
   {
-    "repo": "tddworks/baguette",
+    "repo": "ionic-team/capacitor",
     "branch": "main",
-    "language": "Swift",
-    "description": "Headless iOS Simulator manager/farm + host-side input injection for iOS 26 — taps, swipes, multi-finger gestures, and 60 fps streaming"
+    "language": "TypeScript",
+    "description": "Build cross-platform Native Progressive Web Apps for iOS, Android, and the Web ⚡️"
   },
   {
-    "repo": "gainubi/note-slides",
+    "repo": "NikolayS/PGSimCity",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "An explorable 3D city that shows how Postgres actually works"
+  },
+  {
+    "repo": "bandyah/uni-mm-trainer",
+    "branch": "main",
+    "language": "Python",
+    "description": "A small library for training multimodal LLMs combining text, vision, and audio"
+  },
+  {
+    "repo": "prometheus-operator/prometheus-operator",
+    "branch": "main",
+    "language": "Go",
+    "description": "Prometheus Operator creates/configures/manages Prometheus clusters atop Kubernetes"
+  },
+  {
+    "repo": "moylajuwoonrs1971-crypto/manga-vault-stream",
     "branch": "main",
     "language": "HTML",
-    "description": "把一篇长文、一个长 PDF，转为可读的精美 Slides。"
+    "description": "Top Manga & Webcomic Reader App for Windows & Mac 2026"
   },
   {
-    "repo": "triggerdotdev/trigger.dev",
+    "repo": "Miguok/fable-harness",
+    "branch": "main",
+    "language": "Python",
+    "description": "Make Claude Code work like a disciplined engineer: OODA, multi-party adversarial review, model routing, fail-then-pass. Distilled from Fable to reinforce the Opus harness."
+  },
+  {
+    "repo": "x4gKing/Marzban-Panel",
+    "branch": "main",
+    "language": "Dockerfile",
+    "description": ""
+  },
+  {
+    "repo": "vercel/swr",
     "branch": "main",
     "language": "TypeScript",
-    "description": "Trigger.dev – build and deploy fully‑managed AI agents and workflows"
+    "description": "React Hooks for Data Fetching"
   },
   {
-    "repo": "veyliss/ai-localbase",
+    "repo": "jbarach2012/AuthProbe",
     "branch": "main",
-    "language": "Go",
-    "description": "一个本地优先的AI知识库系统（RAG），用于把本地文档接入辅导搜索与大模型对话流程。"
+    "language": "Python",
+    "description": ""
   },
   {
-    "repo": "tree-sitter/tree-sitter",
+    "repo": "AdguardTeam/AdGuardHome",
     "branch": "master",
-    "language": "Rust",
-    "description": "An incremental parsing system for programming tools"
-  },
-  {
-    "repo": "Lissy93/awesome-privacy",
-    "branch": "main",
-    "language": "Astro",
-    "description": "🦄  A curated list of privacy & security-focused software and services"
-  },
-  {
-    "repo": "rancher/k3d",
-    "branch": "main",
     "language": "Go",
-    "description": "Little helper to run CNCF's k3s in Docker"
+    "description": "Network-wide ads & trackers blocking DNS server"
   },
   {
-    "repo": "aidenybai/element-source",
+    "repo": "NicholasSlattery/sony-head-tracker",
+    "branch": "main",
+    "language": "C++",
+    "description": "Use the motion sensors inside Sony headphones as a low-latency Windows head tracker for OpenTrack and simulator games."
+  },
+  {
+    "repo": "open-gsd/get-shit-done-redux",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "Getting Shit Done, the Aftermath"
+  },
+  {
+    "repo": "claude-code-ai-anthropic/free-claude-code-ai-desktop-app",
     "branch": "main",
     "language": "TypeScript",
-    "description": "Get the source file location of any DOM element. Works with React, Vue, Svelte, Solid"
+    "description": "Free Claude Code Api desktop — claude ai free cli anthropic ai claude pro coding claude fable free agent terminal claude fable 5 assistant open source git integration mcp server free api key setup guide config"
+  },
+  {
+    "repo": "deepset-ai/haystack",
+    "branch": "main",
+    "language": "MDX",
+    "description": "AI orchestration framework to build customizable, production-ready LLM applications. Connect components (models, vector DBs, file converters) to pipelines or agents that can interact with your data. With advanced retrieval methods, it's best suited for building RAG, question answering, semantic search or conversational agent chatbots."
+  },
+  {
+    "repo": "facebookresearch/fairseq",
+    "branch": "main",
+    "language": "Python",
+    "description": "Facebook AI Research Sequence-to-Sequence Toolkit written in Python."
+  },
+  {
+    "repo": "spacedriveapp/spacedrive",
+    "branch": "main",
+    "language": "Rust",
+    "description": "Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust."
   }
 ]
