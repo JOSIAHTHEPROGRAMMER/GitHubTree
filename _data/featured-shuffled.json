@@ -1,146 +1,146 @@
 [
   {
-    "repo": "websockets/ws",
-    "branch": "master",
-    "language": "JavaScript",
-    "description": "Simple to use, blazing fast and thoroughly tested WebSocket client and server for Node.js"
-  },
-  {
-    "repo": "prettier/prettier",
+    "repo": "malevrigns/agent-jev",
     "branch": "main",
-    "language": "JavaScript",
-    "description": "Prettier is an opinionated code formatter."
-  },
-  {
-    "repo": "denny11301/veox-cortex",
-    "branch": "main",
-    "language": "HTML",
-    "description": "Rust Autonomous Cognition Engine 2026"
-  },
-  {
-    "repo": "Timeverse/My-TW-Coverage",
-    "branch": "master",
     "language": "Python",
-    "description": "Equity research coverage of 1,735 Taiwan-listed companies (TWSE + OTC). Business overviews, supply chain mapping, and financial data with wikilink cross-referencing."
+    "description": "AgentJev-0.6B - a fast 'System One' decision model for AI Agents: feed it any unstructured state (diffs, traces, logs) and structured questions, get calibrated probability distributions back in one ~50ms forward pass. Zero output-token decoding."
   },
   {
-    "repo": "storybookjs/storybook",
-    "branch": "next",
-    "language": "TypeScript",
-    "description": "Storybook is the industry standard workshop for building, documenting, and testing UI components in isolation"
-  },
-  {
-    "repo": "mgks/GitHubTree",
+    "repo": "AMAP-ML/LongHorizon-Harness",
     "branch": "main",
-    "language": "JavaScript",
-    "description": "Visualise any GitHub repository folder structure. Available as a web app, CLI tool, and node.js library."
+    "language": "Python",
+    "description": "The long-horizon computer-use harness. Run AI agents across desktop apps and the CLI for extended periods while preserving task state and making reliable progress on complex workflows. Features fresh-context execution, durable verified state, independent auditing, recoverable progress, and native Claude Code / Codex / OpenClaw integration."
   },
   {
-    "repo": "animate-css/animate.css",
+    "repo": "triangkas/DBD-AutoGrind-Trainer-2026-Max",
     "branch": "main",
-    "language": "CSS",
-    "description": "🍿 A cross-browser library of CSS animations. As easy to use as an easy thing."
+    "language": "Python",
+    "description": "Ultimate Dead by Daylight auto-grind trainer Max edition with Bloodpoint bot, ESP wallhack, aimbot, and full perk/skin unlocker. Dominate the Fog with our 2026 undetected external tool."
   },
   {
-    "repo": "twbs/bootstrap",
+    "repo": "pyang5166/gbro-collage-broll",
     "branch": "main",
-    "language": "MDX",
-    "description": "The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web."
+    "language": "Python",
+    "description": "半调纸拼贴 B-roll 生成 skill：三闸门审批，Gemini Omni Flash 首尾帧组装动画 | Editorial halftone paper-collage B-roll agent skill"
   },
   {
-    "repo": "hjanuschka/pi-multi-pass",
+    "repo": "khwarij/DBD-AutoGrind-Trainer-2026",
     "branch": "main",
-    "language": "TypeScript",
-    "description": "Multi-subscription extension for pi -- use multiple OAuth accounts per provider (Anthropic, Codex, Copilot, Gemini, Antigravity)"
+    "language": "Python",
+    "description": "Ultimate Dead by Daylight auto-grind trainer with Bloodpoint bot, ESP wallhack, aimbot, and full perk/skin unlocker. Dominate the Fog with our 2026 undetected external tool."
   },
   {
-    "repo": "facebook/react-native",
+    "repo": "fajarakpdev/Hades-II-Trainer-Z",
     "branch": "main",
-    "language": "C++",
-    "description": "A framework for building native applications using React"
+    "language": "Python",
+    "description": "Free Hades II Trainer with God Mode, Unlimited Health, Max Gold, One-Hit Kill and more. No survey, instant download."
   },
   {
-    "repo": "karpathy/jobs",
-    "branch": "master",
+    "repo": "we9lii/Paralives-Ultimate-Trainer-2026_v_2",
+    "branch": "main",
+    "language": "Python",
+    "description": "Ultimate trainer for Paralives – infinite money, max needs, freeze aging, unlock all items, and more."
+  },
+  {
+    "repo": "Hassanjan49/File_Association_Manager",
+    "branch": "main",
+    "language": "Python",
+    "description": "Manage file associations: choose which program opens each file type. Reset or change associations easily. Fix broken file associations."
+  },
+  {
+    "repo": "AbdulWasay13/TradingView-Pipe-Executor",
+    "branch": "main",
     "language": "HTML",
-    "description": "A research tool for visually exploring Bureau of Labor Statistics Occupational Outlook Handbook data. This is not a report, a paper, or a serious economic publication — it is a development tool for exploring BLS data visually."
+    "description": "Automated MT5 Trading Bot with AI Alerts & Webhook Bridge 2026"
   },
   {
-    "repo": "m-schuetz/CuRast",
+    "repo": "roppik/tomodachi-pc",
     "branch": "main",
     "language": "C++",
-    "description": "Cuda-Based Software Rasterization for Billions of Triangles"
+    "description": "tomodachi pc port life simulator mii sharing qr codes island life citra fork panda3ds 3ds emulator github living the dream save editor transfer modding hd texture pack 60fps mod desktop utility macos linux open source community enhancement patch fan made translation gameplay simulation"
   },
   {
-    "repo": "Emanuele-web04/remodex",
+    "repo": "aresyn/codex-control-plane-mcp",
     "branch": "main",
-    "language": "Swift",
-    "description": "Remote Control for Codex. 24/7 version on the way"
+    "language": "Python",
+    "description": "Durable MCP control plane for long-running Codex Desktop tasks"
   },
   {
-    "repo": "kamranahmedse/developer-roadmap",
-    "branch": "master",
-    "language": "TypeScript",
-    "description": "Interactive roadmaps, guides and other educational content to help developers grow in their careers."
-  },
-  {
-    "repo": "status-im/nimbus-eth2",
-    "branch": "stable",
-    "language": "Nim",
-    "description": "Nim implementation of the Ethereum Beacon Chain"
-  },
-  {
-    "repo": "software-mansion/react-native-screens",
+    "repo": "carbonengine/trinity",
     "branch": "main",
-    "language": "TypeScript",
-    "description": "Native navigation primitives for your React Native app."
+    "language": "C++",
+    "description": "Rendering engine for the Carbon Game Engine"
   },
   {
-    "repo": "Sunislazi/rbxfpsunlocker-boost-More-240FPS",
+    "repo": "HuiyuLi-2000/Chinese-Grant-Writer-Skills",
     "branch": "main",
-    "language": "TypeScript",
-    "description": "rbxfpsunlocker Roblox FPS BOOST: Roblox FPS unlocker download free More 240 FPS, uncap 60 FPS limit, axst GitHub source code, high refresh rate monitor, Roblox client lag fix, Byfron Hyperion anti-cheat compatibility, safe to use ban status, settings.ini configuration, rfu.exe not working error, ClientAppSettings json,bloxtstrap fps unlocke"
+    "language": "Python",
+    "description": "面向 NSFC、NSSFC、省部级自/社科申请书的 AI 写作技能集。从近 20 本管理口申请书中提炼写作范式，覆盖核心撰写环节。"
   },
   {
-    "repo": "DefinitelyTyped/DefinitelyTyped",
-    "branch": "master",
-    "language": "TypeScript",
-    "description": "The repository for high quality TypeScript type definitions."
-  },
-  {
-    "repo": "junevm/splathash",
+    "repo": "maaslalani/fast",
     "branch": "main",
     "language": "Go",
-    "description": "compress any image to 16 bytes and reconstruct a blurry preview. Like blurhash and thumbhash, but smaller."
+    "description": "Internet speed test in your terminal"
   },
   {
-    "repo": "raspberrypi/firmware",
-    "branch": "master",
-    "language": "Other",
-    "description": "This repository contains pre-compiled binaries of the current Raspberry Pi  kernel and modules, userspace libraries, and bootloader/GPU firmware."
+    "repo": "dbgucci1017/MT5-Equity-Guardian-Trailing-Pro",
+    "branch": "main",
+    "language": "HTML",
+    "description": "MQL5 Advanced Risk Manager EA 2026 – Breakeven, Trailing Stop & Partial Close"
   },
   {
-    "repo": "ythx-101/ask-search",
-    "branch": "master",
-    "language": "Python",
-    "description": "Self-hosted web search skill for AI agents (OpenClaw/Claude Code/Antigravity) via SearxNG"
-  },
-  {
-    "repo": "browser-use/browser-harness",
+    "repo": "yande0/Pet-Simulator-99-Auto-Farm-Trainer-2026-Platinum",
     "branch": "main",
     "language": "Python",
-    "description": "Self-healing browser harness that enables LLMs to complete any task."
+    "description": "Platinum edition of the most advanced Pet Simulator 99 automation tool. Farm coins, hatch eggs, complete Backrooms League tasks automatically. Fully undetected and user-friendly."
   },
   {
-    "repo": "f/textream",
-    "branch": "master",
-    "language": "Swift",
-    "description": "Textream is a free macOS teleprompter app for streamers, interviewers, and presenters. It highlights your script in real-time as you speak, displayed in a beautiful Dynamic Island overlay."
-  },
-  {
-    "repo": "NikolayS/pgque",
+    "repo": "cha0upup/LeoAI",
     "branch": "main",
-    "language": "PLpgSQL",
-    "description": "PgQue – Zero-bloat Postgres queue. One SQL file to install, pg_cron to tick."
+    "language": "Java",
+    "description": "AI 驱动的后渗透综合管理平台，深度集成 LLM Agent，开箱即用。"
+  },
+  {
+    "repo": "modelscope/Awesome-Vibe-Research",
+    "branch": "main",
+    "language": "Python",
+    "description": "An open, collaboratively-built repository for AI-assisted scientific research — collecting and curating agents, skills, workflows, tools, and best practices across the full research lifecycle. 面向 AI 辅助科研的开放共建仓库 收集和沉淀科研全流程中的 agents、skills、workflows、tools 与最佳实践"
+  },
+  {
+    "repo": "peridotfoundation/MT5-Directional-Flow-Dashboard",
+    "branch": "main",
+    "language": "HTML",
+    "description": "MT5 Live Trend Direction Signal Hub 2026 – Real-Time Forex & CFD Alerts"
+  },
+  {
+    "repo": "ahmadqalbi1991/Counter-Strike_2_TriggerBot___Glow_ESP",
+    "branch": "main",
+    "language": "Python",
+    "description": "Glow ESP, triggerbot, and aim assist for CS2. Highlight enemies through walls, auto-fire, and zero recoil. Anti-VAC bypass included."
+  },
+  {
+    "repo": "gykim80/perfectpixel-studio",
+    "branch": "main",
+    "language": "Go",
+    "description": "AI-powered animation sprite studio — generate character sprite sheets with 8 directions and 100+ actions from a single text prompt (Wails + Go + React)"
+  },
+  {
+    "repo": "vercel/eve",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "The Framework for Building Agents"
+  },
+  {
+    "repo": "NagaaSaketh/Minecraft_AutoMiner_Pro",
+    "branch": "main",
+    "language": "Python",
+    "description": "Full-featured mining bot with X-Ray, auto-farm, anti-kick and ore ESP for Minecraft 1.20+. Automates resource gathering, reveals ores through walls, and prevents AFK kicks. Perfect for survival and hardcore modes."
+  },
+  {
+    "repo": "jmerelnyc/Talos",
+    "branch": "main",
+    "language": "Python",
+    "description": "GPU worker client for the Talos network. Pairs with your Talos account, serves open-model inference jobs over a WebSocket, and reports uptime for payouts."
   }
 ]
