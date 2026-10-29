@@ -1,8 +1,8 @@
 {
-  "repo": "Moessif/code-video-showcase",
+  "repo": "Shagg88/COGBox",
   "branch": "main",
-  "language": "JavaScript",
-  "description": "A pure-code beat-synced showcase-video Agent Skill: HTML/Canvas/SVG/Three.js frame-by-frame + Python numpy/scipy score + FFmpeg. No generative models.",
-  "stars": 202,
-  "forks": 11
+  "language": "C++",
+  "description": "This is an open source, all-in-one, static recompilation project that I built from the ground up for the Xbox 360 Gears of War series.",
+  "stars": 217,
+  "forks": 4
 }

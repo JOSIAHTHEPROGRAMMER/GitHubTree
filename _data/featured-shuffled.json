@@ -1,99 +1,45 @@
 [
   {
-    "repo": "GRVYDEV/marky",
+    "repo": "0xGF/boneyard",
     "branch": "main",
     "language": "TypeScript",
-    "description": "A lightweight easy to use markdown viewer"
+    "description": "Auto generated skeleton loading framework"
   },
   {
-    "repo": "YongshengWin/VpsCT",
+    "repo": "techjanitor/botmaker",
+    "branch": "main",
+    "language": "Python",
+    "description": "A Hermes Agent skill + SOUL for a bot whose only job is minting other specialist bots"
+  },
+  {
+    "repo": "geekjourneyx/jina-cli",
     "branch": "main",
     "language": "Go",
-    "description": "面向个人和小团队的自托管服务器管理面板，集中管理 VPS 状态、流量、服务配置与资源分享。"
+    "description": "A lightweight CLI tool wrapping Jina AI Reader API for AI Agents. Fetch and parse any URL into LLM-friendly   formats (Markdown/Text/HTML). Perfect for reading X(Twitter), blogs, and news sites."
   },
   {
-    "repo": "PaddlePaddle/PaddleSpeech",
-    "branch": "develop",
-    "language": "Python",
-    "description": "Easy-to-use Speech Toolkit including Self-Supervised Learning model, SOTA/Streaming ASR with punctuation, Streaming TTS with text frontend, Speaker Verification System, End-to-End Speech Translation and Keyword Spotting. Won NAACL2022 Best Demo Award."
-  },
-  {
-    "repo": "Lakr233/vphone-cli",
-    "branch": "main",
-    "language": "Python",
-    "description": ""
-  },
-  {
-    "repo": "DadsMmoLab/dads-mmo-lab",
-    "branch": "main",
-    "language": "Shell",
-    "description": "Offline MMO private servers on Steam Deck. Free guides, Docker scripts & shell installers for classic MMOs. No subscription. No internet. Forever. Visibility:       ✅ Public"
-  },
-  {
-    "repo": "openabdev/openab",
-    "branch": "main",
-    "language": "Rust",
-    "description": "A lightweight, secure, cloud-native ACP harness that bridges Discord and any ACP-compatible coding CLI."
-  },
-  {
-    "repo": "patchfighterway90/cs2-external-overlay",
-    "branch": "main",
-    "language": "Python",
-    "description": "The cs2 external helper tool is a software utility designed for gamers and developers. It provides a set of features to enhance the gaming experience, including a customizable overlay. The tool is particularly useful for users who want to access additional information during gameplay."
-  },
-  {
-    "repo": "mikewang817/MacBar",
+    "repo": "zoontek/react-native-permissions",
     "branch": "master",
-    "language": "Swift",
-    "description": "A lightweight macOS menu bar clipboard manager with OCR, file support, and global hotkey"
+    "language": "Objective-C++",
+    "description": "An unified permissions API for React Native on iOS, Android and Windows."
   },
   {
-    "repo": "vercel-labs/openreview",
+    "repo": "xzf-thu/Mega-ASR",
+    "branch": "main",
+    "language": "Python",
+    "description": "First foundation ASR built for the real world - 7 atomic acoustic conditions, 54 compound scenarios, 2.6M samples, and up to ~30% gains over SOTA where every other model falls apart. **You'll come back to MEGA-ASR, after the rest fail in the wild. ⭐**"
+  },
+  {
+    "repo": "pi0/skillman",
     "branch": "main",
     "language": "TypeScript",
-    "description": "An open-source, self-hosted AI code review bot powered by Vercel."
+    "description": "🤹 Manage project skills and lock them in skills.json"
   },
   {
-    "repo": "rohitg00/pro-workflow",
+    "repo": "aresthehacker/Assassin-s-Creed-Black-Flag",
     "branch": "main",
-    "language": "JavaScript",
-    "description": "Battle-tested Claude Code workflows from power users. Self-correcting memory, parallel worktrees, wrap-up rituals, and the 80/20 AI coding ratio."
-  },
-  {
-    "repo": "gavrielc/nanoclaw",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "My personal Claude assistant that runs in Apple containers. Lightweight, secure, and built to be understood and customized for your own needs."
-  },
-  {
-    "repo": "ytdl-org/youtube-dl",
-    "branch": "master",
-    "language": "Python",
-    "description": "Command-line program to download videos from YouTube.com and other video sites"
-  },
-  {
-    "repo": "NVIDIA/NeMo",
-    "branch": "main",
-    "language": "Python",
-    "description": "A scalable generative AI framework built for researchers and developers working on Large Language Models, Multimodal, and Speech AI (Automatic Speech Recognition and Text-to-Speech)"
-  },
-  {
-    "repo": "FeSens/auto-arch-tournament",
-    "branch": "main",
-    "language": "HTML",
-    "description": ""
-  },
-  {
-    "repo": "flairNLP/flair",
-    "branch": "master",
-    "language": "Python",
-    "description": "A very simple framework for state-of-the-art Natural Language Processing (NLP)"
-  },
-  {
-    "repo": "karpathy/autoresearch",
-    "branch": "master",
-    "language": "Python",
-    "description": "AI agents running research on single-GPU nanochat training automatically"
+    "language": "C++",
+    "description": "Assassin's Creed Black Flag Resynced Collector's Edition 2026 Edward Kenway Statue PS5 Pro PSSR Ray Tracing High FPS Anvil Engine Caribbean Open World Pirate Simulator PC Download Steam Deck Performance Save Editor Gameplay Reveal July 9 Release Official Roadmap Ubisoft 2026"
   },
   {
     "repo": "actions/runner",
@@ -102,45 +48,99 @@
     "description": "The Runner for GitHub Actions :rocket:"
   },
   {
-    "repo": "DuskMosquito/Lossless-Scaling-Desktop-2026",
+    "repo": "dievus/ADPulse",
     "branch": "main",
-    "language": "C",
-    "description": "⭐️ Lossless Scaling Desktop 2026 | Setup Installer v1.0 | Patch Activator Keygen | License Key Pre-Activated | Full Version Latest Build Pro | Optimize Resolution Scaling | Enhance Performance Graphics | Get Desktop App Windows 10/11 PC | Direct Genuine Original x64 | Download Install Loader Mod ⭐️"
+    "language": "Python",
+    "description": "Active Directory Vulnerability Scanner"
   },
   {
-    "repo": "jitsi/jitsi-meet",
+    "repo": "haolinwang819-boop/ai-video-generation-workflow",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "AI video generation workflow with script, slides, TTS, subtitles, and FFmpeg rendering."
+  },
+  {
+    "repo": "huggingface/accelerate",
+    "branch": "main",
+    "language": "Python",
+    "description": "🚀 A simple way to launch, train, and use PyTorch models on almost any device and distributed configuration, automatic mixed precision (including fp8), and easy-to-configure FSDP and DeepSpeed support"
+  },
+  {
+    "repo": "btahir/react-kino",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Cinematic scroll-driven storytelling for React"
+  },
+  {
+    "repo": "figure-markets/polymarket-copy-trading-bot",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "polymarket copytrading bot polymarket copytrading bot polymarket copytrading bot polymarket copytrading bot polymarket copytrading bot polymarket copytrading bot polymarket copytrading bot polymarket copytrading bot polymarket copytrading bot polymarket copytrading bot polymarket copytrading bot polymarket copytrading bot polymarket copytrading bot"
+  },
+  {
+    "repo": "karatelabs/karate",
     "branch": "master",
-    "language": "TypeScript",
-    "description": "Jitsi Meet - Secure, Simple and Scalable Video Conferences that you use as a standalone app or embed in your web application."
+    "language": "Java",
+    "description": "Test Automation Made Simple"
   },
   {
-    "repo": "Code-Leafy/G2rayXCodeLeafy",
+    "repo": "pytorch/serve",
+    "branch": "master",
+    "language": "Java",
+    "description": "Serve, optimize and scale PyTorch models in production"
+  },
+  {
+    "repo": "microsoft/autogen",
     "branch": "main",
-    "language": "Shell",
-    "description": ""
+    "language": "Python",
+    "description": "A programming framework for agentic AI"
   },
   {
-    "repo": "dev-protocol/Polymarket-Trading-Bot-with-Synth-AI",
+    "repo": "Tencent-Hunyuan/Hy3-preview",
     "branch": "main",
-    "language": "Rust",
-    "description": "Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot"
+    "language": "Python",
+    "description": "Hy3 preview (295B A21B), a leading reasoning and agent model in its size, with great cost efficiency"
   },
   {
-    "repo": "fristork/hyperliquid-trading-bot",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "hyperliquid trading bot hyperliquid bot hyperliquid copytrading bot hyperliquid trading bot hyperliquid bot hyperliquid copytrading bot hyperliquid trading bot hyperliquid bot hyperliquid copytrading bot hyperliquid trading bot hyperliquid bot hyperliquid copytrading bot hyperliquid trading bot hyperliquid bot hyperliquid copytrading bot"
-  },
-  {
-    "repo": "serverless/serverless",
+    "repo": "waybarrios/opencode-power-pack",
     "branch": "main",
     "language": "JavaScript",
-    "description": "⚡ Serverless Framework – Effortlessly build apps that auto-scale, incur zero costs when idle, and require minimal maintenance using AWS Lambda and other managed cloud services."
+    "description": "Eleven Claude Code skills ported to OpenCode: code-review, security-review, feature-dev, frontend-design + 7 more. One config line, one plugin."
   },
   {
-    "repo": "grafana/loki",
+    "repo": "mariusdjen/vpskit",
     "branch": "main",
-    "language": "Go",
-    "description": "Like Prometheus, but for logs."
+    "language": "Shell",
+    "description": "The easiest way to secure, deploy and manage a Linux VPS"
+  },
+  {
+    "repo": "openai/openai-cookbook",
+    "branch": "main",
+    "language": "Jupyter Notebook",
+    "description": "Examples and guides for using the OpenAI API"
+  },
+  {
+    "repo": "muxprotocol/kalshi-trading-bot",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "kalshi trading bot on prediction market autonomous kalshi trading bot that connects to the kalshi api via kalshi rest and kalshi websocket, runs a five-agent ai ensemble to analyze kalshi prediction markets, sizes positions with fractional kelly criterion against your kalshi balance, and executes kalshi orders in paper or live mode with hard daily"
+  },
+  {
+    "repo": "googleworkspace/cli",
+    "branch": "main",
+    "language": "Rust",
+    "description": "Google Workspace CLI — one command-line tool for Drive, Gmail, Calendar, Sheets, Docs, Chat, Admin, and more. Dynamically built from Google Discovery Service. Includes AI agent skills."
+  },
+  {
+    "repo": "google-deepmind/alphageometry",
+    "branch": "main",
+    "language": "Python",
+    "description": "Solving olympiad geometry without human demonstrations."
+  },
+  {
+    "repo": "meodai/heerich",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "Tiny engine for 3D voxel scenes rendered to SVG — boolean ops, oblique/perspective cameras, zero dependencies. Inspired by the geometric cardboard sculptures of Erwin Heerich."
   }
 ]
