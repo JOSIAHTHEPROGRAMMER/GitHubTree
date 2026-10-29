@@ -1,146 +1,146 @@
 [
   {
-    "repo": "noskillish/bankmcp",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "BankMCP™: your AI can now read your bank. Self-hosted, read-only MCP server for your own bank accounts via open banking (Enable Banking). Standard MCP; tested with Claude and Ollama."
-  },
-  {
-    "repo": "Zephkek/XStoreUnlocker",
-    "branch": "main",
-    "language": "C++",
-    "description": "DLC unlocker for Microsoft Store and Xbox PC games."
-  },
-  {
-    "repo": "Obsidian-Trades/polymarket-copy-trading-bot",
-    "branch": "main",
+    "repo": "shanselman/cert-inspector",
+    "branch": "master",
     "language": "JavaScript",
-    "description": "polymarket trading bot, polymarket copy trading bot, polymarket trading bot, polymarket copy trading bot, polymarket trading bot, polymarket copy trading bot, polymarket trading bot, polymarket copy trading bot, polymarket trading bot, polymarket copy trading bot, polymarket trading bot, polymarket copy trading bot,"
+    "description": "🔒 Web tool to inspect SSL certificates and DNS for all domains in a webpage's request tree. Captures full network footprint via headless browser."
   },
   {
-    "repo": "AERT-7Y/kiro-auto",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "kiro自动注册机"
-  },
-  {
-    "repo": "lingbol088-spec/ReiPenFlow",
-    "branch": "main",
-    "language": "Python",
-    "description": "Codex skill for local sandbox, CTF, authorized pentest and reverse-engineering workflows."
-  },
-  {
-    "repo": "pytorch/serve",
+    "repo": "hopechen067/china-antique-maplibre",
     "branch": "master",
-    "language": "Java",
-    "description": "Serve, optimize and scale PyTorch models in production"
-  },
-  {
-    "repo": "kdenlive/kdenlive",
-    "branch": "master",
-    "language": "Other",
-    "description": "Kdenlive is a free and open source video editor, available for GNU/Linux, Windows and macOS."
-  },
-  {
-    "repo": "prometheus/client_python",
-    "branch": "master",
-    "language": "Python",
-    "description": "Prometheus instrumentation library for Python applications"
-  },
-  {
-    "repo": "ionic-team/capacitor",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Build cross-platform Native Progressive Web Apps for iOS, Android, and the Web ⚡️"
-  },
-  {
-    "repo": "NikolayS/PGSimCity",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "An explorable 3D city that shows how Postgres actually works"
-  },
-  {
-    "repo": "bandyah/uni-mm-trainer",
-    "branch": "main",
-    "language": "Python",
-    "description": "A small library for training multimodal LLMs combining text, vision, and audio"
-  },
-  {
-    "repo": "prometheus-operator/prometheus-operator",
-    "branch": "main",
-    "language": "Go",
-    "description": "Prometheus Operator creates/configures/manages Prometheus clusters atop Kubernetes"
-  },
-  {
-    "repo": "moylajuwoonrs1971-crypto/manga-vault-stream",
-    "branch": "main",
     "language": "HTML",
-    "description": "Top Manga & Webcomic Reader App for Windows & Mac 2026"
+    "description": "China antique parchment MapLibre stack: EOX Sentinel-2 + Terrarium hillshade, water overlay, live tuner, tiered settlements for historical video."
   },
   {
-    "repo": "Miguok/fable-harness",
-    "branch": "main",
-    "language": "Python",
-    "description": "Make Claude Code work like a disciplined engineer: OODA, multi-party adversarial review, model routing, fail-then-pass. Distilled from Fable to reinforce the Opus harness."
-  },
-  {
-    "repo": "x4gKing/Marzban-Panel",
-    "branch": "main",
-    "language": "Dockerfile",
-    "description": ""
-  },
-  {
-    "repo": "vercel/swr",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "React Hooks for Data Fetching"
-  },
-  {
-    "repo": "jbarach2012/AuthProbe",
-    "branch": "main",
-    "language": "Python",
-    "description": ""
-  },
-  {
-    "repo": "AdguardTeam/AdGuardHome",
-    "branch": "master",
-    "language": "Go",
-    "description": "Network-wide ads & trackers blocking DNS server"
-  },
-  {
-    "repo": "NicholasSlattery/sony-head-tracker",
-    "branch": "main",
-    "language": "C++",
-    "description": "Use the motion sensors inside Sony headphones as a low-latency Windows head tracker for OpenTrack and simulator games."
-  },
-  {
-    "repo": "open-gsd/get-shit-done-redux",
+    "repo": "leag1234/elixiroffice",
     "branch": "main",
     "language": "JavaScript",
-    "description": "Getting Shit Done, the Aftermath"
+    "description": "Open Source Office suite for users used to MS Office - multi-platform, tuned for performance"
   },
   {
-    "repo": "claude-code-ai-anthropic/free-claude-code-ai-desktop-app",
+    "repo": "446599/ccodex-rotate",
+    "branch": "master",
+    "language": "Go",
+    "description": "Local Codex reverse proxy: rotating proxy-node pool, lazy health failover, and per-model 292 turn-state collection/injection. macOS + Windows."
+  },
+  {
+    "repo": "diggerhq/shipvideo",
     "branch": "main",
     "language": "TypeScript",
-    "description": "Free Claude Code Api desktop — claude ai free cli anthropic ai claude pro coding claude fable free agent terminal claude fable 5 assistant open source git integration mcp server free api key setup guide config"
+    "description": "Paste a URL or a prompt, get a launch video. Opus 5.5 writes HTML, an OpenComputer serverless agent renders it."
   },
   {
-    "repo": "deepset-ai/haystack",
-    "branch": "main",
-    "language": "MDX",
-    "description": "AI orchestration framework to build customizable, production-ready LLM applications. Connect components (models, vector DBs, file converters) to pipelines or agents that can interact with your data. With advanced retrieval methods, it's best suited for building RAG, question answering, semantic search or conversational agent chatbots."
-  },
-  {
-    "repo": "facebookresearch/fairseq",
+    "repo": "benjiyaya/ComfyUI-Qwen-Image-2.1-Prompt-Enhancer",
     "branch": "main",
     "language": "Python",
-    "description": "Facebook AI Research Sequence-to-Sequence Toolkit written in Python."
+    "description": "ComfyUI  Custom Node for Qwen-Image-2.1 Prompt Enhancement , support T2I , Image Edit"
   },
   {
-    "repo": "spacedriveapp/spacedrive",
+    "repo": "ESPARGOS/esp-sdr",
+    "branch": "main",
+    "language": "C",
+    "description": "ESP-SDR uses the undocumented raw I/Q capture functionality of ESP32 family chips to turn them into (low-duty-cycle) Software Defined Radios"
+  },
+  {
+    "repo": "TreapGoGo/deepseek-whale-girl",
+    "branch": "main",
+    "language": "CSS",
+    "description": "由社区共同维护的鲸鱼娘二创资源库，整理角色参考图、生成提示词、社区作品与相关项目，为创作者提供方便易用的参考与灵感。本项目为非官方社区项目，不代表 DeepSeek 官方立场。"
+  },
+  {
+    "repo": "edenfunf/reelmimic",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "Show it a video you love. Get a new video in the same style. An AI crew (Claude Code or Codex) plans, builds and reviews it with you."
+  },
+  {
+    "repo": "nokia-applied-research/AnyJev",
+    "branch": "main",
+    "language": "Python",
+    "description": "Turn any LLM into a Jev-style decision model: typed decisions, real probabilities, no training. (continue updating)"
+  },
+  {
+    "repo": "storytold/vectorcraft",
     "branch": "main",
     "language": "Rust",
-    "description": "Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust."
+    "description": ""
+  },
+  {
+    "repo": "sunkeke-ai/Life-Compass-Obsidian-CN",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "Compass 的非官方简体中文本地化；原项目由 Daniel Agrici（@AgriciDaniel）创建。"
+  },
+  {
+    "repo": "rbrown101010/bluey-by-riley",
+    "branch": "main",
+    "language": "Swift",
+    "description": "Googly Eyes: a blueberry character on iPhone that points and acts on your Mac (Mac menu bar app + iOS app)"
+  },
+  {
+    "repo": "elliotttate/Wind-Waker-Recomp",
+    "branch": "main",
+    "language": "C",
+    "description": "Personal source fork of BlueWake for The Wind Waker on iPhone and iPad"
+  },
+  {
+    "repo": "kargulstudio/sales-crm",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": ""
+  },
+  {
+    "repo": "unicodef1wn/grokbot-field-notes",
+    "branch": "main",
+    "language": "Python",
+    "description": "Rules, playbooks, bot roles and a failure log from the xAI Grok Bot team's 72-hour live build. Drop AGENTS.md into your repo and go."
+  },
+  {
+    "repo": "pch/rawmakase",
+    "branch": "main",
+    "language": "Rust",
+    "description": "Free Lightroom alternative for Linux and macOS (possibly Windows too - not tested)"
+  },
+  {
+    "repo": "lucasmarkes/hairline",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Six isometric line figures that answer the pointer. For React and for anything with a DOM."
+  },
+  {
+    "repo": "amywork777/lipflow",
+    "branch": "main",
+    "language": "Python",
+    "description": "Wispr Flow for your lips: hold a key, silently mouth words, and they're typed at your cursor. Runs locally on your Mac."
+  },
+  {
+    "repo": "aaddrick/building-with-typesafe-jev",
+    "branch": "main",
+    "language": "Python",
+    "description": "Unofficial skill that teaches coding agents to build with TypeSafe AI's Jev: typed decisions, calibrated confidence, and prior art from 150+ community projects."
+  },
+  {
+    "repo": "0xkuch/Fibo",
+    "branch": "main",
+    "language": "Python",
+    "description": ""
+  },
+  {
+    "repo": "saragordic/rooms",
+    "branch": "main",
+    "language": "Swift",
+    "description": "Switch between projects on your Mac. Every project is a room: its windows, laid out, one shortcut away."
+  },
+  {
+    "repo": "logicrw/awesome-jev-projects",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "Awesome Jev: source-backed open-source ecosystem radar, plain-language project discovery, and automatic GitHub sync"
+  },
+  {
+    "repo": "NuvexNetwork/nuvex-web",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "The Nuvex website. It does not read chain state and it does not submit transactions.  The protocol, the documentation site, and the off-chain services are separate repositories."
   }
 ]
