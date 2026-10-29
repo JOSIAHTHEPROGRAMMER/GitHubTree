@@ -1,146 +1,146 @@
 [
   {
-    "repo": "shanselman/cert-inspector",
-    "branch": "master",
-    "language": "JavaScript",
-    "description": "🔒 Web tool to inspect SSL certificates and DNS for all domains in a webpage's request tree. Captures full network footprint via headless browser."
-  },
-  {
-    "repo": "hopechen067/china-antique-maplibre",
-    "branch": "master",
-    "language": "HTML",
-    "description": "China antique parchment MapLibre stack: EOX Sentinel-2 + Terrarium hillshade, water overlay, live tuner, tiered settlements for historical video."
-  },
-  {
-    "repo": "leag1234/elixiroffice",
+    "repo": "GRVYDEV/marky",
     "branch": "main",
-    "language": "JavaScript",
-    "description": "Open Source Office suite for users used to MS Office - multi-platform, tuned for performance"
+    "language": "TypeScript",
+    "description": "A lightweight easy to use markdown viewer"
   },
   {
-    "repo": "446599/ccodex-rotate",
-    "branch": "master",
+    "repo": "YongshengWin/VpsCT",
+    "branch": "main",
     "language": "Go",
-    "description": "Local Codex reverse proxy: rotating proxy-node pool, lazy health failover, and per-model 292 turn-state collection/injection. macOS + Windows."
+    "description": "面向个人和小团队的自托管服务器管理面板，集中管理 VPS 状态、流量、服务配置与资源分享。"
   },
   {
-    "repo": "diggerhq/shipvideo",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Paste a URL or a prompt, get a launch video. Opus 5.5 writes HTML, an OpenComputer serverless agent renders it."
+    "repo": "PaddlePaddle/PaddleSpeech",
+    "branch": "develop",
+    "language": "Python",
+    "description": "Easy-to-use Speech Toolkit including Self-Supervised Learning model, SOTA/Streaming ASR with punctuation, Streaming TTS with text frontend, Speaker Verification System, End-to-End Speech Translation and Keyword Spotting. Won NAACL2022 Best Demo Award."
   },
   {
-    "repo": "benjiyaya/ComfyUI-Qwen-Image-2.1-Prompt-Enhancer",
+    "repo": "Lakr233/vphone-cli",
     "branch": "main",
     "language": "Python",
-    "description": "ComfyUI  Custom Node for Qwen-Image-2.1 Prompt Enhancement , support T2I , Image Edit"
+    "description": ""
   },
   {
-    "repo": "ESPARGOS/esp-sdr",
+    "repo": "DadsMmoLab/dads-mmo-lab",
     "branch": "main",
-    "language": "C",
-    "description": "ESP-SDR uses the undocumented raw I/Q capture functionality of ESP32 family chips to turn them into (low-duty-cycle) Software Defined Radios"
+    "language": "Shell",
+    "description": "Offline MMO private servers on Steam Deck. Free guides, Docker scripts & shell installers for classic MMOs. No subscription. No internet. Forever. Visibility:       ✅ Public"
   },
   {
-    "repo": "TreapGoGo/deepseek-whale-girl",
-    "branch": "main",
-    "language": "CSS",
-    "description": "由社区共同维护的鲸鱼娘二创资源库，整理角色参考图、生成提示词、社区作品与相关项目，为创作者提供方便易用的参考与灵感。本项目为非官方社区项目，不代表 DeepSeek 官方立场。"
-  },
-  {
-    "repo": "edenfunf/reelmimic",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "Show it a video you love. Get a new video in the same style. An AI crew (Claude Code or Codex) plans, builds and reviews it with you."
-  },
-  {
-    "repo": "nokia-applied-research/AnyJev",
-    "branch": "main",
-    "language": "Python",
-    "description": "Turn any LLM into a Jev-style decision model: typed decisions, real probabilities, no training. (continue updating)"
-  },
-  {
-    "repo": "storytold/vectorcraft",
+    "repo": "openabdev/openab",
     "branch": "main",
     "language": "Rust",
+    "description": "A lightweight, secure, cloud-native ACP harness that bridges Discord and any ACP-compatible coding CLI."
+  },
+  {
+    "repo": "patchfighterway90/cs2-external-overlay",
+    "branch": "main",
+    "language": "Python",
+    "description": "The cs2 external helper tool is a software utility designed for gamers and developers. It provides a set of features to enhance the gaming experience, including a customizable overlay. The tool is particularly useful for users who want to access additional information during gameplay."
+  },
+  {
+    "repo": "mikewang817/MacBar",
+    "branch": "master",
+    "language": "Swift",
+    "description": "A lightweight macOS menu bar clipboard manager with OCR, file support, and global hotkey"
+  },
+  {
+    "repo": "vercel-labs/openreview",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "An open-source, self-hosted AI code review bot powered by Vercel."
+  },
+  {
+    "repo": "rohitg00/pro-workflow",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "Battle-tested Claude Code workflows from power users. Self-correcting memory, parallel worktrees, wrap-up rituals, and the 80/20 AI coding ratio."
+  },
+  {
+    "repo": "gavrielc/nanoclaw",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "My personal Claude assistant that runs in Apple containers. Lightweight, secure, and built to be understood and customized for your own needs."
+  },
+  {
+    "repo": "ytdl-org/youtube-dl",
+    "branch": "master",
+    "language": "Python",
+    "description": "Command-line program to download videos from YouTube.com and other video sites"
+  },
+  {
+    "repo": "NVIDIA/NeMo",
+    "branch": "main",
+    "language": "Python",
+    "description": "A scalable generative AI framework built for researchers and developers working on Large Language Models, Multimodal, and Speech AI (Automatic Speech Recognition and Text-to-Speech)"
+  },
+  {
+    "repo": "FeSens/auto-arch-tournament",
+    "branch": "main",
+    "language": "HTML",
     "description": ""
   },
   {
-    "repo": "sunkeke-ai/Life-Compass-Obsidian-CN",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "Compass 的非官方简体中文本地化；原项目由 Daniel Agrici（@AgriciDaniel）创建。"
+    "repo": "flairNLP/flair",
+    "branch": "master",
+    "language": "Python",
+    "description": "A very simple framework for state-of-the-art Natural Language Processing (NLP)"
   },
   {
-    "repo": "rbrown101010/bluey-by-riley",
-    "branch": "main",
-    "language": "Swift",
-    "description": "Googly Eyes: a blueberry character on iPhone that points and acts on your Mac (Mac menu bar app + iOS app)"
+    "repo": "karpathy/autoresearch",
+    "branch": "master",
+    "language": "Python",
+    "description": "AI agents running research on single-GPU nanochat training automatically"
   },
   {
-    "repo": "elliotttate/Wind-Waker-Recomp",
+    "repo": "actions/runner",
+    "branch": "main",
+    "language": "C#",
+    "description": "The Runner for GitHub Actions :rocket:"
+  },
+  {
+    "repo": "DuskMosquito/Lossless-Scaling-Desktop-2026",
     "branch": "main",
     "language": "C",
-    "description": "Personal source fork of BlueWake for The Wind Waker on iPhone and iPad"
+    "description": "⭐️ Lossless Scaling Desktop 2026 | Setup Installer v1.0 | Patch Activator Keygen | License Key Pre-Activated | Full Version Latest Build Pro | Optimize Resolution Scaling | Enhance Performance Graphics | Get Desktop App Windows 10/11 PC | Direct Genuine Original x64 | Download Install Loader Mod ⭐️"
   },
   {
-    "repo": "kargulstudio/sales-crm",
-    "branch": "main",
+    "repo": "jitsi/jitsi-meet",
+    "branch": "master",
     "language": "TypeScript",
+    "description": "Jitsi Meet - Secure, Simple and Scalable Video Conferences that you use as a standalone app or embed in your web application."
+  },
+  {
+    "repo": "Code-Leafy/G2rayXCodeLeafy",
+    "branch": "main",
+    "language": "Shell",
     "description": ""
   },
   {
-    "repo": "unicodef1wn/grokbot-field-notes",
-    "branch": "main",
-    "language": "Python",
-    "description": "Rules, playbooks, bot roles and a failure log from the xAI Grok Bot team's 72-hour live build. Drop AGENTS.md into your repo and go."
-  },
-  {
-    "repo": "pch/rawmakase",
+    "repo": "dev-protocol/Polymarket-Trading-Bot-with-Synth-AI",
     "branch": "main",
     "language": "Rust",
-    "description": "Free Lightroom alternative for Linux and macOS (possibly Windows too - not tested)"
+    "description": "Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot"
   },
   {
-    "repo": "lucasmarkes/hairline",
+    "repo": "fristork/hyperliquid-trading-bot",
     "branch": "main",
     "language": "TypeScript",
-    "description": "Six isometric line figures that answer the pointer. For React and for anything with a DOM."
+    "description": "hyperliquid trading bot hyperliquid bot hyperliquid copytrading bot hyperliquid trading bot hyperliquid bot hyperliquid copytrading bot hyperliquid trading bot hyperliquid bot hyperliquid copytrading bot hyperliquid trading bot hyperliquid bot hyperliquid copytrading bot hyperliquid trading bot hyperliquid bot hyperliquid copytrading bot"
   },
   {
-    "repo": "amywork777/lipflow",
-    "branch": "main",
-    "language": "Python",
-    "description": "Wispr Flow for your lips: hold a key, silently mouth words, and they're typed at your cursor. Runs locally on your Mac."
-  },
-  {
-    "repo": "aaddrick/building-with-typesafe-jev",
-    "branch": "main",
-    "language": "Python",
-    "description": "Unofficial skill that teaches coding agents to build with TypeSafe AI's Jev: typed decisions, calibrated confidence, and prior art from 150+ community projects."
-  },
-  {
-    "repo": "0xkuch/Fibo",
-    "branch": "main",
-    "language": "Python",
-    "description": ""
-  },
-  {
-    "repo": "saragordic/rooms",
-    "branch": "main",
-    "language": "Swift",
-    "description": "Switch between projects on your Mac. Every project is a room: its windows, laid out, one shortcut away."
-  },
-  {
-    "repo": "logicrw/awesome-jev-projects",
+    "repo": "serverless/serverless",
     "branch": "main",
     "language": "JavaScript",
-    "description": "Awesome Jev: source-backed open-source ecosystem radar, plain-language project discovery, and automatic GitHub sync"
+    "description": "⚡ Serverless Framework – Effortlessly build apps that auto-scale, incur zero costs when idle, and require minimal maintenance using AWS Lambda and other managed cloud services."
   },
   {
-    "repo": "NuvexNetwork/nuvex-web",
+    "repo": "grafana/loki",
     "branch": "main",
-    "language": "TypeScript",
-    "description": "The Nuvex website. It does not read chain state and it does not submit transactions.  The protocol, the documentation site, and the off-chain services are separate repositories."
+    "language": "Go",
+    "description": "Like Prometheus, but for logs."
   }
 ]

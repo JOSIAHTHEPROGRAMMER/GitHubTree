@@ -1,8 +1,8 @@
 {
-  "repo": "patch-gg/trompe",
+  "repo": "Moessif/code-video-showcase",
   "branch": "main",
-  "language": "TypeScript",
-  "description": "Texture a whole game level from a gray blockout with image models: plan cameras, paint, project, bake. Real shadows, glTF out.",
-  "stars": 179,
+  "language": "JavaScript",
+  "description": "A pure-code beat-synced showcase-video Agent Skill: HTML/Canvas/SVG/Three.js frame-by-frame + Python numpy/scipy score + FFmpeg. No generative models.",
+  "stars": 202,
   "forks": 11
 }
