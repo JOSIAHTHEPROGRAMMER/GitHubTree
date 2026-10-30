@@ -1,81 +1,27 @@
 [
   {
-    "repo": "0xGF/boneyard",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Auto generated skeleton loading framework"
-  },
-  {
-    "repo": "techjanitor/botmaker",
+    "repo": "RoushanKhalid/File_Encryption_Tool",
     "branch": "main",
     "language": "Python",
-    "description": "A Hermes Agent skill + SOUL for a bot whose only job is minting other specialist bots"
+    "description": "Encrypt/decrypt files with AES-256 and password protection. Encrypt files, decrypt files, batch encrypt, and encrypt entire folders. Protect your data."
   },
   {
-    "repo": "geekjourneyx/jina-cli",
-    "branch": "main",
-    "language": "Go",
-    "description": "A lightweight CLI tool wrapping Jina AI Reader API for AI Agents. Fetch and parse any URL into LLM-friendly   formats (Markdown/Text/HTML). Perfect for reading X(Twitter), blogs, and news sites."
-  },
-  {
-    "repo": "zoontek/react-native-permissions",
-    "branch": "master",
-    "language": "Objective-C++",
-    "description": "An unified permissions API for React Native on iOS, Android and Windows."
-  },
-  {
-    "repo": "xzf-thu/Mega-ASR",
-    "branch": "main",
-    "language": "Python",
-    "description": "First foundation ASR built for the real world - 7 atomic acoustic conditions, 54 compound scenarios, 2.6M samples, and up to ~30% gains over SOTA where every other model falls apart. **You'll come back to MEGA-ASR, after the rest fail in the wild. ⭐**"
-  },
-  {
-    "repo": "pi0/skillman",
+    "repo": "sweriko/ai4anim-webgpu",
     "branch": "main",
     "language": "TypeScript",
-    "description": "🤹 Manage project skills and lock them in skills.json"
+    "description": ""
   },
   {
-    "repo": "aresthehacker/Assassin-s-Creed-Black-Flag",
+    "repo": "timescale/timescaledb",
     "branch": "main",
-    "language": "C++",
-    "description": "Assassin's Creed Black Flag Resynced Collector's Edition 2026 Edward Kenway Statue PS5 Pro PSSR Ray Tracing High FPS Anvil Engine Caribbean Open World Pirate Simulator PC Download Steam Deck Performance Save Editor Gameplay Reveal July 9 Release Official Roadmap Ubisoft 2026"
+    "language": "C",
+    "description": "A time-series database for high-performance real-time analytics packaged as a Postgres extension"
   },
   {
-    "repo": "actions/runner",
+    "repo": "paid-tw/skills",
     "branch": "main",
-    "language": "C#",
-    "description": "The Runner for GitHub Actions :rocket:"
-  },
-  {
-    "repo": "dievus/ADPulse",
-    "branch": "main",
-    "language": "Python",
-    "description": "Active Directory Vulnerability Scanner"
-  },
-  {
-    "repo": "haolinwang819-boop/ai-video-generation-workflow",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "AI video generation workflow with script, slides, TTS, subtitles, and FFmpeg rendering."
-  },
-  {
-    "repo": "huggingface/accelerate",
-    "branch": "main",
-    "language": "Python",
-    "description": "🚀 A simple way to launch, train, and use PyTorch models on almost any device and distributed configuration, automatic mixed precision (including fp8), and easy-to-configure FSDP and DeepSpeed support"
-  },
-  {
-    "repo": "btahir/react-kino",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Cinematic scroll-driven storytelling for React"
-  },
-  {
-    "repo": "figure-markets/polymarket-copy-trading-bot",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "polymarket copytrading bot polymarket copytrading bot polymarket copytrading bot polymarket copytrading bot polymarket copytrading bot polymarket copytrading bot polymarket copytrading bot polymarket copytrading bot polymarket copytrading bot polymarket copytrading bot polymarket copytrading bot polymarket copytrading bot polymarket copytrading bot"
+    "language": "PHP",
+    "description": "台灣第三方金流 Skills for AI Agents - 藍新金流、綠界科技 ECPay、統一金流 PAYUNi"
   },
   {
     "repo": "karatelabs/karate",
@@ -84,63 +30,117 @@
     "description": "Test Automation Made Simple"
   },
   {
-    "repo": "pytorch/serve",
+    "repo": "microsoft/cascadia-code",
+    "branch": "main",
+    "language": "Python",
+    "description": "This is a fun, new monospaced font that includes programming ligatures and is designed to enhance the modern look and feel of the Windows Terminal."
+  },
+  {
+    "repo": "brackets-cont/brackets",
+    "branch": "master",
+    "language": "JavaScript",
+    "description": "An open source code editor for the web, written in JavaScript, HTML and CSS."
+  },
+  {
+    "repo": "ythx-101/ask-search",
+    "branch": "master",
+    "language": "Python",
+    "description": "Self-hosted web search skill for AI agents (OpenClaw/Claude Code/Antigravity) via SearxNG"
+  },
+  {
+    "repo": "tophant-ai/ClawVault",
+    "branch": "main",
+    "language": "Python",
+    "description": "OpenClaw Security Vault — Atomic claw control: every AI reach, within your sight."
+  },
+  {
+    "repo": "apache/groovy",
     "branch": "master",
     "language": "Java",
-    "description": "Serve, optimize and scale PyTorch models in production"
+    "description": "Apache Groovy: A powerful multi-faceted programming language for the JVM platform"
   },
   {
-    "repo": "microsoft/autogen",
+    "repo": "KXJ-WQL/PortalWebsiteSystem",
+    "branch": "master",
+    "language": "Java",
+    "description": "☃企业门户系统，基于Springboot和Thymeleaf🎪，使用layui前后端分离"
+  },
+  {
+    "repo": "Rangizingo/cc-cache-fix",
     "branch": "main",
     "language": "Python",
-    "description": "A programming framework for agentic AI"
+    "description": ""
   },
   {
-    "repo": "Tencent-Hunyuan/Hy3-preview",
+    "repo": "antirez/qwen-asr",
     "branch": "main",
+    "language": "C",
+    "description": "C inference for Qwen3-ASR 0.6b and 1.7b transcriptions models"
+  },
+  {
+    "repo": "mfornos/awesome-microservices",
+    "branch": "master",
+    "language": "Other",
+    "description": "A curated list of Microservice Architecture related principles and technologies."
+  },
+  {
+    "repo": "bitwarden/clients",
+    "branch": "master",
+    "language": "TypeScript",
+    "description": "Bitwarden client apps (web, browser extension, desktop, and cli)."
+  },
+  {
+    "repo": "Tencent-Hunyuan/HY-Embodied",
+    "branch": "master",
     "language": "Python",
-    "description": "Hy3 preview (295B A21B), a leading reasoning and agent model in its size, with great cost efficiency"
+    "description": ""
   },
   {
-    "repo": "waybarrios/opencode-power-pack",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "Eleven Claude Code skills ported to OpenCode: code-review, security-review, feature-dev, frontend-design + 7 more. One config line, one plugin."
-  },
-  {
-    "repo": "mariusdjen/vpskit",
-    "branch": "main",
-    "language": "Shell",
-    "description": "The easiest way to secure, deploy and manage a Linux VPS"
-  },
-  {
-    "repo": "openai/openai-cookbook",
-    "branch": "main",
-    "language": "Jupyter Notebook",
-    "description": "Examples and guides for using the OpenAI API"
-  },
-  {
-    "repo": "muxprotocol/kalshi-trading-bot",
+    "repo": "kothari-nikunj/llm-wiki",
     "branch": "main",
     "language": "TypeScript",
-    "description": "kalshi trading bot on prediction market autonomous kalshi trading bot that connects to the kalshi api via kalshi rest and kalshi websocket, runs a five-agent ai ensemble to analyze kalshi prediction markets, sizes positions with fractional kelly criterion against your kalshi balance, and executes kalshi orders in paper or live mode with hard daily"
+    "description": "Personal Wiki"
   },
   {
-    "repo": "googleworkspace/cli",
-    "branch": "main",
-    "language": "Rust",
-    "description": "Google Workspace CLI — one command-line tool for Drive, Gmail, Calendar, Sheets, Docs, Chat, Admin, and more. Dynamically built from Google Discovery Service. Includes AI agent skills."
-  },
-  {
-    "repo": "google-deepmind/alphageometry",
+    "repo": "opencmit/alphora",
     "branch": "main",
     "language": "Python",
-    "description": "Solving olympiad geometry without human demonstrations."
+    "description": "A Production-Ready Framework for Building Composable AI Agents"
   },
   {
-    "repo": "meodai/heerich",
+    "repo": "dominikmartn/ProgressiveBlurHeader",
     "branch": "main",
-    "language": "JavaScript",
-    "description": "Tiny engine for 3D voxel scenes rendered to SVG — boolean ops, oblique/perspective cameras, zero dependencies. Inspired by the geometric cardboard sculptures of Erwin Heerich."
+    "language": "Swift",
+    "description": "Drop-in SwiftUI component for sticky headers with progressive blur — like Apple Music, Photos, and App Store. Content scrolls underneath with increasing blur, never clipped."
+  },
+  {
+    "repo": "denoland/ronly",
+    "branch": "main",
+    "language": "Rust",
+    "description": ""
+  },
+  {
+    "repo": "millionco/debug-agent",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Debugging skill for AI agents"
+  },
+  {
+    "repo": "lukasHoel/video_to_world",
+    "branch": "main",
+    "language": "Python",
+    "description": "Our method reconstructs 3D worlds from video diffusion models using non-rigid alignment to resolve inherent 3D inconsistencies in the generated sequences."
+  },
+  {
+    "repo": "Shikhar-kulshreshtha/Bongo-Cat-Desktop-Pet-Application",
+    "branch": "main",
+    "language": "C++",
+    "description": "Bongo Cat program – adorable animated cat desktop pet that reacts to keystrokes, mouse clicks & gaming. Collect hats, enjoy reactive bongo animations, perfect overlay for streams, typing motivation & fun virtual pet on Windows PC! Cute meme cat companion app."
+  },
+  {
+    "repo": "brendanhogan/loophole",
+    "branch": "main",
+    "language": "Python",
+    "description": ""
   }
 ]
