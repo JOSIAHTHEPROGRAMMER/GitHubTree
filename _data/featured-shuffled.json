@@ -1,146 +1,146 @@
 [
   {
-    "repo": "RocketChat/Rocket.Chat",
-    "branch": "develop",
-    "language": "TypeScript",
-    "description": "The Secure CommsOS™ for mission-critical operations"
-  },
-  {
-    "repo": "Funny-Bones/ELDEN-RING-Combat-Rewrite",
-    "branch": "main",
-    "language": "Rust",
-    "description": ""
-  },
-  {
-    "repo": "bitcoin/bitcoin",
-    "branch": "master",
-    "language": "C++",
-    "description": "Bitcoin Core integration/staging tree"
-  },
-  {
-    "repo": "karpathy/nanoGPT",
-    "branch": "master",
-    "language": "Python",
-    "description": "The simplest, fastest repository for training/finetuning medium-sized GPTs."
-  },
-  {
-    "repo": "codeaashu/claude-code",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands."
-  },
-  {
-    "repo": "stong/gradscii-art",
-    "branch": "master",
-    "language": "Python",
-    "description": "An extremely good ASCII art generator, based on machine learning"
-  },
-  {
-    "repo": "mohshomis/modo",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": ""
-  },
-  {
-    "repo": "graphql/graphql-js",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "A reference implementation of GraphQL for JavaScript"
-  },
-  {
-    "repo": "TeamStuQ/skill-map",
-    "branch": "master",
-    "language": "HTML",
-    "description": "程序员技能图谱"
-  },
-  {
-    "repo": "ProjectBarks/gopher-code",
-    "branch": "main",
-    "language": "Go",
-    "description": "Claude Code, rewritten from scratch in Go. Zero Node.js. Zero Electron. One binary."
-  },
-  {
-    "repo": "Gen-Verse/OpenClaw-RL",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "OpenClaw-RL: Personalize openclaw simply by talking to it"
-  },
-  {
-    "repo": "PHjont/Wallpaper-Engine-Live-wallpaper-engine",
-    "branch": "main",
-    "language": "C++",
-    "description": "Wallpaper Engine Steam: Live wallpaper engine. Features: 3D interactive scenes, audio visualizer, clock widgets. Android sync, mobile companion, playlist scheduler. Performance optimization, low CPU usage, LED hardware lighting, Razer Chroma, Corsair iCUE, Steam Workshop integration, SceneScript."
-  },
-  {
-    "repo": "wesbos/JSON-Alexander",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "A really good JSON viewer browser Extension"
-  },
-  {
-    "repo": "heyFive-dev/Polymarket-Arbitrage-Trading-Bot-v2",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot  Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot"
-  },
-  {
-    "repo": "Lissy93/awesome-privacy",
-    "branch": "main",
-    "language": "Astro",
-    "description": "🦄  A curated list of privacy & security-focused software and services"
-  },
-  {
-    "repo": "Housetan218/claude-code-haha",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "claude-code-hahahhhhhhhhhhhhh"
-  },
-  {
-    "repo": "python-telegramBot/ai-auto-trading",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "AI trading bot crypto LLM agent quantitative trading automated trading algorithmic trading Binance Gate.io TypeScript Node.js VoltAgent crypto bot risk management multi-strategy"
-  },
-  {
-    "repo": "juliye2025/evil-read-arxiv",
+    "repo": "coleam00/excalidraw-diagram-skill",
     "branch": "main",
     "language": "Python",
-    "description": "Claude Code+Obsidian，邪修读论文就是快"
+    "description": "Skill to give Claude Code (and any coding agent) the ability to generate beautiful and practical Excalidraw diagrams."
   },
   {
-    "repo": "ryan26craf/polymarket-kalshi-arbitrage-bot",
-    "branch": "main",
-    "language": "Rust",
-    "description": "Kalshi open source trading bot to automate copy trading and arbitrage strategies on crypto prediction markets for free, with simple interface."
-  },
-  {
-    "repo": "maderix/ANE",
-    "branch": "main",
-    "language": "Objective-C",
-    "description": "Training neural networks on Apple Neural Engine via reverse-engineered private APIs"
-  },
-  {
-    "repo": "redteamfortress/PhantomKiller",
-    "branch": "main",
-    "language": "C++",
-    "description": "Another BYOVD process killer. works on all EDR's. fully signed."
-  },
-  {
-    "repo": "bschoepke/ableton-live-mcp",
-    "branch": "main",
-    "language": "Python",
-    "description": "General-purpose MCP bridge for Ableton Live"
-  },
-  {
-    "repo": "badlogic/jot",
+    "repo": "open-gsd/get-shit-done-redux",
     "branch": "main",
     "language": "JavaScript",
-    "description": "Minimal self-hosted markdown editor with inline comment threads"
+    "description": "Getting Shit Done, the Aftermath"
   },
   {
-    "repo": "microsoft/semantic-kernel",
+    "repo": "ToolSeRF/TaHa-Direct-Reverse-Tunnel-Runner",
+    "branch": "main",
+    "language": "Shell",
+    "description": "راه اندازی و مدیریت تانل مستقیم و معکوس(ریورس) با بیش از 150 پروتو برای عبور از فیلترینگ و پاسخگو برای سرورهایی با محدودیت بسیار شدید، راه اندازی بین یک یا چند سرور، به یاد طاها هوشیار کودک 12 ساله جان فدای میهن"
+  },
+  {
+    "repo": "networkx/networkx",
+    "branch": "main",
+    "language": "Python",
+    "description": "Network Analysis in Python"
+  },
+  {
+    "repo": "akeit0/okojo",
     "branch": "main",
     "language": "C#",
-    "description": "Integrate cutting-edge LLM technology quickly and easily into your apps"
+    "description": "Okojo is an experimental low allocation managed JavaScript engine for .NET"
+  },
+  {
+    "repo": "NomaDamas/k-skill",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "한국인을 위한 스킬 모음집 - SRT, KTX, KBO, 카카오톡, 쿠팡, 다나와, 네이버 스토어, 당근, 한글과 컴퓨터 등등..."
+  },
+  {
+    "repo": "hamzerbug-wq/Animal-Crossing-New-Horizons-PC",
+    "branch": "main",
+    "language": "C++",
+    "description": "Animal Crossing New Horizons PC Download April 2026 Version 3.0.2 Patch Notes Switch 2 Edition Resort Hotel Bulk Crafting Update Free High Performance 4K 60FPS Shader Fix Horizon Zero Texture Pack Mii Maker 25th Anniversary Event Guide NookLink Bridge Tutorial Stable Build Latest Emulator Eden Ryujinx"
+  },
+  {
+    "repo": "LuisAlexisSalazar/Zelda-Minish-Cap-PC",
+    "branch": "main",
+    "language": "C++",
+    "description": "Zelda Minish Cap PC download Link Ezlo Picori Vaati Hyrule Kinstones Four Sword shrinking GBA native widescreen controller save editor rom."
+  },
+  {
+    "repo": "microsoft/LightGBM",
+    "branch": "master",
+    "language": "C++",
+    "description": "A fast, distributed, high performance gradient boosting (GBT, GBDT, GBRT, GBM or MART) framework based on decision tree algorithms, used for ranking, classification and many other machine learning tasks."
+  },
+  {
+    "repo": "gorhom/react-native-bottom-sheet",
+    "branch": "master",
+    "language": "TypeScript",
+    "description": "A performant interactive bottom sheet with fully configurable options 🚀"
+  },
+  {
+    "repo": "flame-engine/flame",
+    "branch": "main",
+    "language": "Dart",
+    "description": "A Flutter based game engine."
+  },
+  {
+    "repo": "pedronaldocr07/Solana-Meteora-Alpha-Vault",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "meteora alpha vault to create large marketcap, execute deposit, claim, withdraw across unlimited wallets"
+  },
+  {
+    "repo": "leonyx007/Polymarket-Trading-Bot-Rust",
+    "branch": "main",
+    "language": "Rust",
+    "description": "polymarket bot polymarket trading bot polymarket arbitrage bot polymarket trading bot polymarket rust trading bot polymarket trading bot v2 polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket arb trading bot polymarket 5min trading bot 15min btc trading bot"
+  },
+  {
+    "repo": "penso/arbor",
+    "branch": "main",
+    "language": "Rust",
+    "description": "Desktop Git worktree manager in Rust (arbor-core + GPUI app)."
+  },
+  {
+    "repo": "livehl/aimirror",
+    "branch": "main",
+    "language": "Python",
+    "description": "🚀 200倍速！AI时代的下载神器 | Docker/PyPI/HuggingFace/CRAN 全加速 | 并行分片+智能缓存，让下载飞起来"
+  },
+  {
+    "repo": "viperrcrypto/Siftly",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Local Twitter/X bookmark organizer with AI categorization and mindmap visualization"
+  },
+  {
+    "repo": "vuejs/vue",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "This is the repo for Vue 2. For Vue 3, go to https://github.com/vuejs/core"
+  },
+  {
+    "repo": "playframework/playframework",
+    "branch": "main",
+    "language": "Scala",
+    "description": "The Community Maintained High Velocity Web Framework For Java and Scala."
+  },
+  {
+    "repo": "mermaid-js/mermaid",
+    "branch": "develop",
+    "language": "TypeScript",
+    "description": "Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdown"
+  },
+  {
+    "repo": "L42ARO/Mercury-Transforming-Drone",
+    "branch": "main",
+    "language": "Python",
+    "description": "Mercury is a transforming drone anyone can build that can be adapted for many use cases thanks to it's versatile mobility, wide range of sensors, and cargo bay area"
+  },
+  {
+    "repo": "haidang1810/md2html",
+    "branch": "main",
+    "language": "HTML",
+    "description": "Your AI writes docs — md2html turns them into pages people actually read. A portable skill for Claude Code / Codex / Antigravity that converts long-form Markdown (plans, specs, system designs, RFCs, runbooks, postmortems, brainstorms) into self-contained HTML with Mermaid, timelines, callouts, TOC. Multi-language."
+  },
+  {
+    "repo": "CylinderChairman/aida64",
+    "branch": "main",
+    "language": "PowerShell",
+    "description": "aida64 unlocker extreme edition"
+  },
+  {
+    "repo": "ml-explore/mlx",
+    "branch": "main",
+    "language": "C++",
+    "description": "MLX: An array framework for Apple silicon"
+  },
+  {
+    "repo": "florianmattana/sass-king",
+    "branch": "main",
+    "language": "Cuda",
+    "description": "Reverse engineering NVIDIA SASS  instruction dictionary, kernel audits and pattern recognition across GPU architectures."
   }
 ]
