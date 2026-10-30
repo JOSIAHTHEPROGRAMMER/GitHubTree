@@ -1,146 +1,146 @@
 [
   {
-    "repo": "RoushanKhalid/File_Encryption_Tool",
-    "branch": "main",
-    "language": "Python",
-    "description": "Encrypt/decrypt files with AES-256 and password protection. Encrypt files, decrypt files, batch encrypt, and encrypt entire folders. Protect your data."
-  },
-  {
-    "repo": "sweriko/ai4anim-webgpu",
-    "branch": "main",
+    "repo": "RocketChat/Rocket.Chat",
+    "branch": "develop",
     "language": "TypeScript",
-    "description": ""
+    "description": "The Secure CommsOS™ for mission-critical operations"
   },
   {
-    "repo": "timescale/timescaledb",
-    "branch": "main",
-    "language": "C",
-    "description": "A time-series database for high-performance real-time analytics packaged as a Postgres extension"
-  },
-  {
-    "repo": "paid-tw/skills",
-    "branch": "main",
-    "language": "PHP",
-    "description": "台灣第三方金流 Skills for AI Agents - 藍新金流、綠界科技 ECPay、統一金流 PAYUNi"
-  },
-  {
-    "repo": "karatelabs/karate",
-    "branch": "master",
-    "language": "Java",
-    "description": "Test Automation Made Simple"
-  },
-  {
-    "repo": "microsoft/cascadia-code",
-    "branch": "main",
-    "language": "Python",
-    "description": "This is a fun, new monospaced font that includes programming ligatures and is designed to enhance the modern look and feel of the Windows Terminal."
-  },
-  {
-    "repo": "brackets-cont/brackets",
-    "branch": "master",
-    "language": "JavaScript",
-    "description": "An open source code editor for the web, written in JavaScript, HTML and CSS."
-  },
-  {
-    "repo": "ythx-101/ask-search",
-    "branch": "master",
-    "language": "Python",
-    "description": "Self-hosted web search skill for AI agents (OpenClaw/Claude Code/Antigravity) via SearxNG"
-  },
-  {
-    "repo": "tophant-ai/ClawVault",
-    "branch": "main",
-    "language": "Python",
-    "description": "OpenClaw Security Vault — Atomic claw control: every AI reach, within your sight."
-  },
-  {
-    "repo": "apache/groovy",
-    "branch": "master",
-    "language": "Java",
-    "description": "Apache Groovy: A powerful multi-faceted programming language for the JVM platform"
-  },
-  {
-    "repo": "KXJ-WQL/PortalWebsiteSystem",
-    "branch": "master",
-    "language": "Java",
-    "description": "☃企业门户系统，基于Springboot和Thymeleaf🎪，使用layui前后端分离"
-  },
-  {
-    "repo": "Rangizingo/cc-cache-fix",
-    "branch": "main",
-    "language": "Python",
-    "description": ""
-  },
-  {
-    "repo": "antirez/qwen-asr",
-    "branch": "main",
-    "language": "C",
-    "description": "C inference for Qwen3-ASR 0.6b and 1.7b transcriptions models"
-  },
-  {
-    "repo": "mfornos/awesome-microservices",
-    "branch": "master",
-    "language": "Other",
-    "description": "A curated list of Microservice Architecture related principles and technologies."
-  },
-  {
-    "repo": "bitwarden/clients",
-    "branch": "master",
-    "language": "TypeScript",
-    "description": "Bitwarden client apps (web, browser extension, desktop, and cli)."
-  },
-  {
-    "repo": "Tencent-Hunyuan/HY-Embodied",
-    "branch": "master",
-    "language": "Python",
-    "description": ""
-  },
-  {
-    "repo": "kothari-nikunj/llm-wiki",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Personal Wiki"
-  },
-  {
-    "repo": "opencmit/alphora",
-    "branch": "main",
-    "language": "Python",
-    "description": "A Production-Ready Framework for Building Composable AI Agents"
-  },
-  {
-    "repo": "dominikmartn/ProgressiveBlurHeader",
-    "branch": "main",
-    "language": "Swift",
-    "description": "Drop-in SwiftUI component for sticky headers with progressive blur — like Apple Music, Photos, and App Store. Content scrolls underneath with increasing blur, never clipped."
-  },
-  {
-    "repo": "denoland/ronly",
+    "repo": "Funny-Bones/ELDEN-RING-Combat-Rewrite",
     "branch": "main",
     "language": "Rust",
     "description": ""
   },
   {
-    "repo": "millionco/debug-agent",
+    "repo": "bitcoin/bitcoin",
+    "branch": "master",
+    "language": "C++",
+    "description": "Bitcoin Core integration/staging tree"
+  },
+  {
+    "repo": "karpathy/nanoGPT",
+    "branch": "master",
+    "language": "Python",
+    "description": "The simplest, fastest repository for training/finetuning medium-sized GPTs."
+  },
+  {
+    "repo": "codeaashu/claude-code",
     "branch": "main",
     "language": "TypeScript",
-    "description": "Debugging skill for AI agents"
+    "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands."
   },
   {
-    "repo": "lukasHoel/video_to_world",
-    "branch": "main",
+    "repo": "stong/gradscii-art",
+    "branch": "master",
     "language": "Python",
-    "description": "Our method reconstructs 3D worlds from video diffusion models using non-rigid alignment to resolve inherent 3D inconsistencies in the generated sequences."
+    "description": "An extremely good ASCII art generator, based on machine learning"
   },
   {
-    "repo": "Shikhar-kulshreshtha/Bongo-Cat-Desktop-Pet-Application",
+    "repo": "mohshomis/modo",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": ""
+  },
+  {
+    "repo": "graphql/graphql-js",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "A reference implementation of GraphQL for JavaScript"
+  },
+  {
+    "repo": "TeamStuQ/skill-map",
+    "branch": "master",
+    "language": "HTML",
+    "description": "程序员技能图谱"
+  },
+  {
+    "repo": "ProjectBarks/gopher-code",
+    "branch": "main",
+    "language": "Go",
+    "description": "Claude Code, rewritten from scratch in Go. Zero Node.js. Zero Electron. One binary."
+  },
+  {
+    "repo": "Gen-Verse/OpenClaw-RL",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "OpenClaw-RL: Personalize openclaw simply by talking to it"
+  },
+  {
+    "repo": "PHjont/Wallpaper-Engine-Live-wallpaper-engine",
     "branch": "main",
     "language": "C++",
-    "description": "Bongo Cat program – adorable animated cat desktop pet that reacts to keystrokes, mouse clicks & gaming. Collect hats, enjoy reactive bongo animations, perfect overlay for streams, typing motivation & fun virtual pet on Windows PC! Cute meme cat companion app."
+    "description": "Wallpaper Engine Steam: Live wallpaper engine. Features: 3D interactive scenes, audio visualizer, clock widgets. Android sync, mobile companion, playlist scheduler. Performance optimization, low CPU usage, LED hardware lighting, Razer Chroma, Corsair iCUE, Steam Workshop integration, SceneScript."
   },
   {
-    "repo": "brendanhogan/loophole",
+    "repo": "wesbos/JSON-Alexander",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "A really good JSON viewer browser Extension"
+  },
+  {
+    "repo": "heyFive-dev/Polymarket-Arbitrage-Trading-Bot-v2",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot  Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot"
+  },
+  {
+    "repo": "Lissy93/awesome-privacy",
+    "branch": "main",
+    "language": "Astro",
+    "description": "🦄  A curated list of privacy & security-focused software and services"
+  },
+  {
+    "repo": "Housetan218/claude-code-haha",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "claude-code-hahahhhhhhhhhhhhh"
+  },
+  {
+    "repo": "python-telegramBot/ai-auto-trading",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "AI trading bot crypto LLM agent quantitative trading automated trading algorithmic trading Binance Gate.io TypeScript Node.js VoltAgent crypto bot risk management multi-strategy"
+  },
+  {
+    "repo": "juliye2025/evil-read-arxiv",
     "branch": "main",
     "language": "Python",
-    "description": ""
+    "description": "Claude Code+Obsidian，邪修读论文就是快"
+  },
+  {
+    "repo": "ryan26craf/polymarket-kalshi-arbitrage-bot",
+    "branch": "main",
+    "language": "Rust",
+    "description": "Kalshi open source trading bot to automate copy trading and arbitrage strategies on crypto prediction markets for free, with simple interface."
+  },
+  {
+    "repo": "maderix/ANE",
+    "branch": "main",
+    "language": "Objective-C",
+    "description": "Training neural networks on Apple Neural Engine via reverse-engineered private APIs"
+  },
+  {
+    "repo": "redteamfortress/PhantomKiller",
+    "branch": "main",
+    "language": "C++",
+    "description": "Another BYOVD process killer. works on all EDR's. fully signed."
+  },
+  {
+    "repo": "bschoepke/ableton-live-mcp",
+    "branch": "main",
+    "language": "Python",
+    "description": "General-purpose MCP bridge for Ableton Live"
+  },
+  {
+    "repo": "badlogic/jot",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "Minimal self-hosted markdown editor with inline comment threads"
+  },
+  {
+    "repo": "microsoft/semantic-kernel",
+    "branch": "main",
+    "language": "C#",
+    "description": "Integrate cutting-edge LLM technology quickly and easily into your apps"
   }
 ]
