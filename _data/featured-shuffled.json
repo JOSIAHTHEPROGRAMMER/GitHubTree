@@ -1,146 +1,146 @@
 [
   {
-    "repo": "heygen-com/hyperframes-launch-video",
+    "repo": "BJTUpupil/AscendFHE",
     "branch": "main",
-    "language": "HTML",
+    "language": "C++",
     "description": ""
   },
   {
-    "repo": "egotoadcitadel/palette-from-image-ai",
+    "repo": "bytedance/Lance",
     "branch": "main",
     "language": "Python",
-    "description": "AI coloring palette-from-image generator for designers and pixel artists — pull a clean named palette straight from any image, no subscription or cloud upload."
+    "description": "A 3B-active-parameter native unified multimodal model for image and video understanding, generation, and editing."
   },
   {
-    "repo": "raheemxghumman/DBD-AutoGrind-Trainer-2026-Plus",
-    "branch": "main",
-    "language": "Python",
-    "description": "Ultimate Dead by Daylight auto-grind trainer Plus edition with Bloodpoint bot, ESP wallhack, aimbot, and full perk/skin unlocker. Dominate the Fog with our 2026 undetected external tool."
-  },
-  {
-    "repo": "CyberSunil/LLMVault",
-    "branch": "main",
-    "language": "Python",
-    "description": "An intentionally vulnerable OWASP LLM Top 10 training platform for AI Security, Prompt Injection, RAG Security, Agent Security, and GenAI penetration testing."
-  },
-  {
-    "repo": "GordenSun/GordenSuperPPTSkills",
-    "branch": "main",
-    "language": "Python",
-    "description": "AI PPT赛道终结者，史上最最最强 PPT Skill！！！  使用GPT生成豪华的图片格式PPT，然后转换为完全可编辑的PPTX文件。"
-  },
-  {
-    "repo": "quarqlabs/agent-oss",
-    "branch": "main",
-    "language": "Python",
-    "description": "A recursive evidence-gated cognitive runtime for memory-native AI agents, combining hybrid retrieval, temporal reasoning, async learning, and plug-and-play tools."
-  },
-  {
-    "repo": "malk190/Romestead-Game-Release",
-    "branch": "main",
-    "language": "C#",
-    "description": "romestead game release date steam review homestead early access download survival townbuilder coop multiplayer pc crack torrent gameplay free latest version 2026"
-  },
-  {
-    "repo": "dockur/proxmox",
-    "branch": "master",
-    "language": "Shell",
-    "description": "Proxmox inside a Docker container."
-  },
-  {
-    "repo": "solomondurham854062/Cursor-AI-Pro-Download-2026",
-    "branch": "main",
-    "language": "C#",
-    "description": "A standalone utility designed to unlock and manage Pro features within the Cursor AI editor environment locally."
-  },
-  {
-    "repo": "mrgummy007/Yoshi-pc",
-    "branch": "main",
-    "language": "C#",
-    "description": "yoshi and the mysterious book free pc review switch 2 download gameplay walkthrough ryujinx yuzu emulator installation"
-  },
-  {
-    "repo": "Stellarwolf001/forza-horizon-6-spotify-radio",
+    "repo": "steipete/birdclaw",
     "branch": "main",
     "language": "TypeScript",
-    "description": "forza horizon 6 spotify radio FH 6 spotify radio  mod download nexus mods github bigjohn0 spotify radio steam epic games xbox ps5"
+    "description": "Stores all your tweets nicely claw-able for agents."
   },
   {
-    "repo": "loc567/loc567",
+    "repo": "Nightmare-Eclipse/RedSun",
     "branch": "main",
-    "language": "C",
-    "description": "loc567 是一款完全开源免费的纯网页端iOS模拟定位工具。在线体验地址：https://loc567.com"
+    "language": "C++",
+    "description": "The Red Sun vulnerability repository"
   },
   {
-    "repo": "kitlangton/terminal-control",
+    "repo": "ciroxcode/Tomodachi-Life-Living-in-the-Dream-PC-Edition",
+    "branch": "main",
+    "language": "C++",
+    "description": "Tomodachi Life Living in the Dream PC Edition brings the popular life simulation game to Windows. Create Miis, build friendships and relationships, and enjoy funny everyday moments on your own island. Optimized for modern PCs with widescreen support, smooth performance and relaxing gameplay."
+  },
+  {
+    "repo": "jackwener/twitter-cli",
+    "branch": "main",
+    "language": "Python",
+    "description": "A CLI for Twitter/X — feed, bookmarks, and user timeline in terminal"
+  },
+  {
+    "repo": "duoan/TorchCode",
+    "branch": "master",
+    "language": "Jupyter Notebook",
+    "description": "🔥 LeetCode for PyTorch — practice implementing softmax, attention, GPT-2 and more from scratch with instant auto-grading. Jupyter-based, self-hosted or try online."
+  },
+  {
+    "repo": "bytedance-deerflow/deer-flow-installer",
+    "branch": "main",
+    "language": "Python",
+    "description": "🦌 DeerFlow 2.0 installer - open-source SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skills and subagents, it handles different levels of tasks that could take minutes to hours."
+  },
+  {
+    "repo": "oboard/claude-code-rev",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Runnable ClaudeCode source code"
+  },
+  {
+    "repo": "ghboke/claude-code-reverse",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "claude code源码分析报告"
+  },
+  {
+    "repo": "elder-plinius/G0DM0D3",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "LIBERATED AI CHAT"
+  },
+  {
+    "repo": "agentscope-ai/CoPaw",
+    "branch": "main",
+    "language": "Python",
+    "description": "Your Personal AI Assistant; easy to install, deploy on your own machine or on the cloud; supports multiple chat apps with easily extensible capabilities."
+  },
+  {
+    "repo": "tianxingleo/ACGTI",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "ACG Type Indicator - MBTI inspired anime persona quiz"
+  },
+  {
+    "repo": "xaspx/hermes-control-interface",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "A self-hosted web dashboard for the Hermes AI agent stack. Provides a browser-based terminal, file explorer, session overview, cron management, system metrics, and an agent status panel — all behind a single password gate."
+  },
+  {
+    "repo": "JubaKitiashvili/expo-pretext",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Predict React Native text heights before rendering. Native TextKit/TextPaint measurement + ~0.0002ms JS layout. FlashList, streaming AI chat, typewriter, pinch-to-zoom, obstacle reflow, Dynamic Type, Expo Web. 386 tests. MIT."
+  },
+  {
+    "repo": "bstnxbt/dflash-mlx",
+    "branch": "main",
+    "language": "Python",
+    "description": "Lossless DFlash speculative decoding for MLX on Apple Silicon"
+  },
+  {
+    "repo": "renatoworks/3dsvg",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "The easiest way to turn SVGs into interactive React 3D components"
+  },
+  {
+    "repo": "kothari-nikunj/llm-wiki",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Personal Wiki"
+  },
+  {
+    "repo": "ClawBio/ClawBio",
+    "branch": "main",
+    "language": "Python",
+    "description": "🦖 ClawBio — The first bioinformatics-native AI agent skill library. Local-first. Reproducible. Built on OpenClaw."
+  },
+  {
+    "repo": "alptexans/RSC-Detect-CVE-2025-55182",
+    "branch": "main",
+    "language": "Python",
+    "description": "RSC Detect CVE 2025 55182"
+  },
+  {
+    "repo": "testcontainers/testcontainers-java",
+    "branch": "main",
+    "language": "Java",
+    "description": "Testcontainers is a Java library that supports JUnit tests, providing lightweight, throwaway instances of common databases, Selenium web browsers, or anything else that can run in a Docker container."
+  },
+  {
+    "repo": "polkadot-js/apps",
+    "branch": "master",
+    "language": "TypeScript",
+    "description": "Basic Polkadot/Substrate UI for interacting with a Polkadot and Substrate node. This is the main user-facing application, allowing access to all features available on Substrate chains."
+  },
+  {
+    "repo": "thClaws/thClaws",
     "branch": "main",
     "language": "Rust",
     "description": ""
   },
   {
-    "repo": "turbodragonecholegend2914353/Roblox-Exec-Collection-Desktop",
+    "repo": "arturoabreuhd/pinescript-ai",
     "branch": "main",
-    "language": "C#",
-    "description": "A curated collection of documentation and safe templates for understanding and analyzing Roblox execution environments in a controlled lab setting."
-  },
-  {
-    "repo": "adelaideacfalle50838568946/ChatGPT-Pro-Desktop-2026",
-    "branch": "main",
-    "language": "C#",
-    "description": "A comprehensive desktop application package for advanced ChatGPT interactions and management."
-  },
-  {
-    "repo": "ShiroEirin/comfyui-good-anima",
-    "branch": "main",
-    "language": "Python",
+    "language": "TypeScript",
     "description": ""
-  },
-  {
-    "repo": "SigmaTradeLabs/aster-bot",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "asterDEX trading bot, perp trading, asterDEX auto trading bot, asterDEX trading bot, perp trading, asterDEX auto trading bot, asterDEX trading bot, perp trading, asterDEX auto trading bot, asterDEX trading bot, perp trading, asterDEX auto trading bot, asterDEX trading bot, perp trading, asterDEX auto trading bot,"
-  },
-  {
-    "repo": "VoidSignals/Polymarket-trading-bot",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot,"
-  },
-  {
-    "repo": "taisly/agent",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "Taisly Agent Kit: SDK, CLI, examples, and docs for AI agents that publish videos through Taisly."
-  },
-  {
-    "repo": "owenshuo/open-bounty-radar",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "CLI radar for discovering and monitoring paid open-source issues and bounty opportunities"
-  },
-  {
-    "repo": "Nanako0129/coralline",
-    "branch": "main",
-    "language": "Shell",
-    "description": "🪸 Powerlevel10k-inspired statusline for Claude Code — paste one prompt and your AI interviews you, then installs it"
-  },
-  {
-    "repo": "Outcome-Signal-Forge/trading-bot",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot"
-  },
-  {
-    "repo": "alfhamdy515-svg/NS-FW-AI-Image-and-Video-Generator-Uncensd",
-    "branch": "main",
-    "language": "C#",
-    "description": "A foundational toolkit for AI-driven image generation, focusing on creative expression and content creation."
-  },
-  {
-    "repo": "jackquelineheth08161673473/discord-server-booster-2",
-    "branch": "main",
-    "language": "C++",
-    "description": "Discord Nexus Booster 2026 — Advanced Community Scaling & Engagement Automation Suite. High-speed Server Boosting via Token Synchronization, Automated Reward Management, and Infinite Invite Tracking. Cloud-based Infrastructure for Rapid Community Growth."
   }
 ]
