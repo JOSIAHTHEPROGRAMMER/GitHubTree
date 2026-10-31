@@ -1,8 +1,8 @@
 {
-  "repo": "BryceYuuu/RUN",
+  "repo": "emanuele-em/kanzo",
   "branch": "main",
-  "language": "Python",
-  "description": "RUN · 润：海外移居手册（欧洲 36 国 · 110 条路线 · 主要移民地区）",
-  "stars": 644,
-  "forks": 33
+  "language": "Rust",
+  "description": "Self-hosted kanban for humans and agents. One 4 MB binary, starts in 2 ms, zero setup.",
+  "stars": 197,
+  "forks": 11
 }

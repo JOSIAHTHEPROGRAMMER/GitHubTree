@@ -1,146 +1,146 @@
 [
   {
-    "repo": "coleam00/excalidraw-diagram-skill",
-    "branch": "main",
-    "language": "Python",
-    "description": "Skill to give Claude Code (and any coding agent) the ability to generate beautiful and practical Excalidraw diagrams."
-  },
-  {
-    "repo": "open-gsd/get-shit-done-redux",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "Getting Shit Done, the Aftermath"
-  },
-  {
-    "repo": "ToolSeRF/TaHa-Direct-Reverse-Tunnel-Runner",
+    "repo": "my-take-dev/inspired-mino-design-skills",
     "branch": "main",
     "language": "Shell",
-    "description": "راه اندازی و مدیریت تانل مستقیم و معکوس(ریورس) با بیش از 150 پروتو برای عبور از فیلترینگ و پاسخگو برای سرورهایی با محدودیت بسیار شدید، راه اندازی بین یک یا چند سرور، به یاد طاها هوشیار کودک 12 ساله جان فدای میهن"
+    "description": "ミノ駆動氏のWebに掲載されている資料から作成した開発スキル"
   },
   {
-    "repo": "networkx/networkx",
+    "repo": "AERT-7Y/kiro-auto",
     "branch": "main",
-    "language": "Python",
-    "description": "Network Analysis in Python"
+    "language": "TypeScript",
+    "description": "kiro自动注册机"
   },
   {
-    "repo": "akeit0/okojo",
-    "branch": "main",
-    "language": "C#",
-    "description": "Okojo is an experimental low allocation managed JavaScript engine for .NET"
-  },
-  {
-    "repo": "NomaDamas/k-skill",
-    "branch": "main",
+    "repo": "udacity/reactnd-contacts-server",
+    "branch": "master",
     "language": "JavaScript",
-    "description": "한국인을 위한 스킬 모음집 - SRT, KTX, KBO, 카카오톡, 쿠팡, 다나와, 네이버 스토어, 당근, 한글과 컴퓨터 등등..."
+    "description": "The backend server for the in-class Contacts project."
   },
   {
-    "repo": "hamzerbug-wq/Animal-Crossing-New-Horizons-PC",
-    "branch": "main",
-    "language": "C++",
-    "description": "Animal Crossing New Horizons PC Download April 2026 Version 3.0.2 Patch Notes Switch 2 Edition Resort Hotel Bulk Crafting Update Free High Performance 4K 60FPS Shader Fix Horizon Zero Texture Pack Mii Maker 25th Anniversary Event Guide NookLink Bridge Tutorial Stable Build Latest Emulator Eden Ryujinx"
-  },
-  {
-    "repo": "LuisAlexisSalazar/Zelda-Minish-Cap-PC",
-    "branch": "main",
-    "language": "C++",
-    "description": "Zelda Minish Cap PC download Link Ezlo Picori Vaati Hyrule Kinstones Four Sword shrinking GBA native widescreen controller save editor rom."
-  },
-  {
-    "repo": "microsoft/LightGBM",
-    "branch": "master",
-    "language": "C++",
-    "description": "A fast, distributed, high performance gradient boosting (GBT, GBDT, GBRT, GBM or MART) framework based on decision tree algorithms, used for ranking, classification and many other machine learning tasks."
-  },
-  {
-    "repo": "gorhom/react-native-bottom-sheet",
-    "branch": "master",
-    "language": "TypeScript",
-    "description": "A performant interactive bottom sheet with fully configurable options 🚀"
-  },
-  {
-    "repo": "flame-engine/flame",
-    "branch": "main",
-    "language": "Dart",
-    "description": "A Flutter based game engine."
-  },
-  {
-    "repo": "pedronaldocr07/Solana-Meteora-Alpha-Vault",
+    "repo": "Syngnat/GoNavi",
     "branch": "main",
     "language": "TypeScript",
-    "description": "meteora alpha vault to create large marketcap, execute deposit, claim, withdraw across unlimited wallets"
+    "description": "现代化、原生体验的数据库管理工具，支持 MySQL、PostgreSQL、SQLite 等数据库，采用 Go 后端 + Wails + React 前端构建，启动快、体积小、性能强。"
   },
   {
-    "repo": "leonyx007/Polymarket-Trading-Bot-Rust",
-    "branch": "main",
-    "language": "Rust",
-    "description": "polymarket bot polymarket trading bot polymarket arbitrage bot polymarket trading bot polymarket rust trading bot polymarket trading bot v2 polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket arb trading bot polymarket 5min trading bot 15min btc trading bot"
-  },
-  {
-    "repo": "penso/arbor",
-    "branch": "main",
-    "language": "Rust",
-    "description": "Desktop Git worktree manager in Rust (arbor-core + GPUI app)."
-  },
-  {
-    "repo": "livehl/aimirror",
+    "repo": "kristelTech/make_me_a_meme",
     "branch": "main",
     "language": "Python",
-    "description": "🚀 200倍速！AI时代的下载神器 | Docker/PyPI/HuggingFace/CRAN 全加速 | 并行分片+智能缓存，让下载飞起来"
+    "description": "This repository detects your facial expressions and matches you with a famous meme."
   },
   {
-    "repo": "viperrcrypto/Siftly",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Local Twitter/X bookmark organizer with AI categorization and mindmap visualization"
+    "repo": "dypsilon/frontend-dev-bookmarks",
+    "branch": "master",
+    "language": "Other",
+    "description": "Manually curated collection of resources for frontend web developers."
   },
   {
-    "repo": "vuejs/vue",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "This is the repo for Vue 2. For Vue 3, go to https://github.com/vuejs/core"
-  },
-  {
-    "repo": "playframework/playframework",
-    "branch": "main",
-    "language": "Scala",
-    "description": "The Community Maintained High Velocity Web Framework For Java and Scala."
-  },
-  {
-    "repo": "mermaid-js/mermaid",
-    "branch": "develop",
-    "language": "TypeScript",
-    "description": "Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdown"
-  },
-  {
-    "repo": "L42ARO/Mercury-Transforming-Drone",
+    "repo": "pypa/setuptools",
     "branch": "main",
     "language": "Python",
-    "description": "Mercury is a transforming drone anyone can build that can be adapted for many use cases thanks to it's versatile mobility, wide range of sensors, and cargo bay area"
+    "description": "Official project repository for the Setuptools build system"
   },
   {
-    "repo": "haidang1810/md2html",
-    "branch": "main",
-    "language": "HTML",
-    "description": "Your AI writes docs — md2html turns them into pages people actually read. A portable skill for Claude Code / Codex / Antigravity that converts long-form Markdown (plans, specs, system designs, RFCs, runbooks, postmortems, brainstorms) into self-contained HTML with Mermaid, timelines, callouts, TOC. Multi-language."
+    "repo": "charlax/professional-programming",
+    "branch": "master",
+    "language": "Python",
+    "description": "A collection of learning resources for curious software engineers"
   },
   {
-    "repo": "CylinderChairman/aida64",
-    "branch": "main",
-    "language": "PowerShell",
-    "description": "aida64 unlocker extreme edition"
+    "repo": "foundry-rs/foundry",
+    "branch": "master",
+    "language": "Rust",
+    "description": "Foundry is a blazing fast, portable and modular toolkit for Ethereum application development written in Rust."
   },
   {
-    "repo": "ml-explore/mlx",
+    "repo": "Stability-AI/generative-models",
     "branch": "main",
-    "language": "C++",
-    "description": "MLX: An array framework for Apple silicon"
+    "language": "Python",
+    "description": "Generative Models by Stability AI"
   },
   {
-    "repo": "florianmattana/sass-king",
+    "repo": "hashicorp/nomad",
     "branch": "main",
-    "language": "Cuda",
-    "description": "Reverse engineering NVIDIA SASS  instruction dictionary, kernel audits and pattern recognition across GPU architectures."
+    "language": "Go",
+    "description": "Nomad is an easy-to-use, flexible, and performant workload orchestrator that can deploy a mix of microservice, batch, containerized, and non-containerized applications. Nomad is easy to operate and scale and has native Consul and Vault integrations."
+  },
+  {
+    "repo": "deepfakes/faceswap",
+    "branch": "master",
+    "language": "Python",
+    "description": "Deepfakes Software For All"
+  },
+  {
+    "repo": "azl397985856/leetcode",
+    "branch": "master",
+    "language": "JavaScript",
+    "description": "LeetCode Solutions: A Record of My Problem Solving Journey.( leetcode题解，记录自己的leetcode解题之路。)"
+  },
+  {
+    "repo": "square/okhttp",
+    "branch": "master",
+    "language": "Kotlin",
+    "description": "Square’s meticulous HTTP client for the JVM, Android, and GraalVM."
+  },
+  {
+    "repo": "nextcloud/ios",
+    "branch": "master",
+    "language": "Swift",
+    "description": "📱 Nextcloud iOS App"
+  },
+  {
+    "repo": "FuelLabs/fuel-core",
+    "branch": "master",
+    "language": "Rust",
+    "description": "Rust full node implementation of the Fuel v2 protocol."
+  },
+  {
+    "repo": "ManimCommunity/manim",
+    "branch": "main",
+    "language": "Python",
+    "description": "A community-maintained Python framework for creating mathematical animations."
+  },
+  {
+    "repo": "pypa/pipx",
+    "branch": "main",
+    "language": "Python",
+    "description": "Install and Run Python Applications in Isolated Environments"
+  },
+  {
+    "repo": "minix3/minix",
+    "branch": "master",
+    "language": "Other",
+    "description": "Redirection to the real github page only."
+  },
+  {
+    "repo": "khoj-ai/khoj",
+    "branch": "main",
+    "language": "Python",
+    "description": "Your AI second brain. Self-hostable. Get answers from the web or your docs. Build custom agents, schedule automations, do deep research. Turn any online or local LLM into your personal, autonomous AI (gpt, claude, gemini, llama, qwen, mistral). Get started - free."
+  },
+  {
+    "repo": "pixijs/pixijs",
+    "branch": "dev",
+    "language": "TypeScript",
+    "description": "The HTML5 Creation Engine: Create beautiful digital content with the fastest, most flexible 2D WebGL renderer."
+  },
+  {
+    "repo": "airbnb/lottie-android",
+    "branch": "master",
+    "language": "Java",
+    "description": "Render After Effects animations natively on Android and iOS, Web, and React Native"
+  },
+  {
+    "repo": "starkware-libs/cairo",
+    "branch": "main",
+    "language": "Rust",
+    "description": "Cairo is the first Turing-complete language for creating provable programs for general computation."
+  },
+  {
+    "repo": "rust-lang/rustlings",
+    "branch": "main",
+    "language": "Rust",
+    "description": ":crab: Small exercises to get you used to reading and writing Rust code!"
   }
 ]
