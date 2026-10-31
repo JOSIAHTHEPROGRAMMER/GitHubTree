@@ -1,146 +1,146 @@
 [
   {
-    "repo": "my-take-dev/inspired-mino-design-skills",
-    "branch": "main",
-    "language": "Shell",
-    "description": "ミノ駆動氏のWebに掲載されている資料から作成した開発スキル"
-  },
-  {
-    "repo": "AERT-7Y/kiro-auto",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "kiro自动注册机"
-  },
-  {
-    "repo": "udacity/reactnd-contacts-server",
-    "branch": "master",
-    "language": "JavaScript",
-    "description": "The backend server for the in-class Contacts project."
-  },
-  {
-    "repo": "Syngnat/GoNavi",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "现代化、原生体验的数据库管理工具，支持 MySQL、PostgreSQL、SQLite 等数据库，采用 Go 后端 + Wails + React 前端构建，启动快、体积小、性能强。"
-  },
-  {
-    "repo": "kristelTech/make_me_a_meme",
-    "branch": "main",
-    "language": "Python",
-    "description": "This repository detects your facial expressions and matches you with a famous meme."
-  },
-  {
-    "repo": "dypsilon/frontend-dev-bookmarks",
-    "branch": "master",
-    "language": "Other",
-    "description": "Manually curated collection of resources for frontend web developers."
-  },
-  {
-    "repo": "pypa/setuptools",
-    "branch": "main",
-    "language": "Python",
-    "description": "Official project repository for the Setuptools build system"
-  },
-  {
-    "repo": "charlax/professional-programming",
-    "branch": "master",
-    "language": "Python",
-    "description": "A collection of learning resources for curious software engineers"
-  },
-  {
-    "repo": "foundry-rs/foundry",
-    "branch": "master",
-    "language": "Rust",
-    "description": "Foundry is a blazing fast, portable and modular toolkit for Ethereum application development written in Rust."
-  },
-  {
-    "repo": "Stability-AI/generative-models",
-    "branch": "main",
-    "language": "Python",
-    "description": "Generative Models by Stability AI"
-  },
-  {
-    "repo": "hashicorp/nomad",
-    "branch": "main",
-    "language": "Go",
-    "description": "Nomad is an easy-to-use, flexible, and performant workload orchestrator that can deploy a mix of microservice, batch, containerized, and non-containerized applications. Nomad is easy to operate and scale and has native Consul and Vault integrations."
-  },
-  {
-    "repo": "deepfakes/faceswap",
-    "branch": "master",
-    "language": "Python",
-    "description": "Deepfakes Software For All"
-  },
-  {
-    "repo": "azl397985856/leetcode",
-    "branch": "master",
-    "language": "JavaScript",
-    "description": "LeetCode Solutions: A Record of My Problem Solving Journey.( leetcode题解，记录自己的leetcode解题之路。)"
-  },
-  {
-    "repo": "square/okhttp",
-    "branch": "master",
-    "language": "Kotlin",
-    "description": "Square’s meticulous HTTP client for the JVM, Android, and GraalVM."
-  },
-  {
-    "repo": "nextcloud/ios",
-    "branch": "master",
-    "language": "Swift",
-    "description": "📱 Nextcloud iOS App"
-  },
-  {
-    "repo": "FuelLabs/fuel-core",
-    "branch": "master",
-    "language": "Rust",
-    "description": "Rust full node implementation of the Fuel v2 protocol."
-  },
-  {
-    "repo": "ManimCommunity/manim",
-    "branch": "main",
-    "language": "Python",
-    "description": "A community-maintained Python framework for creating mathematical animations."
-  },
-  {
-    "repo": "pypa/pipx",
-    "branch": "main",
-    "language": "Python",
-    "description": "Install and Run Python Applications in Isolated Environments"
-  },
-  {
-    "repo": "minix3/minix",
-    "branch": "master",
-    "language": "Other",
-    "description": "Redirection to the real github page only."
-  },
-  {
-    "repo": "khoj-ai/khoj",
-    "branch": "main",
-    "language": "Python",
-    "description": "Your AI second brain. Self-hostable. Get answers from the web or your docs. Build custom agents, schedule automations, do deep research. Turn any online or local LLM into your personal, autonomous AI (gpt, claude, gemini, llama, qwen, mistral). Get started - free."
-  },
-  {
-    "repo": "pixijs/pixijs",
-    "branch": "dev",
-    "language": "TypeScript",
-    "description": "The HTML5 Creation Engine: Create beautiful digital content with the fastest, most flexible 2D WebGL renderer."
-  },
-  {
-    "repo": "airbnb/lottie-android",
+    "repo": "firebase/firebase-android-sdk",
     "branch": "master",
     "language": "Java",
-    "description": "Render After Effects animations natively on Android and iOS, Web, and React Native"
+    "description": "Firebase Android SDK"
   },
   {
-    "repo": "starkware-libs/cairo",
+    "repo": "rainzz-512/Mewgenics-Chinese-Translation",
     "branch": "main",
-    "language": "Rust",
-    "description": "Cairo is the first Turing-complete language for creating provable programs for general computation."
+    "language": "Python",
+    "description": ""
   },
   {
-    "repo": "rust-lang/rustlings",
+    "repo": "Julpygo/Claude-Code-AI-Design",
+    "branch": "main",
+    "language": "C++",
+    "description": "Claude Design Anthropic Tool Download April 2026 Figma to Code AI Agent Research Preview Claude Code CLI Integration React 19 Tailwind v4 Support Model Context Protocol MCP Server Setup Design Systems Automation UI UX Prototyping Next.js Component Generation Best Developer Tools 2026 Free Tutorial"
+  },
+  {
+    "repo": "KAOPU-XiaoPu/web-design",
+    "branch": "main",
+    "language": "Python",
+    "description": "A Claude Code SKILL for designing beautiful, consistent web pages — spec first, code second."
+  },
+  {
+    "repo": "lucasastorian/llmwiki",
+    "branch": "master",
+    "language": "TypeScript",
+    "description": "Open Source Implementation of Karpathy's LLM Wiki. Upload documents, connect your Claude account via MCP, and have it write your wiki !"
+  },
+  {
+    "repo": "phai-lab/InstantSplatPP",
+    "branch": "main",
+    "language": "Python",
+    "description": ""
+  },
+  {
+    "repo": "pch/rawmakase",
     "branch": "main",
     "language": "Rust",
-    "description": ":crab: Small exercises to get you used to reading and writing Rust code!"
+    "description": "Free Lightroom alternative for Linux and macOS (possibly Windows too - not tested)"
+  },
+  {
+    "repo": "guidelabs/steerling",
+    "branch": "main",
+    "language": "Python",
+    "description": "Interpretable Causal Diffusion Language Models"
+  },
+  {
+    "repo": "CITGuru/openduck",
+    "branch": "main",
+    "language": "C++",
+    "description": "Distributed DuckDB - dual execution and differential storage"
+  },
+  {
+    "repo": "robinhood-ape/robinhood-sniper-bot",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "NOXA Fun token sniper on Robinhood Chain - watches TokenLaunched, buys via Uniswap V3 SwapRouter02, auto-sells on take-profit / stop-loss"
+  },
+  {
+    "repo": "duggasco/bc250-40cu-unlock",
+    "branch": "main",
+    "language": "Shell",
+    "description": "Re-enable all 40 CUs on the AMD BC-250 (gfx1013 / Cyan Skillfish). Kernel patch + build script. 1.61x compute scaling verified."
+  },
+  {
+    "repo": "zhilin1112/YellowKey-Bitlocker",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "YellowKey BitLocker Bypass Vulnerability : Zero-day exploit, proof-of-concept PoC, Chaotic Eclipse GitHub. Windows 11 bypass, Windows Server 2022 2025. WinRE recovery image, FsTx directory, System Volume Information, USB drive files, winpeshl.ini deletion, Transactional NTFS flaw, CTRL key shell, TPM-only backdoor."
+  },
+  {
+    "repo": "MuhammadHanzalaIqbal/Pet-Simulator-99-Auto-Farm-Trainer-2026-Mega",
+    "branch": "main",
+    "language": "Python",
+    "description": "Ultimate Mega auto farm trainer for Pet Simulator 99 – automate coin collection, egg hatching, and Backrooms League grinding with a powerful GUI. Updated for June 2026, undetected, and easy to use."
+  },
+  {
+    "repo": "signalapp/Signal-Desktop",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "A private messenger for Windows, macOS, and Linux."
+  },
+  {
+    "repo": "civilian7/sql-tutorial",
+    "branch": "main",
+    "language": "Python",
+    "description": "현실적인 전자상거래 데이터베이스로 배우는 SQL 튜토리얼 (21 tables, 18 views, 111 exercises)"
+  },
+  {
+    "repo": "bottlerocket-os/bottlerocket",
+    "branch": "develop",
+    "language": "Rust",
+    "description": "An operating system designed for hosting containers"
+  },
+  {
+    "repo": "kubevirt/kubevirt",
+    "branch": "main",
+    "language": "Go",
+    "description": "Kubernetes Virtualization API and runtime in order to define and manage virtual machines."
+  },
+  {
+    "repo": "real-Elysia886/Todo-Tree-Next",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "Modern rewrite of Todo Tree — TypeScript + Rust architecture for blazing-fast TODO scanning in VS Code"
+  },
+  {
+    "repo": "eli-labz/Third-Eye",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "A production-grade OSINT platform that provides situational awareness across multiple intelligence domains."
+  },
+  {
+    "repo": "uu201/character-arc",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "弧光 · AI 小说创作桌面应用，集项目设定、角色关系、剧情大纲、章节写作与多模型 AI 协作于一体"
+  },
+  {
+    "repo": "pyg-team/pytorch_geometric",
+    "branch": "master",
+    "language": "Python",
+    "description": "Graph Neural Network Library for PyTorch"
+  },
+  {
+    "repo": "solidjs-community/solid-primitives",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "A library of high-quality primitives that extend SolidJS reactivity."
+  },
+  {
+    "repo": "go-gitea/gitea",
+    "branch": "main",
+    "language": "Go",
+    "description": "Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD"
+  },
+  {
+    "repo": "docmd-io/docmd",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Build production-ready documentation from Markdown in seconds. No React, no bloat, just content."
   }
 ]

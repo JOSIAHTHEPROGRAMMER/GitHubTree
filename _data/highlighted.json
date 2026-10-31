@@ -1,8 +1,8 @@
 {
-  "repo": "emanuele-em/kanzo",
+  "repo": "wzc520pyfm/gen-ai-pose-image",
   "branch": "main",
-  "language": "Rust",
-  "description": "Self-hosted kanban for humans and agents. One 4 MB binary, starts in 2 ms, zero setup.",
-  "stars": 197,
-  "forks": 11
+  "language": "JavaScript",
+  "description": "澜姿：从姿势线稿和衣装集给社区鲸鱼娘大肥鱼模特出图，调整姿势加变装，也可装进 DeepSeek Harness。Lanpose generates images of the community whale-girl Dafeiyu from pose sketches and costumes, and installs into DeepSeek Harness.",
+  "stars": 228,
+  "forks": 31
 }
