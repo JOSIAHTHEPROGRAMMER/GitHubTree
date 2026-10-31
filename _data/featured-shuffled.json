@@ -1,146 +1,146 @@
 [
   {
-    "repo": "firebase/firebase-android-sdk",
-    "branch": "master",
-    "language": "Java",
-    "description": "Firebase Android SDK"
-  },
-  {
-    "repo": "rainzz-512/Mewgenics-Chinese-Translation",
+    "repo": "heygen-com/hyperframes-launch-video",
     "branch": "main",
-    "language": "Python",
+    "language": "HTML",
     "description": ""
   },
   {
-    "repo": "Julpygo/Claude-Code-AI-Design",
-    "branch": "main",
-    "language": "C++",
-    "description": "Claude Design Anthropic Tool Download April 2026 Figma to Code AI Agent Research Preview Claude Code CLI Integration React 19 Tailwind v4 Support Model Context Protocol MCP Server Setup Design Systems Automation UI UX Prototyping Next.js Component Generation Best Developer Tools 2026 Free Tutorial"
-  },
-  {
-    "repo": "KAOPU-XiaoPu/web-design",
+    "repo": "egotoadcitadel/palette-from-image-ai",
     "branch": "main",
     "language": "Python",
-    "description": "A Claude Code SKILL for designing beautiful, consistent web pages — spec first, code second."
+    "description": "AI coloring palette-from-image generator for designers and pixel artists — pull a clean named palette straight from any image, no subscription or cloud upload."
   },
   {
-    "repo": "lucasastorian/llmwiki",
+    "repo": "raheemxghumman/DBD-AutoGrind-Trainer-2026-Plus",
+    "branch": "main",
+    "language": "Python",
+    "description": "Ultimate Dead by Daylight auto-grind trainer Plus edition with Bloodpoint bot, ESP wallhack, aimbot, and full perk/skin unlocker. Dominate the Fog with our 2026 undetected external tool."
+  },
+  {
+    "repo": "CyberSunil/LLMVault",
+    "branch": "main",
+    "language": "Python",
+    "description": "An intentionally vulnerable OWASP LLM Top 10 training platform for AI Security, Prompt Injection, RAG Security, Agent Security, and GenAI penetration testing."
+  },
+  {
+    "repo": "GordenSun/GordenSuperPPTSkills",
+    "branch": "main",
+    "language": "Python",
+    "description": "AI PPT赛道终结者，史上最最最强 PPT Skill！！！  使用GPT生成豪华的图片格式PPT，然后转换为完全可编辑的PPTX文件。"
+  },
+  {
+    "repo": "quarqlabs/agent-oss",
+    "branch": "main",
+    "language": "Python",
+    "description": "A recursive evidence-gated cognitive runtime for memory-native AI agents, combining hybrid retrieval, temporal reasoning, async learning, and plug-and-play tools."
+  },
+  {
+    "repo": "malk190/Romestead-Game-Release",
+    "branch": "main",
+    "language": "C#",
+    "description": "romestead game release date steam review homestead early access download survival townbuilder coop multiplayer pc crack torrent gameplay free latest version 2026"
+  },
+  {
+    "repo": "dockur/proxmox",
     "branch": "master",
-    "language": "TypeScript",
-    "description": "Open Source Implementation of Karpathy's LLM Wiki. Upload documents, connect your Claude account via MCP, and have it write your wiki !"
-  },
-  {
-    "repo": "phai-lab/InstantSplatPP",
-    "branch": "main",
-    "language": "Python",
-    "description": ""
-  },
-  {
-    "repo": "pch/rawmakase",
-    "branch": "main",
-    "language": "Rust",
-    "description": "Free Lightroom alternative for Linux and macOS (possibly Windows too - not tested)"
-  },
-  {
-    "repo": "guidelabs/steerling",
-    "branch": "main",
-    "language": "Python",
-    "description": "Interpretable Causal Diffusion Language Models"
-  },
-  {
-    "repo": "CITGuru/openduck",
-    "branch": "main",
-    "language": "C++",
-    "description": "Distributed DuckDB - dual execution and differential storage"
-  },
-  {
-    "repo": "robinhood-ape/robinhood-sniper-bot",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "NOXA Fun token sniper on Robinhood Chain - watches TokenLaunched, buys via Uniswap V3 SwapRouter02, auto-sells on take-profit / stop-loss"
-  },
-  {
-    "repo": "duggasco/bc250-40cu-unlock",
-    "branch": "main",
     "language": "Shell",
-    "description": "Re-enable all 40 CUs on the AMD BC-250 (gfx1013 / Cyan Skillfish). Kernel patch + build script. 1.61x compute scaling verified."
+    "description": "Proxmox inside a Docker container."
   },
   {
-    "repo": "zhilin1112/YellowKey-Bitlocker",
+    "repo": "solomondurham854062/Cursor-AI-Pro-Download-2026",
+    "branch": "main",
+    "language": "C#",
+    "description": "A standalone utility designed to unlock and manage Pro features within the Cursor AI editor environment locally."
+  },
+  {
+    "repo": "mrgummy007/Yoshi-pc",
+    "branch": "main",
+    "language": "C#",
+    "description": "yoshi and the mysterious book free pc review switch 2 download gameplay walkthrough ryujinx yuzu emulator installation"
+  },
+  {
+    "repo": "Stellarwolf001/forza-horizon-6-spotify-radio",
     "branch": "main",
     "language": "TypeScript",
-    "description": "YellowKey BitLocker Bypass Vulnerability : Zero-day exploit, proof-of-concept PoC, Chaotic Eclipse GitHub. Windows 11 bypass, Windows Server 2022 2025. WinRE recovery image, FsTx directory, System Volume Information, USB drive files, winpeshl.ini deletion, Transactional NTFS flaw, CTRL key shell, TPM-only backdoor."
+    "description": "forza horizon 6 spotify radio FH 6 spotify radio  mod download nexus mods github bigjohn0 spotify radio steam epic games xbox ps5"
   },
   {
-    "repo": "MuhammadHanzalaIqbal/Pet-Simulator-99-Auto-Farm-Trainer-2026-Mega",
+    "repo": "loc567/loc567",
     "branch": "main",
-    "language": "Python",
-    "description": "Ultimate Mega auto farm trainer for Pet Simulator 99 – automate coin collection, egg hatching, and Backrooms League grinding with a powerful GUI. Updated for June 2026, undetected, and easy to use."
+    "language": "C",
+    "description": "loc567 是一款完全开源免费的纯网页端iOS模拟定位工具。在线体验地址：https://loc567.com"
   },
   {
-    "repo": "signalapp/Signal-Desktop",
+    "repo": "kitlangton/terminal-control",
     "branch": "main",
-    "language": "TypeScript",
-    "description": "A private messenger for Windows, macOS, and Linux."
-  },
-  {
-    "repo": "civilian7/sql-tutorial",
-    "branch": "main",
-    "language": "Python",
-    "description": "현실적인 전자상거래 데이터베이스로 배우는 SQL 튜토리얼 (21 tables, 18 views, 111 exercises)"
-  },
-  {
-    "repo": "bottlerocket-os/bottlerocket",
-    "branch": "develop",
     "language": "Rust",
-    "description": "An operating system designed for hosting containers"
+    "description": ""
   },
   {
-    "repo": "kubevirt/kubevirt",
+    "repo": "turbodragonecholegend2914353/Roblox-Exec-Collection-Desktop",
     "branch": "main",
-    "language": "Go",
-    "description": "Kubernetes Virtualization API and runtime in order to define and manage virtual machines."
+    "language": "C#",
+    "description": "A curated collection of documentation and safe templates for understanding and analyzing Roblox execution environments in a controlled lab setting."
   },
   {
-    "repo": "real-Elysia886/Todo-Tree-Next",
+    "repo": "adelaideacfalle50838568946/ChatGPT-Pro-Desktop-2026",
+    "branch": "main",
+    "language": "C#",
+    "description": "A comprehensive desktop application package for advanced ChatGPT interactions and management."
+  },
+  {
+    "repo": "ShiroEirin/comfyui-good-anima",
+    "branch": "main",
+    "language": "Python",
+    "description": ""
+  },
+  {
+    "repo": "SigmaTradeLabs/aster-bot",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "asterDEX trading bot, perp trading, asterDEX auto trading bot, asterDEX trading bot, perp trading, asterDEX auto trading bot, asterDEX trading bot, perp trading, asterDEX auto trading bot, asterDEX trading bot, perp trading, asterDEX auto trading bot, asterDEX trading bot, perp trading, asterDEX auto trading bot,"
+  },
+  {
+    "repo": "VoidSignals/Polymarket-trading-bot",
     "branch": "main",
     "language": "JavaScript",
-    "description": "Modern rewrite of Todo Tree — TypeScript + Rust architecture for blazing-fast TODO scanning in VS Code"
+    "description": "polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot,"
   },
   {
-    "repo": "eli-labz/Third-Eye",
+    "repo": "taisly/agent",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "Taisly Agent Kit: SDK, CLI, examples, and docs for AI agents that publish videos through Taisly."
+  },
+  {
+    "repo": "owenshuo/open-bounty-radar",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "CLI radar for discovering and monitoring paid open-source issues and bounty opportunities"
+  },
+  {
+    "repo": "Nanako0129/coralline",
+    "branch": "main",
+    "language": "Shell",
+    "description": "🪸 Powerlevel10k-inspired statusline for Claude Code — paste one prompt and your AI interviews you, then installs it"
+  },
+  {
+    "repo": "Outcome-Signal-Forge/trading-bot",
     "branch": "main",
     "language": "TypeScript",
-    "description": "A production-grade OSINT platform that provides situational awareness across multiple intelligence domains."
+    "description": "polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot"
   },
   {
-    "repo": "uu201/character-arc",
+    "repo": "alfhamdy515-svg/NS-FW-AI-Image-and-Video-Generator-Uncensd",
     "branch": "main",
-    "language": "TypeScript",
-    "description": "弧光 · AI 小说创作桌面应用，集项目设定、角色关系、剧情大纲、章节写作与多模型 AI 协作于一体"
+    "language": "C#",
+    "description": "A foundational toolkit for AI-driven image generation, focusing on creative expression and content creation."
   },
   {
-    "repo": "pyg-team/pytorch_geometric",
-    "branch": "master",
-    "language": "Python",
-    "description": "Graph Neural Network Library for PyTorch"
-  },
-  {
-    "repo": "solidjs-community/solid-primitives",
+    "repo": "jackquelineheth08161673473/discord-server-booster-2",
     "branch": "main",
-    "language": "TypeScript",
-    "description": "A library of high-quality primitives that extend SolidJS reactivity."
-  },
-  {
-    "repo": "go-gitea/gitea",
-    "branch": "main",
-    "language": "Go",
-    "description": "Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD"
-  },
-  {
-    "repo": "docmd-io/docmd",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Build production-ready documentation from Markdown in seconds. No React, no bloat, just content."
+    "language": "C++",
+    "description": "Discord Nexus Booster 2026 — Advanced Community Scaling & Engagement Automation Suite. High-speed Server Boosting via Token Synchronization, Automated Reward Management, and Infinite Invite Tracking. Cloud-based Infrastructure for Rapid Community Growth."
   }
 ]
