@@ -1,146 +1,146 @@
 [
   {
-    "repo": "BJTUpupil/AscendFHE",
+    "repo": "Zyrexnn/Cybermes",
+    "branch": "main",
+    "language": "Python",
+    "description": "Autonomous Offensive Security, Bug Bounty & Red Teaming Agent Framework powered by Hermes Agent, specialized reasoning skills, and multi-model LLM orchestration."
+  },
+  {
+    "repo": "hamzerbug-wq/Animal-Crossing-New-Horizons-PC",
     "branch": "main",
     "language": "C++",
+    "description": "Animal Crossing New Horizons PC Download April 2026 Version 3.0.2 Patch Notes Switch 2 Edition Resort Hotel Bulk Crafting Update Free High Performance 4K 60FPS Shader Fix Horizon Zero Texture Pack Mii Maker 25th Anniversary Event Guide NookLink Bridge Tutorial Stable Build Latest Emulator Eden Ryujinx"
+  },
+  {
+    "repo": "0Chencc/clawgod",
+    "branch": "main",
+    "language": "PowerShell",
+    "description": "This is NOT a third-party Claude Code client. ClawGod is a runtime patch applied on top of the official Claude Code. It works with any version — as Claude Code updates, the patch continues to take effect"
+  },
+  {
+    "repo": "adafruit/circuitpython",
+    "branch": "main",
+    "language": "C",
+    "description": "CircuitPython - a Python implementation for teaching coding with microcontrollers"
+  },
+  {
+    "repo": "lxf746/any-auto-register",
+    "branch": "main",
+    "language": "Python",
     "description": ""
   },
   {
-    "repo": "bytedance/Lance",
+    "repo": "slowmist/openclaw-security-practice-guide",
+    "branch": "main",
+    "language": "Shell",
+    "description": "This guide is designed for OpenClaw itself (Agent-facing), not as a traditional human-only hardening checklist."
+  },
+  {
+    "repo": "sparkyniner/Netryx-OpenSource-Next-Gen-Street-Level-Geolocation",
     "branch": "main",
     "language": "Python",
-    "description": "A 3B-active-parameter native unified multimodal model for image and video understanding, generation, and editing."
+    "description": "Netryx is a powerful, locally-hosted geolocation tool that uses state-of-the-art computer vision to identify the exact coordinates of a street-level image. It replicates the core pipeline of high-end geolocation SaaS platforms but runs entirely on your local hardware."
   },
   {
-    "repo": "steipete/birdclaw",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Stores all your tweets nicely claw-able for agents."
+    "repo": "LuaJIT/LuaJIT",
+    "branch": "v2.1",
+    "language": "C",
+    "description": "Mirror of the LuaJIT git repository"
   },
   {
-    "repo": "Nightmare-Eclipse/RedSun",
-    "branch": "main",
-    "language": "C++",
-    "description": "The Red Sun vulnerability repository"
-  },
-  {
-    "repo": "ciroxcode/Tomodachi-Life-Living-in-the-Dream-PC-Edition",
-    "branch": "main",
-    "language": "C++",
-    "description": "Tomodachi Life Living in the Dream PC Edition brings the popular life simulation game to Windows. Create Miis, build friendships and relationships, and enjoy funny everyday moments on your own island. Optimized for modern PCs with widescreen support, smooth performance and relaxing gameplay."
-  },
-  {
-    "repo": "jackwener/twitter-cli",
-    "branch": "main",
-    "language": "Python",
-    "description": "A CLI for Twitter/X — feed, bookmarks, and user timeline in terminal"
-  },
-  {
-    "repo": "duoan/TorchCode",
+    "repo": "lauris/awesome-scala",
     "branch": "master",
-    "language": "Jupyter Notebook",
-    "description": "🔥 LeetCode for PyTorch — practice implementing softmax, attention, GPT-2 and more from scratch with instant auto-grading. Jupyter-based, self-hosted or try online."
-  },
-  {
-    "repo": "bytedance-deerflow/deer-flow-installer",
-    "branch": "main",
     "language": "Python",
-    "description": "🦌 DeerFlow 2.0 installer - open-source SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skills and subagents, it handles different levels of tasks that could take minutes to hours."
+    "description": "A community driven list of useful Scala libraries, frameworks and software."
   },
   {
-    "repo": "oboard/claude-code-rev",
+    "repo": "manojmidhul92-art/Umbrella-HWID",
+    "branch": "main",
+    "language": "C++",
+    "description": "Advanced HWID changer. Bypass Vanguard, EAC, BattlEye, Ricochet. Features: Disk serials spoofing, BIOS/Baseboard UUID change, MAC address randomize, Monitor ID masking. Registry cleaner, trace remover, permanent/temporary mode. Kernel-level protection, one-click spoofer, anti-cheat bypass."
+  },
+  {
+    "repo": "devdriveLLM/polymarket-copy-trading-bot",
     "branch": "main",
     "language": "TypeScript",
-    "description": "Runnable ClaudeCode source code"
+    "description": "polymarket copy trading bot v2 polymarket copy trading bot v2 polymarket copy trading bot v2 polymarket copy trading bot v2 polymarket copy trading bot v2 polymarket copy trading bot v2 polymarket copy trading bot v2 polymarket copy trading bot v2 polymarket copy trading bot v2"
   },
   {
-    "repo": "ghboke/claude-code-reverse",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "claude code源码分析报告"
-  },
-  {
-    "repo": "elder-plinius/G0DM0D3",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "LIBERATED AI CHAT"
-  },
-  {
-    "repo": "agentscope-ai/CoPaw",
-    "branch": "main",
-    "language": "Python",
-    "description": "Your Personal AI Assistant; easy to install, deploy on your own machine or on the cloud; supports multiple chat apps with easily extensible capabilities."
-  },
-  {
-    "repo": "tianxingleo/ACGTI",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "ACG Type Indicator - MBTI inspired anime persona quiz"
-  },
-  {
-    "repo": "xaspx/hermes-control-interface",
-    "branch": "main",
+    "repo": "brackets-cont/brackets",
+    "branch": "master",
     "language": "JavaScript",
-    "description": "A self-hosted web dashboard for the Hermes AI agent stack. Provides a browser-based terminal, file explorer, session overview, cron management, system metrics, and an agent status panel — all behind a single password gate."
+    "description": "An open source code editor for the web, written in JavaScript, HTML and CSS."
   },
   {
-    "repo": "JubaKitiashvili/expo-pretext",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Predict React Native text heights before rendering. Native TextKit/TextPaint measurement + ~0.0002ms JS layout. FlashList, streaming AI chat, typewriter, pinch-to-zoom, obstacle reflow, Dynamic Type, Expo Web. 386 tests. MIT."
-  },
-  {
-    "repo": "bstnxbt/dflash-mlx",
-    "branch": "main",
-    "language": "Python",
-    "description": "Lossless DFlash speculative decoding for MLX on Apple Silicon"
-  },
-  {
-    "repo": "renatoworks/3dsvg",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "The easiest way to turn SVGs into interactive React 3D components"
-  },
-  {
-    "repo": "kothari-nikunj/llm-wiki",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Personal Wiki"
-  },
-  {
-    "repo": "ClawBio/ClawBio",
-    "branch": "main",
-    "language": "Python",
-    "description": "🦖 ClawBio — The first bioinformatics-native AI agent skill library. Local-first. Reproducible. Built on OpenClaw."
-  },
-  {
-    "repo": "alptexans/RSC-Detect-CVE-2025-55182",
-    "branch": "main",
-    "language": "Python",
-    "description": "RSC Detect CVE 2025 55182"
-  },
-  {
-    "repo": "testcontainers/testcontainers-java",
-    "branch": "main",
-    "language": "Java",
-    "description": "Testcontainers is a Java library that supports JUnit tests, providing lightweight, throwaway instances of common databases, Selenium web browsers, or anything else that can run in a Docker container."
-  },
-  {
-    "repo": "polkadot-js/apps",
-    "branch": "master",
-    "language": "TypeScript",
-    "description": "Basic Polkadot/Substrate UI for interacting with a Polkadot and Substrate node. This is the main user-facing application, allowing access to all features available on Substrate chains."
-  },
-  {
-    "repo": "thClaws/thClaws",
+    "repo": "rust-lang/rustlings",
     "branch": "main",
     "language": "Rust",
-    "description": ""
+    "description": ":crab: Small exercises to get you used to reading and writing Rust code!"
   },
   {
-    "repo": "arturoabreuhd/pinescript-ai",
+    "repo": "pytorch/pytorch",
+    "branch": "main",
+    "language": "Python",
+    "description": "Tensors and Dynamic neural networks in Python with strong GPU acceleration"
+  },
+  {
+    "repo": "PeonPing/peon-ping",
+    "branch": "main",
+    "language": "Shell",
+    "description": "Warcraft III Peon voice notifications for Claude Code. Stop babysitting your terminal."
+  },
+  {
+    "repo": "dair-ai/ML-YouTube-Courses",
+    "branch": "main",
+    "language": "Other",
+    "description": "📺 Discover the latest machine learning / AI courses on YouTube."
+  },
+  {
+    "repo": "LeoYeAI/openclaw-backup",
+    "branch": "main",
+    "language": "Shell",
+    "description": "One-click backup & restore for OpenClaw instances — workspace, credentials, skills, agent history. Powered by MyClaw.ai"
+  },
+  {
+    "repo": "uditgoenka/autoresearch",
+    "branch": "master",
+    "language": "Shell",
+    "description": "Claude Autoresearch Skill — Autonomous goal-directed iteration for Claude Code. Inspired by Karpathy's autoresearch. Modify → Verify → Keep/Discard → Repeat forever."
+  },
+  {
+    "repo": "joelbqz/writer-computer",
+    "branch": "master",
+    "language": "TypeScript",
+    "description": "Local-first desktop markdown editor"
+  },
+  {
+    "repo": "ml-explore/mlx",
+    "branch": "main",
+    "language": "C++",
+    "description": "MLX: An array framework for Apple silicon"
+  },
+  {
+    "repo": "cosmiciron/vmprint",
     "branch": "main",
     "language": "TypeScript",
+    "description": "A pure-JS, zero-dependency typesetting engine that yields bit-perfect PDF output across any runtime—from Cloudflare Workers to the browser. Stop using Headless Chrome to print text."
+  },
+  {
+    "repo": "deepmind/alphafold",
+    "branch": "main",
+    "language": "Python",
+    "description": "Open source code for AlphaFold 2."
+  },
+  {
+    "repo": "antfu/tsnapi",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Library public API snapshot testing for runtime exports and type declarations."
+  },
+  {
+    "repo": "nv-tlabs/kimodo",
+    "branch": "main",
+    "language": "Python",
     "description": ""
   }
 ]
