@@ -1,146 +1,146 @@
 [
   {
-    "repo": "xiaobiaodu/Mobile-GS",
-    "branch": "main",
-    "language": "Python",
-    "description": "[ICLR 2026] Mobile-GS: Real-time Gaussian Splatting for Mobile Devices"
-  },
-  {
-    "repo": "RadianceToadAmend/cs2-overlay-utility",
-    "branch": "main",
-    "language": "C++",
-    "description": "CS2 external overlay tool — memory reader, entity ESP, and visual aids. D3D11 render, no injection. For educational purposes."
-  },
-  {
-    "repo": "luckyyyyy/specc.sh",
+    "repo": "gothic-remake/Gothic-1-Remake-Release",
     "branch": "main",
     "language": "TypeScript",
-    "description": "Spec Coding beats Vibe Coding. A full-stack AI template for production-grade code."
+    "description": "gothic 1 remake release date free download windows global launch times thq nordic alkimia interactive unreal engine 5 steam pc ps5 xbox series x s gameplay system requirements trailer pre order collectors edition official launch 2026"
   },
   {
-    "repo": "OpenSparX/MasterAgent",
-    "branch": "main",
-    "language": "C++",
-    "description": "Build AI agents that run 100% on-device. Sub-100ms latency on Qualcomm NPU. Zero cloud dependency."
-  },
-  {
-    "repo": "Fenng/Tech-Doc-Style-Chinese",
-    "branch": "main",
-    "language": "Python",
-    "description": "Yet another reusable writing skill for Chinese technical documentation and product copy."
-  },
-  {
-    "repo": "alefinvest/polymarket-copy-bot",
+    "repo": "TheCSir/TerminalStart",
     "branch": "main",
     "language": "TypeScript",
-    "description": "polymarket copy trading bot polymarket copy bot polymarket trading bot polymarket copy trading bot polymarket copy bot polymarket trading bot polymarket copy trading bot polymarket copy bot polymarket trading bot polymarket copy trading bot polymarket copy bot polymarket trading bot polymarket copy trading bot polymarket copy bot polymarket trading"
+    "description": "Chromium Extension for Tech Bros"
   },
   {
-    "repo": "HarnessLab/claw-code-agent",
-    "branch": "main",
-    "language": "Python",
-    "description": "Claw Code No Rust No TypeScript Only Python. Easy to work with. Fast to iterate. 🔥 Zero external dependencies 🔥"
-  },
-  {
-    "repo": "cdanielc293/Jenny-Mod-All-Versions",
-    "branch": "main",
-    "language": "C#",
-    "description": "Jenny Mod: Minecraft 1.12.2 Java download, Bedrock addon, Pocket Edition PE mcpack, Android APK. SchnuriTV original, Ellie companion, Slime Girl. Forge loader setup, Fabric port, custom animations, interactive skins. Installation guide, dependency files, .jar download, crash fix, portable."
-  },
-  {
-    "repo": "wisher567/Portpal",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "See exactly what’s using your ports — and kill it in one click."
-  },
-  {
-    "repo": "kettanaito/async-history-stack",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Arbitrary change history management in JavaScript."
-  },
-  {
-    "repo": "flowapi-net/flow-llm-router",
-    "branch": "main",
-    "language": "Python",
-    "description": "The Ultimate Token Saver"
-  },
-  {
-    "repo": "udayanwalvekar/clearshot",
-    "branch": "main",
-    "language": "Shell",
-    "description": "📸 Structured screenshot intelligence for AI coding tools. Give your AI X-ray vision for UI screenshots."
-  },
-  {
-    "repo": "milla-jovovich/mempalace",
-    "branch": "main",
-    "language": "Python",
-    "description": "The highest-scoring AI memory system ever benchmarked. And it's free."
-  },
-  {
-    "repo": "OpenDriveLab/WorldEngine",
-    "branch": "main",
-    "language": "Python",
-    "description": "WorldEngine: Towards the Era of Post-Training for Physical AI"
-  },
-  {
-    "repo": "ckpxgfnksd-max/uap-release-analyzer",
-    "branch": "main",
-    "language": "Python",
-    "description": "A Claude skill for analyzing tranches of declassified UAP/UFO documents (war.gov PURSUE, FBI Vault, NARA, AARO). Inventory + text extraction + entity surfacing + standardized 11-section REPORT.md."
-  },
-  {
-    "repo": "poseljacob/agentic-video-editor",
-    "branch": "main",
-    "language": "Python",
-    "description": "AI-powered video editor that turns raw footage and a creative brief into a polished ad using an ensemble of AI agents (Google Gemini + FFmpeg)"
-  },
-  {
-    "repo": "DIYgod/cloudflare-edge-tts",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": ""
-  },
-  {
-    "repo": "Kappaemme-git/codex-complexity-optimizer",
-    "branch": "main",
-    "language": "Python",
-    "description": "Codex skill for safe codebase complexity analysis and performance optimization reports"
-  },
-  {
-    "repo": "k2-fsa/OmniVoice",
-    "branch": "master",
-    "language": "Python",
-    "description": "High-Quality Voice Cloning TTS for 600+ Languages"
-  },
-  {
-    "repo": "patterniha/SNI-Spoofing",
-    "branch": "main",
-    "language": "Python",
-    "description": "Bypass DPI with IP/TCP-Header manipulation"
-  },
-  {
-    "repo": "lightseekorg/tokenspeed",
-    "branch": "main",
-    "language": "Python",
-    "description": "TokenSpeed is a speed-of-light LLM inference engine."
-  },
-  {
-    "repo": "bhope/hedge",
+    "repo": "kubevirt/kubevirt",
     "branch": "main",
     "language": "Go",
-    "description": "Adaptive hedged requests for Go. Cut your p99 latency with zero configuration. Based on Google's The Tail at Scale paper."
+    "description": "Kubernetes Virtualization API and runtime in order to define and manage virtual machines."
   },
   {
-    "repo": "Leonxlnx/claw-dev",
+    "repo": "JubaKitiashvili/expo-pretext",
     "branch": "main",
     "language": "TypeScript",
+    "description": "Predict React Native text heights before rendering. Native TextKit/TextPaint measurement + ~0.0002ms JS layout. FlashList, streaming AI chat, typewriter, pinch-to-zoom, obstacle reflow, Dynamic Type, Expo Web. 386 tests. MIT."
+  },
+  {
+    "repo": "fabricjs/fabric.js",
+    "branch": "master",
+    "language": "TypeScript",
+    "description": "Javascript Canvas Library, SVG-to-Canvas (& canvas-to-SVG) Parser"
+  },
+  {
+    "repo": "761696148/Game-Map-Tracker",
+    "branch": "main",
+    "language": "Python",
     "description": ""
   },
   {
-    "repo": "i12bp8/TagTinker",
+    "repo": "nvm-sh/nvm",
+    "branch": "master",
+    "language": "Shell",
+    "description": "Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions"
+  },
+  {
+    "repo": "Jane-xiaoer/x-fetcher",
     "branch": "main",
-    "language": "C",
-    "description": "Flipper Zero app for ESL research using IR. All based on https://www.furrtek.org/?a=esl"
+    "language": "Python",
+    "description": ""
+  },
+  {
+    "repo": "FlowiseAI/Flowise",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Build AI Agents, Visually"
+  },
+  {
+    "repo": "zarazhangrui/youtube-to-ebook",
+    "branch": "main",
+    "language": "Python",
+    "description": "Claude skill for turning YouTube transcripts from your favorite channels into EPUB ebooks, delivered to your email inbox regularly"
+  },
+  {
+    "repo": "karpathy/KarpathyTalk",
+    "branch": "master",
+    "language": "Go",
+    "description": "A positive developer community for builders and agents."
+  },
+  {
+    "repo": "Ansub/wiki-os",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Open-source web app for search, browsing, graphs, and local knowledge exploration."
+  },
+  {
+    "repo": "TanStack/router",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "🤖 A client-first, server-capable, fully type-safe router and full-stack framework for the web (React and more)."
+  },
+  {
+    "repo": "edinetdb/dexter-jp",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "日本株の自律型リサーチAIエージェント｜AI agent for deep financial research on Japanese listed companies. Powered by EDINET DB + J-Quants."
+  },
+  {
+    "repo": "victorsosaMx/vsWaybar-Studio",
+    "branch": "main",
+    "language": "Python",
+    "description": "Visual editor for Waybar — build, style and preview your bar in real time (GTK + Python)"
+  },
+  {
+    "repo": "redai-infra/Relax",
+    "branch": "main",
+    "language": "Python",
+    "description": "An Asynchronous Reinforcement Learning Engine for Omni-Modal Post-Training at Scale"
+  },
+  {
+    "repo": "cksac/turboquant-model",
+    "branch": "main",
+    "language": "Python",
+    "description": ""
+  },
+  {
+    "repo": "tj/n",
+    "branch": "master",
+    "language": "Shell",
+    "description": "Node version management"
+  },
+  {
+    "repo": "browser-use/browser-harness-js",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Self-healing browser harness that enables LLMs to complete any task"
+  },
+  {
+    "repo": "akseolabs-seo/AK-Threads-booster",
+    "branch": "main",
+    "language": "Python",
+    "description": "AK體 · 數據驅動的 Threads 寫文決策系統。用你的歷史貼文、演算法與社媒心理學，協助選題、起草、發文前診斷、表現預估與復盤。Data-driven Threads writing advisor — topic selection, drafting, diagnosis, prediction & review based on your own post history."
+  },
+  {
+    "repo": "mukul975/cve-mcp-server",
+    "branch": "main",
+    "language": "Python",
+    "description": "Production-grade MCP server giving Claude 27 security intelligence tools across 21 APIs — CVE lookup, EPSS scoring, CISA KEV, MITRE ATT&CK, Shodan, VirusTotal, and more."
+  },
+  {
+    "repo": "cisco-ai-defense/defenseclaw",
+    "branch": "main",
+    "language": "Python",
+    "description": "Security Governance for Agentic AI"
+  },
+  {
+    "repo": "opidora2245/Skeetcc-CS2-Cheat-DMA-2026",
+    "branch": "main",
+    "language": "C++",
+    "description": "Skeet-CS2 (2026) — The most sophisticated internal framework for CS2. Featuring low-latency ESP rendering, advanced hitscan telemetry, and a legendary UI. Experience the gold standard of game analytics and visual modification."
+  },
+  {
+    "repo": "codetrybe/polymarket-trading-bot",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot"
   }
 ]
