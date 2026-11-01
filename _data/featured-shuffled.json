@@ -1,146 +1,146 @@
 [
   {
-    "repo": "Zyrexnn/Cybermes",
+    "repo": "xiaobiaodu/Mobile-GS",
     "branch": "main",
     "language": "Python",
-    "description": "Autonomous Offensive Security, Bug Bounty & Red Teaming Agent Framework powered by Hermes Agent, specialized reasoning skills, and multi-model LLM orchestration."
+    "description": "[ICLR 2026] Mobile-GS: Real-time Gaussian Splatting for Mobile Devices"
   },
   {
-    "repo": "hamzerbug-wq/Animal-Crossing-New-Horizons-PC",
+    "repo": "RadianceToadAmend/cs2-overlay-utility",
     "branch": "main",
     "language": "C++",
-    "description": "Animal Crossing New Horizons PC Download April 2026 Version 3.0.2 Patch Notes Switch 2 Edition Resort Hotel Bulk Crafting Update Free High Performance 4K 60FPS Shader Fix Horizon Zero Texture Pack Mii Maker 25th Anniversary Event Guide NookLink Bridge Tutorial Stable Build Latest Emulator Eden Ryujinx"
+    "description": "CS2 external overlay tool — memory reader, entity ESP, and visual aids. D3D11 render, no injection. For educational purposes."
   },
   {
-    "repo": "0Chencc/clawgod",
+    "repo": "luckyyyyy/specc.sh",
     "branch": "main",
-    "language": "PowerShell",
-    "description": "This is NOT a third-party Claude Code client. ClawGod is a runtime patch applied on top of the official Claude Code. It works with any version — as Claude Code updates, the patch continues to take effect"
+    "language": "TypeScript",
+    "description": "Spec Coding beats Vibe Coding. A full-stack AI template for production-grade code."
   },
   {
-    "repo": "adafruit/circuitpython",
+    "repo": "OpenSparX/MasterAgent",
     "branch": "main",
-    "language": "C",
-    "description": "CircuitPython - a Python implementation for teaching coding with microcontrollers"
+    "language": "C++",
+    "description": "Build AI agents that run 100% on-device. Sub-100ms latency on Qualcomm NPU. Zero cloud dependency."
   },
   {
-    "repo": "lxf746/any-auto-register",
+    "repo": "Fenng/Tech-Doc-Style-Chinese",
     "branch": "main",
     "language": "Python",
+    "description": "Yet another reusable writing skill for Chinese technical documentation and product copy."
+  },
+  {
+    "repo": "alefinvest/polymarket-copy-bot",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "polymarket copy trading bot polymarket copy bot polymarket trading bot polymarket copy trading bot polymarket copy bot polymarket trading bot polymarket copy trading bot polymarket copy bot polymarket trading bot polymarket copy trading bot polymarket copy bot polymarket trading bot polymarket copy trading bot polymarket copy bot polymarket trading"
+  },
+  {
+    "repo": "HarnessLab/claw-code-agent",
+    "branch": "main",
+    "language": "Python",
+    "description": "Claw Code No Rust No TypeScript Only Python. Easy to work with. Fast to iterate. 🔥 Zero external dependencies 🔥"
+  },
+  {
+    "repo": "cdanielc293/Jenny-Mod-All-Versions",
+    "branch": "main",
+    "language": "C#",
+    "description": "Jenny Mod: Minecraft 1.12.2 Java download, Bedrock addon, Pocket Edition PE mcpack, Android APK. SchnuriTV original, Ellie companion, Slime Girl. Forge loader setup, Fabric port, custom animations, interactive skins. Installation guide, dependency files, .jar download, crash fix, portable."
+  },
+  {
+    "repo": "wisher567/Portpal",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "See exactly what’s using your ports — and kill it in one click."
+  },
+  {
+    "repo": "kettanaito/async-history-stack",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Arbitrary change history management in JavaScript."
+  },
+  {
+    "repo": "flowapi-net/flow-llm-router",
+    "branch": "main",
+    "language": "Python",
+    "description": "The Ultimate Token Saver"
+  },
+  {
+    "repo": "udayanwalvekar/clearshot",
+    "branch": "main",
+    "language": "Shell",
+    "description": "📸 Structured screenshot intelligence for AI coding tools. Give your AI X-ray vision for UI screenshots."
+  },
+  {
+    "repo": "milla-jovovich/mempalace",
+    "branch": "main",
+    "language": "Python",
+    "description": "The highest-scoring AI memory system ever benchmarked. And it's free."
+  },
+  {
+    "repo": "OpenDriveLab/WorldEngine",
+    "branch": "main",
+    "language": "Python",
+    "description": "WorldEngine: Towards the Era of Post-Training for Physical AI"
+  },
+  {
+    "repo": "ckpxgfnksd-max/uap-release-analyzer",
+    "branch": "main",
+    "language": "Python",
+    "description": "A Claude skill for analyzing tranches of declassified UAP/UFO documents (war.gov PURSUE, FBI Vault, NARA, AARO). Inventory + text extraction + entity surfacing + standardized 11-section REPORT.md."
+  },
+  {
+    "repo": "poseljacob/agentic-video-editor",
+    "branch": "main",
+    "language": "Python",
+    "description": "AI-powered video editor that turns raw footage and a creative brief into a polished ad using an ensemble of AI agents (Google Gemini + FFmpeg)"
+  },
+  {
+    "repo": "DIYgod/cloudflare-edge-tts",
+    "branch": "main",
+    "language": "TypeScript",
     "description": ""
   },
   {
-    "repo": "slowmist/openclaw-security-practice-guide",
-    "branch": "main",
-    "language": "Shell",
-    "description": "This guide is designed for OpenClaw itself (Agent-facing), not as a traditional human-only hardening checklist."
-  },
-  {
-    "repo": "sparkyniner/Netryx-OpenSource-Next-Gen-Street-Level-Geolocation",
+    "repo": "Kappaemme-git/codex-complexity-optimizer",
     "branch": "main",
     "language": "Python",
-    "description": "Netryx is a powerful, locally-hosted geolocation tool that uses state-of-the-art computer vision to identify the exact coordinates of a street-level image. It replicates the core pipeline of high-end geolocation SaaS platforms but runs entirely on your local hardware."
+    "description": "Codex skill for safe codebase complexity analysis and performance optimization reports"
   },
   {
-    "repo": "LuaJIT/LuaJIT",
-    "branch": "v2.1",
-    "language": "C",
-    "description": "Mirror of the LuaJIT git repository"
-  },
-  {
-    "repo": "lauris/awesome-scala",
+    "repo": "k2-fsa/OmniVoice",
     "branch": "master",
     "language": "Python",
-    "description": "A community driven list of useful Scala libraries, frameworks and software."
+    "description": "High-Quality Voice Cloning TTS for 600+ Languages"
   },
   {
-    "repo": "manojmidhul92-art/Umbrella-HWID",
-    "branch": "main",
-    "language": "C++",
-    "description": "Advanced HWID changer. Bypass Vanguard, EAC, BattlEye, Ricochet. Features: Disk serials spoofing, BIOS/Baseboard UUID change, MAC address randomize, Monitor ID masking. Registry cleaner, trace remover, permanent/temporary mode. Kernel-level protection, one-click spoofer, anti-cheat bypass."
-  },
-  {
-    "repo": "devdriveLLM/polymarket-copy-trading-bot",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "polymarket copy trading bot v2 polymarket copy trading bot v2 polymarket copy trading bot v2 polymarket copy trading bot v2 polymarket copy trading bot v2 polymarket copy trading bot v2 polymarket copy trading bot v2 polymarket copy trading bot v2 polymarket copy trading bot v2"
-  },
-  {
-    "repo": "brackets-cont/brackets",
-    "branch": "master",
-    "language": "JavaScript",
-    "description": "An open source code editor for the web, written in JavaScript, HTML and CSS."
-  },
-  {
-    "repo": "rust-lang/rustlings",
-    "branch": "main",
-    "language": "Rust",
-    "description": ":crab: Small exercises to get you used to reading and writing Rust code!"
-  },
-  {
-    "repo": "pytorch/pytorch",
+    "repo": "patterniha/SNI-Spoofing",
     "branch": "main",
     "language": "Python",
-    "description": "Tensors and Dynamic neural networks in Python with strong GPU acceleration"
+    "description": "Bypass DPI with IP/TCP-Header manipulation"
   },
   {
-    "repo": "PeonPing/peon-ping",
-    "branch": "main",
-    "language": "Shell",
-    "description": "Warcraft III Peon voice notifications for Claude Code. Stop babysitting your terminal."
-  },
-  {
-    "repo": "dair-ai/ML-YouTube-Courses",
-    "branch": "main",
-    "language": "Other",
-    "description": "📺 Discover the latest machine learning / AI courses on YouTube."
-  },
-  {
-    "repo": "LeoYeAI/openclaw-backup",
-    "branch": "main",
-    "language": "Shell",
-    "description": "One-click backup & restore for OpenClaw instances — workspace, credentials, skills, agent history. Powered by MyClaw.ai"
-  },
-  {
-    "repo": "uditgoenka/autoresearch",
-    "branch": "master",
-    "language": "Shell",
-    "description": "Claude Autoresearch Skill — Autonomous goal-directed iteration for Claude Code. Inspired by Karpathy's autoresearch. Modify → Verify → Keep/Discard → Repeat forever."
-  },
-  {
-    "repo": "joelbqz/writer-computer",
-    "branch": "master",
-    "language": "TypeScript",
-    "description": "Local-first desktop markdown editor"
-  },
-  {
-    "repo": "ml-explore/mlx",
-    "branch": "main",
-    "language": "C++",
-    "description": "MLX: An array framework for Apple silicon"
-  },
-  {
-    "repo": "cosmiciron/vmprint",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "A pure-JS, zero-dependency typesetting engine that yields bit-perfect PDF output across any runtime—from Cloudflare Workers to the browser. Stop using Headless Chrome to print text."
-  },
-  {
-    "repo": "deepmind/alphafold",
+    "repo": "lightseekorg/tokenspeed",
     "branch": "main",
     "language": "Python",
-    "description": "Open source code for AlphaFold 2."
+    "description": "TokenSpeed is a speed-of-light LLM inference engine."
   },
   {
-    "repo": "antfu/tsnapi",
+    "repo": "bhope/hedge",
+    "branch": "main",
+    "language": "Go",
+    "description": "Adaptive hedged requests for Go. Cut your p99 latency with zero configuration. Based on Google's The Tail at Scale paper."
+  },
+  {
+    "repo": "Leonxlnx/claw-dev",
     "branch": "main",
     "language": "TypeScript",
-    "description": "Library public API snapshot testing for runtime exports and type declarations."
-  },
-  {
-    "repo": "nv-tlabs/kimodo",
-    "branch": "main",
-    "language": "Python",
     "description": ""
+  },
+  {
+    "repo": "i12bp8/TagTinker",
+    "branch": "main",
+    "language": "C",
+    "description": "Flipper Zero app for ESL research using IR. All based on https://www.furrtek.org/?a=esl"
   }
 ]
