@@ -1,8 +1,8 @@
 {
-  "repo": "Gezine/CivSwitch",
+  "repo": "ShineFinancialStrut/game-server-route-racer",
   "branch": "main",
-  "language": "JavaScript",
-  "description": "Nintendo Switch userland code execution using Civilization 7 game cartridge",
-  "stars": 343,
-  "forks": 64
+  "language": "Rust",
+  "description": "Detour times every route to your game server, puts only the game's traffic on the fastest one, and says so plainly when no route can help. Free relays: your own or the community's.",
+  "stars": 366,
+  "forks": 26
 }

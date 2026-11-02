@@ -1,146 +1,146 @@
 [
   {
-    "repo": "Kenton-GMI/sakura-crossing",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "An explorable Japanese suburban railway-crossing neighbourhood on a small planet, rendered 3D-to-2D as a cel-shaded anime background. Three.js, no image assets."
-  },
-  {
-    "repo": "shobhit99/SuperIsland",
-    "branch": "main",
-    "language": "Swift",
-    "description": "Dynamic Island for MacOS — with Extensions"
-  },
-  {
-    "repo": "BurntSushi/xsv",
-    "branch": "master",
-    "language": "Rust",
-    "description": "A fast CSV command line toolkit written in Rust."
-  },
-  {
-    "repo": "Rabrg/artificial-life",
+    "repo": "dahan6/siming",
     "branch": "main",
     "language": "Python",
-    "description": "A simple (300 lines of code) reproduction of Computational Life: How Well-formed, Self-replicating Programs Emerge from Simple Interaction"
+    "description": "Behavioral Grammar: detecting adaptive malware via tiny language-model priors and second-order temporal analysis. 0.88M-param self-supervised HIDS — 93% detection vs adaptive adversarial agent at 3.84% onboarding FPR."
   },
   {
-    "repo": "incursi0n/GodPotatoBOF",
-    "branch": "main",
-    "language": "C",
-    "description": "Cobalt Strike BOF used to perform privilege escalation by exploiting the SeImpersonate privilege. Based on the original GodPotato PoC by BeichenDream."
-  },
-  {
-    "repo": "TQZHR/grok2api",
-    "branch": "main",
-    "language": "Python",
-    "description": "Grok2API (Cloudflare Workers) one-click deploy with auto D1+KV provisioning"
-  },
-  {
-    "repo": "he-yufeng/CoreCoder",
-    "branch": "main",
-    "language": "Python",
-    "description": "Minimal AI coding agent (~950 LoC Python) inspired by Claude Code. Works with any LLM. Think NanoGPT for coding agent. Formerly NanoCoder."
-  },
-  {
-    "repo": "OpenDriveLab/WorldEngine",
-    "branch": "main",
-    "language": "Python",
-    "description": "WorldEngine: Towards the Era of Post-Training for Physical AI"
-  },
-  {
-    "repo": "josephmisiti/awesome-machine-learning",
-    "branch": "master",
-    "language": "Python",
-    "description": "A curated list of awesome Machine Learning frameworks, libraries and software."
-  },
-  {
-    "repo": "DenAB-NVS/submarine",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "Sovereign, depth-adaptive AI memory. Open source. Local-first. Model-agnostic."
-  },
-  {
-    "repo": "wxtsky/byob",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Bring Your Own Browser — let your AI agent use the Chrome you already have open"
-  },
-  {
-    "repo": "lynote-ai/humanize-text",
-    "branch": "main",
-    "language": "Python",
-    "description": "Free open-source AI text humanizer to convert AI-generated content into undetectable, human-like writing. Bypass Turnitin, GPTZero, and all major AI detectors. No sign-up required. Try our unlimited free online tool"
-  },
-  {
-    "repo": "obdev/littlesnitch-linux",
-    "branch": "main",
-    "language": "Rust",
-    "description": "Open Source components of Little Snitch for Linux"
-  },
-  {
-    "repo": "susanudgzf/Aave-Claw",
-    "branch": "main",
-    "language": "Rust",
-    "description": ""
-  },
-  {
-    "repo": "vincelele/ai-fomo-skills",
-    "branch": "main",
-    "language": "Python",
-    "description": "Personal superalignment skills for turning AI information overload into reusable knowledge, signals, and digests."
-  },
-  {
-    "repo": "reiazevedo/Tomodachi-Life-Living-the-Dream-Desktop-Version",
-    "branch": "main",
-    "language": "C++",
-    "description": "Tomodachi Life: Living the Dream Desktop Version is the optimized PC edition of the popular life simulation game. Create Miis, build friendships, host concerts, and enjoy island life in high resolution with smooth performance and modern controls on Windows."
-  },
-  {
-    "repo": "JetBrains/kotlin",
-    "branch": "master",
-    "language": "Kotlin",
-    "description": "The Kotlin Programming Language."
-  },
-  {
-    "repo": "muxprotocol/kalshi-trading-bot",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "kalshi trading bot on prediction market autonomous kalshi trading bot that connects to the kalshi api via kalshi rest and kalshi websocket, runs a five-agent ai ensemble to analyze kalshi prediction markets, sizes positions with fractional kelly criterion against your kalshi balance, and executes kalshi orders in paper or live mode with hard daily"
-  },
-  {
-    "repo": "btahir/react-kino",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Cinematic scroll-driven storytelling for React"
-  },
-  {
-    "repo": "angel10x/Crash-Frontend",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "About Crash game - frontend"
-  },
-  {
-    "repo": "jbhuang0604/awesome-computer-vision",
+    "repo": "JStumpp/awesome-android",
     "branch": "master",
     "language": "Other",
-    "description": "A curated list of awesome computer vision resources"
+    "description": "A curated list of awesome Android packages and resources."
   },
   {
-    "repo": "bitwarden/clients",
-    "branch": "master",
+    "repo": "erenjugs/OpenGork",
+    "branch": "main",
+    "language": "Shell",
+    "description": "🧠 Uncensored AI agent powered by xAI's Grok - no filters, no limits"
+  },
+  {
+    "repo": "xyzeva/k-id-age-verifier",
+    "branch": "main",
     "language": "TypeScript",
-    "description": "Bitwarden client apps (web, browser extension, desktop, and cli)."
+    "description": "automatically verify your age on discord, twitch, kick, quora and more (k-id)"
   },
   {
-    "repo": "akitaonrails/FrankSherlock",
-    "branch": "master",
-    "language": "Rust",
-    "description": "Intelligent File Searcher that can search for descriptions in media files like photos, for example receipt from market of $42.00 using AI based classification"
+    "repo": "halofyai/halofy",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Halofy is the open access and governance layer for AI agents across your organization. Identity, policy, provenance, audit, and signed erasure."
   },
   {
-    "repo": "junjiezhou1122/GptCrate",
+    "repo": "DLYuanGod/MegaTrain",
     "branch": "main",
     "language": "Python",
     "description": ""
+  },
+  {
+    "repo": "googleapis/google-cloud-python",
+    "branch": "main",
+    "language": "Python",
+    "description": "Google Cloud Client Library for Python"
+  },
+  {
+    "repo": "chef/chef",
+    "branch": "main",
+    "language": "Ruby",
+    "description": "Chef Infra, a powerful automation platform that transforms infrastructure into code automating how infrastructure is configured, deployed and managed across any environment, at any scale"
+  },
+  {
+    "repo": "go-sql-driver/mysql",
+    "branch": "master",
+    "language": "Go",
+    "description": "Go MySQL Driver is a MySQL driver for Go's (golang) database/sql package"
+  },
+  {
+    "repo": "mtdvio/every-programmer-should-know",
+    "branch": "master",
+    "language": "Other",
+    "description": "A collection of (mostly) technical things every software developer should know about"
+  },
+  {
+    "repo": "arcships/light-ocr",
+    "branch": "main",
+    "language": "C++",
+    "description": "C++17 PP-OCRv6 small OCR core with an asynchronous Node-API adapter"
+  },
+  {
+    "repo": "fadilr8/Bluesky_Auto-Reply___Like_Bot",
+    "branch": "main",
+    "language": "Python",
+    "description": "Automatically like and reply to posts on Bluesky. Boost engagement and connect with other users."
+  },
+  {
+    "repo": "threeorz1027-svg/quiztube",
+    "branch": "main",
+    "language": "HTML",
+    "description": ""
+  },
+  {
+    "repo": "santifer/career-ops",
+    "branch": "main",
+    "language": "Go",
+    "description": "AI-powered job search system built on Claude Code. 14 skill modes, Go dashboard, PDF generation, batch processing."
+  },
+  {
+    "repo": "aigclink/geolook",
+    "branch": "main",
+    "language": "Python",
+    "description": "Open-source end-to-end GEO implementation: status analysis, diagnosis, strategy, tickets, execution, verification"
+  },
+  {
+    "repo": "triangkas/Deltarune-Chapter5-Trainer-Toolkit",
+    "branch": "main",
+    "language": "Python",
+    "description": "Advanced Deltarune Chapter 5 trainer featuring infinite HP, max stats, unlimited items, and speed control. Undetected external tool for single-player exploration."
+  },
+  {
+    "repo": "zaoan0/funf-pro-relay",
+    "branch": "main",
+    "language": "Python",
+    "description": ""
+  },
+  {
+    "repo": "plausible/analytics",
+    "branch": "master",
+    "language": "Elixir",
+    "description": "Simple, open source, lightweight and privacy-friendly web analytics alternative to Google Analytics."
+  },
+  {
+    "repo": "testcontainers/testcontainers-java",
+    "branch": "main",
+    "language": "Java",
+    "description": "Testcontainers is a Java library that supports JUnit tests, providing lightweight, throwaway instances of common databases, Selenium web browsers, or anything else that can run in a Docker container."
+  },
+  {
+    "repo": "jrhueiueng/Password_Manager_Safe",
+    "branch": "main",
+    "language": "Python",
+    "description": "Store and generate strong passwords, auto-fill forms. Create strong passwords, secure vault, fill login forms, and sync across devices. Secure your accounts."
+  },
+  {
+    "repo": "bleuropa/loomkin",
+    "branch": "main",
+    "language": "Elixir",
+    "description": "An Elixir-native AI coding assistant with persistent decision graphs, repo intelligence, and a Phoenix LiveView UI"
+  },
+  {
+    "repo": "shorwood/slopc",
+    "branch": "main",
+    "language": "Rust",
+    "description": "A proc macro that uses an hallucination machine to write your function bodies at compile time."
+  },
+  {
+    "repo": "endevco/aube",
+    "branch": "main",
+    "language": "Rust",
+    "description": "A fast Node.js package manager"
+  },
+  {
+    "repo": "qntrade1/polymarket-arbitrage-trading-bot",
+    "branch": "main",
+    "language": "Python",
+    "description": "polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot"
   }
 ]
