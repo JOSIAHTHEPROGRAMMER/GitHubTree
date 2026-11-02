@@ -1,8 +1,8 @@
 {
-  "repo": "nathanliow/atlas-of-physics",
+  "repo": "Gezine/CivSwitch",
   "branch": "main",
   "language": "JavaScript",
-  "description": "An interactive 3D textbook for AP Physics 1 and AP Physics C",
-  "stars": 317,
-  "forks": 93
+  "description": "Nintendo Switch userland code execution using Civilization 7 game cartridge",
+  "stars": 343,
+  "forks": 64
 }

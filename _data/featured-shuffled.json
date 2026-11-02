@@ -1,146 +1,146 @@
 [
   {
-    "repo": "gothic-remake/Gothic-1-Remake-Release",
+    "repo": "Kenton-GMI/sakura-crossing",
     "branch": "main",
-    "language": "TypeScript",
-    "description": "gothic 1 remake release date free download windows global launch times thq nordic alkimia interactive unreal engine 5 steam pc ps5 xbox series x s gameplay system requirements trailer pre order collectors edition official launch 2026"
+    "language": "JavaScript",
+    "description": "An explorable Japanese suburban railway-crossing neighbourhood on a small planet, rendered 3D-to-2D as a cel-shaded anime background. Three.js, no image assets."
   },
   {
-    "repo": "TheCSir/TerminalStart",
+    "repo": "shobhit99/SuperIsland",
     "branch": "main",
-    "language": "TypeScript",
-    "description": "Chromium Extension for Tech Bros"
+    "language": "Swift",
+    "description": "Dynamic Island for MacOS — with Extensions"
   },
   {
-    "repo": "kubevirt/kubevirt",
-    "branch": "main",
-    "language": "Go",
-    "description": "Kubernetes Virtualization API and runtime in order to define and manage virtual machines."
-  },
-  {
-    "repo": "JubaKitiashvili/expo-pretext",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Predict React Native text heights before rendering. Native TextKit/TextPaint measurement + ~0.0002ms JS layout. FlashList, streaming AI chat, typewriter, pinch-to-zoom, obstacle reflow, Dynamic Type, Expo Web. 386 tests. MIT."
-  },
-  {
-    "repo": "fabricjs/fabric.js",
+    "repo": "BurntSushi/xsv",
     "branch": "master",
-    "language": "TypeScript",
-    "description": "Javascript Canvas Library, SVG-to-Canvas (& canvas-to-SVG) Parser"
+    "language": "Rust",
+    "description": "A fast CSV command line toolkit written in Rust."
   },
   {
-    "repo": "761696148/Game-Map-Tracker",
+    "repo": "Rabrg/artificial-life",
     "branch": "main",
     "language": "Python",
+    "description": "A simple (300 lines of code) reproduction of Computational Life: How Well-formed, Self-replicating Programs Emerge from Simple Interaction"
+  },
+  {
+    "repo": "incursi0n/GodPotatoBOF",
+    "branch": "main",
+    "language": "C",
+    "description": "Cobalt Strike BOF used to perform privilege escalation by exploiting the SeImpersonate privilege. Based on the original GodPotato PoC by BeichenDream."
+  },
+  {
+    "repo": "TQZHR/grok2api",
+    "branch": "main",
+    "language": "Python",
+    "description": "Grok2API (Cloudflare Workers) one-click deploy with auto D1+KV provisioning"
+  },
+  {
+    "repo": "he-yufeng/CoreCoder",
+    "branch": "main",
+    "language": "Python",
+    "description": "Minimal AI coding agent (~950 LoC Python) inspired by Claude Code. Works with any LLM. Think NanoGPT for coding agent. Formerly NanoCoder."
+  },
+  {
+    "repo": "OpenDriveLab/WorldEngine",
+    "branch": "main",
+    "language": "Python",
+    "description": "WorldEngine: Towards the Era of Post-Training for Physical AI"
+  },
+  {
+    "repo": "josephmisiti/awesome-machine-learning",
+    "branch": "master",
+    "language": "Python",
+    "description": "A curated list of awesome Machine Learning frameworks, libraries and software."
+  },
+  {
+    "repo": "DenAB-NVS/submarine",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "Sovereign, depth-adaptive AI memory. Open source. Local-first. Model-agnostic."
+  },
+  {
+    "repo": "wxtsky/byob",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Bring Your Own Browser — let your AI agent use the Chrome you already have open"
+  },
+  {
+    "repo": "lynote-ai/humanize-text",
+    "branch": "main",
+    "language": "Python",
+    "description": "Free open-source AI text humanizer to convert AI-generated content into undetectable, human-like writing. Bypass Turnitin, GPTZero, and all major AI detectors. No sign-up required. Try our unlimited free online tool"
+  },
+  {
+    "repo": "obdev/littlesnitch-linux",
+    "branch": "main",
+    "language": "Rust",
+    "description": "Open Source components of Little Snitch for Linux"
+  },
+  {
+    "repo": "susanudgzf/Aave-Claw",
+    "branch": "main",
+    "language": "Rust",
     "description": ""
   },
   {
-    "repo": "nvm-sh/nvm",
-    "branch": "master",
-    "language": "Shell",
-    "description": "Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions"
-  },
-  {
-    "repo": "Jane-xiaoer/x-fetcher",
+    "repo": "vincelele/ai-fomo-skills",
     "branch": "main",
     "language": "Python",
-    "description": ""
+    "description": "Personal superalignment skills for turning AI information overload into reusable knowledge, signals, and digests."
   },
   {
-    "repo": "FlowiseAI/Flowise",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Build AI Agents, Visually"
-  },
-  {
-    "repo": "zarazhangrui/youtube-to-ebook",
-    "branch": "main",
-    "language": "Python",
-    "description": "Claude skill for turning YouTube transcripts from your favorite channels into EPUB ebooks, delivered to your email inbox regularly"
-  },
-  {
-    "repo": "karpathy/KarpathyTalk",
-    "branch": "master",
-    "language": "Go",
-    "description": "A positive developer community for builders and agents."
-  },
-  {
-    "repo": "Ansub/wiki-os",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Open-source web app for search, browsing, graphs, and local knowledge exploration."
-  },
-  {
-    "repo": "TanStack/router",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "🤖 A client-first, server-capable, fully type-safe router and full-stack framework for the web (React and more)."
-  },
-  {
-    "repo": "edinetdb/dexter-jp",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "日本株の自律型リサーチAIエージェント｜AI agent for deep financial research on Japanese listed companies. Powered by EDINET DB + J-Quants."
-  },
-  {
-    "repo": "victorsosaMx/vsWaybar-Studio",
-    "branch": "main",
-    "language": "Python",
-    "description": "Visual editor for Waybar — build, style and preview your bar in real time (GTK + Python)"
-  },
-  {
-    "repo": "redai-infra/Relax",
-    "branch": "main",
-    "language": "Python",
-    "description": "An Asynchronous Reinforcement Learning Engine for Omni-Modal Post-Training at Scale"
-  },
-  {
-    "repo": "cksac/turboquant-model",
-    "branch": "main",
-    "language": "Python",
-    "description": ""
-  },
-  {
-    "repo": "tj/n",
-    "branch": "master",
-    "language": "Shell",
-    "description": "Node version management"
-  },
-  {
-    "repo": "browser-use/browser-harness-js",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Self-healing browser harness that enables LLMs to complete any task"
-  },
-  {
-    "repo": "akseolabs-seo/AK-Threads-booster",
-    "branch": "main",
-    "language": "Python",
-    "description": "AK體 · 數據驅動的 Threads 寫文決策系統。用你的歷史貼文、演算法與社媒心理學，協助選題、起草、發文前診斷、表現預估與復盤。Data-driven Threads writing advisor — topic selection, drafting, diagnosis, prediction & review based on your own post history."
-  },
-  {
-    "repo": "mukul975/cve-mcp-server",
-    "branch": "main",
-    "language": "Python",
-    "description": "Production-grade MCP server giving Claude 27 security intelligence tools across 21 APIs — CVE lookup, EPSS scoring, CISA KEV, MITRE ATT&CK, Shodan, VirusTotal, and more."
-  },
-  {
-    "repo": "cisco-ai-defense/defenseclaw",
-    "branch": "main",
-    "language": "Python",
-    "description": "Security Governance for Agentic AI"
-  },
-  {
-    "repo": "opidora2245/Skeetcc-CS2-Cheat-DMA-2026",
+    "repo": "reiazevedo/Tomodachi-Life-Living-the-Dream-Desktop-Version",
     "branch": "main",
     "language": "C++",
-    "description": "Skeet-CS2 (2026) — The most sophisticated internal framework for CS2. Featuring low-latency ESP rendering, advanced hitscan telemetry, and a legendary UI. Experience the gold standard of game analytics and visual modification."
+    "description": "Tomodachi Life: Living the Dream Desktop Version is the optimized PC edition of the popular life simulation game. Create Miis, build friendships, host concerts, and enjoy island life in high resolution with smooth performance and modern controls on Windows."
   },
   {
-    "repo": "codetrybe/polymarket-trading-bot",
+    "repo": "JetBrains/kotlin",
+    "branch": "master",
+    "language": "Kotlin",
+    "description": "The Kotlin Programming Language."
+  },
+  {
+    "repo": "muxprotocol/kalshi-trading-bot",
     "branch": "main",
     "language": "TypeScript",
-    "description": "polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot"
+    "description": "kalshi trading bot on prediction market autonomous kalshi trading bot that connects to the kalshi api via kalshi rest and kalshi websocket, runs a five-agent ai ensemble to analyze kalshi prediction markets, sizes positions with fractional kelly criterion against your kalshi balance, and executes kalshi orders in paper or live mode with hard daily"
+  },
+  {
+    "repo": "btahir/react-kino",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Cinematic scroll-driven storytelling for React"
+  },
+  {
+    "repo": "angel10x/Crash-Frontend",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "About Crash game - frontend"
+  },
+  {
+    "repo": "jbhuang0604/awesome-computer-vision",
+    "branch": "master",
+    "language": "Other",
+    "description": "A curated list of awesome computer vision resources"
+  },
+  {
+    "repo": "bitwarden/clients",
+    "branch": "master",
+    "language": "TypeScript",
+    "description": "Bitwarden client apps (web, browser extension, desktop, and cli)."
+  },
+  {
+    "repo": "akitaonrails/FrankSherlock",
+    "branch": "master",
+    "language": "Rust",
+    "description": "Intelligent File Searcher that can search for descriptions in media files like photos, for example receipt from market of $42.00 using AI based classification"
+  },
+  {
+    "repo": "junjiezhou1122/GptCrate",
+    "branch": "main",
+    "language": "Python",
+    "description": ""
   }
 ]
