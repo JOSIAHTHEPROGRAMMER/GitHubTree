@@ -1,146 +1,146 @@
 [
   {
-    "repo": "dahan6/siming",
+    "repo": "activetheory/activeframe",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "Custom .af video format for WebCodecs: frame-accurate playback without a video tag or third-party decoders."
+  },
+  {
+    "repo": "raheemxghumman/DBD-AutoGrind-Trainer-2026-Mega",
     "branch": "main",
     "language": "Python",
-    "description": "Behavioral Grammar: detecting adaptive malware via tiny language-model priors and second-order temporal analysis. 0.88M-param self-supervised HIDS — 93% detection vs adaptive adversarial agent at 3.84% onboarding FPR."
+    "description": "Ultimate Dead by Daylight auto-grind trainer Mega edition with Bloodpoint bot, ESP wallhack, aimbot, and full perk/skin unlocker. Dominate the Fog with our 2026 undetected external tool."
   },
   {
-    "repo": "JStumpp/awesome-android",
-    "branch": "master",
-    "language": "Other",
-    "description": "A curated list of awesome Android packages and resources."
-  },
-  {
-    "repo": "erenjugs/OpenGork",
-    "branch": "main",
-    "language": "Shell",
-    "description": "🧠 Uncensored AI agent powered by xAI's Grok - no filters, no limits"
-  },
-  {
-    "repo": "xyzeva/k-id-age-verifier",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "automatically verify your age on discord, twitch, kick, quora and more (k-id)"
-  },
-  {
-    "repo": "halofyai/halofy",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Halofy is the open access and governance layer for AI agents across your organization. Identity, policy, provenance, audit, and signed erasure."
-  },
-  {
-    "repo": "DLYuanGod/MegaTrain",
-    "branch": "main",
-    "language": "Python",
-    "description": ""
-  },
-  {
-    "repo": "googleapis/google-cloud-python",
-    "branch": "main",
-    "language": "Python",
-    "description": "Google Cloud Client Library for Python"
-  },
-  {
-    "repo": "chef/chef",
-    "branch": "main",
-    "language": "Ruby",
-    "description": "Chef Infra, a powerful automation platform that transforms infrastructure into code automating how infrastructure is configured, deployed and managed across any environment, at any scale"
-  },
-  {
-    "repo": "go-sql-driver/mysql",
-    "branch": "master",
-    "language": "Go",
-    "description": "Go MySQL Driver is a MySQL driver for Go's (golang) database/sql package"
-  },
-  {
-    "repo": "mtdvio/every-programmer-should-know",
-    "branch": "master",
-    "language": "Other",
-    "description": "A collection of (mostly) technical things every software developer should know about"
-  },
-  {
-    "repo": "arcships/light-ocr",
+    "repo": "WL-DF/Legend-OF-Zelda-Twilight-Princess-PC",
     "branch": "main",
     "language": "C++",
-    "description": "C++17 PP-OCRv6 small OCR core with an asynchronous Node-API adapter"
+    "description": "Legend Zelda Twilight Princess PC Download April 2026 High Performance 4K 60FPS Enhancement Suite Midna Shadow Shaders Texture Pack Ultra Wide Support High Refresh Rate Emulation Fix Gaming Utility Stable Build Free Project Preservation Tutorial Guide"
   },
   {
-    "repo": "fadilr8/Bluesky_Auto-Reply___Like_Bot",
+    "repo": "espressif/esp-claw",
+    "branch": "master",
+    "language": "C",
+    "description": "ESP-Claw, a Chat Coding AI agent framework for IoT devices"
+  },
+  {
+    "repo": "babar-mpire/polymarket-trading-bot",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot"
+  },
+  {
+    "repo": "Shakir2021/Delta-for-Roblox-PC-Edition",
+    "branch": "main",
+    "language": "C++",
+    "description": "Delta for Roblox PC Edition is a lightweight and optimized Roblox client for Windows. Enjoy higher FPS, reduced input lag, better graphics, and smoother gameplay. The best desktop edition for playing Roblox with enhanced performance and modern features."
+  },
+  {
+    "repo": "OpenMOSS/MOSS-Audio",
     "branch": "main",
     "language": "Python",
-    "description": "Automatically like and reply to posts on Bluesky. Boost engagement and connect with other users."
+    "description": "MOSS-Audio is an open-source foundation model for unified audio understanding, enabling speech, sound, music, captioning, QA, and reasoning in real-world scenarios."
   },
   {
-    "repo": "threeorz1027-svg/quiztube",
+    "repo": "stainlu/hermes-labyrinth",
     "branch": "main",
     "language": "HTML",
     "description": ""
   },
   {
-    "repo": "santifer/career-ops",
-    "branch": "main",
-    "language": "Go",
-    "description": "AI-powered job search system built on Claude Code. 14 skill modes, Go dashboard, PDF generation, batch processing."
-  },
-  {
-    "repo": "aigclink/geolook",
+    "repo": "rootsecdev/cve_2026_31431",
     "branch": "main",
     "language": "Python",
-    "description": "Open-source end-to-end GEO implementation: status analysis, diagnosis, strategy, tickets, execution, verification"
+    "description": "Exploit POC for CVE_2026_31431"
   },
   {
-    "repo": "triangkas/Deltarune-Chapter5-Trainer-Toolkit",
+    "repo": "AeternaLabsHQ/pullmd",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "Self-hosted URL-to-Markdown service for humans and AI agents. PWA + REST + MCP + Claude Code skill, with Reddit support and refreshable share links."
+  },
+  {
+    "repo": "MentalPrism42/FL-Production-25.2.5-DAW",
+    "branch": "main",
+    "language": "C++",
+    "description": "25.2.5 Music Production DAW 2026 Beatmaking AI Mastering Stems Separation PluggnB Organic Sounds MIDI Support VST3 Plugins Audio Recording Low Latency Mixing Mastering Windows 11 Sound Design Virtual Instruments Producer Edition Professional Audio Resource"
+  },
+  {
+    "repo": "zats/permiso",
+    "branch": "main",
+    "language": "Swift",
+    "description": "Permission dialog for accessibility settings as seen in Codex Computer Use https://x.com/lexrus/status/2044929029334245819"
+  },
+  {
+    "repo": "jackwener/twitter-cli",
     "branch": "main",
     "language": "Python",
-    "description": "Advanced Deltarune Chapter 5 trainer featuring infinite HP, max stats, unlimited items, and speed control. Undetected external tool for single-player exploration."
+    "description": "A CLI for Twitter/X — feed, bookmarks, and user timeline in terminal"
   },
   {
-    "repo": "zaoan0/funf-pro-relay",
+    "repo": "nizarlbogos/Windrose-Game-Server-Docker",
+    "branch": "main",
+    "language": "C++",
+    "description": "Docker container for running a Windrose dedicated server. Easy self-hosting solution with Wine and SteamCMD for the pirate survival game Windrose."
+  },
+  {
+    "repo": "coindesk-protocol/polymarket-trading-bot",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot"
+  },
+  {
+    "repo": "ConardLi/web-design-skill",
+    "branch": "main",
+    "language": "CSS",
+    "description": "An AI agent skill that transforms AI-generated web pages from functional to stunning.(Inspired by Claude Design)"
+  },
+  {
+    "repo": "upper-up/meta-lobbying-and-other-findings",
+    "branch": "main",
+    "language": "HTML",
+    "description": ""
+  },
+  {
+    "repo": "shivampkumar/trellis-mac",
     "branch": "main",
     "language": "Python",
     "description": ""
   },
   {
-    "repo": "plausible/analytics",
-    "branch": "master",
-    "language": "Elixir",
-    "description": "Simple, open source, lightweight and privacy-friendly web analytics alternative to Google Analytics."
+    "repo": "0din-ai/ai-scanner",
+    "branch": "main",
+    "language": "Ruby",
+    "description": "AI model safety scanner built on NVIDIA garak"
   },
   {
-    "repo": "testcontainers/testcontainers-java",
+    "repo": "imtonyjaa/ggemu-fishing-joy",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "a ggemu.com (play retro games online) sdk example"
+  },
+  {
+    "repo": "AlgoInfraTech/Hyperliquid-copy-trading-bot",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "hyperliquid copy trading bot, hyperliquid trading bot, hyperliquid trading bot, hyperliquid trading bot, hyperliquid trading bot, hyperliquid trading bot, hyperliquid trading bot, hyperliquid trading bot, hyperliquid trading bot, hyperliquid trading bot, hyperliquid trading bot, hyperliquid trading bot, hyperliquid trading bot, hyperliquid trading"
+  },
+  {
+    "repo": "amitshekhariitbhu/ai-engineering-interview-questions",
+    "branch": "main",
+    "language": "Markdown",
+    "description": "Your Cheat Sheet for AI Engineering Interview – Questions and Answers."
+  },
+  {
+    "repo": "techjarves/USB-Uncensored-LLM",
+    "branch": "main",
+    "language": "Shell",
+    "description": "The ultimate zero-install, portable local AI environment. Run high-quality, uncensored LLMs (Gemma, Qwen, NemoMix) directly from any USB drive or SSD. Fully air-gapped, cross-platform (Win/Mac/Linux), and privacy-first with persistent chat history."
+  },
+  {
+    "repo": "supermalparit/Towns",
     "branch": "main",
     "language": "Java",
-    "description": "Testcontainers is a Java library that supports JUnit tests, providing lightweight, throwaway instances of common databases, Selenium web browsers, or anything else that can run in a Docker container."
-  },
-  {
-    "repo": "jrhueiueng/Password_Manager_Safe",
-    "branch": "main",
-    "language": "Python",
-    "description": "Store and generate strong passwords, auto-fill forms. Create strong passwords, secure vault, fill login forms, and sync across devices. Secure your accounts."
-  },
-  {
-    "repo": "bleuropa/loomkin",
-    "branch": "main",
-    "language": "Elixir",
-    "description": "An Elixir-native AI coding assistant with persistent decision graphs, repo intelligence, and a Phoenix LiveView UI"
-  },
-  {
-    "repo": "shorwood/slopc",
-    "branch": "main",
-    "language": "Rust",
-    "description": "A proc macro that uses an hallucination machine to write your function bodies at compile time."
-  },
-  {
-    "repo": "endevco/aube",
-    "branch": "main",
-    "language": "Rust",
-    "description": "A fast Node.js package manager"
-  },
-  {
-    "repo": "qntrade1/polymarket-arbitrage-trading-bot",
-    "branch": "main",
-    "language": "Python",
-    "description": "polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot"
+    "description": "Repository for the Towns game"
   }
 ]

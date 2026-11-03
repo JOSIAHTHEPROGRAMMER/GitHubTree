@@ -1,8 +1,8 @@
 {
-  "repo": "ShineFinancialStrut/game-server-route-racer",
-  "branch": "main",
-  "language": "Rust",
-  "description": "Detour times every route to your game server, puts only the game's traffic on the fastest one, and says so plainly when no route can help. Free relays: your own or the community's.",
-  "stars": 366,
-  "forks": 26
+  "repo": "zortos293/Eglantine",
+  "branch": "nx2",
+  "language": "C++",
+  "description": "VERY experimental Nintendo Switch 2 emulator",
+  "stars": 433,
+  "forks": 42
 }
