@@ -1,146 +1,146 @@
 [
   {
-    "repo": "Charles-0509/Grok-Register",
+    "repo": "leigest519/OpenGame",
     "branch": "main",
-    "language": "Go",
-    "description": "Grok free-register CLI: register → OAuth → CPA JSON (Go)"
+    "language": "TypeScript",
+    "description": "OpenGame: Open Agentic Coding for Games"
   },
   {
-    "repo": "Alex-Gilbert/unredact",
+    "repo": "sharkdp/hyperfine",
+    "branch": "master",
+    "language": "Rust",
+    "description": "A command-line benchmarking tool"
+  },
+  {
+    "repo": "labstack/echo",
+    "branch": "master",
+    "language": "Go",
+    "description": "High performance, minimalist Go web framework"
+  },
+  {
+    "repo": "freefrank/LostOdysseyRecomp",
+    "branch": "main",
+    "language": "C++",
+    "description": "Experimental native PC port of Lost Odyssey using static recompilation. No game assets included."
+  },
+  {
+    "repo": "KubeezMedia/kubeez-scroll-world-video",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "Scroll-scrubbed 'fly through the world' burger demo, generated with Kubeez. Live: meepcastana.github.io/kubeez-scroll-world-video"
+  },
+  {
+    "repo": "tejaswigowda/ffmpeg-webCLI",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "A browser-based video editor powered by ffmpeg.wasm. No uploads, no servers -- all processing happens locally in your browser using WebAssembly."
+  },
+  {
+    "repo": "hieunc229/mailflare",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Email client with custom domain based on Cloudflare"
+  },
+  {
+    "repo": "vikashjeyaraman/opencouncil-contract-inspector",
+    "branch": "main",
+    "language": "HTML",
+    "description": "Proven 2026 Multi-Agent AI Review System – Verdict-Driven Quality Control"
+  },
+  {
+    "repo": "KyrieCheungYep/ky-design-to-html-skill",
     "branch": "main",
     "language": "Python",
+    "description": "A Codex / Claude skill for recreating UI screenshots as HTML/CSS."
+  },
+  {
+    "repo": "zenhosta/9drive",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "9Drive is a storage gateway web app for connecting multiple Google Drive accounts into one virtual storage dashboard. Users can connect Google Drive accounts, track quota, upload files, organize files with virtual folders, preview files, and let the backend route uploads to the Drive account with enough free space."
+  },
+  {
+    "repo": "Obsidian-Trades/polymarket-copy-trading-bot",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "polymarket trading bot, polymarket copy trading bot, polymarket trading bot, polymarket copy trading bot, polymarket trading bot, polymarket copy trading bot, polymarket trading bot, polymarket copy trading bot, polymarket trading bot, polymarket copy trading bot, polymarket trading bot, polymarket copy trading bot,"
+  },
+  {
+    "repo": "owenshuo/open-bounty-radar",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "CLI radar for discovering and monitoring paid open-source issues and bounty opportunities"
+  },
+  {
+    "repo": "OpenBMB/PilotDeck",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Task-oriented AI Agent productivity platform"
+  },
+  {
+    "repo": "Robbyant/lingbot-world-v2",
+    "branch": "main",
+    "language": "Python",
+    "description": "Infinite Worlds with Versatile Interactions"
+  },
+  {
+    "repo": "ester987222-max/AniForge-Hub",
+    "branch": "main",
+    "language": "HTML",
+    "description": "Best Open Source Anime & Manga Streaming App 2026"
+  },
+  {
+    "repo": "Dharyen/ryujinx-emu",
+    "branch": "main",
+    "language": "C#",
+    "description": "canary ryujinx emulator tomodachi life github ryubing nintendo switch emulator download"
+  },
+  {
+    "repo": "MTTECHTH/mihon-aria",
+    "branch": "main",
+    "language": "HTML",
+    "description": "The Ultimate Manga Reading Experience for Android 2026"
+  },
+  {
+    "repo": "wy51ai/edulab",
+    "branch": "master",
+    "language": "HTML",
     "description": ""
   },
   {
-    "repo": "celery/celery",
-    "branch": "master",
-    "language": "Python",
-    "description": "Distributed Task Queue (development branch)"
-  },
-  {
-    "repo": "cypress-io/cypress",
-    "branch": "develop",
-    "language": "TypeScript",
-    "description": "Fast, easy and reliable testing for anything that runs in a browser."
-  },
-  {
-    "repo": "tensorflow/agents",
-    "branch": "master",
-    "language": "Python",
-    "description": "TF-Agents: A reliable, scalable and easy to use TensorFlow library for Contextual Bandits and Reinforcement Learning."
-  },
-  {
-    "repo": "PowerShell/vscode-powershell",
+    "repo": "adelaideacfalle50838568946/ChatGPT-Pro-Desktop-2026",
     "branch": "main",
-    "language": "TypeScript",
-    "description": "Provides PowerShell language and debugging support for Visual Studio Code"
-  },
-  {
-    "repo": "pallets/click",
-    "branch": "main",
-    "language": "Python",
-    "description": "Python composable command line interface toolkit"
-  },
-  {
-    "repo": "shadowsocks/shadowsocks-windows",
-    "branch": "master",
     "language": "C#",
-    "description": "A C# port of shadowsocks"
+    "description": "A comprehensive desktop application package for advanced ChatGPT interactions and management."
   },
   {
-    "repo": "pyenv/pyenv",
+    "repo": "openng-foundation/open-prime",
     "branch": "master",
-    "language": "Shell",
-    "description": "Simple Python version management"
-  },
-  {
-    "repo": "better-auth/better-hub",
-    "branch": "main",
     "language": "TypeScript",
-    "description": "Re-imagining code collaboration for humans and agents"
+    "description": ""
   },
   {
-    "repo": "meilisearch/meilisearch",
+    "repo": "manuelageske58246958801/DeepFake-AI-2026-RealTime",
     "branch": "main",
-    "language": "Rust",
-    "description": "A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications."
+    "language": "C#",
+    "description": "An advanced, LLM-powered toolkit providing comprehensive capabilities for ethical synthetic media detection, analysis, and responsible content generation."
   },
   {
-    "repo": "pallets/werkzeug",
-    "branch": "main",
-    "language": "Python",
-    "description": "The comprehensive WSGI web application library."
-  },
-  {
-    "repo": "ramitsurana/awesome-kubernetes",
-    "branch": "master",
-    "language": "Shell",
-    "description": "A curated list for awesome kubernetes sources :ship::tada:"
-  },
-  {
-    "repo": "nanostores/nanostores",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "A tiny (286 bytes) state manager for React/RN/Preact/Vue/Svelte with many atomic tree-shakable stores"
-  },
-  {
-    "repo": "linkedin/school-of-sre",
+    "repo": "ilhamnurrachman/claude-opus-dev-workbench",
     "branch": "main",
     "language": "HTML",
-    "description": "At LinkedIn, we are using this curriculum for onboarding our entry-level talents into the SRE role."
+    "description": "Claude Opus 2026 Pro Toolkit – AI Pair Programmer & Desktop CLI Redefined"
   },
   {
-    "repo": "go-task/task",
-    "branch": "master",
-    "language": "Go",
-    "description": "A task runner / simpler Make alternative written in Go"
+    "repo": "reunios2024/cortex-sentinel-trading-nexus",
+    "branch": "main",
+    "language": "HTML",
+    "description": "Self-Tuning Multi-Agent AI Trading System 2026: 8-Source Signal Fusion & Kronos Model"
   },
   {
-    "repo": "CSSEGISandData/COVID-19",
-    "branch": "master",
-    "language": "Other",
-    "description": "Novel Coronavirus (COVID-19) Cases, provided by JHU CSSE"
-  },
-  {
-    "repo": "NVIDIA/NeMo",
+    "repo": "open-gigaai/giga-world-1",
     "branch": "main",
     "language": "Python",
-    "description": "A scalable generative AI framework built for researchers and developers working on Large Language Models, Multimodal, and Speech AI (Automatic Speech Recognition and Text-to-Speech)"
-  },
-  {
-    "repo": "InterviewReady/system-design-resources",
-    "branch": "main",
-    "language": "Other",
-    "description": "These are the best resources for System Design on the Internet"
-  },
-  {
-    "repo": "lapce/lapce",
-    "branch": "master",
-    "language": "Rust",
-    "description": "Lightning-fast and Powerful Code Editor written in Rust"
-  },
-  {
-    "repo": "tensorflow/hub",
-    "branch": "master",
-    "language": "Python",
-    "description": "A library for transfer learning by reusing parts of TensorFlow models."
-  },
-  {
-    "repo": "hashicorp/raft",
-    "branch": "main",
-    "language": "Go",
-    "description": "Golang implementation of the Raft consensus protocol"
-  },
-  {
-    "repo": "deepchem/deepchem",
-    "branch": "master",
-    "language": "Python",
-    "description": "Democratizing Deep-Learning for Drug Discovery, Quantum Chemistry, Materials Science and Biology"
-  },
-  {
-    "repo": "ForrestKnight/open-source-cs",
-    "branch": "master",
-    "language": "Other",
-    "description": "Video discussing this curriculum:"
+    "description": "A Roadmap to Build World Models for Robot Policy Evaluation"
   }
 ]
