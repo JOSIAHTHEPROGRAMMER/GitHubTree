@@ -1,146 +1,146 @@
 [
   {
-    "repo": "activetheory/activeframe",
+    "repo": "Charles-0509/Grok-Register",
     "branch": "main",
-    "language": "JavaScript",
-    "description": "Custom .af video format for WebCodecs: frame-accurate playback without a video tag or third-party decoders."
+    "language": "Go",
+    "description": "Grok free-register CLI: register → OAuth → CPA JSON (Go)"
   },
   {
-    "repo": "raheemxghumman/DBD-AutoGrind-Trainer-2026-Mega",
+    "repo": "Alex-Gilbert/unredact",
     "branch": "main",
     "language": "Python",
-    "description": "Ultimate Dead by Daylight auto-grind trainer Mega edition with Bloodpoint bot, ESP wallhack, aimbot, and full perk/skin unlocker. Dominate the Fog with our 2026 undetected external tool."
+    "description": ""
   },
   {
-    "repo": "WL-DF/Legend-OF-Zelda-Twilight-Princess-PC",
-    "branch": "main",
-    "language": "C++",
-    "description": "Legend Zelda Twilight Princess PC Download April 2026 High Performance 4K 60FPS Enhancement Suite Midna Shadow Shaders Texture Pack Ultra Wide Support High Refresh Rate Emulation Fix Gaming Utility Stable Build Free Project Preservation Tutorial Guide"
-  },
-  {
-    "repo": "espressif/esp-claw",
+    "repo": "celery/celery",
     "branch": "master",
-    "language": "C",
-    "description": "ESP-Claw, a Chat Coding AI agent framework for IoT devices"
+    "language": "Python",
+    "description": "Distributed Task Queue (development branch)"
   },
   {
-    "repo": "babar-mpire/polymarket-trading-bot",
+    "repo": "cypress-io/cypress",
+    "branch": "develop",
+    "language": "TypeScript",
+    "description": "Fast, easy and reliable testing for anything that runs in a browser."
+  },
+  {
+    "repo": "tensorflow/agents",
+    "branch": "master",
+    "language": "Python",
+    "description": "TF-Agents: A reliable, scalable and easy to use TensorFlow library for Contextual Bandits and Reinforcement Learning."
+  },
+  {
+    "repo": "PowerShell/vscode-powershell",
     "branch": "main",
     "language": "TypeScript",
-    "description": "Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot"
+    "description": "Provides PowerShell language and debugging support for Visual Studio Code"
   },
   {
-    "repo": "Shakir2021/Delta-for-Roblox-PC-Edition",
-    "branch": "main",
-    "language": "C++",
-    "description": "Delta for Roblox PC Edition is a lightweight and optimized Roblox client for Windows. Enjoy higher FPS, reduced input lag, better graphics, and smoother gameplay. The best desktop edition for playing Roblox with enhanced performance and modern features."
-  },
-  {
-    "repo": "OpenMOSS/MOSS-Audio",
+    "repo": "pallets/click",
     "branch": "main",
     "language": "Python",
-    "description": "MOSS-Audio is an open-source foundation model for unified audio understanding, enabling speech, sound, music, captioning, QA, and reasoning in real-world scenarios."
+    "description": "Python composable command line interface toolkit"
   },
   {
-    "repo": "stainlu/hermes-labyrinth",
-    "branch": "main",
-    "language": "HTML",
-    "description": ""
+    "repo": "shadowsocks/shadowsocks-windows",
+    "branch": "master",
+    "language": "C#",
+    "description": "A C# port of shadowsocks"
   },
   {
-    "repo": "rootsecdev/cve_2026_31431",
-    "branch": "main",
-    "language": "Python",
-    "description": "Exploit POC for CVE_2026_31431"
-  },
-  {
-    "repo": "AeternaLabsHQ/pullmd",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "Self-hosted URL-to-Markdown service for humans and AI agents. PWA + REST + MCP + Claude Code skill, with Reddit support and refreshable share links."
-  },
-  {
-    "repo": "MentalPrism42/FL-Production-25.2.5-DAW",
-    "branch": "main",
-    "language": "C++",
-    "description": "25.2.5 Music Production DAW 2026 Beatmaking AI Mastering Stems Separation PluggnB Organic Sounds MIDI Support VST3 Plugins Audio Recording Low Latency Mixing Mastering Windows 11 Sound Design Virtual Instruments Producer Edition Professional Audio Resource"
-  },
-  {
-    "repo": "zats/permiso",
-    "branch": "main",
-    "language": "Swift",
-    "description": "Permission dialog for accessibility settings as seen in Codex Computer Use https://x.com/lexrus/status/2044929029334245819"
-  },
-  {
-    "repo": "jackwener/twitter-cli",
-    "branch": "main",
-    "language": "Python",
-    "description": "A CLI for Twitter/X — feed, bookmarks, and user timeline in terminal"
-  },
-  {
-    "repo": "nizarlbogos/Windrose-Game-Server-Docker",
-    "branch": "main",
-    "language": "C++",
-    "description": "Docker container for running a Windrose dedicated server. Easy self-hosting solution with Wine and SteamCMD for the pirate survival game Windrose."
-  },
-  {
-    "repo": "coindesk-protocol/polymarket-trading-bot",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot"
-  },
-  {
-    "repo": "ConardLi/web-design-skill",
-    "branch": "main",
-    "language": "CSS",
-    "description": "An AI agent skill that transforms AI-generated web pages from functional to stunning.(Inspired by Claude Design)"
-  },
-  {
-    "repo": "upper-up/meta-lobbying-and-other-findings",
-    "branch": "main",
-    "language": "HTML",
-    "description": ""
-  },
-  {
-    "repo": "shivampkumar/trellis-mac",
-    "branch": "main",
-    "language": "Python",
-    "description": ""
-  },
-  {
-    "repo": "0din-ai/ai-scanner",
-    "branch": "main",
-    "language": "Ruby",
-    "description": "AI model safety scanner built on NVIDIA garak"
-  },
-  {
-    "repo": "imtonyjaa/ggemu-fishing-joy",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "a ggemu.com (play retro games online) sdk example"
-  },
-  {
-    "repo": "AlgoInfraTech/Hyperliquid-copy-trading-bot",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "hyperliquid copy trading bot, hyperliquid trading bot, hyperliquid trading bot, hyperliquid trading bot, hyperliquid trading bot, hyperliquid trading bot, hyperliquid trading bot, hyperliquid trading bot, hyperliquid trading bot, hyperliquid trading bot, hyperliquid trading bot, hyperliquid trading bot, hyperliquid trading bot, hyperliquid trading"
-  },
-  {
-    "repo": "amitshekhariitbhu/ai-engineering-interview-questions",
-    "branch": "main",
-    "language": "Markdown",
-    "description": "Your Cheat Sheet for AI Engineering Interview – Questions and Answers."
-  },
-  {
-    "repo": "techjarves/USB-Uncensored-LLM",
-    "branch": "main",
+    "repo": "pyenv/pyenv",
+    "branch": "master",
     "language": "Shell",
-    "description": "The ultimate zero-install, portable local AI environment. Run high-quality, uncensored LLMs (Gemma, Qwen, NemoMix) directly from any USB drive or SSD. Fully air-gapped, cross-platform (Win/Mac/Linux), and privacy-first with persistent chat history."
+    "description": "Simple Python version management"
   },
   {
-    "repo": "supermalparit/Towns",
+    "repo": "better-auth/better-hub",
     "branch": "main",
-    "language": "Java",
-    "description": "Repository for the Towns game"
+    "language": "TypeScript",
+    "description": "Re-imagining code collaboration for humans and agents"
+  },
+  {
+    "repo": "meilisearch/meilisearch",
+    "branch": "main",
+    "language": "Rust",
+    "description": "A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications."
+  },
+  {
+    "repo": "pallets/werkzeug",
+    "branch": "main",
+    "language": "Python",
+    "description": "The comprehensive WSGI web application library."
+  },
+  {
+    "repo": "ramitsurana/awesome-kubernetes",
+    "branch": "master",
+    "language": "Shell",
+    "description": "A curated list for awesome kubernetes sources :ship::tada:"
+  },
+  {
+    "repo": "nanostores/nanostores",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "A tiny (286 bytes) state manager for React/RN/Preact/Vue/Svelte with many atomic tree-shakable stores"
+  },
+  {
+    "repo": "linkedin/school-of-sre",
+    "branch": "main",
+    "language": "HTML",
+    "description": "At LinkedIn, we are using this curriculum for onboarding our entry-level talents into the SRE role."
+  },
+  {
+    "repo": "go-task/task",
+    "branch": "master",
+    "language": "Go",
+    "description": "A task runner / simpler Make alternative written in Go"
+  },
+  {
+    "repo": "CSSEGISandData/COVID-19",
+    "branch": "master",
+    "language": "Other",
+    "description": "Novel Coronavirus (COVID-19) Cases, provided by JHU CSSE"
+  },
+  {
+    "repo": "NVIDIA/NeMo",
+    "branch": "main",
+    "language": "Python",
+    "description": "A scalable generative AI framework built for researchers and developers working on Large Language Models, Multimodal, and Speech AI (Automatic Speech Recognition and Text-to-Speech)"
+  },
+  {
+    "repo": "InterviewReady/system-design-resources",
+    "branch": "main",
+    "language": "Other",
+    "description": "These are the best resources for System Design on the Internet"
+  },
+  {
+    "repo": "lapce/lapce",
+    "branch": "master",
+    "language": "Rust",
+    "description": "Lightning-fast and Powerful Code Editor written in Rust"
+  },
+  {
+    "repo": "tensorflow/hub",
+    "branch": "master",
+    "language": "Python",
+    "description": "A library for transfer learning by reusing parts of TensorFlow models."
+  },
+  {
+    "repo": "hashicorp/raft",
+    "branch": "main",
+    "language": "Go",
+    "description": "Golang implementation of the Raft consensus protocol"
+  },
+  {
+    "repo": "deepchem/deepchem",
+    "branch": "master",
+    "language": "Python",
+    "description": "Democratizing Deep-Learning for Drug Discovery, Quantum Chemistry, Materials Science and Biology"
+  },
+  {
+    "repo": "ForrestKnight/open-source-cs",
+    "branch": "master",
+    "language": "Other",
+    "description": "Video discussing this curriculum:"
   }
 ]

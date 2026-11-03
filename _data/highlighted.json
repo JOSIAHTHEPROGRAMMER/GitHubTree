@@ -1,8 +1,8 @@
 {
-  "repo": "zortos293/Eglantine",
-  "branch": "nx2",
-  "language": "C++",
-  "description": "VERY experimental Nintendo Switch 2 emulator",
-  "stars": 433,
-  "forks": 42
+  "repo": "Balanov/shim",
+  "branch": "main",
+  "language": "Go",
+  "description": "Tiny local-first AI harness: any model, MCP and Agent Skills, natural-language CLI. Zero dependencies. MIT.",
+  "stars": 418,
+  "forks": 0
 }
