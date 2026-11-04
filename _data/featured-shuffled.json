@@ -1,146 +1,146 @@
 [
   {
-    "repo": "leigest519/OpenGame",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "OpenGame: Open Agentic Coding for Games"
-  },
-  {
-    "repo": "sharkdp/hyperfine",
+    "repo": "steelbrain/reims-vgpu",
     "branch": "master",
     "language": "Rust",
-    "description": "A command-line benchmarking tool"
+    "description": "reims-vgpu is an experimental virtual GPU for macOS guests"
   },
   {
-    "repo": "labstack/echo",
+    "repo": "mvanhorn/last30days-skill",
+    "branch": "main",
+    "language": "Python",
+    "description": "Claude Code skill that researches any topic across Reddit + X from the last 30 days, then writes copy-paste-ready prompts"
+  },
+  {
+    "repo": "element-hq/element-web",
+    "branch": "develop",
+    "language": "TypeScript",
+    "description": "A glossy Matrix collaboration client for the web."
+  },
+  {
+    "repo": "operator-framework/operator-lifecycle-manager",
     "branch": "master",
     "language": "Go",
-    "description": "High performance, minimalist Go web framework"
+    "description": "A management framework for extending Kubernetes with Operators"
   },
   {
-    "repo": "freefrank/LostOdysseyRecomp",
-    "branch": "main",
-    "language": "C++",
-    "description": "Experimental native PC port of Lost Odyssey using static recompilation. No game assets included."
-  },
-  {
-    "repo": "KubeezMedia/kubeez-scroll-world-video",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "Scroll-scrubbed 'fly through the world' burger demo, generated with Kubeez. Live: meepcastana.github.io/kubeez-scroll-world-video"
-  },
-  {
-    "repo": "tejaswigowda/ffmpeg-webCLI",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "A browser-based video editor powered by ffmpeg.wasm. No uploads, no servers -- all processing happens locally in your browser using WebAssembly."
-  },
-  {
-    "repo": "hieunc229/mailflare",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Email client with custom domain based on Cloudflare"
-  },
-  {
-    "repo": "vikashjeyaraman/opencouncil-contract-inspector",
-    "branch": "main",
-    "language": "HTML",
-    "description": "Proven 2026 Multi-Agent AI Review System – Verdict-Driven Quality Control"
-  },
-  {
-    "repo": "KyrieCheungYep/ky-design-to-html-skill",
+    "repo": "jina-ai/jina",
     "branch": "main",
     "language": "Python",
-    "description": "A Codex / Claude skill for recreating UI screenshots as HTML/CSS."
+    "description": "☁️ Build multimodal AI applications with cloud-native stack"
   },
   {
-    "repo": "zenhosta/9drive",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "9Drive is a storage gateway web app for connecting multiple Google Drive accounts into one virtual storage dashboard. Users can connect Google Drive accounts, track quota, upload files, organize files with virtual folders, preview files, and let the backend route uploads to the Drive account with enough free space."
-  },
-  {
-    "repo": "Obsidian-Trades/polymarket-copy-trading-bot",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "polymarket trading bot, polymarket copy trading bot, polymarket trading bot, polymarket copy trading bot, polymarket trading bot, polymarket copy trading bot, polymarket trading bot, polymarket copy trading bot, polymarket trading bot, polymarket copy trading bot, polymarket trading bot, polymarket copy trading bot,"
-  },
-  {
-    "repo": "owenshuo/open-bounty-radar",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "CLI radar for discovering and monitoring paid open-source issues and bounty opportunities"
-  },
-  {
-    "repo": "OpenBMB/PilotDeck",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Task-oriented AI Agent productivity platform"
-  },
-  {
-    "repo": "Robbyant/lingbot-world-v2",
+    "repo": "matplotlib/matplotlib",
     "branch": "main",
     "language": "Python",
-    "description": "Infinite Worlds with Versatile Interactions"
+    "description": "matplotlib: plotting with Python"
   },
   {
-    "repo": "ester987222-max/AniForge-Hub",
+    "repo": "web3/web3.js",
+    "branch": "1.x",
+    "language": "TypeScript",
+    "description": "Collection of comprehensive TypeScript libraries for Interaction with the Ethereum JSON RPC API and utility functions."
+  },
+  {
+    "repo": "PowerShell/vscode-powershell",
     "branch": "main",
-    "language": "HTML",
-    "description": "Best Open Source Anime & Manga Streaming App 2026"
+    "language": "TypeScript",
+    "description": "Provides PowerShell language and debugging support for Visual Studio Code"
   },
   {
-    "repo": "Dharyen/ryujinx-emu",
-    "branch": "main",
-    "language": "C#",
-    "description": "canary ryujinx emulator tomodachi life github ryubing nintendo switch emulator download"
-  },
-  {
-    "repo": "MTTECHTH/mihon-aria",
-    "branch": "main",
-    "language": "HTML",
-    "description": "The Ultimate Manga Reading Experience for Android 2026"
-  },
-  {
-    "repo": "wy51ai/edulab",
+    "repo": "solana-labs/solana",
     "branch": "master",
-    "language": "HTML",
+    "language": "Rust",
+    "description": "Web-Scale Blockchain for fast, secure, scalable, decentralized apps and marketplaces."
+  },
+  {
+    "repo": "material-components/material-components-ios",
+    "branch": "develop",
+    "language": "Objective-C",
+    "description": "[In maintenance mode] Modular and customizable Material Design UI components for iOS"
+  },
+  {
+    "repo": "apache/iceberg",
+    "branch": "main",
+    "language": "Java",
+    "description": "Apache Iceberg"
+  },
+  {
+    "repo": "firebase/firebase-android-sdk",
+    "branch": "master",
+    "language": "Java",
+    "description": "Firebase Android SDK"
+  },
+  {
+    "repo": "pmndrs/zustand",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "🐻 Bear necessities for state management in React"
+  },
+  {
+    "repo": "postgres/postgres",
+    "branch": "master",
+    "language": "C",
+    "description": "Mirror of the official PostgreSQL GIT repository. Note that this is just a *mirror* - we don't work with pull requests on github. To contribute, please see https://wiki.postgresql.org/wiki/Submitting_a_Patch"
+  },
+  {
+    "repo": "tensorflow/hub",
+    "branch": "master",
+    "language": "Python",
+    "description": "A library for transfer learning by reusing parts of TensorFlow models."
+  },
+  {
+    "repo": "torvalds/linux",
+    "branch": "master",
+    "language": "C",
+    "description": "Linux kernel source tree"
+  },
+  {
+    "repo": "typeorm/typeorm",
+    "branch": "master",
+    "language": "TypeScript",
+    "description": "ORM for TypeScript and JavaScript. Supports MySQL, PostgreSQL, MariaDB, SQLite, MS SQL Server, Oracle, SAP Hana, WebSQL databases. Works in NodeJS, Browser, Ionic, Cordova and Electron platforms."
+  },
+  {
+    "repo": "chiennv2000/orthrus",
+    "branch": "main",
+    "language": "Python",
+    "description": "Fast, lossless LLM inference via dual-view diffusion decoding."
+  },
+  {
+    "repo": "DestinyCycloid/chatgpt_register_v2_by_AI",
+    "branch": "main",
+    "language": "Python",
     "description": ""
   },
   {
-    "repo": "adelaideacfalle50838568946/ChatGPT-Pro-Desktop-2026",
-    "branch": "main",
-    "language": "C#",
-    "description": "A comprehensive desktop application package for advanced ChatGPT interactions and management."
-  },
-  {
-    "repo": "openng-foundation/open-prime",
-    "branch": "master",
-    "language": "TypeScript",
-    "description": ""
-  },
-  {
-    "repo": "manuelageske58246958801/DeepFake-AI-2026-RealTime",
-    "branch": "main",
-    "language": "C#",
-    "description": "An advanced, LLM-powered toolkit providing comprehensive capabilities for ethical synthetic media detection, analysis, and responsible content generation."
-  },
-  {
-    "repo": "ilhamnurrachman/claude-opus-dev-workbench",
-    "branch": "main",
-    "language": "HTML",
-    "description": "Claude Opus 2026 Pro Toolkit – AI Pair Programmer & Desktop CLI Redefined"
-  },
-  {
-    "repo": "reunios2024/cortex-sentinel-trading-nexus",
-    "branch": "main",
-    "language": "HTML",
-    "description": "Self-Tuning Multi-Agent AI Trading System 2026: 8-Source Signal Fusion & Kronos Model"
-  },
-  {
-    "repo": "open-gigaai/giga-world-1",
+    "repo": "python-attrs/attrs",
     "branch": "main",
     "language": "Python",
-    "description": "A Roadmap to Build World Models for Robot Policy Evaluation"
+    "description": "Python Classes Without Boilerplate"
+  },
+  {
+    "repo": "Xiangyue-Zhang/auto-deep-researcher-24x7",
+    "branch": "main",
+    "language": "Python",
+    "description": "🔥 An autonomous AI agent that runs your deep learning experiments 24/7 while you sleep. Zero-cost monitoring, Leader-Worker architecture, constant-size memory."
+  },
+  {
+    "repo": "FiloSottile/age",
+    "branch": "main",
+    "language": "Go",
+    "description": "A simple, modern and secure encryption tool (and Go library) with small explicit keys, no config options, and UNIX-style composability."
+  },
+  {
+    "repo": "e10nMa2k/cc-mini",
+    "branch": "main",
+    "language": "Python",
+    "description": "mini version of claude code"
+  },
+  {
+    "repo": "JrCx7scC/claude-code-source",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Claude Code complete source restoration from npm package — all native modules, no features cut"
   }
 ]
