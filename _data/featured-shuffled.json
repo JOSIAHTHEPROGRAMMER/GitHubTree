@@ -1,146 +1,146 @@
 [
   {
-    "repo": "kanavtwtgg/birds.cafe",
+    "repo": "sharkdp/fd",
+    "branch": "master",
+    "language": "Rust",
+    "description": "A simple, fast and user-friendly alternative to 'find'"
+  },
+  {
+    "repo": "Contrastive-LM/CLM",
     "branch": "main",
-    "language": "JavaScript",
+    "language": "Python",
     "description": ""
   },
   {
-    "repo": "loyalpartner/selfsync",
-    "branch": "master",
-    "language": "Rust",
-    "description": "Self-hosted Chrome Sync server. 自托管 Chrome 同步服务器 — 书签、密码、偏好等浏览器数据留在本地，不经过 Google"
-  },
-  {
-    "repo": "quasarframework/quasar",
-    "branch": "dev",
-    "language": "JavaScript",
-    "description": "Quasar Framework - Build high-performance VueJS user interfaces in record time"
-  },
-  {
-    "repo": "firecracker-microvm/firecracker",
-    "branch": "main",
-    "language": "Rust",
-    "description": "Secure and fast microVMs for serverless computing."
-  },
-  {
-    "repo": "CopilotKit/OpenDots",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Your always-on AI coworkers that move between text, calls, and Slack."
-  },
-  {
-    "repo": "meteor/meteor",
-    "branch": "devel",
-    "language": "JavaScript",
-    "description": "Meteor, the JavaScript App Platform"
-  },
-  {
-    "repo": "sass/sass",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Sass makes CSS fun!"
-  },
-  {
-    "repo": "claude-mythos5/Claude-Mythos5-AI-Free-desktop",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Claude Mythos 5 AI free desktop app - what is Claude Mythos? Anthropic's restricted AI model released June 9, 2026 for US government Project Glasswing. Claude Fable 5 vs Mythos 5 vs Opus 5 vs GPT 5.6 Sol comparison: same weights, Mythos has cybersecurity capabilities. Download Claude desktop app free, includes Fable 5."
-  },
-  {
-    "repo": "lidge-jun/opencodex",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Universal provider proxy for OpenAI Codex — use any LLM with Codex CLI, App, and SDK"
-  },
-  {
-    "repo": "Radiant303/SpringNote",
-    "branch": "main",
-    "language": "Dart",
-    "description": "懒人实习记录工具"
-  },
-  {
-    "repo": "clap-rs/clap",
-    "branch": "master",
-    "language": "Rust",
-    "description": "A full featured, fast Command Line Argument Parser for Rust"
-  },
-  {
-    "repo": "hasura/graphql-engine",
-    "branch": "master",
-    "language": "TypeScript",
-    "description": "Blazing fast, instant realtime GraphQL APIs on all your data with fine grained access control, also trigger webhooks on database events."
-  },
-  {
-    "repo": "Anduin2017/HowToCook",
-    "branch": "master",
-    "language": "Dockerfile",
-    "description": "程序员在家做饭方法指南。Programmer's guide about how to cook at home (Simplified Chinese only)."
-  },
-  {
-    "repo": "FallenRaven01/Fortnite_Aimbot___ESP_2026",
+    "repo": "dimasarestuprasmanto/Blox-Fruits-Dragon-Update-Auto-Farm-Script-2026-Advanced",
     "branch": "main",
     "language": "Python",
-    "description": "Undetected aimbot, ESP, and build hack for Fortnite Chapter 6. Perfect aim, see enemies through walls, and predict enemy builds. Works in all modes."
+    "description": "All‑in‑one Blox Fruits script for Dragon Update 2026. Advanced edition comes with extra optimizations for faster farming."
   },
   {
-    "repo": "rayenamor434-max/Death_Stranding_2__On_the_Beach_Trainer",
-    "branch": "main",
-    "language": "Python",
-    "description": "Unlimited resources, stamina, and all structures for Death Stranding 2. Build ziplines, roads, and bridges instantly. Never tire and carry infinite weight."
-  },
-  {
-    "repo": "ruanyf/weekly",
-    "branch": "master",
-    "language": "Other",
-    "description": "科技爱好者周刊，每周五发布"
-  },
-  {
-    "repo": "hadiaimran1090/Duplicate_File_Cleaner",
-    "branch": "main",
-    "language": "Python",
-    "description": "Find and remove duplicate files by content, name, or size. Free up disk space efficiently."
-  },
-  {
-    "repo": "alibaba/landmark-tokenized-dit",
-    "branch": "main",
-    "language": "Python",
-    "description": "Official repository for paper LaTo: Landmark-tokenized Diffusion Transformer for Fine-grained Human Face Editing"
-  },
-  {
-    "repo": "egorpavlov0/Flash-USDT-Sender",
-    "branch": "main",
-    "language": "Python",
-    "description": "Flash USDT Sender — Multi-network flash transaction tool for USDT, BTC, and ETH with configurable duration, custom gas settings, ERC-20/TRC-20/BEP-20 support, and block explorer-visible confirmations"
-  },
-  {
-    "repo": "softmatcha/softmatcha2",
-    "branch": "main",
-    "language": "Python",
-    "description": "A fast and soft pattern search for trillion-scale corpora."
-  },
-  {
-    "repo": "moby/buildkit",
-    "branch": "master",
-    "language": "Go",
-    "description": "concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit"
-  },
-  {
-    "repo": "Yu9191/wloc",
+    "repo": "xikhar/persona",
     "branch": "main",
     "language": "JavaScript",
-    "description": "Apple WLOC Location Spoofer"
+    "description": "Bringing real-time voice to life."
   },
   {
-    "repo": "OpenLabs-so/oa-design",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "The Open Analytics design language as an agent skill: component recipes with type-checked source, token CSS, and a CLI. Works with Claude Code, Cursor, or any agent."
-  },
-  {
-    "repo": "buaacyw/code-world-model",
+    "repo": "DannyMac180/skills",
     "branch": "main",
     "language": "Python",
-    "description": "Code World Model  Official Repo"
+    "description": "AI agent skills created by me: Dan McAteer"
+  },
+  {
+    "repo": "Voxybuns/at-icons",
+    "branch": "main",
+    "language": "HTML",
+    "description": "Open source icons for custom Godot nodes"
+  },
+  {
+    "repo": "yynxxxxx/Codex-X",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Codex Switch & Instruct desktop manager"
+  },
+  {
+    "repo": "deedy/qr-data-transfer",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": ""
+  },
+  {
+    "repo": "HaochengLu/contextvc",
+    "branch": "main",
+    "language": "Rust",
+    "description": "Git-native context control plane for AI coding agents"
+  },
+  {
+    "repo": "514-labs/dnsglobe",
+    "branch": "main",
+    "language": "Rust",
+    "description": "Global DNS propagation checker TUI — watch a DNS record propagate across 34 public resolvers worldwide, on a world map in your terminal"
+  },
+  {
+    "repo": "ytnrvdf/wha-spell-simulator",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "A fan-made browser-based Witch Hat Atelier spell simulator."
+  },
+  {
+    "repo": "vorpus/performativeUI",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": ""
+  },
+  {
+    "repo": "Manuelll4000-sudo/Pok_mon_Scarlet_Violet_Shiny_Hunter",
+    "branch": "main",
+    "language": "Python",
+    "description": "Auto-shiny hunt, fast forward, and infinite items for Pokémon SV. Highlight shiny Pokémon, auto-battle, speed up game, and duplicate items. Perfect for shiny collectors."
+  },
+  {
+    "repo": "MTTECHTH/mihon-aria",
+    "branch": "main",
+    "language": "HTML",
+    "description": "The Ultimate Manga Reading Experience for Android 2026"
+  },
+  {
+    "repo": "Accio-Lab/Dressage",
+    "branch": "main",
+    "language": "Python",
+    "description": "Scalable RL framework for Any Agent and Sandbox."
+  },
+  {
+    "repo": "EEliberto/SurgeRelay-macOS",
+    "branch": "main",
+    "language": "Swift",
+    "description": "一款用于管理、编辑和汇总 macOS Surge 模块的应用程序，以 Script Hub (https://github.com/Script-Hub-Org) 作为上游项目。"
+  },
+  {
+    "repo": "Frisher1/ClaudeCode-Workflow-Lab",
+    "branch": "main",
+    "language": "HTML",
+    "description": "Complete Guide 2026: Claude Code Manual – Workflow Pipelines & Adversarial Budget Loops"
+  },
+  {
+    "repo": "ester987222-max/AniForge-Hub",
+    "branch": "main",
+    "language": "HTML",
+    "description": "Best Open Source Anime & Manga Streaming App 2026"
+  },
+  {
+    "repo": "saadansha/tts-prosody-probe",
+    "branch": "main",
+    "language": "Python",
+    "description": "Probe and compare the prosody (pitch / energy / duration) of TTS outputs."
+  },
+  {
+    "repo": "tandpfun/wardrobe",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "Your clothes, extracted and organized with gpt-image."
+  },
+  {
+    "repo": "Kato-Shoko705/Phoebe-Hub",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "全球最可爱的鸣潮角色菲比表情包收集站"
+  },
+  {
+    "repo": "joeseesun/qiaomu-seo",
+    "branch": "main",
+    "language": "Python",
+    "description": "Audit, diagnose, research, plan, implement, experiment on, and verify website SEO across Google, Bing, and AI-search surfaces. Use for technical SEO,"
+  },
+  {
+    "repo": "WAYLON/ashare-quant-strategies",
+    "branch": "main",
+    "language": "Python",
+    "description": "A-share quant strategies research corpus: 119 Python strategy articles for learning"
+  },
+  {
+    "repo": "gavamedia/deltafin",
+    "branch": "main",
+    "language": "Python",
+    "description": "Run Kimi K3, a 2.8T-parameter Mixture-of-Experts LLM, on a single Apple Silicon Mac. Streams MXFP4 experts on demand over HTTP into a local disk cache — fused NEON kernels, Metal/MPS compute, exact reproducible decoding, and an OpenAI-compatible API server for local chat and coding agents."
   }
 ]

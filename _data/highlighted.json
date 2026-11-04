@@ -1,8 +1,8 @@
 {
-  "repo": "artemnovitckii/claude-animation-skills",
+  "repo": "drakolordx7/pokopia-recomp",
   "branch": "main",
-  "language": "JavaScript",
-  "description": "Six Claude Code skills that make animations for reels, no footage needed: 3D cartoon explainer, stick figure, minimal line art, 3D map route, exploded view, line graph.",
-  "stars": 356,
-  "forks": 45
+  "language": "C++",
+  "description": "Pokémon Pokopia (Switch 2) recompiled to run natively on Windows.",
+  "stars": 385,
+  "forks": 33
 }
