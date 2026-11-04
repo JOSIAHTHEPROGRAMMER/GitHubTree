@@ -1,146 +1,146 @@
 [
   {
-    "repo": "steelbrain/reims-vgpu",
-    "branch": "master",
-    "language": "Rust",
-    "description": "reims-vgpu is an experimental virtual GPU for macOS guests"
-  },
-  {
-    "repo": "mvanhorn/last30days-skill",
+    "repo": "kanavtwtgg/birds.cafe",
     "branch": "main",
-    "language": "Python",
-    "description": "Claude Code skill that researches any topic across Reddit + X from the last 30 days, then writes copy-paste-ready prompts"
-  },
-  {
-    "repo": "element-hq/element-web",
-    "branch": "develop",
-    "language": "TypeScript",
-    "description": "A glossy Matrix collaboration client for the web."
-  },
-  {
-    "repo": "operator-framework/operator-lifecycle-manager",
-    "branch": "master",
-    "language": "Go",
-    "description": "A management framework for extending Kubernetes with Operators"
-  },
-  {
-    "repo": "jina-ai/jina",
-    "branch": "main",
-    "language": "Python",
-    "description": "☁️ Build multimodal AI applications with cloud-native stack"
-  },
-  {
-    "repo": "matplotlib/matplotlib",
-    "branch": "main",
-    "language": "Python",
-    "description": "matplotlib: plotting with Python"
-  },
-  {
-    "repo": "web3/web3.js",
-    "branch": "1.x",
-    "language": "TypeScript",
-    "description": "Collection of comprehensive TypeScript libraries for Interaction with the Ethereum JSON RPC API and utility functions."
-  },
-  {
-    "repo": "PowerShell/vscode-powershell",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Provides PowerShell language and debugging support for Visual Studio Code"
-  },
-  {
-    "repo": "solana-labs/solana",
-    "branch": "master",
-    "language": "Rust",
-    "description": "Web-Scale Blockchain for fast, secure, scalable, decentralized apps and marketplaces."
-  },
-  {
-    "repo": "material-components/material-components-ios",
-    "branch": "develop",
-    "language": "Objective-C",
-    "description": "[In maintenance mode] Modular and customizable Material Design UI components for iOS"
-  },
-  {
-    "repo": "apache/iceberg",
-    "branch": "main",
-    "language": "Java",
-    "description": "Apache Iceberg"
-  },
-  {
-    "repo": "firebase/firebase-android-sdk",
-    "branch": "master",
-    "language": "Java",
-    "description": "Firebase Android SDK"
-  },
-  {
-    "repo": "pmndrs/zustand",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "🐻 Bear necessities for state management in React"
-  },
-  {
-    "repo": "postgres/postgres",
-    "branch": "master",
-    "language": "C",
-    "description": "Mirror of the official PostgreSQL GIT repository. Note that this is just a *mirror* - we don't work with pull requests on github. To contribute, please see https://wiki.postgresql.org/wiki/Submitting_a_Patch"
-  },
-  {
-    "repo": "tensorflow/hub",
-    "branch": "master",
-    "language": "Python",
-    "description": "A library for transfer learning by reusing parts of TensorFlow models."
-  },
-  {
-    "repo": "torvalds/linux",
-    "branch": "master",
-    "language": "C",
-    "description": "Linux kernel source tree"
-  },
-  {
-    "repo": "typeorm/typeorm",
-    "branch": "master",
-    "language": "TypeScript",
-    "description": "ORM for TypeScript and JavaScript. Supports MySQL, PostgreSQL, MariaDB, SQLite, MS SQL Server, Oracle, SAP Hana, WebSQL databases. Works in NodeJS, Browser, Ionic, Cordova and Electron platforms."
-  },
-  {
-    "repo": "chiennv2000/orthrus",
-    "branch": "main",
-    "language": "Python",
-    "description": "Fast, lossless LLM inference via dual-view diffusion decoding."
-  },
-  {
-    "repo": "DestinyCycloid/chatgpt_register_v2_by_AI",
-    "branch": "main",
-    "language": "Python",
+    "language": "JavaScript",
     "description": ""
   },
   {
-    "repo": "python-attrs/attrs",
-    "branch": "main",
-    "language": "Python",
-    "description": "Python Classes Without Boilerplate"
+    "repo": "loyalpartner/selfsync",
+    "branch": "master",
+    "language": "Rust",
+    "description": "Self-hosted Chrome Sync server. 自托管 Chrome 同步服务器 — 书签、密码、偏好等浏览器数据留在本地，不经过 Google"
   },
   {
-    "repo": "Xiangyue-Zhang/auto-deep-researcher-24x7",
-    "branch": "main",
-    "language": "Python",
-    "description": "🔥 An autonomous AI agent that runs your deep learning experiments 24/7 while you sleep. Zero-cost monitoring, Leader-Worker architecture, constant-size memory."
+    "repo": "quasarframework/quasar",
+    "branch": "dev",
+    "language": "JavaScript",
+    "description": "Quasar Framework - Build high-performance VueJS user interfaces in record time"
   },
   {
-    "repo": "FiloSottile/age",
+    "repo": "firecracker-microvm/firecracker",
     "branch": "main",
-    "language": "Go",
-    "description": "A simple, modern and secure encryption tool (and Go library) with small explicit keys, no config options, and UNIX-style composability."
+    "language": "Rust",
+    "description": "Secure and fast microVMs for serverless computing."
   },
   {
-    "repo": "e10nMa2k/cc-mini",
-    "branch": "main",
-    "language": "Python",
-    "description": "mini version of claude code"
-  },
-  {
-    "repo": "JrCx7scC/claude-code-source",
+    "repo": "CopilotKit/OpenDots",
     "branch": "main",
     "language": "TypeScript",
-    "description": "Claude Code complete source restoration from npm package — all native modules, no features cut"
+    "description": "Your always-on AI coworkers that move between text, calls, and Slack."
+  },
+  {
+    "repo": "meteor/meteor",
+    "branch": "devel",
+    "language": "JavaScript",
+    "description": "Meteor, the JavaScript App Platform"
+  },
+  {
+    "repo": "sass/sass",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Sass makes CSS fun!"
+  },
+  {
+    "repo": "claude-mythos5/Claude-Mythos5-AI-Free-desktop",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Claude Mythos 5 AI free desktop app - what is Claude Mythos? Anthropic's restricted AI model released June 9, 2026 for US government Project Glasswing. Claude Fable 5 vs Mythos 5 vs Opus 5 vs GPT 5.6 Sol comparison: same weights, Mythos has cybersecurity capabilities. Download Claude desktop app free, includes Fable 5."
+  },
+  {
+    "repo": "lidge-jun/opencodex",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Universal provider proxy for OpenAI Codex — use any LLM with Codex CLI, App, and SDK"
+  },
+  {
+    "repo": "Radiant303/SpringNote",
+    "branch": "main",
+    "language": "Dart",
+    "description": "懒人实习记录工具"
+  },
+  {
+    "repo": "clap-rs/clap",
+    "branch": "master",
+    "language": "Rust",
+    "description": "A full featured, fast Command Line Argument Parser for Rust"
+  },
+  {
+    "repo": "hasura/graphql-engine",
+    "branch": "master",
+    "language": "TypeScript",
+    "description": "Blazing fast, instant realtime GraphQL APIs on all your data with fine grained access control, also trigger webhooks on database events."
+  },
+  {
+    "repo": "Anduin2017/HowToCook",
+    "branch": "master",
+    "language": "Dockerfile",
+    "description": "程序员在家做饭方法指南。Programmer's guide about how to cook at home (Simplified Chinese only)."
+  },
+  {
+    "repo": "FallenRaven01/Fortnite_Aimbot___ESP_2026",
+    "branch": "main",
+    "language": "Python",
+    "description": "Undetected aimbot, ESP, and build hack for Fortnite Chapter 6. Perfect aim, see enemies through walls, and predict enemy builds. Works in all modes."
+  },
+  {
+    "repo": "rayenamor434-max/Death_Stranding_2__On_the_Beach_Trainer",
+    "branch": "main",
+    "language": "Python",
+    "description": "Unlimited resources, stamina, and all structures for Death Stranding 2. Build ziplines, roads, and bridges instantly. Never tire and carry infinite weight."
+  },
+  {
+    "repo": "ruanyf/weekly",
+    "branch": "master",
+    "language": "Other",
+    "description": "科技爱好者周刊，每周五发布"
+  },
+  {
+    "repo": "hadiaimran1090/Duplicate_File_Cleaner",
+    "branch": "main",
+    "language": "Python",
+    "description": "Find and remove duplicate files by content, name, or size. Free up disk space efficiently."
+  },
+  {
+    "repo": "alibaba/landmark-tokenized-dit",
+    "branch": "main",
+    "language": "Python",
+    "description": "Official repository for paper LaTo: Landmark-tokenized Diffusion Transformer for Fine-grained Human Face Editing"
+  },
+  {
+    "repo": "egorpavlov0/Flash-USDT-Sender",
+    "branch": "main",
+    "language": "Python",
+    "description": "Flash USDT Sender — Multi-network flash transaction tool for USDT, BTC, and ETH with configurable duration, custom gas settings, ERC-20/TRC-20/BEP-20 support, and block explorer-visible confirmations"
+  },
+  {
+    "repo": "softmatcha/softmatcha2",
+    "branch": "main",
+    "language": "Python",
+    "description": "A fast and soft pattern search for trillion-scale corpora."
+  },
+  {
+    "repo": "moby/buildkit",
+    "branch": "master",
+    "language": "Go",
+    "description": "concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit"
+  },
+  {
+    "repo": "Yu9191/wloc",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "Apple WLOC Location Spoofer"
+  },
+  {
+    "repo": "OpenLabs-so/oa-design",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "The Open Analytics design language as an agent skill: component recipes with type-checked source, token CSS, and a CLI. Works with Claude Code, Cursor, or any agent."
+  },
+  {
+    "repo": "buaacyw/code-world-model",
+    "branch": "main",
+    "language": "Python",
+    "description": "Code World Model  Official Repo"
   }
 ]
