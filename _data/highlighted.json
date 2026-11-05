@@ -1,8 +1,8 @@
 {
-  "repo": "drakolordx7/pokopia-recomp",
+  "repo": "1337isnot1337/DOPPLERGEIST",
   "branch": "main",
-  "language": "C++",
-  "description": "Pokémon Pokopia (Switch 2) recompiled to run natively on Windows.",
-  "stars": 385,
-  "forks": 33
+  "language": "Python",
+  "description": "Python tool for aircraft Doppler audio geolocation using historical ADS-B flight data (Source-available)",
+  "stars": 285,
+  "forks": 42
 }

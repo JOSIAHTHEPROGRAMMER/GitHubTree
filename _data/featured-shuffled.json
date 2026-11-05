@@ -1,146 +1,146 @@
 [
   {
-    "repo": "sharkdp/fd",
+    "repo": "dbreunig/nesformer",
+    "branch": "main",
+    "language": "Python",
+    "description": "An NES CPU compiled into the weights of a stock Qwen3.5 model"
+  },
+  {
+    "repo": "432539/gpt2api",
+    "branch": "main",
+    "language": "Go",
+    "description": "基于 chatgpt.com 逆向的 OpenAI 兼容 SaaS 网关 · IMG2 灰度 · 批量出图 · 多账号池 · 高并发调度 · 积分计费 · 技术交流QQ 群 382446"
+  },
+  {
+    "repo": "LoAy-Ashraf-744/The_Sims_4_Cheat_Engine",
+    "branch": "main",
+    "language": "Python",
+    "description": "Unlimited money, all aspirations, and relationship editor for Sims 4. Max simoleons, unlock all traits, edit relationships, and build mode unlock."
+  },
+  {
+    "repo": "cnitlrt/AutoTeam",
+    "branch": "dev",
+    "language": "Python",
+    "description": "ChatGPT Team 账号自动轮转管理 - Codex 额度监控、自动换号、CPA 认证同步"
+  },
+  {
+    "repo": "guzzle/guzzle",
     "branch": "master",
-    "language": "Rust",
-    "description": "A simple, fast and user-friendly alternative to 'find'"
+    "language": "PHP",
+    "description": "Guzzle, an extensible PHP HTTP client"
   },
   {
-    "repo": "Contrastive-LM/CLM",
+    "repo": "knackstedtlivia3560/Gemini-Pro-Desktop",
+    "branch": "main",
+    "language": "C#",
+    "description": "A free, locally runnable desktop application powered by Gemini Pro for enhanced productivity."
+  },
+  {
+    "repo": "PredictiveFlow-Labs/polymarket-arbitrage-bot",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "polymarket arbitrage bot polymarket arbitrage bot polymarket arbitrage bot polymarket arbitrage bot polymarket arbitrage bot polymarket arbitrage bot polymarket arbitrage bot polymarket arbitrage bot polymarket arbitrage bot polymarket arbitrage bot polymarket arbitrage bot polymarket arbitrage bot polymarket arbitrage bot polymarket arbitrage bot"
+  },
+  {
+    "repo": "wizenheimer/canary",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "QA harness built for Claude Code | E2E testing with screen recordings, console logs, network HARs, and Playwright traces"
+  },
+  {
+    "repo": "DenisSergeevitch/pole-chudes-2",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Поле Чудес 2 (1993) — faithful TypeScript browser port of the DOS classic. Zero binaries: sprites are editable WebP, every asset rebuilds the original byte-for-byte."
+  },
+  {
+    "repo": "asz798838958/aBaiAutoplus",
     "branch": "main",
     "language": "Python",
+    "description": "多平台 AI 账号自动注册与管理 · 协议化付款一键开通 ChatGPT Plus"
+  },
+  {
+    "repo": "python-telegram-bot/python-telegram-bot",
+    "branch": "master",
+    "language": "Python",
+    "description": "We have made you a wrapper you can't refuse"
+  },
+  {
+    "repo": "yb2460/cli-anything-wps",
+    "branch": "master",
+    "language": "Python",
+    "description": "CLI harness for WPS Office -- let AI agents control Writer, Calc & Impress via COM automation"
+  },
+  {
+    "repo": "kevinho/clawfeed",
+    "branch": "main",
+    "language": "HTML",
+    "description": "ClawFeed — AI-powered news digest with structured summaries from Twitter/RSS feeds and web dashboard"
+  },
+  {
+    "repo": "FengZi1221/proxy-installer",
+    "branch": "main",
+    "language": "Go",
+    "description": "一个面向新手的 Windows 桌面工具，通过 SSH 连接 VPS，自动检测环境并部署 Hysteria2、VMess、VLESS Reality、Trojan、Shadowsocks 节点。全自动安装节点的工具，并且自动生成适用于小火箭/Clash Meta/Sing-Box/V2rayNG的订阅链接"
+  },
+  {
+    "repo": "OranAi-Ltd/oransim",
+    "branch": "main",
+    "language": "Python",
+    "description": "Causal Digital Twin for Marketing at Scale · Predict any marketing decision before you spend a dollar."
+  },
+  {
+    "repo": "tamesenseiangular/blooketauto-soft",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "BEST MENU FOR BLOOKET IN 2026 | WORKING | UNDETECTED"
+  },
+  {
+    "repo": "ammaarreshi/Generals-Mac-iOS-iPad",
+    "branch": "main",
+    "language": "C++",
+    "description": "Command & Conquer Generals: Zero Hour running natively on macOS, iPhone & iPad — real engine (EA GPL v3 source, via GeneralsX), DXVK/MoltenVK renderer, RTS touch controls. No game assets included."
+  },
+  {
+    "repo": "seabra98/Polymarket-Kalshi-Arbitrage-Bot",
+    "branch": "main",
+    "language": "TypeScript",
     "description": ""
   },
   {
-    "repo": "dimasarestuprasmanto/Blox-Fruits-Dragon-Update-Auto-Farm-Script-2026-Advanced",
+    "repo": "poteto/brainmaxxing",
     "branch": "main",
     "language": "Python",
-    "description": "All‑in‑one Blox Fruits script for Dragon Update 2026. Advanced edition comes with extra optimizations for faster farming."
+    "description": "stupid simple persistent memory and skill improvement"
   },
   {
-    "repo": "xikhar/persona",
+    "repo": "blairxu13/persona3-website",
     "branch": "main",
     "language": "JavaScript",
-    "description": "Bringing real-time voice to life."
-  },
-  {
-    "repo": "DannyMac180/skills",
-    "branch": "main",
-    "language": "Python",
-    "description": "AI agent skills created by me: Dan McAteer"
-  },
-  {
-    "repo": "Voxybuns/at-icons",
-    "branch": "main",
-    "language": "HTML",
-    "description": "Open source icons for custom Godot nodes"
-  },
-  {
-    "repo": "yynxxxxx/Codex-X",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Codex Switch & Instruct desktop manager"
-  },
-  {
-    "repo": "deedy/qr-data-transfer",
-    "branch": "main",
-    "language": "TypeScript",
     "description": ""
   },
   {
-    "repo": "HaochengLu/contextvc",
+    "repo": "OnlyTerp/UltraCode-Shim",
     "branch": "main",
-    "language": "Rust",
-    "description": "Git-native context control plane for AI coding agents"
+    "language": "Python",
+    "description": "Give Claude Code's ultracode mode to ANY model you already pay for. A tiny local proxy + one config.json. Point your AI at AGENTS.md and it sets itself up."
   },
   {
-    "repo": "514-labs/dnsglobe",
-    "branch": "main",
-    "language": "Rust",
-    "description": "Global DNS propagation checker TUI — watch a DNS record propagate across 34 public resolvers worldwide, on a world map in your terminal"
-  },
-  {
-    "repo": "ytnrvdf/wha-spell-simulator",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "A fan-made browser-based Witch Hat Atelier spell simulator."
-  },
-  {
-    "repo": "vorpus/performativeUI",
+    "repo": "mikeyobrien/rho",
     "branch": "main",
     "language": "TypeScript",
-    "description": ""
+    "description": "An AI agent that stays running, remembers across sessions, and checks in on its own. macOS, Linux, Android. Built on Pi."
   },
   {
-    "repo": "Manuelll4000-sudo/Pok_mon_Scarlet_Violet_Shiny_Hunter",
+    "repo": "opencoredev/domain-sdk",
     "branch": "main",
-    "language": "Python",
-    "description": "Auto-shiny hunt, fast forward, and infinite items for Pokémon SV. Highlight shiny Pokémon, auto-battle, speed up game, and duplicate items. Perfect for shiny collectors."
+    "language": "TypeScript",
+    "description": "Add, verify, monitor, and remove customer domains with one TypeScript API."
   },
   {
-    "repo": "MTTECHTH/mihon-aria",
+    "repo": "Polymarket-Trading-kit/crypto-trading-bot",
     "branch": "main",
-    "language": "HTML",
-    "description": "The Ultimate Manga Reading Experience for Android 2026"
-  },
-  {
-    "repo": "Accio-Lab/Dressage",
-    "branch": "main",
-    "language": "Python",
-    "description": "Scalable RL framework for Any Agent and Sandbox."
-  },
-  {
-    "repo": "EEliberto/SurgeRelay-macOS",
-    "branch": "main",
-    "language": "Swift",
-    "description": "一款用于管理、编辑和汇总 macOS Surge 模块的应用程序，以 Script Hub (https://github.com/Script-Hub-Org) 作为上游项目。"
-  },
-  {
-    "repo": "Frisher1/ClaudeCode-Workflow-Lab",
-    "branch": "main",
-    "language": "HTML",
-    "description": "Complete Guide 2026: Claude Code Manual – Workflow Pipelines & Adversarial Budget Loops"
-  },
-  {
-    "repo": "ester987222-max/AniForge-Hub",
-    "branch": "main",
-    "language": "HTML",
-    "description": "Best Open Source Anime & Manga Streaming App 2026"
-  },
-  {
-    "repo": "saadansha/tts-prosody-probe",
-    "branch": "main",
-    "language": "Python",
-    "description": "Probe and compare the prosody (pitch / energy / duration) of TTS outputs."
-  },
-  {
-    "repo": "tandpfun/wardrobe",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "Your clothes, extracted and organized with gpt-image."
-  },
-  {
-    "repo": "Kato-Shoko705/Phoebe-Hub",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "全球最可爱的鸣潮角色菲比表情包收集站"
-  },
-  {
-    "repo": "joeseesun/qiaomu-seo",
-    "branch": "main",
-    "language": "Python",
-    "description": "Audit, diagnose, research, plan, implement, experiment on, and verify website SEO across Google, Bing, and AI-search surfaces. Use for technical SEO,"
-  },
-  {
-    "repo": "WAYLON/ashare-quant-strategies",
-    "branch": "main",
-    "language": "Python",
-    "description": "A-share quant strategies research corpus: 119 Python strategy articles for learning"
-  },
-  {
-    "repo": "gavamedia/deltafin",
-    "branch": "main",
-    "language": "Python",
-    "description": "Run Kimi K3, a 2.8T-parameter Mixture-of-Experts LLM, on a single Apple Silicon Mac. Streams MXFP4 experts on demand over HTTP into a local disk cache — fused NEON kernels, Metal/MPS compute, exact reproducible decoding, and an OpenAI-compatible API server for local chat and coding agents."
+    "language": "TypeScript",
+    "description": "crypto trading bot crypto trading bot crypto trading bot crypto trading bot crypto trading bot crypto trading bot crypto trading bot crypto trading bot crypto trading bot crypto trading bot crypto trading bot crypto trading bot crypto trading bot crypto trading bot crypto trading bot crypto trading bot crypto trading bot crypto trading bot crypto"
   }
 ]
