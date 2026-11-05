@@ -1,8 +1,8 @@
 {
-  "repo": "1337isnot1337/DOPPLERGEIST",
+  "repo": "SkinkSmelter6/valorant-fps-lag-fixer",
   "branch": "main",
-  "language": "Python",
-  "description": "Python tool for aircraft Doppler audio geolocation using historical ADS-B flight data (Source-available)",
-  "stars": 285,
-  "forks": 42
+  "language": "Rust",
+  "description": "VALORANT stutters, lags or won't start? Tick reads the Vanguard code, measures FPS for 60 seconds, finds where the lag starts and fixes what it can, with one-click undo.",
+  "stars": 284,
+  "forks": 17
 }

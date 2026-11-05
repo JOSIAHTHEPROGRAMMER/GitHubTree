@@ -1,146 +1,146 @@
 [
   {
-    "repo": "dbreunig/nesformer",
+    "repo": "microsoft/LlamaSharp",
+    "branch": "main",
+    "language": "Other",
+    "description": ".NET library for Llama model inference."
+  },
+  {
+    "repo": "prisma/prisma",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server, SQLite, MongoDB and CockroachDB"
+  },
+  {
+    "repo": "lbx154/Argus",
     "branch": "main",
     "language": "Python",
-    "description": "An NES CPU compiled into the weights of a stock Qwen3.5 model"
+    "description": ""
   },
   {
-    "repo": "432539/gpt2api",
-    "branch": "main",
-    "language": "Go",
-    "description": "基于 chatgpt.com 逆向的 OpenAI 兼容 SaaS 网关 · IMG2 灰度 · 批量出图 · 多账号池 · 高并发调度 · 积分计费 · 技术交流QQ 群 382446"
+    "repo": "getsentry/sentry-javascript",
+    "branch": "develop",
+    "language": "TypeScript",
+    "description": "Official Sentry SDKs for JavaScript"
   },
   {
-    "repo": "LoAy-Ashraf-744/The_Sims_4_Cheat_Engine",
-    "branch": "main",
-    "language": "Python",
-    "description": "Unlimited money, all aspirations, and relationship editor for Sims 4. Max simoleons, unlock all traits, edit relationships, and build mode unlock."
-  },
-  {
-    "repo": "cnitlrt/AutoTeam",
+    "repo": "defold/defold",
     "branch": "dev",
-    "language": "Python",
-    "description": "ChatGPT Team 账号自动轮转管理 - Codex 额度监控、自动换号、CPA 认证同步"
-  },
-  {
-    "repo": "guzzle/guzzle",
-    "branch": "master",
-    "language": "PHP",
-    "description": "Guzzle, an extensible PHP HTTP client"
-  },
-  {
-    "repo": "knackstedtlivia3560/Gemini-Pro-Desktop",
-    "branch": "main",
-    "language": "C#",
-    "description": "A free, locally runnable desktop application powered by Gemini Pro for enhanced productivity."
-  },
-  {
-    "repo": "PredictiveFlow-Labs/polymarket-arbitrage-bot",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "polymarket arbitrage bot polymarket arbitrage bot polymarket arbitrage bot polymarket arbitrage bot polymarket arbitrage bot polymarket arbitrage bot polymarket arbitrage bot polymarket arbitrage bot polymarket arbitrage bot polymarket arbitrage bot polymarket arbitrage bot polymarket arbitrage bot polymarket arbitrage bot polymarket arbitrage bot"
-  },
-  {
-    "repo": "wizenheimer/canary",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "QA harness built for Claude Code | E2E testing with screen recordings, console logs, network HARs, and Playwright traces"
-  },
-  {
-    "repo": "DenisSergeevitch/pole-chudes-2",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Поле Чудес 2 (1993) — faithful TypeScript browser port of the DOS classic. Zero binaries: sprites are editable WebP, every asset rebuilds the original byte-for-byte."
-  },
-  {
-    "repo": "asz798838958/aBaiAutoplus",
-    "branch": "main",
-    "language": "Python",
-    "description": "多平台 AI 账号自动注册与管理 · 协议化付款一键开通 ChatGPT Plus"
-  },
-  {
-    "repo": "python-telegram-bot/python-telegram-bot",
-    "branch": "master",
-    "language": "Python",
-    "description": "We have made you a wrapper you can't refuse"
-  },
-  {
-    "repo": "yb2460/cli-anything-wps",
-    "branch": "master",
-    "language": "Python",
-    "description": "CLI harness for WPS Office -- let AI agents control Writer, Calc & Impress via COM automation"
-  },
-  {
-    "repo": "kevinho/clawfeed",
-    "branch": "main",
-    "language": "HTML",
-    "description": "ClawFeed — AI-powered news digest with structured summaries from Twitter/RSS feeds and web dashboard"
-  },
-  {
-    "repo": "FengZi1221/proxy-installer",
-    "branch": "main",
-    "language": "Go",
-    "description": "一个面向新手的 Windows 桌面工具，通过 SSH 连接 VPS，自动检测环境并部署 Hysteria2、VMess、VLESS Reality、Trojan、Shadowsocks 节点。全自动安装节点的工具，并且自动生成适用于小火箭/Clash Meta/Sing-Box/V2rayNG的订阅链接"
-  },
-  {
-    "repo": "OranAi-Ltd/oransim",
-    "branch": "main",
-    "language": "Python",
-    "description": "Causal Digital Twin for Marketing at Scale · Predict any marketing decision before you spend a dollar."
-  },
-  {
-    "repo": "tamesenseiangular/blooketauto-soft",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "BEST MENU FOR BLOOKET IN 2026 | WORKING | UNDETECTED"
-  },
-  {
-    "repo": "ammaarreshi/Generals-Mac-iOS-iPad",
-    "branch": "main",
     "language": "C++",
-    "description": "Command & Conquer Generals: Zero Hour running natively on macOS, iPhone & iPad — real engine (EA GPL v3 source, via GeneralsX), DXVK/MoltenVK renderer, RTS touch controls. No game assets included."
+    "description": "Defold is a completely free to use game engine for development of desktop, mobile and web games."
   },
   {
-    "repo": "seabra98/Polymarket-Kalshi-Arbitrage-Bot",
+    "repo": "gvisor/gvisor",
+    "branch": "master",
+    "language": "Other",
+    "description": "Application Kernel for Containers."
+  },
+  {
+    "repo": "airbnb/javascript",
+    "branch": "master",
+    "language": "JavaScript",
+    "description": "JavaScript Style Guide"
+  },
+  {
+    "repo": "fspecii/HeartMuLa-Studio",
     "branch": "main",
     "language": "TypeScript",
-    "description": ""
+    "description": "Suno-like music generation studio for HeartMuLa/heartlib - AI-powered music creation with reference audio style transfer"
   },
   {
-    "repo": "poteto/brainmaxxing",
+    "repo": "git/git",
+    "branch": "master",
+    "language": "C",
+    "description": "Git Source Code Mirror - This is a publish-only repository but pull requests can be turned into patches to the mailing list via GitGitGadget (https://gitgitgadget.github.io/). Please follow Documentation/SubmittingPatches procedure for any of your improvements."
+  },
+  {
+    "repo": "clap-rs/clap",
+    "branch": "master",
+    "language": "Rust",
+    "description": "A full featured, fast Command Line Argument Parser for Rust"
+  },
+  {
+    "repo": "starkware-libs/cairo",
     "branch": "main",
-    "language": "Python",
-    "description": "stupid simple persistent memory and skill improvement"
+    "language": "Rust",
+    "description": "Cairo is the first Turing-complete language for creating provable programs for general computation."
   },
   {
-    "repo": "blairxu13/persona3-website",
+    "repo": "react-native-async-storage/async-storage",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "An asynchronous, persistent, key-value storage system for React Native."
+  },
+  {
+    "repo": "swarmclawai/swarmvault",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Inspired by Karpathy's LLM Wiki. Local-first LLM knowledge base compiler (Claude Code, Codex, OpenCode, OpenClaw). Turn raw research into a persistent markdown wiki, knowledge graph, and search index that compound over time."
+  },
+  {
+    "repo": "LadybirdBrowser/ladybird",
+    "branch": "master",
+    "language": "C++",
+    "description": "Truly independent web browser"
+  },
+  {
+    "repo": "encode/django-rest-framework",
+    "branch": "master",
+    "language": "Python",
+    "description": "Web APIs for Django. 🎸"
+  },
+  {
+    "repo": "khalildh/garment-notation",
     "branch": "main",
     "language": "JavaScript",
     "description": ""
   },
   {
-    "repo": "OnlyTerp/UltraCode-Shim",
+    "repo": "tachikomared/character-animation-creator-skill",
     "branch": "main",
     "language": "Python",
-    "description": "Give Claude Code's ultracode mode to ANY model you already pay for. A tiny local proxy + one config.json. Point your AI at AGENTS.md and it sets itself up."
+    "description": "Character Animation Creator Skill for Codex and GPT Web Agent — generates game-ready animations and sprites from reference images or text prompts"
   },
   {
-    "repo": "mikeyobrien/rho",
+    "repo": "Emanuele-web04/remodex",
     "branch": "main",
-    "language": "TypeScript",
-    "description": "An AI agent that stays running, remembers across sessions, and checks in on its own. macOS, Linux, Android. Built on Pi."
+    "language": "Swift",
+    "description": "Remote Control for Codex. 24/7 version on the way"
   },
   {
-    "repo": "opencoredev/domain-sdk",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Add, verify, monitor, and remove customer domains with one TypeScript API."
+    "repo": "sharkdp/fd",
+    "branch": "master",
+    "language": "Rust",
+    "description": "A simple, fast and user-friendly alternative to 'find'"
   },
   {
-    "repo": "Polymarket-Trading-kit/crypto-trading-bot",
+    "repo": "google-research/vision_transformer",
     "branch": "main",
-    "language": "TypeScript",
-    "description": "crypto trading bot crypto trading bot crypto trading bot crypto trading bot crypto trading bot crypto trading bot crypto trading bot crypto trading bot crypto trading bot crypto trading bot crypto trading bot crypto trading bot crypto trading bot crypto trading bot crypto trading bot crypto trading bot crypto trading bot crypto trading bot crypto"
+    "language": "Jupyter Notebook",
+    "description": "Vision Transformer in JAX."
+  },
+  {
+    "repo": "Doryoku1223/lunwen-skill",
+    "branch": "main",
+    "language": "Python",
+    "description": "面向本科计科学生的一键论文初稿 Skill，支持样文/开题报告/模板驱动生成，并补全流程图、ER 图和项目截图"
+  },
+  {
+    "repo": "pynecone-io/pynecone",
+    "branch": "main",
+    "language": "Python",
+    "description": "🕸️ Web apps in pure Python 🐍"
+  },
+  {
+    "repo": "termux/termux-app",
+    "branch": "master",
+    "language": "Java",
+    "description": "Termux - a terminal emulator application for Android OS extendible by variety of packages."
+  },
+  {
+    "repo": "THUDM/CodeGeeX",
+    "branch": "main",
+    "language": "Python",
+    "description": "CodeGeeX: An Open Multilingual Code Generation Model (KDD 2023)"
   }
 ]
