@@ -1,8 +1,8 @@
 {
-  "repo": "SkinkSmelter6/valorant-fps-lag-fixer",
+  "repo": "AtomIllusionistDwell/watson-username-footprint-finder",
   "branch": "main",
-  "language": "Rust",
-  "description": "VALORANT stutters, lags or won't start? Tick reads the Vanguard code, measures FPS for 60 seconds, finds where the lag starts and fixes what it can, with one-click undo.",
-  "stars": 284,
-  "forks": 17
+  "language": "TypeScript",
+  "description": "Free people-search desktop app: look up a nickname, email, phone or site across 3,100+ public pages and get one readable report.",
+  "stars": 431,
+  "forks": 53
 }

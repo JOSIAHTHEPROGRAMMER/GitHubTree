@@ -1,146 +1,146 @@
 [
   {
-    "repo": "microsoft/LlamaSharp",
-    "branch": "main",
-    "language": "Other",
-    "description": ".NET library for Llama model inference."
-  },
-  {
-    "repo": "prisma/prisma",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server, SQLite, MongoDB and CockroachDB"
-  },
-  {
-    "repo": "lbx154/Argus",
+    "repo": "SakanaAI/AI-Scientist-v2",
     "branch": "main",
     "language": "Python",
-    "description": ""
+    "description": "The AI Scientist-v2: Workshop-Level Automated Scientific Discovery via Agentic Tree Search"
   },
   {
-    "repo": "getsentry/sentry-javascript",
-    "branch": "develop",
-    "language": "TypeScript",
-    "description": "Official Sentry SDKs for JavaScript"
-  },
-  {
-    "repo": "defold/defold",
-    "branch": "dev",
-    "language": "C++",
-    "description": "Defold is a completely free to use game engine for development of desktop, mobile and web games."
-  },
-  {
-    "repo": "gvisor/gvisor",
+    "repo": "uditgoenka/autoresearch",
     "branch": "master",
-    "language": "Other",
-    "description": "Application Kernel for Containers."
+    "language": "Shell",
+    "description": "Claude Autoresearch Skill — Autonomous goal-directed iteration for Claude Code. Inspired by Karpathy's autoresearch. Modify → Verify → Keep/Discard → Repeat forever."
   },
   {
-    "repo": "airbnb/javascript",
-    "branch": "master",
-    "language": "JavaScript",
-    "description": "JavaScript Style Guide"
-  },
-  {
-    "repo": "fspecii/HeartMuLa-Studio",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Suno-like music generation studio for HeartMuLa/heartlib - AI-powered music creation with reference audio style transfer"
-  },
-  {
-    "repo": "git/git",
-    "branch": "master",
-    "language": "C",
-    "description": "Git Source Code Mirror - This is a publish-only repository but pull requests can be turned into patches to the mailing list via GitGitGadget (https://gitgitgadget.github.io/). Please follow Documentation/SubmittingPatches procedure for any of your improvements."
-  },
-  {
-    "repo": "clap-rs/clap",
-    "branch": "master",
-    "language": "Rust",
-    "description": "A full featured, fast Command Line Argument Parser for Rust"
-  },
-  {
-    "repo": "starkware-libs/cairo",
-    "branch": "main",
-    "language": "Rust",
-    "description": "Cairo is the first Turing-complete language for creating provable programs for general computation."
-  },
-  {
-    "repo": "react-native-async-storage/async-storage",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "An asynchronous, persistent, key-value storage system for React Native."
-  },
-  {
-    "repo": "swarmclawai/swarmvault",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Inspired by Karpathy's LLM Wiki. Local-first LLM knowledge base compiler (Claude Code, Codex, OpenCode, OpenClaw). Turn raw research into a persistent markdown wiki, knowledge graph, and search index that compound over time."
-  },
-  {
-    "repo": "LadybirdBrowser/ladybird",
-    "branch": "master",
-    "language": "C++",
-    "description": "Truly independent web browser"
-  },
-  {
-    "repo": "encode/django-rest-framework",
-    "branch": "master",
-    "language": "Python",
-    "description": "Web APIs for Django. 🎸"
-  },
-  {
-    "repo": "khalildh/garment-notation",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": ""
-  },
-  {
-    "repo": "tachikomared/character-animation-creator-skill",
-    "branch": "main",
-    "language": "Python",
-    "description": "Character Animation Creator Skill for Codex and GPT Web Agent — generates game-ready animations and sprites from reference images or text prompts"
-  },
-  {
-    "repo": "Emanuele-web04/remodex",
+    "repo": "pixel-point/media-downloader",
     "branch": "main",
     "language": "Swift",
-    "description": "Remote Control for Codex. 24/7 version on the way"
+    "description": "Beautiful native macOS video downloader. Download and trim in one app."
   },
   {
-    "repo": "sharkdp/fd",
+    "repo": "mickamy/sql-tap",
+    "branch": "main",
+    "language": "Go",
+    "description": "Watch SQL traffic in real-time with a TUI"
+  },
+  {
+    "repo": "0xquqi/crypto-kol-quant",
+    "branch": "main",
+    "language": "HTML",
+    "description": "首个将99位加密KOL交易经验LLM蒸馏为可回测量化因子的开源项目 | First to distill 99 crypto KOL trading experience into backtestable quant factors via LLM"
+  },
+  {
+    "repo": "symfony/symfony",
+    "branch": "7.1",
+    "language": "PHP",
+    "description": "The Symfony PHP framework"
+  },
+  {
+    "repo": "mizchi/actrun",
+    "branch": "main",
+    "language": "MoonBit",
+    "description": "GitHub Actions compatible CI runner in MoonBit"
+  },
+  {
+    "repo": "zhaoyue4810/pianke",
+    "branch": "main",
+    "language": "Python",
+    "description": ""
+  },
+  {
+    "repo": "facebookresearch/detectron2",
+    "branch": "main",
+    "language": "Python",
+    "description": "Detectron2 is a platform for object detection, segmentation and other visual recognition tasks."
+  },
+  {
+    "repo": "donnemartin/system-design-primer",
     "branch": "master",
-    "language": "Rust",
-    "description": "A simple, fast and user-friendly alternative to 'find'"
+    "language": "Python",
+    "description": "Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards."
   },
   {
-    "repo": "google-research/vision_transformer",
+    "repo": "n8n-io/n8n",
+    "branch": "master",
+    "language": "TypeScript",
+    "description": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations."
+  },
+  {
+    "repo": "HumeAI/tada",
     "branch": "main",
     "language": "Jupyter Notebook",
-    "description": "Vision Transformer in JAX."
+    "description": "Open Source Speech Language Model"
   },
   {
-    "repo": "Doryoku1223/lunwen-skill",
+    "repo": "TheDecipherist/claude-code-mastery-project-starter-kit",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "The definitive starting point for Claude Code projects. Based on Claude Code Mastery Guides V3-V5."
+  },
+  {
+    "repo": "blender/blender",
+    "branch": "main",
+    "language": "C++",
+    "description": "Official mirror of Blender"
+  },
+  {
+    "repo": "tgies/klattsch",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "primitive parallel-formant speech synth in the browser"
+  },
+  {
+    "repo": "Mr-Un1k0d3r/AzureRedOps",
     "branch": "main",
     "language": "Python",
-    "description": "面向本科计科学生的一键论文初稿 Skill，支持样文/开题报告/模板驱动生成，并补全流程图、ER 图和项目截图"
+    "description": "Azure RedOps is a offensive security toolkit for assessing the security posture of Microsoft Entra ID"
   },
   {
-    "repo": "pynecone-io/pynecone",
+    "repo": "NelsonEU/arn0-tv",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "A custom home screen for a Samsung Q70B (Tizen 6.5)"
+  },
+  {
+    "repo": "hydra-node/polymarket-weather-bot",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Polymarket weather trading bot Polymarket weather betting bot Polymarket weather trading bot Polymarket weather betting bot Polymarket weather trading bot Polymarket weather betting bot Polymarket weather trading bot Polymarket weather betting bot Polymarket weather trading bot Polymarket weather betting bot Polymarket weather trading bot"
+  },
+  {
+    "repo": "HuiyuLi-2000/Chinese-Grant-Writer-Skills",
     "branch": "main",
     "language": "Python",
-    "description": "🕸️ Web apps in pure Python 🐍"
+    "description": "面向 NSFC、NSSFC、省部级自/社科申请书的 AI 写作技能集。从近 20 本管理口申请书中提炼写作范式，覆盖核心撰写环节。"
   },
   {
-    "repo": "termux/termux-app",
-    "branch": "master",
-    "language": "Java",
-    "description": "Termux - a terminal emulator application for Android OS extendible by variety of packages."
-  },
-  {
-    "repo": "THUDM/CodeGeeX",
+    "repo": "perplexityai/wandr",
     "branch": "main",
     "language": "Python",
-    "description": "CodeGeeX: An Open Multilingual Code Generation Model (KDD 2023)"
+    "description": ""
+  },
+  {
+    "repo": "andy78787878/lsfg-fpsgithub",
+    "branch": "main",
+    "language": "HTML",
+    "description": "Lossless Scaling for Windows high-performance upscaling and frame generation software for PC gaming"
+  },
+  {
+    "repo": "oil-oil/beautify-github-readme",
+    "branch": "main",
+    "language": "Python",
+    "description": "Design clear, theme-specific GitHub README homepages with SVG titles, real proof, and maintainable Markdown"
+  },
+  {
+    "repo": "ben-z/findphone",
+    "branch": "main",
+    "language": "Swift",
+    "description": "Locate a nearby Bluetooth device by signal strength, from the macOS command line — for when Find My isn't available"
+  },
+  {
+    "repo": "sowarma/wp2shell-PoC",
+    "branch": "main",
+    "language": "Python",
+    "description": "CVE-2026-63030 & CVE-2026-60137 RCE chain proof-of-concept"
   }
 ]
