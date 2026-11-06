@@ -1,146 +1,146 @@
 [
   {
-    "repo": "orange2ai/openclaw-killer",
-    "branch": "main",
-    "language": "Shell",
-    "description": "一键完美卸载 OpenClaw，让这只龙虾体面告别 🦞"
-  },
-  {
-    "repo": "flairNLP/flair",
-    "branch": "master",
-    "language": "Python",
-    "description": "A very simple framework for state-of-the-art Natural Language Processing (NLP)"
-  },
-  {
-    "repo": "Iwanian/Iwana-Proxy",
-    "branch": "main",
-    "language": "Kotlin",
-    "description": "for telegram"
-  },
-  {
-    "repo": "ReconWorldLab/godot-gaussian-splatting",
-    "branch": "main",
-    "language": "GDScript",
-    "description": "[GDGS] A real-time 3D Gaussian Splatting (3DGS) rendering plugin for the Godot Engine. Godot引擎的实时3DGS渲染插件"
-  },
-  {
-    "repo": "kata-containers/kata-containers",
-    "branch": "main",
-    "language": "Rust",
-    "description": "Kata Containers is an open source project and community working to build a standard implementation of lightweight Virtual Machines (VMs) that feel and perform like containers, but provide the workload isolation and security advantages of VMs. https://katacontainers.io/"
-  },
-  {
-    "repo": "protocolbuffers/protobuf",
-    "branch": "main",
-    "language": "C++",
-    "description": "Protocol Buffers - Google's data interchange format"
-  },
-  {
-    "repo": "Azure/azure-sdk-for-python",
+    "repo": "LYiHub/OpenClaw-AWD-Arena",
     "branch": "main",
     "language": "Python",
-    "description": "This repository is for active development of the Azure SDK for Python. For consumers of the SDK we recommend visiting our public developer docs at https://learn.microsoft.com/python/azure/ or our versioned developer docs at https://azure.github.io/azure-sdk-for-python."
+    "description": "An automated Attack-with-Defense platform where LLM-powered agents compete in real-time."
   },
   {
-    "repo": "godotengine/godot-docs",
-    "branch": "master",
-    "language": "reStructuredText",
-    "description": "Godot Engine official documentation"
+    "repo": "Autumn-27/ARTEX",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "AI 自主渗透测试系统"
   },
   {
-    "repo": "herrbischoff/awesome-macos-command-line",
+    "repo": "prakhar1989/awesome-courses",
     "branch": "master",
     "language": "Other",
-    "description": "Use your macOS terminal shell to do awesome things."
+    "description": ":books: List of awesome university courses for learning Computer Science!"
   },
   {
-    "repo": "psf/requests-html",
-    "branch": "master",
-    "language": "Python",
-    "description": "Pythonic HTML Parsing for Humans™"
-  },
-  {
-    "repo": "inspatio/inspatio-world",
-    "branch": "main",
-    "language": "Python",
-    "description": ""
-  },
-  {
-    "repo": "dev-protocoI/polymarket-copytrading-bot-sport",
-    "branch": "master",
-    "language": "TypeScript",
-    "description": "🥇Polymarket Copytrading Bot Sport🥇Polymarket copy trading bot Polymarket copytrading bot Polymarket copy trading bot Polymarket copytrading bot Polymarket copy trading bot Polymarket copytrading bot Polymarket copy trading bot Polymarket copytrading bot Polymarket copy trading bot Polymarket copytrading bot Polymarket copy trading bot Polymarket"
-  },
-  {
-    "repo": "zarazhangrui/beautiful-html-templates",
-    "branch": "main",
-    "language": "HTML",
-    "description": "A library of HTML slide templates designed so any coding agent can pick the right one and produce a beautiful deck on the user's behalf, automatically."
-  },
-  {
-    "repo": "aitradingbotspro/cryto-trading-ai-assistant",
-    "branch": "main",
-    "language": "Python",
-    "description": "AI guardian for manual crypto traders — risk monitoring, strategy validation & emotional trading detection. No trade execution."
-  },
-  {
-    "repo": "v2ray/v2ray-core",
-    "branch": "master",
-    "language": "Go",
-    "description": "A platform for building proxies to bypass network restrictions."
-  },
-  {
-    "repo": "Lum1104/Understand-Anything",
+    "repo": "afar1/fieldtheory-cli",
     "branch": "main",
     "language": "TypeScript",
-    "description": "Claude Code skills that turn any codebase into an interactive knowledge graph you can explore, search, and ask questions about."
+    "description": "Sync and locally store all of your X/Twitter bookmarks. Free and open source CLI for Mac."
   },
   {
-    "repo": "viplismism/rlm-cli",
+    "repo": "Xiangyue-Zhang/auto-deep-researcher-24x7",
     "branch": "main",
-    "language": "TypeScript",
-    "description": "CLI for Recursive Language Models (arXiv:2512.24601)"
+    "language": "Python",
+    "description": "🔥 An autonomous AI agent that runs your deep learning experiments 24/7 while you sleep. Zero-cost monitoring, Leader-Worker architecture, constant-size memory."
   },
   {
-    "repo": "microsoft/wslg",
+    "repo": "PaddlePaddle/PaddleNLP",
+    "branch": "develop",
+    "language": "Python",
+    "description": "Easy-to-use and powerful LLM and SLM library with awesome model zoo."
+  },
+  {
+    "repo": "run-llama/ParseBench",
+    "branch": "main",
+    "language": "Python",
+    "description": "ParseBench - A Document Parsing Benchmark for AI Agents"
+  },
+  {
+    "repo": "Gezine/CivSwitch",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "Nintendo Switch userland code execution using Civilization 7 game cartridge"
+  },
+  {
+    "repo": "jev-chat/jev-chat-jarvis",
+    "branch": "main",
+    "language": "Kotlin",
+    "description": "装在手机上的对话副驾：在微信 / QQ / X / 飞书里读懂对方、给出候选回复、一键填入输入框，发不发由你。非侵入，只读屏幕，不 hook 不改包。"
+  },
+  {
+    "repo": "nginx/nginx",
+    "branch": "master",
+    "language": "C",
+    "description": "The official NGINX Open Source repository."
+  },
+  {
+    "repo": "MiaAI-Lab/GLM-5.3-Flash-EXL3-2x-DGX-Sparks",
+    "branch": "main",
+    "language": "Python",
+    "description": "GLM-5.3 Flash EXL3 for 2x DGX Sparks"
+  },
+  {
+    "repo": "ysr666/dsh-vision-router",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "Eyes for text-only DeepSeek Harness agents: built-in free vision chain (no key) + pixel-level vision tools (Q&A, grounding, crop, pixel diff, colors, OCR, SVG trace, cutout, screenshots). One-command install, no Python, image turns work like ordinary tool-calling turns."
+  },
+  {
+    "repo": "eugeniosegala/MAKO",
     "branch": "main",
     "language": "C++",
-    "description": "Enabling the Windows Subsystem for Linux to include support for Wayland and X server related scenarios"
+    "description": "Next-generation, Vulkan-powered graphics layer for Linux gaming, bringing Lossless Scaling frame generation and scaling to Steam Deck, Steam Machine and desktop Linux."
   },
   {
-    "repo": "calesthio/Crucix",
-    "branch": "master",
-    "language": "JavaScript",
-    "description": "Your personal intelligence agent. Watches the world from 26 data sources and pings you when something changes."
-  },
-  {
-    "repo": "lib/pq",
-    "branch": "master",
-    "language": "Go",
-    "description": "Go PostgreSQL driver for database/sql"
-  },
-  {
-    "repo": "resume/resume.github.com",
-    "branch": "master",
-    "language": "JavaScript",
-    "description": "Resumes generated using the GitHub informations"
-  },
-  {
-    "repo": "JUk1-GH/gpt-promo-scanner",
+    "repo": "facebookresearch/fairseq",
     "branch": "main",
     "language": "Python",
-    "description": "ChatGPT Team(Business) 促销码自动扫描工具 — 批量发现/验证/价格收集，支持 17 国 34 个码，最高折扣 71% | ChatGPT Business promo code scanner — batch discovery, validation, price collection, 34 codes across 17 countries, up to 71% off"
+    "description": "Facebook AI Research Sequence-to-Sequence Toolkit written in Python."
   },
   {
-    "repo": "jaywcjlove/awesome-mac",
-    "branch": "master",
-    "language": "JavaScript",
-    "description": " Now we have become very big, Different from the original idea. Collect premium software in various categories."
+    "repo": "Nervercc/gpt_nerver",
+    "branch": "main",
+    "language": "Python",
+    "description": "ChatGPT Plus automation toolkit: PyQt6 desktop + JSON-RPC registration engine + card/CDK/PayPal/GCash flows"
   },
   {
-    "repo": "PowerShell/PowerShell",
-    "branch": "master",
+    "repo": "benqi-finance/smartbugs-curated",
+    "branch": "main",
+    "language": "Solidity",
+    "description": "SB Curated is a curated dataset of Solidity smart contracts annotated with tagged vulnerabilities. The dataset was created to evaluate the accuracy of automated analysis tools."
+  },
+  {
+    "repo": "SMNETSTUDIO/StarLive",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "StarLive System - 星播系统"
+  },
+  {
+    "repo": "OpenYSM/OpenYSM",
+    "branch": "main",
+    "language": "Java",
+    "description": "Yes-Steve-Model idea ready."
+  },
+  {
+    "repo": "iAmCorey/Wake",
+    "branch": "main",
+    "language": "Rust",
+    "description": "Every coding-agent session on your Mac in one place — browse, search, resume. Rust + GPUI."
+  },
+  {
+    "repo": "NamKhoa-07/wallet-recovery-seed",
+    "branch": "main",
+    "language": "Python",
+    "description": "ethereum wallet recovery password multithread tool, baked from pyethrecover and pyethereum, for using keystore v3 json file to help recover your lost password if you know some phrases using both brute and wordlist technique, start + end words, whole ascii or just numbers"
+  },
+  {
+    "repo": "huggingface/diffusers",
+    "branch": "main",
+    "language": "Python",
+    "description": "🤗 Diffusers: State-of-the-art diffusion models for image, video, and audio generation in PyTorch."
+  },
+  {
+    "repo": "DoomVoss/BASpark",
+    "branch": "main",
     "language": "C#",
-    "description": "PowerShell for every system!"
+    "description": "基于 HTML5/Canvas 深度复刻《蔚蓝档案》UI 风格动效的 Windows 鼠标特效工具 || A Windows mouse effect tool reconstructing Blue Archive UI style using HTML5/Canvas"
+  },
+  {
+    "repo": "mrhlaingbwardev/Telegram-Secure-Storage-Bot",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "A secure, privacy-focused Telegram cloud storage bot using Cloudflare Workers and D1 Database. Features PIN protection, Burn-after-read, and Anti-leak."
+  },
+  {
+    "repo": "Avarok-Cybersecurity/atlas",
+    "branch": "main",
+    "language": "Rust",
+    "description": "Pure Rust Inference Engine"
   }
 ]
