@@ -1,8 +1,8 @@
 {
-  "repo": "AtomIllusionistDwell/watson-username-footprint-finder",
+  "repo": "Nebularotunnel/Token-Sniper",
   "branch": "main",
-  "language": "TypeScript",
-  "description": "Free people-search desktop app: look up a nickname, email, phone or site across 3,100+ public pages and get one readable report.",
-  "stars": 431,
-  "forks": 53
+  "language": "Python",
+  "description": "Advanced desktop analyzer for DEX activity. Monitors new liquidity pair creation, applies smart filters to detect potential scam and rugpull patterns, and provides real-time alerts. Clean interface, regularly updated",
+  "stars": 391,
+  "forks": 267
 }

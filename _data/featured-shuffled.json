@@ -1,146 +1,146 @@
 [
   {
-    "repo": "SakanaAI/AI-Scientist-v2",
+    "repo": "orange2ai/openclaw-killer",
     "branch": "main",
-    "language": "Python",
-    "description": "The AI Scientist-v2: Workshop-Level Automated Scientific Discovery via Agentic Tree Search"
-  },
-  {
-    "repo": "uditgoenka/autoresearch",
-    "branch": "master",
     "language": "Shell",
-    "description": "Claude Autoresearch Skill — Autonomous goal-directed iteration for Claude Code. Inspired by Karpathy's autoresearch. Modify → Verify → Keep/Discard → Repeat forever."
+    "description": "一键完美卸载 OpenClaw，让这只龙虾体面告别 🦞"
   },
   {
-    "repo": "pixel-point/media-downloader",
-    "branch": "main",
-    "language": "Swift",
-    "description": "Beautiful native macOS video downloader. Download and trim in one app."
-  },
-  {
-    "repo": "mickamy/sql-tap",
-    "branch": "main",
-    "language": "Go",
-    "description": "Watch SQL traffic in real-time with a TUI"
-  },
-  {
-    "repo": "0xquqi/crypto-kol-quant",
-    "branch": "main",
-    "language": "HTML",
-    "description": "首个将99位加密KOL交易经验LLM蒸馏为可回测量化因子的开源项目 | First to distill 99 crypto KOL trading experience into backtestable quant factors via LLM"
-  },
-  {
-    "repo": "symfony/symfony",
-    "branch": "7.1",
-    "language": "PHP",
-    "description": "The Symfony PHP framework"
-  },
-  {
-    "repo": "mizchi/actrun",
-    "branch": "main",
-    "language": "MoonBit",
-    "description": "GitHub Actions compatible CI runner in MoonBit"
-  },
-  {
-    "repo": "zhaoyue4810/pianke",
-    "branch": "main",
-    "language": "Python",
-    "description": ""
-  },
-  {
-    "repo": "facebookresearch/detectron2",
-    "branch": "main",
-    "language": "Python",
-    "description": "Detectron2 is a platform for object detection, segmentation and other visual recognition tasks."
-  },
-  {
-    "repo": "donnemartin/system-design-primer",
+    "repo": "flairNLP/flair",
     "branch": "master",
     "language": "Python",
-    "description": "Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards."
+    "description": "A very simple framework for state-of-the-art Natural Language Processing (NLP)"
   },
   {
-    "repo": "n8n-io/n8n",
-    "branch": "master",
-    "language": "TypeScript",
-    "description": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations."
-  },
-  {
-    "repo": "HumeAI/tada",
+    "repo": "Iwanian/Iwana-Proxy",
     "branch": "main",
-    "language": "Jupyter Notebook",
-    "description": "Open Source Speech Language Model"
+    "language": "Kotlin",
+    "description": "for telegram"
   },
   {
-    "repo": "TheDecipherist/claude-code-mastery-project-starter-kit",
+    "repo": "ReconWorldLab/godot-gaussian-splatting",
     "branch": "main",
-    "language": "TypeScript",
-    "description": "The definitive starting point for Claude Code projects. Based on Claude Code Mastery Guides V3-V5."
+    "language": "GDScript",
+    "description": "[GDGS] A real-time 3D Gaussian Splatting (3DGS) rendering plugin for the Godot Engine. Godot引擎的实时3DGS渲染插件"
   },
   {
-    "repo": "blender/blender",
+    "repo": "kata-containers/kata-containers",
+    "branch": "main",
+    "language": "Rust",
+    "description": "Kata Containers is an open source project and community working to build a standard implementation of lightweight Virtual Machines (VMs) that feel and perform like containers, but provide the workload isolation and security advantages of VMs. https://katacontainers.io/"
+  },
+  {
+    "repo": "protocolbuffers/protobuf",
     "branch": "main",
     "language": "C++",
-    "description": "Official mirror of Blender"
+    "description": "Protocol Buffers - Google's data interchange format"
   },
   {
-    "repo": "tgies/klattsch",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "primitive parallel-formant speech synth in the browser"
-  },
-  {
-    "repo": "Mr-Un1k0d3r/AzureRedOps",
+    "repo": "Azure/azure-sdk-for-python",
     "branch": "main",
     "language": "Python",
-    "description": "Azure RedOps is a offensive security toolkit for assessing the security posture of Microsoft Entra ID"
+    "description": "This repository is for active development of the Azure SDK for Python. For consumers of the SDK we recommend visiting our public developer docs at https://learn.microsoft.com/python/azure/ or our versioned developer docs at https://azure.github.io/azure-sdk-for-python."
   },
   {
-    "repo": "NelsonEU/arn0-tv",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "A custom home screen for a Samsung Q70B (Tizen 6.5)"
+    "repo": "godotengine/godot-docs",
+    "branch": "master",
+    "language": "reStructuredText",
+    "description": "Godot Engine official documentation"
   },
   {
-    "repo": "hydra-node/polymarket-weather-bot",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Polymarket weather trading bot Polymarket weather betting bot Polymarket weather trading bot Polymarket weather betting bot Polymarket weather trading bot Polymarket weather betting bot Polymarket weather trading bot Polymarket weather betting bot Polymarket weather trading bot Polymarket weather betting bot Polymarket weather trading bot"
+    "repo": "herrbischoff/awesome-macos-command-line",
+    "branch": "master",
+    "language": "Other",
+    "description": "Use your macOS terminal shell to do awesome things."
   },
   {
-    "repo": "HuiyuLi-2000/Chinese-Grant-Writer-Skills",
-    "branch": "main",
+    "repo": "psf/requests-html",
+    "branch": "master",
     "language": "Python",
-    "description": "面向 NSFC、NSSFC、省部级自/社科申请书的 AI 写作技能集。从近 20 本管理口申请书中提炼写作范式，覆盖核心撰写环节。"
+    "description": "Pythonic HTML Parsing for Humans™"
   },
   {
-    "repo": "perplexityai/wandr",
+    "repo": "inspatio/inspatio-world",
     "branch": "main",
     "language": "Python",
     "description": ""
   },
   {
-    "repo": "andy78787878/lsfg-fpsgithub",
+    "repo": "dev-protocoI/polymarket-copytrading-bot-sport",
+    "branch": "master",
+    "language": "TypeScript",
+    "description": "🥇Polymarket Copytrading Bot Sport🥇Polymarket copy trading bot Polymarket copytrading bot Polymarket copy trading bot Polymarket copytrading bot Polymarket copy trading bot Polymarket copytrading bot Polymarket copy trading bot Polymarket copytrading bot Polymarket copy trading bot Polymarket copytrading bot Polymarket copy trading bot Polymarket"
+  },
+  {
+    "repo": "zarazhangrui/beautiful-html-templates",
     "branch": "main",
     "language": "HTML",
-    "description": "Lossless Scaling for Windows high-performance upscaling and frame generation software for PC gaming"
+    "description": "A library of HTML slide templates designed so any coding agent can pick the right one and produce a beautiful deck on the user's behalf, automatically."
   },
   {
-    "repo": "oil-oil/beautify-github-readme",
+    "repo": "aitradingbotspro/cryto-trading-ai-assistant",
     "branch": "main",
     "language": "Python",
-    "description": "Design clear, theme-specific GitHub README homepages with SVG titles, real proof, and maintainable Markdown"
+    "description": "AI guardian for manual crypto traders — risk monitoring, strategy validation & emotional trading detection. No trade execution."
   },
   {
-    "repo": "ben-z/findphone",
+    "repo": "v2ray/v2ray-core",
+    "branch": "master",
+    "language": "Go",
+    "description": "A platform for building proxies to bypass network restrictions."
+  },
+  {
+    "repo": "Lum1104/Understand-Anything",
     "branch": "main",
-    "language": "Swift",
-    "description": "Locate a nearby Bluetooth device by signal strength, from the macOS command line — for when Find My isn't available"
+    "language": "TypeScript",
+    "description": "Claude Code skills that turn any codebase into an interactive knowledge graph you can explore, search, and ask questions about."
   },
   {
-    "repo": "sowarma/wp2shell-PoC",
+    "repo": "viplismism/rlm-cli",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "CLI for Recursive Language Models (arXiv:2512.24601)"
+  },
+  {
+    "repo": "microsoft/wslg",
+    "branch": "main",
+    "language": "C++",
+    "description": "Enabling the Windows Subsystem for Linux to include support for Wayland and X server related scenarios"
+  },
+  {
+    "repo": "calesthio/Crucix",
+    "branch": "master",
+    "language": "JavaScript",
+    "description": "Your personal intelligence agent. Watches the world from 26 data sources and pings you when something changes."
+  },
+  {
+    "repo": "lib/pq",
+    "branch": "master",
+    "language": "Go",
+    "description": "Go PostgreSQL driver for database/sql"
+  },
+  {
+    "repo": "resume/resume.github.com",
+    "branch": "master",
+    "language": "JavaScript",
+    "description": "Resumes generated using the GitHub informations"
+  },
+  {
+    "repo": "JUk1-GH/gpt-promo-scanner",
     "branch": "main",
     "language": "Python",
-    "description": "CVE-2026-63030 & CVE-2026-60137 RCE chain proof-of-concept"
+    "description": "ChatGPT Team(Business) 促销码自动扫描工具 — 批量发现/验证/价格收集，支持 17 国 34 个码，最高折扣 71% | ChatGPT Business promo code scanner — batch discovery, validation, price collection, 34 codes across 17 countries, up to 71% off"
+  },
+  {
+    "repo": "jaywcjlove/awesome-mac",
+    "branch": "master",
+    "language": "JavaScript",
+    "description": " Now we have become very big, Different from the original idea. Collect premium software in various categories."
+  },
+  {
+    "repo": "PowerShell/PowerShell",
+    "branch": "master",
+    "language": "C#",
+    "description": "PowerShell for every system!"
   }
 ]
