@@ -1,146 +1,146 @@
 [
   {
-    "repo": "SergioBenitez/Rocket",
+    "repo": "daltoniam/Starscream",
     "branch": "master",
-    "language": "Rust",
-    "description": "A web framework for Rust."
+    "language": "Swift",
+    "description": "Websockets in swift for iOS and OSX"
   },
   {
-    "repo": "FishCodeTech/muteki",
+    "repo": "ywnd1144/Gopay_plus_automatic",
     "branch": "main",
     "language": "Python",
-    "description": "Project Muteki (無敵): autonomous multi-model CTF-solving AI agent swarm"
+    "description": ""
   },
   {
-    "repo": "OranAi-Ltd/oransim",
-    "branch": "main",
-    "language": "Python",
-    "description": "Causal Digital Twin for Marketing at Scale · Predict any marketing decision before you spend a dollar."
-  },
-  {
-    "repo": "asonglin/crypto-liquidity-ai-trading-bot",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "Crypto liquidity detection & algorithmic trading bot. Order book analysis, stop-loss clusters, liquidity sweeps. Multi-exchange (Binance, Bybit, Kraken, OKX). Trading signals, quant research, market microstructure."
-  },
-  {
-    "repo": "olvvier/apple-silicon-accelerometer",
-    "branch": "main",
-    "language": "Python",
-    "description": "reading the undocumented mems accelerometer on apple silicon macbooks via iokit hid"
-  },
-  {
-    "repo": "aligfellow/xyzrender",
-    "branch": "main",
-    "language": "Python",
-    "description": "Publication-quality molecular graphics from the command line."
-  },
-  {
-    "repo": "Sunislazi/rbxfpsunlocker-boost-More-240FPS",
+    "repo": "vercel-labs/deepsec",
     "branch": "main",
     "language": "TypeScript",
-    "description": "rbxfpsunlocker Roblox FPS BOOST: Roblox FPS unlocker download free More 240 FPS, uncap 60 FPS limit, axst GitHub source code, high refresh rate monitor, Roblox client lag fix, Byfron Hyperion anti-cheat compatibility, safe to use ban status, settings.ini configuration, rfu.exe not working error, ClientAppSettings json,bloxtstrap fps unlocke"
+    "description": "Deepsec is a security harness for finding vulnerabilities in your codebase powered by coding agents"
   },
   {
-    "repo": "mindfold-ai/Trellis",
-    "branch": "main",
-    "language": "Shell",
-    "description": "All-in-one AI framework & toolkit for Claude Code & Cursor"
-  },
-  {
-    "repo": "veyliss/ai-localbase",
-    "branch": "main",
-    "language": "Go",
-    "description": "一个本地优先的AI知识库系统（RAG），用于把本地文档接入辅导搜索与大模型对话流程。"
-  },
-  {
-    "repo": "xjtulyc/MedgeClaw",
-    "branch": "main",
-    "language": "HTML",
-    "description": "Medge AI X OpenClaw"
-  },
-  {
-    "repo": "microsoft/onnxruntime",
+    "repo": "ravencaio/tlou-remastered-pc",
     "branch": "main",
     "language": "C++",
-    "description": "ONNX Runtime: cross-platform, high performance ML inferencing and training accelerator"
+    "description": "Native Windows PC port of The Last of Us Remastered (PS4, CUSA00552). Runs the game’s own x86-64 code on a custom runtime, with PS4 system libraries reimplemented and a Vulkan renderer based on shadPS4. Includes a launcher. No game files included: you need your own copy."
   },
   {
-    "repo": "epiral/agent-clip",
-    "branch": "main",
-    "language": "Go",
-    "description": "AI Agent as a Pinix Clip — agentic loop with memory, tools, and vision"
-  },
-  {
-    "repo": "getredash/redash",
-    "branch": "master",
-    "language": "Python",
-    "description": "Make Your Company Data Driven. Connect to any data source, easily visualize, dashboard and share your data."
-  },
-  {
-    "repo": "web3-storage/web3.storage",
+    "repo": "ConardLi/garden-skills",
     "branch": "main",
     "language": "JavaScript",
-    "description": "DEPRECATED ⁂ The simple file storage service for IPFS & Filecoin"
+    "description": "ConardLi's open-source Skills collection, featuring web design, knowledge retrieval, image generation, and more."
   },
   {
-    "repo": "HKUDS/ClawWork",
-    "branch": "main",
-    "language": "Python",
-    "description": "ClawWork: OpenClaw as Your AI Coworker - 💰 $10K earned in 7 Hours"
-  },
-  {
-    "repo": "dev-protocol/polymarket-arbitrage-bot",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Polymarket arbitrage bot || Dump Hedge Strategy || detect arbitrage opportunity between UP & Down token prices movement - RTDS based strategical Bot"
-  },
-  {
-    "repo": "hapijs/hapi",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "The Simple, Secure Framework Developers Trust"
-  },
-  {
-    "repo": "skydoves/android-skills-mcp",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "An MCP server and CLI packager for official Android skills."
-  },
-  {
-    "repo": "val1813/kwcode",
+    "repo": "ythx-101/ask-search",
     "branch": "master",
     "language": "Python",
-    "description": "一个能持续增强本地开源模型的cli，专门为本地部署模型优化的coding窗口。目前仍然处于mvp未能大规模测试和端到端跑通，欢迎指正🙏🏻🙏🏻🙏🏻"
+    "description": "Self-hosted web search skill for AI agents (OpenClaw/Claude Code/Antigravity) via SearxNG"
   },
   {
-    "repo": "Lcharvol/MacSift",
+    "repo": "baidu-baige/LoongForge",
+    "branch": "master",
+    "language": "Python",
+    "description": "A modular, scalable, and highly efficient training framework for language, multimodal, and embodied models."
+  },
+  {
+    "repo": "YuJunZhiXue/qwen2API",
+    "branch": "main",
+    "language": "Python",
+    "description": "A project converting the Qwen web page to an API."
+  },
+  {
+    "repo": "appledog-xyz/FormCmsPortal",
+    "branch": "main",
+    "language": "Python",
+    "description": ""
+  },
+  {
+    "repo": "ultraworkers/claw-code-parity",
+    "branch": "main",
+    "language": "Rust",
+    "description": "claw-code Rust port parity work - it is temporary work while claw-code repo is doing migration"
+  },
+  {
+    "repo": "xixu-me/awesome-persona-distill-skills",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "同事.skill、前任.skill、女娲.skill、自己.skill、乔布斯.skill……"
+  },
+  {
+    "repo": "KenneyNL/Starter-Kit-Racing",
+    "branch": "main",
+    "language": "GDScript",
+    "description": ""
+  },
+  {
+    "repo": "MagicCube/helixent",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Helixent is a small library for building ReAct-style agent loops based on the Bun stack."
+  },
+  {
+    "repo": "Russell-cell/PPT-Design-Prompt",
+    "branch": "main",
+    "language": "Python",
+    "description": ""
+  },
+  {
+    "repo": "OpenYSM/YSMParser",
+    "branch": "main",
+    "language": "C++",
+    "description": "A Parser to recover Yes-Steve-Model Encrypted Binaries."
+  },
+  {
+    "repo": "shanselman/PeekDesktop",
+    "branch": "main",
+    "language": "C#",
+    "description": "Click your desktop to peek at it - just like macOS Sonoma."
+  },
+  {
+    "repo": "professor-lee/StoneBadge",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "Add a Rotating Stone in your README file."
+  },
+  {
+    "repo": "0xchasercat/mochi",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "The library for faithful browser automation. High-fidelity fingerprinting for Bun, engineered for consistency and transparency."
+  },
+  {
+    "repo": "basionwang-bot/HermesPet",
     "branch": "main",
     "language": "Swift",
-    "description": "Transparent macOS disk cleaner — groups files by app, moves to Trash (never permanent). SwiftUI + Liquid Glass, built for macOS Tahoe."
+    "description": "让 AI 住在你 MacBook 的刘海里 · 零依赖开箱即用 · 多引擎并行的桌面 AI 伴侣（Swift 6 / SwiftUI / macOS 14+）"
   },
   {
-    "repo": "lapce/lapce",
-    "branch": "master",
-    "language": "Rust",
-    "description": "Lightning-fast and Powerful Code Editor written in Rust"
+    "repo": "tanviet12/chat-quality-agent",
+    "branch": "main",
+    "language": "Go",
+    "description": ""
   },
   {
-    "repo": "Hainrixz/open-carrusel",
+    "repo": "Shudesu/line-harness-oss",
     "branch": "main",
     "language": "TypeScript",
-    "description": "AI-powered Instagram carousel builder. Chat with Claude to design slides; export as PNGs at exact Instagram dimensions. Type /start in Claude Code to bootstrap."
+    "description": "Open-source LINE Official Account CRM — free alternative to paid tools. Step delivery, broadcasts, forms, rich menus, scoring, automation, and more."
   },
   {
-    "repo": "bigcode-project/starcoder",
+    "repo": "manyougz/velotype",
     "branch": "main",
-    "language": "Python",
-    "description": "Home of StarCoder: fine-tuning & inference!"
+    "language": "Rust",
+    "description": "Write at the speed of thought – Velotype is a high-performance native Markdown editor built with Rust and GPUI.⚡"
   },
   {
-    "repo": "OpenBB-finance/OpenBBTerminal",
+    "repo": "gainubi/note-slides",
     "branch": "main",
-    "language": "Python",
-    "description": "Financial data platform for analysts, quants and AI agents."
+    "language": "HTML",
+    "description": "把一篇长文、一个长 PDF，转为可读的精美 Slides。"
+  },
+  {
+    "repo": "basketikun/infinite-canvas",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "面向AI创作的开源无限画布工作台，集成 AI 生图、参考图编辑、画布编排、对话助手、提示词库和素材管理等功能。"
   }
 ]
