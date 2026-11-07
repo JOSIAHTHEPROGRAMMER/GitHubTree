@@ -1,146 +1,146 @@
 [
   {
-    "repo": "dair-ai/ML-Papers-Explained",
-    "branch": "gh-pages",
-    "language": "Other",
-    "description": "Explanation to key concepts in ML"
-  },
-  {
-    "repo": "Matticusnicholas/KupkaProd-Cinema-Pipeline",
+    "repo": "SergioBenitez/Rocket",
     "branch": "master",
-    "language": "Python",
-    "description": "Autonomous AI movie studio — turn a text prompt into a fully produced video. 100% local, no cloud, no API keys."
-  },
-  {
-    "repo": "soimy/c3rb3r-rescue",
-    "branch": "main",
-    "language": "Python",
-    "description": "Evidence-based DSM ransomware recovery: preservation, RAM key recovery, copy decryption, and GitLab validation."
-  },
-  {
-    "repo": "SaikoNadiro13/MOUSE-P.I.-For-Hire-Release-Game-Desktop-Version",
-    "branch": "main",
-    "language": "C++",
-    "description": "MOUSE PI For Hire is a fun hand-drawn point-and-click detective adventure game for PC. Play as a clever mouse private investigator solving funny and challenging cases in a colorful cartoon world. Optimized desktop release with widescreen support, smooth controls, and high-resolution graphics."
-  },
-  {
-    "repo": "gulpjs/gulp",
-    "branch": "master",
-    "language": "JavaScript",
-    "description": "A toolkit to automate & enhance your workflow"
-  },
-  {
-    "repo": "huggingface/nanowhale",
-    "branch": "main",
-    "language": "Python",
-    "description": ""
-  },
-  {
-    "repo": "spf13/cobra",
-    "branch": "main",
-    "language": "Go",
-    "description": "A Commander for modern Go CLI interactions"
-  },
-  {
-    "repo": "0xSero/pi-brain",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": ""
-  },
-  {
-    "repo": "dievus/ADPulse",
-    "branch": "main",
-    "language": "Python",
-    "description": "Active Directory Vulnerability Scanner"
-  },
-  {
-    "repo": "prometheus/node_exporter",
-    "branch": "master",
-    "language": "Go",
-    "description": "Exporter for machine metrics"
-  },
-  {
-    "repo": "vedangvatsa123/vedang-swarm-prediction",
-    "branch": "main",
-    "language": "Python",
-    "description": "Swarm Intelligence Prediction Engine - Multi-agent AI debate for calibrated forecasting"
-  },
-  {
-    "repo": "Shpigford/chops",
-    "branch": "main",
-    "language": "Swift",
-    "description": "Your AI agent skills, finally organized. A macOS app to browse, edit, and manage skills across Claude Code, Cursor, Codex, Windsurf, and Amp."
-  },
-  {
-    "repo": "prometheus/client_python",
-    "branch": "master",
-    "language": "Python",
-    "description": "Prometheus instrumentation library for Python applications"
-  },
-  {
-    "repo": "gvisor/gvisor",
-    "branch": "master",
-    "language": "Other",
-    "description": "Application Kernel for Containers."
-  },
-  {
-    "repo": "reduxjs/redux-thunk",
-    "branch": "master",
-    "language": "TypeScript",
-    "description": "Thunk middleware for Redux"
-  },
-  {
-    "repo": "yaojingang/GEOFlow",
-    "branch": "main",
-    "language": "PHP",
-    "description": "Open-source GEO content production system with AI tasks, review workflow, and publishing."
-  },
-  {
-    "repo": "kata-containers/kata-containers",
-    "branch": "main",
     "language": "Rust",
-    "description": "Kata Containers is an open source project and community working to build a standard implementation of lightweight Virtual Machines (VMs) that feel and perform like containers, but provide the workload isolation and security advantages of VMs. https://katacontainers.io/"
+    "description": "A web framework for Rust."
   },
   {
-    "repo": "0xquqi/crypto-kol-quant",
+    "repo": "FishCodeTech/muteki",
+    "branch": "main",
+    "language": "Python",
+    "description": "Project Muteki (無敵): autonomous multi-model CTF-solving AI agent swarm"
+  },
+  {
+    "repo": "OranAi-Ltd/oransim",
+    "branch": "main",
+    "language": "Python",
+    "description": "Causal Digital Twin for Marketing at Scale · Predict any marketing decision before you spend a dollar."
+  },
+  {
+    "repo": "asonglin/crypto-liquidity-ai-trading-bot",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "Crypto liquidity detection & algorithmic trading bot. Order book analysis, stop-loss clusters, liquidity sweeps. Multi-exchange (Binance, Bybit, Kraken, OKX). Trading signals, quant research, market microstructure."
+  },
+  {
+    "repo": "olvvier/apple-silicon-accelerometer",
+    "branch": "main",
+    "language": "Python",
+    "description": "reading the undocumented mems accelerometer on apple silicon macbooks via iokit hid"
+  },
+  {
+    "repo": "aligfellow/xyzrender",
+    "branch": "main",
+    "language": "Python",
+    "description": "Publication-quality molecular graphics from the command line."
+  },
+  {
+    "repo": "Sunislazi/rbxfpsunlocker-boost-More-240FPS",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "rbxfpsunlocker Roblox FPS BOOST: Roblox FPS unlocker download free More 240 FPS, uncap 60 FPS limit, axst GitHub source code, high refresh rate monitor, Roblox client lag fix, Byfron Hyperion anti-cheat compatibility, safe to use ban status, settings.ini configuration, rfu.exe not working error, ClientAppSettings json,bloxtstrap fps unlocke"
+  },
+  {
+    "repo": "mindfold-ai/Trellis",
+    "branch": "main",
+    "language": "Shell",
+    "description": "All-in-one AI framework & toolkit for Claude Code & Cursor"
+  },
+  {
+    "repo": "veyliss/ai-localbase",
+    "branch": "main",
+    "language": "Go",
+    "description": "一个本地优先的AI知识库系统（RAG），用于把本地文档接入辅导搜索与大模型对话流程。"
+  },
+  {
+    "repo": "xjtulyc/MedgeClaw",
     "branch": "main",
     "language": "HTML",
-    "description": "首个将99位加密KOL交易经验LLM蒸馏为可回测量化因子的开源项目 | First to distill 99 crypto KOL trading experience into backtestable quant factors via LLM"
+    "description": "Medge AI X OpenClaw"
   },
   {
-    "repo": "eddyson-B/AI-Pumpfun-Copy-Trading-Bot",
+    "repo": "microsoft/onnxruntime",
+    "branch": "main",
+    "language": "C++",
+    "description": "ONNX Runtime: cross-platform, high performance ML inferencing and training accelerator"
+  },
+  {
+    "repo": "epiral/agent-clip",
+    "branch": "main",
+    "language": "Go",
+    "description": "AI Agent as a Pinix Clip — agentic loop with memory, tools, and vision"
+  },
+  {
+    "repo": "getredash/redash",
+    "branch": "master",
+    "language": "Python",
+    "description": "Make Your Company Data Driven. Connect to any data source, easily visualize, dashboard and share your data."
+  },
+  {
+    "repo": "web3-storage/web3.storage",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "DEPRECATED ⁂ The simple file storage service for IPFS & Filecoin"
+  },
+  {
+    "repo": "HKUDS/ClawWork",
+    "branch": "main",
+    "language": "Python",
+    "description": "ClawWork: OpenClaw as Your AI Coworker - 💰 $10K earned in 7 Hours"
+  },
+  {
+    "repo": "dev-protocol/polymarket-arbitrage-bot",
     "branch": "main",
     "language": "TypeScript",
-    "description": "A simulation and execution script for tracking top wallet trades on PumpFun and analyzing profit opportunities with AI modeling."
+    "description": "Polymarket arbitrage bot || Dump Hedge Strategy || detect arbitrage opportunity between UP & Down token prices movement - RTDS based strategical Bot"
   },
   {
-    "repo": "dev-protocol/polymarket-sports-trading-bot",
+    "repo": "hapijs/hapi",
     "branch": "main",
-    "language": "Rust",
-    "description": "Polymarket Sports trading bot that bet on sport pool. polymarket sports trading | polymarket sport betting | polymarket sports bot"
+    "language": "JavaScript",
+    "description": "The Simple, Secure Framework Developers Trust"
   },
   {
-    "repo": "pytorch/ignite",
+    "repo": "skydoves/android-skills-mcp",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "An MCP server and CLI packager for official Android skills."
+  },
+  {
+    "repo": "val1813/kwcode",
     "branch": "master",
     "language": "Python",
-    "description": "High-level library to help with training and evaluating neural networks in PyTorch flexibly and transparently."
+    "description": "一个能持续增强本地开源模型的cli，专门为本地部署模型优化的coding窗口。目前仍然处于mvp未能大规模测试和端到端跑通，欢迎指正🙏🏻🙏🏻🙏🏻"
   },
   {
-    "repo": "idawnlight/ShichiZip",
+    "repo": "Lcharvol/MacSift",
     "branch": "main",
     "language": "Swift",
-    "description": "The 7-Zip derivative intended for macOS"
+    "description": "Transparent macOS disk cleaner — groups files by app, moves to Trash (never permanent). SwiftUI + Liquid Glass, built for macOS Tahoe."
   },
   {
-    "repo": "epoko77-ai/im-not-ai",
+    "repo": "lapce/lapce",
+    "branch": "master",
+    "language": "Rust",
+    "description": "Lightning-fast and Powerful Code Editor written in Rust"
+  },
+  {
+    "repo": "Hainrixz/open-carrusel",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "AI-powered Instagram carousel builder. Chat with Claude to design slides; export as PNGs at exact Instagram dimensions. Type /start in Claude Code to bootstrap."
+  },
+  {
+    "repo": "bigcode-project/starcoder",
     "branch": "main",
     "language": "Python",
-    "description": "AI가 쓴 글이 아닌 것처럼 윤문해주는 스킬"
+    "description": "Home of StarCoder: fine-tuning & inference!"
   },
   {
-    "repo": "argoproj/argo-events",
-    "branch": "master",
-    "language": "Go",
-    "description": "Event-driven Automation Framework for Kubernetes"
+    "repo": "OpenBB-finance/OpenBBTerminal",
+    "branch": "main",
+    "language": "Python",
+    "description": "Financial data platform for analysts, quants and AI agents."
   }
 ]

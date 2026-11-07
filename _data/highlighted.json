@@ -1,8 +1,8 @@
 {
-  "repo": "DominikScholz/open-bot-avatar",
+  "repo": "ChetasLua/moss-keeper",
   "branch": "main",
-  "language": "TypeScript",
-  "description": "A JSON spec and renderer for interactive agent avatars",
-  "stars": 242,
-  "forks": 36
+  "language": "HTML",
+  "description": "The Moss Keeper — a one-file HTML anime short made with Fable 5.5",
+  "stars": 225,
+  "forks": 29
 }
