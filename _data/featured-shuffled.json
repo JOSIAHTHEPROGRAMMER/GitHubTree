@@ -1,146 +1,146 @@
 [
   {
-    "repo": "FuelMagistrateLead/photoshop-ai-smart-enhance",
+    "repo": "ipenywis/laya-ultrafast",
     "branch": "main",
-    "language": "HTML",
-    "description": "AI-powered image enhancement extension for Adobe Photoshop CC 2024+. Intelligent exposure correction, adaptive color adjustment, contrast optimization, and noise reduction. Machine learning algorithms for photographers and designers. Real-time preview, batch processing, non-destructive smart objects."
-  },
-  {
-    "repo": "mage-ai/mage-ai",
-    "branch": "master",
     "language": "Python",
-    "description": "🧙 Build, run, and manage data pipelines for integrating and transforming data."
+    "description": "Same as jev-ultrafast but using Laya"
   },
   {
-    "repo": "tanviet12/chat-quality-agent",
+    "repo": "Okyumi/OverTrack",
     "branch": "main",
-    "language": "Go",
+    "language": "TypeScript",
+    "description": "Overland travel route planner — from Tokyo to Antarctica, no flights required."
+  },
+  {
+    "repo": "flame-engine/flame",
+    "branch": "main",
+    "language": "Dart",
+    "description": "A Flutter based game engine."
+  },
+  {
+    "repo": "software-mansion/react-native-screens",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Native navigation primitives for your React Native app."
+  },
+  {
+    "repo": "Paidax01/math-curve-loaders",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "A lightweight gallery of mathematical curve based loading animations with modal previews, formulas, and copyable code snippets."
+  },
+  {
+    "repo": "wavyrai/tmux-ide",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "Turn any project into a tmux-powered terminal IDE with a simple ide.yml"
+  },
+  {
+    "repo": "DIYgod/cloudflare-edge-tts",
+    "branch": "main",
+    "language": "TypeScript",
     "description": ""
   },
   {
-    "repo": "deltatrader01/Polymarket-Trading-Bot",
+    "repo": "e10nMa2k/cc-mini",
     "branch": "main",
     "language": "Python",
-    "description": "Polymarket arbitrage trading bot that detects inefficiencies in 5-minute, 15-minute, and 1-hour markets. polymarket arbitrage trading bot polymarket arbitrage bot polymarket arbitrage bot polymarket arbitrage bot polymarket arbitrage bot polymarket arbitrage bot polymarket arbitrage bot"
+    "description": "mini version of claude code"
   },
   {
-    "repo": "tensorflow/probability",
-    "branch": "main",
-    "language": "Jupyter Notebook",
-    "description": "Probabilistic reasoning and statistical analysis in TensorFlow"
-  },
-  {
-    "repo": "jackwener/twitter-cli",
+    "repo": "nv-tlabs/kimodo",
     "branch": "main",
     "language": "Python",
-    "description": "A CLI for Twitter/X — feed, bookmarks, and user timeline in terminal"
+    "description": ""
   },
   {
-    "repo": "Mufeedvh/Code2Prompt",
-    "branch": "main",
+    "repo": "vmi-rs/ephemera",
+    "branch": "master",
     "language": "Rust",
-    "description": "A CLI tool to convert your codebase into a single LLM prompt with source tree, prompt templating, and token counting."
+    "description": "Multiplatform MEMORY.DMP analysis tool with a WinDbg flavor"
   },
   {
-    "repo": "sanic-org/sanic",
+    "repo": "HKUDS/ClawTeam",
     "branch": "main",
     "language": "Python",
-    "description": "Accelerate your web app development  | Build fast. Run fast."
+    "description": "ClawTeam: Agent Swarm Intelligence (One Command → Full Automation)"
   },
   {
-    "repo": "gsd-build/gsd-2",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "A powerful meta-prompting, context engineering and spec-driven development system that enables agents to work for long periods of time autonomously without losing track of the big picture"
-  },
-  {
-    "repo": "Significant-Gravitas/AutoGPT",
+    "repo": "wh0amitz/TailVNC",
     "branch": "master",
-    "language": "Python",
-    "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters."
+    "language": "Go",
+    "description": "Tailscale-based Windows VNC persistence tool with Session 0 isolation bypass, embedding a full WireGuard peer and RFB server into a single drop-in binary."
   },
   {
-    "repo": "cosmiciron/vmprint",
+    "repo": "ChristianJR19/GoblinOS",
+    "branch": "main",
+    "language": "Python",
+    "description": "a Hermes Agent personality layer that replaces the default agent identity with a persistent, mood-driven goblin persona"
+  },
+  {
+    "repo": "openai/openai-python",
+    "branch": "main",
+    "language": "Python",
+    "description": "The official Python library for the OpenAI API"
+  },
+  {
+    "repo": "prometheus-operator/prometheus-operator",
+    "branch": "main",
+    "language": "Go",
+    "description": "Prometheus Operator creates/configures/manages Prometheus clusters atop Kubernetes"
+  },
+  {
+    "repo": "NVlabs/Sana",
+    "branch": "main",
+    "language": "Python",
+    "description": "SANA: Efficient High-Resolution Image Synthesis with Linear Diffusion Transformer"
+  },
+  {
+    "repo": "docker/cli",
+    "branch": "master",
+    "language": "Go",
+    "description": "The Docker CLI"
+  },
+  {
+    "repo": "tritano/ultraviewer",
     "branch": "main",
     "language": "TypeScript",
-    "description": "A pure-JS, zero-dependency typesetting engine that yields bit-perfect PDF output across any runtime—from Cloudflare Workers to the browser. Stop using Headless Chrome to print text."
+    "description": "Teamviewer UltraViewer download free PC windows 11, portable zip, latest version 6.6, getting my ID stuck fix. Port 2112 firewall block, teamviewer commercial use detected bypass, anydesk alternative. Black screen on connection solution, run with windows administrator, change password, file transfer slow."
   },
   {
-    "repo": "daniel3303/ClaudeCodeStatusLine",
+    "repo": "fancyai-official/skills",
     "branch": "main",
-    "language": "Shell",
+    "language": "Python",
     "description": ""
   },
   {
-    "repo": "espressif/arduino-esp32",
+    "repo": "Janlaywss/hu-chenfeng-skill",
+    "branch": "main",
+    "language": "Python",
+    "description": "户晨风Skill"
+  },
+  {
+    "repo": "MangoLion/stretchystudio",
     "branch": "master",
-    "language": "C++",
-    "description": "Arduino core for the ESP32"
+    "language": "JavaScript",
+    "description": "FOSS 2D animation tool for turning static illustrations into mesh-deformable characters"
   },
   {
-    "repo": "CamTheBun/KMS-Auto-Tool",
-    "branch": "main",
-    "language": "C++",
-    "description": "Tool KMSAuto Net Tutorial Permanent License HWID Gen VL Converter Retail to Volume Fix Error 0xc004f074 System Administration Utility 2026 Build"
-  },
-  {
-    "repo": "4R7I5T/CL1_LLM_Encoder",
-    "branch": "main",
-    "language": "Python",
-    "description": "Using Cortical Labs CL1 to train neurons to encode tokenization patterns on LLMs and measure consciousness metrics for advanced AI safety and sentience testing. EXPERIMENTAL: I AM IN NO WAY ASSOCIATED WITH CORTICAL LABS OR ANY RESEARCH LABORATORY"
-  },
-  {
-    "repo": "FireRedTeam/FireRed-OCR",
-    "branch": "main",
-    "language": "Python",
-    "description": ""
-  },
-  {
-    "repo": "requests/requests",
-    "branch": "main",
-    "language": "Python",
-    "description": "A simple, yet elegant, HTTP library."
-  },
-  {
-    "repo": "ckckck/UltimateSearchSkill",
-    "branch": "main",
-    "language": "Shell",
-    "description": "Dual-engine web search Skill for OpenClaw/Pi: Grok AI + Tavily + FireCrawl"
-  },
-  {
-    "repo": "snoozinjs/Delta-exec",
-    "branch": "main",
-    "language": "C++",
-    "description": "Delta exec Roblox PC mobile game assistant Autofarm, automatic questing, item collector, world teleports, chest tracker. Supported modes: Blox Fruits, Pet Simulator 99, Anime Defenders, MM2, Sol’s RNG. Speed simulator, high jump, flight mode, infinite resources, mobile optimization, cloud configs."
-  },
-  {
-    "repo": "machinepulse-ai/world2agent",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "World2Agent(W2A) is an open protocol that standardizes how Al agents perceive the real world."
-  },
-  {
-    "repo": "ConardLi/web-design-skill",
-    "branch": "main",
-    "language": "CSS",
-    "description": "An AI agent skill that transforms AI-generated web pages from functional to stunning.(Inspired by Claude Design)"
-  },
-  {
-    "repo": "huggingface/tokenizers",
-    "branch": "main",
-    "language": "Rust",
-    "description": "💥 Fast State-of-the-Art Tokenizers optimized for Research and Production"
-  },
-  {
-    "repo": "AdguardTeam/AdGuardHome",
+    "repo": "mmazzarolo/react-native-modal-datetime-picker",
     "branch": "master",
-    "language": "Go",
-    "description": "Network-wide ads & trackers blocking DNS server"
+    "language": "JavaScript",
+    "description": "A React-Native datetime-picker for Android and iOS"
   },
   {
-    "repo": "aquasecurity/trivy",
+    "repo": "kautukkundan/Awesome-Profile-README-templates",
+    "branch": "master",
+    "language": "JavaScript",
+    "description": "A collection of awesome readme templates to display on your profile"
+  },
+  {
+    "repo": "dotnet/aspnetcore",
     "branch": "main",
-    "language": "Go",
-    "description": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more"
+    "language": "C#",
+    "description": "ASP.NET Core is a cross-platform .NET framework for building modern cloud-based web applications on Windows, Mac, or Linux."
   }
 ]
