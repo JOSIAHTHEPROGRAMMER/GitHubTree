@@ -1,117 +1,15 @@
 [
   {
-    "repo": "daltoniam/Starscream",
-    "branch": "master",
-    "language": "Swift",
-    "description": "Websockets in swift for iOS and OSX"
-  },
-  {
-    "repo": "ywnd1144/Gopay_plus_automatic",
+    "repo": "FuelMagistrateLead/photoshop-ai-smart-enhance",
     "branch": "main",
-    "language": "Python",
-    "description": ""
+    "language": "HTML",
+    "description": "AI-powered image enhancement extension for Adobe Photoshop CC 2024+. Intelligent exposure correction, adaptive color adjustment, contrast optimization, and noise reduction. Machine learning algorithms for photographers and designers. Real-time preview, batch processing, non-destructive smart objects."
   },
   {
-    "repo": "vercel-labs/deepsec",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Deepsec is a security harness for finding vulnerabilities in your codebase powered by coding agents"
-  },
-  {
-    "repo": "ravencaio/tlou-remastered-pc",
-    "branch": "main",
-    "language": "C++",
-    "description": "Native Windows PC port of The Last of Us Remastered (PS4, CUSA00552). Runs the game’s own x86-64 code on a custom runtime, with PS4 system libraries reimplemented and a Vulkan renderer based on shadPS4. Includes a launcher. No game files included: you need your own copy."
-  },
-  {
-    "repo": "ConardLi/garden-skills",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "ConardLi's open-source Skills collection, featuring web design, knowledge retrieval, image generation, and more."
-  },
-  {
-    "repo": "ythx-101/ask-search",
+    "repo": "mage-ai/mage-ai",
     "branch": "master",
     "language": "Python",
-    "description": "Self-hosted web search skill for AI agents (OpenClaw/Claude Code/Antigravity) via SearxNG"
-  },
-  {
-    "repo": "baidu-baige/LoongForge",
-    "branch": "master",
-    "language": "Python",
-    "description": "A modular, scalable, and highly efficient training framework for language, multimodal, and embodied models."
-  },
-  {
-    "repo": "YuJunZhiXue/qwen2API",
-    "branch": "main",
-    "language": "Python",
-    "description": "A project converting the Qwen web page to an API."
-  },
-  {
-    "repo": "appledog-xyz/FormCmsPortal",
-    "branch": "main",
-    "language": "Python",
-    "description": ""
-  },
-  {
-    "repo": "ultraworkers/claw-code-parity",
-    "branch": "main",
-    "language": "Rust",
-    "description": "claw-code Rust port parity work - it is temporary work while claw-code repo is doing migration"
-  },
-  {
-    "repo": "xixu-me/awesome-persona-distill-skills",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "同事.skill、前任.skill、女娲.skill、自己.skill、乔布斯.skill……"
-  },
-  {
-    "repo": "KenneyNL/Starter-Kit-Racing",
-    "branch": "main",
-    "language": "GDScript",
-    "description": ""
-  },
-  {
-    "repo": "MagicCube/helixent",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Helixent is a small library for building ReAct-style agent loops based on the Bun stack."
-  },
-  {
-    "repo": "Russell-cell/PPT-Design-Prompt",
-    "branch": "main",
-    "language": "Python",
-    "description": ""
-  },
-  {
-    "repo": "OpenYSM/YSMParser",
-    "branch": "main",
-    "language": "C++",
-    "description": "A Parser to recover Yes-Steve-Model Encrypted Binaries."
-  },
-  {
-    "repo": "shanselman/PeekDesktop",
-    "branch": "main",
-    "language": "C#",
-    "description": "Click your desktop to peek at it - just like macOS Sonoma."
-  },
-  {
-    "repo": "professor-lee/StoneBadge",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "Add a Rotating Stone in your README file."
-  },
-  {
-    "repo": "0xchasercat/mochi",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "The library for faithful browser automation. High-fidelity fingerprinting for Bun, engineered for consistency and transparency."
-  },
-  {
-    "repo": "basionwang-bot/HermesPet",
-    "branch": "main",
-    "language": "Swift",
-    "description": "让 AI 住在你 MacBook 的刘海里 · 零依赖开箱即用 · 多引擎并行的桌面 AI 伴侣（Swift 6 / SwiftUI / macOS 14+）"
+    "description": "🧙 Build, run, and manage data pipelines for integrating and transforming data."
   },
   {
     "repo": "tanviet12/chat-quality-agent",
@@ -120,27 +18,129 @@
     "description": ""
   },
   {
-    "repo": "Shudesu/line-harness-oss",
+    "repo": "deltatrader01/Polymarket-Trading-Bot",
     "branch": "main",
-    "language": "TypeScript",
-    "description": "Open-source LINE Official Account CRM — free alternative to paid tools. Step delivery, broadcasts, forms, rich menus, scoring, automation, and more."
+    "language": "Python",
+    "description": "Polymarket arbitrage trading bot that detects inefficiencies in 5-minute, 15-minute, and 1-hour markets. polymarket arbitrage trading bot polymarket arbitrage bot polymarket arbitrage bot polymarket arbitrage bot polymarket arbitrage bot polymarket arbitrage bot polymarket arbitrage bot"
   },
   {
-    "repo": "manyougz/velotype",
+    "repo": "tensorflow/probability",
+    "branch": "main",
+    "language": "Jupyter Notebook",
+    "description": "Probabilistic reasoning and statistical analysis in TensorFlow"
+  },
+  {
+    "repo": "jackwener/twitter-cli",
+    "branch": "main",
+    "language": "Python",
+    "description": "A CLI for Twitter/X — feed, bookmarks, and user timeline in terminal"
+  },
+  {
+    "repo": "Mufeedvh/Code2Prompt",
     "branch": "main",
     "language": "Rust",
-    "description": "Write at the speed of thought – Velotype is a high-performance native Markdown editor built with Rust and GPUI.⚡"
+    "description": "A CLI tool to convert your codebase into a single LLM prompt with source tree, prompt templating, and token counting."
   },
   {
-    "repo": "gainubi/note-slides",
+    "repo": "sanic-org/sanic",
     "branch": "main",
-    "language": "HTML",
-    "description": "把一篇长文、一个长 PDF，转为可读的精美 Slides。"
+    "language": "Python",
+    "description": "Accelerate your web app development  | Build fast. Run fast."
   },
   {
-    "repo": "basketikun/infinite-canvas",
+    "repo": "gsd-build/gsd-2",
     "branch": "main",
     "language": "TypeScript",
-    "description": "面向AI创作的开源无限画布工作台，集成 AI 生图、参考图编辑、画布编排、对话助手、提示词库和素材管理等功能。"
+    "description": "A powerful meta-prompting, context engineering and spec-driven development system that enables agents to work for long periods of time autonomously without losing track of the big picture"
+  },
+  {
+    "repo": "Significant-Gravitas/AutoGPT",
+    "branch": "master",
+    "language": "Python",
+    "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters."
+  },
+  {
+    "repo": "cosmiciron/vmprint",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "A pure-JS, zero-dependency typesetting engine that yields bit-perfect PDF output across any runtime—from Cloudflare Workers to the browser. Stop using Headless Chrome to print text."
+  },
+  {
+    "repo": "daniel3303/ClaudeCodeStatusLine",
+    "branch": "main",
+    "language": "Shell",
+    "description": ""
+  },
+  {
+    "repo": "espressif/arduino-esp32",
+    "branch": "master",
+    "language": "C++",
+    "description": "Arduino core for the ESP32"
+  },
+  {
+    "repo": "CamTheBun/KMS-Auto-Tool",
+    "branch": "main",
+    "language": "C++",
+    "description": "Tool KMSAuto Net Tutorial Permanent License HWID Gen VL Converter Retail to Volume Fix Error 0xc004f074 System Administration Utility 2026 Build"
+  },
+  {
+    "repo": "4R7I5T/CL1_LLM_Encoder",
+    "branch": "main",
+    "language": "Python",
+    "description": "Using Cortical Labs CL1 to train neurons to encode tokenization patterns on LLMs and measure consciousness metrics for advanced AI safety and sentience testing. EXPERIMENTAL: I AM IN NO WAY ASSOCIATED WITH CORTICAL LABS OR ANY RESEARCH LABORATORY"
+  },
+  {
+    "repo": "FireRedTeam/FireRed-OCR",
+    "branch": "main",
+    "language": "Python",
+    "description": ""
+  },
+  {
+    "repo": "requests/requests",
+    "branch": "main",
+    "language": "Python",
+    "description": "A simple, yet elegant, HTTP library."
+  },
+  {
+    "repo": "ckckck/UltimateSearchSkill",
+    "branch": "main",
+    "language": "Shell",
+    "description": "Dual-engine web search Skill for OpenClaw/Pi: Grok AI + Tavily + FireCrawl"
+  },
+  {
+    "repo": "snoozinjs/Delta-exec",
+    "branch": "main",
+    "language": "C++",
+    "description": "Delta exec Roblox PC mobile game assistant Autofarm, automatic questing, item collector, world teleports, chest tracker. Supported modes: Blox Fruits, Pet Simulator 99, Anime Defenders, MM2, Sol’s RNG. Speed simulator, high jump, flight mode, infinite resources, mobile optimization, cloud configs."
+  },
+  {
+    "repo": "machinepulse-ai/world2agent",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "World2Agent(W2A) is an open protocol that standardizes how Al agents perceive the real world."
+  },
+  {
+    "repo": "ConardLi/web-design-skill",
+    "branch": "main",
+    "language": "CSS",
+    "description": "An AI agent skill that transforms AI-generated web pages from functional to stunning.(Inspired by Claude Design)"
+  },
+  {
+    "repo": "huggingface/tokenizers",
+    "branch": "main",
+    "language": "Rust",
+    "description": "💥 Fast State-of-the-Art Tokenizers optimized for Research and Production"
+  },
+  {
+    "repo": "AdguardTeam/AdGuardHome",
+    "branch": "master",
+    "language": "Go",
+    "description": "Network-wide ads & trackers blocking DNS server"
+  },
+  {
+    "repo": "aquasecurity/trivy",
+    "branch": "main",
+    "language": "Go",
+    "description": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more"
   }
 ]
