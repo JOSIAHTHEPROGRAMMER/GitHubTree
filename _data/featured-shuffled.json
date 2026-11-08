@@ -1,146 +1,146 @@
 [
   {
-    "repo": "ipenywis/laya-ultrafast",
+    "repo": "itcaat/mtproto-installer",
     "branch": "main",
-    "language": "Python",
-    "description": "Same as jev-ultrafast but using Laya"
+    "language": "Shell",
+    "description": "Ускоритель телеграм =)"
   },
   {
-    "repo": "Okyumi/OverTrack",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Overland travel route planner — from Tokyo to Antarctica, no flights required."
-  },
-  {
-    "repo": "flame-engine/flame",
-    "branch": "main",
-    "language": "Dart",
-    "description": "A Flutter based game engine."
-  },
-  {
-    "repo": "software-mansion/react-native-screens",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Native navigation primitives for your React Native app."
-  },
-  {
-    "repo": "Paidax01/math-curve-loaders",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "A lightweight gallery of mathematical curve based loading animations with modal previews, formulas, and copyable code snippets."
-  },
-  {
-    "repo": "wavyrai/tmux-ide",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "Turn any project into a tmux-powered terminal IDE with a simple ide.yml"
-  },
-  {
-    "repo": "DIYgod/cloudflare-edge-tts",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": ""
-  },
-  {
-    "repo": "e10nMa2k/cc-mini",
-    "branch": "main",
-    "language": "Python",
-    "description": "mini version of claude code"
-  },
-  {
-    "repo": "nv-tlabs/kimodo",
+    "repo": "jwuthri-cloud/Tracely-ai",
     "branch": "main",
     "language": "Python",
     "description": ""
   },
   {
-    "repo": "vmi-rs/ephemera",
+    "repo": "apache/superset",
     "branch": "master",
+    "language": "TypeScript",
+    "description": "Apache Superset is a Data Visualization and Data Exploration Platform"
+  },
+  {
+    "repo": "nltk/nltk",
+    "branch": "develop",
+    "language": "Python",
+    "description": "NLTK Source"
+  },
+  {
+    "repo": "kunchenguid/autopreso",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "Realtime speech to presentation. Let the whiteboard whiteboard itself."
+  },
+  {
+    "repo": "zoontek/react-native-bootsplash",
+    "branch": "master",
+    "language": "TypeScript",
+    "description": "🚀 Show a splash screen during app startup. Hide it when you are ready."
+  },
+  {
+    "repo": "espressif/esp-idf",
+    "branch": "master",
+    "language": "C",
+    "description": "Espressif IoT Development Framework. Official development framework for Espressif SoCs."
+  },
+  {
+    "repo": "oaker-io/wewrite",
+    "branch": "main",
+    "language": "Python",
+    "description": "公众号文章全流程 AI Skill for Claude Code — 热点抓取 → 选题 → 写作 → SEO → 视觉AI → 排版 → 微信草稿箱"
+  },
+  {
+    "repo": "babel/babel-loader",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "📦 Babel loader for webpack"
+  },
+  {
+    "repo": "electron-userland/electron-forge",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": ":electron: A complete tool for building and publishing Electron applications"
+  },
+  {
+    "repo": "alaeelhariri/iut-db-final-project",
+    "branch": "master",
+    "language": "Python",
+    "description": ""
+  },
+  {
+    "repo": "Snailclimb/JavaGuide",
+    "branch": "main",
+    "language": "Java",
+    "description": "Java 面试 & 后端通用面试指南，覆盖计算机基础、数据库、分布式、高并发与系统设计。准备后端技术面试，首选 JavaGuide！"
+  },
+  {
+    "repo": "YuJunZhiXue/qwen2API",
+    "branch": "main",
+    "language": "Python",
+    "description": "A project converting the Qwen web page to an API."
+  },
+  {
+    "repo": "bytedance-deerflow/deer-flow-installer",
+    "branch": "main",
+    "language": "Python",
+    "description": "🦌 DeerFlow 2.0 installer - open-source SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skills and subagents, it handles different levels of tasks that could take minutes to hours."
+  },
+  {
+    "repo": "eslint/eslint",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "Find and fix problems in your JavaScript code."
+  },
+  {
+    "repo": "webpack/webpack-dev-server",
+    "branch": "master",
+    "language": "JavaScript",
+    "description": "Serves a webpack app. Updates the browser on changes. Documentation https://webpack.js.org/configuration/dev-server/."
+  },
+  {
+    "repo": "huggingface/tokenizers",
+    "branch": "main",
     "language": "Rust",
-    "description": "Multiplatform MEMORY.DMP analysis tool with a WinDbg flavor"
+    "description": "💥 Fast State-of-the-Art Tokenizers optimized for Research and Production"
   },
   {
-    "repo": "HKUDS/ClawTeam",
-    "branch": "main",
-    "language": "Python",
-    "description": "ClawTeam: Agent Swarm Intelligence (One Command → Full Automation)"
-  },
-  {
-    "repo": "wh0amitz/TailVNC",
+    "repo": "ytdl-org/youtube-dl",
     "branch": "master",
-    "language": "Go",
-    "description": "Tailscale-based Windows VNC persistence tool with Session 0 isolation bypass, embedding a full WireGuard peer and RFB server into a single drop-in binary."
-  },
-  {
-    "repo": "ChristianJR19/GoblinOS",
-    "branch": "main",
     "language": "Python",
-    "description": "a Hermes Agent personality layer that replaces the default agent identity with a persistent, mood-driven goblin persona"
+    "description": "Command-line program to download videos from YouTube.com and other video sites"
   },
   {
-    "repo": "openai/openai-python",
-    "branch": "main",
-    "language": "Python",
-    "description": "The official Python library for the OpenAI API"
-  },
-  {
-    "repo": "prometheus-operator/prometheus-operator",
-    "branch": "main",
-    "language": "Go",
-    "description": "Prometheus Operator creates/configures/manages Prometheus clusters atop Kubernetes"
-  },
-  {
-    "repo": "NVlabs/Sana",
-    "branch": "main",
-    "language": "Python",
-    "description": "SANA: Efficient High-Resolution Image Synthesis with Linear Diffusion Transformer"
-  },
-  {
-    "repo": "docker/cli",
+    "repo": "polkadot-js/apps",
     "branch": "master",
-    "language": "Go",
-    "description": "The Docker CLI"
+    "language": "TypeScript",
+    "description": "Basic Polkadot/Substrate UI for interacting with a Polkadot and Substrate node. This is the main user-facing application, allowing access to all features available on Substrate chains."
   },
   {
-    "repo": "tritano/ultraviewer",
+    "repo": "trufflesuite/truffle",
+    "branch": "develop",
+    "language": "TypeScript",
+    "description": ":warning: The Truffle Suite is being sunset. For information on ongoing support, migration options and FAQs, visit the Consensys blog. Thank you for all the support over the years."
+  },
+  {
+    "repo": "alchaincyf/nuwa-skill",
+    "branch": "main",
+    "language": "Python",
+    "description": "你想蒸馏的下一个员工，何必是同事。蒸馏任何人的思维方式——心智模型、决策启发式、表达DNA。Distill how anyone thinks."
+  },
+  {
+    "repo": "standardagents/sip",
     "branch": "main",
     "language": "TypeScript",
-    "description": "Teamviewer UltraViewer download free PC windows 11, portable zip, latest version 6.6, getting my ID stuck fix. Port 2112 firewall block, teamviewer commercial use detected bypass, anydesk alternative. Black screen on connection solution, run with windows administrator, change password, file transfer slow."
+    "description": "Small Image Processor - Ultra memory-efficient image processing for Cloudflare Workers 🟠"
   },
   {
-    "repo": "fancyai-official/skills",
+    "repo": "achrefelouafi/LinearAbiltyCastingThreeJS",
     "branch": "main",
-    "language": "Python",
+    "language": "JavaScript",
     "description": ""
   },
   {
-    "repo": "Janlaywss/hu-chenfeng-skill",
-    "branch": "main",
-    "language": "Python",
-    "description": "户晨风Skill"
-  },
-  {
-    "repo": "MangoLion/stretchystudio",
-    "branch": "master",
-    "language": "JavaScript",
-    "description": "FOSS 2D animation tool for turning static illustrations into mesh-deformable characters"
-  },
-  {
-    "repo": "mmazzarolo/react-native-modal-datetime-picker",
-    "branch": "master",
-    "language": "JavaScript",
-    "description": "A React-Native datetime-picker for Android and iOS"
-  },
-  {
-    "repo": "kautukkundan/Awesome-Profile-README-templates",
-    "branch": "master",
-    "language": "JavaScript",
-    "description": "A collection of awesome readme templates to display on your profile"
-  },
-  {
-    "repo": "dotnet/aspnetcore",
+    "repo": "dikurdikur/palmier-pro-windows",
     "branch": "main",
     "language": "C#",
-    "description": "ASP.NET Core is a cross-platform .NET framework for building modern cloud-based web applications on Windows, Mac, or Linux."
+    "description": "Palmier Pro AI video editor macOS windows timeline multitrack NLE footage model context protocol MCP server agent Claude Cursor Swift SwiftUI AVFoundation storyboard audio prores metal automation rendering fx"
   }
 ]
