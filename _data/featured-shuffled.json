@@ -1,146 +1,146 @@
 [
   {
-    "repo": "osulazerdownload/osulazer",
-    "branch": "main",
-    "language": "C#",
-    "description": "osu mania download skin lazer map open source rhythm game windows 11 macos linux android ios mobile default client latest version 2026 download beatmaps skins custom rulesets multiplayer free"
+    "repo": "JakeWharton/butterknife",
+    "branch": "master",
+    "language": "Java",
+    "description": "Bind Android views and callbacks to fields and methods."
   },
   {
-    "repo": "Work-Fisher/openclaw-ai-assistant-framework",
+    "repo": "PMTraderAdam/pm-adam-trader",
     "branch": "main",
-    "language": "Python",
-    "description": "OpenClaw AI助手完整框架 - 7步深度使用法 + 回溯清理机制"
+    "language": "TypeScript",
+    "description": ""
   },
   {
-    "repo": "royalbhati/sqltoerdiagram",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "ER diagram generator. Paste CREATE TABLE statements and get a clean, interactive ERD — runs 100% in your browser, nothing uploaded"
-  },
-  {
-    "repo": "antirez/ds4",
+    "repo": "EricEsquivel/CobaltStrike-Linux-Beacon",
     "branch": "main",
     "language": "C",
-    "description": "DeepSeek 4 Flash local inference engine for Metal"
+    "description": "Proof of Concept (PoC) implant for creating custom Cobalt Strike Beacons"
   },
   {
-    "repo": "FULU-Foundation/OrcaSlicer-bambulab",
-    "branch": "main",
-    "language": "C++",
-    "description": ""
-  },
-  {
-    "repo": "DenAB-NVS/submarine",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "Sovereign, depth-adaptive AI memory. Open source. Local-first. Model-agnostic."
-  },
-  {
-    "repo": "asdsadasdasdasdsd121/Crimson-Desert-RenoDX",
-    "branch": "main",
-    "language": "C++",
-    "description": "Crimson Desert RenoDX Full Version 2026 – Advanced Graphics Rendering Mod for Crimson Desert. Enhances lighting, dynamic shadows, realistic reflections, ambient occlusion and post-processing using RenoDX. Delivers significantly better visual fidelity and cinematic quality."
-  },
-  {
-    "repo": "mitsuhiko/pi-ds4",
+    "repo": "TanStack/query",
     "branch": "main",
     "language": "TypeScript",
-    "description": "Run deepseek4 locally on metal right from within Pi"
+    "description": "🤖 Powerful asynchronous state management, server-state utilities and data fetching for the web. TS/JS, React Query, Solid Query, Svelte Query and Vue Query."
   },
   {
-    "repo": "stormzhang/token-tracker",
+    "repo": "akullpp/awesome-java",
     "branch": "master",
-    "language": "Python",
-    "description": "Track token usage across local AI agents (Claude Code, Codex) — CLI dashboard with cost analysis, rate limit monitoring, and session tracking"
+    "language": "Other",
+    "description": "A curated list of awesome frameworks, libraries and software for the Java programming language."
   },
   {
-    "repo": "JohnRiceML/clawport-ui",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Open-source AI agent command center for Claude Code agent teams. Built on OpenClaw."
-  },
-  {
-    "repo": "facebookresearch/actionmesh",
-    "branch": "main",
-    "language": "Python",
-    "description": "🎬ActionMesh: A fast video to animated mesh model with unprecedented quality. Generate animated mesh seamlessly importable into any 3D software in less than a minute."
-  },
-  {
-    "repo": "idanshen/Self-Distillation",
-    "branch": "main",
-    "language": "Python",
-    "description": ""
-  },
-  {
-    "repo": "sooryathejas/METATRON",
-    "branch": "main",
-    "language": "Python",
-    "description": "AI-powered penetration testing assistant using local LLM on linux (Parrot OS)"
-  },
-  {
-    "repo": "lerna/lerna",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Lerna is a fast, modern build system for managing and publishing multiple JavaScript/TypeScript packages from the same repository."
-  },
-  {
-    "repo": "wagmi-dev/wagmi",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Reactive primitives for Ethereum apps"
-  },
-  {
-    "repo": "zornade/visura-api",
-    "branch": "main",
-    "language": "Python",
-    "description": "Servizio API per l'estrazione automatizzata di dati catastali dal portale SISTER"
-  },
-  {
-    "repo": "Gentleatvice/seed-phrase-recover-BTC-ETH",
+    "repo": "NVlabs/cutile-rs",
     "branch": "main",
     "language": "Rust",
+    "description": "cuTile Rust provides a safe, tile-based kernel programming DSL for the Rust programming language. It features a safe host-side API for passing tensors to asynchronously executed kernel functions."
+  },
+  {
+    "repo": "tanaer/WindowsClear",
+    "branch": "main",
+    "language": "Rust",
+    "description": "Windows C盘清理工具/C盘瘦身工具，还你Appdata的大量硬盘空间 | Windows System disk cleanup, returning a large amount of hard drive space from your Appdata"
+  },
+  {
+    "repo": "Alex-Gilbert/unredact",
+    "branch": "main",
+    "language": "Python",
     "description": ""
   },
   {
-    "repo": "adobe/react-spectrum",
+    "repo": "sgInnora/alipay-deeplink-research",
+    "branch": "main",
+    "language": "HTML",
+    "description": "Alipay DeepLink + JSBridge Security Research - 17 Verified Vulnerabilities | 支付宝DeepLink安全研究 | Full Report: innora.ai/zfb"
+  },
+  {
+    "repo": "hjanuschka/pi-multi-pass",
     "branch": "main",
     "language": "TypeScript",
-    "description": "A collection of libraries and tools that help you build adaptive, accessible, and robust user experiences."
+    "description": "Multi-subscription extension for pi -- use multiple OAuth accounts per provider (Anthropic, Codex, Copilot, Gemini, Antigravity)"
   },
   {
-    "repo": "tanishqkumar/ssd",
+    "repo": "Wendor/teapod-stream",
+    "branch": "master",
+    "language": "Dart",
+    "description": ""
+  },
+  {
+    "repo": "actions/runner-images",
     "branch": "main",
-    "language": "Python",
-    "description": "A lightweight inference engine supporting speculative speculative decoding (SSD)."
+    "language": "PowerShell",
+    "description": "GitHub Actions runner images"
   },
   {
-    "repo": "ThisIsDara/mhr-cfw-go",
+    "repo": "btahir/react-kino",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Cinematic scroll-driven storytelling for React"
+  },
+  {
+    "repo": "pulumi/pulumi",
     "branch": "master",
     "language": "Go",
-    "description": "A local proxy that runs on your machine and forwards traffic through Google."
+    "description": "Pulumi - Infrastructure as Code in any programming language 🚀"
   },
   {
-    "repo": "Longbridges/polymarket-kalshi-arbitrage-bot",
+    "repo": "newrelic/newrelic-java-agent",
     "branch": "main",
-    "language": "TypeScript",
-    "description": "polymarket trading bot, polymarket bot, polymarket kalshi trading bot, polymarket trading bot, polymarket bot, polymarket kalshi trading bot, polymarket trading bot, polymarket bot, polymarket kalshi trading bot, polymarket trading bot, polymarket bot, polymarket kalshi trading bot, polymarket trading bot, polymarket bot"
+    "language": "Java",
+    "description": "The New Relic Java agent"
   },
   {
-    "repo": "1186258278/OpenClawChineseTranslation",
-    "branch": "main",
-    "language": "Shell",
-    "description": "🦞 OpenClaw (Clawdbot/Moltbot) 汉化版 - 开源个人 AI 助手中文版 | Claude/ChatGPT LLM 接入 | WhatsApp/Telegram/Discord 多平台 | 每小时自动同步 | CLI + Dashboard 全中文 | 全流程搭建教程，以及排错指南！"
+    "repo": "psf/requests-html",
+    "branch": "master",
+    "language": "Python",
+    "description": "Pythonic HTML Parsing for Humans™"
   },
   {
-    "repo": "software-mansion/react-native-reanimated",
+    "repo": "GabagoolisLive/polymarket-copytrading-bot-vvvvvvvvvvvv",
     "branch": "main",
-    "language": "TypeScript",
-    "description": "React Native's Animated library reimplemented"
+    "language": "Rust",
+    "description": "Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot Polymarket copy Trading Bot"
   },
   {
-    "repo": "vercel-labs/mdxg",
+    "repo": "AlpinDale/parsync",
+    "branch": "master",
+    "language": "Rust",
+    "description": "Parallel rsync-like pull sync over SSH with resume"
+  },
+  {
+    "repo": "ford26321works003/sora2API",
     "branch": "main",
-    "language": "TypeScript",
-    "description": "Spec for markdown presentation and interaction"
+    "language": "Python",
+    "description": "SORA v2 API Wrapper — Python interface for the SORA decentralized economy platform, providing balance queries, token swaps via Polkaswap DEX, liquidity pool inspection, and network status monitoring"
+  },
+  {
+    "repo": "xi-editor/xi-editor",
+    "branch": "master",
+    "language": "Rust",
+    "description": "A modern editor with a backend written in Rust."
+  },
+  {
+    "repo": "zachlatta/freeflow",
+    "branch": "main",
+    "language": "Swift",
+    "description": "Free and open source alternative to Wispr Flow / Superwhisper / Monologue / etc"
+  },
+  {
+    "repo": "Noteshagutter/Best-Fortnite-Cheats-2026",
+    "branch": "main",
+    "language": "C++",
+    "description": "⭐️ Fortnite Cheats 2026 Download – Aimbot, ESP, Wallhack, Triggerbot, Multihack, Recoil Control, Bunnyhop | Silent Aim, Radarhack, Loader, Injector, Undetected Bypass ⭐️"
+  },
+  {
+    "repo": "matteorigodanza/cryto-trading-ai-assistant",
+    "branch": "main",
+    "language": "Python",
+    "description": "AI guardian for manual crypto traders — risk monitoring, strategy validation & emotional trading detection. No trade execution."
+  },
+  {
+    "repo": "nushell/nushell",
+    "branch": "main",
+    "language": "Rust",
+    "description": "A new type of shell"
   }
 ]
