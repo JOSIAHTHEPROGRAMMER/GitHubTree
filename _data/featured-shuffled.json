@@ -1,146 +1,146 @@
 [
   {
-    "repo": "JakeWharton/butterknife",
+    "repo": "github/gitignore",
+    "branch": "main",
+    "language": "Other",
+    "description": "A collection of useful .gitignore templates"
+  },
+  {
+    "repo": "daltoniam/Starscream",
     "branch": "master",
-    "language": "Java",
-    "description": "Bind Android views and callbacks to fields and methods."
+    "language": "Swift",
+    "description": "Websockets in swift for iOS and OSX"
   },
   {
-    "repo": "PMTraderAdam/pm-adam-trader",
+    "repo": "Mufeedvh/Code2Prompt",
+    "branch": "main",
+    "language": "Rust",
+    "description": "A CLI tool to convert your codebase into a single LLM prompt with source tree, prompt templating, and token counting."
+  },
+  {
+    "repo": "open-telemetry/opentelemetry-js",
     "branch": "main",
     "language": "TypeScript",
-    "description": ""
+    "description": "OpenTelemetry JavaScript Client"
   },
   {
-    "repo": "EricEsquivel/CobaltStrike-Linux-Beacon",
+    "repo": "triangkas/DBD-AutoGrind-Trainer-2026-Elite",
     "branch": "main",
-    "language": "C",
-    "description": "Proof of Concept (PoC) implant for creating custom Cobalt Strike Beacons"
+    "language": "Python",
+    "description": "Ultimate Dead by Daylight auto-grind trainer Elite edition with Bloodpoint bot, ESP wallhack, aimbot, and full perk/skin unlocker. Dominate the Fog with our 2026 undetected external tool."
   },
   {
-    "repo": "TanStack/query",
-    "branch": "main",
+    "repo": "paperjs/paper.js",
+    "branch": "develop",
+    "language": "JavaScript",
+    "description": "The Swiss Army Knife of Vector Graphics Scripting – Scriptographer ported to JavaScript and the browser, using HTML5 Canvas. Created by @lehni & @puckey"
+  },
+  {
+    "repo": "nestjs/nest",
+    "branch": "master",
     "language": "TypeScript",
-    "description": "🤖 Powerful asynchronous state management, server-state utilities and data fetching for the web. TS/JS, React Query, Solid Query, Svelte Query and Vue Query."
+    "description": "A progressive Node.js framework for building efficient, scalable, and enterprise-grade server-side applications with TypeScript/JavaScript 🚀"
   },
   {
-    "repo": "akullpp/awesome-java",
+    "repo": "getify/You-Dont-Know-JS",
     "branch": "master",
     "language": "Other",
-    "description": "A curated list of awesome frameworks, libraries and software for the Java programming language."
+    "description": "A book series (2 published editions) on the JS language."
   },
   {
-    "repo": "NVlabs/cutile-rs",
+    "repo": "detekt/detekt",
     "branch": "main",
-    "language": "Rust",
-    "description": "cuTile Rust provides a safe, tile-based kernel programming DSL for the Rust programming language. It features a safe host-side API for passing tensors to asynchronously executed kernel functions."
+    "language": "Kotlin",
+    "description": "Static code analysis for Kotlin"
   },
   {
-    "repo": "tanaer/WindowsClear",
-    "branch": "main",
-    "language": "Rust",
-    "description": "Windows C盘清理工具/C盘瘦身工具，还你Appdata的大量硬盘空间 | Windows System disk cleanup, returning a large amount of hard drive space from your Appdata"
-  },
-  {
-    "repo": "Alex-Gilbert/unredact",
-    "branch": "main",
-    "language": "Python",
-    "description": ""
-  },
-  {
-    "repo": "sgInnora/alipay-deeplink-research",
-    "branch": "main",
-    "language": "HTML",
-    "description": "Alipay DeepLink + JSBridge Security Research - 17 Verified Vulnerabilities | 支付宝DeepLink安全研究 | Full Report: innora.ai/zfb"
-  },
-  {
-    "repo": "hjanuschka/pi-multi-pass",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Multi-subscription extension for pi -- use multiple OAuth accounts per provider (Anthropic, Codex, Copilot, Gemini, Antigravity)"
-  },
-  {
-    "repo": "Wendor/teapod-stream",
+    "repo": "Homebrew/brew",
     "branch": "master",
-    "language": "Dart",
-    "description": ""
+    "language": "Ruby",
+    "description": "🍺 The missing package manager for macOS (or Linux)"
   },
   {
-    "repo": "actions/runner-images",
+    "repo": "sindresorhus/awesome",
     "branch": "main",
-    "language": "PowerShell",
-    "description": "GitHub Actions runner images"
+    "language": "Other",
+    "description": "😎 Awesome lists about all kinds of interesting topics"
   },
   {
-    "repo": "btahir/react-kino",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Cinematic scroll-driven storytelling for React"
-  },
-  {
-    "repo": "pulumi/pulumi",
+    "repo": "leonardomso/33-js-concepts",
     "branch": "master",
+    "language": "JavaScript",
+    "description": "📜 33 JavaScript concepts every developer should know."
+  },
+  {
+    "repo": "cncf/toc",
+    "branch": "main",
     "language": "Go",
-    "description": "Pulumi - Infrastructure as Code in any programming language 🚀"
+    "description": "⚖️ The CNCF Technical Oversight Committee (TOC) is the technical governing body of the CNCF Foundation."
   },
   {
-    "repo": "newrelic/newrelic-java-agent",
+    "repo": "vxcozy/flappyboards",
     "branch": "main",
-    "language": "Java",
-    "description": "The New Relic Java agent"
+    "language": "TypeScript",
+    "description": "Turn any TV into a retro split-flap display. Free & open source."
   },
   {
-    "repo": "psf/requests-html",
+    "repo": "github/copilot-docs",
+    "branch": "main",
+    "language": "Other",
+    "description": "Documentation for GitHub Copilot"
+  },
+  {
+    "repo": "seabra98/Polymarket-Kalshi-Arbitrage-Bot",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": ""
+  },
+  {
+    "repo": "orange2ai/openclaw-killer",
+    "branch": "main",
+    "language": "Shell",
+    "description": "一键完美卸载 OpenClaw，让这只龙虾体面告别 🦞"
+  },
+  {
+    "repo": "nanostores/nanostores",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "A tiny (286 bytes) state manager for React/RN/Preact/Vue/Svelte with many atomic tree-shakable stores"
+  },
+  {
+    "repo": "codejunkie99/agentic-stack",
     "branch": "master",
     "language": "Python",
-    "description": "Pythonic HTML Parsing for Humans™"
+    "description": "One brain, many harnesses. Portable .agent/ folder (memory + skills + protocols) that plugs into Claude Code, Cursor, Windsurf, OpenCode, OpenClaw, Hermes, or DIY Python — and keeps its knowledge when you switch."
   },
   {
-    "repo": "GabagoolisLive/polymarket-copytrading-bot-vvvvvvvvvvvv",
-    "branch": "main",
-    "language": "Rust",
-    "description": "Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot Polymarket copy Trading Bot"
-  },
-  {
-    "repo": "AlpinDale/parsync",
-    "branch": "master",
-    "language": "Rust",
-    "description": "Parallel rsync-like pull sync over SSH with resume"
-  },
-  {
-    "repo": "ford26321works003/sora2API",
+    "repo": "JUk1-GH/gpt-promo-scanner",
     "branch": "main",
     "language": "Python",
-    "description": "SORA v2 API Wrapper — Python interface for the SORA decentralized economy platform, providing balance queries, token swaps via Polkaswap DEX, liquidity pool inspection, and network status monitoring"
+    "description": "ChatGPT Team(Business) 促销码自动扫描工具 — 批量发现/验证/价格收集，支持 17 国 34 个码，最高折扣 71% | ChatGPT Business promo code scanner — batch discovery, validation, price collection, 34 codes across 17 countries, up to 71% off"
   },
   {
-    "repo": "xi-editor/xi-editor",
-    "branch": "master",
-    "language": "Rust",
-    "description": "A modern editor with a backend written in Rust."
-  },
-  {
-    "repo": "zachlatta/freeflow",
+    "repo": "gluon-framework/gluon",
     "branch": "main",
-    "language": "Swift",
-    "description": "Free and open source alternative to Wispr Flow / Superwhisper / Monologue / etc"
+    "language": "JavaScript",
+    "description": "A new framework for creating desktop apps from websites, using system installed browsers and NodeJS"
   },
   {
-    "repo": "Noteshagutter/Best-Fortnite-Cheats-2026",
-    "branch": "main",
-    "language": "C++",
-    "description": "⭐️ Fortnite Cheats 2026 Download – Aimbot, ESP, Wallhack, Triggerbot, Multihack, Recoil Control, Bunnyhop | Silent Aim, Radarhack, Loader, Injector, Undetected Bypass ⭐️"
-  },
-  {
-    "repo": "matteorigodanza/cryto-trading-ai-assistant",
+    "repo": "FireRedTeam/FireRedVAD",
     "branch": "main",
     "language": "Python",
-    "description": "AI guardian for manual crypto traders — risk monitoring, strategy validation & emotional trading detection. No trade execution."
+    "description": "A SOTA Industrial-Grade Voice Activity Detection & Audio Event Detection, supporting 100+ languages, outperforming Silero-VAD, TEN-VAD, FunASR-VAD and WebRTC-VAD"
   },
   {
-    "repo": "nushell/nushell",
+    "repo": "99xAgency/GodModeSkill",
     "branch": "main",
-    "language": "Rust",
-    "description": "A new type of shell"
+    "language": "Shell",
+    "description": "Multi-LLM cross-review workflow for Claude Code. /work orchestrates plan/implement/bug-fix with 3 different model families voting on every gate."
+  },
+  {
+    "repo": "heri1845/Polymarket-trading-tool",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "polymarket trading bot. polymarket copy trading bot"
   }
 ]
