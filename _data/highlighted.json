@@ -1,8 +1,8 @@
 {
-  "repo": "CityPulso/PulsoIcon",
+  "repo": "leanislizarzado/ibm-spss-desktop-suite",
   "branch": "main",
-  "language": "Kotlin",
-  "description": "Animated React icons — every Lucide icon plus extra icons and brand logos, each with its own hand-written motion. Drop-in replacement for lucide-react, built on Motion.",
-  "stars": 542,
-  "forks": 16
+  "language": "HTML",
+  "description": "IBM SPSS Statistics 2026 Standalone Setup with Full Feature Configuration",
+  "stars": 479,
+  "forks": 0
 }

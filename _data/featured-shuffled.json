@@ -1,146 +1,146 @@
 [
   {
-    "repo": "github/gitignore",
+    "repo": "dexhorthy/shannon",
     "branch": "main",
-    "language": "Other",
-    "description": "A collection of useful .gitignore templates"
+    "language": "TypeScript",
+    "description": "alternative to claude -p that lifecycles interactive sessions in tmux"
   },
   {
-    "repo": "daltoniam/Starscream",
+    "repo": "mariusboiti/Clipboard_Sync",
+    "branch": "main",
+    "language": "Python",
+    "description": "Sync clipboard content across multiple devices (PC, Android, iOS) via cloud. Share text, images, and files instantly."
+  },
+  {
+    "repo": "KeyAI/calculusmadeeasy-zh",
+    "branch": "main",
+    "language": "HTML",
+    "description": "Calculus Made Easy 非官方简体中文翻译"
+  },
+  {
+    "repo": "MangoLion/stretchystudio",
     "branch": "master",
-    "language": "Swift",
-    "description": "Websockets in swift for iOS and OSX"
+    "language": "JavaScript",
+    "description": "FOSS 2D animation tool for turning static illustrations into mesh-deformable characters"
   },
   {
-    "repo": "Mufeedvh/Code2Prompt",
+    "repo": "mui/material-ui",
+    "branch": "master",
+    "language": "JavaScript",
+    "description": "Material UI: Comprehensive React component library that implements Google's Material Design. Free forever."
+  },
+  {
+    "repo": "chefkannofriend-source/lcb-baker-agent",
+    "branch": "main",
+    "language": "Python",
+    "description": "Claude Code subagent for pastry recipe lookup and Baker's Percentage calculation"
+  },
+  {
+    "repo": "Kaimen-Inc/Co-Scientist",
+    "branch": "main",
+    "language": "Python",
+    "description": "Open Source Reimplementation of Google Deepmind's Co-Scientist"
+  },
+  {
+    "repo": "apache/beam",
+    "branch": "master",
+    "language": "Java",
+    "description": "Apache Beam is a unified programming model for Batch and Streaming data processing."
+  },
+  {
+    "repo": "chartist/chartist",
+    "branch": "develop",
+    "language": "Ruby",
+    "description": "Final Project @ Makers Academy"
+  },
+  {
+    "repo": "mroboff/vm-curator",
     "branch": "main",
     "language": "Rust",
-    "description": "A CLI tool to convert your codebase into a single LLM prompt with source tree, prompt templating, and token counting."
+    "description": "vm-curator is a fast and friendly TUI to build and manage QEMU/KVM virtual machines in Linux. It does not rely on libvirt, which means 3D acceleration (para-virtualized, not pass-through) works for NVIDIA GPUs."
   },
   {
-    "repo": "open-telemetry/opentelemetry-js",
-    "branch": "main",
+    "repo": "cs109/2015",
+    "branch": "master",
+    "language": "Other",
+    "description": "Public material for CS109"
+  },
+  {
+    "repo": "XingYu-Zhong/DeepSeek-GUI",
+    "branch": "master",
     "language": "TypeScript",
-    "description": "OpenTelemetry JavaScript Client"
+    "description": "AI agent workspace for DeepSeek models, with Code and Claw modes built into your application."
   },
   {
-    "repo": "triangkas/DBD-AutoGrind-Trainer-2026-Elite",
+    "repo": "akanksh13/Crimson-Desert-RenoDX-Desktop",
+    "branch": "main",
+    "language": "C++",
+    "description": "Crimson Desert RenoDX PC Edition delivers enhanced graphics, improved performance, and modern rendering for Crimson Desert on Windows. Better lighting, textures, draw distance and optimized visuals for a more immersive desert adventure."
+  },
+  {
+    "repo": "gvisor/gvisor",
+    "branch": "master",
+    "language": "Other",
+    "description": "Application Kernel for Containers."
+  },
+  {
+    "repo": "simoncirstoiu/alice",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "Analyse · Learn · Ingest · Curate · Export — AI-powered YOLO dataset management toolkit"
+  },
+  {
+    "repo": "Nightmare-Eclipse/RedSun",
+    "branch": "main",
+    "language": "C++",
+    "description": "The Red Sun vulnerability repository"
+  },
+  {
+    "repo": "zju3dv/Scal3R",
     "branch": "main",
     "language": "Python",
-    "description": "Ultimate Dead by Daylight auto-grind trainer Elite edition with Bloodpoint bot, ESP wallhack, aimbot, and full perk/skin unlocker. Dominate the Fog with our 2026 undetected external tool."
+    "description": "[CVPR 2026 (Highlight)] Scal3R: Scalable Test-Time Training for Large-Scale 3D Reconstruction"
   },
   {
-    "repo": "paperjs/paper.js",
-    "branch": "develop",
-    "language": "JavaScript",
-    "description": "The Swiss Army Knife of Vector Graphics Scripting – Scriptographer ported to JavaScript and the browser, using HTML5 Canvas. Created by @lehni & @puckey"
-  },
-  {
-    "repo": "nestjs/nest",
-    "branch": "master",
-    "language": "TypeScript",
-    "description": "A progressive Node.js framework for building efficient, scalable, and enterprise-grade server-side applications with TypeScript/JavaScript 🚀"
-  },
-  {
-    "repo": "getify/You-Dont-Know-JS",
-    "branch": "master",
-    "language": "Other",
-    "description": "A book series (2 published editions) on the JS language."
-  },
-  {
-    "repo": "detekt/detekt",
-    "branch": "main",
-    "language": "Kotlin",
-    "description": "Static code analysis for Kotlin"
-  },
-  {
-    "repo": "Homebrew/brew",
-    "branch": "master",
-    "language": "Ruby",
-    "description": "🍺 The missing package manager for macOS (or Linux)"
-  },
-  {
-    "repo": "sindresorhus/awesome",
-    "branch": "main",
-    "language": "Other",
-    "description": "😎 Awesome lists about all kinds of interesting topics"
-  },
-  {
-    "repo": "leonardomso/33-js-concepts",
-    "branch": "master",
-    "language": "JavaScript",
-    "description": "📜 33 JavaScript concepts every developer should know."
-  },
-  {
-    "repo": "cncf/toc",
+    "repo": "dagger/dagger",
     "branch": "main",
     "language": "Go",
-    "description": "⚖️ The CNCF Technical Oversight Committee (TOC) is the technical governing body of the CNCF Foundation."
+    "description": "Automation engine to build, test and ship any codebase. Runs locally, in CI, or directly in the cloud"
   },
   {
-    "repo": "vxcozy/flappyboards",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Turn any TV into a retro split-flap display. Free & open source."
-  },
-  {
-    "repo": "github/copilot-docs",
-    "branch": "main",
-    "language": "Other",
-    "description": "Documentation for GitHub Copilot"
-  },
-  {
-    "repo": "seabra98/Polymarket-Kalshi-Arbitrage-Bot",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": ""
-  },
-  {
-    "repo": "orange2ai/openclaw-killer",
-    "branch": "main",
-    "language": "Shell",
-    "description": "一键完美卸载 OpenClaw，让这只龙虾体面告别 🦞"
-  },
-  {
-    "repo": "nanostores/nanostores",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "A tiny (286 bytes) state manager for React/RN/Preact/Vue/Svelte with many atomic tree-shakable stores"
-  },
-  {
-    "repo": "codejunkie99/agentic-stack",
+    "repo": "delta-io/delta",
     "branch": "master",
-    "language": "Python",
-    "description": "One brain, many harnesses. Portable .agent/ folder (memory + skills + protocols) that plugs into Claude Code, Cursor, Windsurf, OpenCode, OpenClaw, Hermes, or DIY Python — and keeps its knowledge when you switch."
+    "language": "Scala",
+    "description": "An open-source storage framework that enables building a Lakehouse architecture with compute engines including Spark, PrestoDB, Flink, Trino, and Hive and APIs"
   },
   {
-    "repo": "JUk1-GH/gpt-promo-scanner",
+    "repo": "0xSero/turboquant",
     "branch": "main",
     "language": "Python",
-    "description": "ChatGPT Team(Business) 促销码自动扫描工具 — 批量发现/验证/价格收集，支持 17 国 34 个码，最高折扣 71% | ChatGPT Business promo code scanner — batch discovery, validation, price collection, 34 codes across 17 countries, up to 71% off"
+    "description": "TurboQuant: Near-optimal KV cache quantization for LLM inference (3-bit keys, 2-bit values) with Triton kernels + vLLM integration"
   },
   {
-    "repo": "gluon-framework/gluon",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "A new framework for creating desktop apps from websites, using system installed browsers and NodeJS"
+    "repo": "restic/restic",
+    "branch": "master",
+    "language": "Go",
+    "description": "Fast, secure, efficient backup program"
   },
   {
-    "repo": "FireRedTeam/FireRedVAD",
+    "repo": "caddyserver/caddy",
+    "branch": "master",
+    "language": "Go",
+    "description": "Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS"
+  },
+  {
+    "repo": "nv-tlabs/PiD",
     "branch": "main",
     "language": "Python",
-    "description": "A SOTA Industrial-Grade Voice Activity Detection & Audio Event Detection, supporting 100+ languages, outperforming Silero-VAD, TEN-VAD, FunASR-VAD and WebRTC-VAD"
+    "description": "PiD: Fast and High-Resolution Latent Decoding with Pixel Diffusion"
   },
   {
-    "repo": "99xAgency/GodModeSkill",
-    "branch": "main",
-    "language": "Shell",
-    "description": "Multi-LLM cross-review workflow for Claude Code. /work orchestrates plan/implement/bug-fix with 3 different model families voting on every gate."
-  },
-  {
-    "repo": "heri1845/Polymarket-trading-tool",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "polymarket trading bot. polymarket copy trading bot"
+    "repo": "grpc-ecosystem/grpc-gateway",
+    "branch": "master",
+    "language": "Go",
+    "description": "gRPC to JSON proxy generator following the gRPC HTTP spec"
   }
 ]
