@@ -1,87 +1,27 @@
 [
   {
-    "repo": "dexhorthy/shannon",
+    "repo": "vorssaint/vorssaint-utils",
     "branch": "main",
-    "language": "TypeScript",
-    "description": "alternative to claude -p that lifecycles interactive sessions in tmux"
+    "language": "Swift",
+    "description": ""
   },
   {
-    "repo": "mariusboiti/Clipboard_Sync",
+    "repo": "apache/iceberg",
     "branch": "main",
-    "language": "Python",
-    "description": "Sync clipboard content across multiple devices (PC, Android, iOS) via cloud. Share text, images, and files instantly."
-  },
-  {
-    "repo": "KeyAI/calculusmadeeasy-zh",
-    "branch": "main",
-    "language": "HTML",
-    "description": "Calculus Made Easy 非官方简体中文翻译"
-  },
-  {
-    "repo": "MangoLion/stretchystudio",
-    "branch": "master",
-    "language": "JavaScript",
-    "description": "FOSS 2D animation tool for turning static illustrations into mesh-deformable characters"
-  },
-  {
-    "repo": "mui/material-ui",
-    "branch": "master",
-    "language": "JavaScript",
-    "description": "Material UI: Comprehensive React component library that implements Google's Material Design. Free forever."
-  },
-  {
-    "repo": "chefkannofriend-source/lcb-baker-agent",
-    "branch": "main",
-    "language": "Python",
-    "description": "Claude Code subagent for pastry recipe lookup and Baker's Percentage calculation"
-  },
-  {
-    "repo": "Kaimen-Inc/Co-Scientist",
-    "branch": "main",
-    "language": "Python",
-    "description": "Open Source Reimplementation of Google Deepmind's Co-Scientist"
-  },
-  {
-    "repo": "apache/beam",
-    "branch": "master",
     "language": "Java",
-    "description": "Apache Beam is a unified programming model for Batch and Streaming data processing."
+    "description": "Apache Iceberg"
   },
   {
-    "repo": "chartist/chartist",
-    "branch": "develop",
-    "language": "Ruby",
-    "description": "Final Project @ Makers Academy"
-  },
-  {
-    "repo": "mroboff/vm-curator",
+    "repo": "paradigmxyz/centaur",
     "branch": "main",
-    "language": "Rust",
-    "description": "vm-curator is a fast and friendly TUI to build and manage QEMU/KVM virtual machines in Linux. It does not rely on libvirt, which means 3D acceleration (para-virtualized, not pass-through) works for NVIDIA GPUs."
+    "language": "Python",
+    "description": "Multiplayer, self-hosted, secure agents."
   },
   {
-    "repo": "cs109/2015",
-    "branch": "master",
-    "language": "Other",
-    "description": "Public material for CS109"
-  },
-  {
-    "repo": "XingYu-Zhong/DeepSeek-GUI",
-    "branch": "master",
-    "language": "TypeScript",
-    "description": "AI agent workspace for DeepSeek models, with Code and Claw modes built into your application."
-  },
-  {
-    "repo": "akanksh13/Crimson-Desert-RenoDX-Desktop",
+    "repo": "hoangnb24/harness-experimental",
     "branch": "main",
-    "language": "C++",
-    "description": "Crimson Desert RenoDX PC Edition delivers enhanced graphics, improved performance, and modern rendering for Crimson Desert on Windows. Better lighting, textures, draw distance and optimized visuals for a more immersive desert adventure."
-  },
-  {
-    "repo": "gvisor/gvisor",
-    "branch": "master",
-    "language": "Other",
-    "description": "Application Kernel for Containers."
+    "language": "Shell",
+    "description": ""
   },
   {
     "repo": "simoncirstoiu/alice",
@@ -90,57 +30,117 @@
     "description": "Analyse · Learn · Ingest · Curate · Export — AI-powered YOLO dataset management toolkit"
   },
   {
-    "repo": "Nightmare-Eclipse/RedSun",
+    "repo": "hiteshchoudhary/gitbackup",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "It was personal script but now it is a complete desktop application to take backup of your github account"
+  },
+  {
+    "repo": "CookSleep/gpt_image_playground",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "基于 OpenAI gpt-image-2 接口的图片生成与编辑工具"
+  },
+  {
+    "repo": "loyalpartner/selfsync",
+    "branch": "master",
+    "language": "Rust",
+    "description": "Self-hosted Chrome Sync server. 自托管 Chrome 同步服务器 — 书签、密码、偏好等浏览器数据留在本地，不经过 Google"
+  },
+  {
+    "repo": "Shakir2021/Delta-for-Roblox-PC-Edition",
     "branch": "main",
     "language": "C++",
-    "description": "The Red Sun vulnerability repository"
+    "description": "Delta for Roblox PC Edition is a lightweight and optimized Roblox client for Windows. Enjoy higher FPS, reduced input lag, better graphics, and smoother gameplay. The best desktop edition for playing Roblox with enhanced performance and modern features."
   },
   {
-    "repo": "zju3dv/Scal3R",
+    "repo": "Jakubantalik/transitions.dev",
+    "branch": "main",
+    "language": "HTML",
+    "description": "Collection of the most essential transitions for web apps that you can just copy and paste into any project."
+  },
+  {
+    "repo": "OranAi-Ltd/oransim",
     "branch": "main",
     "language": "Python",
-    "description": "[CVPR 2026 (Highlight)] Scal3R: Scalable Test-Time Training for Large-Scale 3D Reconstruction"
+    "description": "Causal Digital Twin for Marketing at Scale · Predict any marketing decision before you spend a dollar."
   },
   {
-    "repo": "dagger/dagger",
+    "repo": "janhas1993/Tomodachi-Share-Discover-and-share-Mii",
     "branch": "main",
-    "language": "Go",
-    "description": "Automation engine to build, test and ship any codebase. Runs locally, in CI, or directly in the cloud"
+    "language": "C++",
+    "description": "Tomodachi Life 2026 Save Data Sync Mii Creator Switch Emulator Performance Mii QR Codes Vulkan Support High FPS Social Simulator PC Mii Rendering Save Editor Profile Management Virtual Life Resource Data Preservation Metadata Tool 2026 Desktop Utility"
   },
   {
-    "repo": "delta-io/delta",
-    "branch": "master",
-    "language": "Scala",
-    "description": "An open-source storage framework that enables building a Lakehouse architecture with compute engines including Spark, PrestoDB, Flink, Trino, and Hive and APIs"
-  },
-  {
-    "repo": "0xSero/turboquant",
+    "repo": "heygen-com/hyperframes-launch-video",
     "branch": "main",
-    "language": "Python",
-    "description": "TurboQuant: Near-optimal KV cache quantization for LLM inference (3-bit keys, 2-bit values) with Triton kernels + vLLM integration"
+    "language": "HTML",
+    "description": ""
   },
   {
-    "repo": "restic/restic",
-    "branch": "master",
-    "language": "Go",
-    "description": "Fast, secure, efficient backup program"
+    "repo": "calendar0917/DeepseekWeb-enhance",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": ""
   },
   {
-    "repo": "caddyserver/caddy",
-    "branch": "master",
-    "language": "Go",
-    "description": "Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS"
-  },
-  {
-    "repo": "nv-tlabs/PiD",
+    "repo": "said-ohamouddou/LIDARLearn",
     "branch": "main",
     "language": "Python",
-    "description": "PiD: Fast and High-Resolution Latent Decoding with Pixel Diffusion"
+    "description": "LIDARLearn: A Unified Deep Learning Library for 3D Point Cloud Classification, Segmentation, and Self-Supervised Representation Learning"
   },
   {
-    "repo": "grpc-ecosystem/grpc-gateway",
-    "branch": "master",
-    "language": "Go",
-    "description": "gRPC to JSON proxy generator following the gRPC HTTP spec"
+    "repo": "kyegomez/OpenMythos",
+    "branch": "main",
+    "language": "Python",
+    "description": "A theoretical reconstruction of the Claude Mythos architecture, built from first principles using the available research literature."
+  },
+  {
+    "repo": "Lazarus-AI/clearwing",
+    "branch": "main",
+    "language": "Python",
+    "description": ""
+  },
+  {
+    "repo": "skydoves/android-skills-mcp",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "An MCP server and CLI packager for official Android skills."
+  },
+  {
+    "repo": "Ping89/MT5EA-Forex-Trading",
+    "branch": "main",
+    "language": "MQL5",
+    "description": "download Forex trading stocks futures MQL5 Expert Advisors EA indicators strategy tester charts brokerage terminal algorithmic trading technical analysis signals copy trading multi-asset platform financial markets automated trading trading bot web terminal depth of market economic calendar order execution leverage margin spread pips."
+  },
+  {
+    "repo": "Stintik-Official/StintikVPN-",
+    "branch": "main",
+    "language": "HTML",
+    "description": ""
+  },
+  {
+    "repo": "browserable/browserable",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "Open source and self-hostable browser automation library for AI agents"
+  },
+  {
+    "repo": "prof-oguzergin/bilgisayar-mimarisi",
+    "branch": "main",
+    "language": "TeX",
+    "description": "Bilgisayar Mimarisi: RISC-V Tabanlı Yaklaşım — Açık kaynak Türkçe ders kitabı (CC BY-NC-ND 4.0)"
+  },
+  {
+    "repo": "Houseofmvps/codesight",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Universal AI context generator. Saves thousands of tokens per conversation in Claude Code, Cursor, Copilot, Codex, and more."
+  },
+  {
+    "repo": "c873089902979/NS-FW-AI-Image-and-Video-Generator-Uncens",
+    "branch": "main",
+    "language": "C#",
+    "description": "A foundational toolkit for AI-driven image generation, focusing on creative expression and content creation."
   }
 ]
