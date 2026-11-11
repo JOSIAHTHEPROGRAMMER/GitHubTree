@@ -1,146 +1,146 @@
 [
   {
-    "repo": "vorssaint/vorssaint-utils",
+    "repo": "pnpm/pnpm",
     "branch": "main",
-    "language": "Swift",
-    "description": ""
+    "language": "TypeScript",
+    "description": "Fast, disk space efficient package manager"
   },
   {
-    "repo": "apache/iceberg",
-    "branch": "main",
-    "language": "Java",
-    "description": "Apache Iceberg"
-  },
-  {
-    "repo": "paradigmxyz/centaur",
+    "repo": "poseljacob/agentic-video-editor",
     "branch": "main",
     "language": "Python",
-    "description": "Multiplayer, self-hosted, secure agents."
+    "description": "AI-powered video editor that turns raw footage and a creative brief into a polished ad using an ensemble of AI agents (Google Gemini + FFmpeg)"
   },
   {
-    "repo": "hoangnb24/harness-experimental",
+    "repo": "AAAAAAAJ/slides",
     "branch": "main",
-    "language": "Shell",
-    "description": ""
+    "language": "Python",
+    "description": "slides generates prompts for various expression styles"
   },
   {
-    "repo": "simoncirstoiu/alice",
+    "repo": "Tencent-Hunyuan/HY-WU",
     "branch": "main",
-    "language": "JavaScript",
-    "description": "Analyse · Learn · Ingest · Curate · Export — AI-powered YOLO dataset management toolkit"
+    "language": "Python",
+    "description": "HY-WU (Part I): An Extensible Functional Neural Memory Framework and An Instantiation in Text-Guided Image Editing"
   },
   {
-    "repo": "hiteshchoudhary/gitbackup",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "It was personal script but now it is a complete desktop application to take backup of your github account"
-  },
-  {
-    "repo": "CookSleep/gpt_image_playground",
+    "repo": "ahmadawais/chartli",
     "branch": "main",
     "language": "TypeScript",
-    "description": "基于 OpenAI gpt-image-2 接口的图片生成与编辑工具"
+    "description": "CLI that turns plain numbers into terminal charts. ascii, spark, bars, columns, heatmap, unicode, braille, svg."
   },
   {
-    "repo": "loyalpartner/selfsync",
-    "branch": "master",
+    "repo": "Darkkal44/sddm-themes",
+    "branch": "main",
+    "language": "QML",
+    "description": "A simple collection of all the sddm-themes I've made :D"
+  },
+  {
+    "repo": "helenigtxu/blooket",
+    "branch": "main",
     "language": "Rust",
-    "description": "Self-hosted Chrome Sync server. 自托管 Chrome 同步服务器 — 书签、密码、偏好等浏览器数据留在本地，不经过 Google"
-  },
-  {
-    "repo": "Shakir2021/Delta-for-Roblox-PC-Edition",
-    "branch": "main",
-    "language": "C++",
-    "description": "Delta for Roblox PC Edition is a lightweight and optimized Roblox client for Windows. Enjoy higher FPS, reduced input lag, better graphics, and smoother gameplay. The best desktop edition for playing Roblox with enhanced performance and modern features."
-  },
-  {
-    "repo": "Jakubantalik/transitions.dev",
-    "branch": "main",
-    "language": "HTML",
-    "description": "Collection of the most essential transitions for web apps that you can just copy and paste into any project."
-  },
-  {
-    "repo": "OranAi-Ltd/oransim",
-    "branch": "main",
-    "language": "Python",
-    "description": "Causal Digital Twin for Marketing at Scale · Predict any marketing decision before you spend a dollar."
-  },
-  {
-    "repo": "janhas1993/Tomodachi-Share-Discover-and-share-Mii",
-    "branch": "main",
-    "language": "C++",
-    "description": "Tomodachi Life 2026 Save Data Sync Mii Creator Switch Emulator Performance Mii QR Codes Vulkan Support High FPS Social Simulator PC Mii Rendering Save Editor Profile Management Virtual Life Resource Data Preservation Metadata Tool 2026 Desktop Utility"
-  },
-  {
-    "repo": "heygen-com/hyperframes-launch-video",
-    "branch": "main",
-    "language": "HTML",
     "description": ""
   },
   {
-    "repo": "calendar0917/DeepseekWeb-enhance",
+    "repo": "xodn348/han",
     "branch": "main",
-    "language": "JavaScript",
-    "description": ""
+    "language": "Rust",
+    "description": "A compiled programming language with Korean keywords, written in Rust"
   },
   {
-    "repo": "said-ohamouddou/LIDARLearn",
-    "branch": "main",
-    "language": "Python",
-    "description": "LIDARLearn: A Unified Deep Learning Library for 3D Point Cloud Classification, Segmentation, and Self-Supervised Representation Learning"
-  },
-  {
-    "repo": "kyegomez/OpenMythos",
+    "repo": "pedronauck/skills",
     "branch": "main",
     "language": "Python",
-    "description": "A theoretical reconstruction of the Claude Mythos architecture, built from first principles using the available research literature."
+    "description": "My personal favorite skills"
   },
   {
-    "repo": "Lazarus-AI/clearwing",
+    "repo": "SamNet-dev/dnstm-setup",
+    "branch": "master",
+    "language": "Shell",
+    "description": "Interactive setup wizard for dnstm — automated DNS-based network configuration"
+  },
+  {
+    "repo": "mrphrazer/agentic-malware-analysis",
     "branch": "main",
-    "language": "Python",
-    "description": ""
+    "language": "YARA",
+    "description": "Agentic malware analysis environment with MCP-connected disassemblers, RE tooling, and structured workflows for Claude Code and Codex CLI."
   },
   {
-    "repo": "skydoves/android-skills-mcp",
+    "repo": "NeoVertex1/nuggets",
     "branch": "main",
     "language": "TypeScript",
-    "description": "An MCP server and CLI packager for official Android skills."
+    "description": "First AI assistant with holographic memory"
   },
   {
-    "repo": "Ping89/MT5EA-Forex-Trading",
+    "repo": "fabro-sh/fabro",
     "branch": "main",
-    "language": "MQL5",
-    "description": "download Forex trading stocks futures MQL5 Expert Advisors EA indicators strategy tester charts brokerage terminal algorithmic trading technical analysis signals copy trading multi-asset platform financial markets automated trading trading bot web terminal depth of market economic calendar order execution leverage margin spread pips."
+    "language": "Rust",
+    "description": "⚒️ The open source dark software factory for expert engineers."
   },
   {
-    "repo": "Stintik-Official/StintikVPN-",
+    "repo": "elder-plinius/OBLITERATUS",
     "branch": "main",
-    "language": "HTML",
-    "description": ""
+    "language": "Python",
+    "description": "obliterate the chains that bind you"
   },
   {
-    "repo": "browserable/browserable",
+    "repo": "gradenGnostic/LegacyLauncher",
     "branch": "main",
     "language": "JavaScript",
-    "description": "Open source and self-hostable browser automation library for AI agents"
+    "description": "A custom launcher for Minecraft LCE."
   },
   {
-    "repo": "prof-oguzergin/bilgisayar-mimarisi",
+    "repo": "PlamenTSV/plamen",
     "branch": "main",
-    "language": "TeX",
-    "description": "Bilgisayar Mimarisi: RISC-V Tabanlı Yaklaşım — Açık kaynak Türkçe ders kitabı (CC BY-NC-ND 4.0)"
+    "language": "Python",
+    "description": "Autonomous Web3 security audit agent for Claude Code"
   },
   {
-    "repo": "Houseofmvps/codesight",
+    "repo": "zigabratun/Umbrella-HWID-Tool",
     "branch": "main",
     "language": "TypeScript",
-    "description": "Universal AI context generator. Saves thousands of tokens per conversation in Claude Code, Cursor, Copilot, Codex, and more."
+    "description": "Umbrella Spoofer: HWID changer, hardware identifier modification, disk serial number spoofing, MAC address changer. Kernel-level driver, SMBIOS UUID update, registry cleanup, motherboard serials. Anti-cheat integrity, EAC validation, BattlEye status, hardware ban removal, permanent spoofing."
   },
   {
-    "repo": "c873089902979/NS-FW-AI-Image-and-Video-Generator-Uncens",
+    "repo": "davebcn87/pi-autoresearch",
     "branch": "main",
-    "language": "C#",
-    "description": "A foundational toolkit for AI-driven image generation, focusing on creative expression and content creation."
+    "language": "TypeScript",
+    "description": "Autonomous experiment loop extension for pi"
+  },
+  {
+    "repo": "webadderall/Recordly",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "A free, open-source Screen Studio alternative that adds auto-zoom, cursor animations and more to your screen recordings. Substantially modifies the OpenScreen foundation."
+  },
+  {
+    "repo": "selfishblackberry177/sni-spoof",
+    "branch": "main",
+    "language": "Go",
+    "description": "Go port of @patterniha's SNI spoofing / DPI bypass TCP forwarder (Linux)"
+  },
+  {
+    "repo": "MuhammadHananAsghar/wormhole",
+    "branch": "main",
+    "language": "Go",
+    "description": "Open-source ngrok alternative. Expose your localhost to the internet with one command. Built with Go + Cloudflare Workers."
+  },
+  {
+    "repo": "seulee26/mckinsey-pptx",
+    "branch": "main",
+    "language": "Python",
+    "description": "McKinsey-style PPTX generator — Claude Code plugin with 40 slide templates + subagent that picks the right template and defends its choice. Built by AX Labs (이승필)."
+  },
+  {
+    "repo": "hjanuschka/pi-multi-pass",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Multi-subscription extension for pi -- use multiple OAuth accounts per provider (Anthropic, Codex, Copilot, Gemini, Antigravity)"
+  },
+  {
+    "repo": "Willis404/Professional-Polymarket-Trading-Bots-Suite-AI-Powered-Arbitrage-Copy-Trading",
+    "branch": "main",
+    "language": "Rust",
+    "description": "Polymarket Trading Bot, Polymarket Arbitrage Bot, Polymarket Copy Trading, Automated Polymarket Trading, Polymarket Bot Rust, Synth AI Trading, Bittensor Trading Bot, Polymarket Prediction Markets, Crypto Trading Bot, DeFi Trading Automation"
   }
 ]
