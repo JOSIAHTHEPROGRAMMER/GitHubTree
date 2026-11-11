@@ -1,146 +1,146 @@
 [
   {
-    "repo": "pnpm/pnpm",
+    "repo": "mode-io/vllm-jev",
+    "branch": "main",
+    "language": "Python",
+    "description": "Native vLLM serving for Jev decision models"
+  },
+  {
+    "repo": "google/dopamine",
+    "branch": "master",
+    "language": "Jupyter Notebook",
+    "description": "Dopamine is a research framework for fast prototyping of reinforcement learning algorithms."
+  },
+  {
+    "repo": "flutter/flutter",
+    "branch": "master",
+    "language": "Dart",
+    "description": "Flutter makes it easy and fast to build beautiful apps for mobile and beyond"
+  },
+  {
+    "repo": "bc-dunia/qwen3-TTS-studio",
+    "branch": "main",
+    "language": "Python",
+    "description": "A professional-grade interface for Qwen3-TTS, designed to unlock the model's full potential with fine-grained control and intuitive workflows."
+  },
+  {
+    "repo": "ciroxcode/Tomodachi-Life-Living-in-the-Dream-PC-Edition",
+    "branch": "main",
+    "language": "C++",
+    "description": "Tomodachi Life Living in the Dream PC Edition brings the popular life simulation game to Windows. Create Miis, build friendships and relationships, and enjoy funny everyday moments on your own island. Optimized for modern PCs with widescreen support, smooth performance and relaxing gameplay."
+  },
+  {
+    "repo": "guzzle/guzzle",
+    "branch": "master",
+    "language": "PHP",
+    "description": "Guzzle, an extensible PHP HTTP client"
+  },
+  {
+    "repo": "AERT-7Y/kiro-auto",
     "branch": "main",
     "language": "TypeScript",
-    "description": "Fast, disk space efficient package manager"
+    "description": "kiro自动注册机"
   },
   {
-    "repo": "poseljacob/agentic-video-editor",
+    "repo": "ALKAERR/Kali_Hack_Agent",
+    "branch": "master",
+    "language": "Python",
+    "description": "一个基于三层 Agent 架构的容器代码执行系统，专门用于在 Kali Linux Docker 容器中安全、自动地执行渗透测试工具。"
+  },
+  {
+    "repo": "samanalalokaya/polymarket-copy-trading-bot",
+    "branch": "master",
+    "language": "JavaScript",
+    "description": "Copies trades from a target Polymarket wallet to your own. Watches the target via REST or WebSocket, then places matching orders (scaled by a multiplier) using the Polymarket CLOB. CLUE: polymarket copy trading bot polymarket copy trading bot polymarket copy trading bot polymarket copy trading bot polymarket copy trading bot polymarket copy trading"
+  },
+  {
+    "repo": "deep-learning-indaba/GoodPracticesML",
+    "branch": "main",
+    "language": "Other",
+    "description": "A repository of good practices for developing usable ML products in Africa."
+  },
+  {
+    "repo": "HKUDS/ClawTeam",
     "branch": "main",
     "language": "Python",
-    "description": "AI-powered video editor that turns raw footage and a creative brief into a polished ad using an ensemble of AI agents (Google Gemini + FFmpeg)"
+    "description": "ClawTeam: Agent Swarm Intelligence (One Command → Full Automation)"
   },
   {
-    "repo": "AAAAAAAJ/slides",
+    "repo": "WenyuChiou/awesome-agentic-ai-zh",
     "branch": "main",
     "language": "Python",
-    "description": "slides generates prompts for various expression styles"
+    "description": "AI Agent 中文學習地圖 — 從零開始的結構化學習路徑，每階段有必做練習跟必修閱讀。三語對照（繁中／简中／English）。歡迎社群一起貢獻、優化內容。"
   },
   {
-    "repo": "Tencent-Hunyuan/HY-WU",
+    "repo": "thananon/9arm-skills",
     "branch": "main",
-    "language": "Python",
-    "description": "HY-WU (Part I): An Extensible Functional Neural Memory Framework and An Instantiation in Text-Guided Image Editing"
-  },
-  {
-    "repo": "ahmadawais/chartli",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "CLI that turns plain numbers into terminal charts. ascii, spark, bars, columns, heatmap, unicode, braille, svg."
-  },
-  {
-    "repo": "Darkkal44/sddm-themes",
-    "branch": "main",
-    "language": "QML",
-    "description": "A simple collection of all the sddm-themes I've made :D"
-  },
-  {
-    "repo": "helenigtxu/blooket",
-    "branch": "main",
-    "language": "Rust",
+    "language": "Shell",
     "description": ""
   },
   {
-    "repo": "xodn348/han",
-    "branch": "main",
-    "language": "Rust",
-    "description": "A compiled programming language with Korean keywords, written in Rust"
-  },
-  {
-    "repo": "pedronauck/skills",
-    "branch": "main",
-    "language": "Python",
-    "description": "My personal favorite skills"
-  },
-  {
-    "repo": "SamNet-dev/dnstm-setup",
+    "repo": "libressl/portable",
     "branch": "master",
-    "language": "Shell",
-    "description": "Interactive setup wizard for dnstm — automated DNS-based network configuration"
+    "language": "C",
+    "description": "LibreSSL Portable itself. This includes the build scaffold and compatibility layer that builds portable LibreSSL from the OpenBSD source code. Pull requests or patches sent to tech@openbsd.org are welcome."
   },
   {
-    "repo": "mrphrazer/agentic-malware-analysis",
+    "repo": "six2dez/burp-ai-agent",
     "branch": "main",
-    "language": "YARA",
-    "description": "Agentic malware analysis environment with MCP-connected disassemblers, RE tooling, and structured workflows for Claude Code and Codex CLI."
+    "language": "Kotlin",
+    "description": "Burp Suite extension that adds built-in MCP tooling, AI-assisted analysis, privacy controls, passive and active scanning and more"
   },
   {
-    "repo": "NeoVertex1/nuggets",
+    "repo": "microsoft/ML-For-Beginners",
     "branch": "main",
-    "language": "TypeScript",
-    "description": "First AI assistant with holographic memory"
+    "language": "Jupyter Notebook",
+    "description": "12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all"
   },
   {
-    "repo": "fabro-sh/fabro",
-    "branch": "main",
+    "repo": "serde-rs/serde",
+    "branch": "master",
     "language": "Rust",
-    "description": "⚒️ The open source dark software factory for expert engineers."
+    "description": "Serialization framework for Rust"
   },
   {
-    "repo": "elder-plinius/OBLITERATUS",
+    "repo": "shuyicc/MathLens",
     "branch": "main",
     "language": "Python",
-    "description": "obliterate the chains that bind you"
+    "description": "MathLens 是一个专注于数学题目视频讲解的 Agent Skill。你只需粘贴一道数学题（图片或文字），它就能自动完成从题目分析、可视化讲解、配音脚本到 Manim 动画视频的全流程制作。单条视频1-10 分钟，成本 0.2-1 元以内。"
   },
   {
-    "repo": "gradenGnostic/LegacyLauncher",
+    "repo": "elder-plinius/GLOSSOPETRAE",
     "branch": "main",
     "language": "JavaScript",
-    "description": "A custom launcher for Minecraft LCE."
+    "description": "LINGUISTIC ENGINE FOR AI"
   },
   {
-    "repo": "PlamenTSV/plamen",
+    "repo": "jnv/lists",
+    "branch": "master",
+    "language": "Other",
+    "description": "The definitive list of lists (of lists) curated on GitHub and elsewhere"
+  },
+  {
+    "repo": "Callous-0923/agent-study",
+    "branch": "main",
+    "language": "HTML",
+    "description": "28章AI Agent全栈课程：从ReAct循环到Claude Code逆向、MCP/A2A协议、RAG、DSPy、生产可观测性——全部为可运行Python文件，面试导向。"
+  },
+  {
+    "repo": "numpy/numpy",
     "branch": "main",
     "language": "Python",
-    "description": "Autonomous Web3 security audit agent for Claude Code"
+    "description": "The fundamental package for scientific computing with Python."
   },
   {
-    "repo": "zigabratun/Umbrella-HWID-Tool",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Umbrella Spoofer: HWID changer, hardware identifier modification, disk serial number spoofing, MAC address changer. Kernel-level driver, SMBIOS UUID update, registry cleanup, motherboard serials. Anti-cheat integrity, EAC validation, BattlEye status, hardware ban removal, permanent spoofing."
-  },
-  {
-    "repo": "davebcn87/pi-autoresearch",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Autonomous experiment loop extension for pi"
-  },
-  {
-    "repo": "webadderall/Recordly",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "A free, open-source Screen Studio alternative that adds auto-zoom, cursor animations and more to your screen recordings. Substantially modifies the OpenScreen foundation."
-  },
-  {
-    "repo": "selfishblackberry177/sni-spoof",
-    "branch": "main",
-    "language": "Go",
-    "description": "Go port of @patterniha's SNI spoofing / DPI bypass TCP forwarder (Linux)"
-  },
-  {
-    "repo": "MuhammadHananAsghar/wormhole",
-    "branch": "main",
-    "language": "Go",
-    "description": "Open-source ngrok alternative. Expose your localhost to the internet with one command. Built with Go + Cloudflare Workers."
-  },
-  {
-    "repo": "seulee26/mckinsey-pptx",
+    "repo": "ryfineZ/codex-session-patcher",
     "branch": "main",
     "language": "Python",
-    "description": "McKinsey-style PPTX generator — Claude Code plugin with 40 slide templates + subagent that picks the right template and defends its choice. Built by AX Labs (이승필)."
+    "description": "A lightweight Python tool to clean AI refusal responses from Codex CLI session files"
   },
   {
-    "repo": "hjanuschka/pi-multi-pass",
+    "repo": "asonglin/crypto-liquidity-ai-trading-bot",
     "branch": "main",
-    "language": "TypeScript",
-    "description": "Multi-subscription extension for pi -- use multiple OAuth accounts per provider (Anthropic, Codex, Copilot, Gemini, Antigravity)"
-  },
-  {
-    "repo": "Willis404/Professional-Polymarket-Trading-Bots-Suite-AI-Powered-Arbitrage-Copy-Trading",
-    "branch": "main",
-    "language": "Rust",
-    "description": "Polymarket Trading Bot, Polymarket Arbitrage Bot, Polymarket Copy Trading, Automated Polymarket Trading, Polymarket Bot Rust, Synth AI Trading, Bittensor Trading Bot, Polymarket Prediction Markets, Crypto Trading Bot, DeFi Trading Automation"
+    "language": "JavaScript",
+    "description": "Crypto liquidity detection & algorithmic trading bot. Order book analysis, stop-loss clusters, liquidity sweeps. Multi-exchange (Binance, Bybit, Kraken, OKX). Trading signals, quant research, market microstructure."
   }
 ]
