@@ -1,146 +1,146 @@
 [
   {
-    "repo": "Stormeye85/robinhood-token-sniper",
+    "repo": "NikolayS/PGSimCity",
     "branch": "main",
     "language": "TypeScript",
-    "description": "Ultimate Robinhood token sniper bot"
+    "description": "An explorable 3D city that shows how Postgres actually works"
   },
   {
-    "repo": "ByteDance-Seed/Seed-Thinking-v1.5",
+    "repo": "pixelxzen/phantom-motion",
     "branch": "main",
-    "language": "Other",
-    "description": "Seed-Thinking-v1.5 Model Release."
+    "language": "HTML",
+    "description": "Phantom-Motion is an incredibly powerful, epic interactive dynamic visual storytelling generator. Its capabilities are limited only by the bounds of your imagination! 它是一个极其硬核的史诗级交互式动态视觉叙事生成器。它的实力只取决于你的想象力高低！"
   },
   {
-    "repo": "The-Vibe-Company/claude-code-controller",
+    "repo": "dandavison/delta",
     "branch": "main",
-    "language": "TypeScript",
-    "description": "Programmatic TypeScript API to pilot Claude Code agents via the internal teams/inbox/tasks filesystem protocol"
+    "language": "Rust",
+    "description": "A syntax-highlighting pager for git, diff, grep, and blame output"
   },
   {
-    "repo": "labstack/echo",
-    "branch": "master",
-    "language": "Go",
-    "description": "High performance, minimalist Go web framework"
-  },
-  {
-    "repo": "arrow-kt/arrow",
+    "repo": "dotnet/efcore",
     "branch": "main",
-    "language": "Kotlin",
-    "description": "The perfect companion for your Kotlin journey - Inspired by functional, data-oriented and concurrent programming"
+    "language": "C#",
+    "description": "EF Core is a modern object-database mapper for .NET. It supports LINQ queries, change tracking, updates, and schema migrations."
   },
   {
-    "repo": "junit-team/junit5",
-    "branch": "main",
-    "language": "Java",
-    "description": "✅ The programmer-friendly testing framework for Java and the JVM"
-  },
-  {
-    "repo": "EbookFoundation/free-programming-books",
-    "branch": "main",
-    "language": "Python",
-    "description": ":books: Freely available programming books"
-  },
-  {
-    "repo": "mockk/mockk",
-    "branch": "master",
-    "language": "Kotlin",
-    "description": "mocking library for Kotlin"
-  },
-  {
-    "repo": "TanStack/router",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "🤖 A client-first, server-capable, fully type-safe router and full-stack framework for the web (React and more)."
-  },
-  {
-    "repo": "redux-saga/redux-saga",
-    "branch": "master",
-    "language": "JavaScript",
-    "description": "An alternative side effect model for Redux apps"
-  },
-  {
-    "repo": "storybookjs/testing-react",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Testing utilities that allow you to reuse your Storybook stories in your React unit tests!"
-  },
-  {
-    "repo": "cncf/toc",
-    "branch": "main",
-    "language": "Go",
-    "description": "⚖️ The CNCF Technical Oversight Committee (TOC) is the technical governing body of the CNCF Foundation."
-  },
-  {
-    "repo": "mermaid-js/mermaid",
-    "branch": "develop",
-    "language": "TypeScript",
-    "description": "Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdown"
-  },
-  {
-    "repo": "emotion-js/emotion",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "👩‍🎤 CSS-in-JS library designed for high performance style composition"
-  },
-  {
-    "repo": "PyCQA/isort",
-    "branch": "main",
-    "language": "Python",
-    "description": "A Python utility / library to sort imports."
-  },
-  {
-    "repo": "scikit-learn/scikit-learn",
-    "branch": "main",
-    "language": "Python",
-    "description": "scikit-learn: machine learning in Python"
-  },
-  {
-    "repo": "newrelic/newrelic-java-agent",
-    "branch": "main",
-    "language": "Java",
-    "description": "The New Relic Java agent"
-  },
-  {
-    "repo": "nodejs/node",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "Node.js JavaScript runtime ✨🐢🚀✨"
-  },
-  {
-    "repo": "playframework/playframework",
-    "branch": "main",
-    "language": "Scala",
-    "description": "The Community Maintained High Velocity Web Framework For Java and Scala."
-  },
-  {
-    "repo": "remotion-dev/remotion",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "🎥      Make videos programmatically with React"
-  },
-  {
-    "repo": "espressif/arduino-esp32",
+    "repo": "audacity/audacity",
     "branch": "master",
     "language": "C++",
-    "description": "Arduino core for the ESP32"
+    "description": "Audio Editor"
   },
   {
-    "repo": "lerna/lerna",
+    "repo": "sqlfluff/sqlfluff",
+    "branch": "main",
+    "language": "Python",
+    "description": "A modular SQL linter and auto-formatter with support for multiple dialects and templated code."
+  },
+  {
+    "repo": "excalidraw/excalidraw",
+    "branch": "master",
+    "language": "TypeScript",
+    "description": "Virtual whiteboard for sketching hand-drawn like diagrams"
+  },
+  {
+    "repo": "traefik/traefik",
+    "branch": "master",
+    "language": "Go",
+    "description": "The Cloud Native Application Proxy"
+  },
+  {
+    "repo": "jquery/jquery-ui",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "The official jQuery user interface library."
+  },
+  {
+    "repo": "facebook/folly",
+    "branch": "main",
+    "language": "C++",
+    "description": "An open-source C++ library developed and used at Facebook."
+  },
+  {
+    "repo": "aquasecurity/kube-bench",
+    "branch": "main",
+    "language": "Go",
+    "description": "Checks whether Kubernetes is deployed according to security best practices as defined in the CIS Kubernetes Benchmark"
+  },
+  {
+    "repo": "obsproject/obs-studio",
+    "branch": "master",
+    "language": "C",
+    "description": "OBS Studio - Free and open source software for live streaming and screen recording"
+  },
+  {
+    "repo": "SimplifyJobs/Summer2025-Internships",
+    "branch": "main",
+    "language": "Python",
+    "description": "Collection of Summer 2026 tech internships!"
+  },
+  {
+    "repo": "langchain-ai/langchainjs",
     "branch": "main",
     "language": "TypeScript",
-    "description": "Lerna is a fast, modern build system for managing and publishing multiple JavaScript/TypeScript packages from the same repository."
+    "description": "🦜🔗 Build context-aware reasoning applications"
   },
   {
-    "repo": "solidjs/solid",
+    "repo": "google/googletest",
     "branch": "main",
-    "language": "TypeScript",
-    "description": "A declarative, efficient, and flexible JavaScript library for building user interfaces."
+    "language": "C++",
+    "description": "GoogleTest - Google Testing and Mocking Framework"
   },
   {
-    "repo": "deepchem/deepchem",
+    "repo": "saltstack/salt",
     "branch": "master",
     "language": "Python",
-    "description": "Democratizing Deep-Learning for Drug Discovery, Quantum Chemistry, Materials Science and Biology"
+    "description": "Software to automate the management and configuration of infrastructure and applications at scale."
+  },
+  {
+    "repo": "openai/triton",
+    "branch": "main",
+    "language": "MLIR",
+    "description": "Development repository for the Triton language and compiler"
+  },
+  {
+    "repo": "pandas-dev/pandas",
+    "branch": "main",
+    "language": "Python",
+    "description": "Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures similar to R data.frame objects, statistical functions, and much more"
+  },
+  {
+    "repo": "actions/download-artifact",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Download artifacts from your build"
+  },
+  {
+    "repo": "test-time-training/ttt-video-dit",
+    "branch": "main",
+    "language": "Python",
+    "description": "Official PyTorch implementation of One-Minute Video Generation with Test-Time Training"
+  },
+  {
+    "repo": "openai/shap-e",
+    "branch": "main",
+    "language": "Python",
+    "description": "Generate 3D objects conditioned on text or images"
+  },
+  {
+    "repo": "buildpacks/pack",
+    "branch": "main",
+    "language": "Go",
+    "description": "CLI for building apps using Cloud Native Buildpacks"
+  },
+  {
+    "repo": "electron/electron",
+    "branch": "main",
+    "language": "C++",
+    "description": ":electron: Build cross-platform desktop apps with JavaScript, HTML, and CSS"
+  },
+  {
+    "repo": "ant-design/ant-design",
+    "branch": "master",
+    "language": "TypeScript",
+    "description": "An enterprise-class UI design language and React UI library"
   }
 ]

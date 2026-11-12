@@ -1,8 +1,8 @@
 {
-  "repo": "pravinpote1985/serato-dj-pro-2026",
+  "repo": "kolbicz/WQFiles",
   "branch": "main",
-  "language": "HTML",
-  "description": "Serato DJ Pro 2026: Complete Standalone Setup with Full Feature Set",
-  "stars": 1199,
-  "forks": 0
+  "language": "Objective-C",
+  "description": "File browser, app data manager and cache cleaner for iOS 27 (worse_query, no jailbreak)",
+  "stars": 708,
+  "forks": 54
 }
