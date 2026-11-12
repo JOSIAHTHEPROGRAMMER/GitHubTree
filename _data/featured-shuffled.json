@@ -1,146 +1,146 @@
 [
   {
-    "repo": "NikolayS/PGSimCity",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "An explorable 3D city that shows how Postgres actually works"
-  },
-  {
-    "repo": "pixelxzen/phantom-motion",
-    "branch": "main",
-    "language": "HTML",
-    "description": "Phantom-Motion is an incredibly powerful, epic interactive dynamic visual storytelling generator. Its capabilities are limited only by the bounds of your imagination! 它是一个极其硬核的史诗级交互式动态视觉叙事生成器。它的实力只取决于你的想象力高低！"
-  },
-  {
-    "repo": "dandavison/delta",
-    "branch": "main",
-    "language": "Rust",
-    "description": "A syntax-highlighting pager for git, diff, grep, and blame output"
-  },
-  {
-    "repo": "dotnet/efcore",
-    "branch": "main",
-    "language": "C#",
-    "description": "EF Core is a modern object-database mapper for .NET. It supports LINQ queries, change tracking, updates, and schema migrations."
-  },
-  {
-    "repo": "audacity/audacity",
-    "branch": "master",
-    "language": "C++",
-    "description": "Audio Editor"
-  },
-  {
-    "repo": "sqlfluff/sqlfluff",
-    "branch": "main",
-    "language": "Python",
-    "description": "A modular SQL linter and auto-formatter with support for multiple dialects and templated code."
-  },
-  {
-    "repo": "excalidraw/excalidraw",
-    "branch": "master",
-    "language": "TypeScript",
-    "description": "Virtual whiteboard for sketching hand-drawn like diagrams"
-  },
-  {
-    "repo": "traefik/traefik",
-    "branch": "master",
-    "language": "Go",
-    "description": "The Cloud Native Application Proxy"
-  },
-  {
-    "repo": "jquery/jquery-ui",
+    "repo": "ZhangHanDong/harness-engineering-from-cc-to-ai-coding",
     "branch": "main",
     "language": "JavaScript",
-    "description": "The official jQuery user interface library."
+    "description": "Harness Engineering From Claude Code source code to AI Coding"
   },
   {
-    "repo": "facebook/folly",
+    "repo": "elstongun/leviathan",
+    "branch": "main",
+    "language": "Rust",
+    "description": "**Deep memory for agents over large datasets.**   Leviathan is a single static binary that turns your records (JSONL, JSON, CSV/TSV, SQLite, or anything a database CLI can export) into a ranked full-text index."
+  },
+  {
+    "repo": "apple/swift-argument-parser",
+    "branch": "main",
+    "language": "Swift",
+    "description": "Straightforward, type-safe argument parsing for Swift"
+  },
+  {
+    "repo": "duckdb/duckdb",
     "branch": "main",
     "language": "C++",
-    "description": "An open-source C++ library developed and used at Facebook."
+    "description": "DuckDB is an analytical in-process SQL database management system"
   },
   {
-    "repo": "aquasecurity/kube-bench",
-    "branch": "main",
-    "language": "Go",
-    "description": "Checks whether Kubernetes is deployed according to security best practices as defined in the CIS Kubernetes Benchmark"
-  },
-  {
-    "repo": "obsproject/obs-studio",
+    "repo": "pi-hole/pi-hole",
     "branch": "master",
+    "language": "Shell",
+    "description": "A black hole for Internet advertisements"
+  },
+  {
+    "repo": "techwithtim/Flask-Web-App-Tutorial",
+    "branch": "main",
+    "language": "HTML",
+    "description": "Code for the note storing flask web app made during a YouTube video."
+  },
+  {
+    "repo": "slowmist/openclaw-security-practice-guide",
+    "branch": "main",
+    "language": "Shell",
+    "description": "This guide is designed for OpenClaw itself (Agent-facing), not as a traditional human-only hardening checklist."
+  },
+  {
+    "repo": "OpenCV/opencv_contrib",
+    "branch": "4.x",
+    "language": "C++",
+    "description": "Repository for OpenCV's extra modules"
+  },
+  {
+    "repo": "Uniswap/v3-core",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "🦄 🦄 🦄 Core smart contracts of Uniswap v3"
+  },
+  {
+    "repo": "imxv/Pretty-mermaid-skills",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "To provide AI with Mermaid chart rendering capability, supporting both SVG and ASCII output formats"
+  },
+  {
+    "repo": "Robbyant/lingbot-depth",
+    "branch": "main",
+    "language": "Python",
+    "description": ""
+  },
+  {
+    "repo": "tnm/zclaw",
+    "branch": "main",
     "language": "C",
-    "description": "OBS Studio - Free and open source software for live streaming and screen recording"
+    "description": "Your personal AI assistant in under 888 KB, running on an ESP32"
   },
   {
-    "repo": "SimplifyJobs/Summer2025-Internships",
-    "branch": "main",
-    "language": "Python",
-    "description": "Collection of Summer 2026 tech internships!"
-  },
-  {
-    "repo": "langchain-ai/langchainjs",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "🦜🔗 Build context-aware reasoning applications"
-  },
-  {
-    "repo": "google/googletest",
-    "branch": "main",
-    "language": "C++",
-    "description": "GoogleTest - Google Testing and Mocking Framework"
-  },
-  {
-    "repo": "saltstack/salt",
+    "repo": "FuelLabs/fuel-core",
     "branch": "master",
+    "language": "Rust",
+    "description": "Rust full node implementation of the Fuel v2 protocol."
+  },
+  {
+    "repo": "home-assistant/core",
+    "branch": "dev",
     "language": "Python",
-    "description": "Software to automate the management and configuration of infrastructure and applications at scale."
+    "description": ":house_with_garden: Open source home automation that puts local control and privacy first."
   },
   {
-    "repo": "openai/triton",
-    "branch": "main",
-    "language": "MLIR",
-    "description": "Development repository for the Triton language and compiler"
-  },
-  {
-    "repo": "pandas-dev/pandas",
-    "branch": "main",
-    "language": "Python",
-    "description": "Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures similar to R data.frame objects, statistical functions, and much more"
-  },
-  {
-    "repo": "actions/download-artifact",
-    "branch": "main",
+    "repo": "tailwindcss/tailwindcss",
+    "branch": "master",
     "language": "TypeScript",
-    "description": "Download artifacts from your build"
+    "description": "A utility-first CSS framework for rapid UI development."
   },
   {
-    "repo": "test-time-training/ttt-video-dit",
+    "repo": "react-native-maps/react-native-maps",
+    "branch": "master",
+    "language": "TypeScript",
+    "description": "React Native Mapview component for iOS + Android"
+  },
+  {
+    "repo": "aosabook/500lines",
+    "branch": "master",
+    "language": "JavaScript",
+    "description": "500 Lines or Less"
+  },
+  {
+    "repo": "mfornos/awesome-microservices",
+    "branch": "master",
+    "language": "Other",
+    "description": "A curated list of Microservice Architecture related principles and technologies."
+  },
+  {
+    "repo": "Zyora-Dev/zse",
     "branch": "main",
     "language": "Python",
-    "description": "Official PyTorch implementation of One-Minute Video Generation with Test-Time Training"
+    "description": "Zyora Server Inference Engine for LLM ."
   },
   {
-    "repo": "openai/shap-e",
+    "repo": "jasmine/jasmine",
     "branch": "main",
-    "language": "Python",
-    "description": "Generate 3D objects conditioned on text or images"
+    "language": "JavaScript",
+    "description": "Simple JavaScript testing framework for browsers and node.js"
   },
   {
-    "repo": "buildpacks/pack",
+    "repo": "ethereum/go-ethereum",
+    "branch": "master",
+    "language": "Go",
+    "description": "Go implementation of the Ethereum protocol"
+  },
+  {
+    "repo": "atomiks/tippyjs",
+    "branch": "v6",
+    "language": "JavaScript",
+    "description": "Tooltip, popover, dropdown, and menu library"
+  },
+  {
+    "repo": "cri-o/cri-o",
     "branch": "main",
     "language": "Go",
-    "description": "CLI for building apps using Cloud Native Buildpacks"
+    "description": "Open Container Initiative-based implementation of Kubernetes Container Runtime Interface"
   },
   {
-    "repo": "electron/electron",
+    "repo": "flamestro/deff",
     "branch": "main",
-    "language": "C++",
-    "description": ":electron: Build cross-platform desktop apps with JavaScript, HTML, and CSS"
-  },
-  {
-    "repo": "ant-design/ant-design",
-    "branch": "master",
-    "language": "TypeScript",
-    "description": "An enterprise-class UI design language and React UI library"
+    "language": "Rust",
+    "description": "interactive, side-by-side file review for git diffs with per-file navigation, vertical and horizontal scrolling, syntax highlighting, and added/deleted line tinting"
   }
 ]

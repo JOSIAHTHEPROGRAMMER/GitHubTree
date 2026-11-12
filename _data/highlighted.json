@@ -1,8 +1,8 @@
 {
-  "repo": "kolbicz/WQFiles",
+  "repo": "HybridRobotics/supermimic",
   "branch": "main",
-  "language": "Objective-C",
-  "description": "File browser, app data manager and cache cleaner for iOS 27 (worse_query, no jailbreak)",
-  "stars": 708,
-  "forks": 54
+  "language": "Python",
+  "description": "Humanoid whole-body motion tracking with one differentiable world model.",
+  "stars": 1302,
+  "forks": 85
 }
