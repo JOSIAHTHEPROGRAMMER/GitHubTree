@@ -1,146 +1,146 @@
 [
   {
-    "repo": "mode-io/vllm-jev",
-    "branch": "main",
-    "language": "Python",
-    "description": "Native vLLM serving for Jev decision models"
-  },
-  {
-    "repo": "google/dopamine",
-    "branch": "master",
-    "language": "Jupyter Notebook",
-    "description": "Dopamine is a research framework for fast prototyping of reinforcement learning algorithms."
-  },
-  {
-    "repo": "flutter/flutter",
-    "branch": "master",
-    "language": "Dart",
-    "description": "Flutter makes it easy and fast to build beautiful apps for mobile and beyond"
-  },
-  {
-    "repo": "bc-dunia/qwen3-TTS-studio",
-    "branch": "main",
-    "language": "Python",
-    "description": "A professional-grade interface for Qwen3-TTS, designed to unlock the model's full potential with fine-grained control and intuitive workflows."
-  },
-  {
-    "repo": "ciroxcode/Tomodachi-Life-Living-in-the-Dream-PC-Edition",
-    "branch": "main",
-    "language": "C++",
-    "description": "Tomodachi Life Living in the Dream PC Edition brings the popular life simulation game to Windows. Create Miis, build friendships and relationships, and enjoy funny everyday moments on your own island. Optimized for modern PCs with widescreen support, smooth performance and relaxing gameplay."
-  },
-  {
-    "repo": "guzzle/guzzle",
-    "branch": "master",
-    "language": "PHP",
-    "description": "Guzzle, an extensible PHP HTTP client"
-  },
-  {
-    "repo": "AERT-7Y/kiro-auto",
+    "repo": "Stormeye85/robinhood-token-sniper",
     "branch": "main",
     "language": "TypeScript",
-    "description": "kiro自动注册机"
+    "description": "Ultimate Robinhood token sniper bot"
   },
   {
-    "repo": "ALKAERR/Kali_Hack_Agent",
-    "branch": "master",
-    "language": "Python",
-    "description": "一个基于三层 Agent 架构的容器代码执行系统，专门用于在 Kali Linux Docker 容器中安全、自动地执行渗透测试工具。"
-  },
-  {
-    "repo": "samanalalokaya/polymarket-copy-trading-bot",
-    "branch": "master",
-    "language": "JavaScript",
-    "description": "Copies trades from a target Polymarket wallet to your own. Watches the target via REST or WebSocket, then places matching orders (scaled by a multiplier) using the Polymarket CLOB. CLUE: polymarket copy trading bot polymarket copy trading bot polymarket copy trading bot polymarket copy trading bot polymarket copy trading bot polymarket copy trading"
-  },
-  {
-    "repo": "deep-learning-indaba/GoodPracticesML",
+    "repo": "ByteDance-Seed/Seed-Thinking-v1.5",
     "branch": "main",
     "language": "Other",
-    "description": "A repository of good practices for developing usable ML products in Africa."
+    "description": "Seed-Thinking-v1.5 Model Release."
   },
   {
-    "repo": "HKUDS/ClawTeam",
+    "repo": "The-Vibe-Company/claude-code-controller",
     "branch": "main",
-    "language": "Python",
-    "description": "ClawTeam: Agent Swarm Intelligence (One Command → Full Automation)"
+    "language": "TypeScript",
+    "description": "Programmatic TypeScript API to pilot Claude Code agents via the internal teams/inbox/tasks filesystem protocol"
   },
   {
-    "repo": "WenyuChiou/awesome-agentic-ai-zh",
-    "branch": "main",
-    "language": "Python",
-    "description": "AI Agent 中文學習地圖 — 從零開始的結構化學習路徑，每階段有必做練習跟必修閱讀。三語對照（繁中／简中／English）。歡迎社群一起貢獻、優化內容。"
-  },
-  {
-    "repo": "thananon/9arm-skills",
-    "branch": "main",
-    "language": "Shell",
-    "description": ""
-  },
-  {
-    "repo": "libressl/portable",
+    "repo": "labstack/echo",
     "branch": "master",
-    "language": "C",
-    "description": "LibreSSL Portable itself. This includes the build scaffold and compatibility layer that builds portable LibreSSL from the OpenBSD source code. Pull requests or patches sent to tech@openbsd.org are welcome."
+    "language": "Go",
+    "description": "High performance, minimalist Go web framework"
   },
   {
-    "repo": "six2dez/burp-ai-agent",
+    "repo": "arrow-kt/arrow",
     "branch": "main",
     "language": "Kotlin",
-    "description": "Burp Suite extension that adds built-in MCP tooling, AI-assisted analysis, privacy controls, passive and active scanning and more"
+    "description": "The perfect companion for your Kotlin journey - Inspired by functional, data-oriented and concurrent programming"
   },
   {
-    "repo": "microsoft/ML-For-Beginners",
+    "repo": "junit-team/junit5",
     "branch": "main",
-    "language": "Jupyter Notebook",
-    "description": "12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all"
+    "language": "Java",
+    "description": "✅ The programmer-friendly testing framework for Java and the JVM"
   },
   {
-    "repo": "serde-rs/serde",
-    "branch": "master",
-    "language": "Rust",
-    "description": "Serialization framework for Rust"
-  },
-  {
-    "repo": "shuyicc/MathLens",
+    "repo": "EbookFoundation/free-programming-books",
     "branch": "main",
     "language": "Python",
-    "description": "MathLens 是一个专注于数学题目视频讲解的 Agent Skill。你只需粘贴一道数学题（图片或文字），它就能自动完成从题目分析、可视化讲解、配音脚本到 Manim 动画视频的全流程制作。单条视频1-10 分钟，成本 0.2-1 元以内。"
+    "description": ":books: Freely available programming books"
   },
   {
-    "repo": "elder-plinius/GLOSSOPETRAE",
+    "repo": "mockk/mockk",
+    "branch": "master",
+    "language": "Kotlin",
+    "description": "mocking library for Kotlin"
+  },
+  {
+    "repo": "TanStack/router",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "🤖 A client-first, server-capable, fully type-safe router and full-stack framework for the web (React and more)."
+  },
+  {
+    "repo": "redux-saga/redux-saga",
+    "branch": "master",
+    "language": "JavaScript",
+    "description": "An alternative side effect model for Redux apps"
+  },
+  {
+    "repo": "storybookjs/testing-react",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Testing utilities that allow you to reuse your Storybook stories in your React unit tests!"
+  },
+  {
+    "repo": "cncf/toc",
+    "branch": "main",
+    "language": "Go",
+    "description": "⚖️ The CNCF Technical Oversight Committee (TOC) is the technical governing body of the CNCF Foundation."
+  },
+  {
+    "repo": "mermaid-js/mermaid",
+    "branch": "develop",
+    "language": "TypeScript",
+    "description": "Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdown"
+  },
+  {
+    "repo": "emotion-js/emotion",
     "branch": "main",
     "language": "JavaScript",
-    "description": "LINGUISTIC ENGINE FOR AI"
+    "description": "👩‍🎤 CSS-in-JS library designed for high performance style composition"
   },
   {
-    "repo": "jnv/lists",
-    "branch": "master",
-    "language": "Other",
-    "description": "The definitive list of lists (of lists) curated on GitHub and elsewhere"
-  },
-  {
-    "repo": "Callous-0923/agent-study",
-    "branch": "main",
-    "language": "HTML",
-    "description": "28章AI Agent全栈课程：从ReAct循环到Claude Code逆向、MCP/A2A协议、RAG、DSPy、生产可观测性——全部为可运行Python文件，面试导向。"
-  },
-  {
-    "repo": "numpy/numpy",
+    "repo": "PyCQA/isort",
     "branch": "main",
     "language": "Python",
-    "description": "The fundamental package for scientific computing with Python."
+    "description": "A Python utility / library to sort imports."
   },
   {
-    "repo": "ryfineZ/codex-session-patcher",
+    "repo": "scikit-learn/scikit-learn",
     "branch": "main",
     "language": "Python",
-    "description": "A lightweight Python tool to clean AI refusal responses from Codex CLI session files"
+    "description": "scikit-learn: machine learning in Python"
   },
   {
-    "repo": "asonglin/crypto-liquidity-ai-trading-bot",
+    "repo": "newrelic/newrelic-java-agent",
+    "branch": "main",
+    "language": "Java",
+    "description": "The New Relic Java agent"
+  },
+  {
+    "repo": "nodejs/node",
     "branch": "main",
     "language": "JavaScript",
-    "description": "Crypto liquidity detection & algorithmic trading bot. Order book analysis, stop-loss clusters, liquidity sweeps. Multi-exchange (Binance, Bybit, Kraken, OKX). Trading signals, quant research, market microstructure."
+    "description": "Node.js JavaScript runtime ✨🐢🚀✨"
+  },
+  {
+    "repo": "playframework/playframework",
+    "branch": "main",
+    "language": "Scala",
+    "description": "The Community Maintained High Velocity Web Framework For Java and Scala."
+  },
+  {
+    "repo": "remotion-dev/remotion",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "🎥      Make videos programmatically with React"
+  },
+  {
+    "repo": "espressif/arduino-esp32",
+    "branch": "master",
+    "language": "C++",
+    "description": "Arduino core for the ESP32"
+  },
+  {
+    "repo": "lerna/lerna",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Lerna is a fast, modern build system for managing and publishing multiple JavaScript/TypeScript packages from the same repository."
+  },
+  {
+    "repo": "solidjs/solid",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "A declarative, efficient, and flexible JavaScript library for building user interfaces."
+  },
+  {
+    "repo": "deepchem/deepchem",
+    "branch": "master",
+    "language": "Python",
+    "description": "Democratizing Deep-Learning for Drug Discovery, Quantum Chemistry, Materials Science and Biology"
   }
 ]
