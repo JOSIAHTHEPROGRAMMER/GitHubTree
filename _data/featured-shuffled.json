@@ -1,146 +1,146 @@
 [
   {
-    "repo": "david-silvalab1993i0/Roblox-Aimbot-Smooth-Tracking-Auto-Aim-Script-2026",
-    "branch": "main",
-    "language": "Python",
-    "description": "High-performance Roblox aimbot with adaptive smooth tracking and precise auto aim. Fully configurable, works with most executors, clean modular structure. Easy setup for current Roblox version."
+    "repo": "element-hq/element-web",
+    "branch": "develop",
+    "language": "TypeScript",
+    "description": "A glossy Matrix collaboration client for the web."
   },
   {
-    "repo": "backnotprop/rig",
+    "repo": "hembramneeraj3-create/aida-64-extreme",
     "branch": "main",
+    "language": "HTML",
+    "description": "Aida 64 Extreme 2026: Complete Standalone Desktop Setup with Full Feature Configuration"
+  },
+  {
+    "repo": "Trooped/QuickBars",
+    "branch": "main",
+    "language": "Kotlin",
+    "description": "The Official QuickBars for Home Assistant Repository"
+  },
+  {
+    "repo": "sqlalchemy/alembic",
+    "branch": "main",
+    "language": "Python",
+    "description": "A database migrations tool for SQLAlchemy."
+  },
+  {
+    "repo": "devicekit/DeviceKit",
+    "branch": "master",
     "language": "Swift",
-    "description": ""
+    "description": "DeviceKit is a value-type replacement of UIDevice."
   },
   {
-    "repo": "adithya-s-k/manim_skill",
+    "repo": "MistKailorg/polymarket-copytrading-bot-newlogic",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "polymarket trading bot | polymarket trading bot | polymarket trading bot | polymarket trading bot | polymarket trading bot | polymarket trading bot | polymarket trading bot | polymarket trading bot | polymarket copy trading bot | polymarket copy trading bot | polymarket copy trading bot | polymarket copy trading bot | polymarket copy trading bot |"
+  },
+  {
+    "repo": "airbnb/javascript",
+    "branch": "master",
+    "language": "JavaScript",
+    "description": "JavaScript Style Guide"
+  },
+  {
+    "repo": "op7418/Video-Wrapper-Skills",
     "branch": "main",
     "language": "Python",
-    "description": "Agent skills for Manim to create 3Blue1Brown style animations."
+    "description": "为访谈视频添加综艺风格视觉特效的 Claude Skill。AI 分析字幕内容生成建议，用户审批后自动渲染，支持 4 种视觉主题。"
   },
   {
-    "repo": "victorsosaMx/vsWaybar-Studio",
+    "repo": "prisma/graphql-yoga",
     "branch": "main",
+    "language": "TypeScript",
+    "description": "🧘 Rewrite of a fully-featured GraphQL Server with focus on easy setup, performance & great developer experience.  The core of Yoga implements WHATWG Fetch API and can run/deploy on any JS environment."
+  },
+  {
+    "repo": "rbenv/rbenv",
+    "branch": "master",
+    "language": "Shell",
+    "description": "Manage your app's Ruby environment"
+  },
+  {
+    "repo": "ToolSeRF/Sepehr-GRE-FORWARDER",
+    "branch": "main",
+    "language": "Shell",
+    "description": "اسکریپت سپهر برای راه‌اندازی و مدیریت سریع  و آسان تونل GRE و پورت فورارد که میتوان بین یک یا چند سرور از آن استفاده کرد، یا جان فدای میهن، سپهر عزیز (سپهر کجایی بابا؟)"
+  },
+  {
+    "repo": "buckle42/claude-code-remote",
+    "branch": "master",
     "language": "Python",
-    "description": "Visual editor for Waybar — build, style and preview your bar in real time (GTK + Python)"
+    "description": "Use Claude Code from your phone — or anywhere — over a secure VPN connection."
   },
   {
-    "repo": "operator-framework/operator-lifecycle-manager",
-    "branch": "master",
-    "language": "Go",
-    "description": "A management framework for extending Kubernetes with Operators"
-  },
-  {
-    "repo": "edinetdb/dexter-jp",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "日本株の自律型リサーチAIエージェント｜AI agent for deep financial research on Japanese listed companies. Powered by EDINET DB + J-Quants."
-  },
-  {
-    "repo": "reduxjs/redux-toolkit",
-    "branch": "master",
-    "language": "TypeScript",
-    "description": "The official, opinionated, batteries-included toolset for efficient Redux development"
-  },
-  {
-    "repo": "gokulgml/polymarket-copy-trading-bot",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "polymarket trading bot,polymarket copy trading bot,polymarket trading bot,polymarket copy trading bot,polymarket trading bot,polymarket copy trading bot,polymarket trading bot,polymarket copy trading bot,polymarket trading bot,polymarket copy trading bot,polymarket trading bot,polymarket copy trading bot,"
-  },
-  {
-    "repo": "kubernetes/kompose",
-    "branch": "master",
-    "language": "Go",
-    "description": "Convert Compose to Kubernetes"
-  },
-  {
-    "repo": "kubevirt/kubevirt",
-    "branch": "main",
-    "language": "Go",
-    "description": "Kubernetes Virtualization API and runtime in order to define and manage virtual machines."
-  },
-  {
-    "repo": "haidang1810/md2html",
+    "repo": "teorth/optimizationproblems",
     "branch": "main",
     "language": "HTML",
-    "description": "Your AI writes docs — md2html turns them into pages people actually read. A portable skill for Claude Code / Codex / Antigravity that converts long-form Markdown (plans, specs, system designs, RFCs, runbooks, postmortems, brainstorms) into self-contained HTML with Mermaid, timelines, callouts, TOC. Multi-language."
+    "description": "A collection of optimization problems in mathematics"
   },
   {
-    "repo": "heygen-com/hyperframes-launch-video",
-    "branch": "main",
-    "language": "HTML",
-    "description": ""
-  },
-  {
-    "repo": "Y-Peng-Dev/Watchdog",
-    "branch": "master",
-    "language": "C#",
-    "description": "Watchdog for Grasshopper Prevent Rhino & Grasshopper from freezing due to accidental massive computations or cascading calculation chains."
-  },
-  {
-    "repo": "operator-framework/operator-sdk",
-    "branch": "master",
-    "language": "Go",
-    "description": "SDK for building Kubernetes applications. Provides high level APIs, useful abstractions, and project scaffolding."
-  },
-  {
-    "repo": "chauncygu/collection-claude-code-source-code",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "🔥 A collection of the newest Claude Code open source"
-  },
-  {
-    "repo": "nizarlbogos/Windrose-Game-Server-Docker",
-    "branch": "main",
-    "language": "C++",
-    "description": "Docker container for running a Windrose dedicated server. Easy self-hosting solution with Wine and SteamCMD for the pirate survival game Windrose."
-  },
-  {
-    "repo": "TACOWASA059/katamariio",
-    "branch": "main",
-    "language": "Java",
-    "description": "[Forge1.20.1] 球体を操作して周囲のブロックを巻き込み大きくなれるMOD"
-  },
-  {
-    "repo": "klsf/codex-register",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "用于批量注册 OpenAI 账号、登录生成 `auth` 授权文件，以及批量检查凭证剩余可用额度。"
-  },
-  {
-    "repo": "jmuncor/tokentap",
-    "branch": "main",
-    "language": "Python",
-    "description": "Intercept LLM API traffic and visualize token usage in a real-time terminal dashboard. Track costs,       debug prompts, and monitor context window usage across your AI development sessions."
-  },
-  {
-    "repo": "selfishblackberry177/sni-spoof",
+    "repo": "goharbor/harbor",
     "branch": "main",
     "language": "Go",
-    "description": "Go port of @patterniha's SNI spoofing / DPI bypass TCP forwarder (Linux)"
+    "description": "An open source trusted cloud native registry project that stores, signs, and scans content."
   },
   {
-    "repo": "Atrix256/Thirteen",
+    "repo": "pi-hole/pi-hole",
+    "branch": "master",
+    "language": "Shell",
+    "description": "A black hole for Internet advertisements"
+  },
+  {
+    "repo": "win4r/memory-lancedb-pro",
     "branch": "main",
-    "language": "C++",
-    "description": "Header only minimalist interface to graphics, inspired by the olden days of mode 13h"
-  },
-  {
-    "repo": "cockroachdb/cockroach",
-    "branch": "master",
-    "language": "Go",
-    "description": "CockroachDB — the cloud native, distributed SQL database designed for high availability, effortless scale, and control over data placement."
-  },
-  {
-    "repo": "yarnpkg/berry",
-    "branch": "master",
     "language": "TypeScript",
-    "description": "📦🐈 Active development trunk for Yarn ⚒"
+    "description": "Enhanced LanceDB memory plugin for OpenClaw — Hybrid Retrieval (Vector + BM25), Cross-Encoder Rerank, Multi-Scope Isolation, Management CLI"
   },
   {
-    "repo": "anthropics/claudes-c-compiler",
-    "branch": "main",
+    "repo": "ruffle-rs/ruffle",
+    "branch": "master",
     "language": "Rust",
-    "description": "Claude Opus 4.6 wrote a dependency-free C compiler in Rust, with backends targeting x86 (64- and 32-bit), ARM, and RISC-V, capable of compiling a booting Linux kernel."
+    "description": "A Flash Player emulator written in Rust"
+  },
+  {
+    "repo": "tj/commander.js",
+    "branch": "master",
+    "language": "JavaScript",
+    "description": "node.js command-line interfaces made easy"
+  },
+  {
+    "repo": "tendermint/tendermint",
+    "branch": "main",
+    "language": "Go",
+    "description": "⟁ Tendermint Core (BFT Consensus) in Go"
+  },
+  {
+    "repo": "fspecii/HeartMuLa-Studio",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Suno-like music generation studio for HeartMuLa/heartlib - AI-powered music creation with reference audio style transfer"
+  },
+  {
+    "repo": "dgreenheck/webgpu-claude-skill",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "A Claude skill for developing WebGPU applications with Three.js"
+  },
+  {
+    "repo": "firebase/firebase-android-sdk",
+    "branch": "master",
+    "language": "Java",
+    "description": "Firebase Android SDK"
+  },
+  {
+    "repo": "Aircoookie/WLED",
+    "branch": "main",
+    "language": "C++",
+    "description": "Control WS2812B and many more types of digital RGB LEDs with an ESP32 over WiFi!"
+  },
+  {
+    "repo": "PyCQA/flake8",
+    "branch": "main",
+    "language": "Python",
+    "description": "flake8 is a python tool that glues together pycodestyle, pyflakes, mccabe, and third-party plugins to check the style and quality of some python code."
   }
 ]
