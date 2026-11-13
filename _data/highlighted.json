@@ -1,8 +1,8 @@
 {
-  "repo": "HybridRobotics/supermimic",
+  "repo": "floatdotxyz/float",
   "branch": "main",
-  "language": "Python",
-  "description": "Humanoid whole-body motion tracking with one differentiable world model.",
-  "stars": 1302,
-  "forks": 85
+  "language": "TypeScript",
+  "description": "Official docs, SDK, CLI and Anchor reference program for Float on Solana (Raydium LaunchLab/CPMM). ",
+  "stars": 162,
+  "forks": 12
 }

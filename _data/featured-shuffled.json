@@ -1,146 +1,146 @@
 [
   {
-    "repo": "ZhangHanDong/harness-engineering-from-cc-to-ai-coding",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "Harness Engineering From Claude Code source code to AI Coding"
-  },
-  {
-    "repo": "elstongun/leviathan",
-    "branch": "main",
-    "language": "Rust",
-    "description": "**Deep memory for agents over large datasets.**   Leviathan is a single static binary that turns your records (JSONL, JSON, CSV/TSV, SQLite, or anything a database CLI can export) into a ranked full-text index."
-  },
-  {
-    "repo": "apple/swift-argument-parser",
-    "branch": "main",
-    "language": "Swift",
-    "description": "Straightforward, type-safe argument parsing for Swift"
-  },
-  {
-    "repo": "duckdb/duckdb",
-    "branch": "main",
-    "language": "C++",
-    "description": "DuckDB is an analytical in-process SQL database management system"
-  },
-  {
-    "repo": "pi-hole/pi-hole",
-    "branch": "master",
-    "language": "Shell",
-    "description": "A black hole for Internet advertisements"
-  },
-  {
-    "repo": "techwithtim/Flask-Web-App-Tutorial",
-    "branch": "main",
-    "language": "HTML",
-    "description": "Code for the note storing flask web app made during a YouTube video."
-  },
-  {
-    "repo": "slowmist/openclaw-security-practice-guide",
-    "branch": "main",
-    "language": "Shell",
-    "description": "This guide is designed for OpenClaw itself (Agent-facing), not as a traditional human-only hardening checklist."
-  },
-  {
-    "repo": "OpenCV/opencv_contrib",
-    "branch": "4.x",
-    "language": "C++",
-    "description": "Repository for OpenCV's extra modules"
-  },
-  {
-    "repo": "Uniswap/v3-core",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "🦄 🦄 🦄 Core smart contracts of Uniswap v3"
-  },
-  {
-    "repo": "imxv/Pretty-mermaid-skills",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "To provide AI with Mermaid chart rendering capability, supporting both SVG and ASCII output formats"
-  },
-  {
-    "repo": "Robbyant/lingbot-depth",
+    "repo": "david-silvalab1993i0/Roblox-Aimbot-Smooth-Tracking-Auto-Aim-Script-2026",
     "branch": "main",
     "language": "Python",
+    "description": "High-performance Roblox aimbot with adaptive smooth tracking and precise auto aim. Fully configurable, works with most executors, clean modular structure. Easy setup for current Roblox version."
+  },
+  {
+    "repo": "backnotprop/rig",
+    "branch": "main",
+    "language": "Swift",
     "description": ""
   },
   {
-    "repo": "tnm/zclaw",
-    "branch": "main",
-    "language": "C",
-    "description": "Your personal AI assistant in under 888 KB, running on an ESP32"
-  },
-  {
-    "repo": "FuelLabs/fuel-core",
-    "branch": "master",
-    "language": "Rust",
-    "description": "Rust full node implementation of the Fuel v2 protocol."
-  },
-  {
-    "repo": "home-assistant/core",
-    "branch": "dev",
-    "language": "Python",
-    "description": ":house_with_garden: Open source home automation that puts local control and privacy first."
-  },
-  {
-    "repo": "tailwindcss/tailwindcss",
-    "branch": "master",
-    "language": "TypeScript",
-    "description": "A utility-first CSS framework for rapid UI development."
-  },
-  {
-    "repo": "react-native-maps/react-native-maps",
-    "branch": "master",
-    "language": "TypeScript",
-    "description": "React Native Mapview component for iOS + Android"
-  },
-  {
-    "repo": "aosabook/500lines",
-    "branch": "master",
-    "language": "JavaScript",
-    "description": "500 Lines or Less"
-  },
-  {
-    "repo": "mfornos/awesome-microservices",
-    "branch": "master",
-    "language": "Other",
-    "description": "A curated list of Microservice Architecture related principles and technologies."
-  },
-  {
-    "repo": "Zyora-Dev/zse",
+    "repo": "adithya-s-k/manim_skill",
     "branch": "main",
     "language": "Python",
-    "description": "Zyora Server Inference Engine for LLM ."
+    "description": "Agent skills for Manim to create 3Blue1Brown style animations."
   },
   {
-    "repo": "jasmine/jasmine",
+    "repo": "victorsosaMx/vsWaybar-Studio",
     "branch": "main",
-    "language": "JavaScript",
-    "description": "Simple JavaScript testing framework for browsers and node.js"
+    "language": "Python",
+    "description": "Visual editor for Waybar — build, style and preview your bar in real time (GTK + Python)"
   },
   {
-    "repo": "ethereum/go-ethereum",
+    "repo": "operator-framework/operator-lifecycle-manager",
     "branch": "master",
     "language": "Go",
-    "description": "Go implementation of the Ethereum protocol"
+    "description": "A management framework for extending Kubernetes with Operators"
   },
   {
-    "repo": "atomiks/tippyjs",
-    "branch": "v6",
-    "language": "JavaScript",
-    "description": "Tooltip, popover, dropdown, and menu library"
+    "repo": "edinetdb/dexter-jp",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "日本株の自律型リサーチAIエージェント｜AI agent for deep financial research on Japanese listed companies. Powered by EDINET DB + J-Quants."
   },
   {
-    "repo": "cri-o/cri-o",
+    "repo": "reduxjs/redux-toolkit",
+    "branch": "master",
+    "language": "TypeScript",
+    "description": "The official, opinionated, batteries-included toolset for efficient Redux development"
+  },
+  {
+    "repo": "gokulgml/polymarket-copy-trading-bot",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "polymarket trading bot,polymarket copy trading bot,polymarket trading bot,polymarket copy trading bot,polymarket trading bot,polymarket copy trading bot,polymarket trading bot,polymarket copy trading bot,polymarket trading bot,polymarket copy trading bot,polymarket trading bot,polymarket copy trading bot,"
+  },
+  {
+    "repo": "kubernetes/kompose",
+    "branch": "master",
+    "language": "Go",
+    "description": "Convert Compose to Kubernetes"
+  },
+  {
+    "repo": "kubevirt/kubevirt",
     "branch": "main",
     "language": "Go",
-    "description": "Open Container Initiative-based implementation of Kubernetes Container Runtime Interface"
+    "description": "Kubernetes Virtualization API and runtime in order to define and manage virtual machines."
   },
   {
-    "repo": "flamestro/deff",
+    "repo": "haidang1810/md2html",
+    "branch": "main",
+    "language": "HTML",
+    "description": "Your AI writes docs — md2html turns them into pages people actually read. A portable skill for Claude Code / Codex / Antigravity that converts long-form Markdown (plans, specs, system designs, RFCs, runbooks, postmortems, brainstorms) into self-contained HTML with Mermaid, timelines, callouts, TOC. Multi-language."
+  },
+  {
+    "repo": "heygen-com/hyperframes-launch-video",
+    "branch": "main",
+    "language": "HTML",
+    "description": ""
+  },
+  {
+    "repo": "Y-Peng-Dev/Watchdog",
+    "branch": "master",
+    "language": "C#",
+    "description": "Watchdog for Grasshopper Prevent Rhino & Grasshopper from freezing due to accidental massive computations or cascading calculation chains."
+  },
+  {
+    "repo": "operator-framework/operator-sdk",
+    "branch": "master",
+    "language": "Go",
+    "description": "SDK for building Kubernetes applications. Provides high level APIs, useful abstractions, and project scaffolding."
+  },
+  {
+    "repo": "chauncygu/collection-claude-code-source-code",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "🔥 A collection of the newest Claude Code open source"
+  },
+  {
+    "repo": "nizarlbogos/Windrose-Game-Server-Docker",
+    "branch": "main",
+    "language": "C++",
+    "description": "Docker container for running a Windrose dedicated server. Easy self-hosting solution with Wine and SteamCMD for the pirate survival game Windrose."
+  },
+  {
+    "repo": "TACOWASA059/katamariio",
+    "branch": "main",
+    "language": "Java",
+    "description": "[Forge1.20.1] 球体を操作して周囲のブロックを巻き込み大きくなれるMOD"
+  },
+  {
+    "repo": "klsf/codex-register",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "用于批量注册 OpenAI 账号、登录生成 `auth` 授权文件，以及批量检查凭证剩余可用额度。"
+  },
+  {
+    "repo": "jmuncor/tokentap",
+    "branch": "main",
+    "language": "Python",
+    "description": "Intercept LLM API traffic and visualize token usage in a real-time terminal dashboard. Track costs,       debug prompts, and monitor context window usage across your AI development sessions."
+  },
+  {
+    "repo": "selfishblackberry177/sni-spoof",
+    "branch": "main",
+    "language": "Go",
+    "description": "Go port of @patterniha's SNI spoofing / DPI bypass TCP forwarder (Linux)"
+  },
+  {
+    "repo": "Atrix256/Thirteen",
+    "branch": "main",
+    "language": "C++",
+    "description": "Header only minimalist interface to graphics, inspired by the olden days of mode 13h"
+  },
+  {
+    "repo": "cockroachdb/cockroach",
+    "branch": "master",
+    "language": "Go",
+    "description": "CockroachDB — the cloud native, distributed SQL database designed for high availability, effortless scale, and control over data placement."
+  },
+  {
+    "repo": "yarnpkg/berry",
+    "branch": "master",
+    "language": "TypeScript",
+    "description": "📦🐈 Active development trunk for Yarn ⚒"
+  },
+  {
+    "repo": "anthropics/claudes-c-compiler",
     "branch": "main",
     "language": "Rust",
-    "description": "interactive, side-by-side file review for git diffs with per-file navigation, vertical and horizontal scrolling, syntax highlighting, and added/deleted line tinting"
+    "description": "Claude Opus 4.6 wrote a dependency-free C compiler in Rust, with backends targeting x86 (64- and 32-bit), ARM, and RISC-V, capable of compiling a booting Linux kernel."
   }
 ]
