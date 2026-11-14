@@ -1,8 +1,8 @@
 {
-  "repo": "liuxiaogang-com/desktop-icon-billiards",
+  "repo": "nickvasilescu/bot-hq",
   "branch": "main",
-  "language": "Python",
-  "description": "桌面图标台球windows",
-  "stars": 206,
-  "forks": 21
+  "language": "TypeScript",
+  "description": "A team of Hermes agents you chat with, each with its own screen on one Orgo computer. Composio apps, xAI voice and X research.",
+  "stars": 197,
+  "forks": 71
 }

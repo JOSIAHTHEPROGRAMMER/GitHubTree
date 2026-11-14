@@ -1,146 +1,146 @@
 [
   {
-    "repo": "element-hq/element-web",
-    "branch": "develop",
-    "language": "TypeScript",
-    "description": "A glossy Matrix collaboration client for the web."
-  },
-  {
-    "repo": "hembramneeraj3-create/aida-64-extreme",
+    "repo": "lzhgus/Capso",
     "branch": "main",
-    "language": "HTML",
-    "description": "Aida 64 Extreme 2026: Complete Standalone Desktop Setup with Full Feature Configuration"
-  },
-  {
-    "repo": "Trooped/QuickBars",
-    "branch": "main",
-    "language": "Kotlin",
-    "description": "The Official QuickBars for Home Assistant Repository"
-  },
-  {
-    "repo": "sqlalchemy/alembic",
-    "branch": "main",
-    "language": "Python",
-    "description": "A database migrations tool for SQLAlchemy."
-  },
-  {
-    "repo": "devicekit/DeviceKit",
-    "branch": "master",
     "language": "Swift",
-    "description": "DeviceKit is a value-type replacement of UIDevice."
+    "description": "Open-source screenshot and screen recording for macOS. The free, native alternative to CleanShot X. Built with Swift 6.0 and SwiftUI."
   },
   {
-    "repo": "MistKailorg/polymarket-copytrading-bot-newlogic",
+    "repo": "boto/boto3",
+    "branch": "develop",
+    "language": "Python",
+    "description": "Boto3, an AWS SDK for Python"
+  },
+  {
+    "repo": "Moore-developers/moore-wechat-article-downloader",
+    "branch": "main",
+    "language": "Python",
+    "description": ""
+  },
+  {
+    "repo": "ultralytics/yolov5",
+    "branch": "master",
+    "language": "Python",
+    "description": "YOLOv5 🚀 in PyTorch > ONNX > CoreML > TFLite"
+  },
+  {
+    "repo": "grp06/openclaw-studio",
     "branch": "main",
     "language": "TypeScript",
-    "description": "polymarket trading bot | polymarket trading bot | polymarket trading bot | polymarket trading bot | polymarket trading bot | polymarket trading bot | polymarket trading bot | polymarket trading bot | polymarket copy trading bot | polymarket copy trading bot | polymarket copy trading bot | polymarket copy trading bot | polymarket copy trading bot |"
+    "description": ""
   },
   {
-    "repo": "airbnb/javascript",
-    "branch": "master",
+    "repo": "KeyID-AI/agent-kit",
+    "branch": "main",
     "language": "JavaScript",
-    "description": "JavaScript Style Guide"
+    "description": "Give Claude/Cursor email powers. 27 MCP tools — inbox, send, reply, contacts, search. Free, no signup."
   },
   {
-    "repo": "op7418/Video-Wrapper-Skills",
-    "branch": "main",
-    "language": "Python",
-    "description": "为访谈视频添加综艺风格视觉特效的 Claude Skill。AI 分析字幕内容生成建议，用户审批后自动渲染，支持 4 种视觉主题。"
-  },
-  {
-    "repo": "prisma/graphql-yoga",
+    "repo": "nhost/nhost",
     "branch": "main",
     "language": "TypeScript",
-    "description": "🧘 Rewrite of a fully-featured GraphQL Server with focus on easy setup, performance & great developer experience.  The core of Yoga implements WHATWG Fetch API and can run/deploy on any JS environment."
+    "description": "The Open Source Firebase Alternative with GraphQL."
   },
   {
-    "repo": "rbenv/rbenv",
-    "branch": "master",
-    "language": "Shell",
-    "description": "Manage your app's Ruby environment"
-  },
-  {
-    "repo": "ToolSeRF/Sepehr-GRE-FORWARDER",
+    "repo": "meltano/meltano",
     "branch": "main",
-    "language": "Shell",
-    "description": "اسکریپت سپهر برای راه‌اندازی و مدیریت سریع  و آسان تونل GRE و پورت فورارد که میتوان بین یک یا چند سرور از آن استفاده کرد، یا جان فدای میهن، سپهر عزیز (سپهر کجایی بابا؟)"
-  },
-  {
-    "repo": "buckle42/claude-code-remote",
-    "branch": "master",
     "language": "Python",
-    "description": "Use Claude Code from your phone — or anywhere — over a secure VPN connection."
+    "description": "Meltano: the declarative code-first data integration engine that powers your wildest data and ML-powered product ideas. Say goodbye to writing, maintaining, and scaling your own API integrations."
   },
   {
-    "repo": "teorth/optimizationproblems",
+    "repo": "dotnet/roslyn",
     "branch": "main",
-    "language": "HTML",
-    "description": "A collection of optimization problems in mathematics"
+    "language": "C#",
+    "description": "The Roslyn .NET compiler provides C# and Visual Basic languages with rich code analysis APIs."
   },
   {
-    "repo": "goharbor/harbor",
+    "repo": "m1heng/clawdbot-feishu",
     "branch": "main",
+    "language": "TypeScript",
+    "description": ""
+  },
+  {
+    "repo": "Mondo-Robotics/DiT4DiT",
+    "branch": "main",
+    "language": "Python",
+    "description": "This is the official code repo for DiT4DiT, a Vision-Action-Model (VAM) framework that combines video generation model with flow-matching-based action prediction for generalizable robotic manipulation."
+  },
+  {
+    "repo": "zggf-zggf/openviktor",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Your AI employee for Slack — open source, self-hosted, MIT licensed"
+  },
+  {
+    "repo": "lich0821/wcfLink",
+    "branch": "master",
     "language": "Go",
-    "description": "An open source trusted cloud native registry project that stores, signs, and scans content."
+    "description": ""
   },
   {
-    "repo": "pi-hole/pi-hole",
-    "branch": "master",
-    "language": "Shell",
-    "description": "A black hole for Internet advertisements"
-  },
-  {
-    "repo": "win4r/memory-lancedb-pro",
+    "repo": "SXai-lab/prediction-market-arbitrage",
     "branch": "main",
     "language": "TypeScript",
-    "description": "Enhanced LanceDB memory plugin for OpenClaw — Hybrid Retrieval (Vector + BM25), Cross-Encoder Rerank, Multi-Scope Isolation, Management CLI"
+    "description": "Polymarket套利交易机器人 Polymarket套利机器人 机器人 arbitrage trading bot polymarket arbitrage bot Polymarket套利交易机器人 Polymarket套利机器人 机器人 arbitrage trading bot polymarket arbitrage bot Polymarket套利交易机器人 Polymarket套利机器人 机器人 arbitrage trading bot polymarket arbitrage bot Polymarket套利交易机器人 Polymarket套利机器人 机器人 arbitrage trading bot polymarket arbitrage bot Polymarket"
   },
   {
-    "repo": "ruffle-rs/ruffle",
-    "branch": "master",
+    "repo": "github/docs",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "The open-source repo for docs.github.com"
+  },
+  {
+    "repo": "denoland/deno",
+    "branch": "main",
     "language": "Rust",
-    "description": "A Flash Player emulator written in Rust"
+    "description": "A modern runtime for JavaScript and TypeScript."
   },
   {
-    "repo": "tj/commander.js",
-    "branch": "master",
-    "language": "JavaScript",
-    "description": "node.js command-line interfaces made easy"
+    "repo": "tnm/zclaw",
+    "branch": "main",
+    "language": "C",
+    "description": "Your personal AI assistant in under 888 KB, running on an ESP32"
   },
   {
-    "repo": "tendermint/tendermint",
+    "repo": "mickamy/sql-tap",
     "branch": "main",
     "language": "Go",
-    "description": "⟁ Tendermint Core (BFT Consensus) in Go"
+    "description": "Watch SQL traffic in real-time with a TUI"
   },
   {
-    "repo": "fspecii/HeartMuLa-Studio",
+    "repo": "Neighbor-Z/SwiftMTP",
+    "branch": "main",
+    "language": "Swift",
+    "description": "A modern MTP device management tool for macOS."
+  },
+  {
+    "repo": "kamranahmedse/claude-statusline",
+    "branch": "main",
+    "language": "Shell",
+    "description": "Minimal Claude Code statusline setup I personally use"
+  },
+  {
+    "repo": "chauncygu/collection-claude-code-source-code",
     "branch": "main",
     "language": "TypeScript",
-    "description": "Suno-like music generation studio for HeartMuLa/heartlib - AI-powered music creation with reference audio style transfer"
+    "description": "🔥 A collection of the newest Claude Code open source"
   },
   {
-    "repo": "dgreenheck/webgpu-claude-skill",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "A Claude skill for developing WebGPU applications with Three.js"
-  },
-  {
-    "repo": "firebase/firebase-android-sdk",
-    "branch": "master",
-    "language": "Java",
-    "description": "Firebase Android SDK"
-  },
-  {
-    "repo": "Aircoookie/WLED",
-    "branch": "main",
-    "language": "C++",
-    "description": "Control WS2812B and many more types of digital RGB LEDs with an ESP32 over WiFi!"
-  },
-  {
-    "repo": "PyCQA/flake8",
+    "repo": "lukiIabs/trading-agents",
     "branch": "main",
     "language": "Python",
-    "description": "flake8 is a python tool that glues together pycodestyle, pyflakes, mccabe, and third-party plugins to check the style and quality of some python code."
+    "description": "TradingAgents LLM multi-agent finance trading stocks crypto fintech quantitative algo trading sentiment analysis OpenAI JavaScript Node.js research OSS"
+  },
+  {
+    "repo": "awesome-selfhosted/awesome-selfhosted",
+    "branch": "master",
+    "language": "Other",
+    "description": "A list of Free Software network services and web applications which can be hosted on your own servers"
+  },
+  {
+    "repo": "DuskMosquito/Lossless-Scaling-Desktop-2026",
+    "branch": "main",
+    "language": "C",
+    "description": "⭐️ Lossless Scaling Desktop 2026 | Setup Installer v1.0 | Patch Activator Keygen | License Key Pre-Activated | Full Version Latest Build Pro | Optimize Resolution Scaling | Enhance Performance Graphics | Get Desktop App Windows 10/11 PC | Direct Genuine Original x64 | Download Install Loader Mod ⭐️"
   }
 ]
