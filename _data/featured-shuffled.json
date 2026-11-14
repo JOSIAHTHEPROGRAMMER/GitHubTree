@@ -1,146 +1,146 @@
 [
   {
-    "repo": "lzhgus/Capso",
+    "repo": "YXBwbWFya2V0/AppMarket",
     "branch": "main",
-    "language": "Swift",
-    "description": "Open-source screenshot and screen recording for macOS. The free, native alternative to CleanShot X. Built with Swift 6.0 and SwiftUI."
-  },
-  {
-    "repo": "boto/boto3",
-    "branch": "develop",
-    "language": "Python",
-    "description": "Boto3, an AWS SDK for Python"
-  },
-  {
-    "repo": "Moore-developers/moore-wechat-article-downloader",
-    "branch": "main",
-    "language": "Python",
+    "language": "Kotlin",
     "description": ""
   },
   {
-    "repo": "ultralytics/yolov5",
-    "branch": "master",
-    "language": "Python",
-    "description": "YOLOv5 🚀 in PyTorch > ONNX > CoreML > TFLite"
-  },
-  {
-    "repo": "grp06/openclaw-studio",
+    "repo": "StanGibson/polymarket-copy-trading-bot",
     "branch": "main",
     "language": "TypeScript",
-    "description": ""
+    "description": "polymarket trading bot,polymarket copy trading bot,polymarket trading bot,polymarket copy trading bot,polymarket trading bot,polymarket copy trading bot,polymarket trading bot,polymarket copy trading bot,polymarket trading bot,polymarket copy trading bot,polymarket trading bot,polymarket copy trading bot,"
   },
   {
-    "repo": "KeyID-AI/agent-kit",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "Give Claude/Cursor email powers. 27 MCP tools — inbox, send, reply, contacts, search. Free, no signup."
-  },
-  {
-    "repo": "nhost/nhost",
+    "repo": "Nick-Baumann/Gobby",
     "branch": "main",
     "language": "TypeScript",
-    "description": "The Open Source Firebase Alternative with GraphQL."
+    "description": "GRRRBLEHHH!"
   },
   {
-    "repo": "meltano/meltano",
+    "repo": "depreciating/DoodleCloud",
     "branch": "main",
     "language": "Python",
-    "description": "Meltano: the declarative code-first data integration engine that powers your wildest data and ML-powered product ideas. Say goodbye to writing, maintaining, and scaling your own API integrations."
+    "description": "Cloud Storage using Instagram."
   },
   {
-    "repo": "dotnet/roslyn",
-    "branch": "main",
-    "language": "C#",
-    "description": "The Roslyn .NET compiler provides C# and Visual Basic languages with rich code analysis APIs."
-  },
-  {
-    "repo": "m1heng/clawdbot-feishu",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": ""
-  },
-  {
-    "repo": "Mondo-Robotics/DiT4DiT",
-    "branch": "main",
-    "language": "Python",
-    "description": "This is the official code repo for DiT4DiT, a Vision-Action-Model (VAM) framework that combines video generation model with flow-matching-based action prediction for generalizable robotic manipulation."
-  },
-  {
-    "repo": "zggf-zggf/openviktor",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Your AI employee for Slack — open source, self-hosted, MIT licensed"
-  },
-  {
-    "repo": "lich0821/wcfLink",
-    "branch": "master",
-    "language": "Go",
-    "description": ""
-  },
-  {
-    "repo": "SXai-lab/prediction-market-arbitrage",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Polymarket套利交易机器人 Polymarket套利机器人 机器人 arbitrage trading bot polymarket arbitrage bot Polymarket套利交易机器人 Polymarket套利机器人 机器人 arbitrage trading bot polymarket arbitrage bot Polymarket套利交易机器人 Polymarket套利机器人 机器人 arbitrage trading bot polymarket arbitrage bot Polymarket套利交易机器人 Polymarket套利机器人 机器人 arbitrage trading bot polymarket arbitrage bot Polymarket"
-  },
-  {
-    "repo": "github/docs",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "The open-source repo for docs.github.com"
-  },
-  {
-    "repo": "denoland/deno",
-    "branch": "main",
-    "language": "Rust",
-    "description": "A modern runtime for JavaScript and TypeScript."
-  },
-  {
-    "repo": "tnm/zclaw",
-    "branch": "main",
-    "language": "C",
-    "description": "Your personal AI assistant in under 888 KB, running on an ESP32"
-  },
-  {
-    "repo": "mickamy/sql-tap",
-    "branch": "main",
-    "language": "Go",
-    "description": "Watch SQL traffic in real-time with a TUI"
-  },
-  {
-    "repo": "Neighbor-Z/SwiftMTP",
-    "branch": "main",
-    "language": "Swift",
-    "description": "A modern MTP device management tool for macOS."
-  },
-  {
-    "repo": "kamranahmedse/claude-statusline",
+    "repo": "MichaelCade/90DaysOfDevOps",
     "branch": "main",
     "language": "Shell",
-    "description": "Minimal Claude Code statusline setup I personally use"
+    "description": "This repository started out as a learning in public project for myself and has now become a structured learning map for many in the community. We have 3 years under our belt covering all things DevOps, including Principles, Processes, Tooling and Use Cases surrounding this vast topic."
   },
   {
-    "repo": "chauncygu/collection-claude-code-source-code",
+    "repo": "Signal-Probability-Engine/weather-prediction",
     "branch": "main",
     "language": "TypeScript",
-    "description": "🔥 A collection of the newest Claude Code open source"
+    "description": "Polymarket weather trading bot Polymarket weather trading bot Polymarket weather trading bot Polymarket trading bot Polymarket trading bot Polymarket trading bot Polymarket trading bot Polymarket trading bot Polymarket trading bot Polymarket trading bot Polymarket trading bot Polymarket trading bot Polymarket trading bot Polymarket trading bot"
   },
   {
-    "repo": "lukiIabs/trading-agents",
-    "branch": "main",
-    "language": "Python",
-    "description": "TradingAgents LLM multi-agent finance trading stocks crypto fintech quantitative algo trading sentiment analysis OpenAI JavaScript Node.js research OSS"
+    "repo": "run-bigpig/jcp",
+    "branch": "master",
+    "language": "Go",
+    "description": "韭菜盘 (JCP AI) - AI 驱动的智能股票分析系统，基于 Wails + Go + React，支持多 Agent 协作分析"
   },
   {
-    "repo": "awesome-selfhosted/awesome-selfhosted",
+    "repo": "sorrycc/awesome-javascript",
     "branch": "master",
     "language": "Other",
-    "description": "A list of Free Software network services and web applications which can be hosted on your own servers"
+    "description": "🐢 A collection of awesome browser-side  JavaScript libraries, resources and shiny things."
   },
   {
-    "repo": "DuskMosquito/Lossless-Scaling-Desktop-2026",
+    "repo": "milvus-io/milvus",
+    "branch": "master",
+    "language": "Go",
+    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search"
+  },
+  {
+    "repo": "uktrash/LSFG-Desktop",
     "branch": "main",
-    "language": "C",
-    "description": "⭐️ Lossless Scaling Desktop 2026 | Setup Installer v1.0 | Patch Activator Keygen | License Key Pre-Activated | Full Version Latest Build Pro | Optimize Resolution Scaling | Enhance Performance Graphics | Get Desktop App Windows 10/11 PC | Direct Genuine Original x64 | Download Install Loader Mod ⭐️"
+    "language": "C#",
+    "description": "Lossless Scaling github steam reddit LSFG 3 frame generation  v3.22, uncap FPS low end PC, AMD FSR NIS scaling, cursor lag fix. Double FPS laptop guide, windowed to borderless fullscreen, ghosting artifact solution, capture API DXGI GDI, half refresh rate VSync. anime4k ,  version , latency reduction, lsfg"
+  },
+  {
+    "repo": "ibelick/webclaw",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Fast web client for OpenClaw"
+  },
+  {
+    "repo": "Licoy/StrokeMouse",
+    "branch": "main",
+    "language": "Swift",
+    "description": "macOS 鼠标手势自定义工具。按住该手势的触发键（默认右键，也可中键 / 侧键）绘制轨迹，匹配后执行快捷键、打开应用、窗口操作、媒体键、Shell / AppleScript 等 ｜ A macOS mouse gesture customization tool. Hold down the trigger key to execute shortcuts, open applications, shell/AppleScript, etc. after matching."
+  },
+  {
+    "repo": "Doorman11991/smallcode",
+    "branch": "master",
+    "language": "JavaScript",
+    "description": "AI coding agent optimized for small LLMs. 87% benchmark with 4B-active model."
+  },
+  {
+    "repo": "GordenSun/CuiMao",
+    "branch": "main",
+    "language": "HTML",
+    "description": "眼睛跟着鼠标旋转。"
+  },
+  {
+    "repo": "dzhng/skills",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": ""
+  },
+  {
+    "repo": "SawyerHood/gitclaw",
+    "branch": "main",
+    "language": "Python",
+    "description": "OpenClaw but it runs entirely on github actions"
+  },
+  {
+    "repo": "azl397985856/leetcode",
+    "branch": "master",
+    "language": "JavaScript",
+    "description": "LeetCode Solutions: A Record of My Problem Solving Journey.( leetcode题解，记录自己的leetcode解题之路。)"
+  },
+  {
+    "repo": "xzf-thu/Mega-ASR",
+    "branch": "main",
+    "language": "Python",
+    "description": "First foundation ASR built for the real world - 7 atomic acoustic conditions, 54 compound scenarios, 2.6M samples, and up to ~30% gains over SOTA where every other model falls apart. **You'll come back to MEGA-ASR, after the rest fail in the wild. ⭐**"
+  },
+  {
+    "repo": "lexmount/moli",
+    "branch": "main",
+    "language": "Rust",
+    "description": "Best browser for AI agents, built in Rust."
+  },
+  {
+    "repo": "Multichain-Bot-Lab/polymarket-copy-trading-bot",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": ""
+  },
+  {
+    "repo": "3641397194-wq/gpt5.6-claude-grok4.6-deepseekv4pro",
+    "branch": "main",
+    "language": "Python",
+    "description": "冷咖啡 ColdBrew 四合一破甲正式版 — GPT-5.6 / Claude / Grok 4.6 / DeepSeek v4 Pro 一键部署 · 启动 · 恢复 · 打包发布 | QQ 群 1057540028 / 1077074552"
+  },
+  {
+    "repo": "zy-zmc/tianming-novel-ai-writer",
+    "branch": "main",
+    "language": "C#",
+    "description": "天命 — AI网文创作系统 | 12维事实快照 · 9类变更声明 · 6道生成门禁 | 写到3000章依然连贯，不靠模型记忆，靠每章状态回写"
+  },
+  {
+    "repo": "CodeAbra/iai-mcp",
+    "branch": "main",
+    "language": "Python",
+    "description": "The best-benchmarked open-source memory system for AI coding assistants"
+  },
+  {
+    "repo": "MrCAT-in/Grand_Theft_Auto_V_Online_Money_Maker",
+    "branch": "main",
+    "language": "Python",
+    "description": "Automated heists, car duping, and RP farming for GTA Online. Complete heists effortlessly, duplicate high-end vehicles, and earn millions safely."
   }
 ]

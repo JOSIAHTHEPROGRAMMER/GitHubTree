@@ -1,8 +1,8 @@
 {
-  "repo": "nickvasilescu/bot-hq",
+  "repo": "ammaarreshi/WindowsiOS",
   "branch": "main",
-  "language": "TypeScript",
-  "description": "A team of Hermes agents you chat with, each with its own screen on one Orgo computer. Composio apps, xAI voice and X research.",
-  "stars": 197,
-  "forks": 71
+  "language": "C",
+  "description": "Native Windows 11 ARM64 on iOS (iPhone Duo) with direct ARM64 JIT, 4KB ASID MMU, UEFI/ACPI/NVMe/xHCI/NetKVM, and Surface Laptop Ultra clamshell UI",
+  "stars": 256,
+  "forks": 43
 }
