@@ -1,146 +1,146 @@
 [
   {
-    "repo": "YXBwbWFya2V0/AppMarket",
+    "repo": "TG-Twilight/c001apk",
     "branch": "main",
-    "language": "Kotlin",
-    "description": ""
+    "language": "Dart",
+    "description": "一个轻量的非官方酷安客户端"
   },
   {
-    "repo": "StanGibson/polymarket-copy-trading-bot",
+    "repo": "smithersai/claude-p",
     "branch": "main",
-    "language": "TypeScript",
-    "description": "polymarket trading bot,polymarket copy trading bot,polymarket trading bot,polymarket copy trading bot,polymarket trading bot,polymarket copy trading bot,polymarket trading bot,polymarket copy trading bot,polymarket trading bot,polymarket copy trading bot,polymarket trading bot,polymarket copy trading bot,"
+    "language": "Zig",
+    "description": "Drop-in replacement for `claude -p` that drives the interactive Claude Code TUI inside an in-process zmux PTY session."
   },
   {
-    "repo": "Nick-Baumann/Gobby",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "GRRRBLEHHH!"
-  },
-  {
-    "repo": "depreciating/DoodleCloud",
-    "branch": "main",
-    "language": "Python",
-    "description": "Cloud Storage using Instagram."
-  },
-  {
-    "repo": "MichaelCade/90DaysOfDevOps",
-    "branch": "main",
-    "language": "Shell",
-    "description": "This repository started out as a learning in public project for myself and has now become a structured learning map for many in the community. We have 3 years under our belt covering all things DevOps, including Principles, Processes, Tooling and Use Cases surrounding this vast topic."
-  },
-  {
-    "repo": "Signal-Probability-Engine/weather-prediction",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Polymarket weather trading bot Polymarket weather trading bot Polymarket weather trading bot Polymarket trading bot Polymarket trading bot Polymarket trading bot Polymarket trading bot Polymarket trading bot Polymarket trading bot Polymarket trading bot Polymarket trading bot Polymarket trading bot Polymarket trading bot Polymarket trading bot"
-  },
-  {
-    "repo": "run-bigpig/jcp",
-    "branch": "master",
-    "language": "Go",
-    "description": "韭菜盘 (JCP AI) - AI 驱动的智能股票分析系统，基于 Wails + Go + React，支持多 Agent 协作分析"
-  },
-  {
-    "repo": "sorrycc/awesome-javascript",
-    "branch": "master",
-    "language": "Other",
-    "description": "🐢 A collection of awesome browser-side  JavaScript libraries, resources and shiny things."
-  },
-  {
-    "repo": "milvus-io/milvus",
-    "branch": "master",
-    "language": "Go",
-    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search"
-  },
-  {
-    "repo": "uktrash/LSFG-Desktop",
-    "branch": "main",
-    "language": "C#",
-    "description": "Lossless Scaling github steam reddit LSFG 3 frame generation  v3.22, uncap FPS low end PC, AMD FSR NIS scaling, cursor lag fix. Double FPS laptop guide, windowed to borderless fullscreen, ghosting artifact solution, capture API DXGI GDI, half refresh rate VSync. anime4k ,  version , latency reduction, lsfg"
-  },
-  {
-    "repo": "ibelick/webclaw",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Fast web client for OpenClaw"
-  },
-  {
-    "repo": "Licoy/StrokeMouse",
-    "branch": "main",
-    "language": "Swift",
-    "description": "macOS 鼠标手势自定义工具。按住该手势的触发键（默认右键，也可中键 / 侧键）绘制轨迹，匹配后执行快捷键、打开应用、窗口操作、媒体键、Shell / AppleScript 等 ｜ A macOS mouse gesture customization tool. Hold down the trigger key to execute shortcuts, open applications, shell/AppleScript, etc. after matching."
-  },
-  {
-    "repo": "Doorman11991/smallcode",
-    "branch": "master",
-    "language": "JavaScript",
-    "description": "AI coding agent optimized for small LLMs. 87% benchmark with 4B-active model."
-  },
-  {
-    "repo": "GordenSun/CuiMao",
-    "branch": "main",
-    "language": "HTML",
-    "description": "眼睛跟着鼠标旋转。"
-  },
-  {
-    "repo": "dzhng/skills",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": ""
-  },
-  {
-    "repo": "SawyerHood/gitclaw",
-    "branch": "main",
-    "language": "Python",
-    "description": "OpenClaw but it runs entirely on github actions"
-  },
-  {
-    "repo": "azl397985856/leetcode",
-    "branch": "master",
-    "language": "JavaScript",
-    "description": "LeetCode Solutions: A Record of My Problem Solving Journey.( leetcode题解，记录自己的leetcode解题之路。)"
-  },
-  {
-    "repo": "xzf-thu/Mega-ASR",
-    "branch": "main",
-    "language": "Python",
-    "description": "First foundation ASR built for the real world - 7 atomic acoustic conditions, 54 compound scenarios, 2.6M samples, and up to ~30% gains over SOTA where every other model falls apart. **You'll come back to MEGA-ASR, after the rest fail in the wild. ⭐**"
-  },
-  {
-    "repo": "lexmount/moli",
+    "repo": "anthropics/claudes-c-compiler",
     "branch": "main",
     "language": "Rust",
-    "description": "Best browser for AI agents, built in Rust."
+    "description": "Claude Opus 4.6 wrote a dependency-free C compiler in Rust, with backends targeting x86 (64- and 32-bit), ARM, and RISC-V, capable of compiling a booting Linux kernel."
   },
   {
-    "repo": "Multichain-Bot-Lab/polymarket-copy-trading-bot",
+    "repo": "Prismer-AI/Prismer",
+    "branch": "main",
+    "language": "Python",
+    "description": "Open Source OpenAI Prism Alternative"
+  },
+  {
+    "repo": "nikvpn-iran/nikvpn-codespace",
+    "branch": "main",
+    "language": "Shell",
+    "description": "Free VLESS proxy using GitHub Codespaces - NikVPN for Iran"
+  },
+  {
+    "repo": "BigPizzaV3/CodexPlusPlus",
+    "branch": "main",
+    "language": "Python",
+    "description": "一个CodexApp的增强工具"
+  },
+  {
+    "repo": "gcc-mirror/gcc",
+    "branch": "master",
+    "language": "C++",
+    "description": "Mirror of the GNU Compiler Collection master repository."
+  },
+  {
+    "repo": "benqi-finance/legalmarkdown",
+    "branch": "master",
+    "language": "Go",
+    "description": "Eris Legal Markdown -- Putting the Contract in Smart Contracts"
+  },
+  {
+    "repo": "winglang/wing",
     "branch": "main",
     "language": "TypeScript",
+    "description": "A programming language for the cloud ☁️ A unified programming model, combining infrastructure and runtime code into one language ⚡"
+  },
+  {
+    "repo": "anvie/evonic",
+    "branch": "main",
+    "language": "Python",
+    "description": "Open Agentic AI Platform - The home your agents deserve"
+  },
+  {
+    "repo": "total-typescript/ts-reset",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "A 'CSS reset' for TypeScript, improving types for common JavaScript API's"
+  },
+  {
+    "repo": "RaidOwl/homelab-hub",
+    "branch": "main",
+    "language": "Svelte",
     "description": ""
   },
   {
-    "repo": "3641397194-wq/gpt5.6-claude-grok4.6-deepseekv4pro",
+    "repo": "432539/gpt2api",
     "branch": "main",
-    "language": "Python",
-    "description": "冷咖啡 ColdBrew 四合一破甲正式版 — GPT-5.6 / Claude / Grok 4.6 / DeepSeek v4 Pro 一键部署 · 启动 · 恢复 · 打包发布 | QQ 群 1057540028 / 1077074552"
+    "language": "Go",
+    "description": "基于 chatgpt.com 逆向的 OpenAI 兼容 SaaS 网关 · IMG2 灰度 · 批量出图 · 多账号池 · 高并发调度 · 积分计费 · 技术交流QQ 群 382446"
   },
   {
-    "repo": "zy-zmc/tianming-novel-ai-writer",
-    "branch": "main",
-    "language": "C#",
-    "description": "天命 — AI网文创作系统 | 12维事实快照 · 9类变更声明 · 6道生成门禁 | 写到3000章依然连贯，不靠模型记忆，靠每章状态回写"
-  },
-  {
-    "repo": "CodeAbra/iai-mcp",
+    "repo": "1837620622/cloudflare-bypass-2026",
     "branch": "main",
     "language": "Python",
-    "description": "The best-benchmarked open-source memory system for AI coding assistants"
+    "description": "Cloudflare Turnstile 绕过工具 | Cloudflare Bypass Tool based on SeleniumBase UC Mode | 支持 Mac/Windows/Linux"
   },
   {
-    "repo": "MrCAT-in/Grand_Theft_Auto_V_Online_Money_Maker",
+    "repo": "nginx/nginx",
+    "branch": "master",
+    "language": "C",
+    "description": "The official NGINX Open Source repository."
+  },
+  {
+    "repo": "millionco/react-doctor",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Let coding agents diagnose and fix your React code"
+  },
+  {
+    "repo": "PaddlePaddle/PaddleSpeech",
+    "branch": "develop",
+    "language": "Python",
+    "description": "Easy-to-use Speech Toolkit including Self-Supervised Learning model, SOTA/Streaming ASR with punctuation, Streaming TTS with text frontend, Speaker Verification System, End-to-End Speech Translation and Keyword Spotting. Won NAACL2022 Best Demo Award."
+  },
+  {
+    "repo": "texsellix/polymarket-trading-bot",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Polymarket from your terminal. Copy whales, run autonomous strategies, place orders with one command. CLI-only, no dashboard, no setup."
+  },
+  {
+    "repo": "akitaonrails/ai-memory",
+    "branch": "main",
+    "language": "Rust",
+    "description": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors"
+  },
+  {
+    "repo": "tqdm/tqdm",
+    "branch": "master",
+    "language": "Python",
+    "description": ":zap: A Fast, Extensible Progress Bar for Python and CLI"
+  },
+  {
+    "repo": "ryrylliee/Super-Smash-Bros-PC",
+    "branch": "main",
+    "language": "C++",
+    "description": "Super Smash Bros PC Download May 2026 Ultimate Performance Fix Eden Citron Emulator Smash Remix v2.0.1 Update Tug of War Mode Rollback Netplay Guide 4K Texture Pack High FPS Low Latency GameCube Adapter Setup Project Plus Slippi Melee Online Tutorial Free Full Version Latest Build"
+  },
+  {
+    "repo": "6-robot/jie_3d_nav",
     "branch": "main",
     "language": "Python",
-    "description": "Automated heists, car duping, and RP farming for GTA Online. Complete heists effortlessly, duplicate high-end vehicles, and earn millions safely."
+    "description": "一套基于 ROS 2 Humble 的 3D 导航系统，通过 Web 界面交互。本系统已在智元科技 D1 机器狗以及留形科技 Odin 1 空间定位模组上测试通过。"
+  },
+  {
+    "repo": "Ademking/MD-This-Page",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Convert any web page to clean, readable Markdown with just one click."
+  },
+  {
+    "repo": "ReactiveX/RxSwift",
+    "branch": "main",
+    "language": "Swift",
+    "description": "Reactive Programming in Swift"
   }
 ]

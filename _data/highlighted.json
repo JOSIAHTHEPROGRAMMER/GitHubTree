@@ -1,8 +1,8 @@
 {
-  "repo": "ammaarreshi/WindowsiOS",
+  "repo": "kate-land/ga100vfi",
   "branch": "main",
   "language": "C",
-  "description": "Native Windows 11 ARM64 on iOS (iPhone Duo) with direct ARM64 JIT, 4KB ASID MMU, UEFI/ACPI/NVMe/xHCI/NetKVM, and Surface Laptop Ultra clamshell UI",
-  "stars": 256,
-  "forks": 43
+  "description": "GA100 voltage glitch resources",
+  "stars": 218,
+  "forks": 71
 }
