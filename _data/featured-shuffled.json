@@ -1,146 +1,146 @@
 [
   {
-    "repo": "pytest-dev/pytest-cov",
-    "branch": "master",
-    "language": "Python",
-    "description": "Coverage plugin for pytest."
-  },
-  {
-    "repo": "nooncheetahstart/Kahoot-tools-AI",
+    "repo": "Robbyant/lingbot-map",
     "branch": "main",
     "language": "Python",
-    "description": "Kahoot || Kahoot helper || Kahoot tools || Kahoot ai"
+    "description": "A feed-forward 3D foundation model for reconstructing scenes from streaming data"
   },
   {
-    "repo": "Tencent/tdesign-react",
+    "repo": "kuraeow/ultratears",
+    "branch": "main",
+    "language": "C",
+    "description": "Unofficial native Windows port of Tears of the Kingdom 1.4.3 using static recompilation. Builds locally from the player's own extracted game dump; no game files included."
+  },
+  {
+    "repo": "sndrec/WebMonkeyBall",
     "branch": "main",
     "language": "TypeScript",
-    "description": "A React UI components lib for TDesign."
+    "description": "Super Monkey Ball on Web Broser."
   },
   {
-    "repo": "lib/pq",
-    "branch": "master",
-    "language": "Go",
-    "description": "Go PostgreSQL driver for database/sql"
-  },
-  {
-    "repo": "Tremorfitzapplaud/1tamilmv-telegram-bot",
-    "branch": "main",
-    "language": "Python",
-    "description": "1tamilmv || 1tamilmv telegram || 1tamilmv bot || WD_1tamilmv_v2_bot"
-  },
-  {
-    "repo": "didriksg/Crisp",
-    "branch": "main",
-    "language": "Swift",
-    "description": "A free, open-source alternative to BetterDisplay and Lunar. Every display control macOS hides in one menu bar panel: external monitor brightness (DDC or software), HiDPI scaling, XDR presets, virtual displays, color, and arrangement. Feels like it shipped with your Mac."
-  },
-  {
-    "repo": "nektos/act",
-    "branch": "master",
-    "language": "Go",
-    "description": "Run your GitHub Actions locally 🚀"
-  },
-  {
-    "repo": "g0ldyy/fh6-universal-radio",
-    "branch": "main",
-    "language": "C++",
-    "description": "Forza Horizon 6's universal radio mod with local file, YouTube, and Jellyfin playback."
-  },
-  {
-    "repo": "react-native-maps/react-native-maps",
-    "branch": "master",
-    "language": "TypeScript",
-    "description": "React Native Mapview component for iOS + Android"
-  },
-  {
-    "repo": "supabase/supabase",
-    "branch": "master",
-    "language": "TypeScript",
-    "description": "The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications."
-  },
-  {
-    "repo": "Backtthefuture/huangshu",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "黄叔开源的Skill集合"
-  },
-  {
-    "repo": "himomohi/AirTranslate",
-    "branch": "master",
-    "language": "Swift",
-    "description": "AirTranslate macOS app"
-  },
-  {
-    "repo": "sharkdp/bat",
+    "repo": "mre/awesome-static-analysis",
     "branch": "master",
     "language": "Rust",
-    "description": "A cat(1) clone with wings."
+    "description": "⚙️ A curated list of static analysis (SAST) tools and linters for all programming languages, config files, build tools, and more. The focus is on tools which improve code quality."
   },
   {
-    "repo": "confluentinc/schema-registry",
-    "branch": "master",
-    "language": "Java",
-    "description": "Confluent Schema Registry for Kafka"
-  },
-  {
-    "repo": "stretchr/testify",
-    "branch": "master",
-    "language": "Go",
-    "description": "A toolkit with common assertions and mocks that plays nicely with the standard library"
-  },
-  {
-    "repo": "ShawnPana/aurl",
-    "branch": "main",
-    "language": "Go",
-    "description": "A command line tool for turning any API into a CLI command, supporting OpenAPI 3.0, OpenAPI 3.1, Swagger 2.0, and GraphQL. aurl auto-detects authentication, validates requests against the spec, and generates documentation from introspection."
-  },
-  {
-    "repo": "arpitg1304/robotics-agent-skills",
+    "repo": "Mondo-Robotics/DiT4DiT",
     "branch": "main",
     "language": "Python",
-    "description": "Agent skills that make AI coding assistants write production-grade robotics software. ROS1, ROS2, design patterns, SOLID principles, and testing — for Claude Code, Cursor, Copilot, and any SKILL.md-compatible agent."
+    "description": "This is the official code repo for DiT4DiT, a Vision-Action-Model (VAM) framework that combines video generation model with flow-matching-based action prediction for generalizable robotic manipulation."
   },
   {
-    "repo": "udacity/reactnd-contacts-server",
+    "repo": "okooo5km/Skills4U",
+    "branch": "main",
+    "language": "TeX",
+    "description": "Skills here"
+  },
+  {
+    "repo": "nmap/nmap",
     "branch": "master",
-    "language": "JavaScript",
-    "description": "The backend server for the in-class Contacts project."
+    "language": "C",
+    "description": "Nmap - the Network Mapper. Github mirror of official SVN repository."
   },
   {
-    "repo": "GainSec/AutoProber",
+    "repo": "GordenSun/CuiMao",
+    "branch": "main",
+    "language": "HTML",
+    "description": "眼睛跟着鼠标旋转。"
+  },
+  {
+    "repo": "liorwn/claudetop",
+    "branch": "main",
+    "language": "Shell",
+    "description": "htop for your Claude Code sessions — real-time cost, cache efficiency, model comparison, and smart alerts"
+  },
+  {
+    "repo": "CleverCloud/mdr",
+    "branch": "main",
+    "language": "Rust",
+    "description": "a very light rust based markdown reader with support of mermaid (web, native, TUI). vibe coded"
+  },
+  {
+    "repo": "koffuxu/ai-influence-digest",
     "branch": "main",
     "language": "Python",
-    "description": "Hardware hacker’s flying probe automation stack for agent-driven   target discovery, microscope mapping, safety-monitored CNC motion, probe review, and   controlled pin probing."
+    "description": ""
   },
   {
-    "repo": "gitleaks/gitleaks",
-    "branch": "master",
-    "language": "Go",
-    "description": "Find secrets with Gitleaks 🔑"
+    "repo": "CraftyGeezer/Kalshi-Polymarket-Ai-bot",
+    "branch": "main",
+    "language": "Python",
+    "description": ""
   },
   {
-    "repo": "fffaraz/awesome-cpp",
-    "branch": "master",
-    "language": "Other",
-    "description": "A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny things. Inspired by awesome-... stuff."
+    "repo": "poseljacob/agentic-video-editor",
+    "branch": "main",
+    "language": "Python",
+    "description": "AI-powered video editor that turns raw footage and a creative brief into a polished ad using an ensemble of AI agents (Google Gemini + FFmpeg)"
   },
   {
-    "repo": "Eronred/expo-agent-spinners",
+    "repo": "earendil-works/pi-tutorial",
     "branch": "main",
     "language": "TypeScript",
-    "description": "54 terminal-style agent-like spinners for React Native & Expo. Lightweight, zero native dependencies — just Text. No heavy UI threads"
+    "description": "An experimental tutorial mode for Pi"
   },
   {
-    "repo": "LeDat98/NexusRAG",
+    "repo": "rayon-rs/rayon",
+    "branch": "master",
+    "language": "Rust",
+    "description": "Rayon: A data parallelism library for Rust"
+  },
+  {
+    "repo": "andraiming/speech-tokenizer-arena",
     "branch": "main",
     "language": "Python",
-    "description": "Hybrid RAG system combining vector search, knowledge graph (LightRAG), and cross-encoder reranking — with Docling document parsing, visual intelligence (image/table captioning), agentic streaming chat, and inline citations. Powered by Gemini or local Ollama models."
+    "description": "A side-by-side benchmarking playground for discrete speech tokenizers (EnCodec, HuBERT-units, SpeechTokenizer, etc.)."
   },
   {
-    "repo": "ipfs/js-ipfs",
+    "repo": "vectordotdev/vector",
     "branch": "master",
-    "language": "JavaScript",
-    "description": "IPFS implementation in JavaScript"
+    "language": "Rust",
+    "description": "A high-performance observability data pipeline."
+  },
+  {
+    "repo": "yliust/Tactile",
+    "branch": "main",
+    "language": "Python",
+    "description": "Tactile: an accessibility-first operating layer for agents."
+  },
+  {
+    "repo": "Polymarket-Trading-kit/crypto-trading-bot",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "crypto trading bot crypto trading bot crypto trading bot crypto trading bot crypto trading bot crypto trading bot crypto trading bot crypto trading bot crypto trading bot crypto trading bot crypto trading bot crypto trading bot crypto trading bot crypto trading bot crypto trading bot crypto trading bot crypto trading bot crypto trading bot crypto"
+  },
+  {
+    "repo": "techjarves/USB-Uncensored-LLM",
+    "branch": "main",
+    "language": "Shell",
+    "description": "The ultimate zero-install, portable local AI environment. Run high-quality, uncensored LLMs (Gemma, Qwen, NemoMix) directly from any USB drive or SSD. Fully air-gapped, cross-platform (Win/Mac/Linux), and privacy-first with persistent chat history."
+  },
+  {
+    "repo": "zai-org/GLM-OCR",
+    "branch": "main",
+    "language": "Python",
+    "description": "GLM-OCR: Accurate ×  Fast × Comprehensive"
+  },
+  {
+    "repo": "JinGuYuan/jinguyuan-dumpling-skill",
+    "branch": "main",
+    "language": "Python",
+    "description": "金谷园饺子馆 AI Skill - 北邮边上的饺子馆"
+  },
+  {
+    "repo": "six2dez/burp-ai-agent",
+    "branch": "main",
+    "language": "Kotlin",
+    "description": "Burp Suite extension that adds built-in MCP tooling, AI-assisted analysis, privacy controls, passive and active scanning and more"
+  },
+  {
+    "repo": "prompt-security/clawsec",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "A complete security skill suite for OpenClaw's family of agents. Protect your SOUL.md (etc') with drift detection, live security recommendations, automated audits, and skill integrity verification. All from one installable suite."
   }
 ]
