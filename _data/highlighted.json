@@ -1,8 +1,8 @@
 {
-  "repo": "kate-land/ga100vfi",
+  "repo": "brisk-thrush-husky/malware-defender-desktop",
   "branch": "main",
-  "language": "C",
-  "description": "GA100 voltage glitch resources",
-  "stars": 218,
-  "forks": 71
+  "language": "C++",
+  "description": "Malware Defender 2026 desktop setup with real-time protection against malware and ransomware, deep system scan with quarantine and removal, plus web shield that blocks phishing and malicious sites for Windows 11",
+  "stars": 357,
+  "forks": 0
 }
