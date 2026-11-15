@@ -1,146 +1,146 @@
 [
   {
-    "repo": "mosaxiv/clawlet",
-    "branch": "main",
-    "language": "Go",
-    "description": "Lightweight Personal AI Assistant"
+    "repo": "pytest-dev/pytest-cov",
+    "branch": "master",
+    "language": "Python",
+    "description": "Coverage plugin for pytest."
   },
   {
-    "repo": "op7418/guizang-product-video-skill",
+    "repo": "nooncheetahstart/Kahoot-tools-AI",
     "branch": "main",
     "language": "Python",
-    "description": "归藏 product video skill：复用真实产品组件和设计语言，用代码制作软件更新宣传片。包含分镜文案、原创配乐、动作音效与视频渲染，支持 Claude Code 和 Codex。"
+    "description": "Kahoot || Kahoot helper || Kahoot tools || Kahoot ai"
   },
   {
-    "repo": "MrFadiAi/openclaw-manager",
+    "repo": "Tencent/tdesign-react",
     "branch": "main",
     "language": "TypeScript",
-    "description": "OpenClaw One Click Installer - A desktop manager for OpenClaw"
+    "description": "A React UI components lib for TDesign."
   },
   {
-    "repo": "sonpiaz/evox",
+    "repo": "lib/pq",
+    "branch": "master",
+    "language": "Go",
+    "description": "Go PostgreSQL driver for database/sql"
+  },
+  {
+    "repo": "Tremorfitzapplaud/1tamilmv-telegram-bot",
     "branch": "main",
-    "language": "TypeScript",
-    "description": ""
+    "language": "Python",
+    "description": "1tamilmv || 1tamilmv telegram || 1tamilmv bot || WD_1tamilmv_v2_bot"
   },
   {
-    "repo": "nickustinov/itsytv-macos",
+    "repo": "didriksg/Crisp",
     "branch": "main",
     "language": "Swift",
-    "description": "The missing Apple TV remote app for macOS"
+    "description": "A free, open-source alternative to BetterDisplay and Lunar. Every display control macOS hides in one menu bar panel: external monitor brightness (DDC or software), HiDPI scaling, XDR presets, virtual displays, color, and arrangement. Feels like it shipped with your Mac."
   },
   {
-    "repo": "dev-protocol/polymarket-trading-tools-telegram-bot",
-    "branch": "main",
-    "language": "Rust",
-    "description": "🚀polymarket copy trading bot polymarket arbitrage bot polymarket market maker bot polymarket copy trading bot polymarket copy trading bot polymarket trading bot polymarket copy trading bot polymarket arbitrage bot polymarket trading bot polymarket copy trading bot polymarket arbitrage bot"
-  },
-  {
-    "repo": "ComposioHQ/secure-openclaw",
+    "repo": "nektos/act",
     "branch": "master",
-    "language": "JavaScript",
-    "description": "A personal 24x7 AI assistant like OpenClaw that runs on your messaging platforms. Send a message on WhatsApp, Telegram, Signal, or iMessage and get responses from Claude with full tool access, persistent memory, scheduled reminders, and integrations with 500+ apps."
+    "language": "Go",
+    "description": "Run your GitHub Actions locally 🚀"
   },
   {
-    "repo": "LeoYeAI/openclaw-auto-dream",
-    "branch": "main",
-    "language": "HTML",
-    "description": "Automatic memory consolidation for OpenClaw agents — like sleep for your AI. Powered by MyClaw.ai"
-  },
-  {
-    "repo": "roboflow/rf-detr",
-    "branch": "main",
-    "language": "Python",
-    "description": "RF-DETR is a real-time object detection and segmentation model architecture developed by Roboflow, SOTA on COCO and designed for fine-tuning."
-  },
-  {
-    "repo": "anthropics/cwc-long-running-agents",
-    "branch": "main",
-    "language": "Shell",
-    "description": ""
-  },
-  {
-    "repo": "dododook/FlowZ",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": ""
-  },
-  {
-    "repo": "PanJiaChen/vue-element-admin",
-    "branch": "master",
-    "language": "Vue",
-    "description": ":tada: A magical vue admin                                                                https://panjiachen.github.io/vue-element-admin"
-  },
-  {
-    "repo": "infixity24/Extreme-Injector-v3.7.3-Dll-Injector",
+    "repo": "g0ldyy/fh6-universal-radio",
     "branch": "main",
     "language": "C++",
-    "description": "Extreme Injector v3.7.3 is a powerful and easy-to-use DLL injector for Windows. Supports Manual Map, Stealth mode, Auto-Inject, and multiple injection methods. Ideal for developers and single-player game modding."
+    "description": "Forza Horizon 6's universal radio mod with local file, YouTube, and Jellyfin playback."
   },
   {
-    "repo": "Shpigford/clearly",
+    "repo": "react-native-maps/react-native-maps",
+    "branch": "master",
+    "language": "TypeScript",
+    "description": "React Native Mapview component for iOS + Android"
+  },
+  {
+    "repo": "supabase/supabase",
+    "branch": "master",
+    "language": "TypeScript",
+    "description": "The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications."
+  },
+  {
+    "repo": "Backtthefuture/huangshu",
     "branch": "main",
+    "language": "TypeScript",
+    "description": "黄叔开源的Skill集合"
+  },
+  {
+    "repo": "himomohi/AirTranslate",
+    "branch": "master",
     "language": "Swift",
-    "description": "A clean, native markdown editor for macOS."
+    "description": "AirTranslate macOS app"
   },
   {
-    "repo": "appwrite/appwrite",
+    "repo": "sharkdp/bat",
+    "branch": "master",
+    "language": "Rust",
+    "description": "A cat(1) clone with wings."
+  },
+  {
+    "repo": "confluentinc/schema-registry",
+    "branch": "master",
+    "language": "Java",
+    "description": "Confluent Schema Registry for Kafka"
+  },
+  {
+    "repo": "stretchr/testify",
+    "branch": "master",
+    "language": "Go",
+    "description": "A toolkit with common assertions and mocks that plays nicely with the standard library"
+  },
+  {
+    "repo": "ShawnPana/aurl",
     "branch": "main",
-    "language": "TypeScript",
-    "description": "Appwrite® - complete cloud infrastructure for your web, mobile and AI apps. Including Auth, Databases, Storage, Functions, Messaging, Hosting, Realtime and more"
+    "language": "Go",
+    "description": "A command line tool for turning any API into a CLI command, supporting OpenAPI 3.0, OpenAPI 3.1, Swagger 2.0, and GraphQL. aurl auto-detects authentication, validates requests against the spec, and generates documentation from introspection."
   },
   {
-    "repo": "anl331/goey-toast",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "A gooey, morphing toast component built on Sonner with Framer Motion animations"
-  },
-  {
-    "repo": "strukto-ai/mirage",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "A Unified Virtual Filesystem For AI Agents"
-  },
-  {
-    "repo": "levelsio/superlevels",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "A super Chrome extension I made that's safer than installing external malware/spyware-filled extensions that form a massive security risk, this one is open source and you can read and check the source code (with AI) before you install it, and customize it to your liking!"
-  },
-  {
-    "repo": "agents-io/PokeClaw",
-    "branch": "main",
-    "language": "Kotlin",
-    "description": "PokeClaw (PocketClaw) — first on-device AI that controls your Android phone. Gemma 4, no cloud, no API key. Poke is short for Pocket."
-  },
-  {
-    "repo": "run-llama/ParseBench",
+    "repo": "arpitg1304/robotics-agent-skills",
     "branch": "main",
     "language": "Python",
-    "description": "ParseBench - A Document Parsing Benchmark for AI Agents"
+    "description": "Agent skills that make AI coding assistants write production-grade robotics software. ROS1, ROS2, design patterns, SOLID principles, and testing — for Claude Code, Cursor, Copilot, and any SKILL.md-compatible agent."
   },
   {
-    "repo": "h5bp/html5-boilerplate",
-    "branch": "main",
+    "repo": "udacity/reactnd-contacts-server",
+    "branch": "master",
     "language": "JavaScript",
-    "description": "A professional front-end template for building fast, robust, and adaptable web apps or sites."
+    "description": "The backend server for the in-class Contacts project."
   },
   {
-    "repo": "Tencent-Hunyuan/HY-WU",
+    "repo": "GainSec/AutoProber",
     "branch": "main",
     "language": "Python",
-    "description": "HY-WU (Part I): An Extensible Functional Neural Memory Framework and An Instantiation in Text-Guided Image Editing"
+    "description": "Hardware hacker’s flying probe automation stack for agent-driven   target discovery, microscope mapping, safety-monitored CNC motion, probe review, and   controlled pin probing."
   },
   {
-    "repo": "ircfspace/teleMirror",
+    "repo": "gitleaks/gitleaks",
+    "branch": "master",
+    "language": "Go",
+    "description": "Find secrets with Gitleaks 🔑"
+  },
+  {
+    "repo": "fffaraz/awesome-cpp",
+    "branch": "master",
+    "language": "Other",
+    "description": "A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny things. Inspired by awesome-... stuff."
+  },
+  {
+    "repo": "Eronred/expo-agent-spinners",
     "branch": "main",
+    "language": "TypeScript",
+    "description": "54 terminal-style agent-like spinners for React Native & Expo. Lightweight, zero native dependencies — just Text. No heavy UI threads"
+  },
+  {
+    "repo": "LeDat98/NexusRAG",
+    "branch": "main",
+    "language": "Python",
+    "description": "Hybrid RAG system combining vector search, knowledge graph (LightRAG), and cross-encoder reranking — with Docling document parsing, visual intelligence (image/table captioning), agentic streaming chat, and inline citations. Powered by Gemini or local Ollama models."
+  },
+  {
+    "repo": "ipfs/js-ipfs",
+    "branch": "master",
     "language": "JavaScript",
-    "description": "A simple desktop client for viewing Telegram channels, specifically designed for complex filtering environments like Iran"
-  },
-  {
-    "repo": "EricEsquivel/CobaltStrike-Linux-Beacon",
-    "branch": "main",
-    "language": "C",
-    "description": "Proof of Concept (PoC) implant for creating custom Cobalt Strike Beacons"
+    "description": "IPFS implementation in JavaScript"
   }
 ]
