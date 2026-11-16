@@ -1,8 +1,8 @@
 {
-  "repo": "hikaku-io/hikaku-extension",
+  "repo": "azuresail195/wondershare-recoverit-desktop",
   "branch": "main",
-  "language": "JavaScript",
-  "description": "Open-source browser extension that flags AI-generated images and video as you browse. Runs entirely on your device. Chrome, Edge and Firefox.",
-  "stars": 397,
-  "forks": 1
+  "language": "C++",
+  "description": "Wondershare Recoverit 2026 desktop setup for recovering deleted files from disks, SD cards and USB drives, repairing corrupted video and photo files, and crashed-system recovery with bootable media on Windows 11",
+  "stars": 360,
+  "forks": 0
 }

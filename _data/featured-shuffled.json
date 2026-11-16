@@ -1,146 +1,146 @@
 [
   {
-    "repo": "meodai/heerich",
+    "repo": "Droid-Deck/DroidDeck",
     "branch": "main",
-    "language": "JavaScript",
-    "description": "Tiny engine for 3D voxel scenes rendered to SVG — boolean ops, oblique/perspective cameras, zero dependencies. Inspired by the geometric cardboard sculptures of Erwin Heerich."
+    "language": "C",
+    "description": "DroidDeck brings the SteamOS experience to Android"
   },
   {
-    "repo": "OpenDCAI/OpenPrism",
+    "repo": "radix-ui/primitives",
     "branch": "main",
     "language": "TypeScript",
-    "description": "Open-source implementation of AI-powered academic writing workspace inspired by OpenAI Prism, featuring LaTeX editing, PDF preview, and intelligent AI assistance"
+    "description": "Radix Primitives is an open-source UI component library for building high-quality, accessible design systems and web apps. Maintained by @workos."
   },
   {
-    "repo": "matrix-org/synapse",
-    "branch": "develop",
-    "language": "Python",
-    "description": "Synapse: Matrix homeserver written in Python/Twisted."
-  },
-  {
-    "repo": "nodemailer/nodemailer",
-    "branch": "master",
-    "language": "JavaScript",
-    "description": "✉️ Send e-mails with Node.JS – easy as cake!"
-  },
-  {
-    "repo": "keithnull/TeachYourselfCS-CN",
-    "branch": "master",
-    "language": "Other",
-    "description": "TeachYourselfCS 的中文翻译 |  A Chinese translation of TeachYourselfCS"
-  },
-  {
-    "repo": "TheGreatGildo/nerv-ui",
+    "repo": "Shopify/javy",
     "branch": "main",
-    "language": "HTML",
-    "description": "NERV Operations Console aesthetic for web interfaces — Evangelion-inspired instrumentation UI skill for Claude Code / OpenClaw"
+    "language": "Rust",
+    "description": "JS to WebAssembly toolchain"
   },
   {
-    "repo": "Roberto02800/turnstile-token",
+    "repo": "op7418/Document-illustrator-skill",
     "branch": "main",
     "language": "Python",
-    "description": "A small Python CLI and library for Cloudflare Turnstile token - discover the sitekey, create a cf-turnstile-response token, and replay the browser identity"
+    "description": "帮你从文档生成对应的多张配图，内置了歸藏精心探索的图片风格，支持 16:9 和 3:4 两种比例，方便发小红书以及推特。"
   },
   {
-    "repo": "577206/knowledge-forge",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "Local-first Obsidian knowledge ingestion workbench for PDFs, Markdown, TXT and spreadsheets."
-  },
-  {
-    "repo": "KyrieCheungYep/ky-design-to-html-skill",
-    "branch": "main",
-    "language": "Python",
-    "description": "A Codex / Claude skill for recreating UI screenshots as HTML/CSS."
-  },
-  {
-    "repo": "zq779/yuhutong",
-    "branch": "main",
-    "language": "Python",
-    "description": ""
-  },
-  {
-    "repo": "MengMengCode/CLICD",
+    "repo": "EvolutionAPI/evolution-go",
     "branch": "main",
     "language": "Go",
-    "description": "CLICD 是一个面向 LXC/KVM 的轻量虚拟化管理面板，提供 Web 控制台、CLI、批量任务、镜像管理、NAT 端口、IPv6 分配、WebSSH、VNC、资源限制、流量限制和安全告警能力。它适合用来管理小型 VPS 上的 LXC 容器和 KVM 虚拟机，也适合需要批量创建和分发子用户管理链接的场景。"
+    "description": "Evolution API / Evolution Go is an open-source WhatsApp integration API"
   },
   {
-    "repo": "openai/role-specific-plugins",
+    "repo": "Bhojendra-dev/LSFG-Desktop",
     "branch": "main",
-    "language": "Python",
-    "description": "Role-specific Codex plugin templates"
+    "language": "C++",
+    "description": "lossless scaling steam desck download github reddit android lsfg 3 frame generation best settings upscaling ai ls1 fsr nis integer scaling windows 11 steam deck decky loader lsfg-vk setup"
   },
   {
-    "repo": "aquace/CVE-2026-41940-PoC",
+    "repo": "alchaincyf/darwin-skill",
+    "branch": "master",
+    "language": "HTML",
+    "description": "达尔文.skill —— 一个让你的Skill无限进化的系统：评估→改进→测试→保留或回滚 | Autoresearch-inspired autonomous skill optimization for Claude Code. Evaluate, improve, test, keep or revert."
+  },
+  {
+    "repo": "Kylsky/chatgpt-team-helper",
     "branch": "main",
-    "language": "Python",
-    "description": "CVE-2026-41940 authentication bypass vulnerability proof-of-concept"
+    "language": "Vue",
+    "description": "一站式Team账号管理"
   },
   {
-    "repo": "EEliberto/IPA-Download",
+    "repo": "epiral/agent-clip",
     "branch": "main",
-    "language": "Swift",
-    "description": "一款用于安装 IPA 历史版本的工具，适用于获取旧版应用并自动捕获数据包。下载后，可直接通过 AirDrop 传输至 iPhone、iPad 上并安装并使用。"
+    "language": "Go",
+    "description": "AI Agent as a Pinix Clip — agentic loop with memory, tools, and vision"
   },
   {
-    "repo": "nv-tlabs/dvlt",
-    "branch": "main",
-    "language": "Python",
-    "description": "Official implementation of Déjà View: Looping Transformers for Multi-View 3D Reconstruction"
-  },
-  {
-    "repo": "XiaomiMiMo/MiMo-Code",
+    "repo": "Hainrixz/open-carrusel",
     "branch": "main",
     "language": "TypeScript",
+    "description": "AI-powered Instagram carousel builder. Chat with Claude to design slides; export as PNGs at exact Instagram dimensions. Type /start in Claude Code to bootstrap."
+  },
+  {
+    "repo": "poteto/hiring-without-whiteboards",
+    "branch": "master",
+    "language": "JavaScript",
+    "description": "⭐️  Companies that don't have a broken hiring process"
+  },
+  {
+    "repo": "NativeScript/NativeScript",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "⚡ Write Native with TypeScript ✨ Best of all worlds (TypeScript, Swift, Objective C, Kotlin, Java, Dart). Use what you love ❤️ Angular, React, Solid, Svelte, Vue with: iOS (UIKit, SwiftUI), Android (View, Jetpack Compose), Flutter and you name it compatible."
+  },
+  {
+    "repo": "tinygo-org/tinygo",
+    "branch": "release",
+    "language": "Go",
+    "description": "Go compiler for small places. Microcontrollers, WebAssembly (WASM/WASI), and command-line tools. Based on LLVM."
+  },
+  {
+    "repo": "lillian039/ELF",
+    "branch": "main",
+    "language": "Python",
     "description": ""
   },
   {
-    "repo": "littlepeachs/NaturePanelForge",
-    "branch": "main",
-    "language": "Python",
-    "description": "NaturePanelForge is a code-first workflow for turning scientific figure images and open-access Nature-family papers into panel-level, executable plotting-code reconstruction tasks."
-  },
-  {
-    "repo": "zzzhhh1/free-nodes",
+    "repo": "MiniMax-AI/skills",
     "branch": "main",
     "language": "Python",
     "description": ""
   },
   {
-    "repo": "Zafer-Liu/Agent_Manager",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "A cross-platform desktop application for managing AI Agents and MCP Servers. 一款用于管理AI智能体与MCP服务器的跨平台桌面应用程序。"
+    "repo": "ysharma3501/LuxTTS",
+    "branch": "master",
+    "language": "Python",
+    "description": "A high-quality rapid TTS voice cloning model that reaches speeds of 150x realtime."
   },
   {
-    "repo": "Happy-Chen-CH/text_classification",
+    "repo": "qufei1993/skills-hub",
+    "branch": "main",
+    "language": "Rust",
+    "description": "A cross-platform desktop app to manage Agent Skills in one place and sync them to multiple AI coding tools’ global skills directories — “Install once, sync everywhere”."
+  },
+  {
+    "repo": "trevin-creator/autoresearch-mlx",
     "branch": "main",
     "language": "Python",
-    "description": "This is a text classification project based on the Category News feature of Toutiao. Initially, we used the random forest algorithm, then upgraded to FastText, and finally built a new text classification model using a BERT pre-trained model with an added fully connected layer.There may still contain several bugs—let's work together to fix them."
+    "description": "Apple Silicon (MLX) port of Karpathy's autoresearch — autonomous AI research loops on Mac, no PyTorch required."
   },
   {
-    "repo": "Jamonygr/certified-terraform-associate-azure-edition",
+    "repo": "ListerOvO1211/LazyEnv",
     "branch": "main",
-    "language": "HCL",
-    "description": "Azure-focused Terraform Associate study course with 40 lessons, labs, wikis, diagrams, validation scripts, and safety guidance."
+    "language": "C++",
+    "description": ""
   },
   {
-    "repo": "nevertoday/zhongguo-traditional-colors",
+    "repo": "AlpinDale/parsync",
+    "branch": "master",
+    "language": "Rust",
+    "description": "Parallel rsync-like pull sync over SSH with resume"
+  },
+  {
+    "repo": "golang-standards/project-layout",
+    "branch": "master",
+    "language": "Makefile",
+    "description": "Standard Go Project Layout"
+  },
+  {
+    "repo": "kunchenguid/lavish-axi",
     "branch": "main",
     "language": "JavaScript",
-    "description": "中华传统色演示、色卡浏览与颜色知识科普开源项目"
+    "description": "HTML is the new markdown. Lavish is the new editor for your HTML artifacts."
   },
   {
-    "repo": "evangelosvlachos96-dotcom/booking-microservices",
-    "branch": "main",
-    "language": "C#",
-    "description": "Flight booking system built as .NET 10 microservices with Vertical Slice Architecture, DDD, CQRS, Event Sourcing, gRPC, RabbitMQ, Wolverine, PostgreSQL, MongoDB and .NET Aspire."
+    "repo": "bottlerocket-os/bottlerocket",
+    "branch": "develop",
+    "language": "Rust",
+    "description": "An operating system designed for hosting containers"
   },
   {
-    "repo": "alfhamdy515-svg/NS-FW-AI-Image-and-Video-Generator-Uncensd",
-    "branch": "main",
-    "language": "C#",
-    "description": "A foundational toolkit for AI-driven image generation, focusing on creative expression and content creation."
+    "repo": "moby/buildkit",
+    "branch": "master",
+    "language": "Go",
+    "description": "concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit"
   }
 ]
