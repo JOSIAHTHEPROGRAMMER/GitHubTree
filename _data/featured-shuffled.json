@@ -1,146 +1,146 @@
 [
   {
-    "repo": "Robbyant/lingbot-map",
+    "repo": "meodai/heerich",
     "branch": "main",
-    "language": "Python",
-    "description": "A feed-forward 3D foundation model for reconstructing scenes from streaming data"
+    "language": "JavaScript",
+    "description": "Tiny engine for 3D voxel scenes rendered to SVG — boolean ops, oblique/perspective cameras, zero dependencies. Inspired by the geometric cardboard sculptures of Erwin Heerich."
   },
   {
-    "repo": "kuraeow/ultratears",
-    "branch": "main",
-    "language": "C",
-    "description": "Unofficial native Windows port of Tears of the Kingdom 1.4.3 using static recompilation. Builds locally from the player's own extracted game dump; no game files included."
-  },
-  {
-    "repo": "sndrec/WebMonkeyBall",
+    "repo": "OpenDCAI/OpenPrism",
     "branch": "main",
     "language": "TypeScript",
-    "description": "Super Monkey Ball on Web Broser."
+    "description": "Open-source implementation of AI-powered academic writing workspace inspired by OpenAI Prism, featuring LaTeX editing, PDF preview, and intelligent AI assistance"
   },
   {
-    "repo": "mre/awesome-static-analysis",
-    "branch": "master",
-    "language": "Rust",
-    "description": "⚙️ A curated list of static analysis (SAST) tools and linters for all programming languages, config files, build tools, and more. The focus is on tools which improve code quality."
-  },
-  {
-    "repo": "Mondo-Robotics/DiT4DiT",
-    "branch": "main",
+    "repo": "matrix-org/synapse",
+    "branch": "develop",
     "language": "Python",
-    "description": "This is the official code repo for DiT4DiT, a Vision-Action-Model (VAM) framework that combines video generation model with flow-matching-based action prediction for generalizable robotic manipulation."
+    "description": "Synapse: Matrix homeserver written in Python/Twisted."
   },
   {
-    "repo": "okooo5km/Skills4U",
-    "branch": "main",
-    "language": "TeX",
-    "description": "Skills here"
-  },
-  {
-    "repo": "nmap/nmap",
+    "repo": "nodemailer/nodemailer",
     "branch": "master",
-    "language": "C",
-    "description": "Nmap - the Network Mapper. Github mirror of official SVN repository."
+    "language": "JavaScript",
+    "description": "✉️ Send e-mails with Node.JS – easy as cake!"
   },
   {
-    "repo": "GordenSun/CuiMao",
+    "repo": "keithnull/TeachYourselfCS-CN",
+    "branch": "master",
+    "language": "Other",
+    "description": "TeachYourselfCS 的中文翻译 |  A Chinese translation of TeachYourselfCS"
+  },
+  {
+    "repo": "TheGreatGildo/nerv-ui",
     "branch": "main",
     "language": "HTML",
-    "description": "眼睛跟着鼠标旋转。"
+    "description": "NERV Operations Console aesthetic for web interfaces — Evangelion-inspired instrumentation UI skill for Claude Code / OpenClaw"
   },
   {
-    "repo": "liorwn/claudetop",
+    "repo": "Roberto02800/turnstile-token",
     "branch": "main",
-    "language": "Shell",
-    "description": "htop for your Claude Code sessions — real-time cost, cache efficiency, model comparison, and smart alerts"
+    "language": "Python",
+    "description": "A small Python CLI and library for Cloudflare Turnstile token - discover the sitekey, create a cf-turnstile-response token, and replay the browser identity"
   },
   {
-    "repo": "CleverCloud/mdr",
+    "repo": "577206/knowledge-forge",
     "branch": "main",
-    "language": "Rust",
-    "description": "a very light rust based markdown reader with support of mermaid (web, native, TUI). vibe coded"
+    "language": "JavaScript",
+    "description": "Local-first Obsidian knowledge ingestion workbench for PDFs, Markdown, TXT and spreadsheets."
   },
   {
-    "repo": "koffuxu/ai-influence-digest",
+    "repo": "KyrieCheungYep/ky-design-to-html-skill",
+    "branch": "main",
+    "language": "Python",
+    "description": "A Codex / Claude skill for recreating UI screenshots as HTML/CSS."
+  },
+  {
+    "repo": "zq779/yuhutong",
     "branch": "main",
     "language": "Python",
     "description": ""
   },
   {
-    "repo": "CraftyGeezer/Kalshi-Polymarket-Ai-bot",
+    "repo": "MengMengCode/CLICD",
+    "branch": "main",
+    "language": "Go",
+    "description": "CLICD 是一个面向 LXC/KVM 的轻量虚拟化管理面板，提供 Web 控制台、CLI、批量任务、镜像管理、NAT 端口、IPv6 分配、WebSSH、VNC、资源限制、流量限制和安全告警能力。它适合用来管理小型 VPS 上的 LXC 容器和 KVM 虚拟机，也适合需要批量创建和分发子用户管理链接的场景。"
+  },
+  {
+    "repo": "openai/role-specific-plugins",
+    "branch": "main",
+    "language": "Python",
+    "description": "Role-specific Codex plugin templates"
+  },
+  {
+    "repo": "aquace/CVE-2026-41940-PoC",
+    "branch": "main",
+    "language": "Python",
+    "description": "CVE-2026-41940 authentication bypass vulnerability proof-of-concept"
+  },
+  {
+    "repo": "EEliberto/IPA-Download",
+    "branch": "main",
+    "language": "Swift",
+    "description": "一款用于安装 IPA 历史版本的工具，适用于获取旧版应用并自动捕获数据包。下载后，可直接通过 AirDrop 传输至 iPhone、iPad 上并安装并使用。"
+  },
+  {
+    "repo": "nv-tlabs/dvlt",
+    "branch": "main",
+    "language": "Python",
+    "description": "Official implementation of Déjà View: Looping Transformers for Multi-View 3D Reconstruction"
+  },
+  {
+    "repo": "XiaomiMiMo/MiMo-Code",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": ""
+  },
+  {
+    "repo": "littlepeachs/NaturePanelForge",
+    "branch": "main",
+    "language": "Python",
+    "description": "NaturePanelForge is a code-first workflow for turning scientific figure images and open-access Nature-family papers into panel-level, executable plotting-code reconstruction tasks."
+  },
+  {
+    "repo": "zzzhhh1/free-nodes",
     "branch": "main",
     "language": "Python",
     "description": ""
   },
   {
-    "repo": "poseljacob/agentic-video-editor",
-    "branch": "main",
-    "language": "Python",
-    "description": "AI-powered video editor that turns raw footage and a creative brief into a polished ad using an ensemble of AI agents (Google Gemini + FFmpeg)"
-  },
-  {
-    "repo": "earendil-works/pi-tutorial",
+    "repo": "Zafer-Liu/Agent_Manager",
     "branch": "main",
     "language": "TypeScript",
-    "description": "An experimental tutorial mode for Pi"
+    "description": "A cross-platform desktop application for managing AI Agents and MCP Servers. 一款用于管理AI智能体与MCP服务器的跨平台桌面应用程序。"
   },
   {
-    "repo": "rayon-rs/rayon",
-    "branch": "master",
-    "language": "Rust",
-    "description": "Rayon: A data parallelism library for Rust"
-  },
-  {
-    "repo": "andraiming/speech-tokenizer-arena",
+    "repo": "Happy-Chen-CH/text_classification",
     "branch": "main",
     "language": "Python",
-    "description": "A side-by-side benchmarking playground for discrete speech tokenizers (EnCodec, HuBERT-units, SpeechTokenizer, etc.)."
+    "description": "This is a text classification project based on the Category News feature of Toutiao. Initially, we used the random forest algorithm, then upgraded to FastText, and finally built a new text classification model using a BERT pre-trained model with an added fully connected layer.There may still contain several bugs—let's work together to fix them."
   },
   {
-    "repo": "vectordotdev/vector",
-    "branch": "master",
-    "language": "Rust",
-    "description": "A high-performance observability data pipeline."
-  },
-  {
-    "repo": "yliust/Tactile",
+    "repo": "Jamonygr/certified-terraform-associate-azure-edition",
     "branch": "main",
-    "language": "Python",
-    "description": "Tactile: an accessibility-first operating layer for agents."
+    "language": "HCL",
+    "description": "Azure-focused Terraform Associate study course with 40 lessons, labs, wikis, diagrams, validation scripts, and safety guidance."
   },
   {
-    "repo": "Polymarket-Trading-kit/crypto-trading-bot",
+    "repo": "nevertoday/zhongguo-traditional-colors",
     "branch": "main",
-    "language": "TypeScript",
-    "description": "crypto trading bot crypto trading bot crypto trading bot crypto trading bot crypto trading bot crypto trading bot crypto trading bot crypto trading bot crypto trading bot crypto trading bot crypto trading bot crypto trading bot crypto trading bot crypto trading bot crypto trading bot crypto trading bot crypto trading bot crypto trading bot crypto"
+    "language": "JavaScript",
+    "description": "中华传统色演示、色卡浏览与颜色知识科普开源项目"
   },
   {
-    "repo": "techjarves/USB-Uncensored-LLM",
+    "repo": "evangelosvlachos96-dotcom/booking-microservices",
     "branch": "main",
-    "language": "Shell",
-    "description": "The ultimate zero-install, portable local AI environment. Run high-quality, uncensored LLMs (Gemma, Qwen, NemoMix) directly from any USB drive or SSD. Fully air-gapped, cross-platform (Win/Mac/Linux), and privacy-first with persistent chat history."
+    "language": "C#",
+    "description": "Flight booking system built as .NET 10 microservices with Vertical Slice Architecture, DDD, CQRS, Event Sourcing, gRPC, RabbitMQ, Wolverine, PostgreSQL, MongoDB and .NET Aspire."
   },
   {
-    "repo": "zai-org/GLM-OCR",
+    "repo": "alfhamdy515-svg/NS-FW-AI-Image-and-Video-Generator-Uncensd",
     "branch": "main",
-    "language": "Python",
-    "description": "GLM-OCR: Accurate ×  Fast × Comprehensive"
-  },
-  {
-    "repo": "JinGuYuan/jinguyuan-dumpling-skill",
-    "branch": "main",
-    "language": "Python",
-    "description": "金谷园饺子馆 AI Skill - 北邮边上的饺子馆"
-  },
-  {
-    "repo": "six2dez/burp-ai-agent",
-    "branch": "main",
-    "language": "Kotlin",
-    "description": "Burp Suite extension that adds built-in MCP tooling, AI-assisted analysis, privacy controls, passive and active scanning and more"
-  },
-  {
-    "repo": "prompt-security/clawsec",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "A complete security skill suite for OpenClaw's family of agents. Protect your SOUL.md (etc') with drift detection, live security recommendations, automated audits, and skill integrity verification. All from one installable suite."
+    "language": "C#",
+    "description": "A foundational toolkit for AI-driven image generation, focusing on creative expression and content creation."
   }
 ]
