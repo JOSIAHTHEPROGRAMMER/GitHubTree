@@ -1,146 +1,146 @@
 [
   {
-    "repo": "Droid-Deck/DroidDeck",
-    "branch": "main",
-    "language": "C",
-    "description": "DroidDeck brings the SteamOS experience to Android"
-  },
-  {
-    "repo": "radix-ui/primitives",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Radix Primitives is an open-source UI component library for building high-quality, accessible design systems and web apps. Maintained by @workos."
-  },
-  {
-    "repo": "Shopify/javy",
-    "branch": "main",
-    "language": "Rust",
-    "description": "JS to WebAssembly toolchain"
-  },
-  {
-    "repo": "op7418/Document-illustrator-skill",
-    "branch": "main",
-    "language": "Python",
-    "description": "帮你从文档生成对应的多张配图，内置了歸藏精心探索的图片风格，支持 16:9 和 3:4 两种比例，方便发小红书以及推特。"
-  },
-  {
-    "repo": "EvolutionAPI/evolution-go",
+    "repo": "chrisgreg/boop",
     "branch": "main",
     "language": "Go",
-    "description": "Evolution API / Evolution Go is an open-source WhatsApp integration API"
+    "description": "A tiny, self-hosted notification inbox for developers. Something happened in one of your apps; Boop tells you on your phone."
   },
   {
-    "repo": "Bhojendra-dev/LSFG-Desktop",
+    "repo": "fyne-io/fyne",
+    "branch": "master",
+    "language": "Go",
+    "description": "Cross platform GUI toolkit in Go inspired by Material Design"
+  },
+  {
+    "repo": "bitvoxing/Tomodachi-Life-Living-the-Dream-PC-Port",
     "branch": "main",
     "language": "C++",
-    "description": "lossless scaling steam desck download github reddit android lsfg 3 frame generation best settings upscaling ai ls1 fsr nis integer scaling windows 11 steam deck decky loader lsfg-vk setup"
+    "description": "Download Tomodachi Life: Living the Dream PC — optimized Windows version of the popular life simulation game. Create Miis, build relationships, host concerts and live your dream island life with improved performance and modern display support."
   },
   {
-    "repo": "alchaincyf/darwin-skill",
+    "repo": "herrbischoff/awesome-macos-command-line",
     "branch": "master",
-    "language": "HTML",
-    "description": "达尔文.skill —— 一个让你的Skill无限进化的系统：评估→改进→测试→保留或回滚 | Autoresearch-inspired autonomous skill optimization for Claude Code. Evaluate, improve, test, keep or revert."
+    "language": "Other",
+    "description": "Use your macOS terminal shell to do awesome things."
   },
   {
-    "repo": "Kylsky/chatgpt-team-helper",
-    "branch": "main",
-    "language": "Vue",
-    "description": "一站式Team账号管理"
-  },
-  {
-    "repo": "epiral/agent-clip",
-    "branch": "main",
-    "language": "Go",
-    "description": "AI Agent as a Pinix Clip — agentic loop with memory, tools, and vision"
-  },
-  {
-    "repo": "Hainrixz/open-carrusel",
+    "repo": "BuilderIO/mitosis",
     "branch": "main",
     "language": "TypeScript",
-    "description": "AI-powered Instagram carousel builder. Chat with Claude to design slides; export as PNGs at exact Instagram dimensions. Type /start in Claude Code to bootstrap."
+    "description": "Write components once, run everywhere. Compiles to React, Vue, Qwik, Solid, Angular, Svelte, and more."
   },
   {
-    "repo": "poteto/hiring-without-whiteboards",
+    "repo": "ensdomains/ens-contracts",
     "branch": "master",
-    "language": "JavaScript",
-    "description": "⭐️  Companies that don't have a broken hiring process"
-  },
-  {
-    "repo": "NativeScript/NativeScript",
-    "branch": "main",
     "language": "TypeScript",
-    "description": "⚡ Write Native with TypeScript ✨ Best of all worlds (TypeScript, Swift, Objective C, Kotlin, Java, Dart). Use what you love ❤️ Angular, React, Solid, Svelte, Vue with: iOS (UIKit, SwiftUI), Android (View, Jetpack Compose), Flutter and you name it compatible."
+    "description": "The core contracts of the ENS protocol"
   },
   {
-    "repo": "tinygo-org/tinygo",
-    "branch": "release",
+    "repo": "kubernetes/minikube",
+    "branch": "master",
     "language": "Go",
-    "description": "Go compiler for small places. Microcontrollers, WebAssembly (WASM/WASI), and command-line tools. Based on LLVM."
+    "description": "Run Kubernetes locally"
   },
   {
-    "repo": "lillian039/ELF",
+    "repo": "meltano/meltano",
     "branch": "main",
     "language": "Python",
+    "description": "Meltano: the declarative code-first data integration engine that powers your wildest data and ML-powered product ideas. Say goodbye to writing, maintaining, and scaling your own API integrations."
+  },
+  {
+    "repo": "nashsu/llm_wiki",
+    "branch": "main",
+    "language": "TypeScript",
     "description": ""
   },
   {
-    "repo": "MiniMax-AI/skills",
-    "branch": "main",
-    "language": "Python",
-    "description": ""
+    "repo": "adn8naiagent/F1ReplayTiming",
+    "branch": "dev",
+    "language": "TypeScript",
+    "description": "Visualisation of real-time track data and telemetry synced to F1 replays."
   },
   {
-    "repo": "ysharma3501/LuxTTS",
+    "repo": "louislva/claude-peers-mcp",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Allow all your Claude Codes to message each other ad-hoc!"
+  },
+  {
+    "repo": "facebook/jest",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Delightful JavaScript Testing."
+  },
+  {
+    "repo": "ory/kratos",
     "branch": "master",
-    "language": "Python",
-    "description": "A high-quality rapid TTS voice cloning model that reaches speeds of 150x realtime."
+    "language": "Go",
+    "description": "Headless cloud-native authentication and identity management written in Go. Scales to a billion+ users. Replace Homegrown, Auth0, Okta, Firebase with better UX and DX. Passkeys, Social Sign In, OIDC, Magic Link, Multi-Factor Auth, SMS, SAML, TOTP, and more. Runs everywhere, runs best on Ory Network."
   },
   {
-    "repo": "qufei1993/skills-hub",
-    "branch": "main",
-    "language": "Rust",
-    "description": "A cross-platform desktop app to manage Agent Skills in one place and sync them to multiple AI coding tools’ global skills directories — “Install once, sync everywhere”."
+    "repo": "thedaviddias/Front-End-Checklist",
+    "branch": "master",
+    "language": "Other",
+    "description": "🗂 The perfect Front-End Checklist for modern websites and meticulous developers"
   },
   {
-    "repo": "trevin-creator/autoresearch-mlx",
-    "branch": "main",
-    "language": "Python",
-    "description": "Apple Silicon (MLX) port of Karpathy's autoresearch — autonomous AI research loops on Mac, no PyTorch required."
-  },
-  {
-    "repo": "ListerOvO1211/LazyEnv",
+    "repo": "hamzerbug-wq/Animal-Crossing-New-Horizons-PC",
     "branch": "main",
     "language": "C++",
+    "description": "Animal Crossing New Horizons PC Download April 2026 Version 3.0.2 Patch Notes Switch 2 Edition Resort Hotel Bulk Crafting Update Free High Performance 4K 60FPS Shader Fix Horizon Zero Texture Pack Mii Maker 25th Anniversary Event Guide NookLink Bridge Tutorial Stable Build Latest Emulator Eden Ryujinx"
+  },
+  {
+    "repo": "FiloSottile/age",
+    "branch": "main",
+    "language": "Go",
+    "description": "A simple, modern and secure encryption tool (and Go library) with small explicit keys, no config options, and UNIX-style composability."
+  },
+  {
+    "repo": "THUDM/CodeGeeX",
+    "branch": "main",
+    "language": "Python",
+    "description": "CodeGeeX: An Open Multilingual Code Generation Model (KDD 2023)"
+  },
+  {
+    "repo": "Nightmare-Eclipse/UnDefend",
+    "branch": "main",
+    "language": "C++",
+    "description": "Repository hosting windows defender DOS tool"
+  },
+  {
+    "repo": "mgks/GitHubTree",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "Visualise any GitHub repository folder structure. Available as a web app, CLI tool, and node.js library."
+  },
+  {
+    "repo": "paperclipai/paperclip",
+    "branch": "master",
+    "language": "TypeScript",
+    "description": "Open-source orchestration for zero-human companies"
+  },
+  {
+    "repo": "Noahmusahdevs/roblox-account-manager",
+    "branch": "main",
+    "language": "C#",
+    "description": "roblox account manager github Download  Multi Roblox Account ic3w0lf22 rbx account manager alt manager multi instance roblox alt accounts cookie extractor open source windows 11 windows 10 auto login private server developer api secure encryption script automation multi boxing free download"
+  },
+  {
+    "repo": "h5bp/html5-boilerplate",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "A professional front-end template for building fast, robust, and adaptable web apps or sites."
+  },
+  {
+    "repo": "DylanDavis1/DSCourier",
+    "branch": "main",
+    "language": "PowerShell",
     "description": ""
   },
   {
-    "repo": "AlpinDale/parsync",
-    "branch": "master",
-    "language": "Rust",
-    "description": "Parallel rsync-like pull sync over SSH with resume"
-  },
-  {
-    "repo": "golang-standards/project-layout",
-    "branch": "master",
-    "language": "Makefile",
-    "description": "Standard Go Project Layout"
-  },
-  {
-    "repo": "kunchenguid/lavish-axi",
+    "repo": "nikvpn-iran/nikvpn-codespace",
     "branch": "main",
-    "language": "JavaScript",
-    "description": "HTML is the new markdown. Lavish is the new editor for your HTML artifacts."
-  },
-  {
-    "repo": "bottlerocket-os/bottlerocket",
-    "branch": "develop",
-    "language": "Rust",
-    "description": "An operating system designed for hosting containers"
-  },
-  {
-    "repo": "moby/buildkit",
-    "branch": "master",
-    "language": "Go",
-    "description": "concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit"
+    "language": "Shell",
+    "description": "Free VLESS proxy using GitHub Codespaces - NikVPN for Iran"
   }
 ]
