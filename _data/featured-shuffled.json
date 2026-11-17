@@ -1,146 +1,146 @@
 [
   {
-    "repo": "chrisgreg/boop",
-    "branch": "main",
-    "language": "Go",
-    "description": "A tiny, self-hosted notification inbox for developers. Something happened in one of your apps; Boop tells you on your phone."
-  },
-  {
-    "repo": "fyne-io/fyne",
-    "branch": "master",
-    "language": "Go",
-    "description": "Cross platform GUI toolkit in Go inspired by Material Design"
-  },
-  {
-    "repo": "bitvoxing/Tomodachi-Life-Living-the-Dream-PC-Port",
-    "branch": "main",
-    "language": "C++",
-    "description": "Download Tomodachi Life: Living the Dream PC — optimized Windows version of the popular life simulation game. Create Miis, build relationships, host concerts and live your dream island life with improved performance and modern display support."
-  },
-  {
-    "repo": "herrbischoff/awesome-macos-command-line",
-    "branch": "master",
-    "language": "Other",
-    "description": "Use your macOS terminal shell to do awesome things."
-  },
-  {
-    "repo": "BuilderIO/mitosis",
+    "repo": "wagmi-dev/wagmi",
     "branch": "main",
     "language": "TypeScript",
-    "description": "Write components once, run everywhere. Compiles to React, Vue, Qwik, Solid, Angular, Svelte, and more."
+    "description": "Reactive primitives for Ethereum apps"
   },
   {
-    "repo": "ensdomains/ens-contracts",
+    "repo": "gargpratyush/jev-router",
     "branch": "master",
+    "language": "JavaScript",
+    "description": "Route to the cheapest model in claude code for your task using jev-router"
+  },
+  {
+    "repo": "mizorewww/course2md",
+    "branch": "main",
+    "language": "Rust",
+    "description": "Turn YouTube, Bilibili, or local course/meeting recordings into slide-illustrated Markdown and HTML lecture notes."
+  },
+  {
+    "repo": "Droid-Deck/DroidDeck",
+    "branch": "main",
+    "language": "C",
+    "description": "DroidDeck brings the SteamOS experience to Android"
+  },
+  {
+    "repo": "mirkovicdev/HFTENGINE",
+    "branch": "main",
     "language": "TypeScript",
-    "description": "The core contracts of the ENS protocol"
+    "description": "Replay console for hftbacktest market-making backtests: order book, queue position of every resting order, feed and order latency, fills and the raw feed from the collector, on real recorded Binance Futures data. Rust runner on the hftbacktest crate, text-mode dashboard. A backtester, not a trading bot."
   },
   {
-    "repo": "kubernetes/minikube",
-    "branch": "master",
-    "language": "Go",
-    "description": "Run Kubernetes locally"
-  },
-  {
-    "repo": "meltano/meltano",
+    "repo": "MaxGramser/homeassistant_espscreen",
     "branch": "main",
     "language": "Python",
-    "description": "Meltano: the declarative code-first data integration engine that powers your wildest data and ML-powered product ideas. Say goodbye to writing, maintaining, and scaling your own API integrations."
-  },
-  {
-    "repo": "nashsu/llm_wiki",
-    "branch": "main",
-    "language": "TypeScript",
     "description": ""
   },
   {
-    "repo": "adn8naiagent/F1ReplayTiming",
-    "branch": "dev",
-    "language": "TypeScript",
-    "description": "Visualisation of real-time track data and telemetry synced to F1 replays."
-  },
-  {
-    "repo": "louislva/claude-peers-mcp",
+    "repo": "receptron/laya",
     "branch": "main",
     "language": "TypeScript",
-    "description": "Allow all your Claude Codes to message each other ad-hoc!"
+    "description": "Run Laya, the open-source Jev-compatible System-1 decision model, from Node.js / TypeScript via ONNX Runtime"
   },
   {
-    "repo": "facebook/jest",
+    "repo": "aimen08/noty",
+    "branch": "main",
+    "language": "HTML",
+    "description": "Sticky notes that live at the edge of your screen. Native macOS, SwiftUI + AppKit, local-only with encrypted note bodies."
+  },
+  {
+    "repo": "jackwener/wx-cli-again",
+    "branch": "main",
+    "language": "Rust",
+    "description": "WeChat local data CLI (query/decrypt/export) — fresh start from wx-cli"
+  },
+  {
+    "repo": "Haleclipse/CometixCode",
+    "branch": "master",
+    "language": "Rust",
+    "description": "An unofficial Rust reimplementation of Anthropic's Claude Code terminal UI, built on iocraft"
+  },
+  {
+    "repo": "PhiloLabs/fable51-worlds",
     "branch": "main",
     "language": "TypeScript",
-    "description": "Delightful JavaScript Testing."
+    "description": "worlds via code, from fable 5.1"
   },
   {
-    "repo": "ory/kratos",
-    "branch": "master",
-    "language": "Go",
-    "description": "Headless cloud-native authentication and identity management written in Go. Scales to a billion+ users. Replace Homegrown, Auth0, Okta, Firebase with better UX and DX. Passkeys, Social Sign In, OIDC, Magic Link, Multi-Factor Auth, SMS, SAML, TOTP, and more. Runs everywhere, runs best on Ory Network."
-  },
-  {
-    "repo": "thedaviddias/Front-End-Checklist",
-    "branch": "master",
-    "language": "Other",
-    "description": "🗂 The perfect Front-End Checklist for modern websites and meticulous developers"
-  },
-  {
-    "repo": "hamzerbug-wq/Animal-Crossing-New-Horizons-PC",
+    "repo": "btsouth/omakade",
     "branch": "main",
     "language": "C++",
-    "description": "Animal Crossing New Horizons PC Download April 2026 Version 3.0.2 Patch Notes Switch 2 Edition Resort Hotel Bulk Crafting Update Free High Performance 4K 60FPS Shader Fix Horizon Zero Texture Pack Mii Maker 25th Anniversary Event Guide NookLink Bridge Tutorial Stable Build Latest Emulator Eden Ryujinx"
+    "description": "A beautiful, local-first game library built for Omarchy."
   },
   {
-    "repo": "FiloSottile/age",
+    "repo": "KJGX66F/usque-custom-pro",
     "branch": "main",
-    "language": "Go",
-    "description": "A simple, modern and secure encryption tool (and Go library) with small explicit keys, no config options, and UNIX-style composability."
+    "language": "JavaScript",
+    "description": "基于 Cloudflare WARP / MASQUE 的可视化注册、配置生成与多客户端转换工具。 生成、Clash/Mihomo 智能分流、Shadowrocket、sing-box、本地 VLESS 桥接，以及可选的 WARP 出口检测。"
   },
   {
-    "repo": "THUDM/CodeGeeX",
+    "repo": "anthropics/uplifting-biomolecular-modeling",
     "branch": "main",
     "language": "Python",
-    "description": "CodeGeeX: An Open Multilingual Code Generation Model (KDD 2023)"
-  },
-  {
-    "repo": "Nightmare-Eclipse/UnDefend",
-    "branch": "main",
-    "language": "C++",
-    "description": "Repository hosting windows defender DOS tool"
-  },
-  {
-    "repo": "mgks/GitHubTree",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "Visualise any GitHub repository folder structure. Available as a web app, CLI tool, and node.js library."
-  },
-  {
-    "repo": "paperclipai/paperclip",
-    "branch": "master",
-    "language": "TypeScript",
-    "description": "Open-source orchestration for zero-human companies"
-  },
-  {
-    "repo": "Noahmusahdevs/roblox-account-manager",
-    "branch": "main",
-    "language": "C#",
-    "description": "roblox account manager github Download  Multi Roblox Account ic3w0lf22 rbx account manager alt manager multi instance roblox alt accounts cookie extractor open source windows 11 windows 10 auto login private server developer api secure encryption script automation multi boxing free download"
-  },
-  {
-    "repo": "h5bp/html5-boilerplate",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "A professional front-end template for building fast, robust, and adaptable web apps or sites."
-  },
-  {
-    "repo": "DylanDavis1/DSCourier",
-    "branch": "main",
-    "language": "PowerShell",
     "description": ""
   },
   {
-    "repo": "nikvpn-iran/nikvpn-codespace",
+    "repo": "SegFault42/iOS-GPS-Spoofer",
     "branch": "main",
-    "language": "Shell",
-    "description": "Free VLESS proxy using GitHub Codespaces - NikVPN for Iran"
+    "language": "Swift",
+    "description": "Real time GPS spoofer for iOS"
+  },
+  {
+    "repo": "Edge0-AI/Edge0",
+    "branch": "main",
+    "language": "Python",
+    "description": ""
+  },
+  {
+    "repo": "rmalde/minecraft-agent",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "Astra planner and JEV controller for Minecraft, with native recording, tested routes, and run verification."
+  },
+  {
+    "repo": "robbietilton/Compositor",
+    "branch": "main",
+    "language": "Swift",
+    "description": "The Photoshop alternative for Mac"
+  },
+  {
+    "repo": "Leviidev/Husk",
+    "branch": "main",
+    "language": "Swift",
+    "description": "Android App Launcher for iOS"
+  },
+  {
+    "repo": "mouredev/hello-sdd",
+    "branch": "main",
+    "language": "Python",
+    "description": "Curso de SDD (Spec-Driven Development) desde cero"
+  },
+  {
+    "repo": "kajisho5/ffmpeg-skill",
+    "branch": "main",
+    "language": "Python",
+    "description": ""
+  },
+  {
+    "repo": "dreamers-laboratory/timeseries-atlas",
+    "branch": "main",
+    "language": "Python",
+    "description": "A map of modern time-series forecasting architectures, each with a short README and runnable code."
+  },
+  {
+    "repo": "zai-org/ZCode",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Z.ai's coding agent harness. Powerful, intelligent, extensible."
+  },
+  {
+    "repo": "pallavi-shekhar/ai-engineering-interview-questions-company-wise",
+    "branch": "main",
+    "language": "Markdown",
+    "description": "Your Cheat Sheet For AI Engineering Interviews at Top AI Companies - Questions and Answers."
   }
 ]
