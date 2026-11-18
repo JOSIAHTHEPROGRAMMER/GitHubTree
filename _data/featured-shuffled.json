@@ -1,146 +1,146 @@
 [
   {
-    "repo": "wagmi-dev/wagmi",
+    "repo": "alefinvest/polymarket-copy-bot",
     "branch": "main",
     "language": "TypeScript",
-    "description": "Reactive primitives for Ethereum apps"
+    "description": "polymarket copy trading bot polymarket copy bot polymarket trading bot polymarket copy trading bot polymarket copy bot polymarket trading bot polymarket copy trading bot polymarket copy bot polymarket trading bot polymarket copy trading bot polymarket copy bot polymarket trading bot polymarket copy trading bot polymarket copy bot polymarket trading"
   },
   {
-    "repo": "gargpratyush/jev-router",
+    "repo": "shadowsocks/shadowsocks-windows",
     "branch": "master",
-    "language": "JavaScript",
-    "description": "Route to the cheapest model in claude code for your task using jev-router"
+    "language": "C#",
+    "description": "A C# port of shadowsocks"
   },
   {
-    "repo": "mizorewww/course2md",
+    "repo": "dev-protocol/polymarket-kalshi-momentum-trading-bot",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Updated version - A sophisticated automated trading bot that mirrors the positions of a target trader on Polymarket. The bot continuously monitors a specified wallet address and replicates their trading positions in real-time with customizable risk management parameters. polymarket trading bot that do polymarket trading like trading bot on polymark"
+  },
+  {
+    "repo": "cfinke/EpsteIn",
+    "branch": "main",
+    "language": "Python",
+    "description": "See which of your LinkedIn connections appear in the Epstein files."
+  },
+  {
+    "repo": "EA1FUO/AntennaSim",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Web-based antenna simulator powered by NEC2. Design, simulate, and analyze antennas with real-time 3D visualization, radiation patterns, SWR, and impedance charts."
+  },
+  {
+    "repo": "daniel3303/ClaudeCodeStatusLine",
+    "branch": "main",
+    "language": "Shell",
+    "description": ""
+  },
+  {
+    "repo": "alexiglad/XM",
+    "branch": "main",
+    "language": "Python",
+    "description": "PyTorch Code for Explorative Modeling: Unlocking a Third Pretraining Axis and End-to-End Generation"
+  },
+  {
+    "repo": "ierror/synaps-cad",
     "branch": "main",
     "language": "Rust",
-    "description": "Turn YouTube, Bilibili, or local course/meeting recordings into slide-illustrated Markdown and HTML lecture notes."
+    "description": "The AI-powered 3D CAD IDE — edit code, visualize in 3D, and reshape your designs with natural language."
   },
   {
-    "repo": "Droid-Deck/DroidDeck",
+    "repo": "pyca/cryptography",
+    "branch": "main",
+    "language": "Python",
+    "description": "cryptography is a package designed to expose cryptographic primitives and recipes to Python developers."
+  },
+  {
+    "repo": "DataDog/datadog-agent",
+    "branch": "main",
+    "language": "Go",
+    "description": "Main repository for Datadog Agent"
+  },
+  {
+    "repo": "cli/cli",
+    "branch": "trunk",
+    "language": "Go",
+    "description": "GitHub’s official command line tool"
+  },
+  {
+    "repo": "gemini-cli-extensions/ralph",
+    "branch": "main",
+    "language": "Shell",
+    "description": "Gemini CLI extension for Ralph loops"
+  },
+  {
+    "repo": "blknoiz0632/CandyDrop",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "Cut the rope. Feed the monster. Earn real Solana. A skill-based play-to-earn puzzle on @Solana — play, stack $CANDY, claim SOL. No wagers. Just skill."
+  },
+  {
+    "repo": "valeriansaliou/sonic",
+    "branch": "master",
+    "language": "Rust",
+    "description": "🦔 Fast, lightweight & schema-less search backend. An alternative to Elasticsearch that runs on a few MBs of RAM."
+  },
+  {
+    "repo": "xqnode/codex-helper",
+    "branch": "main",
+    "language": "Rust",
+    "description": "轻量 Windows 托盘代理，让 Codex CLI 一键切换 DeepSeek、通义千问等国产大模型"
+  },
+  {
+    "repo": "tombkeeper/BitKindle",
     "branch": "main",
     "language": "C",
-    "description": "DroidDeck brings the SteamOS experience to Android"
+    "description": ""
   },
   {
-    "repo": "mirkovicdev/HFTENGINE",
+    "repo": "HTX-Trading-ToolKit/HTX-human-elite-copy-trading-bot",
     "branch": "main",
     "language": "TypeScript",
-    "description": "Replay console for hftbacktest market-making backtests: order book, queue position of every resting order, feed and order latency, fills and the raw feed from the collector, on real recorded Binance Futures data. Rust runner on the hftbacktest crate, text-mode dashboard. A backtester, not a trading bot."
+    "description": "HTX Human Elite Copy Trading Bot HTX Human Elite Copy Trading Bot HTX Human Elite Copy Trading Bot HTX Human Elite Copy Trading Bot HTX Human Elite Copy Trading Bot HTX Human Elite Copy Trading Bot HTX Human Elite Copy Trading Bot HTX Human Elite Copy Trading Bot HTX Human Elite Copy Trading Bot HTX Human Elite Copy Trading Bot"
   },
   {
-    "repo": "MaxGramser/homeassistant_espscreen",
+    "repo": "xiaohuailabs/xiaohu-video-translate",
+    "branch": "main",
+    "language": "Python",
+    "description": "对 AI 说一句话，把外语视频自动配上中文字幕 —— 下载/转写/翻译/润色/烧录一条龙，全程本地，转写零 API 费"
+  },
+  {
+    "repo": "vannyben7/course-learning-workspace",
     "branch": "main",
     "language": "Python",
     "description": ""
   },
   {
-    "repo": "receptron/laya",
+    "repo": "coleam00/excalidraw-diagram-skill",
+    "branch": "main",
+    "language": "Python",
+    "description": "Skill to give Claude Code (and any coding agent) the ability to generate beautiful and practical Excalidraw diagrams."
+  },
+  {
+    "repo": "rancher/k3d",
+    "branch": "main",
+    "language": "Go",
+    "description": "Little helper to run CNCF's k3s in Docker"
+  },
+  {
+    "repo": "MistKailorg/polymarket-copytrading-bot-newlogic",
     "branch": "main",
     "language": "TypeScript",
-    "description": "Run Laya, the open-source Jev-compatible System-1 decision model, from Node.js / TypeScript via ONNX Runtime"
+    "description": "polymarket trading bot | polymarket trading bot | polymarket trading bot | polymarket trading bot | polymarket trading bot | polymarket trading bot | polymarket trading bot | polymarket trading bot | polymarket copy trading bot | polymarket copy trading bot | polymarket copy trading bot | polymarket copy trading bot | polymarket copy trading bot |"
   },
   {
-    "repo": "aimen08/noty",
+    "repo": "beijingcao/binance-deribit-btc",
     "branch": "main",
-    "language": "HTML",
-    "description": "Sticky notes that live at the edge of your screen. Native macOS, SwiftUI + AppKit, local-only with encrypted note bodies."
+    "language": "Python",
+    "description": "Binance and Deribit BTC cross-exchange arbitrage bot with Redis state recovery, Telegram alerts, and a Flask monitoring dashboard."
   },
   {
-    "repo": "jackwener/wx-cli-again",
-    "branch": "main",
-    "language": "Rust",
-    "description": "WeChat local data CLI (query/decrypt/export) — fresh start from wx-cli"
-  },
-  {
-    "repo": "Haleclipse/CometixCode",
-    "branch": "master",
-    "language": "Rust",
-    "description": "An unofficial Rust reimplementation of Anthropic's Claude Code terminal UI, built on iocraft"
-  },
-  {
-    "repo": "PhiloLabs/fable51-worlds",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "worlds via code, from fable 5.1"
-  },
-  {
-    "repo": "btsouth/omakade",
+    "repo": "xaskasdf/ntransformer",
     "branch": "main",
     "language": "C++",
-    "description": "A beautiful, local-first game library built for Omarchy."
-  },
-  {
-    "repo": "KJGX66F/usque-custom-pro",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "基于 Cloudflare WARP / MASQUE 的可视化注册、配置生成与多客户端转换工具。 生成、Clash/Mihomo 智能分流、Shadowrocket、sing-box、本地 VLESS 桥接，以及可选的 WARP 出口检测。"
-  },
-  {
-    "repo": "anthropics/uplifting-biomolecular-modeling",
-    "branch": "main",
-    "language": "Python",
-    "description": ""
-  },
-  {
-    "repo": "SegFault42/iOS-GPS-Spoofer",
-    "branch": "main",
-    "language": "Swift",
-    "description": "Real time GPS spoofer for iOS"
-  },
-  {
-    "repo": "Edge0-AI/Edge0",
-    "branch": "main",
-    "language": "Python",
-    "description": ""
-  },
-  {
-    "repo": "rmalde/minecraft-agent",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "Astra planner and JEV controller for Minecraft, with native recording, tested routes, and run verification."
-  },
-  {
-    "repo": "robbietilton/Compositor",
-    "branch": "main",
-    "language": "Swift",
-    "description": "The Photoshop alternative for Mac"
-  },
-  {
-    "repo": "Leviidev/Husk",
-    "branch": "main",
-    "language": "Swift",
-    "description": "Android App Launcher for iOS"
-  },
-  {
-    "repo": "mouredev/hello-sdd",
-    "branch": "main",
-    "language": "Python",
-    "description": "Curso de SDD (Spec-Driven Development) desde cero"
-  },
-  {
-    "repo": "kajisho5/ffmpeg-skill",
-    "branch": "main",
-    "language": "Python",
-    "description": ""
-  },
-  {
-    "repo": "dreamers-laboratory/timeseries-atlas",
-    "branch": "main",
-    "language": "Python",
-    "description": "A map of modern time-series forecasting architectures, each with a short README and runnable code."
-  },
-  {
-    "repo": "zai-org/ZCode",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Z.ai's coding agent harness. Powerful, intelligent, extensible."
-  },
-  {
-    "repo": "pallavi-shekhar/ai-engineering-interview-questions-company-wise",
-    "branch": "main",
-    "language": "Markdown",
-    "description": "Your Cheat Sheet For AI Engineering Interviews at Top AI Companies - Questions and Answers."
+    "description": "High-efficiency LLM inference engine in C++/CUDA. Run Llama 70B on RTX 3090."
   }
 ]

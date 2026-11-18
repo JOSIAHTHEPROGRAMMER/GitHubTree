@@ -1,8 +1,8 @@
 {
-  "repo": "joshpuckett/allo",
+  "repo": "StormBrawlerSack/legwork-osint-ai-investigator",
   "branch": "main",
-  "language": "Python",
-  "description": "Allo is your friendly neighborhood typeface, free and open source",
-  "stars": 751,
-  "forks": 17
+  "language": "JavaScript",
+  "description": "AI OSINT investigator for Windows: ask a question in plain words and get an answer built from public sources, with a source on every sentence.",
+  "stars": 452,
+  "forks": 29
 }
