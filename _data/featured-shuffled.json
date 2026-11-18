@@ -1,146 +1,146 @@
 [
   {
-    "repo": "alefinvest/polymarket-copy-bot",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "polymarket copy trading bot polymarket copy bot polymarket trading bot polymarket copy trading bot polymarket copy bot polymarket trading bot polymarket copy trading bot polymarket copy bot polymarket trading bot polymarket copy trading bot polymarket copy bot polymarket trading bot polymarket copy trading bot polymarket copy bot polymarket trading"
-  },
-  {
-    "repo": "shadowsocks/shadowsocks-windows",
-    "branch": "master",
-    "language": "C#",
-    "description": "A C# port of shadowsocks"
-  },
-  {
-    "repo": "dev-protocol/polymarket-kalshi-momentum-trading-bot",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Updated version - A sophisticated automated trading bot that mirrors the positions of a target trader on Polymarket. The bot continuously monitors a specified wallet address and replicates their trading positions in real-time with customizable risk management parameters. polymarket trading bot that do polymarket trading like trading bot on polymark"
-  },
-  {
-    "repo": "cfinke/EpsteIn",
-    "branch": "main",
-    "language": "Python",
-    "description": "See which of your LinkedIn connections appear in the Epstein files."
-  },
-  {
-    "repo": "EA1FUO/AntennaSim",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Web-based antenna simulator powered by NEC2. Design, simulate, and analyze antennas with real-time 3D visualization, radiation patterns, SWR, and impedance charts."
-  },
-  {
-    "repo": "daniel3303/ClaudeCodeStatusLine",
-    "branch": "main",
-    "language": "Shell",
-    "description": ""
-  },
-  {
-    "repo": "alexiglad/XM",
-    "branch": "main",
-    "language": "Python",
-    "description": "PyTorch Code for Explorative Modeling: Unlocking a Third Pretraining Axis and End-to-End Generation"
-  },
-  {
-    "repo": "ierror/synaps-cad",
-    "branch": "main",
-    "language": "Rust",
-    "description": "The AI-powered 3D CAD IDE — edit code, visualize in 3D, and reshape your designs with natural language."
-  },
-  {
-    "repo": "pyca/cryptography",
-    "branch": "main",
-    "language": "Python",
-    "description": "cryptography is a package designed to expose cryptographic primitives and recipes to Python developers."
-  },
-  {
-    "repo": "DataDog/datadog-agent",
-    "branch": "main",
-    "language": "Go",
-    "description": "Main repository for Datadog Agent"
-  },
-  {
-    "repo": "cli/cli",
-    "branch": "trunk",
-    "language": "Go",
-    "description": "GitHub’s official command line tool"
-  },
-  {
-    "repo": "gemini-cli-extensions/ralph",
-    "branch": "main",
-    "language": "Shell",
-    "description": "Gemini CLI extension for Ralph loops"
-  },
-  {
-    "repo": "blknoiz0632/CandyDrop",
+    "repo": "0xwilliamortiz/humanizer-cli",
     "branch": "main",
     "language": "JavaScript",
-    "description": "Cut the rope. Feed the monster. Earn real Solana. A skill-based play-to-earn puzzle on @Solana — play, stack $CANDY, claim SOL. No wagers. Just skill."
+    "description": "33 ways to spot AI-written text, right in your terminal. Before/after examples, draft checker, zero dependencies."
   },
   {
-    "repo": "valeriansaliou/sonic",
+    "repo": "smontlouis/bible-strong-avatar-lab",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": ""
+  },
+  {
+    "repo": "x4gKing/PasarGuard",
+    "branch": "main",
+    "language": "Dockerfile",
+    "description": ""
+  },
+  {
+    "repo": "gnomeria/usbtree",
+    "branch": "main",
+    "language": "Rust",
+    "description": "Live USB device tree in your terminal. Rust TUI, no root, no libusb. Full activity metrics on Linux; device tree on macOS/Windows."
+  },
+  {
+    "repo": "CaptureGrubEnchant/SolidWorks",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "SolidWorks MCP Server connects an AI assistant to a running SolidWorks instance. Sketch, extrude, fillet, export STEP/STL, generate macros."
+  },
+  {
+    "repo": "wanonewan/wanwan",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": ""
+  },
+  {
+    "repo": "vvxw/deploy-vercel",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "Install Command：npm install"
+  },
+  {
+    "repo": "OlegSotnikov/jc-rs",
     "branch": "master",
     "language": "Rust",
-    "description": "🦔 Fast, lightweight & schema-less search backend. An alternative to Elasticsearch that runs on a few MBs of RAM."
+    "description": "237 parsers that turn command output, file formats and strings into JSON, from one static Rust binary with no runtime to install. Verified against the full reference fixture corpus on every commit."
   },
   {
-    "repo": "xqnode/codex-helper",
+    "repo": "smthdagg/wificalling-location-gateway",
     "branch": "main",
     "language": "Rust",
-    "description": "轻量 Windows 托盘代理，让 Codex CLI 一键切换 DeepSeek、通义千问等国产大模型"
+    "description": "Fail-open OpenWrt WLOC location gateway PoC with auditable multi-agent development workflow"
   },
   {
-    "repo": "tombkeeper/BitKindle",
+    "repo": "we9lii/Resident-Evil-Requiem-Ultimate-Trainer-2026_v_2",
     "branch": "main",
-    "language": "C",
+    "language": "Python",
+    "description": "Ultimate trainer for Resident Evil Requiem (RE9) – 42+ features including God Mode, Infinite Ammo, CP Editor, FOV fix, and more."
+  },
+  {
+    "repo": "qianye-wuyu/yueyuan-bazi",
+    "branch": "main",
+    "language": "Python",
+    "description": "跃渊 YueYuan · 子平命理分析系统（研究型八字解读 Skill：假设-证据-反证、规则分层、预注册预测+后验验证、变格四态状态机、100 案例测试）"
+  },
+  {
+    "repo": "browser-use/macos-harness",
+    "branch": "main",
+    "language": "Python",
+    "description": "The simplest, thinnest harness that gives an LLM complete freedom to control a Mac."
+  },
+  {
+    "repo": "haowang02/codex-candy-eval",
+    "branch": "main",
+    "language": "Python",
+    "description": "Codex 降智测试"
+  },
+  {
+    "repo": "zouyuxuan122/Deepseek-Harness-EAC",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "DeepSeek Harness (dsh) Windows desktop client - bundled Node.js + dsh CLI, one-click launch, 10 built-in UI skins. EAC: Embracing All Creation 揽尽万象"
+  },
+  {
+    "repo": "swping999/scene-card-studio",
+    "branch": "main",
+    "language": "Python",
+    "description": "AI visual director for turning personal photos into structured, editable visual narratives."
+  },
+  {
+    "repo": "Caplet1989/Brokies-AI-Foundry",
+    "branch": "main",
+    "language": "HTML",
+    "description": "Top Free AI Developer Tools for 2026"
+  },
+  {
+    "repo": "asimons81/hermes-gpt",
+    "branch": "master",
+    "language": "Python",
     "description": ""
   },
   {
-    "repo": "HTX-Trading-ToolKit/HTX-human-elite-copy-trading-bot",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "HTX Human Elite Copy Trading Bot HTX Human Elite Copy Trading Bot HTX Human Elite Copy Trading Bot HTX Human Elite Copy Trading Bot HTX Human Elite Copy Trading Bot HTX Human Elite Copy Trading Bot HTX Human Elite Copy Trading Bot HTX Human Elite Copy Trading Bot HTX Human Elite Copy Trading Bot HTX Human Elite Copy Trading Bot"
-  },
-  {
-    "repo": "xiaohuailabs/xiaohu-video-translate",
+    "repo": "HuiyuLi-2000/Chinese-Grant-Writer-Skills",
     "branch": "main",
     "language": "Python",
-    "description": "对 AI 说一句话，把外语视频自动配上中文字幕 —— 下载/转写/翻译/润色/烧录一条龙，全程本地，转写零 API 费"
+    "description": "面向 NSFC、NSSFC、省部级自/社科申请书的 AI 写作技能集。从近 20 本管理口申请书中提炼写作范式，覆盖核心撰写环节。"
   },
   {
-    "repo": "vannyben7/course-learning-workspace",
+    "repo": "sunflower-of-parchman/codex-hygiene",
+    "branch": "main",
+    "language": "Shell",
+    "description": "Codex skill for auditing and tuning Codex Desktop context/tool surfaces"
+  },
+  {
+    "repo": "Rimagination/h3lite",
     "branch": "main",
     "language": "Python",
-    "description": ""
+    "description": "A hardware-aware Codex skill for local MiniMax H3 video generation through ComfyUI"
   },
   {
-    "repo": "coleam00/excalidraw-diagram-skill",
-    "branch": "main",
-    "language": "Python",
-    "description": "Skill to give Claude Code (and any coding agent) the ability to generate beautiful and practical Excalidraw diagrams."
-  },
-  {
-    "repo": "rancher/k3d",
-    "branch": "main",
-    "language": "Go",
-    "description": "Little helper to run CNCF's k3s in Docker"
-  },
-  {
-    "repo": "MistKailorg/polymarket-copytrading-bot-newlogic",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "polymarket trading bot | polymarket trading bot | polymarket trading bot | polymarket trading bot | polymarket trading bot | polymarket trading bot | polymarket trading bot | polymarket trading bot | polymarket copy trading bot | polymarket copy trading bot | polymarket copy trading bot | polymarket copy trading bot | polymarket copy trading bot |"
-  },
-  {
-    "repo": "beijingcao/binance-deribit-btc",
-    "branch": "main",
-    "language": "Python",
-    "description": "Binance and Deribit BTC cross-exchange arbitrage bot with Redis state recovery, Telegram alerts, and a Flask monitoring dashboard."
-  },
-  {
-    "repo": "xaskasdf/ntransformer",
+    "repo": "mchughalex/skate3recomp",
     "branch": "main",
     "language": "C++",
-    "description": "High-efficiency LLM inference engine in C++/CUDA. Run Llama 70B on RTX 3090."
+    "description": ""
+  },
+  {
+    "repo": "yjh051108/dsh-router-standard",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "Task-aware reasoning-mode router for DeepSeek Harness: three measured behavior bands (spec/mixed/react) with phase-transition evidence, persona + first-turn tool injection, agent-visible tuning. Dual-attractor policy paper included."
+  },
+  {
+    "repo": "jiguang132/storyai-3d-director-desk",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "A browser-based 3D director desk demo built with React, Vite, and Three.js."
+  },
+  {
+    "repo": "MichalZaniewicz/esphome-guition-jc3636k718c-va",
+    "branch": "main",
+    "language": "Python",
+    "description": "Full Home Assistant voice assistant on the Guition JC3636K718C round knob display, in pure ESPHome: on-device wake word, music player, timers, addressable LED ring, device control and two built-in games."
   }
 ]

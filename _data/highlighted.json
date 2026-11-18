@@ -1,8 +1,8 @@
 {
-  "repo": "StormBrawlerSack/legwork-osint-ai-investigator",
-  "branch": "main",
-  "language": "JavaScript",
-  "description": "AI OSINT investigator for Windows: ask a question in plain words and get an answer built from public sources, with a source on every sentence.",
-  "stars": 452,
-  "forks": 29
+  "repo": "chuanqisun/spaceship",
+  "branch": "master",
+  "language": "HTML",
+  "description": "Steer your ideas in realtime",
+  "stars": 828,
+  "forks": 81
 }
