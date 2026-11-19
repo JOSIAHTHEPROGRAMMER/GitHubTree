@@ -1,146 +1,146 @@
 [
   {
-    "repo": "0xwilliamortiz/humanizer-cli",
+    "repo": "jzOcb/writing-style-skill",
     "branch": "main",
-    "language": "JavaScript",
-    "description": "33 ways to spot AI-written text, right in your terminal. Before/after examples, draft checker, zero dependencies."
+    "language": "Python",
+    "description": "Writing style skill template with built-in auto-learning. AI writes → you edit → rules auto-extracted → SKILL.md improves. Works with Claude Code + OpenClaw."
   },
   {
-    "repo": "smontlouis/bible-strong-avatar-lab",
+    "repo": "justrach/nanoui",
     "branch": "main",
-    "language": "TypeScript",
-    "description": ""
+    "language": "Zig",
+    "description": "Desktop apps in Zig, with native UI drawn on the GPU or a web frontend"
   },
   {
-    "repo": "x4gKing/PasarGuard",
-    "branch": "main",
-    "language": "Dockerfile",
-    "description": ""
-  },
-  {
-    "repo": "gnomeria/usbtree",
-    "branch": "main",
-    "language": "Rust",
-    "description": "Live USB device tree in your terminal. Rust TUI, no root, no libusb. Full activity metrics on Linux; device tree on macOS/Windows."
-  },
-  {
-    "repo": "CaptureGrubEnchant/SolidWorks",
+    "repo": "Sinotrade/shioaji-pro-app",
     "branch": "main",
     "language": "TypeScript",
-    "description": "SolidWorks MCP Server connects an AI assistant to a running SolidWorks instance. Sketch, extrude, fillet, export STEP/STL, generate macros."
+    "description": "Shioaji Pro — professional trading terminal for Taiwan markets (TWSE/TPEX/TAIFEX) built on the Shioaji HTTP API: real-time SSE quotes, candlestick charts with click-to-trade & drag-to-reprice, flash order ladder, stop/take-profit triggers, customizable drag-and-drop workspace"
   },
   {
-    "repo": "wanonewan/wanwan",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": ""
-  },
-  {
-    "repo": "vvxw/deploy-vercel",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "Install Command：npm install"
-  },
-  {
-    "repo": "OlegSotnikov/jc-rs",
+    "repo": "martinkoutecky/tine",
     "branch": "master",
-    "language": "Rust",
-    "description": "237 parsers that turn command output, file formats and strings into JSON, from one static Rust binary with no runtime to install. Verified against the full reference fixture corpus on every commit."
+    "language": "TypeScript",
+    "description": ""
   },
   {
-    "repo": "smthdagg/wificalling-location-gateway",
-    "branch": "main",
-    "language": "Rust",
-    "description": "Fail-open OpenWrt WLOC location gateway PoC with auditable multi-agent development workflow"
-  },
-  {
-    "repo": "we9lii/Resident-Evil-Requiem-Ultimate-Trainer-2026_v_2",
+    "repo": "bamboostrip/Handwriting-simulator",
     "branch": "main",
     "language": "Python",
-    "description": "Ultimate trainer for Resident Evil Requiem (RE9) – 42+ features including God Mode, Infinite Ammo, CP Editor, FOV fix, and more."
+    "description": "把普通文本变成以假乱真的手写体图片：手写字体 + 信纸背景 + 字距/行距/笔画随机扰动。GUI（PyQt6）与 CLI 双入口，numpy/scipy 高性能渲染引擎。"
   },
   {
-    "repo": "qianye-wuyu/yueyuan-bazi",
+    "repo": "zq779/yuhutong",
     "branch": "main",
     "language": "Python",
-    "description": "跃渊 YueYuan · 子平命理分析系统（研究型八字解读 Skill：假设-证据-反证、规则分层、预注册预测+后验验证、变格四态状态机、100 案例测试）"
+    "description": ""
   },
   {
-    "repo": "browser-use/macos-harness",
-    "branch": "main",
-    "language": "Python",
-    "description": "The simplest, thinnest harness that gives an LLM complete freedom to control a Mac."
-  },
-  {
-    "repo": "haowang02/codex-candy-eval",
-    "branch": "main",
-    "language": "Python",
-    "description": "Codex 降智测试"
-  },
-  {
-    "repo": "zouyuxuan122/Deepseek-Harness-EAC",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "DeepSeek Harness (dsh) Windows desktop client - bundled Node.js + dsh CLI, one-click launch, 10 built-in UI skins. EAC: Embracing All Creation 揽尽万象"
-  },
-  {
-    "repo": "swping999/scene-card-studio",
-    "branch": "main",
-    "language": "Python",
-    "description": "AI visual director for turning personal photos into structured, editable visual narratives."
-  },
-  {
-    "repo": "Caplet1989/Brokies-AI-Foundry",
+    "repo": "Accio-org/RealReplicaBench",
     "branch": "main",
     "language": "HTML",
-    "description": "Top Free AI Developer Tools for 2026"
+    "description": "RealReplicaBench: Benchmarking Long-Horizon Agents in High-Fidelity, Stateful, and Reproducible Replicas of Real Online Services"
   },
   {
-    "repo": "asimons81/hermes-gpt",
-    "branch": "master",
-    "language": "Python",
-    "description": ""
+    "repo": "LSPosed/ZygiskNext",
+    "branch": "main",
+    "language": "C",
+    "description": "Standalone implementation of Zygisk"
   },
   {
-    "repo": "HuiyuLi-2000/Chinese-Grant-Writer-Skills",
+    "repo": "ghuntley/underclass",
+    "branch": "main",
+    "language": "Rust",
+    "description": "underclass: an OpenAI-compatible pooling proxy that pins sessions to one account (prompt cache stays warm), cools quota-exhausted subscriptions until their window resets, and fails fast with the earliest Retry-After when the whole pool is dry."
+  },
+  {
+    "repo": "Manuelll4000-sudo/Pok_mon_Scarlet_Violet_Shiny_Hunter",
     "branch": "main",
     "language": "Python",
-    "description": "面向 NSFC、NSSFC、省部级自/社科申请书的 AI 写作技能集。从近 20 本管理口申请书中提炼写作范式，覆盖核心撰写环节。"
+    "description": "Auto-shiny hunt, fast forward, and infinite items for Pokémon SV. Highlight shiny Pokémon, auto-battle, speed up game, and duplicate items. Perfect for shiny collectors."
   },
   {
-    "repo": "sunflower-of-parchman/codex-hygiene",
-    "branch": "main",
-    "language": "Shell",
-    "description": "Codex skill for auditing and tuning Codex Desktop context/tool surfaces"
-  },
-  {
-    "repo": "Rimagination/h3lite",
-    "branch": "main",
-    "language": "Python",
-    "description": "A hardware-aware Codex skill for local MiniMax H3 video generation through ComfyUI"
-  },
-  {
-    "repo": "mchughalex/skate3recomp",
+    "repo": "Fahim-SS/lsfg-git",
     "branch": "main",
     "language": "C++",
+    "description": "lossless scaling lsfg 3 frame generation scaling tool steam github pc gaming amd fsr nvidia nis dlss alternative windowed mode frame multiplier latency reduction utility lsfg v3.22 display scaling screen resolution frame rate optimizer desktop utility performance enhancer gameplay smooth gaming scaling legacy games x2 x3 frame generation"
+  },
+  {
+    "repo": "XiaoPuOuO/openchatx-mcp",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Turn ChatGPT into a local agent runtime. Operate your computer, use local tools, discover MCP servers, and delegate work to your own models through one MCP connection."
+  },
+  {
+    "repo": "trustfuture/simon-skills",
+    "branch": "master",
+    "language": "JavaScript",
+    "description": "不露脸做视频账号的 AI skill 合集：调查长片 + 手绘白板讲解视频，一句选题出片、配音字幕、封面与各平台文案"
+  },
+  {
+    "repo": "NandhaKishorM/laya",
+    "branch": "main",
+    "language": "Jupyter Notebook",
     "description": ""
   },
   {
-    "repo": "yjh051108/dsh-router-standard",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "Task-aware reasoning-mode router for DeepSeek Harness: three measured behavior bands (spec/mixed/react) with phase-transition evidence, persona + first-turn tool injection, agent-visible tuning. Dual-attractor policy paper included."
-  },
-  {
-    "repo": "jiguang132/storyai-3d-director-desk",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "A browser-based 3D director desk demo built with React, Vite, and Three.js."
-  },
-  {
-    "repo": "MichalZaniewicz/esphome-guition-jc3636k718c-va",
+    "repo": "mcncarl/jianying-headless",
     "branch": "main",
     "language": "Python",
-    "description": "Full Home Assistant voice assistant on the Guition JC3636K718C round knob display, in pure ESPHome: on-device wake word, music player, timers, addressable LED ring, device control and two built-in games."
+    "description": "Private source preview: native Jianying drafts, isolated editing/export, and standalone Agent Skill."
+  },
+  {
+    "repo": "Leviidev/Husk",
+    "branch": "main",
+    "language": "Swift",
+    "description": "Android App Launcher for iOS"
+  },
+  {
+    "repo": "hr98w/jev-visual",
+    "branch": "main",
+    "language": "Python",
+    "description": "An educational Jev-like visual inference experiment on Apple Silicon: shared context, direct candidate scoring, and local visual demos."
+  },
+  {
+    "repo": "margelo/ai-chat-demo",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": ""
+  },
+  {
+    "repo": "repoboost-hq/github-launch-checklist",
+    "branch": "main",
+    "language": "Python",
+    "description": "Audit a GitHub repository before launch - ten readiness checks scored 0-10: name, description, topics, README, license, demo, installation, contributing guide and issue templates. Free and open source."
+  },
+  {
+    "repo": "3169657175/gpt-webcodex",
+    "branch": "main",
+    "language": "Python",
+    "description": "可以通过一定的方式让chatgpt网页版实现操作桌面端的文件，读取创建以及修改"
+  },
+  {
+    "repo": "wy-coliney/jev-browser-use",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "5–10x faster browser operations: Jev clicks, Codex thinks and verifies. Built at EZCollegeApp."
+  },
+  {
+    "repo": "mikehasa/golive-skill",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Take your agent-built product live: hosting, database, domain, email, payments — on your own accounts. Open-source Agent Skill + zero-dependency Node CLI: detect → plan → approve → apply → verify. No GoLive account, backend or telemetry."
+  },
+  {
+    "repo": "Jiarui-0410/multimodal-product-discovery",
+    "branch": "main",
+    "language": "Python",
+    "description": "Full-stack multimodal product retrieval and personalized reranking with CLIP, FAISS, Spring Boot, FastAPI, and PostgreSQL."
+  },
+  {
+    "repo": "1370998960-del/https-github.com-Emily2040-seedance-2.0",
+    "branch": "main",
+    "language": "Python",
+    "description": ""
   }
 ]

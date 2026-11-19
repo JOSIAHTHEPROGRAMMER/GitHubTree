@@ -1,8 +1,8 @@
 {
-  "repo": "chuanqisun/spaceship",
-  "branch": "master",
-  "language": "HTML",
-  "description": "Steer your ideas in realtime",
-  "stars": 828,
-  "forks": 81
+  "repo": "sybil-solutions/inference-optimisation-skill",
+  "branch": "main",
+  "language": "Python",
+  "description": "Agent skill for hill-climbing local LLM serving speed (decode, speculative decoding, prefill, KV, startup, TTFT) on any hardware and quantization",
+  "stars": 1107,
+  "forks": 99
 }
