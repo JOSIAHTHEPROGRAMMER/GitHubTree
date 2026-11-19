@@ -1,8 +1,8 @@
 {
-  "repo": "sybil-solutions/inference-optimisation-skill",
+  "repo": "RouteInferno/shamus-osint-ai-agent",
   "branch": "main",
-  "language": "Python",
-  "description": "Agent skill for hill-climbing local LLM serving speed (decode, speculative decoding, prefill, KV, startup, TTFT) on any hardware and quantization",
-  "stars": 1107,
-  "forks": 99
+  "language": "JavaScript",
+  "description": "Command-line AI agent for OSINT: one command, it picks the tools, runs them and writes the case file.",
+  "stars": 149,
+  "forks": 3
 }

@@ -1,146 +1,146 @@
 [
   {
-    "repo": "jzOcb/writing-style-skill",
-    "branch": "main",
-    "language": "Python",
-    "description": "Writing style skill template with built-in auto-learning. AI writes → you edit → rules auto-extracted → SKILL.md improves. Works with Claude Code + OpenClaw."
-  },
-  {
-    "repo": "justrach/nanoui",
-    "branch": "main",
-    "language": "Zig",
-    "description": "Desktop apps in Zig, with native UI drawn on the GPU or a web frontend"
-  },
-  {
-    "repo": "Sinotrade/shioaji-pro-app",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Shioaji Pro — professional trading terminal for Taiwan markets (TWSE/TPEX/TAIFEX) built on the Shioaji HTTP API: real-time SSE quotes, candlestick charts with click-to-trade & drag-to-reprice, flash order ladder, stop/take-profit triggers, customizable drag-and-drop workspace"
-  },
-  {
-    "repo": "martinkoutecky/tine",
-    "branch": "master",
-    "language": "TypeScript",
-    "description": ""
-  },
-  {
-    "repo": "bamboostrip/Handwriting-simulator",
-    "branch": "main",
-    "language": "Python",
-    "description": "把普通文本变成以假乱真的手写体图片：手写字体 + 信纸背景 + 字距/行距/笔画随机扰动。GUI（PyQt6）与 CLI 双入口，numpy/scipy 高性能渲染引擎。"
-  },
-  {
-    "repo": "zq779/yuhutong",
-    "branch": "main",
-    "language": "Python",
-    "description": ""
-  },
-  {
-    "repo": "Accio-org/RealReplicaBench",
-    "branch": "main",
-    "language": "HTML",
-    "description": "RealReplicaBench: Benchmarking Long-Horizon Agents in High-Fidelity, Stateful, and Reproducible Replicas of Real Online Services"
-  },
-  {
-    "repo": "LSPosed/ZygiskNext",
-    "branch": "main",
-    "language": "C",
-    "description": "Standalone implementation of Zygisk"
-  },
-  {
-    "repo": "ghuntley/underclass",
-    "branch": "main",
-    "language": "Rust",
-    "description": "underclass: an OpenAI-compatible pooling proxy that pins sessions to one account (prompt cache stays warm), cools quota-exhausted subscriptions until their window resets, and fails fast with the earliest Retry-After when the whole pool is dry."
-  },
-  {
-    "repo": "Manuelll4000-sudo/Pok_mon_Scarlet_Violet_Shiny_Hunter",
-    "branch": "main",
-    "language": "Python",
-    "description": "Auto-shiny hunt, fast forward, and infinite items for Pokémon SV. Highlight shiny Pokémon, auto-battle, speed up game, and duplicate items. Perfect for shiny collectors."
-  },
-  {
-    "repo": "Fahim-SS/lsfg-git",
-    "branch": "main",
-    "language": "C++",
-    "description": "lossless scaling lsfg 3 frame generation scaling tool steam github pc gaming amd fsr nvidia nis dlss alternative windowed mode frame multiplier latency reduction utility lsfg v3.22 display scaling screen resolution frame rate optimizer desktop utility performance enhancer gameplay smooth gaming scaling legacy games x2 x3 frame generation"
-  },
-  {
-    "repo": "XiaoPuOuO/openchatx-mcp",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Turn ChatGPT into a local agent runtime. Operate your computer, use local tools, discover MCP servers, and delegate work to your own models through one MCP connection."
-  },
-  {
-    "repo": "trustfuture/simon-skills",
-    "branch": "master",
-    "language": "JavaScript",
-    "description": "不露脸做视频账号的 AI skill 合集：调查长片 + 手绘白板讲解视频，一句选题出片、配音字幕、封面与各平台文案"
-  },
-  {
-    "repo": "NandhaKishorM/laya",
-    "branch": "main",
-    "language": "Jupyter Notebook",
-    "description": ""
-  },
-  {
-    "repo": "mcncarl/jianying-headless",
-    "branch": "main",
-    "language": "Python",
-    "description": "Private source preview: native Jianying drafts, isolated editing/export, and standalone Agent Skill."
-  },
-  {
-    "repo": "Leviidev/Husk",
+    "repo": "EthanLipnik/Loom",
     "branch": "main",
     "language": "Swift",
-    "description": "Android App Launcher for iOS"
+    "description": "Easy peer to peer networking for Apple devices"
   },
   {
-    "repo": "hr98w/jev-visual",
+    "repo": "MuhammadHanzalaIqbal/Blox-Fruits-Dragon-Update-Auto-Farm-Script-2026-Gold",
     "branch": "main",
     "language": "Python",
-    "description": "An educational Jev-like visual inference experiment on Apple Silicon: shared context, direct candidate scoring, and local visual demos."
+    "description": "All‑in‑one Blox Fruits script for Dragon Update 2026. Gold edition comes with extra optimizations for faster farming."
   },
   {
-    "repo": "margelo/ai-chat-demo",
+    "repo": "iad1tya/EchoTube",
+    "branch": "main",
+    "language": "Kotlin",
+    "description": "Open-source YouTube client - enjoy an ad-free experience in a lightweight app, no account required."
+  },
+  {
+    "repo": "fendouai/CodexSaver",
+    "branch": "main",
+    "language": "Python",
+    "description": "Make Codex cheaper without making it dumber with DeepSeek."
+  },
+  {
+    "repo": "apple/corecrypto",
+    "branch": "main",
+    "language": "C++",
+    "description": "Apple corecrypto"
+  },
+  {
+    "repo": "xiaojianbang8888/xiaojianbang-stealth-hook",
+    "branch": "main",
+    "language": "C",
+    "description": "Android kernel stealth hook。安卓内核无痕hook，目前已知的所有用户态检测都无效。"
+  },
+  {
+    "repo": "quarqlabs/agent-oss",
+    "branch": "main",
+    "language": "Python",
+    "description": "A recursive evidence-gated cognitive runtime for memory-native AI agents, combining hybrid retrieval, temporal reasoning, async learning, and plug-and-play tools."
+  },
+  {
+    "repo": "yb2460/cli-anything-wps",
+    "branch": "master",
+    "language": "Python",
+    "description": "CLI harness for WPS Office -- let AI agents control Writer, Calc & Impress via COM automation"
+  },
+  {
+    "repo": "tencent-connect/openclaw-qqbot",
     "branch": "main",
     "language": "TypeScript",
-    "description": ""
+    "description": "QQ Bot Channel Plugin for OpenClaw"
   },
   {
-    "repo": "repoboost-hq/github-launch-checklist",
+    "repo": "haigechanlun/chanlun_auto_trading",
     "branch": "main",
     "language": "Python",
-    "description": "Audit a GitHub repository before launch - ten readiness checks scored 0-10: name, description, topics, README, license, demo, installation, contributing guide and issue templates. Free and open source."
+    "description": "一个基于缠论（Chanlun）理论构建的自动化量化交易系统，结合历史数据训练、严格风控与实盘执行，致力于实现稳定且可持续的收益表现。  回测收益年化80%+！欢迎订阅信号和实盘测试。"
   },
   {
-    "repo": "3169657175/gpt-webcodex",
+    "repo": "863401402/she-love-me",
     "branch": "main",
     "language": "Python",
-    "description": "可以通过一定的方式让chatgpt网页版实现操作桌面端的文件，读取创建以及修改"
+    "description": "她爱我吗？恋情分析室 — 微信聊天记录恋爱分析 Agent Skill"
   },
   {
-    "repo": "wy-coliney/jev-browser-use",
-    "branch": "main",
+    "repo": "f/agentlytics",
+    "branch": "master",
     "language": "JavaScript",
-    "description": "5–10x faster browser operations: Jev clicks, Codex thinks and verifies. Built at EZCollegeApp."
+    "description": "Comprehensive analytics dashboard for AI coding agents — Cursor, Windsurf, Claude Code, VS Code Copilot, Zed, Antigravity, OpenCode, Command Code"
   },
   {
-    "repo": "mikehasa/golive-skill",
+    "repo": "metavault-fi/solana-pumpfun-bundler",
     "branch": "main",
     "language": "TypeScript",
-    "description": "Take your agent-built product live: hosting, database, domain, email, payments — on your own accounts. Open-source Agent Skill + zero-dependency Node CLI: detect → plan → approve → apply → verify. No GoLive account, backend or telemetry."
+    "description": "Solana Pumpfun Bundler Solana Pump.fun bundler Solana Pumpfun Bundler Solana Pump.fun bundler Solana Pumpfun Bundler Solana Pump.fun bundler Solana Pumpfun Bundler Solana Pump.fun bundler Solana Pumpfun Bundler Solana Pumpfun bundler Solana Pumpfun Bundler Solana Pumpfun bundler Solana Pumpfun Bundler Solana Pumpfun Bundler Solana Pumpfun bundler"
   },
   {
-    "repo": "Jiarui-0410/multimodal-product-discovery",
+    "repo": "EurekaClaw/EurekaClaw",
     "branch": "main",
     "language": "Python",
-    "description": "Full-stack multimodal product retrieval and personalized reranking with CLIP, FAISS, Spring Boot, FastAPI, and PostgreSQL."
+    "description": "The official repo of EurekaClaw"
   },
   {
-    "repo": "1370998960-del/https-github.com-Emily2040-seedance-2.0",
+    "repo": "kppox/video-frame-sampler",
+    "branch": "main",
+    "language": "Python",
+    "description": "Content-aware frame sampling strategies for video-LLMs."
+  },
+  {
+    "repo": "EmGi96/TrailPrint3D",
     "branch": "main",
     "language": "Python",
     "description": ""
+  },
+  {
+    "repo": "xiaobiaodu/Mobile-GS",
+    "branch": "main",
+    "language": "Python",
+    "description": "[ICLR 2026] Mobile-GS: Real-time Gaussian Splatting for Mobile Devices"
+  },
+  {
+    "repo": "riverscn/intro-agentic-ai",
+    "branch": "main",
+    "language": "Vue",
+    "description": "认识 Agentic AI：从神经网络到智能体"
+  },
+  {
+    "repo": "understudy-ai/understudy",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "An understudy watches. Then performs."
+  },
+  {
+    "repo": "jdevalk/specification.website",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Website specification — HTML, accessibility, security, SEO, agent-readiness. Platform-agnostic, sourced, MIT."
+  },
+  {
+    "repo": "UnluckyNinja/SBTI-test",
+    "branch": "main",
+    "language": "HTML",
+    "description": "https://sbti.unun.dev 原作者：B站@蛆肉儿串儿"
+  },
+  {
+    "repo": "val1813/kwcode",
+    "branch": "master",
+    "language": "Python",
+    "description": "一个能持续增强本地开源模型的cli，专门为本地部署模型优化的coding窗口。目前仍然处于mvp未能大规模测试和端到端跑通，欢迎指正🙏🏻🙏🏻🙏🏻"
+  },
+  {
+    "repo": "YGYOOO/WorldX",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "One sentence creates an AI-driven world — generate maps, characters, and watch stories emerge on their own. 一句话生成一个AI自主驱动的世界."
+  },
+  {
+    "repo": "SKL2910/limitless-trading-bot",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "limitless trading bot limitless trading bot limitless trading bot limitless trading bot limitless trading bot limitless trading bot limitless trading bot limitless trading bot limitless trading bot limitless trading bot limitless trading bot limitless trading bot limitless trading bot limitless trading bot limitless trading bot bot"
   }
 ]
