@@ -1,146 +1,146 @@
 [
   {
-    "repo": "Open-Builders/pumpfun-bundler-pump.fun-bundler-solana-token-bundler-bot",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": ""
-  },
-  {
-    "repo": "antirez/voxtral.c",
-    "branch": "main",
-    "language": "C",
-    "description": "Pure C inference of Mistral Voxtral Realtime 4B speech to text model"
-  },
-  {
-    "repo": "ip-arch/NESLab",
-    "branch": "main",
-    "language": "C++",
-    "description": "Educational materials for Embedded systems with NES"
-  },
-  {
-    "repo": "Pathos0925/SatoshiGuesser",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "Roll for lost bitcoin."
-  },
-  {
-    "repo": "antonpk1/excalidraw-mcp-app",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Excalidraw MCP App Server — hand-drawn diagrams for Claude"
-  },
-  {
-    "repo": "TQZHR/grok2api",
+    "repo": "Simbastack-hq/framedex",
     "branch": "main",
     "language": "Python",
-    "description": "Grok2API (Cloudflare Workers) one-click deploy with auto D1+KV provisioning"
+    "description": "Framedex — a queryable knowledge base for your video archive"
   },
   {
-    "repo": "inputsh/awesome-linux",
+    "repo": "coleam00/claude-memory-compiler",
+    "branch": "main",
+    "language": "Python",
+    "description": "Give Claude Code a memory that evolves with your codebase. Hooks automatically capture sessions, the Claude Agent SDK extracts key decisions and lessons, and an LLM compiler organizes everything into structured, cross-referenced knowledge articles - inspired by Karpathy's LLM Knowledge Base architecture."
+  },
+  {
+    "repo": "Mouseww/anything-analyzer",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "利用 browser + CDP capture + AI analysis  傻瓜式生成 注册机 | 2API | 其他浏览器行为 的协议分析文档"
+  },
+  {
+    "repo": "ultralytics/ultralytics",
+    "branch": "main",
+    "language": "Python",
+    "description": "Ultralytics YOLO 🚀"
+  },
+  {
+    "repo": "SamadhiFire/xinqingnian-skill",
+    "branch": "main",
+    "language": "HTML",
+    "description": "新青年Skill/新青年/毛选Skill/毛泽东选集：把“新中国最会解决问题的脑子”请来，当一次“临时参谋”。157篇原文蒸馏 · 184份拆解稿沉淀 ·18条风险边界 · 8张方法卡 · 6类场景入口 · 2种输出报告，把《毛选》方法论变成可执行的现实分析 skill。用于复杂问题分析、自我管理、团队治理、关系边界与决策判断。"
+  },
+  {
+    "repo": "kevinrgu/autoagent",
+    "branch": "main",
+    "language": "Python",
+    "description": "autonomous harness engineering"
+  },
+  {
+    "repo": "cablate/banini-tracker",
     "branch": "master",
-    "language": "Other",
-    "description": ":penguin: A list of awesome projects and resources that make Linux even more awesome. :penguin:"
+    "language": "TypeScript",
+    "description": "巴逆逆（8zz）反指標追蹤器 — Facebook 抓取 + 影片轉錄 + AI 分析 + Telegram 推送"
   },
   {
-    "repo": "doocs/advanced-java",
-    "branch": "main",
-    "language": "Java",
-    "description": "😮 Core Interview Questions & Answers For Experienced Java(Backend) Developers | 互联网 Java 工程师进阶知识完全扫盲：涵盖高并发、分布式、高可用、微服务、海量数据处理等领域知识"
-  },
-  {
-    "repo": "checkcheckzz/system-design-interview",
-    "branch": "master",
-    "language": "Other",
-    "description": "System design interview for IT companies"
-  },
-  {
-    "repo": "HKUDS/CLI-Anything",
-    "branch": "main",
-    "language": "Python",
-    "description": "CLI-Anything: Making ALL Software Agent-Native"
-  },
-  {
-    "repo": "antirez/tgterm",
-    "branch": "main",
-    "language": "C",
-    "description": "Control your MacOS terminals via Telegram, for fun coding agents interaction and profit"
-  },
-  {
-    "repo": "FinPyromancerLog/xcode-claw",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": ""
-  },
-  {
-    "repo": "rohitg00/ai-engineering-from-scratch",
-    "branch": "main",
-    "language": "Python",
-    "description": "Learn it. Build it. Ship it for others."
-  },
-  {
-    "repo": "callstackincubator/agent-device",
+    "repo": "kettanaito/async-history-stack",
     "branch": "main",
     "language": "TypeScript",
-    "description": "CLI to control iOS and Android devices for AI agents"
+    "description": "Arbitrary change history management in JavaScript."
   },
   {
-    "repo": "japp-fi/polymarket-mcp-server",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "polymarket mcp server market discovery and analysis via public APIs; optional authenticated trading and portfolio tools when your wallet derives (or supplies) CLOB L2 credentials polymarket mcp server market discovery and analysis via public APIs; optional authenticated trading and portfolio tools when your wallet derives (or supplies) CLOB L2"
-  },
-  {
-    "repo": "bytedance-deerflow/deer-flow-installer",
-    "branch": "main",
-    "language": "Python",
-    "description": "🦌 DeerFlow 2.0 installer - open-source SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skills and subagents, it handles different levels of tasks that could take minutes to hours."
-  },
-  {
-    "repo": "userland-run/nano",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "nano — Run real Node.js and other statically linked Linux binaries directly in the browser via a tiny RISC-V user-mode Linux interpreter compiled to WebAssembly. No containers. No servers. Pure client-side execution."
-  },
-  {
-    "repo": "l0ng-ai/papr",
+    "repo": "launchbadge/sqlx",
     "branch": "main",
     "language": "Rust",
-    "description": "A fast, native RSS reader for the desktop."
+    "description": "🧰 The Rust SQL Toolkit. An async, pure Rust SQL crate featuring compile-time checked queries without a DSL. Supports PostgreSQL, MySQL, and SQLite."
   },
   {
-    "repo": "trailofbits/CoBRA",
-    "branch": "master",
-    "language": "C++",
-    "description": "Coefficient-Based Reconstruction of Arithmetic — a Mixed Boolean-Arithmetic (MBA) expression simplifier for deobfuscation"
-  },
-  {
-    "repo": "lifedever/TaskTick",
-    "branch": "main",
-    "language": "Swift",
-    "description": "A native macOS app for managing scheduled tasks. Built with SwiftUI + SwiftData. Menu bar resident, cron expressions, script execution, and more."
-  },
-  {
-    "repo": "nateherkai/token-dashboard",
+    "repo": "Rimagination/h3lite",
     "branch": "main",
     "language": "Python",
-    "description": "See where Claude Code is burning tokens - turn raw JSONL transcripts into local cost analytics, hotspot views, and session-level usage insight."
+    "description": "A hardware-aware Codex skill for local MiniMax H3 video generation through ComfyUI"
   },
   {
-    "repo": "datavorous/sameshi",
+    "repo": "dagster-io/dagster",
     "branch": "master",
-    "language": "C",
-    "description": "a ~1200 Elo chess engine that fits within 2KB"
+    "language": "Python",
+    "description": "An orchestration platform for the development, production, and observation of data assets."
   },
   {
-    "repo": "fjb040911/ai-rules",
+    "repo": "dair-ai/ML-YouTube-Courses",
+    "branch": "main",
+    "language": "Other",
+    "description": "📺 Discover the latest machine learning / AI courses on YouTube."
+  },
+  {
+    "repo": "Windy3f3f3f3f/claude-code-from-scratch",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Build your own coding agent from scratch in ~1300 lines of TypeScript. / 从零构建你自己的 Claude Code，~1300 行代码，分步教程"
+  },
+  {
+    "repo": "patterniha/MITM-DomainFronting",
+    "branch": "main",
+    "language": "Batchfile",
+    "description": "Receiving unencrypted data with MITM, Then send it with DomainFronting"
+  },
+  {
+    "repo": "imbue-ai/bouncer",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Heal your social media feeds"
+  },
+  {
+    "repo": "microsoft/unilm",
+    "branch": "master",
+    "language": "Python",
+    "description": "Large-scale Self-supervised Pre-training Across Tasks, Languages, and Modalities"
+  },
+  {
+    "repo": "Tencent-Hunyuan/HY-Embodied",
+    "branch": "master",
+    "language": "Python",
+    "description": ""
+  },
+  {
+    "repo": "andyhuo520/rf-detr-detection",
     "branch": "main",
     "language": "JavaScript",
-    "description": "ai-rules is a governance framework designed to solve Architectural Decay in AI-driven development. It forces AI Agents (Cursor, Windsurf, Copilot) to respect your project's boundaries, UI libraries, and design patterns."
+    "description": "基于 RF-DETR 的浏览器端实时目标检测应用"
   },
   {
-    "repo": "pluk-inc/md-preview.app",
+    "repo": "SentiAvatar/SentiAvatar",
     "branch": "main",
-    "language": "Swift",
-    "description": "A simple Markdown viewer for reading .md files"
+    "language": "Python",
+    "description": ""
+  },
+  {
+    "repo": "google-research/vision_transformer",
+    "branch": "main",
+    "language": "Jupyter Notebook",
+    "description": "Vision Transformer in JAX."
+  },
+  {
+    "repo": "pypa/pip",
+    "branch": "main",
+    "language": "Python",
+    "description": "The Python package installer"
+  },
+  {
+    "repo": "obsproject/obs-studio",
+    "branch": "master",
+    "language": "C",
+    "description": "OBS Studio - Free and open source software for live streaming and screen recording"
+  },
+  {
+    "repo": "Matticusnicholas/KupkaProd-Cinema-Pipeline",
+    "branch": "master",
+    "language": "Python",
+    "description": "Autonomous AI movie studio — turn a text prompt into a fully produced video. 100% local, no cloud, no API keys."
+  },
+  {
+    "repo": "FrondEnt/PolymarketBTC15mAssistant",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "Real-time Polymarket BTC 15m trading assistant for every trader! created by @krajekis"
   }
 ]

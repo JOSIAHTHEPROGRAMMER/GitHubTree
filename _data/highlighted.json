@@ -1,8 +1,8 @@
 {
-  "repo": "niyouqianma/workbuddy2api-hub",
+  "repo": "lishuangqiang/mixbar",
   "branch": "main",
-  "language": "Python",
-  "description": "WorkBuddy2API-Hub - OpenAI-compatible local gateway",
-  "stars": 279,
-  "forks": 107
+  "language": "Swift",
+  "description": "Per-app volume mixer for macOS — no driver, no account. Built on Core Audio Process Tap.",
+  "stars": 313,
+  "forks": 2
 }
