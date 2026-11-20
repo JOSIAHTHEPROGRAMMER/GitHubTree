@@ -3,6 +3,6 @@
   "branch": "main",
   "language": "JavaScript",
   "description": "Command-line AI agent for OSINT: one command, it picks the tools, runs them and writes the case file.",
-  "stars": 149,
+  "stars": 143,
   "forks": 3
 }
