@@ -1,146 +1,146 @@
 [
   {
-    "repo": "skydoves/compose-animations",
+    "repo": "Open-Builders/pumpfun-bundler-pump.fun-bundler-solana-token-bundler-bot",
     "branch": "main",
-    "language": "Kotlin",
-    "description": "⚡️ A collection of Jetpack Compose animations for the best practices. Tweak literals at the top of any file, save, and watch the motion morph in real-time."
-  },
-  {
-    "repo": "kellyclaudeai/openclaw-deck",
-    "branch": "master",
     "language": "TypeScript",
-    "description": "Multi-column chat interface for OpenClaw agents"
+    "description": ""
   },
   {
-    "repo": "PrefectHQ/prefect",
+    "repo": "antirez/voxtral.c",
     "branch": "main",
-    "language": "Python",
-    "description": "Prefect is a workflow orchestration framework for building resilient data pipelines in Python."
+    "language": "C",
+    "description": "Pure C inference of Mistral Voxtral Realtime 4B speech to text model"
   },
   {
-    "repo": "SewCabinSpout/cleanupper",
+    "repo": "ip-arch/NESLab",
+    "branch": "main",
+    "language": "C++",
+    "description": "Educational materials for Embedded systems with NES"
+  },
+  {
+    "repo": "Pathos0925/SatoshiGuesser",
     "branch": "main",
     "language": "JavaScript",
-    "description": "🧹 Free, open-source macOS disk cleanup CLI. Scan & safely remove caches, logs, Xcode DerivedData, npm/Homebrew/pip junk and stale node_modules from your terminal. Trash-first, zero telemetry the terminal-native CleanMyMac alternative."
+    "description": "Roll for lost bitcoin."
   },
   {
-    "repo": "extism/extism",
+    "repo": "antonpk1/excalidraw-mcp-app",
     "branch": "main",
-    "language": "Rust",
-    "description": "The framework for building with WebAssembly (wasm). Easily & securely load wasm modules, move data, call functions, and build extensible apps."
+    "language": "TypeScript",
+    "description": "Excalidraw MCP App Server — hand-drawn diagrams for Claude"
   },
   {
-    "repo": "tox-dev/tox",
-    "branch": "main",
-    "language": "Python",
-    "description": "Command line driven CI frontend and development task automation tool."
-  },
-  {
-    "repo": "openssl/openssl",
-    "branch": "master",
-    "language": "C",
-    "description": "TLS/SSL and crypto library"
-  },
-  {
-    "repo": "ReactiveX/RxAndroid",
-    "branch": "3.x",
-    "language": "Java",
-    "description": "RxJava bindings for Android"
-  },
-  {
-    "repo": "sqlfluff/sqlfluff",
+    "repo": "TQZHR/grok2api",
     "branch": "main",
     "language": "Python",
-    "description": "A modular SQL linter and auto-formatter with support for multiple dialects and templated code."
+    "description": "Grok2API (Cloudflare Workers) one-click deploy with auto D1+KV provisioning"
   },
   {
-    "repo": "vmware-tanzu/velero",
-    "branch": "main",
-    "language": "Go",
-    "description": "Backup and migrate Kubernetes applications and their persistent volumes"
-  },
-  {
-    "repo": "getify/You-Dont-Know-JS",
+    "repo": "inputsh/awesome-linux",
     "branch": "master",
     "language": "Other",
-    "description": "A book series (2 published editions) on the JS language."
+    "description": ":penguin: A list of awesome projects and resources that make Linux even more awesome. :penguin:"
   },
   {
-    "repo": "danielmiessler/fabric",
+    "repo": "doocs/advanced-java",
     "branch": "main",
-    "language": "Go",
-    "description": "Fabric is an open-source framework for augmenting humans using AI. It provides a modular system for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere."
+    "language": "Java",
+    "description": "😮 Core Interview Questions & Answers For Experienced Java(Backend) Developers | 互联网 Java 工程师进阶知识完全扫盲：涵盖高并发、分布式、高可用、微服务、海量数据处理等领域知识"
   },
   {
-    "repo": "google/mediapipe",
+    "repo": "checkcheckzz/system-design-interview",
+    "branch": "master",
+    "language": "Other",
+    "description": "System design interview for IT companies"
+  },
+  {
+    "repo": "HKUDS/CLI-Anything",
+    "branch": "main",
+    "language": "Python",
+    "description": "CLI-Anything: Making ALL Software Agent-Native"
+  },
+  {
+    "repo": "antirez/tgterm",
+    "branch": "main",
+    "language": "C",
+    "description": "Control your MacOS terminals via Telegram, for fun coding agents interaction and profit"
+  },
+  {
+    "repo": "FinPyromancerLog/xcode-claw",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": ""
+  },
+  {
+    "repo": "rohitg00/ai-engineering-from-scratch",
+    "branch": "main",
+    "language": "Python",
+    "description": "Learn it. Build it. Ship it for others."
+  },
+  {
+    "repo": "callstackincubator/agent-device",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "CLI to control iOS and Android devices for AI agents"
+  },
+  {
+    "repo": "japp-fi/polymarket-mcp-server",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "polymarket mcp server market discovery and analysis via public APIs; optional authenticated trading and portfolio tools when your wallet derives (or supplies) CLOB L2 credentials polymarket mcp server market discovery and analysis via public APIs; optional authenticated trading and portfolio tools when your wallet derives (or supplies) CLOB L2"
+  },
+  {
+    "repo": "bytedance-deerflow/deer-flow-installer",
+    "branch": "main",
+    "language": "Python",
+    "description": "🦌 DeerFlow 2.0 installer - open-source SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skills and subagents, it handles different levels of tasks that could take minutes to hours."
+  },
+  {
+    "repo": "userland-run/nano",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "nano — Run real Node.js and other statically linked Linux binaries directly in the browser via a tiny RISC-V user-mode Linux interpreter compiled to WebAssembly. No containers. No servers. Pure client-side execution."
+  },
+  {
+    "repo": "l0ng-ai/papr",
+    "branch": "main",
+    "language": "Rust",
+    "description": "A fast, native RSS reader for the desktop."
+  },
+  {
+    "repo": "trailofbits/CoBRA",
     "branch": "master",
     "language": "C++",
-    "description": "Cross-platform, customizable ML solutions for live and streaming media."
+    "description": "Coefficient-Based Reconstruction of Arithmetic — a Mixed Boolean-Arithmetic (MBA) expression simplifier for deobfuscation"
   },
   {
-    "repo": "actix/actix-web",
-    "branch": "master",
-    "language": "Rust",
-    "description": "Actix Web is a powerful, pragmatic, and extremely fast web framework for Rust."
+    "repo": "lifedever/TaskTick",
+    "branch": "main",
+    "language": "Swift",
+    "description": "A native macOS app for managing scheduled tasks. Built with SwiftUI + SwiftData. Menu bar resident, cron expressions, script execution, and more."
   },
   {
-    "repo": "sdkman/sdkman-cli",
-    "branch": "master",
-    "language": "Gherkin",
-    "description": "The SDKMAN! Command Line Interface"
-  },
-  {
-    "repo": "termux/termux-app",
-    "branch": "master",
-    "language": "Java",
-    "description": "Termux - a terminal emulator application for Android OS extendible by variety of packages."
-  },
-  {
-    "repo": "serde-rs/serde",
-    "branch": "master",
-    "language": "Rust",
-    "description": "Serialization framework for Rust"
-  },
-  {
-    "repo": "google/jax",
+    "repo": "nateherkai/token-dashboard",
     "branch": "main",
     "language": "Python",
-    "description": "Composable transformations of Python+NumPy programs: differentiate, vectorize, JIT to GPU/TPU, and more"
+    "description": "See where Claude Code is burning tokens - turn raw JSONL transcripts into local cost analytics, hotspot views, and session-level usage insight."
   },
   {
-    "repo": "MetaMask/metamask-extension",
-    "branch": "develop",
-    "language": "TypeScript",
-    "description": ":globe_with_meridians: :electric_plug: The MetaMask browser extension enables browsing Ethereum blockchain enabled websites"
-  },
-  {
-    "repo": "nightwatchjs/nightwatch",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "Integrated end-to-end testing framework written in Node.js and using W3C Webdriver API. Developed at @browserstack"
-  },
-  {
-    "repo": "backstage/backstage",
-    "branch": "master",
-    "language": "TypeScript",
-    "description": "Backstage is an open framework for building developer portals"
-  },
-  {
-    "repo": "standardnotes/app",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Think fearlessly with end-to-end encrypted notes and files. For issues, visit https://standardnotes.com/forum or https://standardnotes.com/help."
-  },
-  {
-    "repo": "fluent/fluent-bit",
+    "repo": "datavorous/sameshi",
     "branch": "master",
     "language": "C",
-    "description": "Fast and Lightweight Logs, Metrics and Traces processor for Linux, BSD, OSX and Windows"
+    "description": "a ~1200 Elo chess engine that fits within 2KB"
   },
   {
-    "repo": "obsidianmd/obsidian-releases",
-    "branch": "master",
-    "language": "Other",
-    "description": "Community plugins list, theme list, and releases of Obsidian."
+    "repo": "fjb040911/ai-rules",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "ai-rules is a governance framework designed to solve Architectural Decay in AI-driven development. It forces AI Agents (Cursor, Windsurf, Copilot) to respect your project's boundaries, UI libraries, and design patterns."
+  },
+  {
+    "repo": "pluk-inc/md-preview.app",
+    "branch": "main",
+    "language": "Swift",
+    "description": "A simple Markdown viewer for reading .md files"
   }
 ]
