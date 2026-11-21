@@ -1,8 +1,8 @@
 {
-  "repo": "finktheartist/rubber-hose-ui",
+  "repo": "lemomo-ai/lemo-animi",
   "branch": "main",
-  "language": "JavaScript",
-  "description": "Eleven ordinary UI controls drawn as rubber-hose cartoon characters. One file each, no dependencies.",
-  "stars": 185,
-  "forks": 15
+  "language": "Python",
+  "description": "Stop-motion shorts from one line, made with Codex: eight material styles, puppets drawn by an image model and moved frame by frame in code. 一句话，用 Codex 做一支定格动画短片。",
+  "stars": 188,
+  "forks": 21
 }

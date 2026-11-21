@@ -1,146 +1,146 @@
 [
   {
-    "repo": "dex-original/okx-agent-trade-kit",
-    "branch": "master",
-    "language": "TypeScript",
-    "description": "okx trading bot okx agent mcp cli cryptocurrency okx api automated trading typescript okx trading bot model context protocol cursor ai trading crypto spot futures okx trading bot npm pnpm okx mcp open source quant defi cex okx trading bot algorithmic trading crypto bot okx trading bot okx api mcp okx trading bot crypto mcp"
-  },
-  {
-    "repo": "sleepy-zone/ai-ref-library-cn",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": ""
-  },
-  {
-    "repo": "OpusDelta/opusdelta",
-    "branch": "main",
-    "language": "Python",
-    "description": "The first expression of machine emotion, a living delta of perpetual evolution."
-  },
-  {
-    "repo": "prisma/graphql-yoga",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "🧘 Rewrite of a fully-featured GraphQL Server with focus on easy setup, performance & great developer experience.  The core of Yoga implements WHATWG Fetch API and can run/deploy on any JS environment."
-  },
-  {
-    "repo": "yasasbanukaofficial/claude-code",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "🚀 Open source Claude Code CLI source code. Advanced AI Agent for developers. Includes TypeScript codebase for LLM tool-calling, agentic workflows, and terminal UI. Remember this is just the skeleton not the brain itself. Found by Chaofan Shou."
-  },
-  {
-    "repo": "Satomoit/LCE-Emerald-Launcher",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "lce emerald launcher minecraft legacy console edition pc download custom skins mods tauri neolegacy revelations 360 revived multiplayer windows 11"
-  },
-  {
-    "repo": "deltatrader01/Polymarket-Kalshi-Trading-Bot",
-    "branch": "main",
-    "language": "Rust",
-    "description": "Polymarket-Kalshi arbitrage trading bot that exploits price inefficiencies between Kalshi and Polymarket. Kalshi Trading bot Polymarket trading bot Kalshi trading bot kalshi trading bot kalshi trading bot kalshi trading bot kalshi trading bot kalshi trading bot kalshi trading bot"
-  },
-  {
-    "repo": "lukehinds/nono",
-    "branch": "main",
-    "language": "Rust",
-    "description": "OS-Level Isolation for AI Agents."
-  },
-  {
-    "repo": "wong2/weixin-agent-sdk",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": ""
-  },
-  {
-    "repo": "SaikoNadiro13/MOUSE-P.I.-For-Hire-Release-Game-Desktop-Version",
+    "repo": "pg83/solo",
     "branch": "main",
     "language": "C++",
-    "description": "MOUSE PI For Hire is a fun hand-drawn point-and-click detective adventure game for PC. Play as a clever mouse private investigator solving funny and challenging cases in a colorful cartoon world. Optimized desktop release with widescreen support, smooth controls, and high-resolution graphics."
+    "description": "Portable Linux binaries, solved"
   },
   {
-    "repo": "Enriquefft/openclaw-kapso-whatsapp",
+    "repo": "RyensX/OpenCodex",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "OpenCodex是一个轻量级Codex运行环境，可以让你的任意设备通过Web使用你的电脑上的Codex。/ OpenCodex is a lightweight Codex runtime environment that allows any of your devices to use the Codex on your computer via the Web."
+  },
+  {
+    "repo": "AndrewVos/endless-toil",
+    "branch": "main",
+    "language": "Python",
+    "description": "Hear your agent suffer through your code"
+  },
+  {
+    "repo": "openclaw/crabbox",
     "branch": "main",
     "language": "Go",
-    "description": "Give your OpenClaw AI agent a WhatsApp number. Official Meta Cloud API via Kapso. No ban risk."
+    "description": "Crabbox: warm a box, sync the diff, run the suite."
   },
   {
-    "repo": "AgriciDaniel/claude-obsidian",
-    "branch": "main",
-    "language": "Shell",
-    "description": "Claude + Obsidian knowledge companion. Persistent, compounding wiki vault based on Karpathy's LLM Wiki pattern. /wiki /save /autoresearch"
-  },
-  {
-    "repo": "joshavant/clawbox",
-    "branch": "main",
-    "language": "Python",
-    "description": "OpenClaw-ready macOS VMs"
-  },
-  {
-    "repo": "elvirarolando64992854260/IDM-6.42-Patch-Lifetime-Ver-26",
-    "branch": "main",
-    "language": "HTML",
-    "description": "Improve internet stability with tools and settings that reduce drops, fix weak connections, and keep your network steady on any device"
-  },
-  {
-    "repo": "DotNetRussell/BloodBash",
-    "branch": "main",
-    "language": "Python",
-    "description": "A Bloodhound alternative. BloodBash will ingest the same files bloodhound does but no server is required to use this tool. It's great for quick AD enumeration."
-  },
-  {
-    "repo": "vulhunt-re/vulhunt",
-    "branch": "dev",
-    "language": "C++",
-    "description": "Vulnerability detection framework by Binarly's REsearch team"
-  },
-  {
-    "repo": "Noahmusahdevs/roblox-account-manager",
-    "branch": "main",
-    "language": "C#",
-    "description": "roblox account manager github Download  Multi Roblox Account ic3w0lf22 rbx account manager alt manager multi instance roblox alt accounts cookie extractor open source windows 11 windows 10 auto login private server developer api secure encryption script automation multi boxing free download"
-  },
-  {
-    "repo": "ShunsukeHayashi/agent-skill-bus",
-    "branch": "master",
-    "language": "JavaScript",
-    "description": "The missing runtime for Agent Skills — health monitoring, self-improvement, and dependency management for any AI agent framework. Zero dependencies."
-  },
-  {
-    "repo": "better-auth/better-hub",
+    "repo": "FlowTrader-Labs/polymarket-trading-bot",
     "branch": "main",
     "language": "TypeScript",
-    "description": "Re-imagining code collaboration for humans and agents"
+    "description": "polymarket trading bot polymarket copy trading bot polymarket trading bot polymarket copy trading bot polymarket trading bot polymarket copy trading bot polymarket trading bot polymarket copy trading bot polymarket trading bot polymarket copy trading bot polymarket trading bot polymarket copy trading bot"
   },
   {
-    "repo": "taylorarndt/perspective-cuts",
+    "repo": "xiaolajiaoyyds/regplatformm",
     "branch": "main",
-    "language": "Swift",
-    "description": "A text-based language for writing Apple Shortcuts. Experimental."
-  },
-  {
-    "repo": "zhristophe/Claude-Mythos-AI-Anthropic-App",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "claude mythos ai anthropic app github open source desktop mobile client abhishekk130804 anthropic api key creative writing roleplay character cards deep reasoning chain of thought system prompts jailbreak windows macos linux android apk next js electron tauri python rust download setup guide tutorial latest version 2026 free update"
-  },
-  {
-    "repo": "yohey-w/multi-agent-shogun",
-    "branch": "main",
-    "language": "Shell",
+    "language": "Go",
     "description": ""
   },
   {
-    "repo": "OasAIStudio/symphony-ts",
+    "repo": "hjanuschka/pi-multi-pass",
     "branch": "main",
     "language": "TypeScript",
-    "description": "Typecript version of https://github.com/openai/symphony"
+    "description": "Multi-subscription extension for pi -- use multiple OAuth accounts per provider (Anthropic, Codex, Copilot, Gemini, Antigravity)"
   },
   {
-    "repo": "sliverp/qqbot",
+    "repo": "anthnykr/codex-voice",
+    "branch": "main",
+    "language": "Swift",
+    "description": ""
+  },
+  {
+    "repo": "Amansingh-afk/milli.nvim",
+    "branch": "main",
+    "language": "Lua",
+    "description": "Animated ASCII splash screens for Neovim. 29 bundled splashes + bring your own via the   milli CLI / web playground."
+  },
+  {
+    "repo": "ProjectBarks/gopher-code",
+    "branch": "main",
+    "language": "Go",
+    "description": "Claude Code, rewritten from scratch in Go. Zero Node.js. Zero Electron. One binary."
+  },
+  {
+    "repo": "chaohong-ai/ai-auto-work",
+    "branch": "main",
+    "language": "Shell",
+    "description": "Automatically completes the full workflow from requirement research → research review → planning → plan review → development →  development review using → test AI large language models. Capable of autonomously handling medium to large-scale engineering projects."
+  },
+  {
+    "repo": "andforce/Andclaw",
+    "branch": "main",
+    "language": "Java",
+    "description": "无需ROOT，无需连电脑，像Openclaw控制电脑一样，让Andclaw控制你的安卓手机"
+  },
+  {
+    "repo": "loyalpartner/selfsync",
+    "branch": "master",
+    "language": "Rust",
+    "description": "Self-hosted Chrome Sync server. 自托管 Chrome 同步服务器 — 书签、密码、偏好等浏览器数据留在本地，不经过 Google"
+  },
+  {
+    "repo": "grayashh/buddy-reroll",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "Reroll your Claude Code /buddy companion to any species, rarity, eye, hat, and shiny combo"
+  },
+  {
+    "repo": "vkehfdl1/slides-grab",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "Select context for agents directly from AI-generated HTML slides"
+  },
+  {
+    "repo": "JudoChinX/rangarr",
+    "branch": "main",
+    "language": "Python",
+    "description": "Rangarr automates and staggers media searches across your Radarr, Sonarr, and Lidarr instances."
+  },
+  {
+    "repo": "TraderAlice/Auto-Quant",
+    "branch": "master",
+    "language": "Python",
+    "description": ""
+  },
+  {
+    "repo": "kiberkingyammee7/Awp-gg-Roblox-Executor-2026",
+    "branch": "main",
+    "language": "C++",
+    "description": "The most advanced, high-performance V3 execution engine for Roblox. Experience seamless Luau scripting, unparalleled 100% UNC bypass mechanisms, and maximum thread stability."
+  },
+  {
+    "repo": "nakagami/grdpwasm",
+    "branch": "master",
+    "language": "Go",
+    "description": ""
+  },
+  {
+    "repo": "worldwonderer/oh-story-claudecode",
+    "branch": "main",
+    "language": "Shell",
+    "description": "网文写作 skill 包，覆盖长篇与短篇网络小说的扫榜、拆文、写作、去AI味全流程"
+  },
+  {
+    "repo": "galpha-ai/trading-intent",
+    "branch": "main",
+    "language": "Rust",
+    "description": ""
+  },
+  {
+    "repo": "JuliusBrussee/caveman",
+    "branch": "main",
+    "language": "Python",
+    "description": "🪨 why use many token when few token do trick — Claude Code skill that cuts 75% of tokens by talking like caveman"
+  },
+  {
+    "repo": "deepseek-ai/TileKernels",
+    "branch": "main",
+    "language": "Python",
+    "description": "A kernel library written in tilelang"
+  },
+  {
+    "repo": "Kuberwastaken/claude-code",
     "branch": "main",
     "language": "TypeScript",
-    "description": "qqbot"
+    "description": "Claude Code's Source Code & Breakdown from a leaked map file in their NPM registry"
   }
 ]
