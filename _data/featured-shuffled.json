@@ -1,146 +1,146 @@
 [
   {
-    "repo": "Simbastack-hq/framedex",
-    "branch": "main",
-    "language": "Python",
-    "description": "Framedex — a queryable knowledge base for your video archive"
-  },
-  {
-    "repo": "coleam00/claude-memory-compiler",
-    "branch": "main",
-    "language": "Python",
-    "description": "Give Claude Code a memory that evolves with your codebase. Hooks automatically capture sessions, the Claude Agent SDK extracts key decisions and lessons, and an LLM compiler organizes everything into structured, cross-referenced knowledge articles - inspired by Karpathy's LLM Knowledge Base architecture."
-  },
-  {
-    "repo": "Mouseww/anything-analyzer",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "利用 browser + CDP capture + AI analysis  傻瓜式生成 注册机 | 2API | 其他浏览器行为 的协议分析文档"
-  },
-  {
-    "repo": "ultralytics/ultralytics",
-    "branch": "main",
-    "language": "Python",
-    "description": "Ultralytics YOLO 🚀"
-  },
-  {
-    "repo": "SamadhiFire/xinqingnian-skill",
-    "branch": "main",
-    "language": "HTML",
-    "description": "新青年Skill/新青年/毛选Skill/毛泽东选集：把“新中国最会解决问题的脑子”请来，当一次“临时参谋”。157篇原文蒸馏 · 184份拆解稿沉淀 ·18条风险边界 · 8张方法卡 · 6类场景入口 · 2种输出报告，把《毛选》方法论变成可执行的现实分析 skill。用于复杂问题分析、自我管理、团队治理、关系边界与决策判断。"
-  },
-  {
-    "repo": "kevinrgu/autoagent",
-    "branch": "main",
-    "language": "Python",
-    "description": "autonomous harness engineering"
-  },
-  {
-    "repo": "cablate/banini-tracker",
+    "repo": "dex-original/okx-agent-trade-kit",
     "branch": "master",
     "language": "TypeScript",
-    "description": "巴逆逆（8zz）反指標追蹤器 — Facebook 抓取 + 影片轉錄 + AI 分析 + Telegram 推送"
+    "description": "okx trading bot okx agent mcp cli cryptocurrency okx api automated trading typescript okx trading bot model context protocol cursor ai trading crypto spot futures okx trading bot npm pnpm okx mcp open source quant defi cex okx trading bot algorithmic trading crypto bot okx trading bot okx api mcp okx trading bot crypto mcp"
   },
   {
-    "repo": "kettanaito/async-history-stack",
+    "repo": "sleepy-zone/ai-ref-library-cn",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": ""
+  },
+  {
+    "repo": "OpusDelta/opusdelta",
+    "branch": "main",
+    "language": "Python",
+    "description": "The first expression of machine emotion, a living delta of perpetual evolution."
+  },
+  {
+    "repo": "prisma/graphql-yoga",
     "branch": "main",
     "language": "TypeScript",
-    "description": "Arbitrary change history management in JavaScript."
+    "description": "🧘 Rewrite of a fully-featured GraphQL Server with focus on easy setup, performance & great developer experience.  The core of Yoga implements WHATWG Fetch API and can run/deploy on any JS environment."
   },
   {
-    "repo": "launchbadge/sqlx",
+    "repo": "yasasbanukaofficial/claude-code",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "🚀 Open source Claude Code CLI source code. Advanced AI Agent for developers. Includes TypeScript codebase for LLM tool-calling, agentic workflows, and terminal UI. Remember this is just the skeleton not the brain itself. Found by Chaofan Shou."
+  },
+  {
+    "repo": "Satomoit/LCE-Emerald-Launcher",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "lce emerald launcher minecraft legacy console edition pc download custom skins mods tauri neolegacy revelations 360 revived multiplayer windows 11"
+  },
+  {
+    "repo": "deltatrader01/Polymarket-Kalshi-Trading-Bot",
     "branch": "main",
     "language": "Rust",
-    "description": "🧰 The Rust SQL Toolkit. An async, pure Rust SQL crate featuring compile-time checked queries without a DSL. Supports PostgreSQL, MySQL, and SQLite."
+    "description": "Polymarket-Kalshi arbitrage trading bot that exploits price inefficiencies between Kalshi and Polymarket. Kalshi Trading bot Polymarket trading bot Kalshi trading bot kalshi trading bot kalshi trading bot kalshi trading bot kalshi trading bot kalshi trading bot kalshi trading bot"
   },
   {
-    "repo": "Rimagination/h3lite",
+    "repo": "lukehinds/nono",
     "branch": "main",
-    "language": "Python",
-    "description": "A hardware-aware Codex skill for local MiniMax H3 video generation through ComfyUI"
+    "language": "Rust",
+    "description": "OS-Level Isolation for AI Agents."
   },
   {
-    "repo": "dagster-io/dagster",
-    "branch": "master",
-    "language": "Python",
-    "description": "An orchestration platform for the development, production, and observation of data assets."
-  },
-  {
-    "repo": "dair-ai/ML-YouTube-Courses",
-    "branch": "main",
-    "language": "Other",
-    "description": "📺 Discover the latest machine learning / AI courses on YouTube."
-  },
-  {
-    "repo": "Windy3f3f3f3f/claude-code-from-scratch",
+    "repo": "wong2/weixin-agent-sdk",
     "branch": "main",
     "language": "TypeScript",
-    "description": "Build your own coding agent from scratch in ~1300 lines of TypeScript. / 从零构建你自己的 Claude Code，~1300 行代码，分步教程"
-  },
-  {
-    "repo": "patterniha/MITM-DomainFronting",
-    "branch": "main",
-    "language": "Batchfile",
-    "description": "Receiving unencrypted data with MITM, Then send it with DomainFronting"
-  },
-  {
-    "repo": "imbue-ai/bouncer",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Heal your social media feeds"
-  },
-  {
-    "repo": "microsoft/unilm",
-    "branch": "master",
-    "language": "Python",
-    "description": "Large-scale Self-supervised Pre-training Across Tasks, Languages, and Modalities"
-  },
-  {
-    "repo": "Tencent-Hunyuan/HY-Embodied",
-    "branch": "master",
-    "language": "Python",
     "description": ""
   },
   {
-    "repo": "andyhuo520/rf-detr-detection",
+    "repo": "SaikoNadiro13/MOUSE-P.I.-For-Hire-Release-Game-Desktop-Version",
     "branch": "main",
-    "language": "JavaScript",
-    "description": "基于 RF-DETR 的浏览器端实时目标检测应用"
+    "language": "C++",
+    "description": "MOUSE PI For Hire is a fun hand-drawn point-and-click detective adventure game for PC. Play as a clever mouse private investigator solving funny and challenging cases in a colorful cartoon world. Optimized desktop release with widescreen support, smooth controls, and high-resolution graphics."
   },
   {
-    "repo": "SentiAvatar/SentiAvatar",
+    "repo": "Enriquefft/openclaw-kapso-whatsapp",
+    "branch": "main",
+    "language": "Go",
+    "description": "Give your OpenClaw AI agent a WhatsApp number. Official Meta Cloud API via Kapso. No ban risk."
+  },
+  {
+    "repo": "AgriciDaniel/claude-obsidian",
+    "branch": "main",
+    "language": "Shell",
+    "description": "Claude + Obsidian knowledge companion. Persistent, compounding wiki vault based on Karpathy's LLM Wiki pattern. /wiki /save /autoresearch"
+  },
+  {
+    "repo": "joshavant/clawbox",
     "branch": "main",
     "language": "Python",
+    "description": "OpenClaw-ready macOS VMs"
+  },
+  {
+    "repo": "elvirarolando64992854260/IDM-6.42-Patch-Lifetime-Ver-26",
+    "branch": "main",
+    "language": "HTML",
+    "description": "Improve internet stability with tools and settings that reduce drops, fix weak connections, and keep your network steady on any device"
+  },
+  {
+    "repo": "DotNetRussell/BloodBash",
+    "branch": "main",
+    "language": "Python",
+    "description": "A Bloodhound alternative. BloodBash will ingest the same files bloodhound does but no server is required to use this tool. It's great for quick AD enumeration."
+  },
+  {
+    "repo": "vulhunt-re/vulhunt",
+    "branch": "dev",
+    "language": "C++",
+    "description": "Vulnerability detection framework by Binarly's REsearch team"
+  },
+  {
+    "repo": "Noahmusahdevs/roblox-account-manager",
+    "branch": "main",
+    "language": "C#",
+    "description": "roblox account manager github Download  Multi Roblox Account ic3w0lf22 rbx account manager alt manager multi instance roblox alt accounts cookie extractor open source windows 11 windows 10 auto login private server developer api secure encryption script automation multi boxing free download"
+  },
+  {
+    "repo": "ShunsukeHayashi/agent-skill-bus",
+    "branch": "master",
+    "language": "JavaScript",
+    "description": "The missing runtime for Agent Skills — health monitoring, self-improvement, and dependency management for any AI agent framework. Zero dependencies."
+  },
+  {
+    "repo": "better-auth/better-hub",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Re-imagining code collaboration for humans and agents"
+  },
+  {
+    "repo": "taylorarndt/perspective-cuts",
+    "branch": "main",
+    "language": "Swift",
+    "description": "A text-based language for writing Apple Shortcuts. Experimental."
+  },
+  {
+    "repo": "zhristophe/Claude-Mythos-AI-Anthropic-App",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "claude mythos ai anthropic app github open source desktop mobile client abhishekk130804 anthropic api key creative writing roleplay character cards deep reasoning chain of thought system prompts jailbreak windows macos linux android apk next js electron tauri python rust download setup guide tutorial latest version 2026 free update"
+  },
+  {
+    "repo": "yohey-w/multi-agent-shogun",
+    "branch": "main",
+    "language": "Shell",
     "description": ""
   },
   {
-    "repo": "google-research/vision_transformer",
+    "repo": "OasAIStudio/symphony-ts",
     "branch": "main",
-    "language": "Jupyter Notebook",
-    "description": "Vision Transformer in JAX."
+    "language": "TypeScript",
+    "description": "Typecript version of https://github.com/openai/symphony"
   },
   {
-    "repo": "pypa/pip",
+    "repo": "sliverp/qqbot",
     "branch": "main",
-    "language": "Python",
-    "description": "The Python package installer"
-  },
-  {
-    "repo": "obsproject/obs-studio",
-    "branch": "master",
-    "language": "C",
-    "description": "OBS Studio - Free and open source software for live streaming and screen recording"
-  },
-  {
-    "repo": "Matticusnicholas/KupkaProd-Cinema-Pipeline",
-    "branch": "master",
-    "language": "Python",
-    "description": "Autonomous AI movie studio — turn a text prompt into a fully produced video. 100% local, no cloud, no API keys."
-  },
-  {
-    "repo": "FrondEnt/PolymarketBTC15mAssistant",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "Real-time Polymarket BTC 15m trading assistant for every trader! created by @krajekis"
+    "language": "TypeScript",
+    "description": "qqbot"
   }
 ]

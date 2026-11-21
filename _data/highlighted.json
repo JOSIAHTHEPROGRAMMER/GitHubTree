@@ -1,8 +1,8 @@
 {
-  "repo": "lishuangqiang/mixbar",
+  "repo": "finktheartist/rubber-hose-ui",
   "branch": "main",
-  "language": "Swift",
-  "description": "Per-app volume mixer for macOS — no driver, no account. Built on Core Audio Process Tap.",
-  "stars": 313,
-  "forks": 2
+  "language": "JavaScript",
+  "description": "Eleven ordinary UI controls drawn as rubber-hose cartoon characters. One file each, no dependencies.",
+  "stars": 185,
+  "forks": 15
 }
