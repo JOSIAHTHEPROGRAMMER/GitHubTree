@@ -1,8 +1,8 @@
 {
-  "repo": "lemomo-ai/lemo-animi",
+  "repo": "kyle-parkeng05b3/subnautica-2-ue5-console-bridge-biome-portable-x64",
   "branch": "main",
-  "language": "Python",
-  "description": "Stop-motion shorts from one line, made with Codex: eight material styles, puppets drawn by an image model and moved frame by frame in code. 一句话，用 Codex 做一支定格动画短片。",
-  "stars": 188,
-  "forks": 21
+  "language": "Jupyter Notebook",
+  "description": "Subnautica 2 UE5 Console bridge, Biome Map & Resource Scanner: native 64-bit Windows 10/11 portable x64 build with hot-reloadable JSON configuration, low-overhead runtime, and prebuilt portable release.",
+  "stars": 311,
+  "forks": 42
 }

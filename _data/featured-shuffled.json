@@ -1,146 +1,146 @@
 [
   {
-    "repo": "pg83/solo",
+    "repo": "bdg9412/artex-ko-plus",
     "branch": "main",
-    "language": "C++",
-    "description": "Portable Linux binaries, solved"
+    "language": "Go",
+    "description": "ARTEX 한국어판 ·AI 기반 침해사고 대응 기능 추가 (upstream: Autumn-27/ARTEX, AGPL-3.0)"
   },
   {
-    "repo": "RyensX/OpenCodex",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "OpenCodex是一个轻量级Codex运行环境，可以让你的任意设备通过Web使用你的电脑上的Codex。/ OpenCodex is a lightweight Codex runtime environment that allows any of your devices to use the Codex on your computer via the Web."
+    "repo": "fastai/fastbook",
+    "branch": "master",
+    "language": "Jupyter Notebook",
+    "description": "The fastai book, published as Jupyter Notebooks"
   },
   {
-    "repo": "AndrewVos/endless-toil",
+    "repo": "cortexproject/cortex",
+    "branch": "master",
+    "language": "Go",
+    "description": "A horizontally scalable, highly available, multi-tenant, long term Prometheus."
+  },
+  {
+    "repo": "ysharma3501/LavaSR",
     "branch": "main",
     "language": "Python",
-    "description": "Hear your agent suffer through your code"
+    "description": "🌋LavaSR: Fast Speech restoration and enhancement"
   },
   {
-    "repo": "openclaw/crabbox",
-    "branch": "main",
+    "repo": "go-kit/kit",
+    "branch": "master",
     "language": "Go",
-    "description": "Crabbox: warm a box, sync the diff, run the suite."
+    "description": "A standard library for microservices."
   },
   {
-    "repo": "FlowTrader-Labs/polymarket-trading-bot",
+    "repo": "ForrestKnight/open-source-cs",
+    "branch": "master",
+    "language": "Other",
+    "description": "Video discussing this curriculum:"
+  },
+  {
+    "repo": "viplismism/rlm-cli",
     "branch": "main",
     "language": "TypeScript",
-    "description": "polymarket trading bot polymarket copy trading bot polymarket trading bot polymarket copy trading bot polymarket trading bot polymarket copy trading bot polymarket trading bot polymarket copy trading bot polymarket trading bot polymarket copy trading bot polymarket trading bot polymarket copy trading bot"
+    "description": "CLI for Recursive Language Models (arXiv:2512.24601)"
   },
   {
-    "repo": "xiaolajiaoyyds/regplatformm",
+    "repo": "redis/hiredis",
+    "branch": "master",
+    "language": "C",
+    "description": "Minimalistic C client for Redis >= 1.2"
+  },
+  {
+    "repo": "ChristianJR19/byteview",
     "branch": "main",
-    "language": "Go",
-    "description": ""
+    "language": "Python",
+    "description": "a modern hex/binary file inspector for the terminal with color-coded output and entropy analysis"
   },
   {
-    "repo": "hjanuschka/pi-multi-pass",
+    "repo": "ingegroeneveld0620/fps-tweaks-26",
+    "branch": "main",
+    "language": "C++",
+    "description": "fps-tweaks (2026) — Ultimate low-level system optimization suite for maximum gaming performance. Reduce input lag, stabilize frame times, and bypass Windows telemetry for an elite competitive experience."
+  },
+  {
+    "repo": "wagmi-dev/viem",
     "branch": "main",
     "language": "TypeScript",
-    "description": "Multi-subscription extension for pi -- use multiple OAuth accounts per provider (Anthropic, Codex, Copilot, Gemini, Antigravity)"
+    "description": "TypeScript Interface for Ethereum"
   },
   {
-    "repo": "anthnykr/codex-voice",
+    "repo": "holysheep123/holysheep-cli",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "🐑 One command to configure all AI coding tools — Claude Code, Codex, Gemini CLI, Cursor, Aider & more"
+  },
+  {
+    "repo": "rubygems/rubygems",
+    "branch": "master",
+    "language": "Ruby",
+    "description": "Library packaging and distribution for Ruby."
+  },
+  {
+    "repo": "Shopify/javy",
+    "branch": "main",
+    "language": "Rust",
+    "description": "JS to WebAssembly toolchain"
+  },
+  {
+    "repo": "NyxFoundation/speca",
+    "branch": "main",
+    "language": "Python",
+    "description": "SPECA: Specification-to-Checklist Agentic Auditing Framework"
+  },
+  {
+    "repo": "Adityaraj0421/design-studio",
+    "branch": "main",
+    "language": "Shell",
+    "description": "A virtual design team for Claude Code — 9 specialist roles, 16 commands, 5 agents"
+  },
+  {
+    "repo": "AvenueSleuth/delta-exec",
+    "branch": "main",
+    "language": "Python",
+    "description": "Delta Exec scripting utility"
+  },
+  {
+    "repo": "ajavadinezhad/zyrln",
+    "branch": "main",
+    "language": "Go",
+    "description": "Domain-fronting relay that routes traffic through Google infrastructure to bypass DPI-based censorship,  Android VPN    app + desktop proxy"
+  },
+  {
+    "repo": "torproject/tor",
+    "branch": "main",
+    "language": "Other",
+    "description": "unofficial git repo -- report bugs/issues/pull requests on https://gitlab.torproject.org/ --"
+  },
+  {
+    "repo": "portainer/portainer",
+    "branch": "develop",
+    "language": "TypeScript",
+    "description": "Making Docker and Kubernetes management easy."
+  },
+  {
+    "repo": "L1v1ng0ffTh3L4N/EdgeSavedPasswordsDumper",
+    "branch": "main",
+    "language": "C#",
+    "description": "Security related proof of concepts"
+  },
+  {
+    "repo": "EthanLipnik/Loom",
     "branch": "main",
     "language": "Swift",
-    "description": ""
+    "description": "Easy peer to peer networking for Apple devices"
   },
   {
-    "repo": "Amansingh-afk/milli.nvim",
-    "branch": "main",
-    "language": "Lua",
-    "description": "Animated ASCII splash screens for Neovim. 29 bundled splashes + bring your own via the   milli CLI / web playground."
-  },
-  {
-    "repo": "ProjectBarks/gopher-code",
-    "branch": "main",
-    "language": "Go",
-    "description": "Claude Code, rewritten from scratch in Go. Zero Node.js. Zero Electron. One binary."
-  },
-  {
-    "repo": "chaohong-ai/ai-auto-work",
-    "branch": "main",
-    "language": "Shell",
-    "description": "Automatically completes the full workflow from requirement research → research review → planning → plan review → development →  development review using → test AI large language models. Capable of autonomously handling medium to large-scale engineering projects."
-  },
-  {
-    "repo": "andforce/Andclaw",
-    "branch": "main",
-    "language": "Java",
-    "description": "无需ROOT，无需连电脑，像Openclaw控制电脑一样，让Andclaw控制你的安卓手机"
-  },
-  {
-    "repo": "loyalpartner/selfsync",
+    "repo": "JuliaLang/julia",
     "branch": "master",
-    "language": "Rust",
-    "description": "Self-hosted Chrome Sync server. 自托管 Chrome 同步服务器 — 书签、密码、偏好等浏览器数据留在本地，不经过 Google"
+    "language": "Julia",
+    "description": "The Julia Programming Language"
   },
   {
-    "repo": "grayashh/buddy-reroll",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "Reroll your Claude Code /buddy companion to any species, rarity, eye, hat, and shiny combo"
-  },
-  {
-    "repo": "vkehfdl1/slides-grab",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "Select context for agents directly from AI-generated HTML slides"
-  },
-  {
-    "repo": "JudoChinX/rangarr",
-    "branch": "main",
-    "language": "Python",
-    "description": "Rangarr automates and staggers media searches across your Radarr, Sonarr, and Lidarr instances."
-  },
-  {
-    "repo": "TraderAlice/Auto-Quant",
-    "branch": "master",
-    "language": "Python",
-    "description": ""
-  },
-  {
-    "repo": "kiberkingyammee7/Awp-gg-Roblox-Executor-2026",
-    "branch": "main",
-    "language": "C++",
-    "description": "The most advanced, high-performance V3 execution engine for Roblox. Experience seamless Luau scripting, unparalleled 100% UNC bypass mechanisms, and maximum thread stability."
-  },
-  {
-    "repo": "nakagami/grdpwasm",
-    "branch": "master",
-    "language": "Go",
-    "description": ""
-  },
-  {
-    "repo": "worldwonderer/oh-story-claudecode",
-    "branch": "main",
-    "language": "Shell",
-    "description": "网文写作 skill 包，覆盖长篇与短篇网络小说的扫榜、拆文、写作、去AI味全流程"
-  },
-  {
-    "repo": "galpha-ai/trading-intent",
-    "branch": "main",
-    "language": "Rust",
-    "description": ""
-  },
-  {
-    "repo": "JuliusBrussee/caveman",
-    "branch": "main",
-    "language": "Python",
-    "description": "🪨 why use many token when few token do trick — Claude Code skill that cuts 75% of tokens by talking like caveman"
-  },
-  {
-    "repo": "deepseek-ai/TileKernels",
-    "branch": "main",
-    "language": "Python",
-    "description": "A kernel library written in tilelang"
-  },
-  {
-    "repo": "Kuberwastaken/claude-code",
+    "repo": "leonyx007/Polymarket-Sports-Arbitrage-Bot",
     "branch": "main",
     "language": "TypeScript",
-    "description": "Claude Code's Source Code & Breakdown from a leaked map file in their NPM registry"
+    "description": "Polymarket Sports Trading Bot | Polymarket Arbitrage Trading Bot | Polymarket Trading Bot | Polymarket Sports Trading Bot | Polymarket Sports Arbitrage Trading Bot | Polymarket NBA Trading Bot | Polymarket Sports Trading Bot | Polymarket Arbitrage Trading Bot |Polymarket Arbitrage Bot | Polymarket Trading Bot | Polymarket-Sports-Arbitrage-Bot"
   }
 ]
