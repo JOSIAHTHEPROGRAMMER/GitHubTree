@@ -1,146 +1,146 @@
 [
   {
-    "repo": "bdg9412/artex-ko-plus",
-    "branch": "main",
-    "language": "Go",
-    "description": "ARTEX 한국어판 ·AI 기반 침해사고 대응 기능 추가 (upstream: Autumn-27/ARTEX, AGPL-3.0)"
-  },
-  {
-    "repo": "fastai/fastbook",
-    "branch": "master",
-    "language": "Jupyter Notebook",
-    "description": "The fastai book, published as Jupyter Notebooks"
-  },
-  {
-    "repo": "cortexproject/cortex",
-    "branch": "master",
-    "language": "Go",
-    "description": "A horizontally scalable, highly available, multi-tenant, long term Prometheus."
-  },
-  {
-    "repo": "ysharma3501/LavaSR",
+    "repo": "jmuncor/sherlock",
     "branch": "main",
     "language": "Python",
-    "description": "🌋LavaSR: Fast Speech restoration and enhancement"
+    "description": "Intercept LLM API traffic and visualize token usage in a real-time terminal dashboard. Track costs,       debug prompts, and monitor context window usage across your AI development sessions."
   },
   {
-    "repo": "go-kit/kit",
-    "branch": "master",
-    "language": "Go",
-    "description": "A standard library for microservices."
-  },
-  {
-    "repo": "ForrestKnight/open-source-cs",
-    "branch": "master",
-    "language": "Other",
-    "description": "Video discussing this curriculum:"
-  },
-  {
-    "repo": "viplismism/rlm-cli",
+    "repo": "crshdn/mission-control",
     "branch": "main",
     "language": "TypeScript",
-    "description": "CLI for Recursive Language Models (arXiv:2512.24601)"
+    "description": "AI Agent Orchestration Dashboard - Manage AI agents, assign tasks, and coordinate multi-agent collaboration via OpenClaw Gateway."
   },
   {
-    "repo": "redis/hiredis",
+    "repo": "youcci/playport",
+    "branch": "main",
+    "language": "Kotlin",
+    "description": "Wireless CarPlay in your browser — a server-side receiver that turns any screen on your network into a head unit."
+  },
+  {
+    "repo": "MapleShaw/yt-dlp-downloader-skill",
     "branch": "master",
-    "language": "C",
-    "description": "Minimalistic C client for Redis >= 1.2"
+    "language": "Shell",
+    "description": "Cursor Agent Skill for downloading videos using yt-dlp"
   },
   {
-    "repo": "ChristianJR19/byteview",
+    "repo": "pi0/skillman",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "🤹 Manage project skills and lock them in skills.json"
+  },
+  {
+    "repo": "andforce/Andclaw",
+    "branch": "main",
+    "language": "Java",
+    "description": "无需ROOT，无需连电脑，像Openclaw控制电脑一样，让Andclaw控制你的安卓手机"
+  },
+  {
+    "repo": "Fokkyp/SoftwareCopyright-Skill",
     "branch": "main",
     "language": "Python",
-    "description": "a modern hex/binary file inspector for the terminal with color-coded output and entropy analysis"
+    "description": "中国软件著作权申请材料 生成器 Skills，本 Skills 通过阅读本地项目，自动生成全套 .docx 软著申请材料，全开源，无须再付费购买任何软著申请服务"
   },
   {
-    "repo": "ingegroeneveld0620/fps-tweaks-26",
-    "branch": "main",
-    "language": "C++",
-    "description": "fps-tweaks (2026) — Ultimate low-level system optimization suite for maximum gaming performance. Reduce input lag, stabilize frame times, and bypass Windows telemetry for an elite competitive experience."
-  },
-  {
-    "repo": "wagmi-dev/viem",
+    "repo": "BlockRunAI/ClawRouter",
     "branch": "main",
     "language": "TypeScript",
-    "description": "TypeScript Interface for Ethereum"
+    "description": "Smart LLM router — save 78% on inference costs. 30+ models, one wallet, x402 micropayments."
   },
   {
-    "repo": "holysheep123/holysheep-cli",
+    "repo": "fspecii/ace-step-ui",
     "branch": "main",
     "language": "JavaScript",
-    "description": "🐑 One command to configure all AI coding tools — Claude Code, Codex, Gemini CLI, Cursor, Aider & more"
+    "description": "🎵 The Ultimate Open Source Suno Alternative - Professional UI for ACE-Step 1.5 AI Music Generation. Free, local, unlimited. Stop paying for Suno!"
   },
   {
-    "repo": "rubygems/rubygems",
+    "repo": "FireRedTeam/FireRedVAD",
+    "branch": "main",
+    "language": "Python",
+    "description": "A SOTA Industrial-Grade Voice Activity Detection & Audio Event Detection, supporting 100+ languages, outperforming Silero-VAD, TEN-VAD, FunASR-VAD and WebRTC-VAD"
+  },
+  {
+    "repo": "skycryptsite/SkyCrypt",
+    "branch": "main",
+    "language": "Svelte",
+    "description": "Official SkyCrypt website — a Hypixel SkyBlock stats viewer for checking player profiles, skills, net worth, dungeons, slayers, accessories, collections, pets, armor, weapons, and progression using public Hypixel API data."
+  },
+  {
+    "repo": "acedef/SynthAPT",
     "branch": "master",
-    "language": "Ruby",
-    "description": "Library packaging and distribution for Ruby."
-  },
-  {
-    "repo": "Shopify/javy",
-    "branch": "main",
     "language": "Rust",
-    "description": "JS to WebAssembly toolchain"
+    "description": "Generate malware with AI"
   },
   {
-    "repo": "NyxFoundation/speca",
+    "repo": "skydoves/compose-animations",
     "branch": "main",
-    "language": "Python",
-    "description": "SPECA: Specification-to-Checklist Agentic Auditing Framework"
+    "language": "Kotlin",
+    "description": "⚡️ A collection of Jetpack Compose animations for the best practices. Tweak literals at the top of any file, save, and watch the motion morph in real-time."
   },
   {
-    "repo": "Adityaraj0421/design-studio",
-    "branch": "main",
-    "language": "Shell",
-    "description": "A virtual design team for Claude Code — 9 specialist roles, 16 commands, 5 agents"
-  },
-  {
-    "repo": "AvenueSleuth/delta-exec",
-    "branch": "main",
-    "language": "Python",
-    "description": "Delta Exec scripting utility"
-  },
-  {
-    "repo": "ajavadinezhad/zyrln",
-    "branch": "main",
-    "language": "Go",
-    "description": "Domain-fronting relay that routes traffic through Google infrastructure to bypass DPI-based censorship,  Android VPN    app + desktop proxy"
-  },
-  {
-    "repo": "torproject/tor",
-    "branch": "main",
-    "language": "Other",
-    "description": "unofficial git repo -- report bugs/issues/pull requests on https://gitlab.torproject.org/ --"
-  },
-  {
-    "repo": "portainer/portainer",
-    "branch": "develop",
+    "repo": "TheSashaDev/girl-agent",
+    "branch": "master",
     "language": "TypeScript",
-    "description": "Making Docker and Kubernetes management easy."
+    "description": "ИИ-девушка с человеческим поведением: сон, настроение, расписание, память, стадии отношений и конфликты. Userbot mode через MTProto — реагирует, печатает, ставит реакции. Anti-AI промпт убирает ChatGPT-повадки. Не чат-бот — персонаж с состоянием."
   },
   {
-    "repo": "L1v1ng0ffTh3L4N/EdgeSavedPasswordsDumper",
+    "repo": "akitaonrails/FrankSherlock",
+    "branch": "master",
+    "language": "Rust",
+    "description": "Intelligent File Searcher that can search for descriptions in media files like photos, for example receipt from market of $42.00 using AI based classification"
+  },
+  {
+    "repo": "CamTheBun/KMS-Auto-Tool",
     "branch": "main",
-    "language": "C#",
-    "description": "Security related proof of concepts"
+    "language": "C++",
+    "description": "Tool KMSAuto Net Tutorial Permanent License HWID Gen VL Converter Retail to Volume Fix Error 0xc004f074 System Administration Utility 2026 Build"
   },
   {
-    "repo": "EthanLipnik/Loom",
+    "repo": "hzm0321/real-time-fund",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "基金实时估值查看"
+  },
+  {
+    "repo": "pulsemindcover/Polymarket-AI-Trading-Bot",
+    "branch": "main",
+    "language": "Python",
+    "description": "AI-powered macOS trading script for Polymarket. Automatically analyzes markets, generates intelligent trade decisions, and executes orders using configurable risk management and strategy parameters. One-command installation, lightweight setup, and optimized performance for automated prediction market trading."
+  },
+  {
+    "repo": "DarioFT/ComfyUI-Qwen3-TTS",
+    "branch": "main",
+    "language": "Python",
+    "description": "A ComfyUI custom node suite for Qwen3-TTS, supporting 1.7B and 0.6B models, Custom Voice, Voice Design, Voice Cloning and Fine-Tuning."
+  },
+  {
+    "repo": "zai-org/GLM-OCR",
+    "branch": "main",
+    "language": "Python",
+    "description": "GLM-OCR: Accurate ×  Fast × Comprehensive"
+  },
+  {
+    "repo": "aidenboomhero/Subnautica-2-PS5-Port",
+    "branch": "main",
+    "language": "C++",
+    "description": "Subnautica 2 PS5 Port download sequel underwater survival ocean base building crafting leviathans co-op multiplayer exploration biomes creatures sea submarines planet blueprints oxygen resources vehicles equipment abyss scuba ecosystem alien technology flora fauna deep sea diving."
+  },
+  {
+    "repo": "TQ-trade/polymarket-arbitrage",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Polymarket trading bot that detects dump-and-hedge opportunities across 15-minute BTC, ETH, SOL, and XRP markets  polymarket arbitrage bot, polymarket arbitrage trading bot, polymarket bot, polymarket arbitrage bot, polymarket arbitrage trading bot, polymarket bot, polymarket arbitrage bot, polymarket arbitrage trading bot, polymarket bot polymarke"
+  },
+  {
+    "repo": "jaywcjlove/PermissionFlow",
     "branch": "main",
     "language": "Swift",
-    "description": "Easy peer to peer networking for Apple devices"
+    "description": "A macOS library for guiding users through permission setup with System Settings deeplinks and drag-to-authorize support."
   },
   {
-    "repo": "JuliaLang/julia",
-    "branch": "master",
-    "language": "Julia",
-    "description": "The Julia Programming Language"
-  },
-  {
-    "repo": "leonyx007/Polymarket-Sports-Arbitrage-Bot",
+    "repo": "MayersScott/rkn-block-checker",
     "branch": "main",
-    "language": "TypeScript",
-    "description": "Polymarket Sports Trading Bot | Polymarket Arbitrage Trading Bot | Polymarket Trading Bot | Polymarket Sports Trading Bot | Polymarket Sports Arbitrage Trading Bot | Polymarket NBA Trading Bot | Polymarket Sports Trading Bot | Polymarket Arbitrage Trading Bot |Polymarket Arbitrage Bot | Polymarket Trading Bot | Polymarket-Sports-Arbitrage-Bot"
+    "language": "Python",
+    "description": "Diagnose RKN/TSPU internet blocks layer by layer (DNS, TCP, TLS, HTTP)"
   }
 ]
