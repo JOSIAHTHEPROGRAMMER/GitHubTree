@@ -1,69 +1,15 @@
 [
   {
-    "repo": "jmuncor/sherlock",
+    "repo": "QihanZhao/cc-prune",
     "branch": "main",
     "language": "Python",
-    "description": "Intercept LLM API traffic and visualize token usage in a real-time terminal dashboard. Track costs,       debug prompts, and monitor context window usage across your AI development sessions."
+    "description": ""
   },
   {
-    "repo": "crshdn/mission-control",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "AI Agent Orchestration Dashboard - Manage AI agents, assign tasks, and coordinate multi-agent collaboration via OpenClaw Gateway."
-  },
-  {
-    "repo": "youcci/playport",
-    "branch": "main",
-    "language": "Kotlin",
-    "description": "Wireless CarPlay in your browser — a server-side receiver that turns any screen on your network into a head unit."
-  },
-  {
-    "repo": "MapleShaw/yt-dlp-downloader-skill",
-    "branch": "master",
-    "language": "Shell",
-    "description": "Cursor Agent Skill for downloading videos using yt-dlp"
-  },
-  {
-    "repo": "pi0/skillman",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "🤹 Manage project skills and lock them in skills.json"
-  },
-  {
-    "repo": "andforce/Andclaw",
-    "branch": "main",
-    "language": "Java",
-    "description": "无需ROOT，无需连电脑，像Openclaw控制电脑一样，让Andclaw控制你的安卓手机"
-  },
-  {
-    "repo": "Fokkyp/SoftwareCopyright-Skill",
+    "repo": "JinGuYuan/jinguyuan-dumpling-skill",
     "branch": "main",
     "language": "Python",
-    "description": "中国软件著作权申请材料 生成器 Skills，本 Skills 通过阅读本地项目，自动生成全套 .docx 软著申请材料，全开源，无须再付费购买任何软著申请服务"
-  },
-  {
-    "repo": "BlockRunAI/ClawRouter",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Smart LLM router — save 78% on inference costs. 30+ models, one wallet, x402 micropayments."
-  },
-  {
-    "repo": "fspecii/ace-step-ui",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "🎵 The Ultimate Open Source Suno Alternative - Professional UI for ACE-Step 1.5 AI Music Generation. Free, local, unlimited. Stop paying for Suno!"
-  },
-  {
-    "repo": "FireRedTeam/FireRedVAD",
-    "branch": "main",
-    "language": "Python",
-    "description": "A SOTA Industrial-Grade Voice Activity Detection & Audio Event Detection, supporting 100+ languages, outperforming Silero-VAD, TEN-VAD, FunASR-VAD and WebRTC-VAD"
-  },
-  {
-    "repo": "skycryptsite/SkyCrypt",
-    "branch": "main",
-    "language": "Svelte",
-    "description": "Official SkyCrypt website — a Hypixel SkyBlock stats viewer for checking player profiles, skills, net worth, dungeons, slayers, accessories, collections, pets, armor, weapons, and progression using public Hypixel API data."
+    "description": "金谷园饺子馆 AI Skill - 北邮边上的饺子馆"
   },
   {
     "repo": "acedef/SynthAPT",
@@ -72,75 +18,129 @@
     "description": "Generate malware with AI"
   },
   {
-    "repo": "skydoves/compose-animations",
-    "branch": "main",
-    "language": "Kotlin",
-    "description": "⚡️ A collection of Jetpack Compose animations for the best practices. Tweak literals at the top of any file, save, and watch the motion morph in real-time."
-  },
-  {
-    "repo": "TheSashaDev/girl-agent",
+    "repo": "reduxjs/redux-toolkit",
     "branch": "master",
     "language": "TypeScript",
-    "description": "ИИ-девушка с человеческим поведением: сон, настроение, расписание, память, стадии отношений и конфликты. Userbot mode через MTProto — реагирует, печатает, ставит реакции. Anti-AI промпт убирает ChatGPT-повадки. Не чат-бот — персонаж с состоянием."
+    "description": "The official, opinionated, batteries-included toolset for efficient Redux development"
   },
   {
-    "repo": "akitaonrails/FrankSherlock",
+    "repo": "SimplifyJobs/Summer2025-Internships",
+    "branch": "main",
+    "language": "Python",
+    "description": "Collection of Summer 2026 tech internships!"
+  },
+  {
+    "repo": "knative/serving",
+    "branch": "main",
+    "language": "Go",
+    "description": "Kubernetes-based, scale-to-zero, request-driven compute"
+  },
+  {
+    "repo": "locustio/locust",
+    "branch": "master",
+    "language": "Python",
+    "description": "Write scalable load tests in plain Python 🚗💨"
+  },
+  {
+    "repo": "EbookFoundation/free-programming-books",
+    "branch": "main",
+    "language": "Python",
+    "description": ":books: Freely available programming books"
+  },
+  {
+    "repo": "BurntSushi/ripgrep",
     "branch": "master",
     "language": "Rust",
-    "description": "Intelligent File Searcher that can search for descriptions in media files like photos, for example receipt from market of $42.00 using AI based classification"
+    "description": "ripgrep recursively searches directories for a regex pattern while respecting your gitignore"
   },
   {
-    "repo": "CamTheBun/KMS-Auto-Tool",
+    "repo": "microsoft/unilm",
+    "branch": "master",
+    "language": "Python",
+    "description": "Large-scale Self-supervised Pre-training Across Tasks, Languages, and Modalities"
+  },
+  {
+    "repo": "grpc/grpc-go",
+    "branch": "master",
+    "language": "Go",
+    "description": "The Go language implementation of gRPC. HTTP/2 based RPC"
+  },
+  {
+    "repo": "microsoft/autogen",
     "branch": "main",
+    "language": "Python",
+    "description": "A programming framework for agentic AI"
+  },
+  {
+    "repo": "firebase/firebase-ios-sdk",
+    "branch": "master",
     "language": "C++",
-    "description": "Tool KMSAuto Net Tutorial Permanent License HWID Gen VL Converter Retail to Volume Fix Error 0xc004f074 System Administration Utility 2026 Build"
+    "description": "Firebase SDK for Apple App Development"
   },
   {
-    "repo": "hzm0321/real-time-fund",
+    "repo": "facebookresearch/llama",
     "branch": "main",
+    "language": "Python",
+    "description": "Inference code for Llama models"
+  },
+  {
+    "repo": "nginx/nginx",
+    "branch": "master",
+    "language": "C",
+    "description": "The official NGINX Open Source repository."
+  },
+  {
+    "repo": "zsh-users/zsh-autosuggestions",
+    "branch": "master",
+    "language": "Shell",
+    "description": "Fish-like autosuggestions for zsh"
+  },
+  {
+    "repo": "microsoft/LlamaSharp",
+    "branch": "main",
+    "language": "Other",
+    "description": ".NET library for Llama model inference."
+  },
+  {
+    "repo": "coredns/coredns",
+    "branch": "master",
+    "language": "Go",
+    "description": "CoreDNS is a DNS server that chains plugins"
+  },
+  {
+    "repo": "kubernetes/client-go",
+    "branch": "master",
+    "language": "Go",
+    "description": "Go client for Kubernetes."
+  },
+  {
+    "repo": "openai/openai-cookbook",
+    "branch": "main",
+    "language": "Jupyter Notebook",
+    "description": "Examples and guides for using the OpenAI API"
+  },
+  {
+    "repo": "cncf/landscape",
+    "branch": "master",
+    "language": "Other",
+    "description": "🌄 The Cloud Native Interactive Landscape filters and sorts hundreds of projects and products, and shows details including GitHub stars, funding, first and last commits, contributor counts and headquarters location."
+  },
+  {
+    "repo": "prysmaticlabs/prysm",
+    "branch": "master",
+    "language": "Go",
+    "description": "Go implementation of Ethereum proof of stake"
+  },
+  {
+    "repo": "less/less.js",
+    "branch": "master",
     "language": "JavaScript",
-    "description": "基金实时估值查看"
+    "description": "Less. The dynamic stylesheet language."
   },
   {
-    "repo": "pulsemindcover/Polymarket-AI-Trading-Bot",
-    "branch": "main",
-    "language": "Python",
-    "description": "AI-powered macOS trading script for Polymarket. Automatically analyzes markets, generates intelligent trade decisions, and executes orders using configurable risk management and strategy parameters. One-command installation, lightweight setup, and optimized performance for automated prediction market trading."
-  },
-  {
-    "repo": "DarioFT/ComfyUI-Qwen3-TTS",
-    "branch": "main",
-    "language": "Python",
-    "description": "A ComfyUI custom node suite for Qwen3-TTS, supporting 1.7B and 0.6B models, Custom Voice, Voice Design, Voice Cloning and Fine-Tuning."
-  },
-  {
-    "repo": "zai-org/GLM-OCR",
-    "branch": "main",
-    "language": "Python",
-    "description": "GLM-OCR: Accurate ×  Fast × Comprehensive"
-  },
-  {
-    "repo": "aidenboomhero/Subnautica-2-PS5-Port",
-    "branch": "main",
-    "language": "C++",
-    "description": "Subnautica 2 PS5 Port download sequel underwater survival ocean base building crafting leviathans co-op multiplayer exploration biomes creatures sea submarines planet blueprints oxygen resources vehicles equipment abyss scuba ecosystem alien technology flora fauna deep sea diving."
-  },
-  {
-    "repo": "TQ-trade/polymarket-arbitrage",
+    "repo": "angular/angular-cli",
     "branch": "main",
     "language": "TypeScript",
-    "description": "Polymarket trading bot that detects dump-and-hedge opportunities across 15-minute BTC, ETH, SOL, and XRP markets  polymarket arbitrage bot, polymarket arbitrage trading bot, polymarket bot, polymarket arbitrage bot, polymarket arbitrage trading bot, polymarket bot, polymarket arbitrage bot, polymarket arbitrage trading bot, polymarket bot polymarke"
-  },
-  {
-    "repo": "jaywcjlove/PermissionFlow",
-    "branch": "main",
-    "language": "Swift",
-    "description": "A macOS library for guiding users through permission setup with System Settings deeplinks and drag-to-authorize support."
-  },
-  {
-    "repo": "MayersScott/rkn-block-checker",
-    "branch": "main",
-    "language": "Python",
-    "description": "Diagnose RKN/TSPU internet blocks layer by layer (DNS, TCP, TLS, HTTP)"
+    "description": "CLI tool for Angular"
   }
 ]

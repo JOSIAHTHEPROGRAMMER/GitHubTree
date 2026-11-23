@@ -1,8 +1,8 @@
 {
-  "repo": "chris-code-90e9/3utools-pro-mdm-unlocker-2026",
+  "repo": "sshkeda/minecraft-server-on-orange-cloud",
   "branch": "main",
-  "language": "Jupyter Notebook",
-  "description": "3uTools Pro + iRemoval Pro Windows — 1-Click MDM Skip, IPA Sideloader & Virtual GPS (2026 Edition): native 64-bit Windows 10/11 portable x64 build with hot-reloadable JSON configuration, low-overhead runtime, and prebuilt portable release.",
-  "stars": 315,
-  "forks": 23
+  "language": "TypeScript",
+  "description": "Run a Minecraft Java server entirely on Cloudflare. Sleeps when nobody's playing.",
+  "stars": 398,
+  "forks": 8
 }
