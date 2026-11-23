@@ -1,146 +1,146 @@
 [
   {
-    "repo": "QihanZhao/cc-prune",
+    "repo": "VelaPayments/vela-server",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "NestJS backend for Vela’s Stellar payment prototype, with payment-request validation, WebAuthn authorization, and transaction services."
+  },
+  {
+    "repo": "THUDM/CodeGeeX",
+    "branch": "main",
+    "language": "Python",
+    "description": "CodeGeeX: An Open Multilingual Code Generation Model (KDD 2023)"
+  },
+  {
+    "repo": "ridha61/Lossless-Scaling-Upscaler-FPS",
+    "branch": "main",
+    "language": "C++",
+    "description": "Lossless Scaling Free Download May 2026 LSFG 3 Frame Generation Tool Universal AI Upscaler LS1 FSR 3.1 Guide High FPS Gaming Utility Desktop Performance Booster Low Latency Smooth Motion Handheld Optimization Steam Deck ROG Ally Pro Version Latest Build Tutorial No Lag"
+  },
+  {
+    "repo": "CocoaPods/CocoaPods",
+    "branch": "master",
+    "language": "Ruby",
+    "description": "The Cocoa Dependency Manager."
+  },
+  {
+    "repo": "geoffreymcgill/react-native-collapsible",
+    "branch": "master",
+    "language": "Other",
+    "description": "Animated collapsible component for React Native, good for accordions, toggles etc"
+  },
+  {
+    "repo": "SergioBenitez/Rocket",
+    "branch": "master",
+    "language": "Rust",
+    "description": "A web framework for Rust."
+  },
+  {
+    "repo": "hashicorp/vault",
+    "branch": "main",
+    "language": "Go",
+    "description": "A tool for secrets management, encryption as a service, and privileged access management"
+  },
+  {
+    "repo": "shanselman/cert-inspector",
+    "branch": "master",
+    "language": "JavaScript",
+    "description": "🔒 Web tool to inspect SSL certificates and DNS for all domains in a webpage's request tree. Captures full network footprint via headless browser."
+  },
+  {
+    "repo": "ryrylliee/Super-Smash-Bros-PC",
+    "branch": "main",
+    "language": "C++",
+    "description": "Super Smash Bros PC Download May 2026 Ultimate Performance Fix Eden Citron Emulator Smash Remix v2.0.1 Update Tug of War Mode Rollback Netplay Guide 4K Texture Pack High FPS Low Latency GameCube Adapter Setup Project Plus Slippi Melee Online Tutorial Free Full Version Latest Build"
+  },
+  {
+    "repo": "tanaer/WindowsClear",
+    "branch": "main",
+    "language": "Rust",
+    "description": "Windows C盘清理工具/C盘瘦身工具，还你Appdata的大量硬盘空间 | Windows System disk cleanup, returning a large amount of hard drive space from your Appdata"
+  },
+  {
+    "repo": "vitejs/vite",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Next generation frontend tooling. It's fast!"
+  },
+  {
+    "repo": "mui/material-ui",
+    "branch": "master",
+    "language": "JavaScript",
+    "description": "Material UI: Comprehensive React component library that implements Google's Material Design. Free forever."
+  },
+  {
+    "repo": "projectdiscovery/nuclei",
+    "branch": "master",
+    "language": "Go",
+    "description": "Nuclei is a fast, customizable vulnerability scanner powered by the global security community and built on a simple YAML-based DSL, enabling collaboration to tackle trending vulnerabilities on the internet. It helps you find vulnerabilities in your applications, APIs, networks, DNS, and cloud configurations."
+  },
+  {
+    "repo": "fluent/fluent-bit",
+    "branch": "master",
+    "language": "C",
+    "description": "Fast and Lightweight Logs, Metrics and Traces processor for Linux, BSD, OSX and Windows"
+  },
+  {
+    "repo": "vannyben7/course-learning-workspace",
     "branch": "main",
     "language": "Python",
     "description": ""
   },
   {
-    "repo": "JinGuYuan/jinguyuan-dumpling-skill",
+    "repo": "hossein8360/cdn-ip-finder",
     "branch": "main",
-    "language": "Python",
-    "description": "金谷园饺子馆 AI Skill - 北邮边上的饺子馆"
+    "language": "HTML",
+    "description": "CDN IP finder for ShirOKhorshid domain fronting"
   },
   {
-    "repo": "acedef/SynthAPT",
+    "repo": "fluent/fluentd",
     "branch": "master",
-    "language": "Rust",
-    "description": "Generate malware with AI"
+    "language": "Ruby",
+    "description": "Fluentd: Unified Logging Layer (project under CNCF)"
   },
   {
-    "repo": "reduxjs/redux-toolkit",
-    "branch": "master",
-    "language": "TypeScript",
-    "description": "The official, opinionated, batteries-included toolset for efficient Redux development"
-  },
-  {
-    "repo": "SimplifyJobs/Summer2025-Internships",
+    "repo": "Quick/Nimble",
     "branch": "main",
-    "language": "Python",
-    "description": "Collection of Summer 2026 tech internships!"
+    "language": "Swift",
+    "description": "A Matcher Framework for Swift and Objective-C"
   },
   {
-    "repo": "knative/serving",
+    "repo": "Devvvmn/ActivSpot",
     "branch": "main",
-    "language": "Go",
-    "description": "Kubernetes-based, scale-to-zero, request-driven compute"
+    "language": "QML",
+    "description": "My vision for a dynamic island for Hyprland"
   },
   {
-    "repo": "locustio/locust",
+    "repo": "apache/httpcomponents-client",
     "branch": "master",
-    "language": "Python",
-    "description": "Write scalable load tests in plain Python 🚗💨"
+    "language": "Java",
+    "description": "Mirror of Apache HttpClient"
   },
   {
-    "repo": "EbookFoundation/free-programming-books",
-    "branch": "main",
-    "language": "Python",
-    "description": ":books: Freely available programming books"
-  },
-  {
-    "repo": "BurntSushi/ripgrep",
-    "branch": "master",
-    "language": "Rust",
-    "description": "ripgrep recursively searches directories for a regex pattern while respecting your gitignore"
-  },
-  {
-    "repo": "microsoft/unilm",
-    "branch": "master",
-    "language": "Python",
-    "description": "Large-scale Self-supervised Pre-training Across Tasks, Languages, and Modalities"
-  },
-  {
-    "repo": "grpc/grpc-go",
-    "branch": "master",
-    "language": "Go",
-    "description": "The Go language implementation of gRPC. HTTP/2 based RPC"
-  },
-  {
-    "repo": "microsoft/autogen",
-    "branch": "main",
-    "language": "Python",
-    "description": "A programming framework for agentic AI"
-  },
-  {
-    "repo": "firebase/firebase-ios-sdk",
-    "branch": "master",
-    "language": "C++",
-    "description": "Firebase SDK for Apple App Development"
-  },
-  {
-    "repo": "facebookresearch/llama",
-    "branch": "main",
-    "language": "Python",
-    "description": "Inference code for Llama models"
-  },
-  {
-    "repo": "nginx/nginx",
-    "branch": "master",
-    "language": "C",
-    "description": "The official NGINX Open Source repository."
-  },
-  {
-    "repo": "zsh-users/zsh-autosuggestions",
-    "branch": "master",
-    "language": "Shell",
-    "description": "Fish-like autosuggestions for zsh"
-  },
-  {
-    "repo": "microsoft/LlamaSharp",
-    "branch": "main",
-    "language": "Other",
-    "description": ".NET library for Llama model inference."
-  },
-  {
-    "repo": "coredns/coredns",
-    "branch": "master",
-    "language": "Go",
-    "description": "CoreDNS is a DNS server that chains plugins"
-  },
-  {
-    "repo": "kubernetes/client-go",
-    "branch": "master",
-    "language": "Go",
-    "description": "Go client for Kubernetes."
-  },
-  {
-    "repo": "openai/openai-cookbook",
-    "branch": "main",
-    "language": "Jupyter Notebook",
-    "description": "Examples and guides for using the OpenAI API"
-  },
-  {
-    "repo": "cncf/landscape",
-    "branch": "master",
-    "language": "Other",
-    "description": "🌄 The Cloud Native Interactive Landscape filters and sorts hundreds of projects and products, and shows details including GitHub stars, funding, first and last commits, contributor counts and headquarters location."
-  },
-  {
-    "repo": "prysmaticlabs/prysm",
-    "branch": "master",
-    "language": "Go",
-    "description": "Go implementation of Ethereum proof of stake"
-  },
-  {
-    "repo": "less/less.js",
-    "branch": "master",
-    "language": "JavaScript",
-    "description": "Less. The dynamic stylesheet language."
-  },
-  {
-    "repo": "angular/angular-cli",
+    "repo": "nkzw-tech/codiff",
     "branch": "main",
     "language": "TypeScript",
-    "description": "CLI tool for Angular"
+    "description": "a fast local diff viewer"
+  },
+  {
+    "repo": "VILA-Lab/FigMirror",
+    "branch": "main",
+    "language": "Python",
+    "description": "An Automated AI Agent Tool for Plotting Your Data in Any Paper's Figure Style."
+  },
+  {
+    "repo": "amanning3390/deepswarm",
+    "branch": "main",
+    "language": "Python",
+    "description": ""
+  },
+  {
+    "repo": "yt-dlp/yt-dlp",
+    "branch": "master",
+    "language": "Python",
+    "description": "A feature-rich command-line audio/video downloader"
   }
 ]

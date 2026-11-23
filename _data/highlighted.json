@@ -1,8 +1,8 @@
 {
-  "repo": "sshkeda/minecraft-server-on-orange-cloud",
+  "repo": "w01fb0ss/PiBot",
   "branch": "main",
   "language": "TypeScript",
-  "description": "Run a Minecraft Java server entirely on Cloudflare. Sleeps when nobody's playing.",
-  "stars": 398,
-  "forks": 8
+  "description": "Open-source, local-first AI agent team for your desktop: multi-agent group chats, computer use, browser, MCP, routines and approvals. macOS, Windows, Linux + Android. Built on pi.",
+  "stars": 499,
+  "forks": 71
 }
