@@ -1,63 +1,51 @@
 [
   {
-    "repo": "VelaPayments/vela-server",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "NestJS backend for Vela’s Stellar payment prototype, with payment-request validation, WebAuthn authorization, and transaction services."
-  },
-  {
-    "repo": "THUDM/CodeGeeX",
-    "branch": "main",
-    "language": "Python",
-    "description": "CodeGeeX: An Open Multilingual Code Generation Model (KDD 2023)"
-  },
-  {
-    "repo": "ridha61/Lossless-Scaling-Upscaler-FPS",
-    "branch": "main",
-    "language": "C++",
-    "description": "Lossless Scaling Free Download May 2026 LSFG 3 Frame Generation Tool Universal AI Upscaler LS1 FSR 3.1 Guide High FPS Gaming Utility Desktop Performance Booster Low Latency Smooth Motion Handheld Optimization Steam Deck ROG Ally Pro Version Latest Build Tutorial No Lag"
-  },
-  {
-    "repo": "CocoaPods/CocoaPods",
-    "branch": "master",
-    "language": "Ruby",
-    "description": "The Cocoa Dependency Manager."
-  },
-  {
-    "repo": "geoffreymcgill/react-native-collapsible",
-    "branch": "master",
-    "language": "Other",
-    "description": "Animated collapsible component for React Native, good for accordions, toggles etc"
-  },
-  {
-    "repo": "SergioBenitez/Rocket",
-    "branch": "master",
-    "language": "Rust",
-    "description": "A web framework for Rust."
-  },
-  {
-    "repo": "hashicorp/vault",
+    "repo": "vavallee/bindery",
     "branch": "main",
     "language": "Go",
-    "description": "A tool for secrets management, encryption as a service, and privileged access management"
+    "description": "Automated book download manager for Usenet. Monitor authors, search indexers, download via SABnzbd, and organize your library. The modern replacement for Readarr."
   },
   {
-    "repo": "shanselman/cert-inspector",
+    "repo": "wenqi9115-glitch/systematic-etf-relative-strength-alpha-attribution",
+    "branch": "main",
+    "language": "Jupyter Notebook",
+    "description": "Systematic ETF relative-strength research, overlapping-sleeve portfolio construction, LEAN implementation, and factor attribution."
+  },
+  {
+    "repo": "apache/iceberg",
+    "branch": "main",
+    "language": "Java",
+    "description": "Apache Iceberg"
+  },
+  {
+    "repo": "giusmarci/openwhisp",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Voice to text, entirely on your machine. Hold Fn, speak, release — transcribed, polished, and pasted. No cloud, no account, no latency."
+  },
+  {
+    "repo": "Ch1rpy2613/Mirrai",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": ""
+  },
+  {
+    "repo": "freestylefly/openclaw-wechat",
     "branch": "master",
+    "language": "TypeScript",
+    "description": "让 OpenClaw稳定的连上你的个人微信"
+  },
+  {
+    "repo": "opengeos/GeoLibre",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Lightweight, cloud-native desktop GIS built with Tauri v2, React, TypeScript, and MapLibre GL JS."
+  },
+  {
+    "repo": "ExpondoEgirl/felca-reporter",
+    "branch": "main",
     "language": "JavaScript",
-    "description": "🔒 Web tool to inspect SSL certificates and DNS for all domains in a webpage's request tree. Captures full network footprint via headless browser."
-  },
-  {
-    "repo": "ryrylliee/Super-Smash-Bros-PC",
-    "branch": "main",
-    "language": "C++",
-    "description": "Super Smash Bros PC Download May 2026 Ultimate Performance Fix Eden Citron Emulator Smash Remix v2.0.1 Update Tug of War Mode Rollback Netplay Guide 4K Texture Pack High FPS Low Latency GameCube Adapter Setup Project Plus Slippi Melee Online Tutorial Free Full Version Latest Build"
-  },
-  {
-    "repo": "tanaer/WindowsClear",
-    "branch": "main",
-    "language": "Rust",
-    "description": "Windows C盘清理工具/C盘瘦身工具，还你Appdata的大量硬盘空间 | Windows System disk cleanup, returning a large amount of hard drive space from your Appdata"
+    "description": "Extensão Chrome/Edge que automatiza denúncias de conteúdo inadequado para menores no YouTube, conforme a Lei nº 15.211/2025 (Lei Felca / ECA Digital)"
   },
   {
     "repo": "vitejs/vite",
@@ -66,81 +54,93 @@
     "description": "Next generation frontend tooling. It's fast!"
   },
   {
-    "repo": "mui/material-ui",
-    "branch": "master",
-    "language": "JavaScript",
-    "description": "Material UI: Comprehensive React component library that implements Google's Material Design. Free forever."
-  },
-  {
-    "repo": "projectdiscovery/nuclei",
-    "branch": "master",
-    "language": "Go",
-    "description": "Nuclei is a fast, customizable vulnerability scanner powered by the global security community and built on a simple YAML-based DSL, enabling collaboration to tackle trending vulnerabilities on the internet. It helps you find vulnerabilities in your applications, APIs, networks, DNS, and cloud configurations."
-  },
-  {
-    "repo": "fluent/fluent-bit",
-    "branch": "master",
-    "language": "C",
-    "description": "Fast and Lightweight Logs, Metrics and Traces processor for Linux, BSD, OSX and Windows"
-  },
-  {
-    "repo": "vannyben7/course-learning-workspace",
-    "branch": "main",
-    "language": "Python",
-    "description": ""
-  },
-  {
-    "repo": "hossein8360/cdn-ip-finder",
+    "repo": "datawhalechina/Agent-Learning-Hub",
     "branch": "main",
     "language": "HTML",
-    "description": "CDN IP finder for ShirOKhorshid domain fronting"
+    "description": "AI Agent 学习路线与资料库收集"
   },
   {
-    "repo": "fluent/fluentd",
+    "repo": "0Voice/Expert_Readed_Books",
     "branch": "master",
-    "language": "Ruby",
-    "description": "Fluentd: Unified Logging Layer (project under CNCF)"
+    "language": "Other",
+    "description": "2021年最新总结，推荐工程师合适读本，计算机科学，软件技术，创业，思想类，数学类，人物传记书籍"
   },
   {
-    "repo": "Quick/Nimble",
+    "repo": "ultralytics/ultralytics",
     "branch": "main",
-    "language": "Swift",
-    "description": "A Matcher Framework for Swift and Objective-C"
+    "language": "Python",
+    "description": "Ultralytics YOLO 🚀"
   },
   {
-    "repo": "Devvvmn/ActivSpot",
+    "repo": "jackson-video-resources/markov-hedge-fund-method",
     "branch": "main",
-    "language": "QML",
-    "description": "My vision for a dynamic island for Hyprland"
+    "language": "Python",
+    "description": "Markov regime detection skill + one-shot install prompt + Pine indicator. Companion to Quant Series video 1. Framework by Roan (@RohOnChain)."
   },
   {
-    "repo": "apache/httpcomponents-client",
+    "repo": "labuladong/fucking-algorithm",
     "branch": "master",
-    "language": "Java",
-    "description": "Mirror of Apache HttpClient"
+    "language": "Markdown",
+    "description": "刷算法全靠套路，认准 labuladong 就够了！English version supported! Crack LeetCode, not only how, but also why."
   },
   {
-    "repo": "nkzw-tech/codiff",
+    "repo": "shadcn-ui/ui",
     "branch": "main",
     "language": "TypeScript",
-    "description": "a fast local diff viewer"
+    "description": "A set of beautifully-designed, accessible components and a code distribution platform. Works with your favorite frameworks. Open Source. Open Code."
   },
   {
-    "repo": "VILA-Lab/FigMirror",
-    "branch": "main",
-    "language": "Python",
-    "description": "An Automated AI Agent Tool for Plotting Your Data in Any Paper's Figure Style."
-  },
-  {
-    "repo": "amanning3390/deepswarm",
-    "branch": "main",
-    "language": "Python",
-    "description": ""
-  },
-  {
-    "repo": "yt-dlp/yt-dlp",
+    "repo": "vmi-rs/ephemera",
     "branch": "master",
+    "language": "Rust",
+    "description": "Multiplatform MEMORY.DMP analysis tool with a WinDbg flavor"
+  },
+  {
+    "repo": "nevertoday/zhongguo-traditional-colors",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "中华传统色演示、色卡浏览与颜色知识科普开源项目"
+  },
+  {
+    "repo": "paralives-free/Paralives-Money-Cheats",
+    "branch": "main",
+    "language": "C#",
+    "description": "paralives mod cheats money console commands money hack trainer steam  game download free steam pc paramaker unlimited money needs mod"
+  },
+  {
+    "repo": "d3/d3",
+    "branch": "main",
+    "language": "Shell",
+    "description": "Bring data to life with SVG, Canvas and HTML. :bar_chart::chart_with_upwards_trend::tada:"
+  },
+  {
+    "repo": "react-native-video/react-native-video",
+    "branch": "master",
+    "language": "Kotlin",
+    "description": "A <Video /> component for react-native"
+  },
+  {
+    "repo": "h4ckf0r0day/obscura",
+    "branch": "main",
+    "language": "Rust",
+    "description": "The headless browser for AI agents and web scraping"
+  },
+  {
+    "repo": "muxprotocol/solana-trading-bot",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Solana trading bot, an automated Solana sniping bot that trades newly-listed tokens on Raydium AMM v4 and pump.fun bonding curves. Listens to on-chain events in real time, applies configurable safety filters, buys with your chosen quote token (WSOL / USDC), and auto-sells on take-profit / stop-loss."
+  },
+  {
+    "repo": "vmware-tanzu/velero",
+    "branch": "main",
+    "language": "Go",
+    "description": "Backup and migrate Kubernetes applications and their persistent volumes"
+  },
+  {
+    "repo": "scipy/scipy",
+    "branch": "main",
     "language": "Python",
-    "description": "A feature-rich command-line audio/video downloader"
+    "description": "SciPy library main repository"
   }
 ]

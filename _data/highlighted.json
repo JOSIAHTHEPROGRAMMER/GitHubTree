@@ -1,8 +1,8 @@
 {
-  "repo": "w01fb0ss/PiBot",
+  "repo": "90Shafkat/ifunbox",
   "branch": "main",
-  "language": "TypeScript",
-  "description": "Open-source, local-first AI agent team for your desktop: multi-agent group chats, computer use, browser, MCP, routines and approvals. macOS, Windows, Linux + Android. Built on pi.",
-  "stars": 499,
-  "forks": 71
+  "language": "HTML",
+  "description": "Ifunbox: Cross-Platform Device Management Suite with File Transfer, App Inspection, and Data Backup",
+  "stars": 336,
+  "forks": 0
 }
