@@ -1,146 +1,146 @@
 [
   {
-    "repo": "vavallee/bindery",
-    "branch": "main",
+    "repo": "kubernetes/kompose",
+    "branch": "master",
     "language": "Go",
-    "description": "Automated book download manager for Usenet. Monitor authors, search indexers, download via SABnzbd, and organize your library. The modern replacement for Readarr."
+    "description": "Convert Compose to Kubernetes"
   },
   {
-    "repo": "wenqi9115-glitch/systematic-etf-relative-strength-alpha-attribution",
+    "repo": "tqmane/gunshot",
     "branch": "main",
-    "language": "Jupyter Notebook",
-    "description": "Systematic ETF relative-strength research, overlapping-sleeve portfolio construction, LEAN implementation, and factor attribution."
+    "language": "Objective-C",
+    "description": "Google Photo tweak"
   },
   {
-    "repo": "apache/iceberg",
-    "branch": "main",
-    "language": "Java",
-    "description": "Apache Iceberg"
-  },
-  {
-    "repo": "giusmarci/openwhisp",
+    "repo": "first-fluke/oh-my-ag",
     "branch": "main",
     "language": "TypeScript",
-    "description": "Voice to text, entirely on your machine. Hold Fn, speak, release — transcribed, polished, and pasted. No cloud, no account, no latency."
+    "description": "The Ultimate Multi-Agent Framework for Google Antigravity. Orchestrate 6 specialized agents via Serena Memory. Parallel CLI execution, real-time observability, and zero-config skills."
   },
   {
-    "repo": "Ch1rpy2613/Mirrai",
+    "repo": "hubeiqiao/apple-bento-grid",
+    "branch": "main",
+    "language": "HTML",
+    "description": "Agent skill that generates Apple-inspired bento grid presentation cards. For Claude Code, Codex, and any AI coding agent."
+  },
+  {
+    "repo": "LukeRenton/explore-claude-code",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "Learn Claude Code by exploring it as it was designed - interactive IDE-style docs for commands, MCP, skills, CLAUDE.md and more."
+  },
+  {
+    "repo": "Guid-Lab/kdecrypt",
+    "branch": "main",
+    "language": "C++",
+    "description": "PGP/GPG file encryption and decryption manager for KDE Plasma"
+  },
+  {
+    "repo": "steipete/discrawl",
+    "branch": "main",
+    "language": "Go",
+    "description": "cli for discord with sqlite backend"
+  },
+  {
+    "repo": "Binarylunanotice/blooket",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "blooket gui || blooket || blooket api"
+  },
+  {
+    "repo": "nathaniel329/polymarket-trading-bot",
+    "branch": "main",
+    "language": "Python",
+    "description": "polymarket trading bot"
+  },
+  {
+    "repo": "JudyaiLab/ai-night-shift",
+    "branch": "main",
+    "language": "Shell",
+    "description": "Multi-agent autonomous framework — let your AI work while you sleep 🌙"
+  },
+  {
+    "repo": "J2TEAM/vibe.j2team.org",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "Sẽ thế nào nếu cả nhóm J2TEAM Community vibe code cùng nhau?"
+  },
+  {
+    "repo": "nikmcfly/MiroFish-Offline",
+    "branch": "main",
+    "language": "Python",
+    "description": "Offline multi-agent simulation & prediction engine. English fork of MiroFish with Neo4j + Ollama local stack."
+  },
+  {
+    "repo": "AdrianNavaG/Polymarket-Arbitrage-Crypto-Trading-Bot",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot"
+  },
+  {
+    "repo": "android-bench/android-bench",
+    "branch": "main",
+    "language": "Python",
+    "description": "Android Bench is a framework for benchmarking Large Language Models (LLMs) on Android development tasks. It evaluates an AI model's ability to understand mobile codebases, generate accurate patches, and solve Android-specific engineering problems."
+  },
+  {
+    "repo": "alchaincyf/nuwa-skill",
+    "branch": "main",
+    "language": "Python",
+    "description": "你想蒸馏的下一个员工，何必是同事。蒸馏任何人的思维方式——心智模型、决策启发式、表达DNA。Distill how anyone thinks."
+  },
+  {
+    "repo": "datawhalechina/hello-claw",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "哈喽！龙虾，首个体系化 openclaw 中文开源教程 ｜ Adopt from scratch and build your first claw 🦞 一起来零基础领养、构建你的第一只龙虾"
+  },
+  {
+    "repo": "ircfspace/teleMirror",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "A simple desktop client for viewing Telegram channels, specifically designed for complex filtering environments like Iran"
+  },
+  {
+    "repo": "aidenybai/element-source",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Get the source file location of any DOM element. Works with React, Vue, Svelte, Solid"
+  },
+  {
+    "repo": "Crestdrasnip/Claude-Zeroclaw",
     "branch": "main",
     "language": "TypeScript",
     "description": ""
   },
   {
-    "repo": "freestylefly/openclaw-wechat",
-    "branch": "master",
-    "language": "TypeScript",
-    "description": "让 OpenClaw稳定的连上你的个人微信"
-  },
-  {
-    "repo": "opengeos/GeoLibre",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Lightweight, cloud-native desktop GIS built with Tauri v2, React, TypeScript, and MapLibre GL JS."
-  },
-  {
-    "repo": "ExpondoEgirl/felca-reporter",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "Extensão Chrome/Edge que automatiza denúncias de conteúdo inadequado para menores no YouTube, conforme a Lei nº 15.211/2025 (Lei Felca / ECA Digital)"
-  },
-  {
-    "repo": "vitejs/vite",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Next generation frontend tooling. It's fast!"
-  },
-  {
-    "repo": "datawhalechina/Agent-Learning-Hub",
-    "branch": "main",
-    "language": "HTML",
-    "description": "AI Agent 学习路线与资料库收集"
-  },
-  {
-    "repo": "0Voice/Expert_Readed_Books",
-    "branch": "master",
-    "language": "Other",
-    "description": "2021年最新总结，推荐工程师合适读本，计算机科学，软件技术，创业，思想类，数学类，人物传记书籍"
-  },
-  {
-    "repo": "ultralytics/ultralytics",
-    "branch": "main",
-    "language": "Python",
-    "description": "Ultralytics YOLO 🚀"
-  },
-  {
-    "repo": "jackson-video-resources/markov-hedge-fund-method",
-    "branch": "main",
-    "language": "Python",
-    "description": "Markov regime detection skill + one-shot install prompt + Pine indicator. Companion to Quant Series video 1. Framework by Roan (@RohOnChain)."
-  },
-  {
-    "repo": "labuladong/fucking-algorithm",
-    "branch": "master",
-    "language": "Markdown",
-    "description": "刷算法全靠套路，认准 labuladong 就够了！English version supported! Crack LeetCode, not only how, but also why."
-  },
-  {
-    "repo": "shadcn-ui/ui",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "A set of beautifully-designed, accessible components and a code distribution platform. Works with your favorite frameworks. Open Source. Open Code."
-  },
-  {
-    "repo": "vmi-rs/ephemera",
-    "branch": "master",
-    "language": "Rust",
-    "description": "Multiplatform MEMORY.DMP analysis tool with a WinDbg flavor"
-  },
-  {
-    "repo": "nevertoday/zhongguo-traditional-colors",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "中华传统色演示、色卡浏览与颜色知识科普开源项目"
-  },
-  {
-    "repo": "paralives-free/Paralives-Money-Cheats",
-    "branch": "main",
-    "language": "C#",
-    "description": "paralives mod cheats money console commands money hack trainer steam  game download free steam pc paramaker unlimited money needs mod"
-  },
-  {
-    "repo": "d3/d3",
-    "branch": "main",
-    "language": "Shell",
-    "description": "Bring data to life with SVG, Canvas and HTML. :bar_chart::chart_with_upwards_trend::tada:"
-  },
-  {
-    "repo": "react-native-video/react-native-video",
-    "branch": "master",
-    "language": "Kotlin",
-    "description": "A <Video /> component for react-native"
-  },
-  {
-    "repo": "h4ckf0r0day/obscura",
-    "branch": "main",
-    "language": "Rust",
-    "description": "The headless browser for AI agents and web scraping"
-  },
-  {
-    "repo": "muxprotocol/solana-trading-bot",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Solana trading bot, an automated Solana sniping bot that trades newly-listed tokens on Raydium AMM v4 and pump.fun bonding curves. Listens to on-chain events in real time, applies configurable safety filters, buys with your chosen quote token (WSOL / USDC), and auto-sells on take-profit / stop-loss."
-  },
-  {
-    "repo": "vmware-tanzu/velero",
+    "repo": "xataio/xata",
     "branch": "main",
     "language": "Go",
-    "description": "Backup and migrate Kubernetes applications and their persistent volumes"
+    "description": "Open source, cloud native, Postgres platform with copy-on-write branching and scale-to-zero"
   },
   {
-    "repo": "scipy/scipy",
-    "branch": "main",
+    "repo": "jingyaogong/minimind-o",
+    "branch": "master",
     "language": "Python",
-    "description": "SciPy library main repository"
+    "description": "🎙️ 「大模型」从0训练0.1B能听能说能看的全模态Omni模型！A 0.1B Omni model trained from scratch, capable of listening, speaking, and seeing!"
+  },
+  {
+    "repo": "Michaelliv/pi-generative-ui",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Claude.ai's generative UI — reverse-engineered, rebuilt for pi. Interactive HTML/SVG widgets in native macOS windows."
+  },
+  {
+    "repo": "AERT-7Y/kiro-auto",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "kiro自动注册机"
+  },
+  {
+    "repo": "PHjont/Wallpaper-Engine-Live-wallpaper-engine",
+    "branch": "main",
+    "language": "C++",
+    "description": "Wallpaper Engine Steam: Live wallpaper engine. Features: 3D interactive scenes, audio visualizer, clock widgets. Android sync, mobile companion, playlist scheduler. Performance optimization, low CPU usage, LED hardware lighting, Razer Chroma, Corsair iCUE, Steam Workshop integration, SceneScript."
   }
 ]
