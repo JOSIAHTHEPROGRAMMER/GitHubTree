@@ -1,146 +1,146 @@
 [
   {
-    "repo": "kubernetes/kompose",
-    "branch": "master",
-    "language": "Go",
-    "description": "Convert Compose to Kubernetes"
-  },
-  {
-    "repo": "tqmane/gunshot",
-    "branch": "main",
-    "language": "Objective-C",
-    "description": "Google Photo tweak"
-  },
-  {
-    "repo": "first-fluke/oh-my-ag",
+    "repo": "solana-foundation/tokens",
     "branch": "main",
     "language": "TypeScript",
-    "description": "The Ultimate Multi-Agent Framework for Google Antigravity. Orchestrate 6 specialized agents via Serena Memory. Parallel CLI execution, real-time observability, and zero-config skills."
+    "description": "The source of truth for canonical assets on Solana."
   },
   {
-    "repo": "hubeiqiao/apple-bento-grid",
+    "repo": "uuidjs/uuid",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Generate RFC-compliant UUIDs in JavaScript"
+  },
+  {
+    "repo": "SamNet-dev/dnstm-setup",
+    "branch": "master",
+    "language": "Shell",
+    "description": "Interactive setup wizard for dnstm — automated DNS-based network configuration"
+  },
+  {
+    "repo": "wireshark/wireshark",
+    "branch": "master",
+    "language": "C",
+    "description": "Read-only mirror of Wireshark's Git repository at https://gitlab.com/wireshark/wireshark. ⚠️ GitHub won't let us disable pull requests. ⚠️ THEY WILL BE IGNORED HERE ⚠️ Upload them at GitLab instead."
+  },
+  {
+    "repo": "sgInnora/alipay-deeplink-research",
     "branch": "main",
     "language": "HTML",
-    "description": "Agent skill that generates Apple-inspired bento grid presentation cards. For Claude Code, Codex, and any AI coding agent."
+    "description": "Alipay DeepLink + JSBridge Security Research - 17 Verified Vulnerabilities | 支付宝DeepLink安全研究 | Full Report: innora.ai/zfb"
   },
   {
-    "repo": "LukeRenton/explore-claude-code",
+    "repo": "sandeco/reversa",
     "branch": "main",
     "language": "JavaScript",
-    "description": "Learn Claude Code by exploring it as it was designed - interactive IDE-style docs for commands, MCP, skills, CLAUDE.md and more."
+    "description": "Transform legacy systems into executable specifications for AI coding agents"
   },
   {
-    "repo": "Guid-Lab/kdecrypt",
-    "branch": "main",
-    "language": "C++",
-    "description": "PGP/GPG file encryption and decryption manager for KDE Plasma"
-  },
-  {
-    "repo": "steipete/discrawl",
-    "branch": "main",
-    "language": "Go",
-    "description": "cli for discord with sqlite backend"
-  },
-  {
-    "repo": "Binarylunanotice/blooket",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "blooket gui || blooket || blooket api"
-  },
-  {
-    "repo": "nathaniel329/polymarket-trading-bot",
-    "branch": "main",
-    "language": "Python",
-    "description": "polymarket trading bot"
-  },
-  {
-    "repo": "JudyaiLab/ai-night-shift",
-    "branch": "main",
-    "language": "Shell",
-    "description": "Multi-agent autonomous framework — let your AI work while you sleep 🌙"
-  },
-  {
-    "repo": "J2TEAM/vibe.j2team.org",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "Sẽ thế nào nếu cả nhóm J2TEAM Community vibe code cùng nhau?"
-  },
-  {
-    "repo": "nikmcfly/MiroFish-Offline",
-    "branch": "main",
-    "language": "Python",
-    "description": "Offline multi-agent simulation & prediction engine. English fork of MiroFish with Neo4j + Ollama local stack."
-  },
-  {
-    "repo": "AdrianNavaG/Polymarket-Arbitrage-Crypto-Trading-Bot",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot"
-  },
-  {
-    "repo": "android-bench/android-bench",
-    "branch": "main",
-    "language": "Python",
-    "description": "Android Bench is a framework for benchmarking Large Language Models (LLMs) on Android development tasks. It evaluates an AI model's ability to understand mobile codebases, generate accurate patches, and solve Android-specific engineering problems."
-  },
-  {
-    "repo": "alchaincyf/nuwa-skill",
-    "branch": "main",
-    "language": "Python",
-    "description": "你想蒸馏的下一个员工，何必是同事。蒸馏任何人的思维方式——心智模型、决策启发式、表达DNA。Distill how anyone thinks."
-  },
-  {
-    "repo": "datawhalechina/hello-claw",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "哈喽！龙虾，首个体系化 openclaw 中文开源教程 ｜ Adopt from scratch and build your first claw 🦞 一起来零基础领养、构建你的第一只龙虾"
-  },
-  {
-    "repo": "ircfspace/teleMirror",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "A simple desktop client for viewing Telegram channels, specifically designed for complex filtering environments like Iran"
-  },
-  {
-    "repo": "aidenybai/element-source",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Get the source file location of any DOM element. Works with React, Vue, Svelte, Solid"
-  },
-  {
-    "repo": "Crestdrasnip/Claude-Zeroclaw",
+    "repo": "dashersw/gea",
     "branch": "main",
     "language": "TypeScript",
     "description": ""
   },
   {
-    "repo": "xataio/xata",
+    "repo": "firecracker-microvm/firecracker",
+    "branch": "main",
+    "language": "Rust",
+    "description": "Secure and fast microVMs for serverless computing."
+  },
+  {
+    "repo": "SethGammon/Citadel",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "Agent orchestration harness for Claude Code. Four-tier routing (/do), campaign persistence across sessions, parallel agents in isolated worktrees, discovery relay between waves, lifecycle hooks, circuit breaker, and 6 production-quality skills. From solo developer to institutional scale."
+  },
+  {
+    "repo": "reduxjs/redux-toolkit",
+    "branch": "master",
+    "language": "TypeScript",
+    "description": "The official, opinionated, batteries-included toolset for efficient Redux development"
+  },
+  {
+    "repo": "mikaeldengale-cloud/Deepseek-v4-Pro-App",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "deepseek v4 flash pro chat  api  app windows 11 desktop client github open source ai assistant chatbot coding agent moe model 1.6t parameters free api setup guide reasoning max mode local deployment"
+  },
+  {
+    "repo": "google/mediapipe",
+    "branch": "master",
+    "language": "C++",
+    "description": "Cross-platform, customizable ML solutions for live and streaming media."
+  },
+  {
+    "repo": "web3-storage/web3.storage",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "DEPRECATED ⁂ The simple file storage service for IPFS & Filecoin"
+  },
+  {
+    "repo": "matrix-org/matrix-react-sdk",
+    "branch": "develop",
+    "language": "TypeScript",
+    "description": "Matrix SDK for React Javascript"
+  },
+  {
+    "repo": "etcd-io/etcd",
     "branch": "main",
     "language": "Go",
-    "description": "Open source, cloud native, Postgres platform with copy-on-write branching and scale-to-zero"
+    "description": "Distributed reliable key-value store for the most critical data of a distributed system"
   },
   {
-    "repo": "jingyaogong/minimind-o",
+    "repo": "SmartOrder-Systems/polymarket-copy-trading-bot",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "polymarket trading bot,polymarket copy trading bot,polymarket trading bot,polymarket copy trading bot,polymarket trading bot,polymarket copy trading bot,polymarket trading bot,polymarket copy trading bot,polymarket trading bot,polymarket copy trading bot,polymarket trading bot,polymarket copy trading bot,"
+  },
+  {
+    "repo": "run-liyi/wechatpay",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "微信账单分析工具 - 基于Electron的可视化账单分析应用"
+  },
+  {
+    "repo": "wallpapers-engine/Wallpaper-Engine",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "wallpaper engine pc  free download steam windows 11 workshop live wallpaper creator dynamic animated backgrounds custom themes 4k 8k interactive desktop"
+  },
+  {
+    "repo": "ChristosChristofidis/awesome-deep-learning",
     "branch": "master",
-    "language": "Python",
-    "description": "🎙️ 「大模型」从0训练0.1B能听能说能看的全模态Omni模型！A 0.1B Omni model trained from scratch, capable of listening, speaking, and seeing!"
+    "language": "Other",
+    "description": "A curated list of awesome Deep Learning tutorials, projects and communities."
   },
   {
-    "repo": "Michaelliv/pi-generative-ui",
+    "repo": "davebcn87/pi-autoresearch",
     "branch": "main",
     "language": "TypeScript",
-    "description": "Claude.ai's generative UI — reverse-engineered, rebuilt for pi. Interactive HTML/SVG widgets in native macOS windows."
+    "description": "Autonomous experiment loop extension for pi"
   },
   {
-    "repo": "AERT-7Y/kiro-auto",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "kiro自动注册机"
-  },
-  {
-    "repo": "PHjont/Wallpaper-Engine-Live-wallpaper-engine",
-    "branch": "main",
+    "repo": "Mrack/TInjector_Symbi",
+    "branch": "master",
     "language": "C++",
-    "description": "Wallpaper Engine Steam: Live wallpaper engine. Features: 3D interactive scenes, audio visualizer, clock widgets. Android sync, mobile companion, playlist scheduler. Performance optimization, low CPU usage, LED hardware lighting, Razer Chroma, Corsair iCUE, Steam Workshop integration, SceneScript."
+    "description": "更稳定的劫持Zygote在App启动前注入so"
+  },
+  {
+    "repo": "bytedance-deerflow/deer-flow-installer",
+    "branch": "main",
+    "language": "Python",
+    "description": "🦌 DeerFlow 2.0 installer - open-source SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skills and subagents, it handles different levels of tasks that could take minutes to hours."
+  },
+  {
+    "repo": "playframework/playframework",
+    "branch": "main",
+    "language": "Scala",
+    "description": "The Community Maintained High Velocity Web Framework For Java and Scala."
+  },
+  {
+    "repo": "ForecastForge/coinbase-trading-bot",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "coinbase trading bot, coinbase bot, AI/automated crypto trading, Coinbase Advanced Trade/Pro, spot and futures, grid DCA scalping arbitrage, copy and signal bots, strategy setup tutorial guide automation"
   }
 ]
