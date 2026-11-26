@@ -1,146 +1,146 @@
 [
   {
-    "repo": "TwoSevenOneT/InjectSetConsole",
-    "branch": "master",
-    "language": "C++",
-    "description": "Proof of Concept for Process Code Injection Without Using WriteProcessMemory"
-  },
-  {
-    "repo": "SkyBlue997/enableMacosAI",
-    "branch": "main",
-    "language": "Shell",
-    "description": "国行 Mac 一键开启完整 Apple 智能(端侧 + Private Cloud Compute 云端)· macOS 27 / Apple Silicon"
-  },
-  {
-    "repo": "programasweights/claudish",
-    "branch": "main",
-    "language": "Python",
-    "description": "Translate between English and Claudish with tiny ProgramAsWeights functions."
-  },
-  {
-    "repo": "CoscoAI/luxy-aisre",
-    "branch": "main",
-    "language": "Python",
-    "description": "AISRE for Cosco"
-  },
-  {
-    "repo": "Reyzowter/Hello-Agents",
-    "branch": "main",
-    "language": "Python",
-    "description": "🤖 Building AI Agent Systems from Scratch — A comprehensive, practical tutorial from fundamentals to production-grade multi-agent applications"
-  },
-  {
-    "repo": "valkor-ai/loom",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "An open delivery harness that turns Claude Code, Codex, OpenCode, and other coding agents into repeatable software delivery systems."
-  },
-  {
-    "repo": "pictaria-ai/pictaria-server",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "Self-hosted companion server for Pictaria Frame, powered by your Immich library."
-  },
-  {
-    "repo": "xoreaxeaxeax/asm-hall-of-shame",
-    "branch": "main",
-    "language": "C",
-    "description": "Racing to the bottom of CPU performance"
-  },
-  {
-    "repo": "NVIDIA-NeMo/labs-OO-Agents",
-    "branch": "main",
-    "language": "Python",
-    "description": "labs-OO-agents"
-  },
-  {
-    "repo": "Leadrogue/Wiflux",
-    "branch": "main",
-    "language": "Python",
-    "description": "Modern wireless security auditor with live Rich UI and smart attack orchestration"
-  },
-  {
-    "repo": "ActiveTK/VRAMDISK",
-    "branch": "main",
-    "language": "Rust",
-    "description": "VRAMDISK: Create VRAM disk on Windows"
-  },
-  {
-    "repo": "fzakaria/selfdb",
+    "repo": "v0id4real/Void-Tools",
     "branch": "main",
     "language": "Python",
     "description": ""
   },
   {
-    "repo": "loc567/loc567",
+    "repo": "ygwyg/MAHORAGA",
     "branch": "main",
-    "language": "C",
-    "description": "loc567 是一款完全开源免费的纯网页端iOS模拟定位工具。在线体验地址：https://loc567.com"
+    "language": "TypeScript",
+    "description": "autonomous trading agent powered by social sentiment analysis and ai that learns, grows, and adapts"
   },
   {
-    "repo": "Robbyant/lingbot-video",
+    "repo": "bitwarden/server",
     "branch": "master",
-    "language": "Python",
-    "description": "Scaling Mixture-of-Experts Video Pretraining for Embodied Intelligence"
+    "language": "C#",
+    "description": "Bitwarden infrastructure/backend (API, database, Docker, etc)."
   },
   {
-    "repo": "zhulin025/Codex-QQ-Skin",
+    "repo": "hantuzun/awesome-clojure",
+    "branch": "master",
+    "language": "Other",
+    "description": "A curated list of awesome Clojure libraries and resources. Inspired by awesome-... stuff"
+  },
+  {
+    "repo": "openperf/openclaw-cloud",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Give your AI Agent a cloud-native life. Deploy once, converse everywhere."
+  },
+  {
+    "repo": "ReactiveX/RxSwift",
+    "branch": "main",
+    "language": "Swift",
+    "description": "Reactive Programming in Swift"
+  },
+  {
+    "repo": "ogham/exa",
+    "branch": "master",
+    "language": "Rust",
+    "description": "A modern replacement for ‘ls’."
+  },
+  {
+    "repo": "ilsa99/microsoft-365-desktop",
     "branch": "main",
     "language": "JavaScript",
-    "description": "一款内置复古 QQ 风格外观的 Codex 皮肤生成器。"
+    "description": "Microsoft 365 2024 Standalone Desktop Setup with Pre-Configured Tools"
   },
   {
-    "repo": "paxlabs-inc/machine-genome",
-    "branch": "main",
+    "repo": "golangci/golangci-lint",
+    "branch": "master",
     "language": "Go",
-    "description": "Machine Genome is an open identity and provenance protocol for models, agents, harnesses, datasets, and the artifacts that connect them."
+    "description": "Fast linters runner for Go"
   },
   {
-    "repo": "change-42-yhmm/quota-float",
+    "repo": "istio/istio",
+    "branch": "master",
+    "language": "Go",
+    "description": "Connect, secure, control, and observe services."
+  },
+  {
+    "repo": "microsoft/semantic-kernel",
     "branch": "main",
-    "language": "TypeScript",
-    "description": "A plug-in for easy viewing of credit limits"
+    "language": "C#",
+    "description": "Integrate cutting-edge LLM technology quickly and easily into your apps"
   },
   {
-    "repo": "hasoftware/WinTrash",
-    "branch": "main",
-    "language": "PowerShell",
-    "description": "All-in-one PowerShell toolkit that scans 16 types of Windows app leftovers (dead PATH entries, orphan folders, ghost services, broken registry, startup junk...) and cleans them interactively with per-item backups. UI in Vietnamese, English, Chinese, Russian."
+    "repo": "shadowsocks/shadowsocks-windows",
+    "branch": "master",
+    "language": "C#",
+    "description": "A C# port of shadowsocks"
   },
   {
-    "repo": "joeseesun/qiaomu-cut-skill",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "乔木智能视频导演 Skill：素材治理、双语字幕、品牌包装与可复现渲染 | Agent-native video director with governed sourcing and verifiable rendering"
+    "repo": "home-assistant/core",
+    "branch": "dev",
+    "language": "Python",
+    "description": ":house_with_garden: Open source home automation that puts local control and privacy first."
   },
   {
-    "repo": "ryancameron555/DBD-AutoGrind-Trainer-2026",
+    "repo": "statsmodels/statsmodels",
     "branch": "main",
     "language": "Python",
-    "description": "Ultimate Dead by Daylight auto-grind trainer with Bloodpoint bot, ESP wallhack, aimbot, and full perk/skin unlocker. Dominate the Fog with our 2026 undetected external tool."
+    "description": "Statsmodels: statistical modeling and econometrics in Python"
   },
   {
-    "repo": "newideas99/open-dungeon",
+    "repo": "Lightricks/LTX-Desktop",
     "branch": "main",
     "language": "TypeScript",
-    "description": "Open Dungeon — the first easy-to-use, fully local AI roleplay app. Story and inline scene images generated 100% on your machine (Gemma 4 QAT via Ollama(and others) + FLUX). No accounts, no API keys, no cloud."
+    "description": "An open-source desktop app for generating videos with LTX models"
   },
   {
-    "repo": "inkboard/system-atlas",
+    "repo": "alacritty/alacritty",
+    "branch": "master",
+    "language": "Rust",
+    "description": "A cross-platform, OpenGL terminal emulator."
+  },
+  {
+    "repo": "theforeveriris/simulated-12306-view",
     "branch": "main",
     "language": "HTML",
-    "description": "An agent skill that turns an architecture discussion into an explorable isometric atlas: one data file, an interactive map and a generated SYSTEM.md"
+    "description": "简易的12306购票模拟器.用于应急应付对方请求看购票截图的无理要求"
   },
   {
-    "repo": "zhengzihaoPKU/KERV",
+    "repo": "yearn/yearn-finance",
+    "branch": "master",
+    "language": "JavaScript",
+    "description": "🏦 yearn v2 web interface"
+  },
+  {
+    "repo": "MeisnerDan/mission-control",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Open-source task management for the agentic era. The command center for solo entrepreneurs who delegate work to AI agents."
+  },
+  {
+    "repo": "tendermint/tendermint",
+    "branch": "main",
+    "language": "Go",
+    "description": "⟁ Tendermint Core (BFT Consensus) in Go"
+  },
+  {
+    "repo": "Robbyant/lingbot-depth",
+    "branch": "main",
+    "language": "Python",
+    "description": ""
+  },
+  {
+    "repo": "missing-semester/missing-semester",
+    "branch": "master",
+    "language": "CSS",
+    "description": "The Missing Semester of Your CS Education 📚"
+  },
+  {
+    "repo": "edgedb/edgedb",
     "branch": "master",
     "language": "Python",
-    "description": "Code of paper KERV: Kinematic-Rectified Speculative Decoding for Embodied VLA Models accepted by DAC 2026."
+    "description": "Gel supercharges Postgres with a modern data model, graph queries, Auth & AI solutions, and much more."
   },
   {
-    "repo": "Playa-0v0/Cyrene-Agent",
+    "repo": "Alamofire/Alamofire",
     "branch": "master",
-    "language": "TypeScript",
-    "description": "Live2D 桌面Agent (Electron + TS) — Cyrene from Honkai: Star Rail. Chat, emotional interaction, personalized memory."
+    "language": "Swift",
+    "description": "Elegant HTTP Networking in Swift"
   }
 ]

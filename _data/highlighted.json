@@ -1,8 +1,8 @@
 {
-  "repo": "abj-a11y/landr-plugin-bundle",
+  "repo": "LooperSalty/AnyXboxX",
   "branch": "main",
-  "language": "HTML",
-  "description": "Landr Plugin Bundle: Complete Config, Opinionated and",
-  "stars": 336,
-  "forks": 0
+  "language": "Python",
+  "description": "AnyXboxX — prototype d'émulateur Xbox Series X (HLE du GDK sur Unicorn)",
+  "stars": 388,
+  "forks": 62
 }
