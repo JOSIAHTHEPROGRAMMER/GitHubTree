@@ -1,8 +1,8 @@
 {
-  "repo": "LooperSalty/AnyXboxX",
+  "repo": "lsernau/grh-lean",
   "branch": "main",
-  "language": "Python",
-  "description": "AnyXboxX — prototype d'émulateur Xbox Series X (HLE du GDK sur Unicorn)",
-  "stars": 388,
-  "forks": 62
+  "language": "Lean",
+  "description": "A short Lean 4 proof of the Generalized Riemann Hypothesis",
+  "stars": 855,
+  "forks": 92
 }

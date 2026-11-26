@@ -1,146 +1,146 @@
 [
   {
-    "repo": "v0id4real/Void-Tools",
+    "repo": "qhkm/zeptoclaw",
+    "branch": "main",
+    "language": "Rust",
+    "description": "Final form of claw family (Wannabe)"
+  },
+  {
+    "repo": "ebmeivktlmmj/autotyping-script",
+    "branch": "main",
+    "language": "Python",
+    "description": "Autotyping tool that types text on a timer with adjustable WPM, custom hotkeys, and anti-AFK keystroke runs for games and chat apps."
+  },
+  {
+    "repo": "tddworks/baguette",
+    "branch": "main",
+    "language": "Swift",
+    "description": "Headless iOS Simulator manager/farm + host-side input injection for iOS 26 — taps, swipes, multi-finger gestures, and 60 fps streaming"
+  },
+  {
+    "repo": "vansh-nagar/ascii-studio",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Turn Videos into ASCII Frames - real ascii frames (character-based frames that run smoothly in sequence)"
+  },
+  {
+    "repo": "Lazarus-AI/clearwing",
     "branch": "main",
     "language": "Python",
     "description": ""
   },
   {
-    "repo": "ygwyg/MAHORAGA",
+    "repo": "roger2ai/Claude-Code-Compiled",
     "branch": "main",
     "language": "TypeScript",
-    "description": "autonomous trading agent powered by social sentiment analysis and ai that learns, grows, and adapts"
+    "description": "Compiled version of Leaked Claude Code"
   },
   {
-    "repo": "bitwarden/server",
-    "branch": "master",
-    "language": "C#",
-    "description": "Bitwarden infrastructure/backend (API, database, Docker, etc)."
-  },
-  {
-    "repo": "hantuzun/awesome-clojure",
-    "branch": "master",
-    "language": "Other",
-    "description": "A curated list of awesome Clojure libraries and resources. Inspired by awesome-... stuff"
-  },
-  {
-    "repo": "openperf/openclaw-cloud",
+    "repo": "zhu1090093659/spec_driven_develop",
     "branch": "main",
-    "language": "TypeScript",
-    "description": "Give your AI Agent a cloud-native life. Deploy once, converse everywhere."
+    "language": "Shell",
+    "description": "Cross-platform AI agent skill for spec-driven development: analyze codebases, decompose large  transformations, and track long-running work."
   },
   {
-    "repo": "ReactiveX/RxSwift",
-    "branch": "main",
-    "language": "Swift",
-    "description": "Reactive Programming in Swift"
-  },
-  {
-    "repo": "ogham/exa",
+    "repo": "Nahuel990/ministack",
     "branch": "master",
-    "language": "Rust",
-    "description": "A modern replacement for ‘ls’."
-  },
-  {
-    "repo": "ilsa99/microsoft-365-desktop",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "Microsoft 365 2024 Standalone Desktop Setup with Pre-Configured Tools"
-  },
-  {
-    "repo": "golangci/golangci-lint",
-    "branch": "master",
-    "language": "Go",
-    "description": "Fast linters runner for Go"
-  },
-  {
-    "repo": "istio/istio",
-    "branch": "master",
-    "language": "Go",
-    "description": "Connect, secure, control, and observe services."
-  },
-  {
-    "repo": "microsoft/semantic-kernel",
-    "branch": "main",
-    "language": "C#",
-    "description": "Integrate cutting-edge LLM technology quickly and easily into your apps"
-  },
-  {
-    "repo": "shadowsocks/shadowsocks-windows",
-    "branch": "master",
-    "language": "C#",
-    "description": "A C# port of shadowsocks"
-  },
-  {
-    "repo": "home-assistant/core",
-    "branch": "dev",
     "language": "Python",
-    "description": ":house_with_garden: Open source home automation that puts local control and privacy first."
+    "description": "Ministack: the free LocalStack replacement"
   },
   {
-    "repo": "statsmodels/statsmodels",
-    "branch": "main",
-    "language": "Python",
-    "description": "Statsmodels: statistical modeling and econometrics in Python"
-  },
-  {
-    "repo": "Lightricks/LTX-Desktop",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "An open-source desktop app for generating videos with LTX models"
-  },
-  {
-    "repo": "alacritty/alacritty",
-    "branch": "master",
-    "language": "Rust",
-    "description": "A cross-platform, OpenGL terminal emulator."
-  },
-  {
-    "repo": "theforeveriris/simulated-12306-view",
-    "branch": "main",
-    "language": "HTML",
-    "description": "简易的12306购票模拟器.用于应急应付对方请求看购票截图的无理要求"
-  },
-  {
-    "repo": "yearn/yearn-finance",
-    "branch": "master",
-    "language": "JavaScript",
-    "description": "🏦 yearn v2 web interface"
-  },
-  {
-    "repo": "MeisnerDan/mission-control",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Open-source task management for the agentic era. The command center for solo entrepreneurs who delegate work to AI agents."
-  },
-  {
-    "repo": "tendermint/tendermint",
-    "branch": "main",
-    "language": "Go",
-    "description": "⟁ Tendermint Core (BFT Consensus) in Go"
-  },
-  {
-    "repo": "Robbyant/lingbot-depth",
+    "repo": "761696148/Game-Map-Tracker",
     "branch": "main",
     "language": "Python",
     "description": ""
   },
   {
-    "repo": "missing-semester/missing-semester",
-    "branch": "master",
-    "language": "CSS",
-    "description": "The Missing Semester of Your CS Education 📚"
+    "repo": "muxprotocol/solana-trading-bot",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Solana trading bot, an automated Solana sniping bot that trades newly-listed tokens on Raydium AMM v4 and pump.fun bonding curves. Listens to on-chain events in real time, applies configurable safety filters, buys with your chosen quote token (WSOL / USDC), and auto-sells on take-profit / stop-loss."
   },
   {
-    "repo": "edgedb/edgedb",
-    "branch": "master",
+    "repo": "MarchLiu/hypatia",
+    "branch": "main",
+    "language": "Rust",
+    "description": "We can wander through the stacks of the Library of Alexandria, imagining the scrolls and the knowledge they contain. Its destruction is a warning: all we have is transient.”--Alberto Manguel"
+  },
+  {
+    "repo": "danveloper/flash-moe",
+    "branch": "main",
+    "language": "Objective-C",
+    "description": "Running a big model on a small laptop"
+  },
+  {
+    "repo": "F-R-L/forge-film",
+    "branch": "main",
     "language": "Python",
-    "description": "Gel supercharges Postgres with a modern data model, graph queries, Auth & AI solutions, and much more."
+    "description": "Multi-model DAG-driven parallel AI film generation — parallel speedup scales with scene independence; Generate film scenes simultaneously instead of one by one;  把影视生成的执行图从拓扑序变成关键路径最优调度 ; 唯一把场景叙事依赖建模为 DAG、以 CPM    算法驱动并行调度的影视生成引擎"
   },
   {
-    "repo": "Alamofire/Alamofire",
-    "branch": "master",
+    "repo": "432539/gpt2api",
+    "branch": "main",
+    "language": "Go",
+    "description": "基于 chatgpt.com 逆向的 OpenAI 兼容 SaaS 网关 · IMG2 灰度 · 批量出图 · 多账号池 · 高并发调度 · 积分计费 · 技术交流QQ 群 382446"
+  },
+  {
+    "repo": "oaker-io/wewrite",
+    "branch": "main",
+    "language": "Python",
+    "description": "公众号文章全流程 AI Skill for Claude Code — 热点抓取 → 选题 → 写作 → SEO → 视觉AI → 排版 → 微信草稿箱"
+  },
+  {
+    "repo": "dodo-reach/hermes-desktop",
+    "branch": "main",
     "language": "Swift",
-    "description": "Elegant HTTP Networking in Swift"
+    "description": "A native Mac workspace for Hermes: real SSH, real terminal, real session data."
+  },
+  {
+    "repo": "injaneity/pi-computer-use",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "control your applications using pi-coding-agent. fully invisible."
+  },
+  {
+    "repo": "dnakov/kittyfarm",
+    "branch": "main",
+    "language": "Swift",
+    "description": ""
+  },
+  {
+    "repo": "lxf746/any-auto-register",
+    "branch": "main",
+    "language": "Python",
+    "description": ""
+  },
+  {
+    "repo": "techjarves/USB-Uncensored-LLM",
+    "branch": "main",
+    "language": "Shell",
+    "description": "The ultimate zero-install, portable local AI environment. Run high-quality, uncensored LLMs (Gemma, Qwen, NemoMix) directly from any USB drive or SSD. Fully air-gapped, cross-platform (Win/Mac/Linux), and privacy-first with persistent chat history."
+  },
+  {
+    "repo": "adamlyttleapps/notchy",
+    "branch": "main",
+    "language": "Swift",
+    "description": ""
+  },
+  {
+    "repo": "Ar9av/obsidian-wiki",
+    "branch": "main",
+    "language": "Python",
+    "description": "Framework for AI agents to build and maintain an Obsidian wiki using Karpathy's LLM Wiki pattern"
+  },
+  {
+    "repo": "larksuite/cli",
+    "branch": "main",
+    "language": "Go",
+    "description": "A command-line tool for Lark/Feishu Open Platform — built for humans and AI Agents. Covers core business domains including Messenger, Docs, Base, Sheets, Calendar, Mail, Tasks, Meetings, and more, with 200+ commands and 19 AI Agent Skills."
+  },
+  {
+    "repo": "incursi0n/GodPotatoBOF",
+    "branch": "main",
+    "language": "C",
+    "description": "Cobalt Strike BOF used to perform privilege escalation by exploiting the SeImpersonate privilege. Based on the original GodPotato PoC by BeichenDream."
   }
 ]
