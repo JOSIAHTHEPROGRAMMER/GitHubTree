@@ -1,27 +1,129 @@
 [
   {
-    "repo": "Endokelp/Endoplexity",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Agentic browser control driven by your own Claude / Cursor subscriptions"
-  },
-  {
-    "repo": "griffinmartin/opencode-claude-auth",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "OpenCode plugin that uses your existing Claude Code credentials — no separate login needed"
-  },
-  {
-    "repo": "martinez88668/MasterCryptoFarmBot",
+    "repo": "QihanZhao/cc-prune",
     "branch": "main",
     "language": "Python",
-    "description": "MasterCryptoFarmBot CLI — Universal crypto farming bot manager with multi-bot orchestration, automated Telegram mini-app farming, session management, proxy support, scheduling system, Rich terminal dashboard, and one-click deployment for airdrop and DeFi yield farming"
+    "description": ""
   },
   {
-    "repo": "sigp/lighthouse",
-    "branch": "stable",
-    "language": "Rust",
-    "description": "Ethereum consensus client in Rust"
+    "repo": "daniel3303/ClaudeCodeStatusLine",
+    "branch": "main",
+    "language": "Shell",
+    "description": ""
+  },
+  {
+    "repo": "bitwarden/clients",
+    "branch": "master",
+    "language": "TypeScript",
+    "description": "Bitwarden client apps (web, browser extension, desktop, and cli)."
+  },
+  {
+    "repo": "ythx-101/ask-search",
+    "branch": "master",
+    "language": "Python",
+    "description": "Self-hosted web search skill for AI agents (OpenClaw/Claude Code/Antigravity) via SearxNG"
+  },
+  {
+    "repo": "val1813/kwcode",
+    "branch": "master",
+    "language": "Python",
+    "description": "一个能持续增强本地开源模型的cli，专门为本地部署模型优化的coding窗口。目前仍然处于mvp未能大规模测试和端到端跑通，欢迎指正🙏🏻🙏🏻🙏🏻"
+  },
+  {
+    "repo": "lightseekorg/tokenspeed",
+    "branch": "main",
+    "language": "Python",
+    "description": "TokenSpeed is a speed-of-light LLM inference engine."
+  },
+  {
+    "repo": "ml-explore/mlx",
+    "branch": "main",
+    "language": "C++",
+    "description": "MLX: An array framework for Apple silicon"
+  },
+  {
+    "repo": "NVIDIA/cudnn-frontend",
+    "branch": "main",
+    "language": "C++",
+    "description": "cudnn_frontend provides a c++ wrapper for the cudnn backend API and samples on how to use it"
+  },
+  {
+    "repo": "aws/aws-cli",
+    "branch": "v2",
+    "language": "Python",
+    "description": "Universal Command Line Interface for Amazon Web Services"
+  },
+  {
+    "repo": "laramint/laravel-brain",
+    "branch": "main",
+    "language": "PHP",
+    "description": "Visualize your Laravel request lifecycle as an interactive graph"
+  },
+  {
+    "repo": "electron-userland/electron-builder",
+    "branch": "master",
+    "language": "TypeScript",
+    "description": "A complete solution to package and build a ready for distribution Electron app with “auto update” support out of the box"
+  },
+  {
+    "repo": "UniRound-Tec/Aurogen",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Aurogen🍊: The Multi-Agent Evolution of OpenClaw."
+  },
+  {
+    "repo": "AdeleZhu/teacher-skill",
+    "branch": "main",
+    "language": "Python",
+    "description": "蒸馏你的老师 —— 把老师的教学方式、性格特点和学科知识提取成 AI 技能文件，让 AI 像你的老师一样给你讲题。Inspired by colleague-skill（同事skill）。"
+  },
+  {
+    "repo": "jimuzhe/tiez-clipboard",
+    "branch": "master",
+    "language": "TypeScript",
+    "description": "TieZ 是一款基于 Tauri 的跨平台剪贴板管理器 / A cross-platform clipboard manager with history, tags, sync, privacy protection, and fast daily workflows."
+  },
+  {
+    "repo": "homebridge/homebridge",
+    "branch": "latest",
+    "language": "TypeScript",
+    "description": "HomeKit support for the impatient."
+  },
+  {
+    "repo": "facebook/jest",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Delightful JavaScript Testing."
+  },
+  {
+    "repo": "6551Team/claude-code-design-guide",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": ""
+  },
+  {
+    "repo": "zengwenliang416/ppt-agent",
+    "branch": "main",
+    "language": "HTML",
+    "description": ""
+  },
+  {
+    "repo": "PIPIKAI/auto-painter-win",
+    "branch": "main",
+    "language": "Python",
+    "description": "Supports multiple sketch styles and automated mouse-controlled painting."
+  },
+  {
+    "repo": "andreisss/KslDump",
+    "branch": "main",
+    "language": "Python",
+    "description": "KslDump — Why bring your own knife when Defender already left one in the kitchen?"
+  },
+  {
+    "repo": "nltk/nltk",
+    "branch": "develop",
+    "language": "Python",
+    "description": "NLTK Source"
   },
   {
     "repo": "apple/swift-log",
@@ -30,117 +132,15 @@
     "description": "A Logging API for Swift"
   },
   {
-    "repo": "LichAmnesia/lich-skills",
+    "repo": "bentoml/BentoML",
     "branch": "main",
     "language": "Python",
-    "description": ""
+    "description": "The easiest way to serve AI apps and models - Build Model Inference APIs, Job queues, LLM apps, Multi-model pipelines, and more!"
   },
   {
-    "repo": "actix/actix-web",
-    "branch": "master",
-    "language": "Rust",
-    "description": "Actix Web is a powerful, pragmatic, and extremely fast web framework for Rust."
-  },
-  {
-    "repo": "Tencent/tdesign-react",
+    "repo": "open-telemetry/opentelemetry-js",
     "branch": "main",
     "language": "TypeScript",
-    "description": "A React UI components lib for TDesign."
-  },
-  {
-    "repo": "collaborator-ai/collab-public",
-    "branch": "main",
-    "language": "Shell",
-    "description": "Collaborator is a place to build with agents."
-  },
-  {
-    "repo": "Abnerla/AI_paper",
-    "branch": "main",
-    "language": "Python",
-    "description": "一站式AI学术写作辅助工具 · 支持降AIGC、查重率、润色、智能纠错等功能"
-  },
-  {
-    "repo": "michelleoincx/zeroclaw-grok",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "ZeroClaw — sleek web interface for Grok AI (xAI). Streaming responses, multi-session chat, model selector. Zero npm dependencies. Runs with one command."
-  },
-  {
-    "repo": "cksac/turboquant-model",
-    "branch": "main",
-    "language": "Python",
-    "description": ""
-  },
-  {
-    "repo": "wandb/wandb",
-    "branch": "main",
-    "language": "Python",
-    "description": "The AI developer platform. Use Weights & Biases to train and fine-tune models, and manage models from experimentation to production."
-  },
-  {
-    "repo": "pasky/chrome-cdp-skill",
-    "branch": "main",
-    "language": "JavaScript",
-    "description": "Give your AI agent access to your live Chrome session — works out of the box, connects to tabs you already have open"
-  },
-  {
-    "repo": "liuluhaixiu/DaVinci-AutoEdit-Agent",
-    "branch": "main",
-    "language": "Python",
-    "description": "AI自动剪辑的“第一次接触”，一款基于davinci mcp的全自动自媒体视频剪辑skill"
-  },
-  {
-    "repo": "material-components/material-components-android",
-    "branch": "master",
-    "language": "Java",
-    "description": "Modular and customizable Material Design UI components for Android"
-  },
-  {
-    "repo": "RightNow-AI/autokernel",
-    "branch": "main",
-    "language": "Python",
-    "description": "Autoresearch for GPU kernels. Give it any PyTorch model, go to sleep, wake up to optimized Triton kernels."
-  },
-  {
-    "repo": "saltstack/salt",
-    "branch": "master",
-    "language": "Python",
-    "description": "Software to automate the management and configuration of infrastructure and applications at scale."
-  },
-  {
-    "repo": "papers-we-love/papers-we-love",
-    "branch": "master",
-    "language": "Shell",
-    "description": "Papers from the computer science community to read and discuss."
-  },
-  {
-    "repo": "ultralytics/yolov5",
-    "branch": "master",
-    "language": "Python",
-    "description": "YOLOv5 🚀 in PyTorch > ONNX > CoreML > TFLite"
-  },
-  {
-    "repo": "xevrion-v2/agent-playground",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": ""
-  },
-  {
-    "repo": "tritano/ultraviewer",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Teamviewer UltraViewer download free PC windows 11, portable zip, latest version 6.6, getting my ID stuck fix. Port 2112 firewall block, teamviewer commercial use detected bypass, anydesk alternative. Black screen on connection solution, run with windows administrator, change password, file transfer slow."
-  },
-  {
-    "repo": "OpenBMB/PilotDeck",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Task-oriented AI Agent productivity platform"
-  },
-  {
-    "repo": "Wechat-ggGitHub/wechat-claude-code",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Chat with Claude Code from WeChat - a Claude Code Skill"
+    "description": "OpenTelemetry JavaScript Client"
   }
 ]
