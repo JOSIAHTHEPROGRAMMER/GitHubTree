@@ -1,146 +1,146 @@
 [
   {
-    "repo": "QihanZhao/cc-prune",
-    "branch": "main",
-    "language": "Python",
-    "description": ""
-  },
-  {
-    "repo": "daniel3303/ClaudeCodeStatusLine",
-    "branch": "main",
-    "language": "Shell",
-    "description": ""
-  },
-  {
-    "repo": "bitwarden/clients",
-    "branch": "master",
-    "language": "TypeScript",
-    "description": "Bitwarden client apps (web, browser extension, desktop, and cli)."
-  },
-  {
-    "repo": "ythx-101/ask-search",
+    "repo": "ShandaAI/AlayaRenderer",
     "branch": "master",
     "language": "Python",
-    "description": "Self-hosted web search skill for AI agents (OpenClaw/Claude Code/Antigravity) via SearxNG"
+    "description": "Generative World Renderer"
   },
   {
-    "repo": "val1813/kwcode",
-    "branch": "master",
-    "language": "Python",
-    "description": "一个能持续增强本地开源模型的cli，专门为本地部署模型优化的coding窗口。目前仍然处于mvp未能大规模测试和端到端跑通，欢迎指正🙏🏻🙏🏻🙏🏻"
-  },
-  {
-    "repo": "lightseekorg/tokenspeed",
-    "branch": "main",
-    "language": "Python",
-    "description": "TokenSpeed is a speed-of-light LLM inference engine."
-  },
-  {
-    "repo": "ml-explore/mlx",
-    "branch": "main",
-    "language": "C++",
-    "description": "MLX: An array framework for Apple silicon"
-  },
-  {
-    "repo": "NVIDIA/cudnn-frontend",
-    "branch": "main",
-    "language": "C++",
-    "description": "cudnn_frontend provides a c++ wrapper for the cudnn backend API and samples on how to use it"
-  },
-  {
-    "repo": "aws/aws-cli",
-    "branch": "v2",
-    "language": "Python",
-    "description": "Universal Command Line Interface for Amazon Web Services"
-  },
-  {
-    "repo": "laramint/laravel-brain",
-    "branch": "main",
-    "language": "PHP",
-    "description": "Visualize your Laravel request lifecycle as an interactive graph"
-  },
-  {
-    "repo": "electron-userland/electron-builder",
-    "branch": "master",
-    "language": "TypeScript",
-    "description": "A complete solution to package and build a ready for distribution Electron app with “auto update” support out of the box"
-  },
-  {
-    "repo": "UniRound-Tec/Aurogen",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Aurogen🍊: The Multi-Agent Evolution of OpenClaw."
-  },
-  {
-    "repo": "AdeleZhu/teacher-skill",
-    "branch": "main",
-    "language": "Python",
-    "description": "蒸馏你的老师 —— 把老师的教学方式、性格特点和学科知识提取成 AI 技能文件，让 AI 像你的老师一样给你讲题。Inspired by colleague-skill（同事skill）。"
-  },
-  {
-    "repo": "jimuzhe/tiez-clipboard",
-    "branch": "master",
-    "language": "TypeScript",
-    "description": "TieZ 是一款基于 Tauri 的跨平台剪贴板管理器 / A cross-platform clipboard manager with history, tags, sync, privacy protection, and fast daily workflows."
-  },
-  {
-    "repo": "homebridge/homebridge",
-    "branch": "latest",
-    "language": "TypeScript",
-    "description": "HomeKit support for the impatient."
-  },
-  {
-    "repo": "facebook/jest",
-    "branch": "main",
-    "language": "TypeScript",
-    "description": "Delightful JavaScript Testing."
-  },
-  {
-    "repo": "6551Team/claude-code-design-guide",
+    "repo": "adtexterry-lgtm/unigit-ecosystem",
     "branch": "main",
     "language": "JavaScript",
-    "description": ""
+    "description": "UNIGIT public brand and ecosystem hub — AI should work for everyone."
   },
   {
-    "repo": "zengwenliang416/ppt-agent",
-    "branch": "main",
-    "language": "HTML",
-    "description": ""
-  },
-  {
-    "repo": "PIPIKAI/auto-painter-win",
-    "branch": "main",
-    "language": "Python",
-    "description": "Supports multiple sketch styles and automated mouse-controlled painting."
-  },
-  {
-    "repo": "andreisss/KslDump",
-    "branch": "main",
-    "language": "Python",
-    "description": "KslDump — Why bring your own knife when Defender already left one in the kitchen?"
-  },
-  {
-    "repo": "nltk/nltk",
-    "branch": "develop",
-    "language": "Python",
-    "description": "NLTK Source"
-  },
-  {
-    "repo": "apple/swift-log",
-    "branch": "main",
-    "language": "Swift",
-    "description": "A Logging API for Swift"
-  },
-  {
-    "repo": "bentoml/BentoML",
-    "branch": "main",
-    "language": "Python",
-    "description": "The easiest way to serve AI apps and models - Build Model Inference APIs, Job queues, LLM apps, Multi-model pipelines, and more!"
-  },
-  {
-    "repo": "open-telemetry/opentelemetry-js",
+    "repo": "nicepkg/ctxport",
     "branch": "main",
     "language": "TypeScript",
-    "description": "OpenTelemetry JavaScript Client"
+    "description": "Copy AI conversations as clean Markdown Context Bundles — one click from ChatGPT, Claude, Gemini, DeepSeek, Grok & GitHub. Copy from sidebar without opening. Zero upload, 100% local, open source."
+  },
+  {
+    "repo": "mrdoob/three-quake",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "A port of Quake (1996) to Three.js."
+  },
+  {
+    "repo": "paritytech/substrate",
+    "branch": "master",
+    "language": "Rust",
+    "description": "Substrate: The platform for blockchain innovators"
+  },
+  {
+    "repo": "confluentinc/kafka-rest",
+    "branch": "master",
+    "language": "Java",
+    "description": "Confluent REST Proxy for Kafka"
+  },
+  {
+    "repo": "TeamStuQ/skill-map",
+    "branch": "master",
+    "language": "HTML",
+    "description": "程序员技能图谱"
+  },
+  {
+    "repo": "iluwatar/java-design-patterns",
+    "branch": "master",
+    "language": "Java",
+    "description": "Design patterns implemented in Java"
+  },
+  {
+    "repo": "derailed/k9s",
+    "branch": "master",
+    "language": "Go",
+    "description": "🐶 Kubernetes CLI To Manage Your Clusters In Style!"
+  },
+  {
+    "repo": "select2/select2",
+    "branch": "develop",
+    "language": "JavaScript",
+    "description": "Select2 is a jQuery based replacement for select boxes. It supports searching, remote data sets, and infinite scrolling of results."
+  },
+  {
+    "repo": "thesSmartApe/polymarket-copy-trading-bot-rust",
+    "branch": "main",
+    "language": "Rust",
+    "description": "polymarket rust copy trading bot polymarket copy trading bot polymarket copy trading bot polymarket copy trading bot polymarket copy trading bot polymarket copy trading bot polymarket copy trading bot polymarket copy trading bot polymarket copy trading bot polymarket copy trading bot"
+  },
+  {
+    "repo": "firecracker-microvm/firecracker",
+    "branch": "main",
+    "language": "Rust",
+    "description": "Secure and fast microVMs for serverless computing."
+  },
+  {
+    "repo": "deepmind/alphafold",
+    "branch": "main",
+    "language": "Python",
+    "description": "Open source code for AlphaFold 2."
+  },
+  {
+    "repo": "boto/boto3",
+    "branch": "develop",
+    "language": "Python",
+    "description": "Boto3, an AWS SDK for Python"
+  },
+  {
+    "repo": "golang/protobuf",
+    "branch": "master",
+    "language": "Go",
+    "description": "Go support for Google's protocol buffers"
+  },
+  {
+    "repo": "formik/formik",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "Build forms in React, without the tears 😭"
+  },
+  {
+    "repo": "vikingmute/better-wechatpay",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "现代化的微信支付 Node.js SDK - ESM、TypeScript、全支付方式支持"
+  },
+  {
+    "repo": "Pylons/pyramid",
+    "branch": "master",
+    "language": "Python",
+    "description": "Pyramid - A Python web framework"
+  },
+  {
+    "repo": "PaddlePaddle/PaddleNLP",
+    "branch": "develop",
+    "language": "Python",
+    "description": "Easy-to-use and powerful LLM and SLM library with awesome model zoo."
+  },
+  {
+    "repo": "QwenLM/Qwen3-TTS",
+    "branch": "main",
+    "language": "Python",
+    "description": "Qwen3-TTS is an open-source series of TTS models developed by the Qwen team at Alibaba Cloud, supporting stable, expressive, and streaming speech generation, free-form voice design, and vivid voice cloning."
+  },
+  {
+    "repo": "op7418/CodePilot",
+    "branch": "main",
+    "language": "TypeScript",
+    "description": "A native desktop GUI for Claude Code — chat, code, and manage projects visually. Built with Electron + Next.js."
+  },
+  {
+    "repo": "phpmyadmin/phpmyadmin",
+    "branch": "master",
+    "language": "PHP",
+    "description": "A web interface for MySQL and MariaDB"
+  },
+  {
+    "repo": "koodo-reader/koodo-reader",
+    "branch": "master",
+    "language": "JavaScript",
+    "description": "A modern ebook manager and reader with sync and backup capacities for Windows, macOS, Linux, Android, iOS and Web"
+  },
+  {
+    "repo": "accius/openhamclock",
+    "branch": "main",
+    "language": "JavaScript",
+    "description": "The original HamClock will cease to function in June 2026. OpenHamClock aims to carry on Elwood's legacy with a modern, open-source implementation that the community can maintain and improve together."
   }
 ]

@@ -1,8 +1,8 @@
 {
-  "repo": "gary23w/f-ck_data_brokers",
+  "repo": "Yuri4423/kick-a-lucky-block-roblox-script",
   "branch": "main",
-  "language": "Python",
-  "description": "fck_data_brokers.py is a free, open-source Python script that sends opt-out and deletion requests to data brokers on your behalf.",
-  "stars": 556,
-  "forks": 30
+  "language": "Go",
+  "description": "Kick a Lucky Block Script — Kick a Lucky Block Roblox Script & Auto Farm GUI",
+  "stars": 223,
+  "forks": 6
 }
